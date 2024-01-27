@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.iron_axe
+1: Renthedog: 31
+2: GoodTimeWithScar: 26
+3: ZombieCleo: 17
+4: Tinfoilchef: 17
+5: iskall85: 15
+6: Tango: 13
+7: joehillssays: 8
+8: Mumbo: 8
+9: zueljin: 6
+10: falsesymmetry: 6
+11: cubfan135: 6
+12: impulseSV: 5
+13: Xisuma: 3
+14: iJevin: 3
+15: Welsknight: 3
+16: Biffa2001: 3
+17: xBCrafted: 2
+18: Docm77: 1
+19: VintageBeef: 1
+20: Jessassin: 1
+21: Etho: 1
+Total 176

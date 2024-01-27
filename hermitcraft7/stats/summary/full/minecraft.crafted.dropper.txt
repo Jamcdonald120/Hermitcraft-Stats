@@ -1,0 +1,26 @@
+minecraft.crafted.dropper
+1: Etho: 2234
+2: MumboJumbo: 835
+3: Tango: 797
+4: Stressmonster101: 758
+5: Xisuma: 706
+6: Keralis1: 696
+7: cubfan135: 482
+8: xBCrafted: 473
+9: iskall85: 467
+10: Grian: 408
+11: GoodTimeWithScar: 399
+12: iJevin: 240
+13: impulseSV: 232
+14: Renthedog: 105
+15: Docm77: 81
+16: Zedaph: 80
+17: Welsknight: 64
+18: BdoubleO100: 41
+19: falsesymmetry: 19
+20: VintageBeef: 15
+21: joehillssays: 15
+22: ZombieCleo: 8
+23: Tinfoilchef: 3
+24: hypnotizd: 2
+Total 9160

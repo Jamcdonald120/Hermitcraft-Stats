@@ -1,0 +1,8 @@
+minecraft.dropped.enchanted_golden_apple
+1: Zedaph: 3
+2: iJevin: 2
+3: xBCrafted: 2
+4: impulseSV: 2
+5: falsesymmetry: 1
+6: Keralis1: 1
+Total 11

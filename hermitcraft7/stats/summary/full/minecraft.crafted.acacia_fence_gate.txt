@@ -1,0 +1,11 @@
+minecraft.crafted.acacia_fence_gate
+1: Xisuma: 192
+2: GoodTimeWithScar: 89
+3: BdoubleO100: 46
+4: falsesymmetry: 39
+5: Keralis1: 39
+6: impulseSV: 32
+7: xBCrafted: 8
+8: iJevin: 3
+9: joehillssays: 2
+Total 450

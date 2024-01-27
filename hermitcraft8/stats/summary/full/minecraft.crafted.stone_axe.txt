@@ -1,0 +1,26 @@
+minecraft.crafted.stone_axe
+1: Zedaph: 31
+2: joehillssays: 29
+3: Xisuma: 15
+4: Stressmonster101: 13
+5: iJevin: 5
+6: PearlescentMoon: 5
+7: Renthedog: 4
+8: cubfan135: 4
+9: BdoubleO100: 3
+10: GoodTimeWithScar: 3
+11: iskall85: 2
+12: xBCrafted: 2
+13: ZombieCleo: 2
+14: Docm77: 1
+15: VintageBeef: 1
+16: GeminiTay: 1
+17: Grian: 1
+18: Tango: 1
+19: falsesymmetry: 1
+20: Welsknight: 1
+21: Etho: 1
+22: hypnotizd: 1
+23: MumboJumbo: 1
+24: impulseSV: 1
+Total 129

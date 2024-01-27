@@ -1,0 +1,4 @@
+minecraft.crafted.chiseled_red_sandstone
+1: cubfan135: 263
+2: Xisuma: 1
+Total 264

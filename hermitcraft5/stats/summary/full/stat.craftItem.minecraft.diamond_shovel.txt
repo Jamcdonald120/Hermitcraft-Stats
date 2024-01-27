@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.diamond_shovel
+1: Renthedog: 68
+2: MumboJumbo: 32
+3: falsesymmetry: 25
+4: joehillssays: 16
+5: GoodTimeWithScar: 16
+6: iJevin: 14
+7: iskall85: 13
+8: xBCrafted: 12
+9: impulseSV: 12
+10: cubfan135: 11
+11: Tango: 10
+12: BdoubleO100: 10
+13: Stressmonster101: 8
+14: Etho: 6
+15: Docm77: 5
+16: Xisuma: 4
+17: ZombieCleo: 4
+18: VintageBeef: 3
+19: PythonGB: 3
+20: Welsknight: 3
+21: Zedaph: 3
+22: Biffa2001: 2
+23: Tinfoilchef: 1
+Total 281

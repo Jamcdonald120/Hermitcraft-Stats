@@ -1,0 +1,6 @@
+minecraft.custom.clean_shulker_box
+1: Etho: 17
+2: PearlescentMoon: 7
+3: cubfan135: 6
+4: impulseSV: 1
+Total 31

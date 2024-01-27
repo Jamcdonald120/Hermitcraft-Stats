@@ -1,0 +1,23 @@
+minecraft.crafted.lime_dye
+1: cubfan135: 15382
+2: falsesymmetry: 2158
+3: Xisuma: 2062
+4: Grian: 2048
+5: GoodTimeWithScar: 1994
+6: iskall85: 1516
+7: Docm77: 1218
+8: Renthedog: 679
+9: Welsknight: 364
+10: Tango: 356
+11: impulseSV: 244
+12: MumboJumbo: 175
+13: Zedaph: 144
+14: HumanCleo: 112
+15: joehillssays: 106
+16: PythonGB: 96
+17: iJevin: 84
+18: Tinfoilchef: 66
+19: ZombieCleo: 22
+20: Biffa2001: 2
+21: Stressmonster101: 2
+Total 28830

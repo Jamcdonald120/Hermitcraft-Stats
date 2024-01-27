@@ -1,0 +1,24 @@
+minecraft.picked_up.weathered_copper
+1: Docm77: 763
+2: Keralis1: 666
+3: GoodTimeWithScar: 484
+4: Zedaph: 290
+5: RentheKing: 247
+6: BdoubleO100: 220
+7: Tango: 212
+8: Grian: 105
+9: Xisuma: 94
+10: cubfan135: 80
+11: falsesymmetry: 75
+12: PearlescentMoon: 38
+13: impulseSV: 33
+14: Mumbo: 29
+15: Etho: 21
+16: Smallishbeans: 8
+17: VintageBeef: 5
+18: iskall85: 4
+19: joehillssays: 2
+20: MumboJumbo: 2
+21: Renthedog: 1
+22: xBCrafted: 1
+Total 3380

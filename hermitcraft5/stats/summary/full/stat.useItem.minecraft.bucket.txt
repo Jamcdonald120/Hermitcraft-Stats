@@ -1,0 +1,26 @@
+stat.useItem.minecraft.bucket
+1: GoodTimeWithScar: 7329
+2: cubfan135: 4083
+3: falsesymmetry: 3570
+4: MumboJumbo: 3333
+5: Tango: 2984
+6: Xisuma: 2674
+7: PythonGB: 2543
+8: Zedaph: 2349
+9: Tinfoilchef: 1822
+10: impulseSV: 1812
+11: xBCrafted: 1804
+12: Renthedog: 969
+13: ZombieCleo: 797
+14: joehillssays: 795
+15: Stressmonster101: 718
+16: Welsknight: 716
+17: Docm77: 470
+18: iJevin: 465
+19: Biffa2001: 438
+20: BdoubleO100: 391
+21: VintageBeef: 346
+22: iskall85: 320
+23: Etho: 123
+24: TangoCam: 3
+Total 40854

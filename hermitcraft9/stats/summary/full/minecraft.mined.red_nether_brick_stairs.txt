@@ -1,0 +1,4 @@
+minecraft.mined.red_nether_brick_stairs
+1: Xisuma: 32
+2: cubfan135: 7
+Total 39

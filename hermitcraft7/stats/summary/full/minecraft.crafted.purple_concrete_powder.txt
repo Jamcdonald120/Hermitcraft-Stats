@@ -1,0 +1,19 @@
+minecraft.crafted.purple_concrete_powder
+1: Xisuma: 7648
+2: Tango: 3232
+3: iskall85: 1792
+4: impulseSV: 928
+5: Etho: 856
+6: Stressmonster101: 384
+7: falsesymmetry: 352
+8: Grian: 160
+9: MumboJumbo: 144
+10: joehillssays: 128
+11: cubfan135: 112
+12: Zedaph: 72
+13: VintageBeef: 64
+14: GoodTimeWithScar: 56
+15: Keralis1: 16
+16: BdoubleO100: 8
+17: hypnotizd: 8
+Total 15960

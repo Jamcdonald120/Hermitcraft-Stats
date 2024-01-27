@@ -1,0 +1,25 @@
+minecraft.dropped.oak_sapling
+1: Xisuma: 1068
+2: cubfan135: 784
+3: GoodTimeWithScar: 488
+4: Renthedog: 363
+5: MumboJumbo: 322
+6: iskall85: 203
+7: Docm77: 169
+8: ZombieCleo: 158
+9: Grian: 120
+10: falsesymmetry: 102
+11: Stressmonster101: 84
+12: joehillssays: 58
+13: impulseSV: 58
+14: iJevin: 56
+15: BdoubleO100: 48
+16: EvilXisuma: 30
+17: PokePugx: 28
+18: Zedaph: 27
+19: Tango: 13
+20: Keralis1: 11
+21: xBCrafted: 2
+22: Biffa2001: 2
+23: PythonGB: 1
+Total 4195

@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.cooked_fish
+1: Tango: 1084
+2: Spumwackles: 384
+3: Xisuma: 27
+Total 1495

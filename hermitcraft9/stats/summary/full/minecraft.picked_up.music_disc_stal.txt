@@ -1,0 +1,11 @@
+minecraft.picked_up.music_disc_stal
+1: Tango: 105
+2: Zedaph: 12
+3: joehillssays: 6
+4: Renthedog: 3
+5: RentheKing: 3
+6: GoodTimeWithScar: 2
+7: Xisuma: 1
+8: iskall85: 1
+9: ZombieCleo: 1
+Total 134

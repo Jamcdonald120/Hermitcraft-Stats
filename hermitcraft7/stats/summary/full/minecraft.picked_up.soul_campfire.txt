@@ -1,0 +1,12 @@
+minecraft.picked_up.soul_campfire
+1: impulseSV: 25
+2: cubfan135: 18
+3: Grian: 11
+4: Renthedog: 9
+5: iJevin: 9
+6: GoodTimeWithScar: 9
+7: joehillssays: 8
+8: Tango: 5
+9: Etho: 5
+10: ZombieCleo: 1
+Total 100

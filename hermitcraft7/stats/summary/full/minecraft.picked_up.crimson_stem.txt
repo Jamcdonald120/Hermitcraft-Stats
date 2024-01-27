@@ -1,0 +1,25 @@
+minecraft.picked_up.crimson_stem
+1: GoodTimeWithScar: 4459
+2: Etho: 4436
+3: cubfan135: 3641
+4: Grian: 2491
+5: Tango: 1785
+6: Renthedog: 1623
+7: BdoubleO100: 1482
+8: Zedaph: 1437
+9: Stressmonster101: 947
+10: falsesymmetry: 514
+11: Xisuma: 505
+12: joehillssays: 412
+13: VintageBeef: 305
+14: iJevin: 253
+15: impulseSV: 129
+16: hypnotizd: 106
+17: iskall85: 78
+18: Welsknight: 75
+19: MumboJumbo: 75
+20: ZombieCleo: 71
+21: xBCrafted: 69
+22: Keralis1: 10
+23: Docm77: 1
+Total 24904

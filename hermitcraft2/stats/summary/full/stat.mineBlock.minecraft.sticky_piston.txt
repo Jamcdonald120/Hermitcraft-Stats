@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.sticky_piston
+1: Mumbo: 71
+2: Xisuma: 58
+3: sl1pg8r: 23
+4: Tango: 12
+5: monkeyfarm: 8
+6: xBCrafted: 7
+7: KingDaddyDMAC: 4
+8: iJevin: 2
+9: zueljin: 2
+Total 187

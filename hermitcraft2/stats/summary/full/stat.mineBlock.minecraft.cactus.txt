@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.cactus
+1: Xisuma: 3
+2: Mumbo: 1
+Total 4

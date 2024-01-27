@@ -1,0 +1,24 @@
+minecraft.dropped.mossy_cobblestone
+1: Tango: 560
+2: GoodTimeWithScar: 226
+3: Grian: 186
+4: falsesymmetry: 104
+5: hypnotizd: 79
+6: Renthedog: 66
+7: Docm77: 54
+8: Zedaph: 52
+9: xBCrafted: 43
+10: iJevin: 39
+11: BdoubleO100: 24
+12: RentheKing: 19
+13: cubfan135: 10
+14: Keralis1: 5
+15: impulseSV: 5
+16: VintageBeef: 4
+17: Stressmonster101: 3
+18: Xisuma: 2
+19: GeminiTay: 2
+20: iskall85: 2
+21: Mumbo: 2
+22: Etho: 1
+Total 1488

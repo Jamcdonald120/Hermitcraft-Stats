@@ -1,0 +1,13 @@
+minecraft.dropped.diamond_ore
+1: iJevin: 635
+2: iskall85: 115
+3: Grian: 90
+4: Renthedog: 64
+5: cubfan135: 47
+6: Xisuma: 14
+7: Tango: 11
+8: Keralis1: 10
+9: Zedaph: 7
+10: VintageBeef: 1
+11: xBCrafted: 1
+Total 995

@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.golden_helmet
+1: falsesymmetry: 17
+2: impulseSV: 4
+3: xBCrafted: 3
+4: Xisuma: 2
+5: sl1pg8r: 1
+6: KingDaddyDMAC: 1
+7: zueljin: 1
+Total 29

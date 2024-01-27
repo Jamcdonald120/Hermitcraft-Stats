@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.spruce_stairs
+1: iJevin: 847
+2: Xisuma: 637
+3: falsesymmetry: 627
+4: xBCrafted: 490
+5: sl1pg8r: 482
+6: Tango: 284
+7: Etho: 233
+8: Biffa2001: 207
+9: Mumbo: 90
+10: impulseSV: 65
+11: KingDaddyDMAC: 61
+12: zueljin: 51
+13: monkeyfarm: 38
+14: skyzm: 17
+15: hypnotizd: 17
+16: topmass: 2
+Total 4148

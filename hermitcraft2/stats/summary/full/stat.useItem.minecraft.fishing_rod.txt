@@ -1,0 +1,6 @@
+stat.useItem.minecraft.fishing_rod
+1: ZombieCleo: 18296
+2: Spumwackles: 12501
+3: Tango: 4282
+4: sl1pg8r: 3
+Total 35082

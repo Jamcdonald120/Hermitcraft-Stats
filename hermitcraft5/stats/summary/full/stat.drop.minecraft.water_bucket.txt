@@ -1,0 +1,18 @@
+stat.drop.minecraft.water_bucket
+1: GoodTimeWithScar: 19
+2: Tango: 18
+3: Zedaph: 17
+4: MumboJumbo: 13
+5: cubfan135: 8
+6: Xisuma: 4
+7: PythonGB: 4
+8: xBCrafted: 4
+9: falsesymmetry: 4
+10: impulseSV: 3
+11: Renthedog: 2
+12: Tinfoilchef: 2
+13: iskall85: 1
+14: Welsknight: 1
+15: Biffa2001: 1
+16: ZombieCleo: 1
+Total 102

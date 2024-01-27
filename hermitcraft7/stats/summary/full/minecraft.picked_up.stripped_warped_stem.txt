@@ -1,0 +1,18 @@
+minecraft.picked_up.stripped_warped_stem
+1: falsesymmetry: 502
+2: Grian: 436
+3: iskall85: 420
+4: BdoubleO100: 242
+5: GoodTimeWithScar: 198
+6: cubfan135: 125
+7: xBCrafted: 117
+8: Etho: 87
+9: joehillssays: 77
+10: Tango: 68
+11: Xisuma: 19
+12: Zedaph: 15
+13: MumboJumbo: 5
+14: VintageBeef: 2
+15: Welsknight: 1
+16: Stressmonster101: 1
+Total 2315

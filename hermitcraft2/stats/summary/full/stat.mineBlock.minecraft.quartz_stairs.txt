@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.quartz_stairs
+1: zueljin: 73
+2: ZombieCleo: 26
+3: Tango: 5
+Total 104

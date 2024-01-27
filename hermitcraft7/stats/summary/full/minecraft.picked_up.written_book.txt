@@ -1,0 +1,26 @@
+minecraft.picked_up.written_book
+1: Etho: 229
+2: GoodTimeWithScar: 199
+3: Tango: 155
+4: Keralis1: 149
+5: Zedaph: 133
+6: cubfan135: 113
+7: Xisuma: 99
+8: hypnotizd: 82
+9: impulseSV: 81
+10: Grian: 49
+11: iJevin: 47
+12: falsesymmetry: 44
+13: ZombieCleo: 40
+14: joehillssays: 37
+15: VintageBeef: 36
+16: Renthedog: 35
+17: Stressmonster101: 31
+18: BdoubleO100: 30
+19: xBCrafted: 19
+20: MumboJumbo: 19
+21: iskall85: 16
+22: Docm77: 6
+23: Welsknight: 5
+24: Tinfoilchef: 5
+Total 1659

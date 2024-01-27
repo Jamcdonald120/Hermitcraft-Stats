@@ -1,0 +1,12 @@
+minecraft.dropped.magenta_stained_glass
+1: Tango: 499
+2: Zedaph: 308
+3: impulseSV: 13
+4: Renthedog: 3
+5: MumboJumbo: 3
+6: iskall85: 2
+7: PythonGB: 1
+8: Grian: 1
+9: cubfan135: 1
+10: GoodTimeWithScar: 1
+Total 832

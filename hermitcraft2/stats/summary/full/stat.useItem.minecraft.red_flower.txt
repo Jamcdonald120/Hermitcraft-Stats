@@ -1,0 +1,7 @@
+stat.useItem.minecraft.red_flower
+1: ZombieCleo: 36
+2: zueljin: 26
+3: falsesymmetry: 2
+4: Biffa2001: 1
+5: Spumwackles: 1
+Total 66

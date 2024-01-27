@@ -1,0 +1,21 @@
+minecraft.dropped.water_bucket
+1: iJevin: 7
+2: Docm77: 5
+3: Etho: 4
+4: Zedaph: 4
+5: Xisuma: 3
+6: falsesymmetry: 3
+7: cubfan135: 3
+8: ZombieCleo: 3
+9: GeminiTay: 2
+10: Grian: 2
+11: Tango: 2
+12: PearlescentMoon: 2
+13: GoodTimeWithScar: 2
+14: Renthedog: 1
+15: joehillssays: 1
+16: iskall85: 1
+17: xBCrafted: 1
+18: Keralis1: 1
+19: impulseSV: 1
+Total 48

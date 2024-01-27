@@ -1,0 +1,22 @@
+minecraft.picked_up.orange_wool
+1: Tango: 857
+2: iJevin: 727
+3: Renthedog: 544
+4: PearlescentMoon: 426
+5: impulseSV: 218
+6: GoodTimeWithScar: 159
+7: Grian: 158
+8: joehillssays: 137
+9: falsesymmetry: 109
+10: VintageBeef: 100
+11: Docm77: 72
+12: iskall85: 60
+13: BdoubleO100: 32
+14: Keralis1: 32
+15: xBCrafted: 22
+16: Stressmonster101: 18
+17: cubfan135: 8
+18: Xisuma: 6
+19: hypnotizd: 5
+20: Zedaph: 2
+Total 3692

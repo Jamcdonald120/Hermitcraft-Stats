@@ -1,0 +1,24 @@
+minecraft.picked_up.quartz_pillar
+1: Grian: 1337
+2: GeminiTay: 459
+3: Renthedog: 327
+4: cubfan135: 288
+5: Tango: 269
+6: joehillssays: 131
+7: PearlescentMoon: 114
+8: VintageBeef: 109
+9: impulseSV: 35
+10: Keralis1: 26
+11: ZombieCleo: 20
+12: Zedaph: 19
+13: BdoubleO100: 13
+14: Pixlriffs: 13
+15: fWhip: 13
+16: Etho: 7
+17: Smallishbeans: 5
+18: GoodTimeWithScar: 5
+19: Docm77: 4
+20: iJevin: 3
+21: Xisuma: 1
+22: MythicalSausage: 1
+Total 3199

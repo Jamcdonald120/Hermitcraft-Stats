@@ -1,0 +1,16 @@
+minecraft.crafted.mangrove_sign
+1: iJevin: 117
+2: Xisuma: 87
+3: impulseSV: 60
+4: BdoubleO100: 48
+5: Keralis1: 45
+6: PearlescentMoon: 33
+7: Grian: 21
+8: cubfan135: 21
+9: RentheKing: 18
+10: Tango: 12
+11: OrionSound: 6
+12: Docm77: 3
+13: Stressmonster101: 3
+14: Zedaph: 3
+Total 477

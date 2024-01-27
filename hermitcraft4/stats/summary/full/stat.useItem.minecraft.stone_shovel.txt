@@ -1,0 +1,23 @@
+stat.useItem.minecraft.stone_shovel
+1: Xisuma: 1475
+2: Tinfoilchef: 1314
+3: Renthedog: 1152
+4: GoodTimeWithScar: 947
+5: joehillssays: 924
+6: MumboJumbo: 528
+7: xBCrafted: 265
+8: impulseSV: 264
+9: PythonGB: 228
+10: iskall85: 203
+11: VintageBeef: 198
+12: Tango: 136
+13: zueljin: 134
+14: Docm77: 132
+15: Welsknight: 118
+16: cubfan135: 103
+17: falsesymmetry: 83
+18: Etho: 79
+19: Mumbo: 40
+20: Jessassin: 36
+21: iJevin: 28
+Total 8387

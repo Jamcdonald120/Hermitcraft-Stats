@@ -1,0 +1,13 @@
+stat.mineBlock.minecraft.jungle_stairs
+1: cubfan135: 398
+2: VintageBeef: 199
+3: Docm77: 93
+4: xBCrafted: 16
+5: BdoubleO100: 11
+6: falsesymmetry: 9
+7: PythonGB: 6
+8: Zedaph: 5
+9: Etho: 4
+10: Welsknight: 2
+11: MumboJumbo: 2
+Total 745

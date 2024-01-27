@@ -1,0 +1,10 @@
+minecraft.crafted.purple_banner
+1: Keralis1: 36
+2: cubfan135: 12
+3: PearlescentMoon: 10
+4: Zedaph: 6
+5: iJevin: 2
+6: impulseSV: 2
+7: Tango: 1
+8: falsesymmetry: 1
+Total 70

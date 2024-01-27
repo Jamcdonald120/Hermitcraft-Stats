@@ -1,0 +1,5 @@
+minecraft.picked_up.light_blue_bed
+1: cubfan135: 491
+2: GeminiTay: 131
+3: GoodTimeWithScar: 1
+Total 623

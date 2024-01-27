@@ -1,0 +1,6 @@
+minecraft.dropped.acacia_door
+1: Zedaph: 6
+2: GoodTimeWithScar: 4
+3: cubfan135: 2
+4: Grian: 1
+Total 13

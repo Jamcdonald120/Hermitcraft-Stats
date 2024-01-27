@@ -1,0 +1,7 @@
+minecraft.crafted.jungle_hanging_sign
+1: GoodTimeWithScar: 54
+2: PearlescentMoon: 30
+3: BdoubleO100: 6
+4: cubfan135: 6
+5: Zedaph: 6
+Total 102

@@ -1,0 +1,9 @@
+minecraft.dropped.nether_brick_fence
+1: Tango: 751
+2: iJevin: 64
+3: Docm77: 9
+4: Keralis1: 6
+5: Zedaph: 5
+6: Renthedog: 3
+7: GoodTimeWithScar: 1
+Total 839

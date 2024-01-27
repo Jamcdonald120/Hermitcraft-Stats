@@ -1,0 +1,21 @@
+stat.useItem.minecraft.sea_lantern
+1: Xisuma: 2128
+2: falsesymmetry: 1910
+3: impulseSV: 703
+4: Renthedog: 527
+5: MumboJumbo: 414
+6: ZombieCleo: 372
+7: iskall85: 350
+8: Tango: 333
+9: VintageBeef: 167
+10: PythonGB: 167
+11: cubfan135: 137
+12: joehillssays: 126
+13: Docm77: 108
+14: iJevin: 84
+15: zueljin: 29
+16: Etho: 28
+17: GoodTimeWithScar: 16
+18: xisumavoid: 3
+19: Tinfoilchef: 1
+Total 7603

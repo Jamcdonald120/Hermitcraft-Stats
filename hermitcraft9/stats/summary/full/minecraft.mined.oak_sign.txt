@@ -1,0 +1,26 @@
+minecraft.mined.oak_sign
+1: GoodTimeWithScar: 27
+2: Grian: 24
+3: falsesymmetry: 20
+4: Zedaph: 20
+5: PearlescentMoon: 18
+6: Tango: 14
+7: iskall85: 13
+8: VintageBeef: 12
+9: iJevin: 10
+10: Keralis1: 7
+11: impulseSV: 7
+12: BdoubleO100: 6
+13: Welsknight: 6
+14: Docm77: 5
+15: Renthedog: 4
+16: joehillssays: 4
+17: Mumbo: 4
+18: Xisuma: 3
+19: OrionSound: 3
+20: GeminiTay: 3
+21: ZombieCleo: 3
+22: Etho: 2
+23: MythicalSausage: 1
+24: cubfan135: 1
+Total 217

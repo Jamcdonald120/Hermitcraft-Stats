@@ -1,0 +1,15 @@
+minecraft.dropped.jungle_leaves
+1: Zedaph: 545
+2: Renthedog: 395
+3: Jura_Whitey: 256
+4: Keralis1: 88
+5: cubfan135: 69
+6: GoodTimeWithScar: 53
+7: falsesymmetry: 44
+8: iskall85: 11
+9: Biffa2001: 8
+10: Xisuma: 7
+11: iJevin: 4
+12: Docm77: 2
+13: Stressmonster101: 1
+Total 1483

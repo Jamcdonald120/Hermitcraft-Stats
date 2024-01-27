@@ -1,0 +1,10 @@
+minecraft.picked_up.dead_tube_coral_fan
+1: Docm77: 336
+2: iJevin: 29
+3: impulseSV: 6
+4: GoodTimeWithScar: 5
+5: Renthedog: 4
+6: PearlescentMoon: 3
+7: Xisuma: 1
+8: Zedaph: 1
+Total 385

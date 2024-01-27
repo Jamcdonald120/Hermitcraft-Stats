@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.snow
+1: ZombieCleo: 13482
+2: Spumwackles: 7612
+3: falsesymmetry: 6220
+4: Mumbo: 4976
+5: sl1pg8r: 1860
+6: Xisuma: 1334
+7: Tango: 1237
+8: Docm77: 493
+9: iJevin: 286
+10: topmass: 175
+11: zueljin: 23
+12: Biffa2001: 22
+13: hypnotizd: 7
+14: Keralis1: 4
+15: impulseSV: 4
+Total 37735

@@ -1,0 +1,26 @@
+minecraft.mined.mossy_stone_bricks
+1: iJevin: 703
+2: Docm77: 220
+3: Renthedog: 180
+4: cubfan135: 134
+5: GeminiTay: 133
+6: Zedaph: 101
+7: Grian: 65
+8: Keralis1: 65
+9: ZombieCleo: 54
+10: Tango: 36
+11: Etho: 20
+12: Stressmonster101: 19
+13: PearlescentMoon: 17
+14: falsesymmetry: 15
+15: Xisuma: 11
+16: impulseSV: 9
+17: BdoubleO100: 7
+18: Mumbo: 7
+19: xBCrafted: 6
+20: iskall85: 5
+21: RentheKing: 5
+22: VintageBeef: 2
+23: hypnotizd: 1
+24: GoodTimeWithScar: 1
+Total 1816

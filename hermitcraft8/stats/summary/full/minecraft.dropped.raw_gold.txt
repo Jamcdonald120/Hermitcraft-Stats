@@ -1,0 +1,14 @@
+minecraft.dropped.raw_gold
+1: GoodTimeWithScar: 206
+2: iJevin: 61
+3: cubfan135: 37
+4: Docm77: 31
+5: Keralis1: 24
+6: impulseSV: 6
+7: Grian: 5
+8: xBCrafted: 4
+9: Renthedog: 3
+10: GeminiTay: 2
+11: Tango: 1
+12: MumboJumbo: 1
+Total 381

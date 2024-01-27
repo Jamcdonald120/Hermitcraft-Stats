@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.mycelium
+1: Welsknight: 5241
+2: cubfan135: 2356
+3: Renthedog: 789
+4: Xisuma: 42
+5: iJevin: 37
+6: falsesymmetry: 19
+7: iskall85: 4
+8: impulseSV: 4
+9: GoodTimeWithScar: 1
+Total 8493

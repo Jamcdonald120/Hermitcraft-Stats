@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.hopper
+1: Tango: 186
+2: Xisuma: 125
+3: Mumbo: 116
+4: ZombieCleo: 58
+5: iJevin: 35
+6: Tinfoilchef: 32
+7: xBCrafted: 24
+8: Spumwackles: 24
+9: sl1pg8r: 22
+10: falsesymmetry: 15
+11: KingDaddyDMAC: 4
+12: monkeyfarm: 1
+Total 642

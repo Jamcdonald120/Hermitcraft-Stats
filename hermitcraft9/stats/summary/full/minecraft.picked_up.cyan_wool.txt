@@ -1,0 +1,19 @@
+minecraft.picked_up.cyan_wool
+1: falsesymmetry: 1167
+2: Tango: 814
+3: PearlescentMoon: 588
+4: GoodTimeWithScar: 448
+5: VintageBeef: 90
+6: Grian: 59
+7: iskall85: 45
+8: impulseSV: 7
+9: Docm77: 6
+10: GeminiTay: 3
+11: Smallishbeans: 3
+12: xBCrafted: 2
+13: Welsknight: 2
+14: Zedaph: 2
+15: Xisuma: 1
+16: Stressmonster101: 1
+17: Keralis1: 1
+Total 3239

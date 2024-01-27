@@ -1,0 +1,26 @@
+minecraft.picked_up.oak_boat
+1: iJevin: 232
+2: Renthedog: 147
+3: Xisuma: 128
+4: Zedaph: 87
+5: Docm77: 85
+6: impulseSV: 73
+7: PearlescentMoon: 50
+8: Grian: 46
+9: cubfan135: 45
+10: hypnotizd: 33
+11: Tango: 21
+12: falsesymmetry: 19
+13: BdoubleO100: 17
+14: MumboJumbo: 13
+15: GeminiTay: 12
+16: iskall85: 10
+17: xBCrafted: 9
+18: Etho: 9
+19: GoodTimeWithScar: 7
+20: Welsknight: 6
+21: joehillssays: 3
+22: Stressmonster101: 3
+23: VintageBeef: 2
+24: Keralis1: 2
+Total 1059

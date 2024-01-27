@@ -1,0 +1,25 @@
+stat.pickup.minecraft.soul_sand
+1: cubfan135: 19544
+2: Renthedog: 5990
+3: Tango: 3639
+4: MumboJumbo: 2286
+5: GoodTimeWithScar: 2153
+6: Xisuma: 2146
+7: falsesymmetry: 1235
+8: iskall85: 892
+9: BdoubleO100: 591
+10: Welsknight: 581
+11: xBCrafted: 549
+12: Zedaph: 497
+13: joehillssays: 362
+14: impulseSV: 332
+15: Docm77: 255
+16: iJevin: 241
+17: Biffa2001: 160
+18: Tinfoilchef: 135
+19: PythonGB: 74
+20: Etho: 70
+21: Stressmonster101: 30
+22: VintageBeef: 20
+23: ZombieCleo: 1
+Total 41783

@@ -1,0 +1,4 @@
+stat.drop.minecraft.nether_brick_fence
+1: cubfan135: 64
+2: Tango: 9
+Total 73

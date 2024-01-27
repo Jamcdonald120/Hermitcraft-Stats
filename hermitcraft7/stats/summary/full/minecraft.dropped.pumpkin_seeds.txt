@@ -1,0 +1,21 @@
+minecraft.dropped.pumpkin_seeds
+1: Zedaph: 5919
+2: iskall85: 4394
+3: Tango: 635
+4: MumboJumbo: 609
+5: Grian: 446
+6: Etho: 227
+7: Renthedog: 136
+8: GoodTimeWithScar: 108
+9: cubfan135: 94
+10: impulseSV: 60
+11: Keralis1: 48
+12: Xisuma: 44
+13: joehillssays: 32
+14: BdoubleO100: 28
+15: hypnotizd: 13
+16: Docm77: 10
+17: falsesymmetry: 10
+18: VintageBeef: 4
+19: Stressmonster101: 2
+Total 12819

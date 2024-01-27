@@ -1,0 +1,25 @@
+minecraft.crafted.black_dye
+1: impulseSV: 48753
+2: Renthedog: 11487
+3: falsesymmetry: 10827
+4: GoodTimeWithScar: 9899
+5: Xisuma: 6761
+6: Grian: 6446
+7: Tango: 5943
+8: Keralis1: 5852
+9: Stressmonster101: 3918
+10: iskall85: 3434
+11: Etho: 1985
+12: joehillssays: 1968
+13: cubfan135: 1518
+14: xBCrafted: 1149
+15: ZombieCleo: 957
+16: VintageBeef: 841
+17: hypnotizd: 752
+18: BdoubleO100: 253
+19: MumboJumbo: 232
+20: Welsknight: 130
+21: Docm77: 110
+22: iJevin: 104
+23: Zedaph: 92
+Total 123411

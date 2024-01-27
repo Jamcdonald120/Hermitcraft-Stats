@@ -1,0 +1,22 @@
+minecraft.dropped.polished_andesite_slab
+1: Zedaph: 3740
+2: cubfan135: 535
+3: Tango: 286
+4: GoodTimeWithScar: 279
+5: Keralis1: 106
+6: falsesymmetry: 79
+7: Grian: 75
+8: Tinfoilchef: 64
+9: Etho: 49
+10: iJevin: 34
+11: MumboJumbo: 27
+12: Docm77: 22
+13: impulseSV: 21
+14: xBCrafted: 20
+15: BdoubleO100: 15
+16: iskall85: 12
+17: Renthedog: 8
+18: Stressmonster101: 7
+19: Xisuma: 1
+20: VintageBeef: 1
+Total 5381

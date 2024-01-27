@@ -1,0 +1,8 @@
+stat.pickup.minecraft.compass
+1: Tango: 88
+2: Zedaph: 86
+3: falsesymmetry: 17
+4: cubfan135: 2
+5: PythonGB: 1
+6: GoodTimeWithScar: 1
+Total 195

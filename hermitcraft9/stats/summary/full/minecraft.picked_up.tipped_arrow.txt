@@ -1,0 +1,7 @@
+minecraft.picked_up.tipped_arrow
+1: GoodTimeWithScar: 76
+2: cubfan135: 21
+3: iJevin: 11
+4: Renthedog: 3
+5: Xisuma: 2
+Total 113

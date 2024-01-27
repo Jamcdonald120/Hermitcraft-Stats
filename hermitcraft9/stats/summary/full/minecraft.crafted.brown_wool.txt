@@ -1,0 +1,11 @@
+minecraft.crafted.brown_wool
+1: Etho: 400
+2: Keralis1: 150
+3: Xisuma: 101
+4: xBCrafted: 70
+5: iJevin: 66
+6: Renthedog: 54
+7: RentheKing: 16
+8: BdoubleO100: 15
+9: Zedaph: 10
+Total 882

@@ -1,0 +1,26 @@
+stat.pickup.minecraft.diamond_sword
+1: GoodTimeWithScar: 159
+2: Renthedog: 85
+3: Tango: 69
+4: Zedaph: 58
+5: iJevin: 51
+6: cubfan135: 49
+7: PythonGB: 47
+8: iskall85: 47
+9: impulseSV: 44
+10: MumboJumbo: 34
+11: Xisuma: 24
+12: Docm77: 22
+13: joehillssays: 21
+14: Welsknight: 19
+15: Tinfoilchef: 19
+16: BdoubleO100: 14
+17: falsesymmetry: 9
+18: xBCrafted: 8
+19: ZombieCleo: 6
+20: Stressmonster101: 5
+21: Etho: 4
+22: VintageBeef: 3
+23: Biffa2001: 3
+24: EvilXisuma: 1
+Total 801

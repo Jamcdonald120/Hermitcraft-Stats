@@ -1,0 +1,24 @@
+minecraft.dropped.carrot
+1: Zedaph: 15586
+2: Tango: 3882
+3: GoodTimeWithScar: 3251
+4: impulseSV: 3236
+5: Stressmonster101: 2859
+6: iJevin: 1669
+7: iskall85: 907
+8: Keralis1: 492
+9: cubfan135: 465
+10: Xisuma: 455
+11: PearlescentMoon: 310
+12: Grian: 293
+13: xBCrafted: 82
+14: Docm77: 20
+15: GeminiTay: 15
+16: Renthedog: 6
+17: hypnotizd: 5
+18: joehillssays: 1
+19: BdoubleO100: 1
+20: Welsknight: 1
+21: ZombieCleo: 1
+22: Tinfoilchef: 1
+Total 33538

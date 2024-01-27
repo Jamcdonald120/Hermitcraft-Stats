@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.birch_fence
+1: MumboJumbo: 255
+2: impulseSV: 200
+3: joehillssays: 171
+4: iskall85: 73
+5: Xisuma: 55
+6: cubfan135: 54
+7: Docm77: 45
+8: Renthedog: 17
+9: iJevin: 10
+10: Tango: 10
+11: GoodTimeWithScar: 7
+12: Etho: 6
+13: Tinfoilchef: 2
+14: falsesymmetry: 1
+Total 906

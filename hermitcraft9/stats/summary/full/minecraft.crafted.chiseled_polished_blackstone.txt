@@ -1,0 +1,16 @@
+minecraft.crafted.chiseled_polished_blackstone
+1: Tango: 115
+2: impulseSV: 66
+3: ZombieCleo: 50
+4: falsesymmetry: 44
+5: GoodTimeWithScar: 37
+6: joehillssays: 18
+7: PearlescentMoon: 11
+8: xBCrafted: 4
+9: RentheKing: 4
+10: Docm77: 2
+11: iJevin: 2
+12: Xisuma: 1
+13: VintageBeef: 1
+14: Zedaph: 1
+Total 356

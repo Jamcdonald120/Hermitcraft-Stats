@@ -1,0 +1,17 @@
+minecraft.crafted.yellow_stained_glass
+1: impulseSV: 3280
+2: cubfan135: 2688
+3: joehillssays: 2328
+4: Xisuma: 1608
+5: Etho: 1016
+6: Stressmonster101: 896
+7: GoodTimeWithScar: 872
+8: Tango: 576
+9: falsesymmetry: 64
+10: MumboJumbo: 32
+11: VintageBeef: 24
+12: Zedaph: 16
+13: BdoubleO100: 8
+14: ZombieCleo: 8
+15: hypnotizd: 8
+Total 13424

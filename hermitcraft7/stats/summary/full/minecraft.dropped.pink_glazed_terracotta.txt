@@ -1,0 +1,4 @@
+minecraft.dropped.pink_glazed_terracotta
+1: hypnotizd: 7
+2: Etho: 3
+Total 10

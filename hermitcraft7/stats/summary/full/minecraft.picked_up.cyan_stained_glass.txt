@@ -1,0 +1,24 @@
+minecraft.picked_up.cyan_stained_glass
+1: iJevin: 26399
+2: falsesymmetry: 3322
+3: xBCrafted: 739
+4: impulseSV: 693
+5: Etho: 192
+6: Stressmonster101: 180
+7: joehillssays: 99
+8: Zedaph: 91
+9: iskall85: 89
+10: Grian: 35
+11: Xisuma: 28
+12: GoodTimeWithScar: 20
+13: cubfan135: 15
+14: hypnotizd: 14
+15: Keralis1: 14
+16: MumboJumbo: 13
+17: ZombieCleo: 9
+18: VintageBeef: 8
+19: Tango: 5
+20: Docm77: 3
+21: Renthedog: 1
+22: BdoubleO100: 1
+Total 31970

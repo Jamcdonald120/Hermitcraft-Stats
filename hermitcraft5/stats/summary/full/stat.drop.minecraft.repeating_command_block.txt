@@ -1,0 +1,3 @@
+stat.drop.minecraft.repeating_command_block
+1: xisumavoid: 1
+Total 1

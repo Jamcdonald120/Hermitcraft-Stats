@@ -1,0 +1,8 @@
+stat.useItem.minecraft.rotten_flesh
+1: iJevin: 15
+2: Tango: 11
+3: Spumwackles: 5
+4: Mumbo: 4
+5: Xisuma: 1
+6: falsesymmetry: 1
+Total 37

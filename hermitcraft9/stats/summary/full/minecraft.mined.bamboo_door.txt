@@ -1,0 +1,5 @@
+minecraft.mined.bamboo_door
+1: Keralis1: 3
+2: Tango: 1
+3: PearlescentMoon: 1
+Total 5

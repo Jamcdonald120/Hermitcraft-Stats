@@ -1,0 +1,32 @@
+minecraft.crafted.ladder
+1: Keralis1: 2214
+2: Renthedog: 1251
+3: Docm77: 987
+4: Zedaph: 651
+5: Tango: 630
+6: ZombieCleo: 591
+7: cubfan135: 540
+8: Xisuma: 510
+9: iJevin: 393
+10: xBCrafted: 384
+11: GoodTimeWithScar: 363
+12: Stressmonster101: 351
+13: joehillssays: 324
+14: impulseSV: 282
+15: falsesymmetry: 255
+16: GeminiTay: 228
+17: PearlescentMoon: 228
+18: iskall85: 168
+19: Welsknight: 162
+20: Etho: 144
+21: Mumbo: 132
+22: MumboJumbo: 132
+23: BdoubleO100: 129
+24: Tinfoilchef: 123
+25: MythicalSausage: 120
+26: Grian: 96
+27: hypnotizd: 93
+28: VintageBeef: 51
+29: Pixlriffs: 9
+30: RentheKing: 6
+Total 11547

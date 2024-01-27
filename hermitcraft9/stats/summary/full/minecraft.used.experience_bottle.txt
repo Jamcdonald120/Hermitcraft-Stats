@@ -1,0 +1,28 @@
+minecraft.used.experience_bottle
+1: GoodTimeWithScar: 17424
+2: Grian: 10646
+3: iJevin: 4280
+4: Docm77: 3276
+5: Keralis1: 2002
+6: Pixlriffs: 780
+7: cubfan135: 654
+8: Xisuma: 541
+9: falsesymmetry: 418
+10: Tango: 411
+11: Zedaph: 366
+12: Stressmonster101: 289
+13: Mumbo: 167
+14: Etho: 123
+15: Renthedog: 116
+16: iskall85: 65
+17: PearlescentMoon: 28
+18: impulseSV: 23
+19: Watcher_Grian: 20
+20: LDShadowLady: 19
+21: MythicalSausage: 14
+22: ZombieCleo: 12
+23: GeminiTay: 2
+24: VintageBeef: 1
+25: joehillssays: 1
+26: hypnotizd: 1
+Total 41679

@@ -1,0 +1,28 @@
+minecraft.crafted.dark_oak_fence
+1: falsesymmetry: 3537
+2: joehillssays: 2244
+3: Keralis1: 1318
+4: GoodTimeWithScar: 1230
+5: Renthedog: 1098
+6: cubfan135: 645
+7: GeminiTay: 567
+8: RentheKing: 543
+9: Docm77: 423
+10: BdoubleO100: 405
+11: Grian: 387
+12: Tango: 339
+13: Pixlriffs: 306
+14: xBCrafted: 240
+15: impulseSV: 201
+16: Stressmonster101: 144
+17: ZombieCleo: 126
+18: OrionSound: 117
+19: Smallishbeans: 117
+20: PearlescentMoon: 111
+21: Xisuma: 36
+22: Zedaph: 27
+23: VintageBeef: 6
+24: Welsknight: 6
+25: Mumbo: 3
+26: MumboJumbo: 3
+Total 14179

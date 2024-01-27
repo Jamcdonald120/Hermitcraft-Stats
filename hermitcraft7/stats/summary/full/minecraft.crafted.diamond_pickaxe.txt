@@ -1,0 +1,26 @@
+minecraft.crafted.diamond_pickaxe
+1: iJevin: 57
+2: impulseSV: 55
+3: Grian: 51
+4: Etho: 42
+5: GoodTimeWithScar: 32
+6: iskall85: 29
+7: Keralis1: 26
+8: MumboJumbo: 23
+9: Zedaph: 19
+10: Renthedog: 17
+11: Tango: 17
+12: xBCrafted: 14
+13: cubfan135: 13
+14: hypnotizd: 13
+15: Stressmonster101: 12
+16: Xisuma: 11
+17: ZombieCleo: 11
+18: falsesymmetry: 9
+19: Docm77: 8
+20: VintageBeef: 8
+21: Tinfoilchef: 6
+22: Welsknight: 5
+23: joehillssays: 4
+24: BdoubleO100: 4
+Total 486

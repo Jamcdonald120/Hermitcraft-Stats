@@ -1,0 +1,25 @@
+minecraft.picked_up.comparator
+1: Tango: 708
+2: iJevin: 519
+3: Zedaph: 512
+4: Renthedog: 402
+5: iskall85: 391
+6: cubfan135: 375
+7: MumboJumbo: 291
+8: impulseSV: 291
+9: Xisuma: 231
+10: Grian: 156
+11: Etho: 147
+12: BdoubleO100: 143
+13: Stressmonster101: 111
+14: xBCrafted: 106
+15: Tinfoilchef: 93
+16: hypnotizd: 88
+17: GoodTimeWithScar: 51
+18: Docm77: 42
+19: falsesymmetry: 30
+20: VintageBeef: 25
+21: Welsknight: 18
+22: Keralis1: 13
+23: joehillssays: 12
+Total 4755

@@ -1,0 +1,29 @@
+stat.useItem.minecraft.bed
+1: falsesymmetry: 170
+2: zueljin: 53
+3: Tango: 45
+4: sl1pg8r: 43
+5: monkeyfarm: 36
+6: Xisuma: 29
+7: ZombieCleo: 29
+8: Biffa2001: 27
+9: Mumbo: 24
+10: xBCrafted: 23
+11: Tinfoilchef: 22
+12: KingDaddyDMAC: 21
+13: impulseSV: 17
+14: hypnotizd: 15
+15: joehillssays: 13
+16: NameOfSamuel: 13
+17: topmass: 12
+18: PythonGB: 12
+19: Spumwackles: 7
+20: iJevin: 5
+21: Keralis1: 5
+22: Docm77: 4
+23: Etho: 4
+24: Collen: 3
+25: Mrs_Keralis: 2
+26: skyzm: 1
+27: Pungence: 1
+Total 636

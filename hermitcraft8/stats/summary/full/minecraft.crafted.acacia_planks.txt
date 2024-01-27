@@ -1,0 +1,21 @@
+minecraft.crafted.acacia_planks
+1: Docm77: 6804
+2: GoodTimeWithScar: 5328
+3: iJevin: 4864
+4: Xisuma: 3272
+5: impulseSV: 3156
+6: cubfan135: 2400
+7: PearlescentMoon: 2316
+8: BdoubleO100: 1844
+9: Grian: 1544
+10: Welsknight: 1544
+11: Renthedog: 1508
+12: joehillssays: 1348
+13: MumboJumbo: 976
+14: falsesymmetry: 780
+15: Keralis1: 536
+16: iskall85: 464
+17: Etho: 256
+18: GeminiTay: 152
+19: ZombieCleo: 52
+Total 39144

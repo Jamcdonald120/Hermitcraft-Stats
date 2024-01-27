@@ -1,0 +1,29 @@
+stat.craftItem.minecraft.iron_chestplate
+1: falsesymmetry: 37
+2: Tango: 29
+3: Xisuma: 26
+4: impulseSV: 15
+5: Etho: 9
+6: xBCrafted: 8
+7: zueljin: 6
+8: ZombieCleo: 6
+9: Biffa2001: 4
+10: Tinfoilchef: 4
+11: Docm77: 3
+12: joehillssays: 3
+13: KingDaddyDMAC: 3
+14: Mumbo: 3
+15: Spumwackles: 3
+16: sl1pg8r: 2
+17: skyzm: 2
+18: topmass: 2
+19: PythonGB: 2
+20: Pungence: 2
+21: hypnotizd: 2
+22: Keralis1: 2
+23: iJevin: 1
+24: Mrs_Keralis: 1
+25: monkeyfarm: 1
+26: NameOfSamuel: 1
+27: Collen: 1
+Total 178

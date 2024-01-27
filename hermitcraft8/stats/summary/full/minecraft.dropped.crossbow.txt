@@ -1,0 +1,16 @@
+minecraft.dropped.crossbow
+1: iJevin: 128
+2: Etho: 32
+3: Tango: 13
+4: Grian: 11
+5: PearlescentMoon: 6
+6: Xisuma: 3
+7: BdoubleO100: 3
+8: xBCrafted: 3
+9: iskall85: 2
+10: GoodTimeWithScar: 2
+11: VintageBeef: 1
+12: hypnotizd: 1
+13: Keralis1: 1
+14: impulseSV: 1
+Total 207

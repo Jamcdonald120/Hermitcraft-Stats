@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.ender_chest
+1: falsesymmetry: 81
+2: Xisuma: 76
+3: cubfan135: 72
+4: Tinfoilchef: 72
+5: impulseSV: 17
+6: iskall85: 14
+7: MumboJumbo: 12
+8: Welsknight: 11
+9: Renthedog: 9
+10: Tango: 8
+11: Biffa2001: 7
+12: GoodTimeWithScar: 5
+13: Docm77: 4
+14: VintageBeef: 3
+Total 391

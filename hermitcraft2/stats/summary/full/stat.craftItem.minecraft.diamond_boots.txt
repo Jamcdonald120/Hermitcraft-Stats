@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.diamond_boots
+1: Xisuma: 25
+2: Tango: 6
+3: KingDaddyDMAC: 2
+4: xBCrafted: 2
+5: sl1pg8r: 1
+6: iJevin: 1
+7: falsesymmetry: 1
+8: Mumbo: 1
+Total 39

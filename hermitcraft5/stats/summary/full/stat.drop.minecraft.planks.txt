@@ -1,0 +1,25 @@
+stat.drop.minecraft.planks
+1: cubfan135: 1855
+2: iskall85: 1068
+3: MumboJumbo: 881
+4: Zedaph: 875
+5: Renthedog: 551
+6: GoodTimeWithScar: 535
+7: falsesymmetry: 528
+8: Tango: 447
+9: impulseSV: 401
+10: Xisuma: 366
+11: xBCrafted: 307
+12: Stressmonster101: 229
+13: joehillssays: 186
+14: PythonGB: 147
+15: BdoubleO100: 146
+16: Biffa2001: 101
+17: Welsknight: 89
+18: Etho: 87
+19: Docm77: 56
+20: VintageBeef: 54
+21: iJevin: 22
+22: Tinfoilchef: 2
+23: ZombieCleo: 1
+Total 8934

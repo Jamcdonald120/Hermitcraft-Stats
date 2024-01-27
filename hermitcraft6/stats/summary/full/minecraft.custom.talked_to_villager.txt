@@ -1,0 +1,29 @@
+minecraft.custom.talked_to_villager
+1: iskall85: 13905
+2: cubfan135: 12220
+3: impulseSV: 8368
+4: GoodTimeWithScar: 4267
+5: Grian: 4152
+6: Stressmonster101: 3324
+7: MumboJumbo: 3251
+8: iJevin: 1729
+9: PythonGB: 1599
+10: Renthedog: 1447
+11: Tinfoilchef: 1078
+12: Docm77: 924
+13: falsesymmetry: 912
+14: ZombieCleo: 599
+15: Xisuma: 557
+16: Zedaph: 494
+17: Tango: 376
+18: joehillssays: 368
+19: Welsknight: 312
+20: Biffa2001: 165
+21: BdoubleO100: 108
+22: HumanCleo: 79
+23: Duke_da_dog: 8
+24: Keralis1: 7
+25: EvilXisuma: 1
+26: Jessassin: 1
+27: tterrag: 1
+Total 60252

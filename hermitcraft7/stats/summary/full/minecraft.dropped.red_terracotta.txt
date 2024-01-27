@@ -1,0 +1,21 @@
+minecraft.dropped.red_terracotta
+1: GoodTimeWithScar: 387
+2: Zedaph: 350
+3: Tango: 321
+4: xBCrafted: 159
+5: VintageBeef: 135
+6: Renthedog: 107
+7: Grian: 94
+8: cubfan135: 83
+9: Etho: 69
+10: BdoubleO100: 55
+11: Keralis1: 44
+12: Docm77: 39
+13: Stressmonster101: 8
+14: ZombieCleo: 5
+15: impulseSV: 3
+16: Xisuma: 1
+17: iskall85: 1
+18: falsesymmetry: 1
+19: MumboJumbo: 1
+Total 1863

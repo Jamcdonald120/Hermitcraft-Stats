@@ -1,0 +1,24 @@
+minecraft.dropped.red_mushroom
+1: RentheKing: 307
+2: Keralis1: 153
+3: Stressmonster101: 131
+4: Renthedog: 114
+5: PearlescentMoon: 67
+6: falsesymmetry: 55
+7: impulseSV: 51
+8: Xisuma: 46
+9: iJevin: 43
+10: Grian: 34
+11: BdoubleO100: 31
+12: Tango: 15
+13: ZombieCleo: 13
+14: Zedaph: 10
+15: GeminiTay: 8
+16: hypnotizd: 8
+17: OrionSound: 4
+18: Etho: 3
+19: iskall85: 2
+20: cubfan135: 2
+21: GoodTimeWithScar: 2
+22: Docm77: 1
+Total 1100

@@ -1,0 +1,26 @@
+minecraft.custom.interact_with_lectern
+1: GoodTimeWithScar: 3301
+2: cubfan135: 1685
+3: Etho: 1020
+4: Xisuma: 397
+5: Keralis1: 385
+6: falsesymmetry: 325
+7: impulseSV: 320
+8: xBCrafted: 310
+9: Tango: 270
+10: joehillssays: 248
+11: Zedaph: 242
+12: BdoubleO100: 234
+13: ZombieCleo: 223
+14: iJevin: 216
+15: VintageBeef: 184
+16: iskall85: 178
+17: hypnotizd: 148
+18: Renthedog: 109
+19: Grian: 100
+20: MumboJumbo: 91
+21: Stressmonster101: 51
+22: Welsknight: 50
+23: Docm77: 38
+24: Tinfoilchef: 18
+Total 10143

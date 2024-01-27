@@ -1,0 +1,23 @@
+minecraft.picked_up.flowering_azalea_leaves
+1: GoodTimeWithScar: 6015
+2: GeminiTay: 1931
+3: hypnotizd: 1163
+4: MumboJumbo: 809
+5: Keralis1: 752
+6: PearlescentMoon: 653
+7: cubfan135: 564
+8: iskall85: 465
+9: falsesymmetry: 417
+10: Etho: 295
+11: Xisuma: 251
+12: ZombieCleo: 238
+13: Stressmonster101: 238
+14: BdoubleO100: 219
+15: Grian: 204
+16: joehillssays: 93
+17: impulseSV: 35
+18: Welsknight: 23
+19: Renthedog: 15
+20: Docm77: 4
+21: xBCrafted: 1
+Total 14385

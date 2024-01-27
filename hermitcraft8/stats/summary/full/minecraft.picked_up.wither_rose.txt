@@ -1,0 +1,15 @@
+minecraft.picked_up.wither_rose
+1: iJevin: 291
+2: GoodTimeWithScar: 141
+3: impulseSV: 101
+4: VintageBeef: 65
+5: PearlescentMoon: 60
+6: GeminiTay: 22
+7: Docm77: 17
+8: Grian: 16
+9: cubfan135: 6
+10: Renthedog: 5
+11: Tango: 1
+12: falsesymmetry: 1
+13: hypnotizd: 1
+Total 727

@@ -1,0 +1,25 @@
+minecraft.picked_up.mushroom_stem
+1: VintageBeef: 12466
+2: Keralis1: 9833
+3: Renthedog: 8315
+4: RentheKing: 5611
+5: PearlescentMoon: 3433
+6: Docm77: 1778
+7: GoodTimeWithScar: 1625
+8: Tango: 881
+9: cubfan135: 659
+10: Stressmonster101: 407
+11: Xisuma: 338
+12: Etho: 317
+13: falsesymmetry: 257
+14: Zedaph: 172
+15: iskall85: 129
+16: joehillssays: 117
+17: GeminiTay: 116
+18: impulseSV: 108
+19: BdoubleO100: 83
+20: Grian: 79
+21: xBCrafted: 77
+22: MythicalSausage: 64
+23: Smajor1995: 63
+Total 46928

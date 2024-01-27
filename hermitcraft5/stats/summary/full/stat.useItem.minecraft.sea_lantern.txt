@@ -1,0 +1,23 @@
+stat.useItem.minecraft.sea_lantern
+1: MumboJumbo: 23748
+2: impulseSV: 19353
+3: cubfan135: 5163
+4: PythonGB: 2084
+5: falsesymmetry: 1479
+6: Xisuma: 1002
+7: Tango: 449
+8: Zedaph: 439
+9: xBCrafted: 358
+10: iJevin: 250
+11: Docm77: 157
+12: joehillssays: 117
+13: iskall85: 105
+14: ZombieCleo: 61
+15: GoodTimeWithScar: 60
+16: VintageBeef: 48
+17: Stressmonster101: 48
+18: Tinfoilchef: 31
+19: Renthedog: 17
+20: BdoubleO100: 6
+21: Welsknight: 2
+Total 54977

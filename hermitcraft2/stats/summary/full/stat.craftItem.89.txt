@@ -1,0 +1,5 @@
+stat.craftItem.89
+1: red3yz: 455
+2: skyzm: 44
+3: Unhost: 1
+Total 500

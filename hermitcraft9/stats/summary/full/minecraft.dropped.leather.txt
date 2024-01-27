@@ -1,0 +1,27 @@
+minecraft.dropped.leather
+1: Tango: 4821
+2: iJevin: 889
+3: ZombieCleo: 198
+4: cubfan135: 191
+5: falsesymmetry: 101
+6: Etho: 88
+7: Grian: 85
+8: Zedaph: 83
+9: Xisuma: 48
+10: xBCrafted: 39
+11: Renthedog: 35
+12: GoodTimeWithScar: 26
+13: Keralis1: 25
+14: impulseSV: 17
+15: VintageBeef: 9
+16: joehillssays: 8
+17: Mumbo: 8
+18: BdoubleO100: 7
+19: MumboJumbo: 7
+20: PearlescentMoon: 5
+21: iskall85: 4
+22: Docm77: 3
+23: MythicalSausage: 2
+24: Pixlriffs: 2
+25: hypnotizd: 2
+Total 6703

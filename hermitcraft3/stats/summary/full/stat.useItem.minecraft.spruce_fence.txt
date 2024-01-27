@@ -1,0 +1,22 @@
+stat.useItem.minecraft.spruce_fence
+1: Biffa2001: 7697
+2: falsesymmetry: 2328
+3: xBCrafted: 930
+4: sl1pg8r: 795
+5: Etho: 616
+6: Xisuma: 477
+7: iJevin: 375
+8: PythonGB: 272
+9: Mumbo: 180
+10: ZombieCleo: 160
+11: Tinfoilchef: 144
+12: zueljin: 108
+13: Tango: 88
+14: topmass: 30
+15: impulseSV: 20
+16: KingDaddyDMAC: 16
+17: monkeyfarm: 15
+18: skyzm: 10
+19: hypnotizd: 4
+20: truesymmetry: 2
+Total 14267

@@ -1,0 +1,21 @@
+minecraft.crafted.oak_fence_gate
+1: Keralis1: 199
+2: Docm77: 191
+3: Etho: 155
+4: GoodTimeWithScar: 137
+5: Xisuma: 82
+6: iJevin: 42
+7: Zedaph: 42
+8: BdoubleO100: 38
+9: MythicalSausage: 25
+10: VintageBeef: 24
+11: Tango: 10
+12: iskall85: 8
+13: Mumbo: 6
+14: cubfan135: 4
+15: Grian: 3
+16: hypnotizd: 3
+17: impulseSV: 3
+18: joehillssays: 1
+19: PearlescentMoon: 1
+Total 974

@@ -1,0 +1,32 @@
+minecraft.crafted.diamond
+1: RentheKing: 7407
+2: iJevin: 5481
+3: impulseSV: 4581
+4: cubfan135: 3537
+5: Xisuma: 1989
+6: xBCrafted: 1890
+7: PearlescentMoon: 1836
+8: GoodTimeWithScar: 1557
+9: joehillssays: 1458
+10: Grian: 1248
+11: falsesymmetry: 1224
+12: Renthedog: 886
+13: hypnotizd: 504
+14: Keralis1: 495
+15: BdoubleO100: 477
+16: Zedaph: 450
+17: Mumbo: 288
+18: GeminiTay: 270
+19: ZombieCleo: 270
+20: Tango: 144
+21: iskall85: 126
+22: VintageBeef: 117
+23: SolidarityGaming: 99
+24: Etho: 63
+25: Docm77: 18
+26: OrionSound: 18
+27: Smallishbeans: 18
+28: Welsknight: 18
+29: fWhip: 18
+30: MythicalSausage: 9
+Total 36496

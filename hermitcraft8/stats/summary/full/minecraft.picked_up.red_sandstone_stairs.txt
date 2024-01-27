@@ -1,0 +1,5 @@
+minecraft.picked_up.red_sandstone_stairs
+1: cubfan135: 62
+2: BdoubleO100: 23
+3: MumboJumbo: 3
+Total 88

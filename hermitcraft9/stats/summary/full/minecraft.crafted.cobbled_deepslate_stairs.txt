@@ -1,0 +1,20 @@
+minecraft.crafted.cobbled_deepslate_stairs
+1: falsesymmetry: 1052
+2: Tango: 438
+3: cubfan135: 229
+4: Keralis1: 124
+5: Docm77: 102
+6: GoodTimeWithScar: 68
+7: Renthedog: 40
+8: Xisuma: 32
+9: xBCrafted: 28
+10: RentheKing: 19
+11: ZombieCleo: 18
+12: GeminiTay: 16
+13: Mumbo: 12
+14: MumboJumbo: 12
+15: MythicalSausage: 8
+16: Welsknight: 8
+17: Zedaph: 4
+18: Etho: 1
+Total 2211

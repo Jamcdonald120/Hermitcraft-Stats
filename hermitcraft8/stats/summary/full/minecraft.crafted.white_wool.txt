@@ -1,0 +1,17 @@
+minecraft.crafted.white_wool
+1: hypnotizd: 7150
+2: impulseSV: 5991
+3: Tango: 3452
+4: Docm77: 386
+5: joehillssays: 357
+6: Keralis1: 329
+7: xBCrafted: 271
+8: Renthedog: 174
+9: cubfan135: 110
+10: iJevin: 64
+11: Zedaph: 28
+12: ZombieCleo: 22
+13: iskall85: 13
+14: MumboJumbo: 6
+15: VintageBeef: 3
+Total 18356

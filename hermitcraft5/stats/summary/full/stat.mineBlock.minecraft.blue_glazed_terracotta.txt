@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.blue_glazed_terracotta
+1: impulseSV: 266
+2: cubfan135: 196
+3: Xisuma: 67
+4: MumboJumbo: 9
+5: GoodTimeWithScar: 4
+Total 542

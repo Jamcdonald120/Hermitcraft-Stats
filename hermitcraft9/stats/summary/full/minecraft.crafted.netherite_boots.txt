@@ -1,0 +1,15 @@
+minecraft.crafted.netherite_boots
+1: cubfan135: 16
+2: impulseSV: 12
+3: iJevin: 6
+4: Docm77: 5
+5: Keralis1: 3
+6: GeminiTay: 2
+7: BdoubleO100: 2
+8: Xisuma: 1
+9: Renthedog: 1
+10: PearlescentMoon: 1
+11: ZombieCleo: 1
+12: RentheKing: 1
+13: Zedaph: 1
+Total 52

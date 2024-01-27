@@ -1,0 +1,13 @@
+minecraft.mined.polished_andesite_stairs
+1: impulseSV: 37
+2: GoodTimeWithScar: 34
+3: PearlescentMoon: 29
+4: Grian: 21
+5: xBCrafted: 19
+6: cubfan135: 18
+7: Tango: 5
+8: MumboJumbo: 5
+9: Xisuma: 4
+10: BdoubleO100: 4
+11: Tinfoilchef: 1
+Total 177

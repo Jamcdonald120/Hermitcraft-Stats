@@ -1,0 +1,25 @@
+minecraft.crafted.stone_slab
+1: Xisuma: 10085
+2: Renthedog: 4860
+3: cubfan135: 4224
+4: GoodTimeWithScar: 3336
+5: falsesymmetry: 2868
+6: impulseSV: 1962
+7: iskall85: 1614
+8: Docm77: 1450
+9: Grian: 1146
+10: Stressmonster101: 516
+11: Zedaph: 396
+12: xBCrafted: 390
+13: MumboJumbo: 330
+14: Keralis1: 294
+15: Tango: 156
+16: Biffa2001: 90
+17: Welsknight: 18
+18: Tinfoilchef: 18
+19: PythonGB: 12
+20: iJevin: 12
+21: joehillssays: 12
+22: ZombieCleo: 12
+23: BdoubleO100: 6
+Total 33807

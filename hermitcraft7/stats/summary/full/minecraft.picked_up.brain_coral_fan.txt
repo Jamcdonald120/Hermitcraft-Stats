@@ -1,0 +1,17 @@
+minecraft.picked_up.brain_coral_fan
+1: Etho: 285
+2: GoodTimeWithScar: 137
+3: hypnotizd: 118
+4: Xisuma: 97
+5: Zedaph: 84
+6: cubfan135: 60
+7: Keralis1: 60
+8: Docm77: 23
+9: falsesymmetry: 15
+10: VintageBeef: 11
+11: Renthedog: 8
+12: MumboJumbo: 8
+13: xBCrafted: 5
+14: iskall85: 4
+15: impulseSV: 1
+Total 916

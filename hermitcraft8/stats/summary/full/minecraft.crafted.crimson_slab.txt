@@ -1,0 +1,11 @@
+minecraft.crafted.crimson_slab
+1: impulseSV: 576
+2: MumboJumbo: 510
+3: Grian: 96
+4: Xisuma: 72
+5: GoodTimeWithScar: 54
+6: cubfan135: 42
+7: GeminiTay: 24
+8: Keralis1: 18
+9: BdoubleO100: 12
+Total 1404

@@ -1,0 +1,16 @@
+minecraft.dropped.ladder
+1: Etho: 3584
+2: iJevin: 231
+3: GoodTimeWithScar: 80
+4: Docm77: 68
+5: Tango: 67
+6: falsesymmetry: 30
+7: iskall85: 25
+8: Xisuma: 23
+9: Grian: 16
+10: xBCrafted: 16
+11: impulseSV: 10
+12: cubfan135: 8
+13: MumboJumbo: 3
+14: Zedaph: 1
+Total 4162

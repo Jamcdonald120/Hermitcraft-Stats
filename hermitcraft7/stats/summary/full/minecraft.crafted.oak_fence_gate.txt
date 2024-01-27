@@ -1,0 +1,23 @@
+minecraft.crafted.oak_fence_gate
+1: impulseSV: 567
+2: Tango: 275
+3: Keralis1: 137
+4: falsesymmetry: 132
+5: Xisuma: 112
+6: Zedaph: 91
+7: iskall85: 83
+8: GoodTimeWithScar: 63
+9: joehillssays: 56
+10: VintageBeef: 44
+11: Renthedog: 34
+12: ZombieCleo: 31
+13: MumboJumbo: 29
+14: iJevin: 27
+15: BdoubleO100: 24
+16: Docm77: 22
+17: hypnotizd: 19
+18: xBCrafted: 12
+19: Grian: 11
+20: cubfan135: 8
+21: Stressmonster101: 2
+Total 1779

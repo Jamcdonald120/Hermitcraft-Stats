@@ -1,0 +1,19 @@
+stat.useItem.minecraft.dispenser
+1: cubfan135: 432
+2: MumboJumbo: 246
+3: iskall85: 214
+4: Tango: 173
+5: Xisuma: 149
+6: Etho: 97
+7: falsesymmetry: 72
+8: Renthedog: 52
+9: Tinfoilchef: 48
+10: impulseSV: 48
+11: joehillssays: 45
+12: Docm77: 28
+13: GoodTimeWithScar: 25
+14: Mumbo: 21
+15: Welsknight: 5
+16: iJevin: 4
+17: Biffa2001: 4
+Total 1663

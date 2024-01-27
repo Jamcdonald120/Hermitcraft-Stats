@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.glowstone
+1: sl1pg8r: 924
+2: Xisuma: 729
+3: falsesymmetry: 547
+4: zueljin: 365
+5: Tango: 353
+6: Mumbo: 265
+7: impulseSV: 231
+8: Biffa2001: 182
+9: PythonGB: 160
+10: iJevin: 158
+11: Tinfoilchef: 146
+12: topmass: 141
+13: monkeyfarm: 139
+14: Spumwackles: 139
+15: hypnotizd: 124
+16: KingDaddyDMAC: 46
+17: xBCrafted: 44
+18: joehillssays: 32
+19: ZombieCleo: 28
+20: Etho: 16
+21: Docm77: 7
+Total 4776

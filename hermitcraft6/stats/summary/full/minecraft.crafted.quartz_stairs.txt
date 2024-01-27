@@ -1,0 +1,24 @@
+minecraft.crafted.quartz_stairs
+1: PythonGB: 3488
+2: Renthedog: 2960
+3: GoodTimeWithScar: 1912
+4: impulseSV: 1784
+5: falsesymmetry: 1720
+6: Welsknight: 1672
+7: Docm77: 1152
+8: Xisuma: 976
+9: cubfan135: 968
+10: MumboJumbo: 968
+11: Grian: 800
+12: iskall85: 720
+13: Tango: 504
+14: iJevin: 488
+15: ZombieCleo: 192
+16: Keralis1: 128
+17: Stressmonster101: 80
+18: joehillssays: 72
+19: Zedaph: 56
+20: HumanCleo: 16
+21: Tinfoilchef: 16
+22: xBCrafted: 8
+Total 20680

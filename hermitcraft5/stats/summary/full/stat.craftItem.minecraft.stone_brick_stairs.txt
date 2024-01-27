@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.stone_brick_stairs
+1: Renthedog: 8820
+2: falsesymmetry: 7992
+3: impulseSV: 6700
+4: Welsknight: 6160
+5: Xisuma: 5600
+6: GoodTimeWithScar: 4672
+7: joehillssays: 4432
+8: xBCrafted: 4044
+9: Tinfoilchef: 2148
+10: MumboJumbo: 1300
+11: PythonGB: 1124
+12: iJevin: 1072
+13: cubfan135: 1012
+14: Tango: 788
+15: VintageBeef: 376
+16: iskall85: 284
+17: Stressmonster101: 140
+18: BdoubleO100: 88
+19: Zedaph: 88
+20: Docm77: 72
+Total 56912

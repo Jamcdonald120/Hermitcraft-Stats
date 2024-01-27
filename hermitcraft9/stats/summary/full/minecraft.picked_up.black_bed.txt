@@ -1,0 +1,19 @@
+minecraft.picked_up.black_bed
+1: Etho: 235
+2: RentheKing: 152
+3: GeminiTay: 59
+4: Docm77: 51
+5: Renthedog: 44
+6: impulseSV: 43
+7: xBCrafted: 41
+8: iJevin: 35
+9: joehillssays: 21
+10: falsesymmetry: 16
+11: MythicalSausage: 9
+12: Tango: 7
+13: PearlescentMoon: 2
+14: Keralis1: 2
+15: Grian: 1
+16: cubfan135: 1
+17: Zedaph: 1
+Total 720

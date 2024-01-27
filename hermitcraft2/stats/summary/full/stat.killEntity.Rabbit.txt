@@ -1,0 +1,4 @@
+stat.killEntity.Rabbit
+1: sl1pg8r: 15
+2: Tinfoilchef: 3
+Total 18

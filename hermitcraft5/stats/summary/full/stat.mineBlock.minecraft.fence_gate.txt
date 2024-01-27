@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.fence_gate
+1: Tango: 27
+2: Tinfoilchef: 16
+3: cubfan135: 14
+4: impulseSV: 11
+5: Zedaph: 10
+6: joehillssays: 9
+7: PythonGB: 6
+8: iJevin: 6
+9: VintageBeef: 4
+10: iskall85: 4
+11: Welsknight: 4
+12: Xisuma: 3
+13: GoodTimeWithScar: 2
+14: Renthedog: 1
+15: falsesymmetry: 1
+Total 118

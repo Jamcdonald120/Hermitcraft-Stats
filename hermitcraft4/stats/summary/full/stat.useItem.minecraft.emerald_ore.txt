@@ -1,0 +1,8 @@
+stat.useItem.minecraft.emerald_ore
+1: PythonGB: 11
+2: iskall85: 7
+3: iJevin: 6
+4: Welsknight: 5
+5: cubfan135: 4
+6: GoodTimeWithScar: 1
+Total 34

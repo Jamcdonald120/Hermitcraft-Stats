@@ -1,0 +1,20 @@
+minecraft.picked_up.ghast_tear
+1: falsesymmetry: 167
+2: GoodTimeWithScar: 155
+3: iJevin: 145
+4: cubfan135: 92
+5: iskall85: 80
+6: Docm77: 56
+7: Welsknight: 38
+8: Renthedog: 37
+9: impulseSV: 34
+10: Xisuma: 29
+11: Tango: 24
+12: PythonGB: 20
+13: Zedaph: 19
+14: joehillssays: 18
+15: Grian: 17
+16: Biffa2001: 7
+17: MumboJumbo: 6
+18: Stressmonster101: 2
+Total 946

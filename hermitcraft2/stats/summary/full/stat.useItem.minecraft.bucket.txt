@@ -1,0 +1,13 @@
+stat.useItem.minecraft.bucket
+1: Xisuma: 1102
+2: falsesymmetry: 321
+3: monkeyfarm: 224
+4: ZombieCleo: 201
+5: Tango: 189
+6: zueljin: 107
+7: iJevin: 97
+8: xBCrafted: 64
+9: Spumwackles: 49
+10: sl1pg8r: 27
+11: Biffa2001: 3
+Total 2384

@@ -1,0 +1,26 @@
+stat.pickup.minecraft.hopper
+1: cubfan135: 2116
+2: MumboJumbo: 1667
+3: Renthedog: 1153
+4: Xisuma: 1042
+5: impulseSV: 884
+6: Tango: 696
+7: iskall85: 538
+8: Zedaph: 417
+9: xBCrafted: 288
+10: Welsknight: 217
+11: GoodTimeWithScar: 212
+12: Stressmonster101: 197
+13: Docm77: 181
+14: iJevin: 138
+15: Tinfoilchef: 109
+16: Etho: 95
+17: falsesymmetry: 90
+18: PythonGB: 58
+19: joehillssays: 27
+20: BdoubleO100: 20
+21: isGall85: 11
+22: ZombieCleo: 9
+23: VintageBeef: 7
+24: Biffa2001: 6
+Total 10178

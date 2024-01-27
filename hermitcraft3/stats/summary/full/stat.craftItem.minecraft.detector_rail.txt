@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.detector_rail
+1: Xisuma: 204
+2: Mumbo: 72
+3: sl1pg8r: 66
+4: Etho: 18
+5: impulseSV: 18
+6: KingDaddyDMAC: 12
+7: Tango: 12
+8: xBCrafted: 12
+9: monkeyfarm: 12
+10: topmass: 6
+11: iJevin: 6
+12: zueljin: 6
+13: falsesymmetry: 6
+14: Tinfoilchef: 6
+Total 456

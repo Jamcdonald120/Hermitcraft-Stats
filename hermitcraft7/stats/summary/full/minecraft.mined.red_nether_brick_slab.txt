@@ -1,0 +1,13 @@
+minecraft.mined.red_nether_brick_slab
+1: Tango: 916
+2: impulseSV: 296
+3: Xisuma: 33
+4: Grian: 24
+5: BdoubleO100: 19
+6: cubfan135: 15
+7: Etho: 11
+8: Welsknight: 8
+9: GoodTimeWithScar: 7
+10: VintageBeef: 5
+11: Keralis1: 4
+Total 1338

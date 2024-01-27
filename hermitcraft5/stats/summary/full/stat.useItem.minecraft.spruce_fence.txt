@@ -1,0 +1,22 @@
+stat.useItem.minecraft.spruce_fence
+1: Stressmonster101: 1896
+2: Welsknight: 1790
+3: cubfan135: 1753
+4: Xisuma: 1322
+5: GoodTimeWithScar: 1047
+6: falsesymmetry: 900
+7: iJevin: 396
+8: MumboJumbo: 359
+9: xBCrafted: 288
+10: ZombieCleo: 259
+11: BdoubleO100: 186
+12: PythonGB: 138
+13: Renthedog: 86
+14: iskall85: 75
+15: Tinfoilchef: 71
+16: joehillssays: 64
+17: VintageBeef: 46
+18: Zedaph: 28
+19: Docm77: 10
+20: Tango: 1
+Total 10715

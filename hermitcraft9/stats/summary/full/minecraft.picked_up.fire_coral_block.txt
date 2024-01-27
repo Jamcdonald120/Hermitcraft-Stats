@@ -1,0 +1,15 @@
+minecraft.picked_up.fire_coral_block
+1: GoodTimeWithScar: 1637
+2: joehillssays: 990
+3: PearlescentMoon: 427
+4: falsesymmetry: 413
+5: iJevin: 260
+6: Keralis1: 137
+7: VintageBeef: 57
+8: ZombieCleo: 54
+9: Grian: 46
+10: impulseSV: 36
+11: Xisuma: 16
+12: xBCrafted: 8
+13: Zedaph: 2
+Total 4083

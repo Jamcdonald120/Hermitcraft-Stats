@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.iron_pickaxe
+1: Renthedog: 68
+2: cubfan135: 41
+3: joehillssays: 37
+4: ZombieCleo: 37
+5: GoodTimeWithScar: 36
+6: Tango: 27
+7: Zedaph: 23
+8: iskall85: 15
+9: xBCrafted: 14
+10: Xisuma: 13
+11: iJevin: 13
+12: falsesymmetry: 13
+13: PythonGB: 11
+14: Etho: 11
+15: Biffa2001: 10
+16: MumboJumbo: 6
+17: Tinfoilchef: 6
+18: VintageBeef: 5
+19: Stressmonster101: 5
+20: BdoubleO100: 4
+21: Welsknight: 4
+22: impulseSV: 4
+23: Docm77: 2
+Total 405

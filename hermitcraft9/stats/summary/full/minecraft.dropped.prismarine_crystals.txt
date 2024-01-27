@@ -1,0 +1,16 @@
+minecraft.dropped.prismarine_crystals
+1: falsesymmetry: 2447
+2: GeminiTay: 1163
+3: impulseSV: 162
+4: iJevin: 72
+5: GoodTimeWithScar: 58
+6: Zedaph: 17
+7: Keralis1: 16
+8: xBCrafted: 10
+9: Xisuma: 5
+10: OrionSound: 5
+11: Etho: 4
+12: Mumbo: 4
+13: fWhip: 2
+14: hypnotizd: 1
+Total 3966

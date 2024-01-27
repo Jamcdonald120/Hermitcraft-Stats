@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.wooden_shovel
+1: falsesymmetry: 89
+2: Renthedog: 69
+3: xBCrafted: 39
+4: PythonGB: 24
+5: GoodTimeWithScar: 11
+6: Zedaph: 10
+7: MumboJumbo: 8
+8: iskall85: 6
+9: Tango: 4
+10: Welsknight: 4
+11: iJevin: 1
+12: impulseSV: 1
+Total 266

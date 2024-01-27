@@ -1,0 +1,26 @@
+minecraft.mined.stone_brick_stairs
+1: iJevin: 1040
+2: Tango: 320
+3: Xisuma: 265
+4: VintageBeef: 78
+5: iskall85: 78
+6: Etho: 74
+7: GeminiTay: 70
+8: falsesymmetry: 62
+9: xBCrafted: 52
+10: impulseSV: 52
+11: joehillssays: 46
+12: cubfan135: 42
+13: GoodTimeWithScar: 33
+14: Renthedog: 29
+15: ZombieCleo: 29
+16: Keralis1: 27
+17: PearlescentMoon: 23
+18: hypnotizd: 21
+19: RentheKing: 18
+20: Docm77: 15
+21: Grian: 8
+22: Zedaph: 8
+23: Stressmonster101: 2
+24: BdoubleO100: 1
+Total 2393

@@ -1,0 +1,12 @@
+minecraft.picked_up.jungle_fence_gate
+1: GoodTimeWithScar: 122
+2: falsesymmetry: 75
+3: Grian: 10
+4: PearlescentMoon: 9
+5: BdoubleO100: 8
+6: Etho: 7
+7: cubfan135: 3
+8: Keralis1: 2
+9: Renthedog: 1
+10: GeminiTay: 1
+Total 238

@@ -1,0 +1,29 @@
+minecraft.picked_up.egg
+1: Grian: 1481
+2: Renthedog: 1427
+3: Welsknight: 925
+4: Docm77: 559
+5: PearlescentMoon: 518
+6: VintageBeef: 477
+7: Zedaph: 379
+8: Xisuma: 227
+9: impulseSV: 184
+10: GoodTimeWithScar: 182
+11: joehillssays: 133
+12: MumboJumbo: 104
+13: cubfan135: 94
+14: Etho: 77
+15: hypnotizd: 69
+16: iJevin: 55
+17: xBCrafted: 54
+18: Tango: 40
+19: GeminiTay: 36
+20: BdoubleO100: 31
+21: ZombieCleo: 31
+22: falsesymmetry: 25
+23: Stressmonster101: 20
+24: Keralis1: 8
+25: iskall85: 6
+26: Tinfoilchef: 2
+27: EvilXisuma: 1
+Total 7145

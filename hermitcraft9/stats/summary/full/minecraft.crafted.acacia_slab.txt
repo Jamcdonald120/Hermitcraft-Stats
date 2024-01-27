@@ -1,0 +1,21 @@
+minecraft.crafted.acacia_slab
+1: Keralis1: 978
+2: GoodTimeWithScar: 462
+3: PearlescentMoon: 420
+4: Grian: 288
+5: iJevin: 144
+6: Xisuma: 96
+7: xBCrafted: 84
+8: Zedaph: 48
+9: cubfan135: 42
+10: falsesymmetry: 36
+11: impulseSV: 36
+12: Renthedog: 30
+13: MythicalSausage: 30
+14: Etho: 24
+15: Docm77: 18
+16: GeminiTay: 18
+17: BdoubleO100: 12
+18: RentheKing: 12
+19: Tango: 6
+Total 2784

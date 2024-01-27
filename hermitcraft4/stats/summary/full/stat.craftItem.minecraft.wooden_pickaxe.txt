@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.wooden_pickaxe
+1: Jessassin: 8
+2: Tinfoilchef: 8
+3: ZombieCleo: 7
+4: iskall85: 5
+5: GoodTimeWithScar: 5
+6: Xisuma: 2
+7: iJevin: 2
+8: joehillssays: 2
+9: cubfan135: 2
+10: Biffa2001: 2
+11: Docm77: 1
+12: Renthedog: 1
+13: VintageBeef: 1
+14: PythonGB: 1
+15: zueljin: 1
+16: Tango: 1
+17: xBCrafted: 1
+18: falsesymmetry: 1
+19: Welsknight: 1
+20: Etho: 1
+21: Mumbo: 1
+22: hypnotizd: 1
+23: impulseSV: 1
+Total 56

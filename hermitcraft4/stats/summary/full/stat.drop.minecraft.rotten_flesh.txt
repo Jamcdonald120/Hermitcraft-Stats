@@ -1,0 +1,22 @@
+stat.drop.minecraft.rotten_flesh
+1: MumboJumbo: 3337
+2: GoodTimeWithScar: 1627
+3: falsesymmetry: 1247
+4: Tango: 819
+5: cubfan135: 736
+6: iskall85: 641
+7: Renthedog: 590
+8: impulseSV: 550
+9: Xisuma: 521
+10: PythonGB: 263
+11: VintageBeef: 207
+12: Tinfoilchef: 104
+13: iJevin: 50
+14: Welsknight: 35
+15: Jessassin: 23
+16: Etho: 23
+17: Docm77: 17
+18: joehillssays: 14
+19: xBCrafted: 10
+20: ZombieCleo: 10
+Total 10824

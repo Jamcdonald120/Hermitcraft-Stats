@@ -1,0 +1,6 @@
+stat.mineBlock.minecraft.ice
+1: iJevin: 2533
+2: Xisuma: 559
+3: falsesymmetry: 19
+4: Biffa2001: 1
+Total 3112

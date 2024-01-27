@@ -1,0 +1,21 @@
+stat.useItem.minecraft.spruce_fence
+1: iskall85: 3921
+2: Renthedog: 2596
+3: GoodTimeWithScar: 1412
+4: cubfan135: 1395
+5: falsesymmetry: 1289
+6: Xisuma: 1224
+7: PythonGB: 823
+8: iJevin: 734
+9: Etho: 361
+10: Docm77: 341
+11: Welsknight: 269
+12: VintageBeef: 251
+13: Tango: 242
+14: joehillssays: 204
+15: zueljin: 74
+16: impulseSV: 56
+17: ZombieCleo: 24
+18: xisumavoid: 4
+19: MumboJumbo: 4
+Total 15224

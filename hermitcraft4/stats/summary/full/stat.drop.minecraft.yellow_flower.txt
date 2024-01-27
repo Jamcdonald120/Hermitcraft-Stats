@@ -1,0 +1,14 @@
+stat.drop.minecraft.yellow_flower
+1: MumboJumbo: 155
+2: falsesymmetry: 128
+3: GoodTimeWithScar: 100
+4: iskall85: 53
+5: Xisuma: 48
+6: Renthedog: 19
+7: Etho: 18
+8: Tango: 12
+9: cubfan135: 3
+10: Docm77: 2
+11: VintageBeef: 1
+12: PythonGB: 1
+Total 540

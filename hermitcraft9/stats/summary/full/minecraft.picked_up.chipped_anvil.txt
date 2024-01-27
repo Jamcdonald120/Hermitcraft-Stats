@@ -1,0 +1,25 @@
+minecraft.picked_up.chipped_anvil
+1: Grian: 47
+2: iJevin: 46
+3: cubfan135: 43
+4: RentheKing: 33
+5: Zedaph: 24
+6: Xisuma: 22
+7: Renthedog: 19
+8: PearlescentMoon: 19
+9: Docm77: 18
+10: impulseSV: 18
+11: Etho: 17
+12: BdoubleO100: 15
+13: GoodTimeWithScar: 15
+14: joehillssays: 12
+15: Tango: 8
+16: iskall85: 8
+17: xBCrafted: 6
+18: ZombieCleo: 4
+19: Keralis1: 4
+20: GeminiTay: 3
+21: falsesymmetry: 3
+22: Stressmonster101: 2
+23: VintageBeef: 1
+Total 387

@@ -1,0 +1,21 @@
+minecraft.mined.weeping_vines
+1: Tango: 263
+2: Renthedog: 119
+3: Etho: 108
+4: iskall85: 75
+5: ZombieCleo: 29
+6: cubfan135: 28
+7: BdoubleO100: 27
+8: Grian: 25
+9: Xisuma: 23
+10: GoodTimeWithScar: 21
+11: Stressmonster101: 16
+12: iJevin: 15
+13: falsesymmetry: 14
+14: xBCrafted: 12
+15: VintageBeef: 9
+16: Zedaph: 8
+17: joehillssays: 6
+18: impulseSV: 5
+19: hypnotizd: 2
+Total 805

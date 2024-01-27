@@ -1,0 +1,24 @@
+minecraft.crafted.bread
+1: GoodTimeWithScar: 1762
+2: iskall85: 986
+3: Grian: 960
+4: Renthedog: 796
+5: PythonGB: 691
+6: cubfan135: 649
+7: joehillssays: 564
+8: Stressmonster101: 134
+9: Xisuma: 92
+10: MumboJumbo: 88
+11: Tango: 83
+12: Tinfoilchef: 74
+13: iJevin: 47
+14: Biffa2001: 40
+15: Docm77: 38
+16: Zedaph: 25
+17: impulseSV: 24
+18: Jessassin: 11
+19: ZombieCleo: 11
+20: Keralis1: 10
+21: falsesymmetry: 8
+22: BdoubleO100: 6
+Total 7099

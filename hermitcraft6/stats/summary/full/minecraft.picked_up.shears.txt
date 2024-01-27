@@ -1,0 +1,24 @@
+minecraft.picked_up.shears
+1: Xisuma: 408
+2: Docm77: 91
+3: iJevin: 64
+4: Grian: 44
+5: GoodTimeWithScar: 42
+6: Renthedog: 26
+7: iskall85: 21
+8: falsesymmetry: 21
+9: Zedaph: 11
+10: Tango: 9
+11: joehillssays: 7
+12: BdoubleO100: 7
+13: cubfan135: 7
+14: ZombieCleo: 5
+15: PythonGB: 4
+16: MumboJumbo: 3
+17: Keralis1: 3
+18: impulseSV: 2
+19: Welsknight: 1
+20: Biffa2001: 1
+21: Tinfoilchef: 1
+22: Stressmonster101: 1
+Total 779

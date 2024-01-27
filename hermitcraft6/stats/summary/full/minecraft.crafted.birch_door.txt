@@ -1,0 +1,19 @@
+minecraft.crafted.birch_door
+1: GoodTimeWithScar: 78
+2: Renthedog: 33
+3: cubfan135: 33
+4: MumboJumbo: 15
+5: iskall85: 12
+6: Zedaph: 12
+7: Xisuma: 9
+8: Tango: 9
+9: Grian: 6
+10: ZombieCleo: 6
+11: Docm77: 3
+12: iJevin: 3
+13: joehillssays: 3
+14: falsesymmetry: 3
+15: Welsknight: 3
+16: Biffa2001: 3
+17: impulseSV: 3
+Total 234

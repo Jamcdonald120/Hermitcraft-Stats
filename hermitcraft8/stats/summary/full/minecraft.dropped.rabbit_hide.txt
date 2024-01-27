@@ -1,0 +1,10 @@
+minecraft.dropped.rabbit_hide
+1: Renthedog: 23
+2: hypnotizd: 22
+3: iJevin: 1
+4: Grian: 1
+5: Tango: 1
+6: PearlescentMoon: 1
+7: GoodTimeWithScar: 1
+8: impulseSV: 1
+Total 51

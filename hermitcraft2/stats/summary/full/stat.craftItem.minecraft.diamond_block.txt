@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.diamond_block
+1: Xisuma: 64
+2: Biffa2001: 2
+3: Mumbo: 2
+Total 68

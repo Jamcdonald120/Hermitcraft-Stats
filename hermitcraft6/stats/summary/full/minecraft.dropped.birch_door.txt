@@ -1,0 +1,9 @@
+minecraft.dropped.birch_door
+1: Zedaph: 8
+2: Renthedog: 4
+3: cubfan135: 3
+4: Grian: 2
+5: Tango: 2
+6: Xisuma: 1
+7: GoodTimeWithScar: 1
+Total 21

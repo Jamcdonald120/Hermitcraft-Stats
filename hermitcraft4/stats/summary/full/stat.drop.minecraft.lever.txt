@@ -1,0 +1,14 @@
+stat.drop.minecraft.lever
+1: impulseSV: 76
+2: Tango: 38
+3: iskall85: 21
+4: GoodTimeWithScar: 16
+5: Xisuma: 12
+6: cubfan135: 12
+7: Renthedog: 7
+8: falsesymmetry: 6
+9: joehillssays: 3
+10: MumboJumbo: 3
+11: Docm77: 2
+12: VintageBeef: 2
+Total 198

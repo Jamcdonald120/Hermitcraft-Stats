@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.heavy_weighted_pressure_plate
+1: xBCrafted: 26
+2: Tango: 21
+3: falsesymmetry: 18
+4: sl1pg8r: 13
+5: Mumbo: 12
+6: zueljin: 6
+7: ZombieCleo: 4
+8: Etho: 2
+9: Docm77: 1
+10: Xisuma: 1
+11: PythonGB: 1
+12: impulseSV: 1
+Total 106

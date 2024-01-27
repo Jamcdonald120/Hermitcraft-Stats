@@ -1,0 +1,24 @@
+minecraft.picked_up.amethyst_shard
+1: PearlescentMoon: 12488
+2: joehillssays: 6047
+3: impulseSV: 4328
+4: falsesymmetry: 3647
+5: Docm77: 2578
+6: Tango: 2533
+7: Etho: 1880
+8: iskall85: 1800
+9: Xisuma: 1706
+10: hypnotizd: 1604
+11: ZombieCleo: 1432
+12: cubfan135: 1236
+13: xBCrafted: 1042
+14: GoodTimeWithScar: 532
+15: Welsknight: 470
+16: Grian: 357
+17: iJevin: 216
+18: Zedaph: 204
+19: Renthedog: 177
+20: VintageBeef: 50
+21: BdoubleO100: 42
+22: GeminiTay: 38
+Total 44407

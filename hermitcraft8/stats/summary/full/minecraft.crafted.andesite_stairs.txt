@@ -1,0 +1,13 @@
+minecraft.crafted.andesite_stairs
+1: impulseSV: 168
+2: Keralis1: 143
+3: joehillssays: 84
+4: Tango: 44
+5: GoodTimeWithScar: 36
+6: Xisuma: 15
+7: PearlescentMoon: 13
+8: Renthedog: 10
+9: falsesymmetry: 8
+10: iJevin: 4
+11: Docm77: 1
+Total 526

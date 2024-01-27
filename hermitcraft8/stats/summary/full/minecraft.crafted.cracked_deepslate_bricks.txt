@@ -1,0 +1,11 @@
+minecraft.crafted.cracked_deepslate_bricks
+1: impulseSV: 1262
+2: iJevin: 943
+3: Xisuma: 740
+4: Stressmonster101: 218
+5: Welsknight: 112
+6: Renthedog: 64
+7: VintageBeef: 64
+8: Tango: 64
+9: PearlescentMoon: 1
+Total 3468

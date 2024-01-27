@@ -1,0 +1,16 @@
+stat.breakItem.minecraft.stone_shovel
+1: Xisuma: 9
+2: Tinfoilchef: 9
+3: Renthedog: 7
+4: GoodTimeWithScar: 6
+5: MumboJumbo: 4
+6: joehillssays: 3
+7: PythonGB: 2
+8: impulseSV: 2
+9: Docm77: 1
+10: VintageBeef: 1
+11: zueljin: 1
+12: Tango: 1
+13: iskall85: 1
+14: xBCrafted: 1
+Total 48

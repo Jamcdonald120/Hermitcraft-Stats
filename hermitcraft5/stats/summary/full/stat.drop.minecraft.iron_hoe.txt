@@ -1,0 +1,11 @@
+stat.drop.minecraft.iron_hoe
+1: Tango: 8
+2: MumboJumbo: 4
+3: xBCrafted: 2
+4: Zedaph: 2
+5: iskall85: 1
+6: falsesymmetry: 1
+7: GoodTimeWithScar: 1
+8: Stressmonster101: 1
+9: impulseSV: 1
+Total 21

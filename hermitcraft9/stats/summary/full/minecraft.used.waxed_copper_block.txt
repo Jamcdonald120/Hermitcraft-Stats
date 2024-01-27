@@ -1,0 +1,18 @@
+minecraft.used.waxed_copper_block
+1: Xisuma: 801
+2: impulseSV: 614
+3: Renthedog: 473
+4: Docm77: 433
+5: GoodTimeWithScar: 146
+6: falsesymmetry: 103
+7: cubfan135: 35
+8: BdoubleO100: 34
+9: Keralis1: 31
+10: Grian: 15
+11: Zedaph: 13
+12: PearlescentMoon: 10
+13: Tango: 3
+14: MythicalSausage: 2
+15: Mumbo: 1
+16: MumboJumbo: 1
+Total 2715

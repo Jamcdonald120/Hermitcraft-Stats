@@ -1,0 +1,12 @@
+minecraft.crafted.suspicious_stew
+1: iJevin: 59
+2: GoodTimeWithScar: 12
+3: Xisuma: 10
+4: Zedaph: 9
+5: PearlescentMoon: 7
+6: cubfan135: 7
+7: iskall85: 5
+8: hypnotizd: 3
+9: GeminiTay: 2
+10: Stressmonster101: 1
+Total 115

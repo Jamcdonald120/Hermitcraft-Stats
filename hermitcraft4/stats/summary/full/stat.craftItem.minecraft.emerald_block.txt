@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.emerald_block
+1: MumboJumbo: 780
+2: iskall85: 192
+3: impulseSV: 116
+4: cubfan135: 45
+5: Tinfoilchef: 12
+6: joehillssays: 5
+7: PythonGB: 4
+Total 1154

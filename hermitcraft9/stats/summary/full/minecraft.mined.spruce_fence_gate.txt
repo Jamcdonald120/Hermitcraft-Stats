@@ -1,0 +1,23 @@
+minecraft.mined.spruce_fence_gate
+1: hypnotizd: 549
+2: GoodTimeWithScar: 80
+3: PearlescentMoon: 65
+4: cubfan135: 30
+5: Docm77: 28
+6: ZombieCleo: 26
+7: iJevin: 25
+8: impulseSV: 25
+9: falsesymmetry: 22
+10: Etho: 19
+11: BdoubleO100: 16
+12: xBCrafted: 14
+13: VintageBeef: 8
+14: Stressmonster101: 7
+15: Keralis1: 7
+16: Tango: 5
+17: Renthedog: 3
+18: GeminiTay: 3
+19: MythicalSausage: 2
+20: Pixlriffs: 2
+21: Smallishbeans: 1
+Total 937

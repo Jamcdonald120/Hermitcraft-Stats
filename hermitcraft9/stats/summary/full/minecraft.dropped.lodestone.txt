@@ -1,0 +1,5 @@
+minecraft.dropped.lodestone
+1: cubfan135: 64
+2: Grian: 2
+3: impulseSV: 1
+Total 67

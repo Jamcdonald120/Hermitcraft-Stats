@@ -1,0 +1,21 @@
+minecraft.used.deepslate_redstone_ore
+1: Renthedog: 455
+2: cubfan135: 285
+3: BdoubleO100: 182
+4: GoodTimeWithScar: 182
+5: falsesymmetry: 112
+6: joehillssays: 56
+7: xBCrafted: 47
+8: ZombieCleo: 46
+9: GeminiTay: 35
+10: Zedaph: 25
+11: Grian: 21
+12: iJevin: 19
+13: Xisuma: 18
+14: Etho: 13
+15: impulseSV: 13
+16: Docm77: 12
+17: PearlescentMoon: 10
+18: Tango: 8
+19: Welsknight: 8
+Total 1547

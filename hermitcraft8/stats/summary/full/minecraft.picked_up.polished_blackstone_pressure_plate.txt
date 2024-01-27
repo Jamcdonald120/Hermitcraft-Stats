@@ -1,0 +1,8 @@
+minecraft.picked_up.polished_blackstone_pressure_plate
+1: Zedaph: 33
+2: GoodTimeWithScar: 9
+3: VintageBeef: 6
+4: Docm77: 4
+5: Xisuma: 2
+6: impulseSV: 1
+Total 55

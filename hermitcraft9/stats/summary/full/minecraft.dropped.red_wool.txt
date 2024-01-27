@@ -1,0 +1,13 @@
+minecraft.dropped.red_wool
+1: falsesymmetry: 1608
+2: iJevin: 510
+3: cubfan135: 387
+4: Tango: 279
+5: Etho: 133
+6: Grian: 94
+7: Keralis1: 27
+8: Zedaph: 11
+9: Docm77: 9
+10: GoodTimeWithScar: 5
+11: Renthedog: 4
+Total 3067

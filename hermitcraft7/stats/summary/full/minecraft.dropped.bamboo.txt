@@ -1,0 +1,20 @@
+minecraft.dropped.bamboo
+1: GoodTimeWithScar: 4046
+2: MumboJumbo: 3033
+3: Xisuma: 2508
+4: Zedaph: 2334
+5: Grian: 1357
+6: iskall85: 917
+7: Tango: 814
+8: Docm77: 658
+9: cubfan135: 584
+10: Etho: 392
+11: Stressmonster101: 290
+12: Keralis1: 266
+13: Renthedog: 261
+14: falsesymmetry: 79
+15: BdoubleO100: 73
+16: impulseSV: 64
+17: joehillssays: 41
+18: xBCrafted: 1
+Total 17718

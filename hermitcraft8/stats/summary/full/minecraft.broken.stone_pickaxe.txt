@@ -1,0 +1,18 @@
+minecraft.broken.stone_pickaxe
+1: Zedaph: 21
+2: joehillssays: 8
+3: Tinfoilchef: 8
+4: BdoubleO100: 6
+5: hypnotizd: 4
+6: Grian: 3
+7: PearlescentMoon: 3
+8: xBCrafted: 3
+9: Docm77: 2
+10: Xisuma: 2
+11: Welsknight: 2
+12: ZombieCleo: 2
+13: GoodTimeWithScar: 2
+14: VintageBeef: 1
+15: falsesymmetry: 1
+16: MumboJumbo: 1
+Total 69

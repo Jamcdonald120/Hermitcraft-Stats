@@ -1,0 +1,17 @@
+minecraft.picked_up.brain_coral
+1: GoodTimeWithScar: 189
+2: ZombieCleo: 46
+3: joehillssays: 42
+4: iJevin: 18
+5: PearlescentMoon: 16
+6: Keralis1: 13
+7: VintageBeef: 8
+8: Docm77: 4
+9: Xisuma: 3
+10: Renthedog: 3
+11: GeminiTay: 3
+12: falsesymmetry: 2
+13: cubfan135: 2
+14: impulseSV: 2
+15: Zedaph: 2
+Total 353

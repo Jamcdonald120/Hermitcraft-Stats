@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.log
+1: Tango: 3792
+2: Xisuma: 2425
+3: Mumbo: 1922
+4: ZombieCleo: 1235
+5: iJevin: 1017
+6: falsesymmetry: 876
+7: Spumwackles: 665
+8: Biffa2001: 581
+9: xBCrafted: 444
+10: zueljin: 344
+11: Tinfoilchef: 116
+12: NameOfSamuel: 50
+13: monkeyfarm: 30
+14: Collen: 17
+15: sl1pg8r: 12
+16: KingDaddyDMAC: 5
+Total 13531

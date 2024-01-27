@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.wooden_shovel
+1: Renthedog: 180
+2: iskall85: 103
+3: Biffa2001: 26
+4: PythonGB: 24
+5: Welsknight: 4
+6: Tinfoilchef: 4
+7: Xisuma: 3
+8: Tango: 3
+9: Jessassin: 2
+10: joehillssays: 2
+11: iJevin: 1
+12: zueljin: 1
+13: GoodTimeWithScar: 1
+14: impulseSV: 1
+Total 355

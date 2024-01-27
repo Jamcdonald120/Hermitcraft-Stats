@@ -1,0 +1,25 @@
+stat.pickup.minecraft.flint
+1: Renthedog: 10041
+2: falsesymmetry: 3065
+3: GoodTimeWithScar: 2805
+4: cubfan135: 2258
+5: impulseSV: 1814
+6: Xisuma: 1747
+7: iskall85: 1358
+8: joehillssays: 1304
+9: PythonGB: 1166
+10: iJevin: 907
+11: Zedaph: 878
+12: Tinfoilchef: 690
+13: Tango: 532
+14: MumboJumbo: 408
+15: xBCrafted: 289
+16: BdoubleO100: 215
+17: ZombieCleo: 213
+18: Stressmonster101: 138
+19: Docm77: 79
+20: VintageBeef: 70
+21: Welsknight: 59
+22: Etho: 47
+23: Biffa2001: 25
+Total 30108

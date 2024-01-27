@@ -1,0 +1,11 @@
+minecraft.used.smooth_red_sandstone_stairs
+1: falsesymmetry: 253
+2: Keralis1: 93
+3: BdoubleO100: 86
+4: Xisuma: 75
+5: Tango: 37
+6: GoodTimeWithScar: 33
+7: Welsknight: 10
+8: VintageBeef: 5
+9: Etho: 1
+Total 593

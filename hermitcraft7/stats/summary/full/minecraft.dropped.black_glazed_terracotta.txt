@@ -1,0 +1,4 @@
+minecraft.dropped.black_glazed_terracotta
+1: Zedaph: 418
+2: Etho: 3
+Total 421

@@ -1,0 +1,9 @@
+minecraft.dropped.deepslate_tile_stairs
+1: Keralis1: 64
+2: Docm77: 16
+3: Xisuma: 4
+4: EvilXisuma: 3
+5: VintageBeef: 2
+6: hypnotizd: 1
+7: GoodTimeWithScar: 1
+Total 91

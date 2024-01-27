@@ -1,0 +1,14 @@
+minecraft.crafted.light_blue_bed
+1: BdoubleO100: 11
+2: ZombieCleo: 7
+3: Etho: 4
+4: MumboJumbo: 4
+5: Keralis1: 4
+6: Grian: 3
+7: cubfan135: 2
+8: GoodTimeWithScar: 2
+9: VintageBeef: 1
+10: iJevin: 1
+11: joehillssays: 1
+12: Stressmonster101: 1
+Total 41

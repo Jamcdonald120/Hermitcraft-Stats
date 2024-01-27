@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.piston
+1: Xisuma: 186
+2: Tango: 183
+3: Mumbo: 107
+4: falsesymmetry: 16
+5: xBCrafted: 4
+6: zueljin: 2
+Total 498

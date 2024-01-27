@@ -1,0 +1,12 @@
+minecraft.picked_up.red_mushroom_block
+1: falsesymmetry: 3695
+2: cubfan135: 3338
+3: Renthedog: 3151
+4: Docm77: 2980
+5: iskall85: 2183
+6: Xisuma: 958
+7: GoodTimeWithScar: 62
+8: Grian: 46
+9: joehillssays: 30
+10: MumboJumbo: 2
+Total 16445

@@ -1,0 +1,27 @@
+minecraft.mined.quartz_block
+1: Tango: 10327
+2: Renthedog: 5629
+3: Etho: 922
+4: VintageBeef: 105
+5: cubfan135: 100
+6: impulseSV: 97
+7: joehillssays: 94
+8: GeminiTay: 56
+9: Stressmonster101: 52
+10: Grian: 50
+11: Zedaph: 48
+12: GoodTimeWithScar: 41
+13: ZombieCleo: 16
+14: Smajor1995: 10
+15: Pixlriffs: 9
+16: Docm77: 8
+17: PearlescentMoon: 7
+18: Smallishbeans: 5
+19: Xisuma: 4
+20: BdoubleO100: 4
+21: OrionSound: 2
+22: falsesymmetry: 2
+23: hypnotizd: 2
+24: xBCrafted: 1
+25: Keralis1: 1
+Total 17592

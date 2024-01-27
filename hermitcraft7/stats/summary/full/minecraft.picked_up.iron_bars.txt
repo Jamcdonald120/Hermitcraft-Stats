@@ -1,0 +1,25 @@
+minecraft.picked_up.iron_bars
+1: Zedaph: 2513
+2: Xisuma: 1299
+3: Keralis1: 1122
+4: falsesymmetry: 800
+5: Tango: 772
+6: cubfan135: 711
+7: impulseSV: 486
+8: Grian: 485
+9: GoodTimeWithScar: 474
+10: VintageBeef: 346
+11: xBCrafted: 325
+12: joehillssays: 271
+13: iJevin: 233
+14: iskall85: 223
+15: Renthedog: 216
+16: BdoubleO100: 212
+17: MumboJumbo: 98
+18: ZombieCleo: 68
+19: Etho: 67
+20: Welsknight: 63
+21: Stressmonster101: 29
+22: Docm77: 26
+23: hypnotizd: 5
+Total 10844

@@ -1,0 +1,13 @@
+stat.drop.minecraft.book
+1: Zedaph: 21
+2: GoodTimeWithScar: 20
+3: MumboJumbo: 13
+4: PythonGB: 10
+5: iskall85: 6
+6: cubfan135: 3
+7: Tinfoilchef: 2
+8: Renthedog: 1
+9: Biffa2001: 1
+10: Etho: 1
+11: impulseSV: 1
+Total 79

@@ -1,0 +1,23 @@
+minecraft.mined.birch_planks
+1: Xisuma: 916
+2: Grian: 762
+3: falsesymmetry: 342
+4: cubfan135: 251
+5: Docm77: 213
+6: Welsknight: 175
+7: GoodTimeWithScar: 138
+8: iJevin: 126
+9: Tango: 123
+10: BdoubleO100: 118
+11: ZombieCleo: 100
+12: impulseSV: 89
+13: iskall85: 66
+14: joehillssays: 47
+15: MumboJumbo: 17
+16: Biffa2001: 13
+17: Renthedog: 11
+18: Keralis1: 6
+19: Tinfoilchef: 2
+20: PythonGB: 1
+21: Zedaph: 1
+Total 3517

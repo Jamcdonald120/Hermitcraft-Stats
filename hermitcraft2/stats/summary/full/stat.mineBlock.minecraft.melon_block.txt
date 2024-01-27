@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.melon_block
+1: Mumbo: 61
+2: Tango: 9
+3: falsesymmetry: 8
+Total 78

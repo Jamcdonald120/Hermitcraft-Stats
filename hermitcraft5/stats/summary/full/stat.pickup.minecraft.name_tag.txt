@@ -1,0 +1,24 @@
+stat.pickup.minecraft.name_tag
+1: Tango: 131
+2: impulseSV: 110
+3: Tinfoilchef: 96
+4: falsesymmetry: 87
+5: cubfan135: 63
+6: Zedaph: 63
+7: Xisuma: 54
+8: iskall85: 43
+9: MumboJumbo: 43
+10: GoodTimeWithScar: 32
+11: Docm77: 28
+12: xBCrafted: 15
+13: Stressmonster101: 14
+14: Renthedog: 6
+15: PythonGB: 6
+16: iJevin: 5
+17: joehillssays: 5
+18: Biffa2001: 5
+19: Etho: 4
+20: BdoubleO100: 3
+21: Welsknight: 3
+22: ZombieCleo: 3
+Total 819

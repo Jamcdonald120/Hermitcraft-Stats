@@ -1,0 +1,25 @@
+stat.pickup.minecraft.minecart
+1: impulseSV: 1366
+2: cubfan135: 819
+3: MumboJumbo: 377
+4: iskall85: 282
+5: Tango: 254
+6: Docm77: 243
+7: Zedaph: 229
+8: Xisuma: 175
+9: Tinfoilchef: 133
+10: Renthedog: 131
+11: PythonGB: 96
+12: iJevin: 78
+13: xBCrafted: 47
+14: GoodTimeWithScar: 44
+15: falsesymmetry: 35
+16: VintageBeef: 25
+17: Welsknight: 12
+18: ZombieCleo: 12
+19: Stressmonster101: 9
+20: BdoubleO100: 7
+21: joehillssays: 6
+22: Biffa2001: 5
+23: Etho: 2
+Total 4387

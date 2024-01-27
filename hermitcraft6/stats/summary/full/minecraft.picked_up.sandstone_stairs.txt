@@ -1,0 +1,22 @@
+minecraft.picked_up.sandstone_stairs
+1: iskall85: 752
+2: GoodTimeWithScar: 296
+3: Xisuma: 284
+4: joehillssays: 268
+5: Zedaph: 261
+6: MumboJumbo: 247
+7: Grian: 233
+8: falsesymmetry: 160
+9: Docm77: 127
+10: Tango: 90
+11: Biffa2001: 79
+12: iJevin: 47
+13: cubfan135: 47
+14: ZombieCleo: 47
+15: Renthedog: 14
+16: Welsknight: 8
+17: HumanCleo: 6
+18: PythonGB: 2
+19: Stressmonster101: 1
+20: impulseSV: 1
+Total 2970

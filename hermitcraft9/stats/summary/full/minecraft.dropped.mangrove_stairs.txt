@@ -1,0 +1,8 @@
+minecraft.dropped.mangrove_stairs
+1: Grian: 4
+2: Tango: 3
+3: GoodTimeWithScar: 2
+4: Renthedog: 1
+5: cubfan135: 1
+6: Stressmonster101: 1
+Total 12

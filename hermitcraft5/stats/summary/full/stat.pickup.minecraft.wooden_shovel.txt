@@ -1,0 +1,11 @@
+stat.pickup.minecraft.wooden_shovel
+1: falsesymmetry: 23
+2: Renthedog: 7
+3: PythonGB: 7
+4: iskall85: 2
+5: Welsknight: 2
+6: iJevin: 1
+7: Tango: 1
+8: xBCrafted: 1
+9: Zedaph: 1
+Total 45

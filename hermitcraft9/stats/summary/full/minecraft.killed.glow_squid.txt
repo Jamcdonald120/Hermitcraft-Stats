@@ -1,0 +1,28 @@
+minecraft.killed.glow_squid
+1: ZombieCleo: 250
+2: cubfan135: 234
+3: hypnotizd: 148
+4: iJevin: 132
+5: GoodTimeWithScar: 100
+6: joehillssays: 94
+7: PearlescentMoon: 94
+8: Tango: 73
+9: impulseSV: 73
+10: falsesymmetry: 58
+11: Docm77: 57
+12: Renthedog: 55
+13: BdoubleO100: 51
+14: RentheKing: 45
+15: Grian: 31
+16: VintageBeef: 24
+17: xBCrafted: 23
+18: Xisuma: 21
+19: iskall85: 17
+20: Keralis1: 10
+21: ShubbleYT: 7
+22: OrionSound: 1
+23: GeminiTay: 1
+24: Pixlriffs: 1
+25: Etho: 1
+26: Tinfoilchef: 1
+Total 1602

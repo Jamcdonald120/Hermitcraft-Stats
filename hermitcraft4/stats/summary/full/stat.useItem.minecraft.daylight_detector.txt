@@ -1,0 +1,12 @@
+stat.useItem.minecraft.daylight_detector
+1: falsesymmetry: 126
+2: VintageBeef: 91
+3: cubfan135: 69
+4: Xisuma: 55
+5: ZombieCleo: 38
+6: Tango: 4
+7: PythonGB: 3
+8: iskall85: 3
+9: MumboJumbo: 3
+10: impulseSV: 1
+Total 393

@@ -1,0 +1,27 @@
+minecraft.used.iron_sword
+1: Tango: 2108
+2: joehillssays: 1678
+3: iJevin: 1202
+4: falsesymmetry: 1180
+5: GoodTimeWithScar: 1034
+6: cubfan135: 1023
+7: Keralis1: 1011
+8: Grian: 917
+9: Zedaph: 912
+10: PythonGB: 758
+11: ZombieCleo: 707
+12: impulseSV: 583
+13: Biffa2001: 546
+14: MumboJumbo: 526
+15: Docm77: 494
+16: Tinfoilchef: 386
+17: xBCrafted: 318
+18: Jessassin: 272
+19: Xisuma: 263
+20: Welsknight: 233
+21: Renthedog: 177
+22: Stressmonster101: 159
+23: BdoubleO100: 152
+24: iskall85: 131
+25: HumanCleo: 55
+Total 16825

@@ -1,0 +1,5 @@
+minecraft.dropped.acacia_sign
+1: GoodTimeWithScar: 20
+2: BdoubleO100: 7
+3: impulseSV: 4
+Total 31

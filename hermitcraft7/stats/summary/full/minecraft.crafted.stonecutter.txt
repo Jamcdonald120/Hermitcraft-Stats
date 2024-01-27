@@ -1,0 +1,24 @@
+minecraft.crafted.stonecutter
+1: Etho: 770
+2: xBCrafted: 321
+3: Grian: 100
+4: GoodTimeWithScar: 91
+5: Xisuma: 81
+6: Tango: 81
+7: hypnotizd: 66
+8: Keralis1: 65
+9: iskall85: 35
+10: cubfan135: 31
+11: joehillssays: 13
+12: BdoubleO100: 10
+13: Stressmonster101: 10
+14: MumboJumbo: 8
+15: impulseSV: 8
+16: VintageBeef: 7
+17: Renthedog: 2
+18: falsesymmetry: 2
+19: Welsknight: 2
+20: Zedaph: 2
+21: Docm77: 1
+22: iJevin: 1
+Total 1707

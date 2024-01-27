@@ -1,0 +1,10 @@
+minecraft.picked_up.end_stone_brick_wall
+1: joehillssays: 33
+2: Docm77: 21
+3: Xisuma: 10
+4: PearlescentMoon: 9
+5: iJevin: 6
+6: hypnotizd: 3
+7: Stressmonster101: 2
+8: GoodTimeWithScar: 1
+Total 85

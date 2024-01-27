@@ -1,0 +1,17 @@
+stat.pickup.minecraft.bone_block
+1: Xisuma: 856
+2: Welsknight: 467
+3: joehillssays: 444
+4: cubfan135: 444
+5: MumboJumbo: 316
+6: VintageBeef: 269
+7: Tango: 254
+8: impulseSV: 178
+9: iskall85: 164
+10: iJevin: 156
+11: GoodTimeWithScar: 68
+12: Zedaph: 64
+13: Tinfoilchef: 48
+14: falsesymmetry: 9
+15: Stressmonster101: 2
+Total 3739

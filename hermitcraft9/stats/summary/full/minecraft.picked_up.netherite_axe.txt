@@ -1,0 +1,22 @@
+minecraft.picked_up.netherite_axe
+1: iJevin: 86
+2: Docm77: 44
+3: PearlescentMoon: 38
+4: cubfan135: 37
+5: Xisuma: 26
+6: impulseSV: 24
+7: GeminiTay: 16
+8: Keralis1: 15
+9: GoodTimeWithScar: 11
+10: Etho: 10
+11: xBCrafted: 9
+12: Minerva246: 2
+13: joehillssays: 2
+14: hypnotizd: 2
+15: MythicalSausage: 1
+16: BdoubleO100: 1
+17: Pixlriffs: 1
+18: iskall85: 1
+19: Mumbo: 1
+20: RentheKing: 1
+Total 328

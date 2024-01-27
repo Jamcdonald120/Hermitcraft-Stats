@@ -1,0 +1,33 @@
+minecraft.mined.oak_planks
+1: VintageBeef: 7843
+2: ZombieCleo: 1826
+3: Grian: 847
+4: Docm77: 749
+5: Tango: 589
+6: GoodTimeWithScar: 462
+7: Etho: 395
+8: cubfan135: 389
+9: PearlescentMoon: 318
+10: Xisuma: 268
+11: Keralis1: 247
+12: Stressmonster101: 196
+13: iJevin: 184
+14: Renthedog: 177
+15: Zedaph: 166
+16: iskall85: 141
+17: falsesymmetry: 136
+18: joehillssays: 113
+19: impulseSV: 87
+20: Mumbo: 68
+21: xBCrafted: 39
+22: MumboJumbo: 22
+23: hypnotizd: 20
+24: GeminiTay: 18
+25: BdoubleO100: 10
+26: Smallishbeans: 8
+27: Smajor1995: 7
+28: MythicalSausage: 2
+29: Pixlriffs: 2
+30: RentheKing: 1
+31: SolidarityGaming: 1
+Total 15331

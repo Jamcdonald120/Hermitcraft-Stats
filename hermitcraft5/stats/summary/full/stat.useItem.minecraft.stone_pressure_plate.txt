@@ -1,0 +1,22 @@
+stat.useItem.minecraft.stone_pressure_plate
+1: Xisuma: 722
+2: Renthedog: 314
+3: Tango: 308
+4: cubfan135: 222
+5: MumboJumbo: 183
+6: impulseSV: 158
+7: joehillssays: 99
+8: GoodTimeWithScar: 76
+9: xBCrafted: 42
+10: iskall85: 37
+11: Zedaph: 31
+12: BdoubleO100: 12
+13: Stressmonster101: 12
+14: falsesymmetry: 10
+15: Docm77: 7
+16: iJevin: 5
+17: PythonGB: 3
+18: Welsknight: 2
+19: Tinfoilchef: 2
+20: VintageBeef: 1
+Total 2246

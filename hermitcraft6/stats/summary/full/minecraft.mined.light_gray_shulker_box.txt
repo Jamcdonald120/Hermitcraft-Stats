@@ -1,0 +1,23 @@
+minecraft.mined.light_gray_shulker_box
+1: Xisuma: 1785
+2: Renthedog: 577
+3: iskall85: 507
+4: iJevin: 304
+5: cubfan135: 273
+6: Stressmonster101: 262
+7: Docm77: 149
+8: Keralis1: 140
+9: Tango: 127
+10: GoodTimeWithScar: 106
+11: Grian: 97
+12: impulseSV: 76
+13: falsesymmetry: 73
+14: PythonGB: 29
+15: joehillssays: 24
+16: Biffa2001: 21
+17: HumanCleo: 16
+18: ZombieCleo: 14
+19: MumboJumbo: 10
+20: Zedaph: 4
+21: BdoubleO100: 3
+Total 4597

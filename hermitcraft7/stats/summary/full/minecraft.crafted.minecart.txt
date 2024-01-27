@@ -1,0 +1,26 @@
+minecraft.crafted.minecart
+1: Xisuma: 2076
+2: Tango: 455
+3: iskall85: 338
+4: Renthedog: 177
+5: impulseSV: 146
+6: MumboJumbo: 129
+7: Grian: 123
+8: Keralis1: 111
+9: Docm77: 103
+10: xBCrafted: 100
+11: hypnotizd: 98
+12: GoodTimeWithScar: 98
+13: Stressmonster101: 85
+14: VintageBeef: 71
+15: Etho: 67
+16: cubfan135: 64
+17: BdoubleO100: 52
+18: falsesymmetry: 50
+19: Zedaph: 44
+20: iJevin: 28
+21: joehillssays: 20
+22: Welsknight: 5
+23: Tinfoilchef: 5
+24: ZombieCleo: 3
+Total 4448

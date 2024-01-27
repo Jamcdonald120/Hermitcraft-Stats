@@ -1,0 +1,32 @@
+minecraft.dropped.bone
+1: Tango: 13034
+2: Xisuma: 5966
+3: Keralis1: 5415
+4: hypnotizd: 4787
+5: iJevin: 3086
+6: Zedaph: 1729
+7: Grian: 876
+8: impulseSV: 860
+9: PearlescentMoon: 711
+10: cubfan135: 537
+11: GoodTimeWithScar: 319
+12: xBCrafted: 268
+13: Docm77: 217
+14: falsesymmetry: 205
+15: Renthedog: 178
+16: joehillssays: 133
+17: VintageBeef: 127
+18: iskall85: 89
+19: GeminiTay: 74
+20: Etho: 51
+21: RentheKing: 35
+22: BdoubleO100: 30
+23: Mumbo: 13
+24: Stressmonster101: 12
+25: MythicalSausage: 9
+26: Pixlriffs: 6
+27: MumboJumbo: 6
+28: ZombieCleo: 2
+29: OrionSound: 1
+30: Welsknight: 1
+Total 38777

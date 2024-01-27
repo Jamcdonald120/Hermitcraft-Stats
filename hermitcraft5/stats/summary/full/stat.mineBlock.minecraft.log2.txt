@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.log2
+1: Welsknight: 28586
+2: GoodTimeWithScar: 28242
+3: cubfan135: 22312
+4: falsesymmetry: 14656
+5: Tango: 10215
+6: xBCrafted: 9901
+7: Stressmonster101: 8992
+8: Xisuma: 7180
+9: Renthedog: 4877
+10: MumboJumbo: 4366
+11: impulseSV: 3801
+12: iskall85: 3302
+13: joehillssays: 2950
+14: BdoubleO100: 2040
+15: PythonGB: 1513
+16: VintageBeef: 297
+17: Zedaph: 287
+18: iJevin: 189
+19: ZombieCleo: 86
+20: Docm77: 72
+21: Tinfoilchef: 70
+22: Biffa2001: 22
+Total 153956

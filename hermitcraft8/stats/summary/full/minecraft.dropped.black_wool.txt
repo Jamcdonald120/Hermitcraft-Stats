@@ -1,0 +1,13 @@
+minecraft.dropped.black_wool
+1: Zedaph: 104
+2: Tango: 67
+3: Renthedog: 54
+4: falsesymmetry: 43
+5: Welsknight: 24
+6: BdoubleO100: 9
+7: Grian: 6
+8: impulseSV: 4
+9: MumboJumbo: 2
+10: GoodTimeWithScar: 2
+11: iJevin: 1
+Total 316

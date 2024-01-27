@@ -1,0 +1,21 @@
+minecraft.dropped.warped_wart_block
+1: Renthedog: 2840
+2: Etho: 980
+3: VintageBeef: 887
+4: falsesymmetry: 832
+5: GoodTimeWithScar: 498
+6: cubfan135: 334
+7: Grian: 188
+8: iskall85: 136
+9: BdoubleO100: 122
+10: Zedaph: 103
+11: MumboJumbo: 85
+12: Tango: 64
+13: impulseSV: 56
+14: joehillssays: 17
+15: Keralis1: 11
+16: hypnotizd: 9
+17: Xisuma: 8
+18: xBCrafted: 1
+19: Stressmonster101: 1
+Total 7172

@@ -1,0 +1,23 @@
+stat.pickup.minecraft.chainmail_boots
+1: GoodTimeWithScar: 54
+2: Renthedog: 32
+3: falsesymmetry: 26
+4: impulseSV: 21
+5: Tango: 17
+6: joehillssays: 15
+7: cubfan135: 14
+8: Welsknight: 12
+9: iJevin: 10
+10: iskall85: 9
+11: Xisuma: 8
+12: Docm77: 6
+13: Tinfoilchef: 5
+14: PythonGB: 4
+15: VintageBeef: 3
+16: ZombieCleo: 3
+17: MumboJumbo: 3
+18: xBCrafted: 2
+19: Biffa2001: 1
+20: Etho: 1
+21: Mumbo: 1
+Total 247

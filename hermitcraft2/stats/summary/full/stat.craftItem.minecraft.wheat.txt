@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.wheat
+1: ZombieCleo: 72
+Total 72

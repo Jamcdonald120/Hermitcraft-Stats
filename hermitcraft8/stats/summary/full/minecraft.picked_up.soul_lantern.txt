@@ -1,0 +1,18 @@
+minecraft.picked_up.soul_lantern
+1: Renthedog: 155
+2: cubfan135: 138
+3: Docm77: 98
+4: iskall85: 37
+5: Xisuma: 27
+6: iJevin: 22
+7: Grian: 19
+8: PearlescentMoon: 13
+9: GoodTimeWithScar: 10
+10: Tango: 5
+11: xBCrafted: 5
+12: GeminiTay: 2
+13: VintageBeef: 1
+14: BdoubleO100: 1
+15: falsesymmetry: 1
+16: Zedaph: 1
+Total 535

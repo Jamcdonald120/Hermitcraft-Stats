@@ -1,0 +1,5 @@
+minecraft.dropped.black_carpet
+1: falsesymmetry: 16
+2: Docm77: 8
+3: hypnotizd: 3
+Total 27

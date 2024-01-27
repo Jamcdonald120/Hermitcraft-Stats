@@ -1,0 +1,26 @@
+stat.pickup.minecraft.torch
+1: falsesymmetry: 16140
+2: Xisuma: 13291
+3: Renthedog: 10738
+4: GoodTimeWithScar: 10053
+5: iskall85: 9416
+6: Tinfoilchef: 9016
+7: Tango: 7086
+8: cubfan135: 6892
+9: joehillssays: 4823
+10: iJevin: 3441
+11: Welsknight: 3269
+12: MumboJumbo: 3159
+13: impulseSV: 2983
+14: PythonGB: 1394
+15: VintageBeef: 1356
+16: ZombieCleo: 1355
+17: Docm77: 1068
+18: Etho: 906
+19: Biffa2001: 840
+20: Jessassin: 490
+21: Mumbo: 274
+22: zueljin: 222
+23: xBCrafted: 162
+24: xisumavoid: 8
+Total 108382

@@ -1,0 +1,8 @@
+minecraft.dropped.brain_coral_fan
+1: GoodTimeWithScar: 105
+2: Zedaph: 6
+3: iJevin: 3
+4: Docm77: 2
+5: Etho: 1
+6: Keralis1: 1
+Total 118

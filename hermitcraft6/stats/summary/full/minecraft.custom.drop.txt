@@ -1,0 +1,37 @@
+minecraft.custom.drop
+1: iskall85: 27873
+2: cubfan135: 20711
+3: GoodTimeWithScar: 20103
+4: Xisuma: 18403
+5: Grian: 15908
+6: Renthedog: 12471
+7: Tango: 11846
+8: falsesymmetry: 8466
+9: Docm77: 7709
+10: iJevin: 7439
+11: MumboJumbo: 7197
+12: impulseSV: 5484
+13: Stressmonster101: 5057
+14: Zedaph: 4809
+15: Welsknight: 3013
+16: Keralis1: 1694
+17: PythonGB: 1571
+18: joehillssays: 1524
+19: ZombieCleo: 1369
+20: BdoubleO100: 953
+21: Tinfoilchef: 929
+22: Biffa2001: 648
+23: xBCrafted: 315
+24: HumanCleo: 66
+25: Duke_da_dog: 57
+26: Jura_Whitey: 48
+27: PokePugx: 47
+28: EvilXisuma: 43
+29: BadTimeWithScar: 40
+30: Jessassin: 36
+31: Cojomax99: 22
+32: PhoenixfireLune: 18
+33: PythonCam: 11
+34: tterrag: 10
+35: Cub_Cam: 1
+Total 185891

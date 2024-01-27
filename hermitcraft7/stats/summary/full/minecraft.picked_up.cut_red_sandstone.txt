@@ -1,0 +1,8 @@
+minecraft.picked_up.cut_red_sandstone
+1: VintageBeef: 23
+2: ZombieCleo: 5
+3: joehillssays: 4
+4: Etho: 4
+5: Keralis1: 3
+6: GoodTimeWithScar: 2
+Total 41

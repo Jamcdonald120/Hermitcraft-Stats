@@ -1,0 +1,5 @@
+stat.pickup.minecraft.spectral_arrow
+1: Welsknight: 8
+2: GoodTimeWithScar: 8
+3: falsesymmetry: 5
+Total 21

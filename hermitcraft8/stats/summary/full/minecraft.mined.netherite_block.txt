@@ -1,0 +1,4 @@
+minecraft.mined.netherite_block
+1: iJevin: 23
+2: cubfan135: 1
+Total 24

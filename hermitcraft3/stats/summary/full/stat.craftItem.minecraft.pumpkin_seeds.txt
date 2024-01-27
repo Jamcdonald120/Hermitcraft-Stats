@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.pumpkin_seeds
+1: Mumbo: 296
+2: ZombieCleo: 48
+3: Tinfoilchef: 40
+4: falsesymmetry: 28
+5: Spumwackles: 20
+6: monkeyfarm: 8
+7: Keralis1: 8
+Total 448

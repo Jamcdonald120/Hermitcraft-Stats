@@ -1,0 +1,6 @@
+stat.drop.minecraft.jungle_fence
+1: cubfan135: 64
+2: GoodTimeWithScar: 38
+3: Zedaph: 25
+4: VintageBeef: 1
+Total 128

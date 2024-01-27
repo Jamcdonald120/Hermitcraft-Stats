@@ -1,0 +1,20 @@
+stat.pickup.minecraft.tripwire_hook
+1: falsesymmetry: 409
+2: cubfan135: 402
+3: GoodTimeWithScar: 276
+4: impulseSV: 256
+5: iJevin: 202
+6: Xisuma: 124
+7: Tango: 54
+8: iskall85: 48
+9: MumboJumbo: 48
+10: Welsknight: 32
+11: Renthedog: 20
+12: joehillssays: 10
+13: PythonGB: 8
+14: Etho: 8
+15: ZombieCleo: 8
+16: Tinfoilchef: 5
+17: Docm77: 3
+18: VintageBeef: 1
+Total 1914

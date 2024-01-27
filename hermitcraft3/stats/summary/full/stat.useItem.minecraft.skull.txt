@@ -1,0 +1,23 @@
+stat.useItem.minecraft.skull
+1: Xisuma: 321
+2: falsesymmetry: 89
+3: Tango: 49
+4: xBCrafted: 45
+5: impulseSV: 25
+6: sl1pg8r: 20
+7: KingDaddyDMAC: 15
+8: Docm77: 12
+9: PythonGB: 12
+10: Biffa2001: 11
+11: zueljin: 9
+12: Mumbo: 9
+13: monkeyfarm: 8
+14: truesymmetry: 7
+15: hypnotizd: 5
+16: Spumwackles: 5
+17: Etho: 3
+18: Keralis1: 3
+19: topmass: 2
+20: iJevin: 1
+21: Mrs_Keralis: 1
+Total 652

@@ -1,0 +1,28 @@
+minecraft.mined.oak_planks
+1: Tango: 5822
+2: Grian: 2051
+3: BdoubleO100: 1214
+4: joehillssays: 974
+5: Xisuma: 572
+6: ZombieCleo: 564
+7: iJevin: 480
+8: hypnotizd: 402
+9: GeminiTay: 389
+10: falsesymmetry: 389
+11: cubfan135: 325
+12: PearlescentMoon: 301
+13: Renthedog: 280
+14: Docm77: 203
+15: xBCrafted: 159
+16: MumboJumbo: 114
+17: GoodTimeWithScar: 100
+18: Zedaph: 93
+19: Welsknight: 84
+20: Keralis1: 54
+21: Etho: 33
+22: iskall85: 30
+23: VintageBeef: 24
+24: Stressmonster101: 21
+25: impulseSV: 11
+26: Tinfoilchef: 6
+Total 14695

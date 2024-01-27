@@ -1,0 +1,10 @@
+stat.mineBlock.minecraft.stone_stairs
+1: Xisuma: 72
+2: zueljin: 36
+3: Tango: 24
+4: falsesymmetry: 21
+5: Mumbo: 18
+6: Tinfoilchef: 18
+7: xBCrafted: 17
+8: Spumwackles: 1
+Total 207

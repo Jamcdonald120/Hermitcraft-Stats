@@ -1,0 +1,25 @@
+minecraft.used.glass
+1: MumboJumbo: 16765
+2: Docm77: 14312
+3: Tango: 12546
+4: iskall85: 11719
+5: Stressmonster101: 8697
+6: iJevin: 7035
+7: Xisuma: 5900
+8: Renthedog: 5812
+9: cubfan135: 5567
+10: impulseSV: 5393
+11: falsesymmetry: 4748
+12: Biffa2001: 1624
+13: Zedaph: 1513
+14: HumanCleo: 1388
+15: Grian: 1235
+16: Tinfoilchef: 1047
+17: Welsknight: 833
+18: joehillssays: 799
+19: Keralis1: 651
+20: GoodTimeWithScar: 240
+21: ZombieCleo: 181
+22: BdoubleO100: 20
+23: PythonGB: 1
+Total 108026

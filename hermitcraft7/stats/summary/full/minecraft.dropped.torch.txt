@@ -1,0 +1,25 @@
+minecraft.dropped.torch
+1: Zedaph: 7710
+2: Grian: 2497
+3: cubfan135: 2073
+4: Tango: 1962
+5: iskall85: 1292
+6: iJevin: 1005
+7: GoodTimeWithScar: 984
+8: Keralis1: 803
+9: Docm77: 528
+10: MumboJumbo: 374
+11: Stressmonster101: 341
+12: Renthedog: 328
+13: falsesymmetry: 326
+14: Etho: 289
+15: impulseSV: 281
+16: Xisuma: 243
+17: VintageBeef: 167
+18: joehillssays: 159
+19: ZombieCleo: 131
+20: xBCrafted: 121
+21: hypnotizd: 85
+22: BdoubleO100: 82
+23: Welsknight: 2
+Total 21783

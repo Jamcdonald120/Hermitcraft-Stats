@@ -1,0 +1,7 @@
+minecraft.mined.wither_rose
+1: impulseSV: 1101
+2: Tango: 794
+3: iJevin: 42
+4: BdoubleO100: 1
+5: Zedaph: 1
+Total 1939

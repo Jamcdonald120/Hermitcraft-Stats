@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.lever
+1: Renthedog: 3459
+2: Tango: 934
+3: cubfan135: 816
+4: MumboJumbo: 671
+5: Docm77: 501
+6: Xisuma: 296
+7: GoodTimeWithScar: 198
+8: falsesymmetry: 193
+9: Welsknight: 187
+10: Tinfoilchef: 182
+11: Zedaph: 178
+12: impulseSV: 168
+13: xBCrafted: 148
+14: ZombieCleo: 130
+15: iJevin: 85
+16: iskall85: 51
+17: PythonGB: 27
+18: VintageBeef: 24
+19: Biffa2001: 17
+20: Stressmonster101: 12
+21: joehillssays: 7
+22: BdoubleO100: 5
+23: Etho: 4
+Total 8293

@@ -1,0 +1,36 @@
+minecraft.picked_up.water_bucket
+1: joehillssays: 270
+2: GoodTimeWithScar: 227
+3: iJevin: 105
+4: Zedaph: 86
+5: cubfan135: 77
+6: PearlescentMoon: 67
+7: impulseSV: 60
+8: GeminiTay: 50
+9: Tango: 47
+10: Xisuma: 39
+11: Grian: 37
+12: falsesymmetry: 36
+13: Renthedog: 34
+14: Etho: 33
+15: Keralis1: 32
+16: Docm77: 30
+17: ZombieCleo: 18
+18: VintageBeef: 17
+19: BdoubleO100: 11
+20: xBCrafted: 11
+21: OrionSound: 9
+22: iskall85: 9
+23: hypnotizd: 9
+24: Stressmonster101: 9
+25: SolidarityGaming: 8
+26: RentheKing: 7
+27: Smallishbeans: 6
+28: MythicalSausage: 5
+29: Smajor1995: 3
+30: Welsknight: 2
+31: Pixlriffs: 1
+32: Mumbo: 1
+33: MumboJumbo: 1
+34: ShubbleYT: 1
+Total 1358

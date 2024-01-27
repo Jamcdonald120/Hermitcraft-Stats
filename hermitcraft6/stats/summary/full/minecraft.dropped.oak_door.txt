@@ -1,0 +1,15 @@
+minecraft.dropped.oak_door
+1: Zedaph: 26
+2: Tango: 19
+3: cubfan135: 11
+4: Grian: 8
+5: MumboJumbo: 8
+6: iskall85: 7
+7: Renthedog: 5
+8: iJevin: 5
+9: falsesymmetry: 3
+10: GoodTimeWithScar: 3
+11: Stressmonster101: 3
+12: Xisuma: 2
+13: Biffa2001: 2
+Total 102

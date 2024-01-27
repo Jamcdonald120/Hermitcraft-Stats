@@ -1,0 +1,22 @@
+stat.useItem.minecraft.waterlily
+1: Stressmonster101: 540
+2: Tango: 280
+3: Biffa2001: 181
+4: impulseSV: 149
+5: falsesymmetry: 143
+6: cubfan135: 86
+7: iJevin: 50
+8: Xisuma: 47
+9: Zedaph: 38
+10: MumboJumbo: 37
+11: joehillssays: 22
+12: Tinfoilchef: 18
+13: Welsknight: 17
+14: Renthedog: 12
+15: VintageBeef: 11
+16: xBCrafted: 8
+17: PythonGB: 6
+18: GoodTimeWithScar: 3
+19: Docm77: 2
+20: iskall85: 1
+Total 1651

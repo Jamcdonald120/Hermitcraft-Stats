@@ -1,0 +1,6 @@
+minecraft.dropped.gray_banner
+1: Keralis1: 10
+2: Tango: 2
+3: cubfan135: 1
+4: Etho: 1
+Total 14

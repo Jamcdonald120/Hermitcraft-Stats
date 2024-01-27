@@ -1,0 +1,24 @@
+minecraft.picked_up.redstone_block
+1: Tinfoilchef: 2575
+2: iskall85: 1224
+3: GoodTimeWithScar: 1137
+4: cubfan135: 1002
+5: Xisuma: 945
+6: Renthedog: 927
+7: impulseSV: 904
+8: Grian: 680
+9: MumboJumbo: 667
+10: Tango: 651
+11: Stressmonster101: 543
+12: Docm77: 472
+13: ZombieCleo: 432
+14: Welsknight: 427
+15: BdoubleO100: 346
+16: iJevin: 323
+17: joehillssays: 265
+18: falsesymmetry: 100
+19: Zedaph: 76
+20: xBCrafted: 57
+21: PythonGB: 41
+22: Keralis1: 33
+Total 13827

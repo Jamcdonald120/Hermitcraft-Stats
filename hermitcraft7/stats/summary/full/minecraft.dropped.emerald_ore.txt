@@ -1,0 +1,6 @@
+minecraft.dropped.emerald_ore
+1: Zedaph: 78
+2: cubfan135: 51
+3: Grian: 1
+4: Tango: 1
+Total 131

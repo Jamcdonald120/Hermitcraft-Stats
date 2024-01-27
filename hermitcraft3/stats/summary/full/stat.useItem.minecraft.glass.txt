@@ -1,0 +1,26 @@
+stat.useItem.minecraft.glass
+1: falsesymmetry: 17504
+2: Xisuma: 9016
+3: ZombieCleo: 4152
+4: Spumwackles: 3677
+5: Mumbo: 3671
+6: Tango: 3651
+7: monkeyfarm: 3100
+8: impulseSV: 3025
+9: sl1pg8r: 2483
+10: Tinfoilchef: 2343
+11: Biffa2001: 986
+12: xBCrafted: 840
+13: KingDaddyDMAC: 541
+14: NameOfSamuel: 346
+15: PythonGB: 311
+16: joehillssays: 197
+17: hypnotizd: 103
+18: iJevin: 85
+19: zueljin: 47
+20: Etho: 46
+21: Keralis1: 36
+22: topmass: 19
+23: Docm77: 18
+24: xisumavoid: 3
+Total 56200

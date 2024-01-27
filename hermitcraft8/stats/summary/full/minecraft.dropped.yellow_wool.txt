@@ -1,0 +1,7 @@
+minecraft.dropped.yellow_wool
+1: BdoubleO100: 879
+2: Zedaph: 362
+3: impulseSV: 64
+4: Grian: 19
+5: cubfan135: 3
+Total 1327

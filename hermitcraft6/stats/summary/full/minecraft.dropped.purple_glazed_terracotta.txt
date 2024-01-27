@@ -1,0 +1,5 @@
+minecraft.dropped.purple_glazed_terracotta
+1: cubfan135: 96
+2: GoodTimeWithScar: 32
+3: Tango: 1
+Total 129

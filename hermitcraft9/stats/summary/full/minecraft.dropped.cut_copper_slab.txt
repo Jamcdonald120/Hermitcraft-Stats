@@ -1,0 +1,7 @@
+minecraft.dropped.cut_copper_slab
+1: cubfan135: 19
+2: Pixlriffs: 2
+3: Docm77: 1
+4: Tango: 1
+5: Zedaph: 1
+Total 24

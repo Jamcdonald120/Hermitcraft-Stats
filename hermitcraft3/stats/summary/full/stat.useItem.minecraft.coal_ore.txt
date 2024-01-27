@@ -1,0 +1,20 @@
+stat.useItem.minecraft.coal_ore
+1: Biffa2001: 2694
+2: xBCrafted: 2280
+3: falsesymmetry: 2210
+4: sl1pg8r: 2131
+5: topmass: 1800
+6: Tango: 1316
+7: Spumwackles: 1090
+8: impulseSV: 1077
+9: Tinfoilchef: 819
+10: zueljin: 697
+11: Mumbo: 656
+12: ZombieCleo: 573
+13: Xisuma: 526
+14: PythonGB: 485
+15: hypnotizd: 326
+16: Etho: 40
+17: iJevin: 22
+18: monkeyfarm: 1
+Total 18743

@@ -1,0 +1,24 @@
+stat.killEntity.Chicken
+1: sl1pg8r: 775
+2: falsesymmetry: 364
+3: monkeyfarm: 210
+4: Xisuma: 114
+5: Tango: 114
+6: impulseSV: 87
+7: Mumbo: 43
+8: Tinfoilchef: 36
+9: hypnotizd: 25
+10: Biffa2001: 21
+11: Spumwackles: 18
+12: xBCrafted: 16
+13: topmass: 12
+14: zueljin: 12
+15: joehillssays: 11
+16: iJevin: 6
+17: Keralis1: 5
+18: Pungence: 3
+19: Collen: 3
+20: PythonGB: 2
+21: KingDaddyDMAC: 1
+22: ZombieCleo: 1
+Total 1879

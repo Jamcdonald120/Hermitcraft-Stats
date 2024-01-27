@@ -1,0 +1,10 @@
+minecraft.dropped.cocoa_beans
+1: ZombieCleo: 64
+2: Xisuma: 34
+3: PearlescentMoon: 12
+4: GoodTimeWithScar: 8
+5: Grian: 7
+6: impulseSV: 6
+7: Etho: 3
+8: BdoubleO100: 1
+Total 135

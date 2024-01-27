@@ -1,0 +1,29 @@
+minecraft.mined.observer
+1: Tango: 3181
+2: Docm77: 2148
+3: Xisuma: 590
+4: iJevin: 532
+5: cubfan135: 404
+6: Keralis1: 395
+7: impulseSV: 302
+8: Etho: 293
+9: Renthedog: 131
+10: Grian: 92
+11: GoodTimeWithScar: 89
+12: hypnotizd: 85
+13: Zedaph: 84
+14: ZombieCleo: 82
+15: iskall85: 65
+16: PearlescentMoon: 64
+17: RentheKing: 63
+18: BdoubleO100: 50
+19: GeminiTay: 46
+20: Stressmonster101: 45
+21: Pixlriffs: 36
+22: falsesymmetry: 27
+23: joehillssays: 26
+24: xBCrafted: 25
+25: Mumbo: 13
+26: MythicalSausage: 8
+27: VintageBeef: 7
+Total 8883

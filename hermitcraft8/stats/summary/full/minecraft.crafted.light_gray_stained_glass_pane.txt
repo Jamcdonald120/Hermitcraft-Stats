@@ -1,0 +1,12 @@
+minecraft.crafted.light_gray_stained_glass_pane
+1: Grian: 1146
+2: GoodTimeWithScar: 1024
+3: impulseSV: 496
+4: ZombieCleo: 96
+5: Keralis1: 96
+6: Tango: 80
+7: Xisuma: 32
+8: falsesymmetry: 32
+9: joehillssays: 24
+10: BdoubleO100: 16
+Total 3042

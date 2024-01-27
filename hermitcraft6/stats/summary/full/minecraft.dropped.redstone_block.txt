@@ -1,0 +1,19 @@
+minecraft.dropped.redstone_block
+1: Renthedog: 472
+2: GoodTimeWithScar: 345
+3: Xisuma: 198
+4: Grian: 149
+5: iskall85: 136
+6: ZombieCleo: 126
+7: MumboJumbo: 108
+8: cubfan135: 105
+9: Tinfoilchef: 65
+10: Tango: 39
+11: impulseSV: 37
+12: Zedaph: 24
+13: Stressmonster101: 14
+14: joehillssays: 12
+15: Keralis1: 8
+16: Docm77: 1
+17: iJevin: 1
+Total 1840

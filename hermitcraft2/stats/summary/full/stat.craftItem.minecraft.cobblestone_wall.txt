@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.cobblestone_wall
+1: Tinfoilchef: 252
+2: Tango: 249
+3: falsesymmetry: 186
+4: xBCrafted: 60
+5: zueljin: 30
+6: Spumwackles: 24
+Total 801

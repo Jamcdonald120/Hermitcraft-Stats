@@ -1,0 +1,23 @@
+stat.drop.minecraft.bread
+1: MumboJumbo: 622
+2: cubfan135: 619
+3: BdoubleO100: 201
+4: ZombieCleo: 159
+5: iJevin: 157
+6: Tango: 135
+7: Stressmonster101: 97
+8: iskall85: 76
+9: Renthedog: 42
+10: Zedaph: 23
+11: Tinfoilchef: 20
+12: GoodTimeWithScar: 14
+13: impulseSV: 14
+14: Welsknight: 9
+15: Xisuma: 8
+16: VintageBeef: 5
+17: xBCrafted: 5
+18: PythonGB: 4
+19: joehillssays: 4
+20: falsesymmetry: 2
+21: Biffa2001: 2
+Total 2218

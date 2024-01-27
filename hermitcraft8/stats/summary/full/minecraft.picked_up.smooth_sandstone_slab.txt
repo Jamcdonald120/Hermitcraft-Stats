@@ -1,0 +1,18 @@
+minecraft.picked_up.smooth_sandstone_slab
+1: Xisuma: 519
+2: ZombieCleo: 308
+3: iJevin: 134
+4: cubfan135: 79
+5: xBCrafted: 66
+6: hypnotizd: 40
+7: joehillssays: 35
+8: PearlescentMoon: 23
+9: Tango: 18
+10: iskall85: 12
+11: Welsknight: 8
+12: impulseSV: 8
+13: falsesymmetry: 4
+14: BdoubleO100: 3
+15: GeminiTay: 1
+16: Grian: 1
+Total 1259

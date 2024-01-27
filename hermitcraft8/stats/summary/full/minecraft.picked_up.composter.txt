@@ -1,0 +1,23 @@
+minecraft.picked_up.composter
+1: Grian: 119
+2: Stressmonster101: 76
+3: PearlescentMoon: 74
+4: Xisuma: 67
+5: GoodTimeWithScar: 66
+6: Tango: 62
+7: iJevin: 55
+8: Etho: 33
+9: impulseSV: 30
+10: cubfan135: 27
+11: GeminiTay: 23
+12: Zedaph: 23
+13: xBCrafted: 22
+14: hypnotizd: 20
+15: Docm77: 12
+16: joehillssays: 4
+17: BdoubleO100: 3
+18: iskall85: 3
+19: ZombieCleo: 3
+20: Keralis1: 2
+21: MumboJumbo: 1
+Total 725

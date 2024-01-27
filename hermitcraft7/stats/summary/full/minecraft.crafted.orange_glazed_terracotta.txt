@@ -1,0 +1,7 @@
+minecraft.crafted.orange_glazed_terracotta
+1: falsesymmetry: 192
+2: VintageBeef: 64
+3: GoodTimeWithScar: 12
+4: Keralis1: 12
+5: impulseSV: 12
+Total 292

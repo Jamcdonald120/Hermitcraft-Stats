@@ -1,0 +1,14 @@
+stat.breakItem.minecraft.stone_shovel
+1: Mumbo: 55
+2: Spumwackles: 24
+3: joehillssays: 5
+4: Tinfoilchef: 5
+5: topmass: 4
+6: falsesymmetry: 2
+7: Biffa2001: 2
+8: Xisuma: 1
+9: zueljin: 1
+10: Pungence: 1
+11: NameOfSamuel: 1
+12: Collen: 1
+Total 102

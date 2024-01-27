@@ -1,0 +1,25 @@
+stat.drop.minecraft.wheat_seeds
+1: Tango: 7416
+2: MumboJumbo: 6816
+3: GoodTimeWithScar: 6102
+4: cubfan135: 3809
+5: impulseSV: 3070
+6: Zedaph: 1599
+7: Xisuma: 1191
+8: Renthedog: 1140
+9: falsesymmetry: 1062
+10: iJevin: 912
+11: Tinfoilchef: 870
+12: Stressmonster101: 771
+13: xBCrafted: 673
+14: iskall85: 644
+15: BdoubleO100: 328
+16: joehillssays: 315
+17: Welsknight: 198
+18: PythonGB: 175
+19: Docm77: 99
+20: VintageBeef: 33
+21: Etho: 27
+22: ZombieCleo: 15
+23: Biffa2001: 14
+Total 37279

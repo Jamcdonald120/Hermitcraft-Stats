@@ -1,0 +1,28 @@
+stat.useItem.minecraft.sign
+1: Xisuma: 1809
+2: cubfan135: 1733
+3: falsesymmetry: 1680
+4: Tango: 763
+5: impulseSV: 750
+6: Renthedog: 663
+7: joehillssays: 609
+8: iskall85: 560
+9: MumboJumbo: 389
+10: Etho: 345
+11: GoodTimeWithScar: 217
+12: Welsknight: 163
+13: ZombieCleo: 151
+14: Tinfoilchef: 148
+15: Biffa2001: 143
+16: PythonGB: 111
+17: iJevin: 92
+18: VintageBeef: 72
+19: Docm77: 36
+20: Mumbo: 32
+21: xisumavoid: 16
+22: hypnotizd: 10
+23: Jessassin: 9
+24: xBCrafted: 3
+25: zueljin: 2
+26: Biffa001: 2
+Total 10508

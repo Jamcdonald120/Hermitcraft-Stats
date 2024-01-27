@@ -1,0 +1,23 @@
+stat.useItem.minecraft.cactus
+1: MumboJumbo: 644
+2: Xisuma: 516
+3: falsesymmetry: 473
+4: Renthedog: 386
+5: impulseSV: 339
+6: GoodTimeWithScar: 330
+7: iskall85: 319
+8: Welsknight: 210
+9: Zedaph: 122
+10: Tango: 66
+11: cubfan135: 53
+12: BdoubleO100: 41
+13: joehillssays: 25
+14: ZombieCleo: 25
+15: xBCrafted: 24
+16: Tinfoilchef: 16
+17: Stressmonster101: 15
+18: Biffa2001: 12
+19: Docm77: 2
+20: Etho: 2
+21: iJevin: 1
+Total 3621

@@ -1,0 +1,19 @@
+stat.useItem.minecraft.glass_pane
+1: joehillssays: 671
+2: Tango: 525
+3: Xisuma: 368
+4: Welsknight: 272
+5: impulseSV: 149
+6: PythonGB: 109
+7: Tinfoilchef: 92
+8: MumboJumbo: 50
+9: cubfan135: 49
+10: ZombieCleo: 40
+11: Renthedog: 39
+12: falsesymmetry: 38
+13: iJevin: 35
+14: GoodTimeWithScar: 22
+15: Mumbo: 15
+16: VintageBeef: 8
+17: iskall85: 4
+Total 2486

@@ -1,0 +1,25 @@
+minecraft.picked_up.oxeye_daisy
+1: Grian: 3785
+2: Docm77: 735
+3: GoodTimeWithScar: 337
+4: impulseSV: 314
+5: cubfan135: 257
+6: Renthedog: 224
+7: falsesymmetry: 126
+8: iJevin: 105
+9: Tango: 92
+10: Xisuma: 65
+11: Welsknight: 57
+12: joehillssays: 54
+13: Keralis1: 36
+14: Zedaph: 35
+15: PythonGB: 34
+16: iskall85: 34
+17: BdoubleO100: 29
+18: MumboJumbo: 26
+19: Stressmonster101: 23
+20: Jessassin: 5
+21: HumanCleo: 4
+22: Cojomax99: 4
+23: Jura_Whitey: 3
+Total 6384

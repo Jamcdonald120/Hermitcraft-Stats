@@ -1,0 +1,29 @@
+stat.mineBlock.minecraft.log
+1: falsesymmetry: 24864
+2: Xisuma: 19533
+3: xBCrafted: 17082
+4: Mumbo: 14841
+5: zueljin: 13438
+6: hypnotizd: 6201
+7: sl1pg8r: 5545
+8: Biffa2001: 5204
+9: iJevin: 4719
+10: ZombieCleo: 4357
+11: Tango: 4139
+12: topmass: 3864
+13: impulseSV: 2983
+14: KingDaddyDMAC: 2974
+15: Etho: 2274
+16: monkeyfarm: 2192
+17: PythonGB: 1607
+18: Tinfoilchef: 1264
+19: Spumwackles: 1207
+20: joehillssays: 601
+21: skyzm: 371
+22: NameOfSamuel: 209
+23: Docm77: 70
+24: Pungence: 43
+25: Collen: 43
+26: Keralis1: 35
+27: Mrs_Keralis: 13
+Total 139673

@@ -1,0 +1,22 @@
+minecraft.crafted.oak_wood
+1: Docm77: 1659
+2: iJevin: 1050
+3: Keralis1: 894
+4: Grian: 795
+5: Etho: 768
+6: iskall85: 399
+7: BdoubleO100: 318
+8: GoodTimeWithScar: 294
+9: GeminiTay: 228
+10: cubfan135: 216
+11: ZombieCleo: 147
+12: Zedaph: 99
+13: PearlescentMoon: 93
+14: Tango: 72
+15: Xisuma: 51
+16: Renthedog: 48
+17: Stressmonster101: 45
+18: RentheKing: 42
+19: impulseSV: 18
+20: VintageBeef: 6
+Total 7242

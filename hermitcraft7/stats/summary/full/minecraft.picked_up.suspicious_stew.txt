@@ -1,0 +1,14 @@
+minecraft.picked_up.suspicious_stew
+1: iJevin: 23
+2: Keralis1: 14
+3: joehillssays: 9
+4: impulseSV: 6
+5: Etho: 2
+6: Xisuma: 1
+7: Renthedog: 1
+8: VintageBeef: 1
+9: BdoubleO100: 1
+10: cubfan135: 1
+11: hypnotizd: 1
+12: GoodTimeWithScar: 1
+Total 61

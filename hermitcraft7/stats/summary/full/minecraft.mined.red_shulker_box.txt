@@ -1,0 +1,27 @@
+minecraft.mined.red_shulker_box
+1: BdoubleO100: 1158
+2: Tango: 1025
+3: Etho: 985
+4: cubfan135: 885
+5: Xisuma: 609
+6: iskall85: 443
+7: hypnotizd: 428
+8: impulseSV: 404
+9: MumboJumbo: 395
+10: Zedaph: 352
+11: ZombieCleo: 334
+12: Keralis1: 246
+13: Renthedog: 229
+14: Stressmonster101: 217
+15: GoodTimeWithScar: 129
+16: joehillssays: 128
+17: falsesymmetry: 124
+18: Docm77: 119
+19: VintageBeef: 105
+20: xBCrafted: 97
+21: Grian: 84
+22: iJevin: 67
+23: Welsknight: 36
+24: Helsknight_: 5
+25: Tinfoilchef: 1
+Total 8605

@@ -1,0 +1,11 @@
+minecraft.picked_up.prismarine_brick_slab
+1: hypnotizd: 1320
+2: iJevin: 528
+3: impulseSV: 259
+4: xBCrafted: 130
+5: Tango: 44
+6: cubfan135: 18
+7: MumboJumbo: 6
+8: GoodTimeWithScar: 5
+9: Xisuma: 3
+Total 2313

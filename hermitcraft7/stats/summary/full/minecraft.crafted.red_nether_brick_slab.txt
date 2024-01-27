@@ -1,0 +1,11 @@
+minecraft.crafted.red_nether_brick_slab
+1: Tango: 1578
+2: impulseSV: 576
+3: cubfan135: 192
+4: GoodTimeWithScar: 168
+5: Grian: 128
+6: Keralis1: 114
+7: hypnotizd: 12
+8: BdoubleO100: 6
+9: Etho: 2
+Total 2776

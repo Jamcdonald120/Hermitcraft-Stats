@@ -1,0 +1,28 @@
+stat.craftItem.minecraft.furnace
+1: Xisuma: 938
+2: Mumbo: 758
+3: falsesymmetry: 432
+4: impulseSV: 367
+5: Tango: 315
+6: zueljin: 217
+7: sl1pg8r: 216
+8: topmass: 168
+9: xBCrafted: 143
+10: iJevin: 139
+11: monkeyfarm: 100
+12: KingDaddyDMAC: 91
+13: Biffa2001: 69
+14: Spumwackles: 54
+15: joehillssays: 47
+16: ZombieCleo: 33
+17: PythonGB: 24
+18: skyzm: 22
+19: Tinfoilchef: 20
+20: Etho: 19
+21: hypnotizd: 18
+22: Keralis1: 12
+23: Docm77: 11
+24: NameOfSamuel: 8
+25: Pungence: 5
+26: Collen: 3
+Total 4229

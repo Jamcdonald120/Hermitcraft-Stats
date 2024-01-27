@@ -1,0 +1,15 @@
+minecraft.dropped.barrel
+1: GoodTimeWithScar: 25
+2: Tango: 16
+3: falsesymmetry: 16
+4: Grian: 5
+5: PearlescentMoon: 4
+6: GeminiTay: 3
+7: cubfan135: 2
+8: Etho: 2
+9: MumboJumbo: 2
+10: Xisuma: 1
+11: VintageBeef: 1
+12: xBCrafted: 1
+13: Zedaph: 1
+Total 79

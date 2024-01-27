@@ -1,0 +1,5 @@
+minecraft.dropped.loom
+1: Zedaph: 80
+2: VintageBeef: 5
+3: Etho: 2
+Total 87

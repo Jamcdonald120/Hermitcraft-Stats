@@ -1,0 +1,25 @@
+stat.drop.minecraft.sand
+1: MumboJumbo: 5232
+2: Zedaph: 3710
+3: cubfan135: 3259
+4: iskall85: 2265
+5: GoodTimeWithScar: 1606
+6: Renthedog: 1564
+7: falsesymmetry: 1482
+8: BdoubleO100: 974
+9: impulseSV: 888
+10: Tango: 339
+11: Xisuma: 283
+12: xBCrafted: 236
+13: PythonGB: 214
+14: Biffa2001: 139
+15: Stressmonster101: 116
+16: ZombieCleo: 66
+17: Welsknight: 48
+18: Etho: 26
+19: joehillssays: 25
+20: Docm77: 20
+21: Tinfoilchef: 8
+22: iJevin: 2
+23: VintageBeef: 1
+Total 22503

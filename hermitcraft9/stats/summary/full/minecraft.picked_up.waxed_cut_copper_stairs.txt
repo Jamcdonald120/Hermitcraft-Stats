@@ -1,0 +1,11 @@
+minecraft.picked_up.waxed_cut_copper_stairs
+1: Grian: 58
+2: impulseSV: 41
+3: Renthedog: 39
+4: BdoubleO100: 17
+5: MythicalSausage: 7
+6: Docm77: 6
+7: falsesymmetry: 3
+8: GoodTimeWithScar: 3
+9: Zedaph: 1
+Total 175

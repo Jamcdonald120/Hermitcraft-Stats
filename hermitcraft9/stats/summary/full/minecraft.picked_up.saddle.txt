@@ -1,0 +1,31 @@
+minecraft.picked_up.saddle
+1: Zedaph: 134
+2: iJevin: 85
+3: Tango: 60
+4: BdoubleO100: 29
+5: Grian: 20
+6: falsesymmetry: 19
+7: Etho: 18
+8: impulseSV: 17
+9: Docm77: 16
+10: PearlescentMoon: 14
+11: Renthedog: 9
+12: cubfan135: 6
+13: hypnotizd: 6
+14: Xisuma: 5
+15: GoodTimeWithScar: 4
+16: OrionSound: 3
+17: Pixlriffs: 3
+18: Mumbo: 3
+19: joehillssays: 2
+20: Smallishbeans: 2
+21: xBCrafted: 2
+22: fWhip: 2
+23: MythicalSausage: 1
+24: GeminiTay: 1
+25: iskall85: 1
+26: InTheLittleWood: 1
+27: Stressmonster101: 1
+28: HBomb94: 1
+29: Keralis1: 1
+Total 466

@@ -1,0 +1,6 @@
+minecraft.picked_up.dark_oak_hanging_sign
+1: impulseSV: 6
+2: cubfan135: 5
+3: GoodTimeWithScar: 5
+4: ZombieCleo: 3
+Total 19

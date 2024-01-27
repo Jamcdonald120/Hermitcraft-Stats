@@ -1,0 +1,21 @@
+minecraft.dropped.book
+1: iJevin: 310
+2: Keralis1: 89
+3: Tango: 44
+4: impulseSV: 31
+5: Grian: 22
+6: falsesymmetry: 22
+7: GoodTimeWithScar: 19
+8: Etho: 15
+9: Zedaph: 12
+10: Docm77: 9
+11: iskall85: 7
+12: GeminiTay: 5
+13: cubfan135: 5
+14: Renthedog: 3
+15: PearlescentMoon: 2
+16: Minerva246: 1
+17: MythicalSausage: 1
+18: Mumbo: 1
+19: MumboJumbo: 1
+Total 599

@@ -1,0 +1,17 @@
+minecraft.dropped.purpur_pillar
+1: Keralis1: 68
+2: GoodTimeWithScar: 66
+3: MumboJumbo: 27
+4: iJevin: 23
+5: Tango: 22
+6: cubfan135: 16
+7: Renthedog: 13
+8: Grian: 10
+9: falsesymmetry: 10
+10: hypnotizd: 9
+11: iskall85: 7
+12: impulseSV: 7
+13: Xisuma: 6
+14: xBCrafted: 4
+15: VintageBeef: 1
+Total 289

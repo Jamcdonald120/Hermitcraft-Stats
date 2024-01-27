@@ -1,0 +1,24 @@
+minecraft.picked_up.glow_item_frame
+1: Grian: 37
+2: iJevin: 23
+3: Zedaph: 22
+4: cubfan135: 18
+5: xBCrafted: 14
+6: Keralis1: 13
+7: Renthedog: 10
+8: Tango: 6
+9: impulseSV: 6
+10: hypnotizd: 5
+11: VintageBeef: 4
+12: falsesymmetry: 4
+13: GeminiTay: 3
+14: BdoubleO100: 2
+15: iskall85: 2
+16: Welsknight: 2
+17: Etho: 2
+18: Docm77: 1
+19: joehillssays: 1
+20: PearlescentMoon: 1
+21: ZombieCleo: 1
+22: MumboJumbo: 1
+Total 178

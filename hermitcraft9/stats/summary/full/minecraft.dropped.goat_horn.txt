@@ -1,0 +1,25 @@
+minecraft.dropped.goat_horn
+1: GoodTimeWithScar: 20
+2: Tango: 18
+3: Keralis1: 8
+4: MythicalSausage: 7
+5: Grian: 6
+6: BdoubleO100: 5
+7: Renthedog: 4
+8: PearlescentMoon: 4
+9: cubfan135: 4
+10: joehillssays: 3
+11: xBCrafted: 3
+12: OrionSound: 2
+13: iJevin: 2
+14: RentheKing: 2
+15: hypnotizd: 2
+16: impulseSV: 2
+17: Docm77: 1
+18: VintageBeef: 1
+19: GeminiTay: 1
+20: Smallishbeans: 1
+21: Etho: 1
+22: ShubbleYT: 1
+23: Zedaph: 1
+Total 99

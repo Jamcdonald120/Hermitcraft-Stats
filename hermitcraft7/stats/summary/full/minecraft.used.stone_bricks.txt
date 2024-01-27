@@ -1,0 +1,26 @@
+minecraft.used.stone_bricks
+1: MumboJumbo: 50132
+2: Xisuma: 29219
+3: iJevin: 28746
+4: Tango: 17768
+5: Grian: 16923
+6: cubfan135: 15623
+7: hypnotizd: 13899
+8: falsesymmetry: 9230
+9: impulseSV: 8922
+10: iskall85: 7534
+11: VintageBeef: 7515
+12: xBCrafted: 7242
+13: Stressmonster101: 6999
+14: Keralis1: 6746
+15: BdoubleO100: 6023
+16: ZombieCleo: 5258
+17: Etho: 3212
+18: Zedaph: 2540
+19: GoodTimeWithScar: 1791
+20: joehillssays: 1531
+21: Welsknight: 774
+22: Docm77: 359
+23: Renthedog: 132
+24: Tinfoilchef: 127
+Total 248245

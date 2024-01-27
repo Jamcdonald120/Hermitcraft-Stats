@@ -1,0 +1,22 @@
+minecraft.used.gold_ore
+1: cubfan135: 135
+2: Xisuma: 119
+3: hypnotizd: 107
+4: Grian: 96
+5: ZombieCleo: 87
+6: Zedaph: 79
+7: PearlescentMoon: 46
+8: Docm77: 45
+9: joehillssays: 35
+10: impulseSV: 35
+11: Etho: 31
+12: GoodTimeWithScar: 24
+13: xBCrafted: 23
+14: Keralis1: 20
+15: falsesymmetry: 17
+16: GeminiTay: 15
+17: VintageBeef: 9
+18: Renthedog: 8
+19: BdoubleO100: 4
+20: Tango: 2
+Total 937

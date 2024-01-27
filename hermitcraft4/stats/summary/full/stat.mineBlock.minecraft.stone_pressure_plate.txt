@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.stone_pressure_plate
+1: falsesymmetry: 90
+2: iskall85: 71
+3: cubfan135: 64
+4: Etho: 35
+5: Tango: 33
+6: VintageBeef: 20
+7: MumboJumbo: 19
+8: impulseSV: 16
+9: Welsknight: 14
+10: Renthedog: 13
+11: Xisuma: 11
+12: GoodTimeWithScar: 8
+13: Docm77: 7
+14: Biffa2001: 7
+15: PythonGB: 1
+16: joehillssays: 1
+17: ZombieCleo: 1
+Total 411

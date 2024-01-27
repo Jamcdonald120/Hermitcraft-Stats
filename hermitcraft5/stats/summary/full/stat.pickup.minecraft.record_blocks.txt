@@ -1,0 +1,6 @@
+stat.pickup.minecraft.record_blocks
+1: Xisuma: 6
+2: cubfan135: 2
+3: Welsknight: 1
+4: GoodTimeWithScar: 1
+Total 10

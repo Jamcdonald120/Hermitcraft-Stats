@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.fence
+1: MumboJumbo: 2409
+2: impulseSV: 1158
+3: Tinfoilchef: 741
+4: PythonGB: 564
+5: GoodTimeWithScar: 477
+6: Zedaph: 477
+7: cubfan135: 465
+8: falsesymmetry: 432
+9: ZombieCleo: 363
+10: iskall85: 297
+11: xBCrafted: 282
+12: Biffa2001: 273
+13: VintageBeef: 246
+14: iJevin: 141
+15: Welsknight: 105
+16: Renthedog: 96
+17: Tango: 96
+18: joehillssays: 75
+19: Stressmonster101: 45
+20: Docm77: 9
+21: Xisuma: 9
+Total 8760

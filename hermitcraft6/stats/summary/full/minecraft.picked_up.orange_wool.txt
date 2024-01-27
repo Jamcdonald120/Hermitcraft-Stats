@@ -1,0 +1,15 @@
+minecraft.picked_up.orange_wool
+1: Xisuma: 5546
+2: ZombieCleo: 558
+3: falsesymmetry: 120
+4: cubfan135: 112
+5: Grian: 98
+6: Biffa2001: 86
+7: Welsknight: 66
+8: GoodTimeWithScar: 66
+9: Renthedog: 47
+10: iskall85: 40
+11: MumboJumbo: 14
+12: BdoubleO100: 5
+13: Tango: 1
+Total 6759

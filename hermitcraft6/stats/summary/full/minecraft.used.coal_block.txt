@@ -1,0 +1,22 @@
+minecraft.used.coal_block
+1: GoodTimeWithScar: 3000
+2: Docm77: 1772
+3: iskall85: 1170
+4: cubfan135: 649
+5: Grian: 595
+6: joehillssays: 592
+7: Xisuma: 537
+8: HumanCleo: 253
+9: iJevin: 140
+10: Renthedog: 138
+11: ZombieCleo: 137
+12: Zedaph: 66
+13: falsesymmetry: 64
+14: BdoubleO100: 44
+15: Tango: 38
+16: Tinfoilchef: 26
+17: xBCrafted: 22
+18: Stressmonster101: 17
+19: impulseSV: 7
+20: PythonGB: 1
+Total 9268

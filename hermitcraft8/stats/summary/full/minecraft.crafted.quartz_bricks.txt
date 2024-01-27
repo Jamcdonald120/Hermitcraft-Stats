@@ -1,0 +1,4 @@
+minecraft.crafted.quartz_bricks
+1: Grian: 884
+2: cubfan135: 32
+Total 916

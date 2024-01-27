@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.packed_ice
+1: falsesymmetry: 11428
+2: Mumbo: 8075
+3: xBCrafted: 6214
+4: Xisuma: 2645
+5: Tinfoilchef: 2531
+6: impulseSV: 2517
+7: Tango: 1844
+8: hypnotizd: 1456
+9: zueljin: 1302
+10: Etho: 1195
+11: Docm77: 1128
+12: KingDaddyDMAC: 581
+13: topmass: 540
+14: iJevin: 449
+15: Biffa2001: 80
+16: sl1pg8r: 49
+17: monkeyfarm: 21
+18: ZombieCleo: 1
+Total 42056

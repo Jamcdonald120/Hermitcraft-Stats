@@ -1,0 +1,9 @@
+minecraft.crafted.leather_horse_armor
+1: Keralis1: 57
+2: GeminiTay: 21
+3: PearlescentMoon: 9
+4: Tango: 5
+5: BdoubleO100: 5
+6: Etho: 5
+7: cubfan135: 1
+Total 103

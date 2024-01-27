@@ -1,0 +1,16 @@
+minecraft.picked_up.chainmail_helmet
+1: Tango: 18
+2: Xisuma: 15
+3: Grian: 15
+4: iskall85: 5
+5: falsesymmetry: 5
+6: impulseSV: 4
+7: cubfan135: 3
+8: hypnotizd: 3
+9: GoodTimeWithScar: 3
+10: joehillssays: 2
+11: Etho: 2
+12: Docm77: 1
+13: BdoubleO100: 1
+14: PearlescentMoon: 1
+Total 78

@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.oak_stairs
+1: Mumbo: 256
+2: zueljin: 44
+3: xBCrafted: 16
+4: falsesymmetry: 16
+Total 332

@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.prismarine
+1: Xisuma: 1957
+2: KingDaddyDMAC: 1
+Total 1958

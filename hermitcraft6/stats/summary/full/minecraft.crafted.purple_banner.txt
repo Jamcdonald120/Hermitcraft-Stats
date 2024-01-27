@@ -1,0 +1,9 @@
+minecraft.crafted.purple_banner
+1: PythonGB: 50
+2: cubfan135: 39
+3: falsesymmetry: 18
+4: Xisuma: 14
+5: Tango: 13
+6: HumanCleo: 10
+7: Stressmonster101: 9
+Total 153

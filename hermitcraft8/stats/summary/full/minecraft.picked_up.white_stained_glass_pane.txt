@@ -1,0 +1,14 @@
+minecraft.picked_up.white_stained_glass_pane
+1: Grian: 84
+2: xBCrafted: 66
+3: Xisuma: 57
+4: Welsknight: 48
+5: Tango: 34
+6: GeminiTay: 29
+7: cubfan135: 27
+8: PearlescentMoon: 25
+9: Docm77: 10
+10: impulseSV: 3
+11: falsesymmetry: 1
+12: Keralis1: 1
+Total 385

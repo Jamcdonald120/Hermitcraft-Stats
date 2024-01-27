@@ -1,0 +1,10 @@
+minecraft.dropped.iron_hoe
+1: Tango: 20
+2: PearlescentMoon: 6
+3: iJevin: 2
+4: Docm77: 1
+5: Grian: 1
+6: falsesymmetry: 1
+7: cubfan135: 1
+8: impulseSV: 1
+Total 33

@@ -1,0 +1,10 @@
+stat.useItem.minecraft.stone_stairs
+1: Xisuma: 98
+2: Tango: 84
+3: falsesymmetry: 81
+4: zueljin: 45
+5: Mumbo: 27
+6: Tinfoilchef: 25
+7: xBCrafted: 19
+8: KingDaddyDMAC: 4
+Total 383

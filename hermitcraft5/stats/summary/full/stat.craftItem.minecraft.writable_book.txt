@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.writable_book
+1: Zedaph: 87
+2: PythonGB: 61
+3: falsesymmetry: 29
+4: GoodTimeWithScar: 21
+5: Tango: 18
+6: MumboJumbo: 18
+7: cubfan135: 17
+8: Welsknight: 12
+9: Biffa2001: 12
+10: Xisuma: 7
+11: Renthedog: 6
+12: iskall85: 6
+13: impulseSV: 5
+14: Stressmonster101: 4
+15: Tinfoilchef: 2
+16: Docm77: 1
+17: iJevin: 1
+18: BdoubleO100: 1
+19: xBCrafted: 1
+20: ZombieCleo: 1
+Total 310

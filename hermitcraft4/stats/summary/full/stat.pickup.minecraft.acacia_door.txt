@@ -1,0 +1,14 @@
+stat.pickup.minecraft.acacia_door
+1: VintageBeef: 39
+2: cubfan135: 13
+3: Renthedog: 7
+4: ZombieCleo: 7
+5: impulseSV: 4
+6: Tango: 3
+7: PythonGB: 2
+8: Tinfoilchef: 2
+9: joehillssays: 1
+10: iskall85: 1
+11: xBCrafted: 1
+12: falsesymmetry: 1
+Total 81

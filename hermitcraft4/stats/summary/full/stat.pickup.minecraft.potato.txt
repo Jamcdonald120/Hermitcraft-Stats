@@ -1,0 +1,24 @@
+stat.pickup.minecraft.potato
+1: impulseSV: 35853
+2: MumboJumbo: 15770
+3: cubfan135: 11915
+4: falsesymmetry: 4921
+5: PythonGB: 3905
+6: GoodTimeWithScar: 2710
+7: Renthedog: 2496
+8: Etho: 2019
+9: Welsknight: 1280
+10: iskall85: 1102
+11: Docm77: 1071
+12: Jessassin: 1031
+13: Biffa2001: 729
+14: Tinfoilchef: 664
+15: xBCrafted: 531
+16: ZombieCleo: 516
+17: VintageBeef: 432
+18: iJevin: 426
+19: joehillssays: 334
+20: Tango: 314
+21: Xisuma: 292
+22: Mumbo: 2
+Total 88313

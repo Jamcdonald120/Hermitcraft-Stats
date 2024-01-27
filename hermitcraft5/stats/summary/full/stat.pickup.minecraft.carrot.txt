@@ -1,0 +1,25 @@
+stat.pickup.minecraft.carrot
+1: ZombieCleo: 19155
+2: Docm77: 11206
+3: Tinfoilchef: 8082
+4: impulseSV: 8014
+5: Zedaph: 7959
+6: Tango: 4077
+7: cubfan135: 3502
+8: Renthedog: 3467
+9: Stressmonster101: 3166
+10: PythonGB: 2356
+11: iJevin: 2065
+12: falsesymmetry: 2039
+13: xBCrafted: 1954
+14: MumboJumbo: 1691
+15: Xisuma: 1685
+16: iskall85: 1577
+17: joehillssays: 688
+18: Biffa2001: 536
+19: GoodTimeWithScar: 492
+20: Welsknight: 440
+21: Etho: 45
+22: VintageBeef: 9
+23: BdoubleO100: 5
+Total 84210

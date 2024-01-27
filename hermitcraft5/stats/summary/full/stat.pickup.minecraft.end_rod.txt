@@ -1,0 +1,20 @@
+stat.pickup.minecraft.end_rod
+1: cubfan135: 1009
+2: Xisuma: 540
+3: GoodTimeWithScar: 499
+4: Tango: 222
+5: Tinfoilchef: 182
+6: iskall85: 180
+7: PythonGB: 152
+8: Zedaph: 60
+9: falsesymmetry: 58
+10: Renthedog: 48
+11: joehillssays: 38
+12: MumboJumbo: 16
+13: Welsknight: 10
+14: iJevin: 9
+15: impulseSV: 5
+16: ZombieCleo: 4
+17: xBCrafted: 1
+18: Biffa2001: 1
+Total 3034

@@ -1,0 +1,28 @@
+minecraft.used.furnace
+1: Xisuma: 1467
+2: MumboJumbo: 1281
+3: Renthedog: 912
+4: cubfan135: 780
+5: iskall85: 738
+6: Welsknight: 542
+7: Tango: 464
+8: iJevin: 426
+9: Grian: 299
+10: joehillssays: 245
+11: impulseSV: 208
+12: Docm77: 154
+13: Stressmonster101: 144
+14: falsesymmetry: 140
+15: Zedaph: 140
+16: Biffa2001: 101
+17: GoodTimeWithScar: 101
+18: Tinfoilchef: 93
+19: PythonGB: 74
+20: BdoubleO100: 69
+21: ZombieCleo: 48
+22: Keralis1: 37
+23: HumanCleo: 32
+24: xBCrafted: 19
+25: Jessassin: 6
+26: EvilXisuma: 2
+Total 8522

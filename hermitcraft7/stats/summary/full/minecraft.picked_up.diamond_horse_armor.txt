@@ -1,0 +1,13 @@
+minecraft.picked_up.diamond_horse_armor
+1: Etho: 9
+2: Zedaph: 8
+3: hypnotizd: 5
+4: iJevin: 4
+5: Xisuma: 3
+6: Renthedog: 3
+7: Tango: 3
+8: Stressmonster101: 2
+9: Grian: 1
+10: xBCrafted: 1
+11: impulseSV: 1
+Total 40

@@ -1,0 +1,5 @@
+minecraft.picked_up.blue_glazed_terracotta
+1: Xisuma: 131
+2: Docm77: 4
+3: Zedaph: 1
+Total 136

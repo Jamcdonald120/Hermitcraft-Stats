@@ -1,0 +1,24 @@
+minecraft.crafted.iron_chestplate
+1: impulseSV: 21
+2: ZombieCleo: 17
+3: cubfan135: 16
+4: Etho: 14
+5: Tango: 12
+6: xBCrafted: 10
+7: Welsknight: 10
+8: MumboJumbo: 8
+9: iskall85: 7
+10: Xisuma: 5
+11: VintageBeef: 5
+12: falsesymmetry: 5
+13: joehillssays: 4
+14: Zedaph: 4
+15: Renthedog: 3
+16: GoodTimeWithScar: 3
+17: iJevin: 2
+18: Grian: 2
+19: BdoubleO100: 1
+20: Tinfoilchef: 1
+21: Stressmonster101: 1
+22: Keralis1: 1
+Total 152

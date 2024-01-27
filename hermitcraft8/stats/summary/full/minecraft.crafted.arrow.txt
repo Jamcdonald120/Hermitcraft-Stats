@@ -1,0 +1,10 @@
+minecraft.crafted.arrow
+1: iskall85: 384
+2: PearlescentMoon: 336
+3: Etho: 336
+4: VintageBeef: 220
+5: cubfan135: 88
+6: xBCrafted: 64
+7: MumboJumbo: 16
+8: GoodTimeWithScar: 4
+Total 1448

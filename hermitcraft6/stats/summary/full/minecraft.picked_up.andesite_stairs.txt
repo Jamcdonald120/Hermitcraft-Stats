@@ -1,0 +1,12 @@
+minecraft.picked_up.andesite_stairs
+1: GoodTimeWithScar: 59
+2: Xisuma: 54
+3: cubfan135: 40
+4: Renthedog: 22
+5: ZombieCleo: 17
+6: iskall85: 16
+7: BdoubleO100: 14
+8: falsesymmetry: 4
+9: Tango: 2
+10: Keralis1: 1
+Total 229

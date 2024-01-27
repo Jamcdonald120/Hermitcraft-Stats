@@ -1,0 +1,22 @@
+minecraft.picked_up.magma_cream
+1: GoodTimeWithScar: 112
+2: impulseSV: 108
+3: falsesymmetry: 103
+4: Tango: 87
+5: cubfan135: 84
+6: Welsknight: 78
+7: iJevin: 61
+8: Renthedog: 57
+9: Biffa2001: 44
+10: PythonGB: 39
+11: iskall85: 35
+12: Docm77: 33
+13: Grian: 17
+14: Xisuma: 13
+15: Stressmonster101: 13
+16: Zedaph: 8
+17: joehillssays: 7
+18: ZombieCleo: 5
+19: MumboJumbo: 3
+20: Keralis1: 3
+Total 910

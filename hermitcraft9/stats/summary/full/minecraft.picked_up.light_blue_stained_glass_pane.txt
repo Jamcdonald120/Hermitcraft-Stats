@@ -1,0 +1,19 @@
+minecraft.picked_up.light_blue_stained_glass_pane
+1: Xisuma: 640
+2: GoodTimeWithScar: 416
+3: falsesymmetry: 244
+4: RentheKing: 104
+5: Renthedog: 85
+6: Tango: 71
+7: joehillssays: 53
+8: Grian: 46
+9: PearlescentMoon: 18
+10: Zedaph: 18
+11: Etho: 10
+12: cubfan135: 9
+13: Keralis1: 2
+14: iJevin: 1
+15: BdoubleO100: 1
+16: ZombieCleo: 1
+17: impulseSV: 1
+Total 1720

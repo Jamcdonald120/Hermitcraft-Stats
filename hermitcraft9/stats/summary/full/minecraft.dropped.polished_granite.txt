@@ -1,0 +1,16 @@
+minecraft.dropped.polished_granite
+1: falsesymmetry: 1155
+2: GoodTimeWithScar: 203
+3: Grian: 123
+4: iJevin: 54
+5: Renthedog: 49
+6: Etho: 7
+7: BdoubleO100: 6
+8: Keralis1: 3
+9: Tango: 2
+10: Docm77: 1
+11: VintageBeef: 1
+12: iskall85: 1
+13: hypnotizd: 1
+14: impulseSV: 1
+Total 1607

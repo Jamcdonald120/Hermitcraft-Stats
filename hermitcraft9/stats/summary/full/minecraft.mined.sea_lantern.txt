@@ -1,0 +1,25 @@
+minecraft.mined.sea_lantern
+1: GeminiTay: 315
+2: falsesymmetry: 286
+3: impulseSV: 257
+4: joehillssays: 253
+5: Docm77: 184
+6: PearlescentMoon: 125
+7: xBCrafted: 96
+8: iJevin: 95
+9: cubfan135: 84
+10: VintageBeef: 68
+11: Xisuma: 46
+12: Renthedog: 38
+13: Tango: 29
+14: iskall85: 11
+15: Keralis1: 11
+16: Mumbo: 9
+17: OrionSound: 5
+18: Stressmonster101: 4
+19: hypnotizd: 3
+20: ZombieCleo: 2
+21: BdoubleO100: 1
+22: fWhip: 1
+23: GoodTimeWithScar: 1
+Total 1924

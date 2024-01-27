@@ -1,0 +1,24 @@
+minecraft.crafted.bookshelf
+1: Etho: 9031
+2: Keralis1: 8489
+3: Grian: 1472
+4: GoodTimeWithScar: 832
+5: Stressmonster101: 578
+6: Xisuma: 310
+7: VintageBeef: 279
+8: iskall85: 176
+9: Tango: 156
+10: xBCrafted: 142
+11: falsesymmetry: 112
+12: hypnotizd: 96
+13: Zedaph: 70
+14: Docm77: 63
+15: cubfan135: 63
+16: BdoubleO100: 59
+17: impulseSV: 54
+18: joehillssays: 45
+19: MumboJumbo: 43
+20: ZombieCleo: 40
+21: iJevin: 39
+22: Renthedog: 24
+Total 22173

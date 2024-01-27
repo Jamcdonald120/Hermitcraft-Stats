@@ -1,0 +1,20 @@
+stat.pickup.minecraft.blaze_rod
+1: Xisuma: 12496
+2: cubfan135: 6430
+3: Biffa2001: 4598
+4: impulseSV: 4210
+5: Tango: 2517
+6: GoodTimeWithScar: 1477
+7: falsesymmetry: 860
+8: Renthedog: 798
+9: iJevin: 722
+10: iskall85: 721
+11: MumboJumbo: 564
+12: Docm77: 219
+13: Tinfoilchef: 102
+14: PythonGB: 96
+15: Welsknight: 94
+16: joehillssays: 66
+17: Etho: 41
+18: VintageBeef: 8
+Total 36019

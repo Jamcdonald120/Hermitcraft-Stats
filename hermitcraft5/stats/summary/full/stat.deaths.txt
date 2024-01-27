@@ -1,0 +1,28 @@
+stat.deaths
+1: GoodTimeWithScar: 191
+2: Tango: 130
+3: Zedaph: 109
+4: Renthedog: 102
+5: impulseSV: 79
+6: cubfan135: 72
+7: joehillssays: 46
+8: Docm77: 45
+9: falsesymmetry: 44
+10: iJevin: 43
+11: MumboJumbo: 35
+12: Xisuma: 26
+13: PythonGB: 26
+14: iskall85: 26
+15: Welsknight: 21
+16: Tinfoilchef: 16
+17: xisumavoid: 12
+18: BdoubleO100: 8
+19: Etho: 8
+20: ZombieCleo: 8
+21: xBCrafted: 5
+22: Biffa2001: 5
+23: VintageBeef: 3
+24: Stressmonster101: 3
+25: EvilXisuma: 1
+26: Lechaion: 1
+Total 1065

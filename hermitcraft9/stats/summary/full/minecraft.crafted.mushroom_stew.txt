@@ -1,0 +1,9 @@
+minecraft.crafted.mushroom_stew
+1: PearlescentMoon: 61
+2: Xisuma: 47
+3: impulseSV: 29
+4: GeminiTay: 26
+5: iJevin: 6
+6: xBCrafted: 1
+7: Zedaph: 1
+Total 171

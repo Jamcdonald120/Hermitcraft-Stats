@@ -1,0 +1,4 @@
+minecraft.dropped.white_glazed_terracotta
+1: cubfan135: 64
+2: Renthedog: 8
+Total 72

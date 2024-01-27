@@ -1,0 +1,20 @@
+minecraft.crafted.raw_gold
+1: GoodTimeWithScar: 1818
+2: cubfan135: 1485
+3: hypnotizd: 900
+4: iskall85: 891
+5: VintageBeef: 495
+6: xBCrafted: 396
+7: Docm77: 351
+8: iJevin: 288
+9: Etho: 288
+10: impulseSV: 270
+11: PearlescentMoon: 108
+12: Xisuma: 90
+13: Renthedog: 72
+14: Grian: 72
+15: Zedaph: 72
+16: GeminiTay: 63
+17: joehillssays: 45
+18: falsesymmetry: 45
+Total 7749

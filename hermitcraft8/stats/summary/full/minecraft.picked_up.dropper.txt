@@ -1,0 +1,22 @@
+minecraft.picked_up.dropper
+1: Zedaph: 172
+2: impulseSV: 143
+3: GoodTimeWithScar: 139
+4: Tango: 90
+5: iJevin: 83
+6: cubfan135: 68
+7: Xisuma: 61
+8: MumboJumbo: 61
+9: Docm77: 38
+10: Welsknight: 38
+11: iskall85: 29
+12: hypnotizd: 13
+13: Etho: 11
+14: Grian: 9
+15: GeminiTay: 7
+16: xBCrafted: 6
+17: BdoubleO100: 4
+18: Keralis1: 4
+19: falsesymmetry: 3
+20: Renthedog: 2
+Total 981

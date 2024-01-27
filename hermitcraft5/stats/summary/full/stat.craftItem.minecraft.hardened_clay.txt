@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.hardened_clay
+1: ZombieCleo: 1180
+2: falsesymmetry: 155
+3: BdoubleO100: 26
+4: GoodTimeWithScar: 12
+5: Stressmonster101: 1
+Total 1374

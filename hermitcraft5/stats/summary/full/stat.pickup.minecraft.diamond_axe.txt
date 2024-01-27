@@ -1,0 +1,25 @@
+stat.pickup.minecraft.diamond_axe
+1: GoodTimeWithScar: 125
+2: cubfan135: 59
+3: Tango: 44
+4: Renthedog: 41
+5: Docm77: 37
+6: MumboJumbo: 32
+7: iJevin: 31
+8: impulseSV: 28
+9: iskall85: 25
+10: Zedaph: 24
+11: PythonGB: 23
+12: joehillssays: 17
+13: Welsknight: 17
+14: Stressmonster101: 15
+15: ZombieCleo: 12
+16: Xisuma: 11
+17: falsesymmetry: 10
+18: Tinfoilchef: 6
+19: BdoubleO100: 5
+20: xBCrafted: 4
+21: VintageBeef: 3
+22: Biffa2001: 3
+23: Etho: 1
+Total 573

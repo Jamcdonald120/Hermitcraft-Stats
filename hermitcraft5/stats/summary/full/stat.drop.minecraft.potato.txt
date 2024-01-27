@@ -1,0 +1,22 @@
+stat.drop.minecraft.potato
+1: MumboJumbo: 31173
+2: Zedaph: 12467
+3: Tango: 11561
+4: iskall85: 2568
+5: Renthedog: 1941
+6: cubfan135: 1341
+7: Tinfoilchef: 1266
+8: iJevin: 778
+9: Stressmonster101: 694
+10: impulseSV: 379
+11: Xisuma: 356
+12: ZombieCleo: 232
+13: GoodTimeWithScar: 180
+14: xBCrafted: 73
+15: falsesymmetry: 15
+16: PythonGB: 11
+17: Biffa2001: 3
+18: Docm77: 2
+19: Etho: 2
+20: BdoubleO100: 1
+Total 65043

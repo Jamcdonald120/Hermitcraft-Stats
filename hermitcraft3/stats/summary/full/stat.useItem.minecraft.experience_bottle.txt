@@ -1,0 +1,5 @@
+stat.useItem.minecraft.experience_bottle
+1: Keralis1: 42
+2: xBCrafted: 8
+3: ZombieCleo: 2
+Total 52

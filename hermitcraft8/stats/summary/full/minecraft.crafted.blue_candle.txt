@@ -1,0 +1,4 @@
+minecraft.crafted.blue_candle
+1: ZombieCleo: 221
+2: Tango: 136
+Total 357

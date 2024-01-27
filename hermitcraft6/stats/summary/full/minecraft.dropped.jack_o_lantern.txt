@@ -1,0 +1,9 @@
+minecraft.dropped.jack_o_lantern
+1: MumboJumbo: 21
+2: Renthedog: 2
+3: falsesymmetry: 2
+4: ZombieCleo: 2
+5: Zedaph: 2
+6: Docm77: 1
+7: iskall85: 1
+Total 31

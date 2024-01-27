@@ -1,0 +1,19 @@
+minecraft.killed_by.zombie
+1: MumboJumbo: 428
+2: GoodTimeWithScar: 17
+3: Renthedog: 10
+4: iskall85: 6
+5: Docm77: 5
+6: Grian: 5
+7: iJevin: 4
+8: joehillssays: 4
+9: Xisuma: 3
+10: Tinfoilchef: 3
+11: Keralis1: 2
+12: impulseSV: 2
+13: Zedaph: 2
+14: HumanCleo: 1
+15: Tango: 1
+16: BdoubleO100: 1
+17: xBCrafted: 1
+Total 495

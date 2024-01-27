@@ -1,0 +1,11 @@
+minecraft.dropped.mossy_cobblestone_slab
+1: MythicalSausage: 63
+2: Tango: 38
+3: GoodTimeWithScar: 29
+4: falsesymmetry: 25
+5: iJevin: 14
+6: cubfan135: 5
+7: Zedaph: 5
+8: Grian: 2
+9: RentheKing: 1
+Total 182

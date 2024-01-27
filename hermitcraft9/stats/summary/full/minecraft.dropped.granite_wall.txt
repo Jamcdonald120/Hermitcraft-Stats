@@ -1,0 +1,5 @@
+minecraft.dropped.granite_wall
+1: falsesymmetry: 40
+2: Tango: 26
+3: GoodTimeWithScar: 5
+Total 71

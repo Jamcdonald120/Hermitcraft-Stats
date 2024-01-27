@@ -1,0 +1,5 @@
+stat.drop.minecraft.bowl
+1: MumboJumbo: 60
+2: iskall85: 12
+3: cubfan135: 1
+Total 73

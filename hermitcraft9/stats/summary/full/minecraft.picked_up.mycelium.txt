@@ -1,0 +1,16 @@
+minecraft.picked_up.mycelium
+1: Renthedog: 9692
+2: PearlescentMoon: 3802
+3: RentheKing: 1856
+4: Etho: 564
+5: GoodTimeWithScar: 523
+6: Tango: 415
+7: cubfan135: 136
+8: VintageBeef: 111
+9: iJevin: 70
+10: ZombieCleo: 38
+11: GeminiTay: 32
+12: Docm77: 2
+13: Grian: 2
+14: Zedaph: 1
+Total 17244

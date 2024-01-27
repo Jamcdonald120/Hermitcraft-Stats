@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.enchanting_table
+1: falsesymmetry: 9
+2: zueljin: 8
+3: KingDaddyDMAC: 7
+4: Spumwackles: 5
+5: PythonGB: 3
+6: Xisuma: 2
+7: xBCrafted: 2
+8: sl1pg8r: 1
+9: topmass: 1
+10: iJevin: 1
+11: Tango: 1
+12: monkeyfarm: 1
+Total 41

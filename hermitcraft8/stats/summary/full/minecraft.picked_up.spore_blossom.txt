@@ -1,0 +1,21 @@
+minecraft.picked_up.spore_blossom
+1: GeminiTay: 71
+2: PearlescentMoon: 63
+3: joehillssays: 23
+4: iJevin: 17
+5: Renthedog: 15
+6: Grian: 8
+7: iskall85: 6
+8: ZombieCleo: 6
+9: Stressmonster101: 6
+10: cubfan135: 5
+11: GoodTimeWithScar: 5
+12: Tango: 4
+13: BdoubleO100: 3
+14: falsesymmetry: 3
+15: xBCrafted: 2
+16: MumboJumbo: 2
+17: hypnotizd: 1
+18: Keralis1: 1
+19: impulseSV: 1
+Total 242

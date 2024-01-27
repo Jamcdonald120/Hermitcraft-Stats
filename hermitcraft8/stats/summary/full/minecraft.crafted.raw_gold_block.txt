@@ -1,0 +1,17 @@
+minecraft.crafted.raw_gold_block
+1: cubfan135: 570
+2: GoodTimeWithScar: 135
+3: iJevin: 127
+4: impulseSV: 126
+5: GeminiTay: 33
+6: ZombieCleo: 30
+7: PearlescentMoon: 27
+8: Etho: 23
+9: joehillssays: 14
+10: BdoubleO100: 13
+11: hypnotizd: 11
+12: xBCrafted: 10
+13: iskall85: 9
+14: Tinfoilchef: 2
+15: Tango: 1
+Total 1131

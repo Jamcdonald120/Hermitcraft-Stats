@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.hopper
+1: Xisuma: 1591
+2: xBCrafted: 721
+3: Mumbo: 583
+4: Tango: 403
+5: iJevin: 369
+6: impulseSV: 247
+7: KingDaddyDMAC: 202
+8: Tinfoilchef: 199
+9: monkeyfarm: 194
+10: hypnotizd: 182
+11: Biffa2001: 176
+12: sl1pg8r: 84
+13: falsesymmetry: 78
+14: Etho: 62
+15: zueljin: 52
+16: Docm77: 46
+17: ZombieCleo: 18
+18: topmass: 15
+19: Spumwackles: 2
+Total 5224

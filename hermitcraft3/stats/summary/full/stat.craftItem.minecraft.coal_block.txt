@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.coal_block
+1: Biffa2001: 712
+2: Xisuma: 454
+3: topmass: 414
+4: xBCrafted: 387
+5: hypnotizd: 287
+6: impulseSV: 252
+7: ZombieCleo: 249
+8: falsesymmetry: 207
+9: PythonGB: 197
+10: sl1pg8r: 168
+11: Mumbo: 166
+12: KingDaddyDMAC: 129
+13: monkeyfarm: 101
+14: Spumwackles: 83
+15: Tango: 50
+16: NameOfSamuel: 49
+17: zueljin: 48
+18: Etho: 45
+19: joehillssays: 4
+Total 4002

@@ -1,0 +1,19 @@
+minecraft.dropped.tripwire_hook
+1: Zedaph: 209
+2: Tango: 176
+3: falsesymmetry: 41
+4: GoodTimeWithScar: 13
+5: Xisuma: 10
+6: xBCrafted: 10
+7: Keralis1: 9
+8: Etho: 8
+9: Docm77: 5
+10: cubfan135: 5
+11: Stressmonster101: 4
+12: impulseSV: 4
+13: iskall85: 3
+14: joehillssays: 2
+15: BdoubleO100: 2
+16: VintageBeef: 1
+17: hypnotizd: 1
+Total 503

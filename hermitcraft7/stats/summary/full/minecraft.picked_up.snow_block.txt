@@ -1,0 +1,19 @@
+minecraft.picked_up.snow_block
+1: cubfan135: 21280
+2: iJevin: 4440
+3: Etho: 2789
+4: iskall85: 2374
+5: Zedaph: 1706
+6: GoodTimeWithScar: 1236
+7: Xisuma: 982
+8: Keralis1: 429
+9: Tango: 319
+10: Grian: 197
+11: hypnotizd: 127
+12: joehillssays: 100
+13: falsesymmetry: 93
+14: Renthedog: 90
+15: impulseSV: 87
+16: VintageBeef: 76
+17: BdoubleO100: 26
+Total 36351

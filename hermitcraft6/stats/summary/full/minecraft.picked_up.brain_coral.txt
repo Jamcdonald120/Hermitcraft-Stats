@@ -1,0 +1,12 @@
+minecraft.picked_up.brain_coral
+1: GoodTimeWithScar: 195
+2: cubfan135: 170
+3: Grian: 53
+4: Xisuma: 10
+5: Docm77: 6
+6: iJevin: 6
+7: Renthedog: 2
+8: joehillssays: 2
+9: falsesymmetry: 2
+10: PythonGB: 1
+Total 447

@@ -1,0 +1,25 @@
+minecraft.picked_up.magma_block
+1: cubfan135: 19979
+2: Grian: 12111
+3: Renthedog: 8203
+4: iskall85: 7610
+5: hypnotizd: 7377
+6: Etho: 5992
+7: MumboJumbo: 5941
+8: Xisuma: 4242
+9: iJevin: 3627
+10: xBCrafted: 3439
+11: Stressmonster101: 1806
+12: falsesymmetry: 1124
+13: GoodTimeWithScar: 814
+14: joehillssays: 614
+15: impulseSV: 506
+16: Tango: 372
+17: Zedaph: 235
+18: Keralis1: 153
+19: ZombieCleo: 144
+20: VintageBeef: 111
+21: Welsknight: 28
+22: Docm77: 27
+23: BdoubleO100: 21
+Total 84476

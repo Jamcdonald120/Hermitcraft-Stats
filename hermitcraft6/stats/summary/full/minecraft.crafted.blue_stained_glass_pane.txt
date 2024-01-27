@@ -1,0 +1,15 @@
+minecraft.crafted.blue_stained_glass_pane
+1: PythonGB: 2765
+2: GoodTimeWithScar: 1168
+3: Xisuma: 352
+4: cubfan135: 344
+5: joehillssays: 288
+6: Docm77: 160
+7: Renthedog: 112
+8: iskall85: 80
+9: Tango: 48
+10: Welsknight: 16
+11: ZombieCleo: 16
+12: MumboJumbo: 16
+13: Tinfoilchef: 16
+Total 5381

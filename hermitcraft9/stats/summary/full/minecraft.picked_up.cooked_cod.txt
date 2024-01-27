@@ -1,0 +1,20 @@
+minecraft.picked_up.cooked_cod
+1: PearlescentMoon: 180
+2: Grian: 174
+3: MythicalSausage: 86
+4: Zedaph: 42
+5: GeminiTay: 26
+6: OrionSound: 24
+7: Xisuma: 13
+8: GoodTimeWithScar: 13
+9: Stressmonster101: 13
+10: iskall85: 12
+11: Mumbo: 8
+12: MumboJumbo: 8
+13: joehillssays: 6
+14: Pixlriffs: 5
+15: iJevin: 3
+16: VintageBeef: 2
+17: xBCrafted: 2
+18: Etho: 2
+Total 619

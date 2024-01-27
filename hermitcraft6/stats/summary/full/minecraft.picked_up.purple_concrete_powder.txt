@@ -1,0 +1,10 @@
+minecraft.picked_up.purple_concrete_powder
+1: Tango: 3856
+2: iskall85: 53
+3: Xisuma: 46
+4: falsesymmetry: 22
+5: Stressmonster101: 9
+6: cubfan135: 7
+7: PythonGB: 2
+8: GoodTimeWithScar: 2
+Total 3997

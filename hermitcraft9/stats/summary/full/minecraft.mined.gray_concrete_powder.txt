@@ -1,0 +1,21 @@
+minecraft.mined.gray_concrete_powder
+1: cubfan135: 237
+2: impulseSV: 215
+3: GeminiTay: 115
+4: VintageBeef: 95
+5: PearlescentMoon: 55
+6: BdoubleO100: 39
+7: GoodTimeWithScar: 39
+8: Docm77: 31
+9: RentheKing: 24
+10: MythicalSausage: 11
+11: iJevin: 10
+12: Tango: 6
+13: Keralis1: 4
+14: Xisuma: 3
+15: iskall85: 2
+16: Renthedog: 1
+17: Grian: 1
+18: Etho: 1
+19: ZombieCleo: 1
+Total 890

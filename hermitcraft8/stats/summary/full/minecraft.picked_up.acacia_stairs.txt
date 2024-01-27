@@ -1,0 +1,13 @@
+minecraft.picked_up.acacia_stairs
+1: joehillssays: 101
+2: falsesymmetry: 41
+3: Grian: 33
+4: PearlescentMoon: 15
+5: Xisuma: 13
+6: BdoubleO100: 5
+7: MumboJumbo: 5
+8: Tango: 3
+9: GoodTimeWithScar: 3
+10: Welsknight: 1
+11: Keralis1: 1
+Total 221

@@ -1,0 +1,28 @@
+minecraft.used.spruce_planks
+1: Grian: 15209
+2: Renthedog: 6861
+3: Welsknight: 6499
+4: GoodTimeWithScar: 5696
+5: iJevin: 3970
+6: cubfan135: 3935
+7: BdoubleO100: 2828
+8: Stressmonster101: 2242
+9: iskall85: 2085
+10: Xisuma: 2073
+11: impulseSV: 1737
+12: Docm77: 1519
+13: falsesymmetry: 1501
+14: ZombieCleo: 1120
+15: Tinfoilchef: 985
+16: Keralis1: 570
+17: HumanCleo: 456
+18: joehillssays: 177
+19: MumboJumbo: 107
+20: PythonGB: 59
+21: Biffa2001: 27
+22: Tango: 18
+23: Zedaph: 6
+24: BadTimeWithScar: 5
+25: Jessassin: 4
+26: Jura_Whitey: 1
+Total 59690

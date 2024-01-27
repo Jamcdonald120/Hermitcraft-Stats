@@ -1,0 +1,16 @@
+minecraft.picked_up.yellow_stained_glass_pane
+1: Xisuma: 314
+2: falsesymmetry: 240
+3: RentheKing: 73
+4: Grian: 63
+5: GoodTimeWithScar: 50
+6: Zedaph: 44
+7: PearlescentMoon: 26
+8: Renthedog: 24
+9: cubfan135: 21
+10: joehillssays: 15
+11: iJevin: 5
+12: GeminiTay: 4
+13: impulseSV: 3
+14: Tango: 1
+Total 883

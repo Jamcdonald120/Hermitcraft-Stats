@@ -1,0 +1,26 @@
+stat.useItem.minecraft.written_book
+1: Tango: 140
+2: zueljin: 71
+3: Mumbo: 70
+4: xBCrafted: 57
+5: falsesymmetry: 56
+6: Biffa2001: 40
+7: iJevin: 38
+8: Xisuma: 37
+9: Tinfoilchef: 30
+10: impulseSV: 30
+11: Etho: 21
+12: topmass: 19
+13: PythonGB: 19
+14: ZombieCleo: 19
+15: sl1pg8r: 18
+16: hypnotizd: 10
+17: monkeyfarm: 9
+18: Docm77: 8
+19: Keralis1: 7
+20: KingDaddyDMAC: 5
+21: xisumavoid: 5
+22: Spumwackles: 5
+23: skyzm: 1
+24: joehillssays: 1
+Total 716

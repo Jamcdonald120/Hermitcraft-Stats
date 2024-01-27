@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.hopper_minecart
+1: Xisuma: 135
+2: iskall85: 129
+3: impulseSV: 88
+4: MumboJumbo: 62
+5: cubfan135: 33
+6: Tango: 15
+7: Docm77: 12
+8: falsesymmetry: 12
+9: iJevin: 6
+10: Welsknight: 2
+11: Etho: 2
+Total 496

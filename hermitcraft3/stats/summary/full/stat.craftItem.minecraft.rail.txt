@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.rail
+1: falsesymmetry: 4569
+2: Xisuma: 4123
+3: xBCrafted: 3200
+4: Tinfoilchef: 2960
+5: Tango: 2768
+6: sl1pg8r: 1920
+7: Mumbo: 1296
+8: monkeyfarm: 1283
+9: impulseSV: 1088
+10: topmass: 864
+11: ZombieCleo: 672
+12: Etho: 576
+13: Docm77: 560
+14: Biffa2001: 416
+15: iJevin: 192
+16: PythonGB: 112
+17: zueljin: 112
+18: KingDaddyDMAC: 80
+19: hypnotizd: 64
+Total 26855

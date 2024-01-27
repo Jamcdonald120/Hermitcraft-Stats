@@ -1,0 +1,25 @@
+minecraft.crafted.purple_dye
+1: cubfan135: 13704
+2: Grian: 2684
+3: ZombieCleo: 2480
+4: Xisuma: 2260
+5: hypnotizd: 1872
+6: Etho: 1854
+7: iJevin: 1808
+8: impulseSV: 760
+9: falsesymmetry: 552
+10: Tango: 524
+11: joehillssays: 480
+12: PearlescentMoon: 398
+13: Renthedog: 365
+14: xBCrafted: 256
+15: Stressmonster101: 234
+16: VintageBeef: 138
+17: GoodTimeWithScar: 98
+18: Docm77: 78
+19: Zedaph: 77
+20: Keralis1: 60
+21: GeminiTay: 2
+22: BdoubleO100: 2
+23: RentheKing: 2
+Total 30688

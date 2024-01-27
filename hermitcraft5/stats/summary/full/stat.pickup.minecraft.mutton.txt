@@ -1,0 +1,27 @@
+stat.pickup.minecraft.mutton
+1: GoodTimeWithScar: 3274
+2: BdoubleO100: 1068
+3: Tinfoilchef: 991
+4: Xisuma: 659
+5: Tango: 415
+6: MumboJumbo: 320
+7: Welsknight: 296
+8: cubfan135: 285
+9: Zedaph: 261
+10: EvilXisuma: 248
+11: Stressmonster101: 220
+12: iskall85: 196
+13: falsesymmetry: 157
+14: Etho: 71
+15: Biffa2001: 70
+16: xBCrafted: 53
+17: ZombieCleo: 33
+18: VintageBeef: 23
+19: iJevin: 20
+20: Renthedog: 18
+21: PythonGB: 16
+22: Docm77: 15
+23: impulseSV: 12
+24: joehillssays: 11
+25: xisumavoid: 2
+Total 8734

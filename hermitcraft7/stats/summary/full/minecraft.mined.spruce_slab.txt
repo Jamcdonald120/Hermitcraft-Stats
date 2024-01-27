@@ -1,0 +1,25 @@
+minecraft.mined.spruce_slab
+1: GoodTimeWithScar: 2391
+2: MumboJumbo: 2133
+3: Renthedog: 1764
+4: xBCrafted: 1547
+5: Keralis1: 1156
+6: Etho: 928
+7: falsesymmetry: 679
+8: Grian: 562
+9: Xisuma: 351
+10: cubfan135: 319
+11: iskall85: 276
+12: Tango: 261
+13: impulseSV: 258
+14: Zedaph: 238
+15: BdoubleO100: 170
+16: Welsknight: 130
+17: hypnotizd: 125
+18: joehillssays: 105
+19: VintageBeef: 68
+20: Stressmonster101: 61
+21: ZombieCleo: 48
+22: Docm77: 40
+23: iJevin: 1
+Total 13611

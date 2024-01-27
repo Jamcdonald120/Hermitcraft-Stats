@@ -1,0 +1,21 @@
+minecraft.broken.stone_pickaxe
+1: GoodTimeWithScar: 30
+2: joehillssays: 13
+3: BdoubleO100: 8
+4: Tinfoilchef: 6
+5: ZombieCleo: 5
+6: Grian: 4
+7: PythonGB: 3
+8: falsesymmetry: 3
+9: Zedaph: 3
+10: iJevin: 2
+11: Tango: 2
+12: xBCrafted: 2
+13: Docm77: 1
+14: iskall85: 1
+15: cubfan135: 1
+16: Biffa2001: 1
+17: MumboJumbo: 1
+18: Stressmonster101: 1
+19: impulseSV: 1
+Total 88

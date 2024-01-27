@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.snow
+1: Welsknight: 885
+2: Xisuma: 666
+3: GoodTimeWithScar: 644
+4: MumboJumbo: 611
+5: cubfan135: 483
+6: falsesymmetry: 340
+7: impulseSV: 267
+8: Tango: 237
+9: iskall85: 132
+10: PythonGB: 105
+11: Tinfoilchef: 17
+12: xBCrafted: 9
+13: Docm77: 4
+Total 4400

@@ -1,0 +1,19 @@
+minecraft.picked_up.chiseled_polished_blackstone
+1: Tango: 387
+2: cubfan135: 229
+3: xBCrafted: 95
+4: Etho: 77
+5: GoodTimeWithScar: 49
+6: Xisuma: 41
+7: impulseSV: 22
+8: falsesymmetry: 19
+9: VintageBeef: 17
+10: Grian: 16
+11: iskall85: 15
+12: hypnotizd: 8
+13: joehillssays: 7
+14: Renthedog: 6
+15: Docm77: 3
+16: MumboJumbo: 2
+17: Zedaph: 1
+Total 994

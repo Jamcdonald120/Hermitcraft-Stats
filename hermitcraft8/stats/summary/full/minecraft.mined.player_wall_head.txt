@@ -1,0 +1,23 @@
+minecraft.mined.player_wall_head
+1: Renthedog: 36
+2: PearlescentMoon: 32
+3: GeminiTay: 17
+4: Grian: 14
+5: xBCrafted: 14
+6: Docm77: 10
+7: cubfan135: 8
+8: GoodTimeWithScar: 8
+9: iskall85: 7
+10: Stressmonster101: 7
+11: Zedaph: 6
+12: iJevin: 4
+13: Etho: 3
+14: hypnotizd: 3
+15: impulseSV: 3
+16: joehillssays: 2
+17: MumboJumbo: 2
+18: Xisuma: 1
+19: falsesymmetry: 1
+20: Welsknight: 1
+21: ZombieCleo: 1
+Total 180

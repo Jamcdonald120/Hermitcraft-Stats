@@ -1,0 +1,10 @@
+stat.useItem.minecraft.brown_mushroom
+1: falsesymmetry: 42
+2: monkeyfarm: 24
+3: Tango: 15
+4: Xisuma: 13
+5: Tinfoilchef: 11
+6: xBCrafted: 2
+7: sl1pg8r: 1
+8: hypnotizd: 1
+Total 109

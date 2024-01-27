@@ -1,0 +1,9 @@
+minecraft.picked_up.jungle_pressure_plate
+1: cubfan135: 26
+2: Zedaph: 7
+3: iskall85: 4
+4: Xisuma: 2
+5: impulseSV: 2
+6: Renthedog: 1
+7: Tango: 1
+Total 43

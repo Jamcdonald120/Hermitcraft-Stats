@@ -1,0 +1,3 @@
+stat.useItem.minecraft.leaves2
+1: ZombieCleo: 80
+Total 80

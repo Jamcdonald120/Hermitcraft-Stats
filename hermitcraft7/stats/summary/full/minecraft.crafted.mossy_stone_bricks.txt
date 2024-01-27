@@ -1,0 +1,19 @@
+minecraft.crafted.mossy_stone_bricks
+1: GoodTimeWithScar: 1256
+2: Tango: 481
+3: xBCrafted: 456
+4: hypnotizd: 384
+5: Stressmonster101: 361
+6: Etho: 244
+7: BdoubleO100: 242
+8: joehillssays: 231
+9: Grian: 128
+10: Zedaph: 125
+11: Keralis1: 96
+12: VintageBeef: 49
+13: iskall85: 37
+14: Docm77: 26
+15: Renthedog: 21
+16: falsesymmetry: 18
+17: MumboJumbo: 14
+Total 4169

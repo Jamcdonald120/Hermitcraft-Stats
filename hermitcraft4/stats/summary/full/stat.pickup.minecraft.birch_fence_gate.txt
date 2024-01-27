@@ -1,0 +1,10 @@
+stat.pickup.minecraft.birch_fence_gate
+1: cubfan135: 185
+2: falsesymmetry: 70
+3: Xisuma: 17
+4: impulseSV: 17
+5: MumboJumbo: 15
+6: iJevin: 8
+7: Docm77: 1
+8: iskall85: 1
+Total 314

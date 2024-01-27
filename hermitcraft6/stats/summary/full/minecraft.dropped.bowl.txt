@@ -1,0 +1,17 @@
+minecraft.dropped.bowl
+1: Xisuma: 119
+2: Biffa2001: 111
+3: Stressmonster101: 33
+4: Docm77: 29
+5: cubfan135: 12
+6: iskall85: 10
+7: GoodTimeWithScar: 10
+8: ZombieCleo: 7
+9: Grian: 2
+10: Tango: 2
+11: MumboJumbo: 2
+12: Renthedog: 1
+13: PythonGB: 1
+14: falsesymmetry: 1
+15: Zedaph: 1
+Total 341

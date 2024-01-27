@@ -1,0 +1,27 @@
+minecraft.killed.blaze
+1: Keralis1: 14154
+2: impulseSV: 2050
+3: Tango: 424
+4: iJevin: 286
+5: cubfan135: 243
+6: Docm77: 96
+7: Xisuma: 87
+8: iskall85: 78
+9: PearlescentMoon: 56
+10: hypnotizd: 55
+11: Grian: 50
+12: Renthedog: 46
+13: Stressmonster101: 43
+14: VintageBeef: 32
+15: xBCrafted: 26
+16: falsesymmetry: 24
+17: ZombieCleo: 24
+18: Etho: 18
+19: Welsknight: 7
+20: GeminiTay: 5
+21: Pixlriffs: 5
+22: joehillssays: 4
+23: Mumbo: 4
+24: BdoubleO100: 3
+25: Zedaph: 2
+Total 17822

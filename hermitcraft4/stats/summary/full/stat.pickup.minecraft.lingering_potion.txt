@@ -1,0 +1,4 @@
+stat.pickup.minecraft.lingering_potion
+1: falsesymmetry: 3
+2: cubfan135: 1
+Total 4

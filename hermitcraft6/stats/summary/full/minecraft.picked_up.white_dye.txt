@@ -1,0 +1,18 @@
+minecraft.picked_up.white_dye
+1: Grian: 3843
+2: PythonGB: 3218
+3: iskall85: 666
+4: GoodTimeWithScar: 369
+5: Renthedog: 163
+6: ZombieCleo: 85
+7: falsesymmetry: 66
+8: Stressmonster101: 57
+9: Keralis1: 51
+10: MumboJumbo: 31
+11: Zedaph: 26
+12: Xisuma: 21
+13: iJevin: 15
+14: Docm77: 9
+15: joehillssays: 2
+16: cubfan135: 1
+Total 8623

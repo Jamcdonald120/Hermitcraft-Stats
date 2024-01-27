@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.dark_oak_fence_gate
+1: falsesymmetry: 33
+2: monkeyfarm: 9
+3: Xisuma: 2
+4: Biffa2001: 2
+5: Tinfoilchef: 2
+Total 48

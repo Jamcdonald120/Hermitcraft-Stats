@@ -1,0 +1,8 @@
+minecraft.picked_up.dead_bubble_coral_fan
+1: cubfan135: 284
+2: GoodTimeWithScar: 78
+3: joehillssays: 64
+4: iJevin: 32
+5: MumboJumbo: 31
+6: falsesymmetry: 2
+Total 491

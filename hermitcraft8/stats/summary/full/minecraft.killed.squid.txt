@@ -1,0 +1,26 @@
+minecraft.killed.squid
+1: GoodTimeWithScar: 650
+2: Renthedog: 524
+3: Docm77: 423
+4: Grian: 164
+5: xBCrafted: 129
+6: VintageBeef: 92
+7: Etho: 77
+8: Tango: 67
+9: iJevin: 66
+10: Xisuma: 60
+11: cubfan135: 57
+12: PearlescentMoon: 53
+13: Welsknight: 52
+14: hypnotizd: 50
+15: Keralis1: 48
+16: ZombieCleo: 42
+17: falsesymmetry: 29
+18: impulseSV: 26
+19: Zedaph: 26
+20: joehillssays: 21
+21: BdoubleO100: 20
+22: iskall85: 7
+23: Stressmonster101: 3
+24: GeminiTay: 1
+Total 2687

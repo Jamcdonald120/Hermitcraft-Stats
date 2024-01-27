@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.snow
+1: cubfan135: 7458
+2: MumboJumbo: 5578
+3: Renthedog: 5398
+4: falsesymmetry: 2065
+5: Xisuma: 859
+6: Zedaph: 584
+7: Tango: 495
+8: iskall85: 177
+9: ZombieCleo: 177
+10: Etho: 118
+11: GoodTimeWithScar: 100
+12: impulseSV: 12
+13: iJevin: 3
+14: xBCrafted: 2
+15: Welsknight: 2
+16: Tinfoilchef: 2
+17: Docm77: 1
+18: joehillssays: 1
+Total 23032

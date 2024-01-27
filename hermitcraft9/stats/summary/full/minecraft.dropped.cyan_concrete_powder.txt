@@ -1,0 +1,7 @@
+minecraft.dropped.cyan_concrete_powder
+1: falsesymmetry: 255
+2: impulseSV: 80
+3: GoodTimeWithScar: 64
+4: Tango: 36
+5: Etho: 4
+Total 439

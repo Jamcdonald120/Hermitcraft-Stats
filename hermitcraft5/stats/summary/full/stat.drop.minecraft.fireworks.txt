@@ -1,0 +1,22 @@
+stat.drop.minecraft.fireworks
+1: Tango: 13150
+2: iskall85: 1468
+3: Zedaph: 1244
+4: cubfan135: 787
+5: Welsknight: 730
+6: MumboJumbo: 676
+7: Renthedog: 428
+8: impulseSV: 374
+9: falsesymmetry: 339
+10: GoodTimeWithScar: 253
+11: iJevin: 119
+12: BdoubleO100: 93
+13: Xisuma: 69
+14: Biffa2001: 64
+15: Stressmonster101: 64
+16: xBCrafted: 61
+17: PythonGB: 41
+18: Tinfoilchef: 8
+19: Etho: 2
+20: joehillssays: 1
+Total 19971

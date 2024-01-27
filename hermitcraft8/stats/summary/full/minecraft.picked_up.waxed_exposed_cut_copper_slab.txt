@@ -1,0 +1,6 @@
+minecraft.picked_up.waxed_exposed_cut_copper_slab
+1: Docm77: 28
+2: PearlescentMoon: 10
+3: impulseSV: 2
+4: BdoubleO100: 1
+Total 41

@@ -1,0 +1,7 @@
+minecraft.dropped.stripped_oak_wood
+1: Keralis1: 133
+2: cubfan135: 12
+3: GoodTimeWithScar: 4
+4: hypnotizd: 3
+5: VintageBeef: 2
+Total 154

@@ -1,0 +1,31 @@
+minecraft.picked_up.spider_eye
+1: Zedaph: 10701
+2: Keralis1: 9886
+3: Etho: 9508
+4: joehillssays: 9246
+5: ZombieCleo: 7628
+6: Renthedog: 5507
+7: BdoubleO100: 3850
+8: Xisuma: 2898
+9: iJevin: 2529
+10: PearlescentMoon: 2060
+11: Grian: 1650
+12: falsesymmetry: 1552
+13: impulseSV: 1458
+14: cubfan135: 1332
+15: Tango: 1014
+16: VintageBeef: 886
+17: Docm77: 668
+18: hypnotizd: 472
+19: xBCrafted: 456
+20: GoodTimeWithScar: 197
+21: GeminiTay: 176
+22: iskall85: 110
+23: Stressmonster101: 26
+24: RentheKing: 10
+25: Pixlriffs: 8
+26: Welsknight: 7
+27: MythicalSausage: 1
+28: Mumbo: 1
+29: MumboJumbo: 1
+Total 73838

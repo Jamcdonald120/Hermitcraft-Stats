@@ -1,0 +1,9 @@
+minecraft.picked_up.music_disc_wait
+1: falsesymmetry: 82
+2: impulseSV: 58
+3: Grian: 34
+4: joehillssays: 8
+5: cubfan135: 8
+6: iskall85: 2
+7: GoodTimeWithScar: 1
+Total 193

@@ -1,0 +1,8 @@
+stat.drop.minecraft.armor_stand
+1: falsesymmetry: 8
+2: iskall85: 7
+3: cubfan135: 3
+4: ZombieCleo: 2
+5: Tango: 1
+6: GoodTimeWithScar: 1
+Total 22

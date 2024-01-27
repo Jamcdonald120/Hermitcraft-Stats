@@ -1,0 +1,5 @@
+minecraft.mined.dead_bubble_coral_wall_fan
+1: falsesymmetry: 22
+2: GoodTimeWithScar: 18
+3: Renthedog: 1
+Total 41

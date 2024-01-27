@@ -1,0 +1,24 @@
+minecraft.picked_up.name_tag
+1: PearlescentMoon: 863
+2: Docm77: 144
+3: pillbugnine: 94
+4: impulseSV: 70
+5: Xisuma: 49
+6: Etho: 32
+7: MumboJumbo: 32
+8: iskall85: 31
+9: Grian: 19
+10: EvilXisuma: 14
+11: cubfan135: 7
+12: Welsknight: 7
+13: hypnotizd: 6
+14: Renthedog: 5
+15: iJevin: 3
+16: GeminiTay: 3
+17: GoodTimeWithScar: 3
+18: Zedaph: 3
+19: BdoubleO100: 2
+20: falsesymmetry: 2
+21: Tango: 1
+22: ZombieCleo: 1
+Total 1391

@@ -1,0 +1,11 @@
+minecraft.crafted.cut_sandstone
+1: Xisuma: 5380
+2: ZombieCleo: 5056
+3: GoodTimeWithScar: 1475
+4: cubfan135: 633
+5: impulseSV: 512
+6: PearlescentMoon: 128
+7: Docm77: 21
+8: Keralis1: 4
+9: Zedaph: 1
+Total 13210

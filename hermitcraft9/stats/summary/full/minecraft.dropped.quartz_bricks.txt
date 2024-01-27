@@ -1,0 +1,10 @@
+minecraft.dropped.quartz_bricks
+1: iJevin: 18
+2: Grian: 6
+3: Zedaph: 6
+4: Renthedog: 3
+5: Etho: 3
+6: Xisuma: 2
+7: falsesymmetry: 2
+8: BdoubleO100: 1
+Total 41

@@ -1,0 +1,15 @@
+minecraft.picked_up.andesite_wall
+1: Keralis1: 662
+2: PearlescentMoon: 431
+3: xBCrafted: 346
+4: GoodTimeWithScar: 203
+5: Grian: 154
+6: iJevin: 33
+7: Xisuma: 16
+8: ZombieCleo: 14
+9: Tango: 11
+10: Docm77: 8
+11: impulseSV: 4
+12: iskall85: 1
+13: MumboJumbo: 1
+Total 1884

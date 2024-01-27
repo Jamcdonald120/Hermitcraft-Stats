@@ -1,0 +1,4 @@
+stat.drop.minecraft.bookshelf
+1: MumboJumbo: 16
+2: PythonGB: 1
+Total 17

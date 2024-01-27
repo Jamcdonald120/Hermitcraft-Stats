@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.chest
+1: Xisuma: 1725
+2: iJevin: 1616
+3: Tango: 1413
+4: falsesymmetry: 1386
+5: cubfan135: 907
+6: iskall85: 790
+7: impulseSV: 646
+8: GoodTimeWithScar: 641
+9: Tinfoilchef: 563
+10: Renthedog: 536
+11: Welsknight: 400
+12: MumboJumbo: 311
+13: PythonGB: 153
+14: Biffa2001: 122
+15: joehillssays: 109
+16: Etho: 77
+17: VintageBeef: 63
+18: Docm77: 59
+19: ZombieCleo: 41
+20: zueljin: 21
+21: Mumbo: 9
+22: Jessassin: 7
+23: xBCrafted: 2
+Total 11597

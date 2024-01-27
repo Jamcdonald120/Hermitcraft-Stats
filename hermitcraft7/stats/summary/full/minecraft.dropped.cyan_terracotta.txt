@@ -1,0 +1,21 @@
+minecraft.dropped.cyan_terracotta
+1: Zedaph: 4932
+2: GoodTimeWithScar: 464
+3: Grian: 323
+4: Xisuma: 296
+5: cubfan135: 294
+6: impulseSV: 234
+7: iskall85: 153
+8: Stressmonster101: 129
+9: Renthedog: 101
+10: falsesymmetry: 82
+11: Keralis1: 80
+12: MumboJumbo: 59
+13: Etho: 31
+14: Tango: 21
+15: Docm77: 3
+16: VintageBeef: 2
+17: iJevin: 2
+18: BdoubleO100: 2
+19: joehillssays: 1
+Total 7209

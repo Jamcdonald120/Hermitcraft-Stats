@@ -1,0 +1,14 @@
+stat.drop.minecraft.iron_chestplate
+1: falsesymmetry: 200
+2: Renthedog: 8
+3: Tango: 5
+4: Xisuma: 3
+5: cubfan135: 3
+6: GoodTimeWithScar: 3
+7: Docm77: 2
+8: iskall85: 2
+9: Welsknight: 2
+10: Etho: 2
+11: Tinfoilchef: 1
+12: impulseSV: 1
+Total 232

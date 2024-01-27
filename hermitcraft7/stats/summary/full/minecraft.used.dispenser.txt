@@ -1,0 +1,25 @@
+minecraft.used.dispenser
+1: Tango: 536
+2: Xisuma: 372
+3: cubfan135: 355
+4: Etho: 315
+5: impulseSV: 282
+6: MumboJumbo: 271
+7: Keralis1: 226
+8: Renthedog: 204
+9: VintageBeef: 184
+10: iskall85: 167
+11: joehillssays: 154
+12: GoodTimeWithScar: 154
+13: BdoubleO100: 153
+14: Grian: 113
+15: Zedaph: 112
+16: iJevin: 95
+17: falsesymmetry: 41
+18: hypnotizd: 37
+19: Stressmonster101: 35
+20: xBCrafted: 33
+21: Docm77: 26
+22: Welsknight: 26
+23: ZombieCleo: 10
+Total 3901

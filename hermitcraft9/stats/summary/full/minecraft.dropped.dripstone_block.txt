@@ -1,0 +1,21 @@
+minecraft.dropped.dripstone_block
+1: Grian: 1411
+2: Docm77: 511
+3: iJevin: 364
+4: Renthedog: 105
+5: Tango: 87
+6: falsesymmetry: 64
+7: Keralis1: 48
+8: hypnotizd: 45
+9: Etho: 22
+10: VintageBeef: 12
+11: Zedaph: 9
+12: cubfan135: 8
+13: BdoubleO100: 7
+14: iskall85: 7
+15: Xisuma: 5
+16: impulseSV: 5
+17: GoodTimeWithScar: 4
+18: joehillssays: 2
+19: PearlescentMoon: 2
+Total 2718

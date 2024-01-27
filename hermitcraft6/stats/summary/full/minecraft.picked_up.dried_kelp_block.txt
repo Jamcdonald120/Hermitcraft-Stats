@@ -1,0 +1,19 @@
+minecraft.picked_up.dried_kelp_block
+1: Xisuma: 39445
+2: Tinfoilchef: 7326
+3: impulseSV: 2280
+4: iJevin: 1632
+5: cubfan135: 1542
+6: GoodTimeWithScar: 837
+7: falsesymmetry: 672
+8: Grian: 600
+9: Renthedog: 471
+10: Tango: 424
+11: joehillssays: 296
+12: MumboJumbo: 212
+13: Welsknight: 64
+14: Keralis1: 32
+15: BdoubleO100: 25
+16: Jessassin: 14
+17: iskall85: 1
+Total 55873

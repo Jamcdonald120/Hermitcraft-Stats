@@ -1,0 +1,10 @@
+minecraft.dropped.wooden_hoe
+1: Docm77: 5
+2: BdoubleO100: 4
+3: GoodTimeWithScar: 4
+4: Etho: 3
+5: Xisuma: 2
+6: VintageBeef: 1
+7: iJevin: 1
+8: ZombieCleo: 1
+Total 21

@@ -1,0 +1,27 @@
+minecraft.picked_up.barrel
+1: GoodTimeWithScar: 261
+2: PearlescentMoon: 251
+3: impulseSV: 153
+4: Xisuma: 137
+5: cubfan135: 130
+6: ZombieCleo: 100
+7: Renthedog: 78
+8: Tango: 76
+9: Keralis1: 72
+10: Grian: 71
+11: MumboJumbo: 60
+12: Stressmonster101: 58
+13: joehillssays: 50
+14: BdoubleO100: 48
+15: xBCrafted: 46
+16: iskall85: 42
+17: falsesymmetry: 33
+18: hypnotizd: 29
+19: GeminiTay: 25
+20: Etho: 24
+21: Zedaph: 22
+22: iJevin: 21
+23: VintageBeef: 9
+24: Docm77: 5
+25: Welsknight: 1
+Total 1802

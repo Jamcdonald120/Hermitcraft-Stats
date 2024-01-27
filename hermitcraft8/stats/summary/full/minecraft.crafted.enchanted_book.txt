@@ -1,0 +1,19 @@
+minecraft.crafted.enchanted_book
+1: Keralis1: 1842
+2: Xisuma: 1401
+3: Grian: 1300
+4: iJevin: 874
+5: Stressmonster101: 595
+6: GoodTimeWithScar: 317
+7: Zedaph: 172
+8: PearlescentMoon: 166
+9: cubfan135: 51
+10: Welsknight: 16
+11: iskall85: 13
+12: hypnotizd: 11
+13: Etho: 6
+14: MumboJumbo: 5
+15: BdoubleO100: 2
+16: Docm77: 1
+17: impulseSV: 1
+Total 6773

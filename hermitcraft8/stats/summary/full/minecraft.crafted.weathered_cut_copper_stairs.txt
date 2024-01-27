@@ -1,0 +1,5 @@
+minecraft.crafted.weathered_cut_copper_stairs
+1: Renthedog: 8
+2: Etho: 4
+3: cubfan135: 1
+Total 13

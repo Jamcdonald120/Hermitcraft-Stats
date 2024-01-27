@@ -1,0 +1,13 @@
+minecraft.dropped.wooden_shovel
+1: Renthedog: 356
+2: Xisuma: 72
+3: Grian: 8
+4: PythonGB: 6
+5: Welsknight: 6
+6: falsesymmetry: 5
+7: MumboJumbo: 4
+8: impulseSV: 3
+9: iJevin: 2
+10: iskall85: 2
+11: Zedaph: 1
+Total 465

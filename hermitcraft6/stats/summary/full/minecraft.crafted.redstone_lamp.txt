@@ -1,0 +1,21 @@
+minecraft.crafted.redstone_lamp
+1: GoodTimeWithScar: 1243
+2: impulseSV: 879
+3: iskall85: 575
+4: falsesymmetry: 364
+5: cubfan135: 364
+6: Renthedog: 319
+7: PythonGB: 256
+8: iJevin: 251
+9: Xisuma: 232
+10: MumboJumbo: 130
+11: Docm77: 63
+12: joehillssays: 52
+13: Zedaph: 46
+14: Welsknight: 32
+15: Stressmonster101: 27
+16: Grian: 16
+17: ZombieCleo: 15
+18: Tango: 8
+19: Tinfoilchef: 8
+Total 4880

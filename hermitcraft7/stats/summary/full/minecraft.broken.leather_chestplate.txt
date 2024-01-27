@@ -1,0 +1,9 @@
+minecraft.broken.leather_chestplate
+1: Etho: 4
+2: Tango: 3
+3: falsesymmetry: 3
+4: cubfan135: 3
+5: Grian: 2
+6: impulseSV: 2
+7: joehillssays: 1
+Total 18

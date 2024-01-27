@@ -1,0 +1,23 @@
+minecraft.crafted.stone_shovel
+1: Welsknight: 92
+2: BdoubleO100: 80
+3: impulseSV: 26
+4: joehillssays: 21
+5: Zedaph: 21
+6: PearlescentMoon: 13
+7: GoodTimeWithScar: 13
+8: Grian: 12
+9: Tinfoilchef: 11
+10: iJevin: 6
+11: iskall85: 3
+12: xBCrafted: 3
+13: falsesymmetry: 3
+14: Xisuma: 2
+15: cubfan135: 2
+16: Etho: 2
+17: Docm77: 1
+18: VintageBeef: 1
+19: Tango: 1
+20: hypnotizd: 1
+21: MumboJumbo: 1
+Total 315

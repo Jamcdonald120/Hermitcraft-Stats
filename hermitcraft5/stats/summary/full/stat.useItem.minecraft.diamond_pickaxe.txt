@@ -1,0 +1,26 @@
+stat.useItem.minecraft.diamond_pickaxe
+1: cubfan135: 1326088
+2: GoodTimeWithScar: 1154502
+3: falsesymmetry: 843811
+4: MumboJumbo: 709710
+5: Renthedog: 639646
+6: Xisuma: 597915
+7: iskall85: 565088
+8: impulseSV: 527099
+9: Welsknight: 429275
+10: Tango: 316113
+11: PythonGB: 266704
+12: xBCrafted: 251090
+13: Tinfoilchef: 210534
+14: iJevin: 187014
+15: Zedaph: 172336
+16: joehillssays: 165299
+17: Stressmonster101: 162864
+18: ZombieCleo: 59474
+19: Docm77: 59195
+20: Biffa2001: 44925
+21: Etho: 41063
+22: VintageBeef: 30377
+23: BdoubleO100: 28281
+24: isGall85: 30
+Total 8788433

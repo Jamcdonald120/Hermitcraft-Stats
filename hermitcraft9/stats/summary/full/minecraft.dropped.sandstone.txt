@@ -1,0 +1,24 @@
+minecraft.dropped.sandstone
+1: iJevin: 3414
+2: Docm77: 1516
+3: Keralis1: 1101
+4: Zedaph: 834
+5: falsesymmetry: 576
+6: cubfan135: 420
+7: PearlescentMoon: 199
+8: GoodTimeWithScar: 149
+9: Xisuma: 146
+10: Stressmonster101: 96
+11: impulseSV: 89
+12: hypnotizd: 77
+13: Renthedog: 70
+14: BdoubleO100: 60
+15: Grian: 36
+16: Etho: 35
+17: ZombieCleo: 25
+18: xBCrafted: 23
+19: VintageBeef: 5
+20: joehillssays: 3
+21: RentheKing: 2
+22: Tango: 1
+Total 8877

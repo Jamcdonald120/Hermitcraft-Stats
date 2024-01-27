@@ -1,0 +1,6 @@
+minecraft.dropped.netherite_chestplate
+1: iJevin: 1
+2: Tango: 1
+3: RentheKing: 1
+4: Zedaph: 1
+Total 4

@@ -1,0 +1,8 @@
+stat.drop.minecraft.diamond_ore
+1: MumboJumbo: 6
+2: cubfan135: 4
+3: PythonGB: 1
+4: falsesymmetry: 1
+5: GoodTimeWithScar: 1
+6: impulseSV: 1
+Total 14

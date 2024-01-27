@@ -1,0 +1,23 @@
+minecraft.picked_up.tinted_glass
+1: iJevin: 1441
+2: Docm77: 1261
+3: Renthedog: 781
+4: joehillssays: 661
+5: Etho: 543
+6: Keralis1: 310
+7: iskall85: 260
+8: Tango: 203
+9: Mumbo: 177
+10: cubfan135: 145
+11: Grian: 104
+12: impulseSV: 99
+13: xBCrafted: 56
+14: Xisuma: 42
+15: hypnotizd: 15
+16: GoodTimeWithScar: 8
+17: PearlescentMoon: 6
+18: GeminiTay: 5
+19: BdoubleO100: 3
+20: falsesymmetry: 3
+21: Zedaph: 2
+Total 6125

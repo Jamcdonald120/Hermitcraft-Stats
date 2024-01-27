@@ -1,0 +1,22 @@
+minecraft.used.cooked_cod
+1: PearlescentMoon: 360
+2: Grian: 181
+3: MythicalSausage: 118
+4: GeminiTay: 59
+5: VintageBeef: 39
+6: falsesymmetry: 34
+7: impulseSV: 21
+8: Xisuma: 20
+9: cubfan135: 20
+10: Etho: 19
+11: joehillssays: 18
+12: OrionSound: 15
+13: Stressmonster101: 15
+14: iskall85: 10
+15: iJevin: 5
+16: Zedaph: 5
+17: Mumbo: 3
+18: MumboJumbo: 3
+19: hypnotizd: 2
+20: ShubbleYT: 1
+Total 948

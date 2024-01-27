@@ -1,0 +1,28 @@
+stat.pickup.minecraft.wool
+1: GoodTimeWithScar: 45787
+2: cubfan135: 37226
+3: joehillssays: 9701
+4: Xisuma: 7953
+5: Welsknight: 7390
+6: iskall85: 7222
+7: falsesymmetry: 4916
+8: MumboJumbo: 3789
+9: Tango: 2142
+10: Renthedog: 1317
+11: xBCrafted: 1154
+12: Tinfoilchef: 874
+13: Zedaph: 728
+14: impulseSV: 664
+15: BdoubleO100: 532
+16: Stressmonster101: 441
+17: iJevin: 289
+18: ZombieCleo: 262
+19: EvilXisuma: 157
+20: PythonGB: 129
+21: Biffa2001: 96
+22: VintageBeef: 75
+23: Etho: 57
+24: Docm77: 35
+25: xisumavoid: 3
+26: TangoCam: 1
+Total 132940

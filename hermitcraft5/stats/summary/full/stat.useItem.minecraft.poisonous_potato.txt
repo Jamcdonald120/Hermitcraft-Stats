@@ -1,0 +1,5 @@
+stat.useItem.minecraft.poisonous_potato
+1: Zedaph: 4
+2: cubfan135: 3
+3: falsesymmetry: 1
+Total 8

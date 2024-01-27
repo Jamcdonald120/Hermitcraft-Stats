@@ -1,0 +1,15 @@
+minecraft.picked_up.blue_orchid
+1: falsesymmetry: 219
+2: iJevin: 171
+3: Keralis1: 98
+4: joehillssays: 88
+5: BdoubleO100: 29
+6: Renthedog: 25
+7: GoodTimeWithScar: 23
+8: cubfan135: 14
+9: Welsknight: 8
+10: Xisuma: 4
+11: GeminiTay: 3
+12: Tango: 1
+13: Stressmonster101: 1
+Total 684

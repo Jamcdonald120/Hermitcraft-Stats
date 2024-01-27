@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.tnt
+1: Tango: 2534
+2: Xisuma: 2428
+3: xBCrafted: 520
+4: impulseSV: 392
+5: Mumbo: 384
+6: zueljin: 243
+7: monkeyfarm: 116
+8: Tinfoilchef: 64
+9: Biffa2001: 31
+10: sl1pg8r: 7
+11: ZombieCleo: 5
+12: falsesymmetry: 4
+13: iJevin: 2
+14: topmass: 1
+Total 6731

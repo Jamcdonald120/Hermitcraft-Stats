@@ -1,0 +1,17 @@
+stat.drop.minecraft.gold_nugget
+1: Tango: 475
+2: Renthedog: 280
+3: impulseSV: 169
+4: cubfan135: 138
+5: iskall85: 127
+6: PythonGB: 120
+7: MumboJumbo: 68
+8: Zedaph: 44
+9: Welsknight: 36
+10: GoodTimeWithScar: 32
+11: xBCrafted: 26
+12: Xisuma: 17
+13: falsesymmetry: 16
+14: Stressmonster101: 8
+15: Etho: 2
+Total 1558

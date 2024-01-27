@@ -1,0 +1,24 @@
+minecraft.picked_up.dark_oak_trapdoor
+1: Zedaph: 1615
+2: impulseSV: 694
+3: iJevin: 673
+4: GoodTimeWithScar: 657
+5: Keralis1: 530
+6: Grian: 519
+7: VintageBeef: 267
+8: xBCrafted: 189
+9: Renthedog: 177
+10: Etho: 157
+11: iskall85: 136
+12: BdoubleO100: 125
+13: cubfan135: 116
+14: Docm77: 51
+15: Stressmonster101: 33
+16: Tango: 31
+17: joehillssays: 26
+18: Welsknight: 26
+19: Xisuma: 24
+20: hypnotizd: 8
+21: falsesymmetry: 6
+22: ZombieCleo: 1
+Total 6061

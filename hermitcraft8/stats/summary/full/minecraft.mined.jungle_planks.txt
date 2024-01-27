@@ -1,0 +1,21 @@
+minecraft.mined.jungle_planks
+1: PearlescentMoon: 1474
+2: GeminiTay: 197
+3: iskall85: 100
+4: Keralis1: 94
+5: impulseSV: 56
+6: Docm77: 41
+7: iJevin: 28
+8: Grian: 19
+9: Tango: 15
+10: BdoubleO100: 15
+11: Etho: 13
+12: Renthedog: 8
+13: hypnotizd: 7
+14: ZombieCleo: 4
+15: Welsknight: 3
+16: MumboJumbo: 3
+17: GoodTimeWithScar: 2
+18: EvilXisuma: 1
+19: Xisuma: 1
+Total 2081

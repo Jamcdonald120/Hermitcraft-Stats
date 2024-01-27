@@ -1,0 +1,8 @@
+stat.drop.minecraft.mutton
+1: Tango: 7
+2: Xisuma: 4
+3: Renthedog: 4
+4: iskall85: 3
+5: GoodTimeWithScar: 3
+6: ZombieCleo: 1
+Total 22

@@ -1,0 +1,16 @@
+minecraft.dropped.polished_andesite_slab
+1: falsesymmetry: 434
+2: cubfan135: 245
+3: GoodTimeWithScar: 146
+4: BdoubleO100: 54
+5: Etho: 28
+6: Tango: 24
+7: Keralis1: 18
+8: iskall85: 16
+9: joehillssays: 12
+10: Renthedog: 10
+11: Zedaph: 8
+12: xBCrafted: 6
+13: iJevin: 4
+14: Xisuma: 2
+Total 1007

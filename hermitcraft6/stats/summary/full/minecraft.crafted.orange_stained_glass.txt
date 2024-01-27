@@ -1,0 +1,15 @@
+minecraft.crafted.orange_stained_glass
+1: Renthedog: 2312
+2: Welsknight: 2000
+3: GoodTimeWithScar: 1448
+4: joehillssays: 728
+5: Xisuma: 272
+6: Zedaph: 272
+7: MumboJumbo: 160
+8: PythonGB: 136
+9: cubfan135: 128
+10: impulseSV: 128
+11: falsesymmetry: 72
+12: Tango: 8
+13: ZombieCleo: 8
+Total 7672

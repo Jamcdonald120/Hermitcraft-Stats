@@ -1,0 +1,21 @@
+stat.pickup.minecraft.red_mushroom
+1: cubfan135: 259
+2: GoodTimeWithScar: 126
+3: iskall85: 93
+4: Xisuma: 92
+5: Docm77: 84
+6: falsesymmetry: 71
+7: Etho: 71
+8: PythonGB: 58
+9: Tinfoilchef: 47
+10: Welsknight: 42
+11: Renthedog: 39
+12: joehillssays: 34
+13: Tango: 22
+14: impulseSV: 20
+15: Jessassin: 18
+16: iJevin: 11
+17: Biffa2001: 9
+18: VintageBeef: 7
+19: ZombieCleo: 7
+Total 1110

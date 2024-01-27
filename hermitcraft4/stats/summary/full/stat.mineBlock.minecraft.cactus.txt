@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.cactus
+1: Renthedog: 3323
+2: falsesymmetry: 290
+3: joehillssays: 116
+4: Docm77: 101
+5: VintageBeef: 81
+6: Welsknight: 67
+7: iskall85: 62
+8: Tango: 51
+9: GoodTimeWithScar: 48
+10: impulseSV: 28
+11: PythonGB: 26
+12: Etho: 18
+13: cubfan135: 17
+14: Xisuma: 15
+15: Tinfoilchef: 11
+16: xBCrafted: 9
+17: MumboJumbo: 7
+18: Biffa2001: 5
+19: Jessassin: 4
+20: ZombieCleo: 4
+21: iJevin: 2
+22: zueljin: 1
+Total 4286

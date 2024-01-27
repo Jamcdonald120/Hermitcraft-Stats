@@ -1,0 +1,9 @@
+minecraft.crafted.exposed_cut_copper_slab
+1: Renthedog: 64
+2: Keralis1: 36
+3: RentheKing: 16
+4: Docm77: 8
+5: BdoubleO100: 8
+6: GoodTimeWithScar: 2
+7: Zedaph: 2
+Total 136

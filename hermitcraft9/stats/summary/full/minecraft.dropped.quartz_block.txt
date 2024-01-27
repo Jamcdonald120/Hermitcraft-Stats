@@ -1,0 +1,17 @@
+minecraft.dropped.quartz_block
+1: Grian: 6282
+2: Zedaph: 1224
+3: Tango: 902
+4: GoodTimeWithScar: 139
+5: GeminiTay: 64
+6: falsesymmetry: 61
+7: cubfan135: 15
+8: impulseSV: 11
+9: Mumbo: 5
+10: Etho: 3
+11: ZombieCleo: 3
+12: OrionSound: 2
+13: Renthedog: 2
+14: BdoubleO100: 2
+15: Keralis1: 2
+Total 8717

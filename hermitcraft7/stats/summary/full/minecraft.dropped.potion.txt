@@ -1,0 +1,22 @@
+minecraft.dropped.potion
+1: hypnotizd: 1420
+2: Etho: 1069
+3: cubfan135: 543
+4: Tango: 209
+5: Xisuma: 201
+6: Zedaph: 197
+7: xBCrafted: 106
+8: impulseSV: 54
+9: Stressmonster101: 53
+10: GoodTimeWithScar: 50
+11: iJevin: 35
+12: Grian: 33
+13: iskall85: 32
+14: Renthedog: 23
+15: Keralis1: 20
+16: Docm77: 14
+17: falsesymmetry: 13
+18: joehillssays: 5
+19: VintageBeef: 4
+20: BdoubleO100: 2
+Total 4083

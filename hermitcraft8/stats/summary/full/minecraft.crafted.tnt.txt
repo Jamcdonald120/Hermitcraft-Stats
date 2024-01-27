@@ -1,0 +1,21 @@
+minecraft.crafted.tnt
+1: hypnotizd: 3529
+2: Tango: 3289
+3: iJevin: 3007
+4: Grian: 2440
+5: Renthedog: 2218
+6: impulseSV: 1643
+7: xBCrafted: 691
+8: BdoubleO100: 428
+9: joehillssays: 381
+10: Etho: 324
+11: ZombieCleo: 311
+12: Docm77: 144
+13: falsesymmetry: 128
+14: cubfan135: 53
+15: PearlescentMoon: 42
+16: MumboJumbo: 39
+17: GoodTimeWithScar: 24
+18: Zedaph: 5
+19: Welsknight: 4
+Total 18700

@@ -1,0 +1,24 @@
+stat.pickup.minecraft.golden_helmet
+1: GoodTimeWithScar: 108
+2: Renthedog: 87
+3: impulseSV: 62
+4: falsesymmetry: 52
+5: cubfan135: 46
+6: Welsknight: 35
+7: joehillssays: 33
+8: Xisuma: 28
+9: iskall85: 27
+10: Tango: 21
+11: iJevin: 19
+12: PythonGB: 17
+13: ZombieCleo: 16
+14: MumboJumbo: 11
+15: Docm77: 8
+16: Tinfoilchef: 8
+17: Jessassin: 6
+18: Mumbo: 5
+19: VintageBeef: 3
+20: Etho: 3
+21: xBCrafted: 2
+22: xisumavoid: 1
+Total 598

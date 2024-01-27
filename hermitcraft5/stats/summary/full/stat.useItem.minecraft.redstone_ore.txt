@@ -1,0 +1,21 @@
+stat.useItem.minecraft.redstone_ore
+1: MumboJumbo: 1099
+2: falsesymmetry: 1065
+3: Zedaph: 723
+4: impulseSV: 629
+5: PythonGB: 467
+6: cubfan135: 380
+7: Renthedog: 328
+8: Tango: 226
+9: Biffa2001: 179
+10: Xisuma: 165
+11: iJevin: 148
+12: GoodTimeWithScar: 123
+13: joehillssays: 107
+14: Welsknight: 99
+15: Stressmonster101: 76
+16: VintageBeef: 26
+17: iskall85: 15
+18: Etho: 4
+19: Tinfoilchef: 3
+Total 5862

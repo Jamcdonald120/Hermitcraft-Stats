@@ -1,0 +1,30 @@
+minecraft.dropped.oak_log
+1: Xisuma: 7830
+2: GoodTimeWithScar: 1693
+3: Grian: 985
+4: Keralis1: 752
+5: Docm77: 644
+6: falsesymmetry: 251
+7: impulseSV: 221
+8: Stressmonster101: 195
+9: joehillssays: 192
+10: Renthedog: 185
+11: Zedaph: 148
+12: iJevin: 138
+13: MythicalSausage: 132
+14: PearlescentMoon: 130
+15: Etho: 125
+16: BdoubleO100: 100
+17: VintageBeef: 92
+18: xBCrafted: 81
+19: iskall85: 77
+20: Smallishbeans: 64
+21: hypnotizd: 64
+22: cubfan135: 62
+23: Tango: 60
+24: SolidarityGaming: 30
+25: ZombieCleo: 27
+26: GeminiTay: 8
+27: RentheKing: 8
+28: Pixlriffs: 1
+Total 14295

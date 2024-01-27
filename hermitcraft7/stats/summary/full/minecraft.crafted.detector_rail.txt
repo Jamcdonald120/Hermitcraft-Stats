@@ -1,0 +1,20 @@
+minecraft.crafted.detector_rail
+1: Etho: 606
+2: hypnotizd: 126
+3: Docm77: 78
+4: Xisuma: 78
+5: falsesymmetry: 54
+6: MumboJumbo: 42
+7: iskall85: 30
+8: xBCrafted: 30
+9: Stressmonster101: 18
+10: joehillssays: 12
+11: Grian: 12
+12: BdoubleO100: 12
+13: GoodTimeWithScar: 12
+14: impulseSV: 12
+15: Renthedog: 6
+16: Tango: 6
+17: Welsknight: 6
+18: Keralis1: 6
+Total 1146

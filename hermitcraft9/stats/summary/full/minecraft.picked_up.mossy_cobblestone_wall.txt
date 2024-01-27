@@ -1,0 +1,13 @@
+minecraft.picked_up.mossy_cobblestone_wall
+1: RentheKing: 65
+2: joehillssays: 48
+3: Tango: 30
+4: cubfan135: 11
+5: PearlescentMoon: 8
+6: BdoubleO100: 6
+7: impulseSV: 4
+8: iskall85: 3
+9: GoodTimeWithScar: 3
+10: Xisuma: 1
+11: Zedaph: 1
+Total 180

@@ -1,0 +1,6 @@
+minecraft.dropped.firework_star
+1: cubfan135: 65
+2: VintageBeef: 12
+3: Zedaph: 2
+4: Xisuma: 1
+Total 80

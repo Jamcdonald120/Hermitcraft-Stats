@@ -1,0 +1,14 @@
+stat.pickup.minecraft.dragon_egg
+1: impulseSV: 137
+2: iskall85: 27
+3: cubfan135: 14
+4: GoodTimeWithScar: 7
+5: Zedaph: 7
+6: Renthedog: 3
+7: Tango: 3
+8: Welsknight: 3
+9: falsesymmetry: 2
+10: Xisuma: 1
+11: PythonGB: 1
+12: joehillssays: 1
+Total 206

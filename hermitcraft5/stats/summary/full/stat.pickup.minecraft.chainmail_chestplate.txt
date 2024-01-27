@@ -1,0 +1,25 @@
+stat.pickup.minecraft.chainmail_chestplate
+1: Renthedog: 35
+2: iskall85: 27
+3: xBCrafted: 21
+4: Docm77: 19
+5: Stressmonster101: 18
+6: GoodTimeWithScar: 12
+7: PythonGB: 10
+8: joehillssays: 8
+9: Tango: 8
+10: MumboJumbo: 8
+11: iJevin: 7
+12: cubfan135: 7
+13: Zedaph: 7
+14: Biffa2001: 6
+15: BdoubleO100: 4
+16: falsesymmetry: 4
+17: Welsknight: 4
+18: ZombieCleo: 4
+19: VintageBeef: 2
+20: Xisuma: 1
+21: Etho: 1
+22: Tinfoilchef: 1
+23: impulseSV: 1
+Total 215

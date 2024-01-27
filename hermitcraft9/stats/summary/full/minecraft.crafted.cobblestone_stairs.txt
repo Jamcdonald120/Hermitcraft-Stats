@@ -1,0 +1,22 @@
+minecraft.crafted.cobblestone_stairs
+1: falsesymmetry: 544
+2: cubfan135: 520
+3: Keralis1: 296
+4: iJevin: 208
+5: Grian: 136
+6: Tango: 118
+7: Docm77: 86
+8: hypnotizd: 81
+9: iskall85: 72
+10: GeminiTay: 62
+11: GoodTimeWithScar: 51
+12: xBCrafted: 36
+13: joehillssays: 32
+14: MythicalSausage: 20
+15: Stressmonster101: 8
+16: Xisuma: 4
+17: VintageBeef: 4
+18: ZombieCleo: 4
+19: Renthedog: 3
+20: Zedaph: 1
+Total 2286

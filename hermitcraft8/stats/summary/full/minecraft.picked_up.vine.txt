@@ -1,0 +1,21 @@
+minecraft.picked_up.vine
+1: iJevin: 3421
+2: BdoubleO100: 2179
+3: Tango: 1371
+4: Keralis1: 1312
+5: impulseSV: 461
+6: Grian: 397
+7: Stressmonster101: 358
+8: Renthedog: 351
+9: falsesymmetry: 285
+10: hypnotizd: 268
+11: Xisuma: 248
+12: MumboJumbo: 202
+13: ZombieCleo: 142
+14: Docm77: 131
+15: joehillssays: 86
+16: PearlescentMoon: 64
+17: iskall85: 55
+18: GeminiTay: 14
+19: GoodTimeWithScar: 7
+Total 11352

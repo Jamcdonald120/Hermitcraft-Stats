@@ -1,0 +1,4 @@
+minecraft.crafted.purpur_stairs
+1: cubfan135: 24
+2: impulseSV: 4
+Total 28

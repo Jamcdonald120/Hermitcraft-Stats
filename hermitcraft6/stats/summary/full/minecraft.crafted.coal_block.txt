@@ -1,0 +1,25 @@
+minecraft.crafted.coal_block
+1: Tinfoilchef: 5136
+2: iskall85: 3632
+3: GoodTimeWithScar: 3484
+4: Renthedog: 2985
+5: cubfan135: 2412
+6: ZombieCleo: 1441
+7: Biffa2001: 1021
+8: Welsknight: 956
+9: joehillssays: 927
+10: falsesymmetry: 890
+11: Xisuma: 879
+12: BdoubleO100: 778
+13: Docm77: 610
+14: MumboJumbo: 581
+15: Tango: 554
+16: iJevin: 472
+17: Grian: 437
+18: Stressmonster101: 238
+19: Zedaph: 228
+20: impulseSV: 203
+21: PythonGB: 171
+22: xBCrafted: 92
+23: HumanCleo: 88
+Total 28215

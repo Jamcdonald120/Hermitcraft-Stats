@@ -1,0 +1,12 @@
+stat.useItem.minecraft.wooden_slab
+1: ZombieCleo: 2338
+2: zueljin: 2022
+3: Biffa2001: 1709
+4: xBCrafted: 1212
+5: falsesymmetry: 921
+6: Mumbo: 537
+7: Tango: 324
+8: Spumwackles: 231
+9: sl1pg8r: 67
+10: iJevin: 2
+Total 9363

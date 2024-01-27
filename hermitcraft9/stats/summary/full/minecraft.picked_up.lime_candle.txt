@@ -1,0 +1,8 @@
+minecraft.picked_up.lime_candle
+1: iJevin: 97
+2: hypnotizd: 20
+3: GoodTimeWithScar: 5
+4: Xisuma: 4
+5: Keralis1: 4
+6: Zedaph: 1
+Total 131

@@ -1,0 +1,19 @@
+minecraft.crafted.gray_shulker_box
+1: cubfan135: 68
+2: Renthedog: 59
+3: iskall85: 59
+4: Xisuma: 22
+5: PythonGB: 13
+6: GoodTimeWithScar: 13
+7: falsesymmetry: 6
+8: Docm77: 3
+9: Tango: 2
+10: Stressmonster101: 2
+11: Zedaph: 2
+12: iJevin: 1
+13: joehillssays: 1
+14: Grian: 1
+15: BdoubleO100: 1
+16: MumboJumbo: 1
+17: impulseSV: 1
+Total 255

@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.iron_bars
+1: cubfan135: 1244
+2: impulseSV: 611
+3: Xisuma: 306
+4: Welsknight: 282
+5: xBCrafted: 220
+6: GoodTimeWithScar: 185
+7: MumboJumbo: 180
+8: joehillssays: 163
+9: Tango: 136
+10: falsesymmetry: 121
+11: iJevin: 119
+12: iskall85: 106
+13: Renthedog: 81
+14: Docm77: 71
+15: Stressmonster101: 59
+16: VintageBeef: 42
+17: PythonGB: 42
+18: Tinfoilchef: 41
+19: Etho: 14
+20: BdoubleO100: 3
+21: Biffa2001: 2
+22: Zedaph: 2
+Total 4030

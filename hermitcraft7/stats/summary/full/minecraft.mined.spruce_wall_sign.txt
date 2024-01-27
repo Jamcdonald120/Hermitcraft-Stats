@@ -1,0 +1,24 @@
+minecraft.mined.spruce_wall_sign
+1: Grian: 85
+2: GoodTimeWithScar: 40
+3: Zedaph: 29
+4: Etho: 28
+5: cubfan135: 27
+6: iskall85: 26
+7: Renthedog: 25
+8: ZombieCleo: 20
+9: xBCrafted: 16
+10: falsesymmetry: 16
+11: VintageBeef: 13
+12: Tango: 13
+13: iJevin: 11
+14: impulseSV: 9
+15: Keralis1: 5
+16: Docm77: 4
+17: joehillssays: 3
+18: Stressmonster101: 3
+19: Xisuma: 2
+20: BdoubleO100: 2
+21: hypnotizd: 2
+22: BarryBoss1234: 1
+Total 380

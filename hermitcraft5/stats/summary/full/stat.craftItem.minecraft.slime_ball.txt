@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.slime_ball
+1: Tango: 3114
+2: cubfan135: 2656
+3: impulseSV: 1623
+4: Xisuma: 1485
+5: MumboJumbo: 1440
+6: GoodTimeWithScar: 782
+7: Zedaph: 639
+8: Welsknight: 495
+9: Tinfoilchef: 243
+10: iskall85: 126
+11: Docm77: 117
+12: xBCrafted: 63
+13: Renthedog: 54
+14: iJevin: 45
+15: ZombieCleo: 27
+16: falsesymmetry: 18
+17: VintageBeef: 9
+18: joehillssays: 9
+Total 12945

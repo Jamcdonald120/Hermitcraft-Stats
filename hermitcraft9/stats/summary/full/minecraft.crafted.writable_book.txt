@@ -1,0 +1,27 @@
+minecraft.crafted.writable_book
+1: cubfan135: 773
+2: ZombieCleo: 116
+3: iJevin: 109
+4: GoodTimeWithScar: 60
+5: falsesymmetry: 39
+6: xBCrafted: 38
+7: impulseSV: 38
+8: Zedaph: 35
+9: Tango: 31
+10: Xisuma: 19
+11: RentheKing: 15
+12: joehillssays: 14
+13: PearlescentMoon: 13
+14: Etho: 8
+15: Renthedog: 7
+16: VintageBeef: 6
+17: BdoubleO100: 6
+18: iskall85: 6
+19: SolidarityGaming: 5
+20: Docm77: 4
+21: GeminiTay: 2
+22: Grian: 2
+23: hypnotizd: 2
+24: Keralis1: 2
+25: Mumbo: 1
+Total 1351

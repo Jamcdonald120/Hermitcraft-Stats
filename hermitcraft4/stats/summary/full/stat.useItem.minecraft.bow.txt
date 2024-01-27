@@ -1,0 +1,25 @@
+stat.useItem.minecraft.bow
+1: cubfan135: 74099
+2: falsesymmetry: 66150
+3: GoodTimeWithScar: 65040
+4: iskall85: 39401
+5: Renthedog: 30910
+6: Tango: 24202
+7: impulseSV: 16423
+8: Xisuma: 11693
+9: Welsknight: 7290
+10: iJevin: 6086
+11: Etho: 5796
+12: PythonGB: 5264
+13: Docm77: 4743
+14: MumboJumbo: 3791
+15: joehillssays: 2166
+16: Tinfoilchef: 2120
+17: ZombieCleo: 2010
+18: Biffa2001: 1480
+19: VintageBeef: 933
+20: zueljin: 151
+21: Mumbo: 145
+22: xBCrafted: 120
+23: Jessassin: 12
+Total 370025

@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.golden_chestplate
+1: Xisuma: 7
+2: xBCrafted: 4
+3: impulseSV: 4
+4: KingDaddyDMAC: 2
+5: zueljin: 1
+Total 18

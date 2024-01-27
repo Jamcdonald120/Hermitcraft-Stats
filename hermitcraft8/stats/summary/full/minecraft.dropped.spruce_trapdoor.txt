@@ -1,0 +1,16 @@
+minecraft.dropped.spruce_trapdoor
+1: Keralis1: 118
+2: Tango: 95
+3: PearlescentMoon: 68
+4: cubfan135: 54
+5: GoodTimeWithScar: 32
+6: Grian: 27
+7: xBCrafted: 12
+8: Xisuma: 6
+9: Etho: 5
+10: impulseSV: 4
+11: Zedaph: 4
+12: GeminiTay: 2
+13: Renthedog: 1
+14: ZombieCleo: 1
+Total 429

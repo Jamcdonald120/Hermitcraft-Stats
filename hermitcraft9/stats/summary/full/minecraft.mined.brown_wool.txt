@@ -1,0 +1,16 @@
+minecraft.mined.brown_wool
+1: iJevin: 230
+2: PearlescentMoon: 140
+3: Renthedog: 74
+4: Docm77: 57
+5: cubfan135: 53
+6: BdoubleO100: 34
+7: Grian: 29
+8: Tango: 27
+9: VintageBeef: 5
+10: Xisuma: 2
+11: falsesymmetry: 1
+12: Etho: 1
+13: RentheKing: 1
+14: Zedaph: 1
+Total 655

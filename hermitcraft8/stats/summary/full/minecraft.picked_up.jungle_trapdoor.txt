@@ -1,0 +1,14 @@
+minecraft.picked_up.jungle_trapdoor
+1: iJevin: 1465
+2: PearlescentMoon: 80
+3: Keralis1: 47
+4: impulseSV: 44
+5: GeminiTay: 32
+6: Etho: 25
+7: cubfan135: 15
+8: hypnotizd: 10
+9: BdoubleO100: 7
+10: Grian: 4
+11: GoodTimeWithScar: 4
+12: MumboJumbo: 2
+Total 1735

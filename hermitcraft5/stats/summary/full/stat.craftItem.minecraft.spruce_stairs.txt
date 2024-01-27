@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.spruce_stairs
+1: Renthedog: 3636
+2: Welsknight: 3060
+3: Stressmonster101: 2552
+4: MumboJumbo: 2020
+5: falsesymmetry: 1800
+6: cubfan135: 1752
+7: GoodTimeWithScar: 1648
+8: xBCrafted: 1124
+9: impulseSV: 820
+10: iJevin: 388
+11: BdoubleO100: 312
+12: joehillssays: 256
+13: Xisuma: 224
+14: PythonGB: 172
+15: ZombieCleo: 152
+16: Tinfoilchef: 124
+17: VintageBeef: 60
+18: iskall85: 44
+19: Zedaph: 28
+Total 20172

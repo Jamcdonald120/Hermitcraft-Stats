@@ -1,0 +1,15 @@
+minecraft.picked_up.honey_block
+1: GoodTimeWithScar: 456
+2: Etho: 83
+3: PearlescentMoon: 71
+4: MumboJumbo: 56
+5: iskall85: 21
+6: cubfan135: 20
+7: Docm77: 16
+8: impulseSV: 14
+9: Grian: 5
+10: Tango: 3
+11: BdoubleO100: 3
+12: Xisuma: 2
+13: iJevin: 1
+Total 751

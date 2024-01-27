@@ -1,0 +1,7 @@
+stat.useItem.minecraft.wooden_axe
+1: ZombieCleo: 60
+2: sl1pg8r: 33
+3: hypnotizd: 24
+4: Keralis1: 10
+5: truesymmetry: 6
+Total 133

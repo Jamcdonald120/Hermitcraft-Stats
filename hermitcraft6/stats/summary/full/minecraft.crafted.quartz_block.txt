@@ -1,0 +1,26 @@
+minecraft.crafted.quartz_block
+1: GoodTimeWithScar: 30627
+2: Grian: 11631
+3: PythonGB: 10702
+4: Renthedog: 10007
+5: iskall85: 8262
+6: falsesymmetry: 7816
+7: MumboJumbo: 5338
+8: cubfan135: 4822
+9: Xisuma: 3012
+10: Welsknight: 2845
+11: impulseSV: 2334
+12: Docm77: 1931
+13: Tango: 1259
+14: iJevin: 1196
+15: ZombieCleo: 583
+16: Zedaph: 346
+17: Stressmonster101: 298
+18: Tinfoilchef: 180
+19: joehillssays: 171
+20: BdoubleO100: 83
+21: Biffa2001: 54
+22: HumanCleo: 28
+23: Keralis1: 28
+24: xBCrafted: 21
+Total 103574

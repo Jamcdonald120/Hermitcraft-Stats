@@ -1,0 +1,11 @@
+stat.drop.minecraft.end_bricks
+1: impulseSV: 260
+2: Xisuma: 56
+3: Renthedog: 45
+4: Tango: 44
+5: iJevin: 37
+6: PythonGB: 18
+7: iskall85: 12
+8: falsesymmetry: 12
+9: cubfan135: 6
+Total 490

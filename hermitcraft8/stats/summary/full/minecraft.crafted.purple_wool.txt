@@ -1,0 +1,6 @@
+minecraft.crafted.purple_wool
+1: Tango: 16
+2: Renthedog: 13
+3: ZombieCleo: 2
+4: Welsknight: 1
+Total 32

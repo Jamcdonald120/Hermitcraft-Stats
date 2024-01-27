@@ -1,0 +1,27 @@
+stat.mineBlock.minecraft.leaves
+1: GoodTimeWithScar: 114489
+2: Renthedog: 27626
+3: Xisuma: 14448
+4: falsesymmetry: 11415
+5: cubfan135: 10326
+6: iskall85: 9844
+7: Tinfoilchef: 7021
+8: Welsknight: 5311
+9: MumboJumbo: 3733
+10: ZombieCleo: 3084
+11: Tango: 2822
+12: Biffa2001: 2682
+13: PythonGB: 2098
+14: joehillssays: 1935
+15: impulseSV: 1767
+16: iJevin: 1226
+17: zueljin: 832
+18: VintageBeef: 734
+19: Jessassin: 713
+20: Docm77: 642
+21: Etho: 538
+22: hypnotizd: 287
+23: Mumbo: 210
+24: xBCrafted: 96
+25: monkeyfarm: 32
+Total 223911

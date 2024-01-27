@@ -1,0 +1,23 @@
+minecraft.mined.ice
+1: impulseSV: 476319
+2: Etho: 45212
+3: Zedaph: 7447
+4: GoodTimeWithScar: 5993
+5: Xisuma: 3866
+6: Tango: 3254
+7: falsesymmetry: 2659
+8: Renthedog: 1866
+9: Grian: 1786
+10: Keralis1: 1446
+11: MumboJumbo: 1246
+12: iskall85: 1186
+13: xBCrafted: 543
+14: iJevin: 485
+15: BdoubleO100: 241
+16: Docm77: 198
+17: cubfan135: 144
+18: VintageBeef: 71
+19: Stressmonster101: 47
+20: hypnotizd: 10
+21: joehillssays: 2
+Total 554021

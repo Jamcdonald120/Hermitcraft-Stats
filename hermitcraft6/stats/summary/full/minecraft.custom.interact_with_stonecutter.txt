@@ -1,0 +1,21 @@
+minecraft.custom.interact_with_stonecutter
+1: BdoubleO100: 989
+2: Renthedog: 138
+3: Tango: 80
+4: falsesymmetry: 68
+5: PythonGB: 57
+6: GoodTimeWithScar: 51
+7: cubfan135: 50
+8: ZombieCleo: 15
+9: Docm77: 13
+10: Grian: 9
+11: iskall85: 6
+12: impulseSV: 4
+13: Keralis1: 3
+14: joehillssays: 2
+15: MumboJumbo: 2
+16: Xisuma: 1
+17: Tinfoilchef: 1
+18: Stressmonster101: 1
+19: Zedaph: 1
+Total 1491

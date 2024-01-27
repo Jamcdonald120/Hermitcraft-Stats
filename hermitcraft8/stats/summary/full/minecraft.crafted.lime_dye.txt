@@ -1,0 +1,22 @@
+minecraft.crafted.lime_dye
+1: iJevin: 4010
+2: Renthedog: 910
+3: Etho: 788
+4: impulseSV: 620
+5: ZombieCleo: 270
+6: Docm77: 130
+7: PearlescentMoon: 98
+8: Tango: 72
+9: cubfan135: 67
+10: GoodTimeWithScar: 52
+11: GeminiTay: 38
+12: BdoubleO100: 36
+13: falsesymmetry: 36
+14: Welsknight: 20
+15: Grian: 14
+16: MumboJumbo: 14
+17: Xisuma: 6
+18: Keralis1: 6
+19: joehillssays: 4
+20: Zedaph: 4
+Total 7195

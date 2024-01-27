@@ -1,0 +1,26 @@
+minecraft.picked_up.emerald_ore
+1: Xisuma: 223
+2: falsesymmetry: 156
+3: Grian: 86
+4: Pixlriffs: 76
+5: iJevin: 56
+6: Zedaph: 47
+7: PearlescentMoon: 32
+8: RentheKing: 30
+9: xBCrafted: 29
+10: VintageBeef: 26
+11: hypnotizd: 19
+12: Docm77: 11
+13: joehillssays: 11
+14: cubfan135: 10
+15: Keralis1: 9
+16: BdoubleO100: 8
+17: Tango: 3
+18: ZombieCleo: 3
+19: Renthedog: 2
+20: iskall85: 2
+21: impulseSV: 2
+22: MythicalSausage: 1
+23: Etho: 1
+24: GoodTimeWithScar: 1
+Total 844

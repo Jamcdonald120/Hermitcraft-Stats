@@ -1,0 +1,22 @@
+minecraft.picked_up.salmon
+1: Etho: 104
+2: hypnotizd: 78
+3: cubfan135: 68
+4: Stressmonster101: 43
+5: BdoubleO100: 31
+6: Grian: 21
+7: Xisuma: 20
+8: VintageBeef: 18
+9: Welsknight: 16
+10: joehillssays: 11
+11: PearlescentMoon: 10
+12: iskall85: 8
+13: xBCrafted: 4
+14: Docm77: 3
+15: iJevin: 3
+16: Tango: 3
+17: falsesymmetry: 2
+18: MumboJumbo: 1
+19: GoodTimeWithScar: 1
+20: impulseSV: 1
+Total 446

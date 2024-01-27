@@ -1,0 +1,8 @@
+stat.drop.minecraft.noteblock
+1: Tango: 8
+2: Zedaph: 5
+3: iskall85: 4
+4: impulseSV: 2
+5: Xisuma: 1
+6: PythonGB: 1
+Total 21

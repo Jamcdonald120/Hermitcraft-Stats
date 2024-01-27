@@ -1,0 +1,15 @@
+minecraft.custom.interact_with_cartography_table
+1: cubfan135: 23
+2: GoodTimeWithScar: 15
+3: BdoubleO100: 11
+4: iJevin: 7
+5: Xisuma: 6
+6: Keralis1: 4
+7: iskall85: 3
+8: impulseSV: 2
+9: joehillssays: 1
+10: Grian: 1
+11: falsesymmetry: 1
+12: ZombieCleo: 1
+13: Tinfoilchef: 1
+Total 76

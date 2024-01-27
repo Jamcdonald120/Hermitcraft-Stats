@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.mossy_cobblestone
+1: Renthedog: 286
+2: Xisuma: 257
+3: falsesymmetry: 254
+4: iskall85: 249
+5: Welsknight: 248
+6: Biffa2001: 212
+7: cubfan135: 204
+8: MumboJumbo: 118
+9: impulseSV: 116
+10: Tango: 101
+11: Etho: 53
+12: Tinfoilchef: 53
+13: VintageBeef: 49
+14: iJevin: 17
+15: joehillssays: 12
+16: GoodTimeWithScar: 10
+17: Docm77: 9
+18: PythonGB: 9
+19: xBCrafted: 3
+Total 2260

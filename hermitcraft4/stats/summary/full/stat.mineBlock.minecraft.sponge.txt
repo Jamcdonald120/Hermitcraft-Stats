@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.sponge
+1: Xisuma: 3433
+2: falsesymmetry: 2805
+3: cubfan135: 153
+4: MumboJumbo: 117
+5: Welsknight: 82
+6: iskall85: 65
+7: Renthedog: 24
+8: iJevin: 4
+9: Tango: 1
+10: impulseSV: 1
+Total 6685

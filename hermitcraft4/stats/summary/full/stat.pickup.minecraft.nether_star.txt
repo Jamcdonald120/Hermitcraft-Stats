@@ -1,0 +1,16 @@
+stat.pickup.minecraft.nether_star
+1: impulseSV: 37
+2: Tango: 22
+3: cubfan135: 22
+4: falsesymmetry: 14
+5: iskall85: 13
+6: GoodTimeWithScar: 13
+7: Xisuma: 11
+8: iJevin: 5
+9: PythonGB: 3
+10: Docm77: 2
+11: Welsknight: 2
+12: Etho: 2
+13: Tinfoilchef: 2
+14: MumboJumbo: 1
+Total 149

@@ -1,0 +1,15 @@
+minecraft.dropped.oak_trapdoor
+1: GoodTimeWithScar: 95
+2: Zedaph: 25
+3: Tinfoilchef: 20
+4: Keralis1: 20
+5: BdoubleO100: 18
+6: Grian: 16
+7: PearlescentMoon: 10
+8: iJevin: 7
+9: joehillssays: 7
+10: Renthedog: 4
+11: iskall85: 1
+12: Etho: 1
+13: impulseSV: 1
+Total 225

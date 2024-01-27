@@ -1,0 +1,14 @@
+stat.useItem.minecraft.fence_gate
+1: Xisuma: 121
+2: falsesymmetry: 80
+3: hypnotizd: 68
+4: monkeyfarm: 12
+5: sl1pg8r: 9
+6: xBCrafted: 7
+7: impulseSV: 6
+8: Tango: 4
+9: PythonGB: 3
+10: KingDaddyDMAC: 3
+11: topmass: 2
+12: Spumwackles: 1
+Total 316

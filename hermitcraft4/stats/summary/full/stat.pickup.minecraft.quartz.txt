@@ -1,0 +1,24 @@
+stat.pickup.minecraft.quartz
+1: Renthedog: 45457
+2: GoodTimeWithScar: 41573
+3: falsesymmetry: 38861
+4: VintageBeef: 17155
+5: Biffa2001: 16292
+6: impulseSV: 11899
+7: Welsknight: 10637
+8: Xisuma: 10212
+9: iskall85: 8342
+10: cubfan135: 4333
+11: Tango: 2504
+12: PythonGB: 2362
+13: Mumbo: 1332
+14: joehillssays: 1293
+15: Tinfoilchef: 1259
+16: iJevin: 1033
+17: ZombieCleo: 594
+18: MumboJumbo: 559
+19: Docm77: 497
+20: Etho: 343
+21: zueljin: 87
+22: Jessassin: 10
+Total 216634

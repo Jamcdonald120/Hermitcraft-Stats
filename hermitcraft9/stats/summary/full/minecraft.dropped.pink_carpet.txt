@@ -1,0 +1,5 @@
+minecraft.dropped.pink_carpet
+1: cubfan135: 11
+2: GoodTimeWithScar: 5
+3: Tango: 2
+Total 18

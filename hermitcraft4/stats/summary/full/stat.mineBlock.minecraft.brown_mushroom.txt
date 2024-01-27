@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.brown_mushroom
+1: GoodTimeWithScar: 249
+2: impulseSV: 93
+3: Tango: 74
+4: cubfan135: 68
+5: falsesymmetry: 46
+6: Xisuma: 40
+7: iskall85: 37
+8: joehillssays: 35
+9: Renthedog: 34
+10: PythonGB: 31
+11: Tinfoilchef: 29
+12: MumboJumbo: 20
+13: Jessassin: 10
+14: Etho: 9
+15: Welsknight: 7
+16: ZombieCleo: 5
+17: iJevin: 1
+18: zueljin: 1
+Total 789

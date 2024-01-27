@@ -1,0 +1,10 @@
+minecraft.picked_up.mossy_stone_brick_slab
+1: Zedaph: 23
+2: xBCrafted: 18
+3: Stressmonster101: 16
+4: Grian: 7
+5: BdoubleO100: 3
+6: iskall85: 2
+7: GoodTimeWithScar: 2
+8: Welsknight: 1
+Total 72

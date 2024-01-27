@@ -1,0 +1,3 @@
+stat.mineBlock.minecraft.deadbush
+1: Xisuma: 2
+Total 2

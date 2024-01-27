@@ -1,0 +1,27 @@
+stat.mineBlock.minecraft.planks
+1: falsesymmetry: 2944
+2: iJevin: 2593
+3: xBCrafted: 1622
+4: sl1pg8r: 1450
+5: impulseSV: 1371
+6: Tango: 1117
+7: Xisuma: 1043
+8: monkeyfarm: 836
+9: zueljin: 777
+10: ZombieCleo: 709
+11: Mumbo: 690
+12: topmass: 673
+13: Tinfoilchef: 438
+14: KingDaddyDMAC: 393
+15: skyzm: 275
+16: Biffa2001: 264
+17: Etho: 240
+18: hypnotizd: 51
+19: Spumwackles: 45
+20: Pungence: 40
+21: NameOfSamuel: 34
+22: joehillssays: 33
+23: Keralis1: 21
+24: PythonGB: 11
+25: Docm77: 1
+Total 17671

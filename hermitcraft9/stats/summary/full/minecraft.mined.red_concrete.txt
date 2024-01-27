@@ -1,0 +1,29 @@
+minecraft.mined.red_concrete
+1: Keralis1: 13059
+2: Renthedog: 3908
+3: iJevin: 3207
+4: RentheKing: 3076
+5: Mumbo: 3008
+6: Docm77: 1482
+7: Grian: 1273
+8: PearlescentMoon: 949
+9: Etho: 640
+10: impulseSV: 614
+11: cubfan135: 501
+12: xBCrafted: 397
+13: joehillssays: 287
+14: falsesymmetry: 278
+15: Xisuma: 222
+16: Tango: 184
+17: GeminiTay: 117
+18: GoodTimeWithScar: 100
+19: BdoubleO100: 33
+20: Pixlriffs: 31
+21: Smallishbeans: 26
+22: Skizzleman: 15
+23: OrionSound: 13
+24: ZombieCleo: 13
+25: MythicalSausage: 7
+26: VintageBeef: 4
+27: Zedaph: 1
+Total 33445

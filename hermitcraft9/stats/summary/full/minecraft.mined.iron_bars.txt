@@ -1,0 +1,25 @@
+minecraft.mined.iron_bars
+1: cubfan135: 480
+2: iJevin: 413
+3: Renthedog: 235
+4: Keralis1: 222
+5: Tango: 214
+6: Xisuma: 158
+7: xBCrafted: 154
+8: Docm77: 149
+9: impulseSV: 126
+10: PearlescentMoon: 106
+11: Grian: 99
+12: Zedaph: 49
+13: RentheKing: 47
+14: hypnotizd: 40
+15: Mumbo: 36
+16: ZombieCleo: 35
+17: GeminiTay: 31
+18: BdoubleO100: 19
+19: joehillssays: 15
+20: GoodTimeWithScar: 7
+21: iskall85: 4
+22: Etho: 4
+23: falsesymmetry: 3
+Total 2646

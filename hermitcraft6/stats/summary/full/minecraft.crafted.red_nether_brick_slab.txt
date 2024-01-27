@@ -1,0 +1,8 @@
+minecraft.crafted.red_nether_brick_slab
+1: Renthedog: 926
+2: impulseSV: 390
+3: Xisuma: 320
+4: Tango: 42
+5: falsesymmetry: 20
+6: cubfan135: 12
+Total 1710

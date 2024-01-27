@@ -1,0 +1,18 @@
+minecraft.picked_up.white_terracotta
+1: GoodTimeWithScar: 3407
+2: Etho: 2604
+3: Tango: 1972
+4: falsesymmetry: 318
+5: Grian: 190
+6: PearlescentMoon: 117
+7: hypnotizd: 104
+8: MumboJumbo: 87
+9: BdoubleO100: 86
+10: impulseSV: 77
+11: ZombieCleo: 64
+12: Stressmonster101: 22
+13: joehillssays: 21
+14: Renthedog: 6
+15: iskall85: 2
+16: xBCrafted: 1
+Total 9078

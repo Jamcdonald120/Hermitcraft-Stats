@@ -1,0 +1,6 @@
+minecraft.picked_up.skull_pottery_sherd
+1: cubfan135: 15
+2: Zedaph: 4
+3: Renthedog: 2
+4: iJevin: 1
+Total 22

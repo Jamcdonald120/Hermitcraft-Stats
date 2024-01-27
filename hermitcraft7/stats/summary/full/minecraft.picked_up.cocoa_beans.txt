@@ -1,0 +1,23 @@
+minecraft.picked_up.cocoa_beans
+1: Zedaph: 11896
+2: Grian: 8786
+3: impulseSV: 7407
+4: Xisuma: 6858
+5: Etho: 4078
+6: falsesymmetry: 3674
+7: GoodTimeWithScar: 2994
+8: Keralis1: 2826
+9: Tango: 1184
+10: Stressmonster101: 586
+11: joehillssays: 570
+12: Renthedog: 481
+13: iskall85: 438
+14: VintageBeef: 288
+15: BdoubleO100: 283
+16: Docm77: 264
+17: hypnotizd: 260
+18: MumboJumbo: 150
+19: cubfan135: 139
+20: Welsknight: 57
+21: ZombieCleo: 12
+Total 53231

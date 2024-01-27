@@ -1,0 +1,20 @@
+stat.useItem.minecraft.redstone_lamp
+1: Xisuma: 1211
+2: falsesymmetry: 697
+3: MumboJumbo: 374
+4: iskall85: 355
+5: iJevin: 326
+6: Tango: 245
+7: cubfan135: 244
+8: impulseSV: 242
+9: Etho: 164
+10: Biffa2001: 149
+11: Welsknight: 132
+12: Docm77: 101
+13: ZombieCleo: 67
+14: VintageBeef: 48
+15: PythonGB: 36
+16: Renthedog: 21
+17: GoodTimeWithScar: 13
+18: zueljin: 1
+Total 4426

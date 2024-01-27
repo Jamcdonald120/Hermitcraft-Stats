@@ -1,0 +1,9 @@
+minecraft.picked_up.orange_banner
+1: GoodTimeWithScar: 23
+2: Xisuma: 22
+3: cubfan135: 11
+4: Renthedog: 5
+5: falsesymmetry: 3
+6: Tango: 1
+7: impulseSV: 1
+Total 66

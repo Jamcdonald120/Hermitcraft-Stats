@@ -1,0 +1,29 @@
+minecraft.killed.phantom
+1: cubfan135: 224
+2: iJevin: 163
+3: xBCrafted: 148
+4: impulseSV: 72
+5: PearlescentMoon: 63
+6: Docm77: 47
+7: Xisuma: 28
+8: Etho: 25
+9: hypnotizd: 24
+10: GoodTimeWithScar: 19
+11: Grian: 16
+12: Pixlriffs: 16
+13: Tango: 15
+14: falsesymmetry: 15
+15: Keralis1: 14
+16: ZombieCleo: 10
+17: Zedaph: 10
+18: VintageBeef: 9
+19: GeminiTay: 9
+20: iskall85: 8
+21: joehillssays: 7
+22: Renthedog: 6
+23: Stressmonster101: 6
+24: BdoubleO100: 2
+25: MythicalSausage: 1
+26: Mumbo: 1
+27: SolidarityGaming: 1
+Total 959

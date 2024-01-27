@@ -1,0 +1,10 @@
+minecraft.picked_up.brick_wall
+1: Etho: 25
+2: Grian: 24
+3: GoodTimeWithScar: 9
+4: Xisuma: 4
+5: Renthedog: 4
+6: PearlescentMoon: 4
+7: BdoubleO100: 3
+8: impulseSV: 1
+Total 74

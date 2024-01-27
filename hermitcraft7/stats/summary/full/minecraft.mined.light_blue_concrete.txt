@@ -1,0 +1,22 @@
+minecraft.mined.light_blue_concrete
+1: Tango: 4792
+2: Renthedog: 3830
+3: impulseSV: 3443
+4: Keralis1: 2470
+5: Stressmonster101: 1613
+6: Xisuma: 1611
+7: falsesymmetry: 1488
+8: hypnotizd: 1030
+9: MumboJumbo: 432
+10: cubfan135: 398
+11: VintageBeef: 261
+12: Zedaph: 247
+13: iskall85: 132
+14: BdoubleO100: 95
+15: GoodTimeWithScar: 87
+16: Etho: 24
+17: Grian: 11
+18: ZombieCleo: 11
+19: iJevin: 7
+20: joehillssays: 7
+Total 21989

@@ -1,0 +1,24 @@
+minecraft.used.milk_bucket
+1: ZombieCleo: 22
+2: impulseSV: 21
+3: Zedaph: 18
+4: Grian: 17
+5: iJevin: 15
+6: cubfan135: 11
+7: falsesymmetry: 10
+8: GoodTimeWithScar: 6
+9: VintageBeef: 5
+10: joehillssays: 5
+11: Tango: 5
+12: Renthedog: 4
+13: hypnotizd: 4
+14: xBCrafted: 3
+15: Etho: 3
+16: iskall85: 2
+17: Stressmonster101: 2
+18: Xisuma: 1
+19: BdoubleO100: 1
+20: Welsknight: 1
+21: MumboJumbo: 1
+22: Keralis1: 1
+Total 158

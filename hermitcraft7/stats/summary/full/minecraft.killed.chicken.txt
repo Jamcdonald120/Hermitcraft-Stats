@@ -1,0 +1,26 @@
+minecraft.killed.chicken
+1: VintageBeef: 818
+2: Xisuma: 748
+3: Grian: 594
+4: Tango: 544
+5: Zedaph: 430
+6: joehillssays: 362
+7: Keralis1: 316
+8: hypnotizd: 49
+9: xBCrafted: 46
+10: cubfan135: 39
+11: Stressmonster101: 28
+12: GoodTimeWithScar: 27
+13: BdoubleO100: 24
+14: iskall85: 23
+15: MumboJumbo: 22
+16: falsesymmetry: 18
+17: impulseSV: 18
+18: Renthedog: 17
+19: Etho: 17
+20: iJevin: 14
+21: Docm77: 13
+22: ZombieCleo: 8
+23: Welsknight: 5
+24: Tinfoilchef: 4
+Total 4184

@@ -1,0 +1,21 @@
+minecraft.dropped.gray_concrete
+1: Xisuma: 1804
+2: Zedaph: 1045
+3: cubfan135: 744
+4: GoodTimeWithScar: 740
+5: Tango: 356
+6: Grian: 246
+7: Etho: 217
+8: falsesymmetry: 186
+9: Keralis1: 166
+10: BdoubleO100: 69
+11: joehillssays: 63
+12: xBCrafted: 63
+13: iJevin: 36
+14: VintageBeef: 32
+15: impulseSV: 26
+16: Renthedog: 22
+17: Stressmonster101: 7
+18: MumboJumbo: 4
+19: iskall85: 1
+Total 5827

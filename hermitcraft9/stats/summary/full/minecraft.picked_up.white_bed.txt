@@ -1,0 +1,31 @@
+minecraft.picked_up.white_bed
+1: Xisuma: 333
+2: Docm77: 294
+3: Renthedog: 265
+4: Tango: 256
+5: Zedaph: 236
+6: BdoubleO100: 215
+7: iJevin: 146
+8: VintageBeef: 95
+9: Stressmonster101: 68
+10: Welsknight: 67
+11: Keralis1: 65
+12: Grian: 60
+13: impulseSV: 60
+14: cubfan135: 55
+15: ZombieCleo: 50
+16: Etho: 42
+17: xBCrafted: 41
+18: joehillssays: 37
+19: GoodTimeWithScar: 22
+20: iskall85: 21
+21: PearlescentMoon: 19
+22: RentheKing: 14
+23: Mumbo: 13
+24: falsesymmetry: 11
+25: MythicalSausage: 9
+26: Pixlriffs: 3
+27: MumboJumbo: 3
+28: OrionSound: 1
+29: Smajor1995: 1
+Total 2502

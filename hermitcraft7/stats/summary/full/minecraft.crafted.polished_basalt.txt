@@ -1,0 +1,24 @@
+minecraft.crafted.polished_basalt
+1: GoodTimeWithScar: 4652
+2: cubfan135: 3684
+3: Xisuma: 2944
+4: Renthedog: 2837
+5: MumboJumbo: 2267
+6: Etho: 1968
+7: falsesymmetry: 1896
+8: joehillssays: 1720
+9: VintageBeef: 528
+10: iskall85: 500
+11: Welsknight: 260
+12: impulseSV: 260
+13: Grian: 256
+14: Tango: 212
+15: ZombieCleo: 196
+16: Keralis1: 152
+17: BdoubleO100: 140
+18: Docm77: 57
+19: Zedaph: 24
+20: xBCrafted: 9
+21: iJevin: 4
+22: Stressmonster101: 4
+Total 24570

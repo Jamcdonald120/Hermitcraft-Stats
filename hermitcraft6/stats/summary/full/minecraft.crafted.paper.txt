@@ -1,0 +1,25 @@
+minecraft.crafted.paper
+1: cubfan135: 104333
+2: Tango: 87808
+3: impulseSV: 76745
+4: iJevin: 72536
+5: Renthedog: 69466
+6: Grian: 50625
+7: GoodTimeWithScar: 49563
+8: iskall85: 36432
+9: MumboJumbo: 22711
+10: falsesymmetry: 21694
+11: Xisuma: 15624
+12: joehillssays: 11131
+13: Tinfoilchef: 10657
+14: Zedaph: 7656
+15: PythonGB: 6207
+16: Welsknight: 5712
+17: Stressmonster101: 3186
+18: Docm77: 2517
+19: Keralis1: 2316
+20: Biffa2001: 771
+21: ZombieCleo: 606
+22: BdoubleO100: 84
+23: HumanCleo: 3
+Total 658383

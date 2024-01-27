@@ -1,0 +1,20 @@
+minecraft.dropped.cookie
+1: GoodTimeWithScar: 1301
+2: Keralis1: 890
+3: iskall85: 216
+4: Docm77: 180
+5: ZombieCleo: 133
+6: Zedaph: 110
+7: impulseSV: 90
+8: Grian: 64
+9: VintageBeef: 39
+10: Xisuma: 23
+11: MumboJumbo: 20
+12: hypnotizd: 16
+13: xBCrafted: 15
+14: Tango: 12
+15: Etho: 9
+16: BdoubleO100: 8
+17: joehillssays: 3
+18: cubfan135: 1
+Total 3130

@@ -1,0 +1,35 @@
+minecraft.picked_up.oak_planks
+1: VintageBeef: 8237
+2: ZombieCleo: 1944
+3: Grian: 1864
+4: PearlescentMoon: 1002
+5: Docm77: 972
+6: Zedaph: 744
+7: Xisuma: 624
+8: Etho: 564
+9: Keralis1: 520
+10: cubfan135: 506
+11: GoodTimeWithScar: 472
+12: iJevin: 434
+13: Tango: 369
+14: Renthedog: 276
+15: joehillssays: 258
+16: impulseSV: 231
+17: Stressmonster101: 205
+18: iskall85: 162
+19: falsesymmetry: 159
+20: xBCrafted: 77
+21: hypnotizd: 73
+22: Mumbo: 68
+23: Tinfoilchef: 60
+24: GeminiTay: 49
+25: MythicalSausage: 30
+26: BdoubleO100: 22
+27: RentheKing: 22
+28: MumboJumbo: 22
+29: Smallishbeans: 10
+30: Smajor1995: 7
+31: Pixlriffs: 3
+32: STEAKFG: 2
+33: SolidarityGaming: 2
+Total 19990

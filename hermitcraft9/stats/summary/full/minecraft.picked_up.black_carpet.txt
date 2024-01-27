@@ -1,0 +1,21 @@
+minecraft.picked_up.black_carpet
+1: VintageBeef: 81411
+2: impulseSV: 19018
+3: PearlescentMoon: 2478
+4: Xisuma: 1118
+5: iJevin: 782
+6: falsesymmetry: 411
+7: cubfan135: 327
+8: xBCrafted: 141
+9: Grian: 132
+10: Renthedog: 57
+11: Docm77: 42
+12: Tango: 38
+13: Keralis1: 28
+14: Zedaph: 19
+15: joehillssays: 15
+16: ZombieCleo: 2
+17: GoodTimeWithScar: 2
+18: BdoubleO100: 1
+19: Etho: 1
+Total 106023

@@ -1,0 +1,8 @@
+stat.killEntity.Villager
+1: xBCrafted: 43
+2: Xisuma: 33
+3: impulseSV: 25
+4: Docm77: 17
+5: iJevin: 5
+6: zueljin: 2
+Total 125

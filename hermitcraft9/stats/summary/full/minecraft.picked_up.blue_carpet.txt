@@ -1,0 +1,17 @@
+minecraft.picked_up.blue_carpet
+1: VintageBeef: 2256
+2: PearlescentMoon: 1144
+3: cubfan135: 172
+4: xBCrafted: 13
+5: Renthedog: 11
+6: GeminiTay: 7
+7: Xisuma: 4
+8: Keralis1: 3
+9: falsesymmetry: 2
+10: GoodTimeWithScar: 2
+11: Docm77: 1
+12: iJevin: 1
+13: ZombieCleo: 1
+14: impulseSV: 1
+15: Zedaph: 1
+Total 3619

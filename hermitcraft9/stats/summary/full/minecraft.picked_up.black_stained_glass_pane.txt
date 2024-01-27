@@ -1,0 +1,18 @@
+minecraft.picked_up.black_stained_glass_pane
+1: iJevin: 243
+2: falsesymmetry: 240
+3: cubfan135: 188
+4: Docm77: 77
+5: Tango: 57
+6: PearlescentMoon: 42
+7: RentheKing: 30
+8: Keralis1: 30
+9: Renthedog: 29
+10: hypnotizd: 19
+11: Zedaph: 16
+12: GoodTimeWithScar: 15
+13: Xisuma: 12
+14: xBCrafted: 9
+15: impulseSV: 2
+16: BdoubleO100: 1
+Total 1010

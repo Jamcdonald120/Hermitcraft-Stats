@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.melon_block
+1: Xisuma: 192
+2: Mumbo: 64
+3: falsesymmetry: 4
+Total 260

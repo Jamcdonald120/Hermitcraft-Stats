@@ -1,0 +1,24 @@
+stat.useItem.minecraft.fence
+1: GoodTimeWithScar: 2356
+2: Xisuma: 1701
+3: joehillssays: 962
+4: iskall85: 700
+5: falsesymmetry: 635
+6: Renthedog: 623
+7: Tango: 567
+8: iJevin: 562
+9: cubfan135: 489
+10: MumboJumbo: 474
+11: Welsknight: 472
+12: VintageBeef: 265
+13: ZombieCleo: 216
+14: Etho: 166
+15: impulseSV: 153
+16: Tinfoilchef: 149
+17: PythonGB: 147
+18: xBCrafted: 30
+19: Biffa2001: 14
+20: zueljin: 6
+21: Jessassin: 2
+22: xisumavoid: 1
+Total 10690

@@ -1,0 +1,20 @@
+stat.useItem.minecraft.fence_gate
+1: cubfan135: 182
+2: Tango: 35
+3: VintageBeef: 31
+4: Tinfoilchef: 22
+5: Welsknight: 16
+6: Zedaph: 16
+7: impulseSV: 13
+8: iskall85: 12
+9: PythonGB: 11
+10: joehillssays: 10
+11: iJevin: 8
+12: falsesymmetry: 7
+13: xBCrafted: 6
+14: Xisuma: 4
+15: GoodTimeWithScar: 3
+16: Biffa2001: 2
+17: Docm77: 1
+18: Renthedog: 1
+Total 380

@@ -1,0 +1,8 @@
+minecraft.used.purple_candle
+1: xBCrafted: 119
+2: iJevin: 77
+3: Tango: 56
+4: hypnotizd: 52
+5: Xisuma: 2
+6: GoodTimeWithScar: 1
+Total 307

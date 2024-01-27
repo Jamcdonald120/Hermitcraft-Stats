@@ -1,0 +1,23 @@
+stat.drop.minecraft.coal
+1: Tango: 986
+2: falsesymmetry: 631
+3: Zedaph: 585
+4: Stressmonster101: 380
+5: iJevin: 363
+6: GoodTimeWithScar: 328
+7: impulseSV: 315
+8: iskall85: 277
+9: MumboJumbo: 213
+10: Renthedog: 165
+11: Xisuma: 75
+12: xBCrafted: 64
+13: cubfan135: 61
+14: Docm77: 27
+15: Biffa2001: 27
+16: Welsknight: 18
+17: PythonGB: 7
+18: Tinfoilchef: 4
+19: joehillssays: 2
+20: VintageBeef: 1
+21: BdoubleO100: 1
+Total 4530

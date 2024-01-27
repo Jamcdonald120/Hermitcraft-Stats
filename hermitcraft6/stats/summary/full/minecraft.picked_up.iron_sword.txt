@@ -1,0 +1,25 @@
+minecraft.picked_up.iron_sword
+1: iskall85: 21
+2: Tango: 20
+3: PythonGB: 19
+4: cubfan135: 18
+5: Stressmonster101: 16
+6: GoodTimeWithScar: 14
+7: MumboJumbo: 13
+8: iJevin: 12
+9: joehillssays: 11
+10: Grian: 10
+11: falsesymmetry: 10
+12: Docm77: 8
+13: Xisuma: 8
+14: ZombieCleo: 8
+15: impulseSV: 8
+16: Zedaph: 8
+17: Tinfoilchef: 6
+18: Keralis1: 6
+19: Renthedog: 5
+20: xBCrafted: 4
+21: EvilXisuma: 1
+22: Cub_Cam: 1
+23: Biffa2001: 1
+Total 228

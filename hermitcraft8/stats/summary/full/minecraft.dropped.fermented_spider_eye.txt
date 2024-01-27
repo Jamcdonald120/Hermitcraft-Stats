@@ -1,0 +1,4 @@
+minecraft.dropped.fermented_spider_eye
+1: Etho: 172
+2: Zedaph: 134
+Total 306

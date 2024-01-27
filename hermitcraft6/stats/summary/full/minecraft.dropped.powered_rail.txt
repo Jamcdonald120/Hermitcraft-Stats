@@ -1,0 +1,17 @@
+minecraft.dropped.powered_rail
+1: iskall85: 195
+2: impulseSV: 135
+3: Tango: 131
+4: GoodTimeWithScar: 93
+5: Grian: 75
+6: MumboJumbo: 59
+7: falsesymmetry: 32
+8: cubfan135: 29
+9: Renthedog: 25
+10: Docm77: 22
+11: iJevin: 12
+12: Stressmonster101: 12
+13: Xisuma: 9
+14: Biffa2001: 5
+15: Keralis1: 1
+Total 835

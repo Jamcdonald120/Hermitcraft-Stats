@@ -1,0 +1,17 @@
+stat.pickup.minecraft.fence_gate
+1: Tango: 29
+2: Tinfoilchef: 18
+3: impulseSV: 18
+4: Zedaph: 17
+5: cubfan135: 15
+6: joehillssays: 9
+7: iJevin: 8
+8: PythonGB: 6
+9: iskall85: 6
+10: VintageBeef: 4
+11: Welsknight: 4
+12: Xisuma: 2
+13: GoodTimeWithScar: 2
+14: Renthedog: 1
+15: falsesymmetry: 1
+Total 140

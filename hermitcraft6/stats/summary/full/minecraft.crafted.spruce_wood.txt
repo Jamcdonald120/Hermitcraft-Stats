@@ -1,0 +1,17 @@
+minecraft.crafted.spruce_wood
+1: falsesymmetry: 4701
+2: Renthedog: 1179
+3: joehillssays: 324
+4: cubfan135: 312
+5: BdoubleO100: 198
+6: Grian: 111
+7: Welsknight: 102
+8: GoodTimeWithScar: 99
+9: ZombieCleo: 84
+10: HumanCleo: 48
+11: PythonGB: 42
+12: Xisuma: 33
+13: Docm77: 9
+14: Stressmonster101: 6
+15: iskall85: 3
+Total 7251

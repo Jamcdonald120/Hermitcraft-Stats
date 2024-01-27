@@ -1,0 +1,27 @@
+stat.useItem.minecraft.stonebrick
+1: falsesymmetry: 28130
+2: xBCrafted: 13732
+3: Xisuma: 13475
+4: monkeyfarm: 12314
+5: Tango: 9574
+6: impulseSV: 5916
+7: iJevin: 3979
+8: Biffa2001: 3773
+9: Etho: 3202
+10: KingDaddyDMAC: 2675
+11: PythonGB: 1541
+12: Mumbo: 1445
+13: topmass: 1427
+14: sl1pg8r: 1077
+15: Spumwackles: 864
+16: joehillssays: 824
+17: Tinfoilchef: 534
+18: Keralis1: 453
+19: ZombieCleo: 385
+20: skyzm: 362
+21: Docm77: 291
+22: hypnotizd: 265
+23: zueljin: 218
+24: xisumavoid: 54
+25: snipepager: 42
+Total 106552

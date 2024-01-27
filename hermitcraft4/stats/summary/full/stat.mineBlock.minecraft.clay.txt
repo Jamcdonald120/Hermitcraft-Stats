@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.clay
+1: Welsknight: 6150
+2: Xisuma: 5175
+3: GoodTimeWithScar: 1577
+4: cubfan135: 1091
+5: Tinfoilchef: 543
+6: falsesymmetry: 505
+7: iskall85: 385
+8: Renthedog: 265
+9: Tango: 245
+10: joehillssays: 194
+11: MumboJumbo: 123
+12: impulseSV: 102
+13: PythonGB: 95
+14: Etho: 65
+15: iJevin: 63
+16: zueljin: 52
+17: VintageBeef: 26
+18: ZombieCleo: 19
+19: Mumbo: 12
+Total 16687

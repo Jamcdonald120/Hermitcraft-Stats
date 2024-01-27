@@ -1,0 +1,14 @@
+minecraft.dropped.stone_stairs
+1: falsesymmetry: 1885
+2: Tango: 203
+3: BdoubleO100: 174
+4: iJevin: 63
+5: Grian: 32
+6: GoodTimeWithScar: 29
+7: Xisuma: 27
+8: Zedaph: 10
+9: Keralis1: 6
+10: Renthedog: 5
+11: iskall85: 2
+12: Etho: 1
+Total 2437

@@ -1,0 +1,20 @@
+minecraft.dropped.netherite_axe
+1: Renthedog: 13
+2: Grian: 11
+3: Keralis1: 9
+4: BdoubleO100: 7
+5: Xisuma: 5
+6: cubfan135: 5
+7: hypnotizd: 5
+8: iskall85: 4
+9: Etho: 4
+10: iJevin: 3
+11: MumboJumbo: 3
+12: GoodTimeWithScar: 2
+13: joehillssays: 1
+14: Tango: 1
+15: falsesymmetry: 1
+16: Welsknight: 1
+17: impulseSV: 1
+18: Zedaph: 1
+Total 77

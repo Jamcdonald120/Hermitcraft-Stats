@@ -1,0 +1,22 @@
+minecraft.crafted.hay_block
+1: VintageBeef: 3127
+2: Etho: 1677
+3: GoodTimeWithScar: 878
+4: joehillssays: 568
+5: impulseSV: 386
+6: Keralis1: 374
+7: xBCrafted: 229
+8: cubfan135: 178
+9: hypnotizd: 174
+10: Xisuma: 148
+11: Zedaph: 136
+12: Grian: 125
+13: Tango: 122
+14: Welsknight: 105
+15: Docm77: 46
+16: Renthedog: 37
+17: falsesymmetry: 31
+18: ZombieCleo: 14
+19: BdoubleO100: 12
+20: iskall85: 4
+Total 8371

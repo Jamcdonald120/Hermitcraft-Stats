@@ -1,0 +1,32 @@
+minecraft.mined.snow
+1: Tango: 291324
+2: joehillssays: 176224
+3: Keralis1: 34663
+4: cubfan135: 32194
+5: falsesymmetry: 32153
+6: VintageBeef: 23459
+7: impulseSV: 18558
+8: iskall85: 15362
+9: Xisuma: 9736
+10: PearlescentMoon: 9080
+11: xBCrafted: 6380
+12: Docm77: 6220
+13: iJevin: 5442
+14: Renthedog: 4555
+15: GoodTimeWithScar: 4263
+16: hypnotizd: 3442
+17: Etho: 2728
+18: BdoubleO100: 1982
+19: Zedaph: 1806
+20: MythicalSausage: 1730
+21: Grian: 1453
+22: Smallishbeans: 1344
+23: RentheKing: 389
+24: ZombieCleo: 271
+25: GeminiTay: 164
+26: ShubbleYT: 51
+27: Pixlriffs: 41
+28: SolidarityGaming: 31
+29: OrionSound: 25
+30: Mumbo: 10
+Total 685080

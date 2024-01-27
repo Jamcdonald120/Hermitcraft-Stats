@@ -1,0 +1,27 @@
+minecraft.dropped.player_head
+1: impulseSV: 529
+2: Zedaph: 498
+3: Grian: 158
+4: GoodTimeWithScar: 120
+5: Renthedog: 101
+6: Keralis1: 101
+7: cubfan135: 90
+8: Xisuma: 81
+9: Tango: 74
+10: iskall85: 70
+11: Etho: 56
+12: BdoubleO100: 53
+13: MumboJumbo: 42
+14: falsesymmetry: 36
+15: iJevin: 33
+16: hypnotizd: 32
+17: ZombieCleo: 20
+18: xBCrafted: 18
+19: Docm77: 15
+20: VintageBeef: 7
+21: xisumavoid: 5
+22: joehillssays: 3
+23: Stressmonster101: 3
+24: Welsknight: 2
+25: BarryBoss1234: 1
+Total 2148

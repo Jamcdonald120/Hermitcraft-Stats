@@ -1,0 +1,9 @@
+minecraft.crafted.flower_banner_pattern
+1: BdoubleO100: 2
+2: falsesymmetry: 2
+3: iJevin: 1
+4: GeminiTay: 1
+5: Grian: 1
+6: cubfan135: 1
+7: Zedaph: 1
+Total 9

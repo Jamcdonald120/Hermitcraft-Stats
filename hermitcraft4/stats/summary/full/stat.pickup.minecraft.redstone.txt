@@ -1,0 +1,25 @@
+stat.pickup.minecraft.redstone
+1: Tinfoilchef: 101175
+2: Renthedog: 48190
+3: iskall85: 38691
+4: GoodTimeWithScar: 30895
+5: Xisuma: 20082
+6: MumboJumbo: 17240
+7: cubfan135: 10974
+8: falsesymmetry: 10633
+9: Welsknight: 10080
+10: ZombieCleo: 8477
+11: PythonGB: 7766
+12: Etho: 7297
+13: Tango: 6545
+14: impulseSV: 6105
+15: iJevin: 5175
+16: joehillssays: 3716
+17: Docm77: 3232
+18: Mumbo: 2726
+19: Biffa2001: 2229
+20: Jessassin: 1574
+21: VintageBeef: 527
+22: xBCrafted: 301
+23: xisumavoid: 4
+Total 343634

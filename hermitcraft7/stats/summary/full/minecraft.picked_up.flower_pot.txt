@@ -1,0 +1,23 @@
+minecraft.picked_up.flower_pot
+1: Zedaph: 1502
+2: GoodTimeWithScar: 190
+3: Grian: 148
+4: BdoubleO100: 141
+5: Etho: 113
+6: Keralis1: 74
+7: cubfan135: 68
+8: Stressmonster101: 57
+9: VintageBeef: 50
+10: impulseSV: 35
+11: Xisuma: 30
+12: Tango: 19
+13: iskall85: 18
+14: Welsknight: 18
+15: Renthedog: 12
+16: ZombieCleo: 9
+17: joehillssays: 7
+18: xBCrafted: 7
+19: falsesymmetry: 5
+20: hypnotizd: 5
+21: iJevin: 1
+Total 2509

@@ -1,0 +1,17 @@
+minecraft.dropped.pumpkin_seeds
+1: Tango: 913
+2: iJevin: 831
+3: cubfan135: 239
+4: Renthedog: 208
+5: GoodTimeWithScar: 142
+6: Zedaph: 135
+7: joehillssays: 80
+8: Docm77: 56
+9: Xisuma: 50
+10: Grian: 28
+11: PearlescentMoon: 21
+12: impulseSV: 13
+13: BdoubleO100: 4
+14: Etho: 4
+15: ZombieCleo: 2
+Total 2726

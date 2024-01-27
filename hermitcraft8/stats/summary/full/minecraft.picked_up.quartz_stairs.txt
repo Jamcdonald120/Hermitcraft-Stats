@@ -1,0 +1,16 @@
+minecraft.picked_up.quartz_stairs
+1: Grian: 151
+2: VintageBeef: 91
+3: GoodTimeWithScar: 37
+4: Keralis1: 37
+5: Welsknight: 26
+6: PearlescentMoon: 20
+7: Tango: 19
+8: impulseSV: 15
+9: Renthedog: 12
+10: Xisuma: 5
+11: Docm77: 2
+12: MumboJumbo: 2
+13: Zedaph: 2
+14: hypnotizd: 1
+Total 420

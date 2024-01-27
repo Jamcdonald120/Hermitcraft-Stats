@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.wooden_hoe
+1: Renthedog: 56
+2: Zedaph: 16
+3: cubfan135: 4
+4: GoodTimeWithScar: 3
+5: Docm77: 2
+6: Etho: 2
+7: ZombieCleo: 2
+8: Xisuma: 1
+9: iskall85: 1
+10: xBCrafted: 1
+11: impulseSV: 1
+Total 89

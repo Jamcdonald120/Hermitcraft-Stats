@@ -1,0 +1,23 @@
+minecraft.used.white_banner
+1: impulseSV: 188
+2: cubfan135: 173
+3: falsesymmetry: 79
+4: Renthedog: 50
+5: xBCrafted: 47
+6: Xisuma: 36
+7: PearlescentMoon: 34
+8: VintageBeef: 15
+9: ZombieCleo: 13
+10: Docm77: 12
+11: GoodTimeWithScar: 12
+12: Keralis1: 9
+13: Etho: 5
+14: iJevin: 3
+15: Grian: 2
+16: Smajor1995: 1
+17: MythicalSausage: 1
+18: GeminiTay: 1
+19: Tango: 1
+20: BdoubleO100: 1
+21: Zedaph: 1
+Total 684

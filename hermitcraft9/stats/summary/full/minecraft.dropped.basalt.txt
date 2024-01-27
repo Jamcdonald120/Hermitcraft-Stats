@@ -1,0 +1,27 @@
+minecraft.dropped.basalt
+1: Tango: 10032
+2: Zedaph: 5098
+3: iJevin: 4532
+4: BdoubleO100: 2006
+5: Docm77: 1139
+6: cubfan135: 1116
+7: falsesymmetry: 789
+8: Grian: 640
+9: impulseSV: 568
+10: Renthedog: 541
+11: joehillssays: 360
+12: Mumbo: 311
+13: Keralis1: 292
+14: ZombieCleo: 255
+15: Xisuma: 250
+16: Etho: 233
+17: GoodTimeWithScar: 216
+18: PearlescentMoon: 183
+19: VintageBeef: 94
+20: hypnotizd: 57
+21: RentheKing: 9
+22: iskall85: 6
+23: xBCrafted: 4
+24: Stressmonster101: 3
+25: GeminiTay: 2
+Total 28736

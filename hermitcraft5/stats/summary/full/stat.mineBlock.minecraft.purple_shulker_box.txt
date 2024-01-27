@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.purple_shulker_box
+1: cubfan135: 4507
+2: GoodTimeWithScar: 3089
+3: Welsknight: 2817
+4: Tango: 2574
+5: impulseSV: 2405
+6: falsesymmetry: 2384
+7: Xisuma: 2330
+8: Zedaph: 965
+9: iskall85: 608
+10: iJevin: 489
+11: MumboJumbo: 403
+12: Docm77: 392
+13: Tinfoilchef: 347
+14: PythonGB: 264
+15: Renthedog: 226
+16: xBCrafted: 187
+17: Stressmonster101: 173
+18: Biffa2001: 136
+19: BdoubleO100: 79
+20: joehillssays: 40
+21: ZombieCleo: 19
+22: Etho: 9
+23: VintageBeef: 5
+Total 24448

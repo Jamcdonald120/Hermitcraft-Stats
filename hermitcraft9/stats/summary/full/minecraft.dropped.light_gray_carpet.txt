@@ -1,0 +1,14 @@
+minecraft.dropped.light_gray_carpet
+1: falsesymmetry: 301
+2: GoodTimeWithScar: 254
+3: iJevin: 40
+4: Grian: 37
+5: Renthedog: 5
+6: Tango: 5
+7: Docm77: 2
+8: VintageBeef: 2
+9: cubfan135: 2
+10: Etho: 2
+11: Keralis1: 2
+12: Xisuma: 1
+Total 653

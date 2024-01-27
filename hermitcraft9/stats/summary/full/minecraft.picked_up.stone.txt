@@ -1,0 +1,36 @@
+minecraft.picked_up.stone
+1: Xisuma: 319423
+2: joehillssays: 294433
+3: hypnotizd: 284446
+4: iJevin: 213443
+5: Tango: 211526
+6: impulseSV: 200187
+7: Docm77: 186887
+8: falsesymmetry: 171946
+9: GoodTimeWithScar: 165936
+10: PearlescentMoon: 155280
+11: Renthedog: 131351
+12: Grian: 112967
+13: BdoubleO100: 102804
+14: Pixlriffs: 79578
+15: Keralis1: 78287
+16: Zedaph: 73804
+17: Etho: 54478
+18: iskall85: 51512
+19: RentheKing: 49499
+20: cubfan135: 48144
+21: ZombieCleo: 32974
+22: xBCrafted: 31444
+23: VintageBeef: 21178
+24: Stressmonster101: 12133
+25: GeminiTay: 11660
+26: Mumbo: 4159
+27: Smallishbeans: 1214
+28: Welsknight: 436
+29: MythicalSausage: 427
+30: InTheLittleWood: 37
+31: Skizzleman: 15
+32: HBomb94: 8
+33: Minerva246: 1
+34: STEAKFG: 1
+Total 3101618

@@ -1,0 +1,19 @@
+stat.breakItem.minecraft.diamond_pickaxe
+1: falsesymmetry: 13
+2: impulseSV: 10
+3: Xisuma: 6
+4: Tinfoilchef: 6
+5: Tango: 4
+6: topmass: 3
+7: Mumbo: 3
+8: hypnotizd: 3
+9: monkeyfarm: 3
+10: sl1pg8r: 2
+11: Biffa2001: 2
+12: PythonGB: 1
+13: zueljin: 1
+14: xBCrafted: 1
+15: Etho: 1
+16: Mrs_Keralis: 1
+17: Spumwackles: 1
+Total 61

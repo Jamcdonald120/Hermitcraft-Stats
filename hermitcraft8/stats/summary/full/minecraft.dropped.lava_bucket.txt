@@ -1,0 +1,8 @@
+minecraft.dropped.lava_bucket
+1: Etho: 13
+2: iJevin: 6
+3: cubfan135: 5
+4: Renthedog: 4
+5: MumboJumbo: 1
+6: GoodTimeWithScar: 1
+Total 30

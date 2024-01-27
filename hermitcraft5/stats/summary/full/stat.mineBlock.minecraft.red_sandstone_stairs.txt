@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.red_sandstone_stairs
+1: cubfan135: 159
+2: joehillssays: 20
+3: Tango: 4
+4: VintageBeef: 3
+5: Xisuma: 1
+Total 187

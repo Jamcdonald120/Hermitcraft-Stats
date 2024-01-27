@@ -1,0 +1,8 @@
+minecraft.crafted.mossy_stone_brick_slab
+1: iJevin: 3480
+2: PearlescentMoon: 150
+3: Tango: 148
+4: Keralis1: 108
+5: cubfan135: 42
+6: GeminiTay: 18
+Total 3946

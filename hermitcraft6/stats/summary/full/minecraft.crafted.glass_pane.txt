@@ -1,0 +1,25 @@
+minecraft.crafted.glass_pane
+1: Renthedog: 5380
+2: Xisuma: 2768
+3: cubfan135: 1637
+4: iJevin: 1088
+5: MumboJumbo: 916
+6: Stressmonster101: 736
+7: Tango: 704
+8: iskall85: 640
+9: Welsknight: 640
+10: Keralis1: 512
+11: Tinfoilchef: 256
+12: falsesymmetry: 224
+13: Docm77: 192
+14: BdoubleO100: 144
+15: Grian: 96
+16: GoodTimeWithScar: 96
+17: joehillssays: 80
+18: Jessassin: 64
+19: xBCrafted: 48
+20: ZombieCleo: 32
+21: impulseSV: 32
+22: PythonGB: 16
+23: Zedaph: 16
+Total 16317

@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.diamond_boots
+1: Renthedog: 10
+2: iJevin: 9
+3: MumboJumbo: 8
+4: impulseSV: 7
+5: joehillssays: 6
+6: iskall85: 6
+7: Tango: 5
+8: Welsknight: 5
+9: GoodTimeWithScar: 5
+10: PythonGB: 4
+11: falsesymmetry: 4
+12: Etho: 4
+13: Tinfoilchef: 4
+14: xBCrafted: 3
+15: Stressmonster101: 3
+16: Zedaph: 3
+17: Docm77: 2
+18: Xisuma: 2
+19: VintageBeef: 2
+20: ZombieCleo: 2
+21: BdoubleO100: 1
+22: cubfan135: 1
+23: Biffa2001: 1
+Total 97

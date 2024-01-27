@@ -1,0 +1,26 @@
+minecraft.mined.spruce_stairs
+1: Renthedog: 762
+2: xBCrafted: 621
+3: Keralis1: 377
+4: Etho: 363
+5: Grian: 278
+6: Xisuma: 246
+7: cubfan135: 224
+8: BdoubleO100: 212
+9: impulseSV: 155
+10: Tango: 149
+11: joehillssays: 117
+12: MumboJumbo: 105
+13: VintageBeef: 90
+14: iskall85: 81
+15: GoodTimeWithScar: 76
+16: iJevin: 63
+17: Zedaph: 60
+18: Docm77: 59
+19: Welsknight: 48
+20: ZombieCleo: 44
+21: hypnotizd: 38
+22: Stressmonster101: 17
+23: falsesymmetry: 9
+24: BarryBoss1234: 7
+Total 4201

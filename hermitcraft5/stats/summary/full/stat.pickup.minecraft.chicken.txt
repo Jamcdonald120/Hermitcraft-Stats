@@ -1,0 +1,24 @@
+stat.pickup.minecraft.chicken
+1: Tinfoilchef: 1604
+2: ZombieCleo: 1213
+3: cubfan135: 778
+4: Tango: 284
+5: Zedaph: 209
+6: MumboJumbo: 195
+7: falsesymmetry: 140
+8: PythonGB: 127
+9: Etho: 85
+10: iskall85: 67
+11: GoodTimeWithScar: 64
+12: BdoubleO100: 62
+13: joehillssays: 58
+14: Stressmonster101: 49
+15: xBCrafted: 43
+16: Welsknight: 42
+17: VintageBeef: 24
+18: Renthedog: 17
+19: iJevin: 14
+20: impulseSV: 9
+21: Docm77: 5
+22: Xisuma: 4
+Total 5093

@@ -1,0 +1,6 @@
+minecraft.crafted.tipped_arrow
+1: cubfan135: 216
+2: GoodTimeWithScar: 128
+3: impulseSV: 24
+4: Zedaph: 8
+Total 376

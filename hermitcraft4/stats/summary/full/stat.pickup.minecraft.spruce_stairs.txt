@@ -1,0 +1,21 @@
+stat.pickup.minecraft.spruce_stairs
+1: GoodTimeWithScar: 2701
+2: Welsknight: 1419
+3: Xisuma: 1066
+4: Renthedog: 946
+5: iskall85: 942
+6: iJevin: 617
+7: falsesymmetry: 518
+8: cubfan135: 495
+9: joehillssays: 285
+10: Etho: 248
+11: Tango: 245
+12: Docm77: 197
+13: Tinfoilchef: 165
+14: VintageBeef: 160
+15: ZombieCleo: 97
+16: PythonGB: 34
+17: zueljin: 17
+18: impulseSV: 15
+19: MumboJumbo: 12
+Total 10179

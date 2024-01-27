@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.golden_helmet
+1: Renthedog: 56
+2: PythonGB: 1
+3: joehillssays: 1
+4: MumboJumbo: 1
+5: Zedaph: 1
+Total 60

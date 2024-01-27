@@ -1,0 +1,6 @@
+stat.useItem.minecraft.iron_ore
+1: sl1pg8r: 84
+2: falsesymmetry: 10
+3: Biffa2001: 2
+4: Xisuma: 1
+Total 97

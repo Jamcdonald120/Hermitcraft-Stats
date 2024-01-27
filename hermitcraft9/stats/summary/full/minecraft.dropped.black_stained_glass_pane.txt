@@ -1,0 +1,8 @@
+minecraft.dropped.black_stained_glass_pane
+1: falsesymmetry: 120
+2: Keralis1: 8
+3: hypnotizd: 5
+4: GoodTimeWithScar: 5
+5: Docm77: 1
+6: Zedaph: 1
+Total 140

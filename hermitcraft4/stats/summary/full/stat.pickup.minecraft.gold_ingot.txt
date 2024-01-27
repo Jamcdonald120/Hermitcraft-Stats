@@ -1,0 +1,22 @@
+stat.pickup.minecraft.gold_ingot
+1: Xisuma: 1265
+2: Tango: 421
+3: Welsknight: 378
+4: falsesymmetry: 339
+5: GoodTimeWithScar: 259
+6: iJevin: 175
+7: impulseSV: 120
+8: ZombieCleo: 99
+9: MumboJumbo: 79
+10: Etho: 68
+11: iskall85: 54
+12: cubfan135: 54
+13: Renthedog: 50
+14: xisumavoid: 36
+15: PythonGB: 23
+16: joehillssays: 7
+17: Jessassin: 3
+18: Docm77: 1
+19: VintageBeef: 1
+20: Tinfoilchef: 1
+Total 3433

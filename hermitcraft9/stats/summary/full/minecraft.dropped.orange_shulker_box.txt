@@ -1,0 +1,8 @@
+minecraft.dropped.orange_shulker_box
+1: Tango: 3
+2: hypnotizd: 3
+3: RentheKing: 2
+4: Xisuma: 1
+5: cubfan135: 1
+6: GoodTimeWithScar: 1
+Total 11

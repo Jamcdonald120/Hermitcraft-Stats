@@ -1,0 +1,11 @@
+minecraft.picked_up.stripped_crimson_hyphae
+1: PearlescentMoon: 523
+2: VintageBeef: 472
+3: cubfan135: 102
+4: ZombieCleo: 50
+5: Grian: 9
+6: Zedaph: 3
+7: Xisuma: 2
+8: Keralis1: 2
+9: impulseSV: 1
+Total 1164

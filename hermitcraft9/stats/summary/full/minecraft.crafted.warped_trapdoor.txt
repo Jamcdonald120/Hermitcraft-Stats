@@ -1,0 +1,23 @@
+minecraft.crafted.warped_trapdoor
+1: Etho: 846
+2: Xisuma: 660
+3: impulseSV: 634
+4: Mumbo: 558
+5: Tango: 490
+6: PearlescentMoon: 242
+7: Docm77: 200
+8: GoodTimeWithScar: 188
+9: ZombieCleo: 176
+10: BdoubleO100: 146
+11: cubfan135: 144
+12: Keralis1: 140
+13: Grian: 138
+14: GeminiTay: 92
+15: falsesymmetry: 78
+16: Smajor1995: 18
+17: joehillssays: 10
+18: Smallishbeans: 8
+19: hypnotizd: 4
+20: Renthedog: 2
+21: Zedaph: 2
+Total 4776

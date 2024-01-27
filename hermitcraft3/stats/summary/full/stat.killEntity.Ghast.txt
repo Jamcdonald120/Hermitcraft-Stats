@@ -1,0 +1,20 @@
+stat.killEntity.Ghast
+1: Tango: 194
+2: Xisuma: 179
+3: impulseSV: 143
+4: falsesymmetry: 92
+5: sl1pg8r: 37
+6: xBCrafted: 20
+7: monkeyfarm: 18
+8: Biffa2001: 17
+9: zueljin: 12
+10: PythonGB: 11
+11: hypnotizd: 10
+12: Spumwackles: 10
+13: topmass: 9
+14: Mumbo: 6
+15: iJevin: 5
+16: KingDaddyDMAC: 3
+17: Docm77: 1
+18: Tinfoilchef: 1
+Total 768

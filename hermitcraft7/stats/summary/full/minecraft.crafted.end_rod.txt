@@ -1,0 +1,13 @@
+minecraft.crafted.end_rod
+1: impulseSV: 6184
+2: Grian: 5280
+3: Xisuma: 1440
+4: xBCrafted: 296
+5: joehillssays: 188
+6: falsesymmetry: 172
+7: Docm77: 76
+8: VintageBeef: 64
+9: cubfan135: 24
+10: BdoubleO100: 8
+11: MumboJumbo: 8
+Total 13740

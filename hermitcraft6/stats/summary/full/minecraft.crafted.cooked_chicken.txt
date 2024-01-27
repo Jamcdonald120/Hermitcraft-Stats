@@ -1,0 +1,17 @@
+minecraft.crafted.cooked_chicken
+1: GoodTimeWithScar: 4070
+2: ZombieCleo: 867
+3: cubfan135: 844
+4: Renthedog: 440
+5: Zedaph: 214
+6: Grian: 92
+7: Stressmonster101: 69
+8: Docm77: 61
+9: Biffa2001: 61
+10: Tango: 17
+11: iJevin: 15
+12: joehillssays: 11
+13: falsesymmetry: 11
+14: EvilXisuma: 8
+15: Welsknight: 4
+Total 6784

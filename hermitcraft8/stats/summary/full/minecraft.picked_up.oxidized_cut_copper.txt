@@ -1,0 +1,11 @@
+minecraft.picked_up.oxidized_cut_copper
+1: impulseSV: 67
+2: Renthedog: 39
+3: cubfan135: 29
+4: Docm77: 17
+5: Grian: 10
+6: PearlescentMoon: 9
+7: joehillssays: 4
+8: xBCrafted: 2
+9: GoodTimeWithScar: 2
+Total 179

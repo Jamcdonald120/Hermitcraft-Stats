@@ -1,0 +1,5 @@
+minecraft.used.golden_pickaxe
+1: Tango: 40
+2: iJevin: 32
+3: impulseSV: 1
+Total 73

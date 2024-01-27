@@ -1,0 +1,26 @@
+minecraft.crafted.iron_leggings
+1: MumboJumbo: 20
+2: iJevin: 18
+3: Etho: 14
+4: Tango: 11
+5: ZombieCleo: 11
+6: hypnotizd: 11
+7: Xisuma: 9
+8: Welsknight: 9
+9: xBCrafted: 8
+10: impulseSV: 8
+11: Grian: 7
+12: Docm77: 6
+13: iskall85: 6
+14: Zedaph: 6
+15: falsesymmetry: 5
+16: cubfan135: 5
+17: Renthedog: 3
+18: joehillssays: 3
+19: VintageBeef: 2
+20: GoodTimeWithScar: 2
+21: Keralis1: 2
+22: BdoubleO100: 1
+23: Tinfoilchef: 1
+24: Stressmonster101: 1
+Total 169

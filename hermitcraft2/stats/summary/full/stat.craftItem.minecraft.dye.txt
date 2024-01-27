@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.dye
+1: ZombieCleo: 2050
+2: Spumwackles: 1729
+3: Xisuma: 1185
+4: iJevin: 812
+5: Biffa2001: 510
+6: Tango: 492
+7: falsesymmetry: 396
+8: zueljin: 316
+9: xBCrafted: 282
+10: sl1pg8r: 210
+11: Mumbo: 198
+12: monkeyfarm: 49
+13: NameOfSamuel: 21
+14: KingDaddyDMAC: 9
+Total 8259

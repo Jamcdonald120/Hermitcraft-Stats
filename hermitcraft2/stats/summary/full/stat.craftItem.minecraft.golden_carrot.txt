@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.golden_carrot
+1: Collen: 18
+2: sl1pg8r: 12
+Total 30

@@ -1,0 +1,26 @@
+minecraft.dropped.shulker_box
+1: cubfan135: 792
+2: Grian: 288
+3: iskall85: 239
+4: Zedaph: 110
+5: Etho: 83
+6: Renthedog: 57
+7: Xisuma: 38
+8: GoodTimeWithScar: 30
+9: Tango: 26
+10: Keralis1: 21
+11: impulseSV: 16
+12: falsesymmetry: 14
+13: MumboJumbo: 12
+14: hypnotizd: 11
+15: BdoubleO100: 10
+16: iJevin: 7
+17: Stressmonster101: 7
+18: joehillssays: 6
+19: ZombieCleo: 5
+20: VintageBeef: 3
+21: xBCrafted: 3
+22: Docm77: 2
+23: xisumavoid: 1
+24: Mumbo: 1
+Total 1782

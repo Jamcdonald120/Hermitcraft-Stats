@@ -1,0 +1,25 @@
+minecraft.picked_up.diamond_ore
+1: Docm77: 377
+2: PearlescentMoon: 215
+3: Xisuma: 190
+4: GoodTimeWithScar: 179
+5: Renthedog: 139
+6: cubfan135: 123
+7: GeminiTay: 118
+8: Grian: 105
+9: iJevin: 83
+10: MumboJumbo: 77
+11: BdoubleO100: 67
+12: xBCrafted: 63
+13: falsesymmetry: 51
+14: joehillssays: 47
+15: ZombieCleo: 41
+16: iskall85: 25
+17: impulseSV: 13
+18: hypnotizd: 11
+19: Zedaph: 8
+20: Keralis1: 5
+21: Welsknight: 4
+22: Tango: 2
+23: VintageBeef: 1
+Total 1944

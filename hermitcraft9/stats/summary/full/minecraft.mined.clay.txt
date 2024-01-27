@@ -1,0 +1,31 @@
+minecraft.mined.clay
+1: Tango: 56061
+2: Zedaph: 22817
+3: PearlescentMoon: 9537
+4: Docm77: 5354
+5: BdoubleO100: 4500
+6: joehillssays: 3499
+7: iskall85: 3443
+8: Keralis1: 3398
+9: cubfan135: 2915
+10: xBCrafted: 2568
+11: VintageBeef: 2507
+12: ZombieCleo: 1839
+13: Etho: 1769
+14: hypnotizd: 1077
+15: Xisuma: 867
+16: falsesymmetry: 615
+17: iJevin: 533
+18: GoodTimeWithScar: 520
+19: impulseSV: 355
+20: Renthedog: 335
+21: MythicalSausage: 225
+22: Grian: 216
+23: Stressmonster101: 139
+24: RentheKing: 22
+25: GeminiTay: 10
+26: Welsknight: 10
+27: Mumbo: 4
+28: MumboJumbo: 4
+29: Smallishbeans: 2
+Total 125141

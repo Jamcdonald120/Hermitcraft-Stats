@@ -1,0 +1,17 @@
+minecraft.picked_up.purpur_slab
+1: iskall85: 201
+2: cubfan135: 139
+3: PythonGB: 54
+4: MumboJumbo: 54
+5: Xisuma: 49
+6: Tango: 47
+7: GoodTimeWithScar: 44
+8: impulseSV: 39
+9: Grian: 30
+10: Zedaph: 30
+11: Renthedog: 25
+12: falsesymmetry: 21
+13: iJevin: 17
+14: joehillssays: 2
+15: Docm77: 1
+Total 753

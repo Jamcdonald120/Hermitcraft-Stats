@@ -1,0 +1,28 @@
+minecraft.crafted.acacia_planks
+1: PearlescentMoon: 18136
+2: Docm77: 8664
+3: Renthedog: 8544
+4: Keralis1: 8072
+5: iJevin: 4027
+6: GoodTimeWithScar: 3308
+7: Xisuma: 3152
+8: Etho: 2400
+9: falsesymmetry: 1924
+10: cubfan135: 1724
+11: impulseSV: 1536
+12: Grian: 1464
+13: BdoubleO100: 1048
+14: Tango: 568
+15: GeminiTay: 552
+16: xBCrafted: 392
+17: Zedaph: 256
+18: MythicalSausage: 208
+19: Stressmonster101: 172
+20: Smajor1995: 128
+21: joehillssays: 96
+22: iskall85: 72
+23: VintageBeef: 60
+24: Mumbo: 16
+25: MumboJumbo: 16
+26: RentheKing: 4
+Total 66539

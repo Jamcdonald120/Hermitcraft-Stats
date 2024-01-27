@@ -1,0 +1,26 @@
+minecraft.picked_up.nether_wart_block
+1: Stressmonster101: 2840
+2: Xisuma: 1713
+3: PearlescentMoon: 832
+4: hypnotizd: 266
+5: BdoubleO100: 211
+6: VintageBeef: 166
+7: cubfan135: 149
+8: ZombieCleo: 105
+9: Keralis1: 102
+10: impulseSV: 79
+11: Grian: 65
+12: xBCrafted: 43
+13: Zedaph: 25
+14: Tango: 20
+15: Welsknight: 19
+16: GoodTimeWithScar: 18
+17: MumboJumbo: 17
+18: joehillssays: 11
+19: Docm77: 10
+20: Renthedog: 1
+21: iJevin: 1
+22: GeminiTay: 1
+23: falsesymmetry: 1
+24: Etho: 1
+Total 6696

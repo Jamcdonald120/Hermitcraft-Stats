@@ -1,0 +1,24 @@
+stat.pickup.minecraft.oak_stairs
+1: GoodTimeWithScar: 1423
+2: Welsknight: 615
+3: Renthedog: 303
+4: Xisuma: 219
+5: cubfan135: 206
+6: iJevin: 157
+7: joehillssays: 129
+8: falsesymmetry: 129
+9: zueljin: 100
+10: iskall85: 72
+11: impulseSV: 69
+12: PythonGB: 59
+13: Tinfoilchef: 50
+14: Tango: 43
+15: Etho: 33
+16: ZombieCleo: 29
+17: Biffa2001: 22
+18: xBCrafted: 15
+19: VintageBeef: 14
+20: Jessassin: 7
+21: MumboJumbo: 6
+22: Docm77: 2
+Total 3702

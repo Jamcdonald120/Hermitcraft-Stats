@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.wool
+1: iskall85: 20807
+2: MumboJumbo: 6062
+3: cubfan135: 4748
+4: impulseSV: 4409
+5: PythonGB: 1641
+6: Renthedog: 1492
+7: Tango: 1352
+8: Welsknight: 747
+9: GoodTimeWithScar: 650
+10: Stressmonster101: 490
+11: joehillssays: 431
+12: Tinfoilchef: 363
+13: xBCrafted: 362
+14: Zedaph: 204
+15: iJevin: 175
+16: Xisuma: 111
+17: falsesymmetry: 51
+18: BdoubleO100: 37
+19: ZombieCleo: 34
+20: Biffa2001: 24
+21: VintageBeef: 23
+22: Docm77: 16
+23: Etho: 1
+Total 44230

@@ -1,0 +1,27 @@
+stat.useItem.minecraft.diamond_pickaxe
+1: falsesymmetry: 734880
+2: Xisuma: 608448
+3: xBCrafted: 447336
+4: Tango: 317480
+5: Mumbo: 266533
+6: impulseSV: 256714
+7: hypnotizd: 218962
+8: sl1pg8r: 146607
+9: Tinfoilchef: 137689
+10: Spumwackles: 136562
+11: topmass: 122856
+12: zueljin: 110512
+13: Biffa2001: 98975
+14: iJevin: 85569
+15: ZombieCleo: 84140
+16: KingDaddyDMAC: 83727
+17: monkeyfarm: 72686
+18: Etho: 57730
+19: PythonGB: 37458
+20: Docm77: 17534
+21: skyzm: 5835
+22: Keralis1: 1920
+23: joehillssays: 1578
+24: Pungence: 764
+25: Mrs_Keralis: 54
+Total 4052549

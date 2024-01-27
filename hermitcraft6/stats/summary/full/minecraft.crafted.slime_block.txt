@@ -1,0 +1,22 @@
+minecraft.crafted.slime_block
+1: iskall85: 13002
+2: impulseSV: 2613
+3: MumboJumbo: 1729
+4: Grian: 1457
+5: Xisuma: 1424
+6: Tango: 741
+7: cubfan135: 640
+8: GoodTimeWithScar: 287
+9: Docm77: 286
+10: Renthedog: 203
+11: Tinfoilchef: 156
+12: BdoubleO100: 96
+13: falsesymmetry: 82
+14: joehillssays: 48
+15: Zedaph: 32
+16: PythonGB: 9
+17: ZombieCleo: 7
+18: Stressmonster101: 7
+19: Keralis1: 7
+20: iJevin: 1
+Total 22827

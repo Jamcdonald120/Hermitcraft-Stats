@@ -1,0 +1,7 @@
+stat.killEntity.PolarBear
+1: MumboJumbo: 7
+2: Tango: 4
+3: cubfan135: 3
+4: impulseSV: 3
+5: Xisuma: 1
+Total 18

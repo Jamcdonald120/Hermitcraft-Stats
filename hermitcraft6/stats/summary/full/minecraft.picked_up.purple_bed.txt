@@ -1,0 +1,13 @@
+minecraft.picked_up.purple_bed
+1: falsesymmetry: 86
+2: Xisuma: 56
+3: Docm77: 48
+4: GoodTimeWithScar: 41
+5: cubfan135: 14
+6: Renthedog: 10
+7: Grian: 6
+8: Stressmonster101: 5
+9: ZombieCleo: 4
+10: PythonGB: 3
+11: iskall85: 3
+Total 276

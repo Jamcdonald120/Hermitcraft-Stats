@@ -1,0 +1,16 @@
+minecraft.killed_by.magma_cube
+1: GoodTimeWithScar: 10
+2: Docm77: 4
+3: impulseSV: 4
+4: iJevin: 3
+5: Tango: 3
+6: Keralis1: 3
+7: Renthedog: 2
+8: GeminiTay: 2
+9: Grian: 2
+10: Xisuma: 1
+11: joehillssays: 1
+12: BdoubleO100: 1
+13: PearlescentMoon: 1
+14: MumboJumbo: 1
+Total 38

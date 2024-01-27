@@ -1,0 +1,16 @@
+stat.killEntity.Pig
+1: Xisuma: 133
+2: falsesymmetry: 122
+3: Spumwackles: 44
+4: Tango: 41
+5: Tinfoilchef: 24
+6: sl1pg8r: 22
+7: Biffa2001: 14
+8: iJevin: 11
+9: ZombieCleo: 9
+10: Keralis1: 9
+11: Pungence: 6
+12: skyzm: 5
+13: topmass: 4
+14: zueljin: 1
+Total 445

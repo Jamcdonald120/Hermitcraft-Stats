@@ -1,0 +1,25 @@
+stat.pickup.minecraft.iron_chestplate
+1: falsesymmetry: 406
+2: iskall85: 41
+3: Renthedog: 39
+4: GoodTimeWithScar: 24
+5: Xisuma: 19
+6: Welsknight: 18
+7: Docm77: 17
+8: Tango: 15
+9: cubfan135: 15
+10: impulseSV: 15
+11: PythonGB: 14
+12: Etho: 14
+13: ZombieCleo: 7
+14: iJevin: 6
+15: Biffa2001: 6
+16: VintageBeef: 5
+17: joehillssays: 5
+18: MumboJumbo: 3
+19: Tinfoilchef: 3
+20: Jessassin: 1
+21: zueljin: 1
+22: WellsGlazes: 1
+23: Mumbo: 1
+Total 676

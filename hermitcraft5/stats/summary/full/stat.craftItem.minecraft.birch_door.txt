@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.birch_door
+1: MumboJumbo: 15
+2: joehillssays: 9
+3: GoodTimeWithScar: 9
+4: Biffa2001: 6
+5: PythonGB: 3
+6: iJevin: 3
+7: Tango: 3
+8: xBCrafted: 3
+9: cubfan135: 3
+10: ZombieCleo: 3
+Total 57

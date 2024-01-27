@@ -1,0 +1,27 @@
+minecraft.mined.spruce_stairs
+1: cubfan135: 1512
+2: GoodTimeWithScar: 931
+3: Renthedog: 750
+4: Xisuma: 532
+5: iJevin: 519
+6: ZombieCleo: 515
+7: Keralis1: 493
+8: Stressmonster101: 430
+9: impulseSV: 377
+10: Welsknight: 328
+11: Grian: 321
+12: falsesymmetry: 314
+13: BdoubleO100: 278
+14: iskall85: 240
+15: Docm77: 212
+16: PythonGB: 177
+17: Zedaph: 96
+18: xBCrafted: 56
+19: Biffa2001: 46
+20: MumboJumbo: 39
+21: HumanCleo: 28
+22: joehillssays: 27
+23: Tango: 19
+24: Tinfoilchef: 4
+25: Jessassin: 2
+Total 8246

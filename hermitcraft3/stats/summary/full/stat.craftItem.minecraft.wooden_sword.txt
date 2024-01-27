@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.wooden_sword
+1: hypnotizd: 17
+2: sl1pg8r: 6
+3: Tango: 5
+4: impulseSV: 5
+5: Tinfoilchef: 2
+6: Keralis1: 2
+7: topmass: 1
+8: PythonGB: 1
+9: falsesymmetry: 1
+10: Biffa2001: 1
+11: ZombieCleo: 1
+12: Spumwackles: 1
+Total 43

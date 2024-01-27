@@ -1,0 +1,28 @@
+minecraft.dropped.spruce_log
+1: iJevin: 1837
+2: Renthedog: 1098
+3: falsesymmetry: 853
+4: Keralis1: 823
+5: Grian: 769
+6: hypnotizd: 769
+7: Pixlriffs: 695
+8: Tango: 549
+9: MythicalSausage: 327
+10: impulseSV: 183
+11: ZombieCleo: 169
+12: PearlescentMoon: 164
+13: xBCrafted: 164
+14: Etho: 97
+15: iskall85: 89
+16: BdoubleO100: 71
+17: Smallishbeans: 66
+18: Stressmonster101: 65
+19: Zedaph: 59
+20: cubfan135: 53
+21: Welsknight: 51
+22: RentheKing: 42
+23: GeminiTay: 36
+24: GoodTimeWithScar: 7
+25: VintageBeef: 6
+26: OrionSound: 1
+Total 9043

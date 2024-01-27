@@ -1,0 +1,14 @@
+stat.useItem.minecraft.lapis_block
+1: Xisuma: 218
+2: cubfan135: 125
+3: Tinfoilchef: 60
+4: Zedaph: 31
+5: falsesymmetry: 19
+6: Etho: 11
+7: Renthedog: 6
+8: Tango: 2
+9: joehillssays: 1
+10: xisumavoid: 1
+11: Welsknight: 1
+12: GoodTimeWithScar: 1
+Total 476

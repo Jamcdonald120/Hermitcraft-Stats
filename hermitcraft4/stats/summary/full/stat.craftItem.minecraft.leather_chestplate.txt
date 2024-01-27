@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.leather_chestplate
+1: falsesymmetry: 216
+2: GoodTimeWithScar: 60
+3: Tango: 32
+4: cubfan135: 26
+5: Xisuma: 24
+6: iskall85: 24
+7: Renthedog: 19
+8: VintageBeef: 7
+9: MumboJumbo: 6
+10: impulseSV: 5
+11: ZombieCleo: 2
+Total 421

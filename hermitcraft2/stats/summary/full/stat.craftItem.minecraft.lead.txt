@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.lead
+1: ZombieCleo: 6
+2: falsesymmetry: 4
+Total 10

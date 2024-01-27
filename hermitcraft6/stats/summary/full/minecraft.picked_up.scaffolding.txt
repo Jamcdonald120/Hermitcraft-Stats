@@ -1,0 +1,23 @@
+minecraft.picked_up.scaffolding
+1: cubfan135: 23735
+2: Renthedog: 20201
+3: Xisuma: 19303
+4: falsesymmetry: 9366
+5: BdoubleO100: 8976
+6: Docm77: 6321
+7: Grian: 5324
+8: GoodTimeWithScar: 4859
+9: joehillssays: 2899
+10: impulseSV: 2589
+11: iskall85: 2006
+12: Tango: 775
+13: ZombieCleo: 365
+14: Tinfoilchef: 299
+15: Keralis1: 298
+16: Zedaph: 275
+17: MumboJumbo: 247
+18: iJevin: 232
+19: PythonGB: 184
+20: Stressmonster101: 165
+21: HumanCleo: 10
+Total 108429

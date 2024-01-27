@@ -1,0 +1,3 @@
+stat.useItem.minecraft.cooked_rabbit
+1: Tinfoilchef: 2
+Total 2

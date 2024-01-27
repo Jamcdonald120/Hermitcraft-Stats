@@ -1,0 +1,23 @@
+minecraft.mined.gray_carpet
+1: ZombieCleo: 852
+2: falsesymmetry: 803
+3: Tango: 506
+4: cubfan135: 429
+5: Keralis1: 404
+6: Grian: 348
+7: joehillssays: 149
+8: xBCrafted: 124
+9: iJevin: 118
+10: GoodTimeWithScar: 115
+11: BdoubleO100: 113
+12: Etho: 113
+13: VintageBeef: 109
+14: Xisuma: 107
+15: Stressmonster101: 75
+16: impulseSV: 47
+17: MumboJumbo: 19
+18: iskall85: 14
+19: Zedaph: 2
+20: Docm77: 1
+21: BarryBoss1234: 1
+Total 4449

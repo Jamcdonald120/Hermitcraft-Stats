@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.red_glazed_terracotta
+1: MumboJumbo: 246
+2: Xisuma: 201
+3: cubfan135: 45
+4: xBCrafted: 17
+5: ZombieCleo: 17
+6: falsesymmetry: 7
+7: joehillssays: 2
+Total 535

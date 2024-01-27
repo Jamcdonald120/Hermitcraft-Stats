@@ -1,0 +1,26 @@
+minecraft.picked_up.wheat_seeds
+1: Etho: 92100
+2: joehillssays: 31492
+3: GoodTimeWithScar: 26698
+4: impulseSV: 25082
+5: Tango: 20819
+6: VintageBeef: 18496
+7: falsesymmetry: 17547
+8: Grian: 15317
+9: hypnotizd: 13828
+10: BdoubleO100: 9920
+11: Zedaph: 9863
+12: ZombieCleo: 9186
+13: MumboJumbo: 6648
+14: cubfan135: 6235
+15: Keralis1: 5591
+16: xBCrafted: 5531
+17: Xisuma: 5504
+18: Renthedog: 3283
+19: Stressmonster101: 3155
+20: Docm77: 2980
+21: iJevin: 2319
+22: iskall85: 1835
+23: Welsknight: 772
+24: Tinfoilchef: 749
+Total 334950

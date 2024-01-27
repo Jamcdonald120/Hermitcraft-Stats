@@ -1,0 +1,8 @@
+minecraft.picked_up.cut_sandstone_slab
+1: Xisuma: 440
+2: Docm77: 319
+3: cubfan135: 65
+4: ZombieCleo: 57
+5: PearlescentMoon: 43
+6: GoodTimeWithScar: 5
+Total 929

@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.leather_chestplate
+1: falsesymmetry: 103
+2: Biffa2001: 90
+3: Xisuma: 19
+4: xBCrafted: 15
+5: Mumbo: 14
+6: zueljin: 10
+7: ZombieCleo: 4
+8: KingDaddyDMAC: 2
+9: Tango: 2
+10: impulseSV: 2
+11: joehillssays: 1
+Total 262

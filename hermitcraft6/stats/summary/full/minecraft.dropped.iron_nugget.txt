@@ -1,0 +1,21 @@
+minecraft.dropped.iron_nugget
+1: iskall85: 1207
+2: Keralis1: 79
+3: Xisuma: 65
+4: Grian: 57
+5: Renthedog: 50
+6: PythonGB: 36
+7: impulseSV: 34
+8: Tango: 15
+9: GoodTimeWithScar: 15
+10: iJevin: 11
+11: ZombieCleo: 10
+12: Zedaph: 9
+13: Biffa2001: 8
+14: MumboJumbo: 8
+15: BdoubleO100: 7
+16: Welsknight: 7
+17: falsesymmetry: 6
+18: cubfan135: 5
+19: Docm77: 3
+Total 1632

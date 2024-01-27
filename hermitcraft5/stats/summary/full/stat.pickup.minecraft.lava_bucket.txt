@@ -1,0 +1,16 @@
+stat.pickup.minecraft.lava_bucket
+1: falsesymmetry: 114
+2: Tango: 30
+3: MumboJumbo: 17
+4: Zedaph: 9
+5: cubfan135: 6
+6: Xisuma: 4
+7: impulseSV: 4
+8: joehillssays: 2
+9: Tinfoilchef: 2
+10: iJevin: 1
+11: iskall85: 1
+12: Welsknight: 1
+13: Etho: 1
+14: Stressmonster101: 1
+Total 193

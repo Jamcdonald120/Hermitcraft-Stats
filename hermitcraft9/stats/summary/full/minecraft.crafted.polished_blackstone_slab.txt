@@ -1,0 +1,18 @@
+minecraft.crafted.polished_blackstone_slab
+1: Xisuma: 412
+2: Tango: 315
+3: falsesymmetry: 184
+4: GoodTimeWithScar: 174
+5: impulseSV: 96
+6: ZombieCleo: 90
+7: Grian: 72
+8: cubfan135: 72
+9: Zedaph: 38
+10: RentheKing: 36
+11: Renthedog: 20
+12: Mumbo: 18
+13: MumboJumbo: 18
+14: Docm77: 8
+15: MythicalSausage: 6
+16: Etho: 2
+Total 1561

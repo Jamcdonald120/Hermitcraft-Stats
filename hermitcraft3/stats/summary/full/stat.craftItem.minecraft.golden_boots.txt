@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.golden_boots
+1: Xisuma: 5
+2: impulseSV: 4
+3: KingDaddyDMAC: 3
+4: xBCrafted: 3
+5: sl1pg8r: 1
+6: zueljin: 1
+Total 17

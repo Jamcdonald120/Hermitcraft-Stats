@@ -1,0 +1,9 @@
+minecraft.picked_up.bamboo_slab
+1: joehillssays: 138
+2: cubfan135: 52
+3: xBCrafted: 30
+4: BdoubleO100: 12
+5: GoodTimeWithScar: 6
+6: Keralis1: 1
+7: Zedaph: 1
+Total 240

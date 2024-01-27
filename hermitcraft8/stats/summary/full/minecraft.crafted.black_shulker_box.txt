@@ -1,0 +1,13 @@
+minecraft.crafted.black_shulker_box
+1: Keralis1: 25
+2: Renthedog: 9
+3: xBCrafted: 8
+4: PearlescentMoon: 2
+5: Etho: 2
+6: Docm77: 1
+7: Xisuma: 1
+8: VintageBeef: 1
+9: Grian: 1
+10: Tango: 1
+11: cubfan135: 1
+Total 52

@@ -1,0 +1,8 @@
+minecraft.dropped.cyan_dye
+1: MumboJumbo: 430
+2: Grian: 112
+3: cubfan135: 40
+4: Xisuma: 27
+5: iskall85: 2
+6: Renthedog: 1
+Total 612

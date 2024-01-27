@@ -1,0 +1,8 @@
+minecraft.dropped.brick_stairs
+1: falsesymmetry: 72
+2: iJevin: 23
+3: cubfan135: 21
+4: Keralis1: 21
+5: Zedaph: 16
+6: Grian: 11
+Total 164

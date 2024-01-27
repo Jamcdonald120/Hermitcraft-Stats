@@ -1,0 +1,20 @@
+minecraft.crafted.iron_door
+1: Keralis1: 177
+2: falsesymmetry: 69
+3: cubfan135: 39
+4: Docm77: 36
+5: xBCrafted: 36
+6: Xisuma: 24
+7: GeminiTay: 15
+8: impulseSV: 15
+9: PearlescentMoon: 9
+10: Zedaph: 9
+11: joehillssays: 6
+12: Tango: 6
+13: Welsknight: 6
+14: Stressmonster101: 6
+15: Renthedog: 3
+16: iskall85: 3
+17: Etho: 3
+18: GoodTimeWithScar: 3
+Total 465

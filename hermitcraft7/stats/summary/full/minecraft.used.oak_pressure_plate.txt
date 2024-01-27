@@ -1,0 +1,20 @@
+minecraft.used.oak_pressure_plate
+1: Xisuma: 30
+2: Zedaph: 19
+3: Etho: 15
+4: cubfan135: 13
+5: hypnotizd: 11
+6: iskall85: 10
+7: VintageBeef: 9
+8: Tango: 9
+9: Grian: 8
+10: Renthedog: 6
+11: Keralis1: 6
+12: iJevin: 4
+13: GoodTimeWithScar: 4
+14: joehillssays: 3
+15: BdoubleO100: 3
+16: MumboJumbo: 3
+17: Welsknight: 2
+18: Tinfoilchef: 1
+Total 156

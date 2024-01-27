@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.dark_oak_fence_gate
+1: cubfan135: 116
+2: impulseSV: 34
+3: xBCrafted: 26
+4: falsesymmetry: 17
+5: Tango: 4
+6: Stressmonster101: 4
+7: MumboJumbo: 2
+8: GoodTimeWithScar: 1
+9: Zedaph: 1
+Total 205

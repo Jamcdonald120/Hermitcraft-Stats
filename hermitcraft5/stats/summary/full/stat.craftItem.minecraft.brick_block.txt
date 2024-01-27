@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.brick_block
+1: cubfan135: 3851
+2: falsesymmetry: 2057
+3: PythonGB: 1914
+4: MumboJumbo: 913
+5: Tinfoilchef: 232
+6: Xisuma: 12
+7: Stressmonster101: 12
+8: iJevin: 11
+9: Welsknight: 1
+Total 9003

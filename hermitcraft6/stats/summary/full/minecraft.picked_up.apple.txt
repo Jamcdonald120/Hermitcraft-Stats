@@ -1,0 +1,28 @@
+minecraft.picked_up.apple
+1: GoodTimeWithScar: 1617
+2: cubfan135: 1109
+3: Renthedog: 875
+4: impulseSV: 495
+5: Xisuma: 364
+6: iskall85: 310
+7: falsesymmetry: 277
+8: iJevin: 216
+9: Grian: 185
+10: Tinfoilchef: 166
+11: Keralis1: 131
+12: BdoubleO100: 126
+13: joehillssays: 114
+14: ZombieCleo: 104
+15: Welsknight: 103
+16: MumboJumbo: 81
+17: PythonGB: 68
+18: Docm77: 64
+19: Zedaph: 57
+20: Stressmonster101: 46
+21: Biffa2001: 45
+22: Tango: 22
+23: Jessassin: 19
+24: xBCrafted: 10
+25: EvilXisuma: 8
+26: HumanCleo: 1
+Total 6613

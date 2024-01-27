@@ -1,0 +1,18 @@
+minecraft.picked_up.trident
+1: Etho: 43
+2: iskall85: 25
+3: GoodTimeWithScar: 19
+4: Docm77: 15
+5: joehillssays: 13
+6: Renthedog: 4
+7: iJevin: 2
+8: cubfan135: 2
+9: MumboJumbo: 2
+10: impulseSV: 2
+11: VintageBeef: 1
+12: Grian: 1
+13: BdoubleO100: 1
+14: xBCrafted: 1
+15: ZombieCleo: 1
+16: Zedaph: 1
+Total 133

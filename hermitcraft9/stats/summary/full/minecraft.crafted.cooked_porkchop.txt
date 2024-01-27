@@ -1,0 +1,24 @@
+minecraft.crafted.cooked_porkchop
+1: iJevin: 453
+2: Keralis1: 230
+3: xBCrafted: 96
+4: joehillssays: 81
+5: ZombieCleo: 56
+6: PearlescentMoon: 37
+7: Welsknight: 21
+8: VintageBeef: 20
+9: Stressmonster101: 16
+10: OrionSound: 13
+11: Tango: 10
+12: cubfan135: 8
+13: Mumbo: 8
+14: MumboJumbo: 8
+15: BdoubleO100: 4
+16: Pixlriffs: 3
+17: Zedaph: 3
+18: Docm77: 2
+19: Renthedog: 2
+20: Grian: 1
+21: iskall85: 1
+22: falsesymmetry: 1
+Total 1074

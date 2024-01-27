@@ -1,0 +1,20 @@
+stat.killEntity.Slime
+1: Xisuma: 841
+2: Renthedog: 648
+3: iskall85: 568
+4: falsesymmetry: 568
+5: Tinfoilchef: 513
+6: cubfan135: 297
+7: impulseSV: 284
+8: iJevin: 275
+9: MumboJumbo: 257
+10: Welsknight: 233
+11: Tango: 115
+12: GoodTimeWithScar: 57
+13: Etho: 27
+14: ZombieCleo: 17
+15: Docm77: 7
+16: PythonGB: 4
+17: joehillssays: 4
+18: VintageBeef: 1
+Total 4716

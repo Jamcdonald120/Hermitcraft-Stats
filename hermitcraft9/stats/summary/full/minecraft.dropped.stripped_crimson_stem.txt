@@ -1,0 +1,10 @@
+minecraft.dropped.stripped_crimson_stem
+1: Keralis1: 59
+2: Zedaph: 27
+3: iJevin: 5
+4: Renthedog: 1
+5: Tango: 1
+6: falsesymmetry: 1
+7: cubfan135: 1
+8: impulseSV: 1
+Total 96

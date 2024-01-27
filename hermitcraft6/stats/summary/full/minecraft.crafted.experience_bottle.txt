@@ -1,0 +1,6 @@
+minecraft.crafted.experience_bottle
+1: cubfan135: 12316
+2: iskall85: 4762
+3: GoodTimeWithScar: 24
+4: MumboJumbo: 1
+Total 17103

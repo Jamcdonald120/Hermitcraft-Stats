@@ -1,0 +1,10 @@
+stat.drop.minecraft.stone_shovel
+1: Tango: 247
+2: falsesymmetry: 47
+3: xBCrafted: 33
+4: MumboJumbo: 31
+5: iJevin: 14
+6: Renthedog: 6
+7: Welsknight: 5
+8: Zedaph: 1
+Total 384

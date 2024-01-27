@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.wooden_slab
+1: zueljin: 608
+2: xBCrafted: 523
+3: Mumbo: 411
+4: Biffa2001: 317
+5: ZombieCleo: 305
+6: falsesymmetry: 130
+7: iJevin: 90
+8: Tango: 82
+9: sl1pg8r: 57
+10: Spumwackles: 21
+Total 2544

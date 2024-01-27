@@ -1,0 +1,14 @@
+stat.pickup.minecraft.detector_rail
+1: iskall85: 208
+2: Xisuma: 195
+3: impulseSV: 134
+4: Renthedog: 115
+5: Tango: 55
+6: VintageBeef: 38
+7: GoodTimeWithScar: 17
+8: falsesymmetry: 15
+9: Biffa2001: 13
+10: cubfan135: 10
+11: MumboJumbo: 6
+12: Etho: 1
+Total 807

@@ -1,0 +1,14 @@
+minecraft.crafted.oak_hanging_sign
+1: Renthedog: 12
+2: cubfan135: 12
+3: GoodTimeWithScar: 12
+4: Xisuma: 6
+5: VintageBeef: 6
+6: iJevin: 6
+7: Grian: 6
+8: BdoubleO100: 6
+9: iskall85: 6
+10: falsesymmetry: 6
+11: Keralis1: 6
+12: Zedaph: 6
+Total 90

@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.hardened_clay
+1: falsesymmetry: 128
+Total 128

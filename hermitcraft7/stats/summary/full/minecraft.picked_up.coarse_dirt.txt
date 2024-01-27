@@ -1,0 +1,25 @@
+minecraft.picked_up.coarse_dirt
+1: Grian: 20076
+2: GoodTimeWithScar: 9466
+3: xBCrafted: 6176
+4: Zedaph: 4356
+5: Keralis1: 3040
+6: Renthedog: 1741
+7: joehillssays: 1443
+8: Xisuma: 928
+9: Etho: 831
+10: cubfan135: 669
+11: BdoubleO100: 497
+12: Tango: 417
+13: MumboJumbo: 342
+14: Stressmonster101: 328
+15: ZombieCleo: 315
+16: hypnotizd: 220
+17: iskall85: 212
+18: Welsknight: 120
+19: falsesymmetry: 78
+20: VintageBeef: 66
+21: iJevin: 47
+22: Docm77: 33
+23: impulseSV: 12
+Total 51413

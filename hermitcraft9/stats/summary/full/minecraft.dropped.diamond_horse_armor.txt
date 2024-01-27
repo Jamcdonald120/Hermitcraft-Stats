@@ -1,0 +1,11 @@
+minecraft.dropped.diamond_horse_armor
+1: iJevin: 16
+2: Xisuma: 3
+3: Tango: 2
+4: xBCrafted: 2
+5: falsesymmetry: 2
+6: hypnotizd: 2
+7: Zedaph: 2
+8: PearlescentMoon: 1
+9: iskall85: 1
+Total 31

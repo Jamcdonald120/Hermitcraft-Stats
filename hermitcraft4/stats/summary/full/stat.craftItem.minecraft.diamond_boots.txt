@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.diamond_boots
+1: GoodTimeWithScar: 31
+2: iskall85: 21
+3: falsesymmetry: 14
+4: Renthedog: 11
+5: iJevin: 9
+6: MumboJumbo: 9
+7: Tango: 8
+8: PythonGB: 7
+9: cubfan135: 6
+10: Xisuma: 5
+11: Welsknight: 5
+12: Tinfoilchef: 5
+13: impulseSV: 4
+14: Etho: 2
+15: ZombieCleo: 2
+16: Docm77: 1
+17: Biffa2001: 1
+Total 141

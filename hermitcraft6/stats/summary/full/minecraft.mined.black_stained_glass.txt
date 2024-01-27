@@ -1,0 +1,25 @@
+minecraft.mined.black_stained_glass
+1: ZombieCleo: 2457
+2: Xisuma: 1168
+3: GoodTimeWithScar: 556
+4: Docm77: 506
+5: falsesymmetry: 383
+6: Renthedog: 192
+7: cubfan135: 183
+8: iskall85: 170
+9: joehillssays: 153
+10: Stressmonster101: 102
+11: HumanCleo: 82
+12: iJevin: 64
+13: Grian: 15
+14: Welsknight: 12
+15: BdoubleO100: 11
+16: Tango: 10
+17: MumboJumbo: 7
+18: PythonGB: 4
+19: Biffa2001: 3
+20: impulseSV: 2
+21: Zedaph: 2
+22: xBCrafted: 1
+23: Keralis1: 1
+Total 6084

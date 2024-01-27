@@ -1,0 +1,9 @@
+minecraft.dropped.stone_brick_stairs
+1: hypnotizd: 261
+2: Xisuma: 36
+3: iskall85: 36
+4: MumboJumbo: 36
+5: iJevin: 16
+6: falsesymmetry: 5
+7: cubfan135: 3
+Total 393

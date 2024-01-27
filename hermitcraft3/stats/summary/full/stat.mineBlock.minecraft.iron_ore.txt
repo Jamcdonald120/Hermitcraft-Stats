@@ -1,0 +1,29 @@
+stat.mineBlock.minecraft.iron_ore
+1: Xisuma: 3313
+2: xBCrafted: 2537
+3: falsesymmetry: 2535
+4: Tinfoilchef: 2535
+5: Tango: 2208
+6: Mumbo: 2191
+7: topmass: 2072
+8: Biffa2001: 1997
+9: Spumwackles: 1654
+10: hypnotizd: 1593
+11: KingDaddyDMAC: 1450
+12: sl1pg8r: 1231
+13: impulseSV: 1034
+14: ZombieCleo: 796
+15: monkeyfarm: 757
+16: iJevin: 653
+17: zueljin: 629
+18: PythonGB: 562
+19: skyzm: 251
+20: Etho: 238
+21: Collen: 213
+22: Keralis1: 206
+23: Pungence: 111
+24: NameOfSamuel: 102
+25: Docm77: 43
+26: joehillssays: 18
+27: Mrs_Keralis: 3
+Total 30932

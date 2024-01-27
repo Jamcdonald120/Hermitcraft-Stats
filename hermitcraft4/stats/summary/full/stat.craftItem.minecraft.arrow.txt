@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.arrow
+1: MumboJumbo: 110
+2: xBCrafted: 60
+3: iskall85: 24
+4: PythonGB: 20
+5: VintageBeef: 16
+6: Tango: 12
+7: impulseSV: 9
+8: cubfan135: 4
+Total 255

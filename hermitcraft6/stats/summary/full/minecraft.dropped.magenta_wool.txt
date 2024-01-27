@@ -1,0 +1,5 @@
+minecraft.dropped.magenta_wool
+1: iskall85: 58
+2: cubfan135: 3
+3: joehillssays: 2
+Total 63

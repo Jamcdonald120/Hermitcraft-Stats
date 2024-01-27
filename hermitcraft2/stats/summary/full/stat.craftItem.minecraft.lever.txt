@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.lever
+1: sl1pg8r: 64
+2: falsesymmetry: 55
+3: zueljin: 46
+4: Xisuma: 35
+5: monkeyfarm: 19
+6: ZombieCleo: 14
+7: Tango: 9
+8: Spumwackles: 9
+9: KingDaddyDMAC: 5
+10: Mumbo: 3
+11: iJevin: 1
+12: xBCrafted: 1
+Total 261

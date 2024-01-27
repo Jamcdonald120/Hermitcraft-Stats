@@ -1,0 +1,11 @@
+minecraft.dropped.activator_rail
+1: MumboJumbo: 5
+2: Xisuma: 2
+3: Tango: 2
+4: cubfan135: 2
+5: Etho: 2
+6: Zedaph: 2
+7: xBCrafted: 1
+8: falsesymmetry: 1
+9: Keralis1: 1
+Total 18

@@ -1,0 +1,19 @@
+minecraft.picked_up.light_blue_terracotta
+1: VintageBeef: 2991
+2: PearlescentMoon: 1141
+3: Grian: 465
+4: Stressmonster101: 268
+5: joehillssays: 168
+6: Docm77: 162
+7: GoodTimeWithScar: 162
+8: Xisuma: 96
+9: Etho: 92
+10: ZombieCleo: 72
+11: GeminiTay: 36
+12: MythicalSausage: 21
+13: Keralis1: 8
+14: falsesymmetry: 6
+15: Tango: 5
+16: cubfan135: 1
+17: Zedaph: 1
+Total 5695

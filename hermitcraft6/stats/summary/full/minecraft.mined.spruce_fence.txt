@@ -1,0 +1,24 @@
+minecraft.mined.spruce_fence
+1: cubfan135: 1120
+2: Stressmonster101: 1070
+3: GoodTimeWithScar: 913
+4: Xisuma: 705
+5: Renthedog: 580
+6: falsesymmetry: 368
+7: iJevin: 355
+8: iskall85: 335
+9: impulseSV: 266
+10: ZombieCleo: 185
+11: Grian: 160
+12: BdoubleO100: 127
+13: PythonGB: 92
+14: Welsknight: 72
+15: Docm77: 61
+16: joehillssays: 44
+17: Keralis1: 31
+18: Tango: 18
+19: Biffa2001: 12
+20: MumboJumbo: 9
+21: Tinfoilchef: 1
+22: Zedaph: 1
+Total 6525

@@ -1,0 +1,16 @@
+stat.pickup.minecraft.iron_horse_armor
+1: Zedaph: 18
+2: falsesymmetry: 17
+3: Tinfoilchef: 14
+4: iskall85: 6
+5: Welsknight: 6
+6: GoodTimeWithScar: 6
+7: PythonGB: 4
+8: iJevin: 4
+9: cubfan135: 4
+10: Stressmonster101: 3
+11: xBCrafted: 2
+12: Xisuma: 1
+13: Biffa2001: 1
+14: impulseSV: 1
+Total 87

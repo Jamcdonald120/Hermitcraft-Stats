@@ -1,0 +1,4 @@
+minecraft.picked_up.red_nether_brick_wall
+1: GoodTimeWithScar: 24
+2: iJevin: 4
+Total 28

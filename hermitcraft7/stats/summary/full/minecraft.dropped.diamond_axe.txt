@@ -1,0 +1,22 @@
+minecraft.dropped.diamond_axe
+1: Tango: 20
+2: iJevin: 18
+3: Grian: 15
+4: Etho: 11
+5: GoodTimeWithScar: 11
+6: iskall85: 10
+7: Zedaph: 9
+8: cubfan135: 7
+9: Renthedog: 5
+10: hypnotizd: 5
+11: Docm77: 4
+12: falsesymmetry: 4
+13: Keralis1: 4
+14: impulseSV: 4
+15: Xisuma: 3
+16: BdoubleO100: 2
+17: VintageBeef: 1
+18: xBCrafted: 1
+19: MumboJumbo: 1
+20: Stressmonster101: 1
+Total 136

@@ -1,0 +1,20 @@
+minecraft.mined.red_mushroom_block
+1: falsesymmetry: 3463
+2: hypnotizd: 2798
+3: Grian: 622
+4: joehillssays: 611
+5: BdoubleO100: 450
+6: GeminiTay: 373
+7: Renthedog: 310
+8: PearlescentMoon: 262
+9: Xisuma: 214
+10: impulseSV: 175
+11: Zedaph: 135
+12: ZombieCleo: 87
+13: xBCrafted: 62
+14: iskall85: 45
+15: Docm77: 6
+16: iJevin: 4
+17: Keralis1: 4
+18: GoodTimeWithScar: 3
+Total 9624

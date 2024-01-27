@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.quartz_ore
+1: falsesymmetry: 35392
+2: Renthedog: 28551
+3: GoodTimeWithScar: 24247
+4: Biffa2001: 12804
+5: VintageBeef: 8201
+6: Xisuma: 6815
+7: impulseSV: 6474
+8: Welsknight: 4795
+9: iskall85: 3766
+10: Tango: 2230
+11: cubfan135: 2037
+12: PythonGB: 1011
+13: Tinfoilchef: 995
+14: joehillssays: 994
+15: Mumbo: 736
+16: Docm77: 586
+17: MumboJumbo: 427
+18: iJevin: 398
+19: ZombieCleo: 362
+20: Etho: 261
+21: Jessassin: 133
+22: zueljin: 39
+Total 141254

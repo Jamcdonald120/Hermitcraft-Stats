@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.bone_block
+1: Xisuma: 853
+2: joehillssays: 454
+3: cubfan135: 446
+4: MumboJumbo: 196
+5: Welsknight: 180
+6: iskall85: 170
+7: impulseSV: 169
+8: VintageBeef: 142
+9: Tango: 129
+10: GoodTimeWithScar: 51
+11: Tinfoilchef: 47
+12: iJevin: 42
+13: falsesymmetry: 9
+14: Zedaph: 4
+15: Stressmonster101: 3
+Total 2895

@@ -1,0 +1,8 @@
+stat.pickup.minecraft.blue_glazed_terracotta
+1: impulseSV: 266
+2: cubfan135: 159
+3: Xisuma: 131
+4: MumboJumbo: 9
+5: GoodTimeWithScar: 4
+6: iJevin: 2
+Total 571

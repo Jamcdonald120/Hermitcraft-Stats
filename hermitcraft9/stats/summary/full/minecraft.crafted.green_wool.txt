@@ -1,0 +1,11 @@
+minecraft.crafted.green_wool
+1: Xisuma: 935
+2: Etho: 516
+3: Tango: 188
+4: iJevin: 170
+5: Keralis1: 153
+6: GoodTimeWithScar: 64
+7: Docm77: 32
+8: Zedaph: 13
+9: Renthedog: 9
+Total 2080

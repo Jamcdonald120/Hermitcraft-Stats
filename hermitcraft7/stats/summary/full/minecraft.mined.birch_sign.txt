@@ -1,0 +1,22 @@
+minecraft.mined.birch_sign
+1: Grian: 111
+2: joehillssays: 107
+3: cubfan135: 94
+4: Tango: 62
+5: ZombieCleo: 32
+6: iskall85: 24
+7: GoodTimeWithScar: 21
+8: BdoubleO100: 19
+9: Stressmonster101: 14
+10: falsesymmetry: 11
+11: Etho: 11
+12: Xisuma: 10
+13: iJevin: 10
+14: MumboJumbo: 8
+15: Keralis1: 8
+16: VintageBeef: 7
+17: impulseSV: 6
+18: xBCrafted: 3
+19: Renthedog: 2
+20: Welsknight: 2
+Total 562

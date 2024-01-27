@@ -1,0 +1,20 @@
+stat.pickup.minecraft.glass_pane
+1: Tango: 485
+2: impulseSV: 352
+3: joehillssays: 269
+4: Welsknight: 254
+5: iJevin: 245
+6: cubfan135: 121
+7: falsesymmetry: 86
+8: Xisuma: 73
+9: PythonGB: 37
+10: MumboJumbo: 24
+11: Renthedog: 23
+12: ZombieCleo: 11
+13: VintageBeef: 8
+14: Tinfoilchef: 4
+15: Mumbo: 3
+16: GoodTimeWithScar: 3
+17: iskall85: 2
+18: xisumavoid: 1
+Total 2001

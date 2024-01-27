@@ -1,0 +1,18 @@
+minecraft.dropped.white_bed
+1: Zedaph: 100
+2: iJevin: 31
+3: Tango: 5
+4: cubfan135: 3
+5: impulseSV: 3
+6: Xisuma: 2
+7: Renthedog: 2
+8: MythicalSausage: 2
+9: falsesymmetry: 2
+10: GoodTimeWithScar: 2
+11: Keralis1: 2
+12: Docm77: 1
+13: BdoubleO100: 1
+14: PearlescentMoon: 1
+15: Welsknight: 1
+16: ZombieCleo: 1
+Total 159

@@ -1,0 +1,22 @@
+minecraft.picked_up.snowball
+1: Etho: 78565
+2: joehillssays: 61462
+3: BdoubleO100: 24218
+4: impulseSV: 20246
+5: cubfan135: 16970
+6: iJevin: 16682
+7: GoodTimeWithScar: 8643
+8: Zedaph: 6633
+9: Tango: 5861
+10: Grian: 5190
+11: iskall85: 2463
+12: Xisuma: 2056
+13: Renthedog: 1080
+14: hypnotizd: 700
+15: xBCrafted: 643
+16: Docm77: 547
+17: falsesymmetry: 492
+18: Keralis1: 303
+19: VintageBeef: 120
+20: ZombieCleo: 28
+Total 252902

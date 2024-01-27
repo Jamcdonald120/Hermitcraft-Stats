@@ -1,0 +1,6 @@
+minecraft.mined.smooth_red_sandstone
+1: PearlescentMoon: 110
+2: iJevin: 85
+3: Keralis1: 40
+4: impulseSV: 8
+Total 243

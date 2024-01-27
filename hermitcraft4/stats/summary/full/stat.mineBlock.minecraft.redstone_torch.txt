@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.redstone_torch
+1: Tinfoilchef: 741
+2: iskall85: 639
+3: Xisuma: 617
+4: Tango: 608
+5: cubfan135: 492
+6: impulseSV: 485
+7: MumboJumbo: 254
+8: falsesymmetry: 209
+9: joehillssays: 165
+10: GoodTimeWithScar: 139
+11: Etho: 84
+12: Welsknight: 52
+13: Docm77: 47
+14: VintageBeef: 33
+15: Renthedog: 31
+16: ZombieCleo: 31
+17: Biffa2001: 20
+18: iJevin: 14
+19: Mumbo: 11
+20: PythonGB: 9
+Total 4681

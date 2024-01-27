@@ -1,0 +1,11 @@
+minecraft.picked_up.mushroom_stew
+1: impulseSV: 43
+2: GeminiTay: 29
+3: PearlescentMoon: 27
+4: ZombieCleo: 16
+5: Xisuma: 1
+6: Grian: 1
+7: cubfan135: 1
+8: Keralis1: 1
+9: Zedaph: 1
+Total 120

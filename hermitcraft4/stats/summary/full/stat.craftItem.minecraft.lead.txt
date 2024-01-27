@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.lead
+1: Tango: 1776
+2: Xisuma: 138
+3: falsesymmetry: 82
+4: GoodTimeWithScar: 72
+5: impulseSV: 34
+6: MumboJumbo: 32
+7: Tinfoilchef: 32
+8: iskall85: 28
+9: cubfan135: 22
+10: iJevin: 18
+11: Renthedog: 12
+12: PythonGB: 4
+13: Etho: 4
+Total 2254

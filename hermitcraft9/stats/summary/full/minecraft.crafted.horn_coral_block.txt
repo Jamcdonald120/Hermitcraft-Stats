@@ -1,0 +1,4 @@
+minecraft.crafted.horn_coral_block
+1: PearlescentMoon: 8
+2: Etho: 1
+Total 9

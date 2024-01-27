@@ -1,0 +1,7 @@
+minecraft.dropped.gray_shulker_box
+1: Tango: 6
+2: iJevin: 3
+3: cubfan135: 2
+4: VintageBeef: 1
+5: Keralis1: 1
+Total 13

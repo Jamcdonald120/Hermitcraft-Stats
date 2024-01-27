@@ -1,0 +1,25 @@
+stat.killEntity.Blaze
+1: impulseSV: 20175
+2: cubfan135: 11906
+3: Tango: 4493
+4: Renthedog: 3846
+5: iskall85: 2158
+6: MumboJumbo: 519
+7: GoodTimeWithScar: 515
+8: Tinfoilchef: 271
+9: xBCrafted: 165
+10: Welsknight: 108
+11: Zedaph: 107
+12: Xisuma: 101
+13: Stressmonster101: 67
+14: falsesymmetry: 59
+15: joehillssays: 40
+16: PythonGB: 34
+17: xisumavoid: 32
+18: iJevin: 31
+19: Biffa2001: 18
+20: Docm77: 16
+21: Etho: 16
+22: BdoubleO100: 12
+23: VintageBeef: 3
+Total 44692

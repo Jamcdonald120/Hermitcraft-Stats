@@ -1,0 +1,23 @@
+minecraft.picked_up.polished_granite
+1: falsesymmetry: 1940
+2: Grian: 1185
+3: GoodTimeWithScar: 742
+4: PearlescentMoon: 722
+5: Tango: 419
+6: Renthedog: 289
+7: cubfan135: 205
+8: Docm77: 81
+9: BdoubleO100: 81
+10: Xisuma: 31
+11: ZombieCleo: 23
+12: impulseSV: 20
+13: iJevin: 13
+14: iskall85: 11
+15: GeminiTay: 7
+16: Etho: 7
+17: Keralis1: 6
+18: joehillssays: 4
+19: Zedaph: 2
+20: VintageBeef: 1
+21: hypnotizd: 1
+Total 5790

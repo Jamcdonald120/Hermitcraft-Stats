@@ -1,0 +1,4 @@
+minecraft.picked_up.crimson_hyphae
+1: Keralis1: 7
+2: Grian: 5
+Total 12

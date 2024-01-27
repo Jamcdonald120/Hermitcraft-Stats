@@ -1,0 +1,24 @@
+minecraft.crafted.cyan_dye
+1: Grian: 12526
+2: iskall85: 6412
+3: GoodTimeWithScar: 4604
+4: Xisuma: 4514
+5: cubfan135: 4294
+6: MumboJumbo: 1602
+7: Stressmonster101: 924
+8: PythonGB: 912
+9: iJevin: 514
+10: Docm77: 462
+11: falsesymmetry: 418
+12: Zedaph: 382
+13: Renthedog: 366
+14: Welsknight: 326
+15: Tango: 308
+16: xBCrafted: 88
+17: impulseSV: 64
+18: BdoubleO100: 48
+19: ZombieCleo: 36
+20: joehillssays: 16
+21: Biffa2001: 2
+22: Tinfoilchef: 2
+Total 38820

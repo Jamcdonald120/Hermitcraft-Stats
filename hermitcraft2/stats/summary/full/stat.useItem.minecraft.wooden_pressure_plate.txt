@@ -1,0 +1,8 @@
+stat.useItem.minecraft.wooden_pressure_plate
+1: zueljin: 7
+2: monkeyfarm: 6
+3: falsesymmetry: 2
+4: xBCrafted: 1
+5: ZombieCleo: 1
+6: Spumwackles: 1
+Total 18

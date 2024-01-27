@@ -1,0 +1,24 @@
+minecraft.picked_up.gold_nugget
+1: impulseSV: 459984
+2: iJevin: 9461
+3: Docm77: 6196
+4: Etho: 1563
+5: VintageBeef: 1491
+6: joehillssays: 888
+7: Welsknight: 807
+8: PearlescentMoon: 672
+9: hypnotizd: 574
+10: Renthedog: 573
+11: Xisuma: 328
+12: Grian: 244
+13: cubfan135: 102
+14: ZombieCleo: 82
+15: iskall85: 70
+16: xBCrafted: 36
+17: MumboJumbo: 25
+18: Zedaph: 18
+19: GeminiTay: 10
+20: BdoubleO100: 9
+21: falsesymmetry: 4
+22: GoodTimeWithScar: 2
+Total 483139

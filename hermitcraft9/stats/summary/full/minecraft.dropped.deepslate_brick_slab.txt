@@ -1,0 +1,14 @@
+minecraft.dropped.deepslate_brick_slab
+1: Tango: 584
+2: falsesymmetry: 205
+3: Grian: 80
+4: iJevin: 10
+5: Renthedog: 8
+6: Xisuma: 7
+7: GoodTimeWithScar: 7
+8: Zedaph: 6
+9: Etho: 5
+10: Mumbo: 4
+11: RentheKing: 4
+12: Keralis1: 1
+Total 921

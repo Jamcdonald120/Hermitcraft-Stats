@@ -1,0 +1,23 @@
+minecraft.used.hay_block
+1: Xisuma: 322
+2: joehillssays: 220
+3: BdoubleO100: 134
+4: Tango: 50
+5: iJevin: 49
+6: Renthedog: 45
+7: falsesymmetry: 43
+8: Docm77: 31
+9: Zedaph: 30
+10: GeminiTay: 22
+11: PearlescentMoon: 18
+12: iskall85: 11
+13: cubfan135: 11
+14: RentheKing: 9
+15: Etho: 8
+16: ZombieCleo: 8
+17: VintageBeef: 7
+18: Grian: 4
+19: xBCrafted: 3
+20: Keralis1: 3
+21: GoodTimeWithScar: 1
+Total 1029

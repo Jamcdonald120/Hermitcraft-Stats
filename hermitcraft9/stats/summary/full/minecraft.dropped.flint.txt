@@ -1,0 +1,31 @@
+minecraft.dropped.flint
+1: ZombieCleo: 4259
+2: iJevin: 3836
+3: Stressmonster101: 438
+4: Tango: 420
+5: falsesymmetry: 310
+6: Renthedog: 249
+7: Keralis1: 174
+8: impulseSV: 155
+9: joehillssays: 152
+10: Zedaph: 120
+11: RentheKing: 98
+12: Docm77: 86
+13: xBCrafted: 69
+14: cubfan135: 68
+15: GeminiTay: 49
+16: Grian: 36
+17: Xisuma: 24
+18: hypnotizd: 20
+19: PearlescentMoon: 19
+20: BdoubleO100: 13
+21: VintageBeef: 10
+22: iskall85: 9
+23: Etho: 8
+24: Pixlriffs: 7
+25: Mumbo: 6
+26: GoodTimeWithScar: 6
+27: MumboJumbo: 4
+28: Smallishbeans: 2
+29: MythicalSausage: 1
+Total 10648

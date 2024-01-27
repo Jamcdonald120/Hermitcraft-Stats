@@ -1,0 +1,8 @@
+minecraft.dropped.damaged_anvil
+1: Renthedog: 3
+2: GoodTimeWithScar: 2
+3: Xisuma: 1
+4: Grian: 1
+5: Tango: 1
+6: iskall85: 1
+Total 9

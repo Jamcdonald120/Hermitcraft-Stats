@@ -1,0 +1,17 @@
+minecraft.picked_up.target
+1: cubfan135: 411
+2: impulseSV: 111
+3: Zedaph: 99
+4: Etho: 93
+5: MumboJumbo: 67
+6: joehillssays: 61
+7: Tango: 45
+8: Renthedog: 22
+9: Docm77: 15
+10: iskall85: 8
+11: xBCrafted: 6
+12: Xisuma: 5
+13: VintageBeef: 3
+14: GoodTimeWithScar: 3
+15: Grian: 1
+Total 950

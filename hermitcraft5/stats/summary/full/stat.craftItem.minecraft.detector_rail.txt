@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.detector_rail
+1: Renthedog: 1848
+2: MumboJumbo: 270
+3: cubfan135: 150
+4: iskall85: 66
+5: Stressmonster101: 30
+6: Tango: 24
+7: Tinfoilchef: 24
+8: Zedaph: 24
+9: Docm77: 12
+10: Xisuma: 12
+11: ZombieCleo: 12
+12: GoodTimeWithScar: 6
+13: impulseSV: 6
+Total 2484

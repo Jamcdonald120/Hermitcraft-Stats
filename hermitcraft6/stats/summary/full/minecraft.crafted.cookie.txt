@@ -1,0 +1,16 @@
+minecraft.crafted.cookie
+1: GoodTimeWithScar: 3868
+2: iskall85: 3704
+3: cubfan135: 2212
+4: iJevin: 256
+5: Docm77: 192
+6: Stressmonster101: 108
+7: MumboJumbo: 72
+8: PythonGB: 66
+9: Tango: 64
+10: Renthedog: 34
+11: ZombieCleo: 30
+12: impulseSV: 30
+13: falsesymmetry: 22
+14: Tinfoilchef: 6
+Total 10664

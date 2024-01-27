@@ -1,0 +1,7 @@
+minecraft.dropped.polished_granite_stairs
+1: falsesymmetry: 38
+2: GoodTimeWithScar: 10
+3: cubfan135: 4
+4: Xisuma: 2
+5: impulseSV: 2
+Total 56

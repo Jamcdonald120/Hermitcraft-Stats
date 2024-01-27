@@ -1,0 +1,10 @@
+minecraft.dropped.grindstone
+1: falsesymmetry: 38
+2: Grian: 14
+3: Renthedog: 11
+4: iJevin: 9
+5: Tango: 6
+6: xBCrafted: 2
+7: cubfan135: 1
+8: Etho: 1
+Total 82

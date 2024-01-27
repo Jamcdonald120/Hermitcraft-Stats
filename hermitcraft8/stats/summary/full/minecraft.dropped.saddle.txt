@@ -1,0 +1,12 @@
+minecraft.dropped.saddle
+1: GoodTimeWithScar: 16
+2: iJevin: 14
+3: PearlescentMoon: 11
+4: Etho: 10
+5: impulseSV: 10
+6: Grian: 8
+7: Zedaph: 3
+8: GeminiTay: 1
+9: Tango: 1
+10: Keralis1: 1
+Total 75

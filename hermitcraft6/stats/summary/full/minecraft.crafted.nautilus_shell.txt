@@ -1,0 +1,4 @@
+minecraft.crafted.nautilus_shell
+1: cubfan135: 5
+2: falsesymmetry: 4
+Total 9

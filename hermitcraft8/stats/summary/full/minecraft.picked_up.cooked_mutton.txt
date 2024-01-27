@@ -1,0 +1,19 @@
+minecraft.picked_up.cooked_mutton
+1: cubfan135: 51
+2: Grian: 48
+3: GoodTimeWithScar: 34
+4: iJevin: 18
+5: Tango: 16
+6: falsesymmetry: 13
+7: PearlescentMoon: 11
+8: Zedaph: 11
+9: BdoubleO100: 6
+10: Docm77: 5
+11: MumboJumbo: 5
+12: Etho: 4
+13: Renthedog: 3
+14: Welsknight: 2
+15: joehillssays: 1
+16: Stressmonster101: 1
+17: impulseSV: 1
+Total 230

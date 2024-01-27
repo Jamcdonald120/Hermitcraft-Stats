@@ -1,0 +1,24 @@
+minecraft.picked_up.netherite_shovel
+1: Grian: 99
+2: GoodTimeWithScar: 84
+3: Renthedog: 51
+4: joehillssays: 43
+5: iJevin: 31
+6: BdoubleO100: 29
+7: cubfan135: 27
+8: Etho: 21
+9: impulseSV: 21
+10: MumboJumbo: 18
+11: Docm77: 14
+12: Keralis1: 14
+13: Zedaph: 13
+14: ZombieCleo: 11
+15: Xisuma: 9
+16: xBCrafted: 9
+17: hypnotizd: 6
+18: Tango: 5
+19: Welsknight: 4
+20: VintageBeef: 2
+21: falsesymmetry: 2
+22: iskall85: 1
+Total 514

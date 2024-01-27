@@ -1,0 +1,28 @@
+minecraft.used.stone
+1: GoodTimeWithScar: 297304
+2: falsesymmetry: 95819
+3: Renthedog: 62194
+4: cubfan135: 58129
+5: iskall85: 52997
+6: Xisuma: 48238
+7: Stressmonster101: 37819
+8: Grian: 37147
+9: joehillssays: 31926
+10: Docm77: 31865
+11: Welsknight: 30524
+12: impulseSV: 26719
+13: Tango: 22956
+14: iJevin: 13560
+15: MumboJumbo: 12060
+16: Tinfoilchef: 9640
+17: Zedaph: 7759
+18: Keralis1: 4049
+19: BdoubleO100: 1486
+20: Biffa2001: 1207
+21: PythonGB: 955
+22: ZombieCleo: 323
+23: xBCrafted: 256
+24: HumanCleo: 207
+25: BadTimeWithScar: 4
+26: Cub_Cam: 2
+Total 885145

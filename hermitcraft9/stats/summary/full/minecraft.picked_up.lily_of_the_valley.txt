@@ -1,0 +1,27 @@
+minecraft.picked_up.lily_of_the_valley
+1: Etho: 3775
+2: iJevin: 309
+3: Docm77: 47
+4: joehillssays: 44
+5: ZombieCleo: 41
+6: falsesymmetry: 28
+7: Keralis1: 19
+8: BdoubleO100: 17
+9: Grian: 16
+10: GeminiTay: 15
+11: OrionSound: 14
+12: cubfan135: 14
+13: xBCrafted: 6
+14: impulseSV: 6
+15: Renthedog: 5
+16: RentheKing: 5
+17: iskall85: 4
+18: Tango: 3
+19: Stressmonster101: 3
+20: PearlescentMoon: 2
+21: Zedaph: 2
+22: Xisuma: 1
+23: MythicalSausage: 1
+24: Mumbo: 1
+25: GoodTimeWithScar: 1
+Total 4379

@@ -1,0 +1,21 @@
+minecraft.mined.spruce_wall_sign
+1: Renthedog: 43
+2: cubfan135: 38
+3: joehillssays: 24
+4: Stressmonster101: 23
+5: iskall85: 20
+6: GoodTimeWithScar: 17
+7: Xisuma: 16
+8: falsesymmetry: 16
+9: impulseSV: 11
+10: Tango: 9
+11: Grian: 8
+12: BdoubleO100: 8
+13: Jura_Whitey: 4
+14: Welsknight: 4
+15: Cojomax99: 4
+16: MumboJumbo: 3
+17: Docm77: 2
+18: PythonGB: 1
+19: Zedaph: 1
+Total 252

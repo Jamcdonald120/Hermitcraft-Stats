@@ -1,0 +1,16 @@
+minecraft.picked_up.milk_bucket
+1: Zedaph: 22
+2: GoodTimeWithScar: 10
+3: iJevin: 8
+4: PearlescentMoon: 6
+5: ZombieCleo: 4
+6: hypnotizd: 4
+7: Xisuma: 3
+8: joehillssays: 2
+9: falsesymmetry: 2
+10: cubfan135: 2
+11: OrionSound: 1
+12: VintageBeef: 1
+13: xBCrafted: 1
+14: Etho: 1
+Total 67

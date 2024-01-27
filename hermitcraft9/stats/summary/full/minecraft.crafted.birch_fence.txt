@@ -1,0 +1,23 @@
+minecraft.crafted.birch_fence
+1: GoodTimeWithScar: 1452
+2: Docm77: 1380
+3: Grian: 531
+4: BdoubleO100: 474
+5: Zedaph: 243
+6: joehillssays: 192
+7: xBCrafted: 144
+8: Renthedog: 126
+9: cubfan135: 93
+10: VintageBeef: 78
+11: Tango: 78
+12: falsesymmetry: 60
+13: ZombieCleo: 54
+14: Stressmonster101: 48
+15: Xisuma: 42
+16: GeminiTay: 27
+17: Keralis1: 27
+18: PearlescentMoon: 18
+19: impulseSV: 6
+20: hypnotizd: 3
+21: ShubbleYT: 3
+Total 5079

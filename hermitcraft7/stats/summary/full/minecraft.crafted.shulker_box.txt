@@ -1,0 +1,26 @@
+minecraft.crafted.shulker_box
+1: GoodTimeWithScar: 2483
+2: iskall85: 885
+3: Etho: 495
+4: Tango: 423
+5: Keralis1: 408
+6: Grian: 367
+7: impulseSV: 336
+8: Xisuma: 257
+9: cubfan135: 206
+10: hypnotizd: 194
+11: iJevin: 192
+12: MumboJumbo: 173
+13: falsesymmetry: 154
+14: xBCrafted: 96
+15: VintageBeef: 55
+16: Zedaph: 53
+17: Docm77: 32
+18: joehillssays: 18
+19: Renthedog: 14
+20: BdoubleO100: 10
+21: Stressmonster101: 9
+22: ZombieCleo: 5
+23: Welsknight: 4
+24: Tinfoilchef: 2
+Total 6871

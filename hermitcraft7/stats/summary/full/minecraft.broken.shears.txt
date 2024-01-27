@@ -1,0 +1,24 @@
+minecraft.broken.shears
+1: GoodTimeWithScar: 950
+2: Grian: 645
+3: BdoubleO100: 179
+4: Xisuma: 133
+5: MumboJumbo: 104
+6: Renthedog: 94
+7: Etho: 86
+8: Keralis1: 80
+9: ZombieCleo: 65
+10: joehillssays: 58
+11: Tango: 48
+12: iskall85: 39
+13: VintageBeef: 38
+14: cubfan135: 32
+15: impulseSV: 22
+16: Stressmonster101: 13
+17: iJevin: 5
+18: xBCrafted: 5
+19: falsesymmetry: 4
+20: Docm77: 3
+21: hypnotizd: 3
+22: Zedaph: 2
+Total 2608

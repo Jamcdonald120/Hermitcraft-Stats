@@ -1,0 +1,25 @@
+minecraft.used.beacon
+1: Xisuma: 52
+2: iJevin: 34
+3: cubfan135: 34
+4: Docm77: 25
+5: Etho: 19
+6: impulseSV: 19
+7: Renthedog: 18
+8: Tango: 17
+9: xBCrafted: 17
+10: PearlescentMoon: 16
+11: Grian: 15
+12: Welsknight: 10
+13: BdoubleO100: 8
+14: MumboJumbo: 8
+15: iskall85: 7
+16: GoodTimeWithScar: 7
+17: falsesymmetry: 6
+18: joehillssays: 5
+19: Keralis1: 5
+20: GeminiTay: 3
+21: hypnotizd: 2
+22: Stressmonster101: 2
+23: VintageBeef: 1
+Total 330

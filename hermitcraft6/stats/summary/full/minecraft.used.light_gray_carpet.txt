@@ -1,0 +1,23 @@
+minecraft.used.light_gray_carpet
+1: Docm77: 6271
+2: impulseSV: 2665
+3: Xisuma: 2543
+4: falsesymmetry: 2345
+5: cubfan135: 1168
+6: GoodTimeWithScar: 1102
+7: Tango: 834
+8: Grian: 809
+9: iskall85: 797
+10: iJevin: 262
+11: MumboJumbo: 209
+12: Renthedog: 109
+13: Keralis1: 98
+14: Welsknight: 89
+15: BdoubleO100: 65
+16: Cub_Cam: 60
+17: joehillssays: 31
+18: PythonGB: 29
+19: Stressmonster101: 17
+20: ZombieCleo: 10
+21: Zedaph: 5
+Total 19518

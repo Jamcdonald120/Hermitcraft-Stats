@@ -1,0 +1,18 @@
+minecraft.dropped.birch_slab
+1: BdoubleO100: 234
+2: GoodTimeWithScar: 159
+3: cubfan135: 109
+4: Grian: 66
+5: Zedaph: 53
+6: Stressmonster101: 52
+7: Xisuma: 47
+8: Keralis1: 41
+9: VintageBeef: 8
+10: iskall85: 6
+11: Etho: 5
+12: Renthedog: 4
+13: xBCrafted: 3
+14: impulseSV: 3
+15: Tango: 2
+16: MumboJumbo: 1
+Total 793

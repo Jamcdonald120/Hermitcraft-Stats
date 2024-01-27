@@ -1,0 +1,7 @@
+minecraft.picked_up.smooth_red_sandstone_slab
+1: cubfan135: 18
+2: impulseSV: 6
+3: PearlescentMoon: 5
+4: Xisuma: 4
+5: BdoubleO100: 1
+Total 34

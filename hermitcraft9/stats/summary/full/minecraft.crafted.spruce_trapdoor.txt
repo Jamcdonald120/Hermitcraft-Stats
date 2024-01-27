@@ -1,0 +1,34 @@
+minecraft.crafted.spruce_trapdoor
+1: Keralis1: 5790
+2: iJevin: 2600
+3: falsesymmetry: 1688
+4: BdoubleO100: 1668
+5: Docm77: 1418
+6: ZombieCleo: 1396
+7: xBCrafted: 1350
+8: Etho: 1342
+9: hypnotizd: 1102
+10: Zedaph: 1060
+11: impulseSV: 988
+12: Tango: 962
+13: PearlescentMoon: 860
+14: GoodTimeWithScar: 543
+15: Renthedog: 460
+16: iskall85: 424
+17: Stressmonster101: 424
+18: MythicalSausage: 388
+19: GeminiTay: 348
+20: Grian: 304
+21: cubfan135: 278
+22: Xisuma: 266
+23: VintageBeef: 74
+24: RentheKing: 64
+25: Welsknight: 60
+26: joehillssays: 52
+27: Pixlriffs: 48
+28: ShubbleYT: 32
+29: fWhip: 30
+30: Smallishbeans: 26
+31: OrionSound: 8
+32: SolidarityGaming: 2
+Total 26055

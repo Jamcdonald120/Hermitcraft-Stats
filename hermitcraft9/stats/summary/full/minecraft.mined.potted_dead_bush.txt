@@ -1,0 +1,8 @@
+minecraft.mined.potted_dead_bush
+1: Etho: 3
+2: Tango: 2
+3: PearlescentMoon: 2
+4: hypnotizd: 1
+5: Keralis1: 1
+6: impulseSV: 1
+Total 10

@@ -1,0 +1,19 @@
+stat.pickup.minecraft.painting
+1: falsesymmetry: 512
+2: cubfan135: 422
+3: Xisuma: 255
+4: joehillssays: 91
+5: VintageBeef: 64
+6: Welsknight: 55
+7: Tinfoilchef: 35
+8: iskall85: 32
+9: GoodTimeWithScar: 19
+10: PythonGB: 9
+11: Mumbo: 8
+12: Renthedog: 3
+13: iJevin: 3
+14: ZombieCleo: 2
+15: impulseSV: 2
+16: Tango: 1
+17: MumboJumbo: 1
+Total 1514

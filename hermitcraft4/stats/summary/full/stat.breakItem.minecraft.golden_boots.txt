@@ -1,0 +1,9 @@
+stat.breakItem.minecraft.golden_boots
+1: PythonGB: 3
+2: Renthedog: 2
+3: iskall85: 2
+4: MumboJumbo: 2
+5: iJevin: 1
+6: falsesymmetry: 1
+7: GoodTimeWithScar: 1
+Total 12

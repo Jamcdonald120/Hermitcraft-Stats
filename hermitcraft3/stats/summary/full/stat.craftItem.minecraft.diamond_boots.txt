@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.diamond_boots
+1: impulseSV: 21
+2: Xisuma: 17
+3: Tango: 14
+4: falsesymmetry: 11
+5: xBCrafted: 10
+6: topmass: 8
+7: sl1pg8r: 7
+8: Etho: 6
+9: KingDaddyDMAC: 5
+10: ZombieCleo: 5
+11: Mumbo: 5
+12: Tinfoilchef: 5
+13: zueljin: 4
+14: PythonGB: 3
+15: iJevin: 2
+16: Biffa2001: 2
+17: Mrs_Keralis: 2
+18: monkeyfarm: 2
+19: Docm77: 1
+20: hypnotizd: 1
+21: Spumwackles: 1
+Total 132

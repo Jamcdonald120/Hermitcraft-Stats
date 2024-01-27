@@ -1,0 +1,21 @@
+minecraft.dropped.dark_oak_planks
+1: Grian: 984
+2: hypnotizd: 577
+3: GoodTimeWithScar: 256
+4: Zedaph: 189
+5: iJevin: 168
+6: Tango: 95
+7: impulseSV: 81
+8: BdoubleO100: 79
+9: cubfan135: 78
+10: Renthedog: 56
+11: iskall85: 31
+12: Etho: 31
+13: Docm77: 18
+14: falsesymmetry: 15
+15: Keralis1: 15
+16: Stressmonster101: 9
+17: VintageBeef: 6
+18: xBCrafted: 4
+19: Xisuma: 1
+Total 2693

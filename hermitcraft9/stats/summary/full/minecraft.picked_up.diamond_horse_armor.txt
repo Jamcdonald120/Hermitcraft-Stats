@@ -1,0 +1,15 @@
+minecraft.picked_up.diamond_horse_armor
+1: iJevin: 18
+2: impulseSV: 14
+3: falsesymmetry: 8
+4: PearlescentMoon: 5
+5: Zedaph: 5
+6: Docm77: 4
+7: hypnotizd: 3
+8: Grian: 2
+9: Etho: 2
+10: Xisuma: 1
+11: GeminiTay: 1
+12: cubfan135: 1
+13: Stressmonster101: 1
+Total 65

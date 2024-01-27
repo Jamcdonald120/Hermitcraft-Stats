@@ -1,0 +1,11 @@
+minecraft.picked_up.light_blue_banner
+1: BdoubleO100: 83
+2: falsesymmetry: 36
+3: cubfan135: 27
+4: Xisuma: 13
+5: Keralis1: 11
+6: GoodTimeWithScar: 10
+7: joehillssays: 1
+8: Grian: 1
+9: Tango: 1
+Total 183

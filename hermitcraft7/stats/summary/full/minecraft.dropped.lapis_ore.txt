@@ -1,0 +1,15 @@
+minecraft.dropped.lapis_ore
+1: Zedaph: 202
+2: Etho: 130
+3: cubfan135: 77
+4: Grian: 35
+5: GoodTimeWithScar: 15
+6: Tango: 12
+7: MumboJumbo: 12
+8: iJevin: 11
+9: iskall85: 11
+10: Keralis1: 8
+11: Docm77: 3
+12: falsesymmetry: 2
+13: BdoubleO100: 1
+Total 519

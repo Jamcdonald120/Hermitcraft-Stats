@@ -1,0 +1,13 @@
+minecraft.dropped.deepslate_brick_slab
+1: iJevin: 110
+2: Grian: 66
+3: Docm77: 60
+4: impulseSV: 42
+5: Zedaph: 23
+6: BdoubleO100: 3
+7: EvilXisuma: 2
+8: Xisuma: 2
+9: MumboJumbo: 2
+10: Tango: 1
+11: hypnotizd: 1
+Total 312

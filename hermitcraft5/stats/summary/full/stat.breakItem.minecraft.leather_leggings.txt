@@ -1,0 +1,6 @@
+stat.breakItem.minecraft.leather_leggings
+1: Tango: 2
+2: Docm77: 1
+3: xBCrafted: 1
+4: Zedaph: 1
+Total 5

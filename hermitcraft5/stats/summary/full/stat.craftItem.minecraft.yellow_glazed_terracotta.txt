@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.yellow_glazed_terracotta
+1: MumboJumbo: 51
+2: Xisuma: 48
+3: joehillssays: 32
+4: cubfan135: 6
+5: iJevin: 1
+Total 138

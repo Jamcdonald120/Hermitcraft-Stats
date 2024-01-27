@@ -1,0 +1,25 @@
+minecraft.picked_up.blackstone
+1: Renthedog: 96961
+2: cubfan135: 43924
+3: Xisuma: 20898
+4: Etho: 17341
+5: Tango: 13484
+6: GoodTimeWithScar: 11431
+7: xBCrafted: 9256
+8: iskall85: 8507
+9: Zedaph: 7721
+10: joehillssays: 7669
+11: falsesymmetry: 7449
+12: hypnotizd: 5448
+13: VintageBeef: 5015
+14: MumboJumbo: 3372
+15: ZombieCleo: 3212
+16: iJevin: 3048
+17: BdoubleO100: 2143
+18: Docm77: 1919
+19: Grian: 1483
+20: Welsknight: 1480
+21: impulseSV: 1419
+22: Stressmonster101: 405
+23: Keralis1: 329
+Total 273914

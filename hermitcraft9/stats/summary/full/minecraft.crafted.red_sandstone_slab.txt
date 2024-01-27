@@ -1,0 +1,7 @@
+minecraft.crafted.red_sandstone_slab
+1: Xisuma: 68
+2: Keralis1: 36
+3: cubfan135: 12
+4: GoodTimeWithScar: 2
+5: Zedaph: 2
+Total 120

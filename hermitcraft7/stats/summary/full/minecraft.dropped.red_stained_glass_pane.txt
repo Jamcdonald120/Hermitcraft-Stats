@@ -1,0 +1,5 @@
+minecraft.dropped.red_stained_glass_pane
+1: cubfan135: 65
+2: GoodTimeWithScar: 65
+3: falsesymmetry: 11
+Total 141

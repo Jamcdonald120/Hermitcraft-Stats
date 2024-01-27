@@ -1,0 +1,5 @@
+minecraft.killed_by.wither_skeleton
+1: iJevin: 1
+2: hypnotizd: 1
+3: Zedaph: 1
+Total 3

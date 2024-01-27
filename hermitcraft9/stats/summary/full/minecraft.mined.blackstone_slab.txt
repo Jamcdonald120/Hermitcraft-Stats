@@ -1,0 +1,16 @@
+minecraft.mined.blackstone_slab
+1: Tango: 238
+2: ZombieCleo: 88
+3: Etho: 60
+4: impulseSV: 39
+5: xBCrafted: 34
+6: GoodTimeWithScar: 20
+7: iJevin: 17
+8: joehillssays: 13
+9: Renthedog: 7
+10: PearlescentMoon: 7
+11: Docm77: 6
+12: cubfan135: 5
+13: Zedaph: 3
+14: Xisuma: 1
+Total 538

@@ -1,0 +1,17 @@
+minecraft.killed.vindicator
+1: impulseSV: 27068
+2: cubfan135: 89
+3: Tango: 56
+4: Docm77: 34
+5: Etho: 27
+6: Grian: 13
+7: Renthedog: 9
+8: joehillssays: 4
+9: xBCrafted: 4
+10: GoodTimeWithScar: 3
+11: falsesymmetry: 2
+12: Welsknight: 2
+13: VintageBeef: 1
+14: iJevin: 1
+15: ZombieCleo: 1
+Total 27314

@@ -1,0 +1,22 @@
+stat.useItem.minecraft.stone_shovel
+1: Mumbo: 7384
+2: Spumwackles: 4998
+3: joehillssays: 1012
+4: Tinfoilchef: 791
+5: topmass: 529
+6: falsesymmetry: 529
+7: Biffa2001: 433
+8: zueljin: 248
+9: hypnotizd: 194
+10: Pungence: 134
+11: NameOfSamuel: 133
+12: Collen: 133
+13: Xisuma: 132
+14: sl1pg8r: 81
+15: Keralis1: 52
+16: Tango: 50
+17: skyzm: 44
+18: KingDaddyDMAC: 35
+19: xBCrafted: 21
+20: monkeyfarm: 14
+Total 16947

@@ -1,0 +1,23 @@
+stat.pickup.minecraft.elytra
+1: iskall85: 136
+2: Renthedog: 121
+3: cubfan135: 114
+4: Xisuma: 87
+5: GoodTimeWithScar: 51
+6: impulseSV: 43
+7: MumboJumbo: 41
+8: Tango: 39
+9: falsesymmetry: 32
+10: PythonGB: 23
+11: Welsknight: 19
+12: iJevin: 18
+13: Tinfoilchef: 16
+14: VintageBeef: 12
+15: ZombieCleo: 11
+16: Docm77: 10
+17: Etho: 10
+18: joehillssays: 8
+19: Biffa2001: 6
+20: xisumavoid: 4
+21: WellsGlazes: 1
+Total 802

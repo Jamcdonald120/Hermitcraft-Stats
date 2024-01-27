@@ -1,0 +1,18 @@
+minecraft.killed.villager
+1: Grian: 250
+2: Keralis1: 123
+3: GoodTimeWithScar: 100
+4: hypnotizd: 42
+5: impulseSV: 13
+6: cubfan135: 12
+7: Stressmonster101: 11
+8: iJevin: 8
+9: Etho: 7
+10: Renthedog: 6
+11: MumboJumbo: 5
+12: Tango: 4
+13: iskall85: 4
+14: Docm77: 2
+15: VintageBeef: 2
+16: Zedaph: 1
+Total 590

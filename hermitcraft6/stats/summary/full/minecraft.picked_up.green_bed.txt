@@ -1,0 +1,9 @@
+minecraft.picked_up.green_bed
+1: Xisuma: 73
+2: cubfan135: 71
+3: Renthedog: 15
+4: falsesymmetry: 9
+5: iskall85: 4
+6: GoodTimeWithScar: 3
+7: PythonGB: 2
+Total 177

@@ -1,0 +1,20 @@
+minecraft.picked_up.quartz_stairs
+1: GoodTimeWithScar: 293
+2: Tango: 118
+3: VintageBeef: 65
+4: Docm77: 62
+5: Renthedog: 47
+6: cubfan135: 46
+7: impulseSV: 46
+8: ZombieCleo: 23
+9: Stressmonster101: 17
+10: Smajor1995: 10
+11: GeminiTay: 9
+12: fWhip: 5
+13: Mumbo: 4
+14: Zedaph: 3
+15: Pixlriffs: 2
+16: Keralis1: 2
+17: Smallishbeans: 1
+18: BdoubleO100: 1
+Total 754

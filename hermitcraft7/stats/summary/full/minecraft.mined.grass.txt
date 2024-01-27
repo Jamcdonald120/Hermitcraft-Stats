@@ -1,0 +1,26 @@
+minecraft.mined.grass
+1: Keralis1: 14356
+2: xBCrafted: 12305
+3: BdoubleO100: 6422
+4: joehillssays: 6307
+5: GoodTimeWithScar: 5678
+6: MumboJumbo: 4445
+7: Grian: 4119
+8: Etho: 3912
+9: Xisuma: 3766
+10: impulseSV: 2930
+11: hypnotizd: 2421
+12: ZombieCleo: 1752
+13: falsesymmetry: 1650
+14: iskall85: 1641
+15: cubfan135: 1591
+16: Renthedog: 1583
+17: Tango: 1351
+18: VintageBeef: 1350
+19: Stressmonster101: 912
+20: Welsknight: 778
+21: Zedaph: 695
+22: Docm77: 436
+23: iJevin: 181
+24: Tinfoilchef: 90
+Total 80671

@@ -1,0 +1,7 @@
+minecraft.picked_up.suspicious_stew
+1: iJevin: 4
+2: falsesymmetry: 2
+3: xBCrafted: 1
+4: cubfan135: 1
+5: GoodTimeWithScar: 1
+Total 9

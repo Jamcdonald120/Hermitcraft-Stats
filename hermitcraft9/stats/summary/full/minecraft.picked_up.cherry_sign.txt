@@ -1,0 +1,8 @@
+minecraft.picked_up.cherry_sign
+1: joehillssays: 5
+2: Zedaph: 5
+3: GeminiTay: 2
+4: Grian: 2
+5: GoodTimeWithScar: 2
+6: ZombieCleo: 1
+Total 17

@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.sea_lantern
+1: Xisuma: 2472
+2: sl1pg8r: 4
+3: KingDaddyDMAC: 1
+Total 2477

@@ -1,0 +1,27 @@
+minecraft.crafted.blaze_powder
+1: MumboJumbo: 1488
+2: iJevin: 280
+3: Tinfoilchef: 124
+4: Docm77: 122
+5: Zedaph: 116
+6: Grian: 70
+7: GoodTimeWithScar: 64
+8: Xisuma: 56
+9: falsesymmetry: 52
+10: cubfan135: 40
+11: joehillssays: 26
+12: Etho: 26
+13: Tango: 22
+14: PearlescentMoon: 22
+15: hypnotizd: 22
+16: BdoubleO100: 14
+17: Welsknight: 12
+18: impulseSV: 12
+19: VintageBeef: 4
+20: iskall85: 4
+21: Stressmonster101: 4
+22: GeminiTay: 2
+23: xBCrafted: 2
+24: ZombieCleo: 2
+25: Keralis1: 2
+Total 2588

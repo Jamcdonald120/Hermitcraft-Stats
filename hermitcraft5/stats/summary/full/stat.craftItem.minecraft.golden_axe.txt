@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.golden_axe
+1: Renthedog: 55
+2: iskall85: 3
+3: xBCrafted: 1
+Total 59

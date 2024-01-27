@@ -1,0 +1,10 @@
+minecraft.dropped.cooked_salmon
+1: hypnotizd: 109
+2: Keralis1: 87
+3: Xisuma: 64
+4: cubfan135: 4
+5: Tango: 3
+6: Etho: 3
+7: Grian: 1
+8: GoodTimeWithScar: 1
+Total 272

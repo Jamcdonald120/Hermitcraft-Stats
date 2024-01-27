@@ -1,0 +1,8 @@
+minecraft.crafted.orange_stained_glass_pane
+1: Xisuma: 16
+2: Renthedog: 16
+3: BdoubleO100: 16
+4: GoodTimeWithScar: 16
+5: impulseSV: 16
+6: Grian: 8
+Total 88

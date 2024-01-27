@@ -1,0 +1,21 @@
+minecraft.mined.mushroom_stem
+1: hypnotizd: 1358
+2: ZombieCleo: 620
+3: falsesymmetry: 456
+4: GeminiTay: 402
+5: joehillssays: 272
+6: Etho: 266
+7: BdoubleO100: 222
+8: Grian: 176
+9: PearlescentMoon: 113
+10: Renthedog: 81
+11: Zedaph: 64
+12: Xisuma: 28
+13: impulseSV: 17
+14: Docm77: 15
+15: MumboJumbo: 15
+16: iskall85: 12
+17: iJevin: 6
+18: xBCrafted: 6
+19: GoodTimeWithScar: 3
+Total 4132

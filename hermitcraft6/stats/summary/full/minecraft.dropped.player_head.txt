@@ -1,0 +1,26 @@
+minecraft.dropped.player_head
+1: cubfan135: 453
+2: GoodTimeWithScar: 356
+3: falsesymmetry: 309
+4: Xisuma: 220
+5: Docm77: 217
+6: Grian: 154
+7: iskall85: 128
+8: Renthedog: 122
+9: impulseSV: 87
+10: iJevin: 70
+11: MumboJumbo: 68
+12: Tango: 40
+13: Stressmonster101: 39
+14: PythonGB: 15
+15: Zedaph: 13
+16: BdoubleO100: 7
+17: joehillssays: 6
+18: Welsknight: 6
+19: ZombieCleo: 6
+20: Tinfoilchef: 4
+21: Keralis1: 3
+22: EvilXisuma: 2
+23: Biffa2001: 2
+24: BadTimeWithScar: 1
+Total 2328

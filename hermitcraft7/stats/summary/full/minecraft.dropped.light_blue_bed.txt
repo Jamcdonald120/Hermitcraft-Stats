@@ -1,0 +1,9 @@
+minecraft.dropped.light_blue_bed
+1: BdoubleO100: 7
+2: Keralis1: 3
+3: Grian: 2
+4: Etho: 1
+5: ZombieCleo: 1
+6: GoodTimeWithScar: 1
+7: impulseSV: 1
+Total 16

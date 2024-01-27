@@ -1,0 +1,4 @@
+minecraft.picked_up.dead_bubble_coral_block
+1: cubfan135: 7
+2: impulseSV: 1
+Total 8

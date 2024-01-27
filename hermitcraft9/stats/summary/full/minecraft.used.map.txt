@@ -1,0 +1,23 @@
+minecraft.used.map
+1: VintageBeef: 201
+2: falsesymmetry: 106
+3: PearlescentMoon: 97
+4: joehillssays: 57
+5: Etho: 49
+6: GoodTimeWithScar: 43
+7: Docm77: 36
+8: GeminiTay: 30
+9: Renthedog: 14
+10: impulseSV: 11
+11: cubfan135: 8
+12: Grian: 7
+13: Tango: 6
+14: Zedaph: 5
+15: iJevin: 4
+16: Keralis1: 4
+17: Xisuma: 3
+18: ZombieCleo: 3
+19: BdoubleO100: 2
+20: Mumbo: 2
+21: hypnotizd: 1
+Total 689

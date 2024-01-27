@@ -1,0 +1,22 @@
+minecraft.used.spruce_button
+1: iJevin: 1305
+2: Grian: 755
+3: Etho: 181
+4: Stressmonster101: 123
+5: iskall85: 104
+6: Tango: 89
+7: cubfan135: 88
+8: Renthedog: 73
+9: Xisuma: 43
+10: xBCrafted: 25
+11: Zedaph: 25
+12: BdoubleO100: 19
+13: MumboJumbo: 16
+14: VintageBeef: 13
+15: Welsknight: 11
+16: GoodTimeWithScar: 8
+17: joehillssays: 7
+18: Keralis1: 6
+19: impulseSV: 5
+20: ZombieCleo: 1
+Total 2897

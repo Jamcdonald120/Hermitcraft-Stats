@@ -1,0 +1,4 @@
+stat.drop.minecraft.chest_minecart
+1: Xisuma: 4
+2: Renthedog: 1
+Total 5

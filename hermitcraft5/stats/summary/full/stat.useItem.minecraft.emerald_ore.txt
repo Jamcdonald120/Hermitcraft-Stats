@@ -1,0 +1,9 @@
+stat.useItem.minecraft.emerald_ore
+1: falsesymmetry: 51
+2: cubfan135: 28
+3: iJevin: 18
+4: Renthedog: 5
+5: joehillssays: 3
+6: Biffa2001: 2
+7: GoodTimeWithScar: 2
+Total 109

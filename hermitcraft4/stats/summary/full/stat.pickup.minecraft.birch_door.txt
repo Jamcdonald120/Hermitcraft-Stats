@@ -1,0 +1,11 @@
+stat.pickup.minecraft.birch_door
+1: MumboJumbo: 55
+2: joehillssays: 17
+3: impulseSV: 11
+4: iskall85: 6
+5: xBCrafted: 6
+6: Etho: 4
+7: VintageBeef: 2
+8: Tango: 2
+9: cubfan135: 2
+Total 105

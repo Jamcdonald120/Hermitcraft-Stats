@@ -1,0 +1,24 @@
+stat.pickup.minecraft.iron_shovel
+1: Renthedog: 159
+2: iskall85: 62
+3: Xisuma: 51
+4: xBCrafted: 32
+5: GoodTimeWithScar: 28
+6: Tango: 26
+7: PythonGB: 23
+8: Zedaph: 17
+9: Stressmonster101: 14
+10: impulseSV: 12
+11: cubfan135: 11
+12: Welsknight: 11
+13: MumboJumbo: 9
+14: falsesymmetry: 7
+15: Tinfoilchef: 7
+16: Etho: 6
+17: iJevin: 4
+18: ZombieCleo: 4
+19: VintageBeef: 3
+20: Docm77: 2
+21: joehillssays: 2
+22: Biffa2001: 2
+Total 492

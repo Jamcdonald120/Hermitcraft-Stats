@@ -1,0 +1,26 @@
+minecraft.picked_up.ender_pearl
+1: iJevin: 106687
+2: xBCrafted: 38686
+3: Renthedog: 35184
+4: hypnotizd: 34384
+5: cubfan135: 32561
+6: Zedaph: 29895
+7: Keralis1: 26328
+8: falsesymmetry: 21899
+9: GoodTimeWithScar: 21757
+10: Welsknight: 19780
+11: Tango: 14629
+12: impulseSV: 7992
+13: joehillssays: 7251
+14: VintageBeef: 6371
+15: MumboJumbo: 5028
+16: Etho: 4199
+17: iskall85: 3355
+18: Xisuma: 3134
+19: ZombieCleo: 2086
+20: Grian: 1043
+21: BdoubleO100: 679
+22: Docm77: 470
+23: Stressmonster101: 172
+24: BarryBoss1234: 52
+Total 423622

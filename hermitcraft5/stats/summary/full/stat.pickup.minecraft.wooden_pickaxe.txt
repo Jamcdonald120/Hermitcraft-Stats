@@ -1,0 +1,17 @@
+stat.pickup.minecraft.wooden_pickaxe
+1: Zedaph: 20
+2: Tango: 7
+3: Etho: 4
+4: BdoubleO100: 3
+5: Renthedog: 2
+6: GoodTimeWithScar: 2
+7: Docm77: 1
+8: VintageBeef: 1
+9: PythonGB: 1
+10: iJevin: 1
+11: joehillssays: 1
+12: falsesymmetry: 1
+13: Welsknight: 1
+14: Tinfoilchef: 1
+15: Stressmonster101: 1
+Total 47

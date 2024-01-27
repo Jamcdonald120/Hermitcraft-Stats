@@ -1,0 +1,12 @@
+minecraft.dropped.oak_fence_gate
+1: Tango: 194
+2: Keralis1: 22
+3: GoodTimeWithScar: 11
+4: Zedaph: 5
+5: Grian: 4
+6: falsesymmetry: 3
+7: iskall85: 1
+8: Etho: 1
+9: ZombieCleo: 1
+10: MumboJumbo: 1
+Total 243

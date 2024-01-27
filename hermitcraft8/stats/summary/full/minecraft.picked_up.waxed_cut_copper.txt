@@ -1,0 +1,7 @@
+minecraft.picked_up.waxed_cut_copper
+1: impulseSV: 59
+2: cubfan135: 6
+3: Renthedog: 3
+4: PearlescentMoon: 3
+5: GoodTimeWithScar: 3
+Total 74

@@ -1,0 +1,18 @@
+minecraft.picked_up.brown_wool
+1: iJevin: 3758
+2: Grian: 703
+3: PearlescentMoon: 474
+4: VintageBeef: 202
+5: cubfan135: 123
+6: Tango: 82
+7: falsesymmetry: 73
+8: Renthedog: 69
+9: Docm77: 68
+10: iskall85: 52
+11: BdoubleO100: 35
+12: Zedaph: 6
+13: impulseSV: 3
+14: Xisuma: 2
+15: GoodTimeWithScar: 2
+16: Etho: 1
+Total 5653

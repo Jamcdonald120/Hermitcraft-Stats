@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.spruce_fence
+1: cubfan135: 994
+2: Xisuma: 976
+3: Stressmonster101: 621
+4: GoodTimeWithScar: 590
+5: Welsknight: 418
+6: iJevin: 255
+7: falsesymmetry: 216
+8: xBCrafted: 127
+9: ZombieCleo: 53
+10: iskall85: 42
+11: BdoubleO100: 31
+12: PythonGB: 30
+13: joehillssays: 17
+14: MumboJumbo: 14
+15: Zedaph: 14
+16: Renthedog: 13
+17: VintageBeef: 13
+18: Tinfoilchef: 6
+19: Docm77: 5
+20: Tango: 3
+21: impulseSV: 1
+Total 4439

@@ -1,0 +1,7 @@
+minecraft.dropped.compass
+1: PearlescentMoon: 74
+2: Keralis1: 23
+3: BdoubleO100: 5
+4: iJevin: 3
+5: GoodTimeWithScar: 3
+Total 108

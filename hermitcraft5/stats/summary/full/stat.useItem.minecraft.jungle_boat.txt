@@ -1,0 +1,18 @@
+stat.useItem.minecraft.jungle_boat
+1: Xisuma: 74
+2: Renthedog: 41
+3: cubfan135: 34
+4: Zedaph: 28
+5: BdoubleO100: 15
+6: VintageBeef: 14
+7: iskall85: 10
+8: joehillssays: 9
+9: falsesymmetry: 9
+10: PythonGB: 8
+11: GoodTimeWithScar: 5
+12: Tango: 3
+13: Welsknight: 2
+14: Etho: 2
+15: MumboJumbo: 1
+16: Stressmonster101: 1
+Total 256

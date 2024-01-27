@@ -1,0 +1,16 @@
+minecraft.dropped.end_stone
+1: iJevin: 1038
+2: Renthedog: 88
+3: Keralis1: 74
+4: Docm77: 47
+5: Zedaph: 41
+6: Tango: 28
+7: xBCrafted: 7
+8: Grian: 5
+9: falsesymmetry: 3
+10: hypnotizd: 2
+11: GoodTimeWithScar: 2
+12: Xisuma: 1
+13: PearlescentMoon: 1
+14: impulseSV: 1
+Total 1338

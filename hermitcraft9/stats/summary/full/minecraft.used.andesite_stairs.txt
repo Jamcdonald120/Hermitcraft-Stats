@@ -1,0 +1,21 @@
+minecraft.used.andesite_stairs
+1: xBCrafted: 762
+2: Tango: 375
+3: RentheKing: 322
+4: Docm77: 263
+5: Keralis1: 206
+6: GoodTimeWithScar: 159
+7: falsesymmetry: 139
+8: impulseSV: 122
+9: BdoubleO100: 96
+10: PearlescentMoon: 95
+11: GeminiTay: 88
+12: ZombieCleo: 87
+13: Xisuma: 85
+14: Renthedog: 63
+15: cubfan135: 52
+16: Grian: 35
+17: iJevin: 15
+18: joehillssays: 13
+19: VintageBeef: 8
+Total 2985

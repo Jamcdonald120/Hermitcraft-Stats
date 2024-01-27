@@ -1,0 +1,22 @@
+minecraft.picked_up.vine
+1: cubfan135: 4446
+2: Renthedog: 2617
+3: falsesymmetry: 2333
+4: Xisuma: 1791
+5: Tango: 1175
+6: Keralis1: 1110
+7: joehillssays: 638
+8: iJevin: 611
+9: ZombieCleo: 587
+10: BdoubleO100: 464
+11: Docm77: 399
+12: iskall85: 360
+13: GoodTimeWithScar: 174
+14: impulseSV: 124
+15: Grian: 119
+16: Zedaph: 79
+17: Stressmonster101: 74
+18: PythonGB: 53
+19: Welsknight: 29
+20: HumanCleo: 25
+Total 17208

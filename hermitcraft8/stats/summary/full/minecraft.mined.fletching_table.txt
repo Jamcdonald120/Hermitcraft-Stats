@@ -1,0 +1,9 @@
+minecraft.mined.fletching_table
+1: PearlescentMoon: 88
+2: cubfan135: 6
+3: Xisuma: 5
+4: Zedaph: 4
+5: iskall85: 3
+6: Etho: 1
+7: GoodTimeWithScar: 1
+Total 108

@@ -1,0 +1,23 @@
+minecraft.mined.cracked_stone_bricks
+1: iJevin: 2105
+2: Tango: 181
+3: cubfan135: 151
+4: Etho: 124
+5: ZombieCleo: 124
+6: Docm77: 119
+7: Renthedog: 103
+8: Zedaph: 58
+9: Grian: 55
+10: Keralis1: 49
+11: iskall85: 47
+12: impulseSV: 42
+13: PearlescentMoon: 36
+14: falsesymmetry: 15
+15: xBCrafted: 11
+16: Xisuma: 8
+17: GoodTimeWithScar: 7
+18: VintageBeef: 5
+19: GeminiTay: 3
+20: Mumbo: 2
+21: hypnotizd: 1
+Total 3246

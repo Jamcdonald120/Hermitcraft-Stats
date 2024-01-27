@@ -1,0 +1,22 @@
+minecraft.picked_up.warped_roots
+1: Etho: 973
+2: xBCrafted: 648
+3: Renthedog: 621
+4: BdoubleO100: 442
+5: cubfan135: 290
+6: impulseSV: 257
+7: Stressmonster101: 212
+8: Keralis1: 94
+9: Docm77: 89
+10: joehillssays: 82
+11: GeminiTay: 75
+12: Tango: 66
+13: GoodTimeWithScar: 56
+14: Xisuma: 32
+15: Grian: 28
+16: PearlescentMoon: 15
+17: iJevin: 12
+18: hypnotizd: 4
+19: VintageBeef: 2
+20: iskall85: 1
+Total 3999

@@ -1,0 +1,23 @@
+minecraft.crafted.book
+1: Xisuma: 618
+2: Renthedog: 459
+3: BdoubleO100: 276
+4: xBCrafted: 203
+5: cubfan135: 177
+6: hypnotizd: 172
+7: GoodTimeWithScar: 104
+8: Keralis1: 92
+9: falsesymmetry: 90
+10: iJevin: 88
+11: joehillssays: 53
+12: Etho: 46
+13: Docm77: 34
+14: VintageBeef: 33
+15: Tango: 25
+16: Zedaph: 12
+17: Stressmonster101: 5
+18: GeminiTay: 4
+19: Pixlriffs: 2
+20: Welsknight: 1
+21: Mumbo: 1
+Total 2495

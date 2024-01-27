@@ -1,0 +1,25 @@
+stat.drop.minecraft.crafting_table
+1: GoodTimeWithScar: 36
+2: Xisuma: 35
+3: iskall85: 28
+4: Zedaph: 19
+5: Tango: 17
+6: cubfan135: 17
+7: falsesymmetry: 16
+8: MumboJumbo: 13
+9: xBCrafted: 10
+10: PythonGB: 5
+11: Stressmonster101: 4
+12: impulseSV: 4
+13: joehillssays: 3
+14: BdoubleO100: 3
+15: Docm77: 1
+16: Renthedog: 1
+17: VintageBeef: 1
+18: iJevin: 1
+19: Welsknight: 1
+20: Biffa2001: 1
+21: Etho: 1
+22: ZombieCleo: 1
+23: Tinfoilchef: 1
+Total 219

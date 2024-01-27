@@ -1,0 +1,5 @@
+minecraft.mined.potted_warped_roots
+1: falsesymmetry: 2
+2: Tango: 1
+3: Keralis1: 1
+Total 4

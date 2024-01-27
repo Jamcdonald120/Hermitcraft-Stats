@@ -1,0 +1,15 @@
+stat.useItem.minecraft.bow
+1: Tango: 1013
+2: ZombieCleo: 371
+3: KingDaddyDMAC: 325
+4: iJevin: 253
+5: zueljin: 231
+6: sl1pg8r: 203
+7: Xisuma: 158
+8: Biffa2001: 147
+9: xBCrafted: 70
+10: Spumwackles: 58
+11: Pungence: 30
+12: Tinfoilchef: 30
+13: monkeyfarm: 21
+Total 2910

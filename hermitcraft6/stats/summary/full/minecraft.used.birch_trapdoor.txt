@@ -1,0 +1,22 @@
+minecraft.used.birch_trapdoor
+1: Tango: 1049
+2: falsesymmetry: 748
+3: Xisuma: 489
+4: cubfan135: 231
+5: Keralis1: 157
+6: impulseSV: 134
+7: GoodTimeWithScar: 128
+8: joehillssays: 104
+9: Docm77: 84
+10: ZombieCleo: 31
+11: Zedaph: 29
+12: BdoubleO100: 25
+13: iskall85: 20
+14: xBCrafted: 19
+15: Renthedog: 17
+16: Grian: 11
+17: PythonGB: 2
+18: MumboJumbo: 1
+19: Tinfoilchef: 1
+20: Stressmonster101: 1
+Total 3281

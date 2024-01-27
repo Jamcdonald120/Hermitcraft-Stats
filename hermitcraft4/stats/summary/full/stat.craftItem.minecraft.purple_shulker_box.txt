@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.purple_shulker_box
+1: Renthedog: 260
+2: PythonGB: 165
+3: cubfan135: 157
+4: Xisuma: 130
+5: impulseSV: 64
+6: iskall85: 62
+7: Tango: 43
+8: iJevin: 33
+9: Welsknight: 26
+10: falsesymmetry: 13
+11: MumboJumbo: 10
+Total 963

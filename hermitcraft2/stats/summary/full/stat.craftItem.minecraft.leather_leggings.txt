@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.leather_leggings
+1: ZombieCleo: 3
+2: falsesymmetry: 1
+Total 4

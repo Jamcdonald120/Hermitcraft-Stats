@@ -1,0 +1,25 @@
+minecraft.dropped.coal
+1: Grian: 781
+2: Etho: 728
+3: GoodTimeWithScar: 709
+4: Keralis1: 589
+5: iskall85: 584
+6: Zedaph: 531
+7: impulseSV: 378
+8: cubfan135: 315
+9: Stressmonster101: 269
+10: iJevin: 232
+11: Tango: 201
+12: MumboJumbo: 198
+13: xBCrafted: 116
+14: VintageBeef: 105
+15: falsesymmetry: 104
+16: hypnotizd: 83
+17: Renthedog: 72
+18: Docm77: 65
+19: BdoubleO100: 28
+20: Xisuma: 27
+21: Welsknight: 21
+22: joehillssays: 5
+23: ZombieCleo: 1
+Total 6142

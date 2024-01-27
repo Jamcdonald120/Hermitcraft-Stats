@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.golden_helmet
+1: Renthedog: 13
+2: MumboJumbo: 10
+3: iskall85: 7
+4: falsesymmetry: 7
+5: cubfan135: 5
+6: Xisuma: 1
+7: joehillssays: 1
+8: Welsknight: 1
+Total 45

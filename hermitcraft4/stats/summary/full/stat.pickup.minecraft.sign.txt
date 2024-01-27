@@ -1,0 +1,27 @@
+stat.pickup.minecraft.sign
+1: Xisuma: 1501
+2: falsesymmetry: 1270
+3: cubfan135: 787
+4: impulseSV: 632
+5: Tango: 602
+6: joehillssays: 589
+7: Renthedog: 559
+8: iskall85: 383
+9: GoodTimeWithScar: 299
+10: MumboJumbo: 170
+11: Welsknight: 150
+12: iJevin: 112
+13: Biffa2001: 102
+14: ZombieCleo: 87
+15: VintageBeef: 72
+16: PythonGB: 64
+17: Tinfoilchef: 60
+18: Etho: 53
+19: Docm77: 28
+20: xisumavoid: 19
+21: Jessassin: 10
+22: zueljin: 8
+23: Mumbo: 5
+24: hypnotizd: 4
+25: xBCrafted: 1
+Total 7567

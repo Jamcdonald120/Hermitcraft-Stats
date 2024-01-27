@@ -1,0 +1,13 @@
+minecraft.crafted.end_crystal
+1: falsesymmetry: 32
+2: cubfan135: 26
+3: Docm77: 12
+4: Tango: 11
+5: iJevin: 8
+6: GoodTimeWithScar: 8
+7: Welsknight: 4
+8: Xisuma: 1
+9: Grian: 1
+10: Stressmonster101: 1
+11: impulseSV: 1
+Total 105

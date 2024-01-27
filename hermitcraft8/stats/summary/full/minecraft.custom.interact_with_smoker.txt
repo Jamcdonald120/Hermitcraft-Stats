@@ -1,0 +1,20 @@
+minecraft.custom.interact_with_smoker
+1: VintageBeef: 120
+2: BdoubleO100: 109
+3: hypnotizd: 73
+4: xBCrafted: 70
+5: iJevin: 69
+6: impulseSV: 69
+7: PearlescentMoon: 67
+8: MumboJumbo: 40
+9: joehillssays: 35
+10: iskall85: 13
+11: Etho: 6
+12: Keralis1: 4
+13: Xisuma: 3
+14: GeminiTay: 2
+15: Grian: 1
+16: Tango: 1
+17: Welsknight: 1
+18: GoodTimeWithScar: 1
+Total 684

@@ -1,0 +1,9 @@
+stat.useItem.minecraft.jungle_door
+1: joehillssays: 8
+2: cubfan135: 7
+3: MumboJumbo: 6
+4: PythonGB: 5
+5: falsesymmetry: 4
+6: ZombieCleo: 2
+7: Tango: 1
+Total 33

@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.obsidian
+1: GoodTimeWithScar: 7663
+2: cubfan135: 3933
+3: Xisuma: 2089
+4: falsesymmetry: 1700
+5: impulseSV: 1221
+6: Tango: 1120
+7: MumboJumbo: 975
+8: Tinfoilchef: 665
+9: iskall85: 526
+10: joehillssays: 525
+11: Renthedog: 466
+12: Stressmonster101: 404
+13: Welsknight: 370
+14: Zedaph: 363
+15: Etho: 362
+16: xBCrafted: 279
+17: iJevin: 251
+18: PythonGB: 250
+19: Docm77: 191
+20: Biffa2001: 185
+21: VintageBeef: 116
+22: ZombieCleo: 30
+23: BdoubleO100: 5
+Total 23689

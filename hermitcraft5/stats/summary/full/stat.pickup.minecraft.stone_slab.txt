@@ -1,0 +1,25 @@
+stat.pickup.minecraft.stone_slab
+1: impulseSV: 18527
+2: MumboJumbo: 16754
+3: cubfan135: 16545
+4: Tango: 14421
+5: falsesymmetry: 14269
+6: Xisuma: 9189
+7: GoodTimeWithScar: 8650
+8: Welsknight: 7257
+9: xBCrafted: 6612
+10: Renthedog: 5311
+11: Zedaph: 3565
+12: PythonGB: 2867
+13: iskall85: 2749
+14: iJevin: 1686
+15: Docm77: 1163
+16: Tinfoilchef: 954
+17: joehillssays: 893
+18: ZombieCleo: 866
+19: Stressmonster101: 600
+20: VintageBeef: 588
+21: Biffa2001: 474
+22: BdoubleO100: 222
+23: Etho: 181
+Total 134343

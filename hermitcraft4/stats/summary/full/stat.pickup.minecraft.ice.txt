@@ -1,0 +1,15 @@
+stat.pickup.minecraft.ice
+1: Tango: 7781
+2: falsesymmetry: 5282
+3: Xisuma: 5022
+4: iskall85: 1659
+5: impulseSV: 1590
+6: cubfan135: 1093
+7: Welsknight: 1073
+8: GoodTimeWithScar: 946
+9: PythonGB: 567
+10: Renthedog: 389
+11: iJevin: 2
+12: joehillssays: 1
+13: MumboJumbo: 1
+Total 25406

@@ -1,0 +1,21 @@
+minecraft.picked_up.dropper
+1: iskall85: 967
+2: impulseSV: 582
+3: Xisuma: 537
+4: GoodTimeWithScar: 355
+5: MumboJumbo: 249
+6: cubfan135: 239
+7: iJevin: 230
+8: ZombieCleo: 106
+9: Docm77: 100
+10: Renthedog: 94
+11: Tango: 83
+12: falsesymmetry: 61
+13: Zedaph: 49
+14: Stressmonster101: 44
+15: Tinfoilchef: 28
+16: Grian: 17
+17: Keralis1: 6
+18: Welsknight: 3
+19: PythonGB: 1
+Total 3751

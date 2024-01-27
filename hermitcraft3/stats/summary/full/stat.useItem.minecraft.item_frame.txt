@@ -1,0 +1,23 @@
+stat.useItem.minecraft.item_frame
+1: falsesymmetry: 943
+2: iJevin: 428
+3: Tango: 423
+4: zueljin: 252
+5: Mumbo: 240
+6: Biffa2001: 159
+7: Xisuma: 156
+8: impulseSV: 137
+9: xBCrafted: 113
+10: ZombieCleo: 75
+11: PythonGB: 72
+12: topmass: 67
+13: Tinfoilchef: 64
+14: sl1pg8r: 63
+15: monkeyfarm: 52
+16: Spumwackles: 34
+17: Docm77: 23
+18: hypnotizd: 19
+19: KingDaddyDMAC: 4
+20: joehillssays: 2
+21: Biffa001: 2
+Total 3328

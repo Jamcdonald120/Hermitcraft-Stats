@@ -1,0 +1,18 @@
+minecraft.picked_up.beetroot
+1: PythonGB: 229
+2: cubfan135: 228
+3: Renthedog: 213
+4: Jessassin: 193
+5: Tinfoilchef: 176
+6: Grian: 106
+7: Tango: 88
+8: Biffa2001: 73
+9: Xisuma: 69
+10: joehillssays: 28
+11: Stressmonster101: 28
+12: falsesymmetry: 23
+13: Zedaph: 22
+14: impulseSV: 15
+15: iJevin: 3
+16: MumboJumbo: 1
+Total 1495

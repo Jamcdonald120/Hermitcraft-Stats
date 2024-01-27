@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.noteblock
+1: Xisuma: 618
+2: impulseSV: 117
+3: Mumbo: 72
+4: Docm77: 39
+5: Etho: 32
+6: sl1pg8r: 24
+7: Tango: 10
+8: iJevin: 2
+Total 914

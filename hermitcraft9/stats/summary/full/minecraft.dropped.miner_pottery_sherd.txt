@@ -1,0 +1,3 @@
+minecraft.dropped.miner_pottery_sherd
+1: Zedaph: 1
+Total 1

@@ -1,0 +1,25 @@
+stat.pickup.minecraft.sand
+1: cubfan135: 313036
+2: impulseSV: 298293
+3: MumboJumbo: 279091
+4: Renthedog: 132089
+5: GoodTimeWithScar: 119665
+6: iskall85: 114181
+7: falsesymmetry: 109800
+8: Xisuma: 43625
+9: Tango: 39739
+10: Stressmonster101: 38207
+11: joehillssays: 22838
+12: PythonGB: 22520
+13: Welsknight: 19761
+14: Zedaph: 17653
+15: xBCrafted: 13609
+16: ZombieCleo: 11917
+17: Tinfoilchef: 7307
+18: BdoubleO100: 7086
+19: Biffa2001: 5551
+20: Docm77: 4772
+21: iJevin: 3960
+22: Etho: 3195
+23: VintageBeef: 1360
+Total 1629255

@@ -1,0 +1,30 @@
+minecraft.picked_up.stone_slab
+1: falsesymmetry: 2919
+2: Grian: 2070
+3: GoodTimeWithScar: 1727
+4: Xisuma: 1722
+5: Zedaph: 1522
+6: Tango: 1425
+7: hypnotizd: 1339
+8: PearlescentMoon: 1244
+9: impulseSV: 1205
+10: Docm77: 923
+11: cubfan135: 810
+12: VintageBeef: 708
+13: joehillssays: 662
+14: Renthedog: 520
+15: Keralis1: 383
+16: iJevin: 364
+17: ZombieCleo: 254
+18: BdoubleO100: 208
+19: GeminiTay: 182
+20: iskall85: 125
+21: xBCrafted: 68
+22: Etho: 44
+23: Stressmonster101: 26
+24: RentheKing: 25
+25: Smallishbeans: 20
+26: MythicalSausage: 14
+27: SolidarityGaming: 2
+28: Mumbo: 1
+Total 20512

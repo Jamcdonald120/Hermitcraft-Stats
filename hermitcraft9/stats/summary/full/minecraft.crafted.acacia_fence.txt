@@ -1,0 +1,13 @@
+minecraft.crafted.acacia_fence
+1: Docm77: 195
+2: PearlescentMoon: 171
+3: Xisuma: 129
+4: Renthedog: 117
+5: GoodTimeWithScar: 105
+6: Keralis1: 48
+7: impulseSV: 33
+8: BdoubleO100: 24
+9: Tango: 21
+10: Zedaph: 18
+11: Grian: 9
+Total 870

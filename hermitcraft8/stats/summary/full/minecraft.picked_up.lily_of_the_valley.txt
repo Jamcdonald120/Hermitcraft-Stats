@@ -1,0 +1,20 @@
+minecraft.picked_up.lily_of_the_valley
+1: ZombieCleo: 1685
+2: Grian: 192
+3: iJevin: 146
+4: joehillssays: 79
+5: GeminiTay: 52
+6: PearlescentMoon: 38
+7: BdoubleO100: 30
+8: cubfan135: 21
+9: xBCrafted: 14
+10: Tango: 10
+11: Stressmonster101: 10
+12: Renthedog: 8
+13: hypnotizd: 7
+14: falsesymmetry: 6
+15: Keralis1: 5
+16: impulseSV: 3
+17: iskall85: 1
+18: Zedaph: 1
+Total 2308

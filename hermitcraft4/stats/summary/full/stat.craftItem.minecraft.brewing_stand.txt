@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.brewing_stand
+1: falsesymmetry: 61
+2: cubfan135: 39
+3: Tango: 28
+4: Xisuma: 21
+5: iJevin: 13
+6: iskall85: 11
+7: MumboJumbo: 11
+8: Tinfoilchef: 10
+9: impulseSV: 7
+10: joehillssays: 5
+11: ZombieCleo: 5
+12: GoodTimeWithScar: 4
+13: VintageBeef: 2
+14: PythonGB: 2
+15: Etho: 2
+16: Welsknight: 1
+Total 222

@@ -1,0 +1,10 @@
+minecraft.picked_up.jungle_wood
+1: Zedaph: 47
+2: falsesymmetry: 31
+3: cubfan135: 25
+4: Xisuma: 24
+5: Tango: 22
+6: Renthedog: 4
+7: BdoubleO100: 2
+8: iskall85: 1
+Total 156

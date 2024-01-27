@@ -1,0 +1,25 @@
+minecraft.mined.birch_planks
+1: impulseSV: 5777
+2: Grian: 2207
+3: ZombieCleo: 657
+4: hypnotizd: 623
+5: Keralis1: 314
+6: Renthedog: 270
+7: Etho: 219
+8: Stressmonster101: 198
+9: Xisuma: 168
+10: VintageBeef: 105
+11: joehillssays: 91
+12: cubfan135: 79
+13: xBCrafted: 37
+14: falsesymmetry: 29
+15: Welsknight: 17
+16: GoodTimeWithScar: 14
+17: iskall85: 10
+18: MumboJumbo: 10
+19: iJevin: 9
+20: Zedaph: 9
+21: Tango: 7
+22: BdoubleO100: 5
+23: Docm77: 1
+Total 10856

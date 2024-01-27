@@ -1,0 +1,4 @@
+minecraft.dropped.stripped_warped_stem
+1: BdoubleO100: 32
+2: GoodTimeWithScar: 1
+Total 33

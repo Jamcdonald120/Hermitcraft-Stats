@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.cobblestone_wall
+1: falsesymmetry: 1428
+2: Xisuma: 1134
+3: xBCrafted: 696
+4: monkeyfarm: 594
+5: impulseSV: 438
+6: Spumwackles: 402
+7: Mumbo: 364
+8: Tango: 345
+9: topmass: 252
+10: zueljin: 210
+11: ZombieCleo: 204
+12: Etho: 180
+13: PythonGB: 126
+14: KingDaddyDMAC: 120
+15: skyzm: 66
+16: hypnotizd: 60
+17: joehillssays: 54
+Total 6673

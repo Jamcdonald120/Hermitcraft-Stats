@@ -1,0 +1,9 @@
+minecraft.dropped.spruce_wood
+1: Renthedog: 15
+2: Keralis1: 11
+3: Tango: 8
+4: Grian: 6
+5: Etho: 3
+6: cubfan135: 1
+7: GoodTimeWithScar: 1
+Total 45

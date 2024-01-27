@@ -1,0 +1,21 @@
+minecraft.picked_up.red_stained_glass
+1: falsesymmetry: 2366
+2: GoodTimeWithScar: 776
+3: iJevin: 421
+4: Grian: 398
+5: Xisuma: 294
+6: Tango: 278
+7: Zedaph: 259
+8: joehillssays: 185
+9: Stressmonster101: 113
+10: impulseSV: 100
+11: Keralis1: 42
+12: PearlescentMoon: 37
+13: Renthedog: 18
+14: ZombieCleo: 17
+15: Etho: 13
+16: cubfan135: 4
+17: RentheKing: 3
+18: Pixlriffs: 2
+19: BdoubleO100: 1
+Total 5327

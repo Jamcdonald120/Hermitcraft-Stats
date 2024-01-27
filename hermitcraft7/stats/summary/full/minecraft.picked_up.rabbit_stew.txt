@@ -1,0 +1,9 @@
+minecraft.picked_up.rabbit_stew
+1: Docm77: 25
+2: falsesymmetry: 3
+3: GoodTimeWithScar: 3
+4: Renthedog: 1
+5: iJevin: 1
+6: cubfan135: 1
+7: impulseSV: 1
+Total 35

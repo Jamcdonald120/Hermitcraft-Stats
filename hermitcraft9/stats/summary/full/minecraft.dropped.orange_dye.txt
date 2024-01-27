@@ -1,0 +1,11 @@
+minecraft.dropped.orange_dye
+1: falsesymmetry: 126
+2: GoodTimeWithScar: 32
+3: Zedaph: 12
+4: Grian: 6
+5: ZombieCleo: 3
+6: iJevin: 2
+7: iskall85: 1
+8: cubfan135: 1
+9: Etho: 1
+Total 184

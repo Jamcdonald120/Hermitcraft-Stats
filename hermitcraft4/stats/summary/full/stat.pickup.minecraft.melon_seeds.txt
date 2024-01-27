@@ -1,0 +1,18 @@
+stat.pickup.minecraft.melon_seeds
+1: MumboJumbo: 231
+2: cubfan135: 42
+3: Xisuma: 36
+4: Welsknight: 35
+5: Renthedog: 32
+6: iskall85: 15
+7: GoodTimeWithScar: 13
+8: Biffa2001: 12
+9: Jessassin: 10
+10: PythonGB: 9
+11: Tinfoilchef: 9
+12: Etho: 8
+13: falsesymmetry: 4
+14: impulseSV: 4
+15: Tango: 2
+16: xBCrafted: 1
+Total 463

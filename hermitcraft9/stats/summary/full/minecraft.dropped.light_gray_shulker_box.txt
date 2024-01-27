@@ -1,0 +1,8 @@
+minecraft.dropped.light_gray_shulker_box
+1: Tango: 24
+2: RentheKing: 3
+3: Xisuma: 2
+4: Renthedog: 1
+5: PearlescentMoon: 1
+6: impulseSV: 1
+Total 32

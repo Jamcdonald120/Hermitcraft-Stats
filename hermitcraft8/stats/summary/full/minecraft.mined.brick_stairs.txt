@@ -1,0 +1,10 @@
+minecraft.mined.brick_stairs
+1: impulseSV: 29
+2: Xisuma: 14
+3: Grian: 13
+4: GoodTimeWithScar: 5
+5: Renthedog: 3
+6: joehillssays: 2
+7: falsesymmetry: 1
+8: Etho: 1
+Total 68

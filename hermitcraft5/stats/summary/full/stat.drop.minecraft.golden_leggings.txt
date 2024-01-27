@@ -1,0 +1,24 @@
+stat.drop.minecraft.golden_leggings
+1: GoodTimeWithScar: 128
+2: Renthedog: 115
+3: iskall85: 105
+4: xBCrafted: 71
+5: Tango: 51
+6: falsesymmetry: 23
+7: Stressmonster101: 16
+8: impulseSV: 11
+9: iJevin: 10
+10: cubfan135: 8
+11: MumboJumbo: 6
+12: Docm77: 5
+13: Xisuma: 5
+14: PythonGB: 4
+15: BdoubleO100: 4
+16: Welsknight: 3
+17: VintageBeef: 2
+18: Tinfoilchef: 2
+19: Zedaph: 2
+20: Biffa2001: 1
+21: Etho: 1
+22: ZombieCleo: 1
+Total 574

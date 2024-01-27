@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.log2
+1: falsesymmetry: 829
+2: Tinfoilchef: 582
+3: xBCrafted: 540
+4: zueljin: 490
+5: Tango: 441
+6: ZombieCleo: 373
+7: KingDaddyDMAC: 152
+8: Biffa2001: 63
+9: sl1pg8r: 39
+10: Xisuma: 9
+Total 3518

@@ -1,0 +1,20 @@
+stat.drop.minecraft.enchanted_book
+1: iJevin: 254
+2: Zedaph: 190
+3: GoodTimeWithScar: 182
+4: MumboJumbo: 155
+5: Xisuma: 39
+6: Tango: 36
+7: impulseSV: 31
+8: Tinfoilchef: 16
+9: iskall85: 11
+10: xBCrafted: 5
+11: cubfan135: 5
+12: PythonGB: 3
+13: Docm77: 1
+14: BdoubleO100: 1
+15: falsesymmetry: 1
+16: Welsknight: 1
+17: Biffa2001: 1
+18: Stressmonster101: 1
+Total 933

@@ -1,0 +1,25 @@
+minecraft.picked_up.potion
+1: impulseSV: 572
+2: Xisuma: 364
+3: iJevin: 323
+4: cubfan135: 261
+5: Tango: 237
+6: Zedaph: 155
+7: iskall85: 127
+8: GoodTimeWithScar: 53
+9: Docm77: 50
+10: falsesymmetry: 46
+11: Biffa2001: 40
+12: PythonGB: 36
+13: Stressmonster101: 36
+14: joehillssays: 33
+15: Grian: 28
+16: Renthedog: 19
+17: MumboJumbo: 19
+18: HumanCleo: 7
+19: Tinfoilchef: 6
+20: ZombieCleo: 3
+21: BdoubleO100: 2
+22: Jessassin: 1
+23: Keralis1: 1
+Total 2419

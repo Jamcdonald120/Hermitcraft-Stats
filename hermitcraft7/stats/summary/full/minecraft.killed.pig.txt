@@ -1,0 +1,26 @@
+minecraft.killed.pig
+1: Keralis1: 511
+2: VintageBeef: 119
+3: iJevin: 118
+4: hypnotizd: 41
+5: GoodTimeWithScar: 34
+6: iskall85: 33
+7: Zedaph: 33
+8: Tango: 31
+9: Grian: 28
+10: Etho: 22
+11: BdoubleO100: 20
+12: Xisuma: 14
+13: Docm77: 10
+14: xBCrafted: 10
+15: cubfan135: 5
+16: MumboJumbo: 5
+17: Renthedog: 4
+18: ZombieCleo: 4
+19: joehillssays: 3
+20: Stressmonster101: 3
+21: falsesymmetry: 2
+22: Welsknight: 2
+23: Tinfoilchef: 1
+24: impulseSV: 1
+Total 1054

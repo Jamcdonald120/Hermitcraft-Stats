@@ -1,0 +1,20 @@
+minecraft.custom.interact_with_smoker
+1: cubfan135: 857
+2: Keralis1: 407
+3: joehillssays: 225
+4: Xisuma: 199
+5: Zedaph: 168
+6: VintageBeef: 70
+7: ZombieCleo: 66
+8: BdoubleO100: 65
+9: xBCrafted: 48
+10: Tango: 29
+11: GoodTimeWithScar: 25
+12: falsesymmetry: 21
+13: Docm77: 13
+14: Renthedog: 9
+15: Etho: 9
+16: impulseSV: 7
+17: Grian: 4
+18: Welsknight: 1
+Total 2223

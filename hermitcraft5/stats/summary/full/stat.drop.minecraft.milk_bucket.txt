@@ -1,0 +1,8 @@
+stat.drop.minecraft.milk_bucket
+1: Tango: 4
+2: impulseSV: 3
+3: cubfan135: 2
+4: Renthedog: 1
+5: xBCrafted: 1
+6: GoodTimeWithScar: 1
+Total 12

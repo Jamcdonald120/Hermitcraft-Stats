@@ -1,0 +1,8 @@
+minecraft.dropped.end_crystal
+1: Grian: 132
+2: MumboJumbo: 66
+3: impulseSV: 62
+4: iskall85: 22
+5: Keralis1: 3
+6: GoodTimeWithScar: 1
+Total 286

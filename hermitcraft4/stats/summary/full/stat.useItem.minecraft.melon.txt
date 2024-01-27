@@ -1,0 +1,16 @@
+stat.useItem.minecraft.melon
+1: cubfan135: 300
+2: iJevin: 185
+3: Renthedog: 124
+4: GoodTimeWithScar: 92
+5: MumboJumbo: 84
+6: Mumbo: 61
+7: iskall85: 59
+8: Jessassin: 42
+9: Welsknight: 35
+10: Xisuma: 17
+11: Biffa2001: 12
+12: falsesymmetry: 11
+13: PythonGB: 7
+14: zueljin: 3
+Total 1032

@@ -1,0 +1,15 @@
+stat.pickup.minecraft.heavy_weighted_pressure_plate
+1: cubfan135: 141
+2: MumboJumbo: 24
+3: Zedaph: 12
+4: Xisuma: 9
+5: iskall85: 9
+6: falsesymmetry: 8
+7: joehillssays: 5
+8: Tango: 5
+9: ZombieCleo: 5
+10: impulseSV: 5
+11: xBCrafted: 2
+12: Renthedog: 1
+13: GoodTimeWithScar: 1
+Total 227

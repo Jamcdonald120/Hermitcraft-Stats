@@ -1,0 +1,4 @@
+stat.killEntity.EvocationIllager
+1: cubfan135: 5
+2: xBCrafted: 2
+Total 7

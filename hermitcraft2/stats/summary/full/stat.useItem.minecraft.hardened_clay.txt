@@ -1,0 +1,4 @@
+stat.useItem.minecraft.hardened_clay
+1: Xisuma: 96
+2: falsesymmetry: 26
+Total 122

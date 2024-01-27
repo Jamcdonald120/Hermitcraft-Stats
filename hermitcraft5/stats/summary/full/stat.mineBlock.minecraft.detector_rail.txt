@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.detector_rail
+1: cubfan135: 101
+2: Docm77: 66
+3: iskall85: 65
+4: MumboJumbo: 25
+5: Zedaph: 22
+6: Tango: 19
+7: impulseSV: 6
+8: Xisuma: 3
+9: Tinfoilchef: 3
+10: Stressmonster101: 3
+11: ZombieCleo: 2
+12: Welsknight: 1
+Total 316

@@ -1,0 +1,19 @@
+minecraft.dropped.stone_pickaxe
+1: GoodTimeWithScar: 40
+2: Xisuma: 10
+3: Zedaph: 6
+4: Tango: 5
+5: iskall85: 4
+6: MumboJumbo: 4
+7: Etho: 3
+8: Renthedog: 2
+9: iJevin: 2
+10: hypnotizd: 2
+11: Stressmonster101: 2
+12: VintageBeef: 1
+13: Grian: 1
+14: BdoubleO100: 1
+15: PearlescentMoon: 1
+16: cubfan135: 1
+17: impulseSV: 1
+Total 86

@@ -1,0 +1,6 @@
+minecraft.dropped.glistering_melon_slice
+1: Zedaph: 149
+2: iskall85: 144
+3: Xisuma: 39
+4: Tango: 1
+Total 333

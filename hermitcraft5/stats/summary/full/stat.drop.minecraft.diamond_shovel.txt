@@ -1,0 +1,18 @@
+stat.drop.minecraft.diamond_shovel
+1: Tango: 21
+2: cubfan135: 14
+3: MumboJumbo: 9
+4: iskall85: 8
+5: impulseSV: 6
+6: Renthedog: 5
+7: Zedaph: 4
+8: Xisuma: 3
+9: falsesymmetry: 3
+10: iJevin: 2
+11: GoodTimeWithScar: 2
+12: VintageBeef: 1
+13: PythonGB: 1
+14: BdoubleO100: 1
+15: Biffa2001: 1
+16: Tinfoilchef: 1
+Total 82

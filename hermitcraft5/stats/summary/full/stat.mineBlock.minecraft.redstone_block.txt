@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.redstone_block
+1: Tango: 505
+2: impulseSV: 391
+3: cubfan135: 346
+4: Xisuma: 256
+5: MumboJumbo: 247
+6: joehillssays: 154
+7: Renthedog: 123
+8: falsesymmetry: 93
+9: iskall85: 88
+10: iJevin: 54
+11: Zedaph: 53
+12: Docm77: 35
+13: xBCrafted: 31
+14: Welsknight: 24
+15: ZombieCleo: 16
+16: Stressmonster101: 9
+17: PythonGB: 8
+18: GoodTimeWithScar: 6
+19: VintageBeef: 2
+20: Etho: 1
+21: Tinfoilchef: 1
+Total 2443

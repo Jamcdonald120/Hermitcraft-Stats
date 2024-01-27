@@ -1,0 +1,13 @@
+stat.useItem.minecraft.stained_glass
+1: Xisuma: 6983
+2: ZombieCleo: 3573
+3: monkeyfarm: 502
+4: Tango: 293
+5: xBCrafted: 128
+6: KingDaddyDMAC: 22
+7: sl1pg8r: 20
+8: falsesymmetry: 11
+9: zueljin: 8
+10: Collen: 8
+11: Biffa2001: 1
+Total 11549

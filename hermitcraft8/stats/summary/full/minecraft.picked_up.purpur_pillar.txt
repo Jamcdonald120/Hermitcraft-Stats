@@ -1,0 +1,19 @@
+minecraft.picked_up.purpur_pillar
+1: Xisuma: 97
+2: cubfan135: 54
+3: Keralis1: 44
+4: GoodTimeWithScar: 42
+5: VintageBeef: 41
+6: Renthedog: 33
+7: Tango: 24
+8: impulseSV: 22
+9: PearlescentMoon: 19
+10: Grian: 17
+11: iJevin: 15
+12: xBCrafted: 14
+13: Docm77: 12
+14: hypnotizd: 12
+15: falsesymmetry: 7
+16: joehillssays: 2
+17: ZombieCleo: 2
+Total 457

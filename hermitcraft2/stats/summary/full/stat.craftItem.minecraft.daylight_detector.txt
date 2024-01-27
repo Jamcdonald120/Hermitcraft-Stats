@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.daylight_detector
+1: Mumbo: 2
+2: sl1pg8r: 1
+Total 3

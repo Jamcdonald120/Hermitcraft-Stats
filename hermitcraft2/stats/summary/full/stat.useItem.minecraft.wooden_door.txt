@@ -1,0 +1,7 @@
+stat.useItem.minecraft.wooden_door
+1: ZombieCleo: 36
+2: Spumwackles: 30
+3: zueljin: 4
+4: joehillssays: 1
+5: Tinfoilchef: 1
+Total 72

@@ -1,0 +1,16 @@
+stat.drop.minecraft.ghast_tear
+1: Tango: 39
+2: impulseSV: 15
+3: cubfan135: 12
+4: Docm77: 9
+5: BdoubleO100: 6
+6: Welsknight: 6
+7: Etho: 5
+8: MumboJumbo: 5
+9: VintageBeef: 4
+10: xBCrafted: 4
+11: iskall85: 2
+12: PythonGB: 1
+13: falsesymmetry: 1
+14: Zedaph: 1
+Total 110

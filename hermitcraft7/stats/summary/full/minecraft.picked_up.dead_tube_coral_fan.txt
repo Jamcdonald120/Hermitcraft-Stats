@@ -1,0 +1,6 @@
+minecraft.picked_up.dead_tube_coral_fan
+1: cubfan135: 3
+2: MumboJumbo: 3
+3: Etho: 2
+4: Stressmonster101: 2
+Total 10

@@ -1,0 +1,37 @@
+minecraft.mined.wall_torch
+1: joehillssays: 1617
+2: Xisuma: 891
+3: Tango: 754
+4: PearlescentMoon: 694
+5: xBCrafted: 680
+6: BdoubleO100: 628
+7: falsesymmetry: 577
+8: GoodTimeWithScar: 570
+9: Keralis1: 467
+10: Renthedog: 458
+11: cubfan135: 320
+12: Zedaph: 299
+13: Docm77: 295
+14: hypnotizd: 290
+15: iskall85: 286
+16: GeminiTay: 258
+17: Grian: 243
+18: Stressmonster101: 212
+19: Etho: 149
+20: iJevin: 148
+21: VintageBeef: 139
+22: ZombieCleo: 130
+23: impulseSV: 126
+24: Mumbo: 80
+25: Tinfoilchef: 78
+26: RentheKing: 69
+27: Welsknight: 54
+28: MumboJumbo: 41
+29: MythicalSausage: 22
+30: Pixlriffs: 21
+31: Smajor1995: 14
+32: Smallishbeans: 5
+33: fWhip: 4
+34: SolidarityGaming: 2
+35: OrionSound: 1
+Total 10622

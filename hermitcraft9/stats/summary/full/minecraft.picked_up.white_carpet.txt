@@ -1,0 +1,24 @@
+minecraft.picked_up.white_carpet
+1: VintageBeef: 25644
+2: impulseSV: 9754
+3: PearlescentMoon: 2326
+4: iJevin: 2065
+5: joehillssays: 751
+6: Zedaph: 397
+7: cubfan135: 239
+8: GoodTimeWithScar: 111
+9: ZombieCleo: 98
+10: Welsknight: 86
+11: falsesymmetry: 47
+12: Xisuma: 45
+13: Keralis1: 34
+14: Renthedog: 27
+15: Tango: 17
+16: iskall85: 14
+17: xBCrafted: 14
+18: Smajor1995: 11
+19: GeminiTay: 8
+20: Grian: 8
+21: Etho: 5
+22: BdoubleO100: 3
+Total 41704

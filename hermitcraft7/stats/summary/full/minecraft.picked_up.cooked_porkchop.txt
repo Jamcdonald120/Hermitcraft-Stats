@@ -1,0 +1,25 @@
+minecraft.picked_up.cooked_porkchop
+1: Xisuma: 3944
+2: Keralis1: 2752
+3: Tango: 1093
+4: joehillssays: 844
+5: Grian: 664
+6: iJevin: 347
+7: xBCrafted: 345
+8: Zedaph: 337
+9: Etho: 335
+10: Docm77: 318
+11: Renthedog: 243
+12: cubfan135: 222
+13: VintageBeef: 193
+14: hypnotizd: 186
+15: BarryBoss1234: 158
+16: GoodTimeWithScar: 134
+17: iskall85: 123
+18: BdoubleO100: 115
+19: impulseSV: 74
+20: MumboJumbo: 48
+21: Welsknight: 13
+22: ZombieCleo: 7
+23: falsesymmetry: 1
+Total 12496

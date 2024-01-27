@@ -1,0 +1,17 @@
+minecraft.dropped.magma_block
+1: Zedaph: 185
+2: iJevin: 84
+3: hypnotizd: 63
+4: Tango: 50
+5: impulseSV: 20
+6: Keralis1: 16
+7: GeminiTay: 14
+8: VintageBeef: 9
+9: cubfan135: 5
+10: Xisuma: 4
+11: Renthedog: 4
+12: PearlescentMoon: 4
+13: Tinfoilchef: 4
+14: xBCrafted: 2
+15: iskall85: 1
+Total 465

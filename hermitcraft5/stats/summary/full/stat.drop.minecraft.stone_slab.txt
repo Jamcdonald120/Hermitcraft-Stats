@@ -1,0 +1,25 @@
+stat.drop.minecraft.stone_slab
+1: Tango: 3466
+2: GoodTimeWithScar: 3273
+3: MumboJumbo: 3147
+4: impulseSV: 3073
+5: Zedaph: 1255
+6: cubfan135: 1166
+7: iskall85: 916
+8: falsesymmetry: 855
+9: Xisuma: 556
+10: xBCrafted: 292
+11: xisumavoid: 254
+12: Renthedog: 105
+13: ZombieCleo: 86
+14: Stressmonster101: 75
+15: joehillssays: 64
+16: PythonGB: 54
+17: Docm77: 47
+18: Welsknight: 12
+19: VintageBeef: 8
+20: BdoubleO100: 8
+21: Etho: 5
+22: Biffa2001: 1
+23: Tinfoilchef: 1
+Total 18719

@@ -1,0 +1,15 @@
+minecraft.used.purple_wool
+1: falsesymmetry: 2126
+2: ZombieCleo: 672
+3: Xisuma: 367
+4: Tango: 254
+5: cubfan135: 109
+6: MumboJumbo: 64
+7: iskall85: 37
+8: Grian: 23
+9: Renthedog: 10
+10: PythonGB: 10
+11: Welsknight: 4
+12: GoodTimeWithScar: 2
+13: impulseSV: 2
+Total 3680

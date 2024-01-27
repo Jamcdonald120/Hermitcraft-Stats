@@ -1,0 +1,5 @@
+minecraft.crafted.waxed_cut_copper_slab
+1: Renthedog: 46
+2: PearlescentMoon: 16
+3: impulseSV: 4
+Total 66

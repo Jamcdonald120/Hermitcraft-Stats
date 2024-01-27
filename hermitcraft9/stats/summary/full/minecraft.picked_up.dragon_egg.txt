@@ -1,0 +1,17 @@
+minecraft.picked_up.dragon_egg
+1: Docm77: 3699
+2: PearlescentMoon: 1211
+3: Grian: 1047
+4: Mumbo: 320
+5: GoodTimeWithScar: 146
+6: Renthedog: 9
+7: cubfan135: 5
+8: iJevin: 4
+9: joehillssays: 2
+10: ZombieCleo: 2
+11: Zedaph: 2
+12: VintageBeef: 1
+13: falsesymmetry: 1
+14: Keralis1: 1
+15: impulseSV: 1
+Total 6451

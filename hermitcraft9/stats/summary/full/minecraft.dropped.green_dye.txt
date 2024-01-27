@@ -1,0 +1,15 @@
+minecraft.dropped.green_dye
+1: Zedaph: 22343
+2: Grian: 972
+3: impulseSV: 633
+4: cubfan135: 577
+5: Etho: 31
+6: RentheKing: 21
+7: GoodTimeWithScar: 11
+8: Tango: 8
+9: Renthedog: 4
+10: Keralis1: 3
+11: ZombieCleo: 2
+12: Smajor1995: 1
+13: MythicalSausage: 1
+Total 24607

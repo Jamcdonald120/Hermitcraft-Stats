@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.heavy_weighted_pressure_plate
+1: cubfan135: 198
+2: MumboJumbo: 10
+3: Xisuma: 8
+4: iskall85: 7
+5: impulseSV: 6
+6: joehillssays: 4
+7: Tango: 3
+8: falsesymmetry: 3
+9: xBCrafted: 2
+10: GoodTimeWithScar: 2
+11: Zedaph: 2
+12: Renthedog: 1
+13: ZombieCleo: 1
+Total 247

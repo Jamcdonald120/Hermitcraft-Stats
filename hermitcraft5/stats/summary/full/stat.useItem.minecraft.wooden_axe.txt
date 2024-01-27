@@ -1,0 +1,13 @@
+stat.useItem.minecraft.wooden_axe
+1: Renthedog: 210
+2: Stressmonster101: 61
+3: iJevin: 58
+4: Zedaph: 56
+5: cubfan135: 48
+6: iskall85: 40
+7: BdoubleO100: 38
+8: GoodTimeWithScar: 35
+9: Biffa2001: 13
+10: VintageBeef: 4
+11: Etho: 3
+Total 566

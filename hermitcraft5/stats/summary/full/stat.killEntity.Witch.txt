@@ -1,0 +1,25 @@
+stat.killEntity.Witch
+1: Xisuma: 76766
+2: cubfan135: 330
+3: Tango: 71
+4: GoodTimeWithScar: 69
+5: impulseSV: 62
+6: Renthedog: 33
+7: falsesymmetry: 30
+8: iskall85: 25
+9: Welsknight: 22
+10: MumboJumbo: 22
+11: PythonGB: 21
+12: xBCrafted: 20
+13: iJevin: 19
+14: Zedaph: 12
+15: Etho: 8
+16: Stressmonster101: 8
+17: VintageBeef: 7
+18: BdoubleO100: 7
+19: ZombieCleo: 7
+20: Tinfoilchef: 5
+21: Docm77: 4
+22: Biffa2001: 3
+23: joehillssays: 1
+Total 77552

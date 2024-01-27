@@ -1,0 +1,25 @@
+minecraft.mined.jungle_leaves
+1: GoodTimeWithScar: 36547
+2: Renthedog: 20179
+3: Xisuma: 13779
+4: Etho: 4109
+5: MumboJumbo: 4097
+6: Grian: 3658
+7: joehillssays: 2895
+8: VintageBeef: 2296
+9: Stressmonster101: 1948
+10: Tango: 1242
+11: hypnotizd: 1074
+12: Keralis1: 1059
+13: BdoubleO100: 1045
+14: cubfan135: 674
+15: iskall85: 550
+16: falsesymmetry: 463
+17: impulseSV: 417
+18: Zedaph: 265
+19: Docm77: 171
+20: xBCrafted: 61
+21: Welsknight: 32
+22: ZombieCleo: 19
+23: iJevin: 3
+Total 96583

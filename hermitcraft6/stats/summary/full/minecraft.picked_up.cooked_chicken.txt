@@ -1,0 +1,28 @@
+minecraft.picked_up.cooked_chicken
+1: GoodTimeWithScar: 2936
+2: Renthedog: 2086
+3: MumboJumbo: 1932
+4: falsesymmetry: 1893
+5: Docm77: 1612
+6: iJevin: 1151
+7: Welsknight: 334
+8: Zedaph: 327
+9: iskall85: 288
+10: cubfan135: 227
+11: Grian: 203
+12: Duke_da_dog: 193
+13: PythonGB: 135
+14: Xisuma: 129
+15: PythonCam: 119
+16: Tango: 96
+17: joehillssays: 86
+18: ZombieCleo: 77
+19: Stressmonster101: 73
+20: Biffa2001: 64
+21: impulseSV: 44
+22: Tinfoilchef: 19
+23: BadTimeWithScar: 11
+24: EvilXisuma: 8
+25: xBCrafted: 5
+26: BdoubleO100: 3
+Total 14051

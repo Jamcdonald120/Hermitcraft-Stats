@@ -1,0 +1,14 @@
+minecraft.picked_up.polished_andesite_stairs
+1: GoodTimeWithScar: 98
+2: xBCrafted: 36
+3: Grian: 30
+4: PearlescentMoon: 24
+5: cubfan135: 18
+6: impulseSV: 18
+7: Tango: 9
+8: BdoubleO100: 7
+9: Xisuma: 4
+10: MumboJumbo: 4
+11: iskall85: 3
+12: Tinfoilchef: 3
+Total 254

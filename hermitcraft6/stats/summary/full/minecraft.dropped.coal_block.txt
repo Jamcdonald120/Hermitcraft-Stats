@@ -1,0 +1,14 @@
+minecraft.dropped.coal_block
+1: Renthedog: 388
+2: ZombieCleo: 85
+3: falsesymmetry: 58
+4: GoodTimeWithScar: 44
+5: Tinfoilchef: 41
+6: Stressmonster101: 41
+7: Grian: 38
+8: Xisuma: 30
+9: Zedaph: 29
+10: cubfan135: 5
+11: iskall85: 4
+12: BdoubleO100: 1
+Total 764

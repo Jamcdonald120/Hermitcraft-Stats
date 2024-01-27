@@ -1,0 +1,28 @@
+minecraft.used.stone_brick_slab
+1: iJevin: 11989
+2: falsesymmetry: 2409
+3: Tango: 1384
+4: impulseSV: 1129
+5: Mumbo: 690
+6: PearlescentMoon: 643
+7: hypnotizd: 534
+8: VintageBeef: 503
+9: Xisuma: 474
+10: iskall85: 468
+11: BdoubleO100: 436
+12: Etho: 435
+13: GeminiTay: 416
+14: Keralis1: 268
+15: ZombieCleo: 244
+16: cubfan135: 208
+17: Grian: 149
+18: Stressmonster101: 106
+19: RentheKing: 30
+20: GoodTimeWithScar: 30
+21: Pixlriffs: 18
+22: MythicalSausage: 15
+23: xBCrafted: 15
+24: Docm77: 12
+25: Renthedog: 3
+26: joehillssays: 2
+Total 22610

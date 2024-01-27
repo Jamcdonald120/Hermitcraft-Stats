@@ -1,0 +1,13 @@
+minecraft.picked_up.mossy_cobblestone_stairs
+1: Zedaph: 137
+2: joehillssays: 30
+3: impulseSV: 16
+4: Keralis1: 12
+5: BdoubleO100: 5
+6: xBCrafted: 4
+7: Tango: 3
+8: iskall85: 3
+9: GoodTimeWithScar: 2
+10: VintageBeef: 1
+11: hypnotizd: 1
+Total 214

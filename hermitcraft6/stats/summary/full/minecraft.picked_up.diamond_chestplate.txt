@@ -1,0 +1,22 @@
+minecraft.picked_up.diamond_chestplate
+1: iskall85: 31
+2: GoodTimeWithScar: 25
+3: iJevin: 23
+4: Tango: 21
+5: PythonGB: 18
+6: cubfan135: 18
+7: Grian: 15
+8: Xisuma: 9
+9: Welsknight: 9
+10: Docm77: 8
+11: falsesymmetry: 7
+12: ZombieCleo: 7
+13: MumboJumbo: 7
+14: Zedaph: 6
+15: BdoubleO100: 4
+16: Biffa2001: 3
+17: Renthedog: 1
+18: PythonCam: 1
+19: Tinfoilchef: 1
+20: impulseSV: 1
+Total 215

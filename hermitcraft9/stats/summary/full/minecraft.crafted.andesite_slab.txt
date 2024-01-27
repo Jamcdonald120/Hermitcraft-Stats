@@ -1,0 +1,21 @@
+minecraft.crafted.andesite_slab
+1: ZombieCleo: 4326
+2: Tango: 1276
+3: Keralis1: 1064
+4: GoodTimeWithScar: 486
+5: Grian: 198
+6: cubfan135: 198
+7: iskall85: 150
+8: impulseSV: 132
+9: iJevin: 84
+10: Docm77: 82
+11: MythicalSausage: 60
+12: falsesymmetry: 36
+13: joehillssays: 32
+14: Xisuma: 28
+15: xBCrafted: 28
+16: VintageBeef: 20
+17: Stressmonster101: 6
+18: BdoubleO100: 2
+19: Zedaph: 2
+Total 8210

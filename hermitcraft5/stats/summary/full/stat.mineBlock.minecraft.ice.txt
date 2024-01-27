@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.ice
+1: GoodTimeWithScar: 28333
+2: impulseSV: 4523
+3: Xisuma: 3313
+4: cubfan135: 3304
+5: Tango: 2602
+6: Renthedog: 2541
+7: Biffa2001: 1866
+8: iskall85: 1709
+9: Zedaph: 1013
+10: Welsknight: 929
+11: falsesymmetry: 472
+12: MumboJumbo: 187
+13: iJevin: 159
+14: ZombieCleo: 62
+15: Docm77: 2
+16: Stressmonster101: 1
+Total 51016

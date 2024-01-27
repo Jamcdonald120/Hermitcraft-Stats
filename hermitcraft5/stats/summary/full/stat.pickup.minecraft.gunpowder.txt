@@ -1,0 +1,26 @@
+stat.pickup.minecraft.gunpowder
+1: iskall85: 9538
+2: cubfan135: 5157
+3: GoodTimeWithScar: 3116
+4: Tango: 2015
+5: Xisuma: 1987
+6: Renthedog: 1438
+7: impulseSV: 1389
+8: Zedaph: 1180
+9: Welsknight: 1009
+10: iJevin: 663
+11: PythonGB: 640
+12: MumboJumbo: 637
+13: falsesymmetry: 430
+14: xBCrafted: 230
+15: Biffa2001: 228
+16: Docm77: 143
+17: Tinfoilchef: 126
+18: Stressmonster101: 116
+19: Etho: 107
+20: VintageBeef: 100
+21: BdoubleO100: 84
+22: ZombieCleo: 80
+23: joehillssays: 71
+24: xisumavoid: 5
+Total 30489

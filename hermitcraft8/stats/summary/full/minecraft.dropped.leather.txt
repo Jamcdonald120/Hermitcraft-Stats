@@ -1,0 +1,20 @@
+minecraft.dropped.leather
+1: Etho: 443
+2: Docm77: 316
+3: Tango: 207
+4: GeminiTay: 99
+5: GoodTimeWithScar: 97
+6: Keralis1: 46
+7: PearlescentMoon: 41
+8: Renthedog: 36
+9: iJevin: 32
+10: impulseSV: 31
+11: hypnotizd: 26
+12: Grian: 6
+13: xBCrafted: 6
+14: cubfan135: 6
+15: Zedaph: 4
+16: BdoubleO100: 2
+17: VintageBeef: 1
+18: ZombieCleo: 1
+Total 1400

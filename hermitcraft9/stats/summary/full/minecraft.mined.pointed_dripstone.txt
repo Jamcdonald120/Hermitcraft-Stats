@@ -1,0 +1,25 @@
+minecraft.mined.pointed_dripstone
+1: Tango: 830
+2: cubfan135: 509
+3: Docm77: 452
+4: BdoubleO100: 190
+5: Etho: 163
+6: Grian: 130
+7: iskall85: 123
+8: hypnotizd: 116
+9: PearlescentMoon: 111
+10: iJevin: 107
+11: GoodTimeWithScar: 67
+12: VintageBeef: 48
+13: ZombieCleo: 48
+14: Xisuma: 41
+15: xBCrafted: 34
+16: falsesymmetry: 32
+17: impulseSV: 15
+18: Mumbo: 13
+19: Renthedog: 10
+20: joehillssays: 9
+21: Zedaph: 7
+22: Keralis1: 4
+23: Stressmonster101: 1
+Total 3060

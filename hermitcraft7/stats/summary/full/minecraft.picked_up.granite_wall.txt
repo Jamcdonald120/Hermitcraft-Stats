@@ -1,0 +1,12 @@
+minecraft.picked_up.granite_wall
+1: cubfan135: 367
+2: xBCrafted: 180
+3: Xisuma: 20
+4: Grian: 17
+5: GoodTimeWithScar: 14
+6: BdoubleO100: 10
+7: VintageBeef: 8
+8: joehillssays: 7
+9: falsesymmetry: 4
+10: Etho: 1
+Total 628

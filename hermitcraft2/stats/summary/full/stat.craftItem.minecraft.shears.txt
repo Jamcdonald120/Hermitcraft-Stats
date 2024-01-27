@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.shears
+1: Tinfoilchef: 81
+2: ZombieCleo: 28
+3: Biffa2001: 17
+4: falsesymmetry: 11
+5: Mumbo: 9
+6: Spumwackles: 6
+7: zueljin: 5
+8: xBCrafted: 2
+9: Xisuma: 1
+10: iJevin: 1
+11: Tango: 1
+12: Collen: 1
+Total 163

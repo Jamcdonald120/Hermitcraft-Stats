@@ -1,0 +1,17 @@
+minecraft.dropped.flint_and_steel
+1: iJevin: 13
+2: Etho: 4
+3: Tango: 3
+4: PearlescentMoon: 3
+5: Keralis1: 3
+6: Xisuma: 2
+7: Docm77: 1
+8: joehillssays: 1
+9: GeminiTay: 1
+10: Grian: 1
+11: falsesymmetry: 1
+12: cubfan135: 1
+13: ZombieCleo: 1
+14: GoodTimeWithScar: 1
+15: Zedaph: 1
+Total 37

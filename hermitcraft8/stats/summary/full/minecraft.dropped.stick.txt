@@ -1,0 +1,28 @@
+minecraft.dropped.stick
+1: cubfan135: 3655
+2: GoodTimeWithScar: 1716
+3: PearlescentMoon: 1479
+4: Grian: 1309
+5: Renthedog: 1252
+6: impulseSV: 1021
+7: iJevin: 796
+8: MumboJumbo: 457
+9: Tango: 321
+10: Welsknight: 297
+11: iskall85: 252
+12: falsesymmetry: 224
+13: joehillssays: 215
+14: Etho: 213
+15: Keralis1: 177
+16: Docm77: 162
+17: xBCrafted: 142
+18: Xisuma: 81
+19: hypnotizd: 74
+20: BdoubleO100: 66
+21: GeminiTay: 60
+22: Stressmonster101: 38
+23: Tinfoilchef: 24
+24: VintageBeef: 10
+25: Zedaph: 8
+26: ZombieCleo: 3
+Total 14052

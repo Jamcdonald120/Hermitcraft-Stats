@@ -1,0 +1,12 @@
+minecraft.picked_up.jungle_sign
+1: iJevin: 249
+2: PearlescentMoon: 29
+3: Grian: 14
+4: BdoubleO100: 14
+5: Renthedog: 4
+6: GoodTimeWithScar: 3
+7: hypnotizd: 2
+8: impulseSV: 2
+9: iskall85: 1
+10: Etho: 1
+Total 319

@@ -1,0 +1,25 @@
+minecraft.picked_up.sea_lantern
+1: iskall85: 19390
+2: cubfan135: 2525
+3: Xisuma: 2056
+4: Docm77: 1697
+5: Grian: 1549
+6: falsesymmetry: 1451
+7: MumboJumbo: 1450
+8: iJevin: 1106
+9: Renthedog: 711
+10: Stressmonster101: 666
+11: PythonGB: 490
+12: Tango: 382
+13: Biffa2001: 292
+14: GoodTimeWithScar: 277
+15: Keralis1: 266
+16: impulseSV: 244
+17: Tinfoilchef: 226
+18: Welsknight: 204
+19: Zedaph: 169
+20: ZombieCleo: 73
+21: BdoubleO100: 37
+22: xBCrafted: 9
+23: joehillssays: 8
+Total 35278

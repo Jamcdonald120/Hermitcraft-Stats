@@ -1,0 +1,10 @@
+minecraft.dropped.dried_kelp_block
+1: cubfan135: 399
+2: Renthedog: 196
+3: Xisuma: 66
+4: Welsknight: 64
+5: Tinfoilchef: 64
+6: GoodTimeWithScar: 9
+7: Tango: 1
+8: falsesymmetry: 1
+Total 800

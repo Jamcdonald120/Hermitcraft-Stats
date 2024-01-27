@@ -1,0 +1,25 @@
+minecraft.mined.white_wool
+1: BdoubleO100: 799
+2: Tango: 431
+3: PearlescentMoon: 119
+4: cubfan135: 85
+5: Zedaph: 82
+6: xBCrafted: 46
+7: Renthedog: 45
+8: Grian: 39
+9: impulseSV: 39
+10: hypnotizd: 35
+11: MumboJumbo: 35
+12: Xisuma: 24
+13: falsesymmetry: 23
+14: GeminiTay: 19
+15: Welsknight: 17
+16: ZombieCleo: 13
+17: GoodTimeWithScar: 7
+18: Docm77: 5
+19: joehillssays: 3
+20: iskall85: 3
+21: Stressmonster101: 3
+22: iJevin: 2
+23: Keralis1: 2
+Total 1876

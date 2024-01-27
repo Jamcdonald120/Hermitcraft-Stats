@@ -1,0 +1,8 @@
+minecraft.picked_up.purple_shulker_box
+1: Renthedog: 101
+2: Xisuma: 92
+3: Stressmonster101: 35
+4: cubfan135: 18
+5: Etho: 13
+6: Grian: 5
+Total 264

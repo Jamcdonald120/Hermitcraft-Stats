@@ -1,0 +1,4 @@
+minecraft.crafted.podzol
+1: VintageBeef: 18
+2: Zedaph: 3
+Total 21

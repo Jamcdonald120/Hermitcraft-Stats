@@ -1,0 +1,24 @@
+stat.useItem.minecraft.redstone_block
+1: Tango: 2400
+2: Xisuma: 2230
+3: impulseSV: 1625
+4: falsesymmetry: 1000
+5: Mumbo: 683
+6: hypnotizd: 471
+7: ZombieCleo: 139
+8: xBCrafted: 115
+9: zueljin: 81
+10: sl1pg8r: 57
+11: topmass: 52
+12: Spumwackles: 48
+13: PythonGB: 26
+14: Biffa2001: 24
+15: KingDaddyDMAC: 20
+16: Tinfoilchef: 20
+17: Etho: 18
+18: Docm77: 12
+19: monkeyfarm: 11
+20: xisumavoid: 5
+21: iJevin: 4
+22: snipepager: 1
+Total 9042

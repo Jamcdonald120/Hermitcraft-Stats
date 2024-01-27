@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.redstone_torch
+1: Spumwackles: 47
+2: sl1pg8r: 33
+3: Mumbo: 26
+4: Xisuma: 18
+5: monkeyfarm: 15
+6: Tango: 14
+7: zueljin: 12
+8: falsesymmetry: 12
+9: ZombieCleo: 8
+10: iJevin: 6
+11: Tinfoilchef: 3
+12: xBCrafted: 2
+Total 196

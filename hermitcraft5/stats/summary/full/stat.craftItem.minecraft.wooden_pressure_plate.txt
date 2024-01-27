@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.wooden_pressure_plate
+1: Renthedog: 3490
+2: Xisuma: 86
+3: cubfan135: 63
+4: Tango: 53
+5: iskall85: 36
+6: Stressmonster101: 27
+7: MumboJumbo: 24
+8: falsesymmetry: 13
+9: Biffa2001: 13
+10: joehillssays: 10
+11: PythonGB: 7
+12: xBCrafted: 7
+13: Docm77: 6
+14: VintageBeef: 4
+15: BdoubleO100: 4
+16: Welsknight: 4
+17: Zedaph: 4
+18: GoodTimeWithScar: 2
+19: impulseSV: 2
+20: iJevin: 1
+21: ZombieCleo: 1
+22: Tinfoilchef: 1
+Total 3858

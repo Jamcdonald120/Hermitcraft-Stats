@@ -1,0 +1,18 @@
+stat.useItem.minecraft.ender_pearl
+1: Tango: 677
+2: sl1pg8r: 544
+3: Xisuma: 446
+4: Spumwackles: 393
+5: zueljin: 379
+6: falsesymmetry: 365
+7: KingDaddyDMAC: 357
+8: Biffa2001: 324
+9: Mumbo: 286
+10: ZombieCleo: 164
+11: monkeyfarm: 93
+12: iJevin: 71
+13: xBCrafted: 47
+14: Tinfoilchef: 40
+15: Pungence: 11
+16: joehillssays: 6
+Total 4203

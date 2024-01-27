@@ -1,0 +1,26 @@
+stat.killEntity.Witch
+1: impulseSV: 91
+2: Tango: 41
+3: xBCrafted: 37
+4: falsesymmetry: 32
+5: Xisuma: 28
+6: zueljin: 17
+7: Biffa2001: 11
+8: topmass: 10
+9: PythonGB: 10
+10: sl1pg8r: 8
+11: Mumbo: 8
+12: hypnotizd: 8
+13: monkeyfarm: 8
+14: iJevin: 7
+15: Spumwackles: 7
+16: Tinfoilchef: 5
+17: Docm77: 4
+18: skyzm: 3
+19: Etho: 3
+20: Pungence: 2
+21: ZombieCleo: 2
+22: Keralis1: 1
+23: NameOfSamuel: 1
+24: Collen: 1
+Total 345

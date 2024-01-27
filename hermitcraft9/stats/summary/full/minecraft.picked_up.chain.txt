@@ -1,0 +1,31 @@
+minecraft.picked_up.chain
+1: iJevin: 678
+2: GoodTimeWithScar: 653
+3: cubfan135: 522
+4: Grian: 482
+5: Tango: 411
+6: falsesymmetry: 370
+7: PearlescentMoon: 337
+8: Renthedog: 277
+9: RentheKing: 236
+10: impulseSV: 224
+11: xBCrafted: 161
+12: Keralis1: 148
+13: Stressmonster101: 104
+14: Docm77: 100
+15: ZombieCleo: 54
+16: BdoubleO100: 53
+17: Xisuma: 45
+18: GeminiTay: 43
+19: joehillssays: 18
+20: MythicalSausage: 12
+21: Zedaph: 10
+22: Etho: 9
+23: OrionSound: 7
+24: SolidarityGaming: 7
+25: fWhip: 6
+26: VintageBeef: 2
+27: Mumbo: 1
+28: hypnotizd: 1
+29: MumboJumbo: 1
+Total 4972

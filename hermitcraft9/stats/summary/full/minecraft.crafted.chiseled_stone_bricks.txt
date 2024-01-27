@@ -1,0 +1,23 @@
+minecraft.crafted.chiseled_stone_bricks
+1: Renthedog: 5196
+2: falsesymmetry: 3764
+3: GeminiTay: 1860
+4: cubfan135: 1539
+5: Grian: 1068
+6: Keralis1: 853
+7: impulseSV: 842
+8: Stressmonster101: 740
+9: Etho: 736
+10: Tango: 282
+11: iskall85: 256
+12: GoodTimeWithScar: 209
+13: RentheKing: 192
+14: Zedaph: 150
+15: iJevin: 134
+16: ZombieCleo: 12
+17: Docm77: 10
+18: VintageBeef: 10
+19: MythicalSausage: 10
+20: Pixlriffs: 4
+21: PearlescentMoon: 2
+Total 17869

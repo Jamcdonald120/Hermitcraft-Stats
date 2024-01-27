@@ -1,0 +1,24 @@
+stat.pickup.minecraft.gold_nugget
+1: impulseSV: 5931
+2: cubfan135: 1060
+3: iskall85: 1009
+4: Tango: 846
+5: Renthedog: 711
+6: MumboJumbo: 259
+7: PythonGB: 130
+8: BdoubleO100: 110
+9: Welsknight: 91
+10: GoodTimeWithScar: 73
+11: Tinfoilchef: 63
+12: falsesymmetry: 56
+13: Zedaph: 41
+14: xBCrafted: 32
+15: Stressmonster101: 29
+16: Xisuma: 28
+17: Docm77: 23
+18: iJevin: 9
+19: Biffa2001: 7
+20: joehillssays: 5
+21: xisumavoid: 2
+22: Etho: 2
+Total 10517

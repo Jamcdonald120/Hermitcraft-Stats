@@ -1,0 +1,20 @@
+minecraft.picked_up.blackstone_stairs
+1: cubfan135: 949
+2: xBCrafted: 230
+3: Zedaph: 225
+4: hypnotizd: 171
+5: iskall85: 76
+6: Xisuma: 71
+7: Etho: 62
+8: joehillssays: 44
+9: Tango: 24
+10: MumboJumbo: 21
+11: Welsknight: 16
+12: falsesymmetry: 15
+13: Keralis1: 8
+14: BdoubleO100: 7
+15: impulseSV: 7
+16: GoodTimeWithScar: 4
+17: iJevin: 3
+18: Renthedog: 1
+Total 1934

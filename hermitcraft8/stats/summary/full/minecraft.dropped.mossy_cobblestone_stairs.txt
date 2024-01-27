@@ -1,0 +1,5 @@
+minecraft.dropped.mossy_cobblestone_stairs
+1: Docm77: 14
+2: cubfan135: 3
+3: iskall85: 1
+Total 18

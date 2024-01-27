@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.bed
+1: GoodTimeWithScar: 47
+2: Renthedog: 43
+3: cubfan135: 34
+4: falsesymmetry: 31
+5: VintageBeef: 27
+6: iskall85: 26
+7: Xisuma: 19
+8: Welsknight: 12
+9: Tango: 11
+10: impulseSV: 10
+11: iJevin: 9
+12: Tinfoilchef: 9
+13: Etho: 6
+14: ZombieCleo: 5
+15: joehillssays: 4
+16: zueljin: 4
+17: Mumbo: 4
+18: Biffa2001: 3
+19: Docm77: 2
+20: PythonGB: 2
+21: MumboJumbo: 2
+22: xBCrafted: 1
+Total 311

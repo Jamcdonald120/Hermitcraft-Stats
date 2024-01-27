@@ -1,0 +1,25 @@
+minecraft.crafted.oak_sign
+1: Keralis1: 1972
+2: falsesymmetry: 645
+3: iskall85: 534
+4: ZombieCleo: 432
+5: Etho: 375
+6: Tango: 372
+7: hypnotizd: 252
+8: Zedaph: 249
+9: joehillssays: 198
+10: Grian: 184
+11: MumboJumbo: 183
+12: iJevin: 174
+13: BdoubleO100: 123
+14: cubfan135: 120
+15: impulseSV: 105
+16: Xisuma: 93
+17: Stressmonster101: 90
+18: VintageBeef: 84
+19: Renthedog: 75
+20: GoodTimeWithScar: 72
+21: Welsknight: 57
+22: Docm77: 24
+23: xBCrafted: 12
+Total 6425

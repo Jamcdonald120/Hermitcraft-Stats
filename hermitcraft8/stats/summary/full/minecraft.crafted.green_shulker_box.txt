@@ -1,0 +1,10 @@
+minecraft.crafted.green_shulker_box
+1: Etho: 84
+2: PearlescentMoon: 9
+3: GeminiTay: 6
+4: Grian: 4
+5: BdoubleO100: 2
+6: Xisuma: 1
+7: Renthedog: 1
+8: cubfan135: 1
+Total 108

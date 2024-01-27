@@ -1,0 +1,26 @@
+minecraft.crafted.iron_helmet
+1: Docm77: 56
+2: MumboJumbo: 54
+3: iskall85: 16
+4: Grian: 12
+5: Xisuma: 11
+6: falsesymmetry: 11
+7: impulseSV: 10
+8: Zedaph: 10
+9: Tango: 9
+10: xBCrafted: 7
+11: joehillssays: 6
+12: cubfan135: 5
+13: VintageBeef: 4
+14: GoodTimeWithScar: 4
+15: Renthedog: 3
+16: BdoubleO100: 3
+17: Etho: 3
+18: ZombieCleo: 2
+19: Keralis1: 2
+20: iJevin: 1
+21: Welsknight: 1
+22: hypnotizd: 1
+23: Tinfoilchef: 1
+24: Stressmonster101: 1
+Total 233

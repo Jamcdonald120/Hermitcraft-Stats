@@ -1,0 +1,23 @@
+stat.useItem.minecraft.baked_potato
+1: falsesymmetry: 2086
+2: Tango: 1931
+3: GoodTimeWithScar: 911
+4: Docm77: 856
+5: PythonGB: 818
+6: Etho: 790
+7: impulseSV: 654
+8: Welsknight: 625
+9: Renthedog: 555
+10: Biffa2001: 462
+11: MumboJumbo: 355
+12: ZombieCleo: 352
+13: iskall85: 319
+14: Jessassin: 258
+15: Tinfoilchef: 250
+16: xBCrafted: 201
+17: joehillssays: 139
+18: iJevin: 95
+19: cubfan135: 92
+20: VintageBeef: 52
+21: Xisuma: 43
+Total 11844

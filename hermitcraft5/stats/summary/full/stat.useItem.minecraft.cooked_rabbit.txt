@@ -1,0 +1,9 @@
+stat.useItem.minecraft.cooked_rabbit
+1: cubfan135: 203
+2: Xisuma: 38
+3: Zedaph: 12
+4: PythonGB: 7
+5: iJevin: 3
+6: GoodTimeWithScar: 3
+7: falsesymmetry: 1
+Total 267

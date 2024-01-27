@@ -1,0 +1,22 @@
+stat.pickup.minecraft.lead
+1: cubfan135: 480
+2: Zedaph: 455
+3: Tango: 125
+4: Stressmonster101: 115
+5: falsesymmetry: 111
+6: Welsknight: 79
+7: impulseSV: 52
+8: xBCrafted: 48
+9: PythonGB: 46
+10: Biffa2001: 35
+11: GoodTimeWithScar: 29
+12: Tinfoilchef: 28
+13: VintageBeef: 22
+14: Xisuma: 19
+15: ZombieCleo: 17
+16: MumboJumbo: 6
+17: iskall85: 4
+18: joehillssays: 3
+19: BdoubleO100: 2
+20: Docm77: 1
+Total 1677

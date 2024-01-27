@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.snow_layer
+1: ZombieCleo: 24001
+2: Spumwackles: 14865
+3: falsesymmetry: 13822
+4: Mumbo: 10098
+5: sl1pg8r: 3823
+6: impulseSV: 3791
+7: Xisuma: 3134
+8: Tango: 2375
+9: Docm77: 854
+10: iJevin: 426
+11: topmass: 375
+12: Biffa2001: 231
+13: xBCrafted: 131
+14: zueljin: 90
+15: Keralis1: 66
+16: monkeyfarm: 44
+17: joehillssays: 33
+18: Tinfoilchef: 17
+19: Mrs_Keralis: 17
+20: skyzm: 3
+21: KingDaddyDMAC: 3
+Total 78199

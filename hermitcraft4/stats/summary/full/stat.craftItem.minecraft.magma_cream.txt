@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.magma_cream
+1: MumboJumbo: 190
+2: Xisuma: 169
+3: impulseSV: 64
+4: Etho: 63
+5: Tinfoilchef: 52
+6: iskall85: 26
+7: Renthedog: 20
+8: cubfan135: 5
+9: falsesymmetry: 3
+10: ZombieCleo: 2
+Total 594

@@ -1,0 +1,5 @@
+minecraft.dropped.jungle_wood
+1: Grian: 97
+2: Etho: 16
+3: BdoubleO100: 4
+Total 117

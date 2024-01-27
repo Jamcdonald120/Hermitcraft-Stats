@@ -1,0 +1,12 @@
+stat.drop.minecraft.gold_ingot
+1: Tango: 76
+2: Xisuma: 36
+3: impulseSV: 31
+4: xisumavoid: 14
+5: iskall85: 11
+6: PythonGB: 8
+7: Renthedog: 7
+8: Docm77: 1
+9: falsesymmetry: 1
+10: cubfan135: 1
+Total 186

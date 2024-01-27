@@ -1,0 +1,7 @@
+minecraft.crafted.gray_glazed_terracotta
+1: Etho: 768
+2: GoodTimeWithScar: 62
+3: Keralis1: 24
+4: VintageBeef: 8
+5: ZombieCleo: 8
+Total 870

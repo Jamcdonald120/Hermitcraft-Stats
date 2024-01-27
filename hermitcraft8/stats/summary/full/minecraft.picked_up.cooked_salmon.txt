@@ -1,0 +1,10 @@
+minecraft.picked_up.cooked_salmon
+1: falsesymmetry: 12
+2: GeminiTay: 6
+3: iskall85: 5
+4: PearlescentMoon: 2
+5: impulseSV: 2
+6: Grian: 1
+7: cubfan135: 1
+8: Etho: 1
+Total 30

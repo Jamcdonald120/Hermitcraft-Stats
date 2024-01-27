@@ -1,0 +1,19 @@
+stat.useItem.minecraft.beacon
+1: Xisuma: 91
+2: cubfan135: 90
+3: falsesymmetry: 83
+4: iskall85: 60
+5: GoodTimeWithScar: 54
+6: MumboJumbo: 34
+7: Renthedog: 32
+8: Tango: 30
+9: Welsknight: 21
+10: impulseSV: 21
+11: Etho: 9
+12: Tinfoilchef: 8
+13: iJevin: 7
+14: joehillssays: 4
+15: PythonGB: 3
+16: Docm77: 2
+17: VintageBeef: 1
+Total 550

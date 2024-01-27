@@ -1,0 +1,4 @@
+minecraft.picked_up.hopper_minecart
+1: Etho: 25
+2: VintageBeef: 1
+Total 26

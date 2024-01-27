@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.diamond_block
+1: Tinfoilchef: 225
+2: Renthedog: 195
+3: GoodTimeWithScar: 94
+4: falsesymmetry: 78
+5: cubfan135: 60
+6: PythonGB: 52
+7: Xisuma: 26
+8: impulseSV: 25
+9: iskall85: 21
+10: Zedaph: 20
+11: Etho: 18
+12: xBCrafted: 14
+13: MumboJumbo: 13
+14: Biffa2001: 11
+15: Welsknight: 9
+16: joehillssays: 6
+Total 867

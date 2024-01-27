@@ -1,0 +1,28 @@
+minecraft.picked_up.ender_chest
+1: cubfan135: 1366
+2: Xisuma: 783
+3: GoodTimeWithScar: 588
+4: Welsknight: 577
+5: PearlescentMoon: 343
+6: BdoubleO100: 327
+7: Docm77: 326
+8: hypnotizd: 224
+9: Tango: 215
+10: Etho: 155
+11: impulseSV: 152
+12: iJevin: 124
+13: xBCrafted: 101
+14: Grian: 100
+15: Renthedog: 71
+16: Keralis1: 58
+17: joehillssays: 31
+18: iskall85: 29
+19: falsesymmetry: 25
+20: Stressmonster101: 18
+21: GeminiTay: 12
+22: Zedaph: 12
+23: MumboJumbo: 7
+24: EvilXisuma: 6
+25: VintageBeef: 4
+26: Tinfoilchef: 3
+Total 5657

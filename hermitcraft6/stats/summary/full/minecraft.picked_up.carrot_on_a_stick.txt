@@ -1,0 +1,9 @@
+minecraft.picked_up.carrot_on_a_stick
+1: Zedaph: 4
+2: Tango: 3
+3: iJevin: 2
+4: cubfan135: 2
+5: Grian: 1
+6: Stressmonster101: 1
+7: Keralis1: 1
+Total 14

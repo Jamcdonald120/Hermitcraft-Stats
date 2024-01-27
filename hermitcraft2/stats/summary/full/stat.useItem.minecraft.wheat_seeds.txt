@@ -1,0 +1,7 @@
+stat.useItem.minecraft.wheat_seeds
+1: Tango: 763
+2: iJevin: 521
+3: falsesymmetry: 455
+4: ZombieCleo: 345
+5: Biffa2001: 316
+Total 2400

@@ -1,0 +1,6 @@
+minecraft.dropped.pink_tulip
+1: Mumbo: 43
+2: Etho: 6
+3: falsesymmetry: 5
+4: BdoubleO100: 3
+Total 57

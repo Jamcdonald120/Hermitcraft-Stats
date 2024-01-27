@@ -1,0 +1,10 @@
+minecraft.crafted.conduit
+1: iJevin: 4
+2: hypnotizd: 4
+3: Xisuma: 2
+4: cubfan135: 2
+5: Grian: 1
+6: xBCrafted: 1
+7: Etho: 1
+8: impulseSV: 1
+Total 16

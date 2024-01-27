@@ -1,0 +1,20 @@
+minecraft.picked_up.lime_shulker_box
+1: iJevin: 2654
+2: Docm77: 253
+3: Renthedog: 196
+4: cubfan135: 149
+5: Etho: 105
+6: Xisuma: 98
+7: joehillssays: 91
+8: MumboJumbo: 71
+9: BdoubleO100: 59
+10: PearlescentMoon: 54
+11: Keralis1: 44
+12: falsesymmetry: 34
+13: ZombieCleo: 33
+14: Grian: 28
+15: impulseSV: 16
+16: Tango: 13
+17: xBCrafted: 5
+18: GoodTimeWithScar: 4
+Total 3907

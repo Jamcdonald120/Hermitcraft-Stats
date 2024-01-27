@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.chorus_fruit_popped
+1: Xisuma: 7170
+2: Renthedog: 5366
+3: falsesymmetry: 1054
+4: Tango: 744
+5: cubfan135: 457
+6: PythonGB: 96
+7: ZombieCleo: 55
+8: impulseSV: 26
+9: Tinfoilchef: 4
+Total 14972

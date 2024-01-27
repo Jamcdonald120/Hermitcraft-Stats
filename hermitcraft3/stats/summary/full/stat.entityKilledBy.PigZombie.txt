@@ -1,0 +1,12 @@
+stat.entityKilledBy.PigZombie
+1: falsesymmetry: 5
+2: Biffa2001: 5
+3: Tinfoilchef: 3
+4: Spumwackles: 3
+5: Xisuma: 2
+6: impulseSV: 2
+7: PythonGB: 1
+8: KingDaddyDMAC: 1
+9: Tango: 1
+10: ZombieCleo: 1
+Total 24

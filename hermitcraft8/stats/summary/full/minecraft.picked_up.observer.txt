@@ -1,0 +1,27 @@
+minecraft.picked_up.observer
+1: Grian: 640
+2: iJevin: 560
+3: impulseSV: 496
+4: cubfan135: 440
+5: Zedaph: 292
+6: Docm77: 223
+7: Etho: 129
+8: Tango: 104
+9: MumboJumbo: 87
+10: Xisuma: 70
+11: GoodTimeWithScar: 65
+12: xBCrafted: 63
+13: GeminiTay: 52
+14: Welsknight: 52
+15: Renthedog: 48
+16: hypnotizd: 46
+17: iskall85: 34
+18: BdoubleO100: 23
+19: VintageBeef: 22
+20: ZombieCleo: 13
+21: falsesymmetry: 10
+22: PearlescentMoon: 7
+23: joehillssays: 3
+24: Stressmonster101: 2
+25: Keralis1: 1
+Total 3482

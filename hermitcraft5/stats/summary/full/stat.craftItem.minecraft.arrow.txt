@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.arrow
+1: iskall85: 552
+2: cubfan135: 250
+3: Renthedog: 188
+4: iJevin: 100
+5: xBCrafted: 52
+6: PythonGB: 49
+7: Stressmonster101: 20
+8: falsesymmetry: 16
+9: impulseSV: 12
+10: Tinfoilchef: 10
+11: Tango: 4
+12: Zedaph: 4
+Total 1257

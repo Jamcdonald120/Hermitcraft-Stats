@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.slime
+1: Xisuma: 1018
+2: falsesymmetry: 748
+3: impulseSV: 543
+4: zueljin: 403
+5: sl1pg8r: 264
+6: Tango: 225
+7: Tinfoilchef: 212
+8: KingDaddyDMAC: 198
+9: ZombieCleo: 174
+10: Mumbo: 141
+11: xBCrafted: 118
+12: monkeyfarm: 45
+13: topmass: 35
+14: Docm77: 19
+15: iJevin: 11
+16: Biffa2001: 10
+17: Spumwackles: 10
+18: hypnotizd: 7
+19: Etho: 5
+20: PythonGB: 2
+Total 4188

@@ -1,0 +1,5 @@
+minecraft.crafted.magenta_carpet
+1: PearlescentMoon: 3
+2: Welsknight: 3
+3: ZombieCleo: 3
+Total 9

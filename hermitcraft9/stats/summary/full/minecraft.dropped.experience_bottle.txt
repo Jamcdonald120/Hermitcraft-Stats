@@ -1,0 +1,12 @@
+minecraft.dropped.experience_bottle
+1: Grian: 1624
+2: cubfan135: 163
+3: iJevin: 127
+4: Etho: 74
+5: Xisuma: 64
+6: iskall85: 64
+7: Zedaph: 64
+8: Tango: 47
+9: Keralis1: 40
+10: GoodTimeWithScar: 1
+Total 2268

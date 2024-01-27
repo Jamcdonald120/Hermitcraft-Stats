@@ -1,0 +1,26 @@
+minecraft.picked_up.leather_helmet
+1: cubfan135: 31
+2: Tango: 30
+3: iskall85: 26
+4: Xisuma: 24
+5: GoodTimeWithScar: 21
+6: Grian: 20
+7: iJevin: 19
+8: impulseSV: 18
+9: joehillssays: 15
+10: Welsknight: 12
+11: Zedaph: 12
+12: falsesymmetry: 11
+13: Biffa2001: 11
+14: ZombieCleo: 9
+15: HumanCleo: 8
+16: Docm77: 6
+17: PythonGB: 6
+18: BdoubleO100: 4
+19: MumboJumbo: 4
+20: Tinfoilchef: 4
+21: Renthedog: 3
+22: Stressmonster101: 3
+23: Duke_da_dog: 2
+24: Keralis1: 2
+Total 301

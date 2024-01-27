@@ -1,0 +1,8 @@
+minecraft.dropped.hay_block
+1: GoodTimeWithScar: 50
+2: cubfan135: 47
+3: Grian: 10
+4: Xisuma: 8
+5: iskall85: 8
+6: iJevin: 4
+Total 127

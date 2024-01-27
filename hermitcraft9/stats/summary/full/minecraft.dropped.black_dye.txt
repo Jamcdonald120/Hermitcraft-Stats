@@ -1,0 +1,15 @@
+minecraft.dropped.black_dye
+1: iJevin: 414
+2: GeminiTay: 352
+3: falsesymmetry: 256
+4: Grian: 63
+5: Keralis1: 49
+6: Xisuma: 41
+7: OrionSound: 16
+8: impulseSV: 12
+9: Zedaph: 9
+10: cubfan135: 7
+11: GoodTimeWithScar: 7
+12: Etho: 4
+13: RentheKing: 3
+Total 1233

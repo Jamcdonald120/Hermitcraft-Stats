@@ -1,0 +1,16 @@
+minecraft.dropped.purpur_pillar
+1: Keralis1: 87
+2: Renthedog: 71
+3: iJevin: 16
+4: Tango: 12
+5: hypnotizd: 9
+6: Zedaph: 7
+7: ZombieCleo: 3
+8: GeminiTay: 2
+9: xBCrafted: 2
+10: Etho: 2
+11: Docm77: 1
+12: VintageBeef: 1
+13: PearlescentMoon: 1
+14: GoodTimeWithScar: 1
+Total 215

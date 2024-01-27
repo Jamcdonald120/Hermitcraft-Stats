@@ -1,0 +1,10 @@
+minecraft.crafted.cherry_stairs
+1: Stressmonster101: 84
+2: Grian: 40
+3: ZombieCleo: 32
+4: GeminiTay: 24
+5: falsesymmetry: 12
+6: GoodTimeWithScar: 4
+7: Keralis1: 4
+8: Zedaph: 4
+Total 204

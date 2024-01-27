@@ -1,0 +1,25 @@
+stat.drop.minecraft.string
+1: MumboJumbo: 1909
+2: iskall85: 778
+3: PythonGB: 659
+4: Zedaph: 590
+5: GoodTimeWithScar: 461
+6: impulseSV: 384
+7: Tango: 288
+8: cubfan135: 244
+9: Xisuma: 167
+10: Renthedog: 136
+11: iJevin: 124
+12: Welsknight: 110
+13: falsesymmetry: 73
+14: BdoubleO100: 48
+15: Stressmonster101: 43
+16: xBCrafted: 38
+17: Tinfoilchef: 22
+18: VintageBeef: 19
+19: Docm77: 8
+20: Etho: 8
+21: Biffa2001: 2
+22: ZombieCleo: 2
+23: joehillssays: 1
+Total 6114

@@ -1,0 +1,17 @@
+minecraft.picked_up.purple_wool
+1: Tango: 1383
+2: iJevin: 770
+3: falsesymmetry: 667
+4: Docm77: 275
+5: PearlescentMoon: 173
+6: VintageBeef: 166
+7: cubfan135: 76
+8: GeminiTay: 65
+9: impulseSV: 32
+10: Xisuma: 9
+11: Renthedog: 4
+12: Grian: 4
+13: GoodTimeWithScar: 2
+14: Zedaph: 2
+15: Stressmonster101: 1
+Total 3629

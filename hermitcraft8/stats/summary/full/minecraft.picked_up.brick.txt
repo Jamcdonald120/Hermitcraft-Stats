@@ -1,0 +1,15 @@
+minecraft.picked_up.brick
+1: joehillssays: 193
+2: Grian: 165
+3: Tango: 132
+4: Xisuma: 101
+5: PearlescentMoon: 76
+6: falsesymmetry: 75
+7: BdoubleO100: 74
+8: Zedaph: 64
+9: GoodTimeWithScar: 63
+10: iJevin: 12
+11: Welsknight: 12
+12: iskall85: 3
+13: Etho: 3
+Total 973

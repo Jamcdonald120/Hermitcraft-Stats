@@ -1,0 +1,20 @@
+stat.useItem.minecraft.wooden_sword
+1: Renthedog: 961
+2: Tinfoilchef: 300
+3: Zedaph: 221
+4: iskall85: 192
+5: PythonGB: 110
+6: Tango: 88
+7: GoodTimeWithScar: 70
+8: iJevin: 63
+9: ZombieCleo: 61
+10: falsesymmetry: 33
+11: Docm77: 30
+12: Xisuma: 22
+13: Etho: 22
+14: impulseSV: 18
+15: cubfan135: 16
+16: Biffa2001: 14
+17: BdoubleO100: 12
+18: Stressmonster101: 10
+Total 2243

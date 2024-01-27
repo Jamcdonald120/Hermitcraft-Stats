@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.cobblestone_wall
+1: Renthedog: 4034
+2: MumboJumbo: 3388
+3: Welsknight: 3000
+4: xBCrafted: 2976
+5: GoodTimeWithScar: 2506
+6: Docm77: 1854
+7: iskall85: 1698
+8: Tango: 1596
+9: impulseSV: 1498
+10: Xisuma: 1296
+11: falsesymmetry: 990
+12: cubfan135: 708
+13: VintageBeef: 606
+14: joehillssays: 564
+15: Tinfoilchef: 516
+16: PythonGB: 432
+17: iJevin: 300
+18: Stressmonster101: 252
+19: BdoubleO100: 156
+20: ZombieCleo: 144
+21: Zedaph: 54
+Total 28568

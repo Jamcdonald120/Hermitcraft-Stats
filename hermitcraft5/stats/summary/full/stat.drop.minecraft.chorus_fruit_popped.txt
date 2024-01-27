@@ -1,0 +1,4 @@
+stat.drop.minecraft.chorus_fruit_popped
+1: falsesymmetry: 5
+2: xisumavoid: 1
+Total 6

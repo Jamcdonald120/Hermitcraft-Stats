@@ -1,0 +1,23 @@
+stat.pickup.minecraft.iron_door
+1: iskall85: 60
+2: cubfan135: 47
+3: xBCrafted: 38
+4: Xisuma: 28
+5: iJevin: 26
+6: impulseSV: 24
+7: Tango: 22
+8: falsesymmetry: 20
+9: Welsknight: 20
+10: MumboJumbo: 14
+11: Zedaph: 13
+12: PythonGB: 10
+13: Biffa2001: 8
+14: VintageBeef: 7
+15: GoodTimeWithScar: 7
+16: Tinfoilchef: 7
+17: Stressmonster101: 5
+18: joehillssays: 4
+19: BdoubleO100: 4
+20: Renthedog: 2
+21: ZombieCleo: 1
+Total 367

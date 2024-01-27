@@ -1,0 +1,16 @@
+minecraft.picked_up.pink_stained_glass
+1: falsesymmetry: 680
+2: Stressmonster101: 384
+3: GeminiTay: 149
+4: PearlescentMoon: 121
+5: joehillssays: 113
+6: Zedaph: 76
+7: impulseSV: 72
+8: Xisuma: 64
+9: Grian: 25
+10: Tango: 5
+11: GoodTimeWithScar: 4
+12: Etho: 3
+13: cubfan135: 2
+14: BdoubleO100: 1
+Total 1699

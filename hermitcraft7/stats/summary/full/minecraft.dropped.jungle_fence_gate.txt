@@ -1,0 +1,8 @@
+minecraft.dropped.jungle_fence_gate
+1: iJevin: 76
+2: GoodTimeWithScar: 24
+3: cubfan135: 11
+4: Grian: 10
+5: hypnotizd: 1
+6: MumboJumbo: 1
+Total 123

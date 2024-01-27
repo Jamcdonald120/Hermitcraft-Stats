@@ -1,0 +1,24 @@
+minecraft.crafted.polished_diorite
+1: Etho: 8664
+2: cubfan135: 4556
+3: Tinfoilchef: 2516
+4: GoodTimeWithScar: 1504
+5: falsesymmetry: 1312
+6: Keralis1: 1284
+7: impulseSV: 768
+8: joehillssays: 524
+9: Grian: 444
+10: xBCrafted: 280
+11: BdoubleO100: 213
+12: Welsknight: 196
+13: MumboJumbo: 152
+14: Tango: 140
+15: VintageBeef: 128
+16: iskall85: 108
+17: Stressmonster101: 64
+18: Helsknight_: 64
+19: Xisuma: 24
+20: iJevin: 24
+21: hypnotizd: 8
+22: Zedaph: 4
+Total 22977

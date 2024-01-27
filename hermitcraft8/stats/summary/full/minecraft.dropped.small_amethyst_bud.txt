@@ -1,0 +1,4 @@
+minecraft.dropped.small_amethyst_bud
+1: cubfan135: 21
+2: iJevin: 4
+Total 25

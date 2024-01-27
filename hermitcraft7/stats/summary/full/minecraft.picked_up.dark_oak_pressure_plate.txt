@@ -1,0 +1,10 @@
+minecraft.picked_up.dark_oak_pressure_plate
+1: Zedaph: 26
+2: cubfan135: 16
+3: Xisuma: 3
+4: Grian: 3
+5: joehillssays: 2
+6: Tango: 1
+7: xBCrafted: 1
+8: Etho: 1
+Total 53

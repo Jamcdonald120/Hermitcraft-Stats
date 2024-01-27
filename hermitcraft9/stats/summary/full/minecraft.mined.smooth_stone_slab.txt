@@ -1,0 +1,27 @@
+minecraft.mined.smooth_stone_slab
+1: Xisuma: 534
+2: GoodTimeWithScar: 454
+3: impulseSV: 444
+4: cubfan135: 366
+5: Mumbo: 188
+6: PearlescentMoon: 186
+7: Grian: 147
+8: Zedaph: 93
+9: Docm77: 90
+10: Tango: 75
+11: VintageBeef: 71
+12: iJevin: 70
+13: iskall85: 43
+14: ZombieCleo: 27
+15: Keralis1: 27
+16: BdoubleO100: 25
+17: Renthedog: 20
+18: MythicalSausage: 12
+19: GeminiTay: 11
+20: Etho: 11
+21: falsesymmetry: 8
+22: hypnotizd: 6
+23: fWhip: 6
+24: Stressmonster101: 2
+25: xBCrafted: 1
+Total 2917

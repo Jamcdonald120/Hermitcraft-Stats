@@ -1,0 +1,24 @@
+minecraft.dropped.chest
+1: Grian: 118
+2: iJevin: 85
+3: Docm77: 81
+4: Xisuma: 58
+5: Renthedog: 31
+6: Zedaph: 26
+7: EvilXisuma: 17
+8: GoodTimeWithScar: 9
+9: cubfan135: 7
+10: Etho: 6
+11: hypnotizd: 6
+12: Tango: 5
+13: falsesymmetry: 5
+14: VintageBeef: 4
+15: BdoubleO100: 4
+16: impulseSV: 4
+17: joehillssays: 3
+18: Welsknight: 2
+19: MumboJumbo: 2
+20: Keralis1: 2
+21: GeminiTay: 1
+22: PearlescentMoon: 1
+Total 477

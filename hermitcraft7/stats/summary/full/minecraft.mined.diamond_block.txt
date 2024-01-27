@@ -1,0 +1,25 @@
+minecraft.mined.diamond_block
+1: Grian: 2020
+2: iskall85: 1386
+3: GoodTimeWithScar: 1025
+4: cubfan135: 537
+5: iJevin: 527
+6: Xisuma: 499
+7: BdoubleO100: 443
+8: Docm77: 302
+9: xBCrafted: 260
+10: Keralis1: 194
+11: MumboJumbo: 175
+12: Etho: 140
+13: impulseSV: 130
+14: ZombieCleo: 118
+15: Renthedog: 116
+16: Tango: 59
+17: falsesymmetry: 24
+18: VintageBeef: 21
+19: hypnotizd: 18
+20: Welsknight: 8
+21: Stressmonster101: 3
+22: Zedaph: 2
+23: joehillssays: 1
+Total 8008

@@ -1,0 +1,11 @@
+minecraft.dropped.light_gray_dye
+1: falsesymmetry: 244
+2: GoodTimeWithScar: 67
+3: Grian: 60
+4: iJevin: 37
+5: Etho: 11
+6: ZombieCleo: 3
+7: Zedaph: 3
+8: BdoubleO100: 2
+9: Keralis1: 2
+Total 429

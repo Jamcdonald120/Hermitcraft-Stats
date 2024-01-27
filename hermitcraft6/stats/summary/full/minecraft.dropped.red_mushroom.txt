@@ -1,0 +1,21 @@
+minecraft.dropped.red_mushroom
+1: iskall85: 350
+2: Grian: 29
+3: MumboJumbo: 29
+4: GoodTimeWithScar: 26
+5: cubfan135: 19
+6: Xisuma: 18
+7: Renthedog: 18
+8: Docm77: 16
+9: Tinfoilchef: 9
+10: BdoubleO100: 6
+11: falsesymmetry: 6
+12: Stressmonster101: 6
+13: Biffa2001: 5
+14: PythonGB: 4
+15: Welsknight: 4
+16: iJevin: 2
+17: Tango: 2
+18: joehillssays: 1
+19: ZombieCleo: 1
+Total 551

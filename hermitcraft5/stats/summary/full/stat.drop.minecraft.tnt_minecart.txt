@@ -1,0 +1,4 @@
+stat.drop.minecraft.tnt_minecart
+1: PythonGB: 13
+2: cubfan135: 2
+Total 15

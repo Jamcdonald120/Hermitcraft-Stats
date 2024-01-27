@@ -1,0 +1,26 @@
+minecraft.mined.slime_block
+1: Docm77: 11339
+2: cubfan135: 841
+3: impulseSV: 666
+4: joehillssays: 607
+5: GoodTimeWithScar: 367
+6: Keralis1: 305
+7: Xisuma: 282
+8: Tango: 197
+9: Renthedog: 188
+10: iskall85: 145
+11: iJevin: 105
+12: PearlescentMoon: 93
+13: Zedaph: 73
+14: Grian: 72
+15: Mumbo: 45
+16: xBCrafted: 41
+17: ZombieCleo: 22
+18: Etho: 17
+19: hypnotizd: 13
+20: Pixlriffs: 9
+21: VintageBeef: 6
+22: falsesymmetry: 6
+23: BdoubleO100: 1
+24: RentheKing: 1
+Total 15441

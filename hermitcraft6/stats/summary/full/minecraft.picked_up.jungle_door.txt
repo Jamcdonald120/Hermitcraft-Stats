@@ -1,0 +1,8 @@
+minecraft.picked_up.jungle_door
+1: Tango: 1471
+2: Xisuma: 21
+3: cubfan135: 11
+4: falsesymmetry: 8
+5: impulseSV: 7
+6: iskall85: 1
+Total 1519

@@ -1,0 +1,23 @@
+minecraft.crafted.glowstone
+1: Xisuma: 14201
+2: Etho: 10135
+3: Grian: 5692
+4: Tango: 4505
+5: cubfan135: 3572
+6: impulseSV: 862
+7: xBCrafted: 564
+8: iskall85: 340
+9: Stressmonster101: 229
+10: hypnotizd: 124
+11: MumboJumbo: 63
+12: Renthedog: 58
+13: GoodTimeWithScar: 48
+14: joehillssays: 30
+15: iJevin: 23
+16: VintageBeef: 21
+17: Zedaph: 12
+18: Docm77: 5
+19: BdoubleO100: 2
+20: Keralis1: 2
+21: Welsknight: 1
+Total 40489

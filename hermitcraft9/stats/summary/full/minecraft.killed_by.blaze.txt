@@ -1,0 +1,5 @@
+minecraft.killed_by.blaze
+1: Tango: 3
+2: impulseSV: 3
+3: Zedaph: 1
+Total 7

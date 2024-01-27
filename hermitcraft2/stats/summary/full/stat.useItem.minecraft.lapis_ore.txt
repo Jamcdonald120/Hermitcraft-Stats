@@ -1,0 +1,9 @@
+stat.useItem.minecraft.lapis_ore
+1: Xisuma: 290
+2: Tango: 81
+3: KingDaddyDMAC: 15
+4: falsesymmetry: 15
+5: Mumbo: 9
+6: iJevin: 5
+7: monkeyfarm: 1
+Total 416

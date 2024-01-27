@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.monster_egg
+1: Welsknight: 149
+2: Tinfoilchef: 55
+3: iskall85: 43
+4: GoodTimeWithScar: 43
+5: Xisuma: 19
+6: Renthedog: 13
+7: cubfan135: 10
+8: PythonGB: 8
+9: VintageBeef: 4
+10: iJevin: 2
+11: ZombieCleo: 2
+12: joehillssays: 1
+Total 349

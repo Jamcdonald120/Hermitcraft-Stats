@@ -1,0 +1,24 @@
+minecraft.crafted.wooden_pickaxe
+1: iJevin: 4
+2: iskall85: 3
+3: PearlescentMoon: 2
+4: cubfan135: 2
+5: MumboJumbo: 2
+6: Docm77: 1
+7: Xisuma: 1
+8: Renthedog: 1
+9: joehillssays: 1
+10: GeminiTay: 1
+11: Grian: 1
+12: Tango: 1
+13: xBCrafted: 1
+14: falsesymmetry: 1
+15: Welsknight: 1
+16: Etho: 1
+17: ZombieCleo: 1
+18: hypnotizd: 1
+19: GoodTimeWithScar: 1
+20: Stressmonster101: 1
+21: impulseSV: 1
+22: Zedaph: 1
+Total 30

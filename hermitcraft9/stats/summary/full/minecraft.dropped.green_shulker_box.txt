@@ -1,0 +1,12 @@
+minecraft.dropped.green_shulker_box
+1: Zedaph: 20
+2: PearlescentMoon: 3
+3: Xisuma: 1
+4: Renthedog: 1
+5: iJevin: 1
+6: Grian: 1
+7: Tango: 1
+8: BdoubleO100: 1
+9: cubfan135: 1
+10: RentheKing: 1
+Total 31

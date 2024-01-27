@@ -1,0 +1,7 @@
+minecraft.mined.yellow_carpet
+1: impulseSV: 11
+2: PearlescentMoon: 5
+3: joehillssays: 4
+4: falsesymmetry: 2
+5: cubfan135: 1
+Total 23

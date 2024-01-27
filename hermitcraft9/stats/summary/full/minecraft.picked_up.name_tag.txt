@@ -1,0 +1,24 @@
+minecraft.picked_up.name_tag
+1: Grian: 2002
+2: Zedaph: 117
+3: impulseSV: 84
+4: iJevin: 55
+5: Tango: 41
+6: PearlescentMoon: 40
+7: falsesymmetry: 31
+8: cubfan135: 25
+9: iskall85: 18
+10: GoodTimeWithScar: 11
+11: Docm77: 10
+12: Renthedog: 10
+13: hypnotizd: 9
+14: xBCrafted: 8
+15: Etho: 6
+16: joehillssays: 3
+17: VintageBeef: 2
+18: BdoubleO100: 2
+19: Keralis1: 2
+20: Xisuma: 1
+21: ZombieCleo: 1
+22: Mumbo: 1
+Total 2479

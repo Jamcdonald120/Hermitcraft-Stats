@@ -1,0 +1,21 @@
+minecraft.picked_up.wooden_axe
+1: Tango: 45
+2: PearlescentMoon: 38
+3: GeminiTay: 27
+4: Etho: 20
+5: impulseSV: 13
+6: joehillssays: 3
+7: falsesymmetry: 3
+8: cubfan135: 3
+9: ZombieCleo: 3
+10: VintageBeef: 2
+11: Grian: 2
+12: Pixlriffs: 2
+13: Zedaph: 2
+14: Docm77: 1
+15: Xisuma: 1
+16: BdoubleO100: 1
+17: iskall85: 1
+18: Stressmonster101: 1
+19: Keralis1: 1
+Total 169

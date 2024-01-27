@@ -1,0 +1,32 @@
+minecraft.custom.damage_taken
+1: GoodTimeWithScar: 997037
+2: Grian: 869388
+3: impulseSV: 692018
+4: Keralis1: 615535
+5: joehillssays: 573768
+6: Etho: 553021
+7: Renthedog: 464681
+8: Tango: 447656
+9: cubfan135: 410462
+10: iskall85: 410296
+11: Xisuma: 377197
+12: iJevin: 304102
+13: falsesymmetry: 296841
+14: MumboJumbo: 247806
+15: Zedaph: 223363
+16: Docm77: 195582
+17: VintageBeef: 162179
+18: BdoubleO100: 155415
+19: xBCrafted: 139459
+20: hypnotizd: 128797
+21: ZombieCleo: 88832
+22: Stressmonster101: 77943
+23: Welsknight: 54101
+24: Tinfoilchef: 9191
+25: BarryBoss1234: 3976
+26: TangoCam: 1990
+27: BadTimeWithScar: 280
+28: xisumavoid: 110
+29: HermitcraftAlt: 40
+30: Helsknight_: 30
+Total 8501096

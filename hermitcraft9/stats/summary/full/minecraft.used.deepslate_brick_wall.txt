@@ -1,0 +1,22 @@
+minecraft.used.deepslate_brick_wall
+1: Tango: 3970
+2: impulseSV: 1686
+3: xBCrafted: 1236
+4: Mumbo: 569
+5: Docm77: 407
+6: PearlescentMoon: 388
+7: Zedaph: 165
+8: RentheKing: 113
+9: iJevin: 71
+10: cubfan135: 69
+11: falsesymmetry: 57
+12: GoodTimeWithScar: 52
+13: joehillssays: 36
+14: BdoubleO100: 21
+15: hypnotizd: 5
+16: GeminiTay: 4
+17: Keralis1: 3
+18: Xisuma: 2
+19: Grian: 2
+20: ZombieCleo: 2
+Total 8858

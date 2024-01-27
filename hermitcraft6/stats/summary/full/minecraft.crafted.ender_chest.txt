@@ -1,0 +1,22 @@
+minecraft.crafted.ender_chest
+1: cubfan135: 89
+2: falsesymmetry: 41
+3: GoodTimeWithScar: 38
+4: Stressmonster101: 35
+5: iskall85: 34
+6: Docm77: 29
+7: Tango: 25
+8: Grian: 21
+9: Xisuma: 20
+10: iJevin: 19
+11: impulseSV: 17
+12: Renthedog: 16
+13: Zedaph: 15
+14: Welsknight: 13
+15: Biffa2001: 13
+16: joehillssays: 12
+17: MumboJumbo: 11
+18: Tinfoilchef: 8
+19: ZombieCleo: 3
+20: Keralis1: 1
+Total 460

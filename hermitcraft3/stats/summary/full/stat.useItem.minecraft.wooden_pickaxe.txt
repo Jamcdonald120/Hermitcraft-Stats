@@ -1,0 +1,22 @@
+stat.useItem.minecraft.wooden_pickaxe
+1: Tinfoilchef: 70
+2: NameOfSamuel: 60
+3: zueljin: 55
+4: monkeyfarm: 43
+5: iJevin: 38
+6: Biffa2001: 33
+7: hypnotizd: 30
+8: Pungence: 27
+9: Collen: 21
+10: falsesymmetry: 19
+11: Keralis1: 18
+12: xBCrafted: 17
+13: sl1pg8r: 16
+14: Xisuma: 15
+15: topmass: 15
+16: Tango: 14
+17: Spumwackles: 11
+18: joehillssays: 6
+19: KingDaddyDMAC: 6
+20: Mumbo: 4
+Total 518

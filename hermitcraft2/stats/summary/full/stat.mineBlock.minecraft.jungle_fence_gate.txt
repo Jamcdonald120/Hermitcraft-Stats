@@ -1,0 +1,3 @@
+stat.mineBlock.minecraft.jungle_fence_gate
+1: falsesymmetry: 5
+Total 5

@@ -1,0 +1,23 @@
+minecraft.dropped.orange_terracotta
+1: Zedaph: 1307
+2: Grian: 985
+3: Tango: 455
+4: GoodTimeWithScar: 386
+5: MumboJumbo: 297
+6: Renthedog: 288
+7: falsesymmetry: 157
+8: BdoubleO100: 73
+9: Keralis1: 71
+10: VintageBeef: 36
+11: Etho: 30
+12: Xisuma: 25
+13: iskall85: 24
+14: cubfan135: 15
+15: impulseSV: 9
+16: Docm77: 4
+17: joehillssays: 3
+18: Stressmonster101: 3
+19: xBCrafted: 1
+20: ZombieCleo: 1
+21: hypnotizd: 1
+Total 4171

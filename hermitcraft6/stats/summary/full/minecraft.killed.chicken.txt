@@ -1,0 +1,27 @@
+minecraft.killed.chicken
+1: ZombieCleo: 552
+2: Grian: 456
+3: Renthedog: 410
+4: GoodTimeWithScar: 250
+5: Stressmonster101: 231
+6: falsesymmetry: 198
+7: MumboJumbo: 198
+8: Tango: 133
+9: Zedaph: 117
+10: Xisuma: 98
+11: cubfan135: 92
+12: impulseSV: 88
+13: iskall85: 69
+14: Jessassin: 59
+15: iJevin: 57
+16: Biffa2001: 52
+17: Docm77: 47
+18: Tinfoilchef: 41
+19: joehillssays: 19
+20: EvilXisuma: 8
+21: Welsknight: 8
+22: BdoubleO100: 6
+23: PythonGB: 5
+24: BadTimeWithScar: 4
+25: Duke_da_dog: 2
+Total 3200

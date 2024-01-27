@@ -1,0 +1,5 @@
+stat.useItem.minecraft.wooden_pickaxe
+1: Xisuma: 18
+2: sl1pg8r: 12
+3: Spumwackles: 3
+Total 33

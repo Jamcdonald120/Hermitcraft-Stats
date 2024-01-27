@@ -1,0 +1,26 @@
+stat.pickup.minecraft.iron_ingot
+1: Tango: 822217
+2: xisumavoid: 22223
+3: impulseSV: 7916
+4: Xisuma: 2072
+5: VintageBeef: 1799
+6: Renthedog: 1571
+7: iskall85: 1569
+8: Welsknight: 1487
+9: iJevin: 1397
+10: cubfan135: 1146
+11: falsesymmetry: 1027
+12: GoodTimeWithScar: 805
+13: ZombieCleo: 620
+14: MumboJumbo: 556
+15: Etho: 319
+16: Tinfoilchef: 198
+17: Docm77: 126
+18: Biffa2001: 109
+19: joehillssays: 92
+20: PythonGB: 70
+21: zueljin: 53
+22: Jessassin: 4
+23: xBCrafted: 3
+24: Mumbo: 1
+Total 867380

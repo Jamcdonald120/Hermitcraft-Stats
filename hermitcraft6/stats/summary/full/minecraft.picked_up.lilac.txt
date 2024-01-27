@@ -1,0 +1,24 @@
+minecraft.picked_up.lilac
+1: Docm77: 688
+2: falsesymmetry: 388
+3: GoodTimeWithScar: 354
+4: Renthedog: 293
+5: Grian: 289
+6: Stressmonster101: 216
+7: cubfan135: 214
+8: Xisuma: 94
+9: Zedaph: 54
+10: BdoubleO100: 47
+11: impulseSV: 47
+12: Biffa2001: 38
+13: joehillssays: 26
+14: Welsknight: 17
+15: iskall85: 13
+16: Tango: 5
+17: PythonGB: 3
+18: iJevin: 3
+19: ZombieCleo: 2
+20: MumboJumbo: 2
+21: Jura_Whitey: 1
+22: Cojomax99: 1
+Total 2795

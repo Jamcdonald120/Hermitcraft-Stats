@@ -1,0 +1,25 @@
+minecraft.picked_up.azalea
+1: cubfan135: 2232
+2: Renthedog: 1459
+3: Etho: 1112
+4: GeminiTay: 962
+5: PearlescentMoon: 917
+6: iskall85: 555
+7: GoodTimeWithScar: 460
+8: Grian: 446
+9: impulseSV: 432
+10: Xisuma: 401
+11: MumboJumbo: 300
+12: falsesymmetry: 214
+13: Keralis1: 195
+14: hypnotizd: 193
+15: iJevin: 192
+16: BdoubleO100: 147
+17: ZombieCleo: 147
+18: joehillssays: 126
+19: Tango: 84
+20: Docm77: 45
+21: xBCrafted: 45
+22: Stressmonster101: 38
+23: Zedaph: 12
+Total 10714

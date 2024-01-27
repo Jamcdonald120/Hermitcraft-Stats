@@ -1,0 +1,20 @@
+stat.useItem.minecraft.slime
+1: impulseSV: 19328
+2: cubfan135: 5547
+3: GoodTimeWithScar: 2217
+4: Tango: 1529
+5: MumboJumbo: 1223
+6: Renthedog: 1049
+7: Xisuma: 833
+8: iskall85: 731
+9: iJevin: 637
+10: Welsknight: 410
+11: falsesymmetry: 182
+12: Docm77: 109
+13: Tinfoilchef: 82
+14: Zedaph: 79
+15: xBCrafted: 40
+16: ZombieCleo: 23
+17: PythonGB: 8
+18: xisumavoid: 1
+Total 34028

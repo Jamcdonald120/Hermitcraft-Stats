@@ -1,0 +1,9 @@
+minecraft.dropped.spruce_door
+1: Tango: 20
+2: GoodTimeWithScar: 6
+3: Grian: 2
+4: BdoubleO100: 2
+5: iskall85: 2
+6: Xisuma: 1
+7: Keralis1: 1
+Total 34

@@ -1,0 +1,19 @@
+minecraft.dropped.chain
+1: falsesymmetry: 277
+2: Tango: 269
+3: GoodTimeWithScar: 122
+4: Keralis1: 91
+5: impulseSV: 79
+6: iJevin: 69
+7: RentheKing: 49
+8: Grian: 46
+9: Renthedog: 45
+10: cubfan135: 36
+11: Docm77: 35
+12: Zedaph: 35
+13: BdoubleO100: 33
+14: fWhip: 18
+15: OrionSound: 7
+16: Etho: 2
+17: ZombieCleo: 1
+Total 1214

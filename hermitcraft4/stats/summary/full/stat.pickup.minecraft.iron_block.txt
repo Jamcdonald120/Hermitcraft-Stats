@@ -1,0 +1,22 @@
+stat.pickup.minecraft.iron_block
+1: Tango: 10723
+2: iskall85: 7798
+3: impulseSV: 7384
+4: falsesymmetry: 6356
+5: cubfan135: 5861
+6: MumboJumbo: 5632
+7: Xisuma: 4652
+8: Renthedog: 4262
+9: GoodTimeWithScar: 2430
+10: Welsknight: 2097
+11: iJevin: 1058
+12: Tinfoilchef: 764
+13: zueljin: 642
+14: joehillssays: 549
+15: Etho: 475
+16: VintageBeef: 396
+17: Docm77: 329
+18: PythonGB: 225
+19: Biffa2001: 128
+20: ZombieCleo: 7
+Total 61768

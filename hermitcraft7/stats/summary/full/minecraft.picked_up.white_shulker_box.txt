@@ -1,0 +1,24 @@
+minecraft.picked_up.white_shulker_box
+1: cubfan135: 1633
+2: Tango: 917
+3: Xisuma: 433
+4: hypnotizd: 374
+5: BdoubleO100: 278
+6: iskall85: 213
+7: MumboJumbo: 174
+8: Renthedog: 170
+9: Etho: 163
+10: Keralis1: 156
+11: Grian: 137
+12: falsesymmetry: 110
+13: Stressmonster101: 101
+14: GoodTimeWithScar: 89
+15: joehillssays: 77
+16: Welsknight: 73
+17: Zedaph: 71
+18: Docm77: 49
+19: VintageBeef: 30
+20: impulseSV: 26
+21: xBCrafted: 17
+22: iJevin: 13
+Total 5304

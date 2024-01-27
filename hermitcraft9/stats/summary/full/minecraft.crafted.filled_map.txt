@@ -1,0 +1,19 @@
+minecraft.crafted.filled_map
+1: VintageBeef: 21275
+2: Grian: 1448
+3: xBCrafted: 664
+4: cubfan135: 631
+5: joehillssays: 139
+6: ZombieCleo: 82
+7: Keralis1: 62
+8: impulseSV: 58
+9: falsesymmetry: 48
+10: Xisuma: 34
+11: Tango: 28
+12: RentheKing: 23
+13: GeminiTay: 14
+14: Renthedog: 4
+15: iJevin: 4
+16: Zedaph: 3
+17: PearlescentMoon: 2
+Total 24519

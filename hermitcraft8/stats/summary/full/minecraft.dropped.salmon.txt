@@ -1,0 +1,14 @@
+minecraft.dropped.salmon
+1: Etho: 20
+2: BdoubleO100: 10
+3: iskall85: 6
+4: Grian: 4
+5: Docm77: 3
+6: Xisuma: 2
+7: hypnotizd: 2
+8: iJevin: 1
+9: Tango: 1
+10: MumboJumbo: 1
+11: GoodTimeWithScar: 1
+12: impulseSV: 1
+Total 52

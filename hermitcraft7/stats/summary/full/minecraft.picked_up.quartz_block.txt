@@ -1,0 +1,24 @@
+minecraft.picked_up.quartz_block
+1: Etho: 3981
+2: impulseSV: 3513
+3: Zedaph: 3048
+4: Keralis1: 2260
+5: GoodTimeWithScar: 1797
+6: Grian: 1371
+7: cubfan135: 1000
+8: BdoubleO100: 863
+9: Tango: 470
+10: Xisuma: 230
+11: MumboJumbo: 226
+12: VintageBeef: 177
+13: joehillssays: 125
+14: falsesymmetry: 105
+15: ZombieCleo: 85
+16: Renthedog: 74
+17: Docm77: 32
+18: iskall85: 32
+19: Stressmonster101: 20
+20: iJevin: 10
+21: xBCrafted: 4
+22: HermitcraftAlt: 1
+Total 19424

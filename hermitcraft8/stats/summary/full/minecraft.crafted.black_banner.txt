@@ -1,0 +1,10 @@
+minecraft.crafted.black_banner
+1: Keralis1: 70
+2: Xisuma: 40
+3: Tango: 22
+4: Docm77: 10
+5: MumboJumbo: 3
+6: BdoubleO100: 1
+7: cubfan135: 1
+8: impulseSV: 1
+Total 148

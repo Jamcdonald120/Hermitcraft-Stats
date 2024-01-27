@@ -1,0 +1,21 @@
+minecraft.picked_up.jungle_planks
+1: VintageBeef: 5894
+2: PearlescentMoon: 1310
+3: joehillssays: 674
+4: GoodTimeWithScar: 572
+5: falsesymmetry: 214
+6: Zedaph: 208
+7: Smajor1995: 172
+8: Keralis1: 132
+9: Renthedog: 131
+10: iJevin: 83
+11: Docm77: 71
+12: SolidarityGaming: 63
+13: cubfan135: 48
+14: Xisuma: 40
+15: Etho: 35
+16: Grian: 24
+17: iskall85: 4
+18: impulseSV: 4
+19: ZombieCleo: 1
+Total 9680

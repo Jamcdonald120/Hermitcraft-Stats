@@ -1,0 +1,25 @@
+minecraft.mined.iron_door
+1: Keralis1: 186
+2: impulseSV: 92
+3: cubfan135: 45
+4: Grian: 41
+5: GoodTimeWithScar: 38
+6: Xisuma: 29
+7: PearlescentMoon: 22
+8: Tango: 21
+9: xBCrafted: 21
+10: Docm77: 17
+11: RentheKing: 17
+12: iJevin: 15
+13: Renthedog: 13
+14: ZombieCleo: 7
+15: BdoubleO100: 6
+16: iskall85: 5
+17: joehillssays: 3
+18: falsesymmetry: 3
+19: Stressmonster101: 3
+20: VintageBeef: 2
+21: MythicalSausage: 1
+22: Mumbo: 1
+23: MumboJumbo: 1
+Total 589

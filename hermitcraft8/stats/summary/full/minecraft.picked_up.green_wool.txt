@@ -1,0 +1,16 @@
+minecraft.picked_up.green_wool
+1: Grian: 2250
+2: GoodTimeWithScar: 1109
+3: Zedaph: 414
+4: PearlescentMoon: 150
+5: GeminiTay: 71
+6: cubfan135: 59
+7: BdoubleO100: 40
+8: Keralis1: 31
+9: Welsknight: 28
+10: Xisuma: 5
+11: falsesymmetry: 4
+12: MumboJumbo: 3
+13: Renthedog: 2
+14: ZombieCleo: 2
+Total 4168

@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.quartz_ore
+1: sl1pg8r: 17633
+2: falsesymmetry: 11094
+3: impulseSV: 9495
+4: Xisuma: 8891
+5: Tango: 7510
+6: PythonGB: 4837
+7: Mumbo: 3656
+8: xBCrafted: 2892
+9: ZombieCleo: 2158
+10: Biffa2001: 1966
+11: joehillssays: 1431
+12: zueljin: 1371
+13: KingDaddyDMAC: 1177
+14: iJevin: 999
+15: topmass: 601
+16: Spumwackles: 560
+17: Tinfoilchef: 527
+18: monkeyfarm: 273
+19: hypnotizd: 136
+20: Docm77: 63
+21: Etho: 16
+Total 77286

@@ -1,0 +1,4 @@
+stat.useItem.minecraft.enchanting_table
+1: zueljin: 6
+2: Mumbo: 1
+Total 7

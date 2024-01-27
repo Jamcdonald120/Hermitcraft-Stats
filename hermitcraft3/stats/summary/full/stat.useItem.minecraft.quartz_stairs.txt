@@ -1,0 +1,19 @@
+stat.useItem.minecraft.quartz_stairs
+1: sl1pg8r: 2868
+2: falsesymmetry: 970
+3: Tango: 810
+4: Xisuma: 575
+5: impulseSV: 483
+6: PythonGB: 470
+7: ZombieCleo: 376
+8: Keralis1: 370
+9: zueljin: 328
+10: snipepager: 269
+11: Mumbo: 225
+12: xBCrafted: 214
+13: Biffa2001: 213
+14: monkeyfarm: 101
+15: Spumwackles: 64
+16: topmass: 9
+17: iJevin: 3
+Total 8348

@@ -1,0 +1,21 @@
+minecraft.picked_up.cyan_wool
+1: Etho: 3510
+2: VintageBeef: 1923
+3: Tango: 464
+4: BdoubleO100: 269
+5: cubfan135: 255
+6: GoodTimeWithScar: 250
+7: Zedaph: 236
+8: Welsknight: 115
+9: xBCrafted: 86
+10: falsesymmetry: 58
+11: Xisuma: 36
+12: impulseSV: 30
+13: joehillssays: 24
+14: Stressmonster101: 24
+15: Keralis1: 17
+16: iJevin: 7
+17: ZombieCleo: 7
+18: hypnotizd: 6
+19: Grian: 5
+Total 7322

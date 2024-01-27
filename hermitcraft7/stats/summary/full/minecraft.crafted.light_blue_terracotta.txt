@@ -1,0 +1,16 @@
+minecraft.crafted.light_blue_terracotta
+1: falsesymmetry: 3288
+2: Stressmonster101: 3136
+3: Tango: 2473
+4: Etho: 1016
+5: GoodTimeWithScar: 816
+6: Grian: 640
+7: Xisuma: 360
+8: Zedaph: 280
+9: VintageBeef: 216
+10: Keralis1: 192
+11: cubfan135: 72
+12: iskall85: 56
+13: BdoubleO100: 24
+14: impulseSV: 12
+Total 12581

@@ -1,0 +1,26 @@
+minecraft.picked_up.soul_soil
+1: Etho: 10772
+2: Grian: 5180
+3: iJevin: 2367
+4: Tango: 1705
+5: GoodTimeWithScar: 1093
+6: PearlescentMoon: 994
+7: impulseSV: 846
+8: Xisuma: 811
+9: Docm77: 663
+10: GeminiTay: 659
+11: xBCrafted: 580
+12: joehillssays: 382
+13: Keralis1: 367
+14: cubfan135: 327
+15: hypnotizd: 266
+16: falsesymmetry: 189
+17: RentheKing: 175
+18: ZombieCleo: 125
+19: Mumbo: 120
+20: VintageBeef: 119
+21: Zedaph: 114
+22: Renthedog: 101
+23: Smallishbeans: 29
+24: BdoubleO100: 18
+Total 28002

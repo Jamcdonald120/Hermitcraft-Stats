@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.ladder
+1: Tango: 390
+2: Xisuma: 195
+3: KingDaddyDMAC: 108
+4: ZombieCleo: 78
+5: falsesymmetry: 57
+6: Spumwackles: 12
+7: xBCrafted: 9
+Total 849

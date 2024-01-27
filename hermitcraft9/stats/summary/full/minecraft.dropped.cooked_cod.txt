@@ -1,0 +1,20 @@
+minecraft.dropped.cooked_cod
+1: Zedaph: 39
+2: PearlescentMoon: 34
+3: GoodTimeWithScar: 13
+4: impulseSV: 13
+5: Stressmonster101: 12
+6: GeminiTay: 10
+7: OrionSound: 9
+8: cubfan135: 9
+9: Etho: 7
+10: Xisuma: 6
+11: iJevin: 5
+12: MythicalSausage: 5
+13: Mumbo: 5
+14: MumboJumbo: 5
+15: VintageBeef: 2
+16: iskall85: 2
+17: falsesymmetry: 2
+18: Grian: 1
+Total 179

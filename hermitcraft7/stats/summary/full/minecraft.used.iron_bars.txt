@@ -1,0 +1,25 @@
+minecraft.used.iron_bars
+1: Keralis1: 9794
+2: Xisuma: 3011
+3: iskall85: 2029
+4: Tango: 1838
+5: cubfan135: 1697
+6: MumboJumbo: 1500
+7: xBCrafted: 1489
+8: BdoubleO100: 1002
+9: VintageBeef: 930
+10: GoodTimeWithScar: 915
+11: joehillssays: 638
+12: impulseSV: 637
+13: Grian: 472
+14: falsesymmetry: 465
+15: Renthedog: 433
+16: Stressmonster101: 351
+17: Docm77: 293
+18: Welsknight: 195
+19: iJevin: 137
+20: ZombieCleo: 122
+21: Etho: 100
+22: Zedaph: 57
+23: hypnotizd: 39
+Total 28144

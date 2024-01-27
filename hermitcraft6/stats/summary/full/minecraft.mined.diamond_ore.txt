@@ -1,0 +1,26 @@
+minecraft.mined.diamond_ore
+1: iJevin: 9244
+2: GoodTimeWithScar: 3805
+3: cubfan135: 2413
+4: Tinfoilchef: 2036
+5: Renthedog: 1715
+6: iskall85: 936
+7: Keralis1: 932
+8: Grian: 577
+9: Stressmonster101: 540
+10: falsesymmetry: 510
+11: MumboJumbo: 510
+12: ZombieCleo: 488
+13: Xisuma: 487
+14: Biffa2001: 387
+15: Zedaph: 323
+16: Docm77: 314
+17: joehillssays: 272
+18: Tango: 234
+19: impulseSV: 220
+20: xBCrafted: 214
+21: BdoubleO100: 210
+22: Welsknight: 164
+23: HumanCleo: 54
+24: PythonGB: 26
+Total 26611

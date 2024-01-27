@@ -1,0 +1,22 @@
+stat.useItem.minecraft.armor_stand
+1: falsesymmetry: 658
+2: Tinfoilchef: 411
+3: iskall85: 148
+4: GoodTimeWithScar: 103
+5: cubfan135: 100
+6: Tango: 62
+7: Renthedog: 53
+8: Xisuma: 38
+9: Etho: 31
+10: Docm77: 24
+11: Welsknight: 23
+12: VintageBeef: 22
+13: MumboJumbo: 10
+14: zueljin: 9
+15: ZombieCleo: 8
+16: PythonGB: 5
+17: impulseSV: 5
+18: iJevin: 2
+19: joehillssays: 2
+20: Mumbo: 1
+Total 1715

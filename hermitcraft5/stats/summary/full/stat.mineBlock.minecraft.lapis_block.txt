@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.lapis_block
+1: cubfan135: 123
+2: Xisuma: 58
+3: impulseSV: 27
+4: Etho: 11
+5: falsesymmetry: 10
+6: Zedaph: 4
+7: joehillssays: 1
+8: xBCrafted: 1
+9: Welsknight: 1
+10: GoodTimeWithScar: 1
+Total 237

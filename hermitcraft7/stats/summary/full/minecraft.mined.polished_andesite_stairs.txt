@@ -1,0 +1,21 @@
+minecraft.mined.polished_andesite_stairs
+1: Keralis1: 930
+2: xBCrafted: 809
+3: Grian: 537
+4: Tango: 386
+5: cubfan135: 300
+6: GoodTimeWithScar: 228
+7: iskall85: 151
+8: Xisuma: 117
+9: joehillssays: 110
+10: VintageBeef: 105
+11: Docm77: 95
+12: BdoubleO100: 69
+13: Zedaph: 48
+14: ZombieCleo: 44
+15: falsesymmetry: 43
+16: Etho: 16
+17: impulseSV: 12
+18: hypnotizd: 5
+19: MumboJumbo: 2
+Total 4007

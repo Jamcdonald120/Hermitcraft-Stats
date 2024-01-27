@@ -1,0 +1,20 @@
+stat.drop.minecraft.fish
+1: MumboJumbo: 16718
+2: impulseSV: 11807
+3: Xisuma: 11616
+4: cubfan135: 3641
+5: Tinfoilchef: 1472
+6: Renthedog: 950
+7: iskall85: 510
+8: Tango: 503
+9: Stressmonster101: 253
+10: Docm77: 152
+11: BdoubleO100: 133
+12: Biffa2001: 90
+13: GoodTimeWithScar: 50
+14: PythonGB: 47
+15: iJevin: 42
+16: falsesymmetry: 28
+17: Zedaph: 19
+18: xBCrafted: 2
+Total 48033

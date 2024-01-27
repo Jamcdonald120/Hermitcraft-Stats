@@ -1,0 +1,22 @@
+minecraft.used.spruce_door
+1: PearlescentMoon: 159
+2: joehillssays: 59
+3: Xisuma: 56
+4: BdoubleO100: 52
+5: iskall85: 29
+6: VintageBeef: 25
+7: Etho: 19
+8: GeminiTay: 17
+9: Keralis1: 17
+10: Tango: 16
+11: ZombieCleo: 12
+12: Stressmonster101: 11
+13: Grian: 7
+14: falsesymmetry: 7
+15: impulseSV: 7
+16: cubfan135: 6
+17: Welsknight: 6
+18: GoodTimeWithScar: 5
+19: Renthedog: 3
+20: EvilXisuma: 2
+Total 515

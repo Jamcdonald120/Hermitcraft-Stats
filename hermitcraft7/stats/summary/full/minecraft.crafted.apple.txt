@@ -1,0 +1,14 @@
+minecraft.crafted.apple
+1: Keralis1: 3004
+2: impulseSV: 2176
+3: hypnotizd: 688
+4: GoodTimeWithScar: 400
+5: Grian: 220
+6: Etho: 212
+7: Stressmonster101: 136
+8: cubfan135: 128
+9: MumboJumbo: 72
+10: Docm77: 64
+11: xBCrafted: 20
+12: BdoubleO100: 4
+Total 7124

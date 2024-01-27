@@ -1,0 +1,12 @@
+stat.pickup.minecraft.milk_bucket
+1: cubfan135: 27
+2: GoodTimeWithScar: 10
+3: xBCrafted: 7
+4: falsesymmetry: 6
+5: impulseSV: 4
+6: Zedaph: 3
+7: Renthedog: 2
+8: Tango: 2
+9: iJevin: 1
+10: ZombieCleo: 1
+Total 63

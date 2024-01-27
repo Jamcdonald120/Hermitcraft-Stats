@@ -1,0 +1,17 @@
+stat.drop.minecraft.potion
+1: MumboJumbo: 184
+2: Tango: 35
+3: falsesymmetry: 22
+4: Renthedog: 13
+5: Xisuma: 12
+6: cubfan135: 5
+7: impulseSV: 5
+8: PythonGB: 3
+9: iJevin: 3
+10: Welsknight: 3
+11: GoodTimeWithScar: 3
+12: Tinfoilchef: 2
+13: joehillssays: 1
+14: iskall85: 1
+15: Etho: 1
+Total 293

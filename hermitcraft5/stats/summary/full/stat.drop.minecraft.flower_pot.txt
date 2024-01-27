@@ -1,0 +1,7 @@
+stat.drop.minecraft.flower_pot
+1: falsesymmetry: 32
+2: Welsknight: 4
+3: Tango: 2
+4: xBCrafted: 2
+5: cubfan135: 2
+Total 42

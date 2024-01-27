@@ -1,0 +1,21 @@
+minecraft.crafted.black_dye
+1: GoodTimeWithScar: 6686
+2: Grian: 4893
+3: Xisuma: 4877
+4: iskall85: 3701
+5: cubfan135: 1544
+6: Renthedog: 889
+7: impulseSV: 737
+8: PythonGB: 672
+9: falsesymmetry: 648
+10: Docm77: 608
+11: Zedaph: 520
+12: ZombieCleo: 444
+13: Stressmonster101: 404
+14: iJevin: 161
+15: MumboJumbo: 129
+16: joehillssays: 122
+17: BdoubleO100: 67
+18: Keralis1: 33
+19: HumanCleo: 2
+Total 27137

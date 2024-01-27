@@ -1,0 +1,23 @@
+stat.killEntity.Cow
+1: Xisuma: 1696
+2: KingDaddyDMAC: 500
+3: iJevin: 350
+4: ZombieCleo: 332
+5: Tango: 331
+6: Spumwackles: 219
+7: red3yz: 93
+8: Keralis1: 77
+9: Tinfoilchef: 41
+10: hypnotizd: 30
+11: Pungence: 29
+12: skyzm: 23
+13: sl1pg8r: 16
+14: xBCrafted: 16
+15: falsesymmetry: 16
+16: Biffa2001: 15
+17: Collen: 14
+18: Marriland: 9
+19: topmass: 4
+20: joehillssays: 2
+21: monkeyfarm: 1
+Total 3814

@@ -1,0 +1,21 @@
+stat.pickup.minecraft.brown_mushroom
+1: Tango: 739
+2: Xisuma: 656
+3: cubfan135: 462
+4: GoodTimeWithScar: 335
+5: iskall85: 285
+6: MumboJumbo: 245
+7: falsesymmetry: 137
+8: Renthedog: 96
+9: Welsknight: 92
+10: Tinfoilchef: 89
+11: impulseSV: 74
+12: PythonGB: 54
+13: joehillssays: 47
+14: ZombieCleo: 38
+15: Etho: 28
+16: iJevin: 18
+17: Jessassin: 10
+18: VintageBeef: 5
+19: zueljin: 3
+Total 3413

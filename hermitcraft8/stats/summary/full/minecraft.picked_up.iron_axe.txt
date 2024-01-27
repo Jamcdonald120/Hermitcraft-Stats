@@ -1,0 +1,20 @@
+minecraft.picked_up.iron_axe
+1: iJevin: 70
+2: GoodTimeWithScar: 29
+3: joehillssays: 18
+4: Tango: 18
+5: Grian: 14
+6: PearlescentMoon: 10
+7: iskall85: 9
+8: Etho: 7
+9: hypnotizd: 7
+10: Keralis1: 6
+11: Renthedog: 5
+12: Zedaph: 5
+13: Xisuma: 4
+14: Welsknight: 4
+15: impulseSV: 3
+16: GeminiTay: 1
+17: falsesymmetry: 1
+18: ZombieCleo: 1
+Total 212

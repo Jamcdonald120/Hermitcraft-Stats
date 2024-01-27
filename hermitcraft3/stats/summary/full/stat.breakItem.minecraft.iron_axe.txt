@@ -1,0 +1,19 @@
+stat.breakItem.minecraft.iron_axe
+1: impulseSV: 6
+2: Xisuma: 3
+3: joehillssays: 3
+4: falsesymmetry: 3
+5: Biffa2001: 3
+6: ZombieCleo: 3
+7: topmass: 2
+8: xBCrafted: 2
+9: Tinfoilchef: 2
+10: monkeyfarm: 2
+11: skyzm: 1
+12: PythonGB: 1
+13: zueljin: 1
+14: Tango: 1
+15: Etho: 1
+16: Mumbo: 1
+17: hypnotizd: 1
+Total 36

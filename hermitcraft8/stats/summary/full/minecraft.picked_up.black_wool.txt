@@ -1,0 +1,21 @@
+minecraft.picked_up.black_wool
+1: Zedaph: 348
+2: Welsknight: 322
+3: falsesymmetry: 254
+4: Renthedog: 143
+5: BdoubleO100: 113
+6: Xisuma: 107
+7: Docm77: 75
+8: Grian: 67
+9: GoodTimeWithScar: 66
+10: iJevin: 65
+11: VintageBeef: 64
+12: PearlescentMoon: 54
+13: MumboJumbo: 38
+14: xBCrafted: 35
+15: GeminiTay: 24
+16: Tango: 24
+17: impulseSV: 6
+18: hypnotizd: 2
+19: ZombieCleo: 1
+Total 1808

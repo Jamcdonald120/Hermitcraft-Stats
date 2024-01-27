@@ -1,0 +1,25 @@
+stat.useItem.minecraft.gravel
+1: Renthedog: 7720
+2: iskall85: 2212
+3: cubfan135: 1332
+4: impulseSV: 968
+5: MumboJumbo: 897
+6: falsesymmetry: 890
+7: Stressmonster101: 876
+8: Xisuma: 874
+9: joehillssays: 766
+10: Zedaph: 539
+11: Tinfoilchef: 486
+12: GoodTimeWithScar: 454
+13: iJevin: 392
+14: xBCrafted: 380
+15: Tango: 342
+16: VintageBeef: 215
+17: Etho: 191
+18: Welsknight: 65
+19: Docm77: 55
+20: PythonGB: 45
+21: BdoubleO100: 24
+22: Biffa2001: 20
+23: ZombieCleo: 2
+Total 19745

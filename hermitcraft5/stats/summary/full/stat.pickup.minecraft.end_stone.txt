@@ -1,0 +1,21 @@
+stat.pickup.minecraft.end_stone
+1: Renthedog: 3627
+2: joehillssays: 2265
+3: cubfan135: 1519
+4: iJevin: 1264
+5: Xisuma: 1246
+6: GoodTimeWithScar: 1086
+7: Tango: 536
+8: impulseSV: 500
+9: Biffa2001: 428
+10: PythonGB: 396
+11: Tinfoilchef: 210
+12: Welsknight: 156
+13: iskall85: 133
+14: falsesymmetry: 108
+15: Zedaph: 103
+16: Docm77: 87
+17: MumboJumbo: 81
+18: Etho: 4
+19: BdoubleO100: 2
+Total 13751

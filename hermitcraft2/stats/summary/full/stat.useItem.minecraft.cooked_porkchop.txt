@@ -1,0 +1,5 @@
+stat.useItem.minecraft.cooked_porkchop
+1: falsesymmetry: 65
+2: Xisuma: 32
+3: iJevin: 2
+Total 99

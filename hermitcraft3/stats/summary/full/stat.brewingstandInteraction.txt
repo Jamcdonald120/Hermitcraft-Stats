@@ -1,0 +1,18 @@
+stat.brewingstandInteraction
+1: impulseSV: 514
+2: Tango: 316
+3: falsesymmetry: 311
+4: iJevin: 289
+5: Biffa2001: 205
+6: Xisuma: 202
+7: Tinfoilchef: 185
+8: xBCrafted: 114
+9: monkeyfarm: 72
+10: Docm77: 51
+11: topmass: 43
+12: Etho: 33
+13: PythonGB: 32
+14: ZombieCleo: 15
+15: zueljin: 7
+16: joehillssays: 5
+Total 2394

@@ -1,0 +1,4 @@
+minecraft.mined.potted_wither_rose
+1: Grian: 2
+2: Tango: 1
+Total 3

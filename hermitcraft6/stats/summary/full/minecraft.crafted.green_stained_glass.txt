@@ -1,0 +1,15 @@
+minecraft.crafted.green_stained_glass
+1: GoodTimeWithScar: 3512
+2: Welsknight: 1808
+3: joehillssays: 440
+4: Tango: 392
+5: Renthedog: 320
+6: Xisuma: 192
+7: Grian: 192
+8: cubfan135: 192
+9: Zedaph: 152
+10: iskall85: 128
+11: ZombieCleo: 8
+12: MumboJumbo: 8
+13: impulseSV: 8
+Total 7352

@@ -1,0 +1,16 @@
+minecraft.dropped.magma_block
+1: Docm77: 691
+2: GoodTimeWithScar: 204
+3: Stressmonster101: 161
+4: Renthedog: 143
+5: iskall85: 71
+6: MumboJumbo: 30
+7: Xisuma: 29
+8: Tinfoilchef: 28
+9: PythonGB: 15
+10: Grian: 15
+11: falsesymmetry: 8
+12: Tango: 3
+13: ZombieCleo: 2
+14: Zedaph: 2
+Total 1402

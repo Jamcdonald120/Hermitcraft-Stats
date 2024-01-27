@@ -1,0 +1,10 @@
+minecraft.dropped.clock
+1: Tango: 60
+2: Zedaph: 10
+3: iJevin: 7
+4: Grian: 5
+5: BdoubleO100: 4
+6: Etho: 2
+7: Renthedog: 1
+8: xBCrafted: 1
+Total 90

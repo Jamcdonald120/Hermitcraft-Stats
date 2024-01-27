@@ -1,0 +1,12 @@
+stat.drop.minecraft.coal_block
+1: xBCrafted: 64
+2: Stressmonster101: 46
+3: Biffa2001: 37
+4: PythonGB: 30
+5: Tango: 28
+6: Renthedog: 11
+7: iskall85: 7
+8: MumboJumbo: 3
+9: Xisuma: 2
+10: cubfan135: 1
+Total 229

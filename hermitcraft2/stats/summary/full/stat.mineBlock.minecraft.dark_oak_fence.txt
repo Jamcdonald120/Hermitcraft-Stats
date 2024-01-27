@@ -1,0 +1,6 @@
+stat.mineBlock.minecraft.dark_oak_fence
+1: zueljin: 20
+2: falsesymmetry: 17
+3: xBCrafted: 11
+4: ZombieCleo: 8
+Total 56

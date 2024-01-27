@@ -1,0 +1,16 @@
+minecraft.dropped.deepslate_redstone_ore
+1: impulseSV: 63
+2: Grian: 57
+3: Tango: 48
+4: VintageBeef: 47
+5: Zedaph: 46
+6: xBCrafted: 20
+7: Docm77: 16
+8: Xisuma: 11
+9: iJevin: 10
+10: Keralis1: 9
+11: GoodTimeWithScar: 6
+12: falsesymmetry: 5
+13: cubfan135: 4
+14: Renthedog: 2
+Total 344

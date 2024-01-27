@@ -1,0 +1,25 @@
+stat.pickup.minecraft.golden_chestplate
+1: Renthedog: 123
+2: iskall85: 73
+3: xBCrafted: 60
+4: Stressmonster101: 58
+5: cubfan135: 29
+6: Zedaph: 25
+7: impulseSV: 24
+8: Tango: 23
+9: PythonGB: 19
+10: GoodTimeWithScar: 19
+11: BdoubleO100: 14
+12: ZombieCleo: 13
+13: Welsknight: 11
+14: Tinfoilchef: 11
+15: falsesymmetry: 9
+16: iJevin: 7
+17: Docm77: 6
+18: VintageBeef: 6
+19: MumboJumbo: 6
+20: Xisuma: 4
+21: joehillssays: 3
+22: Biffa2001: 3
+23: Etho: 2
+Total 548

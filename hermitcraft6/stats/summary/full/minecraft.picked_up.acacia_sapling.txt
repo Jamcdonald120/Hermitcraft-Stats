@@ -1,0 +1,23 @@
+minecraft.picked_up.acacia_sapling
+1: GoodTimeWithScar: 5323
+2: cubfan135: 4839
+3: Renthedog: 1241
+4: Xisuma: 1149
+5: impulseSV: 975
+6: Stressmonster101: 245
+7: iskall85: 235
+8: ZombieCleo: 178
+9: falsesymmetry: 63
+10: BdoubleO100: 50
+11: joehillssays: 33
+12: MumboJumbo: 23
+13: iJevin: 17
+14: Welsknight: 14
+15: PythonGB: 13
+16: Zedaph: 12
+17: Grian: 9
+18: Docm77: 6
+19: xBCrafted: 6
+20: Jessassin: 5
+21: Tango: 1
+Total 14437

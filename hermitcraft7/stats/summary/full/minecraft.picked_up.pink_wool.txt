@@ -1,0 +1,20 @@
+minecraft.picked_up.pink_wool
+1: Etho: 3826
+2: VintageBeef: 2951
+3: BdoubleO100: 965
+4: Zedaph: 573
+5: falsesymmetry: 429
+6: Tango: 385
+7: cubfan135: 328
+8: Xisuma: 223
+9: GoodTimeWithScar: 151
+10: Docm77: 99
+11: Keralis1: 72
+12: iskall85: 66
+13: Grian: 49
+14: Stressmonster101: 28
+15: joehillssays: 15
+16: MumboJumbo: 4
+17: xBCrafted: 1
+18: impulseSV: 1
+Total 10166

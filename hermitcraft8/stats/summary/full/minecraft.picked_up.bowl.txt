@@ -1,0 +1,9 @@
+minecraft.picked_up.bowl
+1: cubfan135: 16
+2: Zedaph: 7
+3: falsesymmetry: 4
+4: hypnotizd: 4
+5: iJevin: 2
+6: Etho: 2
+7: impulseSV: 1
+Total 36

@@ -1,0 +1,12 @@
+minecraft.picked_up.bubble_coral
+1: Etho: 55
+2: cubfan135: 35
+3: hypnotizd: 19
+4: Xisuma: 15
+5: Keralis1: 11
+6: Zedaph: 11
+7: GoodTimeWithScar: 7
+8: Docm77: 5
+9: Renthedog: 1
+10: VintageBeef: 1
+Total 160

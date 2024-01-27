@@ -1,0 +1,4 @@
+minecraft.dropped.cherry_slab
+1: Zedaph: 10
+2: falsesymmetry: 8
+Total 18

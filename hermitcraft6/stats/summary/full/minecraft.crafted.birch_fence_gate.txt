@@ -1,0 +1,15 @@
+minecraft.crafted.birch_fence_gate
+1: Tango: 407
+2: falsesymmetry: 99
+3: impulseSV: 97
+4: Xisuma: 49
+5: iskall85: 36
+6: Docm77: 20
+7: GoodTimeWithScar: 11
+8: Stressmonster101: 11
+9: Grian: 10
+10: BdoubleO100: 6
+11: cubfan135: 4
+12: Renthedog: 1
+13: xBCrafted: 1
+Total 752

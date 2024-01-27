@@ -1,0 +1,4 @@
+minecraft.picked_up.cherry_pressure_plate
+1: GeminiTay: 2
+2: Zedaph: 1
+Total 3

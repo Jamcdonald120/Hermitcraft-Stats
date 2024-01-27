@@ -1,0 +1,10 @@
+minecraft.dropped.nether_brick_stairs
+1: Tango: 65
+2: falsesymmetry: 52
+3: cubfan135: 42
+4: joehillssays: 18
+5: BdoubleO100: 10
+6: xBCrafted: 5
+7: iJevin: 3
+8: VintageBeef: 2
+Total 197

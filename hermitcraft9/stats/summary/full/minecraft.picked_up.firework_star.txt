@@ -1,0 +1,6 @@
+minecraft.picked_up.firework_star
+1: cubfan135: 382
+2: PearlescentMoon: 14
+3: joehillssays: 2
+4: Zedaph: 2
+Total 400

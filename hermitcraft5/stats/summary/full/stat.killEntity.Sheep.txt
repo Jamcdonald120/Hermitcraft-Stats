@@ -1,0 +1,27 @@
+stat.killEntity.Sheep
+1: GoodTimeWithScar: 1343
+2: cubfan135: 1339
+3: Xisuma: 505
+4: BdoubleO100: 494
+5: Tinfoilchef: 459
+6: iskall85: 158
+7: EvilXisuma: 154
+8: Renthedog: 151
+9: Tango: 142
+10: Stressmonster101: 116
+11: Welsknight: 112
+12: Zedaph: 104
+13: impulseSV: 75
+14: falsesymmetry: 70
+15: MumboJumbo: 59
+16: Etho: 56
+17: xBCrafted: 33
+18: Biffa2001: 30
+19: ZombieCleo: 13
+20: VintageBeef: 12
+21: Docm77: 10
+22: PythonGB: 7
+23: joehillssays: 7
+24: iJevin: 6
+25: xisumavoid: 1
+Total 5456

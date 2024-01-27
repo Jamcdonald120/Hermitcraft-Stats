@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.leather
+1: cubfan135: 62
+2: Zedaph: 3
+Total 65

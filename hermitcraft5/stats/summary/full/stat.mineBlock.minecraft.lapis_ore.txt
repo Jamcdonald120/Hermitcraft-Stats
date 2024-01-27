@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.lapis_ore
+1: Tinfoilchef: 678
+2: falsesymmetry: 572
+3: GoodTimeWithScar: 563
+4: Renthedog: 554
+5: cubfan135: 546
+6: MumboJumbo: 528
+7: impulseSV: 384
+8: Welsknight: 359
+9: Zedaph: 345
+10: iJevin: 330
+11: Xisuma: 318
+12: iskall85: 266
+13: PythonGB: 250
+14: Tango: 241
+15: xBCrafted: 179
+16: Etho: 169
+17: Stressmonster101: 162
+18: Biffa2001: 119
+19: joehillssays: 117
+20: BdoubleO100: 95
+21: VintageBeef: 93
+22: ZombieCleo: 54
+23: Docm77: 46
+Total 6968

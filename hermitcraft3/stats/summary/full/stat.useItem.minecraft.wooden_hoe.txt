@@ -1,0 +1,7 @@
+stat.useItem.minecraft.wooden_hoe
+1: ZombieCleo: 60
+2: Xisuma: 16
+3: Tinfoilchef: 4
+4: monkeyfarm: 3
+5: sl1pg8r: 1
+Total 84

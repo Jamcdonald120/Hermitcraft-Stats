@@ -1,0 +1,22 @@
+minecraft.picked_up.diamond_block
+1: Grian: 394
+2: GoodTimeWithScar: 345
+3: Renthedog: 182
+4: Docm77: 61
+5: xBCrafted: 43
+6: cubfan135: 40
+7: hypnotizd: 37
+8: BdoubleO100: 28
+9: PearlescentMoon: 23
+10: iJevin: 19
+11: GeminiTay: 18
+12: MumboJumbo: 15
+13: Xisuma: 14
+14: Tinfoilchef: 13
+15: impulseSV: 10
+16: joehillssays: 9
+17: Keralis1: 7
+18: Etho: 4
+19: Tango: 2
+20: Zedaph: 2
+Total 1266

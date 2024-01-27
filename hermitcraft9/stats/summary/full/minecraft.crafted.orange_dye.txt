@@ -1,0 +1,25 @@
+minecraft.crafted.orange_dye
+1: cubfan135: 11485
+2: Xisuma: 2710
+3: ZombieCleo: 2686
+4: Grian: 2531
+5: PearlescentMoon: 2478
+6: hypnotizd: 2436
+7: Etho: 1782
+8: GoodTimeWithScar: 1148
+9: Renthedog: 774
+10: falsesymmetry: 434
+11: impulseSV: 310
+12: Keralis1: 276
+13: Tango: 268
+14: Docm77: 208
+15: VintageBeef: 185
+16: iJevin: 167
+17: Mumbo: 132
+18: xBCrafted: 128
+19: joehillssays: 66
+20: iskall85: 63
+21: Zedaph: 56
+22: BdoubleO100: 48
+23: RentheKing: 30
+Total 30401

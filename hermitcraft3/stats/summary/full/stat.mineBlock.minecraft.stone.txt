@@ -1,0 +1,29 @@
+stat.mineBlock.minecraft.stone
+1: falsesymmetry: 380345
+2: Xisuma: 345128
+3: xBCrafted: 298599
+4: Tango: 210403
+5: Mumbo: 179953
+6: hypnotizd: 179284
+7: impulseSV: 151474
+8: Spumwackles: 132258
+9: Tinfoilchef: 104491
+10: topmass: 102802
+11: sl1pg8r: 96467
+12: zueljin: 82836
+13: iJevin: 77083
+14: KingDaddyDMAC: 76616
+15: Biffa2001: 67589
+16: Etho: 49897
+17: monkeyfarm: 44461
+18: ZombieCleo: 36913
+19: PythonGB: 28797
+20: joehillssays: 18268
+21: Docm77: 11931
+22: skyzm: 7794
+23: Pungence: 2753
+24: Keralis1: 1571
+25: Collen: 662
+26: NameOfSamuel: 622
+27: Mrs_Keralis: 89
+Total 2689086

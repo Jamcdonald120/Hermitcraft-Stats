@@ -1,0 +1,6 @@
+minecraft.dropped.smooth_sandstone_slab
+1: ZombieCleo: 67
+2: Xisuma: 43
+3: Tango: 18
+4: iJevin: 1
+Total 129

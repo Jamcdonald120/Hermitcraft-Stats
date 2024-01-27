@@ -1,0 +1,5 @@
+stat.craftItem.102
+1: Marriland: 256
+2: skyzm: 160
+3: Keralis1: 64
+Total 480

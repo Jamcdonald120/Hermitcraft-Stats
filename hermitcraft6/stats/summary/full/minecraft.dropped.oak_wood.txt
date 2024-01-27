@@ -1,0 +1,8 @@
+minecraft.dropped.oak_wood
+1: falsesymmetry: 18
+2: Grian: 16
+3: cubfan135: 9
+4: GoodTimeWithScar: 7
+5: iskall85: 1
+6: Keralis1: 1
+Total 52

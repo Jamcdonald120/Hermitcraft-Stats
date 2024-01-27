@@ -1,0 +1,13 @@
+minecraft.mined.light_blue_wool
+1: GoodTimeWithScar: 209
+2: Tango: 180
+3: Keralis1: 90
+4: Grian: 44
+5: BdoubleO100: 24
+6: PearlescentMoon: 14
+7: MumboJumbo: 14
+8: Zedaph: 12
+9: cubfan135: 4
+10: falsesymmetry: 1
+11: hypnotizd: 1
+Total 593

@@ -1,0 +1,23 @@
+minecraft.dropped.mycelium
+1: cubfan135: 6062
+2: GoodTimeWithScar: 5205
+3: Etho: 5137
+4: Grian: 3355
+5: impulseSV: 2715
+6: Xisuma: 1667
+7: Keralis1: 1529
+8: Zedaph: 1491
+9: iskall85: 952
+10: VintageBeef: 498
+11: Renthedog: 449
+12: Tango: 377
+13: iJevin: 284
+14: xBCrafted: 191
+15: falsesymmetry: 121
+16: hypnotizd: 95
+17: BdoubleO100: 41
+18: MumboJumbo: 39
+19: joehillssays: 28
+20: Stressmonster101: 15
+21: Docm77: 5
+Total 30256

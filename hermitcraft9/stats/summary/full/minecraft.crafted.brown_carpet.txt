@@ -1,0 +1,21 @@
+minecraft.crafted.brown_carpet
+1: VintageBeef: 1197
+2: Grian: 744
+3: Tango: 429
+4: Keralis1: 364
+5: BdoubleO100: 240
+6: impulseSV: 216
+7: falsesymmetry: 177
+8: iJevin: 156
+9: PearlescentMoon: 114
+10: xBCrafted: 105
+11: joehillssays: 96
+12: Stressmonster101: 96
+13: Renthedog: 87
+14: iskall85: 24
+15: RentheKing: 24
+16: GoodTimeWithScar: 18
+17: Docm77: 3
+18: Xisuma: 3
+19: Zedaph: 3
+Total 4096

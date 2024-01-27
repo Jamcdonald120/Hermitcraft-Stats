@@ -1,0 +1,24 @@
+minecraft.crafted.green_dye
+1: PearlescentMoon: 3040
+2: impulseSV: 1489
+3: Etho: 748
+4: ZombieCleo: 668
+5: iJevin: 443
+6: Renthedog: 412
+7: cubfan135: 380
+8: Keralis1: 318
+9: GeminiTay: 199
+10: Tango: 193
+11: Welsknight: 180
+12: Xisuma: 99
+13: falsesymmetry: 94
+14: Stressmonster101: 61
+15: BdoubleO100: 47
+16: Zedaph: 30
+17: GoodTimeWithScar: 16
+18: xBCrafted: 15
+19: joehillssays: 8
+20: MumboJumbo: 8
+21: Docm77: 1
+22: iskall85: 1
+Total 8450

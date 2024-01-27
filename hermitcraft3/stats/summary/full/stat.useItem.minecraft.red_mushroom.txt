@@ -1,0 +1,10 @@
+stat.useItem.minecraft.red_mushroom
+1: monkeyfarm: 56
+2: falsesymmetry: 51
+3: Tango: 11
+4: Etho: 11
+5: Xisuma: 7
+6: topmass: 5
+7: ZombieCleo: 4
+8: xBCrafted: 2
+Total 147

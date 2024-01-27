@@ -1,0 +1,7 @@
+stat.drop.minecraft.spruce_door
+1: falsesymmetry: 8
+2: Xisuma: 4
+3: iskall85: 3
+4: cubfan135: 2
+5: Etho: 1
+Total 18

@@ -1,0 +1,4 @@
+minecraft.crafted.nautilus_shell
+1: falsesymmetry: 5
+2: hypnotizd: 5
+Total 10

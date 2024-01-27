@@ -1,0 +1,25 @@
+stat.pickup.minecraft.brown_mushroom
+1: Renthedog: 6060
+2: falsesymmetry: 3451
+3: cubfan135: 2300
+4: iskall85: 979
+5: Xisuma: 937
+6: Zedaph: 854
+7: Tango: 543
+8: GoodTimeWithScar: 420
+9: Welsknight: 377
+10: Stressmonster101: 249
+11: Tinfoilchef: 146
+12: joehillssays: 133
+13: xBCrafted: 62
+14: PythonGB: 35
+15: MumboJumbo: 34
+16: impulseSV: 32
+17: iJevin: 24
+18: Etho: 19
+19: Docm77: 10
+20: VintageBeef: 8
+21: BdoubleO100: 6
+22: Biffa2001: 3
+23: ZombieCleo: 3
+Total 16685

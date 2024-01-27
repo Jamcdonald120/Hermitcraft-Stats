@@ -1,0 +1,15 @@
+stat.useItem.minecraft.nether_brick_fence
+1: zueljin: 2033
+2: Tango: 1821
+3: falsesymmetry: 1782
+4: Xisuma: 1644
+5: impulseSV: 457
+6: hypnotizd: 105
+7: joehillssays: 38
+8: monkeyfarm: 37
+9: xBCrafted: 34
+10: snipepager: 7
+11: ZombieCleo: 7
+12: sl1pg8r: 4
+13: PythonGB: 2
+Total 7971

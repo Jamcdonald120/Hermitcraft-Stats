@@ -1,0 +1,5 @@
+minecraft.dropped.dark_oak_fence_gate
+1: hypnotizd: 31
+2: Docm77: 2
+3: BdoubleO100: 1
+Total 34

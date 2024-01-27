@@ -1,0 +1,9 @@
+minecraft.crafted.pink_glazed_terracotta
+1: Etho: 768
+2: Grian: 653
+3: ZombieCleo: 256
+4: Tango: 68
+5: impulseSV: 2
+6: Xisuma: 1
+7: Zedaph: 1
+Total 1749

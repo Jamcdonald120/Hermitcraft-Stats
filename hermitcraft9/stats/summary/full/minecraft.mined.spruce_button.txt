@@ -1,0 +1,21 @@
+minecraft.mined.spruce_button
+1: Tango: 43
+2: iJevin: 29
+3: Renthedog: 27
+4: xBCrafted: 19
+5: hypnotizd: 11
+6: impulseSV: 8
+7: BdoubleO100: 3
+8: Keralis1: 3
+9: MythicalSausage: 2
+10: GeminiTay: 2
+11: PearlescentMoon: 2
+12: iskall85: 2
+13: RentheKing: 2
+14: Zedaph: 2
+15: Grian: 1
+16: cubfan135: 1
+17: ZombieCleo: 1
+18: GoodTimeWithScar: 1
+19: Stressmonster101: 1
+Total 160

@@ -1,0 +1,31 @@
+minecraft.mined.dark_oak_stairs
+1: xBCrafted: 364
+2: Stressmonster101: 359
+3: joehillssays: 290
+4: falsesymmetry: 265
+5: impulseSV: 149
+6: Xisuma: 148
+7: GoodTimeWithScar: 132
+8: cubfan135: 119
+9: Renthedog: 87
+10: GeminiTay: 86
+11: ZombieCleo: 51
+12: iskall85: 45
+13: BdoubleO100: 44
+14: Grian: 38
+15: OrionSound: 30
+16: Keralis1: 28
+17: iJevin: 23
+18: Zedaph: 22
+19: Pixlriffs: 17
+20: Mumbo: 14
+21: Tango: 13
+22: Welsknight: 12
+23: RentheKing: 11
+24: ShubbleYT: 5
+25: Smallishbeans: 4
+26: MumboJumbo: 4
+27: Etho: 3
+28: PearlescentMoon: 2
+29: fWhip: 1
+Total 2366

@@ -1,0 +1,29 @@
+stat.mineBlock.minecraft.crafting_table
+1: falsesymmetry: 1399
+2: Xisuma: 317
+3: xBCrafted: 231
+4: Tango: 153
+5: zueljin: 138
+6: iJevin: 122
+7: Biffa2001: 89
+8: impulseSV: 86
+9: monkeyfarm: 75
+10: KingDaddyDMAC: 67
+11: sl1pg8r: 64
+12: topmass: 62
+13: Mumbo: 50
+14: ZombieCleo: 37
+15: hypnotizd: 31
+16: Spumwackles: 29
+17: PythonGB: 26
+18: Tinfoilchef: 23
+19: Pungence: 12
+20: joehillssays: 11
+21: Docm77: 10
+22: Keralis1: 9
+23: Etho: 7
+24: Collen: 7
+25: NameOfSamuel: 6
+26: Mrs_Keralis: 5
+27: skyzm: 3
+Total 3069

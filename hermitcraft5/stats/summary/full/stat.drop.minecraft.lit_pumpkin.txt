@@ -1,0 +1,7 @@
+stat.drop.minecraft.lit_pumpkin
+1: Tango: 512
+2: MumboJumbo: 417
+3: cubfan135: 128
+4: Zedaph: 8
+5: iskall85: 1
+Total 1066

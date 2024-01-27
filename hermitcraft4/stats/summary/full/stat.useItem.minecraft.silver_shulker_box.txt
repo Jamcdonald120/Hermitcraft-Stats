@@ -1,0 +1,12 @@
+stat.useItem.minecraft.silver_shulker_box
+1: falsesymmetry: 151
+2: GoodTimeWithScar: 64
+3: cubfan135: 63
+4: impulseSV: 48
+5: Renthedog: 47
+6: Welsknight: 15
+7: iskall85: 14
+8: Xisuma: 11
+9: Tango: 8
+10: MumboJumbo: 1
+Total 422

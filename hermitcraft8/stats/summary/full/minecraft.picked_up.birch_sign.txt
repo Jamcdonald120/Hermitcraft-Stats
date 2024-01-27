@@ -1,0 +1,28 @@
+minecraft.picked_up.birch_sign
+1: cubfan135: 238
+2: joehillssays: 132
+3: Grian: 97
+4: Renthedog: 72
+5: Docm77: 62
+6: ZombieCleo: 50
+7: iskall85: 40
+8: Xisuma: 39
+9: hypnotizd: 36
+10: impulseSV: 29
+11: Etho: 25
+12: PearlescentMoon: 24
+13: Welsknight: 19
+14: Tango: 16
+15: GeminiTay: 14
+16: iJevin: 12
+17: xBCrafted: 12
+18: Stressmonster101: 9
+19: BdoubleO100: 8
+20: GoodTimeWithScar: 8
+21: MumboJumbo: 6
+22: Zedaph: 4
+23: VintageBeef: 3
+24: Keralis1: 3
+25: EvilXisuma: 2
+26: falsesymmetry: 1
+Total 961

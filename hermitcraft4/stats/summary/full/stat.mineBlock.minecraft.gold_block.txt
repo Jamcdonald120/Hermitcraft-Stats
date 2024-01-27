@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.gold_block
+1: cubfan135: 377
+2: iskall85: 349
+3: Xisuma: 327
+4: Renthedog: 178
+5: iJevin: 178
+6: falsesymmetry: 118
+7: impulseSV: 73
+8: Welsknight: 40
+9: Tango: 39
+10: MumboJumbo: 37
+11: Mumbo: 20
+12: Tinfoilchef: 13
+13: GoodTimeWithScar: 6
+14: Docm77: 2
+15: PythonGB: 1
+Total 1758

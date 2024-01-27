@@ -1,0 +1,25 @@
+minecraft.picked_up.kelp
+1: cubfan135: 85438
+2: Xisuma: 34419
+3: iJevin: 17204
+4: impulseSV: 13138
+5: joehillssays: 11673
+6: BdoubleO100: 8095
+7: Keralis1: 6890
+8: Etho: 6764
+9: Zedaph: 6095
+10: Stressmonster101: 3948
+11: Grian: 3668
+12: Tango: 3077
+13: hypnotizd: 2825
+14: falsesymmetry: 2371
+15: MumboJumbo: 1997
+16: GoodTimeWithScar: 1930
+17: Renthedog: 1741
+18: xBCrafted: 877
+19: iskall85: 537
+20: VintageBeef: 393
+21: Welsknight: 332
+22: Docm77: 235
+23: ZombieCleo: 90
+Total 213737

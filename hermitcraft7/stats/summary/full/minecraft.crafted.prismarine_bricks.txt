@@ -1,0 +1,5 @@
+minecraft.crafted.prismarine_bricks
+1: impulseSV: 23497
+2: falsesymmetry: 163
+3: BdoubleO100: 21
+Total 23681

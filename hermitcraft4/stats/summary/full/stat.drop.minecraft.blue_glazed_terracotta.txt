@@ -1,0 +1,4 @@
+stat.drop.minecraft.blue_glazed_terracotta
+1: falsesymmetry: 93
+2: Tango: 1
+Total 94

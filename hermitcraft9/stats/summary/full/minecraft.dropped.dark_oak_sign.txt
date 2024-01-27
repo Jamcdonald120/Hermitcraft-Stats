@@ -1,0 +1,22 @@
+minecraft.dropped.dark_oak_sign
+1: GoodTimeWithScar: 159
+2: falsesymmetry: 86
+3: Renthedog: 48
+4: Tango: 32
+5: iJevin: 10
+6: Grian: 10
+7: Keralis1: 5
+8: BdoubleO100: 4
+9: xBCrafted: 4
+10: Xisuma: 3
+11: MythicalSausage: 2
+12: Smallishbeans: 2
+13: cubfan135: 2
+14: Docm77: 1
+15: OrionSound: 1
+16: joehillssays: 1
+17: iskall85: 1
+18: Etho: 1
+19: impulseSV: 1
+20: Zedaph: 1
+Total 374

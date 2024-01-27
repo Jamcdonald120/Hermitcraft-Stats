@@ -1,0 +1,17 @@
+minecraft.picked_up.fire_charge
+1: Xisuma: 417
+2: iskall85: 247
+3: Renthedog: 233
+4: cubfan135: 204
+5: Etho: 181
+6: Tango: 149
+7: MumboJumbo: 112
+8: falsesymmetry: 81
+9: VintageBeef: 66
+10: joehillssays: 26
+11: xBCrafted: 25
+12: iJevin: 14
+13: GoodTimeWithScar: 4
+14: Grian: 3
+15: impulseSV: 3
+Total 1765

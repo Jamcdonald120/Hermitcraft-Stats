@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.blaze_powder
+1: Spumwackles: 34
+2: Xisuma: 2
+3: Biffa2001: 2
+4: ZombieCleo: 2
+5: Tango: 1
+Total 41

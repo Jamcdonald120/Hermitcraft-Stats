@@ -1,0 +1,18 @@
+minecraft.picked_up.spruce_wood
+1: falsesymmetry: 1085
+2: Renthedog: 517
+3: ZombieCleo: 159
+4: Grian: 142
+5: cubfan135: 41
+6: joehillssays: 35
+7: GoodTimeWithScar: 35
+8: Welsknight: 30
+9: BdoubleO100: 24
+10: Docm77: 16
+11: Xisuma: 11
+12: PythonGB: 4
+13: Tango: 4
+14: Keralis1: 4
+15: Stressmonster101: 2
+16: iskall85: 1
+Total 2110

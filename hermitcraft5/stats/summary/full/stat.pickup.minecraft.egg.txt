@@ -1,0 +1,26 @@
+stat.pickup.minecraft.egg
+1: Zedaph: 2568
+2: cubfan135: 2198
+3: Tinfoilchef: 2186
+4: PythonGB: 1702
+5: ZombieCleo: 1699
+6: joehillssays: 899
+7: Tango: 681
+8: falsesymmetry: 518
+9: MumboJumbo: 245
+10: GoodTimeWithScar: 239
+11: VintageBeef: 167
+12: impulseSV: 155
+13: Welsknight: 106
+14: Stressmonster101: 90
+15: Xisuma: 88
+16: xBCrafted: 76
+17: iskall85: 74
+18: Etho: 49
+19: iJevin: 36
+20: BdoubleO100: 31
+21: Renthedog: 24
+22: Biffa2001: 20
+23: Docm77: 13
+24: BadTimeWithScar: 2
+Total 13866

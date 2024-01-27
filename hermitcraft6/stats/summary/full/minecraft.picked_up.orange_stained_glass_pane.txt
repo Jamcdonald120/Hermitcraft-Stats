@@ -1,0 +1,12 @@
+minecraft.picked_up.orange_stained_glass_pane
+1: Renthedog: 576
+2: impulseSV: 116
+3: cubfan135: 32
+4: PythonGB: 28
+5: Xisuma: 25
+6: falsesymmetry: 20
+7: Welsknight: 13
+8: Tango: 11
+9: GoodTimeWithScar: 7
+10: iskall85: 4
+Total 832

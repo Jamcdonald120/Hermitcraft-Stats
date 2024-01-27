@@ -1,0 +1,25 @@
+minecraft.crafted.spruce_stairs
+1: Renthedog: 3428
+2: Etho: 1504
+3: Keralis1: 1444
+4: Grian: 1268
+5: xBCrafted: 1116
+6: BdoubleO100: 1076
+7: joehillssays: 516
+8: GoodTimeWithScar: 516
+9: cubfan135: 420
+10: Xisuma: 384
+11: Tango: 296
+12: MumboJumbo: 252
+13: hypnotizd: 208
+14: Docm77: 200
+15: ZombieCleo: 200
+16: impulseSV: 176
+17: VintageBeef: 148
+18: iskall85: 144
+19: Stressmonster101: 108
+20: Welsknight: 76
+21: Zedaph: 60
+22: falsesymmetry: 52
+23: iJevin: 40
+Total 13632

@@ -1,0 +1,9 @@
+minecraft.dropped.hanging_roots
+1: GoodTimeWithScar: 79
+2: Tango: 63
+3: falsesymmetry: 32
+4: GeminiTay: 22
+5: iJevin: 6
+6: Etho: 2
+7: Keralis1: 2
+Total 206

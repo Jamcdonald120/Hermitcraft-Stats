@@ -1,0 +1,9 @@
+minecraft.crafted.red_sandstone_wall
+1: MythicalSausage: 60
+2: Grian: 60
+3: Docm77: 48
+4: PearlescentMoon: 39
+5: Keralis1: 13
+6: Xisuma: 6
+7: Zedaph: 1
+Total 227

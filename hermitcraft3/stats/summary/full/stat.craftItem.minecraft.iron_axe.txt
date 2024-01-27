@@ -1,0 +1,27 @@
+stat.craftItem.minecraft.iron_axe
+1: falsesymmetry: 13
+2: impulseSV: 13
+3: ZombieCleo: 12
+4: PythonGB: 11
+5: joehillssays: 9
+6: skyzm: 8
+7: Xisuma: 8
+8: Biffa2001: 8
+9: Tango: 7
+10: zueljin: 5
+11: Tinfoilchef: 4
+12: topmass: 3
+13: monkeyfarm: 3
+14: Spumwackles: 3
+15: KingDaddyDMAC: 2
+16: xBCrafted: 2
+17: Mumbo: 2
+18: hypnotizd: 2
+19: Docm77: 1
+20: sl1pg8r: 1
+21: iJevin: 1
+22: Etho: 1
+23: Mrs_Keralis: 1
+24: Keralis1: 1
+25: NameOfSamuel: 1
+Total 122

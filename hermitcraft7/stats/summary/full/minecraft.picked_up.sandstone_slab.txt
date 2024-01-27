@@ -1,0 +1,20 @@
+minecraft.picked_up.sandstone_slab
+1: GoodTimeWithScar: 2608
+2: cubfan135: 2371
+3: Renthedog: 1943
+4: VintageBeef: 1743
+5: Zedaph: 1255
+6: Xisuma: 306
+7: iskall85: 243
+8: joehillssays: 84
+9: impulseSV: 79
+10: ZombieCleo: 74
+11: hypnotizd: 40
+12: Etho: 27
+13: Grian: 13
+14: Keralis1: 7
+15: Tango: 4
+16: BdoubleO100: 3
+17: MumboJumbo: 1
+18: HermitcraftAlt: 1
+Total 10802

@@ -1,0 +1,26 @@
+stat.pickup.minecraft.bow
+1: Stressmonster101: 472
+2: BdoubleO100: 305
+3: Renthedog: 243
+4: MumboJumbo: 232
+5: cubfan135: 230
+6: Tango: 187
+7: Zedaph: 182
+8: Xisuma: 172
+9: iskall85: 157
+10: impulseSV: 145
+11: GoodTimeWithScar: 125
+12: Tinfoilchef: 118
+13: Docm77: 110
+14: Welsknight: 98
+15: falsesymmetry: 89
+16: VintageBeef: 71
+17: PythonGB: 64
+18: iJevin: 58
+19: joehillssays: 38
+20: xBCrafted: 36
+21: Biffa2001: 29
+22: ZombieCleo: 24
+23: Etho: 23
+24: xisumavoid: 1
+Total 3209

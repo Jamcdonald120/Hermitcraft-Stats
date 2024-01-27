@@ -1,0 +1,28 @@
+stat.mineBlock.minecraft.leaves2
+1: Xisuma: 7149
+2: xBCrafted: 2538
+3: monkeyfarm: 1836
+4: joehillssays: 847
+5: falsesymmetry: 820
+6: zueljin: 791
+7: Tinfoilchef: 630
+8: topmass: 445
+9: sl1pg8r: 370
+10: Tango: 197
+11: iJevin: 167
+12: Docm77: 127
+13: ZombieCleo: 105
+14: hypnotizd: 103
+15: impulseSV: 87
+16: PythonGB: 57
+17: Mumbo: 50
+18: Biffa2001: 43
+19: Mrs_Keralis: 41
+20: skyzm: 31
+21: Etho: 26
+22: NameOfSamuel: 4
+23: KingDaddyDMAC: 3
+24: Pungence: 3
+25: Spumwackles: 3
+26: Keralis1: 3
+Total 16476

@@ -1,0 +1,25 @@
+minecraft.used.sea_lantern
+1: impulseSV: 27324
+2: falsesymmetry: 7423
+3: Keralis1: 6261
+4: cubfan135: 4436
+5: iJevin: 3352
+6: Xisuma: 2162
+7: hypnotizd: 2030
+8: Etho: 1312
+9: iskall85: 1180
+10: MumboJumbo: 954
+11: Renthedog: 898
+12: Docm77: 696
+13: Tango: 695
+14: Grian: 669
+15: xBCrafted: 586
+16: Stressmonster101: 540
+17: Zedaph: 390
+18: ZombieCleo: 200
+19: VintageBeef: 151
+20: GoodTimeWithScar: 150
+21: joehillssays: 117
+22: BdoubleO100: 90
+23: Welsknight: 78
+Total 61694

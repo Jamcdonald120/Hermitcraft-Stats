@@ -1,0 +1,19 @@
+minecraft.picked_up.golden_shovel
+1: iskall85: 23
+2: Grian: 22
+3: xBCrafted: 22
+4: Keralis1: 18
+5: impulseSV: 18
+6: MumboJumbo: 7
+7: iJevin: 6
+8: BdoubleO100: 6
+9: Renthedog: 5
+10: Stressmonster101: 4
+11: VintageBeef: 2
+12: Tango: 2
+13: Etho: 2
+14: joehillssays: 1
+15: falsesymmetry: 1
+16: ZombieCleo: 1
+17: Zedaph: 1
+Total 141

@@ -1,0 +1,4 @@
+stat.drop.minecraft.record_blocks
+1: Xisuma: 10
+2: GoodTimeWithScar: 1
+Total 11

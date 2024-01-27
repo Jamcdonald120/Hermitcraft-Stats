@@ -1,0 +1,10 @@
+minecraft.mined.warped_door
+1: Tango: 10
+2: ZombieCleo: 10
+3: PearlescentMoon: 4
+4: xBCrafted: 4
+5: GoodTimeWithScar: 4
+6: Smajor1995: 3
+7: Renthedog: 1
+8: fWhip: 1
+Total 37

@@ -1,0 +1,25 @@
+minecraft.picked_up.bone_block
+1: Grian: 1629
+2: cubfan135: 1127
+3: GoodTimeWithScar: 885
+4: hypnotizd: 713
+5: iJevin: 572
+6: Tango: 338
+7: impulseSV: 297
+8: Renthedog: 242
+9: joehillssays: 237
+10: iskall85: 230
+11: Etho: 230
+12: Docm77: 198
+13: BdoubleO100: 154
+14: GeminiTay: 148
+15: PearlescentMoon: 132
+16: xBCrafted: 78
+17: Welsknight: 49
+18: VintageBeef: 35
+19: ZombieCleo: 20
+20: Zedaph: 20
+21: MumboJumbo: 14
+22: Keralis1: 6
+23: falsesymmetry: 1
+Total 7355

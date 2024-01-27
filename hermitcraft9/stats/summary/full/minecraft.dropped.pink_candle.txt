@@ -1,0 +1,6 @@
+minecraft.dropped.pink_candle
+1: GoodTimeWithScar: 64
+2: Zedaph: 33
+3: fWhip: 17
+4: GeminiTay: 2
+Total 116

@@ -1,0 +1,26 @@
+minecraft.picked_up.smooth_quartz_slab
+1: impulseSV: 927
+2: GoodTimeWithScar: 760
+3: Grian: 467
+4: Keralis1: 332
+5: Zedaph: 293
+6: VintageBeef: 278
+7: SolidarityGaming: 240
+8: OrionSound: 155
+9: GeminiTay: 130
+10: Smajor1995: 120
+11: cubfan135: 109
+12: xBCrafted: 78
+13: Xisuma: 44
+14: PearlescentMoon: 35
+15: Smallishbeans: 32
+16: ZombieCleo: 23
+17: Renthedog: 19
+18: iJevin: 19
+19: Tango: 10
+20: falsesymmetry: 8
+21: Docm77: 4
+22: joehillssays: 4
+23: MythicalSausage: 3
+24: hypnotizd: 1
+Total 4091

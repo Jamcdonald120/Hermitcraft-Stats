@@ -1,0 +1,20 @@
+stat.useItem.minecraft.spruce_door
+1: Tango: 1479
+2: joehillssays: 363
+3: iskall85: 201
+4: Welsknight: 175
+5: Stressmonster101: 90
+6: iJevin: 85
+7: falsesymmetry: 80
+8: BdoubleO100: 55
+9: Xisuma: 49
+10: PythonGB: 27
+11: cubfan135: 19
+12: Zedaph: 15
+13: MumboJumbo: 13
+14: xBCrafted: 11
+15: VintageBeef: 3
+16: GoodTimeWithScar: 2
+17: Renthedog: 1
+18: ZombieCleo: 1
+Total 2669

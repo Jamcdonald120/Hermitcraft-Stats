@@ -1,0 +1,7 @@
+stat.breakItem.minecraft.stone_axe
+1: topmass: 5
+2: Tinfoilchef: 3
+3: zueljin: 1
+4: xBCrafted: 1
+5: hypnotizd: 1
+Total 11

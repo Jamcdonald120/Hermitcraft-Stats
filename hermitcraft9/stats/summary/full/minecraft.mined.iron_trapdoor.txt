@@ -1,0 +1,22 @@
+minecraft.mined.iron_trapdoor
+1: Keralis1: 305
+2: Docm77: 195
+3: cubfan135: 89
+4: Renthedog: 63
+5: impulseSV: 63
+6: VintageBeef: 61
+7: Grian: 49
+8: GoodTimeWithScar: 48
+9: Etho: 29
+10: BdoubleO100: 25
+11: falsesymmetry: 15
+12: Xisuma: 13
+13: PearlescentMoon: 12
+14: iJevin: 8
+15: Tango: 8
+16: iskall85: 8
+17: joehillssays: 7
+18: Zedaph: 7
+19: xBCrafted: 2
+20: RentheKing: 1
+Total 1008

@@ -1,0 +1,7 @@
+minecraft.picked_up.cherry_door
+1: Grian: 12
+2: GoodTimeWithScar: 10
+3: impulseSV: 6
+4: Zedaph: 2
+5: Stressmonster101: 1
+Total 31

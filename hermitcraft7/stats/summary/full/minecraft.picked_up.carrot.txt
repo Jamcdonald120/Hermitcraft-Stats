@@ -1,0 +1,26 @@
+minecraft.picked_up.carrot
+1: Stressmonster101: 38003
+2: impulseSV: 13942
+3: Xisuma: 13389
+4: Keralis1: 9810
+5: falsesymmetry: 8796
+6: iskall85: 6901
+7: Tango: 4412
+8: Docm77: 4211
+9: GoodTimeWithScar: 4148
+10: Grian: 2477
+11: iJevin: 2370
+12: cubfan135: 2354
+13: Zedaph: 1890
+14: VintageBeef: 1623
+15: joehillssays: 1267
+16: Etho: 1071
+17: ZombieCleo: 959
+18: BdoubleO100: 306
+19: Renthedog: 218
+20: hypnotizd: 187
+21: MumboJumbo: 49
+22: Welsknight: 11
+23: xBCrafted: 7
+24: HermitcraftAlt: 4
+Total 118405

@@ -1,0 +1,3 @@
+minecraft.mined.orange_candle
+1: PearlescentMoon: 6
+Total 6

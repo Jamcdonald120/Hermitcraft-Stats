@@ -1,0 +1,23 @@
+stat.useItem.minecraft.wool
+1: Xisuma: 6617
+2: Tango: 4034
+3: iskall85: 3968
+4: cubfan135: 3090
+5: MumboJumbo: 2290
+6: joehillssays: 2057
+7: GoodTimeWithScar: 1748
+8: Renthedog: 1546
+9: ZombieCleo: 1048
+10: falsesymmetry: 1033
+11: Biffa2001: 940
+12: impulseSV: 483
+13: Docm77: 356
+14: Tinfoilchef: 325
+15: Etho: 273
+16: iJevin: 159
+17: PythonGB: 140
+18: Welsknight: 98
+19: VintageBeef: 36
+20: zueljin: 23
+21: xisumavoid: 2
+Total 30266

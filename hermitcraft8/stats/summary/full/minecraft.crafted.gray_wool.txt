@@ -1,0 +1,16 @@
+minecraft.crafted.gray_wool
+1: impulseSV: 897
+2: Docm77: 417
+3: Keralis1: 392
+4: Renthedog: 374
+5: Tango: 48
+6: cubfan135: 41
+7: Xisuma: 34
+8: xBCrafted: 26
+9: GeminiTay: 25
+10: BdoubleO100: 15
+11: iJevin: 10
+12: ZombieCleo: 9
+13: Welsknight: 7
+14: GoodTimeWithScar: 4
+Total 2299

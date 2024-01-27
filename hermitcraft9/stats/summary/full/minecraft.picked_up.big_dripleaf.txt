@@ -1,0 +1,28 @@
+minecraft.picked_up.big_dripleaf
+1: cubfan135: 2164
+2: Etho: 466
+3: iJevin: 410
+4: Tango: 273
+5: PearlescentMoon: 229
+6: Zedaph: 208
+7: iskall85: 182
+8: GoodTimeWithScar: 135
+9: joehillssays: 130
+10: ZombieCleo: 102
+11: BdoubleO100: 86
+12: Docm77: 82
+13: xBCrafted: 65
+14: falsesymmetry: 60
+15: Xisuma: 43
+16: Stressmonster101: 32
+17: Grian: 31
+18: VintageBeef: 23
+19: Welsknight: 22
+20: GeminiTay: 21
+21: Keralis1: 14
+22: Renthedog: 9
+23: MythicalSausage: 9
+24: impulseSV: 9
+25: hypnotizd: 3
+26: RentheKing: 2
+Total 4810

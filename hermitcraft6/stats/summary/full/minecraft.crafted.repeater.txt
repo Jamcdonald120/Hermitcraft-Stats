@@ -1,0 +1,24 @@
+minecraft.crafted.repeater
+1: GoodTimeWithScar: 8175
+2: iskall85: 1315
+3: MumboJumbo: 1180
+4: Xisuma: 1045
+5: Grian: 951
+6: Docm77: 851
+7: impulseSV: 729
+8: cubfan135: 691
+9: joehillssays: 462
+10: Tango: 459
+11: Renthedog: 374
+12: Tinfoilchef: 215
+13: Stressmonster101: 201
+14: Zedaph: 191
+15: falsesymmetry: 143
+16: iJevin: 118
+17: Welsknight: 86
+18: ZombieCleo: 68
+19: PythonGB: 14
+20: BdoubleO100: 2
+21: Biffa2001: 1
+22: Keralis1: 1
+Total 17272

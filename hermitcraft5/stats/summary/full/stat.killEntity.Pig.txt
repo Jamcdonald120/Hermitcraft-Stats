@@ -1,0 +1,26 @@
+stat.killEntity.Pig
+1: Tinfoilchef: 384
+2: Zedaph: 266
+3: cubfan135: 159
+4: xBCrafted: 153
+5: Tango: 142
+6: iskall85: 134
+7: Stressmonster101: 113
+8: Xisuma: 107
+9: Renthedog: 99
+10: iJevin: 95
+11: Welsknight: 94
+12: GoodTimeWithScar: 72
+13: MumboJumbo: 60
+14: ZombieCleo: 48
+15: falsesymmetry: 39
+16: BdoubleO100: 35
+17: impulseSV: 30
+18: VintageBeef: 21
+19: PythonGB: 19
+20: Biffa2001: 19
+21: Etho: 7
+22: joehillssays: 6
+23: xisumavoid: 3
+24: Docm77: 1
+Total 2106

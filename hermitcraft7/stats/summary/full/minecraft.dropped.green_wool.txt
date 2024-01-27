@@ -1,0 +1,11 @@
+minecraft.dropped.green_wool
+1: Zedaph: 1667
+2: Tango: 272
+3: iskall85: 128
+4: cubfan135: 70
+5: Grian: 53
+6: Keralis1: 52
+7: impulseSV: 51
+8: Etho: 8
+9: GoodTimeWithScar: 8
+Total 2309

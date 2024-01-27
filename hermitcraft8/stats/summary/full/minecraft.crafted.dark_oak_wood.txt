@@ -1,0 +1,15 @@
+minecraft.crafted.dark_oak_wood
+1: GoodTimeWithScar: 2247
+2: GeminiTay: 978
+3: falsesymmetry: 909
+4: Tango: 621
+5: Keralis1: 489
+6: BdoubleO100: 465
+7: Grian: 324
+8: PearlescentMoon: 267
+9: ZombieCleo: 246
+10: Etho: 87
+11: joehillssays: 54
+12: Renthedog: 45
+13: impulseSV: 36
+Total 6768

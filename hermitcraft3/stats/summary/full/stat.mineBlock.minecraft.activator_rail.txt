@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.activator_rail
+1: xBCrafted: 18
+2: impulseSV: 17
+3: Tango: 9
+4: falsesymmetry: 9
+5: monkeyfarm: 6
+6: sl1pg8r: 3
+7: Xisuma: 3
+8: Etho: 2
+9: Mumbo: 1
+Total 68

@@ -1,0 +1,3 @@
+minecraft.dropped.light_gray_candle
+1: GoodTimeWithScar: 63
+Total 63

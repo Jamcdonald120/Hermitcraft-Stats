@@ -1,0 +1,7 @@
+minecraft.picked_up.mossy_cobblestone_wall
+1: Keralis1: 65
+2: PearlescentMoon: 43
+3: Docm77: 22
+4: cubfan135: 18
+5: iskall85: 2
+Total 150

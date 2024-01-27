@@ -1,0 +1,7 @@
+minecraft.picked_up.cooked_rabbit
+1: Zedaph: 105
+2: cubfan135: 13
+3: Renthedog: 5
+4: Keralis1: 5
+5: impulseSV: 3
+Total 131

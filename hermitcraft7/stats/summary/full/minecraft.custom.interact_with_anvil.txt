@@ -1,0 +1,31 @@
+minecraft.custom.interact_with_anvil
+1: Etho: 1419
+2: Keralis1: 1301
+3: Tango: 915
+4: Grian: 905
+5: GoodTimeWithScar: 853
+6: cubfan135: 808
+7: joehillssays: 653
+8: iJevin: 599
+9: iskall85: 521
+10: MumboJumbo: 461
+11: impulseSV: 457
+12: Xisuma: 453
+13: Renthedog: 421
+14: VintageBeef: 420
+15: hypnotizd: 379
+16: falsesymmetry: 362
+17: Zedaph: 315
+18: xBCrafted: 248
+19: ZombieCleo: 246
+20: Stressmonster101: 218
+21: Docm77: 174
+22: BdoubleO100: 120
+23: Welsknight: 97
+24: Tinfoilchef: 71
+25: xisumavoid: 7
+26: HermitcraftAlt: 3
+27: isGall85: 2
+28: BarryBoss1234: 2
+29: Helsknight_: 1
+Total 12431

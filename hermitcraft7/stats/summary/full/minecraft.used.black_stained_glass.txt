@@ -1,0 +1,22 @@
+minecraft.used.black_stained_glass
+1: falsesymmetry: 24024
+2: GoodTimeWithScar: 23065
+3: Keralis1: 17473
+4: joehillssays: 8671
+5: iskall85: 5487
+6: xBCrafted: 3507
+7: Xisuma: 2650
+8: Stressmonster101: 1560
+9: cubfan135: 1166
+10: Renthedog: 917
+11: Tango: 501
+12: impulseSV: 450
+13: hypnotizd: 376
+14: VintageBeef: 324
+15: Zedaph: 216
+16: BdoubleO100: 192
+17: Grian: 82
+18: MumboJumbo: 13
+19: Etho: 7
+20: iJevin: 1
+Total 90682

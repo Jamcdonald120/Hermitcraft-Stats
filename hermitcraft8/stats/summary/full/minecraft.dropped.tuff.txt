@@ -1,0 +1,27 @@
+minecraft.dropped.tuff
+1: PearlescentMoon: 364
+2: iJevin: 312
+3: MumboJumbo: 229
+4: GoodTimeWithScar: 182
+5: xBCrafted: 104
+6: Docm77: 91
+7: Etho: 67
+8: Renthedog: 65
+9: iskall85: 65
+10: BdoubleO100: 63
+11: Grian: 42
+12: cubfan135: 24
+13: Keralis1: 19
+14: GeminiTay: 16
+15: Xisuma: 12
+16: Tango: 12
+17: falsesymmetry: 12
+18: impulseSV: 9
+19: hypnotizd: 8
+20: joehillssays: 7
+21: VintageBeef: 5
+22: ZombieCleo: 4
+23: Tinfoilchef: 2
+24: Stressmonster101: 2
+25: Zedaph: 2
+Total 1718

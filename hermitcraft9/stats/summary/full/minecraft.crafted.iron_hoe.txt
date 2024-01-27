@@ -1,0 +1,18 @@
+minecraft.crafted.iron_hoe
+1: Tango: 254
+2: Renthedog: 15
+3: ZombieCleo: 12
+4: Zedaph: 5
+5: iJevin: 3
+6: PearlescentMoon: 3
+7: falsesymmetry: 2
+8: cubfan135: 2
+9: Mumbo: 2
+10: impulseSV: 2
+11: Docm77: 1
+12: MythicalSausage: 1
+13: GeminiTay: 1
+14: Grian: 1
+15: BdoubleO100: 1
+16: Stressmonster101: 1
+Total 306

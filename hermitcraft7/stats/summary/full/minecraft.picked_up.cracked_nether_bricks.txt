@@ -1,0 +1,8 @@
+minecraft.picked_up.cracked_nether_bricks
+1: Tango: 518
+2: Xisuma: 112
+3: cubfan135: 53
+4: VintageBeef: 15
+5: joehillssays: 6
+6: Etho: 2
+Total 706

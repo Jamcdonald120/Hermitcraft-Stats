@@ -1,0 +1,15 @@
+minecraft.crafted.warped_stairs
+1: MumboJumbo: 1192
+2: Xisuma: 768
+3: GoodTimeWithScar: 468
+4: Grian: 432
+5: joehillssays: 148
+6: Renthedog: 80
+7: cubfan135: 44
+8: iJevin: 32
+9: Tango: 16
+10: GeminiTay: 8
+11: BdoubleO100: 8
+12: Keralis1: 8
+13: Welsknight: 4
+Total 3208

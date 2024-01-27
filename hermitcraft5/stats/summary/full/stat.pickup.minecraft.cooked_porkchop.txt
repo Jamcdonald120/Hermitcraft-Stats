@@ -1,0 +1,25 @@
+stat.pickup.minecraft.cooked_porkchop
+1: Zedaph: 658
+2: Tango: 472
+3: Tinfoilchef: 412
+4: cubfan135: 411
+5: Xisuma: 246
+6: Renthedog: 212
+7: iJevin: 191
+8: iskall85: 162
+9: Stressmonster101: 133
+10: GoodTimeWithScar: 109
+11: Welsknight: 98
+12: impulseSV: 75
+13: falsesymmetry: 55
+14: VintageBeef: 28
+15: ZombieCleo: 26
+16: PythonGB: 21
+17: Docm77: 20
+18: MumboJumbo: 14
+19: BdoubleO100: 7
+20: Etho: 6
+21: Biffa2001: 5
+22: joehillssays: 4
+23: xBCrafted: 3
+Total 3368

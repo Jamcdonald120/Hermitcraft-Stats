@@ -1,0 +1,10 @@
+stat.useItem.minecraft.redstone_ore
+1: Xisuma: 1428
+2: Tango: 195
+3: sl1pg8r: 163
+4: Mumbo: 154
+5: Tinfoilchef: 53
+6: falsesymmetry: 34
+7: iJevin: 4
+8: Spumwackles: 1
+Total 2032

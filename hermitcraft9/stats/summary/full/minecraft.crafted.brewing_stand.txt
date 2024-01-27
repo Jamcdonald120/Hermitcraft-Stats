@@ -1,0 +1,25 @@
+minecraft.crafted.brewing_stand
+1: Xisuma: 137
+2: iJevin: 74
+3: impulseSV: 68
+4: GeminiTay: 66
+5: cubfan135: 52
+6: PearlescentMoon: 33
+7: Tango: 32
+8: Keralis1: 28
+9: Grian: 17
+10: Zedaph: 16
+11: BdoubleO100: 11
+12: falsesymmetry: 9
+13: Docm77: 5
+14: ZombieCleo: 5
+15: Stressmonster101: 5
+16: joehillssays: 4
+17: iskall85: 3
+18: GoodTimeWithScar: 3
+19: xBCrafted: 2
+20: Etho: 2
+21: hypnotizd: 2
+22: fWhip: 2
+23: Welsknight: 1
+Total 577

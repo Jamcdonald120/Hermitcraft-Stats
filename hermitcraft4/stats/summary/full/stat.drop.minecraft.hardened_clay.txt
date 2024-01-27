@@ -1,0 +1,19 @@
+stat.drop.minecraft.hardened_clay
+1: GoodTimeWithScar: 3582
+2: Tango: 3519
+3: Renthedog: 1865
+4: cubfan135: 1626
+5: iJevin: 1623
+6: falsesymmetry: 1117
+7: Xisuma: 941
+8: iskall85: 368
+9: impulseSV: 115
+10: MumboJumbo: 89
+11: PythonGB: 65
+12: Welsknight: 28
+13: joehillssays: 20
+14: ZombieCleo: 8
+15: VintageBeef: 6
+16: Jessassin: 1
+17: Mumbo: 1
+Total 14974

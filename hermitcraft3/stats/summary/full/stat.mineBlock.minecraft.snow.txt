@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.snow
+1: topmass: 2748
+2: ZombieCleo: 2373
+3: Spumwackles: 1382
+4: Mumbo: 761
+5: falsesymmetry: 667
+6: Tango: 180
+7: Docm77: 126
+8: iJevin: 107
+9: sl1pg8r: 91
+10: KingDaddyDMAC: 59
+11: xBCrafted: 48
+12: Xisuma: 40
+13: impulseSV: 33
+14: Tinfoilchef: 31
+15: hypnotizd: 14
+16: Etho: 3
+Total 8663

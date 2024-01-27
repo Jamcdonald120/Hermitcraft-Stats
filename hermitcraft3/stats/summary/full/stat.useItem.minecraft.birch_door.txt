@@ -1,0 +1,14 @@
+stat.useItem.minecraft.birch_door
+1: falsesymmetry: 43
+2: joehillssays: 14
+3: xBCrafted: 14
+4: impulseSV: 14
+5: Tango: 8
+6: Xisuma: 6
+7: topmass: 4
+8: zueljin: 4
+9: Keralis1: 3
+10: Spumwackles: 2
+11: Mumbo: 1
+12: Tinfoilchef: 1
+Total 114

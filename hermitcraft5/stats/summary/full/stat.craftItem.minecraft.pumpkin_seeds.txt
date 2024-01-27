@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.pumpkin_seeds
+1: MumboJumbo: 1332
+2: cubfan135: 384
+3: Tango: 248
+4: Docm77: 136
+5: Zedaph: 80
+6: Tinfoilchef: 72
+7: impulseSV: 56
+8: falsesymmetry: 24
+9: GoodTimeWithScar: 20
+10: ZombieCleo: 16
+11: xBCrafted: 12
+12: iJevin: 4
+13: Stressmonster101: 4
+Total 2388

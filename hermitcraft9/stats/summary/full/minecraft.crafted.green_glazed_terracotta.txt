@@ -1,0 +1,12 @@
+minecraft.crafted.green_glazed_terracotta
+1: Etho: 689
+2: Grian: 601
+3: impulseSV: 64
+4: Renthedog: 32
+5: MythicalSausage: 32
+6: BdoubleO100: 18
+7: GoodTimeWithScar: 12
+8: Docm77: 2
+9: Xisuma: 1
+10: Zedaph: 1
+Total 1452

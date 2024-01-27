@@ -1,0 +1,17 @@
+minecraft.dropped.purpur_stairs
+1: GoodTimeWithScar: 102
+2: falsesymmetry: 70
+3: Tango: 27
+4: cubfan135: 27
+5: iskall85: 21
+6: hypnotizd: 15
+7: Renthedog: 14
+8: MumboJumbo: 13
+9: Xisuma: 10
+10: iJevin: 9
+11: Keralis1: 9
+12: Etho: 5
+13: Grian: 3
+14: xBCrafted: 3
+15: impulseSV: 3
+Total 331

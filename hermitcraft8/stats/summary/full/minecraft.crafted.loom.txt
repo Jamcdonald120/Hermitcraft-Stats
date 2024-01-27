@@ -1,0 +1,17 @@
+minecraft.crafted.loom
+1: PearlescentMoon: 98
+2: GoodTimeWithScar: 65
+3: Xisuma: 20
+4: GeminiTay: 19
+5: Etho: 19
+6: BdoubleO100: 13
+7: Zedaph: 5
+8: Tango: 3
+9: Renthedog: 2
+10: joehillssays: 1
+11: Grian: 1
+12: xBCrafted: 1
+13: falsesymmetry: 1
+14: MumboJumbo: 1
+15: impulseSV: 1
+Total 250

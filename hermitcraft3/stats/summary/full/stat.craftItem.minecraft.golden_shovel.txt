@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.golden_shovel
+1: Xisuma: 22
+2: sl1pg8r: 5
+Total 27

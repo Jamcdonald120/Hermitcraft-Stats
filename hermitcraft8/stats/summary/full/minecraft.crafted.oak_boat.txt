@@ -1,0 +1,25 @@
+minecraft.crafted.oak_boat
+1: Grian: 987
+2: iJevin: 30
+3: Renthedog: 28
+4: Tango: 27
+5: Zedaph: 26
+6: Docm77: 19
+7: Xisuma: 18
+8: BdoubleO100: 13
+9: impulseSV: 9
+10: joehillssays: 8
+11: MumboJumbo: 6
+12: falsesymmetry: 5
+13: GoodTimeWithScar: 5
+14: GeminiTay: 4
+15: iskall85: 4
+16: cubfan135: 4
+17: PearlescentMoon: 2
+18: Etho: 2
+19: VintageBeef: 1
+20: xBCrafted: 1
+21: Welsknight: 1
+22: ZombieCleo: 1
+23: hypnotizd: 1
+Total 1202

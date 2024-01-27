@@ -1,0 +1,25 @@
+stat.useItem.minecraft.string
+1: cubfan135: 1033
+2: falsesymmetry: 975
+3: Xisuma: 823
+4: impulseSV: 561
+5: MumboJumbo: 516
+6: Renthedog: 308
+7: Tango: 260
+8: GoodTimeWithScar: 253
+9: iJevin: 244
+10: Welsknight: 178
+11: Docm77: 146
+12: iskall85: 103
+13: PythonGB: 81
+14: xBCrafted: 80
+15: Zedaph: 40
+16: VintageBeef: 22
+17: ZombieCleo: 18
+18: Biffa2001: 11
+19: BdoubleO100: 4
+20: Tinfoilchef: 4
+21: Stressmonster101: 2
+22: joehillssays: 1
+23: Etho: 1
+Total 5664

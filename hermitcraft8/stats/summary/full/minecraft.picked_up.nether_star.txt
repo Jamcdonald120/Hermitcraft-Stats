@@ -1,0 +1,17 @@
+minecraft.picked_up.nether_star
+1: iJevin: 142
+2: Grian: 4
+3: PearlescentMoon: 4
+4: Docm77: 3
+5: Renthedog: 2
+6: xBCrafted: 2
+7: cubfan135: 2
+8: GoodTimeWithScar: 2
+9: Xisuma: 1
+10: VintageBeef: 1
+11: GeminiTay: 1
+12: falsesymmetry: 1
+13: Welsknight: 1
+14: Etho: 1
+15: impulseSV: 1
+Total 168

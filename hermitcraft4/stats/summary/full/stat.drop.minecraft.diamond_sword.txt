@@ -1,0 +1,20 @@
+stat.drop.minecraft.diamond_sword
+1: Renthedog: 17
+2: Xisuma: 15
+3: Tango: 12
+4: cubfan135: 12
+5: joehillssays: 8
+6: iskall85: 8
+7: MumboJumbo: 6
+8: GoodTimeWithScar: 5
+9: Welsknight: 4
+10: Etho: 4
+11: Tinfoilchef: 4
+12: PythonGB: 3
+13: iJevin: 3
+14: falsesymmetry: 3
+15: Docm77: 2
+16: impulseSV: 2
+17: xisumavoid: 1
+18: Biffa2001: 1
+Total 110

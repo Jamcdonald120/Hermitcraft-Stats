@@ -1,0 +1,25 @@
+minecraft.crafted.lectern
+1: Etho: 677
+2: GoodTimeWithScar: 91
+3: Grian: 89
+4: Keralis1: 73
+5: hypnotizd: 72
+6: cubfan135: 52
+7: Stressmonster101: 42
+8: Xisuma: 34
+9: Zedaph: 26
+10: xBCrafted: 20
+11: Docm77: 19
+12: BdoubleO100: 17
+13: VintageBeef: 15
+14: Tango: 14
+15: iskall85: 10
+16: falsesymmetry: 7
+17: MumboJumbo: 7
+18: joehillssays: 5
+19: Renthedog: 4
+20: iJevin: 4
+21: impulseSV: 4
+22: ZombieCleo: 3
+23: Welsknight: 1
+Total 1286

@@ -1,0 +1,23 @@
+minecraft.killed.wither_skeleton
+1: impulseSV: 29731
+2: Etho: 5766
+3: xBCrafted: 2836
+4: Tango: 2123
+5: Keralis1: 437
+6: iJevin: 393
+7: hypnotizd: 224
+8: cubfan135: 213
+9: Grian: 159
+10: iskall85: 156
+11: falsesymmetry: 106
+12: Xisuma: 81
+13: GoodTimeWithScar: 75
+14: Welsknight: 60
+15: MumboJumbo: 47
+16: VintageBeef: 15
+17: Zedaph: 15
+18: Stressmonster101: 10
+19: joehillssays: 7
+20: Docm77: 2
+21: ZombieCleo: 2
+Total 42458

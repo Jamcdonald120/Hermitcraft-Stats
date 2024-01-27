@@ -1,0 +1,19 @@
+minecraft.picked_up.brown_carpet
+1: VintageBeef: 9804
+2: PearlescentMoon: 900
+3: falsesymmetry: 297
+4: Grian: 268
+5: impulseSV: 251
+6: iJevin: 203
+7: Tango: 61
+8: Stressmonster101: 57
+9: cubfan135: 53
+10: iskall85: 51
+11: joehillssays: 40
+12: Renthedog: 33
+13: Keralis1: 28
+14: GoodTimeWithScar: 18
+15: xBCrafted: 6
+16: BdoubleO100: 4
+17: Zedaph: 1
+Total 12075

@@ -1,0 +1,31 @@
+minecraft.crafted.redstone_torch
+1: Tango: 16609
+2: GoodTimeWithScar: 11782
+3: Xisuma: 8711
+4: Docm77: 8427
+5: Etho: 7048
+6: cubfan135: 6522
+7: Pixlriffs: 6366
+8: impulseSV: 4568
+9: iskall85: 2443
+10: Keralis1: 1875
+11: iJevin: 1383
+12: hypnotizd: 1352
+13: Grian: 1330
+14: Zedaph: 1316
+15: Renthedog: 1170
+16: xBCrafted: 792
+17: falsesymmetry: 485
+18: BdoubleO100: 443
+19: Mumbo: 365
+20: PearlescentMoon: 308
+21: ZombieCleo: 299
+22: MythicalSausage: 156
+23: RentheKing: 128
+24: joehillssays: 113
+25: VintageBeef: 102
+26: GeminiTay: 45
+27: Stressmonster101: 22
+28: OrionSound: 8
+29: Welsknight: 1
+Total 84169

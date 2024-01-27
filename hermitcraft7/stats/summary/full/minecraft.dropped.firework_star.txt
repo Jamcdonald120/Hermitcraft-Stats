@@ -1,0 +1,5 @@
+minecraft.dropped.firework_star
+1: falsesymmetry: 65
+2: cubfan135: 35
+3: MumboJumbo: 1
+Total 101

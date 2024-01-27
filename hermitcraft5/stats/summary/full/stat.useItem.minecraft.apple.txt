@@ -1,0 +1,22 @@
+stat.useItem.minecraft.apple
+1: cubfan135: 249
+2: GoodTimeWithScar: 101
+3: Stressmonster101: 88
+4: BdoubleO100: 69
+5: VintageBeef: 29
+6: joehillssays: 21
+7: iskall85: 21
+8: Welsknight: 17
+9: Renthedog: 15
+10: Xisuma: 6
+11: Zedaph: 6
+12: Etho: 5
+13: ZombieCleo: 5
+14: Docm77: 3
+15: Tinfoilchef: 3
+16: PythonGB: 2
+17: Tango: 2
+18: falsesymmetry: 2
+19: impulseSV: 2
+20: xBCrafted: 1
+Total 647

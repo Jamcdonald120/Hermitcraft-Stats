@@ -1,0 +1,4 @@
+minecraft.killed_by.zombie_villager
+1: GoodTimeWithScar: 2
+2: Grian: 1
+Total 3

@@ -1,0 +1,18 @@
+minecraft.picked_up.snow
+1: Grian: 21719
+2: GoodTimeWithScar: 21535
+3: Xisuma: 11930
+4: MumboJumbo: 5915
+5: iskall85: 3706
+6: falsesymmetry: 3059
+7: cubfan135: 2640
+8: Tango: 963
+9: Renthedog: 720
+10: Welsknight: 520
+11: Stressmonster101: 429
+12: impulseSV: 126
+13: BdoubleO100: 63
+14: Zedaph: 52
+15: Biffa2001: 42
+16: iJevin: 34
+Total 73453

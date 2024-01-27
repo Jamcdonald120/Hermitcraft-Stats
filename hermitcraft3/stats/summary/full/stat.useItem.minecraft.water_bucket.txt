@@ -1,0 +1,28 @@
+stat.useItem.minecraft.water_bucket
+1: falsesymmetry: 3486
+2: xBCrafted: 3055
+3: Xisuma: 2026
+4: Tinfoilchef: 1487
+5: Tango: 1275
+6: sl1pg8r: 909
+7: iJevin: 726
+8: KingDaddyDMAC: 720
+9: monkeyfarm: 688
+10: Mumbo: 661
+11: ZombieCleo: 578
+12: zueljin: 566
+13: Biffa2001: 482
+14: impulseSV: 472
+15: hypnotizd: 395
+16: topmass: 358
+17: PythonGB: 160
+18: Spumwackles: 160
+19: Docm77: 127
+20: joehillssays: 102
+21: Etho: 90
+22: NameOfSamuel: 79
+23: Pungence: 43
+24: Keralis1: 11
+25: skyzm: 3
+26: Collen: 2
+Total 18661

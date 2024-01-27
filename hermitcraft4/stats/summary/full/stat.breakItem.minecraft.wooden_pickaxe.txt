@@ -1,0 +1,6 @@
+stat.breakItem.minecraft.wooden_pickaxe
+1: GoodTimeWithScar: 2
+2: PythonGB: 1
+3: Mumbo: 1
+4: Tinfoilchef: 1
+Total 5

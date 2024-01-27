@@ -1,0 +1,30 @@
+minecraft.picked_up.chicken
+1: cubfan135: 29163
+2: Grian: 3511
+3: ZombieCleo: 1859
+4: GoodTimeWithScar: 1316
+5: Docm77: 1311
+6: Mumbo: 1295
+7: hypnotizd: 1290
+8: Renthedog: 669
+9: iJevin: 601
+10: Xisuma: 492
+11: Zedaph: 269
+12: Etho: 262
+13: VintageBeef: 163
+14: Tango: 160
+15: falsesymmetry: 72
+16: impulseSV: 53
+17: joehillssays: 41
+18: PearlescentMoon: 37
+19: xBCrafted: 36
+20: RentheKing: 25
+21: BdoubleO100: 12
+22: iskall85: 11
+23: Keralis1: 11
+24: GeminiTay: 9
+25: Stressmonster101: 8
+26: Pixlriffs: 6
+27: SolidarityGaming: 4
+28: Smallishbeans: 1
+Total 42687

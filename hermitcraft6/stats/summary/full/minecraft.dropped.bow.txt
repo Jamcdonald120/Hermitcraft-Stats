@@ -1,0 +1,26 @@
+minecraft.dropped.bow
+1: Grian: 1480
+2: Xisuma: 883
+3: Zedaph: 254
+4: iskall85: 241
+5: impulseSV: 221
+6: iJevin: 137
+7: ZombieCleo: 122
+8: Docm77: 120
+9: Renthedog: 119
+10: cubfan135: 109
+11: Stressmonster101: 90
+12: joehillssays: 69
+13: GoodTimeWithScar: 63
+14: Tango: 45
+15: PythonGB: 41
+16: MumboJumbo: 35
+17: Biffa2001: 32
+18: falsesymmetry: 9
+19: BdoubleO100: 7
+20: Keralis1: 2
+21: EvilXisuma: 1
+22: xBCrafted: 1
+23: Welsknight: 1
+24: Tinfoilchef: 1
+Total 4083

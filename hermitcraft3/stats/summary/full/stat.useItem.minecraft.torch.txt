@@ -1,0 +1,31 @@
+stat.useItem.minecraft.torch
+1: xBCrafted: 31008
+2: falsesymmetry: 26334
+3: Xisuma: 16489
+4: Tango: 10207
+5: Tinfoilchef: 9439
+6: monkeyfarm: 8632
+7: hypnotizd: 8525
+8: topmass: 7862
+9: sl1pg8r: 5987
+10: Biffa2001: 5694
+11: KingDaddyDMAC: 5471
+12: impulseSV: 4472
+13: zueljin: 3874
+14: Mumbo: 3357
+15: Spumwackles: 2511
+16: iJevin: 1959
+17: PythonGB: 1898
+18: Etho: 1538
+19: ZombieCleo: 1416
+20: joehillssays: 1381
+21: skyzm: 689
+22: Pungence: 545
+23: Keralis1: 541
+24: Docm77: 257
+25: NameOfSamuel: 228
+26: Collen: 183
+27: snipepager: 179
+28: Mrs_Keralis: 28
+29: xisumavoid: 2
+Total 160706

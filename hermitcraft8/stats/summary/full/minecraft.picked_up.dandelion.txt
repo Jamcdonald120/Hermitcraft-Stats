@@ -1,0 +1,28 @@
+minecraft.picked_up.dandelion
+1: GoodTimeWithScar: 484
+2: joehillssays: 265
+3: impulseSV: 197
+4: Tango: 195
+5: cubfan135: 147
+6: Renthedog: 134
+7: PearlescentMoon: 107
+8: iJevin: 106
+9: Keralis1: 97
+10: xBCrafted: 95
+11: Grian: 94
+12: Xisuma: 84
+13: ZombieCleo: 84
+14: GeminiTay: 71
+15: BdoubleO100: 58
+16: Welsknight: 58
+17: MumboJumbo: 52
+18: hypnotizd: 32
+19: falsesymmetry: 30
+20: Zedaph: 24
+21: Etho: 10
+22: Stressmonster101: 10
+23: VintageBeef: 8
+24: iskall85: 8
+25: Docm77: 7
+26: Tinfoilchef: 6
+Total 2463

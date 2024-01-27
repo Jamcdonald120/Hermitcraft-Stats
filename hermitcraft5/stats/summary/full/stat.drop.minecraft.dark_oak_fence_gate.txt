@@ -1,0 +1,4 @@
+stat.drop.minecraft.dark_oak_fence_gate
+1: xBCrafted: 34
+2: falsesymmetry: 2
+Total 36

@@ -1,0 +1,22 @@
+minecraft.used.quartz_pillar
+1: PythonGB: 8081
+2: falsesymmetry: 2392
+3: Renthedog: 1954
+4: cubfan135: 1153
+5: Xisuma: 1067
+6: Grian: 893
+7: iskall85: 551
+8: Welsknight: 496
+9: Docm77: 494
+10: iJevin: 399
+11: Zedaph: 361
+12: GoodTimeWithScar: 243
+13: impulseSV: 157
+14: Keralis1: 66
+15: ZombieCleo: 64
+16: BdoubleO100: 57
+17: Tinfoilchef: 37
+18: joehillssays: 21
+19: MumboJumbo: 14
+20: xBCrafted: 4
+Total 18504

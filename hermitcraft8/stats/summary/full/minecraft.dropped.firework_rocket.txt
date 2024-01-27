@@ -1,0 +1,23 @@
+minecraft.dropped.firework_rocket
+1: Grian: 2397
+2: iJevin: 2300
+3: Tango: 1381
+4: impulseSV: 1245
+5: PearlescentMoon: 734
+6: Renthedog: 438
+7: Docm77: 413
+8: Xisuma: 397
+9: MumboJumbo: 365
+10: Keralis1: 345
+11: GoodTimeWithScar: 257
+12: GeminiTay: 207
+13: Zedaph: 174
+14: BdoubleO100: 166
+15: cubfan135: 145
+16: hypnotizd: 75
+17: joehillssays: 68
+18: VintageBeef: 43
+19: xBCrafted: 25
+20: ZombieCleo: 5
+21: Welsknight: 2
+Total 11182

@@ -1,0 +1,25 @@
+stat.drop.minecraft.cobblestone
+1: iskall85: 46129
+2: GoodTimeWithScar: 22007
+3: Xisuma: 21981
+4: cubfan135: 17962
+5: Renthedog: 15472
+6: MumboJumbo: 15191
+7: Tinfoilchef: 7754
+8: xBCrafted: 7479
+9: Tango: 5741
+10: Zedaph: 4890
+11: falsesymmetry: 4572
+12: iJevin: 4534
+13: impulseSV: 4459
+14: Docm77: 3867
+15: PythonGB: 3722
+16: joehillssays: 2665
+17: Welsknight: 2108
+18: Etho: 1578
+19: BdoubleO100: 991
+20: Stressmonster101: 703
+21: Biffa2001: 379
+22: VintageBeef: 353
+23: ZombieCleo: 268
+Total 194805

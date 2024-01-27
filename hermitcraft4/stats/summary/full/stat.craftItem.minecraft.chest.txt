@@ -1,0 +1,26 @@
+stat.craftItem.minecraft.chest
+1: MumboJumbo: 6830
+2: Xisuma: 4370
+3: iskall85: 3173
+4: Tango: 2514
+5: cubfan135: 2160
+6: Renthedog: 2097
+7: GoodTimeWithScar: 2018
+8: Tinfoilchef: 1911
+9: impulseSV: 1846
+10: iJevin: 1725
+11: falsesymmetry: 1053
+12: Welsknight: 659
+13: PythonGB: 388
+14: Biffa2001: 344
+15: joehillssays: 327
+16: Docm77: 184
+17: Etho: 168
+18: ZombieCleo: 154
+19: Mumbo: 133
+20: VintageBeef: 44
+21: zueljin: 24
+22: Jessassin: 13
+23: xBCrafted: 8
+24: hypnotizd: 1
+Total 32144

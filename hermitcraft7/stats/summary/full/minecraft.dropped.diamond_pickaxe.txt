@@ -1,0 +1,25 @@
+minecraft.dropped.diamond_pickaxe
+1: Zedaph: 69
+2: Keralis1: 38
+3: iJevin: 31
+4: Tango: 30
+5: iskall85: 23
+6: Etho: 22
+7: Grian: 17
+8: GoodTimeWithScar: 14
+9: MumboJumbo: 13
+10: cubfan135: 10
+11: Stressmonster101: 9
+12: Xisuma: 8
+13: Renthedog: 7
+14: hypnotizd: 7
+15: BdoubleO100: 6
+16: impulseSV: 6
+17: Docm77: 5
+18: ZombieCleo: 5
+19: VintageBeef: 4
+20: falsesymmetry: 4
+21: joehillssays: 3
+22: Welsknight: 3
+23: BarryBoss1234: 1
+Total 335

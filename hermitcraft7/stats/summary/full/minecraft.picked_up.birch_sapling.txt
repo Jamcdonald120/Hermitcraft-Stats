@@ -1,0 +1,26 @@
+minecraft.picked_up.birch_sapling
+1: Renthedog: 4141
+2: Etho: 2396
+3: hypnotizd: 1424
+4: Grian: 1349
+5: Xisuma: 1165
+6: BdoubleO100: 1086
+7: cubfan135: 904
+8: joehillssays: 667
+9: Keralis1: 599
+10: Stressmonster101: 514
+11: GoodTimeWithScar: 360
+12: xBCrafted: 350
+13: falsesymmetry: 303
+14: ZombieCleo: 251
+15: Zedaph: 198
+16: VintageBeef: 174
+17: Docm77: 145
+18: Tango: 132
+19: impulseSV: 115
+20: Welsknight: 75
+21: iskall85: 39
+22: iJevin: 38
+23: MumboJumbo: 38
+24: Tinfoilchef: 20
+Total 16483

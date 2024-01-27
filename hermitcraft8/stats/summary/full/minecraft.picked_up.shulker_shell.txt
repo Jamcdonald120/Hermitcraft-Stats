@@ -1,0 +1,22 @@
+minecraft.picked_up.shulker_shell
+1: Docm77: 3731
+2: iJevin: 1686
+3: GoodTimeWithScar: 1081
+4: Keralis1: 818
+5: cubfan135: 508
+6: hypnotizd: 255
+7: Xisuma: 254
+8: impulseSV: 229
+9: Renthedog: 226
+10: Etho: 192
+11: PearlescentMoon: 144
+12: xBCrafted: 133
+13: Grian: 107
+14: Tango: 76
+15: ZombieCleo: 41
+16: Welsknight: 32
+17: joehillssays: 28
+18: VintageBeef: 26
+19: BdoubleO100: 12
+20: falsesymmetry: 2
+Total 9581

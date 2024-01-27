@@ -1,0 +1,8 @@
+minecraft.dropped.wooden_sword
+1: ZombieCleo: 9
+2: VintageBeef: 2
+3: iJevin: 2
+4: Renthedog: 1
+5: Tango: 1
+6: hypnotizd: 1
+Total 16

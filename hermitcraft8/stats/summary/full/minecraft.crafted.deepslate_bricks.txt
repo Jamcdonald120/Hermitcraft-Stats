@@ -1,0 +1,23 @@
+minecraft.crafted.deepslate_bricks
+1: Xisuma: 5657
+2: Stressmonster101: 3784
+3: cubfan135: 2708
+4: Grian: 2280
+5: PearlescentMoon: 1972
+6: GoodTimeWithScar: 624
+7: MumboJumbo: 584
+8: Welsknight: 576
+9: GeminiTay: 476
+10: iJevin: 456
+11: EvilXisuma: 288
+12: Keralis1: 150
+13: Etho: 128
+14: Docm77: 87
+15: joehillssays: 81
+16: Tango: 64
+17: impulseSV: 64
+18: Renthedog: 32
+19: ZombieCleo: 12
+20: BdoubleO100: 7
+21: iskall85: 1
+Total 20031

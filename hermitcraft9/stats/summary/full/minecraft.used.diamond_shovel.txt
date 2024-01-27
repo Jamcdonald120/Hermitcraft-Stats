@@ -1,0 +1,35 @@
+minecraft.used.diamond_shovel
+1: Tango: 553252
+2: joehillssays: 526694
+3: GoodTimeWithScar: 364537
+4: Grian: 362760
+5: Renthedog: 271658
+6: Docm77: 230685
+7: hypnotizd: 208357
+8: iJevin: 199176
+9: VintageBeef: 171277
+10: falsesymmetry: 157360
+11: Keralis1: 146205
+12: ZombieCleo: 94883
+13: Zedaph: 81107
+14: Mumbo: 70623
+15: BdoubleO100: 69252
+16: Etho: 67986
+17: PearlescentMoon: 67122
+18: Stressmonster101: 54166
+19: iskall85: 43820
+20: RentheKing: 36056
+21: GeminiTay: 30921
+22: impulseSV: 27954
+23: Xisuma: 22877
+24: xBCrafted: 17765
+25: cubfan135: 11580
+26: Pixlriffs: 9166
+27: MythicalSausage: 5734
+28: Welsknight: 4685
+29: Smallishbeans: 2114
+30: MumboJumbo: 781
+31: OrionSound: 413
+32: Smajor1995: 10
+33: STEAKFG: 1
+Total 3910977

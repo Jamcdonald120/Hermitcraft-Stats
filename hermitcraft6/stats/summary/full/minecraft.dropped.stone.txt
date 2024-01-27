@@ -1,0 +1,26 @@
+minecraft.dropped.stone
+1: iskall85: 146519
+2: Tango: 51697
+3: iJevin: 47263
+4: GoodTimeWithScar: 41429
+5: cubfan135: 39995
+6: Welsknight: 34157
+7: impulseSV: 15714
+8: Renthedog: 14861
+9: falsesymmetry: 14651
+10: Stressmonster101: 13165
+11: Zedaph: 13091
+12: MumboJumbo: 8457
+13: Xisuma: 8453
+14: Grian: 7814
+15: Docm77: 7591
+16: xBCrafted: 2181
+17: Keralis1: 2038
+18: joehillssays: 1876
+19: Tinfoilchef: 807
+20: PythonGB: 763
+21: Biffa2001: 138
+22: BdoubleO100: 80
+23: ZombieCleo: 62
+24: BadTimeWithScar: 6
+Total 472808

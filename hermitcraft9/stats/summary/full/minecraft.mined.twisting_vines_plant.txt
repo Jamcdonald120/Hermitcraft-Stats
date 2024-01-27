@@ -1,0 +1,20 @@
+minecraft.mined.twisting_vines_plant
+1: Tango: 248
+2: Mumbo: 100
+3: Etho: 94
+4: Grian: 55
+5: cubfan135: 52
+6: Xisuma: 27
+7: PearlescentMoon: 20
+8: GoodTimeWithScar: 13
+9: ZombieCleo: 11
+10: Keralis1: 10
+11: impulseSV: 6
+12: falsesymmetry: 3
+13: Stressmonster101: 3
+14: VintageBeef: 1
+15: iJevin: 1
+16: GeminiTay: 1
+17: iskall85: 1
+18: Zedaph: 1
+Total 647

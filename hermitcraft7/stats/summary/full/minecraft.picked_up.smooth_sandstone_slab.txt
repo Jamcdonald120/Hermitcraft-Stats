@@ -1,0 +1,21 @@
+minecraft.picked_up.smooth_sandstone_slab
+1: Renthedog: 2132
+2: cubfan135: 1767
+3: VintageBeef: 693
+4: Etho: 507
+5: ZombieCleo: 455
+6: Xisuma: 418
+7: joehillssays: 283
+8: Welsknight: 278
+9: xBCrafted: 114
+10: Zedaph: 101
+11: Grian: 86
+12: iskall85: 54
+13: hypnotizd: 53
+14: Keralis1: 34
+15: Tango: 27
+16: BdoubleO100: 20
+17: GoodTimeWithScar: 14
+18: Stressmonster101: 11
+19: impulseSV: 2
+Total 7049

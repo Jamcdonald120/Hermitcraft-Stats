@@ -1,0 +1,21 @@
+stat.killEntity.Rabbit
+1: xBCrafted: 28
+2: topmass: 22
+3: Tinfoilchef: 17
+4: Tango: 14
+5: Spumwackles: 13
+6: KingDaddyDMAC: 11
+7: iJevin: 10
+8: Xisuma: 8
+9: hypnotizd: 8
+10: Pungence: 5
+11: sl1pg8r: 4
+12: impulseSV: 4
+13: Biffa2001: 2
+14: ZombieCleo: 2
+15: Mumbo: 2
+16: joehillssays: 1
+17: monkeyfarm: 1
+18: Keralis1: 1
+19: Collen: 1
+Total 154

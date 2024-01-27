@@ -1,0 +1,7 @@
+minecraft.picked_up.orange_candle
+1: iJevin: 270
+2: GoodTimeWithScar: 189
+3: Renthedog: 59
+4: hypnotizd: 8
+5: Zedaph: 1
+Total 527

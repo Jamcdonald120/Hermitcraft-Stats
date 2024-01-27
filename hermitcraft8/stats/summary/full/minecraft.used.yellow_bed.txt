@@ -1,0 +1,21 @@
+minecraft.used.yellow_bed
+1: impulseSV: 136
+2: iJevin: 27
+3: Grian: 21
+4: GeminiTay: 18
+5: iskall85: 17
+6: Xisuma: 12
+7: PearlescentMoon: 9
+8: hypnotizd: 7
+9: Renthedog: 3
+10: joehillssays: 3
+11: falsesymmetry: 3
+12: MumboJumbo: 3
+13: Docm77: 2
+14: cubfan135: 2
+15: GoodTimeWithScar: 2
+16: Keralis1: 2
+17: BdoubleO100: 1
+18: Etho: 1
+19: Stressmonster101: 1
+Total 270

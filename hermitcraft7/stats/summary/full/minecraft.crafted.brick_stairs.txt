@@ -1,0 +1,13 @@
+minecraft.crafted.brick_stairs
+1: Keralis1: 896
+2: cubfan135: 144
+3: xBCrafted: 78
+4: GoodTimeWithScar: 52
+5: iJevin: 48
+6: iskall85: 48
+7: Xisuma: 36
+8: Grian: 28
+9: falsesymmetry: 8
+10: Zedaph: 8
+11: impulseSV: 4
+Total 1350

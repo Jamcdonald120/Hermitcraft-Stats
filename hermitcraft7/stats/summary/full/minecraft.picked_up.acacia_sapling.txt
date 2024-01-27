@@ -1,0 +1,22 @@
+minecraft.picked_up.acacia_sapling
+1: Renthedog: 2433
+2: Etho: 1303
+3: BdoubleO100: 1274
+4: Grian: 952
+5: GoodTimeWithScar: 538
+6: Zedaph: 512
+7: xBCrafted: 486
+8: VintageBeef: 354
+9: Keralis1: 153
+10: impulseSV: 85
+11: hypnotizd: 81
+12: joehillssays: 54
+13: Xisuma: 39
+14: ZombieCleo: 34
+15: Welsknight: 16
+16: iskall85: 13
+17: falsesymmetry: 13
+18: iJevin: 7
+19: Tango: 2
+20: cubfan135: 2
+Total 8351

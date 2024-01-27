@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.red_nether_brick
+1: Tango: 19813
+2: iskall85: 826
+3: cubfan135: 812
+4: GoodTimeWithScar: 742
+5: Xisuma: 544
+6: falsesymmetry: 322
+7: MumboJumbo: 306
+8: joehillssays: 156
+9: Welsknight: 64
+10: impulseSV: 64
+11: iJevin: 1
+Total 23650

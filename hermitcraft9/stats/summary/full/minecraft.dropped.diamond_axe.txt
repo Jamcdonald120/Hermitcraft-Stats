@@ -1,0 +1,31 @@
+minecraft.dropped.diamond_axe
+1: Grian: 22
+2: Renthedog: 17
+3: GoodTimeWithScar: 14
+4: iJevin: 13
+5: Keralis1: 13
+6: Tango: 9
+7: cubfan135: 9
+8: PearlescentMoon: 8
+9: Etho: 7
+10: Docm77: 6
+11: xBCrafted: 6
+12: ZombieCleo: 6
+13: Xisuma: 5
+14: OrionSound: 4
+15: Smajor1995: 4
+16: MythicalSausage: 4
+17: GeminiTay: 4
+18: BdoubleO100: 4
+19: iskall85: 4
+20: RentheKing: 4
+21: joehillssays: 3
+22: Smallishbeans: 3
+23: hypnotizd: 3
+24: impulseSV: 3
+25: falsesymmetry: 2
+26: ShubbleYT: 2
+27: Minerva246: 1
+28: VintageBeef: 1
+29: SolidarityGaming: 1
+Total 182

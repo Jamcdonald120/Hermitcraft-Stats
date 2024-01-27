@@ -1,0 +1,16 @@
+minecraft.picked_up.stripped_acacia_log
+1: Etho: 118
+2: BdoubleO100: 100
+3: cubfan135: 62
+4: GoodTimeWithScar: 43
+5: joehillssays: 37
+6: Tango: 33
+7: xBCrafted: 20
+8: Xisuma: 12
+9: Renthedog: 12
+10: MumboJumbo: 8
+11: Keralis1: 2
+12: Welsknight: 1
+13: ZombieCleo: 1
+14: Zedaph: 1
+Total 450

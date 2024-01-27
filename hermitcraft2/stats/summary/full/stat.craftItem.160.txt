@@ -1,0 +1,7 @@
+stat.craftItem.160
+1: red3yz: 720
+2: Keralis1: 256
+3: topmass: 112
+4: skyzm: 80
+5: Marriland: 80
+Total 1248

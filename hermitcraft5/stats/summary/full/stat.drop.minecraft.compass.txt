@@ -1,0 +1,5 @@
+stat.drop.minecraft.compass
+1: Tango: 110
+2: Zedaph: 65
+3: falsesymmetry: 8
+Total 183

@@ -1,0 +1,12 @@
+minecraft.crafted.cartography_table
+1: Xisuma: 257
+2: GoodTimeWithScar: 32
+3: cubfan135: 12
+4: Docm77: 2
+5: iskall85: 2
+6: Tinfoilchef: 2
+7: iJevin: 1
+8: Tango: 1
+9: ZombieCleo: 1
+10: impulseSV: 1
+Total 311

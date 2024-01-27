@@ -1,0 +1,20 @@
+stat.killEntity.Endermite
+1: impulseSV: 89
+2: falsesymmetry: 86
+3: sl1pg8r: 39
+4: Tango: 37
+5: xBCrafted: 29
+6: zueljin: 15
+7: Xisuma: 11
+8: hypnotizd: 11
+9: PythonGB: 6
+10: KingDaddyDMAC: 4
+11: Etho: 3
+12: Mumbo: 2
+13: monkeyfarm: 2
+14: Docm77: 1
+15: iJevin: 1
+16: joehillssays: 1
+17: Biffa2001: 1
+18: ZombieCleo: 1
+Total 339

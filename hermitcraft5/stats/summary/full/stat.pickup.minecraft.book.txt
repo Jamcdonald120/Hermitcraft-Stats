@@ -1,0 +1,24 @@
+stat.pickup.minecraft.book
+1: iJevin: 1764
+2: xBCrafted: 1415
+3: Welsknight: 933
+4: cubfan135: 361
+5: PythonGB: 359
+6: Tango: 189
+7: iskall85: 187
+8: Zedaph: 187
+9: impulseSV: 137
+10: BdoubleO100: 134
+11: Stressmonster101: 105
+12: Xisuma: 84
+13: GoodTimeWithScar: 59
+14: joehillssays: 58
+15: MumboJumbo: 58
+16: Renthedog: 36
+17: Tinfoilchef: 35
+18: Docm77: 33
+19: falsesymmetry: 23
+20: VintageBeef: 12
+21: Biffa2001: 12
+22: ZombieCleo: 6
+Total 6187

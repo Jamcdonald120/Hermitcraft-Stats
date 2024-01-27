@@ -1,0 +1,19 @@
+stat.useItem.minecraft.bone_block
+1: GoodTimeWithScar: 4676
+2: Xisuma: 2649
+3: Renthedog: 2381
+4: impulseSV: 1971
+5: ZombieCleo: 1620
+6: iskall85: 1478
+7: cubfan135: 1049
+8: joehillssays: 1011
+9: Tango: 996
+10: Welsknight: 625
+11: MumboJumbo: 570
+12: falsesymmetry: 346
+13: Biffa2001: 43
+14: Tinfoilchef: 36
+15: VintageBeef: 32
+16: zueljin: 5
+17: PythonGB: 1
+Total 19489

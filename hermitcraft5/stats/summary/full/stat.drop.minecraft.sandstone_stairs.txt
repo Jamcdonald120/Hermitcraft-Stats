@@ -1,0 +1,8 @@
+stat.drop.minecraft.sandstone_stairs
+1: xBCrafted: 41
+2: GoodTimeWithScar: 22
+3: impulseSV: 18
+4: Tango: 7
+5: falsesymmetry: 4
+6: Zedaph: 1
+Total 93

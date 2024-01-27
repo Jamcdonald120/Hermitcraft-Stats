@@ -1,0 +1,25 @@
+minecraft.picked_up.yellow_wool
+1: Tango: 1248
+2: ZombieCleo: 1244
+3: PearlescentMoon: 1243
+4: joehillssays: 1053
+5: GeminiTay: 447
+6: iskall85: 252
+7: GoodTimeWithScar: 227
+8: Mumbo: 207
+9: Renthedog: 188
+10: iJevin: 176
+11: VintageBeef: 171
+12: Grian: 144
+13: Docm77: 99
+14: Stressmonster101: 62
+15: falsesymmetry: 52
+16: impulseSV: 42
+17: Smajor1995: 25
+18: BdoubleO100: 24
+19: cubfan135: 22
+20: RentheKing: 11
+21: Keralis1: 7
+22: Zedaph: 6
+23: Xisuma: 2
+Total 6952

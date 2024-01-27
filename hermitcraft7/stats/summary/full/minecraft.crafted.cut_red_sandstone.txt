@@ -1,0 +1,9 @@
+minecraft.crafted.cut_red_sandstone
+1: VintageBeef: 210
+2: GoodTimeWithScar: 128
+3: joehillssays: 116
+4: falsesymmetry: 64
+5: Etho: 32
+6: Keralis1: 28
+7: cubfan135: 16
+Total 594

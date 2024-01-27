@@ -1,0 +1,20 @@
+minecraft.crafted.slime_block
+1: xBCrafted: 44809
+2: Docm77: 4805
+3: Xisuma: 2273
+4: Tango: 2197
+5: joehillssays: 652
+6: Etho: 293
+7: iskall85: 288
+8: Grian: 239
+9: BdoubleO100: 167
+10: cubfan135: 155
+11: Keralis1: 91
+12: PearlescentMoon: 63
+13: impulseSV: 39
+14: Zedaph: 17
+15: Mumbo: 14
+16: hypnotizd: 12
+17: iJevin: 9
+18: VintageBeef: 4
+Total 56127

@@ -1,0 +1,17 @@
+minecraft.dropped.iron_bars
+1: Tango: 1382
+2: Renthedog: 391
+3: Xisuma: 296
+4: falsesymmetry: 200
+5: impulseSV: 193
+6: Keralis1: 176
+7: iJevin: 92
+8: GoodTimeWithScar: 70
+9: Zedaph: 63
+10: Docm77: 38
+11: Mumbo: 26
+12: Grian: 15
+13: MythicalSausage: 12
+14: cubfan135: 6
+15: xBCrafted: 2
+Total 2962

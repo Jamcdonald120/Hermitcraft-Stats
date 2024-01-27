@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.birch_stairs
+1: xBCrafted: 219
+2: Xisuma: 106
+3: cubfan135: 99
+4: Tinfoilchef: 81
+5: joehillssays: 28
+6: PythonGB: 12
+7: Welsknight: 12
+8: GoodTimeWithScar: 8
+9: ZombieCleo: 4
+10: MumboJumbo: 4
+11: iskall85: 2
+12: Biffa2001: 2
+13: Tango: 1
+Total 578

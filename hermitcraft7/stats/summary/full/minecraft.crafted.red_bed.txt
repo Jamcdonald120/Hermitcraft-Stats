@@ -1,0 +1,16 @@
+minecraft.crafted.red_bed
+1: Keralis1: 32
+2: cubfan135: 26
+3: GoodTimeWithScar: 14
+4: Tango: 12
+5: Xisuma: 6
+6: Zedaph: 4
+7: BdoubleO100: 3
+8: VintageBeef: 1
+9: joehillssays: 1
+10: Grian: 1
+11: Welsknight: 1
+12: Etho: 1
+13: impulseSV: 1
+14: Helsknight_: 1
+Total 104

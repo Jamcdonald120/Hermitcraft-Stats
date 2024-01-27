@@ -1,0 +1,30 @@
+minecraft.picked_up.sunflower
+1: cubfan135: 4345
+2: ZombieCleo: 2592
+3: Renthedog: 2105
+4: PearlescentMoon: 1797
+5: Grian: 1775
+6: Xisuma: 1761
+7: hypnotizd: 1680
+8: GoodTimeWithScar: 1435
+9: Etho: 1205
+10: impulseSV: 744
+11: falsesymmetry: 558
+12: joehillssays: 396
+13: Zedaph: 307
+14: BdoubleO100: 188
+15: Mumbo: 159
+16: VintageBeef: 151
+17: Tango: 134
+18: iJevin: 92
+19: Docm77: 85
+20: GeminiTay: 80
+21: MythicalSausage: 52
+22: iskall85: 51
+23: Welsknight: 16
+24: Keralis1: 8
+25: RentheKing: 7
+26: Smallishbeans: 6
+27: OrionSound: 2
+28: Stressmonster101: 2
+Total 21733

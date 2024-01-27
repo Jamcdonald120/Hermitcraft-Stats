@@ -1,0 +1,25 @@
+stat.useItem.minecraft.wooden_pickaxe
+1: GoodTimeWithScar: 120
+2: ZombieCleo: 64
+3: PythonGB: 60
+4: Mumbo: 60
+5: Tinfoilchef: 59
+6: hypnotizd: 55
+7: iJevin: 49
+8: falsesymmetry: 47
+9: Tango: 31
+10: iskall85: 31
+11: Welsknight: 27
+12: Renthedog: 25
+13: xBCrafted: 24
+14: Docm77: 23
+15: joehillssays: 20
+16: Xisuma: 16
+17: cubfan135: 15
+18: Jessassin: 13
+19: zueljin: 13
+20: Biffa2001: 12
+21: VintageBeef: 9
+22: Etho: 8
+23: impulseSV: 5
+Total 786

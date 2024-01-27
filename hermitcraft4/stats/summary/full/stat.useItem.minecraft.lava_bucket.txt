@@ -1,0 +1,19 @@
+stat.useItem.minecraft.lava_bucket
+1: cubfan135: 2160
+2: impulseSV: 291
+3: falsesymmetry: 265
+4: Welsknight: 197
+5: Xisuma: 175
+6: Tango: 167
+7: iskall85: 81
+8: MumboJumbo: 71
+9: GoodTimeWithScar: 69
+10: Etho: 15
+11: Tinfoilchef: 11
+12: ZombieCleo: 9
+13: PythonGB: 4
+14: joehillssays: 3
+15: VintageBeef: 2
+16: iJevin: 1
+17: Mumbo: 1
+Total 3522

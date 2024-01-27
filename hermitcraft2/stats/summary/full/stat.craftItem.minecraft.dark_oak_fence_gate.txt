@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.dark_oak_fence_gate
+1: zueljin: 4
+2: Xisuma: 1
+Total 5

@@ -1,0 +1,9 @@
+stat.useItem.minecraft.dark_oak_fence_gate
+1: falsesymmetry: 126
+2: monkeyfarm: 11
+3: Tinfoilchef: 7
+4: Xisuma: 6
+5: xBCrafted: 5
+6: Biffa2001: 2
+7: iJevin: 1
+Total 158

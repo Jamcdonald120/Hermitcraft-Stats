@@ -1,0 +1,21 @@
+minecraft.picked_up.netherite_shovel
+1: iJevin: 51
+2: PearlescentMoon: 37
+3: impulseSV: 17
+4: Renthedog: 10
+5: MumboJumbo: 7
+6: BdoubleO100: 6
+7: Docm77: 4
+8: Grian: 3
+9: hypnotizd: 3
+10: Xisuma: 2
+11: joehillssays: 2
+12: cubfan135: 2
+13: GeminiTay: 1
+14: iskall85: 1
+15: xBCrafted: 1
+16: Welsknight: 1
+17: GoodTimeWithScar: 1
+18: Keralis1: 1
+19: Zedaph: 1
+Total 151

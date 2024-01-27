@@ -1,0 +1,17 @@
+minecraft.crafted.wooden_axe
+1: Renthedog: 5
+2: ZombieCleo: 5
+3: Docm77: 3
+4: Jessassin: 3
+5: iJevin: 3
+6: GoodTimeWithScar: 3
+7: Xisuma: 2
+8: iskall85: 2
+9: Biffa2001: 2
+10: PythonGB: 1
+11: joehillssays: 1
+12: Tango: 1
+13: cubfan135: 1
+14: Stressmonster101: 1
+15: Zedaph: 1
+Total 34

@@ -1,0 +1,24 @@
+stat.pickup.minecraft.golden_chestplate
+1: GoodTimeWithScar: 103
+2: Renthedog: 96
+3: impulseSV: 77
+4: falsesymmetry: 57
+5: iskall85: 52
+6: Welsknight: 46
+7: joehillssays: 45
+8: cubfan135: 33
+9: Xisuma: 26
+10: Tango: 23
+11: iJevin: 22
+12: ZombieCleo: 15
+13: Docm77: 13
+14: Tinfoilchef: 13
+15: PythonGB: 12
+16: MumboJumbo: 8
+17: Etho: 5
+18: VintageBeef: 3
+19: Jessassin: 2
+20: xBCrafted: 1
+21: xisumavoid: 1
+22: Mumbo: 1
+Total 654

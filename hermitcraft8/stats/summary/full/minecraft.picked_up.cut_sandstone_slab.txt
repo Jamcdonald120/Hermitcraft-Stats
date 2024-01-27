@@ -1,0 +1,15 @@
+minecraft.picked_up.cut_sandstone_slab
+1: Xisuma: 289
+2: xBCrafted: 102
+3: Renthedog: 80
+4: cubfan135: 34
+5: hypnotizd: 18
+6: Tango: 15
+7: falsesymmetry: 14
+8: impulseSV: 12
+9: joehillssays: 9
+10: ZombieCleo: 5
+11: PearlescentMoon: 2
+12: EvilXisuma: 1
+13: Zedaph: 1
+Total 582

@@ -1,0 +1,24 @@
+stat.drop.minecraft.bow
+1: MumboJumbo: 607
+2: Welsknight: 436
+3: Xisuma: 420
+4: BdoubleO100: 402
+5: Renthedog: 393
+6: Tinfoilchef: 331
+7: GoodTimeWithScar: 320
+8: impulseSV: 220
+9: xBCrafted: 219
+10: cubfan135: 199
+11: Zedaph: 148
+12: Tango: 143
+13: iskall85: 112
+14: Docm77: 99
+15: falsesymmetry: 98
+16: Stressmonster101: 88
+17: VintageBeef: 69
+18: iJevin: 24
+19: PythonGB: 11
+20: Biffa2001: 11
+21: Etho: 4
+22: joehillssays: 3
+Total 4357

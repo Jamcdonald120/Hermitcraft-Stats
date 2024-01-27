@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.leather_boots
+1: Xisuma: 44
+2: GoodTimeWithScar: 37
+3: Tango: 30
+4: falsesymmetry: 24
+5: PythonGB: 20
+6: BdoubleO100: 17
+7: cubfan135: 16
+8: Tinfoilchef: 14
+9: impulseSV: 11
+10: Renthedog: 2
+11: ZombieCleo: 2
+12: Stressmonster101: 2
+13: joehillssays: 1
+14: Zedaph: 1
+Total 221

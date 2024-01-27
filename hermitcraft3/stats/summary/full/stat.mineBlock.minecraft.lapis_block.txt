@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.lapis_block
+1: impulseSV: 62
+2: ZombieCleo: 32
+3: Xisuma: 24
+4: falsesymmetry: 21
+5: Mumbo: 8
+6: Tango: 7
+7: Etho: 3
+8: Tinfoilchef: 2
+9: sl1pg8r: 1
+10: PythonGB: 1
+Total 161

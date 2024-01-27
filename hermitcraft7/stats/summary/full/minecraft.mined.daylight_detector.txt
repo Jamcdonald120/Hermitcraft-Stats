@@ -1,0 +1,22 @@
+minecraft.mined.daylight_detector
+1: Renthedog: 72
+2: Zedaph: 35
+3: cubfan135: 21
+4: Keralis1: 19
+5: joehillssays: 16
+6: GoodTimeWithScar: 12
+7: iJevin: 11
+8: VintageBeef: 10
+9: Grian: 8
+10: BdoubleO100: 5
+11: xBCrafted: 3
+12: Etho: 3
+13: impulseSV: 3
+14: Tango: 2
+15: iskall85: 2
+16: Stressmonster101: 2
+17: Xisuma: 1
+18: falsesymmetry: 1
+19: hypnotizd: 1
+20: MumboJumbo: 1
+Total 228

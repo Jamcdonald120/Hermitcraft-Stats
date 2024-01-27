@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.chorus_plant
+1: joehillssays: 616
+2: Tango: 405
+3: Xisuma: 295
+4: Renthedog: 215
+5: impulseSV: 213
+6: Zedaph: 145
+7: cubfan135: 133
+8: GoodTimeWithScar: 130
+9: Tinfoilchef: 123
+10: Welsknight: 37
+11: PythonGB: 28
+12: MumboJumbo: 28
+13: Biffa2001: 19
+14: iskall85: 16
+15: falsesymmetry: 7
+16: iJevin: 4
+17: xBCrafted: 3
+Total 2417

@@ -1,0 +1,24 @@
+minecraft.mined.dark_oak_wall_sign
+1: iJevin: 113
+2: Renthedog: 62
+3: falsesymmetry: 60
+4: Docm77: 35
+5: Tango: 33
+6: cubfan135: 31
+7: ZombieCleo: 28
+8: RentheKing: 18
+9: GoodTimeWithScar: 14
+10: Keralis1: 13
+11: joehillssays: 12
+12: impulseSV: 11
+13: Xisuma: 5
+14: Grian: 4
+15: BdoubleO100: 4
+16: OrionSound: 3
+17: PearlescentMoon: 3
+18: iskall85: 3
+19: xBCrafted: 2
+20: InTheLittleWood: 2
+21: GeminiTay: 1
+22: Stressmonster101: 1
+Total 458

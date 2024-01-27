@@ -1,0 +1,16 @@
+minecraft.dropped.polished_deepslate
+1: Tango: 112
+2: Renthedog: 72
+3: MumboJumbo: 56
+4: Docm77: 52
+5: cubfan135: 39
+6: GoodTimeWithScar: 24
+7: Grian: 16
+8: PearlescentMoon: 8
+9: EvilXisuma: 6
+10: Xisuma: 3
+11: falsesymmetry: 2
+12: hypnotizd: 2
+13: BdoubleO100: 1
+14: Zedaph: 1
+Total 394

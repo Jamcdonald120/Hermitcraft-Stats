@@ -1,0 +1,10 @@
+minecraft.dropped.light_blue_concrete
+1: Renthedog: 231
+2: Docm77: 176
+3: GoodTimeWithScar: 128
+4: impulseSV: 99
+5: Xisuma: 56
+6: Keralis1: 13
+7: cubfan135: 8
+8: falsesymmetry: 7
+Total 718

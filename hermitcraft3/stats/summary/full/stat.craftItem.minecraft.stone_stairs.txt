@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.stone_stairs
+1: falsesymmetry: 1096
+2: topmass: 748
+3: xBCrafted: 688
+4: impulseSV: 316
+5: PythonGB: 268
+6: Xisuma: 252
+7: Etho: 252
+8: Mumbo: 232
+9: monkeyfarm: 212
+10: sl1pg8r: 184
+11: Tango: 180
+12: Biffa2001: 164
+13: Tinfoilchef: 108
+14: joehillssays: 100
+15: ZombieCleo: 80
+16: skyzm: 60
+17: iJevin: 44
+18: zueljin: 8
+19: Pungence: 8
+20: hypnotizd: 8
+Total 5008

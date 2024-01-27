@@ -1,0 +1,20 @@
+minecraft.picked_up.dragon_head
+1: impulseSV: 24
+2: GoodTimeWithScar: 19
+3: iJevin: 17
+4: PearlescentMoon: 12
+5: Xisuma: 9
+6: Keralis1: 8
+7: Renthedog: 7
+8: Grian: 6
+9: cubfan135: 6
+10: Docm77: 5
+11: Etho: 4
+12: joehillssays: 3
+13: VintageBeef: 2
+14: GeminiTay: 2
+15: ZombieCleo: 2
+16: EvilXisuma: 1
+17: xBCrafted: 1
+18: Welsknight: 1
+Total 129

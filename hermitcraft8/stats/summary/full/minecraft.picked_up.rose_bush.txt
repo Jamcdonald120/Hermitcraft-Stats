@@ -1,0 +1,27 @@
+minecraft.picked_up.rose_bush
+1: cubfan135: 1726
+2: MumboJumbo: 577
+3: ZombieCleo: 496
+4: PearlescentMoon: 393
+5: iJevin: 377
+6: falsesymmetry: 344
+7: Etho: 338
+8: Renthedog: 326
+9: hypnotizd: 238
+10: impulseSV: 210
+11: GoodTimeWithScar: 165
+12: Xisuma: 152
+13: Docm77: 136
+14: BdoubleO100: 83
+15: Tango: 69
+16: Stressmonster101: 69
+17: GeminiTay: 65
+18: Welsknight: 63
+19: joehillssays: 34
+20: VintageBeef: 20
+21: Grian: 14
+22: Zedaph: 4
+23: iskall85: 3
+24: xBCrafted: 3
+25: Keralis1: 2
+Total 5907

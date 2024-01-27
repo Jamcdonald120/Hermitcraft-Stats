@@ -1,0 +1,7 @@
+stat.drop.minecraft.end_rod
+1: impulseSV: 59
+2: falsesymmetry: 33
+3: Xisuma: 14
+4: Tango: 11
+5: cubfan135: 4
+Total 121

@@ -1,0 +1,23 @@
+minecraft.crafted.painting
+1: BdoubleO100: 159
+2: Keralis1: 148
+3: GoodTimeWithScar: 101
+4: Stressmonster101: 82
+5: cubfan135: 78
+6: Etho: 66
+7: VintageBeef: 61
+8: impulseSV: 34
+9: iskall85: 32
+10: Xisuma: 31
+11: falsesymmetry: 29
+12: Grian: 20
+13: Tango: 19
+14: MumboJumbo: 16
+15: Renthedog: 14
+16: xBCrafted: 13
+17: Docm77: 12
+18: iJevin: 6
+19: Welsknight: 6
+20: joehillssays: 5
+21: ZombieCleo: 3
+Total 935

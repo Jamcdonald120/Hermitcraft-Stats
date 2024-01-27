@@ -1,0 +1,17 @@
+minecraft.crafted.dripstone_block
+1: Renthedog: 3136
+2: Grian: 3012
+3: GoodTimeWithScar: 2896
+4: Etho: 828
+5: Tango: 824
+6: Keralis1: 708
+7: falsesymmetry: 640
+8: GeminiTay: 448
+9: Stressmonster101: 128
+10: cubfan135: 112
+11: RentheKing: 64
+12: impulseSV: 64
+13: Docm77: 8
+14: BdoubleO100: 4
+15: Xisuma: 1
+Total 12873

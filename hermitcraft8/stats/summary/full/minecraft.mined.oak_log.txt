@@ -1,0 +1,28 @@
+minecraft.mined.oak_log
+1: MumboJumbo: 10444
+2: GoodTimeWithScar: 6256
+3: cubfan135: 5866
+4: joehillssays: 4822
+5: Grian: 4789
+6: xBCrafted: 4433
+7: Renthedog: 4095
+8: iJevin: 3975
+9: PearlescentMoon: 3377
+10: GeminiTay: 3153
+11: impulseSV: 3070
+12: Xisuma: 2914
+13: ZombieCleo: 2613
+14: BdoubleO100: 2015
+15: Keralis1: 1869
+16: Zedaph: 1757
+17: Stressmonster101: 1406
+18: iskall85: 1347
+19: Tango: 1275
+20: falsesymmetry: 1260
+21: Etho: 677
+22: hypnotizd: 547
+23: Welsknight: 538
+24: Tinfoilchef: 459
+25: Docm77: 290
+26: VintageBeef: 81
+Total 73328

@@ -1,0 +1,14 @@
+minecraft.dropped.iron_trapdoor
+1: Renthedog: 128
+2: Keralis1: 78
+3: Grian: 66
+4: falsesymmetry: 54
+5: GoodTimeWithScar: 33
+6: cubfan135: 7
+7: Xisuma: 6
+8: Etho: 5
+9: Docm77: 4
+10: Zedaph: 2
+11: iskall85: 1
+12: impulseSV: 1
+Total 385

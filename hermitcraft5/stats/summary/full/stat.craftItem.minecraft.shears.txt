@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.shears
+1: GoodTimeWithScar: 682
+2: Xisuma: 403
+3: cubfan135: 265
+4: falsesymmetry: 147
+5: Renthedog: 86
+6: Stressmonster101: 58
+7: MumboJumbo: 54
+8: BdoubleO100: 52
+9: Tango: 49
+10: joehillssays: 47
+11: iskall85: 32
+12: Welsknight: 27
+13: xBCrafted: 26
+14: PythonGB: 22
+15: iJevin: 20
+16: Docm77: 17
+17: impulseSV: 17
+18: Zedaph: 17
+19: Tinfoilchef: 13
+20: VintageBeef: 12
+21: ZombieCleo: 7
+22: Biffa2001: 2
+Total 2055

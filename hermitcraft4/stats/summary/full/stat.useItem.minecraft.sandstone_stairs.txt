@@ -1,0 +1,14 @@
+stat.useItem.minecraft.sandstone_stairs
+1: falsesymmetry: 1755
+2: MumboJumbo: 380
+3: Welsknight: 367
+4: Xisuma: 317
+5: impulseSV: 165
+6: joehillssays: 133
+7: Tango: 123
+8: cubfan135: 105
+9: Docm77: 65
+10: Renthedog: 46
+11: Etho: 43
+12: iskall85: 31
+Total 3530

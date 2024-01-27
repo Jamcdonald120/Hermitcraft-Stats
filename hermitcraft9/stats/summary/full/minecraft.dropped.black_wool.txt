@@ -1,0 +1,18 @@
+minecraft.dropped.black_wool
+1: iJevin: 8875
+2: falsesymmetry: 7091
+3: impulseSV: 373
+4: Tango: 152
+5: Grian: 144
+6: Keralis1: 27
+7: Renthedog: 9
+8: GoodTimeWithScar: 6
+9: cubfan135: 4
+10: Xisuma: 2
+11: MythicalSausage: 2
+12: VintageBeef: 1
+13: joehillssays: 1
+14: iskall85: 1
+15: Mumbo: 1
+16: MumboJumbo: 1
+Total 16690

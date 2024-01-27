@@ -1,0 +1,24 @@
+minecraft.picked_up.white_stained_glass_pane
+1: Zedaph: 3438
+2: GoodTimeWithScar: 591
+3: cubfan135: 324
+4: VintageBeef: 296
+5: xBCrafted: 293
+6: Xisuma: 280
+7: Grian: 186
+8: falsesymmetry: 158
+9: Keralis1: 82
+10: Welsknight: 78
+11: joehillssays: 72
+12: iskall85: 63
+13: Tango: 60
+14: BdoubleO100: 42
+15: Renthedog: 34
+16: impulseSV: 16
+17: ZombieCleo: 5
+18: Docm77: 4
+19: MumboJumbo: 3
+20: Etho: 2
+21: hypnotizd: 2
+22: Stressmonster101: 2
+Total 6031

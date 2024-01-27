@@ -1,0 +1,20 @@
+stat.pickup.minecraft.slime
+1: falsesymmetry: 3110
+2: cubfan135: 2528
+3: Xisuma: 2044
+4: MumboJumbo: 990
+5: Welsknight: 969
+6: iskall85: 966
+7: impulseSV: 791
+8: Renthedog: 420
+9: Etho: 88
+10: GoodTimeWithScar: 72
+11: joehillssays: 70
+12: Mumbo: 64
+13: Tinfoilchef: 57
+14: Biffa2001: 48
+15: Tango: 44
+16: Docm77: 42
+17: VintageBeef: 13
+18: ZombieCleo: 10
+Total 12326

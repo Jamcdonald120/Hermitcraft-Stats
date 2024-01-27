@@ -1,0 +1,21 @@
+minecraft.dropped.oak_leaves
+1: Renthedog: 1203
+2: GoodTimeWithScar: 813
+3: Grian: 521
+4: cubfan135: 514
+5: Docm77: 322
+6: Tango: 320
+7: Zedaph: 292
+8: Keralis1: 278
+9: MumboJumbo: 227
+10: Xisuma: 144
+11: Jura_Whitey: 128
+12: impulseSV: 116
+13: PythonGB: 80
+14: falsesymmetry: 66
+15: BdoubleO100: 63
+16: iskall85: 56
+17: Biffa2001: 15
+18: iJevin: 6
+19: ZombieCleo: 1
+Total 5165

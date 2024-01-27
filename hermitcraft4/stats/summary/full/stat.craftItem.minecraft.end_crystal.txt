@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.end_crystal
+1: Tango: 899
+2: cubfan135: 173
+3: impulseSV: 24
+4: falsesymmetry: 12
+5: Etho: 12
+6: Xisuma: 9
+7: iskall85: 9
+8: Renthedog: 7
+9: Welsknight: 4
+10: MumboJumbo: 4
+11: GoodTimeWithScar: 4
+12: Tinfoilchef: 2
+Total 1159

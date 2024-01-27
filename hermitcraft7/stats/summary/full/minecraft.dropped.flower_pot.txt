@@ -1,0 +1,14 @@
+minecraft.dropped.flower_pot
+1: Zedaph: 1228
+2: Grian: 94
+3: GoodTimeWithScar: 94
+4: Stressmonster101: 40
+5: Etho: 36
+6: cubfan135: 16
+7: iskall85: 9
+8: Xisuma: 4
+9: BdoubleO100: 4
+10: Tango: 3
+11: Keralis1: 3
+12: impulseSV: 1
+Total 1532

@@ -1,0 +1,9 @@
+stat.useItem.minecraft.diamond_ore
+1: Xisuma: 375
+2: Tango: 60
+3: KingDaddyDMAC: 31
+4: ZombieCleo: 29
+5: falsesymmetry: 13
+6: Mumbo: 6
+7: xBCrafted: 5
+Total 519

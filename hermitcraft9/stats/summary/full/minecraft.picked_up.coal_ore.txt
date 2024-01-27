@@ -1,0 +1,31 @@
+minecraft.picked_up.coal_ore
+1: hypnotizd: 5877
+2: Grian: 5816
+3: Xisuma: 3913
+4: iJevin: 3492
+5: falsesymmetry: 3296
+6: impulseSV: 3286
+7: joehillssays: 2928
+8: Docm77: 2628
+9: Tango: 2567
+10: PearlescentMoon: 2262
+11: Zedaph: 1846
+12: Keralis1: 1490
+13: BdoubleO100: 1355
+14: xBCrafted: 1317
+15: GoodTimeWithScar: 1155
+16: Renthedog: 1109
+17: Etho: 938
+18: RentheKing: 900
+19: Pixlriffs: 879
+20: cubfan135: 788
+21: ZombieCleo: 640
+22: VintageBeef: 318
+23: iskall85: 267
+24: Stressmonster101: 222
+25: GeminiTay: 177
+26: Mumbo: 67
+27: ShubbleYT: 12
+28: MythicalSausage: 8
+29: Smallishbeans: 1
+Total 49554

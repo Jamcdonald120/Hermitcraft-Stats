@@ -1,0 +1,11 @@
+minecraft.dropped.golden_apple
+1: impulseSV: 37
+2: VintageBeef: 23
+3: GoodTimeWithScar: 22
+4: joehillssays: 11
+5: ZombieCleo: 4
+6: cubfan135: 3
+7: xBCrafted: 2
+8: PearlescentMoon: 1
+9: iskall85: 1
+Total 104

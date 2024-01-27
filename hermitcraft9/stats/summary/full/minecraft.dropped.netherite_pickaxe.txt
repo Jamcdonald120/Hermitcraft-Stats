@@ -1,0 +1,25 @@
+minecraft.dropped.netherite_pickaxe
+1: iJevin: 68
+2: Keralis1: 17
+3: Xisuma: 16
+4: Docm77: 14
+5: PearlescentMoon: 12
+6: cubfan135: 12
+7: GeminiTay: 7
+8: ZombieCleo: 7
+9: impulseSV: 7
+10: Renthedog: 6
+11: GoodTimeWithScar: 6
+12: joehillssays: 5
+13: xBCrafted: 4
+14: hypnotizd: 4
+15: Etho: 3
+16: RentheKing: 3
+17: Zedaph: 3
+18: Minerva246: 2
+19: BdoubleO100: 2
+20: InTheLittleWood: 2
+21: MythicalSausage: 1
+22: Smallishbeans: 1
+23: Mumbo: 1
+Total 203

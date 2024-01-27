@@ -1,0 +1,23 @@
+minecraft.mined.brewing_stand
+1: impulseSV: 68
+2: Tango: 62
+3: GoodTimeWithScar: 57
+4: cubfan135: 54
+5: iJevin: 51
+6: BdoubleO100: 33
+7: Etho: 33
+8: hypnotizd: 31
+9: Keralis1: 22
+10: iskall85: 21
+11: Xisuma: 20
+12: falsesymmetry: 18
+13: Grian: 16
+14: Zedaph: 16
+15: Renthedog: 6
+16: VintageBeef: 6
+17: xBCrafted: 5
+18: joehillssays: 4
+19: MumboJumbo: 4
+20: Stressmonster101: 4
+21: Docm77: 1
+Total 532

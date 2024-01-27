@@ -1,0 +1,4 @@
+minecraft.dropped.end_stone_brick_stairs
+1: iskall85: 2
+2: cubfan135: 1
+Total 3

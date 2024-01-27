@@ -1,0 +1,11 @@
+stat.entityKilledBy.Spider
+1: Tango: 2
+2: Renthedog: 1
+3: PythonGB: 1
+4: iskall85: 1
+5: xBCrafted: 1
+6: cubfan135: 1
+7: MumboJumbo: 1
+8: GoodTimeWithScar: 1
+9: Tinfoilchef: 1
+Total 10

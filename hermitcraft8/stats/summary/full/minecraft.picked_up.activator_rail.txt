@@ -1,0 +1,11 @@
+minecraft.picked_up.activator_rail
+1: iJevin: 49
+2: Welsknight: 12
+3: Docm77: 7
+4: Keralis1: 7
+5: impulseSV: 6
+6: falsesymmetry: 4
+7: cubfan135: 4
+8: Etho: 4
+9: Zedaph: 1
+Total 94

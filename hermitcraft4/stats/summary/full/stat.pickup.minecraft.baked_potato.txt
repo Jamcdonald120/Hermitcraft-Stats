@@ -1,0 +1,23 @@
+stat.pickup.minecraft.baked_potato
+1: Tango: 858
+2: PythonGB: 692
+3: impulseSV: 673
+4: Welsknight: 554
+5: Docm77: 378
+6: ZombieCleo: 295
+7: Renthedog: 290
+8: iJevin: 273
+9: Etho: 251
+10: Biffa2001: 178
+11: iskall85: 167
+12: GoodTimeWithScar: 121
+13: falsesymmetry: 79
+14: MumboJumbo: 78
+15: Xisuma: 57
+16: Jessassin: 56
+17: Tinfoilchef: 33
+18: joehillssays: 29
+19: VintageBeef: 23
+20: cubfan135: 21
+21: xBCrafted: 2
+Total 5108

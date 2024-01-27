@@ -1,0 +1,12 @@
+minecraft.dropped.lectern
+1: falsesymmetry: 34
+2: iJevin: 7
+3: GoodTimeWithScar: 5
+4: MythicalSausage: 3
+5: cubfan135: 3
+6: ZombieCleo: 3
+7: Zedaph: 3
+8: Tango: 1
+9: Keralis1: 1
+10: impulseSV: 1
+Total 61

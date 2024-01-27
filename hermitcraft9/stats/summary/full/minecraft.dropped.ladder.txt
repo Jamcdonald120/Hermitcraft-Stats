@@ -1,0 +1,20 @@
+minecraft.dropped.ladder
+1: falsesymmetry: 340
+2: iJevin: 245
+3: Tango: 159
+4: Renthedog: 132
+5: Keralis1: 109
+6: Grian: 47
+7: GoodTimeWithScar: 44
+8: Zedaph: 30
+9: Mumbo: 18
+10: impulseSV: 18
+11: PearlescentMoon: 17
+12: Etho: 10
+13: cubfan135: 6
+14: Docm77: 5
+15: BdoubleO100: 5
+16: Stressmonster101: 5
+17: VintageBeef: 4
+18: Xisuma: 3
+Total 1197

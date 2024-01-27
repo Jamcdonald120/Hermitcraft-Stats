@@ -1,0 +1,23 @@
+stat.pickup.minecraft.glowstone
+1: falsesymmetry: 3725
+2: Xisuma: 2270
+3: Renthedog: 1498
+4: cubfan135: 1409
+5: PythonGB: 1364
+6: impulseSV: 1356
+7: MumboJumbo: 945
+8: GoodTimeWithScar: 933
+9: Tango: 772
+10: Welsknight: 728
+11: Biffa2001: 577
+12: iskall85: 517
+13: joehillssays: 495
+14: iJevin: 345
+15: Docm77: 131
+16: VintageBeef: 130
+17: ZombieCleo: 68
+18: zueljin: 65
+19: Mumbo: 18
+20: Jessassin: 14
+21: Etho: 6
+Total 17366

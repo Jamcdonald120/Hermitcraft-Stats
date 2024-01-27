@@ -1,0 +1,13 @@
+minecraft.dropped.stripped_birch_log
+1: impulseSV: 64
+2: Docm77: 22
+3: falsesymmetry: 12
+4: GoodTimeWithScar: 8
+5: BdoubleO100: 7
+6: Keralis1: 5
+7: Grian: 4
+8: Tango: 2
+9: Renthedog: 1
+10: iJevin: 1
+11: Mumbo: 1
+Total 127

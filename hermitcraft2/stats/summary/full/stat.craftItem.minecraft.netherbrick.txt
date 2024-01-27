@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.netherbrick
+1: Spumwackles: 969
+2: Tango: 512
+3: falsesymmetry: 85
+4: zueljin: 83
+5: xBCrafted: 72
+Total 1721

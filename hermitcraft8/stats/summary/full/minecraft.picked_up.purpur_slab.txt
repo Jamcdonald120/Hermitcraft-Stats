@@ -1,0 +1,14 @@
+minecraft.picked_up.purpur_slab
+1: Keralis1: 55
+2: Xisuma: 47
+3: hypnotizd: 26
+4: GoodTimeWithScar: 15
+5: cubfan135: 11
+6: iJevin: 10
+7: xBCrafted: 7
+8: Grian: 6
+9: Renthedog: 3
+10: Tango: 3
+11: Docm77: 2
+12: PearlescentMoon: 1
+Total 186

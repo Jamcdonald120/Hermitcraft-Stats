@@ -1,0 +1,19 @@
+stat.useItem.minecraft.prismarine
+1: MumboJumbo: 90784
+2: impulseSV: 19102
+3: cubfan135: 11144
+4: Xisuma: 8832
+5: falsesymmetry: 7569
+6: PythonGB: 4655
+7: iJevin: 3630
+8: joehillssays: 531
+9: iskall85: 340
+10: xBCrafted: 324
+11: Renthedog: 299
+12: GoodTimeWithScar: 84
+13: Tinfoilchef: 42
+14: ZombieCleo: 22
+15: Tango: 17
+16: Etho: 14
+17: Zedaph: 12
+Total 147401

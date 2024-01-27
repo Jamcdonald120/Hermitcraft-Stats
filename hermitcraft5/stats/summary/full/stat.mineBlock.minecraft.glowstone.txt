@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.glowstone
+1: cubfan135: 1829
+2: GoodTimeWithScar: 1403
+3: MumboJumbo: 1294
+4: Welsknight: 1041
+5: Tango: 729
+6: Xisuma: 492
+7: Zedaph: 374
+8: Renthedog: 372
+9: impulseSV: 309
+10: iskall85: 239
+11: PythonGB: 238
+12: iJevin: 237
+13: falsesymmetry: 220
+14: xBCrafted: 199
+15: joehillssays: 148
+16: VintageBeef: 120
+17: Tinfoilchef: 106
+18: Docm77: 78
+19: Etho: 75
+20: Biffa2001: 60
+21: ZombieCleo: 37
+22: Stressmonster101: 12
+Total 9612

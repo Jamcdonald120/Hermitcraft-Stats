@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.furnace
+1: Xisuma: 111
+2: xBCrafted: 26
+3: Tango: 22
+4: monkeyfarm: 19
+5: iJevin: 12
+6: falsesymmetry: 11
+7: sl1pg8r: 9
+8: KingDaddyDMAC: 5
+9: Biffa2001: 3
+10: zueljin: 1
+11: NameOfSamuel: 1
+12: Collen: 1
+Total 221

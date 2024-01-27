@@ -1,0 +1,27 @@
+minecraft.mined.smooth_basalt
+1: iJevin: 2597
+2: impulseSV: 2200
+3: hypnotizd: 2119
+4: Xisuma: 1722
+5: Docm77: 1366
+6: GoodTimeWithScar: 1262
+7: joehillssays: 1169
+8: iskall85: 1127
+9: Grian: 1118
+10: Etho: 1009
+11: BdoubleO100: 811
+12: ZombieCleo: 729
+13: Tango: 600
+14: cubfan135: 597
+15: Renthedog: 383
+16: xBCrafted: 262
+17: PearlescentMoon: 206
+18: Keralis1: 197
+19: RentheKing: 161
+20: falsesymmetry: 138
+21: Zedaph: 113
+22: VintageBeef: 58
+23: Mumbo: 23
+24: GeminiTay: 14
+25: Stressmonster101: 5
+Total 19986

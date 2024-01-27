@@ -1,0 +1,24 @@
+minecraft.picked_up.glowstone
+1: iJevin: 2056
+2: Renthedog: 651
+3: Docm77: 535
+4: Tango: 524
+5: Grian: 424
+6: Etho: 407
+7: Xisuma: 351
+8: cubfan135: 283
+9: Welsknight: 266
+10: PearlescentMoon: 151
+11: MumboJumbo: 127
+12: falsesymmetry: 119
+13: Zedaph: 94
+14: impulseSV: 85
+15: iskall85: 55
+16: xBCrafted: 54
+17: Keralis1: 37
+18: VintageBeef: 34
+19: ZombieCleo: 28
+20: joehillssays: 16
+21: EvilXisuma: 4
+22: GoodTimeWithScar: 2
+Total 6303

@@ -1,0 +1,5 @@
+minecraft.crafted.mossy_stone_brick_wall
+1: Stressmonster101: 36
+2: Tango: 12
+3: cubfan135: 6
+Total 54

@@ -1,0 +1,27 @@
+minecraft.picked_up.cactus
+1: Zedaph: 96576
+2: Etho: 4671
+3: cubfan135: 3107
+4: Xisuma: 2545
+5: Grian: 1563
+6: PearlescentMoon: 1443
+7: impulseSV: 1135
+8: VintageBeef: 1106
+9: Tango: 1105
+10: falsesymmetry: 1085
+11: SolidarityGaming: 896
+12: Keralis1: 542
+13: iJevin: 507
+14: ZombieCleo: 444
+15: RentheKing: 349
+16: BdoubleO100: 341
+17: Stressmonster101: 247
+18: joehillssays: 183
+19: hypnotizd: 129
+20: Renthedog: 127
+21: Docm77: 86
+22: iskall85: 64
+23: GeminiTay: 49
+24: Pixlriffs: 1
+25: xBCrafted: 1
+Total 118302

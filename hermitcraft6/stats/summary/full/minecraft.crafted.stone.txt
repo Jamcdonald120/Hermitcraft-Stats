@@ -1,0 +1,26 @@
+minecraft.crafted.stone
+1: Renthedog: 93450
+2: GoodTimeWithScar: 19711
+3: Biffa2001: 7569
+4: joehillssays: 7437
+5: Grian: 5891
+6: Xisuma: 5432
+7: BdoubleO100: 5224
+8: ZombieCleo: 4631
+9: Tinfoilchef: 4278
+10: Tango: 3854
+11: impulseSV: 3821
+12: Stressmonster101: 2797
+13: iskall85: 2032
+14: Docm77: 1633
+15: cubfan135: 747
+16: iJevin: 519
+17: Keralis1: 446
+18: falsesymmetry: 443
+19: PythonGB: 400
+20: xBCrafted: 384
+21: MumboJumbo: 309
+22: Welsknight: 256
+23: Zedaph: 92
+24: Jessassin: 60
+Total 171416

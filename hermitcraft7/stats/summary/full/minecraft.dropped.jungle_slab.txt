@@ -1,0 +1,16 @@
+minecraft.dropped.jungle_slab
+1: Zedaph: 768
+2: GoodTimeWithScar: 627
+3: joehillssays: 190
+4: cubfan135: 151
+5: Etho: 139
+6: Tango: 46
+7: iskall85: 34
+8: Xisuma: 33
+9: Grian: 28
+10: MumboJumbo: 14
+11: BdoubleO100: 11
+12: impulseSV: 9
+13: Renthedog: 2
+14: iJevin: 1
+Total 2053

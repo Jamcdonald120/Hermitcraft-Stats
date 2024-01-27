@@ -1,0 +1,8 @@
+minecraft.crafted.nether_brick_wall
+1: Tango: 378
+2: iJevin: 36
+3: Xisuma: 18
+4: PearlescentMoon: 6
+5: GoodTimeWithScar: 1
+6: Zedaph: 1
+Total 440

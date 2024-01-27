@@ -1,0 +1,15 @@
+minecraft.picked_up.jungle_fence
+1: iJevin: 217
+2: PearlescentMoon: 64
+3: hypnotizd: 63
+4: Docm77: 54
+5: BdoubleO100: 40
+6: MumboJumbo: 16
+7: Keralis1: 16
+8: cubfan135: 8
+9: Etho: 8
+10: iskall85: 5
+11: GeminiTay: 2
+12: impulseSV: 2
+13: Renthedog: 1
+Total 496

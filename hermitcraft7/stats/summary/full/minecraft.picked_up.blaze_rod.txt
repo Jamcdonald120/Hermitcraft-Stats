@@ -1,0 +1,24 @@
+minecraft.picked_up.blaze_rod
+1: Xisuma: 5812
+2: Etho: 4956
+3: Grian: 2219
+4: Tango: 2041
+5: iskall85: 715
+6: Zedaph: 573
+7: impulseSV: 560
+8: Stressmonster101: 436
+9: cubfan135: 358
+10: iJevin: 274
+11: GoodTimeWithScar: 202
+12: xBCrafted: 105
+13: hypnotizd: 78
+14: ZombieCleo: 73
+15: Welsknight: 72
+16: Renthedog: 62
+17: joehillssays: 60
+18: Keralis1: 54
+19: falsesymmetry: 39
+20: Docm77: 33
+21: VintageBeef: 25
+22: MumboJumbo: 14
+Total 18761

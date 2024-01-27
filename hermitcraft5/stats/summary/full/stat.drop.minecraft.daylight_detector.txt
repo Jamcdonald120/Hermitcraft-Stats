@@ -1,0 +1,5 @@
+stat.drop.minecraft.daylight_detector
+1: GoodTimeWithScar: 11
+2: impulseSV: 3
+3: iskall85: 1
+Total 15

@@ -1,0 +1,5 @@
+minecraft.crafted.red_sand
+1: Renthedog: 24
+2: Etho: 24
+3: GoodTimeWithScar: 24
+Total 72

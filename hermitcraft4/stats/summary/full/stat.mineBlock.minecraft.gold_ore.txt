@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.gold_ore
+1: Tinfoilchef: 3306
+2: GoodTimeWithScar: 1999
+3: iskall85: 1639
+4: Renthedog: 1165
+5: falsesymmetry: 1107
+6: Xisuma: 956
+7: Welsknight: 880
+8: MumboJumbo: 659
+9: cubfan135: 612
+10: iJevin: 579
+11: PythonGB: 443
+12: ZombieCleo: 315
+13: Etho: 298
+14: impulseSV: 213
+15: Tango: 172
+16: Biffa2001: 159
+17: joehillssays: 157
+18: VintageBeef: 120
+19: Mumbo: 91
+20: Docm77: 90
+21: xBCrafted: 42
+22: Jessassin: 38
+Total 15040

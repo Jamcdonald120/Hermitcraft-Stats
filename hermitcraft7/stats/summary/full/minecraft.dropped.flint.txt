@@ -1,0 +1,25 @@
+minecraft.dropped.flint
+1: GoodTimeWithScar: 2912
+2: falsesymmetry: 2379
+3: Tango: 1999
+4: impulseSV: 869
+5: iJevin: 838
+6: Keralis1: 811
+7: cubfan135: 671
+8: iskall85: 364
+9: hypnotizd: 360
+10: Renthedog: 333
+11: Etho: 222
+12: Xisuma: 144
+13: Zedaph: 114
+14: Docm77: 82
+15: Grian: 70
+16: joehillssays: 47
+17: BdoubleO100: 46
+18: MumboJumbo: 28
+19: ZombieCleo: 25
+20: xBCrafted: 19
+21: Tinfoilchef: 10
+22: VintageBeef: 3
+23: Welsknight: 2
+Total 12348

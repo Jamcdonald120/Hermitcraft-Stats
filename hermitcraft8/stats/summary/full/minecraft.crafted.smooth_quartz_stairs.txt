@@ -1,0 +1,10 @@
+minecraft.crafted.smooth_quartz_stairs
+1: Keralis1: 232
+2: PearlescentMoon: 133
+3: impulseSV: 76
+4: Grian: 64
+5: Zedaph: 53
+6: Welsknight: 14
+7: GeminiTay: 8
+8: BdoubleO100: 1
+Total 581

@@ -1,0 +1,27 @@
+minecraft.mined.nether_wart_block
+1: Stressmonster101: 2855
+2: Xisuma: 1831
+3: PearlescentMoon: 919
+4: hypnotizd: 266
+5: BdoubleO100: 211
+6: cubfan135: 175
+7: VintageBeef: 168
+8: ZombieCleo: 105
+9: Keralis1: 103
+10: impulseSV: 71
+11: xBCrafted: 43
+12: Grian: 34
+13: Zedaph: 25
+14: Tango: 24
+15: Welsknight: 23
+16: MumboJumbo: 21
+17: GoodTimeWithScar: 20
+18: Docm77: 12
+19: joehillssays: 11
+20: falsesymmetry: 2
+21: Renthedog: 1
+22: iJevin: 1
+23: GeminiTay: 1
+24: iskall85: 1
+25: Etho: 1
+Total 6924

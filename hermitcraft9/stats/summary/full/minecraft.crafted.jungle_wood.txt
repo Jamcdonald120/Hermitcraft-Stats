@@ -1,0 +1,16 @@
+minecraft.crafted.jungle_wood
+1: PearlescentMoon: 960
+2: Etho: 894
+3: Grian: 528
+4: BdoubleO100: 177
+5: Docm77: 123
+6: GoodTimeWithScar: 99
+7: Keralis1: 51
+8: RentheKing: 48
+9: cubfan135: 30
+10: VintageBeef: 18
+11: Xisuma: 12
+12: Renthedog: 6
+13: impulseSV: 6
+14: Zedaph: 3
+Total 2955

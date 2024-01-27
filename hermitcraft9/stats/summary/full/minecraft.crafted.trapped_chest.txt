@@ -1,0 +1,11 @@
+minecraft.crafted.trapped_chest
+1: GoodTimeWithScar: 10
+2: Docm77: 4
+3: VintageBeef: 4
+4: xBCrafted: 2
+5: cubfan135: 2
+6: iJevin: 1
+7: Tango: 1
+8: Mumbo: 1
+9: Zedaph: 1
+Total 26

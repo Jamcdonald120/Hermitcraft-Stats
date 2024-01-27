@@ -1,0 +1,25 @@
+minecraft.mined.hay_block
+1: ZombieCleo: 1164
+2: joehillssays: 447
+3: Keralis1: 201
+4: Xisuma: 92
+5: iskall85: 92
+6: Renthedog: 78
+7: iJevin: 67
+8: Grian: 59
+9: PearlescentMoon: 59
+10: BdoubleO100: 27
+11: GeminiTay: 23
+12: Docm77: 18
+13: Stressmonster101: 18
+14: falsesymmetry: 17
+15: GoodTimeWithScar: 16
+16: hypnotizd: 14
+17: MumboJumbo: 14
+18: xBCrafted: 13
+19: Etho: 13
+20: impulseSV: 9
+21: cubfan135: 2
+22: VintageBeef: 1
+23: Zedaph: 1
+Total 2445

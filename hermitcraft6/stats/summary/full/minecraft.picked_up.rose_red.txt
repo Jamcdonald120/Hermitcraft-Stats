@@ -1,0 +1,3 @@
+minecraft.picked_up.rose_red
+1: Duke_da_dog: 2
+Total 2

@@ -1,0 +1,24 @@
+minecraft.mined.snow
+1: GoodTimeWithScar: 37874
+2: Grian: 29776
+3: iskall85: 25930
+4: cubfan135: 19496
+5: falsesymmetry: 19359
+6: Xisuma: 18896
+7: Stressmonster101: 16988
+8: Welsknight: 7583
+9: MumboJumbo: 7166
+10: impulseSV: 5546
+11: Tango: 4411
+12: Docm77: 3522
+13: iJevin: 1652
+14: Zedaph: 1257
+15: Renthedog: 709
+16: Biffa2001: 567
+17: joehillssays: 265
+18: xBCrafted: 117
+19: ZombieCleo: 74
+20: Tinfoilchef: 51
+21: BdoubleO100: 23
+22: PythonGB: 1
+Total 201263

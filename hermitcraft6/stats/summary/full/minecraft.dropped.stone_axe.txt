@@ -1,0 +1,16 @@
+minecraft.dropped.stone_axe
+1: iskall85: 64
+2: cubfan135: 22
+3: Stressmonster101: 13
+4: GoodTimeWithScar: 5
+5: falsesymmetry: 3
+6: EvilXisuma: 2
+7: Xisuma: 2
+8: Grian: 2
+9: MumboJumbo: 2
+10: PythonGB: 1
+11: iJevin: 1
+12: Tango: 1
+13: xBCrafted: 1
+14: ZombieCleo: 1
+Total 120

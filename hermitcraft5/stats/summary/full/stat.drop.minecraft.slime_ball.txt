@@ -1,0 +1,19 @@
+stat.drop.minecraft.slime_ball
+1: Tango: 2606
+2: cubfan135: 2060
+3: GoodTimeWithScar: 1739
+4: MumboJumbo: 1247
+5: impulseSV: 718
+6: iskall85: 297
+7: Zedaph: 207
+8: falsesymmetry: 109
+9: Xisuma: 78
+10: Renthedog: 75
+11: Welsknight: 64
+12: xBCrafted: 48
+13: PythonGB: 32
+14: iJevin: 21
+15: BdoubleO100: 13
+16: Stressmonster101: 3
+17: Tinfoilchef: 2
+Total 9319

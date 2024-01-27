@@ -1,0 +1,23 @@
+minecraft.picked_up.redstone_lamp
+1: iskall85: 477
+2: MumboJumbo: 447
+3: cubfan135: 339
+4: impulseSV: 237
+5: Grian: 141
+6: Tango: 138
+7: Renthedog: 110
+8: Xisuma: 109
+9: joehillssays: 76
+10: Etho: 64
+11: Zedaph: 46
+12: xBCrafted: 29
+13: VintageBeef: 22
+14: iJevin: 17
+15: Keralis1: 11
+16: hypnotizd: 9
+17: BdoubleO100: 5
+18: GoodTimeWithScar: 5
+19: falsesymmetry: 3
+20: Docm77: 1
+21: Welsknight: 1
+Total 2287

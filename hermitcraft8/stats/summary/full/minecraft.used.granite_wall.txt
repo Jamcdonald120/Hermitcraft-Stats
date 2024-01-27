@@ -1,0 +1,13 @@
+minecraft.used.granite_wall
+1: impulseSV: 313
+2: BdoubleO100: 93
+3: Tango: 83
+4: Xisuma: 74
+5: GoodTimeWithScar: 51
+6: PearlescentMoon: 35
+7: GeminiTay: 20
+8: Grian: 10
+9: Keralis1: 8
+10: joehillssays: 4
+11: cubfan135: 1
+Total 692

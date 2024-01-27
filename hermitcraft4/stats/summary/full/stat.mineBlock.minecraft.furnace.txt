@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.furnace
+1: falsesymmetry: 335
+2: impulseSV: 295
+3: Xisuma: 293
+4: iskall85: 224
+5: cubfan135: 217
+6: Tango: 140
+7: iJevin: 116
+8: Welsknight: 97
+9: MumboJumbo: 94
+10: Renthedog: 75
+11: joehillssays: 64
+12: ZombieCleo: 45
+13: VintageBeef: 42
+14: Tinfoilchef: 29
+15: GoodTimeWithScar: 28
+16: Biffa2001: 23
+17: PythonGB: 18
+18: Etho: 11
+19: Docm77: 9
+20: xBCrafted: 5
+21: Jessassin: 4
+22: zueljin: 2
+23: Mumbo: 2
+Total 2168

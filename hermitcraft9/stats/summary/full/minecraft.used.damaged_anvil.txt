@@ -1,0 +1,24 @@
+minecraft.used.damaged_anvil
+1: cubfan135: 42
+2: RentheKing: 22
+3: Renthedog: 18
+4: Etho: 11
+5: Grian: 10
+6: BdoubleO100: 9
+7: Xisuma: 8
+8: falsesymmetry: 7
+9: Docm77: 6
+10: joehillssays: 5
+11: Tango: 5
+12: GoodTimeWithScar: 4
+13: Zedaph: 4
+14: VintageBeef: 3
+15: iJevin: 3
+16: Stressmonster101: 3
+17: impulseSV: 3
+18: MythicalSausage: 1
+19: GeminiTay: 1
+20: ZombieCleo: 1
+21: hypnotizd: 1
+22: Keralis1: 1
+Total 168

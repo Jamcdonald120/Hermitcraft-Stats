@@ -1,0 +1,18 @@
+minecraft.dropped.gold_block
+1: cubfan135: 650
+2: iskall85: 498
+3: hypnotizd: 96
+4: Xisuma: 92
+5: VintageBeef: 65
+6: GoodTimeWithScar: 36
+7: impulseSV: 36
+8: Zedaph: 34
+9: Etho: 13
+10: Renthedog: 12
+11: Tango: 12
+12: iJevin: 1
+13: Grian: 1
+14: falsesymmetry: 1
+15: MumboJumbo: 1
+16: Keralis1: 1
+Total 1549

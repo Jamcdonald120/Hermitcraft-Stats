@@ -1,0 +1,7 @@
+stat.useItem.minecraft.string
+1: Tango: 397
+2: Xisuma: 382
+3: ZombieCleo: 16
+4: zueljin: 9
+5: falsesymmetry: 2
+Total 806

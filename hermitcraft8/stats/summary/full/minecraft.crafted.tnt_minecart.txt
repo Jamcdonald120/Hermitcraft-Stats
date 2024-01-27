@@ -1,0 +1,4 @@
+minecraft.crafted.tnt_minecart
+1: Keralis1: 145
+2: cubfan135: 1
+Total 146

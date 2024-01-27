@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.wooden_axe
+1: sl1pg8r: 10
+2: truesymmetry: 1
+3: ZombieCleo: 1
+4: hypnotizd: 1
+5: Keralis1: 1
+Total 14

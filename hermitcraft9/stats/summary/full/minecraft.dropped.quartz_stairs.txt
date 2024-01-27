@@ -1,0 +1,6 @@
+minecraft.dropped.quartz_stairs
+1: Tango: 76
+2: GoodTimeWithScar: 2
+3: Docm77: 1
+4: ZombieCleo: 1
+Total 80

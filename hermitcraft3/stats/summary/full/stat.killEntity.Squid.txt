@@ -1,0 +1,25 @@
+stat.killEntity.Squid
+1: xBCrafted: 252
+2: hypnotizd: 208
+3: falsesymmetry: 147
+4: monkeyfarm: 107
+5: Tinfoilchef: 97
+6: Tango: 91
+7: Spumwackles: 62
+8: Xisuma: 60
+9: sl1pg8r: 59
+10: impulseSV: 51
+11: zueljin: 42
+12: topmass: 33
+13: ZombieCleo: 31
+14: Biffa2001: 30
+15: PythonGB: 16
+16: iJevin: 9
+17: KingDaddyDMAC: 8
+18: Mumbo: 6
+19: skyzm: 3
+20: Mrs_Keralis: 2
+21: Docm77: 1
+22: Pungence: 1
+23: Keralis1: 1
+Total 1317

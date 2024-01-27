@@ -1,0 +1,23 @@
+stat.animalsBred
+1: impulseSV: 3822
+2: falsesymmetry: 2966
+3: Xisuma: 2316
+4: Tango: 1524
+5: xBCrafted: 1080
+6: Tinfoilchef: 863
+7: zueljin: 725
+8: monkeyfarm: 705
+9: iJevin: 689
+10: Biffa2001: 677
+11: hypnotizd: 483
+12: ZombieCleo: 461
+13: Mumbo: 375
+14: sl1pg8r: 369
+15: Spumwackles: 321
+16: PythonGB: 253
+17: topmass: 214
+18: KingDaddyDMAC: 203
+19: Docm77: 31
+20: skyzm: 21
+21: Pungence: 1
+Total 18099

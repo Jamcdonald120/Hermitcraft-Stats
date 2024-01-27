@@ -1,0 +1,16 @@
+minecraft.picked_up.light_blue_dye
+1: Renthedog: 193
+2: impulseSV: 160
+3: cubfan135: 131
+4: Tango: 128
+5: Grian: 112
+6: falsesymmetry: 65
+7: GoodTimeWithScar: 64
+8: Etho: 62
+9: Keralis1: 44
+10: Zedaph: 15
+11: VintageBeef: 2
+12: joehillssays: 2
+13: Docm77: 1
+14: iJevin: 1
+Total 980

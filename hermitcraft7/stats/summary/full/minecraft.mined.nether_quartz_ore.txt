@@ -1,0 +1,25 @@
+minecraft.mined.nether_quartz_ore
+1: cubfan135: 27176
+2: GoodTimeWithScar: 16949
+3: Xisuma: 7448
+4: xBCrafted: 6541
+5: falsesymmetry: 6233
+6: VintageBeef: 6203
+7: Keralis1: 5741
+8: Docm77: 5299
+9: Grian: 5079
+10: Zedaph: 3436
+11: iJevin: 2969
+12: Welsknight: 2663
+13: Tango: 2633
+14: Renthedog: 2021
+15: hypnotizd: 1565
+16: joehillssays: 1452
+17: Etho: 1386
+18: impulseSV: 1226
+19: ZombieCleo: 959
+20: Stressmonster101: 743
+21: BdoubleO100: 706
+22: iskall85: 579
+23: MumboJumbo: 403
+Total 109410

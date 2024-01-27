@@ -1,0 +1,19 @@
+minecraft.picked_up.blaze_powder
+1: iJevin: 1740
+2: cubfan135: 439
+3: Tango: 83
+4: impulseSV: 56
+5: Zedaph: 45
+6: iskall85: 38
+7: Docm77: 36
+8: Stressmonster101: 30
+9: MumboJumbo: 27
+10: ZombieCleo: 16
+11: Renthedog: 13
+12: HumanCleo: 6
+13: Xisuma: 2
+14: Grian: 2
+15: Biffa2001: 2
+16: PythonGB: 1
+17: GoodTimeWithScar: 1
+Total 2537

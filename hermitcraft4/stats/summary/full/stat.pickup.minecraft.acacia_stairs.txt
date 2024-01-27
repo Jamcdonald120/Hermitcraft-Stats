@@ -1,0 +1,13 @@
+stat.pickup.minecraft.acacia_stairs
+1: cubfan135: 233
+2: Xisuma: 155
+3: PythonGB: 125
+4: GoodTimeWithScar: 92
+5: VintageBeef: 55
+6: Renthedog: 6
+7: iskall85: 6
+8: MumboJumbo: 4
+9: falsesymmetry: 2
+10: Welsknight: 2
+11: Mumbo: 1
+Total 681

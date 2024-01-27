@@ -1,0 +1,12 @@
+stat.useItem.minecraft.dye
+1: ZombieCleo: 1176
+2: Xisuma: 290
+3: zueljin: 277
+4: iJevin: 262
+5: Biffa2001: 203
+6: falsesymmetry: 181
+7: sl1pg8r: 143
+8: xBCrafted: 138
+9: Tango: 105
+10: Mumbo: 11
+Total 2786

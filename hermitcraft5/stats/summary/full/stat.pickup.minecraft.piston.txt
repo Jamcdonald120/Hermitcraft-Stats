@@ -1,0 +1,21 @@
+stat.pickup.minecraft.piston
+1: MumboJumbo: 491
+2: cubfan135: 440
+3: impulseSV: 267
+4: falsesymmetry: 250
+5: Xisuma: 217
+6: Zedaph: 196
+7: iskall85: 176
+8: Docm77: 157
+9: Renthedog: 154
+10: GoodTimeWithScar: 137
+11: Tango: 128
+12: Tinfoilchef: 77
+13: iJevin: 71
+14: joehillssays: 55
+15: xBCrafted: 49
+16: Welsknight: 48
+17: Etho: 19
+18: ZombieCleo: 12
+19: Stressmonster101: 1
+Total 2945

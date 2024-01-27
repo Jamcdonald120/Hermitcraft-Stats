@@ -1,0 +1,4 @@
+minecraft.dropped.stripped_birch_wood
+1: GoodTimeWithScar: 3
+2: falsesymmetry: 2
+Total 5

@@ -1,0 +1,16 @@
+minecraft.picked_up.hanging_roots
+1: GeminiTay: 1408
+2: cubfan135: 315
+3: falsesymmetry: 244
+4: Grian: 214
+5: Etho: 120
+6: joehillssays: 102
+7: Xisuma: 35
+8: Renthedog: 30
+9: PearlescentMoon: 17
+10: iJevin: 16
+11: GoodTimeWithScar: 15
+12: Docm77: 12
+13: BdoubleO100: 5
+14: hypnotizd: 1
+Total 2534

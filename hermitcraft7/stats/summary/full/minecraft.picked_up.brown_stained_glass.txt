@@ -1,0 +1,16 @@
+minecraft.picked_up.brown_stained_glass
+1: Etho: 161
+2: impulseSV: 79
+3: GoodTimeWithScar: 72
+4: Stressmonster101: 65
+5: joehillssays: 46
+6: Xisuma: 39
+7: Tango: 34
+8: Grian: 20
+9: Keralis1: 14
+10: VintageBeef: 12
+11: xBCrafted: 9
+12: falsesymmetry: 4
+13: cubfan135: 1
+14: hypnotizd: 1
+Total 557

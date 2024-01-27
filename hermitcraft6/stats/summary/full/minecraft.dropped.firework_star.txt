@@ -1,0 +1,5 @@
+minecraft.dropped.firework_star
+1: cubfan135: 64
+2: Stressmonster101: 5
+3: Grian: 1
+Total 70

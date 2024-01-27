@@ -1,0 +1,28 @@
+stat.mineBlock.minecraft.gold_ore
+1: falsesymmetry: 888
+2: xBCrafted: 627
+3: Xisuma: 599
+4: Tinfoilchef: 572
+5: topmass: 528
+6: Biffa2001: 454
+7: sl1pg8r: 431
+8: impulseSV: 384
+9: Spumwackles: 340
+10: ZombieCleo: 331
+11: hypnotizd: 315
+12: Tango: 290
+13: Mumbo: 251
+14: KingDaddyDMAC: 247
+15: Etho: 219
+16: iJevin: 184
+17: PythonGB: 164
+18: zueljin: 164
+19: monkeyfarm: 119
+20: skyzm: 79
+21: Pungence: 78
+22: Collen: 35
+23: Keralis1: 23
+24: Docm77: 22
+25: Mrs_Keralis: 6
+26: joehillssays: 1
+Total 7351

@@ -1,0 +1,27 @@
+minecraft.mined.spruce_planks
+1: Grian: 5175
+2: Renthedog: 2427
+3: GoodTimeWithScar: 2390
+4: ZombieCleo: 2292
+5: Docm77: 2263
+6: cubfan135: 2009
+7: iJevin: 1772
+8: BdoubleO100: 1588
+9: Welsknight: 1441
+10: Stressmonster101: 1408
+11: iskall85: 1076
+12: Xisuma: 543
+13: impulseSV: 511
+14: falsesymmetry: 495
+15: HumanCleo: 283
+16: Tinfoilchef: 228
+17: Keralis1: 186
+18: MumboJumbo: 152
+19: Zedaph: 118
+20: Biffa2001: 61
+21: joehillssays: 38
+22: PythonGB: 25
+23: Tango: 17
+24: Jessassin: 4
+25: Jura_Whitey: 1
+Total 26503

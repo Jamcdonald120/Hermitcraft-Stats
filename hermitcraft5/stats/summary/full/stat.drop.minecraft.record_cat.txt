@@ -1,0 +1,9 @@
+stat.drop.minecraft.record_cat
+1: Xisuma: 11
+2: Zedaph: 10
+3: PythonGB: 3
+4: xBCrafted: 3
+5: Tango: 1
+6: BdoubleO100: 1
+7: GoodTimeWithScar: 1
+Total 30

@@ -1,0 +1,24 @@
+minecraft.picked_up.weeping_vines
+1: Zedaph: 1106
+2: Etho: 675
+3: Renthedog: 499
+4: Xisuma: 401
+5: BdoubleO100: 367
+6: iskall85: 298
+7: Tango: 279
+8: cubfan135: 199
+9: GoodTimeWithScar: 197
+10: Stressmonster101: 194
+11: Grian: 156
+12: falsesymmetry: 139
+13: joehillssays: 101
+14: ZombieCleo: 48
+15: VintageBeef: 40
+16: iJevin: 38
+17: hypnotizd: 34
+18: xBCrafted: 28
+19: Welsknight: 20
+20: Keralis1: 20
+21: impulseSV: 20
+22: MumboJumbo: 3
+Total 4862

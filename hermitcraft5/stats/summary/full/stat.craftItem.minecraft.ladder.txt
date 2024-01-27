@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.ladder
+1: Renthedog: 4503
+2: falsesymmetry: 1869
+3: Tango: 1320
+4: Xisuma: 1191
+5: joehillssays: 1044
+6: impulseSV: 930
+7: MumboJumbo: 819
+8: Tinfoilchef: 765
+9: iskall85: 735
+10: cubfan135: 549
+11: GoodTimeWithScar: 453
+12: Docm77: 435
+13: Welsknight: 435
+14: Zedaph: 339
+15: Biffa2001: 279
+16: xBCrafted: 267
+17: Stressmonster101: 210
+18: Etho: 198
+19: VintageBeef: 120
+20: iJevin: 120
+21: ZombieCleo: 102
+22: PythonGB: 90
+23: ImpulseCam: 3
+Total 16776

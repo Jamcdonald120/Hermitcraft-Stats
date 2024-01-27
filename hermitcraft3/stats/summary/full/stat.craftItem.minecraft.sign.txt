@@ -1,0 +1,27 @@
+stat.craftItem.minecraft.sign
+1: falsesymmetry: 1509
+2: Mumbo: 481
+3: Xisuma: 438
+4: xBCrafted: 432
+5: Tango: 423
+6: zueljin: 267
+7: Tinfoilchef: 228
+8: Biffa2001: 225
+9: monkeyfarm: 174
+10: impulseSV: 171
+11: sl1pg8r: 147
+12: topmass: 135
+13: KingDaddyDMAC: 87
+14: ZombieCleo: 66
+15: iJevin: 48
+16: Spumwackles: 48
+17: joehillssays: 30
+18: hypnotizd: 30
+19: PythonGB: 24
+20: Etho: 24
+21: Keralis1: 15
+22: Docm77: 12
+23: Pungence: 6
+24: skyzm: 3
+25: NameOfSamuel: 3
+Total 5026

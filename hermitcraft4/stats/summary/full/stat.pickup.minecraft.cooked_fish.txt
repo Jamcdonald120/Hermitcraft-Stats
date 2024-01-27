@@ -1,0 +1,17 @@
+stat.pickup.minecraft.cooked_fish
+1: Xisuma: 4748
+2: Welsknight: 1900
+3: GoodTimeWithScar: 1226
+4: PythonGB: 798
+5: impulseSV: 795
+6: Etho: 434
+7: cubfan135: 423
+8: falsesymmetry: 216
+9: Tango: 163
+10: iskall85: 161
+11: Docm77: 145
+12: ZombieCleo: 132
+13: zueljin: 64
+14: Renthedog: 38
+15: joehillssays: 1
+Total 11244

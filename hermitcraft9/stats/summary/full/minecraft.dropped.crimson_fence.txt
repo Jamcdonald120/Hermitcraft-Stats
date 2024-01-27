@@ -1,0 +1,7 @@
+minecraft.dropped.crimson_fence
+1: Tango: 228
+2: Renthedog: 31
+3: Xisuma: 4
+4: Zedaph: 3
+5: iJevin: 1
+Total 267

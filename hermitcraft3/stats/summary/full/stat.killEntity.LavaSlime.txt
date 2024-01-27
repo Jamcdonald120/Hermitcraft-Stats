@@ -1,0 +1,21 @@
+stat.killEntity.LavaSlime
+1: Xisuma: 621
+2: Tango: 391
+3: falsesymmetry: 225
+4: xBCrafted: 180
+5: impulseSV: 137
+6: PythonGB: 136
+7: Spumwackles: 100
+8: sl1pg8r: 82
+9: Biffa2001: 63
+10: hypnotizd: 49
+11: monkeyfarm: 47
+12: zueljin: 37
+13: KingDaddyDMAC: 19
+14: iJevin: 16
+15: ZombieCleo: 8
+16: Tinfoilchef: 8
+17: Etho: 3
+18: joehillssays: 1
+19: Mumbo: 1
+Total 2124

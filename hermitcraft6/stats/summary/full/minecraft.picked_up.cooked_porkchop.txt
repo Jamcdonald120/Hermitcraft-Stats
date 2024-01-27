@@ -1,0 +1,21 @@
+minecraft.picked_up.cooked_porkchop
+1: GoodTimeWithScar: 2482
+2: iJevin: 227
+3: Stressmonster101: 82
+4: cubfan135: 76
+5: Zedaph: 63
+6: Tinfoilchef: 42
+7: Renthedog: 30
+8: Xisuma: 18
+9: Tango: 15
+10: impulseSV: 12
+11: BdoubleO100: 11
+12: EvilXisuma: 8
+13: BadTimeWithScar: 7
+14: Biffa2001: 5
+15: Grian: 4
+16: iskall85: 3
+17: Docm77: 2
+18: ZombieCleo: 2
+19: Welsknight: 1
+Total 3090

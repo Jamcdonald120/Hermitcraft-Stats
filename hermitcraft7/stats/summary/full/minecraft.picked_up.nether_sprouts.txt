@@ -1,0 +1,6 @@
+minecraft.picked_up.nether_sprouts
+1: Etho: 676
+2: BdoubleO100: 495
+3: cubfan135: 145
+4: Xisuma: 49
+Total 1365

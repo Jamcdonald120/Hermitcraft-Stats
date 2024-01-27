@@ -1,0 +1,5 @@
+minecraft.dropped.soul_campfire
+1: iJevin: 11
+2: falsesymmetry: 6
+3: impulseSV: 1
+Total 18

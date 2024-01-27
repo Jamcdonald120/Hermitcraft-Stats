@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.birch_stairs
+1: ZombieCleo: 120
+2: xBCrafted: 36
+3: Spumwackles: 16
+4: Biffa2001: 8
+Total 180

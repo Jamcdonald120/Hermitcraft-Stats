@@ -1,0 +1,6 @@
+stat.drop.minecraft.quartz_ore
+1: falsesymmetry: 155
+2: Renthedog: 13
+3: cubfan135: 2
+4: Tango: 1
+Total 171

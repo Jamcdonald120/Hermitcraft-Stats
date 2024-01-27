@@ -1,0 +1,32 @@
+minecraft.picked_up.spruce_stairs
+1: iJevin: 1145
+2: Renthedog: 646
+3: Grian: 595
+4: GoodTimeWithScar: 401
+5: hypnotizd: 307
+6: ZombieCleo: 296
+7: falsesymmetry: 256
+8: xBCrafted: 247
+9: Etho: 236
+10: PearlescentMoon: 213
+11: GeminiTay: 189
+12: Keralis1: 175
+13: Xisuma: 163
+14: impulseSV: 162
+15: cubfan135: 141
+16: Docm77: 129
+17: Tango: 119
+18: BdoubleO100: 111
+19: iskall85: 83
+20: Stressmonster101: 64
+21: VintageBeef: 51
+22: OrionSound: 44
+23: Welsknight: 29
+24: Pixlriffs: 4
+25: Zedaph: 3
+26: MythicalSausage: 2
+27: joehillssays: 2
+28: RentheKing: 1
+29: fWhip: 1
+30: SolidarityGaming: 1
+Total 5816

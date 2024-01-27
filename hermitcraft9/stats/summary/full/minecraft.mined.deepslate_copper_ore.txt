@@ -1,0 +1,26 @@
+minecraft.mined.deepslate_copper_ore
+1: Grian: 550
+2: cubfan135: 525
+3: Etho: 260
+4: Docm77: 219
+5: Zedaph: 204
+6: PearlescentMoon: 163
+7: Xisuma: 146
+8: GoodTimeWithScar: 144
+9: joehillssays: 115
+10: Keralis1: 95
+11: hypnotizd: 94
+12: Renthedog: 91
+13: falsesymmetry: 73
+14: Tango: 65
+15: impulseSV: 54
+16: xBCrafted: 49
+17: VintageBeef: 28
+18: iJevin: 27
+19: Stressmonster101: 16
+20: iskall85: 9
+21: BdoubleO100: 6
+22: Mumbo: 3
+23: MumboJumbo: 3
+24: Pixlriffs: 1
+Total 2940

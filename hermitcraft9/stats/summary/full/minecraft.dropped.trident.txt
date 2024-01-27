@@ -1,0 +1,15 @@
+minecraft.dropped.trident
+1: Keralis1: 6
+2: Docm77: 5
+3: PearlescentMoon: 5
+4: GoodTimeWithScar: 4
+5: joehillssays: 3
+6: GeminiTay: 3
+7: Etho: 2
+8: impulseSV: 2
+9: Renthedog: 1
+10: MythicalSausage: 1
+11: Grian: 1
+12: xBCrafted: 1
+13: cubfan135: 1
+Total 35

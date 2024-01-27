@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.armor_stand
+1: xBCrafted: 8
+2: falsesymmetry: 8
+3: ZombieCleo: 7
+4: sl1pg8r: 1
+5: Spumwackles: 1
+Total 25

@@ -1,0 +1,15 @@
+stat.drop.minecraft.purpur_block
+1: iskall85: 135
+2: Renthedog: 128
+3: Zedaph: 123
+4: GoodTimeWithScar: 64
+5: impulseSV: 55
+6: Tinfoilchef: 35
+7: PythonGB: 32
+8: MumboJumbo: 30
+9: Tango: 17
+10: xBCrafted: 3
+11: cubfan135: 3
+12: Xisuma: 2
+13: falsesymmetry: 2
+Total 629

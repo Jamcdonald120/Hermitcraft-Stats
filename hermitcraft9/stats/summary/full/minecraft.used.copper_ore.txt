@@ -1,0 +1,26 @@
+minecraft.used.copper_ore
+1: GoodTimeWithScar: 4435
+2: Grian: 2231
+3: Docm77: 1951
+4: joehillssays: 1762
+5: PearlescentMoon: 1128
+6: cubfan135: 1011
+7: xBCrafted: 945
+8: Zedaph: 855
+9: Etho: 702
+10: ZombieCleo: 408
+11: hypnotizd: 405
+12: falsesymmetry: 325
+13: BdoubleO100: 237
+14: Xisuma: 189
+15: Mumbo: 158
+16: Renthedog: 137
+17: Tango: 102
+18: Keralis1: 55
+19: impulseSV: 50
+20: RentheKing: 40
+21: VintageBeef: 10
+22: Smallishbeans: 7
+23: iskall85: 4
+24: iJevin: 1
+Total 17148

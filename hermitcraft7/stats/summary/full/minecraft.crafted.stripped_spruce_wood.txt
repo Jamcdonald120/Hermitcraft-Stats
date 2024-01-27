@@ -1,0 +1,7 @@
+minecraft.crafted.stripped_spruce_wood
+1: MumboJumbo: 93
+2: GoodTimeWithScar: 45
+3: VintageBeef: 9
+4: Stressmonster101: 3
+5: Keralis1: 3
+Total 153

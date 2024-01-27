@@ -1,0 +1,14 @@
+minecraft.picked_up.brick_stairs
+1: cubfan135: 468
+2: Xisuma: 358
+3: falsesymmetry: 100
+4: Welsknight: 66
+5: MumboJumbo: 63
+6: iJevin: 60
+7: GoodTimeWithScar: 30
+8: Renthedog: 16
+9: Grian: 14
+10: iskall85: 12
+11: BdoubleO100: 5
+12: Docm77: 2
+Total 1194

@@ -1,0 +1,27 @@
+minecraft.used.smooth_quartz_slab
+1: impulseSV: 4749
+2: GoodTimeWithScar: 2638
+3: Grian: 2418
+4: GeminiTay: 1370
+5: Keralis1: 1320
+6: VintageBeef: 787
+7: Zedaph: 726
+8: cubfan135: 286
+9: Xisuma: 282
+10: xBCrafted: 193
+11: falsesymmetry: 152
+12: joehillssays: 110
+13: Smallishbeans: 109
+14: ZombieCleo: 94
+15: Tango: 91
+16: PearlescentMoon: 85
+17: fWhip: 62
+18: Renthedog: 58
+19: OrionSound: 46
+20: Docm77: 28
+21: BdoubleO100: 22
+22: MythicalSausage: 12
+23: hypnotizd: 11
+24: Pixlriffs: 3
+25: iJevin: 1
+Total 15653

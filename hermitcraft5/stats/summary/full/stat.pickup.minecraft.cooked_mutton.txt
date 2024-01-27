@@ -1,0 +1,23 @@
+stat.pickup.minecraft.cooked_mutton
+1: cubfan135: 4485
+2: GoodTimeWithScar: 1872
+3: Xisuma: 1161
+4: Renthedog: 458
+5: Tango: 337
+6: Tinfoilchef: 307
+7: impulseSV: 295
+8: iskall85: 260
+9: BdoubleO100: 228
+10: EvilXisuma: 209
+11: Zedaph: 144
+12: xBCrafted: 100
+13: Stressmonster101: 69
+14: Etho: 52
+15: MumboJumbo: 52
+16: Docm77: 35
+17: VintageBeef: 14
+18: falsesymmetry: 14
+19: PythonGB: 7
+20: joehillssays: 5
+21: Welsknight: 4
+Total 10108

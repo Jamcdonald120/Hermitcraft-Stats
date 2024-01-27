@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.birch_stairs
+1: Xisuma: 276
+2: zueljin: 217
+3: impulseSV: 100
+4: Tango: 88
+5: xBCrafted: 79
+6: Tinfoilchef: 64
+7: falsesymmetry: 34
+8: Etho: 17
+9: ZombieCleo: 12
+10: Mumbo: 7
+11: iJevin: 5
+12: monkeyfarm: 1
+Total 900

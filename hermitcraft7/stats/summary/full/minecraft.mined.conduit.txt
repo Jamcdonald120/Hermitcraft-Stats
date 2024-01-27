@@ -1,0 +1,9 @@
+minecraft.mined.conduit
+1: impulseSV: 12
+2: iJevin: 8
+3: hypnotizd: 3
+4: Xisuma: 2
+5: xBCrafted: 2
+6: cubfan135: 2
+7: Grian: 1
+Total 30

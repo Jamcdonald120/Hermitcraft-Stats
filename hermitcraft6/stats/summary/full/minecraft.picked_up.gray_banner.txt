@@ -1,0 +1,8 @@
+minecraft.picked_up.gray_banner
+1: cubfan135: 52
+2: iJevin: 13
+3: falsesymmetry: 11
+4: Xisuma: 7
+5: joehillssays: 3
+6: GoodTimeWithScar: 1
+Total 87

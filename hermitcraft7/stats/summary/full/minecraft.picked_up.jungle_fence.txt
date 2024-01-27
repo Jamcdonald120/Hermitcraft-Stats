@@ -1,0 +1,20 @@
+minecraft.picked_up.jungle_fence
+1: Zedaph: 266
+2: Etho: 149
+3: cubfan135: 99
+4: Stressmonster101: 75
+5: Tango: 73
+6: VintageBeef: 72
+7: Grian: 42
+8: Xisuma: 20
+9: BdoubleO100: 13
+10: Renthedog: 12
+11: MumboJumbo: 11
+12: impulseSV: 8
+13: GoodTimeWithScar: 7
+14: iJevin: 6
+15: iskall85: 6
+16: joehillssays: 3
+17: Docm77: 2
+18: hypnotizd: 1
+Total 865

@@ -1,0 +1,30 @@
+minecraft.crafted.bone_meal
+1: Xisuma: 415391
+2: iskall85: 139855
+3: impulseSV: 114885
+4: Renthedog: 77756
+5: Grian: 68324
+6: cubfan135: 67587
+7: joehillssays: 60018
+8: Tango: 53072
+9: GoodTimeWithScar: 47452
+10: Stressmonster101: 28132
+11: Docm77: 27706
+12: MumboJumbo: 24244
+13: falsesymmetry: 19287
+14: PythonGB: 15076
+15: Zedaph: 14318
+16: ZombieCleo: 13188
+17: iJevin: 10658
+18: Biffa2001: 9520
+19: Welsknight: 7773
+20: Keralis1: 2655
+21: Jura_Whitey: 1989
+22: tterrag: 1875
+23: BdoubleO100: 1089
+24: Cojomax99: 810
+25: PhoenixfireLune: 720
+26: HumanCleo: 576
+27: Tinfoilchef: 489
+28: xBCrafted: 408
+Total 1224853

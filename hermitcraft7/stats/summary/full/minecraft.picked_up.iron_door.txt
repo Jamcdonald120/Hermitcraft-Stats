@@ -1,0 +1,23 @@
+minecraft.picked_up.iron_door
+1: cubfan135: 121
+2: Tango: 97
+3: VintageBeef: 46
+4: iskall85: 43
+5: xBCrafted: 36
+6: Stressmonster101: 34
+7: Renthedog: 31
+8: Grian: 24
+9: Zedaph: 20
+10: Etho: 14
+11: impulseSV: 13
+12: iJevin: 11
+13: Xisuma: 10
+14: falsesymmetry: 9
+15: MumboJumbo: 9
+16: Keralis1: 9
+17: Docm77: 6
+18: ZombieCleo: 6
+19: joehillssays: 3
+20: hypnotizd: 2
+21: GoodTimeWithScar: 1
+Total 545

@@ -1,0 +1,12 @@
+minecraft.crafted.orange_terracotta
+1: impulseSV: 1968
+2: Xisuma: 760
+3: GoodTimeWithScar: 156
+4: Tango: 136
+5: iJevin: 96
+6: VintageBeef: 80
+7: Etho: 56
+8: BdoubleO100: 40
+9: Stressmonster101: 16
+10: Keralis1: 12
+Total 3320

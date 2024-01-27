@@ -1,0 +1,20 @@
+minecraft.picked_up.diamond_hoe
+1: iskall85: 20
+2: Grian: 10
+3: Keralis1: 10
+4: iJevin: 9
+5: Renthedog: 6
+6: Tango: 5
+7: impulseSV: 5
+8: falsesymmetry: 4
+9: Etho: 4
+10: BdoubleO100: 3
+11: Stressmonster101: 3
+12: Docm77: 1
+13: Xisuma: 1
+14: VintageBeef: 1
+15: cubfan135: 1
+16: ZombieCleo: 1
+17: MumboJumbo: 1
+18: GoodTimeWithScar: 1
+Total 86

@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.heavy_weighted_pressure_plate
+1: xBCrafted: 1
+2: falsesymmetry: 1
+Total 2

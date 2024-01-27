@@ -1,0 +1,11 @@
+stat.useItem.minecraft.wooden_sword
+1: Tinfoilchef: 85
+2: sl1pg8r: 48
+3: PythonGB: 19
+4: Biffa2001: 19
+5: falsesymmetry: 13
+6: Mrs_Keralis: 13
+7: Tango: 6
+8: Keralis1: 5
+9: impulseSV: 3
+Total 211

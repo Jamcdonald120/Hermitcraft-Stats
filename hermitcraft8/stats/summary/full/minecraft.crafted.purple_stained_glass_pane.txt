@@ -1,0 +1,5 @@
+minecraft.crafted.purple_stained_glass_pane
+1: Docm77: 256
+2: Welsknight: 64
+3: Grian: 32
+Total 352

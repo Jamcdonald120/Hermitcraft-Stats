@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.diamond_helmet
+1: Xisuma: 3
+2: iJevin: 2
+3: xBCrafted: 2
+4: KingDaddyDMAC: 1
+5: Tango: 1
+6: ZombieCleo: 1
+7: Mumbo: 1
+8: Spumwackles: 1
+Total 12

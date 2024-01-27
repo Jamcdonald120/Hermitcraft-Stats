@@ -1,0 +1,16 @@
+minecraft.picked_up.dark_oak_leaves
+1: falsesymmetry: 3877
+2: GeminiTay: 347
+3: PearlescentMoon: 218
+4: cubfan135: 114
+5: joehillssays: 96
+6: Grian: 45
+7: BdoubleO100: 42
+8: GoodTimeWithScar: 25
+9: Welsknight: 18
+10: Xisuma: 10
+11: xBCrafted: 8
+12: Keralis1: 6
+13: hypnotizd: 4
+14: ZombieCleo: 3
+Total 4813

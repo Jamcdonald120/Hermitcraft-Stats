@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.nether_brick_fence
+1: falsesymmetry: 1626
+2: Tango: 1548
+3: zueljin: 1464
+4: Xisuma: 1014
+5: impulseSV: 450
+6: xBCrafted: 42
+7: monkeyfarm: 18
+8: iJevin: 6
+9: ZombieCleo: 6
+Total 6174

@@ -1,0 +1,15 @@
+stat.drop.minecraft.melon_seeds
+1: MumboJumbo: 128
+2: Zedaph: 50
+3: Tango: 19
+4: Xisuma: 14
+5: iskall85: 6
+6: falsesymmetry: 6
+7: GoodTimeWithScar: 6
+8: xBCrafted: 5
+9: Docm77: 4
+10: Biffa2001: 4
+11: Welsknight: 3
+12: BdoubleO100: 2
+13: Tinfoilchef: 2
+Total 249

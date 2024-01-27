@@ -1,0 +1,30 @@
+minecraft.picked_up.packed_ice
+1: Renthedog: 128627
+2: joehillssays: 32856
+3: falsesymmetry: 20514
+4: Tango: 15955
+5: VintageBeef: 14529
+6: GoodTimeWithScar: 11061
+7: Xisuma: 8380
+8: Docm77: 8008
+9: Etho: 5956
+10: Pixlriffs: 3375
+11: iskall85: 2883
+12: Stressmonster101: 2471
+13: impulseSV: 2208
+14: PearlescentMoon: 1436
+15: cubfan135: 1291
+16: Mumbo: 1285
+17: hypnotizd: 994
+18: xBCrafted: 919
+19: iJevin: 572
+20: Keralis1: 388
+21: ZombieCleo: 79
+22: GeminiTay: 67
+23: Smallishbeans: 54
+24: Zedaph: 46
+25: MythicalSausage: 7
+26: Grian: 4
+27: Welsknight: 3
+28: BdoubleO100: 1
+Total 263969

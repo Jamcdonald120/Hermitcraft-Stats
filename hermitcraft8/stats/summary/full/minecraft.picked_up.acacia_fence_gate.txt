@@ -1,0 +1,9 @@
+minecraft.picked_up.acacia_fence_gate
+1: GoodTimeWithScar: 17
+2: PearlescentMoon: 5
+3: BdoubleO100: 3
+4: Docm77: 2
+5: Grian: 2
+6: Keralis1: 2
+7: Xisuma: 1
+Total 32

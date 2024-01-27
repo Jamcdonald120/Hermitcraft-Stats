@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.jungle_boat
+1: impulseSV: 12
+2: PythonGB: 4
+3: falsesymmetry: 4
+4: Xisuma: 3
+5: cubfan135: 3
+6: MumboJumbo: 2
+Total 28

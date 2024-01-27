@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.stick
+1: Xisuma: 13860
+2: Tango: 4385
+3: ZombieCleo: 2400
+4: Spumwackles: 1830
+5: falsesymmetry: 1368
+6: Tinfoilchef: 792
+7: Mumbo: 736
+8: zueljin: 696
+9: xBCrafted: 528
+10: KingDaddyDMAC: 288
+11: Biffa2001: 260
+12: sl1pg8r: 72
+13: iJevin: 36
+14: Collen: 16
+15: Pungence: 8
+16: NameOfSamuel: 8
+17: joehillssays: 4
+Total 27287

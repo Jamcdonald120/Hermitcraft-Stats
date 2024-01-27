@@ -1,0 +1,19 @@
+minecraft.crafted.cooked_porkchop
+1: GoodTimeWithScar: 2368
+2: cubfan135: 927
+3: iJevin: 154
+4: Tango: 129
+5: iskall85: 118
+6: Welsknight: 92
+7: Grian: 56
+8: ZombieCleo: 21
+9: Tinfoilchef: 17
+10: falsesymmetry: 16
+11: Zedaph: 10
+12: Stressmonster101: 9
+13: EvilXisuma: 8
+14: Xisuma: 6
+15: PythonGB: 5
+16: impulseSV: 4
+17: joehillssays: 2
+Total 3942

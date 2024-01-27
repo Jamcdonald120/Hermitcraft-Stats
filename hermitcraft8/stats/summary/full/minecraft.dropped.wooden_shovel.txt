@@ -1,0 +1,9 @@
+minecraft.dropped.wooden_shovel
+1: Welsknight: 10
+2: hypnotizd: 9
+3: BdoubleO100: 5
+4: Renthedog: 3
+5: Grian: 1
+6: ZombieCleo: 1
+7: MumboJumbo: 1
+Total 30

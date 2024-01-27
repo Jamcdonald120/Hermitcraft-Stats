@@ -1,0 +1,7 @@
+minecraft.picked_up.red_sandstone_wall
+1: Grian: 125
+2: PearlescentMoon: 59
+3: Xisuma: 6
+4: cubfan135: 2
+5: Keralis1: 2
+Total 194

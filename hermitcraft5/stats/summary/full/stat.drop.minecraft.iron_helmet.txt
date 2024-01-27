@@ -1,0 +1,18 @@
+stat.drop.minecraft.iron_helmet
+1: Tango: 42
+2: Zedaph: 13
+3: iskall85: 10
+4: GoodTimeWithScar: 10
+5: Renthedog: 9
+6: falsesymmetry: 8
+7: impulseSV: 7
+8: cubfan135: 6
+9: Xisuma: 4
+10: joehillssays: 4
+11: xBCrafted: 4
+12: VintageBeef: 3
+13: Docm77: 2
+14: MumboJumbo: 2
+15: PythonGB: 1
+16: Biffa2001: 1
+Total 126

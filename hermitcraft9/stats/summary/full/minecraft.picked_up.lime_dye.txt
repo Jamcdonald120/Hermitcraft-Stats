@@ -1,0 +1,16 @@
+minecraft.picked_up.lime_dye
+1: Xisuma: 1687
+2: Grian: 649
+3: PearlescentMoon: 386
+4: iJevin: 380
+5: Etho: 101
+6: GoodTimeWithScar: 96
+7: ZombieCleo: 43
+8: impulseSV: 27
+9: falsesymmetry: 26
+10: Renthedog: 9
+11: iskall85: 8
+12: Zedaph: 7
+13: joehillssays: 2
+14: GeminiTay: 2
+Total 3423

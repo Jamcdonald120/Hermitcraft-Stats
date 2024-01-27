@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.rail
+1: Xisuma: 740
+2: Mumbo: 672
+3: ZombieCleo: 496
+4: monkeyfarm: 112
+5: falsesymmetry: 80
+Total 2100

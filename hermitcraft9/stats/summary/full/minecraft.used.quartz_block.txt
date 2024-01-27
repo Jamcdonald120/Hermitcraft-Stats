@@ -1,0 +1,27 @@
+minecraft.used.quartz_block
+1: Tango: 27581
+2: Renthedog: 9879
+3: Etho: 5144
+4: GoodTimeWithScar: 429
+5: GeminiTay: 351
+6: Docm77: 224
+7: joehillssays: 182
+8: cubfan135: 167
+9: ZombieCleo: 165
+10: Zedaph: 162
+11: VintageBeef: 160
+12: impulseSV: 143
+13: Pixlriffs: 81
+14: Smajor1995: 61
+15: Stressmonster101: 46
+16: Smallishbeans: 25
+17: PearlescentMoon: 20
+18: Grian: 19
+19: Keralis1: 12
+20: BdoubleO100: 6
+21: falsesymmetry: 6
+22: Xisuma: 5
+23: OrionSound: 2
+24: hypnotizd: 2
+25: xBCrafted: 1
+Total 44873

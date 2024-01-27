@@ -1,0 +1,8 @@
+minecraft.picked_up.bamboo_sign
+1: cubfan135: 7
+2: Keralis1: 7
+3: impulseSV: 3
+4: Xisuma: 2
+5: Zedaph: 2
+6: PearlescentMoon: 1
+Total 22

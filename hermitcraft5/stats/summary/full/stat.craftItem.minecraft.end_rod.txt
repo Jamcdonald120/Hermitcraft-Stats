@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.end_rod
+1: GoodTimeWithScar: 1180
+2: Tinfoilchef: 1024
+3: Xisuma: 512
+4: cubfan135: 500
+5: Welsknight: 260
+6: joehillssays: 76
+7: iskall85: 76
+8: PythonGB: 64
+9: falsesymmetry: 64
+10: Tango: 60
+Total 3816

@@ -1,0 +1,12 @@
+minecraft.picked_up.black_carpet
+1: Docm77: 171
+2: impulseSV: 125
+3: hypnotizd: 85
+4: falsesymmetry: 58
+5: GoodTimeWithScar: 19
+6: Welsknight: 17
+7: VintageBeef: 11
+8: Renthedog: 5
+9: xBCrafted: 2
+10: Xisuma: 1
+Total 494

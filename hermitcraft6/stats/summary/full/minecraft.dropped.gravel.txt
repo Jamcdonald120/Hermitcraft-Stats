@@ -1,0 +1,25 @@
+minecraft.dropped.gravel
+1: iskall85: 7588
+2: Stressmonster101: 2746
+3: iJevin: 2528
+4: Tango: 2100
+5: Renthedog: 1838
+6: GoodTimeWithScar: 1580
+7: Xisuma: 1424
+8: falsesymmetry: 1310
+9: Grian: 1117
+10: Zedaph: 977
+11: cubfan135: 880
+12: MumboJumbo: 864
+13: Tinfoilchef: 543
+14: Keralis1: 487
+15: Docm77: 460
+16: impulseSV: 297
+17: xBCrafted: 274
+18: Welsknight: 263
+19: joehillssays: 136
+20: Biffa2001: 70
+21: BdoubleO100: 49
+22: PythonGB: 28
+23: HumanCleo: 2
+Total 27561

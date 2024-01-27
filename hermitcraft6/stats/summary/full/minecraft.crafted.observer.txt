@@ -1,0 +1,21 @@
+minecraft.crafted.observer
+1: GoodTimeWithScar: 5441
+2: MumboJumbo: 2962
+3: Xisuma: 1481
+4: impulseSV: 1300
+5: Grian: 1186
+6: iskall85: 904
+7: cubfan135: 779
+8: iJevin: 332
+9: falsesymmetry: 283
+10: Tinfoilchef: 256
+11: Tango: 223
+12: Stressmonster101: 155
+13: Renthedog: 62
+14: Zedaph: 57
+15: Docm77: 39
+16: PythonGB: 13
+17: Welsknight: 9
+18: BdoubleO100: 4
+19: Biffa2001: 2
+Total 15488

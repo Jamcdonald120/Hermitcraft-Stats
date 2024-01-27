@@ -1,0 +1,17 @@
+minecraft.picked_up.enchanting_table
+1: joehillssays: 5
+2: Xisuma: 4
+3: iJevin: 4
+4: Zedaph: 4
+5: VintageBeef: 3
+6: hypnotizd: 3
+7: xBCrafted: 2
+8: GoodTimeWithScar: 2
+9: Grian: 1
+10: Tango: 1
+11: iskall85: 1
+12: falsesymmetry: 1
+13: cubfan135: 1
+14: Welsknight: 1
+15: Etho: 1
+Total 34

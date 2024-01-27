@@ -1,0 +1,19 @@
+minecraft.mined.spruce_wood
+1: VintageBeef: 184
+2: Keralis1: 114
+3: GoodTimeWithScar: 66
+4: Tango: 58
+5: Grian: 51
+6: cubfan135: 21
+7: MumboJumbo: 20
+8: Stressmonster101: 12
+9: BdoubleO100: 11
+10: Etho: 10
+11: Renthedog: 9
+12: Welsknight: 9
+13: Docm77: 8
+14: Zedaph: 7
+15: impulseSV: 6
+16: xBCrafted: 2
+17: ZombieCleo: 1
+Total 589

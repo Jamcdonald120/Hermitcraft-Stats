@@ -1,0 +1,22 @@
+minecraft.mined.gray_shulker_box
+1: cubfan135: 1778
+2: BdoubleO100: 446
+3: Xisuma: 424
+4: iskall85: 366
+5: Renthedog: 278
+6: Tango: 177
+7: Stressmonster101: 154
+8: Docm77: 141
+9: falsesymmetry: 93
+10: impulseSV: 80
+11: joehillssays: 40
+12: PythonGB: 29
+13: MumboJumbo: 28
+14: GoodTimeWithScar: 22
+15: Grian: 21
+16: Biffa2001: 10
+17: Keralis1: 7
+18: Zedaph: 5
+19: iJevin: 2
+20: Tinfoilchef: 1
+Total 4102

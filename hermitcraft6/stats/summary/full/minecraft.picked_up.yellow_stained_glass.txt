@@ -1,0 +1,20 @@
+minecraft.picked_up.yellow_stained_glass
+1: iskall85: 1120
+2: GoodTimeWithScar: 663
+3: iJevin: 520
+4: impulseSV: 332
+5: Grian: 297
+6: PythonGB: 285
+7: Renthedog: 148
+8: Tango: 61
+9: Docm77: 58
+10: MumboJumbo: 51
+11: falsesymmetry: 41
+12: Xisuma: 39
+13: joehillssays: 26
+14: ZombieCleo: 25
+15: Welsknight: 15
+16: cubfan135: 5
+17: Biffa2001: 3
+18: Stressmonster101: 1
+Total 3690

@@ -1,0 +1,7 @@
+minecraft.crafted.granite_stairs
+1: cubfan135: 40
+2: Xisuma: 32
+3: Renthedog: 8
+4: joehillssays: 8
+5: Grian: 8
+Total 96

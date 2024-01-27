@@ -1,0 +1,15 @@
+minecraft.dropped.chainmail_helmet
+1: iskall85: 14
+2: Xisuma: 12
+3: cubfan135: 12
+4: GoodTimeWithScar: 8
+5: Grian: 3
+6: Tango: 3
+7: Zedaph: 3
+8: iJevin: 2
+9: ZombieCleo: 2
+10: impulseSV: 2
+11: Docm77: 1
+12: Renthedog: 1
+13: PythonGB: 1
+Total 64

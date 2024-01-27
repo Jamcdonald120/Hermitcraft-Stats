@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.rail
+1: Tango: 5776
+2: Xisuma: 4736
+3: iskall85: 3579
+4: MumboJumbo: 2496
+5: impulseSV: 2160
+6: VintageBeef: 2023
+7: falsesymmetry: 1040
+8: cubfan135: 1040
+9: Renthedog: 592
+10: joehillssays: 416
+11: PythonGB: 320
+12: iJevin: 304
+13: Tinfoilchef: 224
+14: Docm77: 80
+15: GoodTimeWithScar: 64
+16: Biffa2001: 32
+17: Etho: 16
+Total 24898

@@ -1,0 +1,20 @@
+minecraft.mined.blackstone_wall
+1: Tango: 138
+2: xBCrafted: 129
+3: cubfan135: 124
+4: Etho: 90
+5: ZombieCleo: 67
+6: VintageBeef: 49
+7: iskall85: 44
+8: GoodTimeWithScar: 43
+9: Grian: 21
+10: joehillssays: 18
+11: BdoubleO100: 13
+12: hypnotizd: 7
+13: Keralis1: 6
+14: impulseSV: 6
+15: Xisuma: 3
+16: Renthedog: 3
+17: Welsknight: 2
+18: Zedaph: 2
+Total 765

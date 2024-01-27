@@ -1,0 +1,14 @@
+minecraft.picked_up.rabbit
+1: Etho: 903
+2: Zedaph: 86
+3: Renthedog: 43
+4: cubfan135: 18
+5: hypnotizd: 17
+6: joehillssays: 10
+7: PearlescentMoon: 9
+8: GoodTimeWithScar: 2
+9: Grian: 1
+10: Tango: 1
+11: MumboJumbo: 1
+12: impulseSV: 1
+Total 1092

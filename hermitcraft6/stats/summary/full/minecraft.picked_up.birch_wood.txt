@@ -1,0 +1,10 @@
+minecraft.picked_up.birch_wood
+1: cubfan135: 341
+2: GoodTimeWithScar: 47
+3: iskall85: 46
+4: Renthedog: 38
+5: Xisuma: 18
+6: BdoubleO100: 8
+7: PythonGB: 5
+8: Welsknight: 1
+Total 504

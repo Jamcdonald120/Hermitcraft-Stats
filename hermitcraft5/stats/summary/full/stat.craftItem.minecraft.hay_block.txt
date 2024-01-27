@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.hay_block
+1: cubfan135: 9569
+2: GoodTimeWithScar: 389
+3: Tango: 130
+4: iskall85: 128
+5: Zedaph: 113
+6: falsesymmetry: 110
+7: xBCrafted: 73
+8: Welsknight: 63
+9: joehillssays: 58
+10: Biffa2001: 43
+11: impulseSV: 24
+12: Stressmonster101: 21
+13: Xisuma: 4
+14: ZombieCleo: 1
+Total 10726

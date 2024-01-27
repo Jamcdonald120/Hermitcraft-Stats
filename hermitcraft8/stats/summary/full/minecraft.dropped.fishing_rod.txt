@@ -1,0 +1,8 @@
+minecraft.dropped.fishing_rod
+1: GoodTimeWithScar: 15
+2: Etho: 10
+3: cubfan135: 4
+4: Docm77: 2
+5: Xisuma: 1
+6: xBCrafted: 1
+Total 33

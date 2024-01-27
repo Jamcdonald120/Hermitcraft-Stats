@@ -1,0 +1,30 @@
+minecraft.picked_up.copper_ingot
+1: Xisuma: 54284
+2: Grian: 1914
+3: Tango: 1612
+4: PearlescentMoon: 663
+5: impulseSV: 570
+6: Zedaph: 308
+7: iJevin: 303
+8: Etho: 295
+9: falsesymmetry: 232
+10: BdoubleO100: 168
+11: GeminiTay: 143
+12: cubfan135: 123
+13: Docm77: 114
+14: Renthedog: 101
+15: GoodTimeWithScar: 81
+16: xBCrafted: 51
+17: ZombieCleo: 47
+18: hypnotizd: 46
+19: VintageBeef: 42
+20: joehillssays: 32
+21: RentheKing: 23
+22: Smallishbeans: 16
+23: Keralis1: 9
+24: OrionSound: 3
+25: Mumbo: 3
+26: iskall85: 2
+27: truesymmetry: 1
+28: MythicalSausage: 1
+Total 61187

@@ -1,0 +1,25 @@
+stat.useItem.minecraft.stone_pickaxe
+1: BdoubleO100: 3901
+2: joehillssays: 1118
+3: PythonGB: 838
+4: Welsknight: 616
+5: Tango: 544
+6: Biffa2001: 542
+7: Tinfoilchef: 517
+8: Zedaph: 472
+9: Xisuma: 418
+10: GoodTimeWithScar: 371
+11: falsesymmetry: 368
+12: cubfan135: 368
+13: impulseSV: 321
+14: ZombieCleo: 281
+15: iskall85: 227
+16: MumboJumbo: 132
+17: iJevin: 128
+18: Stressmonster101: 121
+19: VintageBeef: 108
+20: Etho: 108
+21: xBCrafted: 107
+22: Docm77: 41
+23: Renthedog: 40
+Total 11687

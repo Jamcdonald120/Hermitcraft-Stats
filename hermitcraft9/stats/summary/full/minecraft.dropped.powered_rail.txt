@@ -1,0 +1,21 @@
+minecraft.dropped.powered_rail
+1: Tango: 736
+2: cubfan135: 84
+3: GoodTimeWithScar: 75
+4: impulseSV: 70
+5: hypnotizd: 56
+6: Docm77: 46
+7: iJevin: 38
+8: Renthedog: 24
+9: Xisuma: 15
+10: falsesymmetry: 15
+11: Stressmonster101: 12
+12: Etho: 11
+13: Zedaph: 7
+14: Welsknight: 6
+15: Keralis1: 5
+16: Grian: 2
+17: iskall85: 2
+18: ZombieCleo: 2
+19: PearlescentMoon: 1
+Total 1207

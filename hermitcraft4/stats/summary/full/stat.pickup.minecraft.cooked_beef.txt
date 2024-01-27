@@ -1,0 +1,23 @@
+stat.pickup.minecraft.cooked_beef
+1: joehillssays: 10374
+2: GoodTimeWithScar: 3838
+3: falsesymmetry: 3077
+4: iskall85: 2517
+5: Renthedog: 2362
+6: Tinfoilchef: 2091
+7: Xisuma: 1763
+8: iJevin: 1113
+9: Tango: 920
+10: PythonGB: 641
+11: impulseSV: 612
+12: VintageBeef: 595
+13: cubfan135: 524
+14: zueljin: 510
+15: Docm77: 359
+16: Welsknight: 232
+17: Etho: 183
+18: MumboJumbo: 144
+19: Biffa2001: 38
+20: Mumbo: 26
+21: WellsGlazes: 15
+Total 31934

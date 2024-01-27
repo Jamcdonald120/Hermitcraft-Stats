@@ -1,0 +1,21 @@
+minecraft.crafted.white_wool
+1: Tango: 5108
+2: iskall85: 3497
+3: impulseSV: 3354
+4: Xisuma: 2751
+5: Renthedog: 1019
+6: Docm77: 606
+7: Tinfoilchef: 229
+8: MumboJumbo: 185
+9: iJevin: 183
+10: GoodTimeWithScar: 171
+11: falsesymmetry: 129
+12: Keralis1: 83
+13: Zedaph: 49
+14: Stressmonster101: 46
+15: cubfan135: 44
+16: HumanCleo: 42
+17: PythonGB: 12
+18: ZombieCleo: 6
+19: Biffa2001: 3
+Total 17517

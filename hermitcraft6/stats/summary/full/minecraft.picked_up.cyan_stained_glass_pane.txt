@@ -1,0 +1,13 @@
+minecraft.picked_up.cyan_stained_glass_pane
+1: Grian: 210
+2: Stressmonster101: 98
+3: iJevin: 94
+4: iskall85: 85
+5: Xisuma: 28
+6: ZombieCleo: 22
+7: cubfan135: 14
+8: Welsknight: 13
+9: falsesymmetry: 11
+10: GoodTimeWithScar: 5
+11: Renthedog: 1
+Total 581

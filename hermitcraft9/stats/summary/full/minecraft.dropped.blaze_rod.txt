@@ -1,0 +1,12 @@
+minecraft.dropped.blaze_rod
+1: falsesymmetry: 244
+2: Zedaph: 111
+3: iJevin: 83
+4: Keralis1: 82
+5: impulseSV: 80
+6: Tango: 72
+7: Renthedog: 5
+8: Etho: 4
+9: xBCrafted: 2
+10: PearlescentMoon: 1
+Total 684

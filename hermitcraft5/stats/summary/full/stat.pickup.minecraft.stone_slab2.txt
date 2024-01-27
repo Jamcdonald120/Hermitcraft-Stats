@@ -1,0 +1,9 @@
+stat.pickup.minecraft.stone_slab2
+1: MumboJumbo: 229
+2: cubfan135: 156
+3: PythonGB: 62
+4: Xisuma: 32
+5: VintageBeef: 9
+6: Tango: 3
+7: iJevin: 2
+Total 493

@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.stone_hoe
+1: Tango: 1
+2: xBCrafted: 1
+Total 2

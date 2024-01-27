@@ -1,0 +1,6 @@
+minecraft.dropped.dead_fire_coral_block
+1: iJevin: 12
+2: Xisuma: 1
+3: Renthedog: 1
+4: Grian: 1
+Total 15

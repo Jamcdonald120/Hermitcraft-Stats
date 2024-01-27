@@ -1,0 +1,24 @@
+minecraft.picked_up.experience_bottle
+1: Grian: 1745
+2: iJevin: 342
+3: cubfan135: 174
+4: Mumbo: 137
+5: Renthedog: 111
+6: Tango: 84
+7: Stressmonster101: 76
+8: impulseSV: 69
+9: Zedaph: 69
+10: Xisuma: 65
+11: Etho: 64
+12: LDShadowLady: 62
+13: falsesymmetry: 37
+14: Watcher_Grian: 20
+15: MythicalSausage: 14
+16: PearlescentMoon: 13
+17: GeminiTay: 2
+18: ZombieCleo: 2
+19: VintageBeef: 1
+20: joehillssays: 1
+21: hypnotizd: 1
+22: GoodTimeWithScar: 1
+Total 3090

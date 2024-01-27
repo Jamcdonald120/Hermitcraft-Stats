@@ -1,0 +1,17 @@
+minecraft.picked_up.sugar
+1: Xisuma: 1513
+2: MumboJumbo: 372
+3: Renthedog: 196
+4: Docm77: 171
+5: iJevin: 169
+6: cubfan135: 95
+7: PythonGB: 59
+8: Zedaph: 56
+9: iskall85: 26
+10: Grian: 14
+11: GoodTimeWithScar: 9
+12: falsesymmetry: 8
+13: Tango: 5
+14: Stressmonster101: 2
+15: ZombieCleo: 1
+Total 2696

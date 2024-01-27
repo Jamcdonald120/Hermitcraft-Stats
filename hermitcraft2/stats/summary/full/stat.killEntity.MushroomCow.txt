@@ -1,0 +1,8 @@
+stat.killEntity.MushroomCow
+1: hypnotizd: 483
+2: Mumbo: 98
+3: Biffa2001: 12
+4: Xisuma: 2
+5: iJevin: 2
+6: falsesymmetry: 1
+Total 598

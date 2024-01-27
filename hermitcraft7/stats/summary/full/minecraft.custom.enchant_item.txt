@@ -1,0 +1,23 @@
+minecraft.custom.enchant_item
+1: Etho: 771
+2: Keralis1: 397
+3: Stressmonster101: 329
+4: hypnotizd: 298
+5: VintageBeef: 254
+6: Zedaph: 203
+7: impulseSV: 136
+8: Grian: 134
+9: iskall85: 133
+10: Xisuma: 114
+11: Renthedog: 103
+12: MumboJumbo: 84
+13: joehillssays: 82
+14: GoodTimeWithScar: 79
+15: ZombieCleo: 61
+16: Tango: 60
+17: xBCrafted: 39
+18: BdoubleO100: 38
+19: cubfan135: 34
+20: iJevin: 21
+21: falsesymmetry: 17
+Total 3387

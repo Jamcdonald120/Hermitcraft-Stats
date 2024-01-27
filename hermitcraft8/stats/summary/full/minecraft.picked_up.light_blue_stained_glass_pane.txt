@@ -1,0 +1,9 @@
+minecraft.picked_up.light_blue_stained_glass_pane
+1: Zedaph: 856
+2: falsesymmetry: 33
+3: iskall85: 12
+4: Welsknight: 5
+5: Tango: 4
+6: GoodTimeWithScar: 4
+7: GeminiTay: 1
+Total 915

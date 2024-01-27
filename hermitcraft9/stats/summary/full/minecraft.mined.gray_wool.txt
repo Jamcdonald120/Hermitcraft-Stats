@@ -1,0 +1,24 @@
+minecraft.mined.gray_wool
+1: PearlescentMoon: 2767
+2: cubfan135: 2124
+3: ZombieCleo: 985
+4: impulseSV: 259
+5: Renthedog: 143
+6: VintageBeef: 54
+7: Grian: 51
+8: BdoubleO100: 43
+9: Tango: 37
+10: iJevin: 33
+11: RentheKing: 23
+12: GoodTimeWithScar: 23
+13: Etho: 21
+14: Keralis1: 18
+15: Docm77: 14
+16: Xisuma: 9
+17: joehillssays: 6
+18: falsesymmetry: 3
+19: Stressmonster101: 2
+20: Zedaph: 2
+21: GeminiTay: 1
+22: iskall85: 1
+Total 6619

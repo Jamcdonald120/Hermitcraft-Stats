@@ -1,0 +1,27 @@
+minecraft.picked_up.iron_shovel
+1: iJevin: 21
+2: joehillssays: 18
+3: Tango: 14
+4: Grian: 13
+5: cubfan135: 13
+6: Xisuma: 12
+7: PearlescentMoon: 9
+8: falsesymmetry: 9
+9: OrionSound: 8
+10: hypnotizd: 8
+11: Smajor1995: 7
+12: Zedaph: 7
+13: impulseSV: 5
+14: Docm77: 4
+15: Renthedog: 4
+16: Etho: 4
+17: SolidarityGaming: 4
+18: VintageBeef: 3
+19: GeminiTay: 3
+20: ShubbleYT: 3
+21: Keralis1: 3
+22: MythicalSausage: 2
+23: Smallishbeans: 2
+24: GoodTimeWithScar: 2
+25: ZombieCleo: 1
+Total 179

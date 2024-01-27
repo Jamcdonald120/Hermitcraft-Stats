@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.painting
+1: falsesymmetry: 79
+2: cubfan135: 51
+3: PythonGB: 47
+4: Welsknight: 34
+5: Stressmonster101: 25
+6: Xisuma: 21
+7: GoodTimeWithScar: 11
+8: BdoubleO100: 10
+9: joehillssays: 5
+10: VintageBeef: 4
+11: iJevin: 4
+12: MumboJumbo: 4
+13: xBCrafted: 3
+14: iskall85: 2
+Total 300

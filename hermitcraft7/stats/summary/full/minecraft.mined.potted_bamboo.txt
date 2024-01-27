@@ -1,0 +1,12 @@
+minecraft.mined.potted_bamboo
+1: Etho: 16
+2: Grian: 8
+3: Tango: 4
+4: impulseSV: 4
+5: VintageBeef: 3
+6: cubfan135: 2
+7: Zedaph: 2
+8: iJevin: 1
+9: GoodTimeWithScar: 1
+10: Keralis1: 1
+Total 42

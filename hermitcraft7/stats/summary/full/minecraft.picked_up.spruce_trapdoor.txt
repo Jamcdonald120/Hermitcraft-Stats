@@ -1,0 +1,25 @@
+minecraft.picked_up.spruce_trapdoor
+1: cubfan135: 4508
+2: Zedaph: 3629
+3: GoodTimeWithScar: 3039
+4: iJevin: 1930
+5: Grian: 1669
+6: Tango: 969
+7: Renthedog: 632
+8: xBCrafted: 623
+9: Keralis1: 605
+10: iskall85: 562
+11: BdoubleO100: 517
+12: Etho: 477
+13: VintageBeef: 320
+14: MumboJumbo: 284
+15: Welsknight: 277
+16: joehillssays: 242
+17: Xisuma: 196
+18: impulseSV: 143
+19: ZombieCleo: 126
+20: hypnotizd: 104
+21: falsesymmetry: 96
+22: Docm77: 47
+23: Stressmonster101: 37
+Total 21032

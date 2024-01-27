@@ -1,0 +1,5 @@
+stat.pickup.minecraft.wooden_hoe
+1: Renthedog: 33
+2: iskall85: 2
+3: Biffa2001: 1
+Total 36

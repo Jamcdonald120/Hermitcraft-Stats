@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.diamond
+1: cubfan135: 1400
+2: PythonGB: 1323
+3: impulseSV: 1269
+4: falsesymmetry: 1053
+5: Tinfoilchef: 801
+6: iskall85: 747
+7: Xisuma: 513
+8: MumboJumbo: 513
+9: Renthedog: 162
+10: Tango: 135
+11: GoodTimeWithScar: 90
+12: Welsknight: 36
+13: Biffa2001: 18
+14: Jessassin: 9
+Total 8069

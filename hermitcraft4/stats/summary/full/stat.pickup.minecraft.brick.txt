@@ -1,0 +1,12 @@
+stat.pickup.minecraft.brick
+1: falsesymmetry: 867
+2: iJevin: 160
+3: Xisuma: 127
+4: iskall85: 100
+5: GoodTimeWithScar: 56
+6: cubfan135: 31
+7: Tinfoilchef: 30
+8: PythonGB: 24
+9: ZombieCleo: 13
+10: Welsknight: 5
+Total 1413

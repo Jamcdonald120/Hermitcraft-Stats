@@ -1,0 +1,15 @@
+minecraft.picked_up.polished_blackstone_wall
+1: Tango: 483
+2: cubfan135: 332
+3: GoodTimeWithScar: 300
+4: impulseSV: 153
+5: PearlescentMoon: 146
+6: falsesymmetry: 80
+7: Xisuma: 72
+8: xBCrafted: 17
+9: Grian: 6
+10: Docm77: 5
+11: Renthedog: 4
+12: joehillssays: 3
+13: RentheKing: 1
+Total 1602

@@ -1,0 +1,5 @@
+minecraft.dropped.oxidized_cut_copper_slab
+1: GoodTimeWithScar: 51
+2: Docm77: 3
+3: cubfan135: 1
+Total 55

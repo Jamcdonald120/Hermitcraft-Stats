@@ -1,0 +1,23 @@
+stat.useItem.minecraft.gravel
+1: falsesymmetry: 14876
+2: iskall85: 1925
+3: Renthedog: 1021
+4: GoodTimeWithScar: 752
+5: joehillssays: 730
+6: Xisuma: 696
+7: MumboJumbo: 402
+8: cubfan135: 303
+9: Tango: 254
+10: Etho: 162
+11: Welsknight: 109
+12: Tinfoilchef: 105
+13: xBCrafted: 100
+14: impulseSV: 94
+15: iJevin: 72
+16: Mumbo: 41
+17: PythonGB: 13
+18: Biffa2001: 13
+19: VintageBeef: 8
+20: Docm77: 4
+21: ZombieCleo: 1
+Total 21681

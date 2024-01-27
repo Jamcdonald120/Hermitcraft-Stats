@@ -1,0 +1,5 @@
+minecraft.custom.clean_armor
+1: cubfan135: 3
+2: Tango: 2
+3: joehillssays: 1
+Total 6

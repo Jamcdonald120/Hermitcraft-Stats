@@ -1,0 +1,20 @@
+minecraft.crafted.crimson_slab
+1: falsesymmetry: 2117
+2: cubfan135: 1052
+3: Tango: 566
+4: impulseSV: 528
+5: Etho: 484
+6: Grian: 354
+7: VintageBeef: 300
+8: xBCrafted: 192
+9: Renthedog: 186
+10: Stressmonster101: 126
+11: Xisuma: 108
+12: joehillssays: 108
+13: MumboJumbo: 30
+14: Keralis1: 12
+15: iJevin: 6
+16: BdoubleO100: 6
+17: Welsknight: 6
+18: ZombieCleo: 6
+Total 6187

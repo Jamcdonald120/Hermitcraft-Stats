@@ -1,0 +1,3 @@
+minecraft.picked_up.dead_brain_coral
+1: iJevin: 6
+Total 6

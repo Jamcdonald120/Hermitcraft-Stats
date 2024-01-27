@@ -1,0 +1,24 @@
+minecraft.picked_up.weeping_vines
+1: cubfan135: 144
+2: Xisuma: 126
+3: joehillssays: 116
+4: Stressmonster101: 115
+5: Renthedog: 88
+6: PearlescentMoon: 85
+7: Grian: 57
+8: ZombieCleo: 52
+9: GoodTimeWithScar: 43
+10: Keralis1: 35
+11: impulseSV: 31
+12: VintageBeef: 21
+13: GeminiTay: 12
+14: Tango: 10
+15: BdoubleO100: 7
+16: hypnotizd: 4
+17: MumboJumbo: 4
+18: Etho: 2
+19: Docm77: 1
+20: iJevin: 1
+21: xBCrafted: 1
+22: Welsknight: 1
+Total 956

@@ -1,0 +1,24 @@
+stat.pickup.minecraft.redstone_ore
+1: falsesymmetry: 1816
+2: impulseSV: 1408
+3: MumboJumbo: 1159
+4: Zedaph: 938
+5: iJevin: 555
+6: GoodTimeWithScar: 538
+7: cubfan135: 533
+8: Tango: 467
+9: Stressmonster101: 455
+10: Xisuma: 452
+11: PythonGB: 415
+12: Renthedog: 412
+13: Biffa2001: 310
+14: xBCrafted: 184
+15: joehillssays: 182
+16: Welsknight: 123
+17: VintageBeef: 89
+18: Docm77: 74
+19: iskall85: 25
+20: ZombieCleo: 6
+21: Etho: 4
+22: Tinfoilchef: 3
+Total 10148

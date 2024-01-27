@@ -1,0 +1,6 @@
+stat.entityKilledBy.PigZombie
+1: GoodTimeWithScar: 6
+2: Renthedog: 4
+3: impulseSV: 4
+4: Welsknight: 1
+Total 15

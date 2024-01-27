@@ -1,0 +1,11 @@
+minecraft.dropped.cauldron
+1: falsesymmetry: 26
+2: GeminiTay: 9
+3: Tango: 9
+4: GoodTimeWithScar: 6
+5: Zedaph: 2
+6: Renthedog: 1
+7: iJevin: 1
+8: PearlescentMoon: 1
+9: impulseSV: 1
+Total 56

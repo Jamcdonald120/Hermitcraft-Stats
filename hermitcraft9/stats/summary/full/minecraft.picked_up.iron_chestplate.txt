@@ -1,0 +1,29 @@
+minecraft.picked_up.iron_chestplate
+1: Etho: 495
+2: iJevin: 20
+3: cubfan135: 19
+4: falsesymmetry: 18
+5: Zedaph: 16
+6: Xisuma: 11
+7: PearlescentMoon: 11
+8: Docm77: 9
+9: Renthedog: 9
+10: Grian: 9
+11: Tango: 8
+12: impulseSV: 6
+13: VintageBeef: 5
+14: GeminiTay: 5
+15: Keralis1: 5
+16: joehillssays: 4
+17: iskall85: 4
+18: hypnotizd: 4
+19: xBCrafted: 2
+20: Mumbo: 2
+21: GoodTimeWithScar: 2
+22: Stressmonster101: 2
+23: OrionSound: 1
+24: Welsknight: 1
+25: ZombieCleo: 1
+26: MumboJumbo: 1
+27: HBomb94: 1
+Total 671

@@ -1,0 +1,26 @@
+minecraft.picked_up.stick
+1: Renthedog: 19557
+2: iskall85: 15784
+3: Grian: 11777
+4: GoodTimeWithScar: 11772
+5: Xisuma: 8014
+6: Zedaph: 7704
+7: Etho: 6904
+8: BdoubleO100: 4994
+9: falsesymmetry: 4088
+10: hypnotizd: 3553
+11: joehillssays: 3405
+12: cubfan135: 3155
+13: Keralis1: 3082
+14: impulseSV: 2418
+15: Tango: 2401
+16: iJevin: 2297
+17: Stressmonster101: 2020
+18: VintageBeef: 1822
+19: MumboJumbo: 1699
+20: Tinfoilchef: 1141
+21: ZombieCleo: 1114
+22: xBCrafted: 1094
+23: Docm77: 460
+24: Welsknight: 371
+Total 120626

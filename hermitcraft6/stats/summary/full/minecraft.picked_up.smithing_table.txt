@@ -1,0 +1,10 @@
+minecraft.picked_up.smithing_table
+1: GoodTimeWithScar: 102
+2: cubfan135: 56
+3: iskall85: 46
+4: impulseSV: 18
+5: Xisuma: 16
+6: Stressmonster101: 11
+7: ZombieCleo: 10
+8: Tango: 8
+Total 267

@@ -1,0 +1,26 @@
+stat.pickup.minecraft.diamond_pickaxe
+1: GoodTimeWithScar: 173
+2: Renthedog: 125
+3: Tango: 78
+4: cubfan135: 73
+5: PythonGB: 69
+6: iJevin: 69
+7: iskall85: 55
+8: impulseSV: 55
+9: Docm77: 53
+10: Zedaph: 52
+11: MumboJumbo: 47
+12: joehillssays: 42
+13: Welsknight: 33
+14: Xisuma: 32
+15: falsesymmetry: 20
+16: Stressmonster101: 15
+17: xBCrafted: 13
+18: ZombieCleo: 11
+19: Tinfoilchef: 8
+20: BdoubleO100: 7
+21: VintageBeef: 5
+22: Biffa2001: 5
+23: Etho: 2
+24: isGall85: 1
+Total 1043

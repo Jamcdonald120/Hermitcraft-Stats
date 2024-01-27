@@ -1,0 +1,9 @@
+minecraft.dropped.melon_slice
+1: Zedaph: 12272
+2: cubfan135: 389
+3: Grian: 111
+4: PearlescentMoon: 64
+5: GoodTimeWithScar: 48
+6: iJevin: 40
+7: Xisuma: 5
+Total 12929

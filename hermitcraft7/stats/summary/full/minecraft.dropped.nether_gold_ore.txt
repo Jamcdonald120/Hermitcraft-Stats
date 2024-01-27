@@ -1,0 +1,20 @@
+minecraft.dropped.nether_gold_ore
+1: GoodTimeWithScar: 646
+2: cubfan135: 197
+3: Grian: 70
+4: Renthedog: 65
+5: iskall85: 37
+6: Zedaph: 37
+7: iJevin: 35
+8: xBCrafted: 35
+9: hypnotizd: 22
+10: MumboJumbo: 22
+11: Tango: 14
+12: falsesymmetry: 14
+13: impulseSV: 10
+14: Stressmonster101: 6
+15: Keralis1: 4
+16: Docm77: 1
+17: Xisuma: 1
+18: VintageBeef: 1
+Total 1217

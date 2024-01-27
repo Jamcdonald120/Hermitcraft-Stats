@@ -1,0 +1,24 @@
+minecraft.dropped.gold_nugget
+1: Tango: 8112
+2: Xisuma: 2281
+3: MumboJumbo: 1945
+4: iskall85: 1190
+5: Keralis1: 963
+6: Grian: 726
+7: cubfan135: 717
+8: iJevin: 657
+9: hypnotizd: 337
+10: GoodTimeWithScar: 320
+11: xBCrafted: 285
+12: Renthedog: 268
+13: falsesymmetry: 247
+14: Docm77: 189
+15: Etho: 147
+16: BdoubleO100: 139
+17: Zedaph: 91
+18: VintageBeef: 71
+19: impulseSV: 18
+20: joehillssays: 16
+21: ZombieCleo: 1
+22: Stressmonster101: 1
+Total 18721

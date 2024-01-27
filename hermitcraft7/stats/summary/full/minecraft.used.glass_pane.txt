@@ -1,0 +1,24 @@
+minecraft.used.glass_pane
+1: xBCrafted: 1563
+2: Tinfoilchef: 1079
+3: Keralis1: 1021
+4: hypnotizd: 873
+5: VintageBeef: 858
+6: ZombieCleo: 579
+7: MumboJumbo: 517
+8: cubfan135: 309
+9: Renthedog: 168
+10: iJevin: 162
+11: Xisuma: 160
+12: joehillssays: 125
+13: Zedaph: 86
+14: Etho: 76
+15: iskall85: 45
+16: Tango: 35
+17: BdoubleO100: 26
+18: falsesymmetry: 26
+19: Grian: 8
+20: Docm77: 5
+21: Stressmonster101: 4
+22: GoodTimeWithScar: 2
+Total 7727

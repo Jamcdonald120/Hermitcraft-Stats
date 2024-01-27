@@ -1,0 +1,19 @@
+stat.useItem.minecraft.dark_oak_stairs
+1: GoodTimeWithScar: 6421
+2: falsesymmetry: 2223
+3: Welsknight: 2126
+4: cubfan135: 1532
+5: Renthedog: 1082
+6: Xisuma: 696
+7: ZombieCleo: 322
+8: joehillssays: 167
+9: Tinfoilchef: 115
+10: PythonGB: 83
+11: zueljin: 59
+12: iskall85: 44
+13: Biffa2001: 36
+14: MumboJumbo: 10
+15: VintageBeef: 9
+16: impulseSV: 3
+17: Docm77: 1
+Total 14929

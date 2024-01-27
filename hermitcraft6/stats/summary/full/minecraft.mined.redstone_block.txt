@@ -1,0 +1,23 @@
+minecraft.mined.redstone_block
+1: iskall85: 781
+2: Tango: 472
+3: impulseSV: 466
+4: MumboJumbo: 455
+5: Renthedog: 434
+6: Xisuma: 425
+7: Welsknight: 363
+8: cubfan135: 357
+9: Stressmonster101: 356
+10: Docm77: 337
+11: GoodTimeWithScar: 203
+12: joehillssays: 179
+13: Grian: 154
+14: ZombieCleo: 98
+15: iJevin: 79
+16: falsesymmetry: 69
+17: Tinfoilchef: 50
+18: Zedaph: 33
+19: Keralis1: 24
+20: PythonGB: 7
+21: BdoubleO100: 2
+Total 5344

@@ -1,0 +1,18 @@
+minecraft.dropped.rabbit
+1: Renthedog: 20
+2: hypnotizd: 9
+3: Keralis1: 6
+4: Xisuma: 4
+5: Etho: 3
+6: Docm77: 2
+7: falsesymmetry: 2
+8: impulseSV: 2
+9: VintageBeef: 1
+10: iJevin: 1
+11: PearlescentMoon: 1
+12: iskall85: 1
+13: cubfan135: 1
+14: GoodTimeWithScar: 1
+15: Stressmonster101: 1
+16: Zedaph: 1
+Total 56

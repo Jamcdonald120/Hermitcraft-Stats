@@ -1,0 +1,19 @@
+minecraft.crafted.bamboo_planks
+1: Mumbo: 6596
+2: GoodTimeWithScar: 2680
+3: cubfan135: 1528
+4: Keralis1: 1064
+5: impulseSV: 596
+6: Xisuma: 510
+7: BdoubleO100: 320
+8: Docm77: 208
+9: PearlescentMoon: 202
+10: Renthedog: 148
+11: joehillssays: 144
+12: Etho: 136
+13: xBCrafted: 128
+14: Zedaph: 60
+15: Tango: 20
+16: iskall85: 4
+17: falsesymmetry: 2
+Total 14346

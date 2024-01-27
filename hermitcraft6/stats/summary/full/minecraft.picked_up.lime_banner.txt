@@ -1,0 +1,12 @@
+minecraft.picked_up.lime_banner
+1: Xisuma: 18
+2: falsesymmetry: 14
+3: cubfan135: 10
+4: GoodTimeWithScar: 5
+5: Grian: 4
+6: iskall85: 4
+7: Docm77: 3
+8: Renthedog: 2
+9: iJevin: 2
+10: impulseSV: 2
+Total 64

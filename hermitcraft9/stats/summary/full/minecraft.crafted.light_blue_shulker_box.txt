@@ -1,0 +1,25 @@
+minecraft.crafted.light_blue_shulker_box
+1: iJevin: 1100
+2: Renthedog: 154
+3: joehillssays: 64
+4: RentheKing: 26
+5: impulseSV: 20
+6: falsesymmetry: 6
+7: Xisuma: 5
+8: PearlescentMoon: 5
+9: Grian: 4
+10: iskall85: 4
+11: Zedaph: 4
+12: cubfan135: 3
+13: Etho: 3
+14: Docm77: 2
+15: VintageBeef: 2
+16: Tango: 2
+17: Pixlriffs: 2
+18: xBCrafted: 2
+19: Mumbo: 2
+20: Keralis1: 2
+21: GeminiTay: 1
+22: BdoubleO100: 1
+23: ZombieCleo: 1
+Total 1415

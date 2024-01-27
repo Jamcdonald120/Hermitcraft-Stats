@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.golden_chestplate
+1: iJevin: 1
+2: impulseSV: 1
+Total 2

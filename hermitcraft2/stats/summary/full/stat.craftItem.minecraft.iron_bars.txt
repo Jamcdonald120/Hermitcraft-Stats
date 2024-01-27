@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.iron_bars
+1: Spumwackles: 1040
+2: Tango: 640
+3: falsesymmetry: 336
+4: zueljin: 240
+5: ZombieCleo: 144
+6: monkeyfarm: 16
+Total 2416

@@ -1,0 +1,32 @@
+minecraft.used.item_frame
+1: VintageBeef: 1304
+2: Grian: 1031
+3: cubfan135: 1008
+4: falsesymmetry: 911
+5: ZombieCleo: 782
+6: PearlescentMoon: 733
+7: Tango: 701
+8: iJevin: 644
+9: impulseSV: 615
+10: xBCrafted: 386
+11: Docm77: 366
+12: joehillssays: 327
+13: Xisuma: 288
+14: Renthedog: 283
+15: iskall85: 245
+16: Keralis1: 244
+17: BdoubleO100: 241
+18: Zedaph: 216
+19: GoodTimeWithScar: 130
+20: Etho: 111
+21: hypnotizd: 109
+22: Stressmonster101: 83
+23: GeminiTay: 71
+24: RentheKing: 69
+25: Welsknight: 33
+26: MythicalSausage: 17
+27: Mumbo: 16
+28: SolidarityGaming: 6
+29: OrionSound: 2
+30: Smajor1995: 2
+Total 10974

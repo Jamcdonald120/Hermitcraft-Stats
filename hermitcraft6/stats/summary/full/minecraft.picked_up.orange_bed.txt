@@ -1,0 +1,11 @@
+minecraft.picked_up.orange_bed
+1: cubfan135: 32
+2: iskall85: 27
+3: GoodTimeWithScar: 7
+4: iJevin: 5
+5: Renthedog: 1
+6: Grian: 1
+7: Tango: 1
+8: falsesymmetry: 1
+9: Zedaph: 1
+Total 76

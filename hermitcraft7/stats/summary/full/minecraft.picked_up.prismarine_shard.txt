@@ -1,0 +1,20 @@
+minecraft.picked_up.prismarine_shard
+1: impulseSV: 43798
+2: Grian: 4249
+3: Zedaph: 3665
+4: Tango: 2310
+5: MumboJumbo: 1342
+6: falsesymmetry: 1307
+7: iJevin: 812
+8: xBCrafted: 79
+9: iskall85: 64
+10: Renthedog: 60
+11: hypnotizd: 57
+12: Etho: 51
+13: Xisuma: 37
+14: joehillssays: 22
+15: Docm77: 18
+16: GoodTimeWithScar: 7
+17: xisumavoid: 4
+18: isGall85: 2
+Total 57884

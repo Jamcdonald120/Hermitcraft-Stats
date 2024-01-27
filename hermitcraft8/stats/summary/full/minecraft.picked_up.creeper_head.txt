@@ -1,0 +1,7 @@
+minecraft.picked_up.creeper_head
+1: GoodTimeWithScar: 5
+2: PearlescentMoon: 2
+3: Grian: 1
+4: BdoubleO100: 1
+5: Keralis1: 1
+Total 10

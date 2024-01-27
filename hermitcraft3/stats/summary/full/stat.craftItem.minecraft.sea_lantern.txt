@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.sea_lantern
+1: xBCrafted: 18402
+2: falsesymmetry: 1750
+3: impulseSV: 1694
+4: Xisuma: 1536
+5: sl1pg8r: 1344
+6: Tinfoilchef: 832
+7: Mumbo: 704
+8: zueljin: 604
+9: hypnotizd: 580
+10: KingDaddyDMAC: 448
+11: Tango: 304
+12: iJevin: 256
+13: Biffa2001: 65
+14: monkeyfarm: 1
+Total 28520

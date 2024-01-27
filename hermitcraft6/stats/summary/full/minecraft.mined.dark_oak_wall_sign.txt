@@ -1,0 +1,17 @@
+minecraft.mined.dark_oak_wall_sign
+1: falsesymmetry: 30
+2: cubfan135: 26
+3: PythonGB: 17
+4: Zedaph: 14
+5: ZombieCleo: 11
+6: Xisuma: 8
+7: Welsknight: 7
+8: Grian: 6
+9: iskall85: 5
+10: Keralis1: 5
+11: Docm77: 4
+12: Tango: 4
+13: Renthedog: 1
+14: GoodTimeWithScar: 1
+15: impulseSV: 1
+Total 140

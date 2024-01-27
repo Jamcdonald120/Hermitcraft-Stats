@@ -1,0 +1,10 @@
+minecraft.crafted.end_crystal
+1: Xisuma: 576
+2: Zedaph: 202
+3: cubfan135: 167
+4: Tango: 57
+5: Etho: 40
+6: Grian: 9
+7: iJevin: 8
+8: impulseSV: 8
+Total 1067

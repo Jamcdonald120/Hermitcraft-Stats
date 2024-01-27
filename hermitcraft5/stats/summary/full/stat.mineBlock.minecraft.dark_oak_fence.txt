@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.dark_oak_fence
+1: cubfan135: 1402
+2: xBCrafted: 785
+3: falsesymmetry: 578
+4: Tango: 245
+5: Welsknight: 200
+6: Xisuma: 88
+7: Stressmonster101: 81
+8: Zedaph: 55
+9: MumboJumbo: 38
+10: PythonGB: 34
+11: GoodTimeWithScar: 22
+12: joehillssays: 20
+13: BdoubleO100: 9
+14: impulseSV: 5
+15: Etho: 2
+16: iskall85: 1
+Total 3565

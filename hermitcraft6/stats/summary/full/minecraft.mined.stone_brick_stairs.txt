@@ -1,0 +1,26 @@
+minecraft.mined.stone_brick_stairs
+1: Renthedog: 4481
+2: falsesymmetry: 3365
+3: Xisuma: 2225
+4: GoodTimeWithScar: 1455
+5: cubfan135: 1405
+6: Stressmonster101: 1052
+7: impulseSV: 1039
+8: iJevin: 860
+9: Welsknight: 667
+10: Tango: 547
+11: iskall85: 441
+12: Docm77: 320
+13: Tinfoilchef: 219
+14: Grian: 173
+15: Keralis1: 129
+16: Zedaph: 90
+17: MumboJumbo: 88
+18: BdoubleO100: 78
+19: Biffa2001: 74
+20: ZombieCleo: 71
+21: joehillssays: 41
+22: xBCrafted: 26
+23: Jessassin: 15
+24: PythonGB: 1
+Total 18862

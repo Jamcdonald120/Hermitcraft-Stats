@@ -1,0 +1,23 @@
+minecraft.picked_up.gold_nugget
+1: Xisuma: 234645
+2: impulseSV: 121318
+3: iskall85: 5357
+4: Zedaph: 4848
+5: Renthedog: 3437
+6: Docm77: 1919
+7: Grian: 1170
+8: falsesymmetry: 527
+9: cubfan135: 406
+10: MumboJumbo: 268
+11: iJevin: 112
+12: GoodTimeWithScar: 83
+13: Stressmonster101: 68
+14: Tango: 49
+15: joehillssays: 36
+16: Biffa2001: 27
+17: Welsknight: 17
+18: BdoubleO100: 10
+19: PythonGB: 6
+20: ZombieCleo: 4
+21: Keralis1: 4
+Total 374311

@@ -1,0 +1,5 @@
+minecraft.dropped.cod_bucket
+1: cubfan135: 11
+2: iskall85: 3
+3: MumboJumbo: 1
+Total 15

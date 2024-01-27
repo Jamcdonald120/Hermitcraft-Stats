@@ -1,0 +1,11 @@
+minecraft.dropped.bamboo_raft
+1: Etho: 10
+2: Docm77: 8
+3: hypnotizd: 2
+4: GoodTimeWithScar: 2
+5: Xisuma: 1
+6: iJevin: 1
+7: falsesymmetry: 1
+8: Mumbo: 1
+9: Zedaph: 1
+Total 27

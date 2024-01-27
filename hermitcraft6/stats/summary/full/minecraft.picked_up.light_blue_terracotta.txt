@@ -1,0 +1,18 @@
+minecraft.picked_up.light_blue_terracotta
+1: Xisuma: 1370
+2: cubfan135: 457
+3: GoodTimeWithScar: 267
+4: Grian: 146
+5: MumboJumbo: 124
+6: joehillssays: 123
+7: Renthedog: 107
+8: Stressmonster101: 83
+9: falsesymmetry: 68
+10: impulseSV: 48
+11: ZombieCleo: 37
+12: Docm77: 24
+13: iskall85: 14
+14: iJevin: 4
+15: Zedaph: 2
+16: Tinfoilchef: 1
+Total 2875

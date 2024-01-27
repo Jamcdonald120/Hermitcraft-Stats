@@ -1,0 +1,4 @@
+minecraft.dropped.crimson_pressure_plate
+1: Renthedog: 4
+2: Tango: 1
+Total 5

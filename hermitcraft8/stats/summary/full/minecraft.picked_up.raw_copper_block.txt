@@ -1,0 +1,13 @@
+minecraft.picked_up.raw_copper_block
+1: cubfan135: 118
+2: iJevin: 34
+3: Etho: 28
+4: BdoubleO100: 27
+5: GoodTimeWithScar: 27
+6: ZombieCleo: 21
+7: impulseSV: 11
+8: xBCrafted: 4
+9: iskall85: 3
+10: Renthedog: 1
+11: MumboJumbo: 1
+Total 275

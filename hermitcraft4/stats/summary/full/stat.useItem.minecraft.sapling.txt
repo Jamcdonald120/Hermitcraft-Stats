@@ -1,0 +1,28 @@
+stat.useItem.minecraft.sapling
+1: Xisuma: 13536
+2: Renthedog: 12600
+3: cubfan135: 7962
+4: GoodTimeWithScar: 5734
+5: falsesymmetry: 1247
+6: Tinfoilchef: 1053
+7: ZombieCleo: 649
+8: PythonGB: 432
+9: Tango: 409
+10: iskall85: 347
+11: joehillssays: 341
+12: Etho: 285
+13: VintageBeef: 196
+14: hypnotizd: 130
+15: Jessassin: 106
+16: Biffa2001: 100
+17: Docm77: 87
+18: MumboJumbo: 87
+19: Welsknight: 84
+20: iJevin: 46
+21: xBCrafted: 34
+22: impulseSV: 33
+23: zueljin: 30
+24: Mumbo: 17
+25: xisumavoid: 6
+26: monkeyfarm: 3
+Total 45554

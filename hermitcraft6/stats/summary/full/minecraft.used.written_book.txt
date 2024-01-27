@@ -1,0 +1,28 @@
+minecraft.used.written_book
+1: ZombieCleo: 21172
+2: Docm77: 4792
+3: falsesymmetry: 4010
+4: HumanCleo: 2123
+5: Xisuma: 1859
+6: impulseSV: 1619
+7: GoodTimeWithScar: 1512
+8: cubfan135: 1448
+9: iskall85: 1288
+10: iJevin: 1176
+11: Stressmonster101: 515
+12: MumboJumbo: 358
+13: Keralis1: 283
+14: Renthedog: 200
+15: Grian: 177
+16: Tango: 139
+17: joehillssays: 123
+18: Zedaph: 120
+19: Biffa2001: 47
+20: PythonGB: 44
+21: BdoubleO100: 38
+22: Welsknight: 38
+23: Tinfoilchef: 9
+24: Jessassin: 3
+25: Duke_da_dog: 2
+26: xBCrafted: 1
+Total 43096

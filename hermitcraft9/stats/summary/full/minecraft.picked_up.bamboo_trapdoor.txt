@@ -1,0 +1,12 @@
+minecraft.picked_up.bamboo_trapdoor
+1: cubfan135: 172
+2: Keralis1: 11
+3: Grian: 10
+4: GoodTimeWithScar: 10
+5: Xisuma: 6
+6: Docm77: 5
+7: Tango: 4
+8: BdoubleO100: 3
+9: PearlescentMoon: 1
+10: Zedaph: 1
+Total 223

@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.activator_rail
+1: cubfan135: 42
+2: Zedaph: 36
+3: impulseSV: 18
+4: falsesymmetry: 12
+5: Docm77: 6
+6: iJevin: 6
+Total 120

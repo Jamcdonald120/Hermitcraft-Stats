@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.book
+1: Tango: 260
+2: ZombieCleo: 73
+3: Biffa2001: 38
+4: zueljin: 17
+5: xBCrafted: 10
+6: iJevin: 3
+Total 401

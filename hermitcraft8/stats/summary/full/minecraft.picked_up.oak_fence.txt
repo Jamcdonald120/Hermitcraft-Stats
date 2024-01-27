@@ -1,0 +1,28 @@
+minecraft.picked_up.oak_fence
+1: Xisuma: 473
+2: joehillssays: 463
+3: Keralis1: 343
+4: iJevin: 315
+5: falsesymmetry: 269
+6: PearlescentMoon: 247
+7: Zedaph: 241
+8: cubfan135: 182
+9: MumboJumbo: 182
+10: GoodTimeWithScar: 165
+11: Tango: 120
+12: hypnotizd: 97
+13: iskall85: 92
+14: Grian: 75
+15: Renthedog: 67
+16: Welsknight: 67
+17: Etho: 64
+18: Docm77: 52
+19: ZombieCleo: 50
+20: VintageBeef: 23
+21: impulseSV: 21
+22: BdoubleO100: 14
+23: GeminiTay: 10
+24: Stressmonster101: 8
+25: xBCrafted: 4
+26: pillbugnine: 1
+Total 3645

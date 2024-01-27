@@ -1,0 +1,5 @@
+stat.drop.minecraft.pumpkin_seeds
+1: Xisuma: 4
+2: VintageBeef: 4
+3: Renthedog: 1
+Total 9

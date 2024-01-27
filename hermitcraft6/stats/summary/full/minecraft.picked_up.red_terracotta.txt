@@ -1,0 +1,21 @@
+minecraft.picked_up.red_terracotta
+1: cubfan135: 37608
+2: falsesymmetry: 21410
+3: GoodTimeWithScar: 16176
+4: Xisuma: 8940
+5: Grian: 6144
+6: iskall85: 1819
+7: Docm77: 1328
+8: joehillssays: 1204
+9: Zedaph: 1114
+10: Tango: 961
+11: BdoubleO100: 913
+12: MumboJumbo: 840
+13: iJevin: 580
+14: Stressmonster101: 217
+15: impulseSV: 94
+16: Welsknight: 77
+17: Biffa2001: 22
+18: Duke_da_dog: 10
+19: Renthedog: 1
+Total 99458

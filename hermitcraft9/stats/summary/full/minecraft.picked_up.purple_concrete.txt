@@ -1,0 +1,19 @@
+minecraft.picked_up.purple_concrete
+1: iJevin: 2910
+2: impulseSV: 1616
+3: falsesymmetry: 1514
+4: Docm77: 401
+5: cubfan135: 382
+6: Mumbo: 239
+7: PearlescentMoon: 126
+8: Xisuma: 124
+9: Renthedog: 65
+10: Tango: 32
+11: GoodTimeWithScar: 24
+12: ZombieCleo: 9
+13: Etho: 8
+14: VintageBeef: 4
+15: xBCrafted: 3
+16: Zedaph: 2
+17: Keralis1: 1
+Total 7460

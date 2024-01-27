@@ -1,0 +1,16 @@
+stat.useItem.minecraft.green_shulker_box
+1: falsesymmetry: 318
+2: cubfan135: 304
+3: Stressmonster101: 250
+4: Tango: 216
+5: iskall85: 193
+6: GoodTimeWithScar: 127
+7: Xisuma: 105
+8: PythonGB: 31
+9: Renthedog: 20
+10: Docm77: 19
+11: Zedaph: 12
+12: BdoubleO100: 10
+13: MumboJumbo: 1
+14: impulseSV: 1
+Total 1607

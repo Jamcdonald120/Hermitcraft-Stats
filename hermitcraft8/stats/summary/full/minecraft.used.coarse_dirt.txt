@@ -1,0 +1,24 @@
+minecraft.used.coarse_dirt
+1: cubfan135: 11033
+2: GoodTimeWithScar: 5424
+3: PearlescentMoon: 4082
+4: Keralis1: 2886
+5: VintageBeef: 2355
+6: Grian: 1694
+7: GeminiTay: 1645
+8: iskall85: 1359
+9: MumboJumbo: 903
+10: BdoubleO100: 848
+11: Etho: 833
+12: xBCrafted: 513
+13: Renthedog: 246
+14: Docm77: 174
+15: Stressmonster101: 153
+16: Xisuma: 134
+17: falsesymmetry: 111
+18: joehillssays: 66
+19: Welsknight: 63
+20: ZombieCleo: 41
+21: impulseSV: 31
+22: Tango: 26
+Total 34620

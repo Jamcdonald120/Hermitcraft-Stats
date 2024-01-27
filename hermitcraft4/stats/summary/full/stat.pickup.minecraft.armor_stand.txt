@@ -1,0 +1,20 @@
+stat.pickup.minecraft.armor_stand
+1: falsesymmetry: 814
+2: Tinfoilchef: 232
+3: iskall85: 134
+4: GoodTimeWithScar: 103
+5: cubfan135: 81
+6: Xisuma: 72
+7: Renthedog: 54
+8: Etho: 41
+9: Tango: 37
+10: impulseSV: 36
+11: Docm77: 29
+12: VintageBeef: 18
+13: Welsknight: 6
+14: MumboJumbo: 4
+15: PythonGB: 3
+16: zueljin: 3
+17: iJevin: 2
+18: joehillssays: 2
+Total 1671

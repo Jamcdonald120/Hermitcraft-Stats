@@ -1,0 +1,12 @@
+minecraft.picked_up.shelter_pottery_sherd
+1: cubfan135: 14
+2: falsesymmetry: 6
+3: PearlescentMoon: 5
+4: Xisuma: 4
+5: Mumbo: 4
+6: impulseSV: 4
+7: Zedaph: 4
+8: Etho: 3
+9: iJevin: 2
+10: GeminiTay: 2
+Total 48

@@ -1,0 +1,22 @@
+stat.pickup.minecraft.comparator
+1: iskall85: 628
+2: GoodTimeWithScar: 554
+3: falsesymmetry: 548
+4: impulseSV: 539
+5: Xisuma: 479
+6: Tango: 474
+7: MumboJumbo: 458
+8: cubfan135: 378
+9: Etho: 199
+10: Docm77: 102
+11: Biffa2001: 100
+12: Tinfoilchef: 84
+13: Renthedog: 68
+14: ZombieCleo: 30
+15: iJevin: 8
+16: Mumbo: 6
+17: Welsknight: 4
+18: VintageBeef: 3
+19: PythonGB: 2
+20: xisumavoid: 2
+Total 4666

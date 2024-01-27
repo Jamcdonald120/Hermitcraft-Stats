@@ -1,0 +1,6 @@
+stat.entityKilledBy.Villager
+1: Tango: 1
+2: falsesymmetry: 1
+3: cubfan135: 1
+4: impulseSV: 1
+Total 4

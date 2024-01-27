@@ -1,0 +1,16 @@
+minecraft.mined.yellow_wool
+1: Tango: 516
+2: falsesymmetry: 358
+3: GoodTimeWithScar: 307
+4: VintageBeef: 155
+5: Xisuma: 117
+6: BdoubleO100: 78
+7: hypnotizd: 61
+8: joehillssays: 40
+9: impulseSV: 24
+10: cubfan135: 17
+11: Grian: 12
+12: Zedaph: 7
+13: Etho: 6
+14: iskall85: 3
+Total 1701

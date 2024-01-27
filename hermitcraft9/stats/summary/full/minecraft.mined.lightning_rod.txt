@@ -1,0 +1,24 @@
+minecraft.mined.lightning_rod
+1: Keralis1: 145
+2: impulseSV: 131
+3: cubfan135: 130
+4: Renthedog: 124
+5: Docm77: 75
+6: GoodTimeWithScar: 67
+7: BdoubleO100: 64
+8: falsesymmetry: 49
+9: ZombieCleo: 41
+10: Tango: 37
+11: Zedaph: 31
+12: Xisuma: 27
+13: RentheKing: 20
+14: PearlescentMoon: 19
+15: Grian: 14
+16: joehillssays: 12
+17: Mumbo: 12
+18: Stressmonster101: 5
+19: hypnotizd: 4
+20: MythicalSausage: 3
+21: VintageBeef: 1
+22: iJevin: 1
+Total 1012

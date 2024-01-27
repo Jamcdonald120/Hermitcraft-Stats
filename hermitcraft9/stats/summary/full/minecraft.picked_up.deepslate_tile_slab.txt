@@ -1,0 +1,26 @@
+minecraft.picked_up.deepslate_tile_slab
+1: Renthedog: 1331
+2: Grian: 533
+3: RentheKing: 391
+4: impulseSV: 306
+5: GoodTimeWithScar: 282
+6: Tango: 237
+7: cubfan135: 183
+8: iJevin: 170
+9: hypnotizd: 160
+10: Keralis1: 153
+11: xBCrafted: 96
+12: GeminiTay: 81
+13: Xisuma: 76
+14: Stressmonster101: 70
+15: PearlescentMoon: 61
+16: ZombieCleo: 26
+17: Zedaph: 26
+18: Pixlriffs: 25
+19: BdoubleO100: 12
+20: joehillssays: 11
+21: Etho: 10
+22: Mumbo: 6
+23: Docm77: 3
+24: falsesymmetry: 2
+Total 4251

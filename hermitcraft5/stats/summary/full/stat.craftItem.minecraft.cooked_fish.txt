@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.cooked_fish
+1: falsesymmetry: 9129
+2: impulseSV: 1765
+3: Docm77: 1653
+4: iskall85: 1348
+5: Stressmonster101: 1177
+6: PythonGB: 711
+7: cubfan135: 642
+8: Biffa2001: 624
+9: Welsknight: 576
+10: Xisuma: 560
+11: GoodTimeWithScar: 546
+12: xBCrafted: 256
+13: MumboJumbo: 173
+14: Zedaph: 129
+15: VintageBeef: 39
+16: joehillssays: 20
+17: iJevin: 2
+Total 19350

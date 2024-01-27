@@ -1,0 +1,15 @@
+minecraft.picked_up.green_wool
+1: Xisuma: 5444
+2: cubfan135: 396
+3: falsesymmetry: 141
+4: GoodTimeWithScar: 112
+5: Biffa2001: 78
+6: Docm77: 64
+7: Welsknight: 44
+8: joehillssays: 38
+9: iskall85: 32
+10: Tango: 27
+11: Grian: 24
+12: Renthedog: 14
+13: impulseSV: 2
+Total 6416

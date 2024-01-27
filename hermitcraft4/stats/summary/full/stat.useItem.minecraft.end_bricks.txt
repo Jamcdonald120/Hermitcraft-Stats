@@ -1,0 +1,17 @@
+stat.useItem.minecraft.end_bricks
+1: cubfan135: 5590
+2: Xisuma: 2067
+3: Biffa2001: 1347
+4: Renthedog: 1192
+5: falsesymmetry: 741
+6: iskall85: 618
+7: impulseSV: 322
+8: Welsknight: 287
+9: Tango: 209
+10: iJevin: 7
+11: PythonGB: 6
+12: VintageBeef: 2
+13: Etho: 1
+14: MumboJumbo: 1
+15: Tinfoilchef: 1
+Total 12391

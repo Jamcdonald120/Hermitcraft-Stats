@@ -1,0 +1,18 @@
+minecraft.dropped.poisonous_potato
+1: Tango: 11
+2: cubfan135: 10
+3: Zedaph: 10
+4: Xisuma: 4
+5: xBCrafted: 3
+6: Renthedog: 2
+7: PearlescentMoon: 2
+8: GoodTimeWithScar: 2
+9: impulseSV: 2
+10: VintageBeef: 1
+11: GeminiTay: 1
+12: Etho: 1
+13: ZombieCleo: 1
+14: Mumbo: 1
+15: RentheKing: 1
+16: MumboJumbo: 1
+Total 53

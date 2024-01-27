@@ -1,0 +1,26 @@
+minecraft.mined.oak_log
+1: Renthedog: 28991
+2: GoodTimeWithScar: 23989
+3: joehillssays: 13511
+4: Grian: 12814
+5: iskall85: 9076
+6: Keralis1: 8700
+7: falsesymmetry: 7936
+8: Xisuma: 5970
+9: MumboJumbo: 5765
+10: BdoubleO100: 5513
+11: Tango: 5106
+12: Etho: 4953
+13: ZombieCleo: 4408
+14: Zedaph: 3821
+15: Tinfoilchef: 3511
+16: Stressmonster101: 2483
+17: impulseSV: 2462
+18: hypnotizd: 2426
+19: VintageBeef: 2066
+20: xBCrafted: 1127
+21: Welsknight: 909
+22: cubfan135: 892
+23: iJevin: 705
+24: Docm77: 500
+Total 157634

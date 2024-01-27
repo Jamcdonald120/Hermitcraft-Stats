@@ -1,0 +1,4 @@
+minecraft.crafted.brain_coral_block
+1: PearlescentMoon: 8
+2: VintageBeef: 1
+Total 9

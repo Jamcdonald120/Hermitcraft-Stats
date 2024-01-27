@@ -1,0 +1,24 @@
+minecraft.picked_up.exposed_copper
+1: RentheKing: 693
+2: Keralis1: 450
+3: Zedaph: 421
+4: Grian: 205
+5: Xisuma: 178
+6: Docm77: 143
+7: GoodTimeWithScar: 107
+8: falsesymmetry: 71
+9: Tango: 70
+10: Mumbo: 69
+11: Renthedog: 68
+12: BdoubleO100: 61
+13: cubfan135: 27
+14: PearlescentMoon: 17
+15: joehillssays: 13
+16: Etho: 7
+17: VintageBeef: 6
+18: xBCrafted: 6
+19: impulseSV: 4
+20: Smallishbeans: 3
+21: MumboJumbo: 2
+22: iskall85: 1
+Total 2622

@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.iron_trapdoor
+1: Tango: 55
+2: ZombieCleo: 13
+3: xBCrafted: 7
+4: zueljin: 4
+5: sl1pg8r: 2
+6: KingDaddyDMAC: 1
+Total 82

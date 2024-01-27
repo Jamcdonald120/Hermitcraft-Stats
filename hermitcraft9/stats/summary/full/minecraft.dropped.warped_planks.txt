@@ -1,0 +1,16 @@
+minecraft.dropped.warped_planks
+1: falsesymmetry: 232
+2: Grian: 185
+3: cubfan135: 143
+4: iJevin: 89
+5: Tango: 65
+6: GoodTimeWithScar: 56
+7: impulseSV: 12
+8: Xisuma: 10
+9: Mumbo: 4
+10: Etho: 2
+11: Zedaph: 2
+12: PearlescentMoon: 1
+13: fWhip: 1
+14: Keralis1: 1
+Total 803

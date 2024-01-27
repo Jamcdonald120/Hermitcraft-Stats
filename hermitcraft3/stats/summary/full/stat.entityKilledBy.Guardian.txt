@@ -1,0 +1,6 @@
+stat.entityKilledBy.Guardian
+1: xBCrafted: 3
+2: Docm77: 2
+3: falsesymmetry: 2
+4: monkeyfarm: 2
+Total 9

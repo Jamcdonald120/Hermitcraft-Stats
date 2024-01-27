@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.diamond
+1: Tango: 446
+2: impulseSV: 225
+3: monkeyfarm: 198
+4: PythonGB: 81
+5: topmass: 54
+6: Biffa2001: 36
+7: xBCrafted: 28
+8: iJevin: 18
+9: sl1pg8r: 9
+10: KingDaddyDMAC: 9
+11: ZombieCleo: 9
+Total 1113

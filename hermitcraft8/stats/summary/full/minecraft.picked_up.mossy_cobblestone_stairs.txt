@@ -1,0 +1,12 @@
+minecraft.picked_up.mossy_cobblestone_stairs
+1: Tango: 52
+2: PearlescentMoon: 43
+3: Keralis1: 32
+4: Docm77: 29
+5: cubfan135: 22
+6: Renthedog: 19
+7: iskall85: 6
+8: BdoubleO100: 4
+9: Xisuma: 2
+10: impulseSV: 2
+Total 211

@@ -1,0 +1,8 @@
+minecraft.crafted.purpur_slab
+1: impulseSV: 7006
+2: Tango: 828
+3: cubfan135: 403
+4: GoodTimeWithScar: 292
+5: Keralis1: 180
+6: MumboJumbo: 6
+Total 8715

@@ -1,0 +1,25 @@
+minecraft.dropped.wooden_pickaxe
+1: iJevin: 6
+2: ZombieCleo: 5
+3: Zedaph: 5
+4: falsesymmetry: 3
+5: Xisuma: 2
+6: Renthedog: 2
+7: VintageBeef: 2
+8: xBCrafted: 2
+9: cubfan135: 2
+10: Mumbo: 2
+11: MumboJumbo: 2
+12: MythicalSausage: 1
+13: joehillssays: 1
+14: Grian: 1
+15: Tango: 1
+16: PearlescentMoon: 1
+17: iskall85: 1
+18: Welsknight: 1
+19: Etho: 1
+20: hypnotizd: 1
+21: Stressmonster101: 1
+22: Keralis1: 1
+23: impulseSV: 1
+Total 45

@@ -1,0 +1,23 @@
+minecraft.picked_up.twisting_vines
+1: Etho: 844
+2: cubfan135: 338
+3: Xisuma: 305
+4: Zedaph: 298
+5: falsesymmetry: 286
+6: Tango: 265
+7: GoodTimeWithScar: 184
+8: Renthedog: 139
+9: xBCrafted: 137
+10: joehillssays: 113
+11: iskall85: 93
+12: iJevin: 86
+13: Grian: 65
+14: ZombieCleo: 62
+15: VintageBeef: 29
+16: impulseSV: 18
+17: Keralis1: 10
+18: hypnotizd: 5
+19: Stressmonster101: 5
+20: Welsknight: 3
+21: BdoubleO100: 1
+Total 3286

@@ -1,0 +1,31 @@
+minecraft.used.spruce_slab
+1: Stressmonster101: 6135
+2: Keralis1: 4967
+3: Tango: 3832
+4: PearlescentMoon: 3736
+5: ZombieCleo: 3542
+6: Renthedog: 3234
+7: falsesymmetry: 2998
+8: GeminiTay: 2735
+9: xBCrafted: 2427
+10: Etho: 1943
+11: GoodTimeWithScar: 1886
+12: Xisuma: 1782
+13: impulseSV: 1727
+14: BdoubleO100: 1689
+15: hypnotizd: 919
+16: iJevin: 773
+17: Grian: 530
+18: iskall85: 425
+19: Docm77: 396
+20: Welsknight: 294
+21: RentheKing: 267
+22: MythicalSausage: 253
+23: VintageBeef: 206
+24: cubfan135: 173
+25: Zedaph: 51
+26: Smallishbeans: 17
+27: fWhip: 9
+28: Pixlriffs: 5
+29: OrionSound: 1
+Total 46952

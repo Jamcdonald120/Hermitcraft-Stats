@@ -1,0 +1,10 @@
+minecraft.dropped.campfire
+1: Grian: 100
+2: Keralis1: 56
+3: GoodTimeWithScar: 37
+4: iJevin: 22
+5: Tango: 4
+6: Zedaph: 4
+7: Renthedog: 1
+8: RentheKing: 1
+Total 225

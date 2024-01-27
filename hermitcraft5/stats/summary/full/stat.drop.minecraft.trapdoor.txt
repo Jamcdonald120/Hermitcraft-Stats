@@ -1,0 +1,21 @@
+stat.drop.minecraft.trapdoor
+1: MumboJumbo: 49
+2: cubfan135: 36
+3: iskall85: 31
+4: BdoubleO100: 23
+5: Tango: 19
+6: Zedaph: 18
+7: iJevin: 13
+8: xBCrafted: 12
+9: GoodTimeWithScar: 12
+10: Renthedog: 9
+11: xisumavoid: 8
+12: Stressmonster101: 8
+13: falsesymmetry: 6
+14: Xisuma: 3
+15: Welsknight: 3
+16: Etho: 2
+17: PythonGB: 1
+18: ZombieCleo: 1
+19: impulseSV: 1
+Total 255

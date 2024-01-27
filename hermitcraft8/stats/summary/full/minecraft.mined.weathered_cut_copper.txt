@@ -1,0 +1,7 @@
+minecraft.mined.weathered_cut_copper
+1: impulseSV: 16
+2: PearlescentMoon: 6
+3: Grian: 1
+4: xBCrafted: 1
+5: cubfan135: 1
+Total 25

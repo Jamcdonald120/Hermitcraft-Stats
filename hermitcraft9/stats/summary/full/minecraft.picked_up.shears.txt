@@ -1,0 +1,31 @@
+minecraft.picked_up.shears
+1: iJevin: 181
+2: impulseSV: 181
+3: Grian: 155
+4: Docm77: 107
+5: Xisuma: 92
+6: PearlescentMoon: 84
+7: Tango: 61
+8: falsesymmetry: 34
+9: Zedaph: 29
+10: ZombieCleo: 25
+11: Keralis1: 23
+12: joehillssays: 20
+13: cubfan135: 18
+14: GoodTimeWithScar: 18
+15: VintageBeef: 17
+16: Etho: 12
+17: GeminiTay: 10
+18: Renthedog: 9
+19: BdoubleO100: 9
+20: iskall85: 6
+21: hypnotizd: 5
+22: xBCrafted: 4
+23: RentheKing: 3
+24: Stressmonster101: 3
+25: MythicalSausage: 2
+26: OrionSound: 1
+27: Mumbo: 1
+28: fWhip: 1
+29: SolidarityGaming: 1
+Total 1112

@@ -1,0 +1,15 @@
+minecraft.picked_up.ender_eye
+1: Grian: 58
+2: iJevin: 28
+3: cubfan135: 24
+4: falsesymmetry: 13
+5: ZombieCleo: 7
+6: Renthedog: 4
+7: PearlescentMoon: 4
+8: Mumbo: 4
+9: Xisuma: 3
+10: Docm77: 1
+11: VintageBeef: 1
+12: Keralis1: 1
+13: impulseSV: 1
+Total 149

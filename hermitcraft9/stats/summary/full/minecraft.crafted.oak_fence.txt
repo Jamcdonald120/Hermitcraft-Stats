@@ -1,0 +1,30 @@
+minecraft.crafted.oak_fence
+1: Keralis1: 663
+2: Docm77: 537
+3: cubfan135: 432
+4: BdoubleO100: 396
+5: Zedaph: 390
+6: GoodTimeWithScar: 360
+7: Etho: 315
+8: joehillssays: 309
+9: hypnotizd: 267
+10: PearlescentMoon: 219
+11: xBCrafted: 195
+12: VintageBeef: 168
+13: Grian: 168
+14: impulseSV: 162
+15: Renthedog: 159
+16: iskall85: 147
+17: ZombieCleo: 144
+18: MythicalSausage: 126
+19: iJevin: 102
+20: Xisuma: 87
+21: Mumbo: 75
+22: Stressmonster101: 54
+23: Tango: 39
+24: SolidarityGaming: 24
+25: GeminiTay: 21
+26: Welsknight: 18
+27: MumboJumbo: 6
+28: Smallishbeans: 3
+Total 5586

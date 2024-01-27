@@ -1,0 +1,8 @@
+minecraft.crafted.gray_concrete
+1: impulseSV: 432
+2: Keralis1: 304
+3: joehillssays: 176
+4: cubfan135: 64
+5: RentheKing: 16
+6: iJevin: 8
+Total 1000

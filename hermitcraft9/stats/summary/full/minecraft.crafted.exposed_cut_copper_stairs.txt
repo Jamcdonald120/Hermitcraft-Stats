@@ -1,0 +1,7 @@
+minecraft.crafted.exposed_cut_copper_stairs
+1: Keralis1: 32
+2: cubfan135: 5
+3: Docm77: 4
+4: Zedaph: 2
+5: GoodTimeWithScar: 1
+Total 44

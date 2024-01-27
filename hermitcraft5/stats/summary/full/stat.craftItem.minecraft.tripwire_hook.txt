@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.tripwire_hook
+1: Renthedog: 4712
+2: Tango: 2040
+3: MumboJumbo: 1478
+4: impulseSV: 424
+5: falsesymmetry: 414
+6: iskall85: 390
+7: xBCrafted: 274
+8: Welsknight: 200
+9: cubfan135: 190
+10: GoodTimeWithScar: 156
+11: Tinfoilchef: 148
+12: Xisuma: 114
+13: Etho: 102
+14: PythonGB: 92
+15: Zedaph: 58
+16: iJevin: 34
+17: Docm77: 28
+18: Stressmonster101: 28
+19: ZombieCleo: 18
+20: BdoubleO100: 4
+Total 10904

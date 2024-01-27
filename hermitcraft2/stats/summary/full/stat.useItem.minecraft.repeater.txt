@@ -1,0 +1,14 @@
+stat.useItem.minecraft.repeater
+1: Xisuma: 787
+2: Mumbo: 123
+3: Spumwackles: 113
+4: Tango: 105
+5: sl1pg8r: 53
+6: Tinfoilchef: 26
+7: xBCrafted: 12
+8: iJevin: 10
+9: zueljin: 8
+10: falsesymmetry: 8
+11: ZombieCleo: 5
+12: monkeyfarm: 1
+Total 1251

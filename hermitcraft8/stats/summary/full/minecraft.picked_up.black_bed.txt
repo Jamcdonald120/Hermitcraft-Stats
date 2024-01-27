@@ -1,0 +1,9 @@
+minecraft.picked_up.black_bed
+1: Renthedog: 160
+2: Docm77: 63
+3: Keralis1: 16
+4: falsesymmetry: 10
+5: Grian: 2
+6: Stressmonster101: 2
+7: iJevin: 1
+Total 254

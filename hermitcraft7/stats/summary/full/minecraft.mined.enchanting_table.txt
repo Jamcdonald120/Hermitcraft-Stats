@@ -1,0 +1,19 @@
+minecraft.mined.enchanting_table
+1: Zedaph: 18
+2: Xisuma: 11
+3: cubfan135: 10
+4: VintageBeef: 7
+5: Etho: 7
+6: falsesymmetry: 6
+7: iJevin: 5
+8: iskall85: 4
+9: Keralis1: 4
+10: MumboJumbo: 3
+11: impulseSV: 3
+12: Tango: 2
+13: Renthedog: 1
+14: joehillssays: 1
+15: Grian: 1
+16: hypnotizd: 1
+17: GoodTimeWithScar: 1
+Total 85

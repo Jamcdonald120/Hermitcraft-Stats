@@ -1,0 +1,29 @@
+minecraft.picked_up.dirt
+1: GoodTimeWithScar: 362032
+2: falsesymmetry: 242657
+3: hypnotizd: 114099
+4: Xisuma: 85225
+5: Grian: 84978
+6: impulseSV: 77874
+7: joehillssays: 63123
+8: BdoubleO100: 57713
+9: xBCrafted: 55582
+10: iskall85: 51935
+11: cubfan135: 49882
+12: Keralis1: 48454
+13: MumboJumbo: 47694
+14: Tango: 47665
+15: Renthedog: 44253
+16: Stressmonster101: 36256
+17: Etho: 34500
+18: iJevin: 33148
+19: Zedaph: 29256
+20: ZombieCleo: 16392
+21: VintageBeef: 13903
+22: Welsknight: 8927
+23: Docm77: 5747
+24: Tinfoilchef: 5432
+25: Helsknight_: 100
+26: BarryBoss1234: 37
+27: HermitcraftAlt: 13
+Total 1616877

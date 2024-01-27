@@ -1,0 +1,25 @@
+minecraft.used.birch_planks
+1: hypnotizd: 13036
+2: impulseSV: 8112
+3: Keralis1: 5911
+4: Grian: 5046
+5: Renthedog: 920
+6: ZombieCleo: 702
+7: Stressmonster101: 583
+8: Etho: 330
+9: GoodTimeWithScar: 242
+10: Xisuma: 176
+11: cubfan135: 151
+12: VintageBeef: 105
+13: xBCrafted: 88
+14: joehillssays: 65
+15: BdoubleO100: 64
+16: iskall85: 56
+17: Tango: 35
+18: falsesymmetry: 33
+19: Docm77: 20
+20: MumboJumbo: 19
+21: Welsknight: 9
+22: iJevin: 6
+23: Zedaph: 5
+Total 35714

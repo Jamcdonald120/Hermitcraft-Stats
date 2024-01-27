@@ -1,0 +1,25 @@
+minecraft.crafted.repeater
+1: Etho: 2327
+2: MumboJumbo: 2144
+3: Tango: 1915
+4: impulseSV: 1313
+5: xBCrafted: 1295
+6: Grian: 1021
+7: iskall85: 959
+8: cubfan135: 868
+9: Renthedog: 828
+10: Xisuma: 806
+11: Zedaph: 476
+12: Stressmonster101: 384
+13: Keralis1: 366
+14: GoodTimeWithScar: 260
+15: Docm77: 216
+16: VintageBeef: 193
+17: BdoubleO100: 131
+18: joehillssays: 124
+19: Tinfoilchef: 124
+20: falsesymmetry: 89
+21: Welsknight: 66
+22: iJevin: 24
+23: hypnotizd: 1
+Total 15930

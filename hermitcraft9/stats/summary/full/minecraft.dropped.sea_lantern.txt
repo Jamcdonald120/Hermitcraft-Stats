@@ -1,0 +1,16 @@
+minecraft.dropped.sea_lantern
+1: falsesymmetry: 1832
+2: GeminiTay: 320
+3: iJevin: 204
+4: Stressmonster101: 192
+5: Keralis1: 71
+6: PearlescentMoon: 68
+7: joehillssays: 64
+8: Smallishbeans: 64
+9: impulseSV: 62
+10: ZombieCleo: 52
+11: cubfan135: 3
+12: GoodTimeWithScar: 2
+13: Tango: 1
+14: Etho: 1
+Total 2936

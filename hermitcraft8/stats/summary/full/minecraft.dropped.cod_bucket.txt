@@ -1,0 +1,3 @@
+minecraft.dropped.cod_bucket
+1: GoodTimeWithScar: 42
+Total 42

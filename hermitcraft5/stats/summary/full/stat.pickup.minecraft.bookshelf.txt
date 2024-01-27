@@ -1,0 +1,21 @@
+stat.pickup.minecraft.bookshelf
+1: Welsknight: 457
+2: cubfan135: 303
+3: Xisuma: 114
+4: impulseSV: 112
+5: joehillssays: 104
+6: GoodTimeWithScar: 79
+7: Zedaph: 51
+8: Stressmonster101: 48
+9: Tango: 47
+10: PythonGB: 26
+11: Tinfoilchef: 26
+12: iJevin: 12
+13: iskall85: 12
+14: xBCrafted: 8
+15: ZombieCleo: 8
+16: Etho: 3
+17: falsesymmetry: 1
+18: Biffa2001: 1
+19: MumboJumbo: 1
+Total 1413

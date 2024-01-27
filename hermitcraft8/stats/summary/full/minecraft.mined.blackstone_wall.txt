@@ -1,0 +1,9 @@
+minecraft.mined.blackstone_wall
+1: impulseSV: 24
+2: PearlescentMoon: 18
+3: Xisuma: 12
+4: Docm77: 9
+5: xBCrafted: 6
+6: Grian: 4
+7: Renthedog: 1
+Total 74

@@ -1,0 +1,20 @@
+minecraft.crafted.purple_dye
+1: Grian: 1948
+2: Xisuma: 1850
+3: cubfan135: 1248
+4: GoodTimeWithScar: 1092
+5: Tango: 728
+6: falsesymmetry: 460
+7: Welsknight: 388
+8: PythonGB: 274
+9: Zedaph: 232
+10: iskall85: 174
+11: Stressmonster101: 120
+12: Renthedog: 104
+13: ZombieCleo: 34
+14: iJevin: 32
+15: joehillssays: 28
+16: MumboJumbo: 8
+17: Biffa2001: 2
+18: Tinfoilchef: 2
+Total 8724

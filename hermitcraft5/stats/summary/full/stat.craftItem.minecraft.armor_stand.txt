@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.armor_stand
+1: Renthedog: 902
+2: falsesymmetry: 130
+3: iskall85: 121
+4: Tango: 71
+5: cubfan135: 71
+6: Welsknight: 64
+7: joehillssays: 60
+8: PythonGB: 58
+9: GoodTimeWithScar: 48
+10: Xisuma: 35
+11: xBCrafted: 28
+12: Zedaph: 16
+13: BdoubleO100: 15
+14: VintageBeef: 12
+15: ZombieCleo: 10
+16: Stressmonster101: 6
+17: iJevin: 5
+18: impulseSV: 2
+19: Biffa2001: 1
+20: MumboJumbo: 1
+Total 1656

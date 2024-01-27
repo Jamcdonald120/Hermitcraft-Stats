@@ -1,0 +1,5 @@
+stat.pickup.minecraft.wooden_hoe
+1: Zedaph: 5
+2: Etho: 2
+3: Tango: 1
+Total 8

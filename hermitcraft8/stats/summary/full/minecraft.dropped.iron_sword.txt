@@ -1,0 +1,24 @@
+minecraft.dropped.iron_sword
+1: Xisuma: 47
+2: Tango: 30
+3: GoodTimeWithScar: 20
+4: Grian: 8
+5: ZombieCleo: 7
+6: Keralis1: 5
+7: PearlescentMoon: 4
+8: Etho: 4
+9: impulseSV: 4
+10: cubfan135: 3
+11: Zedaph: 3
+12: Renthedog: 2
+13: Stressmonster101: 2
+14: Docm77: 1
+15: VintageBeef: 1
+16: iJevin: 1
+17: joehillssays: 1
+18: GeminiTay: 1
+19: iskall85: 1
+20: xBCrafted: 1
+21: Welsknight: 1
+22: Tinfoilchef: 1
+Total 148

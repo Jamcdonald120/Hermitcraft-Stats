@@ -1,0 +1,20 @@
+minecraft.crafted.dark_oak_sign
+1: falsesymmetry: 123
+2: GoodTimeWithScar: 75
+3: ZombieCleo: 57
+4: Grian: 48
+5: cubfan135: 33
+6: Zedaph: 27
+7: Renthedog: 21
+8: Stressmonster101: 21
+9: iskall85: 18
+10: Xisuma: 15
+11: BdoubleO100: 15
+12: PythonGB: 12
+13: Tango: 12
+14: Welsknight: 9
+15: Keralis1: 9
+16: iJevin: 3
+17: MumboJumbo: 3
+18: impulseSV: 3
+Total 504

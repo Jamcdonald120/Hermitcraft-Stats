@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.cookie
+1: cubfan135: 319
+2: falsesymmetry: 80
+3: ZombieCleo: 49
+4: BdoubleO100: 48
+5: MumboJumbo: 40
+6: Zedaph: 32
+7: iJevin: 9
+8: Tango: 9
+9: impulseSV: 9
+10: PythonGB: 8
+11: Welsknight: 7
+Total 610

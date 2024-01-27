@@ -1,0 +1,23 @@
+minecraft.dropped.compass
+1: Etho: 250
+2: Keralis1: 154
+3: cubfan135: 80
+4: Xisuma: 69
+5: hypnotizd: 60
+6: Tango: 41
+7: GoodTimeWithScar: 38
+8: iJevin: 28
+9: falsesymmetry: 24
+10: Zedaph: 24
+11: Grian: 22
+12: VintageBeef: 18
+13: joehillssays: 18
+14: impulseSV: 18
+15: MumboJumbo: 16
+16: Stressmonster101: 13
+17: Renthedog: 9
+18: BdoubleO100: 8
+19: iskall85: 4
+20: Welsknight: 3
+21: xBCrafted: 2
+Total 899

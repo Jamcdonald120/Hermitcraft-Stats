@@ -1,0 +1,28 @@
+minecraft.picked_up.chest
+1: Xisuma: 3912
+2: iJevin: 3300
+3: iskall85: 2576
+4: Renthedog: 2124
+5: impulseSV: 1547
+6: cubfan135: 1448
+7: Grian: 1439
+8: falsesymmetry: 1429
+9: GoodTimeWithScar: 1401
+10: Tango: 1193
+11: MumboJumbo: 1072
+12: PythonGB: 891
+13: Tinfoilchef: 458
+14: Welsknight: 376
+15: Zedaph: 325
+16: Docm77: 283
+17: joehillssays: 247
+18: Biffa2001: 244
+19: Stressmonster101: 234
+20: ZombieCleo: 148
+21: BdoubleO100: 100
+22: Jessassin: 31
+23: xBCrafted: 26
+24: Keralis1: 26
+25: Duke_da_dog: 4
+26: HumanCleo: 3
+Total 24837

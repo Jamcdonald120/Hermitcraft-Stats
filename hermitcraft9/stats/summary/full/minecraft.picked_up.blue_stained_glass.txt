@@ -1,0 +1,15 @@
+minecraft.picked_up.blue_stained_glass
+1: cubfan135: 235
+2: falsesymmetry: 193
+3: GoodTimeWithScar: 116
+4: Tango: 69
+5: Xisuma: 68
+6: xBCrafted: 58
+7: joehillssays: 49
+8: Renthedog: 17
+9: impulseSV: 12
+10: GeminiTay: 3
+11: Etho: 3
+12: Zedaph: 3
+13: RentheKing: 2
+Total 828

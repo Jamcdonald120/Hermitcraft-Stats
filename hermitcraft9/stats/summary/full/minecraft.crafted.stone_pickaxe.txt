@@ -1,0 +1,31 @@
+minecraft.crafted.stone_pickaxe
+1: Tinfoilchef: 34
+2: Grian: 27
+3: joehillssays: 20
+4: ZombieCleo: 13
+5: PearlescentMoon: 9
+6: Renthedog: 8
+7: BdoubleO100: 8
+8: Zedaph: 8
+9: Docm77: 7
+10: VintageBeef: 7
+11: falsesymmetry: 7
+12: iskall85: 6
+13: iJevin: 5
+14: GeminiTay: 4
+15: xBCrafted: 4
+16: hypnotizd: 4
+17: Stressmonster101: 4
+18: impulseSV: 4
+19: Xisuma: 3
+20: cubfan135: 3
+21: Keralis1: 3
+22: Tango: 2
+23: Welsknight: 2
+24: Etho: 2
+25: truesymmetry: 1
+26: Pixlriffs: 1
+27: Mumbo: 1
+28: MumboJumbo: 1
+29: ShubbleYT: 1
+Total 199

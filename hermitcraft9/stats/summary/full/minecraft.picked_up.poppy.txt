@@ -1,0 +1,32 @@
+minecraft.picked_up.poppy
+1: iJevin: 10795
+2: Tango: 3480
+3: Docm77: 3176
+4: Etho: 2867
+5: hypnotizd: 1517
+6: Keralis1: 914
+7: ZombieCleo: 623
+8: Renthedog: 577
+9: PearlescentMoon: 548
+10: Grian: 480
+11: GoodTimeWithScar: 393
+12: Xisuma: 385
+13: cubfan135: 297
+14: joehillssays: 289
+15: Zedaph: 287
+16: RentheKing: 242
+17: xBCrafted: 199
+18: iskall85: 189
+19: BdoubleO100: 178
+20: falsesymmetry: 157
+21: impulseSV: 124
+22: Welsknight: 93
+23: Stressmonster101: 78
+24: VintageBeef: 52
+25: GeminiTay: 41
+26: Mumbo: 28
+27: MythicalSausage: 8
+28: MumboJumbo: 7
+29: Smajor1995: 1
+30: Smallishbeans: 1
+Total 28026

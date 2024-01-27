@@ -1,0 +1,4 @@
+minecraft.crafted.acacia_sapling
+1: Grian: 8
+2: Tango: 1
+Total 9

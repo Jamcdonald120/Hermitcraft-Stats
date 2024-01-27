@@ -1,0 +1,17 @@
+minecraft.dropped.item_frame
+1: Renthedog: 576
+2: Grian: 204
+3: Stressmonster101: 55
+4: falsesymmetry: 16
+5: cubfan135: 10
+6: iskall85: 8
+7: Biffa2001: 7
+8: Docm77: 6
+9: Xisuma: 6
+10: GoodTimeWithScar: 6
+11: Tango: 4
+12: iJevin: 2
+13: MumboJumbo: 2
+14: impulseSV: 2
+15: Zedaph: 1
+Total 905

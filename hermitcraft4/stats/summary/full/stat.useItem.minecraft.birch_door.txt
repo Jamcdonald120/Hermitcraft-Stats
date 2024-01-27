@@ -1,0 +1,13 @@
+stat.useItem.minecraft.birch_door
+1: MumboJumbo: 255
+2: joehillssays: 18
+3: impulseSV: 18
+4: xBCrafted: 8
+5: Tango: 6
+6: Etho: 5
+7: Welsknight: 2
+8: Xisuma: 1
+9: VintageBeef: 1
+10: cubfan135: 1
+11: Tinfoilchef: 1
+Total 316

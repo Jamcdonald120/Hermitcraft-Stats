@@ -1,0 +1,28 @@
+minecraft.picked_up.warped_fungus
+1: Keralis1: 6752
+2: Etho: 1097
+3: PearlescentMoon: 640
+4: Xisuma: 584
+5: ZombieCleo: 415
+6: Mumbo: 391
+7: Tango: 234
+8: falsesymmetry: 192
+9: Welsknight: 183
+10: iJevin: 109
+11: GoodTimeWithScar: 70
+12: BdoubleO100: 55
+13: Grian: 32
+14: Docm77: 30
+15: cubfan135: 26
+16: VintageBeef: 14
+17: impulseSV: 14
+18: Zedaph: 13
+19: Renthedog: 11
+20: GeminiTay: 11
+21: hypnotizd: 9
+22: xBCrafted: 7
+23: Stressmonster101: 3
+24: Pixlriffs: 2
+25: ShubbleYT: 2
+26: joehillssays: 1
+Total 10897

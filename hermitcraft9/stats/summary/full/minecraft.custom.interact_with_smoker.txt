@@ -1,0 +1,20 @@
+minecraft.custom.interact_with_smoker
+1: BdoubleO100: 362
+2: cubfan135: 49
+3: xBCrafted: 39
+4: ZombieCleo: 36
+5: GeminiTay: 26
+6: Zedaph: 14
+7: Keralis1: 13
+8: Stressmonster101: 9
+9: hypnotizd: 8
+10: impulseSV: 4
+11: iJevin: 2
+12: joehillssays: 2
+13: Grian: 2
+14: Tango: 2
+15: falsesymmetry: 2
+16: Docm77: 1
+17: Pixlriffs: 1
+18: Etho: 1
+Total 573

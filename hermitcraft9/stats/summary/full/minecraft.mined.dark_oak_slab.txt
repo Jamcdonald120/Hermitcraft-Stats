@@ -1,0 +1,30 @@
+minecraft.mined.dark_oak_slab
+1: falsesymmetry: 883
+2: cubfan135: 238
+3: GoodTimeWithScar: 230
+4: OrionSound: 186
+5: Grian: 183
+6: ZombieCleo: 178
+7: Renthedog: 174
+8: GeminiTay: 169
+9: Stressmonster101: 149
+10: Xisuma: 90
+11: impulseSV: 74
+12: joehillssays: 72
+13: Keralis1: 52
+14: iskall85: 50
+15: Welsknight: 50
+16: ShubbleYT: 46
+17: Tango: 45
+18: RentheKing: 31
+19: BdoubleO100: 17
+20: xBCrafted: 13
+21: Etho: 5
+22: Zedaph: 5
+23: MythicalSausage: 4
+24: PearlescentMoon: 4
+25: Docm77: 2
+26: iJevin: 2
+27: Smallishbeans: 2
+28: fWhip: 2
+Total 2956

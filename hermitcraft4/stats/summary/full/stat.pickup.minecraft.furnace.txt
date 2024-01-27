@@ -1,0 +1,26 @@
+stat.pickup.minecraft.furnace
+1: falsesymmetry: 503
+2: Xisuma: 418
+3: iJevin: 283
+4: impulseSV: 280
+5: iskall85: 247
+6: cubfan135: 233
+7: Welsknight: 160
+8: Renthedog: 151
+9: Tango: 144
+10: MumboJumbo: 112
+11: joehillssays: 65
+12: GoodTimeWithScar: 46
+13: VintageBeef: 45
+14: ZombieCleo: 45
+15: Biffa2001: 30
+16: Tinfoilchef: 26
+17: PythonGB: 20
+18: Etho: 12
+19: Docm77: 9
+20: Jessassin: 6
+21: xBCrafted: 5
+22: zueljin: 2
+23: Mumbo: 2
+24: xisumavoid: 1
+Total 2845

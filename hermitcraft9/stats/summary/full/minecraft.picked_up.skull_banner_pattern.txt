@@ -1,0 +1,4 @@
+minecraft.picked_up.skull_banner_pattern
+1: Zedaph: 2
+2: cubfan135: 1
+Total 3

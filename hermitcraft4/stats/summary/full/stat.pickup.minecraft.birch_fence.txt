@@ -1,0 +1,16 @@
+stat.pickup.minecraft.birch_fence
+1: MumboJumbo: 333
+2: impulseSV: 248
+3: cubfan135: 173
+4: joehillssays: 167
+5: falsesymmetry: 158
+6: iskall85: 96
+7: Docm77: 78
+8: Xisuma: 76
+9: iJevin: 34
+10: Etho: 22
+11: Renthedog: 17
+12: Tango: 10
+13: GoodTimeWithScar: 7
+14: Tinfoilchef: 2
+Total 1421

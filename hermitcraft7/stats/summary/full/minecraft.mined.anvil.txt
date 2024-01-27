@@ -1,0 +1,25 @@
+minecraft.mined.anvil
+1: Tango: 114
+2: Keralis1: 111
+3: Etho: 108
+4: Grian: 79
+5: cubfan135: 77
+6: GoodTimeWithScar: 77
+7: iskall85: 64
+8: Xisuma: 54
+9: iJevin: 47
+10: Renthedog: 45
+11: Zedaph: 38
+12: impulseSV: 34
+13: VintageBeef: 26
+14: xBCrafted: 26
+15: falsesymmetry: 22
+16: MumboJumbo: 20
+17: Stressmonster101: 20
+18: BdoubleO100: 19
+19: joehillssays: 12
+20: hypnotizd: 11
+21: Welsknight: 7
+22: ZombieCleo: 5
+23: Docm77: 1
+Total 1017

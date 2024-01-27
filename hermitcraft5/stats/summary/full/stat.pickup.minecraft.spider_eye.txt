@@ -1,0 +1,25 @@
+stat.pickup.minecraft.spider_eye
+1: Xisuma: 3993
+2: cubfan135: 2272
+3: PythonGB: 2145
+4: Tango: 1530
+5: GoodTimeWithScar: 605
+6: Welsknight: 351
+7: impulseSV: 305
+8: iJevin: 286
+9: MumboJumbo: 260
+10: Zedaph: 254
+11: iskall85: 253
+12: falsesymmetry: 147
+13: Biffa2001: 117
+14: ZombieCleo: 93
+15: Etho: 67
+16: Renthedog: 55
+17: Docm77: 52
+18: Tinfoilchef: 44
+19: VintageBeef: 43
+20: Stressmonster101: 39
+21: xBCrafted: 24
+22: BdoubleO100: 21
+23: joehillssays: 13
+Total 12969

@@ -1,0 +1,15 @@
+minecraft.picked_up.seagrass
+1: Zedaph: 425
+2: hypnotizd: 265
+3: cubfan135: 260
+4: Keralis1: 191
+5: MumboJumbo: 171
+6: Renthedog: 102
+7: Tango: 76
+8: Xisuma: 68
+9: PearlescentMoon: 50
+10: Docm77: 45
+11: iJevin: 40
+12: VintageBeef: 10
+13: impulseSV: 5
+Total 1708

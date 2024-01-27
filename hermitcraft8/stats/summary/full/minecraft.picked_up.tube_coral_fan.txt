@@ -1,0 +1,15 @@
+minecraft.picked_up.tube_coral_fan
+1: cubfan135: 630
+2: Renthedog: 415
+3: Xisuma: 117
+4: BdoubleO100: 35
+5: Docm77: 17
+6: iJevin: 14
+7: Grian: 8
+8: GoodTimeWithScar: 4
+9: Keralis1: 4
+10: xBCrafted: 2
+11: VintageBeef: 1
+12: falsesymmetry: 1
+13: impulseSV: 1
+Total 1249

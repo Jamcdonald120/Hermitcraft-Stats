@@ -1,0 +1,25 @@
+minecraft.picked_up.polished_blackstone
+1: Tango: 1685
+2: cubfan135: 1040
+3: Xisuma: 830
+4: GoodTimeWithScar: 819
+5: impulseSV: 563
+6: joehillssays: 494
+7: Renthedog: 397
+8: VintageBeef: 317
+9: Zedaph: 306
+10: hypnotizd: 260
+11: MumboJumbo: 207
+12: falsesymmetry: 192
+13: Etho: 176
+14: xBCrafted: 147
+15: Welsknight: 126
+16: BdoubleO100: 121
+17: Grian: 119
+18: Keralis1: 88
+19: ZombieCleo: 86
+20: iskall85: 55
+21: iJevin: 49
+22: Docm77: 13
+23: Stressmonster101: 2
+Total 8092

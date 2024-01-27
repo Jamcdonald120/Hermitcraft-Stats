@@ -1,0 +1,28 @@
+minecraft.mined.dandelion
+1: GoodTimeWithScar: 513
+2: Tango: 208
+3: impulseSV: 170
+4: joehillssays: 169
+5: Renthedog: 123
+6: iJevin: 96
+7: PearlescentMoon: 96
+8: Xisuma: 88
+9: Keralis1: 87
+10: ZombieCleo: 82
+11: GeminiTay: 57
+12: xBCrafted: 56
+13: Grian: 53
+14: BdoubleO100: 41
+15: cubfan135: 32
+16: falsesymmetry: 27
+17: hypnotizd: 27
+18: MumboJumbo: 27
+19: Zedaph: 23
+20: Welsknight: 22
+21: Stressmonster101: 7
+22: iskall85: 6
+23: Etho: 6
+24: Docm77: 5
+25: VintageBeef: 5
+26: Tinfoilchef: 1
+Total 2027

@@ -1,0 +1,18 @@
+minecraft.dropped.bread
+1: GoodTimeWithScar: 1775
+2: PythonGB: 313
+3: iskall85: 307
+4: Tango: 248
+5: Grian: 228
+6: Stressmonster101: 137
+7: cubfan135: 116
+8: Renthedog: 109
+9: MumboJumbo: 35
+10: Zedaph: 20
+11: Xisuma: 12
+12: Docm77: 10
+13: impulseSV: 6
+14: Tinfoilchef: 4
+15: Biffa2001: 3
+16: falsesymmetry: 2
+Total 3325

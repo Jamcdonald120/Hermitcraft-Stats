@@ -1,0 +1,14 @@
+minecraft.dropped.cooked_salmon
+1: Grian: 139
+2: impulseSV: 27
+3: Zedaph: 22
+4: iJevin: 15
+5: GeminiTay: 15
+6: PearlescentMoon: 13
+7: hypnotizd: 8
+8: joehillssays: 7
+9: MythicalSausage: 3
+10: Tango: 1
+11: ZombieCleo: 1
+12: Keralis1: 1
+Total 252

@@ -1,0 +1,27 @@
+stat.pickup.minecraft.stone
+1: GoodTimeWithScar: 433784
+2: falsesymmetry: 239579
+3: Xisuma: 226052
+4: Welsknight: 205241
+5: cubfan135: 198417
+6: MumboJumbo: 194067
+7: Renthedog: 131765
+8: iskall85: 128584
+9: Zedaph: 123595
+10: PythonGB: 117341
+11: impulseSV: 103228
+12: Tango: 88116
+13: xBCrafted: 55975
+14: Stressmonster101: 52724
+15: iJevin: 46973
+16: joehillssays: 41644
+17: Tinfoilchef: 33477
+18: Docm77: 15535
+19: Biffa2001: 13989
+20: VintageBeef: 9007
+21: Etho: 6124
+22: ZombieCleo: 5589
+23: BdoubleO100: 3410
+24: isGall85: 17
+25: xisumavoid: 2
+Total 2474235

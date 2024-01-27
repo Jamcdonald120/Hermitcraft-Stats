@@ -1,0 +1,20 @@
+minecraft.picked_up.birch_trapdoor
+1: Xisuma: 181
+2: cubfan135: 174
+3: Tango: 111
+4: impulseSV: 108
+5: GoodTimeWithScar: 101
+6: joehillssays: 82
+7: Keralis1: 64
+8: Docm77: 47
+9: falsesymmetry: 42
+10: Zedaph: 26
+11: ZombieCleo: 16
+12: xBCrafted: 15
+13: Renthedog: 13
+14: Grian: 8
+15: iskall85: 8
+16: iJevin: 7
+17: BdoubleO100: 6
+18: PythonGB: 2
+Total 1011

@@ -1,0 +1,32 @@
+stat.drop
+1: falsesymmetry: 3813
+2: Tango: 3279
+3: Xisuma: 2566
+4: xBCrafted: 1546
+5: zueljin: 988
+6: impulseSV: 820
+7: Spumwackles: 702
+8: sl1pg8r: 630
+9: ZombieCleo: 577
+10: monkeyfarm: 363
+11: Etho: 353
+12: iJevin: 321
+13: Tinfoilchef: 289
+14: hypnotizd: 268
+15: Mumbo: 224
+16: Biffa2001: 197
+17: PythonGB: 125
+18: Docm77: 114
+19: topmass: 111
+20: Mrs_Keralis: 111
+21: KingDaddyDMAC: 79
+22: Keralis1: 45
+23: skyzm: 44
+24: xisumavoid: 17
+25: Collen: 15
+26: NameOfSamuel: 6
+27: Pungence: 5
+28: truesymmetry: 4
+29: joehillssays: 4
+30: snipepager: 2
+Total 17618

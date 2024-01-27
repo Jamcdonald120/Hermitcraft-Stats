@@ -1,0 +1,22 @@
+minecraft.picked_up.cut_copper
+1: Renthedog: 136
+2: RentheKing: 128
+3: PearlescentMoon: 111
+4: joehillssays: 109
+5: cubfan135: 75
+6: xBCrafted: 52
+7: Xisuma: 47
+8: BdoubleO100: 39
+9: falsesymmetry: 18
+10: MythicalSausage: 17
+11: Zedaph: 15
+12: Keralis1: 10
+13: VintageBeef: 8
+14: Grian: 4
+15: iskall85: 3
+16: impulseSV: 3
+17: GoodTimeWithScar: 2
+18: Docm77: 1
+19: GeminiTay: 1
+20: Stressmonster101: 1
+Total 780

@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.bow
+1: Tango: 398
+2: MumboJumbo: 373
+3: cubfan135: 240
+4: Tinfoilchef: 210
+5: Xisuma: 204
+6: impulseSV: 174
+7: iJevin: 167
+8: iskall85: 123
+9: Renthedog: 116
+10: Welsknight: 104
+11: Zedaph: 83
+12: PythonGB: 62
+13: xBCrafted: 62
+14: falsesymmetry: 53
+15: BdoubleO100: 48
+16: GoodTimeWithScar: 42
+17: Etho: 21
+18: Docm77: 20
+19: Stressmonster101: 15
+20: VintageBeef: 12
+21: joehillssays: 11
+22: Biffa2001: 1
+23: ZombieCleo: 1
+Total 2540

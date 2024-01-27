@@ -1,0 +1,20 @@
+minecraft.picked_up.gilded_blackstone
+1: Zedaph: 307
+2: cubfan135: 292
+3: Etho: 207
+4: Xisuma: 203
+5: GoodTimeWithScar: 103
+6: hypnotizd: 61
+7: Renthedog: 59
+8: Grian: 56
+9: iskall85: 42
+10: impulseSV: 27
+11: VintageBeef: 24
+12: Tango: 21
+13: iJevin: 12
+14: MumboJumbo: 11
+15: Keralis1: 6
+16: Welsknight: 5
+17: falsesymmetry: 3
+18: xBCrafted: 1
+Total 1440

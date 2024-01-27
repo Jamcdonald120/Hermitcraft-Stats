@@ -1,0 +1,22 @@
+minecraft.picked_up.warped_sign
+1: Tango: 121
+2: GoodTimeWithScar: 105
+3: PearlescentMoon: 71
+4: Grian: 44
+5: cubfan135: 38
+6: Zedaph: 31
+7: Xisuma: 22
+8: fWhip: 22
+9: Keralis1: 19
+10: falsesymmetry: 18
+11: joehillssays: 12
+12: Docm77: 10
+13: BdoubleO100: 9
+14: Etho: 5
+15: Mumbo: 4
+16: impulseSV: 4
+17: VintageBeef: 3
+18: xBCrafted: 1
+19: ZombieCleo: 1
+20: hypnotizd: 1
+Total 541

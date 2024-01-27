@@ -1,0 +1,24 @@
+stat.pickup.minecraft.iron_bars
+1: cubfan135: 1238
+2: MumboJumbo: 844
+3: GoodTimeWithScar: 820
+4: impulseSV: 624
+5: Welsknight: 607
+6: xBCrafted: 399
+7: Xisuma: 309
+8: iJevin: 228
+9: falsesymmetry: 212
+10: joehillssays: 197
+11: Tinfoilchef: 168
+12: Tango: 167
+13: Zedaph: 152
+14: PythonGB: 112
+15: Renthedog: 109
+16: iskall85: 87
+17: Docm77: 73
+18: Stressmonster101: 61
+19: VintageBeef: 44
+20: BdoubleO100: 25
+21: Etho: 12
+22: Biffa2001: 9
+Total 6497

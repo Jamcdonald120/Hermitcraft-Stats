@@ -1,0 +1,13 @@
+stat.mineBlock.minecraft.nether_wart_block
+1: Tango: 299
+2: impulseSV: 171
+3: iskall85: 168
+4: cubfan135: 100
+5: ZombieCleo: 80
+6: joehillssays: 51
+7: Xisuma: 36
+8: falsesymmetry: 12
+9: Renthedog: 9
+10: PythonGB: 8
+11: GoodTimeWithScar: 7
+Total 941

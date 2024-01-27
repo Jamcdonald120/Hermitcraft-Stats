@@ -1,0 +1,27 @@
+minecraft.picked_up.scaffolding
+1: iJevin: 30911
+2: impulseSV: 11935
+3: Docm77: 9908
+4: joehillssays: 9374
+5: GeminiTay: 8843
+6: Xisuma: 7349
+7: Tango: 5882
+8: Renthedog: 4445
+9: BdoubleO100: 2541
+10: ZombieCleo: 2510
+11: xBCrafted: 1683
+12: hypnotizd: 1649
+13: cubfan135: 1600
+14: VintageBeef: 1514
+15: Grian: 1511
+16: PearlescentMoon: 1412
+17: falsesymmetry: 1001
+18: Keralis1: 408
+19: GoodTimeWithScar: 224
+20: EvilXisuma: 222
+21: Zedaph: 71
+22: Etho: 49
+23: pillbugnine: 20
+24: MumboJumbo: 8
+25: Welsknight: 6
+Total 105076

@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.glass_bottle
+1: Xisuma: 378
+2: xBCrafted: 318
+3: falsesymmetry: 267
+4: Biffa2001: 90
+5: impulseSV: 66
+6: monkeyfarm: 48
+7: Tango: 45
+8: Spumwackles: 42
+9: KingDaddyDMAC: 30
+10: hypnotizd: 27
+11: zueljin: 21
+12: topmass: 18
+13: PythonGB: 15
+14: ZombieCleo: 9
+15: Etho: 6
+16: Tinfoilchef: 6
+17: iJevin: 3
+18: Mumbo: 3
+Total 1392

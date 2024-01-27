@@ -1,0 +1,14 @@
+minecraft.crafted.green_terracotta
+1: PearlescentMoon: 13723
+2: Etho: 1088
+3: Grian: 616
+4: GeminiTay: 600
+5: Keralis1: 368
+6: GoodTimeWithScar: 252
+7: falsesymmetry: 192
+8: iskall85: 64
+9: BdoubleO100: 16
+10: cubfan135: 8
+11: Welsknight: 8
+12: ZombieCleo: 8
+Total 16943

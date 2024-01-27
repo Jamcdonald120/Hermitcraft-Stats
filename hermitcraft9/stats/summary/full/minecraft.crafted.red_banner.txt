@@ -1,0 +1,19 @@
+minecraft.crafted.red_banner
+1: RentheKing: 1057
+2: cubfan135: 708
+3: Etho: 230
+4: BdoubleO100: 149
+5: ZombieCleo: 125
+6: PearlescentMoon: 82
+7: Tango: 65
+8: impulseSV: 21
+9: falsesymmetry: 18
+10: Keralis1: 14
+11: Renthedog: 12
+12: iJevin: 12
+13: GoodTimeWithScar: 6
+14: Xisuma: 4
+15: MythicalSausage: 4
+16: VintageBeef: 3
+17: Zedaph: 2
+Total 2512

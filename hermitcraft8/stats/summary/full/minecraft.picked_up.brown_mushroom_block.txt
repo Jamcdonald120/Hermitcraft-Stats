@@ -1,0 +1,16 @@
+minecraft.picked_up.brown_mushroom_block
+1: GeminiTay: 3201
+2: joehillssays: 2611
+3: ZombieCleo: 2439
+4: Etho: 1276
+5: BdoubleO100: 1035
+6: hypnotizd: 963
+7: Grian: 518
+8: falsesymmetry: 443
+9: PearlescentMoon: 189
+10: iJevin: 81
+11: Renthedog: 15
+12: Docm77: 1
+13: Xisuma: 1
+14: MumboJumbo: 1
+Total 12774

@@ -1,0 +1,22 @@
+minecraft.picked_up.light_blue_wool
+1: iJevin: 4215
+2: Tango: 863
+3: Renthedog: 855
+4: PearlescentMoon: 498
+5: cubfan135: 189
+6: GoodTimeWithScar: 140
+7: Grian: 139
+8: MythicalSausage: 118
+9: falsesymmetry: 112
+10: VintageBeef: 83
+11: iskall85: 74
+12: BdoubleO100: 60
+13: GeminiTay: 55
+14: Docm77: 54
+15: Etho: 20
+16: Zedaph: 7
+17: hypnotizd: 4
+18: Xisuma: 2
+19: Stressmonster101: 2
+20: RentheKing: 1
+Total 7491

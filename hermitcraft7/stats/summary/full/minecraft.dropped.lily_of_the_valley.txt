@@ -1,0 +1,17 @@
+minecraft.dropped.lily_of_the_valley
+1: GoodTimeWithScar: 39
+2: hypnotizd: 15
+3: falsesymmetry: 12
+4: joehillssays: 8
+5: Zedaph: 5
+6: Grian: 4
+7: BdoubleO100: 4
+8: cubfan135: 4
+9: Keralis1: 3
+10: iskall85: 2
+11: Etho: 2
+12: Xisuma: 1
+13: Renthedog: 1
+14: iJevin: 1
+15: impulseSV: 1
+Total 102

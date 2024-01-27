@@ -1,0 +1,19 @@
+stat.useItem.minecraft.quartz_block
+1: impulseSV: 1733
+2: Xisuma: 1551
+3: falsesymmetry: 1104
+4: PythonGB: 768
+5: Tango: 567
+6: ZombieCleo: 459
+7: joehillssays: 407
+8: xBCrafted: 403
+9: sl1pg8r: 347
+10: Mumbo: 273
+11: Spumwackles: 153
+12: zueljin: 147
+13: Keralis1: 40
+14: topmass: 24
+15: iJevin: 17
+16: monkeyfarm: 11
+17: Biffa2001: 3
+Total 8007

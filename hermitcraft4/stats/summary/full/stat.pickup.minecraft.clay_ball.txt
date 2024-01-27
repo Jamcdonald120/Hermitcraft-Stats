@@ -1,0 +1,21 @@
+stat.pickup.minecraft.clay_ball
+1: Welsknight: 12469
+2: Xisuma: 6728
+3: falsesymmetry: 3490
+4: GoodTimeWithScar: 2059
+5: cubfan135: 1088
+6: Renthedog: 1024
+7: Tinfoilchef: 1011
+8: Tango: 999
+9: joehillssays: 706
+10: impulseSV: 348
+11: iJevin: 268
+12: iskall85: 229
+13: PythonGB: 200
+14: zueljin: 104
+15: ZombieCleo: 101
+16: MumboJumbo: 62
+17: Mumbo: 48
+18: VintageBeef: 36
+19: Etho: 24
+Total 30994

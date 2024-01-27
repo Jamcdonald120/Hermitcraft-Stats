@@ -1,0 +1,17 @@
+stat.pickup.minecraft.melon_block
+1: Tango: 619
+2: cubfan135: 354
+3: impulseSV: 103
+4: Tinfoilchef: 101
+5: MumboJumbo: 77
+6: Xisuma: 53
+7: GoodTimeWithScar: 45
+8: Zedaph: 24
+9: Docm77: 17
+10: PythonGB: 17
+11: joehillssays: 10
+12: iskall85: 9
+13: Renthedog: 1
+14: VintageBeef: 1
+15: Welsknight: 1
+Total 1432

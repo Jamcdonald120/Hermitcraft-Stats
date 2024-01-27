@@ -1,0 +1,15 @@
+minecraft.mined.purple_wool
+1: Tango: 586
+2: iJevin: 59
+3: VintageBeef: 30
+4: cubfan135: 14
+5: Docm77: 13
+6: Xisuma: 10
+7: falsesymmetry: 10
+8: PearlescentMoon: 8
+9: impulseSV: 7
+10: Renthedog: 4
+11: GoodTimeWithScar: 1
+12: Stressmonster101: 1
+13: Zedaph: 1
+Total 744

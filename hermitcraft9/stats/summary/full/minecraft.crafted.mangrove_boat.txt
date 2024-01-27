@@ -1,0 +1,8 @@
+minecraft.crafted.mangrove_boat
+1: Etho: 27
+2: Grian: 3
+3: GoodTimeWithScar: 3
+4: Zedaph: 2
+5: Xisuma: 1
+6: Renthedog: 1
+Total 37

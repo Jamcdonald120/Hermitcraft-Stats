@@ -1,0 +1,11 @@
+minecraft.dropped.purpur_block
+1: GoodTimeWithScar: 49
+2: iJevin: 45
+3: hypnotizd: 38
+4: Tango: 26
+5: Keralis1: 25
+6: Xisuma: 16
+7: PearlescentMoon: 10
+8: ZombieCleo: 9
+9: cubfan135: 8
+Total 226

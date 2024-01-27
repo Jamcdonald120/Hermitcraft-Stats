@@ -1,0 +1,27 @@
+minecraft.picked_up.leather_leggings
+1: Zedaph: 154
+2: Xisuma: 48
+3: joehillssays: 40
+4: cubfan135: 35
+5: iJevin: 19
+6: ZombieCleo: 18
+7: VintageBeef: 17
+8: Tango: 14
+9: GeminiTay: 13
+10: GoodTimeWithScar: 13
+11: Keralis1: 13
+12: PearlescentMoon: 12
+13: Docm77: 10
+14: xBCrafted: 10
+15: BdoubleO100: 9
+16: iskall85: 7
+17: falsesymmetry: 7
+18: impulseSV: 6
+19: Grian: 4
+20: Etho: 3
+21: Renthedog: 2
+22: Welsknight: 2
+23: hypnotizd: 2
+24: Smallishbeans: 1
+25: RentheKing: 1
+Total 460

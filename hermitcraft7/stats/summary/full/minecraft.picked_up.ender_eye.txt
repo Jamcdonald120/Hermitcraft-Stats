@@ -1,0 +1,11 @@
+minecraft.picked_up.ender_eye
+1: Zedaph: 670
+2: Grian: 60
+3: cubfan135: 24
+4: Etho: 18
+5: impulseSV: 8
+6: hypnotizd: 4
+7: Tango: 3
+8: joehillssays: 2
+9: Keralis1: 2
+Total 791

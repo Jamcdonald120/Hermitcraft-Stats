@@ -1,0 +1,5 @@
+minecraft.crafted.stripped_birch_wood
+1: Docm77: 828
+2: GoodTimeWithScar: 312
+3: RentheKing: 48
+Total 1188

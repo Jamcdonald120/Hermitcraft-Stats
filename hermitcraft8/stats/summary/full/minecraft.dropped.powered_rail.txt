@@ -1,0 +1,12 @@
+minecraft.dropped.powered_rail
+1: GoodTimeWithScar: 64
+2: Stressmonster101: 48
+3: Docm77: 11
+4: iJevin: 10
+5: falsesymmetry: 7
+6: Zedaph: 4
+7: Renthedog: 2
+8: impulseSV: 2
+9: Grian: 1
+10: Tinfoilchef: 1
+Total 150

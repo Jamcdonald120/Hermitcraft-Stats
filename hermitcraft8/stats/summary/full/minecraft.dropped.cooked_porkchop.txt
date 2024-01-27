@@ -1,0 +1,16 @@
+minecraft.dropped.cooked_porkchop
+1: Tango: 177
+2: MumboJumbo: 29
+3: Renthedog: 28
+4: PearlescentMoon: 22
+5: Grian: 14
+6: iJevin: 8
+7: GeminiTay: 6
+8: hypnotizd: 6
+9: GoodTimeWithScar: 6
+10: Docm77: 5
+11: xBCrafted: 2
+12: iskall85: 1
+13: Etho: 1
+14: Stressmonster101: 1
+Total 306

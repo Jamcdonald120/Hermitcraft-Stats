@@ -1,0 +1,24 @@
+stat.pickup.minecraft.banner
+1: cubfan135: 402
+2: joehillssays: 264
+3: GoodTimeWithScar: 128
+4: iskall85: 108
+5: falsesymmetry: 80
+6: Renthedog: 68
+7: xBCrafted: 65
+8: MumboJumbo: 62
+9: Welsknight: 55
+10: BdoubleO100: 49
+11: Xisuma: 46
+12: PythonGB: 45
+13: Docm77: 33
+14: Etho: 19
+15: impulseSV: 18
+16: ZombieCleo: 15
+17: Tango: 14
+18: VintageBeef: 11
+19: Tinfoilchef: 11
+20: Stressmonster101: 11
+21: iJevin: 7
+22: Zedaph: 3
+Total 1514

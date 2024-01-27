@@ -1,0 +1,22 @@
+stat.pickup.minecraft.lever
+1: impulseSV: 1013
+2: falsesymmetry: 876
+3: cubfan135: 395
+4: Tango: 392
+5: iJevin: 313
+6: MumboJumbo: 266
+7: Xisuma: 217
+8: iskall85: 183
+9: VintageBeef: 166
+10: Etho: 119
+11: Welsknight: 114
+12: GoodTimeWithScar: 92
+13: Biffa2001: 75
+14: Docm77: 68
+15: Renthedog: 29
+16: Tinfoilchef: 28
+17: PythonGB: 24
+18: ZombieCleo: 23
+19: joehillssays: 15
+20: Mumbo: 5
+Total 4413

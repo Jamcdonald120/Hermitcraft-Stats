@@ -1,0 +1,18 @@
+stat.useItem.minecraft.iron_door
+1: cubfan135: 95
+2: Tango: 91
+3: falsesymmetry: 79
+4: impulseSV: 74
+5: MumboJumbo: 71
+6: GoodTimeWithScar: 53
+7: iskall85: 38
+8: Renthedog: 35
+9: joehillssays: 24
+10: Xisuma: 15
+11: PythonGB: 13
+12: Welsknight: 6
+13: Etho: 6
+14: Mumbo: 6
+15: Docm77: 5
+16: Tinfoilchef: 3
+Total 614

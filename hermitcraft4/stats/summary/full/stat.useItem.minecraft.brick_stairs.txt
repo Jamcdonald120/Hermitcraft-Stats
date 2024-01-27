@@ -1,0 +1,11 @@
+stat.useItem.minecraft.brick_stairs
+1: Xisuma: 349
+2: Welsknight: 56
+3: Renthedog: 42
+4: iJevin: 9
+5: falsesymmetry: 8
+6: GoodTimeWithScar: 7
+7: MumboJumbo: 3
+8: cubfan135: 2
+9: impulseSV: 2
+Total 478

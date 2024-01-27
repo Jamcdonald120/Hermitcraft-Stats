@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.stained_glass_pane
+1: falsesymmetry: 3904
+2: Renthedog: 3837
+3: GoodTimeWithScar: 3216
+4: Xisuma: 2400
+5: iskall85: 2400
+6: cubfan135: 1595
+7: Welsknight: 1504
+8: Tango: 1344
+9: VintageBeef: 1296
+10: ZombieCleo: 944
+11: joehillssays: 720
+12: impulseSV: 720
+13: PythonGB: 656
+14: MumboJumbo: 368
+15: zueljin: 192
+16: Tinfoilchef: 160
+17: iJevin: 80
+18: Biffa2001: 32
+19: Docm77: 16
+Total 25384

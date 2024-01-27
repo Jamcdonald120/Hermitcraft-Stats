@@ -1,0 +1,19 @@
+minecraft.picked_up.nether_brick_stairs
+1: joehillssays: 610
+2: falsesymmetry: 556
+3: Tango: 366
+4: GoodTimeWithScar: 194
+5: xBCrafted: 120
+6: VintageBeef: 116
+7: cubfan135: 104
+8: Xisuma: 76
+9: Keralis1: 65
+10: Etho: 56
+11: ZombieCleo: 48
+12: Docm77: 46
+13: iJevin: 29
+14: impulseSV: 14
+15: BdoubleO100: 10
+16: Zedaph: 8
+17: hypnotizd: 6
+Total 2424

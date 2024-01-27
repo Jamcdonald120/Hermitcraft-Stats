@@ -1,0 +1,24 @@
+minecraft.crafted.cyan_dye
+1: impulseSV: 2298
+2: GoodTimeWithScar: 876
+3: PearlescentMoon: 806
+4: Renthedog: 570
+5: Etho: 484
+6: ZombieCleo: 332
+7: Welsknight: 258
+8: Keralis1: 212
+9: Grian: 182
+10: Xisuma: 114
+11: cubfan135: 98
+12: xBCrafted: 76
+13: falsesymmetry: 70
+14: MumboJumbo: 70
+15: Stressmonster101: 54
+16: GeminiTay: 34
+17: iskall85: 34
+18: BdoubleO100: 32
+19: Zedaph: 24
+20: Tango: 10
+21: iJevin: 6
+22: joehillssays: 4
+Total 6644

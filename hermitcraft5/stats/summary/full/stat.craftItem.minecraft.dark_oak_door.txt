@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.dark_oak_door
+1: PythonGB: 84
+2: joehillssays: 51
+3: falsesymmetry: 51
+4: MumboJumbo: 42
+5: BdoubleO100: 36
+6: Tango: 21
+7: Stressmonster101: 21
+8: Welsknight: 15
+9: cubfan135: 12
+10: xBCrafted: 9
+11: VintageBeef: 3
+12: iJevin: 3
+13: iskall85: 3
+14: GoodTimeWithScar: 3
+Total 354

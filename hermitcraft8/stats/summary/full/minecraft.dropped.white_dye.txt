@@ -1,0 +1,17 @@
+minecraft.dropped.white_dye
+1: Zedaph: 1144
+2: Tango: 179
+3: Renthedog: 91
+4: Xisuma: 70
+5: hypnotizd: 67
+6: Etho: 64
+7: GoodTimeWithScar: 56
+8: GeminiTay: 50
+9: impulseSV: 36
+10: Grian: 25
+11: Docm77: 22
+12: iJevin: 13
+13: Keralis1: 13
+14: cubfan135: 9
+15: joehillssays: 2
+Total 1841

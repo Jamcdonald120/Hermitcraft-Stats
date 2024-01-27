@@ -1,0 +1,25 @@
+minecraft.dropped.sugar_cane
+1: iJevin: 2239
+2: Keralis1: 2146
+3: Zedaph: 1546
+4: xBCrafted: 1492
+5: cubfan135: 926
+6: hypnotizd: 434
+7: impulseSV: 362
+8: Tango: 119
+9: Grian: 113
+10: falsesymmetry: 92
+11: GeminiTay: 74
+12: Renthedog: 24
+13: Etho: 23
+14: BdoubleO100: 18
+15: Docm77: 15
+16: GoodTimeWithScar: 14
+17: Xisuma: 12
+18: VintageBeef: 10
+19: RentheKing: 5
+20: joehillssays: 3
+21: iskall85: 1
+22: ZombieCleo: 1
+23: Mumbo: 1
+Total 9670

@@ -1,0 +1,19 @@
+minecraft.dropped.leather
+1: BdoubleO100: 781
+2: GoodTimeWithScar: 329
+3: Tango: 305
+4: Renthedog: 251
+5: falsesymmetry: 165
+6: Xisuma: 135
+7: iskall85: 68
+8: impulseSV: 59
+9: Grian: 46
+10: Docm77: 30
+11: MumboJumbo: 20
+12: Stressmonster101: 15
+13: BadTimeWithScar: 15
+14: EvilXisuma: 8
+15: iJevin: 5
+16: cubfan135: 4
+17: Keralis1: 2
+Total 2238

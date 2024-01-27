@@ -1,0 +1,13 @@
+minecraft.picked_up.purple_carpet
+1: impulseSV: 191
+2: falsesymmetry: 79
+3: cubfan135: 39
+4: GoodTimeWithScar: 25
+5: iskall85: 24
+6: Grian: 17
+7: Xisuma: 13
+8: Tango: 12
+9: Renthedog: 9
+10: PythonGB: 1
+11: iJevin: 1
+Total 411

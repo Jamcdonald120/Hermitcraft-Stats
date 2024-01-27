@@ -1,0 +1,26 @@
+minecraft.crafted.deepslate_tiles
+1: Mumbo: 7588
+2: cubfan135: 6820
+3: Xisuma: 2090
+4: Grian: 1416
+5: GeminiTay: 1076
+6: Stressmonster101: 962
+7: iJevin: 712
+8: MythicalSausage: 196
+9: Tango: 186
+10: Zedaph: 171
+11: Keralis1: 137
+12: MumboJumbo: 68
+13: falsesymmetry: 54
+14: xBCrafted: 23
+15: Renthedog: 15
+16: Pixlriffs: 14
+17: PearlescentMoon: 12
+18: Etho: 5
+19: GoodTimeWithScar: 5
+20: Docm77: 4
+21: BdoubleO100: 2
+22: iskall85: 1
+23: ZombieCleo: 1
+24: impulseSV: 1
+Total 21559

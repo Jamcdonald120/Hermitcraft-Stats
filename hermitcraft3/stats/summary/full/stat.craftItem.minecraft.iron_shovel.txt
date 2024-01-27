@@ -1,0 +1,28 @@
+stat.craftItem.minecraft.iron_shovel
+1: Spumwackles: 93
+2: falsesymmetry: 73
+3: Tango: 57
+4: impulseSV: 38
+5: Xisuma: 33
+6: joehillssays: 20
+7: sl1pg8r: 18
+8: Biffa2001: 15
+9: ZombieCleo: 15
+10: Mumbo: 14
+11: Tinfoilchef: 14
+12: NameOfSamuel: 11
+13: zueljin: 10
+14: monkeyfarm: 10
+15: PythonGB: 9
+16: xBCrafted: 9
+17: skyzm: 7
+18: iJevin: 7
+19: KingDaddyDMAC: 7
+20: Pungence: 3
+21: Keralis1: 3
+22: Docm77: 2
+23: topmass: 2
+24: Etho: 1
+25: hypnotizd: 1
+26: Collen: 1
+Total 473

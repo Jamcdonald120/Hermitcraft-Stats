@@ -1,0 +1,9 @@
+minecraft.dropped.detector_rail
+1: Grian: 29
+2: MumboJumbo: 8
+3: iskall85: 4
+4: Renthedog: 3
+5: impulseSV: 2
+6: iJevin: 1
+7: Biffa2001: 1
+Total 48

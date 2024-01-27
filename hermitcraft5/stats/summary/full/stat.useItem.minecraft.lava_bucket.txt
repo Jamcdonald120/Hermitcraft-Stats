@@ -1,0 +1,23 @@
+stat.useItem.minecraft.lava_bucket
+1: Tango: 1572
+2: cubfan135: 784
+3: Xisuma: 585
+4: MumboJumbo: 238
+5: falsesymmetry: 212
+6: Zedaph: 196
+7: impulseSV: 184
+8: Welsknight: 89
+9: xBCrafted: 52
+10: joehillssays: 50
+11: ZombieCleo: 32
+12: PythonGB: 31
+13: iskall85: 24
+14: BdoubleO100: 20
+15: VintageBeef: 11
+16: Docm77: 9
+17: Tinfoilchef: 9
+18: GoodTimeWithScar: 6
+19: Renthedog: 5
+20: iJevin: 2
+21: Mumbo: 1
+Total 4112

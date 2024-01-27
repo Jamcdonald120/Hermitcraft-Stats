@@ -1,0 +1,10 @@
+minecraft.picked_up.brown_bed
+1: Xisuma: 103
+2: cubfan135: 33
+3: Keralis1: 16
+4: iJevin: 10
+5: falsesymmetry: 2
+6: BdoubleO100: 1
+7: xBCrafted: 1
+8: Stressmonster101: 1
+Total 167

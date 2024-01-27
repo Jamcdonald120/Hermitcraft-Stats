@@ -1,0 +1,11 @@
+minecraft.dropped.warped_slab
+1: falsesymmetry: 212
+2: PearlescentMoon: 128
+3: Tango: 13
+4: cubfan135: 11
+5: Grian: 5
+6: GoodTimeWithScar: 5
+7: Keralis1: 5
+8: Zedaph: 5
+9: GeminiTay: 1
+Total 385

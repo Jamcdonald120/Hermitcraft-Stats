@@ -1,0 +1,25 @@
+minecraft.used.white_carpet
+1: VintageBeef: 36119
+2: impulseSV: 13420
+3: iJevin: 3961
+4: joehillssays: 2075
+5: ZombieCleo: 748
+6: Welsknight: 692
+7: cubfan135: 504
+8: Zedaph: 364
+9: xBCrafted: 316
+10: Xisuma: 185
+11: GoodTimeWithScar: 80
+12: Keralis1: 47
+13: Smajor1995: 36
+14: falsesymmetry: 32
+15: BdoubleO100: 31
+16: Tango: 27
+17: Renthedog: 16
+18: iskall85: 15
+19: PearlescentMoon: 14
+20: Grian: 11
+21: GeminiTay: 7
+22: Etho: 5
+23: Docm77: 2
+Total 58707

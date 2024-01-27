@@ -1,0 +1,6 @@
+minecraft.picked_up.brown_stained_glass_pane
+1: falsesymmetry: 150
+2: Zedaph: 55
+3: Xisuma: 2
+4: cubfan135: 2
+Total 209

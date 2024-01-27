@@ -1,0 +1,24 @@
+minecraft.mined.redstone_wall_torch
+1: iskall85: 440
+2: cubfan135: 334
+3: Tango: 164
+4: Xisuma: 163
+5: impulseSV: 133
+6: MumboJumbo: 130
+7: iJevin: 88
+8: Keralis1: 86
+9: Docm77: 83
+10: Renthedog: 79
+11: Stressmonster101: 56
+12: Zedaph: 53
+13: Grian: 45
+14: Tinfoilchef: 45
+15: Welsknight: 24
+16: joehillssays: 22
+17: GoodTimeWithScar: 21
+18: ZombieCleo: 18
+19: falsesymmetry: 12
+20: HumanCleo: 3
+21: PythonGB: 3
+22: BdoubleO100: 3
+Total 2005

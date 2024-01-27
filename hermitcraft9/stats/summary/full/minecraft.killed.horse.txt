@@ -1,0 +1,22 @@
+minecraft.killed.horse
+1: Zedaph: 78
+2: Keralis1: 33
+3: VintageBeef: 18
+4: iJevin: 14
+5: Grian: 13
+6: GoodTimeWithScar: 13
+7: Smallishbeans: 9
+8: hypnotizd: 6
+9: Docm77: 5
+10: BdoubleO100: 4
+11: iskall85: 4
+12: cubfan135: 3
+13: ZombieCleo: 3
+14: PearlescentMoon: 2
+15: Xisuma: 1
+16: OrionSound: 1
+17: Renthedog: 1
+18: Tango: 1
+19: Mumbo: 1
+20: impulseSV: 1
+Total 211

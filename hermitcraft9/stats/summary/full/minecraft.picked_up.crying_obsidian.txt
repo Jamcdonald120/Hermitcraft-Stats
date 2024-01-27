@@ -1,0 +1,25 @@
+minecraft.picked_up.crying_obsidian
+1: Tango: 3170
+2: Renthedog: 1927
+3: iJevin: 923
+4: Grian: 452
+5: iskall85: 255
+6: cubfan135: 195
+7: Etho: 120
+8: Xisuma: 101
+9: falsesymmetry: 80
+10: RentheKing: 54
+11: joehillssays: 43
+12: VintageBeef: 35
+13: PearlescentMoon: 35
+14: Docm77: 32
+15: Zedaph: 32
+16: GoodTimeWithScar: 13
+17: xBCrafted: 11
+18: GeminiTay: 10
+19: impulseSV: 10
+20: Keralis1: 8
+21: BdoubleO100: 4
+22: Pixlriffs: 4
+23: ZombieCleo: 3
+Total 7517

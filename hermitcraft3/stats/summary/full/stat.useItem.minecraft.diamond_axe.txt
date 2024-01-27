@@ -1,0 +1,24 @@
+stat.useItem.minecraft.diamond_axe
+1: Xisuma: 50632
+2: falsesymmetry: 49188
+3: xBCrafted: 33300
+4: zueljin: 19864
+5: Mumbo: 18993
+6: iJevin: 18467
+7: topmass: 13955
+8: monkeyfarm: 13327
+9: Tango: 12476
+10: sl1pg8r: 10169
+11: Tinfoilchef: 7912
+12: hypnotizd: 6038
+13: Biffa2001: 5931
+14: ZombieCleo: 5912
+15: impulseSV: 5417
+16: Etho: 3992
+17: KingDaddyDMAC: 3032
+18: Spumwackles: 2867
+19: PythonGB: 491
+20: Docm77: 425
+21: skyzm: 152
+22: Keralis1: 44
+Total 282584

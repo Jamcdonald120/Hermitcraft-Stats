@@ -1,0 +1,31 @@
+minecraft.used.diamond_axe
+1: GoodTimeWithScar: 68019
+2: Grian: 38628
+3: BdoubleO100: 36597
+4: joehillssays: 35975
+5: Renthedog: 29523
+6: Xisuma: 28260
+7: Tango: 24843
+8: GeminiTay: 21307
+9: ZombieCleo: 19858
+10: Keralis1: 16470
+11: Etho: 14391
+12: xBCrafted: 14049
+13: falsesymmetry: 12556
+14: PearlescentMoon: 10876
+15: iskall85: 9596
+16: impulseSV: 8367
+17: MumboJumbo: 8211
+18: Docm77: 8062
+19: cubfan135: 7256
+20: iJevin: 6311
+21: Stressmonster101: 5976
+22: hypnotizd: 5939
+23: Zedaph: 2675
+24: VintageBeef: 1150
+25: Welsknight: 132
+26: Tinfoilchef: 47
+27: EvilXisuma: 12
+28: pillbugnine: 7
+29: HermitcraftAlt: 2
+Total 435095

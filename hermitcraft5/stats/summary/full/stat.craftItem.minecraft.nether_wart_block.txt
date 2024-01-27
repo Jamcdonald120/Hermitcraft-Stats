@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.nether_wart_block
+1: Tango: 3636
+2: GoodTimeWithScar: 617
+3: Xisuma: 340
+4: cubfan135: 334
+5: falsesymmetry: 160
+6: MumboJumbo: 91
+7: iskall85: 61
+8: impulseSV: 49
+9: joehillssays: 29
+10: Welsknight: 21
+Total 5338

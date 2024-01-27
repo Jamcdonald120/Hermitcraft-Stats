@@ -1,0 +1,5 @@
+minecraft.dropped.scute
+1: falsesymmetry: 11
+2: Renthedog: 4
+3: Docm77: 2
+Total 17

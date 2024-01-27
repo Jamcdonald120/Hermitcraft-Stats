@@ -1,0 +1,23 @@
+minecraft.picked_up.polished_granite_slab
+1: Renthedog: 905
+2: GoodTimeWithScar: 513
+3: falsesymmetry: 424
+4: PearlescentMoon: 270
+5: cubfan135: 201
+6: BdoubleO100: 87
+7: Xisuma: 81
+8: Docm77: 26
+9: iJevin: 23
+10: joehillssays: 6
+11: xBCrafted: 4
+12: Etho: 2
+13: RentheKing: 2
+14: impulseSV: 2
+15: VintageBeef: 1
+16: Grian: 1
+17: Tango: 1
+18: ZombieCleo: 1
+19: Mumbo: 1
+20: Keralis1: 1
+21: Zedaph: 1
+Total 2553

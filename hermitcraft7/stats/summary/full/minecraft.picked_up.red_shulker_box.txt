@@ -1,0 +1,27 @@
+minecraft.picked_up.red_shulker_box
+1: BdoubleO100: 1169
+2: Tango: 1042
+3: Etho: 1001
+4: cubfan135: 893
+5: Xisuma: 613
+6: iskall85: 452
+7: hypnotizd: 433
+8: impulseSV: 408
+9: MumboJumbo: 399
+10: Zedaph: 361
+11: ZombieCleo: 338
+12: Keralis1: 247
+13: Renthedog: 231
+14: Stressmonster101: 219
+15: GoodTimeWithScar: 151
+16: joehillssays: 133
+17: falsesymmetry: 127
+18: Docm77: 122
+19: VintageBeef: 108
+20: Grian: 99
+21: xBCrafted: 97
+22: iJevin: 69
+23: Welsknight: 36
+24: Helsknight_: 5
+25: Tinfoilchef: 1
+Total 8754

@@ -1,0 +1,7 @@
+stat.useItem.minecraft.red_mushroom_block
+1: monkeyfarm: 2275
+2: ZombieCleo: 46
+3: falsesymmetry: 15
+4: Xisuma: 6
+5: xBCrafted: 1
+Total 2343

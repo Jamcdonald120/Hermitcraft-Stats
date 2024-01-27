@@ -1,0 +1,4 @@
+stat.drop.minecraft.birch_fence
+1: iskall85: 44
+2: MumboJumbo: 11
+Total 55

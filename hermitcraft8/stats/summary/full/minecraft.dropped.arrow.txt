@@ -1,0 +1,27 @@
+minecraft.dropped.arrow
+1: Tango: 21332
+2: Grian: 14389
+3: Docm77: 7428
+4: impulseSV: 6491
+5: Etho: 3213
+6: hypnotizd: 3175
+7: Xisuma: 2618
+8: xBCrafted: 2604
+9: falsesymmetry: 1173
+10: iJevin: 1029
+11: PearlescentMoon: 854
+12: GoodTimeWithScar: 818
+13: cubfan135: 499
+14: iskall85: 411
+15: Renthedog: 248
+16: Stressmonster101: 152
+17: GeminiTay: 84
+18: Zedaph: 84
+19: BdoubleO100: 82
+20: MumboJumbo: 75
+21: Keralis1: 75
+22: EvilXisuma: 64
+23: joehillssays: 47
+24: ZombieCleo: 36
+25: Welsknight: 4
+Total 66985

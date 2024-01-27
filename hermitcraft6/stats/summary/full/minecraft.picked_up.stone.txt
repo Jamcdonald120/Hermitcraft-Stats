@@ -1,0 +1,28 @@
+minecraft.picked_up.stone
+1: GoodTimeWithScar: 471403
+2: falsesymmetry: 310020
+3: iskall85: 306899
+4: cubfan135: 227739
+5: Renthedog: 197495
+6: Xisuma: 143890
+7: Stressmonster101: 131343
+8: Grian: 122289
+9: Tango: 121128
+10: iJevin: 120935
+11: MumboJumbo: 117315
+12: impulseSV: 115335
+13: Welsknight: 91438
+14: Docm77: 85695
+15: joehillssays: 67513
+16: Zedaph: 32859
+17: Keralis1: 12535
+18: Tinfoilchef: 11080
+19: Biffa2001: 10022
+20: PythonGB: 6746
+21: ZombieCleo: 5087
+22: xBCrafted: 3195
+23: BdoubleO100: 432
+24: HumanCleo: 380
+25: BadTimeWithScar: 10
+26: Cub_Cam: 6
+Total 2712789

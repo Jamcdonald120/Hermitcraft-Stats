@@ -1,0 +1,24 @@
+stat.useItem.minecraft.trapped_chest
+1: MumboJumbo: 1208
+2: Tinfoilchef: 640
+3: Xisuma: 495
+4: Tango: 397
+5: iskall85: 367
+6: iJevin: 262
+7: Renthedog: 258
+8: impulseSV: 239
+9: Welsknight: 236
+10: cubfan135: 231
+11: GoodTimeWithScar: 218
+12: falsesymmetry: 215
+13: Biffa2001: 111
+14: Docm77: 64
+15: xisumavoid: 48
+16: Etho: 48
+17: joehillssays: 26
+18: PythonGB: 17
+19: ZombieCleo: 8
+20: zueljin: 6
+21: VintageBeef: 5
+22: Mumbo: 2
+Total 5101

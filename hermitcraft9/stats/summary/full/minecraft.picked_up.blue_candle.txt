@@ -1,0 +1,9 @@
+minecraft.picked_up.blue_candle
+1: GoodTimeWithScar: 63
+2: Renthedog: 22
+3: Tango: 18
+4: hypnotizd: 8
+5: Xisuma: 5
+6: joehillssays: 3
+7: Zedaph: 1
+Total 120

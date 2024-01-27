@@ -1,0 +1,20 @@
+stat.useItem.minecraft.nether_wart
+1: Xisuma: 3389
+2: Tango: 1709
+3: xBCrafted: 370
+4: impulseSV: 232
+5: Tinfoilchef: 215
+6: Spumwackles: 194
+7: Mumbo: 177
+8: falsesymmetry: 153
+9: iJevin: 139
+10: KingDaddyDMAC: 38
+11: Biffa2001: 36
+12: ZombieCleo: 34
+13: hypnotizd: 27
+14: topmass: 13
+15: PythonGB: 10
+16: monkeyfarm: 9
+17: Etho: 6
+18: zueljin: 5
+Total 6756

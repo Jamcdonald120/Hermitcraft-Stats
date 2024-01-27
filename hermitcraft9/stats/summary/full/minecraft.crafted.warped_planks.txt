@@ -1,0 +1,29 @@
+minecraft.crafted.warped_planks
+1: Xisuma: 46908
+2: Tango: 21628
+3: ZombieCleo: 10184
+4: Mumbo: 7028
+5: impulseSV: 5812
+6: Pixlriffs: 5620
+7: GoodTimeWithScar: 4984
+8: Keralis1: 4372
+9: PearlescentMoon: 3832
+10: Docm77: 3620
+11: Grian: 2866
+12: falsesymmetry: 2588
+13: Etho: 2540
+14: cubfan135: 2396
+15: BdoubleO100: 942
+16: Stressmonster101: 872
+17: GeminiTay: 812
+18: VintageBeef: 408
+19: Smajor1995: 160
+20: joehillssays: 144
+21: xBCrafted: 140
+22: Smallishbeans: 120
+23: iJevin: 112
+24: fWhip: 112
+25: Zedaph: 100
+26: Renthedog: 84
+27: hypnotizd: 28
+Total 128412

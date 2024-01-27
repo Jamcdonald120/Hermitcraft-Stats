@@ -1,0 +1,10 @@
+minecraft.crafted.orange_bed
+1: Renthedog: 9
+2: Keralis1: 6
+3: GoodTimeWithScar: 5
+4: PearlescentMoon: 3
+5: Xisuma: 1
+6: iskall85: 1
+7: cubfan135: 1
+8: Zedaph: 1
+Total 27

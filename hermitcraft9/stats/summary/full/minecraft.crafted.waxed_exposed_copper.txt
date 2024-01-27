@@ -1,0 +1,4 @@
+minecraft.crafted.waxed_exposed_copper
+1: Keralis1: 289
+2: Docm77: 118
+Total 407

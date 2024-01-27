@@ -1,0 +1,22 @@
+minecraft.picked_up.gray_concrete_powder
+1: PearlescentMoon: 5388
+2: Keralis1: 3507
+3: Renthedog: 2374
+4: Xisuma: 1186
+5: Docm77: 877
+6: cubfan135: 237
+7: impulseSV: 228
+8: GoodTimeWithScar: 220
+9: GeminiTay: 154
+10: VintageBeef: 95
+11: Grian: 74
+12: BdoubleO100: 39
+13: RentheKing: 24
+14: MythicalSausage: 11
+15: iJevin: 9
+16: Tango: 6
+17: Etho: 5
+18: iskall85: 2
+19: ZombieCleo: 1
+20: Zedaph: 1
+Total 14438

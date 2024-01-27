@@ -1,0 +1,22 @@
+minecraft.picked_up.polished_granite
+1: Etho: 1768
+2: GoodTimeWithScar: 1441
+3: iJevin: 1039
+4: iskall85: 466
+5: cubfan135: 451
+6: xBCrafted: 371
+7: BdoubleO100: 121
+8: Xisuma: 116
+9: VintageBeef: 79
+10: Tango: 65
+11: Zedaph: 55
+12: Grian: 35
+13: Stressmonster101: 32
+14: Keralis1: 23
+15: falsesymmetry: 13
+16: Welsknight: 13
+17: joehillssays: 12
+18: MumboJumbo: 5
+19: impulseSV: 4
+20: hypnotizd: 1
+Total 6110

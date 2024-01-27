@@ -1,0 +1,8 @@
+minecraft.dropped.netherite_ingot
+1: Xisuma: 10
+2: impulseSV: 6
+3: Renthedog: 5
+4: iJevin: 4
+5: Grian: 4
+6: ZombieCleo: 1
+Total 30

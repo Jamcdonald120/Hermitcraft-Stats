@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.golden_leggings
+1: iJevin: 3
+2: Spumwackles: 1
+Total 4

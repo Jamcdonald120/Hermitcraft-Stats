@@ -1,0 +1,19 @@
+stat.pickup.minecraft.diamond_ore
+1: falsesymmetry: 514
+2: GoodTimeWithScar: 322
+3: MumboJumbo: 279
+4: PythonGB: 226
+5: iJevin: 183
+6: Welsknight: 119
+7: Etho: 90
+8: iskall85: 74
+9: Docm77: 73
+10: Renthedog: 70
+11: Xisuma: 66
+12: Tinfoilchef: 41
+13: impulseSV: 39
+14: Biffa2001: 33
+15: Tango: 31
+16: cubfan135: 27
+17: Jessassin: 9
+Total 2196

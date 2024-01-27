@@ -1,0 +1,12 @@
+minecraft.crafted.brown_stained_glass
+1: impulseSV: 10784
+2: Etho: 832
+3: PearlescentMoon: 400
+4: Xisuma: 288
+5: joehillssays: 64
+6: falsesymmetry: 64
+7: Keralis1: 64
+8: GeminiTay: 32
+9: iJevin: 8
+10: Welsknight: 8
+Total 12544

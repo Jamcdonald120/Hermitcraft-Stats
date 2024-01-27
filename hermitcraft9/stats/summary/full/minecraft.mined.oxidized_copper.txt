@@ -1,0 +1,26 @@
+minecraft.mined.oxidized_copper
+1: Xisuma: 11163
+2: Docm77: 4922
+3: GoodTimeWithScar: 4718
+4: Grian: 2046
+5: joehillssays: 1046
+6: cubfan135: 850
+7: Tango: 793
+8: Etho: 791
+9: Keralis1: 773
+10: Zedaph: 744
+11: Mumbo: 655
+12: impulseSV: 559
+13: Pixlriffs: 468
+14: ZombieCleo: 357
+15: falsesymmetry: 297
+16: iskall85: 230
+17: BdoubleO100: 151
+18: PearlescentMoon: 59
+19: Smallishbeans: 45
+20: RentheKing: 38
+21: GeminiTay: 18
+22: xBCrafted: 17
+23: VintageBeef: 3
+24: MumboJumbo: 1
+Total 30744

@@ -1,0 +1,26 @@
+minecraft.crafted.stone_bricks
+1: iJevin: 61668
+2: MumboJumbo: 10636
+3: ZombieCleo: 8640
+4: Keralis1: 7310
+5: Xisuma: 6620
+6: cubfan135: 5713
+7: hypnotizd: 5656
+8: Renthedog: 3380
+9: xBCrafted: 3268
+10: joehillssays: 3260
+11: impulseSV: 2516
+12: Etho: 2488
+13: Welsknight: 1916
+14: iskall85: 1576
+15: GeminiTay: 1208
+16: PearlescentMoon: 1104
+17: Tango: 1006
+18: Stressmonster101: 768
+19: Zedaph: 740
+20: falsesymmetry: 556
+21: GoodTimeWithScar: 536
+22: Grian: 384
+23: BdoubleO100: 211
+24: Docm77: 140
+Total 131300

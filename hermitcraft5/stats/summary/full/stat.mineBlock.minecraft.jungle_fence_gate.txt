@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.jungle_fence_gate
+1: Docm77: 27
+2: VintageBeef: 27
+3: xBCrafted: 7
+4: Xisuma: 2
+5: cubfan135: 2
+Total 65

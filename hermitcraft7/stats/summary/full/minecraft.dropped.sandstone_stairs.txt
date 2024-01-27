@@ -1,0 +1,10 @@
+minecraft.dropped.sandstone_stairs
+1: cubfan135: 204
+2: Tango: 34
+3: Renthedog: 30
+4: BdoubleO100: 19
+5: VintageBeef: 11
+6: Etho: 4
+7: Docm77: 3
+8: Zedaph: 1
+Total 306

@@ -1,0 +1,17 @@
+minecraft.picked_up.stone_hoe
+1: iJevin: 22
+2: Grian: 9
+3: cubfan135: 4
+4: iskall85: 3
+5: GoodTimeWithScar: 3
+6: PythonGB: 2
+7: joehillssays: 2
+8: MumboJumbo: 2
+9: impulseSV: 2
+10: Docm77: 1
+11: Renthedog: 1
+12: Tango: 1
+13: falsesymmetry: 1
+14: Biffa2001: 1
+15: Tinfoilchef: 1
+Total 55

@@ -1,0 +1,35 @@
+minecraft.picked_up.lantern
+1: Grian: 2466
+2: falsesymmetry: 1057
+3: Renthedog: 736
+4: GoodTimeWithScar: 636
+5: cubfan135: 431
+6: iJevin: 425
+7: ZombieCleo: 361
+8: PearlescentMoon: 355
+9: Smallishbeans: 133
+10: RentheKing: 124
+11: Keralis1: 123
+12: Stressmonster101: 108
+13: impulseSV: 104
+14: GeminiTay: 86
+15: MythicalSausage: 80
+16: Xisuma: 68
+17: OrionSound: 68
+18: xBCrafted: 66
+19: fWhip: 66
+20: Etho: 51
+21: Tango: 45
+22: SolidarityGaming: 43
+23: iskall85: 37
+24: VintageBeef: 31
+25: Docm77: 29
+26: Zedaph: 14
+27: BdoubleO100: 11
+28: hypnotizd: 11
+29: ShubbleYT: 9
+30: joehillssays: 6
+31: Pixlriffs: 3
+32: Mumbo: 2
+33: MumboJumbo: 1
+Total 7786

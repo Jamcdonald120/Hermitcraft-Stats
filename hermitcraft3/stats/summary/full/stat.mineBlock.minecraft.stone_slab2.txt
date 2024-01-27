@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.stone_slab2
+1: Tango: 203
+2: Xisuma: 55
+3: xBCrafted: 48
+4: zueljin: 25
+5: KingDaddyDMAC: 15
+6: falsesymmetry: 1
+Total 347

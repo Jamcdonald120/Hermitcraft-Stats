@@ -1,0 +1,17 @@
+minecraft.picked_up.pitcher_pod
+1: PearlescentMoon: 1710
+2: Renthedog: 266
+3: Xisuma: 198
+4: GoodTimeWithScar: 53
+5: ZombieCleo: 48
+6: cubfan135: 33
+7: Grian: 29
+8: GeminiTay: 23
+9: impulseSV: 14
+10: Zedaph: 12
+11: Etho: 6
+12: Docm77: 5
+13: falsesymmetry: 3
+14: xBCrafted: 1
+15: HBomb94: 1
+Total 2402

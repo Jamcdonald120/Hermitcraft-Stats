@@ -1,0 +1,11 @@
+stat.drop.minecraft.sugar
+1: Tango: 333
+2: MumboJumbo: 144
+3: falsesymmetry: 4
+4: cubfan135: 4
+5: Xisuma: 3
+6: Renthedog: 3
+7: GoodTimeWithScar: 2
+8: Docm77: 1
+9: PythonGB: 1
+Total 495

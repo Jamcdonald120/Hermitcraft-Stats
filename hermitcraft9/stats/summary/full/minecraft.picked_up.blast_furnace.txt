@@ -1,0 +1,23 @@
+minecraft.picked_up.blast_furnace
+1: PearlescentMoon: 114
+2: Tango: 57
+3: ZombieCleo: 46
+4: iJevin: 38
+5: joehillssays: 26
+6: BdoubleO100: 26
+7: xBCrafted: 23
+8: impulseSV: 23
+9: Docm77: 13
+10: Keralis1: 13
+11: Renthedog: 8
+12: Grian: 7
+13: falsesymmetry: 5
+14: Etho: 5
+15: Zedaph: 5
+16: iskall85: 4
+17: cubfan135: 4
+18: VintageBeef: 2
+19: GoodTimeWithScar: 2
+20: Stressmonster101: 2
+21: MythicalSausage: 1
+Total 424

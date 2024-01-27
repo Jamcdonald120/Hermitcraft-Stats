@@ -1,0 +1,8 @@
+minecraft.mined.prismarine_wall
+1: xBCrafted: 17
+2: Xisuma: 16
+3: MumboJumbo: 15
+4: Docm77: 1
+5: GeminiTay: 1
+6: BdoubleO100: 1
+Total 51

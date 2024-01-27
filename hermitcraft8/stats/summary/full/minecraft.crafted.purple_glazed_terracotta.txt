@@ -1,0 +1,4 @@
+minecraft.crafted.purple_glazed_terracotta
+1: Etho: 768
+2: GoodTimeWithScar: 24
+Total 792

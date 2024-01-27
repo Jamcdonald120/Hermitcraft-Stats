@@ -1,0 +1,15 @@
+minecraft.picked_up.purpur_pillar
+1: cubfan135: 848
+2: impulseSV: 369
+3: iskall85: 313
+4: MumboJumbo: 203
+5: Renthedog: 192
+6: Tango: 189
+7: Xisuma: 168
+8: Zedaph: 109
+9: iJevin: 98
+10: PythonGB: 87
+11: Grian: 70
+12: GoodTimeWithScar: 28
+13: falsesymmetry: 2
+Total 2676

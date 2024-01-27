@@ -1,0 +1,17 @@
+minecraft.crafted.red_stained_glass_pane
+1: joehillssays: 992
+2: cubfan135: 600
+3: Tango: 400
+4: falsesymmetry: 400
+5: Xisuma: 208
+6: RentheKing: 192
+7: xBCrafted: 160
+8: MythicalSausage: 80
+9: GoodTimeWithScar: 80
+10: Renthedog: 64
+11: Grian: 48
+12: VintageBeef: 32
+13: PearlescentMoon: 32
+14: Zedaph: 32
+15: Keralis1: 16
+Total 3336

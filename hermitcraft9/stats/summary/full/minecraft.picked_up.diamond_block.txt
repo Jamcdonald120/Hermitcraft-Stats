@@ -1,0 +1,36 @@
+minecraft.picked_up.diamond_block
+1: cubfan135: 1022
+2: xBCrafted: 953
+3: impulseSV: 675
+4: RentheKing: 517
+5: Grian: 324
+6: PearlescentMoon: 307
+7: Zedaph: 250
+8: iJevin: 236
+9: Mumbo: 204
+10: BdoubleO100: 172
+11: Renthedog: 141
+12: GoodTimeWithScar: 117
+13: Xisuma: 103
+14: VintageBeef: 92
+15: ZombieCleo: 68
+16: GeminiTay: 63
+17: joehillssays: 61
+18: falsesymmetry: 49
+19: hypnotizd: 43
+20: Keralis1: 37
+21: Docm77: 16
+22: Tango: 11
+23: Welsknight: 11
+24: Etho: 10
+25: iskall85: 7
+26: Smajor1995: 3
+27: OrionSound: 2
+28: MythicalSausage: 2
+29: Smallishbeans: 2
+30: fWhip: 2
+31: Pixlriffs: 1
+32: Stressmonster101: 1
+33: ShubbleYT: 1
+34: SolidarityGaming: 1
+Total 5504

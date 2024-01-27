@@ -1,0 +1,20 @@
+minecraft.crafted.oak_pressure_plate
+1: GoodTimeWithScar: 209
+2: cubfan135: 118
+3: Renthedog: 54
+4: Grian: 48
+5: joehillssays: 41
+6: Tinfoilchef: 34
+7: Xisuma: 32
+8: Biffa2001: 22
+9: Docm77: 17
+10: iskall85: 5
+11: falsesymmetry: 5
+12: iJevin: 4
+13: MumboJumbo: 4
+14: ZombieCleo: 3
+15: Keralis1: 3
+16: impulseSV: 2
+17: Zedaph: 2
+18: Tango: 1
+Total 604

@@ -1,0 +1,26 @@
+minecraft.mined.gold_block
+1: iJevin: 3458
+2: cubfan135: 647
+3: impulseSV: 279
+4: Zedaph: 202
+5: PearlescentMoon: 167
+6: hypnotizd: 137
+7: Renthedog: 126
+8: Tango: 113
+9: Keralis1: 96
+10: GeminiTay: 87
+11: RentheKing: 82
+12: VintageBeef: 79
+13: Etho: 43
+14: Docm77: 29
+15: joehillssays: 28
+16: Xisuma: 11
+17: BdoubleO100: 8
+18: xBCrafted: 7
+19: Grian: 5
+20: falsesymmetry: 5
+21: Mumbo: 2
+22: GoodTimeWithScar: 2
+23: Stressmonster101: 2
+24: iskall85: 1
+Total 5616

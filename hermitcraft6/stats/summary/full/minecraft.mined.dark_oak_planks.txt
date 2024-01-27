@@ -1,0 +1,24 @@
+minecraft.mined.dark_oak_planks
+1: Xisuma: 1552
+2: iJevin: 1481
+3: Grian: 1169
+4: Stressmonster101: 1090
+5: Renthedog: 974
+6: GoodTimeWithScar: 771
+7: BdoubleO100: 691
+8: cubfan135: 622
+9: falsesymmetry: 314
+10: iskall85: 264
+11: Docm77: 243
+12: joehillssays: 217
+13: Welsknight: 129
+14: PythonGB: 120
+15: Tango: 114
+16: MumboJumbo: 99
+17: ZombieCleo: 69
+18: Biffa2001: 67
+19: Zedaph: 44
+20: Jessassin: 3
+21: Keralis1: 2
+22: impulseSV: 1
+Total 10036

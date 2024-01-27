@@ -1,0 +1,19 @@
+stat.useItem.minecraft.spruce_boat
+1: falsesymmetry: 88
+2: impulseSV: 75
+3: Tango: 65
+4: Etho: 63
+5: iskall85: 33
+6: Docm77: 30
+7: cubfan135: 25
+8: GoodTimeWithScar: 19
+9: Xisuma: 10
+10: Welsknight: 9
+11: Renthedog: 8
+12: PythonGB: 8
+13: MumboJumbo: 4
+14: VintageBeef: 3
+15: iJevin: 3
+16: ZombieCleo: 3
+17: Biffa2001: 1
+Total 447

@@ -1,0 +1,6 @@
+minecraft.picked_up.blue_carpet
+1: cubfan135: 67
+2: ZombieCleo: 17
+3: PearlescentMoon: 10
+4: Renthedog: 3
+Total 97

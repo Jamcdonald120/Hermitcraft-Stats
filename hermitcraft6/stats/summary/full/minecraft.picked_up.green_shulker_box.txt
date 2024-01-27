@@ -1,0 +1,20 @@
+minecraft.picked_up.green_shulker_box
+1: Renthedog: 532
+2: cubfan135: 469
+3: Xisuma: 453
+4: falsesymmetry: 276
+5: iskall85: 144
+6: Docm77: 105
+7: joehillssays: 94
+8: Stressmonster101: 92
+9: Grian: 65
+10: Zedaph: 53
+11: impulseSV: 42
+12: Tango: 32
+13: Keralis1: 31
+14: Biffa2001: 30
+15: GoodTimeWithScar: 16
+16: iJevin: 6
+17: MumboJumbo: 6
+18: ZombieCleo: 1
+Total 2447

@@ -1,0 +1,23 @@
+minecraft.crafted.gray_concrete_powder
+1: falsesymmetry: 90416
+2: Xisuma: 59328
+3: GoodTimeWithScar: 40120
+4: Grian: 31762
+5: Keralis1: 31432
+6: Renthedog: 22632
+7: Tango: 12184
+8: xBCrafted: 11352
+9: impulseSV: 5480
+10: VintageBeef: 3688
+11: joehillssays: 3408
+12: cubfan135: 3320
+13: Stressmonster101: 2928
+14: iskall85: 2096
+15: Etho: 1608
+16: iJevin: 784
+17: BdoubleO100: 760
+18: Welsknight: 512
+19: MumboJumbo: 192
+20: Zedaph: 192
+21: Docm77: 32
+Total 324226

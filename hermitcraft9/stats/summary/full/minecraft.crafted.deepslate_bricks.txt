@@ -1,0 +1,26 @@
+minecraft.crafted.deepslate_bricks
+1: cubfan135: 13156
+2: Mumbo: 9704
+3: GeminiTay: 4080
+4: Grian: 2524
+5: Xisuma: 2406
+6: GoodTimeWithScar: 2032
+7: iJevin: 1912
+8: Tango: 1659
+9: PearlescentMoon: 1204
+10: Stressmonster101: 984
+11: Keralis1: 501
+12: MythicalSausage: 260
+13: impulseSV: 184
+14: falsesymmetry: 179
+15: xBCrafted: 139
+16: MumboJumbo: 80
+17: Docm77: 69
+18: Zedaph: 61
+19: VintageBeef: 28
+20: Pixlriffs: 12
+21: Etho: 5
+22: Renthedog: 1
+23: RentheKing: 1
+24: hypnotizd: 1
+Total 41182

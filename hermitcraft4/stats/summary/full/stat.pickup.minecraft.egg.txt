@@ -1,0 +1,27 @@
+stat.pickup.minecraft.egg
+1: Xisuma: 13453
+2: Tango: 4963
+3: Renthedog: 1808
+4: cubfan135: 1475
+5: GoodTimeWithScar: 1458
+6: iJevin: 1419
+7: impulseSV: 1004
+8: Welsknight: 926
+9: falsesymmetry: 894
+10: joehillssays: 810
+11: PythonGB: 787
+12: Etho: 747
+13: Docm77: 683
+14: ZombieCleo: 617
+15: iskall85: 493
+16: Biffa2001: 360
+17: Tinfoilchef: 229
+18: zueljin: 209
+19: MumboJumbo: 188
+20: Mumbo: 173
+21: Jessassin: 84
+22: Biffa001: 55
+23: xBCrafted: 32
+24: VintageBeef: 8
+25: EvilXisuma: 1
+Total 32876

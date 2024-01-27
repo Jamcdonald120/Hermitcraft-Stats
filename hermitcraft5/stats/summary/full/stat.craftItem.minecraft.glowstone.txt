@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.glowstone
+1: Tango: 15440
+2: Xisuma: 9575
+3: cubfan135: 3393
+4: iskall85: 501
+5: GoodTimeWithScar: 351
+6: Tinfoilchef: 319
+7: joehillssays: 274
+8: impulseSV: 108
+9: ZombieCleo: 89
+10: PythonGB: 72
+11: Zedaph: 24
+12: iJevin: 19
+13: Docm77: 16
+14: MumboJumbo: 12
+15: BdoubleO100: 3
+16: Stressmonster101: 3
+Total 30199

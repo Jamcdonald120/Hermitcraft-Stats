@@ -1,0 +1,24 @@
+minecraft.used.black_wool
+1: falsesymmetry: 2213
+2: Tango: 1834
+3: iJevin: 1701
+4: Docm77: 1600
+5: impulseSV: 914
+6: hypnotizd: 564
+7: VintageBeef: 316
+8: ZombieCleo: 240
+9: BdoubleO100: 211
+10: GoodTimeWithScar: 137
+11: RentheKing: 134
+12: xBCrafted: 129
+13: Keralis1: 123
+14: Renthedog: 117
+15: Xisuma: 85
+16: iskall85: 83
+17: Grian: 42
+18: PearlescentMoon: 38
+19: GeminiTay: 28
+20: cubfan135: 17
+21: joehillssays: 6
+22: Zedaph: 2
+Total 10534

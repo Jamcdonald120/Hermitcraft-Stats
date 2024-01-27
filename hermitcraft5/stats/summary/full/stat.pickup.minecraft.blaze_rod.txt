@@ -1,0 +1,25 @@
+stat.pickup.minecraft.blaze_rod
+1: cubfan135: 7211
+2: impulseSV: 3101
+3: Tango: 1118
+4: Tinfoilchef: 535
+5: iskall85: 443
+6: Renthedog: 310
+7: Welsknight: 222
+8: GoodTimeWithScar: 119
+9: MumboJumbo: 104
+10: falsesymmetry: 100
+11: xBCrafted: 83
+12: PythonGB: 77
+13: Stressmonster101: 68
+14: Zedaph: 60
+15: Docm77: 52
+16: Xisuma: 51
+17: BdoubleO100: 44
+18: iJevin: 41
+19: Etho: 19
+20: Biffa2001: 17
+21: joehillssays: 16
+22: VintageBeef: 9
+23: xisumavoid: 7
+Total 13807

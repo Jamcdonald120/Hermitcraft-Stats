@@ -1,0 +1,19 @@
+minecraft.used.purpur_block
+1: PearlescentMoon: 561
+2: impulseSV: 345
+3: iJevin: 126
+4: cubfan135: 49
+5: VintageBeef: 37
+6: Renthedog: 32
+7: Keralis1: 21
+8: xBCrafted: 17
+9: Tango: 16
+10: ZombieCleo: 15
+11: GeminiTay: 8
+12: Docm77: 3
+13: Grian: 3
+14: falsesymmetry: 3
+15: Etho: 2
+16: Xisuma: 1
+17: hypnotizd: 1
+Total 1240

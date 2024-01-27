@@ -1,0 +1,9 @@
+minecraft.crafted.crossbow
+1: Etho: 24
+2: Grian: 14
+3: PearlescentMoon: 6
+4: GeminiTay: 3
+5: cubfan135: 2
+6: VintageBeef: 1
+7: BdoubleO100: 1
+Total 51

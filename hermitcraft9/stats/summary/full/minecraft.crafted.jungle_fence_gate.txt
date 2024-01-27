@@ -1,0 +1,16 @@
+minecraft.crafted.jungle_fence_gate
+1: Grian: 125
+2: GoodTimeWithScar: 91
+3: falsesymmetry: 66
+4: PearlescentMoon: 64
+5: BdoubleO100: 47
+6: Etho: 28
+7: Xisuma: 15
+8: Zedaph: 13
+9: cubfan135: 12
+10: iJevin: 4
+11: Keralis1: 3
+12: Docm77: 2
+13: Renthedog: 1
+14: impulseSV: 1
+Total 472

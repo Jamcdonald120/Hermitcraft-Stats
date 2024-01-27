@@ -1,0 +1,11 @@
+stat.pickup.minecraft.light_weighted_pressure_plate
+1: cubfan135: 16
+2: Xisuma: 8
+3: Stressmonster101: 6
+4: iJevin: 2
+5: Tango: 1
+6: iskall85: 1
+7: Welsknight: 1
+8: MumboJumbo: 1
+9: impulseSV: 1
+Total 37

@@ -1,0 +1,6 @@
+minecraft.dropped.mossy_stone_brick_stairs
+1: Zedaph: 65
+2: GoodTimeWithScar: 3
+3: Tango: 1
+4: Keralis1: 1
+Total 70

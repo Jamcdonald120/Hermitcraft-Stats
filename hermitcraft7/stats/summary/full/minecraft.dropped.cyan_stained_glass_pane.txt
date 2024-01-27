@@ -1,0 +1,11 @@
+minecraft.dropped.cyan_stained_glass_pane
+1: GoodTimeWithScar: 96
+2: xBCrafted: 64
+3: iJevin: 56
+4: MumboJumbo: 56
+5: cubfan135: 37
+6: Keralis1: 28
+7: Etho: 14
+8: VintageBeef: 2
+9: iskall85: 1
+Total 354

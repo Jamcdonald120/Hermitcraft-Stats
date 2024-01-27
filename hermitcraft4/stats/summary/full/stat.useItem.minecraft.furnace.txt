@@ -1,0 +1,26 @@
+stat.useItem.minecraft.furnace
+1: falsesymmetry: 1048
+2: Xisuma: 865
+3: impulseSV: 450
+4: Welsknight: 440
+5: joehillssays: 347
+6: cubfan135: 343
+7: iskall85: 335
+8: MumboJumbo: 319
+9: Tango: 272
+10: Renthedog: 180
+11: iJevin: 174
+12: ZombieCleo: 71
+13: VintageBeef: 48
+14: GoodTimeWithScar: 48
+15: Tinfoilchef: 46
+16: PythonGB: 43
+17: Biffa2001: 36
+18: Docm77: 16
+19: Etho: 14
+20: Mumbo: 13
+21: xBCrafted: 12
+22: Jessassin: 7
+23: zueljin: 5
+24: hypnotizd: 1
+Total 5133

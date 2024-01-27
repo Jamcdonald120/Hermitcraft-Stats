@@ -1,0 +1,9 @@
+minecraft.mined.dried_kelp_block
+1: Grian: 64
+2: cubfan135: 60
+3: Xisuma: 37
+4: PearlescentMoon: 23
+5: Renthedog: 5
+6: Etho: 2
+7: GeminiTay: 1
+Total 192

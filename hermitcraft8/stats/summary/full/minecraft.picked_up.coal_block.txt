@@ -1,0 +1,20 @@
+minecraft.picked_up.coal_block
+1: impulseSV: 2341
+2: VintageBeef: 274
+3: MumboJumbo: 225
+4: cubfan135: 178
+5: Tango: 166
+6: iJevin: 150
+7: PearlescentMoon: 144
+8: xBCrafted: 120
+9: Renthedog: 115
+10: GoodTimeWithScar: 77
+11: ZombieCleo: 56
+12: BdoubleO100: 52
+13: Grian: 45
+14: joehillssays: 41
+15: Xisuma: 7
+16: Etho: 7
+17: falsesymmetry: 3
+18: Welsknight: 1
+Total 4002

@@ -1,0 +1,22 @@
+minecraft.picked_up.lime_terracotta
+1: cubfan135: 9290
+2: GoodTimeWithScar: 1721
+3: falsesymmetry: 1005
+4: Xisuma: 762
+5: iskall85: 355
+6: Welsknight: 328
+7: Grian: 139
+8: joehillssays: 48
+9: MumboJumbo: 25
+10: Docm77: 22
+11: Stressmonster101: 22
+12: iJevin: 13
+13: impulseSV: 7
+14: Zedaph: 4
+15: Renthedog: 3
+16: Tango: 3
+17: Biffa2001: 2
+18: Duke_da_dog: 2
+19: PythonGB: 1
+20: Keralis1: 1
+Total 13753

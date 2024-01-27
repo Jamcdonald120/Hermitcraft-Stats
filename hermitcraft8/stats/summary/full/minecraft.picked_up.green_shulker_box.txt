@@ -1,0 +1,12 @@
+minecraft.picked_up.green_shulker_box
+1: BdoubleO100: 125
+2: GeminiTay: 82
+3: PearlescentMoon: 73
+4: cubfan135: 54
+5: Renthedog: 43
+6: Etho: 43
+7: Xisuma: 17
+8: Keralis1: 14
+9: Grian: 1
+10: Tango: 1
+Total 453

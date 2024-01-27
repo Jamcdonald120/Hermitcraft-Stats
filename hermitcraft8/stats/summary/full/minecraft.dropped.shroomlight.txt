@@ -1,0 +1,10 @@
+minecraft.dropped.shroomlight
+1: impulseSV: 74
+2: Keralis1: 22
+3: PearlescentMoon: 11
+4: Zedaph: 8
+5: Stressmonster101: 3
+6: MumboJumbo: 2
+7: Renthedog: 1
+8: GoodTimeWithScar: 1
+Total 122

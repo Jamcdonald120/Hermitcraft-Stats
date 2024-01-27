@@ -1,0 +1,22 @@
+stat.useItem.minecraft.diamond_ore
+1: Tango: 456
+2: falsesymmetry: 420
+3: topmass: 329
+4: xBCrafted: 326
+5: Xisuma: 296
+6: sl1pg8r: 129
+7: impulseSV: 106
+8: Tinfoilchef: 102
+9: zueljin: 91
+10: Biffa2001: 90
+11: PythonGB: 74
+12: ZombieCleo: 67
+13: KingDaddyDMAC: 55
+14: Mumbo: 52
+15: Spumwackles: 45
+16: hypnotizd: 26
+17: iJevin: 12
+18: monkeyfarm: 5
+19: Etho: 1
+20: Keralis1: 1
+Total 2683

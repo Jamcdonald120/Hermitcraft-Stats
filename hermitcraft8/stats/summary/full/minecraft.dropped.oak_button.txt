@@ -1,0 +1,9 @@
+minecraft.dropped.oak_button
+1: Renthedog: 16
+2: Grian: 15
+3: Zedaph: 11
+4: falsesymmetry: 2
+5: VintageBeef: 1
+6: xBCrafted: 1
+7: Etho: 1
+Total 47

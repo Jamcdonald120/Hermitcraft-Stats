@@ -1,0 +1,20 @@
+minecraft.crafted.snow
+1: Tango: 8620
+2: Renthedog: 7617
+3: GoodTimeWithScar: 6426
+4: VintageBeef: 6270
+5: joehillssays: 4320
+6: cubfan135: 3116
+7: RentheKing: 636
+8: iJevin: 534
+9: xBCrafted: 354
+10: Keralis1: 252
+11: Zedaph: 204
+12: iskall85: 144
+13: Pixlriffs: 126
+14: falsesymmetry: 90
+15: BdoubleO100: 24
+16: Xisuma: 12
+17: PearlescentMoon: 12
+18: Docm77: 6
+Total 38763

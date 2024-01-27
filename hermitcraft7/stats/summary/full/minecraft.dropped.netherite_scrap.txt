@@ -1,0 +1,4 @@
+minecraft.dropped.netherite_scrap
+1: Zedaph: 4
+2: Xisuma: 1
+Total 5

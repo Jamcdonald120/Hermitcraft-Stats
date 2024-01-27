@@ -1,0 +1,18 @@
+minecraft.crafted.andesite_stairs
+1: GoodTimeWithScar: 921
+2: Tango: 308
+3: Keralis1: 264
+4: VintageBeef: 193
+5: Zedaph: 132
+6: xBCrafted: 106
+7: cubfan135: 105
+8: Grian: 88
+9: iskall85: 64
+10: Stressmonster101: 52
+11: Docm77: 32
+12: ZombieCleo: 24
+13: Xisuma: 12
+14: joehillssays: 4
+15: impulseSV: 4
+16: BdoubleO100: 1
+Total 2310

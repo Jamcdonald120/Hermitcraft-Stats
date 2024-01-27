@@ -1,0 +1,15 @@
+minecraft.picked_up.end_crystal
+1: Tango: 126
+2: Zedaph: 32
+3: cubfan135: 6
+4: Keralis1: 6
+5: Etho: 5
+6: falsesymmetry: 3
+7: hypnotizd: 3
+8: VintageBeef: 2
+9: impulseSV: 2
+10: iJevin: 1
+11: iskall85: 1
+12: xBCrafted: 1
+13: GoodTimeWithScar: 1
+Total 189

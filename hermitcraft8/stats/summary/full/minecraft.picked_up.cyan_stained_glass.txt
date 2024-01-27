@@ -1,0 +1,10 @@
+minecraft.picked_up.cyan_stained_glass
+1: Etho: 373
+2: Zedaph: 19
+3: Xisuma: 17
+4: PearlescentMoon: 8
+5: GeminiTay: 2
+6: BdoubleO100: 1
+7: cubfan135: 1
+8: ZombieCleo: 1
+Total 422

@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.iron_bars
+1: falsesymmetry: 721
+2: impulseSV: 514
+3: Xisuma: 384
+4: Spumwackles: 361
+5: xBCrafted: 299
+6: Tango: 226
+7: Mumbo: 124
+8: ZombieCleo: 105
+9: Biffa2001: 75
+10: monkeyfarm: 42
+11: joehillssays: 37
+12: sl1pg8r: 35
+13: PythonGB: 22
+14: topmass: 11
+15: Tinfoilchef: 10
+16: zueljin: 2
+Total 2968

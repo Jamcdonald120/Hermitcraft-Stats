@@ -1,0 +1,6 @@
+minecraft.crafted.pink_glazed_terracotta
+1: Etho: 832
+2: falsesymmetry: 64
+3: hypnotizd: 7
+4: VintageBeef: 3
+Total 906

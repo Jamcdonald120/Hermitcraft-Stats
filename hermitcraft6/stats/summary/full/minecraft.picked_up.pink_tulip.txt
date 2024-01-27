@@ -1,0 +1,20 @@
+minecraft.picked_up.pink_tulip
+1: Renthedog: 302
+2: iJevin: 185
+3: falsesymmetry: 140
+4: cubfan135: 127
+5: joehillssays: 99
+6: Xisuma: 96
+7: Zedaph: 36
+8: GoodTimeWithScar: 27
+9: PythonGB: 26
+10: Tango: 12
+11: BdoubleO100: 12
+12: iskall85: 11
+13: Stressmonster101: 8
+14: Docm77: 6
+15: Welsknight: 5
+16: Biffa2001: 3
+17: MumboJumbo: 3
+18: Grian: 2
+Total 1100

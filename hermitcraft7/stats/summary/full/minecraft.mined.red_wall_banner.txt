@@ -1,0 +1,11 @@
+minecraft.mined.red_wall_banner
+1: Tango: 9
+2: ZombieCleo: 8
+3: GoodTimeWithScar: 7
+4: BdoubleO100: 4
+5: cubfan135: 4
+6: Zedaph: 4
+7: Renthedog: 2
+8: Keralis1: 2
+9: Welsknight: 1
+Total 41

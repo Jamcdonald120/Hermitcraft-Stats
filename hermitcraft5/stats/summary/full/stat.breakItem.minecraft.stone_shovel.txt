@@ -1,0 +1,12 @@
+stat.breakItem.minecraft.stone_shovel
+1: BdoubleO100: 4
+2: PythonGB: 3
+3: Renthedog: 2
+4: VintageBeef: 2
+5: cubfan135: 2
+6: impulseSV: 2
+7: Zedaph: 2
+8: xBCrafted: 1
+9: falsesymmetry: 1
+10: Biffa2001: 1
+Total 20

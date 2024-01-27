@@ -1,0 +1,14 @@
+minecraft.crafted.light_gray_bed
+1: PearlescentMoon: 13
+2: ZombieCleo: 7
+3: Grian: 4
+4: BdoubleO100: 3
+5: iskall85: 3
+6: falsesymmetry: 1
+7: Etho: 1
+8: Mumbo: 1
+9: Stressmonster101: 1
+10: SolidarityGaming: 1
+11: impulseSV: 1
+12: Zedaph: 1
+Total 37

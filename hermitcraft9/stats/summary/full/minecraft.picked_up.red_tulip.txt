@@ -1,0 +1,22 @@
+minecraft.picked_up.red_tulip
+1: ZombieCleo: 1064
+2: Etho: 1052
+3: Mumbo: 72
+4: Welsknight: 44
+5: cubfan135: 41
+6: falsesymmetry: 37
+7: hypnotizd: 19
+8: VintageBeef: 11
+9: joehillssays: 8
+10: PearlescentMoon: 8
+11: BdoubleO100: 5
+12: iJevin: 4
+13: iskall85: 4
+14: GoodTimeWithScar: 4
+15: GeminiTay: 3
+16: Tango: 2
+17: Stressmonster101: 2
+18: Keralis1: 2
+19: Zedaph: 2
+20: Smajor1995: 1
+Total 2385

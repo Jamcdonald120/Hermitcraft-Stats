@@ -1,0 +1,24 @@
+minecraft.crafted.writable_book
+1: Xisuma: 47
+2: Zedaph: 24
+3: Renthedog: 18
+4: PearlescentMoon: 18
+5: cubfan135: 18
+6: impulseSV: 15
+7: Tango: 11
+8: Docm77: 7
+9: hypnotizd: 7
+10: GoodTimeWithScar: 7
+11: iJevin: 6
+12: joehillssays: 6
+13: Welsknight: 5
+14: MumboJumbo: 5
+15: Grian: 3
+16: ZombieCleo: 3
+17: BdoubleO100: 2
+18: falsesymmetry: 2
+19: Keralis1: 2
+20: GeminiTay: 1
+21: iskall85: 1
+22: xBCrafted: 1
+Total 209

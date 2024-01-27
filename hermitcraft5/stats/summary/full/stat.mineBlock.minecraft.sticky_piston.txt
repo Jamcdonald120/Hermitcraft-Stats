@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.sticky_piston
+1: impulseSV: 1041
+2: cubfan135: 969
+3: MumboJumbo: 342
+4: Tango: 197
+5: iskall85: 159
+6: Docm77: 152
+7: Xisuma: 135
+8: Zedaph: 111
+9: xBCrafted: 49
+10: falsesymmetry: 42
+11: Tinfoilchef: 38
+12: Renthedog: 33
+13: GoodTimeWithScar: 33
+14: Etho: 27
+15: Welsknight: 22
+16: iJevin: 19
+17: ZombieCleo: 14
+18: PythonGB: 10
+19: Stressmonster101: 2
+20: BdoubleO100: 1
+Total 3396

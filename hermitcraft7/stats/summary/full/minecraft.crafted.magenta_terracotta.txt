@@ -1,0 +1,14 @@
+minecraft.crafted.magenta_terracotta
+1: falsesymmetry: 2512
+2: Etho: 1848
+3: Welsknight: 984
+4: Stressmonster101: 512
+5: Xisuma: 264
+6: GoodTimeWithScar: 184
+7: VintageBeef: 144
+8: Docm77: 18
+9: BdoubleO100: 16
+10: iskall85: 12
+11: impulseSV: 12
+12: cubfan135: 9
+Total 6515

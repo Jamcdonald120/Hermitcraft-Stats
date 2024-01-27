@@ -1,0 +1,15 @@
+minecraft.picked_up.fern
+1: falsesymmetry: 2672
+2: GoodTimeWithScar: 979
+3: cubfan135: 520
+4: BdoubleO100: 306
+5: Docm77: 207
+6: Grian: 107
+7: Keralis1: 98
+8: Welsknight: 40
+9: iskall85: 35
+10: Renthedog: 29
+11: PythonGB: 18
+12: Xisuma: 16
+13: Zedaph: 12
+Total 5039

@@ -1,0 +1,4 @@
+minecraft.crafted.waxed_weathered_cut_copper_stairs
+1: Renthedog: 26
+2: impulseSV: 6
+Total 32

@@ -1,0 +1,13 @@
+minecraft.dropped.purple_concrete
+1: Tango: 194
+2: cubfan135: 62
+3: iskall85: 40
+4: Etho: 18
+5: Xisuma: 3
+6: Docm77: 2
+7: MumboJumbo: 2
+8: Zedaph: 2
+9: Grian: 1
+10: falsesymmetry: 1
+11: Keralis1: 1
+Total 326

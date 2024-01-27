@@ -1,0 +1,24 @@
+stat.killEntity.Witch
+1: hypnotizd: 50
+2: sl1pg8r: 30
+3: Xisuma: 27
+4: Spumwackles: 24
+5: KingDaddyDMAC: 20
+6: ZombieCleo: 19
+7: iJevin: 18
+8: Mumbo: 11
+9: skyzm: 10
+10: Tango: 10
+11: falsesymmetry: 10
+12: Biffa2001: 9
+13: red3yz: 8
+14: Tinfoilchef: 8
+15: Keralis1: 7
+16: monkeyfarm: 5
+17: zueljin: 4
+18: Pungence: 4
+19: xBCrafted: 2
+20: Jessassin: 1
+21: Unhost: 1
+22: Marriland: 1
+Total 279

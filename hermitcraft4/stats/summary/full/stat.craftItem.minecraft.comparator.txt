@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.comparator
+1: Xisuma: 600
+2: iskall85: 522
+3: MumboJumbo: 463
+4: Tango: 316
+5: cubfan135: 301
+6: Tinfoilchef: 290
+7: impulseSV: 261
+8: PythonGB: 201
+9: Etho: 189
+10: GoodTimeWithScar: 82
+11: falsesymmetry: 65
+12: Renthedog: 21
+13: Mumbo: 11
+14: Docm77: 10
+15: ZombieCleo: 9
+16: VintageBeef: 5
+17: iJevin: 3
+18: Biffa2001: 2
+Total 3351

@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.jukebox
+1: impulseSV: 8
+2: falsesymmetry: 4
+3: iJevin: 2
+4: Xisuma: 1
+5: PythonGB: 1
+6: Tango: 1
+Total 17

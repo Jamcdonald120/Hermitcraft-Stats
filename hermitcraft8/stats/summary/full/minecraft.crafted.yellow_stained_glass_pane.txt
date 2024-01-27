@@ -1,0 +1,6 @@
+minecraft.crafted.yellow_stained_glass_pane
+1: joehillssays: 128
+2: GoodTimeWithScar: 64
+3: impulseSV: 48
+4: cubfan135: 16
+Total 256

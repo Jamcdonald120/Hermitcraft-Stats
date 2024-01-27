@@ -1,0 +1,20 @@
+minecraft.mined.light_gray_bed
+1: BdoubleO100: 1509
+2: PearlescentMoon: 103
+3: Smallishbeans: 40
+4: Etho: 24
+5: joehillssays: 20
+6: Grian: 16
+7: impulseSV: 13
+8: Renthedog: 12
+9: iskall85: 8
+10: ZombieCleo: 4
+11: Keralis1: 4
+12: GoodTimeWithScar: 2
+13: SolidarityGaming: 2
+14: GeminiTay: 1
+15: xBCrafted: 1
+16: falsesymmetry: 1
+17: cubfan135: 1
+18: Stressmonster101: 1
+Total 1762

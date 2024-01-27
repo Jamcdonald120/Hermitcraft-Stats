@@ -1,0 +1,8 @@
+minecraft.picked_up.cracked_nether_bricks
+1: Xisuma: 35
+2: Docm77: 5
+3: cubfan135: 5
+4: Etho: 4
+5: GoodTimeWithScar: 2
+6: ZombieCleo: 1
+Total 52

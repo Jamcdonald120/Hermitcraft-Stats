@@ -1,0 +1,15 @@
+minecraft.dropped.white_dye
+1: PythonGB: 3265
+2: Grian: 282
+3: GoodTimeWithScar: 198
+4: iskall85: 158
+5: BadTimeWithScar: 50
+6: Docm77: 37
+7: Xisuma: 29
+8: MumboJumbo: 29
+9: Renthedog: 8
+10: iJevin: 5
+11: falsesymmetry: 5
+12: Keralis1: 5
+13: joehillssays: 2
+Total 4073

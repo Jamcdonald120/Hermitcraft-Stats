@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.crafting_table
+1: cubfan135: 784
+2: falsesymmetry: 637
+3: Welsknight: 379
+4: Xisuma: 287
+5: Zedaph: 252
+6: xBCrafted: 218
+7: BdoubleO100: 215
+8: Stressmonster101: 198
+9: GoodTimeWithScar: 186
+10: Tango: 149
+11: iskall85: 131
+12: MumboJumbo: 108
+13: impulseSV: 106
+14: VintageBeef: 89
+15: iJevin: 83
+16: joehillssays: 82
+17: Renthedog: 66
+18: PythonGB: 62
+19: Tinfoilchef: 46
+20: Biffa2001: 32
+21: Etho: 24
+22: Docm77: 19
+23: ZombieCleo: 14
+Total 4167

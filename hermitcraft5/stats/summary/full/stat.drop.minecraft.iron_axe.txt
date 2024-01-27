@@ -1,0 +1,14 @@
+stat.drop.minecraft.iron_axe
+1: Tango: 39
+2: Renthedog: 15
+3: GoodTimeWithScar: 6
+4: impulseSV: 3
+5: falsesymmetry: 2
+6: cubfan135: 2
+7: Xisuma: 1
+8: PythonGB: 1
+9: iJevin: 1
+10: iskall85: 1
+11: Welsknight: 1
+12: MumboJumbo: 1
+Total 73

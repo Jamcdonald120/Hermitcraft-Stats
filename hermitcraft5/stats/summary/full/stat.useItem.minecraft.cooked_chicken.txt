@@ -1,0 +1,23 @@
+stat.useItem.minecraft.cooked_chicken
+1: cubfan135: 2120
+2: xBCrafted: 1933
+3: Tango: 1702
+4: PythonGB: 1498
+5: ZombieCleo: 539
+6: impulseSV: 409
+7: Zedaph: 284
+8: Xisuma: 113
+9: joehillssays: 92
+10: falsesymmetry: 91
+11: Tinfoilchef: 66
+12: GoodTimeWithScar: 64
+13: Etho: 63
+14: iskall85: 48
+15: MumboJumbo: 44
+16: Welsknight: 39
+17: Stressmonster101: 32
+18: Docm77: 13
+19: Renthedog: 13
+20: BdoubleO100: 6
+21: VintageBeef: 2
+Total 9171

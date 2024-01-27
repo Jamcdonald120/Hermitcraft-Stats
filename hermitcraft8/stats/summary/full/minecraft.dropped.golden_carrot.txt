@@ -1,0 +1,27 @@
+minecraft.dropped.golden_carrot
+1: Etho: 1030
+2: Grian: 883
+3: iJevin: 700
+4: PearlescentMoon: 517
+5: Zedaph: 442
+6: GoodTimeWithScar: 350
+7: Keralis1: 317
+8: Xisuma: 300
+9: VintageBeef: 269
+10: MumboJumbo: 214
+11: impulseSV: 196
+12: joehillssays: 107
+13: Docm77: 102
+14: Renthedog: 102
+15: Tango: 98
+16: GeminiTay: 87
+17: ZombieCleo: 70
+18: pillbugnine: 37
+19: iskall85: 27
+20: BdoubleO100: 26
+21: xBCrafted: 15
+22: cubfan135: 9
+23: falsesymmetry: 1
+24: Welsknight: 1
+25: Stressmonster101: 1
+Total 5901

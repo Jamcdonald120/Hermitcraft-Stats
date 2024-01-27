@@ -1,0 +1,28 @@
+minecraft.picked_up.raw_copper
+1: cubfan135: 38628
+2: Renthedog: 16132
+3: GoodTimeWithScar: 13416
+4: Grian: 10331
+5: Docm77: 4497
+6: Tango: 3973
+7: PearlescentMoon: 3389
+8: joehillssays: 3360
+9: Etho: 3188
+10: xBCrafted: 3088
+11: Welsknight: 2910
+12: iJevin: 2747
+13: impulseSV: 2612
+14: GeminiTay: 1976
+15: BdoubleO100: 1810
+16: Xisuma: 1795
+17: MumboJumbo: 1732
+18: VintageBeef: 1615
+19: Zedaph: 981
+20: ZombieCleo: 895
+21: falsesymmetry: 892
+22: Tinfoilchef: 863
+23: hypnotizd: 839
+24: iskall85: 622
+25: Stressmonster101: 188
+26: Keralis1: 50
+Total 122529

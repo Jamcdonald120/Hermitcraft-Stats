@@ -1,0 +1,17 @@
+minecraft.killed_by.piglin
+1: GoodTimeWithScar: 19
+2: iJevin: 6
+3: Renthedog: 5
+4: joehillssays: 5
+5: Grian: 3
+6: BdoubleO100: 3
+7: Tango: 2
+8: VintageBeef: 1
+9: Etho: 1
+10: ZombieCleo: 1
+11: hypnotizd: 1
+12: MumboJumbo: 1
+13: Tinfoilchef: 1
+14: Stressmonster101: 1
+15: impulseSV: 1
+Total 51

@@ -1,0 +1,28 @@
+minecraft.picked_up.cobblestone_slab
+1: xBCrafted: 642
+2: Tinfoilchef: 602
+3: hypnotizd: 277
+4: iJevin: 192
+5: impulseSV: 174
+6: Zedaph: 162
+7: MumboJumbo: 106
+8: Xisuma: 105
+9: BdoubleO100: 83
+10: Tango: 68
+11: Keralis1: 64
+12: Renthedog: 60
+13: joehillssays: 30
+14: Welsknight: 23
+15: Docm77: 22
+16: PearlescentMoon: 16
+17: Etho: 16
+18: iskall85: 14
+19: falsesymmetry: 14
+20: VintageBeef: 6
+21: GeminiTay: 5
+22: GoodTimeWithScar: 5
+23: Stressmonster101: 5
+24: EvilXisuma: 3
+25: Grian: 3
+26: ZombieCleo: 1
+Total 2698

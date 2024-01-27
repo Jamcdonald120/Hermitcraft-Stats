@@ -1,0 +1,5 @@
+minecraft.picked_up.flower_banner_pattern
+1: Grian: 3
+2: Zedaph: 2
+3: cubfan135: 1
+Total 6

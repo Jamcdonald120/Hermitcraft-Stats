@@ -1,0 +1,28 @@
+stat.craftItem.minecraft.iron_helmet
+1: falsesymmetry: 55
+2: Tango: 46
+3: Xisuma: 40
+4: xBCrafted: 9
+5: Etho: 9
+6: sl1pg8r: 7
+7: joehillssays: 5
+8: zueljin: 5
+9: ZombieCleo: 5
+10: Docm77: 4
+11: PythonGB: 4
+12: Biffa2001: 4
+13: Tinfoilchef: 4
+14: Spumwackles: 4
+15: Keralis1: 4
+16: impulseSV: 4
+17: KingDaddyDMAC: 3
+18: Mumbo: 3
+19: skyzm: 2
+20: topmass: 2
+21: iJevin: 2
+22: hypnotizd: 2
+23: Pungence: 1
+24: monkeyfarm: 1
+25: NameOfSamuel: 1
+26: Collen: 1
+Total 227

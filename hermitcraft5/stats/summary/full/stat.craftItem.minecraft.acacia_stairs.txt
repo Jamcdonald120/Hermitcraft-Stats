@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.acacia_stairs
+1: Xisuma: 664
+2: cubfan135: 108
+3: PythonGB: 96
+4: MumboJumbo: 40
+5: VintageBeef: 28
+6: joehillssays: 28
+7: iJevin: 4
+Total 968

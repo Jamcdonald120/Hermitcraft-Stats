@@ -1,0 +1,10 @@
+minecraft.picked_up.light_gray_candle
+1: iJevin: 167
+2: GoodTimeWithScar: 63
+3: cubfan135: 43
+4: RentheKing: 5
+5: hypnotizd: 4
+6: PearlescentMoon: 3
+7: Tango: 1
+8: Zedaph: 1
+Total 287

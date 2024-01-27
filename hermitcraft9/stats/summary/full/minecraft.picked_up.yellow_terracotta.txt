@@ -1,0 +1,28 @@
+minecraft.picked_up.yellow_terracotta
+1: VintageBeef: 6088
+2: Renthedog: 3123
+3: PearlescentMoon: 2601
+4: impulseSV: 1682
+5: joehillssays: 1248
+6: Xisuma: 696
+7: hypnotizd: 478
+8: cubfan135: 411
+9: MythicalSausage: 378
+10: Docm77: 364
+11: ZombieCleo: 350
+12: Etho: 273
+13: iJevin: 189
+14: GeminiTay: 171
+15: falsesymmetry: 161
+16: Grian: 93
+17: Smallishbeans: 84
+18: Zedaph: 23
+19: Keralis1: 12
+20: iskall85: 8
+21: Mumbo: 7
+22: RentheKing: 6
+23: OrionSound: 5
+24: Tango: 2
+25: BdoubleO100: 2
+26: Pixlriffs: 1
+Total 18456

@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.book
+1: GoodTimeWithScar: 2638
+2: iskall85: 908
+3: joehillssays: 810
+4: Renthedog: 809
+5: falsesymmetry: 673
+6: cubfan135: 673
+7: Tinfoilchef: 664
+8: impulseSV: 167
+9: Tango: 157
+10: Xisuma: 148
+11: Etho: 128
+12: MumboJumbo: 128
+13: PythonGB: 118
+14: Biffa2001: 109
+15: ZombieCleo: 98
+16: Docm77: 62
+17: Welsknight: 35
+18: VintageBeef: 18
+19: iJevin: 13
+Total 8356

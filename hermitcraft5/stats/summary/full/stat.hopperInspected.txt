@@ -1,0 +1,27 @@
+stat.hopperInspected
+1: MumboJumbo: 4028
+2: cubfan135: 3660
+3: Renthedog: 3585
+4: Tango: 3093
+5: Xisuma: 2943
+6: iskall85: 2641
+7: impulseSV: 2475
+8: Zedaph: 2360
+9: Tinfoilchef: 1914
+10: xBCrafted: 702
+11: Stressmonster101: 622
+12: GoodTimeWithScar: 592
+13: PythonGB: 571
+14: joehillssays: 485
+15: Etho: 485
+16: Docm77: 478
+17: falsesymmetry: 349
+18: Welsknight: 147
+19: BdoubleO100: 90
+20: Biffa2001: 87
+21: iJevin: 50
+22: VintageBeef: 24
+23: xisumavoid: 22
+24: ZombieCleo: 22
+25: TangoCam: 12
+Total 31437

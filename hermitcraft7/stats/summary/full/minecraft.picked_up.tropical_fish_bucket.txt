@@ -1,0 +1,4 @@
+minecraft.picked_up.tropical_fish_bucket
+1: Zedaph: 32
+2: Xisuma: 2
+Total 34

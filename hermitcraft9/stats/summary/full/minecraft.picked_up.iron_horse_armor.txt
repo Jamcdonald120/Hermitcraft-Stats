@@ -1,0 +1,17 @@
+minecraft.picked_up.iron_horse_armor
+1: Zedaph: 12
+2: falsesymmetry: 7
+3: Etho: 7
+4: BdoubleO100: 5
+5: Docm77: 3
+6: iJevin: 3
+7: PearlescentMoon: 3
+8: hypnotizd: 3
+9: Xisuma: 2
+10: GeminiTay: 1
+11: Tango: 1
+12: cubfan135: 1
+13: Welsknight: 1
+14: Stressmonster101: 1
+15: impulseSV: 1
+Total 51

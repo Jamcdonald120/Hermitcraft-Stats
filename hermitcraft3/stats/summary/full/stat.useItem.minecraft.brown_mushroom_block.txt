@@ -1,0 +1,8 @@
+stat.useItem.minecraft.brown_mushroom_block
+1: monkeyfarm: 1264
+2: Xisuma: 114
+3: falsesymmetry: 70
+4: impulseSV: 25
+5: Tango: 24
+6: topmass: 1
+Total 1498

@@ -1,0 +1,25 @@
+stat.useItem.minecraft.log
+1: falsesymmetry: 9120
+2: xBCrafted: 5891
+3: Xisuma: 3940
+4: Mumbo: 2238
+5: Biffa2001: 1194
+6: impulseSV: 1129
+7: sl1pg8r: 1016
+8: Tango: 936
+9: zueljin: 770
+10: topmass: 594
+11: PythonGB: 523
+12: ZombieCleo: 444
+13: Etho: 355
+14: monkeyfarm: 267
+15: Keralis1: 204
+16: iJevin: 170
+17: Spumwackles: 114
+18: joehillssays: 84
+19: KingDaddyDMAC: 82
+20: Tinfoilchef: 59
+21: hypnotizd: 26
+22: Collen: 5
+23: Mrs_Keralis: 2
+Total 29163

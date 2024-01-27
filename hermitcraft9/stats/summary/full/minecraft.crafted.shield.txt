@@ -1,0 +1,24 @@
+minecraft.crafted.shield
+1: RentheKing: 51
+2: cubfan135: 33
+3: ZombieCleo: 23
+4: VintageBeef: 21
+5: Etho: 17
+6: PearlescentMoon: 14
+7: impulseSV: 14
+8: Keralis1: 13
+9: Zedaph: 12
+10: Renthedog: 11
+11: falsesymmetry: 10
+12: iJevin: 8
+13: Grian: 8
+14: Tango: 8
+15: GeminiTay: 7
+16: hypnotizd: 5
+17: Docm77: 3
+18: Xisuma: 3
+19: Pixlriffs: 2
+20: GoodTimeWithScar: 2
+21: BdoubleO100: 1
+22: iskall85: 1
+Total 267

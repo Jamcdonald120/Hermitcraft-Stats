@@ -1,0 +1,15 @@
+minecraft.picked_up.warped_hyphae
+1: VintageBeef: 1894
+2: PearlescentMoon: 675
+3: Grian: 646
+4: Keralis1: 66
+5: Tango: 48
+6: Xisuma: 25
+7: cubfan135: 7
+8: GoodTimeWithScar: 5
+9: Etho: 2
+10: Zedaph: 2
+11: Renthedog: 1
+12: falsesymmetry: 1
+13: ZombieCleo: 1
+Total 3373

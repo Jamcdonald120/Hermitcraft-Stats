@@ -1,0 +1,23 @@
+minecraft.dropped.filled_map
+1: Zedaph: 402
+2: Grian: 137
+3: cubfan135: 117
+4: GoodTimeWithScar: 99
+5: Etho: 53
+6: Keralis1: 43
+7: iJevin: 33
+8: Tango: 33
+9: VintageBeef: 22
+10: xBCrafted: 22
+11: iskall85: 21
+12: falsesymmetry: 15
+13: joehillssays: 14
+14: hypnotizd: 11
+15: ZombieCleo: 9
+16: BdoubleO100: 7
+17: MumboJumbo: 6
+18: Xisuma: 3
+19: impulseSV: 3
+20: Renthedog: 2
+21: Stressmonster101: 1
+Total 1053

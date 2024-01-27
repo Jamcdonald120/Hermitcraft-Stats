@@ -1,0 +1,13 @@
+stat.pickup.minecraft.iron_hoe
+1: Zedaph: 4
+2: impulseSV: 3
+3: Tango: 2
+4: falsesymmetry: 2
+5: Renthedog: 1
+6: iJevin: 1
+7: joehillssays: 1
+8: Welsknight: 1
+9: MumboJumbo: 1
+10: Tinfoilchef: 1
+11: Stressmonster101: 1
+Total 18

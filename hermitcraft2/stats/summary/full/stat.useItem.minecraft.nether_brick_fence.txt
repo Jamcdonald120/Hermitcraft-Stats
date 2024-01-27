@@ -1,0 +1,6 @@
+stat.useItem.minecraft.nether_brick_fence
+1: Spumwackles: 90
+2: falsesymmetry: 64
+3: zueljin: 39
+4: Tango: 28
+Total 221

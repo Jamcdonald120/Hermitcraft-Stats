@@ -1,0 +1,14 @@
+minecraft.picked_up.acacia_fence
+1: PearlescentMoon: 33
+2: Xisuma: 11
+3: Renthedog: 11
+4: impulseSV: 10
+5: Etho: 6
+6: BdoubleO100: 4
+7: RentheKing: 4
+8: Zedaph: 4
+9: Keralis1: 3
+10: Docm77: 1
+11: iJevin: 1
+12: Grian: 1
+Total 89

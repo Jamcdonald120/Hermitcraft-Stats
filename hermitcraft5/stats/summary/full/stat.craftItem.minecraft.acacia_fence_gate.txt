@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.acacia_fence_gate
+1: Xisuma: 3
+2: MumboJumbo: 2
+3: iJevin: 1
+4: cubfan135: 1
+Total 7

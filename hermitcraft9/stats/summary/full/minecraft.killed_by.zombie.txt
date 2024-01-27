@@ -1,0 +1,21 @@
+minecraft.killed_by.zombie
+1: Docm77: 12
+2: GoodTimeWithScar: 11
+3: Renthedog: 8
+4: Zedaph: 7
+5: iJevin: 6
+6: Grian: 6
+7: VintageBeef: 4
+8: joehillssays: 4
+9: Tango: 4
+10: Keralis1: 4
+11: Xisuma: 3
+12: PearlescentMoon: 3
+13: GeminiTay: 2
+14: RentheKing: 2
+15: Stressmonster101: 2
+16: OrionSound: 1
+17: Pixlriffs: 1
+18: Welsknight: 1
+19: impulseSV: 1
+Total 82

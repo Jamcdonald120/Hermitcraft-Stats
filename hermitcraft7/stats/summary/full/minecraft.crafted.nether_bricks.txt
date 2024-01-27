@@ -1,0 +1,23 @@
+minecraft.crafted.nether_bricks
+1: Tango: 9730
+2: falsesymmetry: 9161
+3: Xisuma: 8008
+4: cubfan135: 6496
+5: Renthedog: 5852
+6: GoodTimeWithScar: 3596
+7: Etho: 2429
+8: VintageBeef: 1616
+9: Grian: 1571
+10: joehillssays: 1554
+11: Welsknight: 1248
+12: xBCrafted: 930
+13: impulseSV: 512
+14: iskall85: 234
+15: ZombieCleo: 117
+16: BdoubleO100: 98
+17: hypnotizd: 75
+18: Keralis1: 36
+19: Docm77: 20
+20: MumboJumbo: 7
+21: Zedaph: 6
+Total 53296

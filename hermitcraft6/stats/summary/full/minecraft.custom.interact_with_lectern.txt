@@ -1,0 +1,23 @@
+minecraft.custom.interact_with_lectern
+1: cubfan135: 1072
+2: iskall85: 378
+3: joehillssays: 182
+4: Xisuma: 148
+5: falsesymmetry: 129
+6: impulseSV: 84
+7: MumboJumbo: 76
+8: Renthedog: 73
+9: GoodTimeWithScar: 73
+10: Grian: 72
+11: Keralis1: 60
+12: HumanCleo: 58
+13: PythonGB: 51
+14: Stressmonster101: 48
+15: ZombieCleo: 47
+16: Tinfoilchef: 35
+17: BdoubleO100: 32
+18: Docm77: 30
+19: iJevin: 30
+20: Tango: 16
+21: Zedaph: 1
+Total 2695

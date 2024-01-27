@@ -1,0 +1,23 @@
+minecraft.used.dropper
+1: impulseSV: 1574
+2: iskall85: 1555
+3: Xisuma: 1249
+4: cubfan135: 826
+5: Renthedog: 493
+6: MumboJumbo: 486
+7: GoodTimeWithScar: 215
+8: Tango: 199
+9: iJevin: 173
+10: Docm77: 153
+11: ZombieCleo: 123
+12: Stressmonster101: 114
+13: falsesymmetry: 93
+14: Zedaph: 54
+15: Tinfoilchef: 36
+16: joehillssays: 19
+17: Grian: 12
+18: Keralis1: 7
+19: Welsknight: 4
+20: PythonGB: 3
+21: BdoubleO100: 1
+Total 7389

@@ -1,0 +1,22 @@
+minecraft.dropped.apple
+1: VintageBeef: 326
+2: iskall85: 133
+3: hypnotizd: 129
+4: GoodTimeWithScar: 105
+5: Grian: 75
+6: MumboJumbo: 50
+7: BdoubleO100: 36
+8: iJevin: 33
+9: impulseSV: 19
+10: cubfan135: 15
+11: Tango: 10
+12: Keralis1: 10
+13: Xisuma: 8
+14: joehillssays: 7
+15: Renthedog: 4
+16: GeminiTay: 4
+17: PearlescentMoon: 2
+18: ZombieCleo: 2
+19: Zedaph: 2
+20: Stressmonster101: 1
+Total 971

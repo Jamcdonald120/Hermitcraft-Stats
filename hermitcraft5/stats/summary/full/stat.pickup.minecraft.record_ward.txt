@@ -1,0 +1,5 @@
+stat.pickup.minecraft.record_ward
+1: Xisuma: 5
+2: iskall85: 2
+3: cubfan135: 2
+Total 9

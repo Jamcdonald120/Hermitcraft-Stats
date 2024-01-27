@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.glowstone
+1: falsesymmetry: 2863
+2: Xisuma: 2632
+3: impulseSV: 2050
+4: Tango: 1956
+5: Tinfoilchef: 1279
+6: hypnotizd: 968
+7: Mumbo: 928
+8: joehillssays: 562
+9: iJevin: 475
+10: zueljin: 419
+11: PythonGB: 262
+12: topmass: 257
+13: Docm77: 256
+14: KingDaddyDMAC: 227
+15: ZombieCleo: 224
+16: sl1pg8r: 96
+17: Etho: 96
+18: xBCrafted: 55
+19: monkeyfarm: 2
+Total 15607

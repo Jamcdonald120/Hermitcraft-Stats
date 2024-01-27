@@ -1,0 +1,14 @@
+minecraft.dropped.stone_hoe
+1: Grian: 12
+2: Xisuma: 4
+3: Zedaph: 4
+4: GoodTimeWithScar: 3
+5: iskall85: 2
+6: Etho: 2
+7: Renthedog: 1
+8: GeminiTay: 1
+9: xBCrafted: 1
+10: ZombieCleo: 1
+11: hypnotizd: 1
+12: MumboJumbo: 1
+Total 33

@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.stained_glass
+1: Xisuma: 556
+2: ZombieCleo: 181
+3: monkeyfarm: 96
+4: KingDaddyDMAC: 31
+5: zueljin: 19
+6: xBCrafted: 19
+7: Tango: 15
+8: sl1pg8r: 5
+9: Collen: 4
+10: falsesymmetry: 3
+11: Biffa2001: 1
+12: Mumbo: 1
+13: Cleophas: 1
+Total 932

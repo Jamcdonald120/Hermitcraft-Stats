@@ -1,0 +1,14 @@
+minecraft.dropped.crimson_stem
+1: Tango: 1195
+2: Zedaph: 1086
+3: GoodTimeWithScar: 318
+4: Etho: 287
+5: Renthedog: 142
+6: cubfan135: 116
+7: impulseSV: 37
+8: Grian: 36
+9: iskall85: 12
+10: joehillssays: 8
+11: VintageBeef: 7
+12: BdoubleO100: 5
+Total 3249

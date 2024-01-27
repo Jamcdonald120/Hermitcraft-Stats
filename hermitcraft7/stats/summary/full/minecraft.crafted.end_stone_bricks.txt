@@ -1,0 +1,10 @@
+minecraft.crafted.end_stone_bricks
+1: iJevin: 33012
+2: Keralis1: 2556
+3: cubfan135: 1300
+4: impulseSV: 624
+5: Tango: 320
+6: falsesymmetry: 164
+7: Etho: 148
+8: Xisuma: 4
+Total 38128

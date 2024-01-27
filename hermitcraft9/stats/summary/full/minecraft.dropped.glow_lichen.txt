@@ -1,0 +1,18 @@
+minecraft.dropped.glow_lichen
+1: Tango: 649
+2: cubfan135: 265
+3: falsesymmetry: 175
+4: BdoubleO100: 128
+5: iJevin: 95
+6: impulseSV: 67
+7: GeminiTay: 26
+8: Zedaph: 17
+9: PearlescentMoon: 10
+10: Xisuma: 4
+11: Renthedog: 3
+12: GoodTimeWithScar: 3
+13: Keralis1: 3
+14: iskall85: 2
+15: Etho: 2
+16: VintageBeef: 1
+Total 1450

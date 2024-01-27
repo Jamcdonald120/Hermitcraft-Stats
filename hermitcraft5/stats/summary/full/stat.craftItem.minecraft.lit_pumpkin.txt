@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.lit_pumpkin
+1: Tango: 3903
+2: cubfan135: 1538
+3: MumboJumbo: 1136
+4: xBCrafted: 272
+5: joehillssays: 268
+6: Xisuma: 159
+7: Tinfoilchef: 137
+8: Zedaph: 50
+9: ZombieCleo: 40
+10: impulseSV: 36
+11: iskall85: 28
+12: Docm77: 26
+13: iJevin: 21
+14: falsesymmetry: 10
+15: VintageBeef: 2
+16: Stressmonster101: 2
+17: BdoubleO100: 1
+18: Welsknight: 1
+Total 7630

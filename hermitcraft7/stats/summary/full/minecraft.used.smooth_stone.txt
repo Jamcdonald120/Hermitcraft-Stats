@@ -1,0 +1,26 @@
+minecraft.used.smooth_stone
+1: Keralis1: 51898
+2: impulseSV: 30635
+3: Xisuma: 18637
+4: MumboJumbo: 12188
+5: xBCrafted: 4523
+6: VintageBeef: 3552
+7: joehillssays: 2955
+8: hypnotizd: 2801
+9: iskall85: 2289
+10: Grian: 2264
+11: GoodTimeWithScar: 2206
+12: cubfan135: 1869
+13: BdoubleO100: 1559
+14: Docm77: 480
+15: falsesymmetry: 419
+16: Renthedog: 173
+17: ZombieCleo: 166
+18: Tango: 161
+19: Etho: 61
+20: iJevin: 36
+21: Zedaph: 24
+22: Stressmonster101: 4
+23: Welsknight: 1
+24: Tinfoilchef: 1
+Total 138902

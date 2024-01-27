@@ -1,0 +1,11 @@
+minecraft.picked_up.netherite_chestplate
+1: xBCrafted: 10
+2: ZombieCleo: 8
+3: Zedaph: 3
+4: Xisuma: 2
+5: iJevin: 2
+6: PearlescentMoon: 2
+7: Tango: 1
+8: cubfan135: 1
+9: RentheKing: 1
+Total 30

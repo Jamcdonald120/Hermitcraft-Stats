@@ -1,0 +1,11 @@
+minecraft.crafted.smithing_table
+1: GoodTimeWithScar: 678
+2: cubfan135: 606
+3: Xisuma: 308
+4: impulseSV: 213
+5: Tango: 64
+6: iskall85: 50
+7: ZombieCleo: 49
+8: BdoubleO100: 1
+9: Stressmonster101: 1
+Total 1970

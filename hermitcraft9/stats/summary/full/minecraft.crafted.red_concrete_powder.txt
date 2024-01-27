@@ -1,0 +1,23 @@
+minecraft.crafted.red_concrete_powder
+1: Keralis1: 12800
+2: Grian: 4712
+3: iJevin: 3136
+4: Docm77: 2136
+5: RentheKing: 2048
+6: Renthedog: 1744
+7: impulseSV: 1288
+8: Etho: 1280
+9: Mumbo: 1280
+10: GoodTimeWithScar: 1032
+11: PearlescentMoon: 720
+12: Tango: 512
+13: xBCrafted: 456
+14: cubfan135: 384
+15: falsesymmetry: 296
+16: joehillssays: 280
+17: VintageBeef: 264
+18: Xisuma: 208
+19: BdoubleO100: 56
+20: ZombieCleo: 8
+21: Zedaph: 8
+Total 34648

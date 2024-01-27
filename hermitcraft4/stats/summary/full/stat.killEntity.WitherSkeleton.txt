@@ -1,0 +1,11 @@
+stat.killEntity.WitherSkeleton
+1: impulseSV: 1530
+2: iskall85: 207
+3: cubfan135: 197
+4: Tango: 73
+5: falsesymmetry: 17
+6: Xisuma: 7
+7: Renthedog: 6
+8: Welsknight: 3
+9: joehillssays: 1
+Total 2041

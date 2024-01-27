@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.quartz_block
+1: Renthedog: 3886
+2: VintageBeef: 1715
+3: iskall85: 1164
+4: impulseSV: 1083
+5: GoodTimeWithScar: 1077
+6: falsesymmetry: 1009
+7: cubfan135: 946
+8: joehillssays: 542
+9: Welsknight: 431
+10: Tango: 292
+11: Xisuma: 211
+12: MumboJumbo: 87
+13: Mumbo: 36
+14: Tinfoilchef: 30
+15: PythonGB: 21
+16: Biffa2001: 19
+17: ZombieCleo: 18
+18: Etho: 12
+19: Docm77: 9
+20: zueljin: 4
+21: iJevin: 3
+Total 12595

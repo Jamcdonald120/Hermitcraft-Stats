@@ -1,0 +1,12 @@
+minecraft.killed.elder_guardian
+1: iJevin: 27
+2: Etho: 9
+3: Xisuma: 6
+4: xBCrafted: 6
+5: impulseSV: 6
+6: Renthedog: 3
+7: Tango: 3
+8: falsesymmetry: 3
+9: hypnotizd: 3
+10: GoodTimeWithScar: 3
+Total 69

@@ -1,0 +1,6 @@
+stat.useItem.minecraft.map
+1: GoodTimeWithScar: 30
+2: cubfan135: 11
+3: Renthedog: 7
+4: Xisuma: 3
+Total 51

@@ -1,0 +1,25 @@
+minecraft.crafted.lapis_lazuli
+1: GoodTimeWithScar: 8163
+2: Xisuma: 6734
+3: cubfan135: 6222
+4: iskall85: 4652
+5: Renthedog: 3505
+6: falsesymmetry: 2080
+7: iJevin: 1810
+8: Zedaph: 1692
+9: PythonGB: 1341
+10: Grian: 1325
+11: joehillssays: 981
+12: Welsknight: 612
+13: impulseSV: 599
+14: Tango: 549
+15: Stressmonster101: 541
+16: Tinfoilchef: 451
+17: MumboJumbo: 317
+18: ZombieCleo: 216
+19: Biffa2001: 207
+20: BdoubleO100: 108
+21: xBCrafted: 99
+22: Docm77: 18
+23: HumanCleo: 9
+Total 42231

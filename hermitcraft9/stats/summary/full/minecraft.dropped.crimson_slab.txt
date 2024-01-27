@@ -1,0 +1,16 @@
+minecraft.dropped.crimson_slab
+1: Tango: 103
+2: Grian: 92
+3: Renthedog: 73
+4: iJevin: 69
+5: impulseSV: 64
+6: falsesymmetry: 63
+7: Etho: 34
+8: joehillssays: 8
+9: GoodTimeWithScar: 7
+10: Zedaph: 5
+11: Xisuma: 2
+12: cubfan135: 2
+13: ZombieCleo: 1
+14: hypnotizd: 1
+Total 524

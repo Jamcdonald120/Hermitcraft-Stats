@@ -1,0 +1,27 @@
+minecraft.used.spruce_log
+1: Renthedog: 10833
+2: cubfan135: 4870
+3: GoodTimeWithScar: 4446
+4: Xisuma: 4187
+5: Stressmonster101: 2863
+6: Welsknight: 2671
+7: Grian: 1411
+8: iJevin: 1151
+9: falsesymmetry: 1081
+10: joehillssays: 878
+11: Tango: 842
+12: Docm77: 803
+13: BdoubleO100: 761
+14: ZombieCleo: 731
+15: impulseSV: 712
+16: PythonGB: 572
+17: HumanCleo: 240
+18: iskall85: 219
+19: MumboJumbo: 173
+20: xBCrafted: 152
+21: Tinfoilchef: 117
+22: Keralis1: 97
+23: Jessassin: 24
+24: Zedaph: 11
+25: Biffa2001: 7
+Total 39852

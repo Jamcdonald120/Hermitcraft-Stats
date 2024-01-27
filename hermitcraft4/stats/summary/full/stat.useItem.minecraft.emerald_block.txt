@@ -1,0 +1,6 @@
+stat.useItem.minecraft.emerald_block
+1: MumboJumbo: 1347
+2: cubfan135: 88
+3: Tango: 44
+4: impulseSV: 38
+Total 1517

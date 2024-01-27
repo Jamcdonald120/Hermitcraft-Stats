@@ -1,0 +1,6 @@
+stat.useItem.minecraft.vine
+1: zueljin: 90
+2: sl1pg8r: 35
+3: falsesymmetry: 7
+4: ZombieCleo: 6
+Total 138

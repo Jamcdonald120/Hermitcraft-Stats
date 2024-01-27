@@ -1,0 +1,6 @@
+minecraft.dropped.red_sandstone_slab
+1: cubfan135: 64
+2: Docm77: 49
+3: GoodTimeWithScar: 8
+4: Grian: 7
+Total 128

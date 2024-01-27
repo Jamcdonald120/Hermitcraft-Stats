@@ -1,0 +1,15 @@
+minecraft.crafted.golden_leggings
+1: impulseSV: 25
+2: Xisuma: 23
+3: VintageBeef: 10
+4: joehillssays: 9
+5: cubfan135: 8
+6: Tango: 7
+7: BdoubleO100: 2
+8: iskall85: 2
+9: Welsknight: 2
+10: ZombieCleo: 2
+11: GoodTimeWithScar: 2
+12: Renthedog: 1
+13: Zedaph: 1
+Total 94

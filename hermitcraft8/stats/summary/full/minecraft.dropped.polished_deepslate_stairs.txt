@@ -1,0 +1,6 @@
+minecraft.dropped.polished_deepslate_stairs
+1: GoodTimeWithScar: 127
+2: Grian: 21
+3: falsesymmetry: 2
+4: Renthedog: 1
+Total 151

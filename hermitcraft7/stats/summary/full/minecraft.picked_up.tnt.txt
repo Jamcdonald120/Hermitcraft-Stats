@@ -1,0 +1,24 @@
+minecraft.picked_up.tnt
+1: impulseSV: 8464
+2: Tango: 5171
+3: MumboJumbo: 1160
+4: BdoubleO100: 1130
+5: Grian: 699
+6: iJevin: 604
+7: cubfan135: 471
+8: GoodTimeWithScar: 459
+9: Etho: 439
+10: Zedaph: 422
+11: Renthedog: 337
+12: iskall85: 156
+13: VintageBeef: 121
+14: falsesymmetry: 108
+15: Xisuma: 88
+16: Keralis1: 78
+17: hypnotizd: 70
+18: Docm77: 52
+19: joehillssays: 45
+20: xBCrafted: 28
+21: Stressmonster101: 11
+22: ZombieCleo: 3
+Total 20116

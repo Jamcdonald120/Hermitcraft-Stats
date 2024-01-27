@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.packed_ice
+1: Tango: 40
+2: sl1pg8r: 11
+3: Mumbo: 3
+Total 54

@@ -1,0 +1,18 @@
+stat.pickup.minecraft.lapis_block
+1: cubfan135: 128
+2: Xisuma: 58
+3: impulseSV: 54
+4: Renthedog: 52
+5: PythonGB: 47
+6: Stressmonster101: 45
+7: falsesymmetry: 41
+8: Zedaph: 33
+9: GoodTimeWithScar: 21
+10: iskall85: 17
+11: Tinfoilchef: 17
+12: Etho: 11
+13: joehillssays: 1
+14: xBCrafted: 1
+15: Welsknight: 1
+16: Biffa2001: 1
+Total 528

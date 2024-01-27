@@ -1,0 +1,13 @@
+minecraft.picked_up.dried_kelp
+1: Grian: 4143
+2: GeminiTay: 192
+3: Xisuma: 55
+4: Mumbo: 9
+5: MumboJumbo: 9
+6: impulseSV: 8
+7: joehillssays: 7
+8: ZombieCleo: 7
+9: GoodTimeWithScar: 7
+10: falsesymmetry: 5
+11: Zedaph: 4
+Total 4446

@@ -1,0 +1,24 @@
+minecraft.picked_up.warped_nylium
+1: cubfan135: 2372
+2: xBCrafted: 1420
+3: Etho: 1209
+4: Renthedog: 719
+5: iJevin: 627
+6: falsesymmetry: 592
+7: Zedaph: 289
+8: VintageBeef: 279
+9: Xisuma: 269
+10: iskall85: 241
+11: joehillssays: 190
+12: Grian: 145
+13: Tango: 132
+14: ZombieCleo: 112
+15: Welsknight: 68
+16: BdoubleO100: 62
+17: impulseSV: 49
+18: Stressmonster101: 33
+19: hypnotizd: 25
+20: Keralis1: 13
+21: GoodTimeWithScar: 12
+22: MumboJumbo: 4
+Total 8862

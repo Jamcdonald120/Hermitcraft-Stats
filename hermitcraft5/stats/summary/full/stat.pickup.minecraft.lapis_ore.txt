@@ -1,0 +1,23 @@
+stat.pickup.minecraft.lapis_ore
+1: falsesymmetry: 317
+2: iJevin: 166
+3: MumboJumbo: 165
+4: cubfan135: 138
+5: impulseSV: 138
+6: Zedaph: 130
+7: Tango: 125
+8: PythonGB: 110
+9: GoodTimeWithScar: 85
+10: Xisuma: 77
+11: Stressmonster101: 60
+12: Renthedog: 57
+13: Biffa2001: 55
+14: VintageBeef: 41
+15: xBCrafted: 41
+16: Welsknight: 33
+17: joehillssays: 29
+18: Etho: 10
+19: Docm77: 4
+20: iskall85: 4
+21: ZombieCleo: 4
+Total 1789

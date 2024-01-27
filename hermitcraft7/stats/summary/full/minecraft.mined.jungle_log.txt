@@ -1,0 +1,24 @@
+minecraft.mined.jungle_log
+1: GoodTimeWithScar: 21704
+2: Xisuma: 20611
+3: Etho: 16596
+4: Renthedog: 16250
+5: Grian: 10141
+6: MumboJumbo: 8804
+7: joehillssays: 8260
+8: cubfan135: 7587
+9: Stressmonster101: 6202
+10: Tango: 5273
+11: VintageBeef: 3611
+12: BdoubleO100: 2397
+13: iskall85: 1480
+14: hypnotizd: 1434
+15: Keralis1: 342
+16: falsesymmetry: 322
+17: Docm77: 271
+18: impulseSV: 145
+19: Zedaph: 99
+20: iJevin: 24
+21: ZombieCleo: 22
+22: xBCrafted: 1
+Total 131576

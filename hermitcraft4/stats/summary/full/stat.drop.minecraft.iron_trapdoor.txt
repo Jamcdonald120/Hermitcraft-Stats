@@ -1,0 +1,5 @@
+stat.drop.minecraft.iron_trapdoor
+1: falsesymmetry: 12
+2: Xisuma: 6
+3: Tango: 3
+Total 21

@@ -1,0 +1,24 @@
+minecraft.used.barrel
+1: GoodTimeWithScar: 834
+2: BdoubleO100: 479
+3: Xisuma: 434
+4: iskall85: 341
+5: falsesymmetry: 321
+6: Keralis1: 233
+7: Renthedog: 231
+8: cubfan135: 226
+9: Grian: 207
+10: ZombieCleo: 191
+11: MumboJumbo: 132
+12: Tango: 67
+13: joehillssays: 66
+14: Welsknight: 41
+15: Stressmonster101: 35
+16: impulseSV: 31
+17: Docm77: 12
+18: HumanCleo: 11
+19: PythonGB: 5
+20: Zedaph: 2
+21: iJevin: 1
+22: Tinfoilchef: 1
+Total 3901

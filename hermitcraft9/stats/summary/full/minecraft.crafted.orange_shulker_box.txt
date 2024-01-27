@@ -1,0 +1,23 @@
+minecraft.crafted.orange_shulker_box
+1: Xisuma: 50
+2: joehillssays: 30
+3: PearlescentMoon: 26
+4: iskall85: 19
+5: GoodTimeWithScar: 11
+6: Renthedog: 9
+7: Tango: 8
+8: cubfan135: 8
+9: Etho: 5
+10: VintageBeef: 4
+11: Grian: 4
+12: falsesymmetry: 4
+13: hypnotizd: 3
+14: Docm77: 2
+15: Mumbo: 2
+16: impulseSV: 2
+17: BdoubleO100: 1
+18: Pixlriffs: 1
+19: xBCrafted: 1
+20: ZombieCleo: 1
+21: Zedaph: 1
+Total 192

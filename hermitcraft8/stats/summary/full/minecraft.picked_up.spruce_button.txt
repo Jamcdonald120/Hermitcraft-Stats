@@ -1,0 +1,20 @@
+minecraft.picked_up.spruce_button
+1: Xisuma: 132
+2: Grian: 78
+3: cubfan135: 19
+4: iskall85: 15
+5: BdoubleO100: 12
+6: GeminiTay: 10
+7: Welsknight: 6
+8: GoodTimeWithScar: 5
+9: impulseSV: 5
+10: Docm77: 4
+11: Tango: 4
+12: xBCrafted: 4
+13: Etho: 3
+14: joehillssays: 2
+15: PearlescentMoon: 2
+16: MumboJumbo: 2
+17: falsesymmetry: 1
+18: Stressmonster101: 1
+Total 305

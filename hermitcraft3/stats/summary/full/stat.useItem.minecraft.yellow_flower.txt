@@ -1,0 +1,9 @@
+stat.useItem.minecraft.yellow_flower
+1: falsesymmetry: 74
+2: Xisuma: 37
+3: xBCrafted: 14
+4: topmass: 3
+5: sl1pg8r: 1
+6: Tango: 1
+7: Biffa2001: 1
+Total 131

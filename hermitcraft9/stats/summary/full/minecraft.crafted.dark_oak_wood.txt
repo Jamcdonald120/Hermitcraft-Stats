@@ -1,0 +1,22 @@
+minecraft.crafted.dark_oak_wood
+1: Keralis1: 3732
+2: Etho: 822
+3: cubfan135: 753
+4: Renthedog: 747
+5: Docm77: 375
+6: Grian: 216
+7: Tango: 195
+8: GeminiTay: 177
+9: MythicalSausage: 144
+10: ZombieCleo: 108
+11: falsesymmetry: 102
+12: GoodTimeWithScar: 75
+13: Stressmonster101: 63
+14: BdoubleO100: 45
+15: RentheKing: 27
+16: Xisuma: 18
+17: iskall85: 15
+18: PearlescentMoon: 6
+19: impulseSV: 3
+20: Zedaph: 3
+Total 7626

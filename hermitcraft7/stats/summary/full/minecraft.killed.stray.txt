@@ -1,0 +1,9 @@
+minecraft.killed.stray
+1: GoodTimeWithScar: 29
+2: Etho: 18
+3: impulseSV: 10
+4: cubfan135: 8
+5: Grian: 4
+6: falsesymmetry: 3
+7: ZombieCleo: 1
+Total 73

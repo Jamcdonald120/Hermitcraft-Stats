@@ -1,0 +1,5 @@
+minecraft.dropped.fire_coral_block
+1: cubfan135: 6
+2: Docm77: 5
+3: Grian: 2
+Total 13

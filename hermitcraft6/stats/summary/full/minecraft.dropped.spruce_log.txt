@@ -1,0 +1,23 @@
+minecraft.dropped.spruce_log
+1: Renthedog: 3738
+2: GoodTimeWithScar: 678
+3: cubfan135: 656
+4: Grian: 433
+5: impulseSV: 319
+6: Biffa2001: 173
+7: iJevin: 149
+8: Stressmonster101: 148
+9: Xisuma: 137
+10: Tango: 111
+11: iskall85: 109
+12: HumanCleo: 91
+13: joehillssays: 89
+14: falsesymmetry: 75
+15: Docm77: 48
+16: Welsknight: 34
+17: BdoubleO100: 27
+18: Keralis1: 17
+19: ZombieCleo: 16
+20: MumboJumbo: 7
+21: PythonGB: 4
+Total 7059

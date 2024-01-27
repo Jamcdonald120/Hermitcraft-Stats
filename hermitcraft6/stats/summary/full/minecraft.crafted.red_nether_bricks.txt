@@ -1,0 +1,10 @@
+minecraft.crafted.red_nether_bricks
+1: Renthedog: 12146
+2: Tango: 3391
+3: Xisuma: 1653
+4: cubfan135: 1622
+5: impulseSV: 938
+6: falsesymmetry: 155
+7: Zedaph: 64
+8: joehillssays: 56
+Total 20025

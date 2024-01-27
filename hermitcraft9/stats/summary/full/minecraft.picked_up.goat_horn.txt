@@ -1,0 +1,30 @@
+minecraft.picked_up.goat_horn
+1: cubfan135: 70
+2: GoodTimeWithScar: 51
+3: Tango: 25
+4: Grian: 21
+5: PearlescentMoon: 16
+6: OrionSound: 14
+7: Keralis1: 14
+8: Docm77: 8
+9: ZombieCleo: 8
+10: MythicalSausage: 7
+11: BdoubleO100: 7
+12: iJevin: 6
+13: joehillssays: 6
+14: InTheLittleWood: 5
+15: hypnotizd: 4
+16: Renthedog: 3
+17: xBCrafted: 3
+18: HBomb94: 3
+19: Zedaph: 3
+20: Smajor1995: 2
+21: Pixlriffs: 2
+22: Etho: 2
+23: RentheKing: 2
+24: VintageBeef: 1
+25: GeminiTay: 1
+26: Smallishbeans: 1
+27: ShubbleYT: 1
+28: impulseSV: 1
+Total 287

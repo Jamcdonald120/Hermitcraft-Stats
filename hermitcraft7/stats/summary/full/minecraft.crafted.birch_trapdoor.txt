@@ -1,0 +1,24 @@
+minecraft.crafted.birch_trapdoor
+1: Keralis1: 2738
+2: hypnotizd: 2562
+3: Etho: 906
+4: BdoubleO100: 834
+5: Tango: 334
+6: impulseSV: 230
+7: ZombieCleo: 190
+8: cubfan135: 168
+9: VintageBeef: 136
+10: Grian: 136
+11: iJevin: 132
+12: Xisuma: 94
+13: iskall85: 52
+14: GoodTimeWithScar: 50
+15: xBCrafted: 40
+16: Stressmonster101: 36
+17: Renthedog: 22
+18: Welsknight: 12
+19: Docm77: 10
+20: MumboJumbo: 10
+21: joehillssays: 2
+22: falsesymmetry: 2
+Total 8696

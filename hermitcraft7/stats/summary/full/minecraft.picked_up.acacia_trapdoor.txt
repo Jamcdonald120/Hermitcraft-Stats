@@ -1,0 +1,19 @@
+minecraft.picked_up.acacia_trapdoor
+1: Renthedog: 602
+2: Etho: 457
+3: GoodTimeWithScar: 203
+4: VintageBeef: 148
+5: Xisuma: 143
+6: Keralis1: 125
+7: BdoubleO100: 106
+8: xBCrafted: 83
+9: Tango: 78
+10: joehillssays: 76
+11: iskall85: 72
+12: cubfan135: 53
+13: falsesymmetry: 46
+14: Grian: 13
+15: hypnotizd: 11
+16: impulseSV: 6
+17: Zedaph: 6
+Total 2228

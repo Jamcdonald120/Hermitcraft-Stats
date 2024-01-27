@@ -1,0 +1,21 @@
+stat.pickup.minecraft.tallgrass
+1: GoodTimeWithScar: 3863
+2: Stressmonster101: 1902
+3: falsesymmetry: 1562
+4: cubfan135: 1219
+5: Xisuma: 1033
+6: BdoubleO100: 171
+7: Docm77: 125
+8: Welsknight: 92
+9: PythonGB: 42
+10: VintageBeef: 27
+11: joehillssays: 26
+12: Zedaph: 24
+13: Renthedog: 20
+14: xBCrafted: 12
+15: iskall85: 10
+16: Tango: 8
+17: impulseSV: 7
+18: MumboJumbo: 3
+19: Tinfoilchef: 2
+Total 10148

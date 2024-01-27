@@ -1,0 +1,3 @@
+minecraft.picked_up.yellow_banner
+1: impulseSV: 10
+Total 10

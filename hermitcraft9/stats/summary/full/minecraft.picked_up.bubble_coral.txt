@@ -1,0 +1,19 @@
+minecraft.picked_up.bubble_coral
+1: GoodTimeWithScar: 185
+2: iJevin: 55
+3: ZombieCleo: 50
+4: joehillssays: 33
+5: PearlescentMoon: 17
+6: Keralis1: 14
+7: Xisuma: 6
+8: impulseSV: 5
+9: VintageBeef: 4
+10: Renthedog: 3
+11: Docm77: 2
+12: falsesymmetry: 2
+13: cubfan135: 2
+14: Zedaph: 2
+15: GeminiTay: 1
+16: Grian: 1
+17: xBCrafted: 1
+Total 383

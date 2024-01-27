@@ -1,0 +1,12 @@
+minecraft.picked_up.prismarine_shard
+1: Zedaph: 36825
+2: iskall85: 32455
+3: Etho: 266
+4: Xisuma: 45
+5: Welsknight: 18
+6: iJevin: 17
+7: Grian: 3
+8: joehillssays: 1
+9: xBCrafted: 1
+10: cubfan135: 1
+Total 69632

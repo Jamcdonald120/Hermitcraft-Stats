@@ -1,0 +1,23 @@
+minecraft.dropped.apple
+1: Renthedog: 505
+2: iskall85: 225
+3: Zedaph: 222
+4: Keralis1: 188
+5: Grian: 134
+6: Etho: 66
+7: GoodTimeWithScar: 46
+8: cubfan135: 27
+9: MumboJumbo: 24
+10: Stressmonster101: 18
+11: Xisuma: 15
+12: BdoubleO100: 13
+13: Tango: 12
+14: falsesymmetry: 9
+15: xBCrafted: 6
+16: VintageBeef: 5
+17: Docm77: 3
+18: impulseSV: 3
+19: iJevin: 1
+20: Welsknight: 1
+21: ZombieCleo: 1
+Total 1524

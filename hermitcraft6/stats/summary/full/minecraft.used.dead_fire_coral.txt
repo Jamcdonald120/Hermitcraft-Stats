@@ -1,0 +1,5 @@
+minecraft.used.dead_fire_coral
+1: GoodTimeWithScar: 12
+2: Renthedog: 5
+3: falsesymmetry: 2
+Total 19

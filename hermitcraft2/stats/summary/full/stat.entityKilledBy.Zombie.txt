@@ -1,0 +1,16 @@
+stat.entityKilledBy.Zombie
+1: iJevin: 7
+2: Spumwackles: 6
+3: KingDaddyDMAC: 5
+4: red3yz: 4
+5: sl1pg8r: 3
+6: skyzm: 3
+7: Keralis1: 3
+8: HttpsSecure: 2
+9: Xisuma: 1
+10: topmass: 1
+11: ZombieCleo: 1
+12: Mumbo: 1
+13: Tinfoilchef: 1
+14: monkeyfarm: 1
+Total 39

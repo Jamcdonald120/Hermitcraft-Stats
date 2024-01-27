@@ -1,0 +1,21 @@
+minecraft.crafted.polished_andesite
+1: GoodTimeWithScar: 4068
+2: cubfan135: 1500
+3: MumboJumbo: 1072
+4: Tango: 968
+5: impulseSV: 832
+6: iskall85: 464
+7: Grian: 456
+8: Xisuma: 376
+9: PearlescentMoon: 352
+10: Tinfoilchef: 288
+11: falsesymmetry: 192
+12: Welsknight: 192
+13: Etho: 192
+14: GeminiTay: 140
+15: Renthedog: 128
+16: xBCrafted: 88
+17: Stressmonster101: 80
+18: ZombieCleo: 32
+19: iJevin: 4
+Total 11424

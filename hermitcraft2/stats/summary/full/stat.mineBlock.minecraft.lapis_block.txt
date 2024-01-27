@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.lapis_block
+1: sl1pg8r: 16
+2: zueljin: 9
+3: ZombieCleo: 2
+4: Mumbo: 2
+5: Xisuma: 1
+Total 30

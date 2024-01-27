@@ -1,0 +1,23 @@
+stat.pickup.minecraft.stone_stairs
+1: Welsknight: 1347
+2: GoodTimeWithScar: 770
+3: Renthedog: 572
+4: PythonGB: 498
+5: falsesymmetry: 458
+6: iskall85: 405
+7: iJevin: 369
+8: Xisuma: 336
+9: VintageBeef: 218
+10: joehillssays: 180
+11: cubfan135: 153
+12: Jessassin: 145
+13: impulseSV: 125
+14: Biffa2001: 82
+15: Tango: 66
+16: ZombieCleo: 50
+17: Tinfoilchef: 43
+18: Mumbo: 7
+19: xBCrafted: 6
+20: Etho: 2
+21: MumboJumbo: 1
+Total 5833

@@ -1,0 +1,23 @@
+minecraft.picked_up.podzol
+1: Xisuma: 2247
+2: VintageBeef: 777
+3: Renthedog: 438
+4: GoodTimeWithScar: 366
+5: PearlescentMoon: 353
+6: BdoubleO100: 319
+7: hypnotizd: 316
+8: impulseSV: 270
+9: falsesymmetry: 250
+10: Etho: 187
+11: Welsknight: 120
+12: Grian: 113
+13: cubfan135: 109
+14: iskall85: 50
+15: ZombieCleo: 25
+16: Keralis1: 24
+17: Zedaph: 21
+18: GeminiTay: 6
+19: pillbugnine: 2
+20: Docm77: 1
+21: iJevin: 1
+Total 5995

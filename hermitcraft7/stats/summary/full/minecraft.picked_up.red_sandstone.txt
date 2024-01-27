@@ -1,0 +1,13 @@
+minecraft.picked_up.red_sandstone
+1: VintageBeef: 368
+2: Renthedog: 49
+3: cubfan135: 44
+4: joehillssays: 8
+5: Keralis1: 6
+6: iJevin: 5
+7: GoodTimeWithScar: 4
+8: Etho: 3
+9: Tango: 2
+10: Zedaph: 2
+11: falsesymmetry: 1
+Total 492

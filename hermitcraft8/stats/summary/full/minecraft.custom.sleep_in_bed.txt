@@ -1,0 +1,29 @@
+minecraft.custom.sleep_in_bed
+1: cubfan135: 1569
+2: joehillssays: 1533
+3: BdoubleO100: 1466
+4: Docm77: 912
+5: impulseSV: 865
+6: Xisuma: 861
+7: GoodTimeWithScar: 845
+8: Renthedog: 785
+9: PearlescentMoon: 700
+10: Tango: 676
+11: GeminiTay: 589
+12: Welsknight: 568
+13: Etho: 521
+14: iJevin: 507
+15: MumboJumbo: 456
+16: Grian: 403
+17: ZombieCleo: 397
+18: xBCrafted: 368
+19: Keralis1: 364
+20: Zedaph: 319
+21: hypnotizd: 313
+22: falsesymmetry: 297
+23: Stressmonster101: 224
+24: iskall85: 185
+25: VintageBeef: 92
+26: Tinfoilchef: 23
+27: EvilXisuma: 13
+Total 15851

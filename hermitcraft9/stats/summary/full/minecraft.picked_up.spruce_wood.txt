@@ -1,0 +1,23 @@
+minecraft.picked_up.spruce_wood
+1: GeminiTay: 593
+2: Keralis1: 498
+3: iJevin: 490
+4: Grian: 321
+5: Docm77: 275
+6: PearlescentMoon: 274
+7: Renthedog: 244
+8: hypnotizd: 166
+9: falsesymmetry: 163
+10: OrionSound: 86
+11: MythicalSausage: 47
+12: xBCrafted: 36
+13: ZombieCleo: 34
+14: cubfan135: 20
+15: Tango: 8
+16: Xisuma: 5
+17: Stressmonster101: 3
+18: Etho: 2
+19: GoodTimeWithScar: 1
+20: SolidarityGaming: 1
+21: Zedaph: 1
+Total 3268

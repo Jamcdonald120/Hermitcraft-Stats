@@ -1,0 +1,24 @@
+minecraft.dropped.paper
+1: iskall85: 1642
+2: GoodTimeWithScar: 1360
+3: Renthedog: 1157
+4: MumboJumbo: 1007
+5: Grian: 953
+6: Tinfoilchef: 692
+7: Tango: 661
+8: iJevin: 589
+9: Stressmonster101: 537
+10: Docm77: 510
+11: Zedaph: 438
+12: cubfan135: 383
+13: impulseSV: 223
+14: falsesymmetry: 82
+15: Xisuma: 75
+16: joehillssays: 68
+17: BdoubleO100: 16
+18: ZombieCleo: 4
+19: HumanCleo: 2
+20: PythonGB: 2
+21: xBCrafted: 1
+22: Keralis1: 1
+Total 10403

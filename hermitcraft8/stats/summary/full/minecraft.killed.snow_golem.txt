@@ -1,0 +1,7 @@
+minecraft.killed.snow_golem
+1: Tango: 16
+2: PearlescentMoon: 5
+3: Docm77: 3
+4: Grian: 1
+5: impulseSV: 1
+Total 26

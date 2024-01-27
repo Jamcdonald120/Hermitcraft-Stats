@@ -1,0 +1,14 @@
+stat.useItem.minecraft.lapis_block
+1: falsesymmetry: 100
+2: ZombieCleo: 96
+3: Xisuma: 88
+4: impulseSV: 69
+5: sl1pg8r: 21
+6: Tango: 19
+7: PythonGB: 15
+8: topmass: 11
+9: Mumbo: 8
+10: xBCrafted: 5
+11: Etho: 3
+12: Tinfoilchef: 1
+Total 436

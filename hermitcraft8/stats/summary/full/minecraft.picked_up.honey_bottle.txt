@@ -1,0 +1,9 @@
+minecraft.picked_up.honey_bottle
+1: impulseSV: 175
+2: cubfan135: 72
+3: GoodTimeWithScar: 27
+4: BdoubleO100: 18
+5: PearlescentMoon: 10
+6: Tango: 7
+7: Grian: 1
+Total 310

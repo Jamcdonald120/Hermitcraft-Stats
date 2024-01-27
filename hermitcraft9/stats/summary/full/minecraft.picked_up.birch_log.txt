@@ -1,0 +1,36 @@
+minecraft.picked_up.birch_log
+1: joehillssays: 35276
+2: Grian: 15921
+3: Keralis1: 14726
+4: VintageBeef: 12155
+5: hypnotizd: 6493
+6: Docm77: 5350
+7: Renthedog: 5231
+8: GeminiTay: 5090
+9: BdoubleO100: 3946
+10: PearlescentMoon: 3831
+11: GoodTimeWithScar: 3629
+12: iJevin: 3489
+13: Stressmonster101: 2256
+14: Xisuma: 1972
+15: impulseSV: 1917
+16: ZombieCleo: 1649
+17: falsesymmetry: 1514
+18: Etho: 1471
+19: iskall85: 1243
+20: Mumbo: 1154
+21: RentheKing: 1136
+22: xBCrafted: 1121
+23: cubfan135: 946
+24: Tango: 808
+25: Zedaph: 300
+26: Welsknight: 288
+27: MumboJumbo: 155
+28: Tinfoilchef: 145
+29: ShubbleYT: 134
+30: Smallishbeans: 77
+31: MythicalSausage: 44
+32: Smajor1995: 16
+33: SolidarityGaming: 8
+34: fWhip: 2
+Total 133493

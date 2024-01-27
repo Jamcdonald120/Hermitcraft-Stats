@@ -1,0 +1,11 @@
+minecraft.crafted.nether_brick_fence
+1: Tango: 2118
+2: GoodTimeWithScar: 772
+3: BdoubleO100: 162
+4: Keralis1: 72
+5: cubfan135: 54
+6: Docm77: 30
+7: PearlescentMoon: 24
+8: falsesymmetry: 18
+9: Zedaph: 6
+Total 3256

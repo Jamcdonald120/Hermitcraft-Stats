@@ -1,0 +1,18 @@
+stat.useItem.minecraft.minecart
+1: Spumwackles: 62
+2: Xisuma: 42
+3: ZombieCleo: 27
+4: falsesymmetry: 26
+5: sl1pg8r: 23
+6: Tango: 23
+7: xBCrafted: 21
+8: zueljin: 20
+9: Biffa2001: 10
+10: KingDaddyDMAC: 9
+11: monkeyfarm: 9
+12: iJevin: 8
+13: Tinfoilchef: 8
+14: Mumbo: 6
+15: Cleophas: 1
+16: Collen: 1
+Total 296

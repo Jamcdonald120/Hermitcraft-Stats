@@ -1,0 +1,27 @@
+minecraft.picked_up.brown_mushroom
+1: falsesymmetry: 987
+2: iskall85: 785
+3: iJevin: 759
+4: Xisuma: 553
+5: Docm77: 505
+6: cubfan135: 353
+7: impulseSV: 249
+8: MumboJumbo: 189
+9: joehillssays: 159
+10: GoodTimeWithScar: 147
+11: Stressmonster101: 140
+12: Renthedog: 135
+13: Grian: 55
+14: Tinfoilchef: 33
+15: ZombieCleo: 31
+16: Welsknight: 30
+17: Tango: 29
+18: BdoubleO100: 28
+19: Biffa2001: 15
+20: PythonGB: 10
+21: Zedaph: 7
+22: HumanCleo: 3
+23: xBCrafted: 2
+24: Cub_Cam: 1
+25: Keralis1: 1
+Total 5206

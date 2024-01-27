@@ -1,0 +1,8 @@
+stat.drop.minecraft.lapis_ore
+1: falsesymmetry: 19
+2: Tango: 8
+3: PythonGB: 5
+4: MumboJumbo: 2
+5: Xisuma: 1
+6: Renthedog: 1
+Total 36

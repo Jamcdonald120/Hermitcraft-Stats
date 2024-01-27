@@ -1,0 +1,5 @@
+stat.useItem.minecraft.magenta_glazed_terracotta
+1: impulseSV: 32
+2: joehillssays: 27
+3: iskall85: 18
+Total 77

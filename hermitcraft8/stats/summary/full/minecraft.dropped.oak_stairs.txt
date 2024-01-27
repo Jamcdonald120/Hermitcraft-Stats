@@ -1,0 +1,14 @@
+minecraft.dropped.oak_stairs
+1: MumboJumbo: 56
+2: Renthedog: 46
+3: impulseSV: 28
+4: GoodTimeWithScar: 25
+5: falsesymmetry: 17
+6: Xisuma: 16
+7: GeminiTay: 10
+8: iJevin: 8
+9: Stressmonster101: 7
+10: Grian: 6
+11: iskall85: 6
+12: Etho: 4
+Total 229

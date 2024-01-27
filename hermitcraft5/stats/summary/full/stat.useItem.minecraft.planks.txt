@@ -1,0 +1,25 @@
+stat.useItem.minecraft.planks
+1: cubfan135: 16266
+2: Welsknight: 14295
+3: Stressmonster101: 12217
+4: GoodTimeWithScar: 11991
+5: xBCrafted: 11803
+6: joehillssays: 7743
+7: falsesymmetry: 6075
+8: Xisuma: 4371
+9: Tinfoilchef: 3390
+10: ZombieCleo: 2477
+11: BdoubleO100: 2405
+12: MumboJumbo: 2369
+13: iskall85: 1932
+14: impulseSV: 1651
+15: Zedaph: 1392
+16: iJevin: 1200
+17: VintageBeef: 1190
+18: Renthedog: 1069
+19: Docm77: 1017
+20: Biffa2001: 541
+21: PythonGB: 358
+22: Tango: 219
+23: Etho: 45
+Total 106016

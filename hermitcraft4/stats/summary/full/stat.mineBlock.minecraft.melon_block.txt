@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.melon_block
+1: iskall85: 179
+2: Renthedog: 160
+3: cubfan135: 155
+4: MumboJumbo: 146
+5: Jessassin: 128
+6: Welsknight: 81
+7: impulseSV: 69
+8: PythonGB: 55
+9: Xisuma: 53
+10: Tinfoilchef: 53
+11: falsesymmetry: 47
+12: GoodTimeWithScar: 36
+13: Etho: 35
+14: iJevin: 31
+15: Tango: 31
+16: Biffa2001: 31
+17: joehillssays: 29
+18: Mumbo: 19
+19: Docm77: 2
+20: zueljin: 1
+Total 1341

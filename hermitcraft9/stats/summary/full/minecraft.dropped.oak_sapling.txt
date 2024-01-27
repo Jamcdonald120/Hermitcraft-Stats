@@ -1,0 +1,29 @@
+minecraft.dropped.oak_sapling
+1: Grian: 681
+2: iJevin: 518
+3: Xisuma: 317
+4: GoodTimeWithScar: 190
+5: Renthedog: 184
+6: ZombieCleo: 150
+7: Tango: 142
+8: Docm77: 141
+9: Stressmonster101: 108
+10: iskall85: 107
+11: cubfan135: 105
+12: impulseSV: 98
+13: Keralis1: 63
+14: falsesymmetry: 62
+15: xBCrafted: 36
+16: GeminiTay: 29
+17: MythicalSausage: 26
+18: Zedaph: 22
+19: VintageBeef: 14
+20: Etho: 12
+21: BdoubleO100: 11
+22: PearlescentMoon: 9
+23: joehillssays: 7
+24: RentheKing: 6
+25: hypnotizd: 5
+26: Mumbo: 3
+27: Pixlriffs: 1
+Total 3047

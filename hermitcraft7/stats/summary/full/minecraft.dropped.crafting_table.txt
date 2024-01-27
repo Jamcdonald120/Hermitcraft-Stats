@@ -1,0 +1,23 @@
+minecraft.dropped.crafting_table
+1: Zedaph: 205
+2: Etho: 61
+3: cubfan135: 49
+4: GoodTimeWithScar: 41
+5: Grian: 39
+6: Stressmonster101: 36
+7: Renthedog: 25
+8: iskall85: 19
+9: Tango: 18
+10: MumboJumbo: 13
+11: Keralis1: 12
+12: Xisuma: 11
+13: iJevin: 10
+14: impulseSV: 7
+15: xBCrafted: 6
+16: VintageBeef: 5
+17: falsesymmetry: 3
+18: joehillssays: 2
+19: BdoubleO100: 2
+20: Welsknight: 2
+21: Docm77: 1
+Total 567

@@ -1,0 +1,8 @@
+minecraft.crafted.activator_rail
+1: iJevin: 48
+2: Docm77: 24
+3: Etho: 18
+4: Keralis1: 12
+5: impulseSV: 6
+6: Zedaph: 6
+Total 114

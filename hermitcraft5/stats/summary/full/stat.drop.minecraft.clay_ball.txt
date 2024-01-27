@@ -1,0 +1,11 @@
+stat.drop.minecraft.clay_ball
+1: falsesymmetry: 247
+2: cubfan135: 139
+3: Zedaph: 53
+4: Tango: 26
+5: PythonGB: 20
+6: Xisuma: 14
+7: Renthedog: 10
+8: MumboJumbo: 8
+9: Stressmonster101: 4
+Total 521

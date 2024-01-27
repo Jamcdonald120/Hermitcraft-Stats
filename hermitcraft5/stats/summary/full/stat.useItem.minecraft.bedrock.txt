@@ -1,0 +1,4 @@
+stat.useItem.minecraft.bedrock
+1: Xisuma: 13
+2: xisumavoid: 11
+Total 24

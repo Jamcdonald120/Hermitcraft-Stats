@@ -1,0 +1,18 @@
+stat.pickup.minecraft.shield
+1: Renthedog: 33
+2: Tango: 29
+3: cubfan135: 29
+4: iskall85: 28
+5: falsesymmetry: 26
+6: GoodTimeWithScar: 20
+7: Welsknight: 19
+8: Xisuma: 16
+9: Docm77: 14
+10: Etho: 12
+11: impulseSV: 11
+12: ZombieCleo: 6
+13: PythonGB: 5
+14: iJevin: 4
+15: Biffa2001: 4
+16: joehillssays: 1
+Total 257

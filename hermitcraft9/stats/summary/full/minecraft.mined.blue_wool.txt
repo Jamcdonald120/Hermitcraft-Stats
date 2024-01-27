@@ -1,0 +1,16 @@
+minecraft.mined.blue_wool
+1: PearlescentMoon: 428
+2: Docm77: 177
+3: VintageBeef: 162
+4: Tango: 109
+5: GoodTimeWithScar: 72
+6: Grian: 41
+7: joehillssays: 32
+8: Xisuma: 27
+9: cubfan135: 20
+10: Stressmonster101: 16
+11: GeminiTay: 15
+12: Renthedog: 14
+13: Keralis1: 1
+14: Zedaph: 1
+Total 1115

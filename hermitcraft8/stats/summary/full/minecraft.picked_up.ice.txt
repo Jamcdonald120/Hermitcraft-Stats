@@ -1,0 +1,18 @@
+minecraft.picked_up.ice
+1: cubfan135: 40854
+2: Docm77: 10136
+3: impulseSV: 9838
+4: Xisuma: 2794
+5: Zedaph: 2524
+6: Tango: 1955
+7: Etho: 564
+8: iJevin: 433
+9: Welsknight: 370
+10: hypnotizd: 232
+11: MumboJumbo: 130
+12: GoodTimeWithScar: 80
+13: PearlescentMoon: 41
+14: Keralis1: 3
+15: Grian: 2
+16: ZombieCleo: 1
+Total 69957

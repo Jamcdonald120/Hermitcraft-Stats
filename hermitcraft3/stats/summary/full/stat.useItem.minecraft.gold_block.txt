@@ -1,0 +1,16 @@
+stat.useItem.minecraft.gold_block
+1: Xisuma: 1141
+2: Tango: 360
+3: sl1pg8r: 262
+4: xBCrafted: 261
+5: Spumwackles: 209
+6: impulseSV: 120
+7: ZombieCleo: 110
+8: Mumbo: 99
+9: Tinfoilchef: 83
+10: zueljin: 74
+11: falsesymmetry: 47
+12: hypnotizd: 25
+13: PythonGB: 14
+14: topmass: 8
+Total 2813

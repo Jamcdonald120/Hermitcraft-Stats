@@ -1,0 +1,24 @@
+minecraft.picked_up.cocoa_beans
+1: Renthedog: 9842
+2: Xisuma: 8011
+3: GoodTimeWithScar: 5932
+4: Grian: 3905
+5: cubfan135: 3029
+6: impulseSV: 2419
+7: Tango: 2301
+8: falsesymmetry: 1262
+9: Stressmonster101: 1159
+10: iskall85: 1028
+11: Docm77: 972
+12: Welsknight: 508
+13: iJevin: 377
+14: Jessassin: 256
+15: Biffa2001: 232
+16: PythonGB: 214
+17: Zedaph: 120
+18: ZombieCleo: 68
+19: Keralis1: 42
+20: BdoubleO100: 34
+21: MumboJumbo: 24
+22: Tinfoilchef: 6
+Total 41741

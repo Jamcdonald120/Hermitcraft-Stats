@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.spruce_stairs
+1: Welsknight: 1829
+2: Stressmonster101: 1457
+3: cubfan135: 1084
+4: falsesymmetry: 526
+5: MumboJumbo: 441
+6: xBCrafted: 379
+7: iJevin: 370
+8: GoodTimeWithScar: 282
+9: iskall85: 191
+10: Tango: 95
+11: Xisuma: 87
+12: impulseSV: 73
+13: ZombieCleo: 61
+14: joehillssays: 47
+15: BdoubleO100: 43
+16: PythonGB: 40
+17: VintageBeef: 29
+18: Tinfoilchef: 23
+19: Zedaph: 16
+20: Renthedog: 14
+21: Docm77: 9
+Total 7096

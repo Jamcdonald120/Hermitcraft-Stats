@@ -1,0 +1,11 @@
+stat.useItem.minecraft.iron_bars
+1: Spumwackles: 641
+2: Tango: 383
+3: falsesymmetry: 207
+4: zueljin: 155
+5: monkeyfarm: 6
+6: Mumbo: 3
+7: xBCrafted: 2
+8: KingDaddyDMAC: 1
+9: Pungence: 1
+Total 1399

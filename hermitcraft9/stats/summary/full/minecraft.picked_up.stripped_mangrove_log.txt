@@ -1,0 +1,21 @@
+minecraft.picked_up.stripped_mangrove_log
+1: Docm77: 7553
+2: RentheKing: 2023
+3: GoodTimeWithScar: 749
+4: Renthedog: 335
+5: Xisuma: 222
+6: falsesymmetry: 182
+7: BdoubleO100: 114
+8: MythicalSausage: 78
+9: cubfan135: 18
+10: Pixlriffs: 10
+11: PearlescentMoon: 7
+12: Zedaph: 7
+13: Smajor1995: 4
+14: Tango: 4
+15: Keralis1: 3
+16: Grian: 1
+17: ZombieCleo: 1
+18: Stressmonster101: 1
+19: impulseSV: 1
+Total 11313

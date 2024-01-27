@@ -1,0 +1,20 @@
+minecraft.picked_up.brick_slab
+1: Etho: 1092
+2: GoodTimeWithScar: 401
+3: cubfan135: 106
+4: Keralis1: 82
+5: falsesymmetry: 80
+6: Renthedog: 77
+7: PearlescentMoon: 47
+8: OrionSound: 42
+9: Tango: 33
+10: Xisuma: 13
+11: impulseSV: 6
+12: BdoubleO100: 5
+13: iJevin: 4
+14: GeminiTay: 4
+15: Zedaph: 2
+16: MythicalSausage: 1
+17: Grian: 1
+18: iskall85: 1
+Total 1997

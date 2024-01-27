@@ -1,0 +1,4 @@
+stat.drop.minecraft.painting
+1: Xisuma: 3
+2: falsesymmetry: 1
+Total 4

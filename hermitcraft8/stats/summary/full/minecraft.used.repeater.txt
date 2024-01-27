@@ -1,0 +1,26 @@
+minecraft.used.repeater
+1: impulseSV: 988
+2: cubfan135: 901
+3: Docm77: 851
+4: Tango: 698
+5: MumboJumbo: 667
+6: iJevin: 499
+7: Zedaph: 494
+8: Etho: 444
+9: Xisuma: 325
+10: Welsknight: 200
+11: Renthedog: 183
+12: iskall85: 150
+13: xBCrafted: 122
+14: VintageBeef: 118
+15: hypnotizd: 114
+16: Tinfoilchef: 92
+17: GoodTimeWithScar: 91
+18: joehillssays: 71
+19: Grian: 63
+20: BdoubleO100: 57
+21: PearlescentMoon: 51
+22: GeminiTay: 37
+23: Keralis1: 36
+24: falsesymmetry: 16
+Total 7268

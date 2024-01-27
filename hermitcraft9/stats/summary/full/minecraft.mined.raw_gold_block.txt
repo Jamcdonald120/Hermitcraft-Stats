@@ -1,0 +1,16 @@
+minecraft.mined.raw_gold_block
+1: VintageBeef: 2452
+2: cubfan135: 113
+3: impulseSV: 24
+4: xBCrafted: 16
+5: GeminiTay: 7
+6: Grian: 4
+7: Docm77: 3
+8: PearlescentMoon: 3
+9: GoodTimeWithScar: 3
+10: Xisuma: 2
+11: falsesymmetry: 2
+12: Smajor1995: 1
+13: iJevin: 1
+14: Smallishbeans: 1
+Total 2632

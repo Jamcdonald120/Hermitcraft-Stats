@@ -1,0 +1,20 @@
+minecraft.dropped.brown_terracotta
+1: Grian: 175
+2: Docm77: 136
+3: impulseSV: 112
+4: falsesymmetry: 102
+5: iJevin: 58
+6: joehillssays: 52
+7: MythicalSausage: 48
+8: cubfan135: 42
+9: Renthedog: 32
+10: Xisuma: 29
+11: PearlescentMoon: 19
+12: GoodTimeWithScar: 19
+13: Tango: 13
+14: xBCrafted: 9
+15: Etho: 7
+16: Keralis1: 6
+17: RentheKing: 3
+18: Zedaph: 1
+Total 863

@@ -1,0 +1,19 @@
+minecraft.picked_up.purple_wool
+1: Xisuma: 3641
+2: falsesymmetry: 1189
+3: ZombieCleo: 889
+4: cubfan135: 237
+5: Renthedog: 142
+6: Tango: 90
+7: iskall85: 83
+8: Biffa2001: 71
+9: Welsknight: 27
+10: Grian: 25
+11: MumboJumbo: 18
+12: GoodTimeWithScar: 3
+13: impulseSV: 2
+14: Docm77: 1
+15: iJevin: 1
+16: joehillssays: 1
+17: Zedaph: 1
+Total 6421

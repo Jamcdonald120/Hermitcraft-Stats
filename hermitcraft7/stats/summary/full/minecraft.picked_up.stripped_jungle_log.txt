@@ -1,0 +1,20 @@
+minecraft.picked_up.stripped_jungle_log
+1: BdoubleO100: 237
+2: GoodTimeWithScar: 111
+3: Etho: 92
+4: impulseSV: 76
+5: cubfan135: 74
+6: Tango: 71
+7: Zedaph: 52
+8: Grian: 25
+9: Xisuma: 22
+10: MumboJumbo: 9
+11: Stressmonster101: 4
+12: Renthedog: 2
+13: iskall85: 2
+14: Docm77: 1
+15: joehillssays: 1
+16: falsesymmetry: 1
+17: Welsknight: 1
+18: Keralis1: 1
+Total 782

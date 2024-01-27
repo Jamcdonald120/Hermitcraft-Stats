@@ -1,0 +1,11 @@
+stat.useItem.minecraft.redstone_lamp
+1: Xisuma: 459
+2: zueljin: 65
+3: ZombieCleo: 37
+4: Spumwackles: 34
+5: Tango: 30
+6: iJevin: 29
+7: sl1pg8r: 20
+8: falsesymmetry: 15
+9: Biffa2001: 8
+Total 697

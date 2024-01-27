@@ -1,0 +1,19 @@
+minecraft.dropped.snowball
+1: Etho: 1841
+2: GoodTimeWithScar: 1148
+3: Zedaph: 983
+4: iJevin: 717
+5: cubfan135: 591
+6: Grian: 445
+7: impulseSV: 402
+8: Tango: 294
+9: Renthedog: 143
+10: iskall85: 100
+11: BdoubleO100: 90
+12: Docm77: 30
+13: VintageBeef: 20
+14: joehillssays: 19
+15: Keralis1: 17
+16: Xisuma: 6
+17: ZombieCleo: 2
+Total 6848

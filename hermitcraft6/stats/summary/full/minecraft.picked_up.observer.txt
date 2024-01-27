@@ -1,0 +1,24 @@
+minecraft.picked_up.observer
+1: Xisuma: 1899
+2: iskall85: 1742
+3: impulseSV: 1654
+4: MumboJumbo: 1341
+5: Docm77: 1022
+6: cubfan135: 639
+7: GoodTimeWithScar: 483
+8: iJevin: 447
+9: Grian: 434
+10: Renthedog: 390
+11: falsesymmetry: 154
+12: Tango: 146
+13: Stressmonster101: 142
+14: Zedaph: 98
+15: Tinfoilchef: 35
+16: Keralis1: 35
+17: PythonGB: 17
+18: BdoubleO100: 8
+19: ZombieCleo: 7
+20: Welsknight: 6
+21: joehillssays: 3
+22: Biffa2001: 1
+Total 10703

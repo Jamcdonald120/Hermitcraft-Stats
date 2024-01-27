@@ -1,0 +1,34 @@
+stat.damageTaken
+1: Xisuma: 3654411
+2: Tinfoilchef: 1468036
+3: Pungence: 1285110
+4: KingDaddyDMAC: 1284444
+5: skyzm: 1280826
+6: red3yz: 1024936
+7: sl1pg8r: 803612
+8: Spumwackles: 752685
+9: iJevin: 731702
+10: hypnotizd: 716859
+11: Mumbo: 629931
+12: ZombieCleo: 607050
+13: Biffa2001: 529881
+14: Keralis1: 290863
+15: monkeyfarm: 168696
+16: falsesymmetry: 127890
+17: joehillssays: 104093
+18: zueljin: 80797
+19: Tango: 40622
+20: Marriland: 22840
+21: Collen: 21357
+22: topmass: 21122
+23: Unhost: 17313
+24: NameOfSamuel: 11029
+25: xBCrafted: 10710
+26: Jessassin: 9645
+27: Cleophas: 3755
+28: MumboJumbo: 1640
+29: xisumavoid: 1503
+30: Mrs_Keralis: 160
+31: truesymmetry: 30
+32: HttpsSecure: -2147478411
+Total -2131774863

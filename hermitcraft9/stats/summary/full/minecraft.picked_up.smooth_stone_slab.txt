@@ -1,0 +1,26 @@
+minecraft.picked_up.smooth_stone_slab
+1: PearlescentMoon: 697
+2: GoodTimeWithScar: 607
+3: impulseSV: 477
+4: Xisuma: 466
+5: cubfan135: 440
+6: Grian: 245
+7: Docm77: 235
+8: Mumbo: 143
+9: Tango: 134
+10: BdoubleO100: 108
+11: Zedaph: 78
+12: VintageBeef: 76
+13: Renthedog: 63
+14: iJevin: 53
+15: iskall85: 47
+16: Etho: 46
+17: falsesymmetry: 36
+18: ZombieCleo: 35
+19: Keralis1: 29
+20: MythicalSausage: 16
+21: GeminiTay: 9
+22: hypnotizd: 6
+23: fWhip: 6
+24: xBCrafted: 1
+Total 4053

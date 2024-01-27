@@ -1,0 +1,8 @@
+minecraft.crafted.weathered_cut_copper_stairs
+1: BdoubleO100: 140
+2: cubfan135: 22
+3: Docm77: 20
+4: Keralis1: 8
+5: Grian: 4
+6: Zedaph: 2
+Total 196

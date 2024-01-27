@@ -1,0 +1,11 @@
+minecraft.mined.warped_wall_sign
+1: Etho: 25
+2: GoodTimeWithScar: 17
+3: Renthedog: 8
+4: Xisuma: 7
+5: VintageBeef: 4
+6: Grian: 3
+7: Tango: 3
+8: cubfan135: 2
+9: Stressmonster101: 1
+Total 70

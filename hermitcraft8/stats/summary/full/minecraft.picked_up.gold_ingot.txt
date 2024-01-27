@@ -1,0 +1,23 @@
+minecraft.picked_up.gold_ingot
+1: Tango: 637
+2: impulseSV: 394
+3: GoodTimeWithScar: 388
+4: Grian: 351
+5: Renthedog: 333
+6: cubfan135: 329
+7: iJevin: 240
+8: PearlescentMoon: 223
+9: BdoubleO100: 64
+10: Stressmonster101: 64
+11: Etho: 54
+12: hypnotizd: 41
+13: Welsknight: 36
+14: Docm77: 32
+15: iskall85: 32
+16: ZombieCleo: 19
+17: joehillssays: 13
+18: falsesymmetry: 4
+19: MumboJumbo: 4
+20: Zedaph: 4
+21: VintageBeef: 3
+Total 3265

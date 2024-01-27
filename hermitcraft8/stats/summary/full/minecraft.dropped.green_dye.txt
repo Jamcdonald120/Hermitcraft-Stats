@@ -1,0 +1,9 @@
+minecraft.dropped.green_dye
+1: Etho: 65
+2: iJevin: 16
+3: GeminiTay: 15
+4: Keralis1: 12
+5: Zedaph: 12
+6: BdoubleO100: 4
+7: GoodTimeWithScar: 1
+Total 125

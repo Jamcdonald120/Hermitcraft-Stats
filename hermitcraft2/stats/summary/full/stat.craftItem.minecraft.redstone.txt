@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.redstone
+1: Xisuma: 3874
+2: Spumwackles: 824
+3: iJevin: 522
+4: Tango: 223
+5: Mumbo: 99
+6: zueljin: 54
+7: sl1pg8r: 45
+8: falsesymmetry: 36
+9: ZombieCleo: 18
+10: monkeyfarm: 18
+Total 5713

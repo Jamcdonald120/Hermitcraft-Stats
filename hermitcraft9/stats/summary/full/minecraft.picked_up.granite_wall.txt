@@ -1,0 +1,12 @@
+minecraft.picked_up.granite_wall
+1: GoodTimeWithScar: 274
+2: PearlescentMoon: 68
+3: falsesymmetry: 62
+4: Xisuma: 14
+5: Keralis1: 11
+6: Tango: 7
+7: BdoubleO100: 2
+8: ZombieCleo: 2
+9: Docm77: 1
+10: joehillssays: 1
+Total 442

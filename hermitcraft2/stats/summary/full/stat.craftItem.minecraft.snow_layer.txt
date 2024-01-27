@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.snow_layer
+1: zueljin: 54
+2: ZombieCleo: 18
+Total 72

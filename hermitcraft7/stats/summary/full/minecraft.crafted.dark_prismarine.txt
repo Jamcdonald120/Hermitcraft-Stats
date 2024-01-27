@@ -1,0 +1,5 @@
+minecraft.crafted.dark_prismarine
+1: impulseSV: 43789
+2: Tango: 1775
+3: Grian: 881
+Total 46445

@@ -1,0 +1,14 @@
+minecraft.picked_up.light_blue_banner
+1: cubfan135: 97
+2: GoodTimeWithScar: 26
+3: falsesymmetry: 12
+4: joehillssays: 11
+5: Stressmonster101: 10
+6: MumboJumbo: 3
+7: Xisuma: 2
+8: Grian: 2
+9: Renthedog: 1
+10: iJevin: 1
+11: Tinfoilchef: 1
+12: Zedaph: 1
+Total 167

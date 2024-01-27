@@ -1,0 +1,6 @@
+minecraft.dropped.crimson_fence_gate
+1: GoodTimeWithScar: 60
+2: Zedaph: 9
+3: cubfan135: 7
+4: Tango: 1
+Total 77

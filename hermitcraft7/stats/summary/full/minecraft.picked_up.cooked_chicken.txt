@@ -1,0 +1,24 @@
+minecraft.picked_up.cooked_chicken
+1: Zedaph: 793
+2: VintageBeef: 454
+3: Keralis1: 371
+4: joehillssays: 315
+5: Xisuma: 251
+6: Grian: 185
+7: Tango: 176
+8: Docm77: 137
+9: hypnotizd: 72
+10: iJevin: 69
+11: impulseSV: 52
+12: iskall85: 29
+13: MumboJumbo: 24
+14: Welsknight: 20
+15: Renthedog: 10
+16: BdoubleO100: 7
+17: cubfan135: 5
+18: Etho: 4
+19: falsesymmetry: 3
+20: xBCrafted: 2
+21: GoodTimeWithScar: 2
+22: Tinfoilchef: 1
+Total 2982

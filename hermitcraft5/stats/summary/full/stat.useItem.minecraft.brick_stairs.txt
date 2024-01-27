@@ -1,0 +1,7 @@
+stat.useItem.minecraft.brick_stairs
+1: cubfan135: 512
+2: PythonGB: 393
+3: falsesymmetry: 296
+4: MumboJumbo: 60
+5: Stressmonster101: 9
+Total 1270

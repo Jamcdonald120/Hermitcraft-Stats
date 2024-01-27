@@ -1,0 +1,9 @@
+stat.pickup.minecraft.jungle_fence_gate
+1: cubfan135: 156
+2: PythonGB: 7
+3: VintageBeef: 6
+4: joehillssays: 5
+5: ZombieCleo: 4
+6: Renthedog: 3
+7: MumboJumbo: 1
+Total 182

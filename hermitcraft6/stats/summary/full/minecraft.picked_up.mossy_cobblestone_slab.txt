@@ -1,0 +1,9 @@
+minecraft.picked_up.mossy_cobblestone_slab
+1: Keralis1: 44
+2: Renthedog: 35
+3: Xisuma: 6
+4: BdoubleO100: 6
+5: cubfan135: 4
+6: Docm77: 2
+7: iskall85: 1
+Total 98

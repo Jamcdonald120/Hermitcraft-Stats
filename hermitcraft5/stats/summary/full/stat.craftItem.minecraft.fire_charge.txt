@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.fire_charge
+1: Tango: 13129
+2: cubfan135: 537
+3: iskall85: 211
+4: GoodTimeWithScar: 15
+5: falsesymmetry: 3
+Total 13895

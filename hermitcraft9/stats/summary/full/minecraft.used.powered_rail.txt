@@ -1,0 +1,28 @@
+minecraft.used.powered_rail
+1: Tango: 17215
+2: Docm77: 6192
+3: GoodTimeWithScar: 3254
+4: cubfan135: 2712
+5: impulseSV: 2476
+6: Xisuma: 1832
+7: hypnotizd: 1295
+8: Renthedog: 1203
+9: Keralis1: 827
+10: Etho: 570
+11: xBCrafted: 486
+12: falsesymmetry: 413
+13: Zedaph: 374
+14: ZombieCleo: 335
+15: iskall85: 314
+16: iJevin: 214
+17: joehillssays: 167
+18: Mumbo: 157
+19: Grian: 133
+20: Stressmonster101: 128
+21: GeminiTay: 63
+22: MumboJumbo: 62
+23: BdoubleO100: 59
+24: PearlescentMoon: 18
+25: VintageBeef: 7
+26: Welsknight: 3
+Total 40509

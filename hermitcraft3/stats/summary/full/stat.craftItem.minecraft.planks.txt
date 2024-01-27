@@ -1,0 +1,31 @@
+stat.craftItem.minecraft.planks
+1: Xisuma: 93644
+2: falsesymmetry: 65128
+3: Mumbo: 49688
+4: xBCrafted: 48232
+5: Tango: 41130
+6: impulseSV: 35346
+7: Biffa2001: 31647
+8: iJevin: 31391
+9: Tinfoilchef: 28048
+10: hypnotizd: 22964
+11: zueljin: 19336
+12: sl1pg8r: 15792
+13: monkeyfarm: 15662
+14: ZombieCleo: 12736
+15: topmass: 10024
+16: Etho: 6133
+17: KingDaddyDMAC: 5712
+18: PythonGB: 4256
+19: Spumwackles: 4090
+20: Docm77: 2379
+21: joehillssays: 2048
+22: skyzm: 1276
+23: NameOfSamuel: 736
+24: Keralis1: 720
+25: Pungence: 168
+26: Collen: 148
+27: xisumavoid: 48
+28: Mrs_Keralis: 36
+29: truesymmetry: 20
+Total 548538

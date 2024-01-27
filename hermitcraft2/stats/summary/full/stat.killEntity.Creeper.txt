@@ -1,0 +1,28 @@
+stat.killEntity.Creeper
+1: hypnotizd: 543
+2: Xisuma: 438
+3: sl1pg8r: 295
+4: ZombieCleo: 285
+5: Spumwackles: 270
+6: KingDaddyDMAC: 224
+7: iJevin: 206
+8: Keralis1: 125
+9: Mumbo: 119
+10: red3yz: 105
+11: Tinfoilchef: 94
+12: falsesymmetry: 90
+13: Biffa2001: 89
+14: skyzm: 79
+15: Pungence: 74
+16: Tango: 69
+17: zueljin: 61
+18: xBCrafted: 40
+19: monkeyfarm: 37
+20: Marriland: 30
+21: Collen: 29
+22: NameOfSamuel: 12
+23: topmass: 9
+24: Unhost: 9
+25: joehillssays: 7
+26: Jessassin: 6
+Total 3345

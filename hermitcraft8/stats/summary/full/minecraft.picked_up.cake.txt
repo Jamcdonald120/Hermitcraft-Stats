@@ -1,0 +1,8 @@
+minecraft.picked_up.cake
+1: GoodTimeWithScar: 17
+2: GeminiTay: 9
+3: cubfan135: 4
+4: Xisuma: 2
+5: BdoubleO100: 2
+6: Zedaph: 1
+Total 35

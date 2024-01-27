@@ -1,0 +1,11 @@
+stat.pickup.minecraft.stone_shovel
+1: MumboJumbo: 25
+2: falsesymmetry: 9
+3: iJevin: 4
+4: Zedaph: 3
+5: VintageBeef: 2
+6: PythonGB: 2
+7: xBCrafted: 2
+8: Welsknight: 2
+9: impulseSV: 1
+Total 50

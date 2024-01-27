@@ -1,0 +1,24 @@
+minecraft.used.warped_stem
+1: Tango: 13366
+2: Xisuma: 6473
+3: impulseSV: 6059
+4: falsesymmetry: 3267
+5: ZombieCleo: 3023
+6: Pixlriffs: 2277
+7: Mumbo: 1978
+8: Docm77: 1264
+9: PearlescentMoon: 1067
+10: BdoubleO100: 697
+11: cubfan135: 400
+12: Keralis1: 373
+13: Smajor1995: 329
+14: Etho: 235
+15: GoodTimeWithScar: 137
+16: xBCrafted: 118
+17: Stressmonster101: 92
+18: GeminiTay: 33
+19: Renthedog: 14
+20: VintageBeef: 6
+21: hypnotizd: 6
+22: Zedaph: 1
+Total 41215

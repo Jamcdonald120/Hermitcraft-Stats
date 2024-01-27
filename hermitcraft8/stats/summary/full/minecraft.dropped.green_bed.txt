@@ -1,0 +1,6 @@
+minecraft.dropped.green_bed
+1: Grian: 20
+2: MumboJumbo: 2
+3: iJevin: 1
+4: impulseSV: 1
+Total 24

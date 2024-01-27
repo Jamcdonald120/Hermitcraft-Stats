@@ -1,0 +1,17 @@
+minecraft.used.purple_wool
+1: Tango: 3242
+2: Renthedog: 548
+3: falsesymmetry: 489
+4: iJevin: 326
+5: Docm77: 277
+6: impulseSV: 125
+7: Xisuma: 123
+8: PearlescentMoon: 111
+9: VintageBeef: 63
+10: GoodTimeWithScar: 46
+11: hypnotizd: 15
+12: cubfan135: 11
+13: GeminiTay: 8
+14: Stressmonster101: 1
+15: Zedaph: 1
+Total 5386

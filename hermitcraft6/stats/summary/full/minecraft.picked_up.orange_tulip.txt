@@ -1,0 +1,20 @@
+minecraft.picked_up.orange_tulip
+1: Renthedog: 460
+2: falsesymmetry: 396
+3: joehillssays: 256
+4: cubfan135: 182
+5: Xisuma: 94
+6: Tango: 78
+7: Zedaph: 76
+8: iJevin: 61
+9: PythonGB: 45
+10: GoodTimeWithScar: 35
+11: Biffa2001: 32
+12: Grian: 24
+13: Docm77: 12
+14: Stressmonster101: 12
+15: impulseSV: 10
+16: iskall85: 9
+17: ZombieCleo: 6
+18: Welsknight: 4
+Total 1792

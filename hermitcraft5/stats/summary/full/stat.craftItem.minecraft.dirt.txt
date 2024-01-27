@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.dirt
+1: falsesymmetry: 17065
+2: GoodTimeWithScar: 12848
+3: Stressmonster101: 4920
+4: Renthedog: 3968
+5: iskall85: 1284
+6: Welsknight: 1152
+7: xBCrafted: 868
+8: cubfan135: 456
+9: Xisuma: 448
+10: iJevin: 400
+11: joehillssays: 320
+12: Docm77: 300
+13: VintageBeef: 280
+14: MumboJumbo: 252
+15: BdoubleO100: 216
+16: PythonGB: 128
+17: Zedaph: 20
+Total 44925

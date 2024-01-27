@@ -1,0 +1,12 @@
+minecraft.dropped.birch_leaves
+1: Keralis1: 504
+2: Renthedog: 215
+3: Docm77: 104
+4: GoodTimeWithScar: 88
+5: falsesymmetry: 62
+6: MumboJumbo: 38
+7: Tango: 31
+8: Xisuma: 23
+9: impulseSV: 12
+10: cubfan135: 2
+Total 1079

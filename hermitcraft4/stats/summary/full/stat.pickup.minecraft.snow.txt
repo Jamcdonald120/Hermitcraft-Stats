@@ -1,0 +1,14 @@
+stat.pickup.minecraft.snow
+1: falsesymmetry: 1817
+2: Welsknight: 1133
+3: GoodTimeWithScar: 679
+4: Xisuma: 642
+5: MumboJumbo: 412
+6: iskall85: 312
+7: Tango: 147
+8: PythonGB: 100
+9: Tinfoilchef: 89
+10: cubfan135: 75
+11: impulseSV: 21
+12: iJevin: 2
+Total 5429

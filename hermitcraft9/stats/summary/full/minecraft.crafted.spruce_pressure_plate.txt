@@ -1,0 +1,22 @@
+minecraft.crafted.spruce_pressure_plate
+1: xBCrafted: 220
+2: GoodTimeWithScar: 122
+3: iJevin: 92
+4: ZombieCleo: 69
+5: Tango: 27
+6: BdoubleO100: 21
+7: Renthedog: 17
+8: PearlescentMoon: 10
+9: impulseSV: 10
+10: Etho: 8
+11: hypnotizd: 4
+12: MythicalSausage: 3
+13: cubfan135: 3
+14: Docm77: 2
+15: Xisuma: 2
+16: RentheKing: 2
+17: VintageBeef: 1
+18: iskall85: 1
+19: Keralis1: 1
+20: Zedaph: 1
+Total 616

@@ -1,0 +1,4 @@
+minecraft.custom.interact_with_campfire
+1: BdoubleO100: 260
+2: ZombieCleo: 51
+Total 311

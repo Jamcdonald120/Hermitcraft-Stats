@@ -1,0 +1,11 @@
+stat.useItem.minecraft.cooked_beef
+1: Xisuma: 797
+2: Tango: 297
+3: iJevin: 163
+4: Spumwackles: 89
+5: ZombieCleo: 56
+6: KingDaddyDMAC: 55
+7: monkeyfarm: 22
+8: Tinfoilchef: 20
+9: zueljin: 10
+Total 1509

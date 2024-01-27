@@ -1,0 +1,4 @@
+stat.killEntity.Wolf
+1: Xisuma: 5
+2: impulseSV: 1
+Total 6

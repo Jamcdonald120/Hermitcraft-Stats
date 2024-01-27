@@ -1,0 +1,19 @@
+minecraft.mined.light_gray_concrete
+1: PearlescentMoon: 1068
+2: GoodTimeWithScar: 935
+3: ZombieCleo: 682
+4: Welsknight: 645
+5: xBCrafted: 515
+6: MumboJumbo: 417
+7: hypnotizd: 97
+8: BdoubleO100: 64
+9: EvilXisuma: 48
+10: Keralis1: 43
+11: iJevin: 36
+12: Tango: 27
+13: Renthedog: 14
+14: Xisuma: 9
+15: impulseSV: 5
+16: Docm77: 4
+17: Grian: 1
+Total 4610

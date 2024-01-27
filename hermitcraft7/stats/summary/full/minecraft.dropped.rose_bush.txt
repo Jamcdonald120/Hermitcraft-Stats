@@ -1,0 +1,22 @@
+minecraft.dropped.rose_bush
+1: Zedaph: 6846
+2: iJevin: 497
+3: cubfan135: 343
+4: Stressmonster101: 167
+5: Grian: 127
+6: GoodTimeWithScar: 107
+7: xBCrafted: 61
+8: iskall85: 49
+9: falsesymmetry: 36
+10: Keralis1: 15
+11: joehillssays: 14
+12: BdoubleO100: 13
+13: MumboJumbo: 12
+14: Tango: 5
+15: Xisuma: 4
+16: Renthedog: 3
+17: Etho: 3
+18: impulseSV: 3
+19: hypnotizd: 2
+20: ZombieCleo: 1
+Total 8308

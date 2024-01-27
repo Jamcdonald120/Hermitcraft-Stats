@@ -1,0 +1,12 @@
+stat.drop.minecraft.iron_boots
+1: Renthedog: 6
+2: Tango: 6
+3: impulseSV: 5
+4: falsesymmetry: 4
+5: iskall85: 3
+6: Xisuma: 2
+7: Welsknight: 2
+8: Etho: 2
+9: GoodTimeWithScar: 2
+10: iJevin: 1
+Total 33

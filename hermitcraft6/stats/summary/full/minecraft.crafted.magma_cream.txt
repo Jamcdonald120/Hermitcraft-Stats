@@ -1,0 +1,12 @@
+minecraft.crafted.magma_cream
+1: impulseSV: 64
+2: iJevin: 44
+3: Zedaph: 35
+4: Tinfoilchef: 33
+5: Tango: 32
+6: MumboJumbo: 31
+7: joehillssays: 7
+8: ZombieCleo: 7
+9: Xisuma: 1
+10: iskall85: 1
+Total 255

@@ -1,0 +1,28 @@
+minecraft.mined.orange_shulker_box
+1: PearlescentMoon: 1439
+2: cubfan135: 680
+3: Renthedog: 553
+4: Tango: 304
+5: joehillssays: 251
+6: Xisuma: 204
+7: GoodTimeWithScar: 154
+8: RentheKing: 151
+9: iskall85: 103
+10: BdoubleO100: 84
+11: Etho: 76
+12: Docm77: 63
+13: impulseSV: 51
+14: falsesymmetry: 35
+15: Grian: 23
+16: xBCrafted: 20
+17: Keralis1: 17
+18: Stressmonster101: 15
+19: Mumbo: 12
+20: VintageBeef: 5
+21: hypnotizd: 4
+22: Pixlriffs: 3
+23: iJevin: 2
+24: ZombieCleo: 2
+25: Zedaph: 2
+26: GeminiTay: 1
+Total 4254

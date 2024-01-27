@@ -1,0 +1,13 @@
+minecraft.dropped.end_stone_bricks
+1: cubfan135: 64
+2: iJevin: 55
+3: GoodTimeWithScar: 51
+4: Xisuma: 28
+5: hypnotizd: 27
+6: Keralis1: 10
+7: Tango: 7
+8: ZombieCleo: 7
+9: impulseSV: 6
+10: joehillssays: 2
+11: Grian: 2
+Total 259

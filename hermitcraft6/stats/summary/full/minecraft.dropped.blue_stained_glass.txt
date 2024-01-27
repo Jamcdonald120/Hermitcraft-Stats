@@ -1,0 +1,8 @@
+minecraft.dropped.blue_stained_glass
+1: PythonGB: 192
+2: GoodTimeWithScar: 130
+3: cubfan135: 65
+4: MumboJumbo: 25
+5: Tango: 12
+6: iskall85: 1
+Total 425

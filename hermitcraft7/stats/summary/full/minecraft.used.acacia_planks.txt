@@ -1,0 +1,18 @@
+minecraft.used.acacia_planks
+1: impulseSV: 710
+2: Etho: 497
+3: xBCrafted: 469
+4: cubfan135: 147
+5: Renthedog: 138
+6: Tango: 100
+7: VintageBeef: 58
+8: joehillssays: 45
+9: BdoubleO100: 35
+10: Keralis1: 34
+11: Welsknight: 22
+12: GoodTimeWithScar: 13
+13: Grian: 5
+14: Xisuma: 4
+15: Docm77: 2
+16: falsesymmetry: 1
+Total 2280

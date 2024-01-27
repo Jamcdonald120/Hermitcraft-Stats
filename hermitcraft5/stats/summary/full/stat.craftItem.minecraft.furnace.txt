@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.furnace
+1: Renthedog: 3856
+2: MumboJumbo: 1061
+3: Xisuma: 626
+4: iskall85: 396
+5: GoodTimeWithScar: 330
+6: impulseSV: 271
+7: cubfan135: 169
+8: falsesymmetry: 165
+9: Zedaph: 121
+10: joehillssays: 112
+11: Tango: 91
+12: iJevin: 86
+13: xBCrafted: 77
+14: PythonGB: 58
+15: Stressmonster101: 51
+16: BdoubleO100: 38
+17: Welsknight: 34
+18: VintageBeef: 20
+19: Docm77: 18
+20: Biffa2001: 18
+21: Etho: 17
+22: Tinfoilchef: 14
+23: ZombieCleo: 10
+Total 7639

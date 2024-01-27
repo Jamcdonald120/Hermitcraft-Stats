@@ -1,0 +1,24 @@
+minecraft.picked_up.oxeye_daisy
+1: Etho: 7653
+2: falsesymmetry: 3178
+3: Tango: 3037
+4: Zedaph: 1712
+5: MumboJumbo: 1225
+6: Grian: 282
+7: GoodTimeWithScar: 262
+8: xBCrafted: 160
+9: impulseSV: 152
+10: BdoubleO100: 151
+11: Xisuma: 141
+12: cubfan135: 105
+13: joehillssays: 81
+14: ZombieCleo: 76
+15: iskall85: 59
+16: Stressmonster101: 49
+17: Renthedog: 43
+18: Keralis1: 30
+19: Welsknight: 23
+20: VintageBeef: 18
+21: hypnotizd: 13
+22: Docm77: 1
+Total 18451

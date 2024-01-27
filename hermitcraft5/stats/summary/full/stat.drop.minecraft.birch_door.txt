@@ -1,0 +1,5 @@
+stat.drop.minecraft.birch_door
+1: xBCrafted: 3
+2: MumboJumbo: 2
+3: cubfan135: 1
+Total 6

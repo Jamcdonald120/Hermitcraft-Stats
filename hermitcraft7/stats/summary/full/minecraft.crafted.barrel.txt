@@ -1,0 +1,24 @@
+minecraft.crafted.barrel
+1: Etho: 1200
+2: GoodTimeWithScar: 834
+3: Xisuma: 755
+4: Zedaph: 552
+5: Keralis1: 486
+6: joehillssays: 468
+7: Tango: 431
+8: BdoubleO100: 421
+9: Renthedog: 359
+10: xBCrafted: 218
+11: Grian: 200
+12: cubfan135: 199
+13: falsesymmetry: 188
+14: iskall85: 169
+15: hypnotizd: 126
+16: Welsknight: 106
+17: impulseSV: 96
+18: VintageBeef: 87
+19: ZombieCleo: 78
+20: MumboJumbo: 49
+21: Docm77: 46
+22: Stressmonster101: 13
+Total 7081

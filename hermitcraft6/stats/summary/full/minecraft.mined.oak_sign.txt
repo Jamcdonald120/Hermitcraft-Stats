@@ -1,0 +1,26 @@
+minecraft.mined.oak_sign
+1: cubfan135: 280
+2: Grian: 110
+3: falsesymmetry: 98
+4: joehillssays: 49
+5: iJevin: 48
+6: Docm77: 47
+7: Renthedog: 46
+8: Xisuma: 41
+9: GoodTimeWithScar: 30
+10: impulseSV: 30
+11: Zedaph: 29
+12: iskall85: 26
+13: Tango: 25
+14: ZombieCleo: 21
+15: MumboJumbo: 16
+16: PythonGB: 9
+17: Stressmonster101: 8
+18: BdoubleO100: 6
+19: Welsknight: 4
+20: Tinfoilchef: 4
+21: tterrag: 3
+22: Cojomax99: 3
+23: Keralis1: 2
+24: HumanCleo: 1
+Total 936

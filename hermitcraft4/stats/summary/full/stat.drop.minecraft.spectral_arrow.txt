@@ -1,0 +1,3 @@
+stat.drop.minecraft.spectral_arrow
+1: Welsknight: 8
+Total 8

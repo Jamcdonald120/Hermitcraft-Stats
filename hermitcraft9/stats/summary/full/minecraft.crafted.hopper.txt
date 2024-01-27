@@ -1,0 +1,29 @@
+minecraft.crafted.hopper
+1: GoodTimeWithScar: 6942
+2: Tango: 4325
+3: Xisuma: 4303
+4: Docm77: 2657
+5: impulseSV: 2634
+6: iJevin: 2353
+7: hypnotizd: 1952
+8: Etho: 1202
+9: cubfan135: 1130
+10: Keralis1: 1089
+11: xBCrafted: 1042
+12: Renthedog: 799
+13: Grian: 732
+14: iskall85: 535
+15: PearlescentMoon: 389
+16: VintageBeef: 279
+17: BdoubleO100: 265
+18: Mumbo: 255
+19: GeminiTay: 240
+20: falsesymmetry: 230
+21: Stressmonster101: 139
+22: Zedaph: 132
+23: ZombieCleo: 115
+24: joehillssays: 114
+25: RentheKing: 38
+26: MumboJumbo: 31
+27: OrionSound: 4
+Total 33926

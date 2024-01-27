@@ -1,0 +1,12 @@
+minecraft.picked_up.golden_horse_armor
+1: Zedaph: 21
+2: iJevin: 6
+3: PearlescentMoon: 6
+4: falsesymmetry: 6
+5: Etho: 5
+6: Docm77: 2
+7: Xisuma: 2
+8: hypnotizd: 2
+9: Keralis1: 2
+10: impulseSV: 1
+Total 53

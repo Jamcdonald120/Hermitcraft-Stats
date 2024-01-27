@@ -1,0 +1,17 @@
+minecraft.dropped.repeater
+1: Zedaph: 367
+2: Tango: 204
+3: Grian: 93
+4: Etho: 64
+5: Stressmonster101: 64
+6: impulseSV: 60
+7: MumboJumbo: 43
+8: cubfan135: 28
+9: Xisuma: 19
+10: iJevin: 12
+11: BdoubleO100: 5
+12: Docm77: 4
+13: joehillssays: 4
+14: VintageBeef: 3
+15: iskall85: 1
+Total 971

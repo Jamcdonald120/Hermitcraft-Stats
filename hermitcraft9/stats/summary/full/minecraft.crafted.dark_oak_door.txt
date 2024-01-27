@@ -1,0 +1,24 @@
+minecraft.crafted.dark_oak_door
+1: xBCrafted: 102
+2: Tango: 93
+3: falsesymmetry: 57
+4: Stressmonster101: 45
+5: Renthedog: 33
+6: ZombieCleo: 33
+7: impulseSV: 30
+8: cubfan135: 21
+9: iskall85: 12
+10: VintageBeef: 9
+11: BdoubleO100: 9
+12: GoodTimeWithScar: 9
+13: GeminiTay: 6
+14: PearlescentMoon: 6
+15: Pixlriffs: 6
+16: Docm77: 3
+17: Xisuma: 3
+18: MythicalSausage: 3
+19: joehillssays: 3
+20: Smallishbeans: 3
+21: Keralis1: 3
+22: Zedaph: 3
+Total 492

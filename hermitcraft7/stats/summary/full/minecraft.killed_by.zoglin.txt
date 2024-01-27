@@ -1,0 +1,6 @@
+minecraft.killed_by.zoglin
+1: Keralis1: 10
+2: Grian: 8
+3: BdoubleO100: 4
+4: GoodTimeWithScar: 1
+Total 23

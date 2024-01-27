@@ -1,0 +1,23 @@
+minecraft.picked_up.spruce_leaves
+1: GoodTimeWithScar: 33897
+2: falsesymmetry: 15819
+3: joehillssays: 9094
+4: Renthedog: 7100
+5: Welsknight: 5161
+6: cubfan135: 3953
+7: Xisuma: 2182
+8: Grian: 2085
+9: Keralis1: 1928
+10: PythonGB: 790
+11: Docm77: 766
+12: HumanCleo: 480
+13: iJevin: 468
+14: iskall85: 349
+15: BdoubleO100: 347
+16: Tango: 318
+17: MumboJumbo: 251
+18: Biffa2001: 46
+19: Stressmonster101: 44
+20: impulseSV: 17
+21: Duke_da_dog: 7
+Total 85102

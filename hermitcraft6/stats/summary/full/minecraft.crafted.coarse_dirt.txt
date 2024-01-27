@@ -1,0 +1,21 @@
+minecraft.crafted.coarse_dirt
+1: GoodTimeWithScar: 26080
+2: Renthedog: 7048
+3: Grian: 2834
+4: falsesymmetry: 2684
+5: iskall85: 2668
+6: BdoubleO100: 1636
+7: Xisuma: 684
+8: Stressmonster101: 652
+9: MumboJumbo: 508
+10: Docm77: 496
+11: joehillssays: 448
+12: Welsknight: 384
+13: iJevin: 320
+14: Tango: 252
+15: PythonGB: 208
+16: Keralis1: 156
+17: xBCrafted: 128
+18: cubfan135: 128
+19: impulseSV: 8
+Total 47322

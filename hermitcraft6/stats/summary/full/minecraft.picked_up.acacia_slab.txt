@@ -1,0 +1,13 @@
+minecraft.picked_up.acacia_slab
+1: MumboJumbo: 341
+2: cubfan135: 92
+3: Xisuma: 81
+4: GoodTimeWithScar: 51
+5: Renthedog: 35
+6: joehillssays: 23
+7: ZombieCleo: 11
+8: Jessassin: 3
+9: iskall85: 1
+10: Stressmonster101: 1
+11: Zedaph: 1
+Total 640

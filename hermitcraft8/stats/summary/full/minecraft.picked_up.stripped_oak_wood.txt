@@ -1,0 +1,18 @@
+minecraft.picked_up.stripped_oak_wood
+1: Keralis1: 595
+2: joehillssays: 210
+3: ZombieCleo: 104
+4: PearlescentMoon: 63
+5: cubfan135: 53
+6: Docm77: 22
+7: iJevin: 14
+8: Etho: 13
+9: GeminiTay: 11
+10: BdoubleO100: 8
+11: MumboJumbo: 7
+12: Grian: 6
+13: Tango: 6
+14: Zedaph: 5
+15: GoodTimeWithScar: 4
+16: impulseSV: 1
+Total 1122

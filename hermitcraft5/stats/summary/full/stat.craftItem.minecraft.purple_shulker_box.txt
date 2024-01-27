@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.purple_shulker_box
+1: cubfan135: 732
+2: iskall85: 413
+3: GoodTimeWithScar: 368
+4: Xisuma: 201
+5: Tango: 201
+6: Renthedog: 124
+7: impulseSV: 119
+8: Welsknight: 110
+9: Zedaph: 74
+10: falsesymmetry: 72
+11: Docm77: 41
+12: PythonGB: 34
+13: iJevin: 33
+14: Tinfoilchef: 32
+15: xBCrafted: 27
+16: MumboJumbo: 23
+17: Stressmonster101: 22
+18: Biffa2001: 20
+19: Etho: 1
+Total 2647

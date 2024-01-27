@@ -1,0 +1,25 @@
+minecraft.dropped.egg
+1: Renthedog: 3170
+2: Grian: 2175
+3: MumboJumbo: 1975
+4: ZombieCleo: 555
+5: iskall85: 343
+6: Stressmonster101: 303
+7: Zedaph: 300
+8: Xisuma: 231
+9: cubfan135: 191
+10: GoodTimeWithScar: 109
+11: Tango: 105
+12: Docm77: 56
+13: Tinfoilchef: 51
+14: iJevin: 32
+15: Jessassin: 31
+16: EvilXisuma: 30
+17: falsesymmetry: 28
+18: joehillssays: 12
+19: Keralis1: 9
+20: impulseSV: 8
+21: PythonGB: 2
+22: BdoubleO100: 1
+23: Welsknight: 1
+Total 9718

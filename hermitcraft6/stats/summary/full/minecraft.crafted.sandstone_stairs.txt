@@ -1,0 +1,18 @@
+minecraft.crafted.sandstone_stairs
+1: Xisuma: 2496
+2: iskall85: 1576
+3: joehillssays: 1248
+4: GoodTimeWithScar: 1096
+5: MumboJumbo: 752
+6: ZombieCleo: 729
+7: falsesymmetry: 696
+8: Tango: 408
+9: Zedaph: 384
+10: Grian: 248
+11: cubfan135: 184
+12: Welsknight: 168
+13: Docm77: 152
+14: Biffa2001: 88
+15: iJevin: 40
+16: HumanCleo: 16
+Total 10281

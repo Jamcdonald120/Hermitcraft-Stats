@@ -1,0 +1,6 @@
+minecraft.dropped.polished_diorite_stairs
+1: BdoubleO100: 16
+2: iskall85: 3
+3: xBCrafted: 3
+4: GoodTimeWithScar: 1
+Total 23

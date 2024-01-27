@@ -1,0 +1,26 @@
+stat.mineBlock.minecraft.fence
+1: Xisuma: 1813
+2: xBCrafted: 588
+3: topmass: 458
+4: falsesymmetry: 426
+5: sl1pg8r: 372
+6: impulseSV: 356
+7: Mumbo: 265
+8: ZombieCleo: 112
+9: monkeyfarm: 108
+10: Tango: 106
+11: zueljin: 102
+12: Tinfoilchef: 87
+13: KingDaddyDMAC: 75
+14: PythonGB: 64
+15: iJevin: 47
+16: joehillssays: 44
+17: hypnotizd: 39
+18: Etho: 12
+19: Biffa2001: 10
+20: Spumwackles: 10
+21: Pungence: 6
+22: Keralis1: 6
+23: skyzm: 3
+24: Collen: 2
+Total 5111

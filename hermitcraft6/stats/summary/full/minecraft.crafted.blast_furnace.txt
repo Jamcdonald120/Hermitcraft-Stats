@@ -1,0 +1,16 @@
+minecraft.crafted.blast_furnace
+1: GoodTimeWithScar: 279
+2: Xisuma: 256
+3: cubfan135: 146
+4: falsesymmetry: 75
+5: iskall85: 66
+6: Tango: 64
+7: Docm77: 7
+8: BdoubleO100: 3
+9: Tinfoilchef: 2
+10: Stressmonster101: 2
+11: PythonGB: 1
+12: joehillssays: 1
+13: ZombieCleo: 1
+14: impulseSV: 1
+Total 904

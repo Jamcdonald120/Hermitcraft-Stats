@@ -1,0 +1,24 @@
+minecraft.used.dripstone_block
+1: Renthedog: 1449
+2: cubfan135: 930
+3: Tango: 833
+4: PearlescentMoon: 518
+5: Keralis1: 307
+6: iskall85: 304
+7: Docm77: 284
+8: hypnotizd: 247
+9: joehillssays: 245
+10: GeminiTay: 226
+11: Xisuma: 180
+12: falsesymmetry: 164
+13: iJevin: 44
+14: impulseSV: 38
+15: Etho: 33
+16: VintageBeef: 29
+17: Grian: 24
+18: Smallishbeans: 18
+19: Zedaph: 8
+20: BdoubleO100: 7
+21: ZombieCleo: 4
+22: GoodTimeWithScar: 2
+Total 5894

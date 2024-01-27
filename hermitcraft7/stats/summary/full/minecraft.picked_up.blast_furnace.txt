@@ -1,0 +1,24 @@
+minecraft.picked_up.blast_furnace
+1: GoodTimeWithScar: 263
+2: Renthedog: 81
+3: cubfan135: 50
+4: MumboJumbo: 49
+5: Zedaph: 41
+6: Tango: 39
+7: xBCrafted: 24
+8: Grian: 21
+9: Keralis1: 18
+10: Tinfoilchef: 16
+11: Etho: 12
+12: VintageBeef: 10
+13: hypnotizd: 8
+14: Xisuma: 6
+15: iJevin: 6
+16: iskall85: 5
+17: impulseSV: 5
+18: joehillssays: 4
+19: BdoubleO100: 4
+20: falsesymmetry: 4
+21: Docm77: 3
+22: Stressmonster101: 1
+Total 670

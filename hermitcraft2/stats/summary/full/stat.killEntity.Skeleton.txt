@@ -1,0 +1,29 @@
+stat.killEntity.Skeleton
+1: Xisuma: 9256
+2: ZombieCleo: 4451
+3: KingDaddyDMAC: 4169
+4: sl1pg8r: 2960
+5: hypnotizd: 1684
+6: red3yz: 1204
+7: Tinfoilchef: 844
+8: Spumwackles: 842
+9: iJevin: 772
+10: Tango: 543
+11: Mumbo: 543
+12: Biffa2001: 494
+13: Keralis1: 349
+14: monkeyfarm: 196
+15: falsesymmetry: 152
+16: joehillssays: 109
+17: zueljin: 95
+18: xBCrafted: 76
+19: Pungence: 75
+20: skyzm: 62
+21: Marriland: 52
+22: Collen: 52
+23: Unhost: 32
+24: topmass: 24
+25: xisumavoid: 19
+26: Jessassin: 16
+27: NameOfSamuel: 16
+Total 29087

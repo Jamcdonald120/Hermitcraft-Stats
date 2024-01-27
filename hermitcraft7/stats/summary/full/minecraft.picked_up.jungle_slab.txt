@@ -1,0 +1,21 @@
+minecraft.picked_up.jungle_slab
+1: ZombieCleo: 3381
+2: joehillssays: 1285
+3: Zedaph: 886
+4: Xisuma: 493
+5: Etho: 482
+6: cubfan135: 360
+7: VintageBeef: 347
+8: MumboJumbo: 307
+9: Grian: 183
+10: Stressmonster101: 160
+11: Tango: 114
+12: iskall85: 88
+13: GoodTimeWithScar: 88
+14: BdoubleO100: 68
+15: impulseSV: 12
+16: iJevin: 10
+17: Docm77: 2
+18: Renthedog: 2
+19: Keralis1: 2
+Total 8270

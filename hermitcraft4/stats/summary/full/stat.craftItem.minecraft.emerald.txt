@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.emerald
+1: MumboJumbo: 11339
+2: iskall85: 9530
+3: impulseSV: 8926
+4: cubfan135: 4468
+5: iJevin: 188
+6: Renthedog: 168
+7: Xisuma: 104
+8: PythonGB: 68
+9: joehillssays: 50
+10: GoodTimeWithScar: 20
+11: Tinfoilchef: 12
+12: falsesymmetry: 5
+13: VintageBeef: 1
+14: Tango: 1
+Total 34880

@@ -1,0 +1,27 @@
+minecraft.crafted.bucket
+1: GoodTimeWithScar: 498
+2: Grian: 467
+3: falsesymmetry: 342
+4: Xisuma: 317
+5: iskall85: 301
+6: Renthedog: 277
+7: impulseSV: 152
+8: cubfan135: 141
+9: Tango: 136
+10: MumboJumbo: 106
+11: joehillssays: 95
+12: Zedaph: 75
+13: Docm77: 73
+14: iJevin: 70
+15: Keralis1: 65
+16: Stressmonster101: 38
+17: Tinfoilchef: 36
+18: PythonGB: 28
+19: ZombieCleo: 13
+20: HumanCleo: 10
+21: Biffa2001: 8
+22: BdoubleO100: 7
+23: Welsknight: 5
+24: Jessassin: 2
+25: xBCrafted: 1
+Total 3263

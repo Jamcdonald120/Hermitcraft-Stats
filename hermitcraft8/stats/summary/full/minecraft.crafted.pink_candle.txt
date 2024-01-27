@@ -1,0 +1,5 @@
+minecraft.crafted.pink_candle
+1: cubfan135: 146
+2: Tango: 132
+3: ZombieCleo: 132
+Total 410

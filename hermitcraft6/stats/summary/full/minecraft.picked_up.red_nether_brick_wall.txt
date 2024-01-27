@@ -1,0 +1,5 @@
+minecraft.picked_up.red_nether_brick_wall
+1: Xisuma: 27
+2: cubfan135: 6
+3: falsesymmetry: 2
+Total 35

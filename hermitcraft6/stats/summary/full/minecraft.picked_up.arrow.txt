@@ -1,0 +1,32 @@
+minecraft.picked_up.arrow
+1: Xisuma: 12276
+2: Docm77: 7465
+3: iskall85: 6888
+4: iJevin: 4565
+5: impulseSV: 4377
+6: Tango: 4221
+7: Zedaph: 4028
+8: GoodTimeWithScar: 3652
+9: cubfan135: 3277
+10: Biffa2001: 2804
+11: Renthedog: 2796
+12: falsesymmetry: 2463
+13: Grian: 2170
+14: Welsknight: 1812
+15: PythonGB: 1561
+16: MumboJumbo: 1188
+17: joehillssays: 1103
+18: ZombieCleo: 986
+19: Stressmonster101: 681
+20: Tinfoilchef: 383
+21: BdoubleO100: 174
+22: Keralis1: 100
+23: xBCrafted: 93
+24: Jessassin: 20
+25: Cub_Cam: 19
+26: HumanCleo: 18
+27: EvilXisuma: 12
+28: Jura_Whitey: 10
+29: Duke_da_dog: 6
+30: tterrag: 2
+Total 69150

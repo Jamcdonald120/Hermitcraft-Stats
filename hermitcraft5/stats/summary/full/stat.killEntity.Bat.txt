@@ -1,0 +1,24 @@
+stat.killEntity.Bat
+1: cubfan135: 134
+2: Tango: 100
+3: impulseSV: 86
+4: Xisuma: 84
+5: iskall85: 69
+6: Biffa2001: 43
+7: Docm77: 33
+8: GoodTimeWithScar: 28
+9: Zedaph: 28
+10: BdoubleO100: 18
+11: MumboJumbo: 18
+12: PythonGB: 16
+13: xBCrafted: 16
+14: Etho: 14
+15: Welsknight: 7
+16: falsesymmetry: 6
+17: Renthedog: 5
+18: Tinfoilchef: 5
+19: Stressmonster101: 5
+20: iJevin: 4
+21: joehillssays: 3
+22: VintageBeef: 2
+Total 724

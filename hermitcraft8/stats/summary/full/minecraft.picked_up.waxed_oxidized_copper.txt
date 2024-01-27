@@ -1,0 +1,5 @@
+minecraft.picked_up.waxed_oxidized_copper
+1: Docm77: 97
+2: Renthedog: 3
+3: GoodTimeWithScar: 1
+Total 101

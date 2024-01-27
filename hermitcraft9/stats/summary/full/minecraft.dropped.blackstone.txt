@@ -1,0 +1,24 @@
+minecraft.dropped.blackstone
+1: iJevin: 16195
+2: Tango: 13337
+3: falsesymmetry: 3133
+4: Zedaph: 1061
+5: Xisuma: 708
+6: Docm77: 202
+7: cubfan135: 136
+8: GoodTimeWithScar: 134
+9: iskall85: 125
+10: Etho: 120
+11: Keralis1: 94
+12: joehillssays: 85
+13: ZombieCleo: 84
+14: Renthedog: 71
+15: xBCrafted: 67
+16: impulseSV: 52
+17: Grian: 41
+18: VintageBeef: 40
+19: RentheKing: 29
+20: PearlescentMoon: 17
+21: GeminiTay: 12
+22: Mumbo: 3
+Total 35746

@@ -1,0 +1,27 @@
+minecraft.killed.drowned
+1: cubfan135: 3794
+2: Docm77: 2793
+3: Stressmonster101: 2387
+4: Grian: 2330
+5: Tango: 1833
+6: GoodTimeWithScar: 832
+7: iJevin: 611
+8: MumboJumbo: 596
+9: Renthedog: 453
+10: Xisuma: 414
+11: iskall85: 279
+12: impulseSV: 228
+13: joehillssays: 150
+14: falsesymmetry: 144
+15: ZombieCleo: 124
+16: Biffa2001: 58
+17: Zedaph: 58
+18: PythonGB: 49
+19: Jessassin: 19
+20: Welsknight: 10
+21: HumanCleo: 9
+22: Tinfoilchef: 6
+23: Cub_Cam: 4
+24: xBCrafted: 2
+25: Duke_da_dog: 1
+Total 17184

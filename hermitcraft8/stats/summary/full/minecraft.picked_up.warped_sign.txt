@@ -1,0 +1,16 @@
+minecraft.picked_up.warped_sign
+1: GoodTimeWithScar: 181
+2: impulseSV: 34
+3: Renthedog: 17
+4: Xisuma: 15
+5: Grian: 15
+6: BdoubleO100: 15
+7: iskall85: 7
+8: Keralis1: 7
+9: joehillssays: 6
+10: cubfan135: 5
+11: PearlescentMoon: 3
+12: Etho: 2
+13: Docm77: 1
+14: Zedaph: 1
+Total 309

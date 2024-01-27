@@ -1,0 +1,12 @@
+stat.useItem.minecraft.hay_block
+1: cubfan135: 315
+2: Xisuma: 63
+3: iskall85: 60
+4: falsesymmetry: 37
+5: joehillssays: 15
+6: Biffa2001: 13
+7: VintageBeef: 8
+8: Tango: 7
+9: impulseSV: 5
+10: GoodTimeWithScar: 2
+Total 525

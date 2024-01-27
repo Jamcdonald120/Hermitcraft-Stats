@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.golden_chestplate
+1: falsesymmetry: 33
+2: Renthedog: 9
+3: iskall85: 5
+4: Xisuma: 1
+5: joehillssays: 1
+6: cubfan135: 1
+7: MumboJumbo: 1
+Total 51

@@ -1,0 +1,27 @@
+minecraft.crafted.shears
+1: Xisuma: 1142
+2: GoodTimeWithScar: 457
+3: cubfan135: 312
+4: iskall85: 269
+5: Welsknight: 167
+6: falsesymmetry: 145
+7: Renthedog: 137
+8: joehillssays: 91
+9: Docm77: 90
+10: iJevin: 90
+11: Grian: 74
+12: Tinfoilchef: 74
+13: Tango: 66
+14: BdoubleO100: 36
+15: impulseSV: 36
+16: MumboJumbo: 32
+17: Keralis1: 30
+18: Zedaph: 27
+19: ZombieCleo: 26
+20: PythonGB: 14
+21: Stressmonster101: 11
+22: Biffa2001: 4
+23: HumanCleo: 3
+24: xBCrafted: 3
+25: Jessassin: 2
+Total 3338

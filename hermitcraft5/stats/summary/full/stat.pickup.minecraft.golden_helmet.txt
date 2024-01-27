@@ -1,0 +1,23 @@
+stat.pickup.minecraft.golden_helmet
+1: Renthedog: 133
+2: iskall85: 88
+3: xBCrafted: 42
+4: Stressmonster101: 35
+5: GoodTimeWithScar: 32
+6: PythonGB: 27
+7: Zedaph: 17
+8: impulseSV: 16
+9: Tango: 12
+10: Docm77: 11
+11: MumboJumbo: 11
+12: cubfan135: 9
+13: joehillssays: 8
+14: BdoubleO100: 8
+15: iJevin: 7
+16: falsesymmetry: 7
+17: Welsknight: 7
+18: Tinfoilchef: 7
+19: ZombieCleo: 5
+20: VintageBeef: 4
+21: Biffa2001: 3
+Total 489

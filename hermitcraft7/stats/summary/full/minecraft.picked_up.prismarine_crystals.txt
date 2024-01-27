@@ -1,0 +1,25 @@
+minecraft.picked_up.prismarine_crystals
+1: impulseSV: 22544
+2: Zedaph: 7579
+3: Grian: 2132
+4: Tango: 1471
+5: iJevin: 1354
+6: MumboJumbo: 983
+7: falsesymmetry: 718
+8: Keralis1: 260
+9: Etho: 165
+10: xBCrafted: 84
+11: Docm77: 66
+12: hypnotizd: 35
+13: Xisuma: 29
+14: Renthedog: 28
+15: iskall85: 17
+16: joehillssays: 12
+17: BdoubleO100: 7
+18: cubfan135: 7
+19: GoodTimeWithScar: 7
+20: VintageBeef: 4
+21: ZombieCleo: 4
+22: isGall85: 1
+23: Stressmonster101: 1
+Total 37508

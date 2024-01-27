@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.leaves2
+1: cubfan135: 35484
+2: GoodTimeWithScar: 15007
+3: Xisuma: 2914
+4: BdoubleO100: 1844
+5: joehillssays: 1685
+6: falsesymmetry: 1563
+7: Renthedog: 1416
+8: xBCrafted: 1256
+9: MumboJumbo: 873
+10: iskall85: 767
+11: Welsknight: 659
+12: VintageBeef: 388
+13: Zedaph: 340
+14: Stressmonster101: 322
+15: Tango: 316
+16: PythonGB: 255
+17: impulseSV: 214
+18: iJevin: 138
+19: ZombieCleo: 15
+20: Tinfoilchef: 7
+21: Biffa2001: 4
+22: Docm77: 2
+Total 65469

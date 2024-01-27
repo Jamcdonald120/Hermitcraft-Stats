@@ -1,0 +1,22 @@
+minecraft.crafted.black_terracotta
+1: Docm77: 8208
+2: Grian: 2166
+3: Renthedog: 1832
+4: joehillssays: 1648
+5: impulseSV: 1540
+6: Etho: 1536
+7: VintageBeef: 1152
+8: PearlescentMoon: 944
+9: MythicalSausage: 728
+10: GoodTimeWithScar: 624
+11: RentheKing: 512
+12: falsesymmetry: 472
+13: Keralis1: 408
+14: xBCrafted: 232
+15: cubfan135: 128
+16: BdoubleO100: 88
+17: Xisuma: 64
+18: Tango: 62
+19: Zedaph: 56
+20: Pixlriffs: 32
+Total 22432

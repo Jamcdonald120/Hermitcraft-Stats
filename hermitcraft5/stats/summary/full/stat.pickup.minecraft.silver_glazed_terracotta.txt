@@ -1,0 +1,11 @@
+stat.pickup.minecraft.silver_glazed_terracotta
+1: impulseSV: 175
+2: cubfan135: 172
+3: Docm77: 149
+4: ZombieCleo: 143
+5: GoodTimeWithScar: 135
+6: xBCrafted: 38
+7: joehillssays: 23
+8: Xisuma: 12
+9: iJevin: 2
+Total 849

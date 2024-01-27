@@ -1,0 +1,8 @@
+minecraft.picked_up.trapped_chest
+1: VintageBeef: 6
+2: Welsknight: 4
+3: hypnotizd: 2
+4: cubfan135: 1
+5: Etho: 1
+6: MumboJumbo: 1
+Total 15

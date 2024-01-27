@@ -1,0 +1,18 @@
+minecraft.crafted.dried_kelp_block
+1: Grian: 3315
+2: Xisuma: 2178
+3: joehillssays: 1003
+4: Etho: 410
+5: cubfan135: 308
+6: PearlescentMoon: 92
+7: impulseSV: 64
+8: falsesymmetry: 16
+9: BdoubleO100: 8
+10: GeminiTay: 7
+11: Docm77: 4
+12: Renthedog: 2
+13: VintageBeef: 2
+14: iJevin: 1
+15: GoodTimeWithScar: 1
+16: Zedaph: 1
+Total 7412

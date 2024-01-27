@@ -1,0 +1,13 @@
+stat.mineBlock.minecraft.quartz_ore
+1: ZombieCleo: 1090
+2: Tango: 725
+3: Spumwackles: 597
+4: iJevin: 278
+5: Xisuma: 170
+6: zueljin: 140
+7: falsesymmetry: 56
+8: Tinfoilchef: 54
+9: xBCrafted: 42
+10: KingDaddyDMAC: 36
+11: Mumbo: 1
+Total 3189

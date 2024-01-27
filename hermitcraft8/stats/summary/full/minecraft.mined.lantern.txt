@@ -1,0 +1,24 @@
+minecraft.mined.lantern
+1: GoodTimeWithScar: 75
+2: cubfan135: 61
+3: joehillssays: 57
+4: Xisuma: 54
+5: Grian: 52
+6: PearlescentMoon: 41
+7: falsesymmetry: 30
+8: Renthedog: 27
+9: iJevin: 24
+10: BdoubleO100: 22
+11: Tango: 21
+12: xBCrafted: 19
+13: Etho: 17
+14: Docm77: 15
+15: ZombieCleo: 12
+16: Keralis1: 12
+17: iskall85: 11
+18: GeminiTay: 6
+19: EvilXisuma: 3
+20: hypnotizd: 3
+21: MumboJumbo: 3
+22: impulseSV: 3
+Total 568

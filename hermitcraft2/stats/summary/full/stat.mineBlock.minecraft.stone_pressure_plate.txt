@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.stone_pressure_plate
+1: sl1pg8r: 14
+2: Tango: 6
+3: monkeyfarm: 2
+4: Spumwackles: 2
+5: Tinfoilchef: 1
+6: Collen: 1
+Total 26

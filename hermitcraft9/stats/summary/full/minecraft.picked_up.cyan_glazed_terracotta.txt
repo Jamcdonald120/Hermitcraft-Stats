@@ -1,0 +1,8 @@
+minecraft.picked_up.cyan_glazed_terracotta
+1: Grian: 624
+2: GeminiTay: 6
+3: Tango: 1
+4: PearlescentMoon: 1
+5: Etho: 1
+6: Zedaph: 1
+Total 634

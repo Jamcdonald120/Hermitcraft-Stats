@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.golden_carrot
+1: Xisuma: 16741
+2: impulseSV: 2250
+3: Tango: 1929
+4: cubfan135: 209
+5: iJevin: 155
+6: iskall85: 65
+7: Renthedog: 32
+8: GoodTimeWithScar: 32
+9: falsesymmetry: 22
+10: joehillssays: 18
+11: PythonGB: 4
+12: ZombieCleo: 2
+Total 21459

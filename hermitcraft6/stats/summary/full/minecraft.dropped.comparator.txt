@@ -1,0 +1,14 @@
+minecraft.dropped.comparator
+1: Grian: 263
+2: Renthedog: 228
+3: iskall85: 80
+4: Docm77: 64
+5: MumboJumbo: 50
+6: Tango: 46
+7: Zedaph: 32
+8: Xisuma: 6
+9: Stressmonster101: 4
+10: GoodTimeWithScar: 3
+11: cubfan135: 2
+12: Keralis1: 2
+Total 780

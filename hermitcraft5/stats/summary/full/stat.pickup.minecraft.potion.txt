@@ -1,0 +1,22 @@
+stat.pickup.minecraft.potion
+1: MumboJumbo: 861
+2: Zedaph: 241
+3: cubfan135: 206
+4: Tango: 187
+5: Renthedog: 88
+6: impulseSV: 83
+7: iskall85: 70
+8: falsesymmetry: 39
+9: Tinfoilchef: 36
+10: Xisuma: 20
+11: GoodTimeWithScar: 18
+12: iJevin: 10
+13: Welsknight: 10
+14: Stressmonster101: 9
+15: PythonGB: 7
+16: joehillssays: 7
+17: BdoubleO100: 7
+18: ZombieCleo: 4
+19: Biffa2001: 3
+20: Docm77: 1
+Total 1907

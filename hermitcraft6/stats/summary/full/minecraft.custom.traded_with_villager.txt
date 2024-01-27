@@ -1,0 +1,24 @@
+minecraft.custom.traded_with_villager
+1: iskall85: 60027
+2: cubfan135: 54315
+3: impulseSV: 24223
+4: Grian: 23099
+5: GoodTimeWithScar: 14271
+6: PythonGB: 13998
+7: MumboJumbo: 10254
+8: Stressmonster101: 9788
+9: iJevin: 3294
+10: Renthedog: 2471
+11: ZombieCleo: 2221
+12: Tinfoilchef: 2024
+13: falsesymmetry: 1837
+14: Zedaph: 1040
+15: Docm77: 990
+16: Tango: 967
+17: Xisuma: 914
+18: Biffa2001: 507
+19: Welsknight: 454
+20: joehillssays: 375
+21: HumanCleo: 87
+22: BdoubleO100: 32
+Total 227188

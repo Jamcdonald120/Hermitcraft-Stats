@@ -1,0 +1,26 @@
+stat.furnaceInteraction
+1: cubfan135: 5040
+2: falsesymmetry: 4143
+3: joehillssays: 3680
+4: Tango: 2715
+5: Renthedog: 2666
+6: Xisuma: 2608
+7: impulseSV: 2245
+8: Tinfoilchef: 2217
+9: GoodTimeWithScar: 2126
+10: iskall85: 1317
+11: ZombieCleo: 1087
+12: iJevin: 1036
+13: PythonGB: 893
+14: Etho: 641
+15: Biffa2001: 435
+16: VintageBeef: 434
+17: Docm77: 430
+18: Welsknight: 387
+19: MumboJumbo: 303
+20: xBCrafted: 165
+21: Mumbo: 160
+22: Jessassin: 99
+23: zueljin: 40
+24: hypnotizd: 7
+Total 34874

@@ -1,0 +1,26 @@
+stat.pickup.minecraft.iron_ore
+1: Tinfoilchef: 15334
+2: GoodTimeWithScar: 9973
+3: iskall85: 7041
+4: falsesymmetry: 6351
+5: Xisuma: 6125
+6: Renthedog: 5583
+7: Welsknight: 4935
+8: iJevin: 3274
+9: cubfan135: 3088
+10: Etho: 1894
+11: impulseSV: 1768
+12: Tango: 1592
+13: MumboJumbo: 1539
+14: PythonGB: 1354
+15: joehillssays: 1186
+16: ZombieCleo: 1148
+17: Docm77: 992
+18: Biffa2001: 921
+19: Mumbo: 643
+20: xBCrafted: 332
+21: VintageBeef: 330
+22: Jessassin: 260
+23: zueljin: 102
+24: hypnotizd: 25
+Total 75790

@@ -1,0 +1,13 @@
+minecraft.picked_up.wooden_pickaxe
+1: iJevin: 4
+2: joehillssays: 4
+3: ZombieCleo: 4
+4: GeminiTay: 3
+5: BdoubleO100: 3
+6: Tango: 2
+7: iskall85: 2
+8: Etho: 2
+9: GoodTimeWithScar: 2
+10: Grian: 1
+11: xBCrafted: 1
+Total 28

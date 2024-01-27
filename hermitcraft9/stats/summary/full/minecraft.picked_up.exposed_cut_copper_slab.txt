@@ -1,0 +1,9 @@
+minecraft.picked_up.exposed_cut_copper_slab
+1: Docm77: 112
+2: cubfan135: 51
+3: VintageBeef: 27
+4: RentheKing: 6
+5: impulseSV: 4
+6: Renthedog: 1
+7: iskall85: 1
+Total 202

@@ -1,0 +1,21 @@
+minecraft.picked_up.soul_soil
+1: Xisuma: 3074
+2: GoodTimeWithScar: 3064
+3: cubfan135: 1682
+4: Docm77: 927
+5: PearlescentMoon: 501
+6: Tango: 415
+7: GeminiTay: 352
+8: Keralis1: 308
+9: iJevin: 219
+10: Grian: 68
+11: Renthedog: 65
+12: hypnotizd: 44
+13: Welsknight: 32
+14: impulseSV: 31
+15: VintageBeef: 25
+16: iskall85: 15
+17: BdoubleO100: 13
+18: ZombieCleo: 2
+19: falsesymmetry: 1
+Total 10838

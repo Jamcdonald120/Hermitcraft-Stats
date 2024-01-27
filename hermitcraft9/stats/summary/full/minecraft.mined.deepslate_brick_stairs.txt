@@ -1,0 +1,25 @@
+minecraft.mined.deepslate_brick_stairs
+1: iJevin: 1261
+2: Tango: 736
+3: impulseSV: 359
+4: Mumbo: 343
+5: xBCrafted: 188
+6: RentheKing: 140
+7: cubfan135: 97
+8: Renthedog: 87
+9: Xisuma: 63
+10: joehillssays: 34
+11: PearlescentMoon: 28
+12: ZombieCleo: 28
+13: Zedaph: 19
+14: hypnotizd: 14
+15: GeminiTay: 13
+16: BdoubleO100: 11
+17: Grian: 9
+18: Etho: 7
+19: iskall85: 6
+20: Docm77: 4
+21: GoodTimeWithScar: 2
+22: Keralis1: 2
+23: falsesymmetry: 1
+Total 3452

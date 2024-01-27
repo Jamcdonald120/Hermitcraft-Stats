@@ -1,0 +1,20 @@
+minecraft.picked_up.nautilus_shell
+1: PearlescentMoon: 84
+2: iJevin: 66
+3: cubfan135: 34
+4: xBCrafted: 29
+5: Grian: 17
+6: Zedaph: 16
+7: Docm77: 15
+8: iskall85: 11
+9: falsesymmetry: 10
+10: GoodTimeWithScar: 8
+11: Etho: 7
+12: hypnotizd: 7
+13: Keralis1: 4
+14: ZombieCleo: 3
+15: impulseSV: 3
+16: BdoubleO100: 1
+17: Pixlriffs: 1
+18: Stressmonster101: 1
+Total 317

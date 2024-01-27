@@ -1,0 +1,24 @@
+stat.pickup.minecraft.quartz
+1: GoodTimeWithScar: 23296
+2: cubfan135: 21399
+3: MumboJumbo: 20961
+4: impulseSV: 19151
+5: Zedaph: 10365
+6: PythonGB: 7585
+7: Xisuma: 7077
+8: falsesymmetry: 6406
+9: iskall85: 5660
+10: Welsknight: 4498
+11: Tango: 3349
+12: joehillssays: 2406
+13: VintageBeef: 1965
+14: Renthedog: 1571
+15: xBCrafted: 1312
+16: Tinfoilchef: 780
+17: Stressmonster101: 718
+18: Docm77: 421
+19: Biffa2001: 408
+20: iJevin: 323
+21: BdoubleO100: 308
+22: Etho: 180
+Total 140139

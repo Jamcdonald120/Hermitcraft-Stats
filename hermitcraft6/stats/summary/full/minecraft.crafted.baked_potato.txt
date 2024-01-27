@@ -1,0 +1,23 @@
+minecraft.crafted.baked_potato
+1: joehillssays: 2128
+2: Renthedog: 1838
+3: Biffa2001: 1444
+4: Tango: 1202
+5: Tinfoilchef: 1162
+6: cubfan135: 919
+7: PythonGB: 768
+8: falsesymmetry: 763
+9: Grian: 656
+10: iskall85: 510
+11: Zedaph: 451
+12: GoodTimeWithScar: 369
+13: Xisuma: 276
+14: Jessassin: 184
+15: xBCrafted: 159
+16: ZombieCleo: 155
+17: Welsknight: 99
+18: Stressmonster101: 79
+19: Keralis1: 71
+20: EvilXisuma: 64
+21: MumboJumbo: 30
+Total 13327

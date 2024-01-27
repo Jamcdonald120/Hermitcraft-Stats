@@ -1,0 +1,30 @@
+minecraft.picked_up.dark_oak_sign
+1: falsesymmetry: 328
+2: iJevin: 183
+3: Renthedog: 131
+4: Tango: 102
+5: cubfan135: 48
+6: GoodTimeWithScar: 48
+7: RentheKing: 43
+8: Docm77: 38
+9: ZombieCleo: 37
+10: Grian: 31
+11: joehillssays: 28
+12: PearlescentMoon: 25
+13: Xisuma: 16
+14: OrionSound: 14
+15: MythicalSausage: 14
+16: impulseSV: 13
+17: Keralis1: 12
+18: BdoubleO100: 10
+19: GeminiTay: 5
+20: Zedaph: 5
+21: Smallishbeans: 4
+22: xBCrafted: 4
+23: iskall85: 3
+24: InTheLittleWood: 3
+25: Stressmonster101: 2
+26: ShubbleYT: 2
+27: Skizzleman: 1
+28: Etho: 1
+Total 1151

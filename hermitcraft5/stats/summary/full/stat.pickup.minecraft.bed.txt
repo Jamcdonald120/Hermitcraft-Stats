@@ -1,0 +1,25 @@
+stat.pickup.minecraft.bed
+1: cubfan135: 400
+2: Welsknight: 223
+3: Xisuma: 167
+4: falsesymmetry: 95
+5: Stressmonster101: 88
+6: BdoubleO100: 73
+7: iskall85: 71
+8: Renthedog: 69
+9: impulseSV: 64
+10: Zedaph: 54
+11: GoodTimeWithScar: 46
+12: MumboJumbo: 41
+13: joehillssays: 34
+14: VintageBeef: 32
+15: iJevin: 30
+16: xBCrafted: 24
+17: Tango: 21
+18: Tinfoilchef: 20
+19: ZombieCleo: 18
+20: PythonGB: 8
+21: Etho: 8
+22: Docm77: 3
+23: Biffa2001: 3
+Total 1592

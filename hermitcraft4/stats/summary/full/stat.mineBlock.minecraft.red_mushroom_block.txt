@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.red_mushroom_block
+1: Xisuma: 964
+2: cubfan135: 701
+3: Docm77: 558
+4: Tinfoilchef: 148
+5: iskall85: 105
+6: falsesymmetry: 101
+7: Renthedog: 16
+8: Etho: 15
+9: Welsknight: 11
+10: ZombieCleo: 3
+Total 2622

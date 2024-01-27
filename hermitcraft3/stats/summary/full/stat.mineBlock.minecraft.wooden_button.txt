@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.wooden_button
+1: falsesymmetry: 50
+2: Xisuma: 39
+3: impulseSV: 39
+4: monkeyfarm: 25
+5: zueljin: 24
+6: xBCrafted: 23
+7: Mumbo: 23
+8: Tango: 22
+9: Biffa2001: 15
+10: Tinfoilchef: 5
+11: sl1pg8r: 4
+12: iJevin: 4
+13: topmass: 3
+14: ZombieCleo: 2
+Total 278

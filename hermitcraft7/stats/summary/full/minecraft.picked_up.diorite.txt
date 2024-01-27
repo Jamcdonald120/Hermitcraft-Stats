@@ -1,0 +1,27 @@
+minecraft.picked_up.diorite
+1: Grian: 44016
+2: falsesymmetry: 33347
+3: GoodTimeWithScar: 30623
+4: Etho: 25514
+5: Zedaph: 20462
+6: iJevin: 19910
+7: Xisuma: 18080
+8: impulseSV: 16587
+9: Tango: 15168
+10: Renthedog: 13641
+11: iskall85: 12810
+12: cubfan135: 12680
+13: MumboJumbo: 11828
+14: hypnotizd: 11294
+15: Stressmonster101: 11042
+16: xBCrafted: 10891
+17: joehillssays: 10414
+18: VintageBeef: 9414
+19: Keralis1: 8993
+20: Welsknight: 7710
+21: BdoubleO100: 6993
+22: Docm77: 6594
+23: ZombieCleo: 2886
+24: Tinfoilchef: 2779
+25: Helsknight_: 9
+Total 363685

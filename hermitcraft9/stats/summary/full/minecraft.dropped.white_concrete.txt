@@ -1,0 +1,13 @@
+minecraft.dropped.white_concrete
+1: falsesymmetry: 5727
+2: Grian: 140
+3: iJevin: 122
+4: Docm77: 119
+5: Keralis1: 78
+6: cubfan135: 71
+7: Renthedog: 70
+8: impulseSV: 65
+9: Etho: 59
+10: Xisuma: 54
+11: GoodTimeWithScar: 22
+Total 6527

@@ -1,0 +1,27 @@
+minecraft.picked_up.leather_leggings
+1: GoodTimeWithScar: 53
+2: cubfan135: 52
+3: ZombieCleo: 43
+4: iJevin: 41
+5: iskall85: 29
+6: Tango: 28
+7: Xisuma: 27
+8: Docm77: 24
+9: Grian: 24
+10: joehillssays: 19
+11: falsesymmetry: 18
+12: Welsknight: 14
+13: Biffa2001: 14
+14: impulseSV: 13
+15: Zedaph: 13
+16: HumanCleo: 12
+17: Renthedog: 10
+18: MumboJumbo: 9
+19: EvilXisuma: 5
+20: Stressmonster101: 4
+21: PythonGB: 3
+22: xBCrafted: 3
+23: Jessassin: 2
+24: Tinfoilchef: 1
+25: Keralis1: 1
+Total 462

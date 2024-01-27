@@ -1,0 +1,12 @@
+minecraft.crafted.gray_stained_glass_pane
+1: impulseSV: 1608
+2: falsesymmetry: 480
+3: GoodTimeWithScar: 184
+4: iskall85: 160
+5: cubfan135: 160
+6: PearlescentMoon: 112
+7: Xisuma: 80
+8: Tango: 32
+9: joehillssays: 16
+10: BdoubleO100: 16
+Total 2848

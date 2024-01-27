@@ -1,0 +1,14 @@
+minecraft.picked_up.blue_bed
+1: Renthedog: 105
+2: Docm77: 98
+3: cubfan135: 29
+4: GoodTimeWithScar: 29
+5: Tinfoilchef: 22
+6: BdoubleO100: 8
+7: falsesymmetry: 7
+8: Grian: 5
+9: ZombieCleo: 4
+10: Xisuma: 2
+11: Stressmonster101: 2
+12: MumboJumbo: 1
+Total 312

@@ -1,0 +1,18 @@
+minecraft.crafted.shulker_box
+1: PythonGB: 859
+2: iskall85: 807
+3: cubfan135: 769
+4: Grian: 713
+5: GoodTimeWithScar: 582
+6: impulseSV: 411
+7: Tango: 335
+8: MumboJumbo: 214
+9: Xisuma: 205
+10: falsesymmetry: 102
+11: Renthedog: 86
+12: iJevin: 58
+13: Zedaph: 48
+14: Stressmonster101: 17
+15: Welsknight: 5
+16: Biffa2001: 1
+Total 5212

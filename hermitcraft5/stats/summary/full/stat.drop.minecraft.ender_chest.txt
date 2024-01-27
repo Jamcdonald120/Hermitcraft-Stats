@@ -1,0 +1,11 @@
+stat.drop.minecraft.ender_chest
+1: Tango: 15
+2: cubfan135: 10
+3: Xisuma: 4
+4: Zedaph: 4
+5: iskall85: 1
+6: xBCrafted: 1
+7: falsesymmetry: 1
+8: xisumavoid: 1
+9: MumboJumbo: 1
+Total 38

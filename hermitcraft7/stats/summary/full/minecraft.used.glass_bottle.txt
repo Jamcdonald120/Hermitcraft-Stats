@@ -1,0 +1,25 @@
+minecraft.used.glass_bottle
+1: Xisuma: 6736
+2: Tango: 2894
+3: cubfan135: 763
+4: Zedaph: 612
+5: hypnotizd: 469
+6: falsesymmetry: 391
+7: impulseSV: 365
+8: Etho: 336
+9: iJevin: 262
+10: Keralis1: 179
+11: iskall85: 170
+12: joehillssays: 158
+13: Renthedog: 134
+14: VintageBeef: 114
+15: GoodTimeWithScar: 103
+16: Docm77: 71
+17: Stressmonster101: 51
+18: xBCrafted: 47
+19: Grian: 39
+20: ZombieCleo: 36
+21: Welsknight: 33
+22: MumboJumbo: 24
+23: BdoubleO100: 1
+Total 13988

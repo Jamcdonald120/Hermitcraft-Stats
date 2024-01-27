@@ -1,0 +1,5 @@
+minecraft.dropped.cut_copper
+1: PearlescentMoon: 46
+2: Xisuma: 12
+3: Tango: 4
+Total 62

@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.acacia_stairs
+1: Xisuma: 20
+2: zueljin: 12
+Total 32

@@ -1,0 +1,26 @@
+minecraft.picked_up.birch_sapling
+1: GoodTimeWithScar: 4814
+2: cubfan135: 4127
+3: Renthedog: 2224
+4: impulseSV: 1999
+5: Xisuma: 751
+6: MumboJumbo: 704
+7: falsesymmetry: 357
+8: Tango: 263
+9: BdoubleO100: 235
+10: joehillssays: 169
+11: Welsknight: 161
+12: iskall85: 125
+13: Jessassin: 111
+14: ZombieCleo: 89
+15: Grian: 79
+16: Zedaph: 66
+17: Docm77: 34
+18: PythonGB: 26
+19: Biffa2001: 23
+20: iJevin: 22
+21: EvilXisuma: 19
+22: xBCrafted: 14
+23: Stressmonster101: 14
+24: Keralis1: 13
+Total 16439

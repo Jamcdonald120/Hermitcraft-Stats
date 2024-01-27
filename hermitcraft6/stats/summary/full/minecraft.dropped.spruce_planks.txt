@@ -1,0 +1,23 @@
+minecraft.dropped.spruce_planks
+1: Grian: 1637
+2: Renthedog: 732
+3: iskall85: 504
+4: cubfan135: 476
+5: Tango: 307
+6: GoodTimeWithScar: 282
+7: Docm77: 199
+8: Xisuma: 165
+9: joehillssays: 121
+10: MumboJumbo: 108
+11: Stressmonster101: 104
+12: falsesymmetry: 94
+13: iJevin: 92
+14: Keralis1: 67
+15: PythonGB: 41
+16: ZombieCleo: 39
+17: Zedaph: 18
+18: Biffa2001: 16
+19: BdoubleO100: 15
+20: Welsknight: 9
+21: impulseSV: 4
+Total 5030

@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.redstone_block
+1: Tango: 7718
+2: Xisuma: 4863
+3: Tinfoilchef: 4180
+4: cubfan135: 3078
+5: Renthedog: 2084
+6: GoodTimeWithScar: 1630
+7: Zedaph: 936
+8: falsesymmetry: 855
+9: iskall85: 774
+10: MumboJumbo: 691
+11: Welsknight: 558
+12: Etho: 526
+13: xBCrafted: 369
+14: impulseSV: 366
+15: joehillssays: 313
+16: PythonGB: 304
+17: iJevin: 289
+18: Stressmonster101: 268
+19: Biffa2001: 256
+20: BdoubleO100: 238
+21: ZombieCleo: 112
+22: VintageBeef: 95
+23: Docm77: 69
+Total 30572

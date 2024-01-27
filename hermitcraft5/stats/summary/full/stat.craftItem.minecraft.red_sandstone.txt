@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.red_sandstone
+1: cubfan135: 3509
+2: MumboJumbo: 1412
+3: Xisuma: 252
+4: VintageBeef: 167
+5: PythonGB: 160
+6: joehillssays: 104
+7: Tango: 64
+8: iJevin: 20
+Total 5688

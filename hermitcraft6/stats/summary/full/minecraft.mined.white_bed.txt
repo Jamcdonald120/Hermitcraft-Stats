@@ -1,0 +1,26 @@
+minecraft.mined.white_bed
+1: Xisuma: 423
+2: cubfan135: 312
+3: impulseSV: 250
+4: Renthedog: 230
+5: BdoubleO100: 202
+6: Grian: 147
+7: Stressmonster101: 100
+8: GoodTimeWithScar: 87
+9: iJevin: 83
+10: Welsknight: 56
+11: falsesymmetry: 39
+12: iskall85: 36
+13: Zedaph: 32
+14: Docm77: 30
+15: joehillssays: 27
+16: MumboJumbo: 25
+17: Keralis1: 25
+18: Biffa2001: 24
+19: Tinfoilchef: 24
+20: Tango: 21
+21: ZombieCleo: 14
+22: HumanCleo: 7
+23: PythonGB: 4
+24: Duke_da_dog: 4
+Total 2202

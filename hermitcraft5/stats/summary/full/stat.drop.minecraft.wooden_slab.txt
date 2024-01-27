@@ -1,0 +1,22 @@
+stat.drop.minecraft.wooden_slab
+1: cubfan135: 647
+2: GoodTimeWithScar: 315
+3: impulseSV: 222
+4: MumboJumbo: 122
+5: falsesymmetry: 112
+6: Xisuma: 72
+7: iJevin: 68
+8: Welsknight: 64
+9: iskall85: 56
+10: BdoubleO100: 36
+11: VintageBeef: 32
+12: Zedaph: 32
+13: Stressmonster101: 24
+14: Tango: 20
+15: Docm77: 11
+16: xBCrafted: 9
+17: joehillssays: 6
+18: ZombieCleo: 5
+19: Renthedog: 3
+20: PythonGB: 3
+Total 1859

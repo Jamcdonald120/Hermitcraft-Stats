@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.redstone_ore
+1: Xisuma: 1572
+2: Tango: 1020
+3: Mumbo: 326
+4: xBCrafted: 247
+5: Spumwackles: 213
+6: sl1pg8r: 163
+7: Tinfoilchef: 80
+8: falsesymmetry: 78
+9: Biffa2001: 34
+10: iJevin: 26
+11: zueljin: 14
+12: ZombieCleo: 12
+Total 3785

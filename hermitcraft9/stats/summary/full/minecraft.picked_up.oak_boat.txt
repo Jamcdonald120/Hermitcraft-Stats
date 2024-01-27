@@ -1,0 +1,30 @@
+minecraft.picked_up.oak_boat
+1: Zedaph: 250
+2: Renthedog: 188
+3: Etho: 162
+4: impulseSV: 92
+5: Docm77: 66
+6: iJevin: 64
+7: cubfan135: 62
+8: Welsknight: 59
+9: VintageBeef: 42
+10: Xisuma: 39
+11: Tango: 39
+12: PearlescentMoon: 33
+13: Keralis1: 33
+14: Grian: 27
+15: GeminiTay: 14
+16: joehillssays: 13
+17: falsesymmetry: 13
+18: ZombieCleo: 8
+19: Mumbo: 8
+20: iskall85: 6
+21: MumboJumbo: 6
+22: MythicalSausage: 2
+23: xBCrafted: 2
+24: Stressmonster101: 2
+25: SolidarityGaming: 2
+26: OrionSound: 1
+27: BdoubleO100: 1
+28: hypnotizd: 1
+Total 1235

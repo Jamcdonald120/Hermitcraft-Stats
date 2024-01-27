@@ -1,0 +1,4 @@
+minecraft.picked_up.yellow_glazed_terracotta
+1: ZombieCleo: 8
+2: Etho: 1
+Total 9

@@ -1,0 +1,25 @@
+stat.trappedChestTriggered
+1: GoodTimeWithScar: 15979
+2: falsesymmetry: 14792
+3: Tango: 10985
+4: iskall85: 10091
+5: MumboJumbo: 7358
+6: Renthedog: 7175
+7: Welsknight: 5923
+8: impulseSV: 4859
+9: cubfan135: 4549
+10: Xisuma: 2653
+11: iJevin: 2026
+12: PythonGB: 1074
+13: Etho: 1037
+14: Docm77: 994
+15: Tinfoilchef: 571
+16: VintageBeef: 323
+17: zueljin: 292
+18: joehillssays: 271
+19: Biffa2001: 119
+20: ZombieCleo: 78
+21: xisumavoid: 31
+22: Mumbo: 18
+23: Jessassin: 3
+Total 91201

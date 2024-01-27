@@ -1,0 +1,10 @@
+minecraft.dropped.ghast_tear
+1: GoodTimeWithScar: 16
+2: impulseSV: 12
+3: iskall85: 4
+4: MumboJumbo: 3
+5: Zedaph: 3
+6: Renthedog: 2
+7: falsesymmetry: 1
+8: cubfan135: 1
+Total 42

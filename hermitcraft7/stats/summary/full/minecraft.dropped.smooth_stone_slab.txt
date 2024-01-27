@@ -1,0 +1,21 @@
+minecraft.dropped.smooth_stone_slab
+1: Zedaph: 2322
+2: falsesymmetry: 646
+3: cubfan135: 530
+4: Grian: 402
+5: MumboJumbo: 379
+6: GoodTimeWithScar: 327
+7: Etho: 309
+8: Tango: 254
+9: Keralis1: 101
+10: VintageBeef: 93
+11: xBCrafted: 71
+12: impulseSV: 71
+13: hypnotizd: 65
+14: Xisuma: 46
+15: iskall85: 25
+16: Renthedog: 6
+17: Docm77: 3
+18: ZombieCleo: 3
+19: Stressmonster101: 3
+Total 5656

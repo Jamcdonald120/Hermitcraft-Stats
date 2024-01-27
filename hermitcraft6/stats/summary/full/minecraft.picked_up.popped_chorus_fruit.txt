@@ -1,0 +1,9 @@
+minecraft.picked_up.popped_chorus_fruit
+1: cubfan135: 608
+2: GoodTimeWithScar: 570
+3: Xisuma: 480
+4: Tinfoilchef: 272
+5: Tango: 108
+6: falsesymmetry: 14
+7: Zedaph: 12
+Total 2064

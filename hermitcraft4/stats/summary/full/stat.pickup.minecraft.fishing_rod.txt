@@ -1,0 +1,19 @@
+stat.pickup.minecraft.fishing_rod
+1: GoodTimeWithScar: 165
+2: iskall85: 152
+3: Xisuma: 125
+4: impulseSV: 122
+5: cubfan135: 101
+6: Etho: 36
+7: PythonGB: 35
+8: MumboJumbo: 26
+9: Welsknight: 23
+10: Renthedog: 16
+11: Docm77: 13
+12: VintageBeef: 2
+13: Jessassin: 2
+14: Tango: 2
+15: falsesymmetry: 2
+16: Biffa2001: 2
+17: xisumavoid: 1
+Total 825

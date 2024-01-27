@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.snow_layer
+1: Tango: 1818
+2: falsesymmetry: 1698
+3: sl1pg8r: 1134
+4: Xisuma: 720
+5: ZombieCleo: 108
+6: topmass: 84
+7: Docm77: 72
+8: impulseSV: 72
+9: Mumbo: 64
+10: iJevin: 24
+11: zueljin: 18
+Total 5812

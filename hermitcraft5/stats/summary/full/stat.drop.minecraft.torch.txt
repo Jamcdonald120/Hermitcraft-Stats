@@ -1,0 +1,24 @@
+stat.drop.minecraft.torch
+1: Tango: 2419
+2: Zedaph: 1298
+3: GoodTimeWithScar: 1199
+4: iskall85: 592
+5: falsesymmetry: 570
+6: Renthedog: 484
+7: MumboJumbo: 396
+8: cubfan135: 313
+9: impulseSV: 291
+10: Xisuma: 144
+11: Etho: 128
+12: xBCrafted: 115
+13: Stressmonster101: 94
+14: Welsknight: 65
+15: Docm77: 62
+16: Biffa2001: 62
+17: PythonGB: 48
+18: joehillssays: 36
+19: Tinfoilchef: 21
+20: BdoubleO100: 10
+21: VintageBeef: 7
+22: iJevin: 5
+Total 8359

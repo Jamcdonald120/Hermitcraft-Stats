@@ -1,0 +1,24 @@
+minecraft.used.redstone_torch
+1: iskall85: 3523
+2: cubfan135: 2206
+3: Docm77: 1649
+4: MumboJumbo: 1254
+5: Xisuma: 1123
+6: impulseSV: 1107
+7: Tango: 676
+8: GoodTimeWithScar: 480
+9: Renthedog: 468
+10: Tinfoilchef: 391
+11: iJevin: 335
+12: joehillssays: 246
+13: Stressmonster101: 245
+14: Zedaph: 236
+15: Grian: 219
+16: Keralis1: 209
+17: Welsknight: 137
+18: falsesymmetry: 126
+19: ZombieCleo: 78
+20: PythonGB: 18
+21: BdoubleO100: 11
+22: HumanCleo: 5
+Total 14742

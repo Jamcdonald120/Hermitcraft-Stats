@@ -1,0 +1,6 @@
+minecraft.crafted.smooth_basalt
+1: PearlescentMoon: 295
+2: cubfan135: 128
+3: BdoubleO100: 53
+4: ZombieCleo: 37
+Total 513

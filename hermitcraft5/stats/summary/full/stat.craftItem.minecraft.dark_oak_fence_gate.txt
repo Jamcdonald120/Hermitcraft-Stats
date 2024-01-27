@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.dark_oak_fence_gate
+1: cubfan135: 142
+2: MumboJumbo: 134
+3: impulseSV: 128
+4: falsesymmetry: 90
+5: xBCrafted: 54
+6: Tango: 17
+7: GoodTimeWithScar: 12
+8: joehillssays: 5
+9: Stressmonster101: 4
+10: iJevin: 1
+Total 587

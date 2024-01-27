@@ -1,0 +1,7 @@
+minecraft.crafted.magma_block
+1: Tango: 1376
+2: Etho: 385
+3: iskall85: 19
+4: Xisuma: 3
+5: hypnotizd: 3
+Total 1786

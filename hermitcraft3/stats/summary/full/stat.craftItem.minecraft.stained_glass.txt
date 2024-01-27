@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.stained_glass
+1: xBCrafted: 22240
+2: ZombieCleo: 12016
+3: falsesymmetry: 11544
+4: Xisuma: 9488
+5: sl1pg8r: 9096
+6: hypnotizd: 5048
+7: KingDaddyDMAC: 3896
+8: Tango: 3232
+9: Tinfoilchef: 3200
+10: impulseSV: 2760
+11: Mumbo: 2352
+12: monkeyfarm: 968
+13: Biffa2001: 744
+14: zueljin: 624
+15: Docm77: 264
+16: PythonGB: 264
+17: skyzm: 240
+18: topmass: 200
+19: iJevin: 168
+20: Spumwackles: 16
+Total 88360

@@ -1,0 +1,16 @@
+minecraft.picked_up.charcoal
+1: falsesymmetry: 166
+2: Zedaph: 70
+3: Grian: 44
+4: joehillssays: 22
+5: Tango: 12
+6: cubfan135: 8
+7: GoodTimeWithScar: 8
+8: Stressmonster101: 8
+9: impulseSV: 7
+10: Xisuma: 4
+11: iJevin: 4
+12: iskall85: 4
+13: Docm77: 3
+14: BdoubleO100: 2
+Total 362

@@ -1,0 +1,26 @@
+minecraft.picked_up.glass
+1: GoodTimeWithScar: 93964
+2: cubfan135: 58236
+3: Welsknight: 46405
+4: iJevin: 9771
+5: iskall85: 5557
+6: Xisuma: 5301
+7: Tango: 4892
+8: MumboJumbo: 4272
+9: Grian: 4150
+10: Renthedog: 3838
+11: impulseSV: 3410
+12: Docm77: 3004
+13: Zedaph: 2908
+14: falsesymmetry: 2759
+15: Stressmonster101: 2063
+16: PythonGB: 583
+17: joehillssays: 408
+18: Duke_da_dog: 193
+19: Biffa2001: 181
+20: Keralis1: 148
+21: HumanCleo: 93
+22: Tinfoilchef: 68
+23: BdoubleO100: 39
+24: ZombieCleo: 22
+Total 252265

@@ -1,0 +1,4 @@
+stat.useItem.minecraft.diamond_block
+1: Biffa2001: 2
+2: Mumbo: 2
+Total 4

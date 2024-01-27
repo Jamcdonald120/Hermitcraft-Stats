@@ -1,0 +1,28 @@
+stat.killEntity.Spider
+1: hypnotizd: 364
+2: Xisuma: 262
+3: ZombieCleo: 251
+4: sl1pg8r: 214
+5: Spumwackles: 191
+6: KingDaddyDMAC: 184
+7: iJevin: 169
+8: Keralis1: 111
+9: Tinfoilchef: 103
+10: red3yz: 88
+11: Mumbo: 75
+12: Tango: 68
+13: falsesymmetry: 52
+14: Biffa2001: 43
+15: zueljin: 31
+16: skyzm: 29
+17: Marriland: 29
+18: Pungence: 28
+19: Collen: 28
+20: xBCrafted: 27
+21: monkeyfarm: 18
+22: NameOfSamuel: 14
+23: Jessassin: 8
+24: topmass: 7
+25: joehillssays: 7
+26: Unhost: 3
+Total 2404

@@ -1,0 +1,5 @@
+stat.useItem.minecraft.ice
+1: iJevin: 1349
+2: Xisuma: 185
+3: falsesymmetry: 21
+Total 1555

@@ -1,0 +1,15 @@
+minecraft.dropped.birch_trapdoor
+1: Tango: 228
+2: cubfan135: 72
+3: Grian: 46
+4: Keralis1: 45
+5: Zedaph: 40
+6: Renthedog: 11
+7: VintageBeef: 5
+8: Etho: 3
+9: Docm77: 2
+10: MumboJumbo: 2
+11: Stressmonster101: 2
+12: BdoubleO100: 1
+13: falsesymmetry: 1
+Total 458

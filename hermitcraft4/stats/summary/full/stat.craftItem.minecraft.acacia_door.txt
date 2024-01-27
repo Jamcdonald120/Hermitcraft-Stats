@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.acacia_door
+1: cubfan135: 153
+2: ZombieCleo: 33
+3: Renthedog: 18
+4: VintageBeef: 18
+5: PythonGB: 9
+6: joehillssays: 6
+7: falsesymmetry: 6
+8: Tinfoilchef: 6
+9: xBCrafted: 3
+Total 252

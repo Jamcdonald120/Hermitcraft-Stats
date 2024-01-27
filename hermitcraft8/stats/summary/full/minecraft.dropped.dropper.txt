@@ -1,0 +1,8 @@
+minecraft.dropped.dropper
+1: Tango: 33
+2: Etho: 33
+3: Grian: 9
+4: MumboJumbo: 9
+5: Zedaph: 7
+6: impulseSV: 3
+Total 94

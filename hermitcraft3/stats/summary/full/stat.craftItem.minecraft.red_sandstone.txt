@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.red_sandstone
+1: Tango: 2487
+2: Xisuma: 597
+3: xBCrafted: 438
+4: zueljin: 364
+5: topmass: 266
+6: KingDaddyDMAC: 258
+7: iJevin: 21
+8: falsesymmetry: 11
+Total 4442

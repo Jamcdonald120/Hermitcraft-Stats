@@ -1,0 +1,23 @@
+minecraft.picked_up.stripped_spruce_log
+1: cubfan135: 1008
+2: GoodTimeWithScar: 639
+3: Docm77: 270
+4: Grian: 201
+5: Renthedog: 100
+6: Xisuma: 79
+7: falsesymmetry: 69
+8: BdoubleO100: 60
+9: Stressmonster101: 54
+10: iskall85: 53
+11: Keralis1: 47
+12: xBCrafted: 25
+13: ZombieCleo: 18
+14: Tango: 16
+15: impulseSV: 15
+16: Tinfoilchef: 11
+17: iJevin: 9
+18: joehillssays: 9
+19: MumboJumbo: 8
+20: HumanCleo: 1
+21: PythonGB: 1
+Total 2693

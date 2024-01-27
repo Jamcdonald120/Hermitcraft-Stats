@@ -1,0 +1,25 @@
+minecraft.crafted.white_bed
+1: cubfan135: 59
+2: impulseSV: 50
+3: Grian: 47
+4: GoodTimeWithScar: 40
+5: Stressmonster101: 34
+6: MumboJumbo: 31
+7: PythonGB: 24
+8: iJevin: 21
+9: joehillssays: 18
+10: Tango: 17
+11: iskall85: 16
+12: Renthedog: 15
+13: Docm77: 11
+14: Tinfoilchef: 8
+15: Zedaph: 8
+16: Xisuma: 7
+17: Keralis1: 7
+18: Biffa2001: 6
+19: ZombieCleo: 6
+20: falsesymmetry: 3
+21: Welsknight: 3
+22: BdoubleO100: 2
+23: Jessassin: 1
+Total 434

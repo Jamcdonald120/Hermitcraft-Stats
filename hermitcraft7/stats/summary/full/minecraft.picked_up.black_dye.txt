@@ -1,0 +1,19 @@
+minecraft.picked_up.black_dye
+1: Zedaph: 511
+2: Grian: 276
+3: Tango: 138
+4: joehillssays: 93
+5: impulseSV: 62
+6: GoodTimeWithScar: 58
+7: cubfan135: 43
+8: Xisuma: 41
+9: Keralis1: 39
+10: BdoubleO100: 29
+11: ZombieCleo: 28
+12: MumboJumbo: 25
+13: falsesymmetry: 23
+14: VintageBeef: 20
+15: Renthedog: 3
+16: iJevin: 3
+17: Etho: 2
+Total 1394

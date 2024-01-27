@@ -1,0 +1,22 @@
+minecraft.crafted.gold_nugget
+1: Renthedog: 69182
+2: impulseSV: 64036
+3: iskall85: 48596
+4: Grian: 44372
+5: Stressmonster101: 15240
+6: cubfan135: 8788
+7: iJevin: 6375
+8: MumboJumbo: 5353
+9: joehillssays: 5123
+10: Zedaph: 2827
+11: Xisuma: 1818
+12: PythonGB: 1485
+13: ZombieCleo: 252
+14: Biffa2001: 234
+15: BdoubleO100: 192
+16: falsesymmetry: 171
+17: GoodTimeWithScar: 117
+18: Tango: 36
+19: Tinfoilchef: 18
+20: Docm77: 9
+Total 274224

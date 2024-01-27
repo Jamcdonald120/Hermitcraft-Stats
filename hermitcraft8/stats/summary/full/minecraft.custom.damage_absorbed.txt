@@ -1,0 +1,14 @@
+minecraft.custom.damage_absorbed
+1: GoodTimeWithScar: 1017
+2: iJevin: 588
+3: joehillssays: 236
+4: cubfan135: 198
+5: Grian: 137
+6: Renthedog: 100
+7: Keralis1: 85
+8: Xisuma: 43
+9: PearlescentMoon: 40
+10: Etho: 32
+11: iskall85: 19
+12: Docm77: 10
+Total 2505

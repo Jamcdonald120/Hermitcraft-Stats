@@ -1,0 +1,22 @@
+stat.pickup.minecraft.sea_lantern
+1: impulseSV: 4046
+2: MumboJumbo: 3814
+3: cubfan135: 954
+4: Tango: 796
+5: falsesymmetry: 724
+6: PythonGB: 560
+7: Zedaph: 492
+8: Renthedog: 308
+9: iJevin: 254
+10: Xisuma: 242
+11: xBCrafted: 231
+12: GoodTimeWithScar: 167
+13: iskall85: 119
+14: joehillssays: 85
+15: Welsknight: 66
+16: Tinfoilchef: 66
+17: VintageBeef: 13
+18: Stressmonster101: 12
+19: ZombieCleo: 9
+20: Docm77: 1
+Total 12959

@@ -1,0 +1,22 @@
+minecraft.crafted.spruce_door
+1: GoodTimeWithScar: 771
+2: iskall85: 165
+3: xBCrafted: 75
+4: BdoubleO100: 63
+5: joehillssays: 36
+6: Grian: 36
+7: Renthedog: 27
+8: Xisuma: 24
+9: Etho: 24
+10: cubfan135: 15
+11: Welsknight: 15
+12: VintageBeef: 12
+13: ZombieCleo: 9
+14: Keralis1: 9
+15: Tango: 6
+16: falsesymmetry: 6
+17: iJevin: 3
+18: MumboJumbo: 3
+19: Stressmonster101: 3
+20: impulseSV: 3
+Total 1305

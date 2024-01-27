@@ -1,0 +1,17 @@
+minecraft.picked_up.smooth_sandstone_stairs
+1: cubfan135: 620
+2: Docm77: 452
+3: GoodTimeWithScar: 361
+4: Xisuma: 203
+5: impulseSV: 29
+6: xBCrafted: 28
+7: VintageBeef: 8
+8: Etho: 7
+9: PearlescentMoon: 6
+10: BdoubleO100: 4
+11: Renthedog: 3
+12: joehillssays: 1
+13: Grian: 1
+14: Stressmonster101: 1
+15: Zedaph: 1
+Total 1725

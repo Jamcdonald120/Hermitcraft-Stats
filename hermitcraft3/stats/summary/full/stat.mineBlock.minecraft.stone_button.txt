@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.stone_button
+1: falsesymmetry: 95
+2: Mumbo: 69
+3: xBCrafted: 59
+4: impulseSV: 32
+5: Xisuma: 23
+6: monkeyfarm: 23
+7: topmass: 18
+8: zueljin: 15
+9: Docm77: 14
+10: Tango: 8
+11: sl1pg8r: 7
+12: Biffa2001: 5
+13: KingDaddyDMAC: 3
+14: ZombieCleo: 3
+15: Tinfoilchef: 3
+16: hypnotizd: 2
+17: Etho: 1
+Total 380

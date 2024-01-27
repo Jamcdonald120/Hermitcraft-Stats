@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.stone
+1: GoodTimeWithScar: 17744
+2: Renthedog: 12280
+3: falsesymmetry: 11937
+4: joehillssays: 11708
+5: Tinfoilchef: 11667
+6: cubfan135: 11545
+7: Xisuma: 10582
+8: xBCrafted: 8260
+9: Welsknight: 6868
+10: Tango: 6347
+11: MumboJumbo: 4112
+12: Zedaph: 3652
+13: iskall85: 3030
+14: BdoubleO100: 1933
+15: VintageBeef: 1588
+16: Etho: 1472
+17: Stressmonster101: 969
+18: PythonGB: 968
+19: impulseSV: 922
+20: Biffa2001: 576
+21: ZombieCleo: 453
+22: iJevin: 439
+23: Docm77: 349
+Total 129401

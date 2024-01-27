@@ -1,0 +1,16 @@
+minecraft.crafted.fletching_table
+1: iJevin: 55
+2: Docm77: 32
+3: Stressmonster101: 15
+4: GoodTimeWithScar: 13
+5: Xisuma: 11
+6: impulseSV: 10
+7: xBCrafted: 6
+8: VintageBeef: 4
+9: GeminiTay: 3
+10: Tango: 2
+11: PearlescentMoon: 1
+12: falsesymmetry: 1
+13: Keralis1: 1
+14: Zedaph: 1
+Total 155

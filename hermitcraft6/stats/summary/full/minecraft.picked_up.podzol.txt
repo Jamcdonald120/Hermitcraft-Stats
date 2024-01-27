@@ -1,0 +1,17 @@
+minecraft.picked_up.podzol
+1: cubfan135: 5495
+2: Xisuma: 1717
+3: Grian: 1554
+4: GoodTimeWithScar: 876
+5: BdoubleO100: 375
+6: Renthedog: 349
+7: falsesymmetry: 126
+8: iskall85: 86
+9: Welsknight: 74
+10: Docm77: 70
+11: MumboJumbo: 64
+12: Keralis1: 25
+13: iJevin: 10
+14: PythonGB: 6
+15: impulseSV: 3
+Total 10830

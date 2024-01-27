@@ -1,0 +1,22 @@
+minecraft.picked_up.shield
+1: Etho: 95
+2: Zedaph: 53
+3: VintageBeef: 29
+4: Docm77: 19
+5: cubfan135: 16
+6: Keralis1: 15
+7: Renthedog: 14
+8: Tango: 12
+9: Xisuma: 11
+10: falsesymmetry: 11
+11: iJevin: 10
+12: joehillssays: 10
+13: iskall85: 6
+14: GoodTimeWithScar: 6
+15: impulseSV: 6
+16: Grian: 3
+17: xBCrafted: 2
+18: ZombieCleo: 1
+19: hypnotizd: 1
+20: MumboJumbo: 1
+Total 321

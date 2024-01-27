@@ -1,0 +1,10 @@
+stat.useItem.minecraft.dark_oak_fence_gate
+1: Tango: 57
+2: joehillssays: 45
+3: cubfan135: 43
+4: GoodTimeWithScar: 28
+5: Xisuma: 17
+6: falsesymmetry: 7
+7: iJevin: 2
+8: Welsknight: 2
+Total 201

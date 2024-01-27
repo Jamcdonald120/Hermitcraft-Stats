@@ -1,0 +1,26 @@
+minecraft.dropped.cobblestone
+1: Zedaph: 50680
+2: VintageBeef: 21692
+3: MumboJumbo: 18987
+4: iskall85: 16955
+5: Tango: 16787
+6: Docm77: 16528
+7: Keralis1: 12037
+8: Grian: 9243
+9: cubfan135: 8907
+10: falsesymmetry: 7722
+11: iJevin: 7103
+12: Stressmonster101: 5499
+13: BdoubleO100: 5489
+14: GoodTimeWithScar: 3961
+15: impulseSV: 2749
+16: Welsknight: 2583
+17: Renthedog: 2405
+18: Etho: 2390
+19: joehillssays: 2284
+20: xBCrafted: 1304
+21: Xisuma: 1155
+22: ZombieCleo: 1026
+23: Tinfoilchef: 269
+24: hypnotizd: 70
+Total 217825

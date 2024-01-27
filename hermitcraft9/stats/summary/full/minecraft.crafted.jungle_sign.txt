@@ -1,0 +1,14 @@
+minecraft.crafted.jungle_sign
+1: PearlescentMoon: 138
+2: GoodTimeWithScar: 57
+3: Keralis1: 30
+4: cubfan135: 24
+5: Xisuma: 18
+6: iJevin: 12
+7: impulseSV: 12
+8: Renthedog: 9
+9: Zedaph: 6
+10: Docm77: 3
+11: joehillssays: 3
+12: Grian: 3
+Total 315

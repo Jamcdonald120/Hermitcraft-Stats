@@ -1,0 +1,20 @@
+stat.pickup.minecraft.dark_oak_stairs
+1: GoodTimeWithScar: 3703
+2: falsesymmetry: 738
+3: Welsknight: 630
+4: Renthedog: 582
+5: cubfan135: 255
+6: Xisuma: 227
+7: zueljin: 80
+8: ZombieCleo: 74
+9: joehillssays: 48
+10: iskall85: 48
+11: Tinfoilchef: 27
+12: PythonGB: 24
+13: Tango: 20
+14: Biffa2001: 8
+15: MumboJumbo: 8
+16: impulseSV: 5
+17: Docm77: 1
+18: VintageBeef: 1
+Total 6479

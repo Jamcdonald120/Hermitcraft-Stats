@@ -1,0 +1,18 @@
+minecraft.dropped.light_gray_wool
+1: Zedaph: 8007
+2: Grian: 411
+3: falsesymmetry: 295
+4: cubfan135: 249
+5: Tango: 209
+6: Keralis1: 177
+7: Etho: 132
+8: impulseSV: 64
+9: VintageBeef: 55
+10: GoodTimeWithScar: 26
+11: xBCrafted: 21
+12: Stressmonster101: 6
+13: hypnotizd: 5
+14: iJevin: 1
+15: iskall85: 1
+16: MumboJumbo: 1
+Total 9660

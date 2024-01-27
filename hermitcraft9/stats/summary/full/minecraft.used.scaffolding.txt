@@ -1,0 +1,28 @@
+minecraft.used.scaffolding
+1: Tango: 45829
+2: joehillssays: 37289
+3: Xisuma: 25589
+4: Docm77: 25532
+5: impulseSV: 22881
+6: iJevin: 13529
+7: cubfan135: 12801
+8: BdoubleO100: 11395
+9: Renthedog: 10776
+10: GeminiTay: 8431
+11: falsesymmetry: 6459
+12: hypnotizd: 6372
+13: Keralis1: 4786
+14: ZombieCleo: 4722
+15: RentheKing: 4337
+16: Zedaph: 3901
+17: xBCrafted: 2334
+18: PearlescentMoon: 2059
+19: Grian: 1807
+20: Pixlriffs: 593
+21: iskall85: 581
+22: Stressmonster101: 435
+23: Etho: 416
+24: GoodTimeWithScar: 186
+25: VintageBeef: 23
+26: Smajor1995: 1
+Total 253064

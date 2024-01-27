@@ -1,0 +1,18 @@
+stat.useItem.minecraft.quartz_ore
+1: falsesymmetry: 17578
+2: Renthedog: 6983
+3: Biffa2001: 6291
+4: GoodTimeWithScar: 4017
+5: Xisuma: 2183
+6: VintageBeef: 1018
+7: impulseSV: 913
+8: Tango: 863
+9: joehillssays: 279
+10: MumboJumbo: 159
+11: Docm77: 147
+12: PythonGB: 124
+13: iskall85: 111
+14: ZombieCleo: 80
+15: cubfan135: 50
+16: Welsknight: 2
+Total 40798

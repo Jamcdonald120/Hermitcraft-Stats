@@ -1,0 +1,16 @@
+minecraft.picked_up.netherite_helmet
+1: iJevin: 41
+2: PearlescentMoon: 20
+3: Docm77: 16
+4: impulseSV: 13
+5: Renthedog: 2
+6: joehillssays: 2
+7: xBCrafted: 2
+8: hypnotizd: 2
+9: Xisuma: 1
+10: pillbugnine: 1
+11: GeminiTay: 1
+12: Grian: 1
+13: Welsknight: 1
+14: Keralis1: 1
+Total 104

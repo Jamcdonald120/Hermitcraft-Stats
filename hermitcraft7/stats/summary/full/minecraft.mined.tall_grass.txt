@@ -1,0 +1,24 @@
+minecraft.mined.tall_grass
+1: xBCrafted: 2329
+2: joehillssays: 1518
+3: BdoubleO100: 1101
+4: Keralis1: 710
+5: ZombieCleo: 568
+6: GoodTimeWithScar: 443
+7: cubfan135: 345
+8: Grian: 326
+9: MumboJumbo: 275
+10: Etho: 250
+11: Tango: 192
+12: VintageBeef: 151
+13: impulseSV: 113
+14: hypnotizd: 110
+15: Xisuma: 105
+16: Renthedog: 91
+17: falsesymmetry: 79
+18: iskall85: 61
+19: Zedaph: 37
+20: Stressmonster101: 29
+21: iJevin: 25
+22: Welsknight: 13
+Total 8871

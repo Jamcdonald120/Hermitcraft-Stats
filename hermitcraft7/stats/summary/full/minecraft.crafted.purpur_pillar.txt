@@ -1,0 +1,5 @@
+minecraft.crafted.purpur_pillar
+1: impulseSV: 3439
+2: Tango: 160
+3: cubfan135: 55
+Total 3654

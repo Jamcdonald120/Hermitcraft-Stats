@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.melon_block
+1: Tango: 609
+2: Tinfoilchef: 559
+3: cubfan135: 356
+4: impulseSV: 113
+5: falsesymmetry: 103
+6: MumboJumbo: 76
+7: Docm77: 69
+8: iJevin: 64
+9: Xisuma: 59
+10: GoodTimeWithScar: 58
+11: Biffa2001: 30
+12: Zedaph: 28
+13: xBCrafted: 15
+14: VintageBeef: 14
+15: PythonGB: 13
+16: Renthedog: 10
+17: iskall85: 10
+18: Etho: 8
+19: BdoubleO100: 2
+20: joehillssays: 1
+21: Welsknight: 1
+22: Stressmonster101: 1
+Total 2199

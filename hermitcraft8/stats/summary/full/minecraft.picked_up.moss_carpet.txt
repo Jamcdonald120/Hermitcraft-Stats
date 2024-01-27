@@ -1,0 +1,26 @@
+minecraft.picked_up.moss_carpet
+1: Etho: 3178
+2: GeminiTay: 3074
+3: PearlescentMoon: 2086
+4: impulseSV: 1909
+5: Xisuma: 1818
+6: GoodTimeWithScar: 1561
+7: cubfan135: 1553
+8: MumboJumbo: 1548
+9: iskall85: 1485
+10: Grian: 1107
+11: xBCrafted: 927
+12: joehillssays: 767
+13: falsesymmetry: 615
+14: ZombieCleo: 520
+15: hypnotizd: 469
+16: iJevin: 409
+17: Keralis1: 379
+18: Docm77: 255
+19: BdoubleO100: 251
+20: Stressmonster101: 90
+21: Tango: 87
+22: Zedaph: 77
+23: Renthedog: 65
+24: EvilXisuma: 3
+Total 24233

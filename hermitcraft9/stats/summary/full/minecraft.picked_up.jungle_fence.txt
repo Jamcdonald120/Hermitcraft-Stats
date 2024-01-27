@@ -1,0 +1,12 @@
+minecraft.picked_up.jungle_fence
+1: GoodTimeWithScar: 227
+2: Zedaph: 65
+3: PearlescentMoon: 37
+4: BdoubleO100: 29
+5: Keralis1: 16
+6: cubfan135: 12
+7: Etho: 5
+8: VintageBeef: 4
+9: Stressmonster101: 2
+10: Renthedog: 1
+Total 398

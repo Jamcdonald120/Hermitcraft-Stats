@@ -1,0 +1,22 @@
+stat.pickup.minecraft.pumpkin
+1: MumboJumbo: 10254
+2: iskall85: 3624
+3: Xisuma: 3237
+4: falsesymmetry: 3014
+5: impulseSV: 1577
+6: joehillssays: 1496
+7: Tinfoilchef: 247
+8: Biffa2001: 130
+9: Renthedog: 92
+10: cubfan135: 81
+11: GoodTimeWithScar: 74
+12: PythonGB: 44
+13: Welsknight: 39
+14: Tango: 24
+15: ZombieCleo: 12
+16: iJevin: 10
+17: VintageBeef: 8
+18: Docm77: 6
+19: Etho: 4
+20: Jessassin: 2
+Total 23975

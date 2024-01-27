@@ -1,0 +1,24 @@
+minecraft.picked_up.quartz_slab
+1: Zedaph: 3254
+2: impulseSV: 1234
+3: VintageBeef: 584
+4: Tango: 462
+5: Keralis1: 454
+6: cubfan135: 219
+7: Xisuma: 174
+8: Grian: 130
+9: Renthedog: 90
+10: joehillssays: 84
+11: GoodTimeWithScar: 72
+12: Etho: 66
+13: ZombieCleo: 53
+14: falsesymmetry: 46
+15: iskall85: 36
+16: BdoubleO100: 28
+17: Docm77: 25
+18: Stressmonster101: 24
+19: MumboJumbo: 21
+20: hypnotizd: 10
+21: iJevin: 6
+22: xBCrafted: 1
+Total 7073

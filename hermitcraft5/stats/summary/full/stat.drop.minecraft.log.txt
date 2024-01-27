@@ -1,0 +1,24 @@
+stat.drop.minecraft.log
+1: falsesymmetry: 3761
+2: GoodTimeWithScar: 2760
+3: cubfan135: 1522
+4: Zedaph: 860
+5: MumboJumbo: 629
+6: Renthedog: 347
+7: Tango: 322
+8: xBCrafted: 315
+9: Stressmonster101: 302
+10: Xisuma: 287
+11: iskall85: 188
+12: Docm77: 112
+13: impulseSV: 93
+14: iJevin: 69
+15: PythonGB: 65
+16: BdoubleO100: 65
+17: VintageBeef: 51
+18: Biffa2001: 27
+19: Welsknight: 16
+20: Etho: 14
+21: Tinfoilchef: 8
+22: joehillssays: 2
+Total 11815

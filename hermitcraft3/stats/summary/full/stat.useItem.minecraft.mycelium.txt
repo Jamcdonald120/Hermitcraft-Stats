@@ -1,0 +1,4 @@
+stat.useItem.minecraft.mycelium
+1: falsesymmetry: 72
+2: impulseSV: 2
+Total 74

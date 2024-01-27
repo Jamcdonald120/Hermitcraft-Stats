@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.quartz_stairs
+1: GoodTimeWithScar: 1120
+2: Renthedog: 692
+3: VintageBeef: 599
+4: falsesymmetry: 282
+5: cubfan135: 214
+6: iskall85: 193
+7: Tango: 130
+8: Xisuma: 114
+9: impulseSV: 111
+10: Welsknight: 72
+11: MumboJumbo: 36
+12: Tinfoilchef: 24
+13: Docm77: 8
+14: zueljin: 5
+15: Etho: 2
+16: ZombieCleo: 1
+Total 3603

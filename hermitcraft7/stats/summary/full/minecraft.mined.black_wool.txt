@@ -1,0 +1,21 @@
+minecraft.mined.black_wool
+1: Xisuma: 689
+2: falsesymmetry: 231
+3: VintageBeef: 191
+4: BdoubleO100: 180
+5: cubfan135: 120
+6: ZombieCleo: 103
+7: GoodTimeWithScar: 99
+8: Keralis1: 79
+9: iJevin: 53
+10: Grian: 42
+11: Tango: 41
+12: Renthedog: 30
+13: impulseSV: 16
+14: Docm77: 15
+15: MumboJumbo: 12
+16: Zedaph: 8
+17: Etho: 7
+18: joehillssays: 3
+19: xBCrafted: 2
+Total 1921

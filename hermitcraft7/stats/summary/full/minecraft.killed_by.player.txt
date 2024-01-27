@@ -1,0 +1,27 @@
+minecraft.killed_by.player
+1: cubfan135: 181
+2: Grian: 151
+3: impulseSV: 114
+4: Tango: 100
+5: Etho: 100
+6: falsesymmetry: 98
+7: BdoubleO100: 75
+8: Xisuma: 74
+9: GoodTimeWithScar: 74
+10: Keralis1: 44
+11: Renthedog: 39
+12: xBCrafted: 36
+13: iJevin: 32
+14: joehillssays: 29
+15: Docm77: 26
+16: iskall85: 22
+17: VintageBeef: 21
+18: MumboJumbo: 18
+19: hypnotizd: 15
+20: ZombieCleo: 14
+21: TangoCam: 7
+22: Zedaph: 7
+23: Welsknight: 4
+24: BarryBoss1234: 2
+25: Stressmonster101: 1
+Total 1284

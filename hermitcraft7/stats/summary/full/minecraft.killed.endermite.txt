@@ -1,0 +1,21 @@
+minecraft.killed.endermite
+1: impulseSV: 59
+2: Renthedog: 40
+3: joehillssays: 38
+4: Xisuma: 31
+5: Etho: 26
+6: Zedaph: 22
+7: cubfan135: 15
+8: iskall85: 9
+9: hypnotizd: 9
+10: Tango: 8
+11: GoodTimeWithScar: 5
+12: iJevin: 4
+13: Grian: 4
+14: Docm77: 3
+15: Stressmonster101: 3
+16: Keralis1: 3
+17: BdoubleO100: 2
+18: MumboJumbo: 2
+19: VintageBeef: 1
+Total 284

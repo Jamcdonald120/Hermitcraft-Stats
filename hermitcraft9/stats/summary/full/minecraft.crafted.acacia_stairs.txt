@@ -1,0 +1,14 @@
+minecraft.crafted.acacia_stairs
+1: GoodTimeWithScar: 296
+2: Keralis1: 252
+3: PearlescentMoon: 228
+4: impulseSV: 40
+5: Xisuma: 24
+6: cubfan135: 24
+7: falsesymmetry: 20
+8: Grian: 12
+9: Zedaph: 12
+10: Docm77: 8
+11: Renthedog: 4
+12: BdoubleO100: 4
+Total 924

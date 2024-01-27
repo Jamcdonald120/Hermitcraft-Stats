@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.iron_ore
+1: Tinfoilchef: 15361
+2: GoodTimeWithScar: 9773
+3: iskall85: 6291
+4: Xisuma: 5880
+5: Renthedog: 5801
+6: falsesymmetry: 5001
+7: Welsknight: 4464
+8: cubfan135: 3152
+9: MumboJumbo: 2567
+10: iJevin: 2406
+11: impulseSV: 1827
+12: Etho: 1771
+13: Tango: 1553
+14: PythonGB: 1322
+15: joehillssays: 1227
+16: ZombieCleo: 1139
+17: Docm77: 976
+18: Biffa2001: 925
+19: Mumbo: 671
+20: xBCrafted: 330
+21: VintageBeef: 329
+22: Jessassin: 253
+23: zueljin: 72
+Total 73091

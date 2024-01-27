@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.cactus
+1: Tinfoilchef: 132
+2: Xisuma: 42
+3: sl1pg8r: 40
+4: Tango: 37
+5: monkeyfarm: 35
+6: falsesymmetry: 34
+7: xBCrafted: 26
+8: ZombieCleo: 24
+9: Mumbo: 18
+10: Spumwackles: 17
+11: Biffa2001: 12
+12: KingDaddyDMAC: 8
+13: zueljin: 8
+14: skyzm: 6
+15: impulseSV: 3
+16: topmass: 1
+17: iJevin: 1
+Total 444

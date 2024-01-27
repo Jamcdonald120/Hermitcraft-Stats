@@ -1,0 +1,13 @@
+minecraft.picked_up.diorite_slab
+1: BdoubleO100: 80
+2: Tango: 60
+3: Keralis1: 19
+4: Grian: 14
+5: MythicalSausage: 10
+6: Xisuma: 9
+7: Renthedog: 9
+8: GeminiTay: 8
+9: hypnotizd: 4
+10: PearlescentMoon: 2
+11: iskall85: 1
+Total 216

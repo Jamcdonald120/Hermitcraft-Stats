@@ -1,0 +1,20 @@
+stat.drop.minecraft.iron_ore
+1: MumboJumbo: 872
+2: GoodTimeWithScar: 608
+3: Xisuma: 602
+4: falsesymmetry: 593
+5: PythonGB: 285
+6: iskall85: 225
+7: Tango: 141
+8: Zedaph: 104
+9: cubfan135: 79
+10: iJevin: 57
+11: impulseSV: 46
+12: Stressmonster101: 38
+13: xBCrafted: 33
+14: Docm77: 12
+15: Tinfoilchef: 8
+16: Renthedog: 6
+17: BdoubleO100: 3
+18: Etho: 1
+Total 3713

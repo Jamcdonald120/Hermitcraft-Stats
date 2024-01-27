@@ -1,0 +1,22 @@
+stat.useItem.minecraft.spruce_stairs
+1: Welsknight: 4459
+2: Stressmonster101: 3817
+3: cubfan135: 2317
+4: MumboJumbo: 2051
+5: falsesymmetry: 1805
+6: xBCrafted: 1420
+7: GoodTimeWithScar: 1067
+8: impulseSV: 836
+9: iJevin: 486
+10: BdoubleO100: 293
+11: joehillssays: 240
+12: Xisuma: 228
+13: ZombieCleo: 166
+14: PythonGB: 108
+15: VintageBeef: 86
+16: Tinfoilchef: 83
+17: iskall85: 53
+18: Docm77: 48
+19: Renthedog: 34
+20: Zedaph: 26
+Total 19623

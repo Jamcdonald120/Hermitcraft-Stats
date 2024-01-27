@@ -1,0 +1,13 @@
+minecraft.crafted.blackstone_slab
+1: Tango: 714
+2: GoodTimeWithScar: 194
+3: cubfan135: 186
+4: Etho: 18
+5: ZombieCleo: 16
+6: Xisuma: 14
+7: impulseSV: 12
+8: PearlescentMoon: 8
+9: Zedaph: 8
+10: iJevin: 6
+11: Docm77: 2
+Total 1178

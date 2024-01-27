@@ -1,0 +1,6 @@
+minecraft.dropped.iron_horse_armor
+1: Tango: 9
+2: Zedaph: 6
+3: xBCrafted: 1
+4: cubfan135: 1
+Total 17

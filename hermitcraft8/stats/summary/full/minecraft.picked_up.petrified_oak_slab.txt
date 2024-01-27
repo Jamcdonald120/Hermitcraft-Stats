@@ -1,0 +1,9 @@
+minecraft.picked_up.petrified_oak_slab
+1: Renthedog: 132
+2: Xisuma: 53
+3: iskall85: 6
+4: ZombieCleo: 4
+5: Keralis1: 4
+6: VintageBeef: 2
+7: iJevin: 1
+Total 202

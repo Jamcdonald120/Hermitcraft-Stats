@@ -1,0 +1,26 @@
+stat.craftItem.minecraft.bow
+1: hypnotizd: 2207
+2: xBCrafted: 310
+3: Xisuma: 230
+4: KingDaddyDMAC: 218
+5: Tango: 179
+6: Tinfoilchef: 146
+7: falsesymmetry: 120
+8: sl1pg8r: 103
+9: Mumbo: 103
+10: monkeyfarm: 50
+11: impulseSV: 41
+12: topmass: 33
+13: iJevin: 24
+14: zueljin: 21
+15: Docm77: 12
+16: Biffa2001: 9
+17: PythonGB: 7
+18: Etho: 6
+19: ZombieCleo: 5
+20: Pungence: 4
+21: skyzm: 3
+22: NameOfSamuel: 2
+23: Mrs_Keralis: 1
+24: Keralis1: 1
+Total 3835

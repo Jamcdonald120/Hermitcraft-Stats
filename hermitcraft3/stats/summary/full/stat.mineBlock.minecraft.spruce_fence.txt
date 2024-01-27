@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.spruce_fence
+1: iJevin: 5785
+2: falsesymmetry: 403
+3: xBCrafted: 290
+4: Etho: 205
+5: Xisuma: 184
+6: Mumbo: 130
+7: sl1pg8r: 105
+8: Biffa2001: 97
+9: zueljin: 58
+10: ZombieCleo: 46
+11: Tinfoilchef: 32
+12: impulseSV: 32
+13: PythonGB: 27
+14: Tango: 21
+15: monkeyfarm: 11
+16: KingDaddyDMAC: 8
+17: topmass: 3
+18: hypnotizd: 2
+19: skyzm: 1
+20: truesymmetry: 1
+Total 7441

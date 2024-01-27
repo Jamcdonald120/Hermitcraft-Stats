@@ -1,0 +1,5 @@
+minecraft.picked_up.glistering_melon_slice
+1: Zedaph: 55
+2: BdoubleO100: 12
+3: impulseSV: 1
+Total 68

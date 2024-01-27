@@ -1,0 +1,29 @@
+minecraft.killed_by.drowned
+1: GoodTimeWithScar: 19
+2: Docm77: 15
+3: Grian: 13
+4: iJevin: 12
+5: cubfan135: 10
+6: Keralis1: 9
+7: joehillssays: 7
+8: GeminiTay: 7
+9: PearlescentMoon: 6
+10: Xisuma: 5
+11: hypnotizd: 5
+12: Renthedog: 4
+13: falsesymmetry: 4
+14: Tango: 3
+15: iskall85: 3
+16: Etho: 3
+17: impulseSV: 3
+18: BdoubleO100: 2
+19: LDShadowLady: 2
+20: ZombieCleo: 2
+21: Tinfoilchef: 2
+22: Zedaph: 2
+23: MythicalSausage: 1
+24: Skizzleman: 1
+25: xBCrafted: 1
+26: RentheKing: 1
+27: fWhip: 1
+Total 143

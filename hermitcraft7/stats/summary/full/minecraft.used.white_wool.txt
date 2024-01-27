@@ -1,0 +1,26 @@
+minecraft.used.white_wool
+1: Keralis1: 22308
+2: falsesymmetry: 5859
+3: Renthedog: 2243
+4: GoodTimeWithScar: 1203
+5: Stressmonster101: 1196
+6: cubfan135: 1191
+7: Xisuma: 1064
+8: VintageBeef: 877
+9: ZombieCleo: 854
+10: Grian: 741
+11: BdoubleO100: 691
+12: Tango: 540
+13: Tinfoilchef: 259
+14: Etho: 216
+15: xBCrafted: 182
+16: MumboJumbo: 134
+17: iskall85: 116
+18: impulseSV: 42
+19: iJevin: 35
+20: joehillssays: 26
+21: Welsknight: 24
+22: Zedaph: 21
+23: Docm77: 7
+24: hypnotizd: 2
+Total 39831

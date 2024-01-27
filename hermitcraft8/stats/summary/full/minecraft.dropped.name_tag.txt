@@ -1,0 +1,12 @@
+minecraft.dropped.name_tag
+1: Xisuma: 45
+2: PearlescentMoon: 35
+3: MumboJumbo: 32
+4: iskall85: 31
+5: EvilXisuma: 6
+6: Keralis1: 5
+7: Grian: 4
+8: iJevin: 1
+9: joehillssays: 1
+10: GoodTimeWithScar: 1
+Total 161

@@ -1,0 +1,23 @@
+minecraft.dropped.wheat
+1: Renthedog: 561
+2: Grian: 380
+3: Stressmonster101: 206
+4: impulseSV: 179
+5: Tango: 156
+6: GoodTimeWithScar: 153
+7: cubfan135: 152
+8: Xisuma: 95
+9: Jessassin: 65
+10: PythonGB: 48
+11: Docm77: 46
+12: Zedaph: 46
+13: Keralis1: 37
+14: falsesymmetry: 31
+15: iskall85: 27
+16: BdoubleO100: 17
+17: MumboJumbo: 17
+18: Biffa2001: 10
+19: iJevin: 8
+20: joehillssays: 3
+21: ZombieCleo: 1
+Total 2238

@@ -1,0 +1,18 @@
+minecraft.picked_up.light_blue_concrete
+1: Renthedog: 7427
+2: GoodTimeWithScar: 4297
+3: cubfan135: 1004
+4: PythonGB: 842
+5: iJevin: 688
+6: Docm77: 524
+7: impulseSV: 385
+8: Xisuma: 329
+9: Keralis1: 283
+10: iskall85: 167
+11: falsesymmetry: 163
+12: Tango: 155
+13: Tinfoilchef: 133
+14: BdoubleO100: 61
+15: MumboJumbo: 33
+16: Grian: 7
+Total 16498

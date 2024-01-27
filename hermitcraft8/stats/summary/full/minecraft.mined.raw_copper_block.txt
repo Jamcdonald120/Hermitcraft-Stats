@@ -1,0 +1,10 @@
+minecraft.mined.raw_copper_block
+1: cubfan135: 62
+2: Etho: 26
+3: xBCrafted: 4
+4: iskall85: 3
+5: GoodTimeWithScar: 2
+6: Renthedog: 1
+7: MumboJumbo: 1
+8: impulseSV: 1
+Total 100

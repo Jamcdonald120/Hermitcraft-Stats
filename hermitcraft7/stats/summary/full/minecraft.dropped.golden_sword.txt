@@ -1,0 +1,22 @@
+minecraft.dropped.golden_sword
+1: iskall85: 1440
+2: Tango: 517
+3: xBCrafted: 479
+4: Xisuma: 477
+5: MumboJumbo: 162
+6: Etho: 143
+7: Keralis1: 132
+8: VintageBeef: 103
+9: Docm77: 25
+10: iJevin: 25
+11: hypnotizd: 21
+12: Grian: 18
+13: GoodTimeWithScar: 11
+14: Renthedog: 2
+15: cubfan135: 2
+16: impulseSV: 2
+17: joehillssays: 1
+18: BdoubleO100: 1
+19: falsesymmetry: 1
+20: Zedaph: 1
+Total 3563

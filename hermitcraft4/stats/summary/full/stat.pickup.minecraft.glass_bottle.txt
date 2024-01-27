@@ -1,0 +1,22 @@
+stat.pickup.minecraft.glass_bottle
+1: Xisuma: 5389
+2: iskall85: 1845
+3: Etho: 422
+4: Tango: 344
+5: PythonGB: 288
+6: Renthedog: 269
+7: Welsknight: 268
+8: cubfan135: 255
+9: GoodTimeWithScar: 169
+10: ZombieCleo: 136
+11: falsesymmetry: 130
+12: Docm77: 107
+13: impulseSV: 39
+14: iJevin: 20
+15: joehillssays: 8
+16: VintageBeef: 6
+17: Biffa2001: 4
+18: Tinfoilchef: 2
+19: xisumavoid: 1
+20: MumboJumbo: 1
+Total 9703

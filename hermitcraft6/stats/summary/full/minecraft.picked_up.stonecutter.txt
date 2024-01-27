@@ -1,0 +1,16 @@
+minecraft.picked_up.stonecutter
+1: BdoubleO100: 545
+2: falsesymmetry: 58
+3: iskall85: 39
+4: Renthedog: 32
+5: cubfan135: 30
+6: GoodTimeWithScar: 26
+7: MumboJumbo: 18
+8: PythonGB: 17
+9: ZombieCleo: 13
+10: Xisuma: 6
+11: Docm77: 2
+12: Grian: 1
+13: Tango: 1
+14: impulseSV: 1
+Total 789

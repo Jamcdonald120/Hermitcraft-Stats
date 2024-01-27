@@ -1,0 +1,24 @@
+minecraft.dropped.quartz
+1: iJevin: 6504
+2: joehillssays: 1097
+3: Tango: 1028
+4: xBCrafted: 361
+5: Renthedog: 194
+6: iskall85: 178
+7: Xisuma: 129
+8: Docm77: 115
+9: Grian: 111
+10: ZombieCleo: 109
+11: Etho: 98
+12: PearlescentMoon: 94
+13: cubfan135: 77
+14: falsesymmetry: 60
+15: Keralis1: 55
+16: OrionSound: 32
+17: VintageBeef: 12
+18: RentheKing: 6
+19: GoodTimeWithScar: 2
+20: impulseSV: 2
+21: Zedaph: 2
+22: Mumbo: 1
+Total 10267

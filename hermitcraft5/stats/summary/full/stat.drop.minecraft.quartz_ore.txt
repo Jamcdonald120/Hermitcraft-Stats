@@ -1,0 +1,14 @@
+stat.drop.minecraft.quartz_ore
+1: Zedaph: 1538
+2: falsesymmetry: 94
+3: cubfan135: 55
+4: GoodTimeWithScar: 39
+5: MumboJumbo: 38
+6: Renthedog: 31
+7: Tango: 13
+8: iskall85: 12
+9: Xisuma: 11
+10: impulseSV: 5
+11: iJevin: 4
+12: xBCrafted: 4
+Total 1844

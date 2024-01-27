@@ -1,0 +1,26 @@
+stat.useItem.minecraft.purple_shulker_box
+1: cubfan135: 4009
+2: GoodTimeWithScar: 3267
+3: Welsknight: 2823
+4: Tango: 2562
+5: impulseSV: 2454
+6: falsesymmetry: 2383
+7: Xisuma: 2362
+8: Zedaph: 994
+9: iskall85: 634
+10: iJevin: 517
+11: Docm77: 443
+12: MumboJumbo: 405
+13: Tinfoilchef: 348
+14: PythonGB: 262
+15: Renthedog: 226
+16: xBCrafted: 191
+17: Stressmonster101: 173
+18: Biffa2001: 138
+19: BdoubleO100: 77
+20: joehillssays: 40
+21: ZombieCleo: 20
+22: Etho: 9
+23: xisumavoid: 5
+24: VintageBeef: 3
+Total 24345

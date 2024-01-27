@@ -1,0 +1,12 @@
+minecraft.picked_up.cracked_deepslate_tiles
+1: Stressmonster101: 120
+2: Xisuma: 40
+3: EvilXisuma: 24
+4: Welsknight: 19
+5: VintageBeef: 16
+6: iJevin: 8
+7: PearlescentMoon: 3
+8: impulseSV: 3
+9: Renthedog: 2
+10: Docm77: 1
+Total 236

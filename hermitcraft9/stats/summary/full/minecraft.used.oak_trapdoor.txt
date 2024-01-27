@@ -1,0 +1,30 @@
+minecraft.used.oak_trapdoor
+1: Etho: 3350
+2: Keralis1: 665
+3: xBCrafted: 602
+4: Docm77: 594
+5: GoodTimeWithScar: 550
+6: PearlescentMoon: 513
+7: iJevin: 506
+8: BdoubleO100: 426
+9: Xisuma: 207
+10: cubfan135: 204
+11: impulseSV: 130
+12: Tango: 118
+13: hypnotizd: 88
+14: iskall85: 81
+15: Zedaph: 80
+16: Renthedog: 68
+17: GeminiTay: 64
+18: Stressmonster101: 45
+19: Grian: 38
+20: VintageBeef: 36
+21: falsesymmetry: 36
+22: MythicalSausage: 16
+23: ZombieCleo: 11
+24: SolidarityGaming: 8
+25: Mumbo: 7
+26: MumboJumbo: 7
+27: ShubbleYT: 6
+28: OrionSound: 2
+Total 8458

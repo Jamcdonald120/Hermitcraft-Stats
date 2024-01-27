@@ -1,0 +1,22 @@
+minecraft.dropped.cooked_chicken
+1: Docm77: 325
+2: Keralis1: 155
+3: Zedaph: 113
+4: hypnotizd: 70
+5: GoodTimeWithScar: 67
+6: Tango: 62
+7: Grian: 59
+8: iJevin: 40
+9: iskall85: 14
+10: impulseSV: 9
+11: Xisuma: 6
+12: Renthedog: 6
+13: joehillssays: 6
+14: MumboJumbo: 6
+15: cubfan135: 5
+16: VintageBeef: 2
+17: BdoubleO100: 2
+18: xBCrafted: 2
+19: falsesymmetry: 1
+20: Etho: 1
+Total 951

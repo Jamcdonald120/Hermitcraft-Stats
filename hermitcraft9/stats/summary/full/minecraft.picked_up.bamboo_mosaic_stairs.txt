@@ -1,0 +1,4 @@
+minecraft.picked_up.bamboo_mosaic_stairs
+1: Zedaph: 3
+2: cubfan135: 1
+Total 4

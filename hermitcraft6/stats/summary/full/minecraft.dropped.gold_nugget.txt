@@ -1,0 +1,22 @@
+minecraft.dropped.gold_nugget
+1: Zedaph: 4998
+2: Xisuma: 3498
+3: impulseSV: 1156
+4: iskall85: 855
+5: Grian: 817
+6: MumboJumbo: 315
+7: Renthedog: 269
+8: falsesymmetry: 238
+9: Docm77: 81
+10: GoodTimeWithScar: 72
+11: cubfan135: 63
+12: Tango: 54
+13: Keralis1: 40
+14: iJevin: 19
+15: ZombieCleo: 17
+16: Stressmonster101: 11
+17: joehillssays: 8
+18: Biffa2001: 7
+19: PythonGB: 6
+20: Welsknight: 1
+Total 12525

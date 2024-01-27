@@ -1,0 +1,26 @@
+minecraft.mined.birch_log
+1: GoodTimeWithScar: 15714
+2: cubfan135: 14058
+3: Renthedog: 9008
+4: Xisuma: 4063
+5: Tango: 3575
+6: falsesymmetry: 2819
+7: impulseSV: 2471
+8: Welsknight: 1558
+9: joehillssays: 1112
+10: BdoubleO100: 784
+11: iskall85: 503
+12: Grian: 454
+13: Stressmonster101: 309
+14: Docm77: 300
+15: Jessassin: 283
+16: MumboJumbo: 241
+17: Keralis1: 218
+18: Zedaph: 206
+19: ZombieCleo: 189
+20: PythonGB: 161
+21: Biffa2001: 122
+22: xBCrafted: 103
+23: iJevin: 98
+24: EvilXisuma: 29
+Total 58378

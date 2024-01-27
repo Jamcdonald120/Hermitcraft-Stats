@@ -1,0 +1,6 @@
+stat.useItem.minecraft.spider_eye
+1: monkeyfarm: 7
+2: PythonGB: 1
+3: iJevin: 1
+4: Tango: 1
+Total 10

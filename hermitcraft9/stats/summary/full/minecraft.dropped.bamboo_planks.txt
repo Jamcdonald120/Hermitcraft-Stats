@@ -1,0 +1,12 @@
+minecraft.dropped.bamboo_planks
+1: Keralis1: 81
+2: impulseSV: 64
+3: Xisuma: 25
+4: cubfan135: 9
+5: Mumbo: 6
+6: GoodTimeWithScar: 5
+7: BdoubleO100: 2
+8: falsesymmetry: 2
+9: GeminiTay: 1
+10: Etho: 1
+Total 196

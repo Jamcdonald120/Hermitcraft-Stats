@@ -1,0 +1,20 @@
+minecraft.mined.cocoa
+1: Tango: 320
+2: PearlescentMoon: 315
+3: ZombieCleo: 198
+4: Xisuma: 157
+5: joehillssays: 151
+6: Grian: 120
+7: falsesymmetry: 60
+8: GoodTimeWithScar: 58
+9: iJevin: 35
+10: impulseSV: 31
+11: BdoubleO100: 25
+12: Keralis1: 20
+13: Renthedog: 18
+14: Welsknight: 17
+15: GeminiTay: 16
+16: iskall85: 5
+17: hypnotizd: 2
+18: Etho: 1
+Total 1549

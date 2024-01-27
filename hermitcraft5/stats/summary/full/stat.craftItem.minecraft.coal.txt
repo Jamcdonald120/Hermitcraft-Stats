@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.coal
+1: Renthedog: 12287
+2: cubfan135: 6750
+3: GoodTimeWithScar: 6256
+4: Tinfoilchef: 6003
+5: Welsknight: 5679
+6: PythonGB: 4374
+7: iskall85: 4347
+8: Tango: 3920
+9: xBCrafted: 2895
+10: Xisuma: 2663
+11: MumboJumbo: 1849
+12: iJevin: 1774
+13: ZombieCleo: 1751
+14: BdoubleO100: 1312
+15: Biffa2001: 1247
+16: Zedaph: 1064
+17: Stressmonster101: 486
+18: falsesymmetry: 477
+19: joehillssays: 56
+20: Docm77: 38
+21: impulseSV: 12
+22: Etho: 8
+Total 65248

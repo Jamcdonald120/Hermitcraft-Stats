@@ -1,0 +1,17 @@
+minecraft.mined.dragon_wall_head
+1: GoodTimeWithScar: 19
+2: impulseSV: 19
+3: PearlescentMoon: 12
+4: Xisuma: 9
+5: Keralis1: 9
+6: cubfan135: 6
+7: Docm77: 4
+8: Grian: 3
+9: Renthedog: 2
+10: VintageBeef: 1
+11: iJevin: 1
+12: xBCrafted: 1
+13: Welsknight: 1
+14: Etho: 1
+15: hypnotizd: 1
+Total 89

@@ -1,0 +1,24 @@
+stat.drop.minecraft.arrow
+1: Xisuma: 14998
+2: Tinfoilchef: 10875
+3: impulseSV: 9133
+4: GoodTimeWithScar: 5302
+5: BdoubleO100: 4162
+6: Zedaph: 4127
+7: Tango: 3393
+8: Docm77: 2552
+9: iskall85: 1980
+10: xBCrafted: 1615
+11: Stressmonster101: 1187
+12: Renthedog: 846
+13: MumboJumbo: 776
+14: Biffa2001: 241
+15: Welsknight: 221
+16: cubfan135: 193
+17: falsesymmetry: 184
+18: PythonGB: 152
+19: iJevin: 128
+20: Etho: 120
+21: VintageBeef: 44
+22: joehillssays: 2
+Total 62231

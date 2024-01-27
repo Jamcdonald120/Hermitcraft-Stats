@@ -1,0 +1,20 @@
+minecraft.used.chiseled_quartz_block
+1: Keralis1: 6807
+2: impulseSV: 1785
+3: Xisuma: 1123
+4: cubfan135: 926
+5: falsesymmetry: 315
+6: VintageBeef: 140
+7: Tango: 114
+8: Etho: 108
+9: Docm77: 39
+10: GoodTimeWithScar: 30
+11: ZombieCleo: 20
+12: BdoubleO100: 16
+13: xBCrafted: 15
+14: joehillssays: 11
+15: Renthedog: 3
+16: Grian: 3
+17: MumboJumbo: 1
+18: Stressmonster101: 1
+Total 11457

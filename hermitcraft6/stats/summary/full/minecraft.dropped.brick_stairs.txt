@@ -1,0 +1,6 @@
+minecraft.dropped.brick_stairs
+1: Renthedog: 17
+2: MumboJumbo: 15
+3: GoodTimeWithScar: 8
+4: cubfan135: 1
+Total 41

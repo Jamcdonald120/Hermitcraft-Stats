@@ -1,0 +1,27 @@
+minecraft.picked_up.spectral_arrow
+1: Tango: 11849
+2: iJevin: 5035
+3: Xisuma: 1732
+4: iskall85: 1212
+5: GoodTimeWithScar: 838
+6: cubfan135: 774
+7: Etho: 595
+8: PearlescentMoon: 559
+9: impulseSV: 425
+10: Grian: 175
+11: MythicalSausage: 143
+12: GeminiTay: 89
+13: Renthedog: 81
+14: BdoubleO100: 66
+15: xBCrafted: 55
+16: ShubbleYT: 28
+17: SolidarityGaming: 18
+18: Docm77: 17
+19: Pixlriffs: 17
+20: OrionSound: 14
+21: Keralis1: 11
+22: falsesymmetry: 10
+23: ZombieCleo: 7
+24: hypnotizd: 6
+25: Zedaph: 3
+Total 23759

@@ -1,0 +1,6 @@
+minecraft.dropped.birch_pressure_plate
+1: BdoubleO100: 12
+2: GoodTimeWithScar: 9
+3: cubfan135: 2
+4: Grian: 1
+Total 24

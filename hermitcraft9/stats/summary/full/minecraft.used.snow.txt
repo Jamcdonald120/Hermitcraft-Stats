@@ -1,0 +1,27 @@
+minecraft.used.snow
+1: VintageBeef: 16855
+2: joehillssays: 11758
+3: GoodTimeWithScar: 7853
+4: cubfan135: 7768
+5: Renthedog: 7265
+6: Tango: 7111
+7: xBCrafted: 1831
+8: falsesymmetry: 1744
+9: Etho: 974
+10: Grian: 944
+11: Smallishbeans: 843
+12: Zedaph: 774
+13: RentheKing: 559
+14: MythicalSausage: 397
+15: PearlescentMoon: 292
+16: iJevin: 288
+17: OrionSound: 246
+18: BdoubleO100: 150
+19: iskall85: 148
+20: Pixlriffs: 128
+21: Keralis1: 106
+22: hypnotizd: 14
+23: Xisuma: 8
+24: Docm77: 3
+25: SolidarityGaming: 1
+Total 68060

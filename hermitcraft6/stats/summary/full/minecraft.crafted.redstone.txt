@@ -1,0 +1,25 @@
+minecraft.crafted.redstone
+1: GoodTimeWithScar: 69806
+2: iskall85: 33294
+3: Xisuma: 18229
+4: impulseSV: 16600
+5: cubfan135: 16133
+6: MumboJumbo: 13053
+7: Grian: 10273
+8: Tango: 7407
+9: Docm77: 6291
+10: Renthedog: 5798
+11: Tinfoilchef: 5517
+12: iJevin: 5054
+13: falsesymmetry: 4348
+14: joehillssays: 3990
+15: Stressmonster101: 3582
+16: Zedaph: 2538
+17: ZombieCleo: 1605
+18: Welsknight: 1278
+19: BdoubleO100: 243
+20: Biffa2001: 117
+21: Keralis1: 99
+22: PythonGB: 90
+23: HumanCleo: 18
+Total 225363

@@ -1,0 +1,22 @@
+minecraft.picked_up.chainmail_helmet
+1: Xisuma: 31
+2: joehillssays: 25
+3: BdoubleO100: 12
+4: cubfan135: 12
+5: Renthedog: 9
+6: iJevin: 6
+7: Etho: 5
+8: GeminiTay: 4
+9: VintageBeef: 3
+10: Keralis1: 3
+11: Docm77: 2
+12: Grian: 2
+13: PearlescentMoon: 2
+14: hypnotizd: 2
+15: impulseSV: 2
+16: iskall85: 1
+17: Welsknight: 1
+18: ZombieCleo: 1
+19: GoodTimeWithScar: 1
+20: Stressmonster101: 1
+Total 125

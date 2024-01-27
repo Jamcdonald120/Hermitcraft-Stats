@@ -1,0 +1,23 @@
+minecraft.crafted.green_terracotta
+1: PearlescentMoon: 23480
+2: Grian: 6198
+3: Docm77: 4720
+4: GoodTimeWithScar: 4648
+5: ZombieCleo: 2448
+6: impulseSV: 1744
+7: VintageBeef: 1560
+8: Etho: 1472
+9: Stressmonster101: 1300
+10: Renthedog: 1224
+11: joehillssays: 696
+12: iJevin: 304
+13: xBCrafted: 296
+14: BdoubleO100: 288
+15: iskall85: 264
+16: Xisuma: 232
+17: falsesymmetry: 168
+18: Keralis1: 128
+19: Tango: 40
+20: cubfan135: 40
+21: Zedaph: 8
+Total 51258

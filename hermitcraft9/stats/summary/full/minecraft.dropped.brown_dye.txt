@@ -1,0 +1,10 @@
+minecraft.dropped.brown_dye
+1: falsesymmetry: 156
+2: cubfan135: 30
+3: Grian: 23
+4: xBCrafted: 8
+5: Mumbo: 5
+6: Zedaph: 5
+7: iJevin: 1
+8: Keralis1: 1
+Total 229

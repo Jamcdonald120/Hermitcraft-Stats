@@ -1,0 +1,22 @@
+minecraft.picked_up.light_gray_bed
+1: BdoubleO100: 1533
+2: PearlescentMoon: 99
+3: Smallishbeans: 44
+4: Etho: 23
+5: joehillssays: 21
+6: Grian: 19
+7: Renthedog: 14
+8: impulseSV: 13
+9: iskall85: 8
+10: ZombieCleo: 4
+11: falsesymmetry: 2
+12: cubfan135: 2
+13: GoodTimeWithScar: 2
+14: SolidarityGaming: 2
+15: iJevin: 1
+16: MythicalSausage: 1
+17: InTheLittleWood: 1
+18: Stressmonster101: 1
+19: Keralis1: 1
+20: Zedaph: 1
+Total 1792

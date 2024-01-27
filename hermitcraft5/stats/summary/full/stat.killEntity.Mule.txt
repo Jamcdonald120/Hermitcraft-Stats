@@ -1,0 +1,3 @@
+stat.killEntity.Mule
+1: cubfan135: 68
+Total 68

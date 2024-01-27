@@ -1,0 +1,14 @@
+stat.useItem.minecraft.orange_shulker_box
+1: Renthedog: 259
+2: Xisuma: 246
+3: cubfan135: 238
+4: Tango: 226
+5: iskall85: 177
+6: GoodTimeWithScar: 176
+7: falsesymmetry: 125
+8: Zedaph: 80
+9: PythonGB: 33
+10: Stressmonster101: 21
+11: Docm77: 8
+12: Welsknight: 1
+Total 1590

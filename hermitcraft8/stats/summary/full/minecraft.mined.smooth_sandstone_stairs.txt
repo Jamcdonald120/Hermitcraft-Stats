@@ -1,0 +1,22 @@
+minecraft.mined.smooth_sandstone_stairs
+1: Xisuma: 543
+2: ZombieCleo: 362
+3: cubfan135: 204
+4: xBCrafted: 183
+5: joehillssays: 133
+6: impulseSV: 73
+7: hypnotizd: 65
+8: falsesymmetry: 26
+9: Etho: 17
+10: iJevin: 11
+11: PearlescentMoon: 10
+12: Welsknight: 9
+13: Zedaph: 8
+14: Docm77: 6
+15: VintageBeef: 2
+16: GeminiTay: 2
+17: GoodTimeWithScar: 2
+18: Renthedog: 1
+19: Grian: 1
+20: iskall85: 1
+Total 1659

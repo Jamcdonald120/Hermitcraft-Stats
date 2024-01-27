@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.emerald_block
+1: cubfan135: 1517
+2: MumboJumbo: 320
+3: PythonGB: 136
+4: Tango: 110
+5: ZombieCleo: 71
+6: Tinfoilchef: 50
+7: GoodTimeWithScar: 39
+8: falsesymmetry: 29
+9: iskall85: 21
+10: Renthedog: 19
+11: Xisuma: 3
+Total 2315

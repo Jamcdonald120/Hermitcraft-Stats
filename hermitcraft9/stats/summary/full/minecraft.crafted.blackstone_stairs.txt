@@ -1,0 +1,14 @@
+minecraft.crafted.blackstone_stairs
+1: Keralis1: 164
+2: Grian: 68
+3: Tango: 68
+4: joehillssays: 32
+5: cubfan135: 32
+6: GoodTimeWithScar: 12
+7: impulseSV: 8
+8: ZombieCleo: 5
+9: xBCrafted: 4
+10: Docm77: 2
+11: Xisuma: 1
+12: Zedaph: 1
+Total 397

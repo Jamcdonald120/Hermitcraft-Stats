@@ -1,0 +1,21 @@
+stat.pickup.minecraft.ender_chest
+1: cubfan135: 968
+2: Welsknight: 524
+3: Xisuma: 279
+4: iskall85: 235
+5: impulseSV: 176
+6: falsesymmetry: 153
+7: Tango: 147
+8: Renthedog: 97
+9: Biffa2001: 81
+10: PythonGB: 69
+11: GoodTimeWithScar: 36
+12: iJevin: 29
+13: Tinfoilchef: 18
+14: VintageBeef: 17
+15: MumboJumbo: 15
+16: joehillssays: 7
+17: Docm77: 3
+18: ZombieCleo: 2
+19: Etho: 1
+Total 2857

@@ -1,0 +1,29 @@
+minecraft.killed_by.creeper
+1: iJevin: 20
+2: Docm77: 18
+3: GoodTimeWithScar: 12
+4: ZombieCleo: 10
+5: Renthedog: 9
+6: Grian: 7
+7: Zedaph: 6
+8: RentheKing: 5
+9: Xisuma: 4
+10: VintageBeef: 3
+11: PearlescentMoon: 2
+12: cubfan135: 2
+13: Welsknight: 2
+14: Etho: 2
+15: Stressmonster101: 2
+16: OrionSound: 1
+17: MythicalSausage: 1
+18: GeminiTay: 1
+19: Tango: 1
+20: BdoubleO100: 1
+21: iskall85: 1
+22: xBCrafted: 1
+23: Mumbo: 1
+24: hypnotizd: 1
+25: MumboJumbo: 1
+26: Keralis1: 1
+27: impulseSV: 1
+Total 116

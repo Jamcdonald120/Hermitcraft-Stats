@@ -1,0 +1,14 @@
+stat.useItem.minecraft.flower_pot
+1: falsesymmetry: 338
+2: Tango: 34
+3: PythonGB: 26
+4: Etho: 17
+5: zueljin: 16
+6: Xisuma: 12
+7: Tinfoilchef: 5
+8: impulseSV: 5
+9: topmass: 4
+10: ZombieCleo: 4
+11: sl1pg8r: 1
+12: Biffa2001: 1
+Total 463

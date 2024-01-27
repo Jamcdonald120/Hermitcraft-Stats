@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.diamond_block
+1: Renthedog: 369
+2: cubfan135: 312
+3: GoodTimeWithScar: 164
+4: impulseSV: 145
+5: iskall85: 39
+6: MumboJumbo: 32
+7: Tango: 26
+8: falsesymmetry: 24
+9: Xisuma: 13
+10: PythonGB: 11
+11: Tinfoilchef: 3
+12: VintageBeef: 1
+Total 1139

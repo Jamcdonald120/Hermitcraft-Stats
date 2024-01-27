@@ -1,0 +1,8 @@
+stat.pickup.minecraft.emerald_block
+1: MumboJumbo: 1256
+2: Xisuma: 81
+3: iskall85: 64
+4: cubfan135: 50
+5: Tango: 27
+6: impulseSV: 6
+Total 1484

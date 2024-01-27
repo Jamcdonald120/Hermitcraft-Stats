@@ -1,0 +1,27 @@
+stat.mineBlock.minecraft.redstone_ore
+1: Xisuma: 3247
+2: topmass: 3107
+3: falsesymmetry: 2952
+4: Tinfoilchef: 2812
+5: xBCrafted: 2368
+6: impulseSV: 2104
+7: Mumbo: 1587
+8: sl1pg8r: 1326
+9: Biffa2001: 1322
+10: Tango: 1278
+11: KingDaddyDMAC: 933
+12: Spumwackles: 853
+13: PythonGB: 796
+14: hypnotizd: 723
+15: zueljin: 670
+16: ZombieCleo: 585
+17: Etho: 567
+18: monkeyfarm: 226
+19: iJevin: 215
+20: skyzm: 159
+21: Pungence: 33
+22: Docm77: 31
+23: Collen: 31
+24: Mrs_Keralis: 7
+25: Keralis1: 6
+Total 27938

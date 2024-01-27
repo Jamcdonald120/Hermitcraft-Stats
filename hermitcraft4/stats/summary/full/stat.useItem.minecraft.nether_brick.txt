@@ -1,0 +1,17 @@
+stat.useItem.minecraft.nether_brick
+1: impulseSV: 7922
+2: Tango: 3137
+3: iskall85: 2540
+4: Xisuma: 2385
+5: cubfan135: 1684
+6: joehillssays: 803
+7: MumboJumbo: 610
+8: Renthedog: 537
+9: Welsknight: 159
+10: GoodTimeWithScar: 125
+11: Biffa2001: 26
+12: Tinfoilchef: 22
+13: falsesymmetry: 19
+14: VintageBeef: 2
+15: iJevin: 1
+Total 19972

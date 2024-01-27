@@ -1,0 +1,35 @@
+minecraft.picked_up.pumpkin
+1: Zedaph: 18666
+2: GoodTimeWithScar: 5128
+3: Renthedog: 1969
+4: iskall85: 1729
+5: iJevin: 1597
+6: Docm77: 538
+7: cubfan135: 443
+8: PearlescentMoon: 251
+9: Etho: 213
+10: Stressmonster101: 209
+11: joehillssays: 203
+12: Grian: 178
+13: Keralis1: 174
+14: falsesymmetry: 155
+15: RentheKing: 129
+16: GeminiTay: 123
+17: Tango: 123
+18: Xisuma: 96
+19: xBCrafted: 87
+20: VintageBeef: 83
+21: hypnotizd: 71
+22: impulseSV: 71
+23: ZombieCleo: 59
+24: MythicalSausage: 57
+25: Mumbo: 49
+26: BdoubleO100: 30
+27: Pixlriffs: 12
+28: Welsknight: 12
+29: Smajor1995: 11
+30: InTheLittleWood: 3
+31: Smallishbeans: 1
+32: LDShadowLady: 1
+33: HBomb94: 1
+Total 32472

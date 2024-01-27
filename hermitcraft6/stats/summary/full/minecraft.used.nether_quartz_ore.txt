@@ -1,0 +1,24 @@
+minecraft.used.nether_quartz_ore
+1: falsesymmetry: 12368
+2: Renthedog: 9539
+3: GoodTimeWithScar: 7349
+4: cubfan135: 5523
+5: Xisuma: 2894
+6: Docm77: 2486
+7: Tango: 2031
+8: Zedaph: 1805
+9: Grian: 1482
+10: PythonGB: 1405
+11: impulseSV: 853
+12: iskall85: 633
+13: Stressmonster101: 506
+14: ZombieCleo: 320
+15: iJevin: 112
+16: joehillssays: 106
+17: Biffa2001: 103
+18: Keralis1: 64
+19: MumboJumbo: 24
+20: Welsknight: 9
+21: BdoubleO100: 4
+22: Tinfoilchef: 1
+Total 49617

@@ -1,0 +1,3 @@
+stat.drop.minecraft.map
+1: impulseSV: 1
+Total 1

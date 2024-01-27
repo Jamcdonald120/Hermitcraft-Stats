@@ -1,0 +1,10 @@
+stat.drop.minecraft.beetroot_seeds
+1: Renthedog: 98
+2: Xisuma: 23
+3: ZombieCleo: 17
+4: falsesymmetry: 9
+5: GoodTimeWithScar: 4
+6: joehillssays: 3
+7: iskall85: 2
+8: PythonGB: 1
+Total 157

@@ -1,0 +1,25 @@
+minecraft.mined.cobblestone_stairs
+1: GeminiTay: 303
+2: iJevin: 247
+3: Docm77: 204
+4: cubfan135: 95
+5: Grian: 66
+6: GoodTimeWithScar: 60
+7: Tango: 54
+8: Xisuma: 51
+9: joehillssays: 34
+10: impulseSV: 32
+11: xBCrafted: 24
+12: Keralis1: 23
+13: BdoubleO100: 22
+14: Renthedog: 15
+15: falsesymmetry: 15
+16: iskall85: 12
+17: Etho: 7
+18: hypnotizd: 6
+19: ZombieCleo: 4
+20: Zedaph: 4
+21: VintageBeef: 2
+22: MythicalSausage: 1
+23: Smallishbeans: 1
+Total 1282

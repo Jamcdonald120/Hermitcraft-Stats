@@ -1,0 +1,25 @@
+stat.pickup.minecraft.dye
+1: Renthedog: 17983
+2: GoodTimeWithScar: 17386
+3: iskall85: 13724
+4: falsesymmetry: 11775
+5: cubfan135: 11550
+6: MumboJumbo: 10521
+7: impulseSV: 8986
+8: Tinfoilchef: 8985
+9: Xisuma: 7719
+10: Welsknight: 7519
+11: Zedaph: 5955
+12: PythonGB: 4005
+13: iJevin: 3970
+14: joehillssays: 3784
+15: xBCrafted: 3038
+16: Tango: 3035
+17: Stressmonster101: 2746
+18: Etho: 2091
+19: Docm77: 1680
+20: BdoubleO100: 1377
+21: Biffa2001: 979
+22: ZombieCleo: 913
+23: VintageBeef: 720
+Total 150441

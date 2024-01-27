@@ -1,0 +1,24 @@
+minecraft.picked_up.bone_block
+1: Xisuma: 5293
+2: iskall85: 1952
+3: Renthedog: 1553
+4: Grian: 1520
+5: cubfan135: 863
+6: joehillssays: 757
+7: Docm77: 736
+8: falsesymmetry: 665
+9: Tango: 609
+10: GoodTimeWithScar: 482
+11: Zedaph: 418
+12: BdoubleO100: 403
+13: Welsknight: 368
+14: MumboJumbo: 355
+15: iJevin: 318
+16: PythonGB: 275
+17: ZombieCleo: 243
+18: Biffa2001: 196
+19: Duke_da_dog: 92
+20: Stressmonster101: 36
+21: impulseSV: 33
+22: Keralis1: 2
+Total 17169

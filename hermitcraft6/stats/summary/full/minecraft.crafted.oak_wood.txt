@@ -1,0 +1,18 @@
+minecraft.crafted.oak_wood
+1: GoodTimeWithScar: 4419
+2: Grian: 432
+3: cubfan135: 354
+4: iskall85: 270
+5: BdoubleO100: 84
+6: falsesymmetry: 78
+7: Xisuma: 57
+8: ZombieCleo: 54
+9: Tango: 51
+10: Welsknight: 30
+11: Biffa2001: 30
+12: Keralis1: 21
+13: impulseSV: 12
+14: Renthedog: 6
+15: PythonGB: 6
+16: Stressmonster101: 6
+Total 5910

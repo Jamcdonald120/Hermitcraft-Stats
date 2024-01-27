@@ -1,0 +1,22 @@
+minecraft.mined.iron_trapdoor
+1: xBCrafted: 280
+2: hypnotizd: 158
+3: Zedaph: 152
+4: Keralis1: 120
+5: impulseSV: 60
+6: Xisuma: 49
+7: VintageBeef: 37
+8: Welsknight: 32
+9: PearlescentMoon: 27
+10: Grian: 20
+11: Docm77: 17
+12: GeminiTay: 15
+13: cubfan135: 12
+14: Tango: 8
+15: falsesymmetry: 6
+16: iskall85: 5
+17: MumboJumbo: 4
+18: BdoubleO100: 3
+19: Renthedog: 1
+20: GoodTimeWithScar: 1
+Total 1007

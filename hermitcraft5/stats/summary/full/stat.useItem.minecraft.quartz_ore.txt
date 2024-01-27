@@ -1,0 +1,20 @@
+stat.useItem.minecraft.quartz_ore
+1: MumboJumbo: 3735
+2: Zedaph: 2935
+3: falsesymmetry: 2728
+4: cubfan135: 2059
+5: Xisuma: 916
+6: impulseSV: 904
+7: Tango: 505
+8: iskall85: 395
+9: joehillssays: 227
+10: PythonGB: 195
+11: Welsknight: 164
+12: GoodTimeWithScar: 115
+13: Biffa2001: 101
+14: iJevin: 88
+15: VintageBeef: 62
+16: Renthedog: 44
+17: Stressmonster101: 25
+18: Etho: 10
+Total 15208

@@ -1,0 +1,28 @@
+minecraft.mined.lectern
+1: impulseSV: 1702
+2: iJevin: 1584
+3: Stressmonster101: 1016
+4: xBCrafted: 942
+5: Grian: 855
+6: Docm77: 731
+7: Keralis1: 640
+8: PearlescentMoon: 321
+9: Etho: 293
+10: Zedaph: 248
+11: iskall85: 216
+12: GoodTimeWithScar: 171
+13: Tango: 57
+14: cubfan135: 47
+15: GeminiTay: 34
+16: falsesymmetry: 26
+17: ZombieCleo: 22
+18: Xisuma: 11
+19: BdoubleO100: 9
+20: joehillssays: 4
+21: Renthedog: 3
+22: VintageBeef: 3
+23: MythicalSausage: 1
+24: Smallishbeans: 1
+25: RentheKing: 1
+26: hypnotizd: 1
+Total 8939

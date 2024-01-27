@@ -1,0 +1,12 @@
+minecraft.used.red_nether_bricks
+1: Tango: 3978
+2: Xisuma: 1049
+3: impulseSV: 946
+4: cubfan135: 384
+5: Renthedog: 239
+6: Zedaph: 32
+7: ZombieCleo: 24
+8: falsesymmetry: 12
+9: iskall85: 8
+10: Biffa2001: 1
+Total 6673

@@ -1,0 +1,20 @@
+stat.drop.minecraft.coal_ore
+1: GoodTimeWithScar: 982
+2: Xisuma: 753
+3: falsesymmetry: 658
+4: MumboJumbo: 591
+5: cubfan135: 176
+6: iskall85: 167
+7: Tango: 127
+8: impulseSV: 127
+9: xBCrafted: 100
+10: Renthedog: 55
+11: Zedaph: 54
+12: Stressmonster101: 21
+13: Docm77: 15
+14: Welsknight: 5
+15: iJevin: 3
+16: VintageBeef: 2
+17: PythonGB: 1
+18: BdoubleO100: 1
+Total 3838

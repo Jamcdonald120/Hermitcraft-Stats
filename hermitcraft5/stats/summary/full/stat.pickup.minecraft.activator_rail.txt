@@ -1,0 +1,10 @@
+stat.pickup.minecraft.activator_rail
+1: cubfan135: 176
+2: Zedaph: 31
+3: xBCrafted: 12
+4: impulseSV: 12
+5: iskall85: 8
+6: Docm77: 4
+7: Tango: 2
+8: GoodTimeWithScar: 1
+Total 246

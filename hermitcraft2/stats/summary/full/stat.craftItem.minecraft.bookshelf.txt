@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.bookshelf
+1: zueljin: 6
+2: ZombieCleo: 3
+Total 9

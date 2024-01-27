@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.cobblestone
+1: Tinfoilchef: 13874
+2: Xisuma: 10365
+3: Renthedog: 8136
+4: iskall85: 7129
+5: cubfan135: 5973
+6: MumboJumbo: 4134
+7: iJevin: 2440
+8: impulseSV: 2435
+9: PythonGB: 2122
+10: Tango: 2048
+11: GoodTimeWithScar: 1566
+12: Welsknight: 1552
+13: falsesymmetry: 1458
+14: ZombieCleo: 1349
+15: VintageBeef: 1208
+16: joehillssays: 888
+17: Biffa2001: 819
+18: Etho: 583
+19: xBCrafted: 372
+20: Docm77: 368
+21: Mumbo: 184
+22: Jessassin: 58
+23: zueljin: 9
+Total 69070

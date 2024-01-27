@@ -1,0 +1,23 @@
+minecraft.mined.spruce_sapling
+1: GoodTimeWithScar: 87
+2: Renthedog: 26
+3: Xisuma: 25
+4: PearlescentMoon: 25
+5: GeminiTay: 23
+6: Etho: 23
+7: Tango: 20
+8: xBCrafted: 18
+9: cubfan135: 13
+10: iskall85: 12
+11: BdoubleO100: 10
+12: joehillssays: 9
+13: Welsknight: 8
+14: Grian: 7
+15: impulseSV: 6
+16: Keralis1: 5
+17: VintageBeef: 4
+18: Stressmonster101: 4
+19: ZombieCleo: 1
+20: MumboJumbo: 1
+21: Zedaph: 1
+Total 328

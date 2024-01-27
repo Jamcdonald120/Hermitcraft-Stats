@@ -1,0 +1,21 @@
+minecraft.picked_up.brain_coral_fan
+1: GoodTimeWithScar: 1336
+2: joehillssays: 171
+3: iJevin: 148
+4: ZombieCleo: 142
+5: PearlescentMoon: 47
+6: Keralis1: 37
+7: Renthedog: 26
+8: VintageBeef: 21
+9: Zedaph: 21
+10: Docm77: 18
+11: Xisuma: 13
+12: impulseSV: 11
+13: Grian: 10
+14: xBCrafted: 7
+15: cubfan135: 6
+16: GeminiTay: 3
+17: falsesymmetry: 2
+18: Etho: 1
+19: Mumbo: 1
+Total 2021

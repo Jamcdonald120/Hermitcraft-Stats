@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.chainmail_chestplate
+1: Xisuma: 1
+2: Etho: 1
+Total 2

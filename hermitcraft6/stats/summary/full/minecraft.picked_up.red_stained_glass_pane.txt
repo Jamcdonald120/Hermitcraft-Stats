@@ -1,0 +1,13 @@
+minecraft.picked_up.red_stained_glass_pane
+1: Renthedog: 474
+2: Xisuma: 287
+3: PythonGB: 211
+4: Tango: 161
+5: iskall85: 40
+6: cubfan135: 38
+7: Grian: 19
+8: GoodTimeWithScar: 19
+9: impulseSV: 14
+10: Welsknight: 13
+11: joehillssays: 7
+Total 1283

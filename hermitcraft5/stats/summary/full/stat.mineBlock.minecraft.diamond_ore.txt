@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.diamond_ore
+1: Tinfoilchef: 1003
+2: falsesymmetry: 933
+3: Renthedog: 861
+4: cubfan135: 777
+5: GoodTimeWithScar: 634
+6: MumboJumbo: 575
+7: PythonGB: 350
+8: impulseSV: 338
+9: xBCrafted: 290
+10: Xisuma: 266
+11: iskall85: 266
+12: Tango: 235
+13: Zedaph: 232
+14: iJevin: 218
+15: Welsknight: 217
+16: Stressmonster101: 192
+17: ZombieCleo: 154
+18: joehillssays: 117
+19: Etho: 117
+20: VintageBeef: 112
+21: Biffa2001: 109
+22: BdoubleO100: 90
+23: Docm77: 63
+Total 8149

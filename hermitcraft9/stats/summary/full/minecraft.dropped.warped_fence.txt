@@ -1,0 +1,10 @@
+minecraft.dropped.warped_fence
+1: falsesymmetry: 13
+2: Grian: 12
+3: Tango: 3
+4: GoodTimeWithScar: 2
+5: Zedaph: 2
+6: BdoubleO100: 1
+7: PearlescentMoon: 1
+8: ZombieCleo: 1
+Total 35

@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.snow_layer
+1: GoodTimeWithScar: 7428
+2: falsesymmetry: 4929
+3: cubfan135: 1758
+4: iskall85: 1500
+5: Welsknight: 798
+6: Xisuma: 468
+7: Tinfoilchef: 426
+8: Tango: 144
+9: impulseSV: 126
+Total 17577

@@ -1,0 +1,8 @@
+minecraft.dropped.crimson_sign
+1: Xisuma: 11
+2: Renthedog: 5
+3: Tango: 3
+4: Zedaph: 2
+5: hypnotizd: 1
+6: GoodTimeWithScar: 1
+Total 23

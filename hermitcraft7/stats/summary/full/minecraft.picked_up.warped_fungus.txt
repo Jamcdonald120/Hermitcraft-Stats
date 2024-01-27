@@ -1,0 +1,24 @@
+minecraft.picked_up.warped_fungus
+1: cubfan135: 3148
+2: Etho: 2742
+3: falsesymmetry: 555
+4: Stressmonster101: 415
+5: xBCrafted: 335
+6: Renthedog: 309
+7: joehillssays: 260
+8: iskall85: 170
+9: iJevin: 164
+10: Xisuma: 157
+11: BdoubleO100: 155
+12: Tango: 115
+13: GoodTimeWithScar: 109
+14: hypnotizd: 82
+15: VintageBeef: 79
+16: ZombieCleo: 71
+17: Grian: 64
+18: impulseSV: 37
+19: Welsknight: 25
+20: Zedaph: 14
+21: Docm77: 6
+22: Keralis1: 1
+Total 9013

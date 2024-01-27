@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.wooden_slab
+1: GoodTimeWithScar: 8752
+2: Renthedog: 4885
+3: iskall85: 3469
+4: Xisuma: 3415
+5: MumboJumbo: 2865
+6: cubfan135: 2750
+7: falsesymmetry: 2255
+8: Welsknight: 2198
+9: joehillssays: 926
+10: Etho: 754
+11: iJevin: 668
+12: ZombieCleo: 665
+13: VintageBeef: 527
+14: PythonGB: 509
+15: Docm77: 431
+16: Tango: 395
+17: impulseSV: 320
+18: xBCrafted: 276
+19: Tinfoilchef: 147
+20: zueljin: 59
+21: Mumbo: 56
+22: Biffa2001: 15
+Total 36337

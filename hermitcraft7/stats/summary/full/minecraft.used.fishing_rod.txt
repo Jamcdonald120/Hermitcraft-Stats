@@ -1,0 +1,23 @@
+minecraft.used.fishing_rod
+1: Keralis1: 14200
+2: VintageBeef: 1623
+3: Renthedog: 1085
+4: cubfan135: 691
+5: Tango: 586
+6: xBCrafted: 455
+7: Zedaph: 440
+8: Etho: 233
+9: BdoubleO100: 216
+10: impulseSV: 153
+11: joehillssays: 150
+12: iJevin: 133
+13: falsesymmetry: 131
+14: GoodTimeWithScar: 103
+15: Docm77: 73
+16: Grian: 31
+17: hypnotizd: 16
+18: Stressmonster101: 16
+19: iskall85: 15
+20: Xisuma: 8
+21: MumboJumbo: 7
+Total 20365

@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.torch
+1: Xisuma: 3975
+2: ZombieCleo: 1512
+3: Tango: 1504
+4: falsesymmetry: 1368
+5: xBCrafted: 1204
+6: Spumwackles: 768
+7: Mumbo: 440
+8: Tinfoilchef: 240
+9: Biffa2001: 216
+10: sl1pg8r: 124
+11: iJevin: 112
+12: KingDaddyDMAC: 112
+13: Collen: 64
+14: monkeyfarm: 36
+Total 11675

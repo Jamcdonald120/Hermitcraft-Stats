@@ -1,0 +1,15 @@
+stat.pickup.minecraft.leaves2
+1: Renthedog: 4785
+2: GoodTimeWithScar: 2719
+3: Xisuma: 709
+4: Tinfoilchef: 607
+5: Welsknight: 584
+6: cubfan135: 553
+7: falsesymmetry: 543
+8: Tango: 58
+9: impulseSV: 38
+10: iJevin: 9
+11: Etho: 9
+12: PythonGB: 1
+13: MumboJumbo: 1
+Total 10616

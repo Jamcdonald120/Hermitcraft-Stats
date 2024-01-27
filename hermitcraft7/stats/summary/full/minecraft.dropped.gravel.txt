@@ -1,0 +1,26 @@
+minecraft.dropped.gravel
+1: cubfan135: 5783
+2: xBCrafted: 3354
+3: iskall85: 3295
+4: Tango: 3195
+5: Grian: 2520
+6: iJevin: 2499
+7: Zedaph: 2477
+8: falsesymmetry: 2066
+9: MumboJumbo: 1572
+10: Keralis1: 1315
+11: GoodTimeWithScar: 1013
+12: Docm77: 990
+13: hypnotizd: 839
+14: Xisuma: 783
+15: BdoubleO100: 587
+16: Stressmonster101: 400
+17: Etho: 381
+18: Renthedog: 285
+19: impulseSV: 259
+20: VintageBeef: 207
+21: BarryBoss1234: 197
+22: joehillssays: 163
+23: ZombieCleo: 112
+24: Welsknight: 52
+Total 34344

@@ -1,0 +1,19 @@
+stat.drop.minecraft.wheat_seeds
+1: impulseSV: 1424
+2: MumboJumbo: 1388
+3: Tinfoilchef: 821
+4: Tango: 295
+5: joehillssays: 291
+6: falsesymmetry: 268
+7: Renthedog: 144
+8: iskall85: 138
+9: GoodTimeWithScar: 111
+10: Etho: 105
+11: Docm77: 88
+12: cubfan135: 77
+13: Xisuma: 60
+14: PythonGB: 18
+15: Jessassin: 9
+16: Welsknight: 5
+17: ZombieCleo: 1
+Total 5243

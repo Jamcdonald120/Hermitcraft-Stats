@@ -1,0 +1,17 @@
+minecraft.dropped.spruce_door
+1: Zedaph: 37
+2: GoodTimeWithScar: 21
+3: falsesymmetry: 15
+4: Renthedog: 11
+5: Keralis1: 11
+6: iJevin: 7
+7: Tango: 6
+8: Stressmonster101: 6
+9: GeminiTay: 5
+10: Grian: 3
+11: impulseSV: 3
+12: xBCrafted: 2
+13: Docm77: 1
+14: OrionSound: 1
+15: hypnotizd: 1
+Total 130

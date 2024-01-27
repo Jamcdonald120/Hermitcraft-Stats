@@ -1,0 +1,12 @@
+stat.useItem.minecraft.lime_shulker_box
+1: Xisuma: 116
+2: falsesymmetry: 74
+3: iskall85: 54
+4: cubfan135: 38
+5: GoodTimeWithScar: 23
+6: impulseSV: 19
+7: Tango: 17
+8: Renthedog: 9
+9: joehillssays: 7
+10: MumboJumbo: 6
+Total 363

@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.nether_brick_stairs
+1: Tango: 2300
+2: Xisuma: 1852
+3: zueljin: 1012
+4: impulseSV: 860
+5: xBCrafted: 492
+6: falsesymmetry: 316
+7: Etho: 100
+8: Spumwackles: 84
+9: Mumbo: 40
+10: Tinfoilchef: 40
+11: joehillssays: 28
+12: ZombieCleo: 8
+13: monkeyfarm: 8
+14: iJevin: 4
+Total 7144

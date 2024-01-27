@@ -1,0 +1,28 @@
+stat.craftItem.minecraft.stone
+1: Tinfoilchef: 24165
+2: falsesymmetry: 14802
+3: xBCrafted: 13424
+4: sl1pg8r: 12440
+5: Xisuma: 10437
+6: zueljin: 7688
+7: monkeyfarm: 7556
+8: KingDaddyDMAC: 7160
+9: Biffa2001: 6048
+10: Mumbo: 5773
+11: Tango: 5441
+12: Spumwackles: 5224
+13: topmass: 4490
+14: ZombieCleo: 4135
+15: joehillssays: 3343
+16: impulseSV: 1254
+17: PythonGB: 968
+18: hypnotizd: 904
+19: Etho: 752
+20: iJevin: 688
+21: skyzm: 558
+22: Docm77: 503
+23: Pungence: 384
+24: NameOfSamuel: 320
+25: Keralis1: 68
+26: Mrs_Keralis: 64
+Total 138589

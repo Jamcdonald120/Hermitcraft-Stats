@@ -1,0 +1,7 @@
+minecraft.dropped.spruce_fence_gate
+1: Grian: 40
+2: Docm77: 14
+3: GoodTimeWithScar: 3
+4: PearlescentMoon: 1
+5: Etho: 1
+Total 59

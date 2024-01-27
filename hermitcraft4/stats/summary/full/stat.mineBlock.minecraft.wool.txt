@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.wool
+1: Xisuma: 2611
+2: iskall85: 1336
+3: cubfan135: 1185
+4: MumboJumbo: 984
+5: Tango: 854
+6: GoodTimeWithScar: 657
+7: falsesymmetry: 617
+8: joehillssays: 397
+9: Renthedog: 291
+10: impulseSV: 254
+11: Biffa2001: 202
+12: PythonGB: 195
+13: ZombieCleo: 181
+14: Welsknight: 118
+15: iJevin: 78
+16: Docm77: 67
+17: Etho: 43
+18: VintageBeef: 28
+19: Mumbo: 15
+20: Tinfoilchef: 14
+21: zueljin: 4
+Total 10131

@@ -1,0 +1,26 @@
+minecraft.picked_up.yellow_shulker_box
+1: Xisuma: 1367
+2: cubfan135: 717
+3: GoodTimeWithScar: 698
+4: iskall85: 535
+5: Welsknight: 504
+6: impulseSV: 217
+7: Etho: 175
+8: joehillssays: 142
+9: BdoubleO100: 133
+10: Tango: 128
+11: Stressmonster101: 112
+12: Keralis1: 104
+13: MumboJumbo: 71
+14: Renthedog: 63
+15: Grian: 62
+16: falsesymmetry: 60
+17: ZombieCleo: 59
+18: iJevin: 51
+19: hypnotizd: 26
+20: VintageBeef: 22
+21: Docm77: 6
+22: xBCrafted: 2
+23: xisumavoid: 1
+24: Zedaph: 1
+Total 5256

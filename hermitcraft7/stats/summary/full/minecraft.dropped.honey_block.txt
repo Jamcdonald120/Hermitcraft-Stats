@@ -1,0 +1,14 @@
+minecraft.dropped.honey_block
+1: cubfan135: 540
+2: Xisuma: 384
+3: iskall85: 165
+4: Keralis1: 126
+5: Zedaph: 109
+6: GoodTimeWithScar: 24
+7: Tango: 18
+8: Renthedog: 16
+9: MumboJumbo: 7
+10: impulseSV: 6
+11: Etho: 2
+12: Docm77: 1
+Total 1398

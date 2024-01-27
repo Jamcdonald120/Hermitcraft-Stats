@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.nether_brick_fence
+1: Xisuma: 943
+2: zueljin: 645
+3: Tango: 515
+4: falsesymmetry: 226
+5: hypnotizd: 141
+6: impulseSV: 60
+7: Biffa2001: 45
+8: joehillssays: 40
+9: monkeyfarm: 22
+10: xBCrafted: 12
+11: PythonGB: 8
+12: sl1pg8r: 4
+13: ZombieCleo: 4
+14: Spumwackles: 1
+Total 2666

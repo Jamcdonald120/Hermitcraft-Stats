@@ -1,0 +1,10 @@
+minecraft.picked_up.dead_fire_coral_block
+1: GoodTimeWithScar: 2052
+2: impulseSV: 549
+3: joehillssays: 154
+4: PearlescentMoon: 51
+5: Grian: 5
+6: Xisuma: 1
+7: falsesymmetry: 1
+8: Zedaph: 1
+Total 2814

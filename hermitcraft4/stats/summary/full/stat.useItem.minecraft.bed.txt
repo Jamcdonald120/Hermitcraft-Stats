@@ -1,0 +1,24 @@
+stat.useItem.minecraft.bed
+1: iskall85: 167
+2: Renthedog: 152
+3: Welsknight: 142
+4: falsesymmetry: 121
+5: cubfan135: 112
+6: Etho: 105
+7: Xisuma: 78
+8: GoodTimeWithScar: 73
+9: impulseSV: 61
+10: iJevin: 51
+11: Tango: 48
+12: VintageBeef: 40
+13: Tinfoilchef: 29
+14: zueljin: 17
+15: MumboJumbo: 17
+16: Biffa2001: 13
+17: ZombieCleo: 12
+18: joehillssays: 11
+19: Docm77: 10
+20: PythonGB: 7
+21: xBCrafted: 4
+22: Mumbo: 4
+Total 1274

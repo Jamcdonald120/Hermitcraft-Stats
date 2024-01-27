@@ -1,0 +1,7 @@
+minecraft.crafted.tide_armor_trim_smithing_template
+1: cubfan135: 14
+2: iJevin: 8
+3: impulseSV: 4
+4: GoodTimeWithScar: 2
+5: Zedaph: 2
+Total 30

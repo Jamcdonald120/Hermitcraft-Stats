@@ -1,0 +1,5 @@
+minecraft.crafted.smooth_red_sandstone
+1: Xisuma: 1035
+2: cubfan135: 10
+3: iJevin: 2
+Total 1047

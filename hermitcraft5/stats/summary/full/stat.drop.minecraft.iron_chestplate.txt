@@ -1,0 +1,18 @@
+stat.drop.minecraft.iron_chestplate
+1: Zedaph: 19
+2: Renthedog: 10
+3: Tango: 8
+4: joehillssays: 5
+5: iskall85: 5
+6: GoodTimeWithScar: 5
+7: Xisuma: 4
+8: MumboJumbo: 4
+9: xBCrafted: 3
+10: falsesymmetry: 3
+11: cubfan135: 3
+12: impulseSV: 3
+13: VintageBeef: 2
+14: PythonGB: 2
+15: Biffa2001: 1
+16: Stressmonster101: 1
+Total 78

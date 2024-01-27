@@ -1,0 +1,13 @@
+minecraft.dropped.hay_block
+1: Zedaph: 716
+2: Etho: 321
+3: Grian: 191
+4: cubfan135: 184
+5: Keralis1: 130
+6: VintageBeef: 55
+7: impulseSV: 34
+8: MumboJumbo: 11
+9: BdoubleO100: 6
+10: joehillssays: 1
+11: Tango: 1
+Total 1650

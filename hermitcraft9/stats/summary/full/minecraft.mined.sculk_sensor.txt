@@ -1,0 +1,25 @@
+minecraft.mined.sculk_sensor
+1: Tango: 3730
+2: xBCrafted: 824
+3: PearlescentMoon: 498
+4: Xisuma: 437
+5: cubfan135: 380
+6: Etho: 212
+7: Grian: 120
+8: impulseSV: 117
+9: GoodTimeWithScar: 41
+10: Docm77: 28
+11: iJevin: 21
+12: Renthedog: 12
+13: joehillssays: 8
+14: GeminiTay: 5
+15: BdoubleO100: 4
+16: OrionSound: 2
+17: iskall85: 2
+18: falsesymmetry: 2
+19: ZombieCleo: 2
+20: hypnotizd: 2
+21: Zedaph: 2
+22: Welsknight: 1
+23: Stressmonster101: 1
+Total 6451

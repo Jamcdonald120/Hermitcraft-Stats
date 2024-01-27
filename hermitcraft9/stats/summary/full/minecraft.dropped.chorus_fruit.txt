@@ -1,0 +1,23 @@
+minecraft.dropped.chorus_fruit
+1: impulseSV: 1323
+2: iJevin: 627
+3: Docm77: 320
+4: ZombieCleo: 160
+5: Renthedog: 96
+6: GoodTimeWithScar: 84
+7: RentheKing: 64
+8: falsesymmetry: 46
+9: Smallishbeans: 44
+10: BdoubleO100: 29
+11: Keralis1: 27
+12: xBCrafted: 19
+13: cubfan135: 18
+14: Tango: 15
+15: Zedaph: 9
+16: Grian: 5
+17: joehillssays: 4
+18: OrionSound: 1
+19: MythicalSausage: 1
+20: ShubbleYT: 1
+21: SolidarityGaming: 1
+Total 2894

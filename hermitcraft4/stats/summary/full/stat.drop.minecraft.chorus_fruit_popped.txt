@@ -1,0 +1,4 @@
+stat.drop.minecraft.chorus_fruit_popped
+1: Renthedog: 4
+2: falsesymmetry: 1
+Total 5

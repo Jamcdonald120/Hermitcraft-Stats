@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.coal_ore
+1: Xisuma: 1315
+2: Tango: 825
+3: Mumbo: 718
+4: xBCrafted: 690
+5: falsesymmetry: 617
+6: Spumwackles: 350
+7: Biffa2001: 216
+8: iJevin: 198
+9: Tinfoilchef: 139
+10: ZombieCleo: 93
+11: sl1pg8r: 51
+12: KingDaddyDMAC: 47
+13: zueljin: 46
+14: Collen: 37
+Total 5342

@@ -1,0 +1,19 @@
+stat.drop.minecraft.mossy_cobblestone
+1: Zedaph: 157
+2: iskall85: 139
+3: MumboJumbo: 110
+4: falsesymmetry: 66
+5: cubfan135: 52
+6: GoodTimeWithScar: 52
+7: Tango: 50
+8: Xisuma: 48
+9: Renthedog: 11
+10: xBCrafted: 7
+11: impulseSV: 6
+12: Etho: 4
+13: PythonGB: 3
+14: BdoubleO100: 3
+15: Biffa2001: 2
+16: iJevin: 1
+17: Tinfoilchef: 1
+Total 712

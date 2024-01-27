@@ -1,0 +1,5 @@
+stat.useItem.minecraft.nether_brick_stairs
+1: Xisuma: 7
+2: zueljin: 6
+3: Spumwackles: 6
+Total 19

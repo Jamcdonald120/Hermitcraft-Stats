@@ -1,0 +1,22 @@
+stat.useItem.minecraft.white_shulker_box
+1: cubfan135: 1688
+2: Renthedog: 1639
+3: Xisuma: 485
+4: iskall85: 372
+5: falsesymmetry: 335
+6: BdoubleO100: 197
+7: Tango: 109
+8: Stressmonster101: 109
+9: MumboJumbo: 70
+10: GoodTimeWithScar: 58
+11: Welsknight: 54
+12: iJevin: 38
+13: Zedaph: 24
+14: Docm77: 23
+15: PythonGB: 17
+16: Tinfoilchef: 17
+17: impulseSV: 8
+18: xBCrafted: 2
+19: VintageBeef: 1
+20: Etho: 1
+Total 5247

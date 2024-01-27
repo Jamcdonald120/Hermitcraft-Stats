@@ -1,0 +1,15 @@
+minecraft.dropped.red_dye
+1: MumboJumbo: 214
+2: iskall85: 152
+3: cubfan135: 99
+4: Zedaph: 69
+5: Xisuma: 49
+6: Renthedog: 45
+7: Grian: 42
+8: ZombieCleo: 26
+9: falsesymmetry: 12
+10: GoodTimeWithScar: 5
+11: joehillssays: 4
+12: Tango: 2
+13: Docm77: 1
+Total 720

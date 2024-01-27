@@ -1,0 +1,18 @@
+minecraft.picked_up.orange_bed
+1: iJevin: 143
+2: GoodTimeWithScar: 132
+3: Tango: 55
+4: joehillssays: 38
+5: PearlescentMoon: 38
+6: cubfan135: 27
+7: Grian: 17
+8: Renthedog: 13
+9: Etho: 10
+10: iskall85: 7
+11: Docm77: 2
+12: BdoubleO100: 2
+13: fWhip: 2
+14: GeminiTay: 1
+15: falsesymmetry: 1
+16: Zedaph: 1
+Total 489

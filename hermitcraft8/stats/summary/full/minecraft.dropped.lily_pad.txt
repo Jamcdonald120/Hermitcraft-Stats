@@ -1,0 +1,12 @@
+minecraft.dropped.lily_pad
+1: iJevin: 74
+2: Tango: 31
+3: Xisuma: 16
+4: BdoubleO100: 6
+5: Etho: 2
+6: ZombieCleo: 2
+7: Keralis1: 2
+8: GeminiTay: 1
+9: falsesymmetry: 1
+10: impulseSV: 1
+Total 136

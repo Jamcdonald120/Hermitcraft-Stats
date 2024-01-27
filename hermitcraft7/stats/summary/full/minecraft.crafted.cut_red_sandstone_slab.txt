@@ -1,0 +1,6 @@
+minecraft.crafted.cut_red_sandstone_slab
+1: falsesymmetry: 126
+2: joehillssays: 30
+3: GoodTimeWithScar: 12
+4: Keralis1: 2
+Total 170

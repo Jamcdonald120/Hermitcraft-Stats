@@ -1,0 +1,17 @@
+minecraft.dropped.stone_shovel
+1: Welsknight: 84
+2: impulseSV: 16
+3: Zedaph: 15
+4: GoodTimeWithScar: 13
+5: Grian: 11
+6: iJevin: 4
+7: BdoubleO100: 2
+8: xBCrafted: 2
+9: Etho: 2
+10: MumboJumbo: 2
+11: joehillssays: 1
+12: PearlescentMoon: 1
+13: cubfan135: 1
+14: ZombieCleo: 1
+15: hypnotizd: 1
+Total 156

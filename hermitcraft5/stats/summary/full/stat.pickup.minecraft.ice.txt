@@ -1,0 +1,19 @@
+stat.pickup.minecraft.ice
+1: GoodTimeWithScar: 15382
+2: cubfan135: 3506
+3: impulseSV: 2599
+4: Xisuma: 2401
+5: Tango: 2313
+6: Renthedog: 2070
+7: Biffa2001: 1811
+8: iskall85: 1508
+9: Zedaph: 1185
+10: Welsknight: 685
+11: falsesymmetry: 464
+12: iJevin: 155
+13: MumboJumbo: 89
+14: ZombieCleo: 57
+15: joehillssays: 4
+16: Docm77: 3
+17: Stressmonster101: 1
+Total 34233

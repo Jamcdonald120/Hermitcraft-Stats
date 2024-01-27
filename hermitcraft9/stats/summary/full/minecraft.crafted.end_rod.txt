@@ -1,0 +1,11 @@
+minecraft.crafted.end_rod
+1: impulseSV: 4292
+2: Keralis1: 4280
+3: iJevin: 364
+4: falsesymmetry: 288
+5: PearlescentMoon: 224
+6: ZombieCleo: 76
+7: VintageBeef: 60
+8: Docm77: 40
+9: Zedaph: 4
+Total 9628

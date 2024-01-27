@@ -1,0 +1,5 @@
+minecraft.dropped.prismarine_brick_stairs
+1: cubfan135: 35
+2: MumboJumbo: 3
+3: iJevin: 2
+Total 40

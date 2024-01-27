@@ -1,0 +1,19 @@
+stat.useItem.minecraft.lava_bucket
+1: Xisuma: 774
+2: monkeyfarm: 343
+3: Tango: 340
+4: impulseSV: 330
+5: falsesymmetry: 299
+6: xBCrafted: 292
+7: Spumwackles: 267
+8: topmass: 73
+9: Etho: 36
+10: Mumbo: 25
+11: zueljin: 21
+12: joehillssays: 13
+13: KingDaddyDMAC: 6
+14: Tinfoilchef: 6
+15: ZombieCleo: 5
+16: Biffa2001: 4
+17: sl1pg8r: 2
+Total 2836

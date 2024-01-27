@@ -1,0 +1,8 @@
+minecraft.crafted.tipped_arrow
+1: Tango: 472
+2: Etho: 375
+3: hypnotizd: 180
+4: iskall85: 140
+5: Zedaph: 32
+6: cubfan135: 16
+Total 1215

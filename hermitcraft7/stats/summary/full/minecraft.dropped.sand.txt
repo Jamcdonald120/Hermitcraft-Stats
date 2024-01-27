@@ -1,0 +1,24 @@
+minecraft.dropped.sand
+1: Tango: 21031
+2: BdoubleO100: 8187
+3: cubfan135: 5605
+4: Keralis1: 4888
+5: GoodTimeWithScar: 4264
+6: Zedaph: 3818
+7: iskall85: 2672
+8: falsesymmetry: 2293
+9: Xisuma: 2230
+10: iJevin: 2042
+11: impulseSV: 1763
+12: Grian: 1403
+13: MumboJumbo: 1244
+14: xBCrafted: 648
+15: Renthedog: 441
+16: hypnotizd: 327
+17: VintageBeef: 320
+18: Etho: 314
+19: Stressmonster101: 150
+20: joehillssays: 117
+21: Docm77: 70
+22: ZombieCleo: 1
+Total 63828

@@ -1,0 +1,10 @@
+minecraft.dropped.purple_stained_glass
+1: Renthedog: 1198
+2: Grian: 1046
+3: GoodTimeWithScar: 1013
+4: Tango: 256
+5: Zedaph: 168
+6: falsesymmetry: 64
+7: cubfan135: 5
+8: iskall85: 2
+Total 3752

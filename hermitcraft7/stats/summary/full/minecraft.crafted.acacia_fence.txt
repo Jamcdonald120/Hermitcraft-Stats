@@ -1,0 +1,15 @@
+minecraft.crafted.acacia_fence
+1: GoodTimeWithScar: 159
+2: impulseSV: 114
+3: Keralis1: 93
+4: xBCrafted: 90
+5: Etho: 72
+6: Xisuma: 66
+7: Renthedog: 48
+8: cubfan135: 45
+9: Docm77: 39
+10: BdoubleO100: 39
+11: falsesymmetry: 30
+12: VintageBeef: 21
+13: Tango: 3
+Total 819

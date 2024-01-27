@@ -1,0 +1,30 @@
+minecraft.used.torch
+1: cubfan135: 24557
+2: Renthedog: 12277
+3: GoodTimeWithScar: 12046
+4: joehillssays: 11810
+5: Grian: 10104
+6: iJevin: 10029
+7: PearlescentMoon: 9722
+8: Welsknight: 9308
+9: xBCrafted: 9159
+10: falsesymmetry: 8809
+11: Xisuma: 6501
+12: Tango: 6221
+13: impulseSV: 6026
+14: Etho: 5880
+15: Docm77: 5172
+16: MumboJumbo: 4958
+17: GeminiTay: 3970
+18: hypnotizd: 3894
+19: Zedaph: 3733
+20: ZombieCleo: 3389
+21: BdoubleO100: 3355
+22: iskall85: 3148
+23: Stressmonster101: 3049
+24: VintageBeef: 2772
+25: Tinfoilchef: 1940
+26: Keralis1: 631
+27: EvilXisuma: 9
+28: HermitcraftAlt: 2
+Total 182471

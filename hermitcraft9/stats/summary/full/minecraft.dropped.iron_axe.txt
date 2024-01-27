@@ -1,0 +1,21 @@
+minecraft.dropped.iron_axe
+1: iJevin: 385
+2: impulseSV: 341
+3: Keralis1: 181
+4: Xisuma: 99
+5: Etho: 84
+6: Tango: 83
+7: PearlescentMoon: 67
+8: Grian: 36
+9: Docm77: 28
+10: GoodTimeWithScar: 21
+11: cubfan135: 4
+12: joehillssays: 3
+13: Mumbo: 3
+14: xBCrafted: 2
+15: GeminiTay: 1
+16: Pixlriffs: 1
+17: iskall85: 1
+18: Stressmonster101: 1
+19: Zedaph: 1
+Total 1342

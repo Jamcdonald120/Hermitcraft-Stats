@@ -1,0 +1,16 @@
+minecraft.picked_up.stripped_warped_hyphae
+1: Tango: 1462
+2: Keralis1: 335
+3: GoodTimeWithScar: 270
+4: Grian: 188
+5: ZombieCleo: 156
+6: falsesymmetry: 122
+7: Renthedog: 50
+8: cubfan135: 48
+9: Xisuma: 36
+10: BdoubleO100: 13
+11: PearlescentMoon: 5
+12: VintageBeef: 3
+13: impulseSV: 1
+14: Zedaph: 1
+Total 2690

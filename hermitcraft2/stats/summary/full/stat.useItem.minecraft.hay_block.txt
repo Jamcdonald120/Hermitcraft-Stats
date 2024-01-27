@@ -1,0 +1,5 @@
+stat.useItem.minecraft.hay_block
+1: ZombieCleo: 101
+2: falsesymmetry: 14
+3: Cleophas: 1
+Total 116

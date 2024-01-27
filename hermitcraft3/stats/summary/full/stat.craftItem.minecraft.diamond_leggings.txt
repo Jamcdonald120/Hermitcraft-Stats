@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.diamond_leggings
+1: impulseSV: 16
+2: Tango: 8
+3: Xisuma: 6
+4: xBCrafted: 6
+5: sl1pg8r: 4
+6: falsesymmetry: 4
+7: ZombieCleo: 4
+8: Mumbo: 4
+9: monkeyfarm: 4
+10: iJevin: 3
+11: zueljin: 3
+12: Tinfoilchef: 3
+13: topmass: 2
+14: PythonGB: 2
+15: Biffa2001: 2
+16: hypnotizd: 2
+17: KingDaddyDMAC: 1
+18: Etho: 1
+19: Spumwackles: 1
+Total 76

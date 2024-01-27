@@ -1,0 +1,27 @@
+minecraft.picked_up.polished_andesite_slab
+1: cubfan135: 2607
+2: joehillssays: 1003
+3: GoodTimeWithScar: 781
+4: falsesymmetry: 448
+5: Renthedog: 267
+6: Etho: 249
+7: Xisuma: 130
+8: Grian: 110
+9: Docm77: 103
+10: Tango: 96
+11: BdoubleO100: 90
+12: impulseSV: 80
+13: PearlescentMoon: 72
+14: ZombieCleo: 69
+15: RentheKing: 37
+16: xBCrafted: 35
+17: Zedaph: 21
+18: iJevin: 19
+19: hypnotizd: 19
+20: Pixlriffs: 11
+21: Keralis1: 10
+22: MythicalSausage: 4
+23: iskall85: 3
+24: VintageBeef: 2
+25: Stressmonster101: 2
+Total 6268

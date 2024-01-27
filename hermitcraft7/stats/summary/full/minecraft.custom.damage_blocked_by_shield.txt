@@ -1,0 +1,17 @@
+minecraft.custom.damage_blocked_by_shield
+1: Tango: 52405
+2: cubfan135: 26705
+3: VintageBeef: 18970
+4: Etho: 16420
+5: Zedaph: 14995
+6: Keralis1: 9579
+7: Xisuma: 7550
+8: falsesymmetry: 3390
+9: joehillssays: 2175
+10: Renthedog: 1990
+11: impulseSV: 1620
+12: MumboJumbo: 1440
+13: Docm77: 1025
+14: ZombieCleo: 760
+15: GoodTimeWithScar: 570
+Total 159594

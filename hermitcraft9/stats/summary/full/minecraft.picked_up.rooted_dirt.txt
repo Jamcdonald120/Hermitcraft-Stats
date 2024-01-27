@@ -1,0 +1,27 @@
+minecraft.picked_up.rooted_dirt
+1: joehillssays: 4198
+2: Docm77: 3437
+3: Keralis1: 2253
+4: PearlescentMoon: 1137
+5: Etho: 1103
+6: iJevin: 685
+7: Tango: 581
+8: GoodTimeWithScar: 515
+9: Renthedog: 461
+10: iskall85: 377
+11: ZombieCleo: 367
+12: falsesymmetry: 251
+13: GeminiTay: 250
+14: Xisuma: 239
+15: cubfan135: 219
+16: Grian: 207
+17: hypnotizd: 128
+18: Stressmonster101: 120
+19: VintageBeef: 35
+20: xBCrafted: 28
+21: BdoubleO100: 21
+22: Zedaph: 21
+23: MythicalSausage: 13
+24: RentheKing: 3
+25: Mumbo: 1
+Total 16650

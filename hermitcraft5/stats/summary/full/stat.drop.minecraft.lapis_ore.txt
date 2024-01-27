@@ -1,0 +1,10 @@
+stat.drop.minecraft.lapis_ore
+1: MumboJumbo: 14
+2: falsesymmetry: 5
+3: iJevin: 4
+4: cubfan135: 4
+5: Xisuma: 1
+6: iskall85: 1
+7: xBCrafted: 1
+8: GoodTimeWithScar: 1
+Total 31

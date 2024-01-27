@@ -1,0 +1,21 @@
+minecraft.dropped.end_rod
+1: Zedaph: 1087
+2: Grian: 602
+3: cubfan135: 414
+4: impulseSV: 201
+5: MumboJumbo: 149
+6: GoodTimeWithScar: 79
+7: Tango: 72
+8: Stressmonster101: 62
+9: Renthedog: 31
+10: Xisuma: 22
+11: Keralis1: 21
+12: Docm77: 14
+13: iskall85: 11
+14: BarryBoss1234: 10
+15: Etho: 8
+16: iJevin: 3
+17: xBCrafted: 2
+18: VintageBeef: 1
+19: BdoubleO100: 1
+Total 2790

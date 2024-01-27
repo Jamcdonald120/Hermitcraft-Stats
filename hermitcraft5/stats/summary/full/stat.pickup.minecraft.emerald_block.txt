@@ -1,0 +1,13 @@
+stat.pickup.minecraft.emerald_block
+1: cubfan135: 941
+2: Tinfoilchef: 259
+3: Xisuma: 258
+4: Zedaph: 167
+5: falsesymmetry: 120
+6: Welsknight: 60
+7: MumboJumbo: 13
+8: ZombieCleo: 8
+9: GoodTimeWithScar: 5
+10: Tango: 2
+11: PythonGB: 1
+Total 1834

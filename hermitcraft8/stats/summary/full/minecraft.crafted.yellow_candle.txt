@@ -1,0 +1,4 @@
+minecraft.crafted.yellow_candle
+1: Tango: 169
+2: ZombieCleo: 132
+Total 301

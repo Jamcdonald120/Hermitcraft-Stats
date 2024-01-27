@@ -1,0 +1,14 @@
+minecraft.picked_up.purple_banner
+1: cubfan135: 36
+2: MumboJumbo: 10
+3: falsesymmetry: 9
+4: Stressmonster101: 8
+5: Tango: 4
+6: PythonGB: 3
+7: Grian: 3
+8: iskall85: 3
+9: Xisuma: 2
+10: HumanCleo: 1
+11: iJevin: 1
+12: Welsknight: 1
+Total 81

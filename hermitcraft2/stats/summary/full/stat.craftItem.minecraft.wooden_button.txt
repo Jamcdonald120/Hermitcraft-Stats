@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.wooden_button
+1: falsesymmetry: 43
+2: xBCrafted: 8
+3: Xisuma: 7
+4: Tango: 5
+5: zueljin: 2
+Total 65

@@ -1,0 +1,25 @@
+minecraft.picked_up.lime_shulker_box
+1: PearlescentMoon: 599
+2: BdoubleO100: 457
+3: joehillssays: 343
+4: GoodTimeWithScar: 251
+5: Etho: 207
+6: cubfan135: 183
+7: falsesymmetry: 171
+8: ZombieCleo: 160
+9: Renthedog: 88
+10: iJevin: 85
+11: Xisuma: 77
+12: impulseSV: 40
+13: xBCrafted: 36
+14: iskall85: 34
+15: Keralis1: 33
+16: Grian: 30
+17: RentheKing: 30
+18: VintageBeef: 8
+19: Stressmonster101: 8
+20: hypnotizd: 7
+21: Docm77: 3
+22: GeminiTay: 2
+23: Zedaph: 2
+Total 2854

@@ -1,0 +1,30 @@
+minecraft.dropped.netherrack
+1: iJevin: 397023
+2: Tango: 38362
+3: cubfan135: 29168
+4: xBCrafted: 22078
+5: Zedaph: 14572
+6: Docm77: 9943
+7: VintageBeef: 8702
+8: impulseSV: 6633
+9: ZombieCleo: 5985
+10: Keralis1: 4007
+11: PearlescentMoon: 3787
+12: joehillssays: 2977
+13: Renthedog: 2248
+14: BdoubleO100: 2207
+15: hypnotizd: 2025
+16: iskall85: 2016
+17: falsesymmetry: 2013
+18: Xisuma: 1823
+19: GeminiTay: 1433
+20: GoodTimeWithScar: 1294
+21: RentheKing: 1176
+22: Grian: 890
+23: Etho: 486
+24: Mumbo: 448
+25: MumboJumbo: 313
+26: MythicalSausage: 72
+27: Pixlriffs: 4
+28: Stressmonster101: 1
+Total 561686

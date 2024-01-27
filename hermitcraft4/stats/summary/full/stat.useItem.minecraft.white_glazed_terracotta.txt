@@ -1,0 +1,4 @@
+stat.useItem.minecraft.white_glazed_terracotta
+1: impulseSV: 7
+2: joehillssays: 2
+Total 9

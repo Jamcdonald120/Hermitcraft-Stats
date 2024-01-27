@@ -1,0 +1,14 @@
+minecraft.picked_up.nether_brick
+1: iJevin: 2526
+2: Xisuma: 550
+3: cubfan135: 371
+4: Docm77: 344
+5: Etho: 137
+6: Grian: 114
+7: impulseSV: 102
+8: Renthedog: 47
+9: Zedaph: 19
+10: Welsknight: 16
+11: VintageBeef: 5
+12: PearlescentMoon: 2
+Total 4233

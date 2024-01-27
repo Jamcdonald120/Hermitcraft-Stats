@@ -1,0 +1,17 @@
+minecraft.picked_up.dark_oak_leaves
+1: Keralis1: 2475
+2: cubfan135: 1693
+3: GoodTimeWithScar: 1587
+4: Docm77: 460
+5: Etho: 358
+6: BdoubleO100: 345
+7: Grian: 284
+8: MumboJumbo: 175
+9: VintageBeef: 124
+10: Tango: 41
+11: Zedaph: 30
+12: hypnotizd: 16
+13: Renthedog: 15
+14: joehillssays: 10
+15: Xisuma: 1
+Total 7614

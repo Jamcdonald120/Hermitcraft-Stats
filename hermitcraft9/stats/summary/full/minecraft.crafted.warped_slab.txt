@@ -1,0 +1,22 @@
+minecraft.crafted.warped_slab
+1: Xisuma: 3534
+2: ZombieCleo: 2890
+3: Tango: 2298
+4: GoodTimeWithScar: 1644
+5: Grian: 838
+6: PearlescentMoon: 792
+7: VintageBeef: 720
+8: falsesymmetry: 642
+9: Keralis1: 618
+10: GeminiTay: 360
+11: Stressmonster101: 144
+12: impulseSV: 144
+13: cubfan135: 96
+14: BdoubleO100: 78
+15: xBCrafted: 36
+16: Mumbo: 30
+17: Smallishbeans: 24
+18: Docm77: 6
+19: Smajor1995: 6
+20: Zedaph: 6
+Total 14906

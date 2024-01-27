@@ -1,0 +1,19 @@
+minecraft.picked_up.cherry_leaves
+1: Grian: 12093
+2: GoodTimeWithScar: 4943
+3: joehillssays: 3007
+4: ZombieCleo: 2638
+5: GeminiTay: 530
+6: PearlescentMoon: 387
+7: Stressmonster101: 315
+8: cubfan135: 201
+9: Renthedog: 68
+10: InTheLittleWood: 39
+11: Mumbo: 33
+12: falsesymmetry: 29
+13: Keralis1: 25
+14: Docm77: 23
+15: impulseSV: 6
+16: Zedaph: 3
+17: Etho: 1
+Total 24341

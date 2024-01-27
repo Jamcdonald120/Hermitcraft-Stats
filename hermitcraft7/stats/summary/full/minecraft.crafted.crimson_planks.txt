@@ -1,0 +1,23 @@
+minecraft.crafted.crimson_planks
+1: Tango: 16674
+2: Grian: 4848
+3: Etho: 4776
+4: impulseSV: 3849
+5: cubfan135: 3516
+6: GoodTimeWithScar: 2928
+7: iJevin: 2848
+8: falsesymmetry: 2742
+9: Renthedog: 2664
+10: Stressmonster101: 1504
+11: joehillssays: 740
+12: Keralis1: 660
+13: Xisuma: 588
+14: VintageBeef: 572
+15: Welsknight: 528
+16: MumboJumbo: 300
+17: BdoubleO100: 272
+18: xBCrafted: 96
+19: iskall85: 92
+20: ZombieCleo: 12
+21: Zedaph: 8
+Total 50217

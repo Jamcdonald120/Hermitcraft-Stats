@@ -1,0 +1,23 @@
+minecraft.picked_up.cooked_cod
+1: Xisuma: 64065
+2: cubfan135: 24449
+3: GoodTimeWithScar: 2662
+4: Stressmonster101: 2225
+5: Grian: 1680
+6: Docm77: 1095
+7: iskall85: 919
+8: iJevin: 741
+9: Renthedog: 682
+10: joehillssays: 352
+11: falsesymmetry: 328
+12: MumboJumbo: 144
+13: ZombieCleo: 127
+14: Zedaph: 117
+15: Welsknight: 96
+16: Biffa2001: 51
+17: impulseSV: 28
+18: Tango: 7
+19: PythonGB: 6
+20: xBCrafted: 3
+21: Duke_da_dog: 2
+Total 99779

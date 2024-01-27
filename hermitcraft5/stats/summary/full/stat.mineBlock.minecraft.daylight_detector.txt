@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.daylight_detector
+1: impulseSV: 69
+2: cubfan135: 56
+3: MumboJumbo: 10
+4: Xisuma: 8
+5: VintageBeef: 8
+6: Tango: 8
+7: iskall85: 4
+8: Welsknight: 3
+9: GoodTimeWithScar: 2
+10: xBCrafted: 1
+11: falsesymmetry: 1
+12: Biffa2001: 1
+Total 171

@@ -1,0 +1,25 @@
+stat.useItem.minecraft.sand
+1: cubfan135: 153716
+2: impulseSV: 102532
+3: MumboJumbo: 98990
+4: Xisuma: 9723
+5: falsesymmetry: 5828
+6: GoodTimeWithScar: 4400
+7: Renthedog: 3238
+8: ZombieCleo: 3205
+9: xBCrafted: 2507
+10: PythonGB: 1963
+11: Zedaph: 1789
+12: joehillssays: 1234
+13: iskall85: 1161
+14: Tango: 841
+15: Docm77: 553
+16: Welsknight: 444
+17: Tinfoilchef: 261
+18: VintageBeef: 136
+19: BdoubleO100: 110
+20: Biffa2001: 65
+21: Stressmonster101: 51
+22: Etho: 35
+23: iJevin: 29
+Total 392811

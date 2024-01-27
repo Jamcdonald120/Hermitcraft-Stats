@@ -1,0 +1,27 @@
+minecraft.picked_up.leather_leggings
+1: Tango: 50
+2: Xisuma: 36
+3: impulseSV: 33
+4: Grian: 23
+5: falsesymmetry: 17
+6: cubfan135: 16
+7: Etho: 13
+8: hypnotizd: 13
+9: GoodTimeWithScar: 12
+10: iJevin: 11
+11: iskall85: 11
+12: xBCrafted: 10
+13: joehillssays: 9
+14: PearlescentMoon: 6
+15: VintageBeef: 5
+16: Renthedog: 4
+17: Welsknight: 4
+18: ZombieCleo: 4
+19: Docm77: 3
+20: Stressmonster101: 3
+21: GeminiTay: 2
+22: Zedaph: 2
+23: BdoubleO100: 1
+24: MumboJumbo: 1
+25: Keralis1: 1
+Total 290

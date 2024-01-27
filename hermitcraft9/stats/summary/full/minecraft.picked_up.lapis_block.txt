@@ -1,0 +1,19 @@
+minecraft.picked_up.lapis_block
+1: VintageBeef: 5040
+2: joehillssays: 816
+3: PearlescentMoon: 755
+4: iJevin: 618
+5: Zedaph: 438
+6: Grian: 180
+7: BdoubleO100: 113
+8: cubfan135: 101
+9: Renthedog: 72
+10: xBCrafted: 69
+11: Tango: 64
+12: falsesymmetry: 39
+13: Etho: 39
+14: RentheKing: 37
+15: GoodTimeWithScar: 21
+16: GeminiTay: 3
+17: impulseSV: 1
+Total 8406

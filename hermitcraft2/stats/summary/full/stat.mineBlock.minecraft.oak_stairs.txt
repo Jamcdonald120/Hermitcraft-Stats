@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.oak_stairs
+1: ZombieCleo: 51
+2: zueljin: 44
+3: Spumwackles: 30
+4: xBCrafted: 17
+5: Mumbo: 17
+Total 159

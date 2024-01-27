@@ -1,0 +1,31 @@
+minecraft.crafted.iron_chestplate
+1: Etho: 328
+2: iJevin: 111
+3: Xisuma: 49
+4: cubfan135: 47
+5: Renthedog: 7
+6: falsesymmetry: 7
+7: Docm77: 6
+8: ZombieCleo: 6
+9: impulseSV: 6
+10: VintageBeef: 5
+11: joehillssays: 5
+12: Stressmonster101: 5
+13: Tango: 4
+14: PearlescentMoon: 4
+15: Welsknight: 4
+16: hypnotizd: 4
+17: Grian: 3
+18: BdoubleO100: 3
+19: RentheKing: 3
+20: GeminiTay: 2
+21: iskall85: 2
+22: Keralis1: 2
+23: Zedaph: 2
+24: Smajor1995: 1
+25: MythicalSausage: 1
+26: Pixlriffs: 1
+27: xBCrafted: 1
+28: Mumbo: 1
+29: ShubbleYT: 1
+Total 621

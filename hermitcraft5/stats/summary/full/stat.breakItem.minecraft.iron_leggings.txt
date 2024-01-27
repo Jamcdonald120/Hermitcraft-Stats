@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.iron_leggings
+1: Zedaph: 3
+2: BdoubleO100: 1
+Total 4

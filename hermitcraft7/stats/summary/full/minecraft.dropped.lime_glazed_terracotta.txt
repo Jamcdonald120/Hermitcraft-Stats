@@ -1,0 +1,6 @@
+minecraft.dropped.lime_glazed_terracotta
+1: falsesymmetry: 19
+2: iskall85: 7
+3: Xisuma: 1
+4: Tango: 1
+Total 28

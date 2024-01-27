@@ -1,0 +1,28 @@
+minecraft.mined.gray_concrete
+1: ZombieCleo: 7222
+2: PearlescentMoon: 5467
+3: cubfan135: 4446
+4: Renthedog: 4380
+5: Docm77: 4257
+6: Keralis1: 4002
+7: impulseSV: 1970
+8: GoodTimeWithScar: 1802
+9: Xisuma: 1564
+10: iskall85: 1337
+11: iJevin: 1289
+12: Grian: 1076
+13: BdoubleO100: 977
+14: Etho: 640
+15: falsesymmetry: 492
+16: VintageBeef: 429
+17: RentheKing: 219
+18: MythicalSausage: 128
+19: xBCrafted: 104
+20: joehillssays: 32
+21: GeminiTay: 24
+22: Smallishbeans: 12
+23: Skizzleman: 7
+24: Tango: 1
+25: Stressmonster101: 1
+26: Zedaph: 1
+Total 41879

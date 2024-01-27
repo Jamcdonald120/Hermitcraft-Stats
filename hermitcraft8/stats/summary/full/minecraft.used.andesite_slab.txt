@@ -1,0 +1,20 @@
+minecraft.used.andesite_slab
+1: impulseSV: 4552
+2: iJevin: 380
+3: Keralis1: 380
+4: Docm77: 280
+5: joehillssays: 230
+6: Xisuma: 189
+7: PearlescentMoon: 182
+8: BdoubleO100: 167
+9: GoodTimeWithScar: 134
+10: Tango: 84
+11: Stressmonster101: 41
+12: iskall85: 33
+13: xBCrafted: 26
+14: Renthedog: 24
+15: GeminiTay: 23
+16: VintageBeef: 13
+17: Etho: 4
+18: falsesymmetry: 2
+Total 6744

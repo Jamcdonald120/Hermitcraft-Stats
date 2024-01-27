@@ -1,0 +1,22 @@
+minecraft.picked_up.melon_seeds
+1: ZombieCleo: 101
+2: Grian: 57
+3: cubfan135: 55
+4: PearlescentMoon: 49
+5: Zedaph: 35
+6: hypnotizd: 31
+7: Stressmonster101: 29
+8: Etho: 18
+9: Renthedog: 13
+10: falsesymmetry: 9
+11: iskall85: 8
+12: BdoubleO100: 6
+13: VintageBeef: 3
+14: joehillssays: 3
+15: Keralis1: 3
+16: Docm77: 1
+17: Xisuma: 1
+18: iJevin: 1
+19: GeminiTay: 1
+20: impulseSV: 1
+Total 425

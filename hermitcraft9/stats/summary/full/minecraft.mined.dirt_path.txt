@@ -1,0 +1,32 @@
+minecraft.mined.dirt_path
+1: GeminiTay: 1380
+2: xBCrafted: 1128
+3: BdoubleO100: 645
+4: Grian: 609
+5: Etho: 354
+6: Stressmonster101: 316
+7: iJevin: 308
+8: cubfan135: 297
+9: Docm77: 285
+10: PearlescentMoon: 279
+11: falsesymmetry: 272
+12: Renthedog: 271
+13: joehillssays: 133
+14: Zedaph: 105
+15: GoodTimeWithScar: 101
+16: Keralis1: 92
+17: VintageBeef: 89
+18: Tango: 81
+19: ZombieCleo: 70
+20: iskall85: 43
+21: RentheKing: 39
+22: impulseSV: 30
+23: hypnotizd: 28
+24: Xisuma: 16
+25: MythicalSausage: 16
+26: Welsknight: 12
+27: Mumbo: 4
+28: Pixlriffs: 3
+29: OrionSound: 2
+30: Tinfoilchef: 1
+Total 7009

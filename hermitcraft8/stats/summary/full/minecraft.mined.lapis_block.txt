@@ -1,0 +1,6 @@
+minecraft.mined.lapis_block
+1: cubfan135: 64
+2: xBCrafted: 29
+3: Stressmonster101: 2
+4: Xisuma: 1
+Total 96

@@ -1,0 +1,27 @@
+minecraft.picked_up.rail
+1: Grian: 8071
+2: Tango: 5662
+3: Stressmonster101: 5265
+4: iskall85: 3962
+5: impulseSV: 3426
+6: iJevin: 3363
+7: Zedaph: 3256
+8: GoodTimeWithScar: 2676
+9: cubfan135: 2450
+10: Keralis1: 2231
+11: xBCrafted: 1465
+12: VintageBeef: 1456
+13: Etho: 1163
+14: Xisuma: 1046
+15: hypnotizd: 908
+16: Renthedog: 549
+17: Docm77: 507
+18: MumboJumbo: 507
+19: falsesymmetry: 480
+20: BdoubleO100: 300
+21: joehillssays: 290
+22: ZombieCleo: 259
+23: Tinfoilchef: 104
+24: Welsknight: 83
+25: xisumavoid: 3
+Total 49482

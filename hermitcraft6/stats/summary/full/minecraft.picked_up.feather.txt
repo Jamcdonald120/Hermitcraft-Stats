@@ -1,0 +1,28 @@
+minecraft.picked_up.feather
+1: Renthedog: 4333
+2: ZombieCleo: 2058
+3: MumboJumbo: 1540
+4: falsesymmetry: 1256
+5: GoodTimeWithScar: 1067
+6: iskall85: 820
+7: Zedaph: 811
+8: Stressmonster101: 685
+9: Grian: 663
+10: Xisuma: 252
+11: cubfan135: 177
+12: Tango: 139
+13: iJevin: 116
+14: Docm77: 109
+15: Tinfoilchef: 86
+16: Jessassin: 52
+17: Biffa2001: 46
+18: impulseSV: 45
+19: joehillssays: 23
+20: BdoubleO100: 22
+21: Welsknight: 21
+22: EvilXisuma: 14
+23: BadTimeWithScar: 10
+24: PythonGB: 3
+25: Duke_da_dog: 2
+26: Cub_Cam: 1
+Total 14351

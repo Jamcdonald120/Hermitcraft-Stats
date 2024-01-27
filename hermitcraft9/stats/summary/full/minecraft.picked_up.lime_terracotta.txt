@@ -1,0 +1,30 @@
+minecraft.picked_up.lime_terracotta
+1: impulseSV: 3459
+2: VintageBeef: 3001
+3: Grian: 2031
+4: GoodTimeWithScar: 1610
+5: PearlescentMoon: 1332
+6: Etho: 294
+7: cubfan135: 264
+8: Docm77: 188
+9: ZombieCleo: 121
+10: iskall85: 82
+11: Xisuma: 69
+12: Stressmonster101: 65
+13: Keralis1: 56
+14: Smajor1995: 41
+15: falsesymmetry: 41
+16: MythicalSausage: 24
+17: OrionSound: 19
+18: BdoubleO100: 19
+19: GeminiTay: 17
+20: joehillssays: 14
+21: ShubbleYT: 13
+22: iJevin: 9
+23: Tango: 9
+24: Zedaph: 8
+25: Renthedog: 6
+26: Mumbo: 6
+27: SolidarityGaming: 5
+28: Smallishbeans: 1
+Total 12804

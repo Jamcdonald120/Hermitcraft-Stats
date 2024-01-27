@@ -1,0 +1,25 @@
+stat.pickup.minecraft.concrete
+1: Renthedog: 104106
+2: cubfan135: 88409
+3: GoodTimeWithScar: 83603
+4: iskall85: 73432
+5: falsesymmetry: 61081
+6: impulseSV: 38962
+7: MumboJumbo: 16076
+8: Xisuma: 11570
+9: Welsknight: 10032
+10: Tango: 8639
+11: PythonGB: 8324
+12: Stressmonster101: 3826
+13: Tinfoilchef: 3280
+14: Zedaph: 2584
+15: xBCrafted: 1821
+16: ZombieCleo: 1386
+17: Docm77: 1268
+18: Biffa2001: 650
+19: VintageBeef: 484
+20: iJevin: 266
+21: joehillssays: 228
+22: BdoubleO100: 191
+23: Etho: 3
+Total 520221

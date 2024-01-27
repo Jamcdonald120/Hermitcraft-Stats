@@ -1,0 +1,9 @@
+minecraft.mined.cyan_wall_banner
+1: falsesymmetry: 13
+2: xBCrafted: 6
+3: cubfan135: 6
+4: Keralis1: 4
+5: GoodTimeWithScar: 3
+6: VintageBeef: 2
+7: PearlescentMoon: 1
+Total 35

@@ -1,0 +1,10 @@
+minecraft.dropped.deepslate_gold_ore
+1: Tango: 8
+2: MumboJumbo: 7
+3: joehillssays: 5
+4: xBCrafted: 2
+5: hypnotizd: 2
+6: iJevin: 1
+7: Grian: 1
+8: GoodTimeWithScar: 1
+Total 27

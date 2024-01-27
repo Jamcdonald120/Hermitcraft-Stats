@@ -1,0 +1,16 @@
+stat.pickup.minecraft.birch_stairs
+1: xBCrafted: 406
+2: Xisuma: 106
+3: Tinfoilchef: 95
+4: cubfan135: 85
+5: joehillssays: 28
+6: PythonGB: 12
+7: Welsknight: 12
+8: Biffa2001: 10
+9: ZombieCleo: 4
+10: MumboJumbo: 4
+11: iJevin: 2
+12: iskall85: 2
+13: GoodTimeWithScar: 2
+14: Tango: 1
+Total 769

@@ -1,0 +1,10 @@
+minecraft.crafted.nether_brick_stairs
+1: Tango: 764
+2: iJevin: 312
+3: Keralis1: 160
+4: Xisuma: 85
+5: GoodTimeWithScar: 13
+6: Renthedog: 4
+7: cubfan135: 4
+8: Zedaph: 2
+Total 1344

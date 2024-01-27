@@ -1,0 +1,20 @@
+stat.pickup.minecraft.coal_block
+1: Tinfoilchef: 687
+2: Tango: 357
+3: PythonGB: 295
+4: falsesymmetry: 172
+5: iskall85: 159
+6: GoodTimeWithScar: 137
+7: Renthedog: 116
+8: Xisuma: 110
+9: cubfan135: 92
+10: Welsknight: 75
+11: xBCrafted: 73
+12: MumboJumbo: 44
+13: Biffa2001: 37
+14: ZombieCleo: 29
+15: Docm77: 21
+16: iJevin: 16
+17: Stressmonster101: 6
+18: joehillssays: 5
+Total 2431

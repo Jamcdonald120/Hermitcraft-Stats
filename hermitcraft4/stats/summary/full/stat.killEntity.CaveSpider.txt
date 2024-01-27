@@ -1,0 +1,23 @@
+stat.killEntity.CaveSpider
+1: GoodTimeWithScar: 22144
+2: Renthedog: 8173
+3: joehillssays: 5281
+4: cubfan135: 4084
+5: Welsknight: 3195
+6: falsesymmetry: 2627
+7: Xisuma: 2590
+8: iskall85: 2213
+9: Tango: 2196
+10: ZombieCleo: 1778
+11: Tinfoilchef: 1552
+12: iJevin: 1548
+13: Biffa2001: 1075
+14: PythonGB: 932
+15: MumboJumbo: 910
+16: Docm77: 552
+17: xBCrafted: 333
+18: Mumbo: 303
+19: Etho: 288
+20: impulseSV: 236
+21: VintageBeef: 1
+Total 62011

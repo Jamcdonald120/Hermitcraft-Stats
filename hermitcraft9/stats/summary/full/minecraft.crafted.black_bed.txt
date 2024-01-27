@@ -1,0 +1,14 @@
+minecraft.crafted.black_bed
+1: xBCrafted: 13
+2: Renthedog: 5
+3: falsesymmetry: 4
+4: impulseSV: 4
+5: joehillssays: 3
+6: iJevin: 2
+7: Tango: 2
+8: Docm77: 1
+9: Etho: 1
+10: ZombieCleo: 1
+11: RentheKing: 1
+12: Zedaph: 1
+Total 38

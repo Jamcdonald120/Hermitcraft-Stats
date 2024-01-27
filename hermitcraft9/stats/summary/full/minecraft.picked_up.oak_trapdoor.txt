@@ -1,0 +1,32 @@
+minecraft.picked_up.oak_trapdoor
+1: GoodTimeWithScar: 352
+2: iJevin: 232
+3: Etho: 142
+4: Docm77: 114
+5: PearlescentMoon: 113
+6: Keralis1: 102
+7: Xisuma: 91
+8: BdoubleO100: 87
+9: cubfan135: 81
+10: OrionSound: 68
+11: Zedaph: 57
+12: falsesymmetry: 51
+13: xBCrafted: 44
+14: Renthedog: 43
+15: impulseSV: 33
+16: Tango: 29
+17: Grian: 27
+18: iskall85: 25
+19: VintageBeef: 15
+20: GeminiTay: 9
+21: Pixlriffs: 7
+22: ZombieCleo: 7
+23: fWhip: 7
+24: Stressmonster101: 7
+25: hypnotizd: 5
+26: SolidarityGaming: 5
+27: MythicalSausage: 3
+28: ShubbleYT: 2
+29: Mumbo: 1
+30: MumboJumbo: 1
+Total 1760

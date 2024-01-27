@@ -1,0 +1,4 @@
+minecraft.picked_up.mangrove_hanging_sign
+1: GoodTimeWithScar: 33
+2: Renthedog: 2
+Total 35

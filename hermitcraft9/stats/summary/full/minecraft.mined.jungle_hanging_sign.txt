@@ -1,0 +1,4 @@
+minecraft.mined.jungle_hanging_sign
+1: GoodTimeWithScar: 8
+2: BdoubleO100: 1
+Total 9

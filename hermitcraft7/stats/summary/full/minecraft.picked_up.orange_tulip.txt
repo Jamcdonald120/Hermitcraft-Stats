@@ -1,0 +1,15 @@
+minecraft.picked_up.orange_tulip
+1: Etho: 435
+2: impulseSV: 415
+3: GoodTimeWithScar: 230
+4: cubfan135: 187
+5: Xisuma: 132
+6: joehillssays: 117
+7: ZombieCleo: 57
+8: xBCrafted: 44
+9: BdoubleO100: 37
+10: Grian: 23
+11: Stressmonster101: 16
+12: VintageBeef: 8
+13: Welsknight: 3
+Total 1704

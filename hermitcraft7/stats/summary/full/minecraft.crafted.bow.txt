@@ -1,0 +1,26 @@
+minecraft.crafted.bow
+1: iskall85: 1606
+2: Etho: 855
+3: xBCrafted: 458
+4: Grian: 444
+5: Xisuma: 419
+6: Tango: 388
+7: cubfan135: 381
+8: hypnotizd: 310
+9: Renthedog: 213
+10: MumboJumbo: 179
+11: joehillssays: 152
+12: Zedaph: 145
+13: Keralis1: 135
+14: impulseSV: 116
+15: VintageBeef: 86
+16: Welsknight: 80
+17: GoodTimeWithScar: 77
+18: iJevin: 53
+19: falsesymmetry: 39
+20: BdoubleO100: 17
+21: Docm77: 10
+22: ZombieCleo: 3
+23: Stressmonster101: 2
+24: Tinfoilchef: 1
+Total 6169

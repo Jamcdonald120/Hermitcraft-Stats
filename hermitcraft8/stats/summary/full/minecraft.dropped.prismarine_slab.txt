@@ -1,0 +1,3 @@
+minecraft.dropped.prismarine_slab
+1: Etho: 6
+Total 6

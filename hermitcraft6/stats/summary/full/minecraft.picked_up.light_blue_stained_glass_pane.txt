@@ -1,0 +1,16 @@
+minecraft.picked_up.light_blue_stained_glass_pane
+1: GoodTimeWithScar: 172
+2: iskall85: 152
+3: MumboJumbo: 114
+4: Renthedog: 93
+5: Stressmonster101: 74
+6: cubfan135: 62
+7: Xisuma: 26
+8: Grian: 17
+9: iJevin: 16
+10: Welsknight: 14
+11: PythonGB: 10
+12: Tango: 5
+13: Docm77: 2
+14: falsesymmetry: 2
+Total 759

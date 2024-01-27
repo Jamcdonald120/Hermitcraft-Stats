@@ -1,0 +1,12 @@
+minecraft.dropped.orange_wool
+1: iJevin: 797
+2: Tango: 419
+3: impulseSV: 256
+4: Renthedog: 195
+5: falsesymmetry: 89
+6: Grian: 66
+7: xBCrafted: 20
+8: Keralis1: 17
+9: GoodTimeWithScar: 4
+10: Docm77: 2
+Total 1865

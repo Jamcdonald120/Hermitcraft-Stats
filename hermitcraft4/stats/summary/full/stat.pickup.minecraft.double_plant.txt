@@ -1,0 +1,22 @@
+stat.pickup.minecraft.double_plant
+1: Renthedog: 8804
+2: falsesymmetry: 7561
+3: Xisuma: 6003
+4: Etho: 5437
+5: Docm77: 2614
+6: cubfan135: 2199
+7: GoodTimeWithScar: 1209
+8: iskall85: 1060
+9: Tango: 812
+10: impulseSV: 654
+11: Welsknight: 222
+12: MumboJumbo: 172
+13: Tinfoilchef: 63
+14: VintageBeef: 51
+15: zueljin: 32
+16: iJevin: 22
+17: Biffa2001: 22
+18: PythonGB: 15
+19: ZombieCleo: 9
+20: joehillssays: 2
+Total 36963

@@ -1,0 +1,26 @@
+minecraft.killed_by.vex
+1: GoodTimeWithScar: 20
+2: iJevin: 18
+3: hypnotizd: 16
+4: Keralis1: 15
+5: impulseSV: 15
+6: Zedaph: 15
+7: Docm77: 12
+8: Tango: 11
+9: PearlescentMoon: 11
+10: Etho: 10
+11: BdoubleO100: 8
+12: falsesymmetry: 8
+13: cubfan135: 8
+14: GeminiTay: 7
+15: Grian: 7
+16: ZombieCleo: 6
+17: Xisuma: 3
+18: joehillssays: 3
+19: iskall85: 3
+20: Renthedog: 2
+21: InTheLittleWood: 2
+22: VintageBeef: 1
+23: Skizzleman: 1
+24: SolidarityGaming: 1
+Total 203

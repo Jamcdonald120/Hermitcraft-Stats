@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.packed_ice
+1: Welsknight: 15845
+2: impulseSV: 8186
+3: MumboJumbo: 4578
+4: Xisuma: 4321
+5: falsesymmetry: 1363
+6: Tango: 1201
+7: cubfan135: 1192
+8: Etho: 596
+9: PythonGB: 576
+10: xBCrafted: 244
+11: iskall85: 199
+12: GoodTimeWithScar: 100
+13: Docm77: 31
+14: Tinfoilchef: 3
+15: Renthedog: 2
+Total 38437

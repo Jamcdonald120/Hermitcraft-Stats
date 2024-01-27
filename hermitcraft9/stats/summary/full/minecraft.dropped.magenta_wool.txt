@@ -1,0 +1,8 @@
+minecraft.dropped.magenta_wool
+1: iJevin: 1153
+2: falsesymmetry: 1118
+3: Tango: 130
+4: ZombieCleo: 16
+5: Zedaph: 2
+6: Renthedog: 1
+Total 2420

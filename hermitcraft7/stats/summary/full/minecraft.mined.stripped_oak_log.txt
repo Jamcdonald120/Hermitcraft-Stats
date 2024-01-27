@@ -1,0 +1,26 @@
+minecraft.mined.stripped_oak_log
+1: Keralis1: 1619
+2: Xisuma: 1271
+3: iskall85: 765
+4: GoodTimeWithScar: 665
+5: BdoubleO100: 314
+6: Zedaph: 275
+7: VintageBeef: 210
+8: cubfan135: 146
+9: ZombieCleo: 144
+10: Etho: 111
+11: Renthedog: 99
+12: Grian: 83
+13: Tango: 62
+14: hypnotizd: 59
+15: impulseSV: 46
+16: Stressmonster101: 43
+17: iJevin: 35
+18: xBCrafted: 31
+19: Docm77: 25
+20: MumboJumbo: 11
+21: joehillssays: 4
+22: falsesymmetry: 4
+23: Tinfoilchef: 3
+24: Welsknight: 2
+Total 6027

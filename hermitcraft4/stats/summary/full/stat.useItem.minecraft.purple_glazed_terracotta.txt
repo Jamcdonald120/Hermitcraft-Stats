@@ -1,0 +1,4 @@
+stat.useItem.minecraft.purple_glazed_terracotta
+1: iskall85: 40
+2: Tango: 39
+Total 79

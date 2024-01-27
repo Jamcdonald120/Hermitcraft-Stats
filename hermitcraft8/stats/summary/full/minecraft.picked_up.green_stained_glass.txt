@@ -1,0 +1,15 @@
+minecraft.picked_up.green_stained_glass
+1: cubfan135: 1245
+2: iJevin: 1023
+3: Tango: 174
+4: PearlescentMoon: 64
+5: falsesymmetry: 55
+6: Welsknight: 14
+7: GoodTimeWithScar: 12
+8: Renthedog: 8
+9: GeminiTay: 5
+10: Grian: 5
+11: joehillssays: 1
+12: Etho: 1
+13: ZombieCleo: 1
+Total 2608

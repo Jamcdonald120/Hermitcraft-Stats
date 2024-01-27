@@ -1,0 +1,5 @@
+minecraft.picked_up.cherry_hanging_sign
+1: GoodTimeWithScar: 16
+2: Zedaph: 5
+3: Grian: 3
+Total 24

@@ -1,0 +1,20 @@
+minecraft.mined.damaged_anvil
+1: Xisuma: 41
+2: cubfan135: 40
+3: falsesymmetry: 27
+4: Stressmonster101: 24
+5: GoodTimeWithScar: 17
+6: impulseSV: 15
+7: Docm77: 10
+8: Renthedog: 10
+9: Grian: 10
+10: iskall85: 10
+11: iJevin: 9
+12: Tango: 8
+13: joehillssays: 7
+14: PythonGB: 4
+15: Biffa2001: 3
+16: Welsknight: 2
+17: Tinfoilchef: 2
+18: Zedaph: 1
+Total 240

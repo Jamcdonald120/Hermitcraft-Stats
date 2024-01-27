@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.cauldron
+1: Tango: 177
+2: MumboJumbo: 137
+3: iskall85: 113
+4: falsesymmetry: 46
+5: cubfan135: 43
+6: Etho: 35
+7: Tinfoilchef: 18
+8: Docm77: 15
+9: GoodTimeWithScar: 9
+10: Xisuma: 7
+11: PythonGB: 7
+12: Welsknight: 6
+13: iJevin: 3
+14: impulseSV: 2
+15: VintageBeef: 1
+16: zueljin: 1
+17: ZombieCleo: 1
+Total 621

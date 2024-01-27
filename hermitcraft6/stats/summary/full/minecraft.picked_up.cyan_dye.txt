@@ -1,0 +1,14 @@
+minecraft.picked_up.cyan_dye
+1: Grian: 943
+2: iskall85: 392
+3: iJevin: 152
+4: MumboJumbo: 110
+5: Tango: 75
+6: GoodTimeWithScar: 71
+7: xBCrafted: 64
+8: PythonGB: 34
+9: falsesymmetry: 20
+10: cubfan135: 13
+11: Zedaph: 10
+12: Renthedog: 1
+Total 1885

@@ -1,0 +1,22 @@
+minecraft.dropped.wooden_sword
+1: Etho: 373
+2: cubfan135: 76
+3: GeminiTay: 59
+4: Zedaph: 14
+5: iJevin: 13
+6: Renthedog: 11
+7: Tango: 10
+8: ZombieCleo: 10
+9: VintageBeef: 9
+10: GoodTimeWithScar: 9
+11: BdoubleO100: 7
+12: falsesymmetry: 7
+13: Keralis1: 6
+14: impulseSV: 6
+15: Docm77: 4
+16: PearlescentMoon: 4
+17: hypnotizd: 4
+18: Xisuma: 2
+19: iskall85: 2
+20: kingbdogz: 1
+Total 627

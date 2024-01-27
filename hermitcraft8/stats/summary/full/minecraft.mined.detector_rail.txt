@@ -1,0 +1,9 @@
+minecraft.mined.detector_rail
+1: impulseSV: 17
+2: Xisuma: 2
+3: cubfan135: 2
+4: Docm77: 1
+5: joehillssays: 1
+6: BdoubleO100: 1
+7: Stressmonster101: 1
+Total 25

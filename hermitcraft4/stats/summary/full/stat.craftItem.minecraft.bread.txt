@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.bread
+1: impulseSV: 655
+2: joehillssays: 580
+3: iskall85: 539
+4: GoodTimeWithScar: 402
+5: Renthedog: 306
+6: cubfan135: 254
+7: PythonGB: 221
+8: Tinfoilchef: 204
+9: MumboJumbo: 149
+10: Tango: 36
+11: Xisuma: 35
+12: Biffa2001: 26
+13: Docm77: 13
+14: ZombieCleo: 13
+15: falsesymmetry: 11
+16: Welsknight: 10
+17: xBCrafted: 9
+18: Mumbo: 2
+19: VintageBeef: 1
+20: Jessassin: 1
+21: hypnotizd: 1
+Total 3468

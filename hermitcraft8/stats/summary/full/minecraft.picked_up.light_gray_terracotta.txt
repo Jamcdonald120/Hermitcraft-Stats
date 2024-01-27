@@ -1,0 +1,12 @@
+minecraft.picked_up.light_gray_terracotta
+1: Tango: 5568
+2: GoodTimeWithScar: 3061
+3: Etho: 2123
+4: falsesymmetry: 586
+5: BdoubleO100: 449
+6: Grian: 242
+7: hypnotizd: 46
+8: ZombieCleo: 3
+9: GeminiTay: 2
+10: impulseSV: 1
+Total 12081

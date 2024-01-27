@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.acacia_door
+1: sl1pg8r: 15
+Total 15

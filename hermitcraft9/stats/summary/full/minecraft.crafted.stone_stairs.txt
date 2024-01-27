@@ -1,0 +1,24 @@
+minecraft.crafted.stone_stairs
+1: falsesymmetry: 4804
+2: Keralis1: 2472
+3: iJevin: 1286
+4: Grian: 737
+5: Tango: 633
+6: GoodTimeWithScar: 328
+7: joehillssays: 268
+8: PearlescentMoon: 263
+9: Xisuma: 153
+10: cubfan135: 69
+11: iskall85: 68
+12: Docm77: 46
+13: Renthedog: 44
+14: Zedaph: 36
+15: hypnotizd: 31
+16: MythicalSausage: 16
+17: Stressmonster101: 16
+18: ZombieCleo: 15
+19: Smallishbeans: 12
+20: Mumbo: 4
+21: impulseSV: 4
+22: Etho: 1
+Total 11306

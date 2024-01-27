@@ -1,0 +1,23 @@
+minecraft.mined.large_fern
+1: PearlescentMoon: 651
+2: cubfan135: 560
+3: Keralis1: 409
+4: Tango: 309
+5: joehillssays: 218
+6: falsesymmetry: 209
+7: Etho: 174
+8: xBCrafted: 141
+9: hypnotizd: 135
+10: GoodTimeWithScar: 90
+11: iJevin: 89
+12: Xisuma: 67
+13: GeminiTay: 66
+14: BdoubleO100: 39
+15: Docm77: 38
+16: ZombieCleo: 36
+17: Renthedog: 29
+18: Grian: 25
+19: impulseSV: 11
+20: VintageBeef: 8
+21: Smallishbeans: 1
+Total 3305

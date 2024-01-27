@@ -1,0 +1,8 @@
+stat.useItem.minecraft.dispenser
+1: Xisuma: 459
+2: sl1pg8r: 61
+3: Mumbo: 15
+4: falsesymmetry: 8
+5: ZombieCleo: 3
+6: zueljin: 1
+Total 547

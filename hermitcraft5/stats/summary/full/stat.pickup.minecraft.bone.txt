@@ -1,0 +1,26 @@
+stat.pickup.minecraft.bone
+1: Stressmonster101: 8479
+2: MumboJumbo: 6719
+3: impulseSV: 6069
+4: Renthedog: 5259
+5: BdoubleO100: 4561
+6: cubfan135: 2905
+7: GoodTimeWithScar: 2640
+8: iskall85: 2639
+9: Xisuma: 1981
+10: Tango: 1952
+11: Docm77: 1861
+12: falsesymmetry: 1795
+13: iJevin: 1664
+14: Tinfoilchef: 1637
+15: Welsknight: 1417
+16: Zedaph: 1328
+17: PythonGB: 1275
+18: VintageBeef: 713
+19: Biffa2001: 595
+20: xBCrafted: 444
+21: Etho: 325
+22: joehillssays: 210
+23: ZombieCleo: 143
+24: xisumavoid: 70
+Total 56681

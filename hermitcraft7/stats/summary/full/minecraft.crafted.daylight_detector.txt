@@ -1,0 +1,21 @@
+minecraft.crafted.daylight_detector
+1: Etho: 824
+2: xBCrafted: 521
+3: falsesymmetry: 223
+4: GoodTimeWithScar: 199
+5: joehillssays: 193
+6: Keralis1: 133
+7: Renthedog: 32
+8: hypnotizd: 21
+9: Zedaph: 21
+10: cubfan135: 16
+11: VintageBeef: 13
+12: iskall85: 12
+13: Xisuma: 10
+14: MumboJumbo: 8
+15: iJevin: 5
+16: BdoubleO100: 5
+17: Grian: 2
+18: impulseSV: 2
+19: Stressmonster101: 1
+Total 2241

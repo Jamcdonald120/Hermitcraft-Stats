@@ -1,0 +1,30 @@
+minecraft.picked_up.iron_helmet
+1: cubfan135: 38
+2: Zedaph: 16
+3: Grian: 14
+4: iJevin: 12
+5: Xisuma: 10
+6: PearlescentMoon: 10
+7: falsesymmetry: 10
+8: Docm77: 8
+9: Renthedog: 8
+10: Etho: 8
+11: Tango: 7
+12: joehillssays: 6
+13: hypnotizd: 6
+14: VintageBeef: 5
+15: iskall85: 3
+16: Welsknight: 3
+17: ZombieCleo: 3
+18: Stressmonster101: 2
+19: impulseSV: 2
+20: kingbdogz: 1
+21: OrionSound: 1
+22: MythicalSausage: 1
+23: GeminiTay: 1
+24: xBCrafted: 1
+25: Mumbo: 1
+26: ShubbleYT: 1
+27: HBomb94: 1
+28: Keralis1: 1
+Total 180

@@ -1,0 +1,9 @@
+minecraft.crafted.smooth_basalt
+1: Tango: 5842
+2: Mumbo: 640
+3: joehillssays: 266
+4: Etho: 192
+5: PearlescentMoon: 136
+6: falsesymmetry: 65
+7: Zedaph: 1
+Total 7142

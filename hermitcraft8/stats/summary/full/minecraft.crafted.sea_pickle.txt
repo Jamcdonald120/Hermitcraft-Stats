@@ -1,0 +1,3 @@
+minecraft.crafted.sea_pickle
+1: VintageBeef: 2
+Total 2

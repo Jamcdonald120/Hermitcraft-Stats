@@ -1,0 +1,5 @@
+minecraft.crafted.netherite_block
+1: iJevin: 5
+2: Renthedog: 1
+3: cubfan135: 1
+Total 7

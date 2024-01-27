@@ -1,0 +1,12 @@
+minecraft.picked_up.jungle_door
+1: GoodTimeWithScar: 23
+2: Keralis1: 18
+3: PearlescentMoon: 11
+4: iskall85: 7
+5: BdoubleO100: 4
+6: xBCrafted: 2
+7: Etho: 2
+8: GeminiTay: 1
+9: cubfan135: 1
+10: impulseSV: 1
+Total 70

@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.acacia_fence
+1: Xisuma: 124
+2: MumboJumbo: 44
+3: PythonGB: 28
+4: iskall85: 21
+5: cubfan135: 20
+6: GoodTimeWithScar: 18
+7: Docm77: 12
+8: VintageBeef: 7
+9: Tango: 3
+10: BdoubleO100: 3
+11: impulseSV: 3
+12: Renthedog: 1
+13: joehillssays: 1
+Total 285

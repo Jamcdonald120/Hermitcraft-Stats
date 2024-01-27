@@ -1,0 +1,27 @@
+stat.mineBlock.minecraft.dirt
+1: GoodTimeWithScar: 113598
+2: Renthedog: 85283
+3: iskall85: 81002
+4: joehillssays: 71912
+5: MumboJumbo: 63262
+6: falsesymmetry: 59067
+7: cubfan135: 57047
+8: Xisuma: 34834
+9: Tango: 25851
+10: Welsknight: 23637
+11: Etho: 16165
+12: Tinfoilchef: 14619
+13: iJevin: 7100
+14: impulseSV: 6191
+15: Docm77: 5797
+16: ZombieCleo: 3604
+17: PythonGB: 2592
+18: Biffa2001: 2017
+19: xBCrafted: 1528
+20: VintageBeef: 1380
+21: Jessassin: 688
+22: Mumbo: 642
+23: zueljin: 548
+24: xisumavoid: 1
+25: hypnotizd: 1
+Total 678366

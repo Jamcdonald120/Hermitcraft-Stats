@@ -1,0 +1,10 @@
+stat.useItem.minecraft.jungle_fence
+1: Biffa2001: 750
+2: Xisuma: 332
+3: xBCrafted: 45
+4: falsesymmetry: 43
+5: topmass: 10
+6: zueljin: 5
+7: Mumbo: 1
+8: Tinfoilchef: 1
+Total 1187

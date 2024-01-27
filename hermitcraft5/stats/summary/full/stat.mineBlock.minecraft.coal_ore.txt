@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.coal_ore
+1: GoodTimeWithScar: 17953
+2: Tinfoilchef: 12905
+3: falsesymmetry: 12716
+4: cubfan135: 11367
+5: MumboJumbo: 11292
+6: Renthedog: 9469
+7: iskall85: 7889
+8: Xisuma: 7520
+9: impulseSV: 7084
+10: Welsknight: 6527
+11: PythonGB: 5913
+12: Tango: 5565
+13: iJevin: 5470
+14: Zedaph: 3886
+15: xBCrafted: 3470
+16: joehillssays: 3424
+17: Stressmonster101: 2237
+18: Biffa2001: 2142
+19: ZombieCleo: 1837
+20: Etho: 1716
+21: BdoubleO100: 1358
+22: Docm77: 1109
+23: VintageBeef: 837
+Total 143686

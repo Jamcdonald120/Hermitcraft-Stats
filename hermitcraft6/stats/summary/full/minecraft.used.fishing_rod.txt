@@ -1,0 +1,23 @@
+minecraft.used.fishing_rod
+1: Xisuma: 131025
+2: Biffa2001: 70118
+3: falsesymmetry: 11950
+4: Docm77: 10566
+5: Stressmonster101: 9011
+6: iskall85: 7423
+7: BdoubleO100: 3335
+8: cubfan135: 924
+9: impulseSV: 740
+10: Tango: 617
+11: MumboJumbo: 410
+12: GoodTimeWithScar: 376
+13: Grian: 121
+14: ZombieCleo: 100
+15: Renthedog: 90
+16: Zedaph: 77
+17: Jessassin: 59
+18: PythonGB: 8
+19: iJevin: 6
+20: joehillssays: 5
+21: Keralis1: 1
+Total 246962

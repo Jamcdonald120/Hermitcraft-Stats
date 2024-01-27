@@ -1,0 +1,7 @@
+minecraft.crafted.globe_banner_pattern
+1: Renthedog: 24
+2: Keralis1: 11
+3: GeminiTay: 1
+4: Etho: 1
+5: Zedaph: 1
+Total 38

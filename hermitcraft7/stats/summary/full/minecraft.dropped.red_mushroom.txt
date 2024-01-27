@@ -1,0 +1,22 @@
+minecraft.dropped.red_mushroom
+1: impulseSV: 147
+2: Renthedog: 144
+3: Zedaph: 96
+4: Keralis1: 86
+5: Tango: 77
+6: iskall85: 73
+7: xBCrafted: 67
+8: cubfan135: 67
+9: Xisuma: 62
+10: GoodTimeWithScar: 48
+11: Grian: 40
+12: ZombieCleo: 38
+13: Etho: 24
+14: MumboJumbo: 15
+15: Docm77: 13
+16: BdoubleO100: 12
+17: joehillssays: 6
+18: falsesymmetry: 6
+19: VintageBeef: 2
+20: iJevin: 1
+Total 1024

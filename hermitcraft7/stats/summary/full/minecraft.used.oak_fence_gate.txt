@@ -1,0 +1,22 @@
+minecraft.used.oak_fence_gate
+1: impulseSV: 669
+2: iskall85: 315
+3: Tango: 296
+4: Xisuma: 139
+5: falsesymmetry: 131
+6: Zedaph: 115
+7: Keralis1: 100
+8: joehillssays: 72
+9: VintageBeef: 68
+10: GoodTimeWithScar: 57
+11: Renthedog: 54
+12: iJevin: 29
+13: MumboJumbo: 24
+14: hypnotizd: 23
+15: BdoubleO100: 20
+16: cubfan135: 15
+17: xBCrafted: 12
+18: Stressmonster101: 12
+19: Docm77: 11
+20: Grian: 11
+Total 2173

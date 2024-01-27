@@ -1,0 +1,16 @@
+stat.drop.minecraft.gold_ore
+1: MumboJumbo: 85
+2: cubfan135: 72
+3: GoodTimeWithScar: 50
+4: Tango: 44
+5: iskall85: 31
+6: Zedaph: 31
+7: Docm77: 17
+8: impulseSV: 12
+9: falsesymmetry: 6
+10: Renthedog: 5
+11: Xisuma: 4
+12: BdoubleO100: 4
+13: xBCrafted: 2
+14: iJevin: 1
+Total 364

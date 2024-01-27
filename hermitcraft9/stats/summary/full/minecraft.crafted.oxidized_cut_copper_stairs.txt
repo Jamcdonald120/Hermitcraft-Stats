@@ -1,0 +1,18 @@
+minecraft.crafted.oxidized_cut_copper_stairs
+1: Mumbo: 321
+2: GoodTimeWithScar: 210
+3: ZombieCleo: 136
+4: Docm77: 115
+5: Xisuma: 76
+6: cubfan135: 66
+7: BdoubleO100: 25
+8: Smajor1995: 24
+9: Etho: 16
+10: PearlescentMoon: 12
+11: iskall85: 12
+12: falsesymmetry: 12
+13: Keralis1: 8
+14: impulseSV: 8
+15: Zedaph: 5
+16: Grian: 4
+Total 1050

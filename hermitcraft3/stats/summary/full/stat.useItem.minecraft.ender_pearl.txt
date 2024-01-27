@@ -1,0 +1,25 @@
+stat.useItem.minecraft.ender_pearl
+1: falsesymmetry: 7469
+2: impulseSV: 3685
+3: Tango: 3156
+4: sl1pg8r: 2750
+5: xBCrafted: 2519
+6: zueljin: 2438
+7: hypnotizd: 1270
+8: Biffa2001: 1011
+9: Xisuma: 886
+10: PythonGB: 669
+11: monkeyfarm: 404
+12: KingDaddyDMAC: 347
+13: joehillssays: 346
+14: ZombieCleo: 274
+15: Etho: 256
+16: Mumbo: 229
+17: iJevin: 202
+18: Docm77: 191
+19: Tinfoilchef: 176
+20: topmass: 164
+21: Spumwackles: 87
+22: skyzm: 4
+23: NameOfSamuel: 1
+Total 28534

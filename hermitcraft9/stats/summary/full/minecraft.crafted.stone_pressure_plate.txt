@@ -1,0 +1,24 @@
+minecraft.crafted.stone_pressure_plate
+1: iJevin: 1879
+2: Tango: 465
+3: GoodTimeWithScar: 324
+4: impulseSV: 247
+5: cubfan135: 99
+6: Docm77: 96
+7: PearlescentMoon: 85
+8: Xisuma: 68
+9: Etho: 36
+10: Renthedog: 35
+11: falsesymmetry: 31
+12: MythicalSausage: 22
+13: BdoubleO100: 20
+14: Zedaph: 18
+15: Mumbo: 17
+16: iskall85: 16
+17: Keralis1: 16
+18: joehillssays: 8
+19: Grian: 7
+20: ZombieCleo: 7
+21: xBCrafted: 5
+22: VintageBeef: 3
+Total 3504

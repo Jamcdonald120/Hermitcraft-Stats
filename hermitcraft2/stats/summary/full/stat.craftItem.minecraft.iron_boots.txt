@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.iron_boots
+1: Tango: 27
+2: Xisuma: 24
+3: falsesymmetry: 6
+4: xBCrafted: 4
+Total 61

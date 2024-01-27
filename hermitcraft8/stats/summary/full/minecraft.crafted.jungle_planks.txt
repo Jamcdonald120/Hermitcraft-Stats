@@ -1,0 +1,20 @@
+minecraft.crafted.jungle_planks
+1: PearlescentMoon: 25993
+2: iJevin: 22504
+3: hypnotizd: 8888
+4: GeminiTay: 2592
+5: impulseSV: 1772
+6: Xisuma: 1732
+7: Grian: 1424
+8: Keralis1: 1272
+9: Etho: 1208
+10: MumboJumbo: 1012
+11: BdoubleO100: 768
+12: iskall85: 724
+13: Docm77: 660
+14: GoodTimeWithScar: 564
+15: cubfan135: 500
+16: Renthedog: 280
+17: ZombieCleo: 20
+18: Welsknight: 8
+Total 71921

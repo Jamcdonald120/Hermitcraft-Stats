@@ -1,0 +1,15 @@
+minecraft.crafted.lime_terracotta
+1: falsesymmetry: 4288
+2: GoodTimeWithScar: 2632
+3: Xisuma: 1600
+4: iskall85: 1024
+5: Etho: 836
+6: Grian: 396
+7: Tango: 384
+8: BdoubleO100: 240
+9: impulseSV: 140
+10: VintageBeef: 96
+11: Keralis1: 14
+12: Docm77: 8
+13: cubfan135: 8
+Total 11666

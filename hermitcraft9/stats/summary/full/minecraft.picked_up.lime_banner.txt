@@ -1,0 +1,7 @@
+minecraft.picked_up.lime_banner
+1: Grian: 135
+2: PearlescentMoon: 31
+3: Keralis1: 10
+4: cubfan135: 7
+5: Zedaph: 1
+Total 184

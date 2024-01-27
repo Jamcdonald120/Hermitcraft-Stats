@@ -1,0 +1,8 @@
+minecraft.crafted.cyan_glazed_terracotta
+1: VintageBeef: 32
+2: Keralis1: 24
+3: Zedaph: 16
+4: impulseSV: 12
+5: iskall85: 8
+6: Renthedog: 1
+Total 93

@@ -1,0 +1,14 @@
+minecraft.picked_up.stone_shovel
+1: MumboJumbo: 34
+2: Docm77: 23
+3: impulseSV: 10
+4: joehillssays: 6
+5: Grian: 5
+6: VintageBeef: 4
+7: GoodTimeWithScar: 4
+8: Tinfoilchef: 2
+9: Stressmonster101: 2
+10: Zedaph: 2
+11: Xisuma: 1
+12: ZombieCleo: 1
+Total 94

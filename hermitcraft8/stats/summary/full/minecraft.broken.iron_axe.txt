@@ -1,0 +1,22 @@
+minecraft.broken.iron_axe
+1: GoodTimeWithScar: 21
+2: PearlescentMoon: 19
+3: ZombieCleo: 14
+4: Xisuma: 12
+5: falsesymmetry: 12
+6: GeminiTay: 10
+7: Zedaph: 5
+8: joehillssays: 3
+9: Grian: 3
+10: iskall85: 3
+11: Welsknight: 3
+12: impulseSV: 3
+13: iJevin: 2
+14: Tango: 2
+15: BdoubleO100: 2
+16: Stressmonster101: 2
+17: Renthedog: 1
+18: hypnotizd: 1
+19: MumboJumbo: 1
+20: Tinfoilchef: 1
+Total 120

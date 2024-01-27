@@ -1,0 +1,15 @@
+minecraft.crafted.jungle_fence_gate
+1: Xisuma: 1151
+2: Tango: 926
+3: hypnotizd: 472
+4: iJevin: 160
+5: MumboJumbo: 64
+6: GoodTimeWithScar: 54
+7: BdoubleO100: 48
+8: falsesymmetry: 42
+9: VintageBeef: 20
+10: cubfan135: 20
+11: Grian: 12
+12: joehillssays: 4
+13: Keralis1: 2
+Total 2975

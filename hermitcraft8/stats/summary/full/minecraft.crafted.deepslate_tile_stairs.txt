@@ -1,0 +1,23 @@
+minecraft.crafted.deepslate_tile_stairs
+1: Grian: 412
+2: Stressmonster101: 408
+3: ZombieCleo: 73
+4: PearlescentMoon: 57
+5: iskall85: 45
+6: GoodTimeWithScar: 43
+7: Docm77: 39
+8: Renthedog: 39
+9: impulseSV: 32
+10: xBCrafted: 30
+11: joehillssays: 24
+12: iJevin: 23
+13: hypnotizd: 22
+14: Zedaph: 17
+15: Tango: 16
+16: cubfan135: 12
+17: GeminiTay: 8
+18: EvilXisuma: 7
+19: Xisuma: 6
+20: VintageBeef: 4
+21: BdoubleO100: 1
+Total 1318

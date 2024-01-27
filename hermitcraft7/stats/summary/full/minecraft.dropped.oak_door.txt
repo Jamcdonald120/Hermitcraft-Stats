@@ -1,0 +1,13 @@
+minecraft.dropped.oak_door
+1: iskall85: 64
+2: GoodTimeWithScar: 57
+3: Grian: 15
+4: Tango: 4
+5: falsesymmetry: 3
+6: Keralis1: 3
+7: VintageBeef: 2
+8: xBCrafted: 2
+9: hypnotizd: 1
+10: Stressmonster101: 1
+11: impulseSV: 1
+Total 153

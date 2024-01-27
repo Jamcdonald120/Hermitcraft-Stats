@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.wooden_hoe
+1: Renthedog: 16
+2: iskall85: 5
+3: cubfan135: 4
+4: PythonGB: 2
+5: Jessassin: 2
+6: falsesymmetry: 2
+7: MumboJumbo: 2
+8: Tango: 1
+9: xBCrafted: 1
+10: Welsknight: 1
+11: Etho: 1
+12: GoodTimeWithScar: 1
+Total 38

@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.bucket
+1: cubfan135: 573
+2: falsesymmetry: 365
+3: Tango: 327
+4: impulseSV: 202
+5: Tinfoilchef: 199
+6: GoodTimeWithScar: 192
+7: MumboJumbo: 174
+8: iskall85: 133
+9: Xisuma: 99
+10: Renthedog: 92
+11: joehillssays: 77
+12: Welsknight: 58
+13: Docm77: 47
+14: iJevin: 35
+15: ZombieCleo: 21
+16: PythonGB: 10
+17: Etho: 4
+18: VintageBeef: 3
+19: Biffa2001: 2
+20: Mumbo: 2
+21: Jessassin: 1
+22: xBCrafted: 1
+Total 2617

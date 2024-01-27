@@ -1,0 +1,24 @@
+minecraft.mined.red_concrete
+1: Keralis1: 3689
+2: Tango: 3416
+3: cubfan135: 3290
+4: Renthedog: 2567
+5: Xisuma: 2505
+6: falsesymmetry: 881
+7: Docm77: 757
+8: GoodTimeWithScar: 708
+9: iJevin: 704
+10: VintageBeef: 539
+11: hypnotizd: 516
+12: Grian: 476
+13: iskall85: 447
+14: MumboJumbo: 293
+15: xBCrafted: 208
+16: ZombieCleo: 183
+17: Zedaph: 112
+18: impulseSV: 93
+19: BdoubleO100: 76
+20: Stressmonster101: 64
+21: Etho: 11
+22: Welsknight: 1
+Total 21536

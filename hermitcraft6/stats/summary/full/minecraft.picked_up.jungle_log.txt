@@ -1,0 +1,27 @@
+minecraft.picked_up.jungle_log
+1: cubfan135: 29059
+2: GoodTimeWithScar: 11012
+3: Renthedog: 10847
+4: Xisuma: 5017
+5: iskall85: 2955
+6: Zedaph: 1189
+7: Welsknight: 946
+8: Grian: 852
+9: impulseSV: 846
+10: BdoubleO100: 671
+11: falsesymmetry: 517
+12: Jura_Whitey: 363
+13: ZombieCleo: 361
+14: iJevin: 318
+15: Jessassin: 280
+16: PythonGB: 265
+17: Docm77: 191
+18: Tango: 154
+19: Stressmonster101: 149
+20: Biffa2001: 93
+21: Tinfoilchef: 64
+22: tterrag: 14
+23: PokePugx: 11
+24: Keralis1: 4
+25: PhoenixfireLune: 4
+Total 66182

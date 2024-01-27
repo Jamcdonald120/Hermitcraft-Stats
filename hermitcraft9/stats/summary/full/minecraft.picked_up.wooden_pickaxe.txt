@@ -1,0 +1,23 @@
+minecraft.picked_up.wooden_pickaxe
+1: Zedaph: 11
+2: joehillssays: 7
+3: PearlescentMoon: 6
+4: hypnotizd: 4
+5: Renthedog: 3
+6: iJevin: 3
+7: Docm77: 2
+8: VintageBeef: 2
+9: iskall85: 2
+10: falsesymmetry: 2
+11: Mumbo: 2
+12: MumboJumbo: 2
+13: impulseSV: 2
+14: Xisuma: 1
+15: OrionSound: 1
+16: MythicalSausage: 1
+17: Grian: 1
+18: BdoubleO100: 1
+19: xBCrafted: 1
+20: cubfan135: 1
+21: ZombieCleo: 1
+Total 56

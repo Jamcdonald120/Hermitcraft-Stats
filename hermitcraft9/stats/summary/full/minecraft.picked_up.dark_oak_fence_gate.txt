@@ -1,0 +1,16 @@
+minecraft.picked_up.dark_oak_fence_gate
+1: falsesymmetry: 445
+2: GoodTimeWithScar: 77
+3: PearlescentMoon: 58
+4: cubfan135: 41
+5: impulseSV: 19
+6: ZombieCleo: 12
+7: Keralis1: 11
+8: Renthedog: 10
+9: joehillssays: 10
+10: BdoubleO100: 10
+11: Xisuma: 6
+12: Grian: 5
+13: RentheKing: 3
+14: Stressmonster101: 2
+Total 709

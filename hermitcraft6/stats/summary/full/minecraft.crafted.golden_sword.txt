@@ -1,0 +1,5 @@
+minecraft.crafted.golden_sword
+1: cubfan135: 3
+2: Xisuma: 2
+3: GoodTimeWithScar: 2
+Total 7

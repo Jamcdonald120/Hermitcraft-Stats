@@ -1,0 +1,23 @@
+minecraft.picked_up.green_bed
+1: Etho: 641
+2: Xisuma: 171
+3: Docm77: 159
+4: GoodTimeWithScar: 34
+5: MythicalSausage: 29
+6: iJevin: 26
+7: BdoubleO100: 19
+8: iskall85: 7
+9: Grian: 6
+10: Stressmonster101: 5
+11: SolidarityGaming: 5
+12: falsesymmetry: 4
+13: VintageBeef: 3
+14: joehillssays: 3
+15: PearlescentMoon: 3
+16: Renthedog: 2
+17: cubfan135: 2
+18: impulseSV: 2
+19: Smajor1995: 1
+20: RentheKing: 1
+21: Zedaph: 1
+Total 1124

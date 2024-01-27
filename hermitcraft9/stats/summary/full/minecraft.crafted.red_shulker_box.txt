@@ -1,0 +1,24 @@
+minecraft.crafted.red_shulker_box
+1: iJevin: 165
+2: impulseSV: 107
+3: GoodTimeWithScar: 47
+4: joehillssays: 43
+5: Xisuma: 32
+6: Keralis1: 21
+7: Tango: 17
+8: ZombieCleo: 17
+9: VintageBeef: 11
+10: falsesymmetry: 11
+11: xBCrafted: 9
+12: cubfan135: 8
+13: PearlescentMoon: 7
+14: Etho: 6
+15: MythicalSausage: 5
+16: Grian: 4
+17: iskall85: 3
+18: Mumbo: 3
+19: hypnotizd: 2
+20: Zedaph: 2
+21: Docm77: 1
+22: Renthedog: 1
+Total 522

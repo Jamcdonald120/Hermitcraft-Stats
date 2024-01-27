@@ -1,0 +1,21 @@
+minecraft.picked_up.spruce_fence_gate
+1: Tango: 275
+2: PearlescentMoon: 197
+3: Grian: 142
+4: GoodTimeWithScar: 133
+5: BdoubleO100: 45
+6: impulseSV: 38
+7: xBCrafted: 37
+8: Etho: 20
+9: Docm77: 19
+10: GeminiTay: 15
+11: Renthedog: 11
+12: Welsknight: 9
+13: joehillssays: 7
+14: Keralis1: 7
+15: cubfan135: 6
+16: Xisuma: 5
+17: MumboJumbo: 3
+18: ZombieCleo: 2
+19: iskall85: 1
+Total 972

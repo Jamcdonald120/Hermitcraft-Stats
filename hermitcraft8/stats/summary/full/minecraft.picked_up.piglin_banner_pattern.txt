@@ -1,0 +1,3 @@
+minecraft.picked_up.piglin_banner_pattern
+1: ZombieCleo: 1
+Total 1

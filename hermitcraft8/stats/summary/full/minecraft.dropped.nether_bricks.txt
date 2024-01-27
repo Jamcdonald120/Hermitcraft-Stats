@@ -1,0 +1,12 @@
+minecraft.dropped.nether_bricks
+1: Xisuma: 8
+2: cubfan135: 7
+3: iJevin: 4
+4: Zedaph: 4
+5: VintageBeef: 2
+6: Etho: 2
+7: GoodTimeWithScar: 2
+8: BdoubleO100: 1
+9: PearlescentMoon: 1
+10: falsesymmetry: 1
+Total 32

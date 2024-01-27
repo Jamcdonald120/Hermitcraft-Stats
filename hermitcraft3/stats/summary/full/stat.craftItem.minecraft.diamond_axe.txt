@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.diamond_axe
+1: Xisuma: 13
+2: falsesymmetry: 12
+3: xBCrafted: 10
+4: Mumbo: 10
+5: Tinfoilchef: 8
+6: zueljin: 7
+7: iJevin: 6
+8: Tango: 6
+9: ZombieCleo: 4
+10: Spumwackles: 4
+11: impulseSV: 4
+12: topmass: 3
+13: Biffa2001: 3
+14: Etho: 3
+15: monkeyfarm: 3
+16: sl1pg8r: 2
+17: PythonGB: 2
+18: KingDaddyDMAC: 2
+19: hypnotizd: 2
+20: Docm77: 1
+21: skyzm: 1
+Total 106

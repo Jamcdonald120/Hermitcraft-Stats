@@ -1,0 +1,5 @@
+stat.breakItem.minecraft.fishing_rod
+1: Spumwackles: 31
+2: Tango: 19
+3: ZombieCleo: 11
+Total 61

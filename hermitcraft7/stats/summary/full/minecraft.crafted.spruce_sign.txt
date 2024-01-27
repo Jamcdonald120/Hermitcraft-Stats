@@ -1,0 +1,25 @@
+minecraft.crafted.spruce_sign
+1: Grian: 717
+2: GoodTimeWithScar: 594
+3: Renthedog: 249
+4: Etho: 180
+5: xBCrafted: 126
+6: BdoubleO100: 93
+7: ZombieCleo: 84
+8: VintageBeef: 69
+9: impulseSV: 66
+10: Zedaph: 60
+11: MumboJumbo: 57
+12: Tango: 51
+13: iJevin: 39
+14: iskall85: 39
+15: Docm77: 21
+16: falsesymmetry: 21
+17: hypnotizd: 21
+18: cubfan135: 18
+19: Stressmonster101: 12
+20: Xisuma: 9
+21: joehillssays: 9
+22: Keralis1: 9
+23: Welsknight: 6
+Total 2550

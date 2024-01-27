@@ -1,0 +1,16 @@
+minecraft.crafted.yellow_wool
+1: PearlescentMoon: 1143
+2: Etho: 478
+3: joehillssays: 273
+4: Keralis1: 161
+5: GoodTimeWithScar: 128
+6: Xisuma: 102
+7: RentheKing: 74
+8: Renthedog: 63
+9: Docm77: 61
+10: BdoubleO100: 50
+11: Zedaph: 43
+12: impulseSV: 32
+13: hypnotizd: 9
+14: Welsknight: 5
+Total 2622

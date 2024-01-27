@@ -1,0 +1,15 @@
+stat.drop.minecraft.chainmail_boots
+1: falsesymmetry: 8
+2: impulseSV: 6
+3: Renthedog: 3
+4: iskall85: 3
+5: GoodTimeWithScar: 3
+6: PythonGB: 2
+7: Docm77: 1
+8: Xisuma: 1
+9: VintageBeef: 1
+10: Tango: 1
+11: cubfan135: 1
+12: Welsknight: 1
+13: Tinfoilchef: 1
+Total 32

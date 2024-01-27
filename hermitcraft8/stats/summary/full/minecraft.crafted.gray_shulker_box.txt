@@ -1,0 +1,11 @@
+minecraft.crafted.gray_shulker_box
+1: PearlescentMoon: 6
+2: Keralis1: 6
+3: falsesymmetry: 4
+4: Docm77: 2
+5: cubfan135: 2
+6: VintageBeef: 1
+7: GeminiTay: 1
+8: Grian: 1
+9: BdoubleO100: 1
+Total 24

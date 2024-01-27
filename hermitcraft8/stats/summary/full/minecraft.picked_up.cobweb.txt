@@ -1,0 +1,18 @@
+minecraft.picked_up.cobweb
+1: cubfan135: 400
+2: joehillssays: 266
+3: Renthedog: 258
+4: Xisuma: 254
+5: ZombieCleo: 225
+6: Tango: 222
+7: Docm77: 134
+8: falsesymmetry: 124
+9: impulseSV: 60
+10: Grian: 57
+11: GeminiTay: 51
+12: Etho: 51
+13: iJevin: 38
+14: VintageBeef: 31
+15: xBCrafted: 21
+16: Zedaph: 6
+Total 2198

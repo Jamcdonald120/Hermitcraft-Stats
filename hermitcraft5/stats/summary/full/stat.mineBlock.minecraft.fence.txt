@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.fence
+1: Tinfoilchef: 649
+2: iskall85: 634
+3: falsesymmetry: 610
+4: Xisuma: 603
+5: cubfan135: 429
+6: GoodTimeWithScar: 402
+7: xBCrafted: 392
+8: MumboJumbo: 300
+9: Welsknight: 197
+10: joehillssays: 153
+11: iJevin: 145
+12: ZombieCleo: 142
+13: Tango: 129
+14: Zedaph: 102
+15: PythonGB: 97
+16: Stressmonster101: 95
+17: VintageBeef: 77
+18: impulseSV: 56
+19: Biffa2001: 52
+20: Renthedog: 35
+21: Docm77: 14
+Total 5313

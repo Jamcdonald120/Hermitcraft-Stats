@@ -1,0 +1,21 @@
+stat.useItem.minecraft.iron_hoe
+1: impulseSV: 3360
+2: Tango: 1455
+3: MumboJumbo: 963
+4: GoodTimeWithScar: 925
+5: Tinfoilchef: 920
+6: ZombieCleo: 848
+7: Zedaph: 848
+8: xBCrafted: 446
+9: Stressmonster101: 382
+10: joehillssays: 365
+11: Renthedog: 356
+12: cubfan135: 251
+13: PythonGB: 216
+14: falsesymmetry: 47
+15: Welsknight: 45
+16: VintageBeef: 34
+17: Biffa2001: 30
+18: iskall85: 26
+19: iJevin: 21
+Total 11538

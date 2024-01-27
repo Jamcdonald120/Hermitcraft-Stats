@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.emerald_ore
+1: Tinfoilchef: 59
+2: KingDaddyDMAC: 58
+3: Biffa2001: 32
+4: ZombieCleo: 27
+5: xBCrafted: 26
+6: Xisuma: 17
+7: falsesymmetry: 16
+8: Tango: 15
+9: monkeyfarm: 12
+10: zueljin: 10
+11: sl1pg8r: 8
+12: iJevin: 8
+13: skyzm: 6
+14: impulseSV: 2
+15: Pungence: 1
+Total 297

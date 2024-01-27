@@ -1,0 +1,7 @@
+stat.entityKilledBy.Spider
+1: Keralis1: 3
+2: red3yz: 1
+3: Xisuma: 1
+4: Mumbo: 1
+5: Spumwackles: 1
+Total 7

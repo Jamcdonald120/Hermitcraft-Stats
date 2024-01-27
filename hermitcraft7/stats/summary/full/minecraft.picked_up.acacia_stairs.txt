@@ -1,0 +1,15 @@
+minecraft.picked_up.acacia_stairs
+1: xBCrafted: 586
+2: VintageBeef: 323
+3: joehillssays: 319
+4: Etho: 73
+5: Tango: 50
+6: Renthedog: 49
+7: Keralis1: 15
+8: GoodTimeWithScar: 14
+9: impulseSV: 14
+10: BdoubleO100: 6
+11: Xisuma: 4
+12: cubfan135: 4
+13: Grian: 1
+Total 1458

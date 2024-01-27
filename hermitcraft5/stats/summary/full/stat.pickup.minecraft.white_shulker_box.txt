@@ -1,0 +1,21 @@
+stat.pickup.minecraft.white_shulker_box
+1: Renthedog: 1743
+2: cubfan135: 1700
+3: Xisuma: 477
+4: iskall85: 368
+5: falsesymmetry: 337
+6: BdoubleO100: 203
+7: Tango: 117
+8: Stressmonster101: 110
+9: MumboJumbo: 73
+10: GoodTimeWithScar: 57
+11: Welsknight: 54
+12: iJevin: 38
+13: Docm77: 29
+14: PythonGB: 17
+15: Tinfoilchef: 17
+16: Zedaph: 15
+17: impulseSV: 8
+18: VintageBeef: 2
+19: Etho: 2
+Total 5367

@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.activator_rail
+1: impulseSV: 90
+2: sl1pg8r: 60
+3: Mumbo: 42
+4: Xisuma: 30
+5: Tango: 12
+6: xBCrafted: 12
+7: iJevin: 6
+8: falsesymmetry: 6
+9: Etho: 6
+10: monkeyfarm: 6
+Total 270

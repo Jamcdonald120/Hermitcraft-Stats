@@ -1,0 +1,25 @@
+minecraft.picked_up.flowering_azalea
+1: cubfan135: 873
+2: GeminiTay: 492
+3: Renthedog: 470
+4: PearlescentMoon: 403
+5: iskall85: 311
+6: Xisuma: 264
+7: Grian: 260
+8: GoodTimeWithScar: 236
+9: impulseSV: 188
+10: MumboJumbo: 145
+11: iJevin: 118
+12: xBCrafted: 109
+13: falsesymmetry: 100
+14: hypnotizd: 95
+15: ZombieCleo: 88
+16: Etho: 78
+17: BdoubleO100: 62
+18: joehillssays: 58
+19: Docm77: 34
+20: Tango: 32
+21: Keralis1: 32
+22: Zedaph: 15
+23: Stressmonster101: 4
+Total 4467

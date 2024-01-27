@@ -1,0 +1,27 @@
+stat.useItem.minecraft.chest
+1: Xisuma: 2815
+2: Tango: 2139
+3: falsesymmetry: 2060
+4: iJevin: 1923
+5: MumboJumbo: 1783
+6: iskall85: 1782
+7: Renthedog: 1360
+8: cubfan135: 1313
+9: GoodTimeWithScar: 1250
+10: Tinfoilchef: 1228
+11: impulseSV: 1208
+12: Welsknight: 789
+13: joehillssays: 394
+14: Biffa2001: 323
+15: PythonGB: 289
+16: Etho: 180
+17: ZombieCleo: 151
+18: Mumbo: 109
+19: Docm77: 92
+20: VintageBeef: 70
+21: zueljin: 38
+22: Jessassin: 19
+23: xBCrafted: 10
+24: xisumavoid: 1
+25: hypnotizd: 1
+Total 21327

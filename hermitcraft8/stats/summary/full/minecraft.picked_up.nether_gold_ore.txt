@@ -1,0 +1,18 @@
+minecraft.picked_up.nether_gold_ore
+1: GoodTimeWithScar: 789
+2: Xisuma: 255
+3: PearlescentMoon: 131
+4: Tango: 122
+5: cubfan135: 85
+6: iJevin: 79
+7: xBCrafted: 40
+8: Renthedog: 31
+9: Etho: 24
+10: Welsknight: 18
+11: hypnotizd: 18
+12: impulseSV: 7
+13: joehillssays: 4
+14: Docm77: 3
+15: ZombieCleo: 3
+16: MumboJumbo: 1
+Total 1610

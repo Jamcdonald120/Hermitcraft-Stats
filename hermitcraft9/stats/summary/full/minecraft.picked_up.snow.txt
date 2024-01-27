@@ -1,0 +1,32 @@
+minecraft.picked_up.snow
+1: VintageBeef: 10951
+2: falsesymmetry: 10771
+3: GoodTimeWithScar: 8214
+4: cubfan135: 4992
+5: Tango: 3477
+6: Renthedog: 2865
+7: Zedaph: 2562
+8: Etho: 2485
+9: Smallishbeans: 1592
+10: PearlescentMoon: 1483
+11: Grian: 1432
+12: joehillssays: 1135
+13: iJevin: 1104
+14: BdoubleO100: 1047
+15: MythicalSausage: 718
+16: RentheKing: 306
+17: xBCrafted: 299
+18: GeminiTay: 157
+19: Keralis1: 139
+20: Docm77: 118
+21: hypnotizd: 110
+22: Xisuma: 100
+23: OrionSound: 83
+24: impulseSV: 60
+25: Pixlriffs: 40
+26: iskall85: 23
+27: Mumbo: 12
+28: SolidarityGaming: 2
+29: Watcher_Grian: 1
+30: ZombieCleo: 1
+Total 56279

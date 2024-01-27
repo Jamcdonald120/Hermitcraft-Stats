@@ -1,0 +1,5 @@
+minecraft.crafted.waxed_exposed_copper
+1: Renthedog: 21
+2: Docm77: 14
+3: impulseSV: 8
+Total 43

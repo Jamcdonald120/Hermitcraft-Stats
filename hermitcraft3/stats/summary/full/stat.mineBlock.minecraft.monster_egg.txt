@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.monster_egg
+1: falsesymmetry: 261
+2: KingDaddyDMAC: 71
+3: Tinfoilchef: 37
+4: monkeyfarm: 17
+5: Tango: 14
+6: xBCrafted: 8
+7: skyzm: 6
+8: sl1pg8r: 5
+9: Xisuma: 5
+10: zueljin: 4
+11: ZombieCleo: 3
+12: impulseSV: 3
+13: iJevin: 2
+14: Biffa2001: 1
+15: hypnotizd: 1
+Total 438

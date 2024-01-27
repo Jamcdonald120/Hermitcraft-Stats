@@ -1,0 +1,5 @@
+minecraft.dropped.pink_banner
+1: Keralis1: 8
+2: GoodTimeWithScar: 2
+3: Xisuma: 1
+Total 11

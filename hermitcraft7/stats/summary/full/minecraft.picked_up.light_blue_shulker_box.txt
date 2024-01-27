@@ -1,0 +1,24 @@
+minecraft.picked_up.light_blue_shulker_box
+1: GoodTimeWithScar: 1454
+2: Renthedog: 1012
+3: cubfan135: 686
+4: Etho: 656
+5: falsesymmetry: 628
+6: MumboJumbo: 415
+7: Tango: 379
+8: Xisuma: 286
+9: iskall85: 85
+10: BdoubleO100: 72
+11: iJevin: 69
+12: xBCrafted: 68
+13: Stressmonster101: 56
+14: Grian: 54
+15: impulseSV: 52
+16: VintageBeef: 38
+17: Zedaph: 36
+18: joehillssays: 20
+19: ZombieCleo: 13
+20: Keralis1: 11
+21: Docm77: 6
+22: xisumavoid: 1
+Total 6097

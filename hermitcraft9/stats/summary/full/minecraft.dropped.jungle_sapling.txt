@@ -1,0 +1,13 @@
+minecraft.dropped.jungle_sapling
+1: falsesymmetry: 161
+2: iJevin: 88
+3: Renthedog: 37
+4: PearlescentMoon: 37
+5: Docm77: 16
+6: Etho: 4
+7: Keralis1: 3
+8: impulseSV: 3
+9: xBCrafted: 2
+10: joehillssays: 1
+11: BdoubleO100: 1
+Total 353

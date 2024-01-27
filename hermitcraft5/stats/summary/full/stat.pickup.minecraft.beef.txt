@@ -1,0 +1,25 @@
+stat.pickup.minecraft.beef
+1: GoodTimeWithScar: 5121
+2: iskall85: 1872
+3: falsesymmetry: 1670
+4: Zedaph: 1468
+5: Welsknight: 1360
+6: Tinfoilchef: 1178
+7: MumboJumbo: 976
+8: cubfan135: 975
+9: Xisuma: 745
+10: impulseSV: 668
+11: Etho: 505
+12: Tango: 315
+13: Stressmonster101: 306
+14: ZombieCleo: 269
+15: Renthedog: 219
+16: Biffa2001: 211
+17: Docm77: 210
+18: VintageBeef: 205
+19: joehillssays: 187
+20: iJevin: 170
+21: PythonGB: 119
+22: BdoubleO100: 104
+23: xBCrafted: 84
+Total 18937

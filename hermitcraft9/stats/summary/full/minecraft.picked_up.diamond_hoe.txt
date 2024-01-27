@@ -1,0 +1,21 @@
+minecraft.picked_up.diamond_hoe
+1: Docm77: 68
+2: iJevin: 36
+3: impulseSV: 29
+4: Grian: 27
+5: PearlescentMoon: 24
+6: Renthedog: 22
+7: ZombieCleo: 17
+8: joehillssays: 12
+9: Keralis1: 11
+10: iskall85: 8
+11: GeminiTay: 7
+12: Smallishbeans: 6
+13: GoodTimeWithScar: 6
+14: Etho: 5
+15: Tango: 3
+16: Stressmonster101: 3
+17: Xisuma: 2
+18: falsesymmetry: 1
+19: cubfan135: 1
+Total 288

@@ -1,0 +1,23 @@
+minecraft.dropped.ender_pearl
+1: Xisuma: 9700
+2: iskall85: 7863
+3: Docm77: 2639
+4: cubfan135: 734
+5: Renthedog: 529
+6: Grian: 261
+7: MumboJumbo: 200
+8: falsesymmetry: 180
+9: impulseSV: 103
+10: GoodTimeWithScar: 72
+11: Tango: 68
+12: Zedaph: 61
+13: iJevin: 42
+14: joehillssays: 31
+15: BdoubleO100: 15
+16: Duke_da_dog: 13
+17: Stressmonster101: 9
+18: Welsknight: 6
+19: Biffa2001: 5
+20: PythonGB: 4
+21: Tinfoilchef: 2
+Total 22537

@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.yellow_flower
+1: falsesymmetry: 669
+2: GoodTimeWithScar: 608
+3: MumboJumbo: 439
+4: Renthedog: 350
+5: cubfan135: 296
+6: Xisuma: 252
+7: joehillssays: 216
+8: iskall85: 168
+9: Welsknight: 111
+10: PythonGB: 79
+11: Tango: 54
+12: ZombieCleo: 45
+13: Tinfoilchef: 32
+14: Etho: 28
+15: Docm77: 27
+16: VintageBeef: 24
+17: impulseSV: 19
+18: iJevin: 12
+19: zueljin: 6
+20: Mumbo: 5
+21: Biffa2001: 3
+Total 3443

@@ -1,0 +1,4 @@
+minecraft.mined.dead_tube_coral
+1: GoodTimeWithScar: 5
+2: cubfan135: 3
+Total 8

@@ -1,0 +1,20 @@
+minecraft.crafted.enchanting_table
+1: GoodTimeWithScar: 6
+2: Xisuma: 3
+3: Welsknight: 3
+4: GeminiTay: 2
+5: PearlescentMoon: 2
+6: xBCrafted: 2
+7: falsesymmetry: 2
+8: Docm77: 1
+9: Renthedog: 1
+10: VintageBeef: 1
+11: iJevin: 1
+12: joehillssays: 1
+13: Grian: 1
+14: Tango: 1
+15: BdoubleO100: 1
+16: cubfan135: 1
+17: Etho: 1
+18: Zedaph: 1
+Total 31

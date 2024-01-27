@@ -1,0 +1,11 @@
+stat.useItem.minecraft.melon_seeds
+1: Xisuma: 47
+2: Mumbo: 44
+3: Tinfoilchef: 27
+4: Etho: 8
+5: NameOfSamuel: 5
+6: topmass: 3
+7: xBCrafted: 2
+8: monkeyfarm: 2
+9: zueljin: 1
+Total 139

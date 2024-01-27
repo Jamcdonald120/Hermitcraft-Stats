@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.golden_rail
+1: Xisuma: 3432
+2: Mumbo: 384
+3: falsesymmetry: 36
+4: monkeyfarm: 18
+5: Spumwackles: 12
+Total 3882

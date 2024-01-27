@@ -1,0 +1,29 @@
+minecraft.dropped.written_book
+1: iJevin: 27
+2: cubfan135: 17
+3: ZombieCleo: 17
+4: GoodTimeWithScar: 17
+5: Zedaph: 16
+6: falsesymmetry: 11
+7: Tango: 10
+8: Grian: 7
+9: iskall85: 6
+10: impulseSV: 6
+11: xBCrafted: 5
+12: BdoubleO100: 4
+13: RentheKing: 4
+14: Xisuma: 3
+15: Renthedog: 3
+16: VintageBeef: 3
+17: joehillssays: 3
+18: GeminiTay: 2
+19: Etho: 2
+20: hypnotizd: 2
+21: Docm77: 1
+22: OrionSound: 1
+23: MythicalSausage: 1
+24: Smallishbeans: 1
+25: PearlescentMoon: 1
+26: Mumbo: 1
+27: Stressmonster101: 1
+Total 172

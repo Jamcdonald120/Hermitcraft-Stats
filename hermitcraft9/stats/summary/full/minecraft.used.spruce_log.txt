@@ -1,0 +1,31 @@
+minecraft.used.spruce_log
+1: xBCrafted: 5959
+2: Renthedog: 5153
+3: hypnotizd: 4342
+4: falsesymmetry: 4325
+5: ZombieCleo: 3834
+6: GoodTimeWithScar: 3523
+7: iJevin: 1899
+8: Keralis1: 1636
+9: PearlescentMoon: 1621
+10: GeminiTay: 1521
+11: BdoubleO100: 1465
+12: cubfan135: 1311
+13: iskall85: 1284
+14: Tango: 1282
+15: impulseSV: 1116
+16: VintageBeef: 841
+17: Stressmonster101: 617
+18: Xisuma: 496
+19: Docm77: 456
+20: Smallishbeans: 386
+21: MythicalSausage: 292
+22: Grian: 268
+23: Etho: 147
+24: RentheKing: 134
+25: fWhip: 74
+26: Welsknight: 25
+27: Zedaph: 15
+28: ShubbleYT: 3
+29: Pixlriffs: 1
+Total 44026

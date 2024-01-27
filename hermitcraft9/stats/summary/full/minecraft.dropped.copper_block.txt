@@ -1,0 +1,8 @@
+minecraft.dropped.copper_block
+1: Grian: 1240
+2: Tango: 771
+3: PearlescentMoon: 770
+4: Keralis1: 768
+5: iskall85: 1
+6: Etho: 1
+Total 3551

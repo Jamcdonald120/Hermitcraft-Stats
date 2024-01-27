@@ -1,0 +1,22 @@
+stat.drop.minecraft.rail
+1: Tango: 3585
+2: cubfan135: 602
+3: iskall85: 357
+4: MumboJumbo: 339
+5: Xisuma: 293
+6: Zedaph: 226
+7: impulseSV: 203
+8: falsesymmetry: 158
+9: xBCrafted: 92
+10: iJevin: 82
+11: Docm77: 65
+12: Renthedog: 61
+13: GoodTimeWithScar: 25
+14: BdoubleO100: 17
+15: Welsknight: 17
+16: VintageBeef: 14
+17: Etho: 7
+18: Biffa2001: 4
+19: PythonGB: 2
+20: ZombieCleo: 1
+Total 6150

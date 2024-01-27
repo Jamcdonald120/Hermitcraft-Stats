@@ -1,0 +1,19 @@
+minecraft.crafted.acacia_trapdoor
+1: Renthedog: 2620
+2: Docm77: 2590
+3: Keralis1: 1156
+4: PearlescentMoon: 690
+5: Etho: 672
+6: Xisuma: 606
+7: GoodTimeWithScar: 408
+8: impulseSV: 364
+9: falsesymmetry: 332
+10: BdoubleO100: 296
+11: cubfan135: 276
+12: Grian: 180
+13: Tango: 72
+14: iJevin: 28
+15: MythicalSausage: 26
+16: VintageBeef: 12
+17: Zedaph: 6
+Total 10334

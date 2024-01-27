@@ -1,0 +1,20 @@
+stat.useItem.minecraft.gold_block
+1: cubfan135: 622
+2: GoodTimeWithScar: 344
+3: falsesymmetry: 202
+4: iskall85: 169
+5: Renthedog: 141
+6: Xisuma: 116
+7: Welsknight: 84
+8: impulseSV: 75
+9: ZombieCleo: 55
+10: PythonGB: 51
+11: Biffa2001: 31
+12: Tango: 29
+13: Etho: 29
+14: iJevin: 24
+15: MumboJumbo: 13
+16: joehillssays: 12
+17: Zedaph: 6
+18: xisumavoid: 1
+Total 2004

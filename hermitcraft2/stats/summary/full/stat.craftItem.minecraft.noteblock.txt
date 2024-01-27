@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.noteblock
+1: Xisuma: 60
+2: Spumwackles: 32
+3: Tango: 1
+Total 93

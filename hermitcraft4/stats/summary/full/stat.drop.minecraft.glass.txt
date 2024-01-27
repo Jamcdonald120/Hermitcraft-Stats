@@ -1,0 +1,11 @@
+stat.drop.minecraft.glass
+1: falsesymmetry: 249
+2: Tango: 205
+3: iskall85: 107
+4: cubfan135: 87
+5: MumboJumbo: 52
+6: Renthedog: 13
+7: Xisuma: 7
+8: impulseSV: 2
+9: PythonGB: 1
+Total 723

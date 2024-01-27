@@ -1,0 +1,6 @@
+minecraft.crafted.red_sandstone_stairs
+1: Keralis1: 156
+2: Renthedog: 60
+3: Etho: 7
+4: cubfan135: 4
+Total 227

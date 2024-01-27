@@ -1,0 +1,21 @@
+minecraft.killed.ghast
+1: iJevin: 250
+2: GoodTimeWithScar: 50
+3: impulseSV: 36
+4: hypnotizd: 25
+5: Docm77: 18
+6: Grian: 16
+7: VintageBeef: 14
+8: Xisuma: 11
+9: cubfan135: 11
+10: Renthedog: 9
+11: Etho: 8
+12: iskall85: 7
+13: Tango: 6
+14: xBCrafted: 4
+15: Zedaph: 4
+16: PearlescentMoon: 3
+17: Welsknight: 3
+18: GeminiTay: 2
+19: falsesymmetry: 2
+Total 479

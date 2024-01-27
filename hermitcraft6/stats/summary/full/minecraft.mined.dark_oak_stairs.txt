@@ -1,0 +1,26 @@
+minecraft.mined.dark_oak_stairs
+1: Renthedog: 988
+2: Grian: 818
+3: GoodTimeWithScar: 681
+4: BdoubleO100: 659
+5: Welsknight: 590
+6: Xisuma: 569
+7: cubfan135: 458
+8: falsesymmetry: 285
+9: Docm77: 258
+10: iskall85: 128
+11: ZombieCleo: 118
+12: PythonGB: 102
+13: joehillssays: 95
+14: Stressmonster101: 81
+15: Tango: 68
+16: Keralis1: 37
+17: xBCrafted: 36
+18: Zedaph: 12
+19: Tinfoilchef: 11
+20: Biffa2001: 8
+21: iJevin: 6
+22: HumanCleo: 1
+23: Jessassin: 1
+24: MumboJumbo: 1
+Total 6011

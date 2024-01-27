@@ -1,0 +1,17 @@
+minecraft.picked_up.dark_oak_door
+1: Renthedog: 51
+2: falsesymmetry: 42
+3: Xisuma: 37
+4: GoodTimeWithScar: 31
+5: Docm77: 24
+6: cubfan135: 19
+7: Welsknight: 11
+8: iskall85: 7
+9: Grian: 6
+10: BdoubleO100: 6
+11: Stressmonster101: 6
+12: impulseSV: 5
+13: ZombieCleo: 4
+14: xBCrafted: 2
+15: Tango: 1
+Total 252

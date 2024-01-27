@@ -1,0 +1,6 @@
+minecraft.dropped.jungle_fence
+1: BdoubleO100: 48
+2: Keralis1: 16
+3: GoodTimeWithScar: 4
+4: PearlescentMoon: 2
+Total 70

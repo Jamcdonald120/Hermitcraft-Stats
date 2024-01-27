@@ -1,0 +1,19 @@
+stat.pickup.minecraft.stone_pressure_plate
+1: falsesymmetry: 113
+2: Etho: 111
+3: iskall85: 98
+4: cubfan135: 79
+5: Tango: 63
+6: MumboJumbo: 51
+7: impulseSV: 32
+8: VintageBeef: 31
+9: Docm77: 30
+10: Welsknight: 29
+11: Xisuma: 23
+12: Renthedog: 21
+13: GoodTimeWithScar: 17
+14: Biffa2001: 10
+15: PythonGB: 1
+16: iJevin: 1
+17: ZombieCleo: 1
+Total 711

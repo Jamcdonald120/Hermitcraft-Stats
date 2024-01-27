@@ -1,0 +1,16 @@
+minecraft.dropped.iron_door
+1: Tango: 22
+2: Renthedog: 20
+3: Zedaph: 10
+4: Grian: 7
+5: ZombieCleo: 6
+6: Keralis1: 6
+7: iJevin: 5
+8: GoodTimeWithScar: 5
+9: Docm77: 3
+10: joehillssays: 2
+11: iskall85: 2
+12: falsesymmetry: 2
+13: Etho: 2
+14: xBCrafted: 1
+Total 93

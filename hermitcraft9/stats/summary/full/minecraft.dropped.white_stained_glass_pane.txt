@@ -1,0 +1,12 @@
+minecraft.dropped.white_stained_glass_pane
+1: GoodTimeWithScar: 172
+2: Keralis1: 64
+3: PearlescentMoon: 42
+4: Grian: 41
+5: cubfan135: 38
+6: falsesymmetry: 30
+7: xBCrafted: 16
+8: Zedaph: 15
+9: impulseSV: 12
+10: BdoubleO100: 1
+Total 431

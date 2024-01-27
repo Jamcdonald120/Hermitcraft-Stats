@@ -1,0 +1,22 @@
+minecraft.crafted.cyan_stained_glass
+1: falsesymmetry: 29168
+2: iJevin: 17776
+3: Stressmonster101: 13376
+4: impulseSV: 7368
+5: xBCrafted: 2424
+6: Etho: 2064
+7: Xisuma: 928
+8: GoodTimeWithScar: 720
+9: cubfan135: 624
+10: Tango: 568
+11: joehillssays: 336
+12: iskall85: 320
+13: BdoubleO100: 88
+14: Zedaph: 72
+15: Grian: 56
+16: Keralis1: 48
+17: VintageBeef: 24
+18: hypnotizd: 24
+19: Docm77: 16
+20: ZombieCleo: 8
+Total 76008

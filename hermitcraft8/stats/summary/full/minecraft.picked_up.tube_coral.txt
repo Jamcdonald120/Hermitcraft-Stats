@@ -1,0 +1,13 @@
+minecraft.picked_up.tube_coral
+1: cubfan135: 208
+2: Xisuma: 74
+3: Renthedog: 58
+4: iJevin: 6
+5: Grian: 6
+6: BdoubleO100: 4
+7: GoodTimeWithScar: 3
+8: Keralis1: 3
+9: Docm77: 2
+10: xBCrafted: 2
+11: impulseSV: 1
+Total 367

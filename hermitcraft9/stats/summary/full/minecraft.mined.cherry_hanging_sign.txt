@@ -1,0 +1,4 @@
+minecraft.mined.cherry_hanging_sign
+1: GoodTimeWithScar: 3
+2: Grian: 2
+Total 5

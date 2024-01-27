@@ -1,0 +1,18 @@
+minecraft.crafted.cooked_chicken
+1: ZombieCleo: 1339
+2: iJevin: 389
+3: Zedaph: 318
+4: Keralis1: 135
+5: Tango: 64
+6: Etho: 48
+7: Grian: 36
+8: VintageBeef: 33
+9: Renthedog: 27
+10: GeminiTay: 21
+11: joehillssays: 12
+12: iskall85: 6
+13: Pixlriffs: 5
+14: impulseSV: 4
+15: Docm77: 2
+16: Xisuma: 1
+Total 2440

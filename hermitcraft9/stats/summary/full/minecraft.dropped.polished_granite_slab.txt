@@ -1,0 +1,13 @@
+minecraft.dropped.polished_granite_slab
+1: falsesymmetry: 184
+2: Renthedog: 95
+3: GoodTimeWithScar: 79
+4: PearlescentMoon: 5
+5: cubfan135: 3
+6: Zedaph: 2
+7: VintageBeef: 1
+8: Grian: 1
+9: xBCrafted: 1
+10: Etho: 1
+11: RentheKing: 1
+Total 373

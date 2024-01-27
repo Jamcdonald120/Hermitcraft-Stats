@@ -1,0 +1,19 @@
+stat.drop.minecraft.cooked_fish
+1: MumboJumbo: 617
+2: impulseSV: 345
+3: Tango: 328
+4: Zedaph: 270
+5: Renthedog: 227
+6: iskall85: 225
+7: falsesymmetry: 175
+8: Biffa2001: 146
+9: PythonGB: 113
+10: Tinfoilchef: 64
+11: Xisuma: 48
+12: GoodTimeWithScar: 32
+13: cubfan135: 25
+14: xBCrafted: 20
+15: Docm77: 11
+16: Welsknight: 8
+17: Stressmonster101: 4
+Total 2658

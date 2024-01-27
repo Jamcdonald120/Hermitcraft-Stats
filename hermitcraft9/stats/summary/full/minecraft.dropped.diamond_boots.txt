@@ -1,0 +1,30 @@
+minecraft.dropped.diamond_boots
+1: Tango: 38
+2: GoodTimeWithScar: 16
+3: Zedaph: 16
+4: iJevin: 14
+5: Grian: 13
+6: cubfan135: 13
+7: xBCrafted: 9
+8: falsesymmetry: 9
+9: Etho: 9
+10: impulseSV: 9
+11: BdoubleO100: 7
+12: PearlescentMoon: 6
+13: Docm77: 5
+14: Smallishbeans: 5
+15: Keralis1: 5
+16: MythicalSausage: 4
+17: RentheKing: 4
+18: hypnotizd: 4
+19: ZombieCleo: 2
+20: Minerva246: 1
+21: OrionSound: 1
+22: Renthedog: 1
+23: Smajor1995: 1
+24: joehillssays: 1
+25: GeminiTay: 1
+26: iskall85: 1
+27: Firecracker1195: 1
+28: ShubbleYT: 1
+Total 197

@@ -1,0 +1,12 @@
+minecraft.crafted.red_candle
+1: hypnotizd: 2436
+2: Tango: 271
+3: PearlescentMoon: 171
+4: Xisuma: 70
+5: cubfan135: 64
+6: Grian: 46
+7: iJevin: 41
+8: BdoubleO100: 10
+9: MythicalSausage: 3
+10: Zedaph: 1
+Total 3113

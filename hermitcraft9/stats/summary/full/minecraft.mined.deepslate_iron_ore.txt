@@ -1,0 +1,34 @@
+minecraft.mined.deepslate_iron_ore
+1: cubfan135: 5109
+2: VintageBeef: 3506
+3: iJevin: 2065
+4: Xisuma: 1038
+5: Zedaph: 1020
+6: Keralis1: 1018
+7: PearlescentMoon: 1006
+8: Etho: 1006
+9: Renthedog: 828
+10: xBCrafted: 638
+11: iskall85: 610
+12: joehillssays: 576
+13: impulseSV: 566
+14: hypnotizd: 562
+15: GoodTimeWithScar: 436
+16: Tango: 407
+17: Docm77: 265
+18: falsesymmetry: 156
+19: Mumbo: 153
+20: Grian: 145
+21: ZombieCleo: 134
+22: MumboJumbo: 114
+23: GeminiTay: 102
+24: RentheKing: 87
+25: Stressmonster101: 82
+26: Welsknight: 69
+27: BdoubleO100: 67
+28: Tinfoilchef: 15
+29: MythicalSausage: 13
+30: Smallishbeans: 13
+31: SolidarityGaming: 5
+32: Pixlriffs: 3
+Total 21814

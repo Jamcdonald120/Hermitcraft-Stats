@@ -1,0 +1,26 @@
+minecraft.broken.iron_shovel
+1: impulseSV: 83
+2: Xisuma: 36
+3: Keralis1: 28
+4: BdoubleO100: 18
+5: Tango: 17
+6: iskall85: 15
+7: joehillssays: 12
+8: ZombieCleo: 12
+9: falsesymmetry: 11
+10: PearlescentMoon: 8
+11: Stressmonster101: 6
+12: Zedaph: 5
+13: Docm77: 4
+14: iJevin: 4
+15: MythicalSausage: 4
+16: Etho: 3
+17: Renthedog: 2
+18: VintageBeef: 2
+19: hypnotizd: 2
+20: OrionSound: 1
+21: GeminiTay: 1
+22: Mumbo: 1
+23: MumboJumbo: 1
+24: ShubbleYT: 1
+Total 277

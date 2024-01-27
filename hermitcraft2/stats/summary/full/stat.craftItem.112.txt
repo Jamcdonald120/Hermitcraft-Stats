@@ -1,0 +1,5 @@
+stat.craftItem.112
+1: red3yz: 2269
+2: Unhost: 148
+3: topmass: 32
+Total 2449

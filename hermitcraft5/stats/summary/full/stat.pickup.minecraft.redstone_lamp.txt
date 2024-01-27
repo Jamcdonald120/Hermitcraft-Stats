@@ -1,0 +1,19 @@
+stat.pickup.minecraft.redstone_lamp
+1: cubfan135: 191
+2: Xisuma: 147
+3: MumboJumbo: 139
+4: Tango: 101
+5: iskall85: 99
+6: Welsknight: 85
+7: impulseSV: 77
+8: iJevin: 57
+9: Zedaph: 40
+10: xBCrafted: 33
+11: ZombieCleo: 31
+12: Tinfoilchef: 28
+13: VintageBeef: 21
+14: Renthedog: 7
+15: falsesymmetry: 7
+16: joehillssays: 5
+17: PythonGB: 3
+Total 1071

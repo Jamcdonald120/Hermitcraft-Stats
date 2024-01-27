@@ -1,0 +1,20 @@
+minecraft.dropped.chain
+1: Zedaph: 2674
+2: Tango: 467
+3: cubfan135: 368
+4: Grian: 284
+5: iskall85: 272
+6: xBCrafted: 125
+7: Etho: 40
+8: Keralis1: 38
+9: Xisuma: 33
+10: GoodTimeWithScar: 33
+11: falsesymmetry: 8
+12: impulseSV: 7
+13: VintageBeef: 6
+14: iJevin: 6
+15: MumboJumbo: 6
+16: ZombieCleo: 3
+17: BdoubleO100: 2
+18: joehillssays: 1
+Total 4373

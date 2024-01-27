@@ -1,0 +1,25 @@
+stat.craftingTableInteraction
+1: falsesymmetry: 6559
+2: Xisuma: 2346
+3: xBCrafted: 1806
+4: Tango: 1760
+5: impulseSV: 1274
+6: Mumbo: 1186
+7: monkeyfarm: 948
+8: iJevin: 770
+9: PythonGB: 695
+10: zueljin: 602
+11: Tinfoilchef: 498
+12: Etho: 418
+13: ZombieCleo: 379
+14: Biffa2001: 365
+15: joehillssays: 269
+16: sl1pg8r: 261
+17: Docm77: 199
+18: topmass: 108
+19: NameOfSamuel: 35
+20: truesymmetry: 3
+21: xisumavoid: 3
+22: KingDaddyDMAC: 1
+23: hypnotizd: 1
+Total 20486

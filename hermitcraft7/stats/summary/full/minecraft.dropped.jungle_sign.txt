@@ -1,0 +1,15 @@
+minecraft.dropped.jungle_sign
+1: MumboJumbo: 59
+2: iJevin: 48
+3: GoodTimeWithScar: 32
+4: cubfan135: 20
+5: Grian: 18
+6: Zedaph: 12
+7: Keralis1: 8
+8: Etho: 7
+9: iskall85: 6
+10: Xisuma: 5
+11: Renthedog: 3
+12: Tango: 3
+13: impulseSV: 1
+Total 222

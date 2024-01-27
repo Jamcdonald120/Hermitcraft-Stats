@@ -1,0 +1,8 @@
+minecraft.dropped.powder_snow_bucket
+1: cubfan135: 9
+2: Zedaph: 3
+3: VintageBeef: 1
+4: Grian: 1
+5: Tango: 1
+6: GoodTimeWithScar: 1
+Total 16

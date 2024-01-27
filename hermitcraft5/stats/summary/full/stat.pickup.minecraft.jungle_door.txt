@@ -1,0 +1,10 @@
+stat.pickup.minecraft.jungle_door
+1: VintageBeef: 19
+2: Docm77: 8
+3: BdoubleO100: 6
+4: cubfan135: 4
+5: iJevin: 3
+6: xBCrafted: 1
+7: falsesymmetry: 1
+8: MumboJumbo: 1
+Total 43

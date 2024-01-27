@@ -1,0 +1,21 @@
+minecraft.crafted.oak_door
+1: Tango: 81
+2: iJevin: 75
+3: Tinfoilchef: 69
+4: impulseSV: 69
+5: Zedaph: 45
+6: falsesymmetry: 39
+7: Biffa2001: 39
+8: Renthedog: 36
+9: iskall85: 27
+10: Docm77: 21
+11: cubfan135: 18
+12: Grian: 15
+13: MumboJumbo: 12
+14: GoodTimeWithScar: 9
+15: Welsknight: 6
+16: Xisuma: 3
+17: PythonGB: 3
+18: BdoubleO100: 3
+19: Stressmonster101: 3
+Total 573

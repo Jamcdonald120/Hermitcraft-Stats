@@ -1,0 +1,7 @@
+minecraft.picked_up.dead_bubble_coral_fan
+1: falsesymmetry: 16
+2: GoodTimeWithScar: 16
+3: Docm77: 5
+4: cubfan135: 3
+5: Renthedog: 2
+Total 42

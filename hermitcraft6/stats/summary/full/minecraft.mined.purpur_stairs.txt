@@ -1,0 +1,16 @@
+minecraft.mined.purpur_stairs
+1: impulseSV: 266
+2: iskall85: 197
+3: Xisuma: 168
+4: PythonGB: 151
+5: cubfan135: 126
+6: Renthedog: 46
+7: Tango: 35
+8: MumboJumbo: 35
+9: GoodTimeWithScar: 24
+10: Grian: 21
+11: Zedaph: 15
+12: iJevin: 5
+13: falsesymmetry: 2
+14: Welsknight: 1
+Total 1092

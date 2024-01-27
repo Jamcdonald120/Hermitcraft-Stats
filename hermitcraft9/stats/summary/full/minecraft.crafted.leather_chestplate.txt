@@ -1,0 +1,20 @@
+minecraft.crafted.leather_chestplate
+1: ZombieCleo: 464
+2: GoodTimeWithScar: 218
+3: Zedaph: 113
+4: cubfan135: 77
+5: VintageBeef: 21
+6: iJevin: 21
+7: BdoubleO100: 15
+8: RentheKing: 12
+9: impulseSV: 11
+10: Etho: 5
+11: Smajor1995: 4
+12: Welsknight: 3
+13: Xisuma: 2
+14: MythicalSausage: 2
+15: joehillssays: 2
+16: Smallishbeans: 2
+17: PearlescentMoon: 2
+18: hypnotizd: 2
+Total 976

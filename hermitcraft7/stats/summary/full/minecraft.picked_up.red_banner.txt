@@ -1,0 +1,16 @@
+minecraft.picked_up.red_banner
+1: Tango: 21
+2: GoodTimeWithScar: 11
+3: Zedaph: 11
+4: Welsknight: 8
+5: ZombieCleo: 8
+6: cubfan135: 7
+7: Renthedog: 4
+8: BdoubleO100: 4
+9: impulseSV: 4
+10: Xisuma: 3
+11: Grian: 3
+12: xBCrafted: 1
+13: falsesymmetry: 1
+14: Keralis1: 1
+Total 87

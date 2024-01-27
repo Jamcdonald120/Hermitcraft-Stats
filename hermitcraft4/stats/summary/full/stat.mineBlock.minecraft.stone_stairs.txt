@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.stone_stairs
+1: Welsknight: 515
+2: GoodTimeWithScar: 410
+3: PythonGB: 274
+4: Xisuma: 242
+5: iskall85: 241
+6: VintageBeef: 236
+7: joehillssays: 136
+8: Renthedog: 135
+9: iJevin: 120
+10: impulseSV: 115
+11: cubfan135: 93
+12: Biffa2001: 82
+13: falsesymmetry: 51
+14: Tinfoilchef: 44
+15: Tango: 41
+16: ZombieCleo: 17
+17: Jessassin: 9
+18: Mumbo: 7
+19: xBCrafted: 6
+20: Etho: 2
+Total 2776

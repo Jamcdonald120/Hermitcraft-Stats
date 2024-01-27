@@ -1,0 +1,20 @@
+minecraft.picked_up.iron_nugget
+1: iskall85: 1105
+2: GoodTimeWithScar: 682
+3: Xisuma: 186
+4: cubfan135: 94
+5: Keralis1: 87
+6: PythonGB: 86
+7: impulseSV: 61
+8: iJevin: 60
+9: falsesymmetry: 59
+10: Grian: 50
+11: joehillssays: 45
+12: Biffa2001: 37
+13: BdoubleO100: 34
+14: Renthedog: 25
+15: Welsknight: 25
+16: ZombieCleo: 12
+17: Tango: 10
+18: MumboJumbo: 5
+Total 2663

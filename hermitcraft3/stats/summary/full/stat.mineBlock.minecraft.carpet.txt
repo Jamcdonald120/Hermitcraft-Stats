@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.carpet
+1: falsesymmetry: 2049
+2: zueljin: 1469
+3: impulseSV: 1343
+4: xBCrafted: 1046
+5: Xisuma: 480
+6: Etho: 459
+7: Tango: 224
+8: ZombieCleo: 140
+9: sl1pg8r: 103
+10: Tinfoilchef: 97
+11: monkeyfarm: 94
+12: Mumbo: 54
+13: topmass: 30
+14: iJevin: 21
+15: Biffa2001: 16
+16: PythonGB: 6
+17: Mrs_Keralis: 3
+18: Keralis1: 1
+Total 7635

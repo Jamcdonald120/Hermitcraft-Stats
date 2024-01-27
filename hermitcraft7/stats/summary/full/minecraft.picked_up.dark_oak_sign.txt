@@ -1,0 +1,24 @@
+minecraft.picked_up.dark_oak_sign
+1: Zedaph: 1359
+2: GoodTimeWithScar: 93
+3: Tango: 88
+4: Grian: 62
+5: iJevin: 51
+6: BdoubleO100: 39
+7: VintageBeef: 32
+8: Renthedog: 23
+9: Etho: 23
+10: cubfan135: 21
+11: Keralis1: 20
+12: iskall85: 18
+13: Welsknight: 13
+14: Xisuma: 9
+15: joehillssays: 9
+16: falsesymmetry: 9
+17: Stressmonster101: 7
+18: impulseSV: 6
+19: ZombieCleo: 4
+20: Docm77: 2
+21: xBCrafted: 2
+22: hypnotizd: 1
+Total 1891

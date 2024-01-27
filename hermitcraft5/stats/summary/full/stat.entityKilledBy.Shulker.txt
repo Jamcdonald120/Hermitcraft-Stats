@@ -1,0 +1,4 @@
+stat.entityKilledBy.Shulker
+1: Tinfoilchef: 2
+2: MumboJumbo: 1
+Total 3

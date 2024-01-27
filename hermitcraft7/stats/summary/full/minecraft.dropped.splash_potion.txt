@@ -1,0 +1,17 @@
+minecraft.dropped.splash_potion
+1: Etho: 544
+2: Tango: 194
+3: Xisuma: 71
+4: xBCrafted: 46
+5: iskall85: 20
+6: Renthedog: 17
+7: cubfan135: 17
+8: hypnotizd: 16
+9: impulseSV: 10
+10: Grian: 7
+11: Zedaph: 5
+12: Keralis1: 4
+13: GoodTimeWithScar: 2
+14: BdoubleO100: 1
+15: Stressmonster101: 1
+Total 955

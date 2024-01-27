@@ -1,0 +1,22 @@
+minecraft.used.honey_bottle
+1: Xisuma: 166
+2: hypnotizd: 160
+3: cubfan135: 82
+4: Etho: 80
+5: ZombieCleo: 56
+6: GoodTimeWithScar: 54
+7: iJevin: 42
+8: GeminiTay: 32
+9: Docm77: 30
+10: VintageBeef: 26
+11: Grian: 24
+12: Renthedog: 14
+13: joehillssays: 14
+14: falsesymmetry: 10
+15: Keralis1: 10
+16: Zedaph: 10
+17: HBomb94: 6
+18: impulseSV: 6
+19: BdoubleO100: 2
+20: Pixlriffs: 2
+Total 826

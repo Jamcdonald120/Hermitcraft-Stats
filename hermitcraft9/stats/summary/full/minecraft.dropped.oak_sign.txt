@@ -1,0 +1,22 @@
+minecraft.dropped.oak_sign
+1: GoodTimeWithScar: 271
+2: falsesymmetry: 49
+3: Zedaph: 42
+4: Grian: 39
+5: iJevin: 31
+6: Smajor1995: 26
+7: Etho: 26
+8: Keralis1: 21
+9: Tango: 20
+10: Renthedog: 10
+11: Mumbo: 6
+12: Docm77: 5
+13: Xisuma: 4
+14: cubfan135: 4
+15: Stressmonster101: 3
+16: Smallishbeans: 2
+17: iskall85: 2
+18: ZombieCleo: 2
+19: RentheKing: 1
+20: SolidarityGaming: 1
+Total 565

@@ -1,0 +1,28 @@
+minecraft.used.spruce_slab
+1: GoodTimeWithScar: 13424
+2: Renthedog: 11630
+3: falsesymmetry: 6881
+4: Stressmonster101: 6016
+5: cubfan135: 4016
+6: Xisuma: 3093
+7: PythonGB: 2975
+8: iskall85: 2563
+9: Welsknight: 2468
+10: joehillssays: 2242
+11: Grian: 1891
+12: impulseSV: 1619
+13: ZombieCleo: 1485
+14: BdoubleO100: 1231
+15: iJevin: 1040
+16: Keralis1: 973
+17: Docm77: 693
+18: xBCrafted: 684
+19: MumboJumbo: 452
+20: Tango: 315
+21: HumanCleo: 238
+22: Biffa2001: 231
+23: Jessassin: 65
+24: Tinfoilchef: 28
+25: Zedaph: 19
+26: BadTimeWithScar: 8
+Total 66280

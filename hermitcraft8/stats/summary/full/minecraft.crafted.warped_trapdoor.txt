@@ -1,0 +1,17 @@
+minecraft.crafted.warped_trapdoor
+1: Keralis1: 182
+2: GoodTimeWithScar: 168
+3: Grian: 136
+4: Xisuma: 132
+5: impulseSV: 124
+6: Docm77: 120
+7: BdoubleO100: 112
+8: MumboJumbo: 70
+9: joehillssays: 30
+10: PearlescentMoon: 24
+11: GeminiTay: 18
+12: Tango: 6
+13: cubfan135: 2
+14: Welsknight: 2
+15: Etho: 2
+Total 1128

@@ -1,0 +1,27 @@
+minecraft.crafted.lapis_lazuli
+1: Grian: 13703
+2: cubfan135: 8784
+3: iJevin: 5248
+4: Etho: 2511
+5: Renthedog: 2286
+6: Tango: 1404
+7: Zedaph: 1260
+8: hypnotizd: 1152
+9: xBCrafted: 1053
+10: joehillssays: 972
+11: GoodTimeWithScar: 846
+12: Keralis1: 837
+13: falsesymmetry: 735
+14: impulseSV: 663
+15: PearlescentMoon: 585
+16: VintageBeef: 351
+17: ZombieCleo: 198
+18: Pixlriffs: 171
+19: BdoubleO100: 117
+20: Stressmonster101: 108
+21: RentheKing: 72
+22: GeminiTay: 45
+23: Docm77: 24
+24: Xisuma: 18
+25: iskall85: 12
+Total 43155

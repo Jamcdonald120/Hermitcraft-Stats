@@ -1,0 +1,26 @@
+stat.pickup.minecraft.chest
+1: iJevin: 2391
+2: Xisuma: 2095
+3: falsesymmetry: 1815
+4: Tango: 1654
+5: iskall85: 1117
+6: cubfan135: 1037
+7: Renthedog: 824
+8: GoodTimeWithScar: 806
+9: impulseSV: 735
+10: Tinfoilchef: 727
+11: Welsknight: 446
+12: MumboJumbo: 286
+13: PythonGB: 284
+14: Biffa2001: 129
+15: joehillssays: 121
+16: Etho: 114
+17: Docm77: 64
+18: VintageBeef: 64
+19: ZombieCleo: 47
+20: zueljin: 23
+21: Jessassin: 9
+22: Mumbo: 9
+23: xBCrafted: 2
+24: xisumavoid: 1
+Total 14800

@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.golden_sword
+1: Tinfoilchef: 22
+2: KingDaddyDMAC: 6
+3: sl1pg8r: 2
+4: Xisuma: 1
+5: topmass: 1
+6: PythonGB: 1
+7: Biffa2001: 1
+Total 34

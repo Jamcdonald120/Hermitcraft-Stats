@@ -1,0 +1,24 @@
+minecraft.picked_up.repeater
+1: iskall85: 1993
+2: MumboJumbo: 1438
+3: cubfan135: 987
+4: Xisuma: 972
+5: GoodTimeWithScar: 961
+6: Docm77: 955
+7: Renthedog: 943
+8: iJevin: 634
+9: impulseSV: 556
+10: Tango: 532
+11: Grian: 333
+12: joehillssays: 228
+13: Zedaph: 207
+14: falsesymmetry: 153
+15: Tinfoilchef: 151
+16: Stressmonster101: 61
+17: ZombieCleo: 38
+18: Welsknight: 22
+19: PythonGB: 8
+20: BdoubleO100: 5
+21: Keralis1: 2
+22: Cub_Cam: 1
+Total 11180

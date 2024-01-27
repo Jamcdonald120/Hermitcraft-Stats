@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.tnt
+1: cubfan135: 131
+2: iskall85: 86
+3: Xisuma: 65
+4: Zedaph: 45
+5: Tango: 44
+6: MumboJumbo: 40
+7: PythonGB: 34
+8: Welsknight: 19
+9: falsesymmetry: 13
+10: BdoubleO100: 9
+11: GoodTimeWithScar: 9
+12: Tinfoilchef: 9
+13: Renthedog: 6
+14: ZombieCleo: 4
+15: joehillssays: 3
+16: impulseSV: 3
+17: Docm77: 1
+Total 521

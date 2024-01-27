@@ -1,0 +1,26 @@
+stat.pickup.minecraft.torch
+1: GoodTimeWithScar: 27800
+2: Renthedog: 11407
+3: impulseSV: 10287
+4: cubfan135: 9081
+5: Tango: 8131
+6: joehillssays: 7752
+7: Welsknight: 7082
+8: MumboJumbo: 6457
+9: Tinfoilchef: 6307
+10: Zedaph: 5803
+11: xBCrafted: 5575
+12: falsesymmetry: 5210
+13: PythonGB: 5160
+14: Xisuma: 5028
+15: iJevin: 4509
+16: iskall85: 4090
+17: Stressmonster101: 3719
+18: Docm77: 2427
+19: BdoubleO100: 1174
+20: ZombieCleo: 1122
+21: Biffa2001: 738
+22: VintageBeef: 579
+23: Etho: 561
+24: isGall85: 1
+Total 140000

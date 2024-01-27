@@ -1,0 +1,14 @@
+minecraft.crafted.heavy_weighted_pressure_plate
+1: Keralis1: 80
+2: xBCrafted: 29
+3: impulseSV: 17
+4: cubfan135: 8
+5: falsesymmetry: 5
+6: VintageBeef: 3
+7: Docm77: 2
+8: Tango: 2
+9: MumboJumbo: 2
+10: Grian: 1
+11: GoodTimeWithScar: 1
+12: Zedaph: 1
+Total 151

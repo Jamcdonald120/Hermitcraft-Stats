@@ -1,0 +1,9 @@
+minecraft.dropped.dark_oak_fence_gate
+1: Zedaph: 419
+2: Grian: 16
+3: GoodTimeWithScar: 12
+4: iJevin: 11
+5: Tango: 8
+6: cubfan135: 3
+7: BdoubleO100: 1
+Total 470

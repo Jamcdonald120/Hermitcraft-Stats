@@ -1,0 +1,8 @@
+minecraft.picked_up.red_sandstone
+1: BdoubleO100: 594
+2: cubfan135: 82
+3: GoodTimeWithScar: 46
+4: PearlescentMoon: 3
+5: Etho: 1
+6: MumboJumbo: 1
+Total 727

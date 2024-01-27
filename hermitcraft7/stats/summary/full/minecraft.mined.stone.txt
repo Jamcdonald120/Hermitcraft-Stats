@@ -1,0 +1,27 @@
+minecraft.mined.stone
+1: Grian: 693653
+2: falsesymmetry: 665913
+3: MumboJumbo: 602171
+4: Tango: 564134
+5: impulseSV: 502464
+6: GoodTimeWithScar: 456691
+7: Etho: 394982
+8: Keralis1: 349184
+9: Xisuma: 321326
+10: iJevin: 270132
+11: cubfan135: 254903
+12: xBCrafted: 249754
+13: Renthedog: 190444
+14: joehillssays: 184058
+15: iskall85: 181327
+16: Zedaph: 169441
+17: hypnotizd: 164504
+18: Stressmonster101: 157267
+19: Welsknight: 112709
+20: BdoubleO100: 81896
+21: VintageBeef: 65897
+22: ZombieCleo: 63045
+23: Tinfoilchef: 48514
+24: Docm77: 37751
+25: Helsknight_: 88
+Total 6782248

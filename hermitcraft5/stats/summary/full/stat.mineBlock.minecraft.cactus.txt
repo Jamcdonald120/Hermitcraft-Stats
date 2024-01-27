@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.cactus
+1: Xisuma: 326
+2: GoodTimeWithScar: 230
+3: falsesymmetry: 203
+4: Renthedog: 174
+5: Zedaph: 101
+6: Welsknight: 94
+7: iskall85: 82
+8: cubfan135: 66
+9: BdoubleO100: 38
+10: joehillssays: 31
+11: ZombieCleo: 23
+12: impulseSV: 21
+13: MumboJumbo: 13
+14: xBCrafted: 9
+15: VintageBeef: 8
+16: Tango: 5
+17: Tinfoilchef: 3
+18: Stressmonster101: 3
+Total 1430

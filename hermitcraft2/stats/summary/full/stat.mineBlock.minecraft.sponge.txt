@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.sponge
+1: Xisuma: 1904
+2: KingDaddyDMAC: 319
+3: sl1pg8r: 55
+Total 2278

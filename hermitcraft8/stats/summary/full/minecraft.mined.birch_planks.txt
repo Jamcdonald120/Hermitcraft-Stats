@@ -1,0 +1,25 @@
+minecraft.mined.birch_planks
+1: PearlescentMoon: 264
+2: GeminiTay: 246
+3: Renthedog: 156
+4: Docm77: 132
+5: impulseSV: 111
+6: Etho: 100
+7: Keralis1: 66
+8: ZombieCleo: 65
+9: Grian: 58
+10: iJevin: 57
+11: joehillssays: 56
+12: Welsknight: 26
+13: Xisuma: 24
+14: cubfan135: 24
+15: GoodTimeWithScar: 22
+16: xBCrafted: 9
+17: hypnotizd: 7
+18: MumboJumbo: 7
+19: falsesymmetry: 6
+20: BdoubleO100: 5
+21: Tango: 2
+22: Zedaph: 2
+23: VintageBeef: 1
+Total 1446

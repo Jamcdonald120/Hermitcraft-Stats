@@ -1,0 +1,16 @@
+minecraft.picked_up.cyan_dye
+1: Zedaph: 3794
+2: Grian: 754
+3: iJevin: 666
+4: impulseSV: 192
+5: Tango: 120
+6: GoodTimeWithScar: 112
+7: Keralis1: 105
+8: joehillssays: 74
+9: Xisuma: 44
+10: falsesymmetry: 38
+11: VintageBeef: 11
+12: cubfan135: 6
+13: BdoubleO100: 2
+14: ZombieCleo: 1
+Total 5919

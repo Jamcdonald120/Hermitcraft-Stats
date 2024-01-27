@@ -1,0 +1,22 @@
+minecraft.killed.cave_spider
+1: ZombieCleo: 2638
+2: BdoubleO100: 2620
+3: joehillssays: 998
+4: Tango: 949
+5: Docm77: 547
+6: VintageBeef: 274
+7: cubfan135: 133
+8: xBCrafted: 128
+9: falsesymmetry: 83
+10: Welsknight: 71
+11: Keralis1: 61
+12: hypnotizd: 48
+13: Xisuma: 46
+14: iJevin: 42
+15: Zedaph: 24
+16: Renthedog: 12
+17: GeminiTay: 11
+18: Grian: 6
+19: GoodTimeWithScar: 5
+20: Etho: 1
+Total 8697

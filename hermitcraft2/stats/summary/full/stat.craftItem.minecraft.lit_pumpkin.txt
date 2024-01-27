@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.lit_pumpkin
+1: Xisuma: 2300
+2: falsesymmetry: 239
+3: ZombieCleo: 106
+Total 2645

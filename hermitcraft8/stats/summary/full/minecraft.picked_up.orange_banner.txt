@@ -1,0 +1,4 @@
+minecraft.picked_up.orange_banner
+1: GoodTimeWithScar: 10
+2: BdoubleO100: 8
+Total 18

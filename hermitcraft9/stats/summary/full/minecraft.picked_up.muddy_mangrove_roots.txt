@@ -1,0 +1,18 @@
+minecraft.picked_up.muddy_mangrove_roots
+1: Renthedog: 2453
+2: Etho: 2408
+3: GoodTimeWithScar: 858
+4: Keralis1: 686
+5: Docm77: 443
+6: cubfan135: 308
+7: PearlescentMoon: 180
+8: RentheKing: 97
+9: impulseSV: 50
+10: BdoubleO100: 31
+11: iJevin: 23
+12: Zedaph: 5
+13: Tango: 4
+14: joehillssays: 2
+15: xBCrafted: 2
+16: Xisuma: 1
+Total 7551

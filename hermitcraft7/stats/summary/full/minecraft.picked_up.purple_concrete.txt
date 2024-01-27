@@ -1,0 +1,22 @@
+minecraft.picked_up.purple_concrete
+1: Tango: 1040
+2: cubfan135: 737
+3: BdoubleO100: 703
+4: Stressmonster101: 358
+5: falsesymmetry: 344
+6: Renthedog: 215
+7: MumboJumbo: 200
+8: Xisuma: 191
+9: Zedaph: 156
+10: impulseSV: 93
+11: iskall85: 56
+12: VintageBeef: 53
+13: Keralis1: 51
+14: Etho: 25
+15: Grian: 8
+16: GoodTimeWithScar: 6
+17: joehillssays: 4
+18: Docm77: 2
+19: xBCrafted: 1
+20: ZombieCleo: 1
+Total 4244

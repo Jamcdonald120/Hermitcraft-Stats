@@ -1,0 +1,23 @@
+minecraft.picked_up.bookshelf
+1: cubfan135: 407
+2: iskall85: 257
+3: Grian: 224
+4: Xisuma: 107
+5: Tango: 97
+6: GoodTimeWithScar: 75
+7: PythonGB: 74
+8: joehillssays: 72
+9: Keralis1: 65
+10: Welsknight: 64
+11: Biffa2001: 43
+12: Stressmonster101: 24
+13: iJevin: 22
+14: impulseSV: 19
+15: Zedaph: 14
+16: MumboJumbo: 10
+17: Renthedog: 8
+18: Tinfoilchef: 6
+19: ZombieCleo: 4
+20: Duke_da_dog: 2
+21: Docm77: 1
+Total 1595

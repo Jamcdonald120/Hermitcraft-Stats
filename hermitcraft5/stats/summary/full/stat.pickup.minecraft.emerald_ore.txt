@@ -1,0 +1,13 @@
+stat.pickup.minecraft.emerald_ore
+1: falsesymmetry: 51
+2: cubfan135: 48
+3: iJevin: 29
+4: GoodTimeWithScar: 11
+5: Renthedog: 7
+6: joehillssays: 6
+7: Zedaph: 4
+8: iskall85: 3
+9: Biffa2001: 2
+10: Xisuma: 1
+11: impulseSV: 1
+Total 163

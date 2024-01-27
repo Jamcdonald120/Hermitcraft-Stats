@@ -1,0 +1,3 @@
+stat.drop.minecraft.brewing_stand
+1: falsesymmetry: 31
+Total 31

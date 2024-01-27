@@ -1,0 +1,25 @@
+minecraft.mined.polished_basalt
+1: impulseSV: 976
+2: Tango: 924
+3: cubfan135: 720
+4: falsesymmetry: 491
+5: Renthedog: 123
+6: joehillssays: 107
+7: PearlescentMoon: 94
+8: RentheKing: 59
+9: BdoubleO100: 56
+10: xBCrafted: 52
+11: ZombieCleo: 39
+12: GoodTimeWithScar: 37
+13: Xisuma: 22
+14: iJevin: 21
+15: Keralis1: 13
+16: Docm77: 6
+17: Etho: 3
+18: Zedaph: 3
+19: GeminiTay: 2
+20: Grian: 2
+21: iskall85: 2
+22: Mumbo: 2
+23: MumboJumbo: 2
+Total 3756

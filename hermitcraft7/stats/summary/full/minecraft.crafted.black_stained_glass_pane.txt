@@ -1,0 +1,21 @@
+minecraft.crafted.black_stained_glass_pane
+1: cubfan135: 5208
+2: Keralis1: 2520
+3: hypnotizd: 2240
+4: Xisuma: 2184
+5: VintageBeef: 1824
+6: Stressmonster101: 1680
+7: xBCrafted: 1616
+8: iskall85: 1310
+9: BdoubleO100: 896
+10: falsesymmetry: 352
+11: Renthedog: 304
+12: GoodTimeWithScar: 240
+13: Tango: 192
+14: joehillssays: 96
+15: Grian: 96
+16: MumboJumbo: 64
+17: Docm77: 32
+18: Etho: 16
+19: Zedaph: 8
+Total 20878

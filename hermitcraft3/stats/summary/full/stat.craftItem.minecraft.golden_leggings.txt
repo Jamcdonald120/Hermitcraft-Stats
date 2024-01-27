@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.golden_leggings
+1: KingDaddyDMAC: 8
+2: Xisuma: 5
+3: xBCrafted: 4
+4: impulseSV: 4
+5: Spumwackles: 3
+6: zueljin: 1
+Total 25

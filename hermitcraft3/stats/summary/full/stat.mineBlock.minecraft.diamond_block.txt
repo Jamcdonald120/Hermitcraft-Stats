@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.diamond_block
+1: PythonGB: 4
+2: xBCrafted: 3
+3: iJevin: 2
+4: KingDaddyDMAC: 2
+5: Tango: 2
+6: impulseSV: 2
+Total 15

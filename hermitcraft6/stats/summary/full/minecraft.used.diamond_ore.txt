@@ -1,0 +1,24 @@
+minecraft.used.diamond_ore
+1: iJevin: 4557
+2: GoodTimeWithScar: 1337
+3: cubfan135: 1044
+4: iskall85: 412
+5: Keralis1: 280
+6: Renthedog: 276
+7: falsesymmetry: 229
+8: Stressmonster101: 208
+9: Grian: 155
+10: Xisuma: 146
+11: Zedaph: 139
+12: Docm77: 119
+13: Biffa2001: 117
+14: MumboJumbo: 114
+15: Tango: 108
+16: ZombieCleo: 58
+17: joehillssays: 40
+18: impulseSV: 30
+19: Welsknight: 11
+20: BdoubleO100: 5
+21: PythonGB: 3
+22: xBCrafted: 1
+Total 9389

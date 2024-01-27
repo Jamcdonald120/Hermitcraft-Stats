@@ -1,0 +1,12 @@
+minecraft.picked_up.gray_bed
+1: BdoubleO100: 182
+2: Renthedog: 57
+3: GoodTimeWithScar: 49
+4: iskall85: 35
+5: Xisuma: 34
+6: cubfan135: 34
+7: Docm77: 12
+8: falsesymmetry: 4
+9: Grian: 3
+10: MumboJumbo: 1
+Total 411

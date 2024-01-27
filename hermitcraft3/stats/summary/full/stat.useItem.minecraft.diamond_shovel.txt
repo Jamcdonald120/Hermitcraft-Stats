@@ -1,0 +1,23 @@
+stat.useItem.minecraft.diamond_shovel
+1: falsesymmetry: 216320
+2: Xisuma: 191811
+3: xBCrafted: 126751
+4: Tango: 107135
+5: impulseSV: 56545
+6: ZombieCleo: 51467
+7: sl1pg8r: 49665
+8: hypnotizd: 49009
+9: Mumbo: 44617
+10: Biffa2001: 33674
+11: zueljin: 29036
+12: Tinfoilchef: 26569
+13: Spumwackles: 23164
+14: monkeyfarm: 21205
+15: topmass: 18222
+16: KingDaddyDMAC: 11234
+17: iJevin: 7422
+18: PythonGB: 5333
+19: Etho: 4488
+20: Docm77: 4098
+21: skyzm: 2329
+Total 1080094

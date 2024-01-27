@@ -1,0 +1,22 @@
+stat.pickup.minecraft.spruce_fence
+1: Xisuma: 1030
+2: cubfan135: 1002
+3: Welsknight: 702
+4: Stressmonster101: 678
+5: falsesymmetry: 626
+6: GoodTimeWithScar: 583
+7: iJevin: 497
+8: xBCrafted: 192
+9: joehillssays: 83
+10: iskall85: 52
+11: ZombieCleo: 52
+12: PythonGB: 30
+13: BdoubleO100: 30
+14: VintageBeef: 23
+15: Zedaph: 16
+16: Docm77: 13
+17: Renthedog: 13
+18: MumboJumbo: 13
+19: Tinfoilchef: 6
+20: Tango: 3
+Total 5644

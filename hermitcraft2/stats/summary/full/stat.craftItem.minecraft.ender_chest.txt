@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.ender_chest
+1: Xisuma: 2
+2: Tango: 2
+3: ZombieCleo: 2
+4: iJevin: 1
+5: Biffa2001: 1
+Total 8

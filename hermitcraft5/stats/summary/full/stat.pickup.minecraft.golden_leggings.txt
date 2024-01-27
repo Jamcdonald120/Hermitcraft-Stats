@@ -1,0 +1,25 @@
+stat.pickup.minecraft.golden_leggings
+1: Renthedog: 116
+2: iskall85: 116
+3: xBCrafted: 68
+4: Stressmonster101: 66
+5: GoodTimeWithScar: 35
+6: PythonGB: 29
+7: Tango: 19
+8: impulseSV: 18
+9: Welsknight: 16
+10: Zedaph: 15
+11: BdoubleO100: 14
+12: cubfan135: 12
+13: iJevin: 10
+14: ZombieCleo: 9
+15: MumboJumbo: 9
+16: Docm77: 8
+17: Xisuma: 8
+18: falsesymmetry: 7
+19: VintageBeef: 6
+20: Tinfoilchef: 5
+21: Biffa2001: 3
+22: joehillssays: 2
+23: Etho: 2
+Total 593

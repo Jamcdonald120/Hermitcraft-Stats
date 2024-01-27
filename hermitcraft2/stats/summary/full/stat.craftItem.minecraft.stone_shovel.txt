@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.stone_shovel
+1: xBCrafted: 60
+2: falsesymmetry: 31
+Total 91

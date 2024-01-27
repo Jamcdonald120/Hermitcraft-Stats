@@ -1,0 +1,35 @@
+minecraft.used.lantern
+1: Renthedog: 1178
+2: cubfan135: 1083
+3: falsesymmetry: 1023
+4: GoodTimeWithScar: 865
+5: RentheKing: 700
+6: ZombieCleo: 652
+7: Grian: 628
+8: impulseSV: 383
+9: Stressmonster101: 315
+10: iJevin: 309
+11: xBCrafted: 234
+12: Keralis1: 150
+13: iskall85: 149
+14: Xisuma: 103
+15: GeminiTay: 103
+16: Etho: 101
+17: Smallishbeans: 88
+18: Docm77: 77
+19: Tango: 69
+20: Zedaph: 68
+21: BdoubleO100: 63
+22: VintageBeef: 55
+23: OrionSound: 52
+24: hypnotizd: 45
+25: PearlescentMoon: 44
+26: MythicalSausage: 37
+27: Pixlriffs: 19
+28: Mumbo: 11
+29: ShubbleYT: 11
+30: MumboJumbo: 10
+31: SolidarityGaming: 6
+32: joehillssays: 5
+33: fWhip: 2
+Total 8638

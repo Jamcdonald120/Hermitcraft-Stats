@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.bed
+1: Renthedog: 92
+2: falsesymmetry: 92
+3: cubfan135: 72
+4: Welsknight: 46
+5: joehillssays: 40
+6: iskall85: 35
+7: Stressmonster101: 29
+8: Tango: 23
+9: xBCrafted: 23
+10: MumboJumbo: 22
+11: Xisuma: 16
+12: BdoubleO100: 16
+13: impulseSV: 14
+14: VintageBeef: 12
+15: GoodTimeWithScar: 12
+16: Zedaph: 12
+17: Tinfoilchef: 8
+18: ZombieCleo: 7
+19: iJevin: 5
+20: Etho: 4
+21: Docm77: 3
+22: Biffa2001: 3
+23: PythonGB: 2
+Total 588

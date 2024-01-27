@@ -1,0 +1,28 @@
+minecraft.used.poppy
+1: xBCrafted: 161
+2: Renthedog: 74
+3: hypnotizd: 63
+4: Zedaph: 42
+5: Tango: 38
+6: Docm77: 36
+7: joehillssays: 35
+8: Welsknight: 34
+9: iJevin: 16
+10: GeminiTay: 16
+11: BdoubleO100: 15
+12: cubfan135: 15
+13: falsesymmetry: 14
+14: ZombieCleo: 12
+15: Grian: 8
+16: Keralis1: 8
+17: Stressmonster101: 7
+18: PearlescentMoon: 6
+19: Xisuma: 4
+20: MythicalSausage: 4
+21: VintageBeef: 1
+22: Smallishbeans: 1
+23: iskall85: 1
+24: Etho: 1
+25: Mumbo: 1
+26: GoodTimeWithScar: 1
+Total 614

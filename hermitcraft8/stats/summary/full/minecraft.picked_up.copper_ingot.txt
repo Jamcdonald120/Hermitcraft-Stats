@@ -1,0 +1,23 @@
+minecraft.picked_up.copper_ingot
+1: cubfan135: 10870
+2: Tango: 6579
+3: Xisuma: 3885
+4: GoodTimeWithScar: 1365
+5: Renthedog: 1277
+6: Etho: 450
+7: VintageBeef: 320
+8: joehillssays: 299
+9: Grian: 222
+10: impulseSV: 214
+11: PearlescentMoon: 176
+12: Docm77: 166
+13: Keralis1: 87
+14: xBCrafted: 73
+15: Zedaph: 65
+16: iskall85: 51
+17: falsesymmetry: 46
+18: BdoubleO100: 12
+19: iJevin: 6
+20: ZombieCleo: 2
+21: Welsknight: 1
+Total 26166

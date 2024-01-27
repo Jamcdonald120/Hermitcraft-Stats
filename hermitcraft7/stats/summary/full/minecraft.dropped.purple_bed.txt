@@ -1,0 +1,9 @@
+minecraft.dropped.purple_bed
+1: GoodTimeWithScar: 4
+2: cubfan135: 2
+3: Keralis1: 2
+4: Xisuma: 1
+5: Grian: 1
+6: Tango: 1
+7: Stressmonster101: 1
+Total 12

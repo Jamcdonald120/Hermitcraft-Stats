@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.cobblestone_wall
+1: xBCrafted: 871
+2: PythonGB: 655
+3: cubfan135: 560
+4: MumboJumbo: 508
+5: Welsknight: 411
+6: Xisuma: 376
+7: GoodTimeWithScar: 349
+8: iskall85: 306
+9: impulseSV: 223
+10: Docm77: 220
+11: VintageBeef: 197
+12: joehillssays: 183
+13: iJevin: 154
+14: Stressmonster101: 107
+15: falsesymmetry: 88
+16: Zedaph: 68
+17: ZombieCleo: 54
+18: Tinfoilchef: 51
+19: Tango: 30
+20: BdoubleO100: 28
+21: Renthedog: 1
+Total 5440

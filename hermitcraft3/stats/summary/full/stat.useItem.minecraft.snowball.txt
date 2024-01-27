@@ -1,0 +1,26 @@
+stat.useItem.minecraft.snowball
+1: falsesymmetry: 1740
+2: sl1pg8r: 261
+3: hypnotizd: 203
+4: xBCrafted: 195
+5: Spumwackles: 192
+6: Xisuma: 167
+7: Tinfoilchef: 151
+8: zueljin: 136
+9: ZombieCleo: 96
+10: impulseSV: 92
+11: KingDaddyDMAC: 74
+12: Biffa2001: 62
+13: Tango: 51
+14: iJevin: 40
+15: Mumbo: 40
+16: Docm77: 36
+17: Etho: 28
+18: Mrs_Keralis: 22
+19: PythonGB: 19
+20: Keralis1: 19
+21: topmass: 13
+22: Pungence: 3
+23: monkeyfarm: 3
+24: skyzm: 2
+Total 3645

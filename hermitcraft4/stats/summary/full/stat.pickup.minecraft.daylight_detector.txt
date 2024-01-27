@@ -1,0 +1,13 @@
+stat.pickup.minecraft.daylight_detector
+1: falsesymmetry: 133
+2: Xisuma: 70
+3: cubfan135: 57
+4: VintageBeef: 28
+5: ZombieCleo: 21
+6: iskall85: 7
+7: Renthedog: 5
+8: PythonGB: 5
+9: Tango: 5
+10: GoodTimeWithScar: 4
+11: MumboJumbo: 1
+Total 336

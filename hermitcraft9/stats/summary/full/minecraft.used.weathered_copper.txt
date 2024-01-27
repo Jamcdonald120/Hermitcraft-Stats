@@ -1,0 +1,23 @@
+minecraft.used.weathered_copper
+1: GoodTimeWithScar: 300
+2: Zedaph: 287
+3: RentheKing: 232
+4: Xisuma: 94
+5: BdoubleO100: 76
+6: cubfan135: 47
+7: Grian: 32
+8: PearlescentMoon: 28
+9: falsesymmetry: 27
+10: Keralis1: 24
+11: Mumbo: 21
+12: impulseSV: 16
+13: Tango: 14
+14: Etho: 10
+15: VintageBeef: 4
+16: iskall85: 4
+17: Smallishbeans: 2
+18: MumboJumbo: 2
+19: Renthedog: 1
+20: joehillssays: 1
+21: xBCrafted: 1
+Total 1223

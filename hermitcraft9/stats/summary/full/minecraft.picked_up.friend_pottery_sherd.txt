@@ -1,0 +1,12 @@
+minecraft.picked_up.friend_pottery_sherd
+1: cubfan135: 5
+2: Etho: 3
+3: ZombieCleo: 2
+4: Mumbo: 2
+5: Zedaph: 2
+6: iJevin: 1
+7: Grian: 1
+8: PearlescentMoon: 1
+9: falsesymmetry: 1
+10: impulseSV: 1
+Total 19

@@ -1,0 +1,16 @@
+minecraft.picked_up.black_bed
+1: Renthedog: 603
+2: Welsknight: 176
+3: impulseSV: 63
+4: VintageBeef: 16
+5: Keralis1: 6
+6: Xisuma: 4
+7: Grian: 3
+8: joehillssays: 2
+9: Tango: 2
+10: iJevin: 1
+11: BdoubleO100: 1
+12: cubfan135: 1
+13: Etho: 1
+14: ZombieCleo: 1
+Total 880

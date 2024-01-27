@@ -1,0 +1,23 @@
+minecraft.crafted.white_stained_glass_pane
+1: GoodTimeWithScar: 3336
+2: Renthedog: 2336
+3: xBCrafted: 2160
+4: falsesymmetry: 1392
+5: Keralis1: 982
+6: Welsknight: 864
+7: Xisuma: 704
+8: joehillssays: 576
+9: BdoubleO100: 528
+10: impulseSV: 464
+11: VintageBeef: 432
+12: Grian: 416
+13: cubfan135: 272
+14: iskall85: 256
+15: MumboJumbo: 224
+16: Zedaph: 160
+17: Stressmonster101: 144
+18: Tango: 128
+19: Docm77: 64
+20: hypnotizd: 32
+21: ZombieCleo: 16
+Total 15486

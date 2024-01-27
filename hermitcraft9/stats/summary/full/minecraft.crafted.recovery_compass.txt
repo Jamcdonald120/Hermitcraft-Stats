@@ -1,0 +1,9 @@
+minecraft.crafted.recovery_compass
+1: iJevin: 3
+2: BdoubleO100: 2
+3: Xisuma: 1
+4: cubfan135: 1
+5: Keralis1: 1
+6: impulseSV: 1
+7: Zedaph: 1
+Total 10

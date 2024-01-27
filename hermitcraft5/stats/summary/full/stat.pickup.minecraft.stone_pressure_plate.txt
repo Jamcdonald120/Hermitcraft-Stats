@@ -1,0 +1,20 @@
+stat.pickup.minecraft.stone_pressure_plate
+1: Renthedog: 1052
+2: cubfan135: 148
+3: impulseSV: 141
+4: Tango: 111
+5: joehillssays: 96
+6: Xisuma: 93
+7: Zedaph: 40
+8: falsesymmetry: 30
+9: MumboJumbo: 20
+10: xBCrafted: 19
+11: iskall85: 10
+12: Stressmonster101: 9
+13: GoodTimeWithScar: 6
+14: iJevin: 4
+15: BdoubleO100: 3
+16: Welsknight: 3
+17: Tinfoilchef: 3
+18: PythonGB: 2
+Total 1790

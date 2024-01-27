@@ -1,0 +1,18 @@
+minecraft.custom.interact_with_blast_furnace
+1: BdoubleO100: 279
+2: cubfan135: 64
+3: GoodTimeWithScar: 57
+4: joehillssays: 22
+5: Docm77: 20
+6: falsesymmetry: 18
+7: iskall85: 13
+8: Tinfoilchef: 13
+9: Grian: 8
+10: Stressmonster101: 7
+11: Xisuma: 6
+12: Tango: 5
+13: ZombieCleo: 5
+14: impulseSV: 3
+15: PythonGB: 1
+16: Keralis1: 1
+Total 522

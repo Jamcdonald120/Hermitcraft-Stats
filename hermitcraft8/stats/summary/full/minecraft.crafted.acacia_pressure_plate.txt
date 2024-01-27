@@ -1,0 +1,5 @@
+minecraft.crafted.acacia_pressure_plate
+1: GoodTimeWithScar: 48
+2: cubfan135: 12
+3: BdoubleO100: 1
+Total 61

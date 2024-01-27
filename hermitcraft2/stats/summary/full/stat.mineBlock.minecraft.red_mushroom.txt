@@ -1,0 +1,6 @@
+stat.mineBlock.minecraft.red_mushroom
+1: falsesymmetry: 13
+2: sl1pg8r: 7
+3: zueljin: 7
+4: Tango: 1
+Total 28

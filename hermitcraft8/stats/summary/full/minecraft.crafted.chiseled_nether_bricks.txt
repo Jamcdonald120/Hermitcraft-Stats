@@ -1,0 +1,4 @@
+minecraft.crafted.chiseled_nether_bricks
+1: cubfan135: 516
+2: GoodTimeWithScar: 2
+Total 518

@@ -1,0 +1,9 @@
+stat.entityKilledBy.Enderman
+1: Xisuma: 2
+2: Spumwackles: 2
+3: red3yz: 1
+4: topmass: 1
+5: iJevin: 1
+6: KingDaddyDMAC: 1
+7: Unhost: 1
+Total 9

@@ -1,0 +1,27 @@
+minecraft.mined.wall_torch
+1: GoodTimeWithScar: 4735
+2: Tinfoilchef: 2501
+3: falsesymmetry: 1793
+4: joehillssays: 1242
+5: Grian: 1098
+6: cubfan135: 1018
+7: iJevin: 965
+8: Renthedog: 886
+9: Stressmonster101: 803
+10: Xisuma: 777
+11: iskall85: 708
+12: impulseSV: 560
+13: Docm77: 548
+14: Tango: 357
+15: MumboJumbo: 354
+16: Zedaph: 295
+17: BdoubleO100: 281
+18: Welsknight: 268
+19: Biffa2001: 192
+20: ZombieCleo: 159
+21: PythonGB: 116
+22: Keralis1: 61
+23: xBCrafted: 44
+24: HumanCleo: 11
+25: Jessassin: 3
+Total 19775

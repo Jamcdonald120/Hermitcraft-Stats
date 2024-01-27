@@ -1,0 +1,24 @@
+minecraft.mined.farmland
+1: impulseSV: 1135
+2: iskall85: 678
+3: GoodTimeWithScar: 446
+4: falsesymmetry: 432
+5: cubfan135: 360
+6: Grian: 333
+7: iJevin: 250
+8: Xisuma: 184
+9: Renthedog: 157
+10: PythonGB: 116
+11: Tango: 88
+12: Docm77: 72
+13: MumboJumbo: 72
+14: Zedaph: 60
+15: BdoubleO100: 53
+16: Jessassin: 43
+17: Stressmonster101: 38
+18: ZombieCleo: 26
+19: Tinfoilchef: 22
+20: joehillssays: 21
+21: Keralis1: 10
+22: Biffa2001: 6
+Total 4602

@@ -1,0 +1,4 @@
+stat.pickup.minecraft.record_far
+1: Xisuma: 7
+2: cubfan135: 2
+Total 9

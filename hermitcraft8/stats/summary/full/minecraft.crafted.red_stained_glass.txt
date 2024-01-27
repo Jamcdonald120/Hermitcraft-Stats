@@ -1,0 +1,15 @@
+minecraft.crafted.red_stained_glass
+1: Renthedog: 1992
+2: Etho: 840
+3: iJevin: 328
+4: Xisuma: 296
+5: Tango: 280
+6: impulseSV: 104
+7: PearlescentMoon: 64
+8: falsesymmetry: 64
+9: Keralis1: 40
+10: cubfan135: 32
+11: GeminiTay: 24
+12: Welsknight: 8
+13: Zedaph: 8
+Total 4080

@@ -1,0 +1,23 @@
+minecraft.dropped.feather
+1: Tango: 3159
+2: Zedaph: 2675
+3: Stressmonster101: 1284
+4: Grian: 832
+5: Keralis1: 323
+6: Xisuma: 163
+7: MumboJumbo: 106
+8: cubfan135: 95
+9: hypnotizd: 91
+10: iskall85: 25
+11: joehillssays: 20
+12: Docm77: 11
+13: VintageBeef: 11
+14: Etho: 9
+15: impulseSV: 8
+16: iJevin: 7
+17: BdoubleO100: 7
+18: Renthedog: 6
+19: GoodTimeWithScar: 6
+20: xBCrafted: 1
+21: falsesymmetry: 1
+Total 8840

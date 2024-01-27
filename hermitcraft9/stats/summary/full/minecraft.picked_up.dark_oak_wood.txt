@@ -1,0 +1,17 @@
+minecraft.picked_up.dark_oak_wood
+1: Renthedog: 337
+2: Keralis1: 241
+3: cubfan135: 145
+4: Grian: 142
+5: MythicalSausage: 135
+6: Etho: 62
+7: falsesymmetry: 43
+8: Docm77: 35
+9: GeminiTay: 33
+10: ZombieCleo: 31
+11: Stressmonster101: 12
+12: GoodTimeWithScar: 4
+13: Tango: 3
+14: PearlescentMoon: 2
+15: Zedaph: 1
+Total 1226

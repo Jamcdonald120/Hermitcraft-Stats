@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.tripwire_hook
+1: Xisuma: 930
+2: Mumbo: 670
+3: Tango: 656
+4: xBCrafted: 450
+5: iJevin: 414
+6: falsesymmetry: 406
+7: impulseSV: 366
+8: hypnotizd: 176
+9: Tinfoilchef: 144
+10: zueljin: 104
+11: KingDaddyDMAC: 76
+12: topmass: 44
+13: monkeyfarm: 44
+14: Biffa2001: 34
+15: PythonGB: 10
+16: Docm77: 4
+17: sl1pg8r: 2
+Total 4530

@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.cooked_beef
+1: ZombieCleo: 761
+2: Tango: 678
+3: falsesymmetry: 643
+4: Spumwackles: 524
+5: sl1pg8r: 518
+6: Xisuma: 442
+7: PythonGB: 304
+8: xBCrafted: 219
+9: Biffa2001: 204
+10: KingDaddyDMAC: 174
+11: topmass: 173
+12: monkeyfarm: 153
+13: impulseSV: 129
+14: Tinfoilchef: 106
+15: zueljin: 103
+16: iJevin: 71
+17: hypnotizd: 70
+18: joehillssays: 49
+19: Docm77: 19
+20: NameOfSamuel: 6
+21: Collen: 5
+22: Mumbo: 4
+Total 5355

@@ -1,0 +1,8 @@
+minecraft.mined.dead_fire_coral_block
+1: BdoubleO100: 54
+2: Xisuma: 22
+3: iJevin: 12
+4: Renthedog: 8
+5: cubfan135: 4
+6: impulseSV: 4
+Total 104

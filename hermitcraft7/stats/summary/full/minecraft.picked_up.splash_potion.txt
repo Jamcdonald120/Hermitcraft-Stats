@@ -1,0 +1,23 @@
+minecraft.picked_up.splash_potion
+1: Xisuma: 332
+2: Etho: 227
+3: Tango: 80
+4: VintageBeef: 40
+5: Renthedog: 38
+6: iskall85: 32
+7: cubfan135: 28
+8: hypnotizd: 15
+9: joehillssays: 14
+10: Grian: 13
+11: impulseSV: 13
+12: GoodTimeWithScar: 9
+13: Zedaph: 8
+14: MumboJumbo: 7
+15: Keralis1: 7
+16: iJevin: 5
+17: Docm77: 4
+18: xBCrafted: 4
+19: falsesymmetry: 3
+20: ZombieCleo: 1
+21: Stressmonster101: 1
+Total 881

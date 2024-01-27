@@ -1,0 +1,12 @@
+stat.pickup.minecraft.wooden_shovel
+1: Renthedog: 57
+2: Xisuma: 39
+3: iskall85: 27
+4: Biffa2001: 26
+5: falsesymmetry: 4
+6: Tinfoilchef: 3
+7: Tango: 2
+8: Jessassin: 1
+9: joehillssays: 1
+10: Welsknight: 1
+Total 161

@@ -1,0 +1,23 @@
+minecraft.picked_up.cyan_concrete
+1: falsesymmetry: 8453
+2: iJevin: 7657
+3: Stressmonster101: 7340
+4: VintageBeef: 2540
+5: GoodTimeWithScar: 2005
+6: MumboJumbo: 1050
+7: iskall85: 740
+8: BdoubleO100: 684
+9: cubfan135: 459
+10: xBCrafted: 409
+11: Tango: 364
+12: impulseSV: 264
+13: Xisuma: 166
+14: Keralis1: 106
+15: hypnotizd: 88
+16: Renthedog: 67
+17: joehillssays: 48
+18: Docm77: 27
+19: Grian: 11
+20: Zedaph: 4
+21: Etho: 2
+Total 32484

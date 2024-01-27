@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.bowl
+1: Xisuma: 16
+2: iJevin: 8
+3: zueljin: 8
+4: monkeyfarm: 8
+5: KingDaddyDMAC: 4
+6: Pungence: 4
+7: hypnotizd: 4
+8: Tinfoilchef: 4
+Total 56

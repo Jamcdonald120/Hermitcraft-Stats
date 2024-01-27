@@ -1,0 +1,14 @@
+minecraft.dropped.iron_door
+1: Tango: 30
+2: cubfan135: 29
+3: Xisuma: 6
+4: Grian: 3
+5: Renthedog: 2
+6: hypnotizd: 2
+7: MumboJumbo: 2
+8: Stressmonster101: 2
+9: Zedaph: 2
+10: iskall85: 1
+11: Etho: 1
+12: impulseSV: 1
+Total 81

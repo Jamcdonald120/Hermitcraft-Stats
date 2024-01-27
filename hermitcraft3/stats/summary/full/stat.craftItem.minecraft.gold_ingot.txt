@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.gold_ingot
+1: Xisuma: 28010
+2: hypnotizd: 7090
+3: impulseSV: 4518
+4: falsesymmetry: 3622
+5: xBCrafted: 2666
+6: Mumbo: 2335
+7: iJevin: 2292
+8: sl1pg8r: 2199
+9: Spumwackles: 2007
+10: Tango: 2006
+11: Tinfoilchef: 1257
+12: Biffa2001: 1190
+13: ZombieCleo: 1100
+14: KingDaddyDMAC: 1010
+15: zueljin: 817
+16: topmass: 760
+17: PythonGB: 486
+18: monkeyfarm: 441
+19: Etho: 322
+20: Docm77: 71
+21: skyzm: 71
+22: Pungence: 66
+Total 64336

@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.dirt
+1: xBCrafted: 784
+2: falsesymmetry: 652
+3: Etho: 588
+4: zueljin: 320
+5: Tango: 304
+6: PythonGB: 256
+7: Spumwackles: 128
+8: Docm77: 80
+9: topmass: 52
+10: impulseSV: 48
+11: iJevin: 4
+Total 3216

@@ -1,0 +1,19 @@
+minecraft.picked_up.oak_wood
+1: Grian: 371
+2: Keralis1: 292
+3: PearlescentMoon: 173
+4: BdoubleO100: 138
+5: MumboJumbo: 125
+6: GeminiTay: 122
+7: cubfan135: 79
+8: Xisuma: 64
+9: iskall85: 64
+10: Tango: 56
+11: Etho: 46
+12: iJevin: 36
+13: joehillssays: 32
+14: pillbugnine: 16
+15: impulseSV: 16
+16: Stressmonster101: 12
+17: GoodTimeWithScar: 3
+Total 1645

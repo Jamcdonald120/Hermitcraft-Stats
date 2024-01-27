@@ -1,0 +1,34 @@
+minecraft.killed_by.ravager
+1: GoodTimeWithScar: 121
+2: PearlescentMoon: 113
+3: cubfan135: 113
+4: Etho: 108
+5: joehillssays: 86
+6: iJevin: 84
+7: Keralis1: 84
+8: Docm77: 82
+9: GeminiTay: 77
+10: hypnotizd: 69
+11: Tango: 53
+12: Renthedog: 48
+13: falsesymmetry: 46
+14: impulseSV: 46
+15: Zedaph: 43
+16: Grian: 41
+17: Xisuma: 37
+18: BdoubleO100: 36
+19: ZombieCleo: 36
+20: iskall85: 33
+21: VintageBeef: 8
+22: xBCrafted: 8
+23: Skizzleman: 6
+24: HBomb94: 6
+25: Smallishbeans: 4
+26: LDShadowLady: 4
+27: InTheLittleWood: 4
+28: Minerva246: 3
+29: Mumbo: 3
+30: Stressmonster101: 3
+31: SolidarityGaming: 2
+32: MythicalSausage: 1
+Total 1408

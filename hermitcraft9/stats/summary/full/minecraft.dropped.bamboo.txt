@@ -1,0 +1,22 @@
+minecraft.dropped.bamboo
+1: Keralis1: 10507
+2: impulseSV: 8956
+3: Stressmonster101: 1729
+4: cubfan135: 1688
+5: Renthedog: 1661
+6: Zedaph: 1635
+7: Tango: 696
+8: GoodTimeWithScar: 504
+9: falsesymmetry: 420
+10: Grian: 262
+11: Etho: 99
+12: Xisuma: 84
+13: Docm77: 83
+14: joehillssays: 79
+15: hypnotizd: 64
+16: iJevin: 58
+17: iskall85: 24
+18: Mumbo: 23
+19: xBCrafted: 6
+20: BdoubleO100: 3
+Total 28581

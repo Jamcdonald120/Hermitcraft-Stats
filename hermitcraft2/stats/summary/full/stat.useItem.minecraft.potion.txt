@@ -1,0 +1,14 @@
+stat.useItem.minecraft.potion
+1: xisumavoid: 1320
+2: sl1pg8r: 31
+3: Spumwackles: 26
+4: Xisuma: 18
+5: falsesymmetry: 14
+6: Tango: 11
+7: iJevin: 10
+8: KingDaddyDMAC: 6
+9: zueljin: 2
+10: Biffa2001: 2
+11: xBCrafted: 1
+12: monkeyfarm: 1
+Total 1442

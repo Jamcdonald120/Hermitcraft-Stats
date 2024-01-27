@@ -1,0 +1,21 @@
+minecraft.dropped.ink_sac
+1: Zedaph: 1542
+2: Xisuma: 1010
+3: Etho: 462
+4: cubfan135: 116
+5: Grian: 89
+6: GoodTimeWithScar: 74
+7: Tango: 65
+8: Renthedog: 46
+9: iJevin: 44
+10: Stressmonster101: 32
+11: iskall85: 20
+12: hypnotizd: 17
+13: BdoubleO100: 11
+14: MumboJumbo: 11
+15: xBCrafted: 10
+16: VintageBeef: 9
+17: Keralis1: 8
+18: impulseSV: 8
+19: ZombieCleo: 1
+Total 3575

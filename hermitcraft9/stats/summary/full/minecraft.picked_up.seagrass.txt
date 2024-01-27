@@ -1,0 +1,22 @@
+minecraft.picked_up.seagrass
+1: cubfan135: 1776
+2: GoodTimeWithScar: 435
+3: PearlescentMoon: 403
+4: Docm77: 313
+5: Zedaph: 192
+6: Tango: 100
+7: iJevin: 89
+8: Xisuma: 82
+9: BdoubleO100: 80
+10: Etho: 63
+11: Keralis1: 60
+12: ZombieCleo: 40
+13: Renthedog: 33
+14: Stressmonster101: 33
+15: joehillssays: 27
+16: xBCrafted: 17
+17: falsesymmetry: 10
+18: VintageBeef: 5
+19: MythicalSausage: 1
+20: Grian: 1
+Total 3760

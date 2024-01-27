@@ -1,0 +1,4 @@
+stat.drop.minecraft.nether_wart_block
+1: impulseSV: 28
+2: iskall85: 2
+Total 30

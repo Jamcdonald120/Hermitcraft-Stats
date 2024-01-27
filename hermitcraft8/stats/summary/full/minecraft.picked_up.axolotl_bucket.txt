@@ -1,0 +1,14 @@
+minecraft.picked_up.axolotl_bucket
+1: Xisuma: 25
+2: iJevin: 11
+3: Renthedog: 5
+4: Docm77: 3
+5: GeminiTay: 3
+6: Grian: 3
+7: PearlescentMoon: 3
+8: GoodTimeWithScar: 3
+9: Tango: 2
+10: cubfan135: 2
+11: xBCrafted: 1
+12: hypnotizd: 1
+Total 62

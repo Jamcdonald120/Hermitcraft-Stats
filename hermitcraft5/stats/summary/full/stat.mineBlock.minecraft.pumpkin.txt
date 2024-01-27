@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.pumpkin
+1: cubfan135: 1406
+2: Tinfoilchef: 1220
+3: Tango: 647
+4: impulseSV: 277
+5: falsesymmetry: 271
+6: ZombieCleo: 149
+7: Xisuma: 117
+8: iJevin: 94
+9: iskall85: 88
+10: Zedaph: 65
+11: Docm77: 59
+12: GoodTimeWithScar: 59
+13: MumboJumbo: 50
+14: Welsknight: 49
+15: Renthedog: 35
+16: joehillssays: 33
+17: Biffa2001: 31
+18: xBCrafted: 23
+19: Stressmonster101: 16
+20: PythonGB: 11
+21: VintageBeef: 9
+22: BdoubleO100: 5
+Total 4714

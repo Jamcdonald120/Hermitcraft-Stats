@@ -1,0 +1,3 @@
+stat.mineBlock.minecraft.diamond_block
+1: iJevin: 8
+Total 8

@@ -1,0 +1,19 @@
+stat.killEntity.Ghast
+1: Xisuma: 72
+2: KingDaddyDMAC: 47
+3: hypnotizd: 47
+4: sl1pg8r: 40
+5: Spumwackles: 27
+6: ZombieCleo: 22
+7: red3yz: 21
+8: iJevin: 12
+9: Biffa2001: 10
+10: Tinfoilchef: 10
+11: monkeyfarm: 6
+12: Keralis1: 6
+13: zueljin: 3
+14: Mumbo: 2
+15: topmass: 1
+16: Tango: 1
+17: Collen: 1
+Total 328

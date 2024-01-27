@@ -1,0 +1,3 @@
+minecraft.dropped.red_nether_bricks
+1: Xisuma: 48
+Total 48

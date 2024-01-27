@@ -1,0 +1,8 @@
+minecraft.picked_up.acacia_sign
+1: GoodTimeWithScar: 34
+2: BdoubleO100: 6
+3: Keralis1: 4
+4: cubfan135: 3
+5: GeminiTay: 2
+6: impulseSV: 2
+Total 51

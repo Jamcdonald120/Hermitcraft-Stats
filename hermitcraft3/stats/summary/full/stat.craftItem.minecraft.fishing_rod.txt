@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.fishing_rod
+1: Tinfoilchef: 119
+2: falsesymmetry: 43
+3: xBCrafted: 19
+4: Etho: 16
+5: zueljin: 14
+6: Tango: 14
+7: Xisuma: 10
+8: impulseSV: 4
+9: hypnotizd: 3
+10: Biffa2001: 2
+11: topmass: 1
+12: iJevin: 1
+13: monkeyfarm: 1
+14: Spumwackles: 1
+Total 248

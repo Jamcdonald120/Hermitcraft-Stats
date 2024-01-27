@@ -1,0 +1,27 @@
+minecraft.mined.redstone_ore
+1: joehillssays: 203
+2: VintageBeef: 177
+3: Renthedog: 149
+4: Tango: 144
+5: Etho: 143
+6: iJevin: 113
+7: Zedaph: 83
+8: hypnotizd: 80
+9: Grian: 75
+10: Xisuma: 71
+11: GoodTimeWithScar: 67
+12: iskall85: 61
+13: BdoubleO100: 58
+14: Keralis1: 57
+15: PearlescentMoon: 35
+16: Docm77: 34
+17: Stressmonster101: 29
+18: falsesymmetry: 23
+19: impulseSV: 20
+20: xBCrafted: 17
+21: Pixlriffs: 7
+22: ZombieCleo: 6
+23: cubfan135: 5
+24: Mumbo: 4
+25: MumboJumbo: 4
+Total 1665

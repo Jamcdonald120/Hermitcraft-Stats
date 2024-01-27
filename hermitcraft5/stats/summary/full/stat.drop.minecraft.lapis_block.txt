@@ -1,0 +1,6 @@
+stat.drop.minecraft.lapis_block
+1: Zedaph: 40
+2: Tinfoilchef: 17
+3: Etho: 16
+4: cubfan135: 14
+Total 87

@@ -1,0 +1,11 @@
+stat.useItem.minecraft.coal_ore
+1: Mumbo: 190
+2: Tango: 159
+3: falsesymmetry: 133
+4: Xisuma: 53
+5: sl1pg8r: 51
+6: iJevin: 38
+7: Biffa2001: 29
+8: KingDaddyDMAC: 20
+9: Spumwackles: 17
+Total 690

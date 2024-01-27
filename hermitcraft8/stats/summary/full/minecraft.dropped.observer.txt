@@ -1,0 +1,16 @@
+minecraft.dropped.observer
+1: impulseSV: 76
+2: Grian: 64
+3: cubfan135: 58
+4: Zedaph: 40
+5: GoodTimeWithScar: 33
+6: Docm77: 22
+7: Tango: 12
+8: Etho: 12
+9: Stressmonster101: 12
+10: Welsknight: 11
+11: MumboJumbo: 6
+12: Renthedog: 2
+13: iJevin: 2
+14: PearlescentMoon: 1
+Total 351

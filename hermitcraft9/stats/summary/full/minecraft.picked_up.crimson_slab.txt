@@ -1,0 +1,21 @@
+minecraft.picked_up.crimson_slab
+1: joehillssays: 1436
+2: Grian: 1263
+3: Tango: 853
+4: cubfan135: 309
+5: Renthedog: 203
+6: Xisuma: 137
+7: falsesymmetry: 95
+8: iJevin: 91
+9: PearlescentMoon: 81
+10: GeminiTay: 74
+11: Etho: 61
+12: Pixlriffs: 30
+13: GoodTimeWithScar: 17
+14: impulseSV: 17
+15: Stressmonster101: 6
+16: xBCrafted: 3
+17: Keralis1: 2
+18: Docm77: 1
+19: ZombieCleo: 1
+Total 4680

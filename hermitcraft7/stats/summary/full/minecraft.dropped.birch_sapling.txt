@@ -1,0 +1,23 @@
+minecraft.dropped.birch_sapling
+1: Renthedog: 401
+2: hypnotizd: 377
+3: xBCrafted: 137
+4: joehillssays: 134
+5: Grian: 116
+6: Zedaph: 96
+7: falsesymmetry: 50
+8: BdoubleO100: 43
+9: GoodTimeWithScar: 38
+10: Keralis1: 34
+11: MumboJumbo: 31
+12: Tango: 26
+13: iskall85: 26
+14: Stressmonster101: 10
+15: Etho: 9
+16: iJevin: 8
+17: cubfan135: 7
+18: Xisuma: 3
+19: impulseSV: 3
+20: Docm77: 1
+21: VintageBeef: 1
+Total 1551

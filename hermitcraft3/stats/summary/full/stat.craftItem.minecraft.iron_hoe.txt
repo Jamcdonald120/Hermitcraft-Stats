@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.iron_hoe
+1: xBCrafted: 12
+2: falsesymmetry: 8
+3: Mumbo: 5
+4: impulseSV: 5
+5: Xisuma: 4
+6: joehillssays: 3
+7: zueljin: 3
+8: iJevin: 2
+9: monkeyfarm: 2
+10: skyzm: 1
+11: topmass: 1
+12: PythonGB: 1
+13: ZombieCleo: 1
+14: Tinfoilchef: 1
+Total 49

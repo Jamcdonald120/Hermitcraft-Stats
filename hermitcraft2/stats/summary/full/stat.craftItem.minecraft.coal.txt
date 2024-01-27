@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.coal
+1: ZombieCleo: 1182
+2: Xisuma: 1038
+3: Spumwackles: 468
+4: xBCrafted: 99
+5: falsesymmetry: 87
+6: Tango: 38
+7: Collen: 27
+8: monkeyfarm: 9
+9: KingDaddyDMAC: 1
+Total 2949

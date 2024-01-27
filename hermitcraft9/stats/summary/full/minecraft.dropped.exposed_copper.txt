@@ -1,0 +1,5 @@
+minecraft.dropped.exposed_copper
+1: Grian: 165
+2: GoodTimeWithScar: 2
+3: Tango: 1
+Total 168

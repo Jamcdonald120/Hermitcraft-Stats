@@ -1,0 +1,9 @@
+minecraft.mined.granite_stairs
+1: impulseSV: 34
+2: Tango: 8
+3: cubfan135: 8
+4: Grian: 6
+5: Xisuma: 5
+6: BdoubleO100: 2
+7: GeminiTay: 1
+Total 64

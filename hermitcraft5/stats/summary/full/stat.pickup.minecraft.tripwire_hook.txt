@@ -1,0 +1,22 @@
+stat.pickup.minecraft.tripwire_hook
+1: Tango: 163
+2: impulseSV: 154
+3: Renthedog: 144
+4: cubfan135: 105
+5: iskall85: 80
+6: falsesymmetry: 71
+7: GoodTimeWithScar: 47
+8: xBCrafted: 45
+9: Biffa2001: 39
+10: MumboJumbo: 38
+11: Xisuma: 36
+12: Welsknight: 32
+13: Zedaph: 28
+14: Stressmonster101: 23
+15: ZombieCleo: 13
+16: Tinfoilchef: 11
+17: iJevin: 3
+18: BdoubleO100: 3
+19: PythonGB: 2
+20: VintageBeef: 1
+Total 1038

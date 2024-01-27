@@ -1,0 +1,5 @@
+stat.pickup.minecraft.purple_glazed_terracotta
+1: falsesymmetry: 129
+2: iskall85: 60
+3: Tango: 17
+Total 206

@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.bed
+1: Tango: 3
+2: xBCrafted: 2
+3: ZombieCleo: 2
+4: Spumwackles: 2
+5: zueljin: 1
+6: falsesymmetry: 1
+7: Biffa2001: 1
+8: Mumbo: 1
+9: Tinfoilchef: 1
+Total 14

@@ -1,0 +1,9 @@
+minecraft.mined.granite_wall
+1: PearlescentMoon: 14
+2: Keralis1: 8
+3: Tango: 4
+4: impulseSV: 4
+5: Grian: 3
+6: Xisuma: 2
+7: GeminiTay: 1
+Total 36

@@ -1,0 +1,10 @@
+stat.killEntity.Vex
+1: Tango: 155
+2: cubfan135: 70
+3: impulseSV: 23
+4: Xisuma: 18
+5: Zedaph: 9
+6: MumboJumbo: 8
+7: xBCrafted: 3
+8: GoodTimeWithScar: 1
+Total 287

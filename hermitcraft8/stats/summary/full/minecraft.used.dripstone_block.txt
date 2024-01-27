@@ -1,0 +1,23 @@
+minecraft.used.dripstone_block
+1: cubfan135: 38322
+2: joehillssays: 4473
+3: Tango: 3705
+4: GoodTimeWithScar: 2529
+5: ZombieCleo: 1033
+6: Xisuma: 804
+7: Grian: 598
+8: falsesymmetry: 265
+9: GeminiTay: 227
+10: Etho: 124
+11: PearlescentMoon: 32
+12: Zedaph: 25
+13: Keralis1: 22
+14: VintageBeef: 19
+15: hypnotizd: 9
+16: xBCrafted: 6
+17: BdoubleO100: 4
+18: MumboJumbo: 4
+19: impulseSV: 3
+20: Docm77: 2
+21: iJevin: 2
+Total 52208

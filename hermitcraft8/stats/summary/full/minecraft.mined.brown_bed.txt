@@ -1,0 +1,6 @@
+minecraft.mined.brown_bed
+1: PearlescentMoon: 44
+2: GoodTimeWithScar: 3
+3: Keralis1: 3
+4: impulseSV: 1
+Total 51

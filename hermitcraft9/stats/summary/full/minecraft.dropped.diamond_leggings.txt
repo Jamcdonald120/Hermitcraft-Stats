@@ -1,0 +1,30 @@
+minecraft.dropped.diamond_leggings
+1: Tango: 42
+2: iJevin: 32
+3: GoodTimeWithScar: 17
+4: Grian: 13
+5: cubfan135: 11
+6: Zedaph: 11
+7: PearlescentMoon: 10
+8: falsesymmetry: 7
+9: impulseSV: 7
+10: xBCrafted: 6
+11: Etho: 6
+12: Smallishbeans: 5
+13: Docm77: 4
+14: VintageBeef: 4
+15: BdoubleO100: 4
+16: RentheKing: 4
+17: hypnotizd: 4
+18: Smajor1995: 3
+19: MythicalSausage: 3
+20: joehillssays: 3
+21: ZombieCleo: 3
+22: Keralis1: 3
+23: Xisuma: 2
+24: Minerva246: 1
+25: OrionSound: 1
+26: GeminiTay: 1
+27: Pixlriffs: 1
+28: iskall85: 1
+Total 209

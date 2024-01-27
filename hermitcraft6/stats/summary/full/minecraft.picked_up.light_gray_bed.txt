@@ -1,0 +1,11 @@
+minecraft.picked_up.light_gray_bed
+1: BdoubleO100: 56
+2: falsesymmetry: 14
+3: joehillssays: 13
+4: Stressmonster101: 13
+5: ZombieCleo: 7
+6: Docm77: 6
+7: Xisuma: 1
+8: Renthedog: 1
+9: Grian: 1
+Total 112

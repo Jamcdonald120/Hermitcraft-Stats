@@ -1,0 +1,13 @@
+minecraft.broken.shield
+1: Keralis1: 7
+2: VintageBeef: 5
+3: Zedaph: 4
+4: cubfan135: 3
+5: Xisuma: 2
+6: iJevin: 1
+7: Grian: 1
+8: PearlescentMoon: 1
+9: falsesymmetry: 1
+10: Etho: 1
+11: impulseSV: 1
+Total 27

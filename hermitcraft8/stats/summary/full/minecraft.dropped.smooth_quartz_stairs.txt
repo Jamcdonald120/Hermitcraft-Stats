@@ -1,0 +1,7 @@
+minecraft.dropped.smooth_quartz_stairs
+1: GoodTimeWithScar: 16
+2: Zedaph: 16
+3: Grian: 9
+4: impulseSV: 2
+5: PearlescentMoon: 1
+Total 44

@@ -1,0 +1,22 @@
+minecraft.crafted.spruce_fence_gate
+1: Etho: 1170
+2: GoodTimeWithScar: 682
+3: BdoubleO100: 290
+4: Renthedog: 255
+5: Grian: 144
+6: iJevin: 58
+7: Keralis1: 53
+8: Xisuma: 30
+9: Stressmonster101: 27
+10: xBCrafted: 26
+11: Tango: 10
+12: cubfan135: 10
+13: VintageBeef: 9
+14: Welsknight: 9
+15: joehillssays: 6
+16: iskall85: 6
+17: Docm77: 5
+18: falsesymmetry: 4
+19: MumboJumbo: 4
+20: Zedaph: 2
+Total 2800

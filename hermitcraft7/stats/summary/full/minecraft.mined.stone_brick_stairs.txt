@@ -1,0 +1,24 @@
+minecraft.mined.stone_brick_stairs
+1: xBCrafted: 2129
+2: Tango: 590
+3: Keralis1: 367
+4: Xisuma: 327
+5: MumboJumbo: 274
+6: falsesymmetry: 263
+7: Grian: 234
+8: GoodTimeWithScar: 162
+9: cubfan135: 121
+10: hypnotizd: 87
+11: iskall85: 85
+12: BdoubleO100: 83
+13: ZombieCleo: 64
+14: iJevin: 60
+15: impulseSV: 56
+16: Stressmonster101: 45
+17: VintageBeef: 24
+18: joehillssays: 17
+19: Docm77: 16
+20: Zedaph: 14
+21: Renthedog: 6
+22: Welsknight: 2
+Total 5026

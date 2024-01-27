@@ -1,0 +1,22 @@
+minecraft.crafted.magenta_dye
+1: impulseSV: 3292
+2: Etho: 1774
+3: Tango: 1226
+4: Xisuma: 1097
+5: Renthedog: 1068
+6: Stressmonster101: 689
+7: falsesymmetry: 547
+8: VintageBeef: 489
+9: iskall85: 450
+10: Grian: 346
+11: Keralis1: 160
+12: MumboJumbo: 155
+13: GoodTimeWithScar: 133
+14: cubfan135: 128
+15: Welsknight: 128
+16: Docm77: 84
+17: joehillssays: 63
+18: BdoubleO100: 8
+19: Zedaph: 8
+20: hypnotizd: 2
+Total 11847

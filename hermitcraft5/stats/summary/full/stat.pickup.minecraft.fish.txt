@@ -1,0 +1,25 @@
+stat.pickup.minecraft.fish
+1: impulseSV: 29429
+2: MumboJumbo: 5887
+3: cubfan135: 5531
+4: Xisuma: 3219
+5: Welsknight: 2219
+6: Tinfoilchef: 1587
+7: iskall85: 1474
+8: falsesymmetry: 1325
+9: PythonGB: 814
+10: Stressmonster101: 651
+11: Tango: 488
+12: Renthedog: 343
+13: Biffa2001: 319
+14: BdoubleO100: 276
+15: iJevin: 234
+16: Docm77: 206
+17: ZombieCleo: 197
+18: Zedaph: 160
+19: joehillssays: 55
+20: GoodTimeWithScar: 54
+21: VintageBeef: 21
+22: Etho: 5
+23: xBCrafted: 2
+Total 54496

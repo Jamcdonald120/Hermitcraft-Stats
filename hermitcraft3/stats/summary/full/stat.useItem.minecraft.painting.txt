@@ -1,0 +1,13 @@
+stat.useItem.minecraft.painting
+1: falsesymmetry: 1309
+2: zueljin: 597
+3: xBCrafted: 276
+4: Xisuma: 80
+5: Tango: 75
+6: ZombieCleo: 56
+7: Mumbo: 23
+8: topmass: 19
+9: monkeyfarm: 19
+10: sl1pg8r: 14
+11: PythonGB: 6
+Total 2474

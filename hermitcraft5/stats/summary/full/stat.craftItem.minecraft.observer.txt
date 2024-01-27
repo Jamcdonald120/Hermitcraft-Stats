@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.observer
+1: cubfan135: 1620
+2: Tango: 1029
+3: impulseSV: 696
+4: MumboJumbo: 577
+5: Xisuma: 560
+6: GoodTimeWithScar: 336
+7: iskall85: 200
+8: Zedaph: 120
+9: falsesymmetry: 118
+10: Renthedog: 117
+11: Docm77: 72
+12: iJevin: 42
+13: xBCrafted: 25
+14: Etho: 18
+15: Welsknight: 10
+16: Stressmonster101: 4
+17: PythonGB: 3
+18: joehillssays: 2
+Total 5549

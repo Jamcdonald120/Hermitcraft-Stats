@@ -1,0 +1,25 @@
+minecraft.mined.dead_bush
+1: Renthedog: 2156
+2: Etho: 988
+3: falsesymmetry: 890
+4: Grian: 438
+5: Xisuma: 354
+6: cubfan135: 263
+7: GoodTimeWithScar: 248
+8: Tango: 159
+9: Keralis1: 122
+10: VintageBeef: 119
+11: BdoubleO100: 119
+12: hypnotizd: 115
+13: iskall85: 113
+14: impulseSV: 109
+15: joehillssays: 89
+16: ZombieCleo: 60
+17: xBCrafted: 56
+18: iJevin: 34
+19: Stressmonster101: 17
+20: MumboJumbo: 8
+21: Zedaph: 6
+22: Welsknight: 5
+23: Docm77: 1
+Total 6469

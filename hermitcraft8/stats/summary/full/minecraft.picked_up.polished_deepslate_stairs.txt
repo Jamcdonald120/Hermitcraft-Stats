@@ -1,0 +1,22 @@
+minecraft.picked_up.polished_deepslate_stairs
+1: GoodTimeWithScar: 426
+2: Renthedog: 395
+3: xBCrafted: 279
+4: Docm77: 237
+5: VintageBeef: 142
+6: Tango: 131
+7: iskall85: 116
+8: Xisuma: 110
+9: Grian: 93
+10: hypnotizd: 45
+11: PearlescentMoon: 20
+12: impulseSV: 18
+13: Welsknight: 7
+14: EvilXisuma: 5
+15: Keralis1: 5
+16: cubfan135: 4
+17: iJevin: 2
+18: falsesymmetry: 2
+19: Stressmonster101: 1
+20: Zedaph: 1
+Total 2039

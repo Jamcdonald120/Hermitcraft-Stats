@@ -1,0 +1,4 @@
+stat.drop.minecraft.lapis_block
+1: falsesymmetry: 57
+2: GoodTimeWithScar: 1
+Total 58

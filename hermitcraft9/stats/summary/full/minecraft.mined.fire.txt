@@ -1,0 +1,37 @@
+minecraft.mined.fire
+1: ZombieCleo: 4155
+2: impulseSV: 2745
+3: Xisuma: 2119
+4: Docm77: 2081
+5: joehillssays: 2042
+6: Tango: 1631
+7: Zedaph: 1624
+8: RentheKing: 1301
+9: iJevin: 1284
+10: cubfan135: 863
+11: VintageBeef: 607
+12: hypnotizd: 571
+13: Keralis1: 502
+14: falsesymmetry: 292
+15: Welsknight: 273
+16: PearlescentMoon: 219
+17: Stressmonster101: 218
+18: Grian: 216
+19: iskall85: 191
+20: Renthedog: 178
+21: xBCrafted: 119
+22: Pixlriffs: 80
+23: BdoubleO100: 74
+24: Etho: 57
+25: GoodTimeWithScar: 32
+26: GeminiTay: 26
+27: Mumbo: 24
+28: SolidarityGaming: 10
+29: MumboJumbo: 4
+30: fWhip: 4
+31: InTheLittleWood: 3
+32: ShubbleYT: 3
+33: MythicalSausage: 2
+34: Smallishbeans: 2
+35: OrionSound: 1
+Total 23553

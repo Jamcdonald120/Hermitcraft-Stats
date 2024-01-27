@@ -1,0 +1,10 @@
+minecraft.picked_up.gray_glazed_terracotta
+1: Xisuma: 59
+2: GoodTimeWithScar: 59
+3: VintageBeef: 26
+4: cubfan135: 7
+5: Keralis1: 7
+6: ZombieCleo: 4
+7: Etho: 3
+8: falsesymmetry: 2
+Total 167

@@ -1,0 +1,25 @@
+stat.pickup.minecraft.leather_boots
+1: Renthedog: 132
+2: iskall85: 102
+3: xBCrafted: 56
+4: Stressmonster101: 54
+5: cubfan135: 49
+6: GoodTimeWithScar: 49
+7: PythonGB: 30
+8: Tinfoilchef: 22
+9: MumboJumbo: 21
+10: Zedaph: 20
+11: falsesymmetry: 18
+12: Docm77: 17
+13: Tango: 17
+14: BdoubleO100: 17
+15: ZombieCleo: 14
+16: Xisuma: 11
+17: iJevin: 11
+18: Welsknight: 11
+19: VintageBeef: 7
+20: impulseSV: 5
+21: Biffa2001: 4
+22: Etho: 4
+23: joehillssays: 3
+Total 674

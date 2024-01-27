@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.red_sandstone_stairs
+1: Tango: 282
+2: xBCrafted: 175
+3: zueljin: 89
+4: sl1pg8r: 2
+5: falsesymmetry: 2
+6: impulseSV: 1
+Total 551

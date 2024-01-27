@@ -1,0 +1,16 @@
+minecraft.mined.red_mushroom_block
+1: falsesymmetry: 3975
+2: Xisuma: 3971
+3: Docm77: 3930
+4: cubfan135: 3740
+5: Renthedog: 3652
+6: iskall85: 2667
+7: iJevin: 578
+8: MumboJumbo: 446
+9: GoodTimeWithScar: 63
+10: Grian: 61
+11: Stressmonster101: 45
+12: HumanCleo: 20
+13: ZombieCleo: 4
+14: Welsknight: 1
+Total 23153

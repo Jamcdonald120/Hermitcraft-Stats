@@ -1,0 +1,13 @@
+minecraft.picked_up.dark_oak_wood
+1: GeminiTay: 299
+2: Keralis1: 292
+3: GoodTimeWithScar: 116
+4: falsesymmetry: 105
+5: PearlescentMoon: 60
+6: Tango: 58
+7: Grian: 55
+8: ZombieCleo: 45
+9: Etho: 24
+10: impulseSV: 7
+11: Renthedog: 5
+Total 1066

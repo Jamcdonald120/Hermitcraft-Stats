@@ -1,0 +1,24 @@
+stat.drop.minecraft.glass
+1: MumboJumbo: 2384
+2: Tango: 1298
+3: impulseSV: 1057
+4: falsesymmetry: 491
+5: GoodTimeWithScar: 457
+6: iskall85: 410
+7: cubfan135: 316
+8: PythonGB: 262
+9: xBCrafted: 130
+10: Xisuma: 82
+11: VintageBeef: 77
+12: Zedaph: 63
+13: iJevin: 32
+14: Welsknight: 25
+15: Renthedog: 17
+16: xisumavoid: 11
+17: ZombieCleo: 8
+18: Etho: 4
+19: Docm77: 3
+20: Tinfoilchef: 3
+21: joehillssays: 1
+22: BdoubleO100: 1
+Total 7132

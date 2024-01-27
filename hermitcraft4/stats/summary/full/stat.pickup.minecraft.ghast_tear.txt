@@ -1,0 +1,20 @@
+stat.pickup.minecraft.ghast_tear
+1: impulseSV: 212
+2: cubfan135: 189
+3: Welsknight: 36
+4: GoodTimeWithScar: 36
+5: Tango: 35
+6: iskall85: 28
+7: falsesymmetry: 26
+8: Xisuma: 25
+9: Renthedog: 20
+10: Etho: 19
+11: Docm77: 15
+12: Biffa2001: 9
+13: joehillssays: 7
+14: iJevin: 6
+15: Mumbo: 5
+16: VintageBeef: 4
+17: PythonGB: 3
+18: Tinfoilchef: 1
+Total 676

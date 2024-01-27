@@ -1,0 +1,36 @@
+minecraft.picked_up.moss_carpet
+1: Tango: 8562
+2: GoodTimeWithScar: 5395
+3: BdoubleO100: 4503
+4: Docm77: 4311
+5: Etho: 4137
+6: Keralis1: 3949
+7: PearlescentMoon: 2576
+8: impulseSV: 2082
+9: Renthedog: 1740
+10: cubfan135: 1647
+11: xBCrafted: 1324
+12: iJevin: 1156
+13: Grian: 1137
+14: Zedaph: 1028
+15: joehillssays: 978
+16: Xisuma: 828
+17: iskall85: 732
+18: ZombieCleo: 715
+19: falsesymmetry: 582
+20: hypnotizd: 476
+21: Stressmonster101: 303
+22: MythicalSausage: 156
+23: GeminiTay: 138
+24: VintageBeef: 118
+25: Mumbo: 86
+26: OrionSound: 70
+27: RentheKing: 26
+28: ShubbleYT: 14
+29: Smallishbeans: 6
+30: fWhip: 6
+31: Pixlriffs: 4
+32: MumboJumbo: 4
+33: Welsknight: 2
+34: SolidarityGaming: 1
+Total 48792

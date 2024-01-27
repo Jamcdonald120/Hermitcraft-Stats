@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.wooden_button
+1: cubfan135: 543
+2: Tango: 334
+3: joehillssays: 268
+4: falsesymmetry: 250
+5: impulseSV: 221
+6: Renthedog: 205
+7: Xisuma: 189
+8: iskall85: 176
+9: MumboJumbo: 139
+10: GoodTimeWithScar: 70
+11: Tinfoilchef: 67
+12: Etho: 26
+13: Docm77: 23
+14: Welsknight: 13
+15: VintageBeef: 11
+16: PythonGB: 4
+17: Mumbo: 4
+18: zueljin: 3
+19: Biffa2001: 3
+20: iJevin: 2
+21: ZombieCleo: 2
+Total 2553

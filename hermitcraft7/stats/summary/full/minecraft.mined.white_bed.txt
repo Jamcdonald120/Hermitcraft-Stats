@@ -1,0 +1,27 @@
+minecraft.mined.white_bed
+1: Xisuma: 1282
+2: hypnotizd: 577
+3: Renthedog: 217
+4: BdoubleO100: 150
+5: Docm77: 133
+6: Keralis1: 130
+7: iskall85: 120
+8: Tango: 116
+9: falsesymmetry: 107
+10: Etho: 104
+11: iJevin: 101
+12: Grian: 99
+13: Stressmonster101: 83
+14: cubfan135: 78
+15: joehillssays: 72
+16: ZombieCleo: 70
+17: Zedaph: 65
+18: impulseSV: 46
+19: MumboJumbo: 45
+20: GoodTimeWithScar: 39
+21: Welsknight: 19
+22: xBCrafted: 8
+23: VintageBeef: 4
+24: Tinfoilchef: 2
+25: BarryBoss1234: 1
+Total 3668

@@ -1,0 +1,16 @@
+minecraft.picked_up.spruce_pressure_plate
+1: Renthedog: 180
+2: xBCrafted: 67
+3: joehillssays: 29
+4: cubfan135: 24
+5: Etho: 24
+6: Tango: 16
+7: Grian: 9
+8: Stressmonster101: 8
+9: Keralis1: 6
+10: Zedaph: 6
+11: GoodTimeWithScar: 3
+12: Xisuma: 1
+13: iskall85: 1
+14: impulseSV: 1
+Total 375

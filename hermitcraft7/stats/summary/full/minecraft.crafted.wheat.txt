@@ -1,0 +1,22 @@
+minecraft.crafted.wheat
+1: cubfan135: 4212
+2: joehillssays: 2918
+3: GoodTimeWithScar: 2331
+4: Tango: 2021
+5: VintageBeef: 1899
+6: Zedaph: 1685
+7: Keralis1: 1539
+8: Xisuma: 1233
+9: hypnotizd: 954
+10: Etho: 810
+11: impulseSV: 747
+12: Welsknight: 720
+13: iJevin: 684
+14: MumboJumbo: 486
+15: Renthedog: 315
+16: Grian: 189
+17: falsesymmetry: 135
+18: iskall85: 126
+19: xBCrafted: 72
+20: BdoubleO100: 54
+Total 23130

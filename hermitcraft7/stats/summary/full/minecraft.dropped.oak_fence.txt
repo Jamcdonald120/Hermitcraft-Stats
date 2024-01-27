@@ -1,0 +1,24 @@
+minecraft.dropped.oak_fence
+1: GoodTimeWithScar: 481
+2: Renthedog: 73
+3: Tango: 68
+4: MumboJumbo: 60
+5: iskall85: 39
+6: Etho: 38
+7: falsesymmetry: 34
+8: Keralis1: 28
+9: Zedaph: 28
+10: Grian: 27
+11: cubfan135: 26
+12: iJevin: 17
+13: Xisuma: 15
+14: Docm77: 14
+15: Stressmonster101: 6
+16: xBCrafted: 5
+17: hypnotizd: 3
+18: Tinfoilchef: 3
+19: VintageBeef: 2
+20: joehillssays: 1
+21: Welsknight: 1
+22: impulseSV: 1
+Total 970

@@ -1,0 +1,14 @@
+stat.useItem.minecraft.glowstone
+1: Tango: 740
+2: Xisuma: 601
+3: ZombieCleo: 58
+4: zueljin: 54
+5: Biffa2001: 51
+6: falsesymmetry: 41
+7: Spumwackles: 38
+8: sl1pg8r: 21
+9: Tinfoilchef: 14
+10: iJevin: 3
+11: Mumbo: 2
+12: Collen: 2
+Total 1625

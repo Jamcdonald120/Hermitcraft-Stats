@@ -1,0 +1,31 @@
+stat.mineBlock.minecraft.torch
+1: xBCrafted: 7677
+2: falsesymmetry: 7501
+3: Xisuma: 3768
+4: hypnotizd: 3531
+5: Tinfoilchef: 2827
+6: Tango: 2156
+7: monkeyfarm: 1438
+8: sl1pg8r: 1404
+9: zueljin: 1126
+10: KingDaddyDMAC: 981
+11: Biffa2001: 965
+12: topmass: 795
+13: Mumbo: 743
+14: impulseSV: 632
+15: Spumwackles: 355
+16: iJevin: 334
+17: Etho: 297
+18: joehillssays: 277
+19: ZombieCleo: 269
+20: PythonGB: 237
+21: skyzm: 59
+22: Keralis1: 44
+23: Docm77: 35
+24: Pungence: 17
+25: Collen: 12
+26: NameOfSamuel: 10
+27: Mrs_Keralis: 7
+28: truesymmetry: 1
+29: xisumavoid: 1
+Total 37499

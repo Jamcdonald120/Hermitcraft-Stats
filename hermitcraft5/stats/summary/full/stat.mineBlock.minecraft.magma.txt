@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.magma
+1: Renthedog: 14906
+2: cubfan135: 5654
+3: Tango: 2951
+4: MumboJumbo: 1470
+5: Zedaph: 1300
+6: impulseSV: 1249
+7: Welsknight: 693
+8: GoodTimeWithScar: 669
+9: joehillssays: 638
+10: iskall85: 560
+11: Biffa2001: 461
+12: Xisuma: 418
+13: Stressmonster101: 340
+14: xBCrafted: 301
+15: Tinfoilchef: 241
+16: PythonGB: 130
+17: Etho: 109
+18: Docm77: 58
+19: falsesymmetry: 43
+20: iJevin: 40
+Total 32231

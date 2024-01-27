@@ -1,0 +1,3 @@
+minecraft.dropped.red_sandstone_stairs
+1: GoodTimeWithScar: 18
+Total 18

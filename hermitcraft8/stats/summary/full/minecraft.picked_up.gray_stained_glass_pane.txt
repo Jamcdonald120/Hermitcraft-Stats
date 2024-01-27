@@ -1,0 +1,14 @@
+minecraft.picked_up.gray_stained_glass_pane
+1: falsesymmetry: 108
+2: Etho: 61
+3: impulseSV: 47
+4: iskall85: 26
+5: cubfan135: 19
+6: Tango: 18
+7: GoodTimeWithScar: 12
+8: joehillssays: 11
+9: GeminiTay: 7
+10: PearlescentMoon: 4
+11: Grian: 2
+12: Welsknight: 1
+Total 316

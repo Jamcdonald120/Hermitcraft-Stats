@@ -1,0 +1,25 @@
+minecraft.picked_up.chain
+1: Zedaph: 3392
+2: cubfan135: 1145
+3: Grian: 798
+4: GoodTimeWithScar: 761
+5: Tango: 361
+6: xBCrafted: 358
+7: impulseSV: 296
+8: falsesymmetry: 221
+9: iskall85: 208
+10: Xisuma: 201
+11: joehillssays: 166
+12: VintageBeef: 121
+13: Etho: 116
+14: Keralis1: 115
+15: Renthedog: 99
+16: iJevin: 83
+17: BdoubleO100: 79
+18: ZombieCleo: 62
+19: MumboJumbo: 31
+20: Stressmonster101: 28
+21: hypnotizd: 20
+22: Docm77: 3
+23: Welsknight: 2
+Total 8666

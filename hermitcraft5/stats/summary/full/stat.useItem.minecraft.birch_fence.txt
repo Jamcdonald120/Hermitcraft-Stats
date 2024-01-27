@@ -1,0 +1,22 @@
+stat.useItem.minecraft.birch_fence
+1: xBCrafted: 669
+2: PythonGB: 403
+3: Biffa2001: 140
+4: Tango: 122
+5: Xisuma: 96
+6: cubfan135: 71
+7: ZombieCleo: 54
+8: impulseSV: 46
+9: joehillssays: 35
+10: VintageBeef: 25
+11: Renthedog: 23
+12: iJevin: 16
+13: BdoubleO100: 16
+14: Zedaph: 16
+15: falsesymmetry: 11
+16: GoodTimeWithScar: 10
+17: MumboJumbo: 4
+18: Stressmonster101: 2
+19: iskall85: 1
+20: Welsknight: 1
+Total 1761

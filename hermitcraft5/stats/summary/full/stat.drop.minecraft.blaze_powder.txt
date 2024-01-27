@@ -1,0 +1,11 @@
+stat.drop.minecraft.blaze_powder
+1: Renthedog: 36
+2: impulseSV: 13
+3: MumboJumbo: 8
+4: Xisuma: 6
+5: xBCrafted: 6
+6: GoodTimeWithScar: 5
+7: Zedaph: 3
+8: iskall85: 2
+9: Welsknight: 1
+Total 80

@@ -1,0 +1,22 @@
+minecraft.crafted.lime_stained_glass
+1: impulseSV: 7680
+2: falsesymmetry: 3752
+3: Grian: 2608
+4: PearlescentMoon: 2368
+5: Etho: 1152
+6: Keralis1: 960
+7: xBCrafted: 448
+8: cubfan135: 424
+9: iskall85: 384
+10: joehillssays: 200
+11: BdoubleO100: 200
+12: Renthedog: 80
+13: GoodTimeWithScar: 56
+14: Docm77: 48
+15: Xisuma: 32
+16: iJevin: 32
+17: Tango: 24
+18: VintageBeef: 16
+19: ZombieCleo: 8
+20: Zedaph: 8
+Total 20480

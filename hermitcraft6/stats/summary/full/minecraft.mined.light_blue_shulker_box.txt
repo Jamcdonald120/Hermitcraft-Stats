@@ -1,0 +1,22 @@
+minecraft.mined.light_blue_shulker_box
+1: Renthedog: 2065
+2: GoodTimeWithScar: 1617
+3: cubfan135: 1180
+4: Xisuma: 928
+5: falsesymmetry: 886
+6: iskall85: 577
+7: Stressmonster101: 567
+8: impulseSV: 384
+9: iJevin: 337
+10: Docm77: 192
+11: joehillssays: 180
+12: Grian: 100
+13: Tango: 85
+14: ZombieCleo: 52
+15: PythonGB: 44
+16: Biffa2001: 39
+17: HumanCleo: 21
+18: MumboJumbo: 21
+19: Zedaph: 4
+20: BdoubleO100: 1
+Total 9280

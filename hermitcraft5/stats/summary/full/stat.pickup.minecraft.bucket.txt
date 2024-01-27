@@ -1,0 +1,23 @@
+stat.pickup.minecraft.bucket
+1: Xisuma: 170
+2: Zedaph: 90
+3: cubfan135: 63
+4: Tango: 54
+5: Renthedog: 46
+6: MumboJumbo: 43
+7: joehillssays: 39
+8: falsesymmetry: 29
+9: iJevin: 19
+10: Docm77: 18
+11: PythonGB: 18
+12: impulseSV: 18
+13: Welsknight: 15
+14: GoodTimeWithScar: 15
+15: xBCrafted: 13
+16: iskall85: 11
+17: Stressmonster101: 5
+18: Biffa2001: 3
+19: Tinfoilchef: 2
+20: VintageBeef: 1
+21: Etho: 1
+Total 673

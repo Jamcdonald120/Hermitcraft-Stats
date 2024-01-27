@@ -1,0 +1,35 @@
+minecraft.picked_up.furnace
+1: joehillssays: 624
+2: Xisuma: 479
+3: Grian: 297
+4: Renthedog: 227
+5: iJevin: 210
+6: PearlescentMoon: 201
+7: impulseSV: 174
+8: Zedaph: 138
+9: BdoubleO100: 131
+10: falsesymmetry: 110
+11: Tango: 109
+12: cubfan135: 69
+13: Docm77: 66
+14: ZombieCleo: 61
+15: Etho: 49
+16: GeminiTay: 47
+17: Stressmonster101: 46
+18: xBCrafted: 36
+19: Mumbo: 34
+20: VintageBeef: 29
+21: RentheKing: 28
+22: iskall85: 22
+23: Pixlriffs: 21
+24: Smajor1995: 19
+25: Welsknight: 16
+26: MumboJumbo: 16
+27: GoodTimeWithScar: 16
+28: hypnotizd: 15
+29: Smallishbeans: 12
+30: Keralis1: 12
+31: MythicalSausage: 10
+32: SolidarityGaming: 3
+33: Tinfoilchef: 1
+Total 3328

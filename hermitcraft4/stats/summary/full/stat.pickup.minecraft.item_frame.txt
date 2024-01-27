@@ -1,0 +1,21 @@
+stat.pickup.minecraft.item_frame
+1: falsesymmetry: 551
+2: cubfan135: 389
+3: Renthedog: 324
+4: GoodTimeWithScar: 305
+5: iskall85: 273
+6: Xisuma: 210
+7: PythonGB: 185
+8: iJevin: 125
+9: Tango: 115
+10: impulseSV: 108
+11: Tinfoilchef: 101
+12: Biffa2001: 87
+13: MumboJumbo: 79
+14: ZombieCleo: 67
+15: Welsknight: 53
+16: joehillssays: 38
+17: VintageBeef: 16
+18: Docm77: 2
+19: Mumbo: 1
+Total 3029

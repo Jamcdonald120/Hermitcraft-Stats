@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.daylight_detector
+1: impulseSV: 222
+2: falsesymmetry: 16
+3: sl1pg8r: 10
+4: Etho: 8
+5: zueljin: 6
+6: Tango: 6
+Total 268

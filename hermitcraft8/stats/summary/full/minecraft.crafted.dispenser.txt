@@ -1,0 +1,26 @@
+minecraft.crafted.dispenser
+1: cubfan135: 304
+2: Xisuma: 269
+3: Tango: 194
+4: Etho: 146
+5: hypnotizd: 125
+6: falsesymmetry: 80
+7: Docm77: 72
+8: Welsknight: 64
+9: impulseSV: 63
+10: GoodTimeWithScar: 60
+11: Grian: 41
+12: Renthedog: 40
+13: MumboJumbo: 26
+14: Zedaph: 26
+15: joehillssays: 25
+16: iJevin: 17
+17: GeminiTay: 16
+18: PearlescentMoon: 14
+19: BdoubleO100: 11
+20: xBCrafted: 6
+21: ZombieCleo: 6
+22: VintageBeef: 4
+23: iskall85: 1
+24: Keralis1: 1
+Total 1611

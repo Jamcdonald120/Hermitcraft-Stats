@@ -1,0 +1,35 @@
+minecraft.crafted.dark_oak_planks
+1: GoodTimeWithScar: 85550
+2: falsesymmetry: 54951
+3: Renthedog: 38160
+4: cubfan135: 25896
+5: impulseSV: 25096
+6: Docm77: 15104
+7: Xisuma: 13156
+8: iJevin: 12796
+9: Keralis1: 11067
+10: Stressmonster101: 10012
+11: iskall85: 9468
+12: xBCrafted: 9201
+13: GeminiTay: 7908
+14: RentheKing: 7284
+15: Grian: 6928
+16: BdoubleO100: 6888
+17: Tango: 6788
+18: joehillssays: 6578
+19: ZombieCleo: 5296
+20: hypnotizd: 3496
+21: MythicalSausage: 2844
+22: Etho: 2824
+23: PearlescentMoon: 2108
+24: OrionSound: 1640
+25: Zedaph: 1172
+26: Pixlriffs: 1068
+27: Welsknight: 648
+28: Smallishbeans: 520
+29: VintageBeef: 464
+30: ShubbleYT: 276
+31: fWhip: 108
+32: Mumbo: 68
+33: MumboJumbo: 32
+Total 375395

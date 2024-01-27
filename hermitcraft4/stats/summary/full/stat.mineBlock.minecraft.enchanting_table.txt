@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.enchanting_table
+1: Xisuma: 14
+2: falsesymmetry: 7
+3: cubfan135: 6
+4: iskall85: 5
+5: Tango: 2
+6: Etho: 2
+7: Renthedog: 1
+8: Jessassin: 1
+9: iJevin: 1
+10: joehillssays: 1
+11: Welsknight: 1
+12: GoodTimeWithScar: 1
+13: impulseSV: 1
+Total 43

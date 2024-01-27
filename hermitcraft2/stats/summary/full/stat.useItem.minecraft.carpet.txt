@@ -1,0 +1,11 @@
+stat.useItem.minecraft.carpet
+1: zueljin: 241
+2: Xisuma: 114
+3: ZombieCleo: 99
+4: xBCrafted: 41
+5: iJevin: 37
+6: falsesymmetry: 19
+7: Tinfoilchef: 17
+8: Tango: 1
+9: Spumwackles: 1
+Total 570

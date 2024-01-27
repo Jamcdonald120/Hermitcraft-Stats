@@ -1,0 +1,10 @@
+minecraft.picked_up.lingering_potion
+1: cubfan135: 11
+2: SolidarityGaming: 3
+3: PearlescentMoon: 2
+4: hypnotizd: 2
+5: OrionSound: 1
+6: falsesymmetry: 1
+7: ZombieCleo: 1
+8: GoodTimeWithScar: 1
+Total 22

@@ -1,0 +1,3 @@
+stat.mineBlock.103
+1: topmass: 5
+Total 5

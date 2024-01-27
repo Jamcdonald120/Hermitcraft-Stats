@@ -1,0 +1,18 @@
+minecraft.mined.birch_pressure_plate
+1: Tango: 37
+2: Xisuma: 31
+3: BdoubleO100: 27
+4: ZombieCleo: 14
+5: falsesymmetry: 9
+6: Grian: 8
+7: Renthedog: 5
+8: joehillssays: 4
+9: impulseSV: 4
+10: Tinfoilchef: 3
+11: Keralis1: 3
+12: iskall85: 2
+13: cubfan135: 2
+14: Stressmonster101: 2
+15: Docm77: 1
+16: GoodTimeWithScar: 1
+Total 153

@@ -1,0 +1,14 @@
+minecraft.crafted.orange_carpet
+1: VintageBeef: 10080
+2: iJevin: 591
+3: impulseSV: 108
+4: joehillssays: 96
+5: PearlescentMoon: 66
+6: Keralis1: 18
+7: Docm77: 3
+8: Xisuma: 3
+9: Tango: 3
+10: falsesymmetry: 3
+11: cubfan135: 3
+12: Zedaph: 3
+Total 10977

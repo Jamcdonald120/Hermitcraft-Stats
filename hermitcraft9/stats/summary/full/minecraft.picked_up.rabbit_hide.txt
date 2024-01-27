@@ -1,0 +1,18 @@
+minecraft.picked_up.rabbit_hide
+1: Zedaph: 98
+2: cubfan135: 63
+3: Xisuma: 45
+4: joehillssays: 42
+5: impulseSV: 33
+6: Renthedog: 23
+7: hypnotizd: 18
+8: VintageBeef: 7
+9: Etho: 4
+10: Docm77: 3
+11: GoodTimeWithScar: 3
+12: BdoubleO100: 2
+13: Grian: 1
+14: PearlescentMoon: 1
+15: falsesymmetry: 1
+16: Keralis1: 1
+Total 345

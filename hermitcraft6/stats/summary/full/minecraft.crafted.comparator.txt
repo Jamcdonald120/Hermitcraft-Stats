@@ -1,0 +1,23 @@
+minecraft.crafted.comparator
+1: GoodTimeWithScar: 5661
+2: Grian: 795
+3: iskall85: 535
+4: impulseSV: 357
+5: MumboJumbo: 334
+6: Xisuma: 219
+7: Tango: 207
+8: cubfan135: 191
+9: falsesymmetry: 88
+10: iJevin: 87
+11: Zedaph: 80
+12: BdoubleO100: 69
+13: Tinfoilchef: 67
+14: Stressmonster101: 61
+15: Welsknight: 53
+16: Docm77: 50
+17: joehillssays: 26
+18: PythonGB: 8
+19: ZombieCleo: 8
+20: Renthedog: 2
+21: Biffa2001: 1
+Total 8899

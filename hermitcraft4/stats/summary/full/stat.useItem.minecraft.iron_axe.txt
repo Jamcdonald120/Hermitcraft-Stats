@@ -1,0 +1,24 @@
+stat.useItem.minecraft.iron_axe
+1: Renthedog: 6293
+2: GoodTimeWithScar: 4056
+3: ZombieCleo: 3874
+4: joehillssays: 3831
+5: Tinfoilchef: 2639
+6: iskall85: 1416
+7: zueljin: 1378
+8: Biffa2001: 1207
+9: Mumbo: 748
+10: cubfan135: 640
+11: impulseSV: 605
+12: Xisuma: 504
+13: Welsknight: 504
+14: Tango: 503
+15: iJevin: 415
+16: falsesymmetry: 379
+17: xBCrafted: 273
+18: Jessassin: 251
+19: Etho: 226
+20: Docm77: 171
+21: VintageBeef: 147
+22: MumboJumbo: 1
+Total 30061

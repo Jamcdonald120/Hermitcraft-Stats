@@ -1,0 +1,14 @@
+minecraft.crafted.purple_stained_glass_pane
+1: PythonGB: 784
+2: GoodTimeWithScar: 352
+3: cubfan135: 336
+4: Tango: 272
+5: Grian: 160
+6: Stressmonster101: 144
+7: Renthedog: 96
+8: Xisuma: 64
+9: falsesymmetry: 32
+10: Welsknight: 16
+11: ZombieCleo: 16
+12: MumboJumbo: 16
+Total 2288

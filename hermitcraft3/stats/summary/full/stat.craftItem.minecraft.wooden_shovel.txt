@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.wooden_shovel
+1: falsesymmetry: 188
+2: Biffa2001: 97
+3: hypnotizd: 85
+4: Xisuma: 56
+5: Tango: 21
+6: PythonGB: 19
+7: iJevin: 10
+8: Mumbo: 3
+9: sl1pg8r: 1
+10: xBCrafted: 1
+11: Pungence: 1
+12: Etho: 1
+Total 483

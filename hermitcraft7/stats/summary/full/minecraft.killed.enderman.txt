@@ -1,0 +1,26 @@
+minecraft.killed.enderman
+1: GoodTimeWithScar: 110991
+2: Keralis1: 87813
+3: cubfan135: 82337
+4: iJevin: 77724
+5: falsesymmetry: 67038
+6: Tango: 63585
+7: Renthedog: 62332
+8: hypnotizd: 27922
+9: impulseSV: 25616
+10: joehillssays: 23531
+11: xBCrafted: 20215
+12: Welsknight: 19597
+13: MumboJumbo: 19360
+14: Zedaph: 16172
+15: VintageBeef: 11606
+16: ZombieCleo: 7279
+17: Xisuma: 7222
+18: iskall85: 3680
+19: Docm77: 3519
+20: Etho: 2441
+21: BdoubleO100: 1610
+22: Grian: 1180
+23: Stressmonster101: 47
+24: BarryBoss1234: 1
+Total 742818

@@ -1,0 +1,21 @@
+stat.drop.minecraft.feather
+1: Tango: 6909
+2: xBCrafted: 2000
+3: Tinfoilchef: 1461
+4: cubfan135: 260
+5: MumboJumbo: 254
+6: Zedaph: 187
+7: falsesymmetry: 84
+8: PythonGB: 66
+9: Biffa2001: 52
+10: impulseSV: 46
+11: ZombieCleo: 45
+12: GoodTimeWithScar: 41
+13: iskall85: 25
+14: VintageBeef: 21
+15: Stressmonster101: 20
+16: Renthedog: 13
+17: BdoubleO100: 10
+18: Xisuma: 6
+19: Docm77: 2
+Total 11502

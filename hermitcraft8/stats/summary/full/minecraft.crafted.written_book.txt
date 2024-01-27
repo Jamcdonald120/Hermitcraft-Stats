@@ -1,0 +1,5 @@
+minecraft.crafted.written_book
+1: PearlescentMoon: 14
+2: cubfan135: 3
+3: hypnotizd: 3
+Total 20

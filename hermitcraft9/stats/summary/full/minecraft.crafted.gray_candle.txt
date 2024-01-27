@@ -1,0 +1,5 @@
+minecraft.crafted.gray_candle
+1: hypnotizd: 1220
+2: Tango: 7
+3: Zedaph: 1
+Total 1228

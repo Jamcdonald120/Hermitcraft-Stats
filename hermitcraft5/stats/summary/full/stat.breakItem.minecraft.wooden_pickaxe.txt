@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.wooden_pickaxe
+1: ZombieCleo: 1
+2: Tinfoilchef: 1
+Total 2

@@ -1,0 +1,5 @@
+minecraft.dropped.brown_glazed_terracotta
+1: cubfan135: 128
+2: GoodTimeWithScar: 64
+3: Renthedog: 7
+Total 199

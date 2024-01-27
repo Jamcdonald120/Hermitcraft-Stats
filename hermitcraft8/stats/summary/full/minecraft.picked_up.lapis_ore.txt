@@ -1,0 +1,24 @@
+minecraft.picked_up.lapis_ore
+1: GoodTimeWithScar: 259
+2: PearlescentMoon: 248
+3: cubfan135: 176
+4: Xisuma: 143
+5: iJevin: 104
+6: Renthedog: 89
+7: xBCrafted: 71
+8: GeminiTay: 60
+9: BdoubleO100: 59
+10: joehillssays: 56
+11: hypnotizd: 54
+12: falsesymmetry: 45
+13: Grian: 22
+14: impulseSV: 17
+15: VintageBeef: 14
+16: Zedaph: 14
+17: Etho: 13
+18: iskall85: 7
+19: Docm77: 5
+20: Stressmonster101: 5
+21: ZombieCleo: 4
+22: Tango: 3
+Total 1468

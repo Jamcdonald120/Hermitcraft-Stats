@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.chest_minecart
+1: Xisuma: 243
+2: Biffa2001: 69
+3: Tango: 60
+4: iJevin: 48
+5: impulseSV: 33
+6: xBCrafted: 30
+7: falsesymmetry: 29
+8: Etho: 14
+9: topmass: 6
+10: zueljin: 6
+11: monkeyfarm: 1
+Total 539

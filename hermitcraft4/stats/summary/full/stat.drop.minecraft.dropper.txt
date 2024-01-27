@@ -1,0 +1,6 @@
+stat.drop.minecraft.dropper
+1: impulseSV: 3
+2: Tango: 2
+3: Welsknight: 2
+4: MumboJumbo: 1
+Total 8

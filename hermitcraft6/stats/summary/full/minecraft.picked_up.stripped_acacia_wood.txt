@@ -1,0 +1,9 @@
+minecraft.picked_up.stripped_acacia_wood
+1: cubfan135: 3971
+2: GoodTimeWithScar: 42
+3: PythonGB: 11
+4: Renthedog: 2
+5: Xisuma: 1
+6: iskall85: 1
+7: falsesymmetry: 1
+Total 4029

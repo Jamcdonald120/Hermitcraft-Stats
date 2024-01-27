@@ -1,0 +1,5 @@
+minecraft.dropped.deepslate_lapis_ore
+1: MumboJumbo: 4
+2: falsesymmetry: 2
+3: Renthedog: 1
+Total 7

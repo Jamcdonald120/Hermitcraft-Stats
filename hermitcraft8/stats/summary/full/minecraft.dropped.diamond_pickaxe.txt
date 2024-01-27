@@ -1,0 +1,27 @@
+minecraft.dropped.diamond_pickaxe
+1: Grian: 48
+2: MumboJumbo: 25
+3: PearlescentMoon: 18
+4: Zedaph: 13
+5: Docm77: 9
+6: Xisuma: 8
+7: Renthedog: 8
+8: cubfan135: 8
+9: GoodTimeWithScar: 7
+10: iskall85: 6
+11: hypnotizd: 6
+12: iJevin: 5
+13: Tango: 5
+14: BdoubleO100: 5
+15: Keralis1: 5
+16: EvilXisuma: 3
+17: falsesymmetry: 3
+18: Etho: 3
+19: impulseSV: 3
+20: joehillssays: 2
+21: pillbugnine: 1
+22: GeminiTay: 1
+23: xBCrafted: 1
+24: ZombieCleo: 1
+25: Tinfoilchef: 1
+Total 195

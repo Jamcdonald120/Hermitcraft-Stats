@@ -1,0 +1,17 @@
+minecraft.crafted.orange_shulker_box
+1: Renthedog: 60
+2: GoodTimeWithScar: 56
+3: Keralis1: 41
+4: Tango: 24
+5: cubfan135: 24
+6: iskall85: 13
+7: impulseSV: 8
+8: Xisuma: 6
+9: VintageBeef: 6
+10: Etho: 5
+11: ZombieCleo: 4
+12: Stressmonster101: 2
+13: BdoubleO100: 1
+14: xBCrafted: 1
+15: Zedaph: 1
+Total 252

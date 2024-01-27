@@ -1,0 +1,24 @@
+minecraft.dropped.written_book
+1: Tango: 199
+2: Etho: 90
+3: cubfan135: 79
+4: Keralis1: 71
+5: Zedaph: 56
+6: Xisuma: 54
+7: falsesymmetry: 40
+8: Grian: 39
+9: GoodTimeWithScar: 35
+10: hypnotizd: 20
+11: Stressmonster101: 17
+12: impulseSV: 16
+13: iJevin: 11
+14: iskall85: 10
+15: Renthedog: 9
+16: BdoubleO100: 7
+17: xBCrafted: 5
+18: ZombieCleo: 4
+19: VintageBeef: 3
+20: MumboJumbo: 3
+21: Welsknight: 2
+22: Docm77: 1
+Total 771

@@ -1,0 +1,19 @@
+minecraft.picked_up.composter
+1: GoodTimeWithScar: 112
+2: Grian: 85
+3: Xisuma: 63
+4: Stressmonster101: 60
+5: impulseSV: 54
+6: cubfan135: 42
+7: Docm77: 32
+8: iskall85: 21
+9: BdoubleO100: 9
+10: ZombieCleo: 8
+11: Zedaph: 6
+12: Keralis1: 5
+13: falsesymmetry: 4
+14: Renthedog: 2
+15: MumboJumbo: 2
+16: Tinfoilchef: 2
+17: joehillssays: 1
+Total 508

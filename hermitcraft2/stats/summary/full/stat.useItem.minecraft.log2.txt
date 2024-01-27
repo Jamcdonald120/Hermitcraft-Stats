@@ -1,0 +1,10 @@
+stat.useItem.minecraft.log2
+1: falsesymmetry: 520
+2: xBCrafted: 369
+3: zueljin: 128
+4: KingDaddyDMAC: 51
+5: Tango: 27
+6: ZombieCleo: 3
+7: Xisuma: 1
+8: Tinfoilchef: 1
+Total 1100

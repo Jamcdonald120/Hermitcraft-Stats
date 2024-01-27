@@ -1,0 +1,23 @@
+minecraft.crafted.cobblestone_wall
+1: Tango: 1002
+2: Keralis1: 834
+3: iJevin: 780
+4: Docm77: 324
+5: Renthedog: 123
+6: MumboJumbo: 102
+7: falsesymmetry: 72
+8: Xisuma: 54
+9: Welsknight: 54
+10: GoodTimeWithScar: 54
+11: ZombieCleo: 48
+12: impulseSV: 36
+13: Grian: 30
+14: PearlescentMoon: 20
+15: GeminiTay: 18
+16: joehillssays: 12
+17: iskall85: 12
+18: cubfan135: 12
+19: BdoubleO100: 8
+20: EvilXisuma: 6
+21: VintageBeef: 6
+Total 3607

@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.log2
+1: Xisuma: 17256
+2: topmass: 8101
+3: Tinfoilchef: 6420
+4: falsesymmetry: 6140
+5: xBCrafted: 4618
+6: monkeyfarm: 2801
+7: iJevin: 2645
+8: ZombieCleo: 1881
+9: impulseSV: 1245
+10: joehillssays: 1147
+11: Etho: 959
+12: zueljin: 902
+13: Tango: 633
+14: hypnotizd: 568
+15: sl1pg8r: 335
+16: PythonGB: 292
+17: Mumbo: 248
+18: Biffa2001: 214
+19: skyzm: 100
+20: Mrs_Keralis: 78
+21: Docm77: 74
+22: Keralis1: 39
+23: Spumwackles: 6
+Total 56702

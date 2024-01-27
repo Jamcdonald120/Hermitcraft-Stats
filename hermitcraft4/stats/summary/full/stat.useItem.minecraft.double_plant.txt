@@ -1,0 +1,14 @@
+stat.useItem.minecraft.double_plant
+1: falsesymmetry: 190
+2: Xisuma: 107
+3: cubfan135: 107
+4: Welsknight: 49
+5: Renthedog: 44
+6: iskall85: 42
+7: GoodTimeWithScar: 30
+8: Tango: 10
+9: impulseSV: 10
+10: Docm77: 9
+11: ZombieCleo: 4
+12: Etho: 2
+Total 604

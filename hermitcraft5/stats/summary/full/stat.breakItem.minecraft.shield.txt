@@ -1,0 +1,5 @@
+stat.breakItem.minecraft.shield
+1: Xisuma: 4
+2: cubfan135: 4
+3: falsesymmetry: 1
+Total 9

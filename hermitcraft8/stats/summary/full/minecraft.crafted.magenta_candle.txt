@@ -1,0 +1,5 @@
+minecraft.crafted.magenta_candle
+1: Tango: 169
+2: ZombieCleo: 164
+3: GoodTimeWithScar: 6
+Total 339

@@ -1,0 +1,20 @@
+minecraft.picked_up.lily_pad
+1: iJevin: 209
+2: Keralis1: 81
+3: Tango: 64
+4: cubfan135: 41
+5: Xisuma: 40
+6: VintageBeef: 37
+7: joehillssays: 25
+8: Renthedog: 19
+9: falsesymmetry: 19
+10: Docm77: 18
+11: PearlescentMoon: 16
+12: GoodTimeWithScar: 9
+13: Zedaph: 6
+14: impulseSV: 5
+15: BdoubleO100: 4
+16: ZombieCleo: 4
+17: Grian: 2
+18: Pixlriffs: 1
+Total 600

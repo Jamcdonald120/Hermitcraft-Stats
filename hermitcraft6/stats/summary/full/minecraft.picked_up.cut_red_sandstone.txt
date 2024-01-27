@@ -1,0 +1,4 @@
+minecraft.picked_up.cut_red_sandstone
+1: cubfan135: 55
+2: Xisuma: 8
+Total 63

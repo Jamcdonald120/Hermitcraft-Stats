@@ -1,0 +1,5 @@
+minecraft.mined.dark_oak_wall_hanging_sign
+1: impulseSV: 6
+2: cubfan135: 4
+3: ZombieCleo: 1
+Total 11

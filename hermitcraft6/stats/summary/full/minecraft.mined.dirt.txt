@@ -1,0 +1,34 @@
+minecraft.mined.dirt
+1: GoodTimeWithScar: 303060
+2: falsesymmetry: 113254
+3: cubfan135: 105030
+4: Xisuma: 93253
+5: Renthedog: 79309
+6: iskall85: 70856
+7: Grian: 46512
+8: MumboJumbo: 37276
+9: joehillssays: 36366
+10: Tango: 26712
+11: Docm77: 25311
+12: Stressmonster101: 24553
+13: Welsknight: 23320
+14: impulseSV: 20213
+15: iJevin: 17497
+16: Zedaph: 11894
+17: BdoubleO100: 7985
+18: Tinfoilchef: 6250
+19: ZombieCleo: 6029
+20: PythonGB: 4712
+21: Keralis1: 4065
+22: xBCrafted: 2102
+23: Biffa2001: 1848
+24: Jessassin: 354
+25: HumanCleo: 285
+26: Duke_da_dog: 23
+27: EvilXisuma: 16
+28: tterrag: 16
+29: isGall85: 7
+30: Cojomax99: 6
+31: PhoenixfireLune: 4
+32: BadTimeWithScar: 1
+Total 1068119

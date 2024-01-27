@@ -1,0 +1,30 @@
+minecraft.used.stone
+1: iJevin: 113862
+2: Grian: 106395
+3: Keralis1: 96564
+4: Xisuma: 93065
+5: GoodTimeWithScar: 78925
+6: Renthedog: 51721
+7: falsesymmetry: 50371
+8: BdoubleO100: 43615
+9: hypnotizd: 42515
+10: iskall85: 42259
+11: Tango: 33884
+12: cubfan135: 29489
+13: Etho: 27785
+14: MumboJumbo: 26244
+15: Zedaph: 24699
+16: Stressmonster101: 22898
+17: xBCrafted: 21429
+18: joehillssays: 11939
+19: Welsknight: 10433
+20: impulseSV: 9539
+21: ZombieCleo: 6244
+22: VintageBeef: 5428
+23: Docm77: 5092
+24: Tinfoilchef: 317
+25: Helsknight_: 75
+26: xisumavoid: 50
+27: isGall85: 22
+28: HermitcraftAlt: 2
+Total 954861

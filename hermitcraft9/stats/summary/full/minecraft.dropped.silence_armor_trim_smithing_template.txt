@@ -1,0 +1,4 @@
+minecraft.dropped.silence_armor_trim_smithing_template
+1: PearlescentMoon: 2
+2: Keralis1: 1
+Total 3

@@ -1,0 +1,27 @@
+minecraft.mined.oak_trapdoor
+1: PearlescentMoon: 280
+2: Docm77: 158
+3: Xisuma: 153
+4: BdoubleO100: 139
+5: GoodTimeWithScar: 115
+6: impulseSV: 75
+7: xBCrafted: 64
+8: Zedaph: 58
+9: Etho: 48
+10: iskall85: 45
+11: Keralis1: 44
+12: joehillssays: 42
+13: MumboJumbo: 28
+14: Grian: 25
+15: iJevin: 19
+16: Tango: 12
+17: Renthedog: 6
+18: cubfan135: 6
+19: Tinfoilchef: 6
+20: Welsknight: 5
+21: ZombieCleo: 4
+22: VintageBeef: 2
+23: GeminiTay: 2
+24: hypnotizd: 2
+25: Stressmonster101: 1
+Total 1339

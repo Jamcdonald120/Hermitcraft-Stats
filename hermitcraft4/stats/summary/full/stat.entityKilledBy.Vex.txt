@@ -1,0 +1,4 @@
+stat.entityKilledBy.Vex
+1: impulseSV: 9
+2: Tango: 2
+Total 11

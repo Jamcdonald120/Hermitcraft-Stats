@@ -1,0 +1,11 @@
+minecraft.crafted.green_wool
+1: impulseSV: 255
+2: Keralis1: 67
+3: Docm77: 51
+4: Renthedog: 30
+5: BdoubleO100: 6
+6: falsesymmetry: 6
+7: ZombieCleo: 2
+8: iJevin: 1
+9: Welsknight: 1
+Total 419

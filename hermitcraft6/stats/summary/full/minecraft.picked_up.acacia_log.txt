@@ -1,0 +1,24 @@
+minecraft.picked_up.acacia_log
+1: cubfan135: 23187
+2: GoodTimeWithScar: 22582
+3: Renthedog: 6335
+4: Xisuma: 6022
+5: Stressmonster101: 4529
+6: iskall85: 1931
+7: falsesymmetry: 1055
+8: impulseSV: 827
+9: MumboJumbo: 741
+10: Welsknight: 453
+11: ZombieCleo: 435
+12: joehillssays: 254
+13: Docm77: 245
+14: iJevin: 229
+15: BdoubleO100: 207
+16: Grian: 150
+17: Zedaph: 123
+18: Keralis1: 71
+19: PythonGB: 69
+20: Jessassin: 21
+21: Tango: 17
+22: Biffa2001: 3
+Total 69486

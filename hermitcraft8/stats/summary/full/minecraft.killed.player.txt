@@ -1,0 +1,22 @@
+minecraft.killed.player
+1: Xisuma: 24
+2: Grian: 17
+3: joehillssays: 14
+4: ZombieCleo: 13
+5: PearlescentMoon: 11
+6: Docm77: 9
+7: pillbugnine: 9
+8: Renthedog: 8
+9: GoodTimeWithScar: 8
+10: Keralis1: 8
+11: iskall85: 6
+12: Zedaph: 5
+13: iJevin: 3
+14: impulseSV: 3
+15: GeminiTay: 1
+16: Tango: 1
+17: xBCrafted: 1
+18: cubfan135: 1
+19: hypnotizd: 1
+20: MumboJumbo: 1
+Total 144

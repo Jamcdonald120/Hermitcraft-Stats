@@ -1,0 +1,3 @@
+minecraft.crafted.jungle_sapling
+1: Zedaph: 8
+Total 8

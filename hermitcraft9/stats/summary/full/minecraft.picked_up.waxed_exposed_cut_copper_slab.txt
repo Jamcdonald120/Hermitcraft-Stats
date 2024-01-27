@@ -1,0 +1,12 @@
+minecraft.picked_up.waxed_exposed_cut_copper_slab
+1: GoodTimeWithScar: 153
+2: impulseSV: 58
+3: Grian: 51
+4: Keralis1: 30
+5: BdoubleO100: 6
+6: PearlescentMoon: 3
+7: cubfan135: 3
+8: Etho: 3
+9: Docm77: 2
+10: Zedaph: 1
+Total 310

@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.paper
+1: Tango: 4629
+2: Xisuma: 450
+3: zueljin: 48
+4: xBCrafted: 30
+5: falsesymmetry: 3
+Total 5160

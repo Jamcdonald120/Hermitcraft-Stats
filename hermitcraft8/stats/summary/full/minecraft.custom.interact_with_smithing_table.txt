@@ -1,0 +1,24 @@
+minecraft.custom.interact_with_smithing_table
+1: GoodTimeWithScar: 115
+2: MumboJumbo: 57
+3: joehillssays: 34
+4: PearlescentMoon: 30
+5: cubfan135: 21
+6: impulseSV: 21
+7: iJevin: 18
+8: Grian: 16
+9: Renthedog: 13
+10: VintageBeef: 11
+11: hypnotizd: 11
+12: Welsknight: 9
+13: Docm77: 6
+14: GeminiTay: 6
+15: BdoubleO100: 5
+16: Keralis1: 5
+17: Xisuma: 4
+18: xBCrafted: 4
+19: Etho: 4
+20: Zedaph: 4
+21: ZombieCleo: 2
+22: iskall85: 1
+Total 397

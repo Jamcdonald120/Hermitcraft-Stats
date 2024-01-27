@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.pink_glazed_terracotta
+1: ZombieCleo: 136
+2: joehillssays: 64
+3: MumboJumbo: 56
+4: Xisuma: 24
+5: iJevin: 1
+Total 281

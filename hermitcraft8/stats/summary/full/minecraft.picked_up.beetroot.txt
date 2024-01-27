@@ -1,0 +1,18 @@
+minecraft.picked_up.beetroot
+1: Zedaph: 2982
+2: cubfan135: 175
+3: Xisuma: 151
+4: joehillssays: 140
+5: GeminiTay: 93
+6: PearlescentMoon: 93
+7: ZombieCleo: 90
+8: Grian: 9
+9: BdoubleO100: 6
+10: Keralis1: 6
+11: Etho: 3
+12: Stressmonster101: 2
+13: impulseSV: 2
+14: iJevin: 1
+15: MumboJumbo: 1
+16: GoodTimeWithScar: 1
+Total 3755

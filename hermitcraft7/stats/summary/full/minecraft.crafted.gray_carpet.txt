@@ -1,0 +1,22 @@
+minecraft.crafted.gray_carpet
+1: Grian: 7807
+2: falsesymmetry: 7671
+3: Keralis1: 6952
+4: Tango: 4165
+5: Xisuma: 2193
+6: joehillssays: 1350
+7: Etho: 1080
+8: xBCrafted: 1068
+9: cubfan135: 969
+10: impulseSV: 966
+11: ZombieCleo: 807
+12: VintageBeef: 618
+13: GoodTimeWithScar: 603
+14: iJevin: 480
+15: Stressmonster101: 249
+16: BdoubleO100: 195
+17: iskall85: 57
+18: Docm77: 45
+19: Renthedog: 21
+20: Zedaph: 3
+Total 37299

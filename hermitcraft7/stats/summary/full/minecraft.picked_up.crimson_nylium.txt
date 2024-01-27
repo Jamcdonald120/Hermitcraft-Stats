@@ -1,0 +1,25 @@
+minecraft.picked_up.crimson_nylium
+1: Etho: 1457
+2: xBCrafted: 1393
+3: cubfan135: 1290
+4: impulseSV: 860
+5: Renthedog: 682
+6: Grian: 668
+7: Zedaph: 585
+8: Tango: 573
+9: iJevin: 445
+10: iskall85: 235
+11: Xisuma: 213
+12: Welsknight: 208
+13: hypnotizd: 182
+14: VintageBeef: 168
+15: falsesymmetry: 91
+16: BdoubleO100: 78
+17: joehillssays: 75
+18: Stressmonster101: 74
+19: MumboJumbo: 45
+20: ZombieCleo: 43
+21: Docm77: 26
+22: GoodTimeWithScar: 18
+23: Keralis1: 10
+Total 9419

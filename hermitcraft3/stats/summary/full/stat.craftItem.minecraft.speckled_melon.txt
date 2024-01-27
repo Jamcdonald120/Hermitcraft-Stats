@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.speckled_melon
+1: Tango: 285
+2: Xisuma: 64
+3: impulseSV: 53
+4: Tinfoilchef: 22
+5: falsesymmetry: 8
+6: Docm77: 7
+7: xBCrafted: 7
+8: Biffa2001: 6
+9: hypnotizd: 4
+10: KingDaddyDMAC: 2
+11: ZombieCleo: 2
+12: topmass: 1
+13: monkeyfarm: 1
+14: Spumwackles: 1
+Total 463

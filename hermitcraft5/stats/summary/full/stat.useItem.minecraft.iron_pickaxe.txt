@@ -1,0 +1,25 @@
+stat.useItem.minecraft.iron_pickaxe
+1: ZombieCleo: 9312
+2: GoodTimeWithScar: 8060
+3: joehillssays: 6811
+4: Tango: 4505
+5: Biffa2001: 4121
+6: iskall85: 3252
+7: iJevin: 2911
+8: Xisuma: 2720
+9: Zedaph: 2457
+10: xBCrafted: 2240
+11: Etho: 2221
+12: falsesymmetry: 2074
+13: cubfan135: 1767
+14: PythonGB: 1762
+15: BdoubleO100: 1129
+16: Tinfoilchef: 1117
+17: impulseSV: 1051
+18: Welsknight: 1039
+19: Stressmonster101: 876
+20: VintageBeef: 760
+21: Renthedog: 647
+22: Docm77: 369
+23: MumboJumbo: 365
+Total 61566

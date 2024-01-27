@@ -1,0 +1,10 @@
+stat.mineBlock.minecraft.cobblestone_wall
+1: ZombieCleo: 144
+2: Tango: 92
+3: zueljin: 74
+4: Spumwackles: 63
+5: xBCrafted: 24
+6: falsesymmetry: 17
+7: Tinfoilchef: 7
+8: Biffa2001: 3
+Total 424

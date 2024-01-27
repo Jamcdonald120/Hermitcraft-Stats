@@ -1,0 +1,28 @@
+minecraft.used.smooth_quartz_stairs
+1: GoodTimeWithScar: 2884
+2: impulseSV: 1571
+3: GeminiTay: 1295
+4: cubfan135: 788
+5: Grian: 553
+6: Zedaph: 508
+7: Xisuma: 411
+8: Keralis1: 366
+9: xBCrafted: 303
+10: VintageBeef: 248
+11: ZombieCleo: 241
+12: Renthedog: 162
+13: iJevin: 108
+14: falsesymmetry: 101
+15: PearlescentMoon: 79
+16: Docm77: 57
+17: hypnotizd: 41
+18: Tango: 34
+19: OrionSound: 24
+20: Etho: 20
+21: BdoubleO100: 19
+22: Smallishbeans: 8
+23: iskall85: 7
+24: Mumbo: 7
+25: joehillssays: 1
+26: Pixlriffs: 1
+Total 9837

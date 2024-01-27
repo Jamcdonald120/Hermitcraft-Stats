@@ -1,0 +1,4 @@
+minecraft.dropped.cracked_nether_bricks
+1: cubfan135: 65
+2: Etho: 2
+Total 67

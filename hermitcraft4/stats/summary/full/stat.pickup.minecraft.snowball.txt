@@ -1,0 +1,20 @@
+stat.pickup.minecraft.snowball
+1: falsesymmetry: 10327
+2: GoodTimeWithScar: 6599
+3: iskall85: 6591
+4: Xisuma: 4545
+5: cubfan135: 2473
+6: Renthedog: 2467
+7: MumboJumbo: 2310
+8: Tinfoilchef: 1549
+9: Tango: 1346
+10: impulseSV: 1273
+11: Docm77: 903
+12: Etho: 747
+13: Welsknight: 431
+14: VintageBeef: 184
+15: PythonGB: 100
+16: joehillssays: 62
+17: xBCrafted: 38
+18: iJevin: 14
+Total 41959

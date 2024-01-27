@@ -1,0 +1,14 @@
+stat.useItem.minecraft.gold_ore
+1: Xisuma: 112
+2: Spumwackles: 33
+3: Tango: 31
+4: Tinfoilchef: 24
+5: xBCrafted: 18
+6: Mumbo: 11
+7: PythonGB: 9
+8: zueljin: 9
+9: monkeyfarm: 5
+10: falsesymmetry: 3
+11: skyzm: 1
+12: impulseSV: 1
+Total 257

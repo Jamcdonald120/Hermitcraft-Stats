@@ -1,0 +1,23 @@
+stat.pickup.minecraft.gold_ingot
+1: Renthedog: 1819
+2: iskall85: 499
+3: Tango: 409
+4: impulseSV: 204
+5: Zedaph: 124
+6: xBCrafted: 85
+7: cubfan135: 75
+8: PythonGB: 70
+9: falsesymmetry: 56
+10: ZombieCleo: 56
+11: iJevin: 54
+12: Tinfoilchef: 49
+13: Welsknight: 45
+14: Xisuma: 41
+15: MumboJumbo: 23
+16: GoodTimeWithScar: 20
+17: Docm77: 10
+18: Biffa2001: 9
+19: Stressmonster101: 4
+20: VintageBeef: 2
+21: BdoubleO100: 2
+Total 3656

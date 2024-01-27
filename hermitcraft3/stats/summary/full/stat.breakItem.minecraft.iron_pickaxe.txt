@@ -1,0 +1,26 @@
+stat.breakItem.minecraft.iron_pickaxe
+1: KingDaddyDMAC: 32
+2: zueljin: 30
+3: falsesymmetry: 24
+4: joehillssays: 22
+5: Tinfoilchef: 17
+6: topmass: 15
+7: iJevin: 12
+8: Pungence: 10
+9: PythonGB: 9
+10: Biffa2001: 9
+11: monkeyfarm: 8
+12: Xisuma: 6
+13: ZombieCleo: 6
+14: impulseSV: 6
+15: skyzm: 5
+16: Tango: 5
+17: xBCrafted: 5
+18: Etho: 3
+19: NameOfSamuel: 3
+20: hypnotizd: 2
+21: Collen: 2
+22: Docm77: 1
+23: sl1pg8r: 1
+24: Spumwackles: 1
+Total 234

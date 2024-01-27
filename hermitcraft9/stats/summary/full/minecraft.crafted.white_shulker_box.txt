@@ -1,0 +1,25 @@
+minecraft.crafted.white_shulker_box
+1: Docm77: 83
+2: Xisuma: 47
+3: impulseSV: 34
+4: VintageBeef: 32
+5: xBCrafted: 23
+6: joehillssays: 18
+7: iskall85: 11
+8: Renthedog: 10
+9: GoodTimeWithScar: 9
+10: Grian: 8
+11: PearlescentMoon: 7
+12: falsesymmetry: 6
+13: cubfan135: 5
+14: ZombieCleo: 5
+15: BdoubleO100: 4
+16: Tango: 3
+17: Etho: 3
+18: Mumbo: 2
+19: hypnotizd: 2
+20: Keralis1: 2
+21: Zedaph: 2
+22: GeminiTay: 1
+23: Welsknight: 1
+Total 318

@@ -1,0 +1,8 @@
+minecraft.dropped.music_disc_far
+1: Zedaph: 16
+2: RentheKing: 5
+3: VintageBeef: 2
+4: Tango: 2
+5: BdoubleO100: 2
+6: iJevin: 1
+Total 28

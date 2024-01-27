@@ -1,0 +1,23 @@
+stat.useItem.minecraft.leaves
+1: GoodTimeWithScar: 63651
+2: falsesymmetry: 14044
+3: Renthedog: 11177
+4: Xisuma: 7808
+5: cubfan135: 6460
+6: iskall85: 5484
+7: Welsknight: 2609
+8: Tango: 1150
+9: MumboJumbo: 1065
+10: PythonGB: 988
+11: ZombieCleo: 687
+12: impulseSV: 670
+13: iJevin: 606
+14: Tinfoilchef: 574
+15: Docm77: 330
+16: joehillssays: 171
+17: Etho: 150
+18: VintageBeef: 32
+19: zueljin: 26
+20: Biffa2001: 23
+21: Jessassin: 4
+Total 117709

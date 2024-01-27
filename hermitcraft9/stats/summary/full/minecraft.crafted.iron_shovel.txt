@@ -1,0 +1,33 @@
+minecraft.crafted.iron_shovel
+1: impulseSV: 109
+2: Tango: 53
+3: Keralis1: 41
+4: Xisuma: 38
+5: falsesymmetry: 32
+6: joehillssays: 28
+7: iJevin: 25
+8: BdoubleO100: 19
+9: iskall85: 18
+10: Zedaph: 12
+11: ZombieCleo: 11
+12: PearlescentMoon: 10
+13: Stressmonster101: 8
+14: Renthedog: 7
+15: Etho: 5
+16: ShubbleYT: 5
+17: Docm77: 4
+18: MythicalSausage: 4
+19: Welsknight: 4
+20: hypnotizd: 4
+21: VintageBeef: 3
+22: GeminiTay: 3
+23: Grian: 3
+24: cubfan135: 3
+25: Mumbo: 3
+26: MumboJumbo: 3
+27: SolidarityGaming: 2
+28: Smajor1995: 1
+29: Pixlriffs: 1
+30: xBCrafted: 1
+31: GoodTimeWithScar: 1
+Total 461

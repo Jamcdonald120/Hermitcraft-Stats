@@ -1,0 +1,26 @@
+stat.pickup.minecraft.log2
+1: Renthedog: 42534
+2: Xisuma: 25159
+3: cubfan135: 21963
+4: GoodTimeWithScar: 15997
+5: falsesymmetry: 9651
+6: Tinfoilchef: 5555
+7: PythonGB: 4647
+8: iskall85: 4131
+9: Welsknight: 3864
+10: ZombieCleo: 1778
+11: Etho: 970
+12: joehillssays: 919
+13: impulseSV: 879
+14: Docm77: 494
+15: xBCrafted: 480
+16: Tango: 355
+17: Biffa2001: 347
+18: zueljin: 328
+19: MumboJumbo: 200
+20: iJevin: 86
+21: VintageBeef: 79
+22: Jessassin: 14
+23: Mumbo: 3
+24: xisumavoid: 2
+Total 140435

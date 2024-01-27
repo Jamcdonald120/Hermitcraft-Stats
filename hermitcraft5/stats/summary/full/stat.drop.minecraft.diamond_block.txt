@@ -1,0 +1,4 @@
+stat.drop.minecraft.diamond_block
+1: GoodTimeWithScar: 5
+2: Zedaph: 1
+Total 6

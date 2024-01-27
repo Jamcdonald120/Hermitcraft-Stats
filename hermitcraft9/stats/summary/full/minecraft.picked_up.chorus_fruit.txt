@@ -1,0 +1,34 @@
+minecraft.picked_up.chorus_fruit
+1: impulseSV: 4906
+2: iJevin: 2316
+3: Keralis1: 828
+4: PearlescentMoon: 741
+5: falsesymmetry: 395
+6: Docm77: 349
+7: GoodTimeWithScar: 259
+8: ZombieCleo: 198
+9: cubfan135: 140
+10: OrionSound: 134
+11: joehillssays: 111
+12: Tango: 100
+13: Renthedog: 89
+14: BdoubleO100: 66
+15: RentheKing: 64
+16: Zedaph: 49
+17: Xisuma: 47
+18: Smallishbeans: 47
+19: Grian: 30
+20: Etho: 20
+21: xBCrafted: 19
+22: VintageBeef: 15
+23: SolidarityGaming: 8
+24: Minerva246: 6
+25: MythicalSausage: 5
+26: ShubbleYT: 4
+27: fWhip: 3
+28: Smajor1995: 2
+29: GeminiTay: 2
+30: hypnotizd: 2
+31: iskall85: 1
+32: Mumbo: 1
+Total 10957

@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.mycelium
+1: falsesymmetry: 7466
+2: Tango: 1464
+3: impulseSV: 1429
+Total 10359

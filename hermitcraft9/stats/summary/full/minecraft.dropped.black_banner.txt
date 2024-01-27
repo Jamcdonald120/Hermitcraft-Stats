@@ -1,0 +1,10 @@
+minecraft.dropped.black_banner
+1: falsesymmetry: 27
+2: impulseSV: 26
+3: iJevin: 9
+4: RentheKing: 6
+5: GeminiTay: 3
+6: Renthedog: 2
+7: joehillssays: 2
+8: GoodTimeWithScar: 2
+Total 77

@@ -1,0 +1,24 @@
+minecraft.picked_up.polished_blackstone_brick_stairs
+1: Renthedog: 846
+2: Etho: 409
+3: xBCrafted: 356
+4: Xisuma: 249
+5: Tango: 193
+6: cubfan135: 153
+7: hypnotizd: 152
+8: iskall85: 70
+9: falsesymmetry: 61
+10: iJevin: 56
+11: Grian: 37
+12: Docm77: 31
+13: Zedaph: 26
+14: impulseSV: 24
+15: VintageBeef: 23
+16: ZombieCleo: 20
+17: joehillssays: 18
+18: MumboJumbo: 13
+19: GoodTimeWithScar: 9
+20: Keralis1: 3
+21: BdoubleO100: 2
+22: Welsknight: 1
+Total 2752

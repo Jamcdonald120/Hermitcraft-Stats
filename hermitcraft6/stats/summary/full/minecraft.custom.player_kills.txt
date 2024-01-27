@@ -1,0 +1,19 @@
+minecraft.custom.player_kills
+1: iskall85: 15
+2: cubfan135: 12
+3: Grian: 9
+4: Stressmonster101: 6
+5: Welsknight: 4
+6: Tango: 3
+7: impulseSV: 3
+8: Xisuma: 2
+9: Renthedog: 2
+10: falsesymmetry: 2
+11: GoodTimeWithScar: 2
+12: Docm77: 1
+13: PythonGB: 1
+14: iJevin: 1
+15: Biffa2001: 1
+16: ZombieCleo: 1
+17: MumboJumbo: 1
+Total 66

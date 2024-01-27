@@ -1,0 +1,31 @@
+minecraft.crafted.quartz_block
+1: Tango: 19001
+2: GoodTimeWithScar: 18624
+3: Grian: 13184
+4: impulseSV: 11523
+5: Renthedog: 11123
+6: Etho: 8719
+7: Zedaph: 7592
+8: GeminiTay: 6090
+9: Keralis1: 3549
+10: VintageBeef: 2224
+11: cubfan135: 2052
+12: ZombieCleo: 2026
+13: Docm77: 1952
+14: RentheKing: 1740
+15: Xisuma: 1507
+16: falsesymmetry: 1465
+17: iJevin: 596
+18: PearlescentMoon: 396
+19: Smallishbeans: 372
+20: xBCrafted: 364
+21: BdoubleO100: 205
+22: Pixlriffs: 194
+23: iskall85: 120
+24: hypnotizd: 96
+25: joehillssays: 46
+26: MythicalSausage: 38
+27: Stressmonster101: 36
+28: Welsknight: 32
+29: Mumbo: 17
+Total 114883

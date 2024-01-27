@@ -1,0 +1,20 @@
+stat.useItem.minecraft.diamond_ore
+1: falsesymmetry: 622
+2: cubfan135: 465
+3: PythonGB: 154
+4: MumboJumbo: 148
+5: impulseSV: 91
+6: Renthedog: 77
+7: Zedaph: 69
+8: Tango: 61
+9: iJevin: 58
+10: GoodTimeWithScar: 51
+11: xBCrafted: 47
+12: Biffa2001: 42
+13: VintageBeef: 27
+14: Xisuma: 23
+15: Stressmonster101: 19
+16: Welsknight: 14
+17: iskall85: 5
+18: Tinfoilchef: 3
+Total 1976

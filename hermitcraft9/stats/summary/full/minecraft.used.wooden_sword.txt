@@ -1,0 +1,25 @@
+minecraft.used.wooden_sword
+1: GeminiTay: 1191
+2: Zedaph: 512
+3: Etho: 353
+4: impulseSV: 341
+5: ZombieCleo: 214
+6: iJevin: 147
+7: VintageBeef: 129
+8: Renthedog: 119
+9: PearlescentMoon: 102
+10: Docm77: 86
+11: cubfan135: 86
+12: falsesymmetry: 80
+13: Keralis1: 79
+14: joehillssays: 76
+15: iskall85: 74
+16: Grian: 72
+17: hypnotizd: 46
+18: GoodTimeWithScar: 41
+19: Tango: 35
+20: BdoubleO100: 26
+21: Xisuma: 22
+22: slicedlime: 6
+23: Mumbo: 3
+Total 3840

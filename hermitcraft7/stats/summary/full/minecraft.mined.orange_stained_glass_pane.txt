@@ -1,0 +1,15 @@
+minecraft.mined.orange_stained_glass_pane
+1: impulseSV: 825
+2: cubfan135: 138
+3: GoodTimeWithScar: 43
+4: Grian: 37
+5: Etho: 33
+6: xBCrafted: 30
+7: joehillssays: 18
+8: Xisuma: 6
+9: Zedaph: 6
+10: iJevin: 5
+11: MumboJumbo: 3
+12: Docm77: 1
+13: VintageBeef: 1
+Total 1146

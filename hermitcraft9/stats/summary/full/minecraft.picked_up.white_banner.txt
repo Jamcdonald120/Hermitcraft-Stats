@@ -1,0 +1,28 @@
+minecraft.picked_up.white_banner
+1: impulseSV: 1099
+2: iJevin: 1000
+3: Keralis1: 834
+4: PearlescentMoon: 627
+5: Tango: 408
+6: Docm77: 309
+7: Zedaph: 295
+8: cubfan135: 143
+9: Xisuma: 78
+10: falsesymmetry: 74
+11: Grian: 67
+12: xBCrafted: 35
+13: GoodTimeWithScar: 34
+14: Etho: 28
+15: VintageBeef: 22
+16: Renthedog: 19
+17: GeminiTay: 14
+18: ZombieCleo: 5
+19: OrionSound: 3
+20: joehillssays: 3
+21: MythicalSausage: 1
+22: BdoubleO100: 1
+23: Pixlriffs: 1
+24: iskall85: 1
+25: Mumbo: 1
+26: ShubbleYT: 1
+Total 5103

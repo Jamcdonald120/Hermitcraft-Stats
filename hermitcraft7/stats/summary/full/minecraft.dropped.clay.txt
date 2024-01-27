@@ -1,0 +1,15 @@
+minecraft.dropped.clay
+1: GoodTimeWithScar: 215
+2: Zedaph: 148
+3: cubfan135: 92
+4: Grian: 37
+5: Keralis1: 25
+6: Renthedog: 20
+7: xBCrafted: 5
+8: Etho: 5
+9: Docm77: 1
+10: Xisuma: 1
+11: iJevin: 1
+12: Tango: 1
+13: impulseSV: 1
+Total 552

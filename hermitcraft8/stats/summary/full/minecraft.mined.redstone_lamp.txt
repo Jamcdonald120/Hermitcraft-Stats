@@ -1,0 +1,20 @@
+minecraft.mined.redstone_lamp
+1: impulseSV: 87
+2: iJevin: 51
+3: VintageBeef: 37
+4: cubfan135: 31
+5: PearlescentMoon: 30
+6: Zedaph: 24
+7: Etho: 19
+8: xBCrafted: 11
+9: Docm77: 9
+10: Renthedog: 5
+11: MumboJumbo: 5
+12: Tango: 4
+13: ZombieCleo: 3
+14: EvilXisuma: 1
+15: joehillssays: 1
+16: Grian: 1
+17: falsesymmetry: 1
+18: Welsknight: 1
+Total 321

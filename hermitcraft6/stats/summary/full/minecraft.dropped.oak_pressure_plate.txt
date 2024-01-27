@@ -1,0 +1,17 @@
+minecraft.dropped.oak_pressure_plate
+1: Renthedog: 43
+2: cubfan135: 28
+3: Xisuma: 19
+4: falsesymmetry: 10
+5: PythonGB: 8
+6: Docm77: 6
+7: iJevin: 4
+8: GoodTimeWithScar: 4
+9: Zedaph: 4
+10: iskall85: 2
+11: Stressmonster101: 2
+12: Grian: 1
+13: Tango: 1
+14: ZombieCleo: 1
+15: MumboJumbo: 1
+Total 134

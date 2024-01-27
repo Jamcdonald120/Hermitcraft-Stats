@@ -1,0 +1,17 @@
+minecraft.crafted.gray_concrete_powder
+1: impulseSV: 15752
+2: Welsknight: 7952
+3: PearlescentMoon: 3560
+4: Tango: 2560
+5: GoodTimeWithScar: 1472
+6: Xisuma: 712
+7: Docm77: 512
+8: Grian: 424
+9: ZombieCleo: 344
+10: falsesymmetry: 336
+11: iJevin: 280
+12: Renthedog: 240
+13: Keralis1: 128
+14: GeminiTay: 48
+15: cubfan135: 8
+Total 34328

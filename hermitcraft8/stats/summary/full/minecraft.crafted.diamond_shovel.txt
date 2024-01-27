@@ -1,0 +1,28 @@
+minecraft.crafted.diamond_shovel
+1: Grian: 24
+2: Xisuma: 10
+3: Docm77: 9
+4: joehillssays: 9
+5: GoodTimeWithScar: 9
+6: Renthedog: 8
+7: Zedaph: 7
+8: xBCrafted: 6
+9: iJevin: 5
+10: Welsknight: 5
+11: ZombieCleo: 5
+12: Tango: 4
+13: MumboJumbo: 4
+14: Stressmonster101: 4
+15: Keralis1: 4
+16: VintageBeef: 3
+17: falsesymmetry: 3
+18: Etho: 3
+19: BdoubleO100: 2
+20: iskall85: 2
+21: cubfan135: 2
+22: impulseSV: 2
+23: GeminiTay: 1
+24: PearlescentMoon: 1
+25: hypnotizd: 1
+26: Tinfoilchef: 1
+Total 134

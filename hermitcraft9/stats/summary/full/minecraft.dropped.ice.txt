@@ -1,0 +1,18 @@
+minecraft.dropped.ice
+1: falsesymmetry: 2801
+2: Xisuma: 1453
+3: Tango: 378
+4: Renthedog: 91
+5: PearlescentMoon: 66
+6: impulseSV: 50
+7: Stressmonster101: 37
+8: Zedaph: 25
+9: ZombieCleo: 17
+10: Docm77: 12
+11: iJevin: 10
+12: Etho: 6
+13: GoodTimeWithScar: 5
+14: Grian: 4
+15: BdoubleO100: 1
+16: RentheKing: 1
+Total 4957

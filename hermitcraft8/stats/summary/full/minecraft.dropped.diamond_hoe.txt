@@ -1,0 +1,9 @@
+minecraft.dropped.diamond_hoe
+1: Grian: 10
+2: PearlescentMoon: 5
+3: MumboJumbo: 5
+4: GoodTimeWithScar: 3
+5: cubfan135: 2
+6: Keralis1: 2
+7: ZombieCleo: 1
+Total 28

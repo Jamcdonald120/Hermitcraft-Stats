@@ -1,0 +1,8 @@
+stat.useItem.minecraft.trapped_chest
+1: Tango: 240
+2: Xisuma: 94
+3: iJevin: 43
+4: Tinfoilchef: 32
+5: Spumwackles: 2
+6: ZombieCleo: 1
+Total 412

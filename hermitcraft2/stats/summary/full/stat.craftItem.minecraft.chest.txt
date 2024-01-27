@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.chest
+1: Tango: 1393
+2: Xisuma: 705
+3: iJevin: 337
+4: Spumwackles: 181
+5: Tinfoilchef: 166
+6: falsesymmetry: 98
+7: ZombieCleo: 85
+8: xBCrafted: 61
+9: zueljin: 38
+10: Biffa2001: 19
+11: KingDaddyDMAC: 9
+12: Collen: 3
+13: sl1pg8r: 1
+14: Mumbo: 1
+Total 3097

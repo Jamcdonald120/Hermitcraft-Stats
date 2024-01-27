@@ -1,0 +1,4 @@
+minecraft.used.bamboo_fence_gate
+1: GoodTimeWithScar: 12
+2: cubfan135: 7
+Total 19

@@ -1,0 +1,28 @@
+stat.mineBlock.minecraft.lapis_ore
+1: falsesymmetry: 898
+2: Xisuma: 737
+3: xBCrafted: 662
+4: topmass: 520
+5: Tinfoilchef: 378
+6: sl1pg8r: 339
+7: Tango: 337
+8: impulseSV: 315
+9: Biffa2001: 293
+10: KingDaddyDMAC: 254
+11: Mumbo: 226
+12: ZombieCleo: 219
+13: PythonGB: 178
+14: Spumwackles: 141
+15: hypnotizd: 134
+16: zueljin: 93
+17: Etho: 82
+18: monkeyfarm: 73
+19: iJevin: 58
+20: skyzm: 50
+21: Pungence: 20
+22: Keralis1: 19
+23: Docm77: 10
+24: Collen: 10
+25: Mrs_Keralis: 4
+26: joehillssays: 1
+Total 6051

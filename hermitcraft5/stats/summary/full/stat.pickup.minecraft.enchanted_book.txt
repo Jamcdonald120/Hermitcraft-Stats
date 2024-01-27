@@ -1,0 +1,24 @@
+stat.pickup.minecraft.enchanted_book
+1: Welsknight: 449
+2: Zedaph: 148
+3: MumboJumbo: 73
+4: impulseSV: 60
+5: falsesymmetry: 55
+6: iskall85: 54
+7: Stressmonster101: 47
+8: GoodTimeWithScar: 29
+9: iJevin: 28
+10: PythonGB: 23
+11: Tango: 18
+12: Xisuma: 15
+13: Renthedog: 15
+14: Tinfoilchef: 14
+15: cubfan135: 11
+16: Biffa2001: 6
+17: joehillssays: 4
+18: Docm77: 3
+19: BdoubleO100: 3
+20: ZombieCleo: 3
+21: xBCrafted: 2
+22: Etho: 1
+Total 1061

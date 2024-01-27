@@ -1,0 +1,22 @@
+minecraft.mined.sculk_shrieker
+1: Tango: 421
+2: Grian: 236
+3: xBCrafted: 218
+4: PearlescentMoon: 121
+5: impulseSV: 84
+6: cubfan135: 62
+7: Xisuma: 50
+8: Etho: 26
+9: iJevin: 8
+10: GoodTimeWithScar: 4
+11: GeminiTay: 3
+12: Docm77: 2
+13: Keralis1: 2
+14: joehillssays: 1
+15: iskall85: 1
+16: falsesymmetry: 1
+17: Welsknight: 1
+18: ZombieCleo: 1
+19: hypnotizd: 1
+20: Zedaph: 1
+Total 1244

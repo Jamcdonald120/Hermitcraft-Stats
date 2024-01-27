@@ -1,0 +1,23 @@
+stat.drop.minecraft.leaves
+1: Zedaph: 1261
+2: BdoubleO100: 1174
+3: GoodTimeWithScar: 1110
+4: MumboJumbo: 932
+5: Tango: 610
+6: Xisuma: 403
+7: iskall85: 337
+8: impulseSV: 337
+9: cubfan135: 327
+10: xBCrafted: 221
+11: falsesymmetry: 190
+12: Docm77: 103
+13: VintageBeef: 36
+14: Stressmonster101: 20
+15: PythonGB: 19
+16: Renthedog: 16
+17: Biffa2001: 5
+18: joehillssays: 2
+19: Welsknight: 2
+20: iJevin: 1
+21: Etho: 1
+Total 7107

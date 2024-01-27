@@ -1,0 +1,28 @@
+minecraft.crafted.lever
+1: impulseSV: 872
+2: falsesymmetry: 448
+3: iJevin: 167
+4: Zedaph: 160
+5: Tango: 146
+6: Xisuma: 145
+7: Docm77: 138
+8: GeminiTay: 88
+9: cubfan135: 88
+10: GoodTimeWithScar: 88
+11: hypnotizd: 87
+12: Renthedog: 74
+13: Etho: 70
+14: Stressmonster101: 65
+15: Keralis1: 63
+16: joehillssays: 41
+17: PearlescentMoon: 36
+18: MumboJumbo: 35
+19: Grian: 29
+20: Welsknight: 28
+21: VintageBeef: 18
+22: BdoubleO100: 18
+23: xBCrafted: 17
+24: iskall85: 7
+25: ZombieCleo: 1
+26: Tinfoilchef: 1
+Total 2930

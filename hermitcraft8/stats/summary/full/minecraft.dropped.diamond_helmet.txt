@@ -1,0 +1,16 @@
+minecraft.dropped.diamond_helmet
+1: MumboJumbo: 8
+2: Keralis1: 6
+3: Xisuma: 5
+4: Zedaph: 5
+5: PearlescentMoon: 4
+6: Docm77: 3
+7: Renthedog: 3
+8: Grian: 3
+9: impulseSV: 3
+10: iJevin: 2
+11: cubfan135: 2
+12: GeminiTay: 1
+13: ZombieCleo: 1
+14: Stressmonster101: 1
+Total 47

@@ -1,0 +1,25 @@
+minecraft.killed.blaze
+1: Xisuma: 36599
+2: Etho: 2604
+3: Tango: 1078
+4: impulseSV: 1069
+5: Grian: 987
+6: Stressmonster101: 905
+7: xBCrafted: 418
+8: iskall85: 365
+9: cubfan135: 269
+10: iJevin: 127
+11: Keralis1: 76
+12: hypnotizd: 74
+13: GoodTimeWithScar: 63
+14: Welsknight: 41
+15: MumboJumbo: 41
+16: joehillssays: 40
+17: falsesymmetry: 39
+18: Docm77: 30
+19: Renthedog: 30
+20: VintageBeef: 24
+21: Zedaph: 17
+22: ZombieCleo: 12
+23: BdoubleO100: 1
+Total 44909

@@ -1,0 +1,28 @@
+minecraft.mined.rail
+1: Grian: 2100
+2: Xisuma: 2049
+3: iskall85: 1962
+4: GoodTimeWithScar: 1429
+5: iJevin: 1228
+6: Stressmonster101: 1132
+7: PearlescentMoon: 907
+8: impulseSV: 582
+9: hypnotizd: 509
+10: Tango: 444
+11: joehillssays: 389
+12: Zedaph: 359
+13: falsesymmetry: 296
+14: Welsknight: 259
+15: cubfan135: 234
+16: Docm77: 210
+17: xBCrafted: 134
+18: Keralis1: 113
+19: MumboJumbo: 94
+20: GeminiTay: 42
+21: Etho: 41
+22: BdoubleO100: 37
+23: Tinfoilchef: 28
+24: Renthedog: 27
+25: ZombieCleo: 9
+26: VintageBeef: 7
+Total 14621

@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.spruce_fence
+1: falsesymmetry: 10
+2: ZombieCleo: 1
+Total 11

@@ -1,0 +1,8 @@
+minecraft.picked_up.stripped_cherry_wood
+1: Grian: 20
+2: GoodTimeWithScar: 16
+3: Docm77: 2
+4: Renthedog: 1
+5: Keralis1: 1
+6: Zedaph: 1
+Total 41

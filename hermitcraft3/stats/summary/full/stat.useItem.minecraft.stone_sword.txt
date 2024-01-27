@@ -1,0 +1,23 @@
+stat.useItem.minecraft.stone_sword
+1: falsesymmetry: 2210
+2: hypnotizd: 250
+3: Xisuma: 183
+4: topmass: 167
+5: Collen: 143
+6: NameOfSamuel: 135
+7: joehillssays: 124
+8: ZombieCleo: 123
+9: Biffa2001: 112
+10: Spumwackles: 104
+11: zueljin: 99
+12: skyzm: 98
+13: monkeyfarm: 84
+14: sl1pg8r: 79
+15: xBCrafted: 78
+16: Tango: 64
+17: Tinfoilchef: 59
+18: KingDaddyDMAC: 51
+19: Pungence: 28
+20: Keralis1: 27
+21: Mrs_Keralis: 20
+Total 4238

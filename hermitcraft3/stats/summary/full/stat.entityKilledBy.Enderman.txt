@@ -1,0 +1,8 @@
+stat.entityKilledBy.Enderman
+1: sl1pg8r: 5
+2: impulseSV: 2
+3: Xisuma: 1
+4: zueljin: 1
+5: xBCrafted: 1
+6: monkeyfarm: 1
+Total 11

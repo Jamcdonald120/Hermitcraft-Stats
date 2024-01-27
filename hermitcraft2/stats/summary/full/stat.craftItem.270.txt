@@ -1,0 +1,4 @@
+stat.craftItem.270
+1: Jessassin: 1
+2: Marriland: 1
+Total 2

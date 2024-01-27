@@ -1,0 +1,21 @@
+stat.breakItem.minecraft.shears
+1: GoodTimeWithScar: 444
+2: Renthedog: 62
+3: cubfan135: 60
+4: Xisuma: 47
+5: falsesymmetry: 42
+6: iskall85: 27
+7: Tinfoilchef: 26
+8: Welsknight: 24
+9: Biffa2001: 9
+10: MumboJumbo: 9
+11: Tango: 8
+12: ZombieCleo: 7
+13: impulseSV: 5
+14: VintageBeef: 2
+15: PythonGB: 2
+16: iJevin: 2
+17: Docm77: 1
+18: joehillssays: 1
+19: Etho: 1
+Total 779

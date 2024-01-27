@@ -1,0 +1,25 @@
+stat.pickup.minecraft.leather_helmet
+1: Renthedog: 136
+2: iskall85: 68
+3: xBCrafted: 42
+4: PythonGB: 34
+5: Stressmonster101: 30
+6: GoodTimeWithScar: 26
+7: BdoubleO100: 17
+8: Tango: 16
+9: impulseSV: 16
+10: Zedaph: 16
+11: cubfan135: 15
+12: Docm77: 11
+13: Xisuma: 10
+14: Welsknight: 8
+15: ZombieCleo: 8
+16: falsesymmetry: 7
+17: iJevin: 6
+18: joehillssays: 6
+19: MumboJumbo: 6
+20: Tinfoilchef: 6
+21: VintageBeef: 4
+22: Biffa2001: 2
+23: Etho: 1
+Total 491

@@ -1,0 +1,3 @@
+minecraft.picked_up.green_glazed_terracotta
+1: BdoubleO100: 1
+Total 1

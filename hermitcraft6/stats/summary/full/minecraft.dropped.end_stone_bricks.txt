@@ -1,0 +1,15 @@
+minecraft.dropped.end_stone_bricks
+1: Zedaph: 451
+2: Renthedog: 201
+3: iskall85: 178
+4: PythonGB: 147
+5: MumboJumbo: 78
+6: GoodTimeWithScar: 44
+7: Tango: 33
+8: iJevin: 15
+9: impulseSV: 11
+10: Xisuma: 6
+11: Grian: 3
+12: HumanCleo: 1
+13: falsesymmetry: 1
+Total 1169

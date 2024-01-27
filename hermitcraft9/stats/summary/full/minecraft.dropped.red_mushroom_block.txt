@@ -1,0 +1,13 @@
+minecraft.dropped.red_mushroom_block
+1: Keralis1: 1329
+2: xBCrafted: 536
+3: Renthedog: 123
+4: Docm77: 105
+5: Grian: 94
+6: Etho: 73
+7: Stressmonster101: 64
+8: MythicalSausage: 63
+9: Zedaph: 46
+10: Pixlriffs: 42
+11: GoodTimeWithScar: 2
+Total 2477

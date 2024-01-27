@@ -1,0 +1,23 @@
+minecraft.crafted.tripwire_hook
+1: Etho: 642
+2: iskall85: 384
+3: Docm77: 180
+4: GoodTimeWithScar: 144
+5: Xisuma: 140
+6: PearlescentMoon: 104
+7: cubfan135: 92
+8: xBCrafted: 68
+9: Renthedog: 56
+10: Keralis1: 46
+11: Tango: 40
+12: ZombieCleo: 32
+13: falsesymmetry: 26
+14: Grian: 22
+15: BdoubleO100: 18
+16: GeminiTay: 16
+17: impulseSV: 12
+18: Mumbo: 10
+19: Zedaph: 10
+20: VintageBeef: 8
+21: iJevin: 2
+Total 2052

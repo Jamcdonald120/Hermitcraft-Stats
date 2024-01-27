@@ -1,0 +1,26 @@
+minecraft.crafted.crafting_table
+1: Grian: 264
+2: iskall85: 263
+3: Etho: 261
+4: GoodTimeWithScar: 234
+5: Tango: 157
+6: iJevin: 136
+7: Renthedog: 135
+8: cubfan135: 131
+9: MumboJumbo: 123
+10: impulseSV: 117
+11: joehillssays: 110
+12: Stressmonster101: 98
+13: xBCrafted: 96
+14: Keralis1: 90
+15: Xisuma: 82
+16: falsesymmetry: 77
+17: Zedaph: 55
+18: ZombieCleo: 44
+19: BdoubleO100: 35
+20: VintageBeef: 33
+21: Docm77: 31
+22: Welsknight: 15
+23: hypnotizd: 12
+24: Tinfoilchef: 5
+Total 2604

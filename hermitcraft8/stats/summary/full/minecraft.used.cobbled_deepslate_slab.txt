@@ -1,0 +1,25 @@
+minecraft.used.cobbled_deepslate_slab
+1: Tango: 2305
+2: Docm77: 1600
+3: impulseSV: 1199
+4: Renthedog: 1071
+5: Xisuma: 465
+6: Grian: 400
+7: hypnotizd: 393
+8: GoodTimeWithScar: 293
+9: MumboJumbo: 170
+10: Welsknight: 85
+11: xBCrafted: 83
+12: joehillssays: 54
+13: cubfan135: 43
+14: EvilXisuma: 42
+15: Keralis1: 36
+16: BdoubleO100: 29
+17: iJevin: 28
+18: Stressmonster101: 22
+19: GeminiTay: 21
+20: PearlescentMoon: 21
+21: VintageBeef: 19
+22: falsesymmetry: 6
+23: iskall85: 2
+Total 8387

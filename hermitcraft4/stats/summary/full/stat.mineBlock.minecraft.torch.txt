@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.torch
+1: falsesymmetry: 6889
+2: Tinfoilchef: 4804
+3: GoodTimeWithScar: 4056
+4: Xisuma: 3704
+5: Tango: 3662
+6: iskall85: 3353
+7: cubfan135: 3192
+8: Renthedog: 2883
+9: joehillssays: 2798
+10: MumboJumbo: 1432
+11: Welsknight: 1264
+12: impulseSV: 765
+13: iJevin: 705
+14: PythonGB: 662
+15: VintageBeef: 511
+16: Biffa2001: 489
+17: ZombieCleo: 322
+18: Jessassin: 300
+19: zueljin: 203
+20: Docm77: 188
+21: Mumbo: 177
+22: Etho: 170
+23: xBCrafted: 89
+Total 42618

@@ -1,0 +1,15 @@
+stat.pickup.minecraft.ender_eye
+1: falsesymmetry: 25
+2: cubfan135: 22
+3: Etho: 16
+4: Renthedog: 15
+5: Tango: 13
+6: GoodTimeWithScar: 13
+7: iskall85: 11
+8: Tinfoilchef: 11
+9: MumboJumbo: 4
+10: PythonGB: 2
+11: Xisuma: 1
+12: Welsknight: 1
+13: impulseSV: 1
+Total 135

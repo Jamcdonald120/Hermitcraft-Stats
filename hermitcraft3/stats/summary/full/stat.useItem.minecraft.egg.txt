@@ -1,0 +1,24 @@
+stat.useItem.minecraft.egg
+1: Xisuma: 2092
+2: Mumbo: 1638
+3: monkeyfarm: 1489
+4: sl1pg8r: 1129
+5: Biffa2001: 1082
+6: Tango: 756
+7: falsesymmetry: 753
+8: impulseSV: 308
+9: PythonGB: 234
+10: Spumwackles: 193
+11: xBCrafted: 159
+12: joehillssays: 124
+13: zueljin: 58
+14: iJevin: 51
+15: hypnotizd: 42
+16: KingDaddyDMAC: 34
+17: Tinfoilchef: 34
+18: topmass: 21
+19: Docm77: 2
+20: Pungence: 2
+21: Keralis1: 2
+22: skyzm: 1
+Total 10204

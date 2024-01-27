@@ -1,0 +1,6 @@
+minecraft.crafted.end_stone_brick_wall
+1: iJevin: 18
+2: impulseSV: 12
+3: Tango: 6
+4: cubfan135: 6
+Total 42

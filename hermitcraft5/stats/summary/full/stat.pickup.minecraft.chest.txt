@@ -1,0 +1,26 @@
+stat.pickup.minecraft.chest
+1: Zedaph: 2011
+2: cubfan135: 1253
+3: iJevin: 978
+4: Tango: 945
+5: MumboJumbo: 927
+6: Xisuma: 870
+7: iskall85: 861
+8: impulseSV: 722
+9: falsesymmetry: 713
+10: Renthedog: 710
+11: Welsknight: 618
+12: GoodTimeWithScar: 543
+13: PythonGB: 444
+14: joehillssays: 406
+15: Stressmonster101: 297
+16: xBCrafted: 258
+17: Tinfoilchef: 254
+18: Docm77: 91
+19: Biffa2001: 69
+20: Etho: 49
+21: ZombieCleo: 43
+22: BdoubleO100: 33
+23: VintageBeef: 32
+24: xisumavoid: 1
+Total 13128

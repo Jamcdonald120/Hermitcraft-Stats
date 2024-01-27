@@ -1,0 +1,27 @@
+minecraft.dropped.dirt
+1: Keralis1: 13498
+2: cubfan135: 9095
+3: Tango: 8980
+4: MumboJumbo: 8897
+5: GoodTimeWithScar: 8273
+6: xBCrafted: 8016
+7: iskall85: 6969
+8: Zedaph: 6783
+9: falsesymmetry: 4308
+10: Grian: 4088
+11: BdoubleO100: 3684
+12: iJevin: 3520
+13: impulseSV: 2942
+14: Xisuma: 2121
+15: VintageBeef: 1904
+16: Renthedog: 1587
+17: Docm77: 1463
+18: Stressmonster101: 1195
+19: Etho: 1081
+20: joehillssays: 920
+21: hypnotizd: 667
+22: ZombieCleo: 459
+23: Welsknight: 36
+24: Tinfoilchef: 7
+25: BarryBoss1234: 6
+Total 100499

@@ -1,0 +1,16 @@
+stat.pickup.minecraft.melon_block
+1: Renthedog: 265
+2: MumboJumbo: 123
+3: iskall85: 79
+4: impulseSV: 58
+5: falsesymmetry: 37
+6: GoodTimeWithScar: 25
+7: Etho: 16
+8: cubfan135: 14
+9: joehillssays: 9
+10: PythonGB: 6
+11: Tango: 5
+12: Xisuma: 2
+13: Docm77: 1
+14: Welsknight: 1
+Total 641

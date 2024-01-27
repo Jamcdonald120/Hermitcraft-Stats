@@ -1,0 +1,25 @@
+stat.useItem.minecraft.obsidian
+1: GoodTimeWithScar: 6376
+2: cubfan135: 1814
+3: Xisuma: 1120
+4: falsesymmetry: 1082
+5: impulseSV: 977
+6: Tango: 708
+7: joehillssays: 568
+8: MumboJumbo: 449
+9: Welsknight: 245
+10: Zedaph: 244
+11: Renthedog: 243
+12: iskall85: 238
+13: iJevin: 204
+14: xBCrafted: 162
+15: Biffa2001: 113
+16: Stressmonster101: 113
+17: VintageBeef: 101
+18: Docm77: 95
+19: PythonGB: 74
+20: Tinfoilchef: 62
+21: ZombieCleo: 22
+22: Etho: 12
+23: BdoubleO100: 1
+Total 15023

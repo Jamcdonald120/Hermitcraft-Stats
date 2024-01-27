@@ -1,0 +1,15 @@
+minecraft.picked_up.blue_dye
+1: Zedaph: 8538
+2: Grian: 444
+3: Stressmonster101: 202
+4: iJevin: 177
+5: cubfan135: 77
+6: falsesymmetry: 46
+7: Etho: 44
+8: MumboJumbo: 37
+9: Keralis1: 17
+10: VintageBeef: 6
+11: ZombieCleo: 5
+12: Xisuma: 1
+13: impulseSV: 1
+Total 9595

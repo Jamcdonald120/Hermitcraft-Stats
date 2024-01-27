@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.vine
+1: Tinfoilchef: 7097
+2: Renthedog: 1464
+3: Xisuma: 1386
+4: falsesymmetry: 1361
+5: cubfan135: 790
+6: Tango: 479
+7: joehillssays: 459
+8: GoodTimeWithScar: 388
+9: iskall85: 284
+10: impulseSV: 247
+11: PythonGB: 165
+12: MumboJumbo: 151
+13: Welsknight: 130
+14: VintageBeef: 94
+15: iJevin: 59
+16: ZombieCleo: 8
+17: Mumbo: 1
+Total 14563

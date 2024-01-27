@@ -1,0 +1,4 @@
+stat.entityKilledBy.CaveSpider
+1: Tinfoilchef: 3
+2: KingDaddyDMAC: 1
+Total 4

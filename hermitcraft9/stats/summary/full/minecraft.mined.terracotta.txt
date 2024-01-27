@@ -1,0 +1,32 @@
+minecraft.mined.terracotta
+1: PearlescentMoon: 53666
+2: impulseSV: 37048
+3: Docm77: 23188
+4: Renthedog: 21623
+5: Etho: 16033
+6: Xisuma: 13683
+7: VintageBeef: 13452
+8: Keralis1: 10402
+9: ZombieCleo: 8029
+10: joehillssays: 5060
+11: Tango: 4588
+12: Grian: 4100
+13: Pixlriffs: 3984
+14: falsesymmetry: 3571
+15: cubfan135: 3104
+16: xBCrafted: 2526
+17: MythicalSausage: 2348
+18: iJevin: 2192
+19: iskall85: 863
+20: RentheKing: 656
+21: Stressmonster101: 656
+22: BdoubleO100: 342
+23: Zedaph: 161
+24: hypnotizd: 121
+25: Smallishbeans: 68
+26: GeminiTay: 64
+27: GoodTimeWithScar: 9
+28: OrionSound: 4
+29: Mumbo: 4
+30: SolidarityGaming: 2
+Total 231547

@@ -1,0 +1,21 @@
+stat.useItem.minecraft.quartz_stairs
+1: GoodTimeWithScar: 3160
+2: Renthedog: 2166
+3: VintageBeef: 1930
+4: falsesymmetry: 1617
+5: iskall85: 635
+6: impulseSV: 476
+7: Tango: 310
+8: Xisuma: 308
+9: cubfan135: 264
+10: Welsknight: 130
+11: Tinfoilchef: 60
+12: Docm77: 36
+13: MumboJumbo: 27
+14: Mumbo: 22
+15: Etho: 20
+16: zueljin: 12
+17: ZombieCleo: 5
+18: PythonGB: 4
+19: joehillssays: 2
+Total 11184

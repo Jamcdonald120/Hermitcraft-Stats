@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.dark_oak_door
+1: cubfan135: 168
+2: iskall85: 60
+3: Renthedog: 51
+4: Welsknight: 24
+5: PythonGB: 18
+6: falsesymmetry: 15
+7: zueljin: 6
+8: Xisuma: 3
+9: VintageBeef: 3
+10: joehillssays: 3
+11: Etho: 3
+12: ZombieCleo: 3
+13: GoodTimeWithScar: 3
+Total 360

@@ -1,0 +1,18 @@
+stat.pickup.minecraft.wooden_pressure_plate
+1: Xisuma: 141
+2: Renthedog: 106
+3: cubfan135: 92
+4: falsesymmetry: 68
+5: iskall85: 67
+6: ZombieCleo: 53
+7: iJevin: 48
+8: Etho: 34
+9: impulseSV: 25
+10: joehillssays: 23
+11: Docm77: 15
+12: MumboJumbo: 13
+13: Tango: 12
+14: Welsknight: 11
+15: GoodTimeWithScar: 10
+16: Tinfoilchef: 5
+Total 723

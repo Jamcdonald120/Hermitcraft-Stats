@@ -1,0 +1,23 @@
+stat.pickup.minecraft.stonebrick
+1: falsesymmetry: 15628
+2: iJevin: 15400
+3: Welsknight: 10805
+4: iskall85: 9045
+5: Xisuma: 8315
+6: cubfan135: 6902
+7: Renthedog: 6057
+8: MumboJumbo: 4455
+9: Tinfoilchef: 2619
+10: Etho: 2429
+11: Tango: 2032
+12: zueljin: 1885
+13: GoodTimeWithScar: 1415
+14: impulseSV: 1129
+15: ZombieCleo: 1064
+16: Docm77: 801
+17: Biffa2001: 364
+18: joehillssays: 363
+19: VintageBeef: 360
+20: PythonGB: 207
+21: Mumbo: 10
+Total 91285

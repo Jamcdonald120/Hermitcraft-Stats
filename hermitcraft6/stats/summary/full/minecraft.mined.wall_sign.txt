@@ -1,0 +1,6 @@
+minecraft.mined.wall_sign
+1: Biffa2001: 20
+2: Duke_da_dog: 3
+3: xBCrafted: 2
+4: EvilXisuma: 1
+Total 26

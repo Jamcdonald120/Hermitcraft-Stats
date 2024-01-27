@@ -1,0 +1,6 @@
+minecraft.picked_up.blue_banner
+1: PearlescentMoon: 20
+2: falsesymmetry: 8
+3: Tango: 1
+4: Zedaph: 1
+Total 30

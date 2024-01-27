@@ -1,0 +1,6 @@
+minecraft.crafted.light_gray_banner
+1: GoodTimeWithScar: 10
+2: BdoubleO100: 9
+3: Keralis1: 6
+4: cubfan135: 1
+Total 26

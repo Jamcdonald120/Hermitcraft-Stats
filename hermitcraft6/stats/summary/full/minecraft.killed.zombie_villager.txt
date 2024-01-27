@@ -1,0 +1,26 @@
+minecraft.killed.zombie_villager
+1: cubfan135: 56
+2: GoodTimeWithScar: 41
+3: iskall85: 39
+4: Tango: 35
+5: iJevin: 29
+6: Xisuma: 24
+7: Grian: 23
+8: MumboJumbo: 22
+9: Docm77: 19
+10: impulseSV: 17
+11: PythonGB: 12
+12: Renthedog: 8
+13: Zedaph: 8
+14: falsesymmetry: 7
+15: Biffa2001: 7
+16: joehillssays: 3
+17: Stressmonster101: 3
+18: Keralis1: 3
+19: xBCrafted: 2
+20: Welsknight: 2
+21: Tinfoilchef: 2
+22: BdoubleO100: 1
+23: Cub_Cam: 1
+24: ZombieCleo: 1
+Total 365

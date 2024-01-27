@@ -1,0 +1,6 @@
+minecraft.crafted.fire_charge
+1: Tango: 1986
+2: GoodTimeWithScar: 768
+3: Etho: 66
+4: cubfan135: 6
+Total 2826

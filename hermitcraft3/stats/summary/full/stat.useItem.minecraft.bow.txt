@@ -1,0 +1,28 @@
+stat.useItem.minecraft.bow
+1: xBCrafted: 4551
+2: impulseSV: 4185
+3: Tango: 2206
+4: falsesymmetry: 2121
+5: Xisuma: 2115
+6: zueljin: 1238
+7: topmass: 1004
+8: Biffa2001: 967
+9: monkeyfarm: 939
+10: sl1pg8r: 867
+11: hypnotizd: 779
+12: Tinfoilchef: 485
+13: PythonGB: 415
+14: iJevin: 372
+15: KingDaddyDMAC: 274
+16: Mumbo: 220
+17: Spumwackles: 148
+18: Docm77: 142
+19: ZombieCleo: 117
+20: Mrs_Keralis: 66
+21: skyzm: 35
+22: Etho: 30
+23: Pungence: 26
+24: Keralis1: 16
+25: joehillssays: 13
+26: NameOfSamuel: 3
+Total 23334

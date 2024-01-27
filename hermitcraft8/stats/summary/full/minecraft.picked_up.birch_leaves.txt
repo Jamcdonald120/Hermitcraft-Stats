@@ -1,0 +1,24 @@
+minecraft.picked_up.birch_leaves
+1: GeminiTay: 8192
+2: Keralis1: 5301
+3: GoodTimeWithScar: 3748
+4: PearlescentMoon: 3096
+5: Renthedog: 1983
+6: Grian: 1040
+7: joehillssays: 607
+8: Docm77: 478
+9: impulseSV: 388
+10: iJevin: 387
+11: BdoubleO100: 195
+12: Stressmonster101: 166
+13: MumboJumbo: 165
+14: iskall85: 133
+15: cubfan135: 128
+16: falsesymmetry: 57
+17: hypnotizd: 11
+18: Etho: 8
+19: ZombieCleo: 5
+20: Tango: 2
+21: xBCrafted: 1
+22: Welsknight: 1
+Total 26092

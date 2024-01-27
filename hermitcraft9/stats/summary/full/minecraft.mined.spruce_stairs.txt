@@ -1,0 +1,30 @@
+minecraft.mined.spruce_stairs
+1: iJevin: 1059
+2: hypnotizd: 316
+3: ZombieCleo: 283
+4: xBCrafted: 253
+5: Grian: 247
+6: GeminiTay: 205
+7: Keralis1: 179
+8: Xisuma: 167
+9: PearlescentMoon: 166
+10: Etho: 148
+11: falsesymmetry: 135
+12: Docm77: 132
+13: Tango: 87
+14: iskall85: 79
+15: impulseSV: 78
+16: Renthedog: 69
+17: BdoubleO100: 66
+18: GoodTimeWithScar: 65
+19: Stressmonster101: 60
+20: cubfan135: 53
+21: VintageBeef: 36
+22: Welsknight: 29
+23: Pixlriffs: 4
+24: MythicalSausage: 2
+25: SolidarityGaming: 2
+26: joehillssays: 1
+27: RentheKing: 1
+28: fWhip: 1
+Total 3923

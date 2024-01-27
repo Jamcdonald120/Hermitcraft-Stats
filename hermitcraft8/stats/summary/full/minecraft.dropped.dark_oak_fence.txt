@@ -1,0 +1,10 @@
+minecraft.dropped.dark_oak_fence
+1: PearlescentMoon: 48
+2: GoodTimeWithScar: 22
+3: Grian: 19
+4: GeminiTay: 13
+5: hypnotizd: 2
+6: Xisuma: 1
+7: BdoubleO100: 1
+8: Etho: 1
+Total 107

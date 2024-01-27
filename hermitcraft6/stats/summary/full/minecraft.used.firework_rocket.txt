@@ -1,0 +1,28 @@
+minecraft.used.firework_rocket
+1: Grian: 2946
+2: GoodTimeWithScar: 2422
+3: iJevin: 1719
+4: cubfan135: 1441
+5: Renthedog: 1313
+6: Docm77: 893
+7: falsesymmetry: 772
+8: iskall85: 574
+9: Stressmonster101: 546
+10: Tango: 545
+11: Keralis1: 491
+12: Xisuma: 390
+13: MumboJumbo: 329
+14: joehillssays: 310
+15: PythonGB: 245
+16: impulseSV: 154
+17: ZombieCleo: 126
+18: Welsknight: 74
+19: Zedaph: 36
+20: Biffa2001: 34
+21: BdoubleO100: 20
+22: Duke_da_dog: 20
+23: HumanCleo: 8
+24: xBCrafted: 4
+25: EvilXisuma: 1
+26: BadTimeWithScar: 1
+Total 15414

@@ -1,0 +1,20 @@
+stat.pickup.minecraft.comparator
+1: cubfan135: 347
+2: Tango: 334
+3: Xisuma: 332
+4: MumboJumbo: 276
+5: impulseSV: 190
+6: iskall85: 171
+7: Zedaph: 140
+8: Renthedog: 93
+9: Docm77: 88
+10: Tinfoilchef: 53
+11: xBCrafted: 37
+12: GoodTimeWithScar: 35
+13: Etho: 22
+14: Stressmonster101: 19
+15: Welsknight: 13
+16: falsesymmetry: 11
+17: PythonGB: 2
+18: VintageBeef: 1
+Total 2164

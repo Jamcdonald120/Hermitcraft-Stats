@@ -1,0 +1,26 @@
+minecraft.picked_up.spruce_button
+1: iJevin: 195
+2: Tango: 159
+3: Renthedog: 27
+4: xBCrafted: 24
+5: impulseSV: 21
+6: RentheKing: 18
+7: hypnotizd: 12
+8: Docm77: 10
+9: MythicalSausage: 10
+10: GoodTimeWithScar: 8
+11: Stressmonster101: 8
+12: joehillssays: 6
+13: falsesymmetry: 5
+14: Xisuma: 4
+15: BdoubleO100: 4
+16: PearlescentMoon: 4
+17: Keralis1: 3
+18: OrionSound: 2
+19: GeminiTay: 2
+20: iskall85: 2
+21: Zedaph: 2
+22: Grian: 1
+23: cubfan135: 1
+24: ZombieCleo: 1
+Total 529

@@ -1,0 +1,22 @@
+minecraft.mined.red_sand
+1: PearlescentMoon: 17805
+2: Etho: 10481
+3: iJevin: 5673
+4: Keralis1: 3417
+5: joehillssays: 1365
+6: iskall85: 1133
+7: impulseSV: 879
+8: Grian: 870
+9: Xisuma: 483
+10: BdoubleO100: 392
+11: Docm77: 349
+12: cubfan135: 186
+13: VintageBeef: 111
+14: Zedaph: 93
+15: hypnotizd: 19
+16: Stressmonster101: 15
+17: xBCrafted: 9
+18: Tango: 3
+19: GoodTimeWithScar: 2
+20: falsesymmetry: 1
+Total 43286

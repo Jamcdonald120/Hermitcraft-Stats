@@ -1,0 +1,22 @@
+minecraft.used.smithing_table
+1: impulseSV: 422
+2: PearlescentMoon: 370
+3: GoodTimeWithScar: 222
+4: BdoubleO100: 29
+5: joehillssays: 28
+6: Grian: 14
+7: iJevin: 9
+8: Xisuma: 7
+9: Zedaph: 6
+10: cubfan135: 4
+11: Renthedog: 3
+12: Welsknight: 3
+13: Stressmonster101: 3
+14: Docm77: 2
+15: VintageBeef: 2
+16: GeminiTay: 2
+17: Etho: 2
+18: xBCrafted: 1
+19: hypnotizd: 1
+20: MumboJumbo: 1
+Total 1131

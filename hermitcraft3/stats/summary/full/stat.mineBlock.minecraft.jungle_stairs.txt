@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.jungle_stairs
+1: zueljin: 37
+2: monkeyfarm: 29
+3: xBCrafted: 25
+4: Xisuma: 14
+5: falsesymmetry: 13
+Total 118

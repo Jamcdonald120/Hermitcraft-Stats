@@ -1,0 +1,11 @@
+minecraft.dropped.smithing_table
+1: Tango: 195
+2: ZombieCleo: 128
+3: falsesymmetry: 2
+4: GoodTimeWithScar: 2
+5: Renthedog: 1
+6: iJevin: 1
+7: GeminiTay: 1
+8: Keralis1: 1
+9: impulseSV: 1
+Total 332

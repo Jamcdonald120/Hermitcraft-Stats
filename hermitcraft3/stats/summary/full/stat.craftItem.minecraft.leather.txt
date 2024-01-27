@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.leather
+1: Tinfoilchef: 1
+2: Spumwackles: 1
+Total 2

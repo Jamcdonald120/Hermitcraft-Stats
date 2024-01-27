@@ -1,0 +1,14 @@
+minecraft.crafted.purple_carpet
+1: VintageBeef: 6218
+2: impulseSV: 162
+3: Tango: 156
+4: falsesymmetry: 123
+5: PearlescentMoon: 21
+6: Renthedog: 6
+7: Docm77: 3
+8: Xisuma: 3
+9: ZombieCleo: 3
+10: GoodTimeWithScar: 3
+11: Keralis1: 3
+12: Zedaph: 3
+Total 6704

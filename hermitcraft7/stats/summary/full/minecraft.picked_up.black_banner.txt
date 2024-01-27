@@ -1,0 +1,18 @@
+minecraft.picked_up.black_banner
+1: Zedaph: 716
+2: joehillssays: 116
+3: Grian: 91
+4: iskall85: 75
+5: Keralis1: 53
+6: cubfan135: 44
+7: falsesymmetry: 35
+8: BdoubleO100: 29
+9: GoodTimeWithScar: 26
+10: xBCrafted: 23
+11: Etho: 11
+12: MumboJumbo: 8
+13: VintageBeef: 7
+14: Tango: 7
+15: Xisuma: 6
+16: impulseSV: 5
+Total 1252

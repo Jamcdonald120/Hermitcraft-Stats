@@ -1,0 +1,10 @@
+minecraft.dropped.deepslate_lapis_ore
+1: xBCrafted: 59
+2: falsesymmetry: 9
+3: Tango: 7
+4: PearlescentMoon: 6
+5: Zedaph: 2
+6: Xisuma: 1
+7: iJevin: 1
+8: GoodTimeWithScar: 1
+Total 86

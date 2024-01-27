@@ -1,0 +1,14 @@
+minecraft.picked_up.light_blue_bed
+1: cubfan135: 268
+2: iskall85: 30
+3: GoodTimeWithScar: 26
+4: joehillssays: 19
+5: Stressmonster101: 13
+6: Renthedog: 11
+7: Grian: 11
+8: Zedaph: 7
+9: Xisuma: 4
+10: iJevin: 4
+11: falsesymmetry: 2
+12: PythonGB: 1
+Total 396

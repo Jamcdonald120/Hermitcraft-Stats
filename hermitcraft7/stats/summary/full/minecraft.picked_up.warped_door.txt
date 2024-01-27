@@ -1,0 +1,14 @@
+minecraft.picked_up.warped_door
+1: cubfan135: 14
+2: joehillssays: 12
+3: ZombieCleo: 8
+4: xBCrafted: 7
+5: Xisuma: 6
+6: Etho: 6
+7: Grian: 3
+8: GoodTimeWithScar: 3
+9: BdoubleO100: 2
+10: falsesymmetry: 2
+11: iskall85: 1
+12: Stressmonster101: 1
+Total 65

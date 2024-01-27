@@ -1,0 +1,16 @@
+minecraft.picked_up.black_banner
+1: falsesymmetry: 88
+2: impulseSV: 48
+3: iJevin: 46
+4: Renthedog: 41
+5: GeminiTay: 30
+6: PearlescentMoon: 22
+7: RentheKing: 21
+8: Grian: 16
+9: Tango: 15
+10: cubfan135: 14
+11: joehillssays: 6
+12: BdoubleO100: 4
+13: Keralis1: 3
+14: Zedaph: 1
+Total 355

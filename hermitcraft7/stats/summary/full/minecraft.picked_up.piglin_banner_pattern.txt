@@ -1,0 +1,5 @@
+minecraft.picked_up.piglin_banner_pattern
+1: falsesymmetry: 3
+2: Etho: 2
+3: Keralis1: 1
+Total 6

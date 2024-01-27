@@ -1,0 +1,20 @@
+stat.pickup.minecraft.diamond_chestplate
+1: falsesymmetry: 34
+2: GoodTimeWithScar: 31
+3: Xisuma: 26
+4: iskall85: 22
+5: impulseSV: 22
+6: cubfan135: 21
+7: Tango: 17
+8: Welsknight: 14
+9: Renthedog: 12
+10: PythonGB: 12
+11: Tinfoilchef: 12
+12: VintageBeef: 8
+13: Etho: 5
+14: MumboJumbo: 5
+15: iJevin: 4
+16: Docm77: 2
+17: Biffa2001: 2
+18: joehillssays: 1
+Total 250

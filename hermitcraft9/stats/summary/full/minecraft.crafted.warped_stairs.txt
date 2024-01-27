@@ -1,0 +1,23 @@
+minecraft.crafted.warped_stairs
+1: Mumbo: 2384
+2: ZombieCleo: 1984
+3: Xisuma: 1272
+4: Stressmonster101: 340
+5: GoodTimeWithScar: 332
+6: falsesymmetry: 292
+7: cubfan135: 248
+8: impulseSV: 216
+9: Tango: 152
+10: PearlescentMoon: 136
+11: Keralis1: 92
+12: BdoubleO100: 52
+13: GeminiTay: 40
+14: xBCrafted: 28
+15: Grian: 20
+16: Docm77: 16
+17: Renthedog: 16
+18: Smajor1995: 8
+19: Smallishbeans: 4
+20: hypnotizd: 4
+21: Zedaph: 4
+Total 7640

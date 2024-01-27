@@ -1,0 +1,15 @@
+stat.drop.minecraft.end_stone
+1: Tango: 171
+2: Xisuma: 110
+3: cubfan135: 58
+4: Zedaph: 38
+5: Renthedog: 14
+6: GoodTimeWithScar: 9
+7: iskall85: 3
+8: MumboJumbo: 3
+9: falsesymmetry: 2
+10: Docm77: 1
+11: PythonGB: 1
+12: iJevin: 1
+13: Welsknight: 1
+Total 412

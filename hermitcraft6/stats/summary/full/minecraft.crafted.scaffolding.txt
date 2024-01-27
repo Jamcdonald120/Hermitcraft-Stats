@@ -1,0 +1,19 @@
+minecraft.crafted.scaffolding
+1: impulseSV: 13738
+2: Xisuma: 9474
+3: joehillssays: 3126
+4: cubfan135: 2854
+5: iskall85: 660
+6: Tango: 592
+7: Keralis1: 576
+8: GoodTimeWithScar: 342
+9: falsesymmetry: 300
+10: iJevin: 276
+11: Grian: 276
+12: Docm77: 252
+13: BdoubleO100: 204
+14: Zedaph: 132
+15: Renthedog: 120
+16: ZombieCleo: 66
+17: Stressmonster101: 12
+Total 33000

@@ -1,0 +1,15 @@
+stat.drop.minecraft.leather_chestplate
+1: falsesymmetry: 96
+2: Tango: 16
+3: GoodTimeWithScar: 15
+4: impulseSV: 12
+5: Renthedog: 7
+6: cubfan135: 6
+7: Xisuma: 5
+8: iskall85: 4
+9: PythonGB: 2
+10: joehillssays: 2
+11: MumboJumbo: 2
+12: Welsknight: 1
+13: Tinfoilchef: 1
+Total 169

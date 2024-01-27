@@ -1,0 +1,7 @@
+stat.useItem.minecraft.fence_gate
+1: falsesymmetry: 12
+2: zueljin: 2
+3: Tango: 2
+4: iJevin: 1
+5: Tinfoilchef: 1
+Total 18

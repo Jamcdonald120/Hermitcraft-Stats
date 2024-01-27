@@ -1,0 +1,6 @@
+minecraft.picked_up.black_glazed_terracotta
+1: Keralis1: 14
+2: Grian: 12
+3: Docm77: 10
+4: Etho: 1
+Total 37

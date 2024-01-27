@@ -1,0 +1,16 @@
+minecraft.mined.tube_coral_block
+1: GoodTimeWithScar: 921
+2: iJevin: 283
+3: Keralis1: 165
+4: impulseSV: 144
+5: Grian: 95
+6: ZombieCleo: 78
+7: VintageBeef: 67
+8: PearlescentMoon: 41
+9: Xisuma: 38
+10: xBCrafted: 33
+11: Etho: 29
+12: joehillssays: 25
+13: GeminiTay: 6
+14: Zedaph: 2
+Total 1927

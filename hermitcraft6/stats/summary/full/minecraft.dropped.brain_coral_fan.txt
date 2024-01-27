@@ -1,0 +1,5 @@
+minecraft.dropped.brain_coral_fan
+1: MumboJumbo: 13
+2: cubfan135: 6
+3: GoodTimeWithScar: 1
+Total 20

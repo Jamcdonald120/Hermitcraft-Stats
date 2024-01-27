@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.dark_oak_fence
+1: Renthedog: 3462
+2: xBCrafted: 1590
+3: falsesymmetry: 1458
+4: cubfan135: 915
+5: Welsknight: 744
+6: Xisuma: 315
+7: Stressmonster101: 225
+8: Tango: 189
+9: MumboJumbo: 138
+10: PythonGB: 114
+11: GoodTimeWithScar: 93
+12: joehillssays: 87
+13: BdoubleO100: 57
+14: Zedaph: 24
+15: iskall85: 12
+16: impulseSV: 12
+17: iJevin: 6
+Total 9441

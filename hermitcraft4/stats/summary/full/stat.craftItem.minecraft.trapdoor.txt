@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.trapdoor
+1: cubfan135: 1918
+2: Xisuma: 1410
+3: falsesymmetry: 612
+4: Tango: 488
+5: iskall85: 454
+6: GoodTimeWithScar: 324
+7: Welsknight: 230
+8: Renthedog: 208
+9: Biffa2001: 162
+10: iJevin: 156
+11: PythonGB: 132
+12: impulseSV: 94
+13: zueljin: 52
+14: joehillssays: 50
+15: Etho: 42
+16: MumboJumbo: 36
+17: VintageBeef: 32
+18: ZombieCleo: 28
+19: Tinfoilchef: 22
+20: Docm77: 16
+21: Mumbo: 6
+22: xBCrafted: 2
+Total 6474

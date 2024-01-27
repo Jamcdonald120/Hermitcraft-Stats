@@ -1,0 +1,9 @@
+minecraft.crafted.waxed_copper_block
+1: Renthedog: 756
+2: Xisuma: 735
+3: impulseSV: 419
+4: Docm77: 217
+5: falsesymmetry: 64
+6: GoodTimeWithScar: 52
+7: Keralis1: 34
+Total 2277

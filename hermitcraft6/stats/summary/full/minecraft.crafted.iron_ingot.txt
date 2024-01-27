@@ -1,0 +1,28 @@
+minecraft.crafted.iron_ingot
+1: GoodTimeWithScar: 55324
+2: cubfan135: 38081
+3: iskall85: 35961
+4: Xisuma: 33245
+5: MumboJumbo: 30142
+6: Tango: 28683
+7: Grian: 26800
+8: Renthedog: 20020
+9: iJevin: 18610
+10: falsesymmetry: 18032
+11: impulseSV: 13687
+12: Welsknight: 12124
+13: Stressmonster101: 9997
+14: Docm77: 9494
+15: Zedaph: 8639
+16: Tinfoilchef: 8375
+17: Biffa2001: 3997
+18: ZombieCleo: 3665
+19: joehillssays: 3348
+20: BdoubleO100: 2838
+21: PythonGB: 2623
+22: Keralis1: 1584
+23: xBCrafted: 399
+24: Jessassin: 157
+25: Jura_Whitey: 117
+26: HumanCleo: 36
+Total 385978

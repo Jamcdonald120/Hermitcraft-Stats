@@ -1,0 +1,7 @@
+minecraft.dropped.smooth_quartz
+1: impulseSV: 59
+2: Zedaph: 6
+3: iJevin: 3
+4: Grian: 1
+5: GoodTimeWithScar: 1
+Total 70

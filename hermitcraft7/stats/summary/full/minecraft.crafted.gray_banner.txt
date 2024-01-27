@@ -1,0 +1,11 @@
+minecraft.crafted.gray_banner
+1: Keralis1: 104
+2: Etho: 11
+3: xBCrafted: 10
+4: cubfan135: 10
+5: falsesymmetry: 5
+6: Xisuma: 3
+7: Tango: 2
+8: joehillssays: 1
+9: BdoubleO100: 1
+Total 147

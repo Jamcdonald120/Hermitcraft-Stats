@@ -1,0 +1,22 @@
+minecraft.dropped.stone_sword
+1: Tango: 344
+2: iJevin: 214
+3: impulseSV: 66
+4: Docm77: 18
+5: Xisuma: 17
+6: VintageBeef: 15
+7: hypnotizd: 11
+8: cubfan135: 9
+9: iskall85: 8
+10: Stressmonster101: 8
+11: Keralis1: 7
+12: Grian: 6
+13: Pixlriffs: 6
+14: Renthedog: 3
+15: GeminiTay: 3
+16: falsesymmetry: 3
+17: xBCrafted: 2
+18: ZombieCleo: 2
+19: Zedaph: 2
+20: Etho: 1
+Total 745

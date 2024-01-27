@@ -1,0 +1,9 @@
+stat.pickup.minecraft.light_weighted_pressure_plate
+1: falsesymmetry: 24
+2: iskall85: 23
+3: Xisuma: 12
+4: cubfan135: 12
+5: impulseSV: 10
+6: joehillssays: 1
+7: Tango: 1
+Total 83

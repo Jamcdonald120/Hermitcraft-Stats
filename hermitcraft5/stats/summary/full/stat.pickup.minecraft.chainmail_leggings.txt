@@ -1,0 +1,23 @@
+stat.pickup.minecraft.chainmail_leggings
+1: Renthedog: 43
+2: iskall85: 24
+3: Docm77: 19
+4: joehillssays: 10
+5: xBCrafted: 10
+6: GoodTimeWithScar: 10
+7: Tango: 9
+8: iJevin: 8
+9: Stressmonster101: 8
+10: Welsknight: 7
+11: Zedaph: 7
+12: cubfan135: 6
+13: PythonGB: 4
+14: falsesymmetry: 4
+15: ZombieCleo: 4
+16: Tinfoilchef: 3
+17: VintageBeef: 2
+18: BdoubleO100: 2
+19: impulseSV: 2
+20: Xisuma: 1
+21: MumboJumbo: 1
+Total 184

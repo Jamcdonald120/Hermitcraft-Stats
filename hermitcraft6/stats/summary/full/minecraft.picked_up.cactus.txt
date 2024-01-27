@@ -1,0 +1,25 @@
+minecraft.picked_up.cactus
+1: Xisuma: 33775
+2: iskall85: 2849
+3: Renthedog: 2002
+4: Grian: 1991
+5: MumboJumbo: 1854
+6: falsesymmetry: 1083
+7: Zedaph: 1013
+8: GoodTimeWithScar: 915
+9: cubfan135: 824
+10: joehillssays: 803
+11: Tango: 596
+12: Welsknight: 513
+13: iJevin: 512
+14: Docm77: 298
+15: impulseSV: 257
+16: ZombieCleo: 194
+17: Stressmonster101: 157
+18: Jessassin: 135
+19: Biffa2001: 128
+20: PythonGB: 92
+21: xBCrafted: 87
+22: BdoubleO100: 2
+23: Tinfoilchef: 1
+Total 50081

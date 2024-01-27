@@ -1,0 +1,14 @@
+minecraft.crafted.light_blue_carpet
+1: VintageBeef: 6302
+2: iJevin: 5817
+3: impulseSV: 120
+4: Renthedog: 30
+5: cubfan135: 27
+6: falsesymmetry: 24
+7: Zedaph: 9
+8: Docm77: 3
+9: Xisuma: 3
+10: Tango: 3
+11: Etho: 3
+12: Keralis1: 3
+Total 12344

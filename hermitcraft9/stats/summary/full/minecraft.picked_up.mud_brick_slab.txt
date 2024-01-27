@@ -1,0 +1,18 @@
+minecraft.picked_up.mud_brick_slab
+1: ZombieCleo: 391
+2: iJevin: 104
+3: xBCrafted: 79
+4: Keralis1: 79
+5: cubfan135: 78
+6: Renthedog: 47
+7: impulseSV: 45
+8: Xisuma: 38
+9: Etho: 35
+10: Grian: 34
+11: joehillssays: 29
+12: Zedaph: 10
+13: PearlescentMoon: 9
+14: falsesymmetry: 8
+15: Mumbo: 6
+16: GeminiTay: 4
+Total 996

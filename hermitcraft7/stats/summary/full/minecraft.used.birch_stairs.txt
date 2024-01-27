@@ -1,0 +1,20 @@
+minecraft.used.birch_stairs
+1: impulseSV: 2100
+2: Renthedog: 658
+3: xBCrafted: 540
+4: Keralis1: 429
+5: joehillssays: 370
+6: GoodTimeWithScar: 361
+7: Stressmonster101: 326
+8: Grian: 282
+9: Xisuma: 186
+10: Welsknight: 150
+11: VintageBeef: 130
+12: MumboJumbo: 67
+13: Zedaph: 29
+14: BdoubleO100: 24
+15: ZombieCleo: 11
+16: cubfan135: 7
+17: Docm77: 3
+18: iskall85: 1
+Total 5674

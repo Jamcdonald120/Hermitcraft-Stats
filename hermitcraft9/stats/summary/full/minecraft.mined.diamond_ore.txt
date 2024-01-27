@@ -1,0 +1,24 @@
+minecraft.mined.diamond_ore
+1: Grian: 45
+2: Tango: 37
+3: joehillssays: 36
+4: cubfan135: 34
+5: Docm77: 31
+6: iskall85: 31
+7: Zedaph: 30
+8: Etho: 29
+9: iJevin: 25
+10: GoodTimeWithScar: 23
+11: Xisuma: 20
+12: SolidarityGaming: 17
+13: PearlescentMoon: 14
+14: xBCrafted: 14
+15: VintageBeef: 11
+16: Renthedog: 9
+17: BdoubleO100: 7
+18: impulseSV: 2
+19: falsesymmetry: 1
+20: ZombieCleo: 1
+21: hypnotizd: 1
+22: Keralis1: 1
+Total 419

@@ -1,0 +1,6 @@
+minecraft.dropped.gray_terracotta
+1: xBCrafted: 21
+2: GoodTimeWithScar: 12
+3: BdoubleO100: 3
+4: Etho: 1
+Total 37

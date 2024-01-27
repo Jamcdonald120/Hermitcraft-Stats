@@ -1,0 +1,32 @@
+minecraft.mined.emerald_ore
+1: Xisuma: 234
+2: Grian: 142
+3: falsesymmetry: 103
+4: iJevin: 97
+5: Pixlriffs: 83
+6: VintageBeef: 70
+7: xBCrafted: 45
+8: hypnotizd: 36
+9: PearlescentMoon: 33
+10: RentheKing: 33
+11: Zedaph: 23
+12: Keralis1: 16
+13: cubfan135: 15
+14: BdoubleO100: 13
+15: Docm77: 12
+16: ZombieCleo: 11
+17: joehillssays: 9
+18: iskall85: 9
+19: Welsknight: 7
+20: Mumbo: 6
+21: MumboJumbo: 6
+22: Tango: 5
+23: Renthedog: 4
+24: impulseSV: 2
+25: MythicalSausage: 1
+26: GeminiTay: 1
+27: Etho: 1
+28: GoodTimeWithScar: 1
+29: Stressmonster101: 1
+30: ShubbleYT: 1
+Total 1020

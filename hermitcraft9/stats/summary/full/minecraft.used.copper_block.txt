@@ -1,0 +1,30 @@
+minecraft.used.copper_block
+1: Xisuma: 16286
+2: Grian: 5402
+3: GoodTimeWithScar: 5167
+4: Docm77: 4041
+5: joehillssays: 2483
+6: Keralis1: 2110
+7: PearlescentMoon: 1694
+8: cubfan135: 1402
+9: RentheKing: 1401
+10: Tango: 1307
+11: Etho: 811
+12: Mumbo: 774
+13: Zedaph: 695
+14: Pixlriffs: 685
+15: impulseSV: 586
+16: BdoubleO100: 508
+17: falsesymmetry: 478
+18: ZombieCleo: 408
+19: Renthedog: 310
+20: iskall85: 144
+21: xBCrafted: 142
+22: Smallishbeans: 59
+23: VintageBeef: 54
+24: GeminiTay: 17
+25: MumboJumbo: 15
+26: MythicalSausage: 13
+27: truesymmetry: 4
+28: Stressmonster101: 1
+Total 46997

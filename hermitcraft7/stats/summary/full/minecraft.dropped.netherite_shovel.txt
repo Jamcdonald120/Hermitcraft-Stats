@@ -1,0 +1,19 @@
+minecraft.dropped.netherite_shovel
+1: Renthedog: 12
+2: Grian: 8
+3: cubfan135: 8
+4: iJevin: 7
+5: Xisuma: 6
+6: BdoubleO100: 6
+7: GoodTimeWithScar: 5
+8: joehillssays: 2
+9: Tango: 2
+10: falsesymmetry: 2
+11: Etho: 2
+12: ZombieCleo: 2
+13: Keralis1: 2
+14: Zedaph: 2
+15: VintageBeef: 1
+16: hypnotizd: 1
+17: impulseSV: 1
+Total 69

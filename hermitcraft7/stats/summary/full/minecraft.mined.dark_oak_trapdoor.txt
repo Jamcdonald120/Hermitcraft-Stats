@@ -1,0 +1,24 @@
+minecraft.mined.dark_oak_trapdoor
+1: impulseSV: 664
+2: Keralis1: 528
+3: GoodTimeWithScar: 464
+4: Grian: 358
+5: xBCrafted: 256
+6: VintageBeef: 227
+7: BdoubleO100: 118
+8: iskall85: 106
+9: Etho: 106
+10: cubfan135: 96
+11: iJevin: 94
+12: Docm77: 50
+13: Stressmonster101: 34
+14: Xisuma: 28
+15: joehillssays: 25
+16: Tango: 23
+17: Welsknight: 18
+18: Renthedog: 11
+19: hypnotizd: 8
+20: Zedaph: 7
+21: falsesymmetry: 6
+22: ZombieCleo: 1
+Total 3228

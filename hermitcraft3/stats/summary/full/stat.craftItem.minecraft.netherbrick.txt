@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.netherbrick
+1: zueljin: 12156
+2: falsesymmetry: 10376
+3: Spumwackles: 1956
+4: Etho: 1950
+5: ZombieCleo: 1088
+6: Tango: 1023
+7: joehillssays: 855
+8: impulseSV: 772
+9: Xisuma: 443
+10: xBCrafted: 405
+11: Biffa2001: 106
+12: monkeyfarm: 39
+13: iJevin: 30
+Total 31199

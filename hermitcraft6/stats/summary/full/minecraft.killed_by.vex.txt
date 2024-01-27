@@ -1,0 +1,10 @@
+minecraft.killed_by.vex
+1: GoodTimeWithScar: 16
+2: Docm77: 6
+3: Xisuma: 4
+4: Grian: 3
+5: cubfan135: 3
+6: Renthedog: 1
+7: falsesymmetry: 1
+8: impulseSV: 1
+Total 35

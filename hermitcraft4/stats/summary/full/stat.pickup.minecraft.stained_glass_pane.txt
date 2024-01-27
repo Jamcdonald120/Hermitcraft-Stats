@@ -1,0 +1,20 @@
+stat.pickup.minecraft.stained_glass_pane
+1: falsesymmetry: 3435
+2: Xisuma: 1185
+3: iskall85: 1094
+4: cubfan135: 910
+5: Renthedog: 552
+6: GoodTimeWithScar: 515
+7: joehillssays: 408
+8: VintageBeef: 313
+9: Welsknight: 284
+10: impulseSV: 259
+11: ZombieCleo: 248
+12: Tango: 212
+13: iJevin: 205
+14: Tinfoilchef: 149
+15: zueljin: 148
+16: PythonGB: 49
+17: MumboJumbo: 22
+18: Docm77: 3
+Total 9991

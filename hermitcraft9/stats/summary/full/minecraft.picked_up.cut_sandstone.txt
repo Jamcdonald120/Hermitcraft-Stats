@@ -1,0 +1,19 @@
+minecraft.picked_up.cut_sandstone
+1: Docm77: 4851
+2: Xisuma: 1182
+3: cubfan135: 762
+4: impulseSV: 511
+5: GoodTimeWithScar: 205
+6: ZombieCleo: 154
+7: iJevin: 141
+8: Zedaph: 60
+9: Keralis1: 50
+10: PearlescentMoon: 48
+11: Renthedog: 35
+12: xBCrafted: 31
+13: Grian: 21
+14: joehillssays: 13
+15: Etho: 7
+16: Mumbo: 7
+17: Stressmonster101: 2
+Total 8080

@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.wooden_axe
+1: Tinfoilchef: 9
+2: Jessassin: 6
+3: Welsknight: 3
+4: iskall85: 2
+5: cubfan135: 2
+6: GoodTimeWithScar: 2
+7: Xisuma: 1
+8: Renthedog: 1
+9: PythonGB: 1
+10: Tango: 1
+Total 28

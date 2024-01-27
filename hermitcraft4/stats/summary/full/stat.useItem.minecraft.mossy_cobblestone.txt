@@ -1,0 +1,18 @@
+stat.useItem.minecraft.mossy_cobblestone
+1: Tinfoilchef: 221
+2: Renthedog: 112
+3: falsesymmetry: 109
+4: Tango: 91
+5: Biffa2001: 85
+6: iskall85: 80
+7: cubfan135: 48
+8: Welsknight: 42
+9: VintageBeef: 39
+10: impulseSV: 27
+11: Xisuma: 24
+12: GoodTimeWithScar: 17
+13: MumboJumbo: 11
+14: PythonGB: 9
+15: joehillssays: 4
+16: Etho: 2
+Total 921

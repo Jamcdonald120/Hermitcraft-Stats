@@ -1,0 +1,31 @@
+minecraft.crafted.anvil
+1: falsesymmetry: 1000
+2: cubfan135: 568
+3: iJevin: 447
+4: Etho: 365
+5: Keralis1: 227
+6: Docm77: 219
+7: PearlescentMoon: 219
+8: Tango: 210
+9: Stressmonster101: 210
+10: impulseSV: 168
+11: Renthedog: 146
+12: RentheKing: 142
+13: GoodTimeWithScar: 127
+14: Xisuma: 119
+15: VintageBeef: 65
+16: joehillssays: 60
+17: xBCrafted: 54
+18: ZombieCleo: 36
+19: Grian: 30
+20: iskall85: 30
+21: GeminiTay: 26
+22: BdoubleO100: 26
+23: Zedaph: 25
+24: hypnotizd: 10
+25: Mumbo: 4
+26: MythicalSausage: 2
+27: Welsknight: 2
+28: Smajor1995: 1
+29: Watcher_Grian: 1
+Total 4539

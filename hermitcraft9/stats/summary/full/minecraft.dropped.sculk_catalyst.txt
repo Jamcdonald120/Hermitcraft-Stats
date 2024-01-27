@@ -1,0 +1,12 @@
+minecraft.dropped.sculk_catalyst
+1: cubfan135: 83
+2: xBCrafted: 64
+3: Keralis1: 64
+4: joehillssays: 16
+5: Docm77: 9
+6: iJevin: 3
+7: Tango: 2
+8: Xisuma: 1
+9: GoodTimeWithScar: 1
+10: impulseSV: 1
+Total 244

@@ -1,0 +1,13 @@
+stat.drop.minecraft.nether_brick
+1: Tango: 3735
+2: impulseSV: 1829
+3: joehillssays: 70
+4: cubfan135: 66
+5: xBCrafted: 64
+6: MumboJumbo: 37
+7: GoodTimeWithScar: 25
+8: falsesymmetry: 8
+9: Zedaph: 5
+10: Xisuma: 3
+11: iskall85: 1
+Total 5843

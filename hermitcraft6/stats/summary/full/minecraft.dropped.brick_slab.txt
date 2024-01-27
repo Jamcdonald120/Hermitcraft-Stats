@@ -1,0 +1,10 @@
+minecraft.dropped.brick_slab
+1: Xisuma: 64
+2: GoodTimeWithScar: 40
+3: cubfan135: 6
+4: Renthedog: 5
+5: iJevin: 3
+6: Tango: 3
+7: MumboJumbo: 3
+8: impulseSV: 1
+Total 125

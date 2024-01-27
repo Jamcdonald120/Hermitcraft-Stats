@@ -1,0 +1,24 @@
+stat.drop.minecraft.redstone
+1: Tango: 1892
+2: MumboJumbo: 1291
+3: GoodTimeWithScar: 751
+4: Xisuma: 726
+5: cubfan135: 321
+6: Zedaph: 314
+7: iJevin: 286
+8: iskall85: 281
+9: BdoubleO100: 264
+10: Tinfoilchef: 233
+11: joehillssays: 231
+12: Renthedog: 188
+13: impulseSV: 142
+14: Biffa2001: 129
+15: VintageBeef: 128
+16: falsesymmetry: 74
+17: xBCrafted: 53
+18: PythonGB: 11
+19: Stressmonster101: 11
+20: ZombieCleo: 8
+21: Welsknight: 1
+22: Etho: 1
+Total 7336

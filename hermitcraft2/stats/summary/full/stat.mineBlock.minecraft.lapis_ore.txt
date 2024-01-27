@@ -1,0 +1,13 @@
+stat.mineBlock.minecraft.lapis_ore
+1: Xisuma: 355
+2: Tango: 182
+3: xBCrafted: 42
+4: falsesymmetry: 36
+5: Spumwackles: 19
+6: Mumbo: 18
+7: KingDaddyDMAC: 15
+8: iJevin: 13
+9: Collen: 11
+10: zueljin: 7
+11: monkeyfarm: 1
+Total 699

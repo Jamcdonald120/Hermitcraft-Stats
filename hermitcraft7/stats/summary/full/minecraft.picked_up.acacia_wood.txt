@@ -1,0 +1,11 @@
+minecraft.picked_up.acacia_wood
+1: Keralis1: 199
+2: BdoubleO100: 169
+3: xBCrafted: 128
+4: Grian: 119
+5: GoodTimeWithScar: 119
+6: Etho: 79
+7: Tango: 13
+8: cubfan135: 12
+9: iskall85: 3
+Total 841

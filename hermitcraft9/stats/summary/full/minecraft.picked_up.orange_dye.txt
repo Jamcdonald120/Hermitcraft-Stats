@@ -1,0 +1,15 @@
+minecraft.picked_up.orange_dye
+1: Renthedog: 333
+2: GoodTimeWithScar: 287
+3: Grian: 165
+4: falsesymmetry: 164
+5: iJevin: 127
+6: ZombieCleo: 57
+7: GeminiTay: 53
+8: Zedaph: 42
+9: PearlescentMoon: 13
+10: cubfan135: 5
+11: BdoubleO100: 1
+12: Etho: 1
+13: impulseSV: 1
+Total 1249

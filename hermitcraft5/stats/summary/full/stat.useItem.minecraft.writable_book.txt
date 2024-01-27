@@ -1,0 +1,24 @@
+stat.useItem.minecraft.writable_book
+1: Renthedog: 253
+2: falsesymmetry: 202
+3: cubfan135: 101
+4: PythonGB: 86
+5: Zedaph: 71
+6: impulseSV: 43
+7: MumboJumbo: 42
+8: Xisuma: 41
+9: Tango: 34
+10: GoodTimeWithScar: 29
+11: iJevin: 18
+12: iskall85: 17
+13: Welsknight: 14
+14: joehillssays: 13
+15: Stressmonster101: 11
+16: ZombieCleo: 6
+17: Tinfoilchef: 6
+18: BdoubleO100: 3
+19: Docm77: 1
+20: xBCrafted: 1
+21: xisumavoid: 1
+22: Biffa2001: 1
+Total 994

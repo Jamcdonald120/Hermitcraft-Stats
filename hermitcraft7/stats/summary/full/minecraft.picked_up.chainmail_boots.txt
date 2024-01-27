@@ -1,0 +1,23 @@
+minecraft.picked_up.chainmail_boots
+1: joehillssays: 24
+2: Grian: 16
+3: iskall85: 12
+4: Xisuma: 11
+5: hypnotizd: 11
+6: VintageBeef: 7
+7: iJevin: 6
+8: GoodTimeWithScar: 6
+9: Stressmonster101: 6
+10: cubfan135: 5
+11: impulseSV: 5
+12: Zedaph: 5
+13: Renthedog: 4
+14: Etho: 3
+15: Keralis1: 2
+16: Tango: 1
+17: BdoubleO100: 1
+18: xBCrafted: 1
+19: falsesymmetry: 1
+20: Welsknight: 1
+21: MumboJumbo: 1
+Total 129

@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.ender_chest
+1: Xisuma: 99
+2: Mumbo: 34
+3: Tinfoilchef: 13
+4: falsesymmetry: 12
+5: Biffa2001: 12
+6: KingDaddyDMAC: 10
+7: impulseSV: 10
+8: xBCrafted: 8
+9: Tango: 7
+10: monkeyfarm: 6
+11: ZombieCleo: 4
+12: PythonGB: 3
+13: hypnotizd: 3
+14: Spumwackles: 2
+15: sl1pg8r: 1
+16: topmass: 1
+17: zueljin: 1
+Total 226

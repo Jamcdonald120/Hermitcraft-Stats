@@ -1,0 +1,5 @@
+stat.entityKilledBy.VindicationIllager
+1: Xisuma: 3
+2: Tinfoilchef: 3
+3: cubfan135: 1
+Total 7

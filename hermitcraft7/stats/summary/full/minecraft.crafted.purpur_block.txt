@@ -1,0 +1,9 @@
+minecraft.crafted.purpur_block
+1: impulseSV: 5232
+2: Tango: 1536
+3: cubfan135: 388
+4: Etho: 256
+5: joehillssays: 160
+6: Keralis1: 8
+7: VintageBeef: 4
+Total 7584

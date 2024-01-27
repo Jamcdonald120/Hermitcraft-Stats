@@ -1,0 +1,22 @@
+minecraft.crafted.jungle_slab
+1: Xisuma: 7410
+2: Etho: 5916
+3: joehillssays: 4838
+4: cubfan135: 2888
+5: GoodTimeWithScar: 2118
+6: Tango: 946
+7: MumboJumbo: 816
+8: Grian: 653
+9: VintageBeef: 582
+10: BdoubleO100: 378
+11: xBCrafted: 378
+12: Stressmonster101: 372
+13: iskall85: 282
+14: Zedaph: 222
+15: Renthedog: 180
+16: Keralis1: 168
+17: impulseSV: 60
+18: Docm77: 24
+19: iJevin: 18
+20: Welsknight: 6
+Total 28255

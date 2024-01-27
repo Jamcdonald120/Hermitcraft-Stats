@@ -1,0 +1,20 @@
+minecraft.crafted.lectern
+1: Xisuma: 214
+2: impulseSV: 79
+3: iskall85: 73
+4: falsesymmetry: 44
+5: cubfan135: 43
+6: GoodTimeWithScar: 32
+7: Grian: 29
+8: Stressmonster101: 24
+9: MumboJumbo: 19
+10: BdoubleO100: 17
+11: joehillssays: 16
+12: Tinfoilchef: 11
+13: ZombieCleo: 7
+14: Renthedog: 2
+15: HumanCleo: 1
+16: Tango: 1
+17: Welsknight: 1
+18: Keralis1: 1
+Total 614

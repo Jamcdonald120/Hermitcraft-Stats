@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.slime
+1: Xisuma: 2013
+2: xBCrafted: 1084
+3: KingDaddyDMAC: 320
+4: Mumbo: 286
+5: falsesymmetry: 280
+6: impulseSV: 227
+7: monkeyfarm: 167
+8: sl1pg8r: 162
+9: Biffa2001: 151
+10: Tango: 110
+11: Etho: 101
+12: topmass: 75
+13: zueljin: 39
+14: hypnotizd: 38
+15: iJevin: 11
+16: PythonGB: 1
+Total 5065

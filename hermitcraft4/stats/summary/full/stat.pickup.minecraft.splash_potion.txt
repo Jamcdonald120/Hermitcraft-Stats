@@ -1,0 +1,11 @@
+stat.pickup.minecraft.splash_potion
+1: iskall85: 24
+2: Xisuma: 12
+3: falsesymmetry: 10
+4: cubfan135: 5
+5: VintageBeef: 3
+6: Etho: 3
+7: Welsknight: 2
+8: GoodTimeWithScar: 1
+9: impulseSV: 1
+Total 61

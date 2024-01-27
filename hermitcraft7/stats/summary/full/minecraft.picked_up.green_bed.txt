@@ -1,0 +1,15 @@
+minecraft.picked_up.green_bed
+1: BdoubleO100: 529
+2: impulseSV: 29
+3: iJevin: 19
+4: Xisuma: 17
+5: VintageBeef: 12
+6: joehillssays: 10
+7: GoodTimeWithScar: 10
+8: Docm77: 9
+9: iskall85: 9
+10: ZombieCleo: 2
+11: Keralis1: 2
+12: Grian: 1
+13: cubfan135: 1
+Total 650

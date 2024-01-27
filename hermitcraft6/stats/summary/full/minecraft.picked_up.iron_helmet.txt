@@ -1,0 +1,28 @@
+minecraft.picked_up.iron_helmet
+1: Tango: 112
+2: cubfan135: 47
+3: GoodTimeWithScar: 30
+4: iskall85: 28
+5: Grian: 26
+6: falsesymmetry: 21
+7: PythonGB: 19
+8: iJevin: 11
+9: Docm77: 10
+10: Stressmonster101: 8
+11: Renthedog: 7
+12: joehillssays: 7
+13: impulseSV: 6
+14: Zedaph: 6
+15: Xisuma: 5
+16: BdoubleO100: 5
+17: Biffa2001: 5
+18: MumboJumbo: 5
+19: Keralis1: 5
+20: ZombieCleo: 4
+21: Jura_Whitey: 1
+22: PokePugx: 1
+23: xBCrafted: 1
+24: Welsknight: 1
+25: Cojomax99: 1
+26: PhoenixfireLune: 1
+Total 373

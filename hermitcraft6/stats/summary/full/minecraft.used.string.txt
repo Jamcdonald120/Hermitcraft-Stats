@@ -1,0 +1,23 @@
+minecraft.used.string
+1: GoodTimeWithScar: 4126
+2: cubfan135: 2788
+3: iskall85: 1746
+4: Xisuma: 1012
+5: ZombieCleo: 762
+6: MumboJumbo: 734
+7: Renthedog: 629
+8: falsesymmetry: 591
+9: impulseSV: 477
+10: Grian: 376
+11: Tango: 359
+12: Docm77: 211
+13: Zedaph: 73
+14: Keralis1: 39
+15: PythonGB: 25
+16: BdoubleO100: 21
+17: Stressmonster101: 13
+18: joehillssays: 9
+19: HumanCleo: 8
+20: Tinfoilchef: 4
+21: iJevin: 2
+Total 14005

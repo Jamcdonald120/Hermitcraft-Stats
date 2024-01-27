@@ -1,0 +1,9 @@
+stat.drop.minecraft.concrete_powder
+1: cubfan135: 350
+2: Xisuma: 341
+3: PythonGB: 128
+4: GoodTimeWithScar: 108
+5: Tango: 64
+6: iskall85: 61
+7: impulseSV: 18
+Total 1070

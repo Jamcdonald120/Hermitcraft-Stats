@@ -1,0 +1,21 @@
+minecraft.picked_up.cyan_carpet
+1: VintageBeef: 1543
+2: PearlescentMoon: 723
+3: falsesymmetry: 361
+4: impulseSV: 105
+5: cubfan135: 90
+6: Tango: 83
+7: iJevin: 75
+8: GeminiTay: 29
+9: xBCrafted: 29
+10: Keralis1: 28
+11: Welsknight: 17
+12: iskall85: 8
+13: Smajor1995: 7
+14: Renthedog: 5
+15: Etho: 2
+16: MythicalSausage: 1
+17: ZombieCleo: 1
+18: Stressmonster101: 1
+19: Zedaph: 1
+Total 3109

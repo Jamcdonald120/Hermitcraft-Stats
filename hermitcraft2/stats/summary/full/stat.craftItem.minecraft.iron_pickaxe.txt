@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.iron_pickaxe
+1: xBCrafted: 4
+2: Tango: 2
+3: iJevin: 1
+4: Spumwackles: 1
+5: NameOfSamuel: 1
+Total 9

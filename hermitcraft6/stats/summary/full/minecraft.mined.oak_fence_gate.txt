@@ -1,0 +1,21 @@
+minecraft.mined.oak_fence_gate
+1: Renthedog: 330
+2: iJevin: 183
+3: Keralis1: 39
+4: MumboJumbo: 33
+5: Xisuma: 32
+6: GoodTimeWithScar: 30
+7: falsesymmetry: 23
+8: Grian: 22
+9: iskall85: 19
+10: Stressmonster101: 13
+11: impulseSV: 13
+12: Tinfoilchef: 9
+13: Biffa2001: 8
+14: cubfan135: 6
+15: Zedaph: 6
+16: BdoubleO100: 5
+17: Docm77: 3
+18: Welsknight: 2
+19: Tango: 1
+Total 777

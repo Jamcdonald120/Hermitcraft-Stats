@@ -1,0 +1,27 @@
+minecraft.used.string
+1: falsesymmetry: 7830
+2: Tango: 6365
+3: PearlescentMoon: 6195
+4: joehillssays: 3891
+5: Renthedog: 1257
+6: ZombieCleo: 933
+7: GeminiTay: 764
+8: GoodTimeWithScar: 622
+9: Docm77: 546
+10: Keralis1: 300
+11: Grian: 246
+12: cubfan135: 228
+13: xBCrafted: 182
+14: Xisuma: 81
+15: BdoubleO100: 78
+16: hypnotizd: 75
+17: Etho: 63
+18: Zedaph: 53
+19: VintageBeef: 49
+20: iskall85: 31
+21: impulseSV: 28
+22: Mumbo: 23
+23: iJevin: 18
+24: Skizzleman: 2
+25: LDShadowLady: 1
+Total 29861

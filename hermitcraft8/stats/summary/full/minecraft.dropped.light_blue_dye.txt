@@ -1,0 +1,8 @@
+minecraft.dropped.light_blue_dye
+1: Etho: 64
+2: Docm77: 56
+3: Grian: 9
+4: Zedaph: 3
+5: Renthedog: 1
+6: xBCrafted: 1
+Total 134

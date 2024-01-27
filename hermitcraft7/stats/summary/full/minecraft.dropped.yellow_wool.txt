@@ -1,0 +1,14 @@
+minecraft.dropped.yellow_wool
+1: VintageBeef: 1026
+2: GoodTimeWithScar: 187
+3: cubfan135: 178
+4: BdoubleO100: 60
+5: Tango: 11
+6: falsesymmetry: 9
+7: MumboJumbo: 8
+8: Etho: 6
+9: Keralis1: 2
+10: impulseSV: 2
+11: Zedaph: 2
+12: Grian: 1
+Total 1492

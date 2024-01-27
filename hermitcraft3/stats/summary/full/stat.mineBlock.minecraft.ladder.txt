@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.ladder
+1: falsesymmetry: 1773
+2: Xisuma: 1011
+3: xBCrafted: 595
+4: sl1pg8r: 554
+5: monkeyfarm: 394
+6: zueljin: 262
+7: Tango: 161
+8: joehillssays: 118
+9: Biffa2001: 111
+10: Mumbo: 109
+11: topmass: 104
+12: impulseSV: 92
+13: ZombieCleo: 87
+14: hypnotizd: 73
+15: iJevin: 65
+16: Tinfoilchef: 64
+17: skyzm: 63
+18: KingDaddyDMAC: 52
+19: PythonGB: 40
+20: Etho: 18
+21: Docm77: 8
+22: Spumwackles: 2
+Total 5756

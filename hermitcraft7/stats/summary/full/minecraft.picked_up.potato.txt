@@ -1,0 +1,26 @@
+minecraft.picked_up.potato
+1: iJevin: 17308
+2: Grian: 3689
+3: GoodTimeWithScar: 3429
+4: xBCrafted: 2283
+5: impulseSV: 1794
+6: Etho: 1704
+7: iskall85: 1417
+8: Zedaph: 1030
+9: cubfan135: 867
+10: Renthedog: 712
+11: MumboJumbo: 600
+12: Keralis1: 268
+13: BdoubleO100: 258
+14: joehillssays: 162
+15: Xisuma: 136
+16: ZombieCleo: 106
+17: Tango: 75
+18: VintageBeef: 40
+19: falsesymmetry: 20
+20: hypnotizd: 18
+21: Welsknight: 12
+22: Docm77: 9
+23: HermitcraftAlt: 6
+24: Stressmonster101: 2
+Total 35945

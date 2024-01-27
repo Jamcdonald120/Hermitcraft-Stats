@@ -1,0 +1,25 @@
+minecraft.picked_up.enchanted_book
+1: cubfan135: 300
+2: Xisuma: 159
+3: iskall85: 117
+4: Biffa2001: 102
+5: Stressmonster101: 80
+6: GoodTimeWithScar: 68
+7: iJevin: 49
+8: falsesymmetry: 41
+9: Grian: 35
+10: impulseSV: 23
+11: Tango: 20
+12: Docm77: 18
+13: Renthedog: 13
+14: joehillssays: 8
+15: Welsknight: 8
+16: ZombieCleo: 7
+17: Zedaph: 7
+18: MumboJumbo: 5
+19: xBCrafted: 4
+20: BdoubleO100: 3
+21: Tinfoilchef: 3
+22: PythonGB: 1
+23: Jessassin: 1
+Total 1072

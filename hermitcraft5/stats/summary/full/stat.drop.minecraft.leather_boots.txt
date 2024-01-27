@@ -1,0 +1,24 @@
+stat.drop.minecraft.leather_boots
+1: Renthedog: 203
+2: Xisuma: 150
+3: Welsknight: 147
+4: GoodTimeWithScar: 114
+5: MumboJumbo: 112
+6: iskall85: 96
+7: impulseSV: 76
+8: Tinfoilchef: 72
+9: falsesymmetry: 62
+10: xBCrafted: 56
+11: cubfan135: 45
+12: Tango: 37
+13: Zedaph: 33
+14: BdoubleO100: 23
+15: Docm77: 11
+16: Stressmonster101: 11
+17: PythonGB: 7
+18: VintageBeef: 6
+19: iJevin: 5
+20: Etho: 2
+21: joehillssays: 1
+22: Biffa2001: 1
+Total 1270

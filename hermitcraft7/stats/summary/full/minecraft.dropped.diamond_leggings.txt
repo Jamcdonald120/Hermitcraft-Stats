@@ -1,0 +1,22 @@
+minecraft.dropped.diamond_leggings
+1: iJevin: 33
+2: Tango: 13
+3: Grian: 9
+4: iskall85: 8
+5: cubfan135: 7
+6: hypnotizd: 7
+7: Keralis1: 6
+8: Zedaph: 6
+9: VintageBeef: 4
+10: GoodTimeWithScar: 4
+11: Xisuma: 3
+12: MumboJumbo: 3
+13: Renthedog: 2
+14: BdoubleO100: 2
+15: Etho: 2
+16: Docm77: 1
+17: joehillssays: 1
+18: falsesymmetry: 1
+19: BarryBoss1234: 1
+20: Mumbo: 1
+Total 114

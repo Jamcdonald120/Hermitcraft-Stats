@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.book
+1: impulseSV: 1691
+2: Zedaph: 727
+3: iJevin: 695
+4: Welsknight: 691
+5: GoodTimeWithScar: 636
+6: Tango: 594
+7: falsesymmetry: 534
+8: Renthedog: 297
+9: joehillssays: 297
+10: Tinfoilchef: 269
+11: iskall85: 251
+12: PythonGB: 145
+13: cubfan135: 145
+14: Stressmonster101: 95
+15: VintageBeef: 89
+16: Etho: 88
+17: Xisuma: 28
+18: BdoubleO100: 23
+19: MumboJumbo: 23
+20: Biffa2001: 21
+21: ZombieCleo: 20
+22: xBCrafted: 1
+Total 7360

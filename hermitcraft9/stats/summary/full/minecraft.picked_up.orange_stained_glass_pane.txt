@@ -1,0 +1,14 @@
+minecraft.picked_up.orange_stained_glass_pane
+1: falsesymmetry: 181
+2: Grian: 56
+3: hypnotizd: 22
+4: impulseSV: 20
+5: Zedaph: 20
+6: PearlescentMoon: 19
+7: Xisuma: 15
+8: Renthedog: 12
+9: iJevin: 4
+10: xBCrafted: 4
+11: cubfan135: 3
+12: Docm77: 2
+Total 358

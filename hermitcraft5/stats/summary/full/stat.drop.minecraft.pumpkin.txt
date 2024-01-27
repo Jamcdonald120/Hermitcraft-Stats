@@ -1,0 +1,16 @@
+stat.drop.minecraft.pumpkin
+1: Tango: 3685
+2: MumboJumbo: 3104
+3: falsesymmetry: 320
+4: Renthedog: 259
+5: Zedaph: 204
+6: cubfan135: 127
+7: GoodTimeWithScar: 64
+8: impulseSV: 50
+9: Tinfoilchef: 49
+10: Docm77: 28
+11: iskall85: 14
+12: Xisuma: 12
+13: xBCrafted: 4
+14: ZombieCleo: 1
+Total 7921

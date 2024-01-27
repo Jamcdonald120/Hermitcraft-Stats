@@ -1,0 +1,19 @@
+minecraft.picked_up.lime_stained_glass
+1: Grian: 1014
+2: impulseSV: 970
+3: falsesymmetry: 824
+4: joehillssays: 756
+5: PearlescentMoon: 704
+6: cubfan135: 242
+7: GoodTimeWithScar: 238
+8: iskall85: 170
+9: Xisuma: 85
+10: xBCrafted: 48
+11: Keralis1: 32
+12: Etho: 19
+13: BdoubleO100: 14
+14: Renthedog: 10
+15: iJevin: 4
+16: Zedaph: 3
+17: RentheKing: 2
+Total 5135

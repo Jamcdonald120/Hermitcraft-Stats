@@ -1,0 +1,13 @@
+stat.pickup.minecraft.green_shulker_box
+1: GoodTimeWithScar: 175
+2: cubfan135: 141
+3: joehillssays: 56
+4: iskall85: 44
+5: Xisuma: 35
+6: Welsknight: 32
+7: Tango: 21
+8: falsesymmetry: 18
+9: Renthedog: 17
+10: impulseSV: 17
+11: MumboJumbo: 2
+Total 558

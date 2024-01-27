@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.wool
+1: Mumbo: 2209
+2: Tango: 1672
+3: impulseSV: 1462
+4: Xisuma: 1461
+5: xBCrafted: 1393
+6: Tinfoilchef: 1233
+7: zueljin: 922
+8: falsesymmetry: 506
+9: monkeyfarm: 102
+10: topmass: 51
+11: ZombieCleo: 24
+12: Spumwackles: 20
+13: sl1pg8r: 14
+14: Etho: 4
+15: hypnotizd: 4
+16: Docm77: 3
+17: iJevin: 3
+Total 11083

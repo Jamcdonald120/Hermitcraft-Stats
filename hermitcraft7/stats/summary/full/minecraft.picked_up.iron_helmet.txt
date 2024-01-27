@@ -1,0 +1,25 @@
+minecraft.picked_up.iron_helmet
+1: Etho: 44
+2: Xisuma: 38
+3: MumboJumbo: 38
+4: falsesymmetry: 37
+5: Zedaph: 35
+6: joehillssays: 30
+7: xBCrafted: 28
+8: iJevin: 26
+9: cubfan135: 26
+10: impulseSV: 25
+11: Tango: 24
+12: Grian: 23
+13: GoodTimeWithScar: 16
+14: Keralis1: 14
+15: VintageBeef: 11
+16: iskall85: 8
+17: hypnotizd: 8
+18: Welsknight: 3
+19: Docm77: 2
+20: Tinfoilchef: 2
+21: Renthedog: 1
+22: ZombieCleo: 1
+23: Stressmonster101: 1
+Total 441

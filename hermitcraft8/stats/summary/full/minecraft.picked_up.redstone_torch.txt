@@ -1,0 +1,27 @@
+minecraft.picked_up.redstone_torch
+1: joehillssays: 528
+2: iJevin: 414
+3: Zedaph: 345
+4: impulseSV: 317
+5: Etho: 265
+6: Tango: 237
+7: iskall85: 161
+8: Xisuma: 155
+9: Docm77: 134
+10: cubfan135: 124
+11: ZombieCleo: 87
+12: MumboJumbo: 84
+13: Welsknight: 75
+14: hypnotizd: 73
+15: GoodTimeWithScar: 70
+16: GeminiTay: 55
+17: Stressmonster101: 44
+18: xBCrafted: 43
+19: BdoubleO100: 27
+20: Grian: 24
+21: Renthedog: 20
+22: Keralis1: 17
+23: PearlescentMoon: 13
+24: VintageBeef: 9
+25: falsesymmetry: 9
+Total 3330

@@ -1,0 +1,5 @@
+minecraft.dropped.damaged_anvil
+1: Docm77: 1
+2: iJevin: 1
+3: xBCrafted: 1
+Total 3

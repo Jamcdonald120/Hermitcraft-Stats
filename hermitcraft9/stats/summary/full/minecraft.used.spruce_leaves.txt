@@ -1,0 +1,28 @@
+minecraft.used.spruce_leaves
+1: Keralis1: 10404
+2: GoodTimeWithScar: 7899
+3: GeminiTay: 5913
+4: falsesymmetry: 5730
+5: Renthedog: 3761
+6: Docm77: 3339
+7: hypnotizd: 1614
+8: MythicalSausage: 1447
+9: BdoubleO100: 1269
+10: Smallishbeans: 978
+11: joehillssays: 671
+12: VintageBeef: 564
+13: Grian: 551
+14: PearlescentMoon: 488
+15: cubfan135: 393
+16: Tango: 207
+17: Etho: 165
+18: iJevin: 85
+19: xBCrafted: 77
+20: OrionSound: 71
+21: Zedaph: 12
+22: Xisuma: 9
+23: Stressmonster101: 7
+24: ZombieCleo: 4
+25: iskall85: 1
+26: RentheKing: 1
+Total 45660

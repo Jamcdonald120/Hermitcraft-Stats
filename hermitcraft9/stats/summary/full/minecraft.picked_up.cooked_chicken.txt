@@ -1,0 +1,25 @@
+minecraft.picked_up.cooked_chicken
+1: Xisuma: 2857
+2: Zedaph: 697
+3: ZombieCleo: 595
+4: Docm77: 233
+5: cubfan135: 103
+6: VintageBeef: 54
+7: PearlescentMoon: 54
+8: Etho: 45
+9: Keralis1: 41
+10: Renthedog: 29
+11: Grian: 25
+12: GoodTimeWithScar: 22
+13: impulseSV: 18
+14: GeminiTay: 15
+15: iskall85: 9
+16: hypnotizd: 7
+17: Tango: 5
+18: Minerva246: 3
+19: iJevin: 3
+20: joehillssays: 2
+21: BdoubleO100: 2
+22: xBCrafted: 1
+23: Stressmonster101: 1
+Total 4821

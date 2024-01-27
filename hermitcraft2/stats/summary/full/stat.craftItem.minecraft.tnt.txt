@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.tnt
+1: Tango: 6208
+2: Xisuma: 5347
+3: Mumbo: 832
+4: Biffa2001: 685
+5: Spumwackles: 335
+6: iJevin: 9
+Total 13416

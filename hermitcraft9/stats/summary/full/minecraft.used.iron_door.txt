@@ -1,0 +1,28 @@
+minecraft.used.iron_door
+1: impulseSV: 163
+2: Docm77: 92
+3: PearlescentMoon: 81
+4: cubfan135: 63
+5: GoodTimeWithScar: 46
+6: Grian: 37
+7: xBCrafted: 33
+8: RentheKing: 26
+9: Tango: 25
+10: Renthedog: 24
+11: ZombieCleo: 19
+12: falsesymmetry: 15
+13: BdoubleO100: 13
+14: iskall85: 8
+15: VintageBeef: 4
+16: MythicalSausage: 4
+17: Xisuma: 3
+18: joehillssays: 3
+19: Stressmonster101: 3
+20: Keralis1: 3
+21: Mumbo: 2
+22: MumboJumbo: 2
+23: fWhip: 2
+24: Smajor1995: 1
+25: Etho: 1
+26: hypnotizd: 1
+Total 674

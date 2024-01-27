@@ -1,0 +1,15 @@
+minecraft.picked_up.bamboo_planks
+1: Renthedog: 193
+2: Keralis1: 41
+3: Xisuma: 29
+4: joehillssays: 23
+5: cubfan135: 10
+6: GoodTimeWithScar: 6
+7: Docm77: 5
+8: PearlescentMoon: 4
+9: iskall85: 3
+10: BdoubleO100: 2
+11: GeminiTay: 1
+12: falsesymmetry: 1
+13: Mumbo: 1
+Total 319

@@ -1,0 +1,28 @@
+minecraft.picked_up.oak_stairs
+1: Grian: 1288
+2: cubfan135: 296
+3: GoodTimeWithScar: 232
+4: xBCrafted: 221
+5: Renthedog: 213
+6: VintageBeef: 160
+7: iskall85: 126
+8: Docm77: 82
+9: PearlescentMoon: 82
+10: Zedaph: 40
+11: Tango: 36
+12: Etho: 31
+13: MythicalSausage: 25
+14: Xisuma: 23
+15: Keralis1: 21
+16: iJevin: 19
+17: SolidarityGaming: 16
+18: Stressmonster101: 14
+19: ZombieCleo: 12
+20: BdoubleO100: 5
+21: Pixlriffs: 5
+22: Welsknight: 4
+23: hypnotizd: 4
+24: impulseSV: 4
+25: Mumbo: 1
+26: MumboJumbo: 1
+Total 2961

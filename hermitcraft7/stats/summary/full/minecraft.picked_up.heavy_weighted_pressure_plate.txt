@@ -1,0 +1,21 @@
+minecraft.picked_up.heavy_weighted_pressure_plate
+1: VintageBeef: 319
+2: iJevin: 256
+3: Etho: 33
+4: Tango: 19
+5: falsesymmetry: 19
+6: cubfan135: 17
+7: GoodTimeWithScar: 15
+8: joehillssays: 12
+9: iskall85: 11
+10: Xisuma: 10
+11: MumboJumbo: 10
+12: impulseSV: 8
+13: BdoubleO100: 7
+14: Zedaph: 5
+15: xBCrafted: 3
+16: Docm77: 2
+17: Grian: 2
+18: Keralis1: 2
+19: Renthedog: 1
+Total 751

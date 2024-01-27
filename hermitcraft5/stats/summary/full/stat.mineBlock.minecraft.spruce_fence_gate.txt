@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.spruce_fence_gate
+1: falsesymmetry: 93
+2: cubfan135: 38
+3: GoodTimeWithScar: 30
+4: Stressmonster101: 29
+5: iJevin: 13
+6: Xisuma: 5
+7: joehillssays: 5
+8: Tango: 5
+9: Tinfoilchef: 5
+10: VintageBeef: 4
+11: iskall85: 4
+12: PythonGB: 3
+13: Welsknight: 1
+Total 235

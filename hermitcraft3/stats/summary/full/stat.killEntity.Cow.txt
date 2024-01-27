@@ -1,0 +1,25 @@
+stat.killEntity.Cow
+1: falsesymmetry: 1048
+2: xBCrafted: 914
+3: Tango: 902
+4: Biffa2001: 669
+5: Tinfoilchef: 594
+6: zueljin: 564
+7: Xisuma: 544
+8: Mumbo: 417
+9: sl1pg8r: 387
+10: Spumwackles: 348
+11: hypnotizd: 318
+12: ZombieCleo: 300
+13: KingDaddyDMAC: 232
+14: monkeyfarm: 223
+15: topmass: 212
+16: impulseSV: 202
+17: PythonGB: 197
+18: iJevin: 128
+19: joehillssays: 21
+20: NameOfSamuel: 5
+21: Collen: 3
+22: skyzm: 1
+23: Pungence: 1
+Total 8230

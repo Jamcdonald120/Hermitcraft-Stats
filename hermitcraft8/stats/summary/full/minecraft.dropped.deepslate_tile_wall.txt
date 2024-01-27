@@ -1,0 +1,7 @@
+minecraft.dropped.deepslate_tile_wall
+1: iJevin: 38
+2: Grian: 25
+3: GoodTimeWithScar: 4
+4: Docm77: 1
+5: ZombieCleo: 1
+Total 69

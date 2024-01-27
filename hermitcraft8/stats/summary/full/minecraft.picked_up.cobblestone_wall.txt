@@ -1,0 +1,24 @@
+minecraft.picked_up.cobblestone_wall
+1: Tango: 805
+2: iJevin: 196
+3: ZombieCleo: 115
+4: Xisuma: 62
+5: Welsknight: 50
+6: impulseSV: 34
+7: BdoubleO100: 32
+8: GoodTimeWithScar: 32
+9: Docm77: 26
+10: xBCrafted: 26
+11: Grian: 25
+12: GeminiTay: 18
+13: MumboJumbo: 13
+14: cubfan135: 12
+15: Keralis1: 12
+16: PearlescentMoon: 10
+17: joehillssays: 8
+18: falsesymmetry: 7
+19: VintageBeef: 6
+20: Renthedog: 4
+21: iskall85: 3
+22: EvilXisuma: 1
+Total 1497

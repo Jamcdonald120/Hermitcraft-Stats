@@ -1,0 +1,21 @@
+minecraft.crafted.dark_oak_sign
+1: joehillssays: 451
+2: Tango: 330
+3: Xisuma: 228
+4: iJevin: 219
+5: Grian: 126
+6: ZombieCleo: 118
+7: GoodTimeWithScar: 102
+8: falsesymmetry: 96
+9: xBCrafted: 87
+10: Keralis1: 87
+11: Docm77: 63
+12: GeminiTay: 51
+13: cubfan135: 48
+14: Etho: 15
+15: hypnotizd: 15
+16: BdoubleO100: 9
+17: Renthedog: 6
+18: Welsknight: 6
+19: VintageBeef: 3
+Total 2060

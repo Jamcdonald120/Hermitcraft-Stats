@@ -1,0 +1,15 @@
+minecraft.picked_up.nautilus_shell
+1: GoodTimeWithScar: 59
+2: Etho: 57
+3: Docm77: 15
+4: iskall85: 14
+5: cubfan135: 12
+6: Grian: 11
+7: BdoubleO100: 9
+8: hypnotizd: 8
+9: Xisuma: 6
+10: PearlescentMoon: 5
+11: iJevin: 1
+12: GeminiTay: 1
+13: xBCrafted: 1
+Total 199

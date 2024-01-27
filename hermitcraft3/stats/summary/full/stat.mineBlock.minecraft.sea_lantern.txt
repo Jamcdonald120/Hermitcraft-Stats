@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.sea_lantern
+1: xBCrafted: 1355
+2: impulseSV: 1274
+3: Xisuma: 849
+4: falsesymmetry: 559
+5: Tango: 462
+6: sl1pg8r: 406
+7: Mumbo: 301
+8: Tinfoilchef: 286
+9: zueljin: 249
+10: ZombieCleo: 168
+11: hypnotizd: 123
+12: monkeyfarm: 113
+13: Etho: 98
+14: Biffa2001: 96
+15: KingDaddyDMAC: 47
+16: topmass: 45
+17: PythonGB: 33
+18: iJevin: 5
+19: Docm77: 4
+20: joehillssays: 4
+21: Keralis1: 1
+Total 6478

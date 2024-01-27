@@ -1,0 +1,9 @@
+minecraft.crafted.prismarine_brick_slab
+1: Mumbo: 96
+2: falsesymmetry: 90
+3: ZombieCleo: 64
+4: GeminiTay: 42
+5: Xisuma: 12
+6: GoodTimeWithScar: 2
+7: Zedaph: 2
+Total 308

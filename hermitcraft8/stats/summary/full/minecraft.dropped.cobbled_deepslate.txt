@@ -1,0 +1,27 @@
+minecraft.dropped.cobbled_deepslate
+1: Etho: 1082
+2: Docm77: 965
+3: iJevin: 947
+4: xBCrafted: 587
+5: Zedaph: 577
+6: MumboJumbo: 565
+7: iskall85: 555
+8: GoodTimeWithScar: 383
+9: Renthedog: 311
+10: Xisuma: 257
+11: impulseSV: 191
+12: cubfan135: 181
+13: PearlescentMoon: 161
+14: Grian: 152
+15: hypnotizd: 120
+16: BdoubleO100: 89
+17: Tango: 77
+18: Keralis1: 21
+19: GeminiTay: 18
+20: ZombieCleo: 15
+21: falsesymmetry: 14
+22: joehillssays: 10
+23: VintageBeef: 4
+24: Welsknight: 3
+25: Stressmonster101: 1
+Total 7286

@@ -1,0 +1,15 @@
+minecraft.dropped.lapis_ore
+1: Tango: 83
+2: GoodTimeWithScar: 35
+3: iJevin: 22
+4: Keralis1: 11
+5: VintageBeef: 8
+6: Xisuma: 6
+7: Renthedog: 5
+8: Grian: 4
+9: xBCrafted: 2
+10: Mumbo: 2
+11: Zedaph: 2
+12: Docm77: 1
+13: iskall85: 1
+Total 182

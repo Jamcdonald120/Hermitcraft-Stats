@@ -1,0 +1,4 @@
+minecraft.picked_up.arms_up_pottery_sherd
+1: cubfan135: 9
+2: Zedaph: 2
+Total 11

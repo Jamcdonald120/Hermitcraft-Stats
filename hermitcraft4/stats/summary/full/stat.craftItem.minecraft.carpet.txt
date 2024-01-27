@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.carpet
+1: iskall85: 6129
+2: Xisuma: 4827
+3: Tango: 4159
+4: GoodTimeWithScar: 3249
+5: cubfan135: 2850
+6: falsesymmetry: 2490
+7: ZombieCleo: 1428
+8: Renthedog: 843
+9: VintageBeef: 561
+10: impulseSV: 501
+11: Welsknight: 300
+12: Etho: 261
+13: joehillssays: 96
+14: Tinfoilchef: 96
+15: MumboJumbo: 72
+16: Docm77: 60
+17: PythonGB: 48
+18: zueljin: 9
+19: Biffa2001: 3
+Total 27982

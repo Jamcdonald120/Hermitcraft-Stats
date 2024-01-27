@@ -1,0 +1,8 @@
+minecraft.picked_up.music_disc_strad
+1: falsesymmetry: 83
+2: Grian: 22
+3: joehillssays: 4
+4: iJevin: 3
+5: Docm77: 1
+6: iskall85: 1
+Total 114

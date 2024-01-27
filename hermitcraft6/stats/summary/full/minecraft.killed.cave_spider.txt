@@ -1,0 +1,20 @@
+minecraft.killed.cave_spider
+1: impulseSV: 11440
+2: iJevin: 499
+3: iskall85: 434
+4: Zedaph: 365
+5: cubfan135: 240
+6: Grian: 44
+7: Xisuma: 30
+8: GoodTimeWithScar: 16
+9: Docm77: 15
+10: Biffa2001: 11
+11: joehillssays: 10
+12: falsesymmetry: 10
+13: xBCrafted: 8
+14: Keralis1: 7
+15: Welsknight: 6
+16: Stressmonster101: 6
+17: Tango: 5
+18: Renthedog: 3
+Total 13149

@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.diamond_helmet
+1: Renthedog: 8
+2: MumboJumbo: 8
+3: impulseSV: 8
+4: iJevin: 7
+5: GoodTimeWithScar: 7
+6: Tango: 5
+7: iskall85: 5
+8: Welsknight: 5
+9: PythonGB: 4
+10: joehillssays: 3
+11: xBCrafted: 3
+12: Etho: 3
+13: Zedaph: 3
+14: falsesymmetry: 2
+15: Tinfoilchef: 2
+16: Stressmonster101: 2
+17: Xisuma: 1
+18: VintageBeef: 1
+19: BdoubleO100: 1
+20: cubfan135: 1
+21: Biffa2001: 1
+22: ZombieCleo: 1
+Total 81

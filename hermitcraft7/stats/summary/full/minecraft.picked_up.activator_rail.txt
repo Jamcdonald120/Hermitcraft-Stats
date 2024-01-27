@@ -1,0 +1,17 @@
+minecraft.picked_up.activator_rail
+1: falsesymmetry: 56
+2: cubfan135: 55
+3: Zedaph: 20
+4: Docm77: 10
+5: BdoubleO100: 10
+6: Etho: 10
+7: Xisuma: 9
+8: joehillssays: 7
+9: Tango: 7
+10: Keralis1: 7
+11: hypnotizd: 6
+12: GoodTimeWithScar: 6
+13: Welsknight: 3
+14: iskall85: 1
+15: xBCrafted: 1
+Total 208

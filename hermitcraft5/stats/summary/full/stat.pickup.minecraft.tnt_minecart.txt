@@ -1,0 +1,4 @@
+stat.pickup.minecraft.tnt_minecart
+1: PythonGB: 14
+2: cubfan135: 3
+Total 17

@@ -1,0 +1,21 @@
+minecraft.dropped.shears
+1: Grian: 212
+2: ZombieCleo: 35
+3: GoodTimeWithScar: 35
+4: Etho: 22
+5: BdoubleO100: 13
+6: Keralis1: 12
+7: Docm77: 11
+8: iJevin: 10
+9: falsesymmetry: 9
+10: Tango: 8
+11: MumboJumbo: 7
+12: Xisuma: 6
+13: Renthedog: 6
+14: PearlescentMoon: 5
+15: cubfan135: 3
+16: GeminiTay: 2
+17: iskall85: 2
+18: impulseSV: 2
+19: Zedaph: 1
+Total 401

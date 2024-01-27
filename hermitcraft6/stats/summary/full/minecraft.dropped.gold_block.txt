@@ -1,0 +1,15 @@
+minecraft.dropped.gold_block
+1: iJevin: 256
+2: Renthedog: 230
+3: impulseSV: 88
+4: Zedaph: 88
+5: Xisuma: 86
+6: cubfan135: 81
+7: Grian: 52
+8: Tango: 51
+9: BdoubleO100: 50
+10: Docm77: 32
+11: MumboJumbo: 21
+12: falsesymmetry: 16
+13: iskall85: 2
+Total 1053

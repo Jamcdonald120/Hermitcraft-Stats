@@ -1,0 +1,28 @@
+stat.mineBlock.minecraft.gravel
+1: xBCrafted: 17468
+2: hypnotizd: 8662
+3: falsesymmetry: 7521
+4: Xisuma: 6390
+5: Mumbo: 4100
+6: Tango: 3883
+7: impulseSV: 3226
+8: Tinfoilchef: 3163
+9: Spumwackles: 2570
+10: iJevin: 1996
+11: topmass: 1943
+12: sl1pg8r: 1918
+13: monkeyfarm: 1701
+14: Etho: 1685
+15: KingDaddyDMAC: 1668
+16: Biffa2001: 1401
+17: zueljin: 1042
+18: PythonGB: 945
+19: ZombieCleo: 651
+20: Docm77: 199
+21: joehillssays: 182
+22: skyzm: 173
+23: Pungence: 75
+24: Collen: 28
+25: NameOfSamuel: 17
+26: Keralis1: 11
+Total 72618

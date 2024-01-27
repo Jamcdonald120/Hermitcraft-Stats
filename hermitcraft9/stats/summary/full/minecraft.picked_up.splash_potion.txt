@@ -1,0 +1,30 @@
+minecraft.picked_up.splash_potion
+1: Tango: 321
+2: iskall85: 82
+3: iJevin: 71
+4: Zedaph: 62
+5: Grian: 46
+6: Docm77: 34
+7: impulseSV: 29
+8: Etho: 28
+9: falsesymmetry: 27
+10: cubfan135: 20
+11: Xisuma: 17
+12: joehillssays: 15
+13: GoodTimeWithScar: 14
+14: BdoubleO100: 13
+15: PearlescentMoon: 12
+16: Stressmonster101: 9
+17: Smallishbeans: 6
+18: xBCrafted: 4
+19: Mumbo: 4
+20: Keralis1: 4
+21: GeminiTay: 3
+22: ZombieCleo: 2
+23: hypnotizd: 2
+24: OrionSound: 1
+25: Renthedog: 1
+26: VintageBeef: 1
+27: MythicalSausage: 1
+28: HBomb94: 1
+Total 830

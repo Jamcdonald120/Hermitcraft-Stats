@@ -1,0 +1,21 @@
+minecraft.picked_up.nether_star
+1: impulseSV: 229
+2: cubfan135: 167
+3: Tango: 56
+4: PearlescentMoon: 16
+5: iJevin: 9
+6: Docm77: 5
+7: Grian: 3
+8: iskall85: 3
+9: Zedaph: 3
+10: Xisuma: 2
+11: VintageBeef: 2
+12: xBCrafted: 2
+13: falsesymmetry: 2
+14: Etho: 2
+15: hypnotizd: 2
+16: Pixlriffs: 1
+17: GoodTimeWithScar: 1
+18: Stressmonster101: 1
+19: Keralis1: 1
+Total 507

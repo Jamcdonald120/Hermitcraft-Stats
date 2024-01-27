@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.noteblock
+1: Xisuma: 40
+2: Mumbo: 36
+3: Spumwackles: 13
+4: ZombieCleo: 11
+5: Tango: 3
+Total 103

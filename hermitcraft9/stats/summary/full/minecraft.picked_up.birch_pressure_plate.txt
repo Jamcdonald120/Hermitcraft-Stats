@@ -1,0 +1,10 @@
+minecraft.picked_up.birch_pressure_plate
+1: ZombieCleo: 28
+2: BdoubleO100: 12
+3: GoodTimeWithScar: 12
+4: Grian: 11
+5: cubfan135: 8
+6: Docm77: 4
+7: PearlescentMoon: 3
+8: Zedaph: 1
+Total 79

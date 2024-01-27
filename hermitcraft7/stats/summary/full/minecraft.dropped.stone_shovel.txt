@@ -1,0 +1,13 @@
+minecraft.dropped.stone_shovel
+1: Docm77: 156
+2: impulseSV: 134
+3: MumboJumbo: 85
+4: Xisuma: 22
+5: VintageBeef: 4
+6: BdoubleO100: 2
+7: ZombieCleo: 1
+8: Tinfoilchef: 1
+9: Stressmonster101: 1
+10: Keralis1: 1
+11: Zedaph: 1
+Total 408

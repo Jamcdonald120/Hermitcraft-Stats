@@ -1,0 +1,23 @@
+stat.pickup.minecraft.rail
+1: impulseSV: 6611
+2: iskall85: 6150
+3: Xisuma: 3725
+4: Tango: 1870
+5: falsesymmetry: 1477
+6: iJevin: 1223
+7: GoodTimeWithScar: 1181
+8: cubfan135: 976
+9: MumboJumbo: 896
+10: Renthedog: 844
+11: joehillssays: 392
+12: Tinfoilchef: 390
+13: VintageBeef: 375
+14: Docm77: 338
+15: Etho: 308
+16: PythonGB: 182
+17: Welsknight: 91
+18: Biffa2001: 42
+19: ZombieCleo: 5
+20: xisumavoid: 3
+21: xBCrafted: 2
+Total 27081

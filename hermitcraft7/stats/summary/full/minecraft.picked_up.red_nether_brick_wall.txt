@@ -1,0 +1,10 @@
+minecraft.picked_up.red_nether_brick_wall
+1: Tango: 20
+2: cubfan135: 20
+3: Keralis1: 19
+4: BdoubleO100: 10
+5: joehillssays: 9
+6: GoodTimeWithScar: 9
+7: impulseSV: 2
+8: Etho: 1
+Total 90

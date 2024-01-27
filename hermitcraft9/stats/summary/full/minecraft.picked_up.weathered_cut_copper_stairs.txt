@@ -1,0 +1,10 @@
+minecraft.picked_up.weathered_cut_copper_stairs
+1: RentheKing: 12
+2: xBCrafted: 8
+3: cubfan135: 5
+4: Docm77: 3
+5: Grian: 3
+6: PearlescentMoon: 1
+7: Mumbo: 1
+8: Stressmonster101: 1
+Total 34

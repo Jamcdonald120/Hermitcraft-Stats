@@ -1,0 +1,22 @@
+stat.useItem.minecraft.glass_bottle
+1: cubfan135: 1493
+2: MumboJumbo: 1453
+3: Tango: 752
+4: GoodTimeWithScar: 340
+5: Renthedog: 321
+6: falsesymmetry: 315
+7: Zedaph: 296
+8: iskall85: 181
+9: Xisuma: 157
+10: Welsknight: 112
+11: impulseSV: 112
+12: Tinfoilchef: 109
+13: Docm77: 60
+14: joehillssays: 53
+15: xBCrafted: 42
+16: iJevin: 37
+17: Stressmonster101: 22
+18: PythonGB: 12
+19: BdoubleO100: 4
+20: VintageBeef: 3
+Total 5874

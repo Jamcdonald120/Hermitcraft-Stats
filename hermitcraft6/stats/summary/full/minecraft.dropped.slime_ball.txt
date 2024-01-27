@@ -1,0 +1,21 @@
+minecraft.dropped.slime_ball
+1: MumboJumbo: 3329
+2: iskall85: 2685
+3: Renthedog: 779
+4: impulseSV: 498
+5: Tango: 235
+6: Grian: 201
+7: GoodTimeWithScar: 184
+8: BdoubleO100: 152
+9: Xisuma: 142
+10: Stressmonster101: 127
+11: Tinfoilchef: 120
+12: joehillssays: 90
+13: PythonGB: 47
+14: cubfan135: 43
+15: Welsknight: 31
+16: Zedaph: 31
+17: iJevin: 28
+18: Docm77: 18
+19: falsesymmetry: 1
+Total 8741

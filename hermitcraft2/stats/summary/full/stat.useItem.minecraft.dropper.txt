@@ -1,0 +1,7 @@
+stat.useItem.minecraft.dropper
+1: Xisuma: 72
+2: Tango: 9
+3: ZombieCleo: 8
+4: Spumwackles: 3
+5: Mumbo: 1
+Total 93

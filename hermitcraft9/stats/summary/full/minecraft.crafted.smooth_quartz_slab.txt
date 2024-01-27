@@ -1,0 +1,19 @@
+minecraft.crafted.smooth_quartz_slab
+1: Grian: 2398
+2: GoodTimeWithScar: 2006
+3: Keralis1: 1572
+4: impulseSV: 912
+5: Zedaph: 412
+6: Xisuma: 242
+7: GeminiTay: 242
+8: cubfan135: 178
+9: falsesymmetry: 150
+10: VintageBeef: 148
+11: xBCrafted: 144
+12: ZombieCleo: 74
+13: MythicalSausage: 72
+14: PearlescentMoon: 26
+15: hypnotizd: 10
+16: iJevin: 6
+17: Docm77: 2
+Total 8594

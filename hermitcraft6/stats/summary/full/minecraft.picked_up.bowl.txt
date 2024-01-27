@@ -1,0 +1,17 @@
+minecraft.picked_up.bowl
+1: iJevin: 239
+2: Biffa2001: 226
+3: falsesymmetry: 40
+4: joehillssays: 14
+5: Docm77: 12
+6: Xisuma: 12
+7: iskall85: 10
+8: ZombieCleo: 5
+9: GoodTimeWithScar: 4
+10: BdoubleO100: 3
+11: cubfan135: 3
+12: Tango: 2
+13: PythonGB: 1
+14: Jessassin: 1
+15: Stressmonster101: 1
+Total 573

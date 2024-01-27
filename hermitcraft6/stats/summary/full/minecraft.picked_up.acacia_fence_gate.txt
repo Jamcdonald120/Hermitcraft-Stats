@@ -1,0 +1,8 @@
+minecraft.picked_up.acacia_fence_gate
+1: cubfan135: 85
+2: Xisuma: 18
+3: falsesymmetry: 5
+4: Stressmonster101: 3
+5: iJevin: 2
+6: MumboJumbo: 2
+Total 115

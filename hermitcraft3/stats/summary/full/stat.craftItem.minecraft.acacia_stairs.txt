@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.acacia_stairs
+1: Xisuma: 444
+2: joehillssays: 108
+3: xBCrafted: 52
+4: falsesymmetry: 44
+5: zueljin: 12
+6: iJevin: 4
+7: Tango: 4
+8: ZombieCleo: 4
+9: Mumbo: 4
+Total 676

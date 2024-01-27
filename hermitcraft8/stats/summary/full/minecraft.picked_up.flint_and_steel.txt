@@ -1,0 +1,23 @@
+minecraft.picked_up.flint_and_steel
+1: Docm77: 33
+2: iJevin: 20
+3: Tango: 11
+4: joehillssays: 10
+5: Grian: 10
+6: Renthedog: 8
+7: iskall85: 7
+8: GoodTimeWithScar: 6
+9: PearlescentMoon: 5
+10: ZombieCleo: 5
+11: cubfan135: 4
+12: Etho: 4
+13: hypnotizd: 4
+14: MumboJumbo: 4
+15: Xisuma: 3
+16: Keralis1: 3
+17: Zedaph: 3
+18: GeminiTay: 2
+19: BdoubleO100: 2
+20: falsesymmetry: 2
+21: xBCrafted: 1
+Total 147

@@ -1,0 +1,23 @@
+minecraft.used.spruce_leaves
+1: GoodTimeWithScar: 16621
+2: falsesymmetry: 16334
+3: joehillssays: 10005
+4: cubfan135: 3509
+5: Renthedog: 1870
+6: Xisuma: 1769
+7: Docm77: 1055
+8: Grian: 709
+9: PythonGB: 679
+10: iskall85: 336
+11: iJevin: 294
+12: Welsknight: 229
+13: BdoubleO100: 218
+14: HumanCleo: 200
+15: Tango: 185
+16: Keralis1: 121
+17: impulseSV: 118
+18: MumboJumbo: 6
+19: Tinfoilchef: 2
+20: Stressmonster101: 2
+21: Cub_Cam: 1
+Total 54263

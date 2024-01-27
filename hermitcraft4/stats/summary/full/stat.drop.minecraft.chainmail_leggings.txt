@@ -1,0 +1,11 @@
+stat.drop.minecraft.chainmail_leggings
+1: Tango: 3
+2: impulseSV: 3
+3: Xisuma: 2
+4: Renthedog: 2
+5: VintageBeef: 1
+6: PythonGB: 1
+7: falsesymmetry: 1
+8: cubfan135: 1
+9: Welsknight: 1
+Total 15

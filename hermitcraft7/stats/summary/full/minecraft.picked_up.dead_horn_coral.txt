@@ -1,0 +1,5 @@
+minecraft.picked_up.dead_horn_coral
+1: cubfan135: 3
+2: Renthedog: 2
+3: MumboJumbo: 1
+Total 6

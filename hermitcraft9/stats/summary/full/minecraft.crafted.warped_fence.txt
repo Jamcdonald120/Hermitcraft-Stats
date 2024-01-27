@@ -1,0 +1,19 @@
+minecraft.crafted.warped_fence
+1: Tango: 357
+2: impulseSV: 303
+3: Xisuma: 264
+4: Docm77: 246
+5: Mumbo: 219
+6: PearlescentMoon: 165
+7: ZombieCleo: 135
+8: GeminiTay: 108
+9: BdoubleO100: 54
+10: cubfan135: 48
+11: GoodTimeWithScar: 45
+12: falsesymmetry: 42
+13: Grian: 27
+14: Keralis1: 21
+15: joehillssays: 18
+16: Zedaph: 6
+17: Smallishbeans: 3
+Total 2061

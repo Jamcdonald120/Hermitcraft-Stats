@@ -1,0 +1,15 @@
+minecraft.crafted.mud_brick_wall
+1: Keralis1: 282
+2: cubfan135: 168
+3: falsesymmetry: 54
+4: joehillssays: 27
+5: ZombieCleo: 20
+6: GeminiTay: 16
+7: Xisuma: 7
+8: Renthedog: 6
+9: Tango: 6
+10: PearlescentMoon: 6
+11: GoodTimeWithScar: 6
+12: BdoubleO100: 3
+13: Zedaph: 1
+Total 602

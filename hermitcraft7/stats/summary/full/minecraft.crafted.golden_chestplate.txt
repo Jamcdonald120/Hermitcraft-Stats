@@ -1,0 +1,16 @@
+minecraft.crafted.golden_chestplate
+1: impulseSV: 33
+2: hypnotizd: 25
+3: Xisuma: 24
+4: VintageBeef: 10
+5: cubfan135: 7
+6: Zedaph: 5
+7: iskall85: 4
+8: joehillssays: 3
+9: Tango: 3
+10: ZombieCleo: 2
+11: Renthedog: 1
+12: BdoubleO100: 1
+13: Welsknight: 1
+14: MumboJumbo: 1
+Total 120

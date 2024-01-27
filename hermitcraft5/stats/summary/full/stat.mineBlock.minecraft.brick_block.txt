@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.brick_block
+1: cubfan135: 848
+2: PythonGB: 748
+3: falsesymmetry: 602
+4: Tinfoilchef: 410
+5: MumboJumbo: 138
+6: GoodTimeWithScar: 52
+7: Welsknight: 1
+Total 2799

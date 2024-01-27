@@ -1,0 +1,22 @@
+minecraft.crafted.blast_furnace
+1: Renthedog: 185
+2: GoodTimeWithScar: 57
+3: Xisuma: 19
+4: PearlescentMoon: 18
+5: Docm77: 14
+6: impulseSV: 14
+7: falsesymmetry: 9
+8: cubfan135: 9
+9: Keralis1: 6
+10: xBCrafted: 5
+11: Tango: 4
+12: BdoubleO100: 4
+13: Welsknight: 4
+14: hypnotizd: 4
+15: joehillssays: 3
+16: Grian: 3
+17: Zedaph: 3
+18: iskall85: 2
+19: VintageBeef: 1
+20: Stressmonster101: 1
+Total 365

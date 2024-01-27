@@ -1,0 +1,11 @@
+minecraft.dropped.chipped_anvil
+1: Zedaph: 34
+2: Tango: 8
+3: falsesymmetry: 8
+4: GoodTimeWithScar: 4
+5: Etho: 2
+6: MumboJumbo: 2
+7: Xisuma: 1
+8: Grian: 1
+9: iskall85: 1
+Total 61

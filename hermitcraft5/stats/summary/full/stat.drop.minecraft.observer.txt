@@ -1,0 +1,10 @@
+stat.drop.minecraft.observer
+1: Xisuma: 61
+2: cubfan135: 58
+3: impulseSV: 54
+4: Tango: 47
+5: Zedaph: 28
+6: xBCrafted: 5
+7: iskall85: 1
+8: MumboJumbo: 1
+Total 255

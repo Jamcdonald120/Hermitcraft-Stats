@@ -1,0 +1,28 @@
+minecraft.picked_up.raw_gold
+1: cubfan135: 5701
+2: GoodTimeWithScar: 2414
+3: PearlescentMoon: 1382
+4: iJevin: 1314
+5: Grian: 1279
+6: impulseSV: 1213
+7: Renthedog: 928
+8: Welsknight: 726
+9: Etho: 688
+10: GeminiTay: 650
+11: xBCrafted: 478
+12: joehillssays: 461
+13: BdoubleO100: 407
+14: MumboJumbo: 402
+15: Zedaph: 378
+16: Xisuma: 350
+17: Tango: 349
+18: Tinfoilchef: 327
+19: ZombieCleo: 292
+20: iskall85: 278
+21: falsesymmetry: 272
+22: hypnotizd: 249
+23: Docm77: 212
+24: VintageBeef: 210
+25: Stressmonster101: 200
+26: Keralis1: 116
+Total 21276

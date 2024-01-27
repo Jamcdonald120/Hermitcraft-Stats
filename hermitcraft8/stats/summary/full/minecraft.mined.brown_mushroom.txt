@@ -1,0 +1,23 @@
+minecraft.mined.brown_mushroom
+1: GeminiTay: 221
+2: Renthedog: 196
+3: Xisuma: 90
+4: iJevin: 90
+5: GoodTimeWithScar: 75
+6: impulseSV: 51
+7: Grian: 23
+8: ZombieCleo: 18
+9: Etho: 15
+10: Stressmonster101: 15
+11: cubfan135: 13
+12: xBCrafted: 11
+13: Zedaph: 9
+14: BdoubleO100: 8
+15: VintageBeef: 7
+16: PearlescentMoon: 7
+17: hypnotizd: 5
+18: joehillssays: 4
+19: Tango: 3
+20: falsesymmetry: 3
+21: Docm77: 1
+Total 865

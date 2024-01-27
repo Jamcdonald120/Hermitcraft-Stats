@@ -1,0 +1,24 @@
+minecraft.mined.dispenser
+1: Xisuma: 405
+2: cubfan135: 247
+3: impulseSV: 217
+4: iskall85: 197
+5: Docm77: 173
+6: Tango: 161
+7: iJevin: 79
+8: Grian: 67
+9: MumboJumbo: 67
+10: GoodTimeWithScar: 65
+11: Renthedog: 59
+12: Tinfoilchef: 32
+13: Stressmonster101: 22
+14: falsesymmetry: 20
+15: joehillssays: 16
+16: BdoubleO100: 16
+17: Zedaph: 16
+18: ZombieCleo: 10
+19: PythonGB: 2
+20: Biffa2001: 2
+21: HumanCleo: 1
+22: Welsknight: 1
+Total 1875

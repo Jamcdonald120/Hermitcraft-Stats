@@ -1,0 +1,3 @@
+stat.drop.minecraft.diamond_ore
+1: PythonGB: 7
+Total 7

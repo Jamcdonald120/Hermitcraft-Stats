@@ -1,0 +1,4 @@
+stat.entityKilledBy.LavaSlime
+1: sl1pg8r: 1
+2: Xisuma: 1
+Total 2

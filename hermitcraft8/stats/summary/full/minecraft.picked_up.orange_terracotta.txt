@@ -1,0 +1,22 @@
+minecraft.picked_up.orange_terracotta
+1: GoodTimeWithScar: 5611
+2: Etho: 4407
+3: PearlescentMoon: 3774
+4: cubfan135: 1344
+5: joehillssays: 437
+6: Grian: 345
+7: Xisuma: 299
+8: impulseSV: 214
+9: GeminiTay: 162
+10: MumboJumbo: 103
+11: hypnotizd: 91
+12: falsesymmetry: 66
+13: ZombieCleo: 66
+14: BdoubleO100: 26
+15: Welsknight: 7
+16: iJevin: 6
+17: iskall85: 4
+18: Keralis1: 4
+19: Tango: 3
+20: Renthedog: 2
+Total 16971

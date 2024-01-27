@@ -1,0 +1,20 @@
+stat.useItem.minecraft.dropper
+1: Xisuma: 704
+2: Tango: 428
+3: Mumbo: 274
+4: topmass: 242
+5: impulseSV: 172
+6: falsesymmetry: 145
+7: iJevin: 123
+8: xBCrafted: 120
+9: ZombieCleo: 78
+10: hypnotizd: 29
+11: monkeyfarm: 28
+12: Etho: 23
+13: Docm77: 22
+14: PythonGB: 16
+15: zueljin: 10
+16: Tinfoilchef: 10
+17: Biffa2001: 4
+18: sl1pg8r: 2
+Total 2430

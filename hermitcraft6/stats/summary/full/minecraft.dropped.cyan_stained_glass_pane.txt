@@ -1,0 +1,8 @@
+minecraft.dropped.cyan_stained_glass_pane
+1: Stressmonster101: 64
+2: GoodTimeWithScar: 10
+3: Grian: 9
+4: Xisuma: 8
+5: falsesymmetry: 4
+6: iskall85: 1
+Total 96

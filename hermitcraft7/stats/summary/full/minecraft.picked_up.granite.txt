@@ -1,0 +1,26 @@
+minecraft.picked_up.granite
+1: Grian: 45702
+2: falsesymmetry: 30738
+3: GoodTimeWithScar: 28307
+4: Xisuma: 22800
+5: Etho: 22666
+6: Zedaph: 20103
+7: iJevin: 18608
+8: impulseSV: 16773
+9: iskall85: 14198
+10: cubfan135: 13353
+11: MumboJumbo: 12864
+12: Tango: 12726
+13: Renthedog: 10971
+14: Keralis1: 9993
+15: hypnotizd: 9591
+16: Stressmonster101: 9394
+17: joehillssays: 9251
+18: xBCrafted: 8924
+19: Welsknight: 7094
+20: Docm77: 5979
+21: BdoubleO100: 5880
+22: Tinfoilchef: 3924
+23: VintageBeef: 3313
+24: ZombieCleo: 2098
+Total 345250

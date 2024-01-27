@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.cooked_chicken
+1: ZombieCleo: 120
+2: xBCrafted: 64
+3: Tango: 33
+Total 217

@@ -1,0 +1,10 @@
+minecraft.dropped.spruce_fence_gate
+1: falsesymmetry: 71
+2: hypnotizd: 10
+3: Tango: 6
+4: GoodTimeWithScar: 6
+5: BdoubleO100: 3
+6: Renthedog: 2
+7: Grian: 1
+8: cubfan135: 1
+Total 100

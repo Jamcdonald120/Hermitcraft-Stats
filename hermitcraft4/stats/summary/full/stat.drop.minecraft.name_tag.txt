@@ -1,0 +1,8 @@
+stat.drop.minecraft.name_tag
+1: MumboJumbo: 304
+2: iskall85: 30
+3: impulseSV: 16
+4: Tango: 3
+5: GoodTimeWithScar: 2
+6: Xisuma: 1
+Total 356

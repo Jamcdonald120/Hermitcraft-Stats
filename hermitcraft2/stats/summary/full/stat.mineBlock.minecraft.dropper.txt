@@ -1,0 +1,6 @@
+stat.mineBlock.minecraft.dropper
+1: Xisuma: 7
+2: Tango: 5
+3: ZombieCleo: 4
+4: Spumwackles: 2
+Total 18

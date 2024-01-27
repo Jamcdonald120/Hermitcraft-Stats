@@ -1,0 +1,6 @@
+minecraft.mined.nether_brick_wall
+1: Tango: 21
+2: Xisuma: 7
+3: impulseSV: 3
+4: BdoubleO100: 2
+Total 33

@@ -1,0 +1,22 @@
+minecraft.mined.orange_wool
+1: Tango: 435
+2: Renthedog: 348
+3: iJevin: 296
+4: impulseSV: 248
+5: PearlescentMoon: 171
+6: joehillssays: 153
+7: Grian: 102
+8: VintageBeef: 69
+9: iskall85: 61
+10: BdoubleO100: 34
+11: Keralis1: 33
+12: xBCrafted: 25
+13: falsesymmetry: 24
+14: Docm77: 21
+15: GoodTimeWithScar: 17
+16: Stressmonster101: 12
+17: cubfan135: 9
+18: Xisuma: 6
+19: hypnotizd: 5
+20: Zedaph: 1
+Total 2070

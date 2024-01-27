@@ -1,0 +1,5 @@
+minecraft.dropped.chiseled_quartz_block
+1: impulseSV: 53
+2: Etho: 3
+3: Grian: 2
+Total 58

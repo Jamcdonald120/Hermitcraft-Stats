@@ -1,0 +1,20 @@
+minecraft.used.gray_wool
+1: impulseSV: 2335
+2: Docm77: 1880
+3: falsesymmetry: 982
+4: Tango: 331
+5: GoodTimeWithScar: 287
+6: PearlescentMoon: 205
+7: Keralis1: 126
+8: Renthedog: 80
+9: GeminiTay: 37
+10: Xisuma: 33
+11: xBCrafted: 23
+12: Welsknight: 15
+13: BdoubleO100: 11
+14: Zedaph: 9
+15: ZombieCleo: 7
+16: Grian: 6
+17: iJevin: 3
+18: cubfan135: 1
+Total 6371

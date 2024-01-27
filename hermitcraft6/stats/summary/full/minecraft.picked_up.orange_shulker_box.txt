@@ -1,0 +1,19 @@
+minecraft.picked_up.orange_shulker_box
+1: Xisuma: 2250
+2: cubfan135: 1558
+3: Renthedog: 570
+4: falsesymmetry: 331
+5: GoodTimeWithScar: 304
+6: Stressmonster101: 302
+7: iskall85: 270
+8: Tango: 230
+9: impulseSV: 75
+10: Grian: 54
+11: Docm77: 40
+12: joehillssays: 36
+13: Biffa2001: 31
+14: ZombieCleo: 26
+15: MumboJumbo: 20
+16: PythonGB: 16
+17: Zedaph: 10
+Total 6123

@@ -1,0 +1,25 @@
+minecraft.mined.redstone_torch
+1: Tango: 442
+2: iskall85: 398
+3: cubfan135: 243
+4: Stressmonster101: 162
+5: Xisuma: 112
+6: Grian: 107
+7: impulseSV: 97
+8: Keralis1: 93
+9: Etho: 88
+10: MumboJumbo: 83
+11: joehillssays: 78
+12: iJevin: 72
+13: hypnotizd: 50
+14: xBCrafted: 49
+15: GoodTimeWithScar: 34
+16: Zedaph: 28
+17: VintageBeef: 27
+18: Docm77: 13
+19: ZombieCleo: 11
+20: BdoubleO100: 9
+21: Renthedog: 6
+22: Tinfoilchef: 4
+23: Welsknight: 1
+Total 2207

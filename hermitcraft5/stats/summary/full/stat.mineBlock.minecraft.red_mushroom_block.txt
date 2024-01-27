@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.red_mushroom_block
+1: Renthedog: 13435
+2: cubfan135: 11667
+3: iskall85: 5585
+4: Xisuma: 5217
+5: falsesymmetry: 5203
+6: Zedaph: 2047
+7: Welsknight: 661
+8: Tango: 482
+9: joehillssays: 472
+10: PythonGB: 370
+11: xBCrafted: 242
+12: Tinfoilchef: 102
+13: MumboJumbo: 101
+14: Docm77: 49
+15: impulseSV: 4
+16: GoodTimeWithScar: 3
+17: Stressmonster101: 1
+Total 45641

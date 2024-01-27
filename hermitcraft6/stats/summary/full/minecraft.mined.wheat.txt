@@ -1,0 +1,26 @@
+minecraft.mined.wheat
+1: Tinfoilchef: 10461
+2: GoodTimeWithScar: 7803
+3: cubfan135: 6587
+4: Grian: 5816
+5: Renthedog: 5704
+6: falsesymmetry: 2701
+7: ZombieCleo: 2651
+8: Zedaph: 1886
+9: iJevin: 1868
+10: Xisuma: 1855
+11: joehillssays: 1673
+12: impulseSV: 1362
+13: Stressmonster101: 1178
+14: BdoubleO100: 905
+15: Welsknight: 865
+16: Tango: 797
+17: PythonGB: 788
+18: Docm77: 675
+19: iskall85: 470
+20: Keralis1: 431
+21: HumanCleo: 355
+22: Biffa2001: 337
+23: Jessassin: 306
+24: MumboJumbo: 171
+Total 57645

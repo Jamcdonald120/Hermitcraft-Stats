@@ -1,0 +1,21 @@
+minecraft.dropped.lapis_lazuli
+1: MumboJumbo: 658
+2: Renthedog: 547
+3: Zedaph: 481
+4: GoodTimeWithScar: 345
+5: Welsknight: 321
+6: iskall85: 282
+7: cubfan135: 270
+8: Docm77: 129
+9: Grian: 102
+10: joehillssays: 64
+11: Tango: 63
+12: Keralis1: 36
+13: iJevin: 29
+14: Xisuma: 13
+15: Stressmonster101: 10
+16: PythonGB: 8
+17: falsesymmetry: 6
+18: Tinfoilchef: 5
+19: impulseSV: 2
+Total 3371

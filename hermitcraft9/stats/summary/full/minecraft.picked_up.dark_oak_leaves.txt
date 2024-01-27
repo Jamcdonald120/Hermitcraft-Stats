@@ -1,0 +1,24 @@
+minecraft.picked_up.dark_oak_leaves
+1: cubfan135: 5176
+2: Stressmonster101: 3206
+3: iskall85: 2001
+4: falsesymmetry: 1934
+5: Docm77: 1199
+6: Grian: 848
+7: Etho: 797
+8: Renthedog: 450
+9: RentheKing: 419
+10: joehillssays: 364
+11: PearlescentMoon: 246
+12: GoodTimeWithScar: 165
+13: xBCrafted: 142
+14: BdoubleO100: 81
+15: impulseSV: 81
+16: Tango: 35
+17: Keralis1: 20
+18: iJevin: 4
+19: Zedaph: 4
+20: hypnotizd: 2
+21: Xisuma: 1
+22: VintageBeef: 1
+Total 17176

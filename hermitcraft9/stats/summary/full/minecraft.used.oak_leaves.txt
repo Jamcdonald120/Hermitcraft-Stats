@@ -1,0 +1,28 @@
+minecraft.used.oak_leaves
+1: Docm77: 41231
+2: GoodTimeWithScar: 28039
+3: BdoubleO100: 1465
+4: falsesymmetry: 1319
+5: GeminiTay: 853
+6: cubfan135: 831
+7: ZombieCleo: 750
+8: Xisuma: 603
+9: Grian: 363
+10: hypnotizd: 303
+11: Stressmonster101: 285
+12: PearlescentMoon: 265
+13: Tango: 249
+14: Keralis1: 186
+15: Zedaph: 146
+16: iskall85: 117
+17: iJevin: 114
+18: VintageBeef: 67
+19: MythicalSausage: 61
+20: Smallishbeans: 42
+21: Etho: 28
+22: impulseSV: 20
+23: Mumbo: 12
+24: Welsknight: 11
+25: Renthedog: 8
+26: xBCrafted: 7
+Total 77375

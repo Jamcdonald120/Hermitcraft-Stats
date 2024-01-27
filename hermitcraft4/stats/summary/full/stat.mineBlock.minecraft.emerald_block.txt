@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.emerald_block
+1: MumboJumbo: 1224
+2: Xisuma: 81
+3: iskall85: 32
+4: cubfan135: 28
+5: Tango: 25
+6: impulseSV: 6
+Total 1396

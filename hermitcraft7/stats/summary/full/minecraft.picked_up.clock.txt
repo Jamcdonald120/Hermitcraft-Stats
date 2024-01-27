@@ -1,0 +1,17 @@
+minecraft.picked_up.clock
+1: BdoubleO100: 60
+2: cubfan135: 52
+3: Xisuma: 24
+4: Grian: 13
+5: GoodTimeWithScar: 11
+6: joehillssays: 6
+7: falsesymmetry: 6
+8: Zedaph: 6
+9: impulseSV: 4
+10: iJevin: 2
+11: Tango: 1
+12: Etho: 1
+13: MumboJumbo: 1
+14: Tinfoilchef: 1
+15: Stressmonster101: 1
+Total 189

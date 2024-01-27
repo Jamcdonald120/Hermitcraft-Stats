@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.tripwire_hook
+1: impulseSV: 34
+2: Xisuma: 32
+3: zueljin: 14
+4: Tango: 13
+5: monkeyfarm: 13
+6: Mumbo: 10
+7: falsesymmetry: 8
+8: xBCrafted: 5
+9: Docm77: 3
+10: iJevin: 1
+Total 133

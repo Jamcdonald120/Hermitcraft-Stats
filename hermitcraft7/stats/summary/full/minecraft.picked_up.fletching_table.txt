@@ -1,0 +1,17 @@
+minecraft.picked_up.fletching_table
+1: iskall85: 357
+2: hypnotizd: 91
+3: Keralis1: 18
+4: Etho: 16
+5: GoodTimeWithScar: 16
+6: Zedaph: 13
+7: Tango: 12
+8: Stressmonster101: 8
+9: Grian: 6
+10: cubfan135: 6
+11: impulseSV: 6
+12: joehillssays: 2
+13: xBCrafted: 2
+14: Docm77: 1
+15: Xisuma: 1
+Total 555

@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.cooked_porkchop
+1: Tango: 747
+2: Zedaph: 396
+3: Stressmonster101: 255
+4: iskall85: 184
+5: xBCrafted: 168
+6: GoodTimeWithScar: 167
+7: iJevin: 159
+8: ZombieCleo: 135
+9: Welsknight: 125
+10: Renthedog: 85
+11: Biffa2001: 55
+12: falsesymmetry: 50
+13: BdoubleO100: 49
+14: Xisuma: 35
+15: Docm77: 29
+16: cubfan135: 28
+17: VintageBeef: 15
+18: joehillssays: 11
+19: Tinfoilchef: 10
+20: impulseSV: 8
+21: Etho: 6
+Total 2717

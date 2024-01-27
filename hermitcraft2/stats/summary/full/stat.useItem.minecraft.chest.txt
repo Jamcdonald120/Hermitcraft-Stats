@@ -1,0 +1,17 @@
+stat.useItem.minecraft.chest
+1: Tango: 608
+2: Xisuma: 305
+3: xBCrafted: 149
+4: Spumwackles: 130
+5: falsesymmetry: 107
+6: ZombieCleo: 84
+7: iJevin: 80
+8: zueljin: 50
+9: Tinfoilchef: 43
+10: sl1pg8r: 38
+11: Biffa2001: 20
+12: KingDaddyDMAC: 18
+13: NameOfSamuel: 9
+14: Collen: 3
+15: Mumbo: 1
+Total 1645

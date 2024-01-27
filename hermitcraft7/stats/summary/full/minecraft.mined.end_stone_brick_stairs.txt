@@ -1,0 +1,5 @@
+minecraft.mined.end_stone_brick_stairs
+1: iJevin: 271
+2: iskall85: 3
+3: cubfan135: 1
+Total 275

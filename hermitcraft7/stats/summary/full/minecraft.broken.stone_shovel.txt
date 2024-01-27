@@ -1,0 +1,13 @@
+minecraft.broken.stone_shovel
+1: BdoubleO100: 214
+2: ZombieCleo: 15
+3: Tinfoilchef: 12
+4: joehillssays: 5
+5: Grian: 5
+6: GoodTimeWithScar: 4
+7: Zedaph: 4
+8: falsesymmetry: 3
+9: xBCrafted: 2
+10: MumboJumbo: 1
+11: impulseSV: 1
+Total 266

@@ -1,0 +1,31 @@
+stat.useItem.minecraft.chest
+1: Tango: 3088
+2: falsesymmetry: 2444
+3: Xisuma: 2201
+4: xBCrafted: 1226
+5: Mumbo: 1183
+6: impulseSV: 887
+7: sl1pg8r: 789
+8: iJevin: 722
+9: Biffa2001: 643
+10: hypnotizd: 497
+11: Tinfoilchef: 398
+12: KingDaddyDMAC: 328
+13: topmass: 317
+14: Spumwackles: 293
+15: ZombieCleo: 273
+16: zueljin: 209
+17: monkeyfarm: 207
+18: PythonGB: 172
+19: Docm77: 96
+20: joehillssays: 69
+21: Etho: 49
+22: Keralis1: 48
+23: skyzm: 15
+24: NameOfSamuel: 11
+25: Pungence: 9
+26: xisumavoid: 4
+27: Collen: 3
+28: Mrs_Keralis: 2
+29: snipepager: 1
+Total 16184

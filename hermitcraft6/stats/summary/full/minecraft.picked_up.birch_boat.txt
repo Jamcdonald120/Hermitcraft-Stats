@@ -1,0 +1,24 @@
+minecraft.picked_up.birch_boat
+1: cubfan135: 771
+2: Tango: 203
+3: Xisuma: 160
+4: falsesymmetry: 135
+5: iskall85: 91
+6: Biffa2001: 89
+7: impulseSV: 71
+8: joehillssays: 56
+9: Stressmonster101: 56
+10: Docm77: 41
+11: Grian: 41
+12: Renthedog: 37
+13: GoodTimeWithScar: 37
+14: ZombieCleo: 31
+15: iJevin: 24
+16: Welsknight: 16
+17: PythonGB: 14
+18: Jessassin: 14
+19: Zedaph: 14
+20: Keralis1: 12
+21: MumboJumbo: 9
+22: BdoubleO100: 2
+Total 1924

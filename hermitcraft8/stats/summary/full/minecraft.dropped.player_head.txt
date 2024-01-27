@@ -1,0 +1,27 @@
+minecraft.dropped.player_head
+1: Tango: 3029
+2: Xisuma: 447
+3: iJevin: 255
+4: Docm77: 232
+5: Etho: 134
+6: GoodTimeWithScar: 131
+7: Renthedog: 73
+8: Grian: 45
+9: Keralis1: 38
+10: BdoubleO100: 27
+11: hypnotizd: 26
+12: PearlescentMoon: 25
+13: impulseSV: 24
+14: xBCrafted: 22
+15: cubfan135: 15
+16: EvilXisuma: 13
+17: joehillssays: 8
+18: GeminiTay: 7
+19: Zedaph: 7
+20: VintageBeef: 4
+21: iskall85: 4
+22: Welsknight: 4
+23: ZombieCleo: 2
+24: MumboJumbo: 2
+25: pillbugnine: 1
+Total 4575

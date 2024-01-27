@@ -1,0 +1,27 @@
+minecraft.mined.stone_brick_slab
+1: iJevin: 2688
+2: Xisuma: 181
+3: VintageBeef: 172
+4: Grian: 159
+5: falsesymmetry: 118
+6: Tango: 113
+7: hypnotizd: 111
+8: cubfan135: 89
+9: GeminiTay: 73
+10: GoodTimeWithScar: 71
+11: iskall85: 59
+12: impulseSV: 44
+13: PearlescentMoon: 39
+14: xBCrafted: 34
+15: BdoubleO100: 30
+16: ZombieCleo: 23
+17: Stressmonster101: 21
+18: Etho: 19
+19: Mumbo: 19
+20: Keralis1: 12
+21: joehillssays: 6
+22: Docm77: 3
+23: Pixlriffs: 2
+24: Renthedog: 1
+25: RentheKing: 1
+Total 4088

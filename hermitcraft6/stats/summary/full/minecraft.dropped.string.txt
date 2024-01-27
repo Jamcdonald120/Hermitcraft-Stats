@@ -1,0 +1,25 @@
+minecraft.dropped.string
+1: iskall85: 2427
+2: Tango: 2093
+3: Grian: 1032
+4: impulseSV: 921
+5: iJevin: 791
+6: GoodTimeWithScar: 757
+7: Keralis1: 366
+8: cubfan135: 307
+9: Renthedog: 265
+10: MumboJumbo: 201
+11: Stressmonster101: 182
+12: Xisuma: 181
+13: Zedaph: 152
+14: falsesymmetry: 135
+15: Docm77: 94
+16: PythonGB: 29
+17: xBCrafted: 23
+18: joehillssays: 21
+19: Welsknight: 14
+20: BdoubleO100: 10
+21: ZombieCleo: 3
+22: Biffa2001: 2
+23: Tinfoilchef: 2
+Total 10008

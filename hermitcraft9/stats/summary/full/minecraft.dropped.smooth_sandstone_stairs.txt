@@ -1,0 +1,4 @@
+minecraft.dropped.smooth_sandstone_stairs
+1: GoodTimeWithScar: 5
+2: Docm77: 2
+Total 7

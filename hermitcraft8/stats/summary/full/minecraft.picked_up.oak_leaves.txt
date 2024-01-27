@@ -1,0 +1,26 @@
+minecraft.picked_up.oak_leaves
+1: MumboJumbo: 26534
+2: iJevin: 12605
+3: Renthedog: 12340
+4: GeminiTay: 8813
+5: GoodTimeWithScar: 5393
+6: Docm77: 2659
+7: PearlescentMoon: 2484
+8: ZombieCleo: 2348
+9: Welsknight: 2283
+10: Keralis1: 1790
+11: impulseSV: 1699
+12: cubfan135: 1529
+13: Stressmonster101: 1348
+14: Grian: 1075
+15: Etho: 756
+16: Xisuma: 736
+17: falsesymmetry: 435
+18: Tango: 368
+19: xBCrafted: 325
+20: joehillssays: 243
+21: Zedaph: 236
+22: BdoubleO100: 195
+23: iskall85: 189
+24: hypnotizd: 3
+Total 86386

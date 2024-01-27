@@ -1,0 +1,16 @@
+minecraft.picked_up.bubble_coral_block
+1: Xisuma: 766
+2: cubfan135: 725
+3: Etho: 675
+4: Zedaph: 130
+5: hypnotizd: 98
+6: xBCrafted: 13
+7: VintageBeef: 9
+8: GoodTimeWithScar: 9
+9: iJevin: 8
+10: Renthedog: 5
+11: iskall85: 4
+12: joehillssays: 2
+13: Grian: 1
+14: ZombieCleo: 1
+Total 2446

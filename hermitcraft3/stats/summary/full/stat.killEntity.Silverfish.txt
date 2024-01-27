@@ -1,0 +1,19 @@
+stat.killEntity.Silverfish
+1: falsesymmetry: 518
+2: KingDaddyDMAC: 62
+3: xBCrafted: 24
+4: impulseSV: 23
+5: Tango: 14
+6: monkeyfarm: 13
+7: sl1pg8r: 12
+8: Tinfoilchef: 10
+9: zueljin: 6
+10: PythonGB: 4
+11: Mumbo: 4
+12: Biffa2001: 3
+13: ZombieCleo: 3
+14: hypnotizd: 2
+15: Spumwackles: 2
+16: Xisuma: 1
+17: topmass: 1
+Total 702

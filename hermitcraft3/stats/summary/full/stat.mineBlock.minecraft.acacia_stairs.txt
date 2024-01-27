@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.acacia_stairs
+1: Xisuma: 178
+2: joehillssays: 52
+3: xBCrafted: 28
+4: falsesymmetry: 19
+5: zueljin: 7
+6: ZombieCleo: 7
+7: Tango: 3
+Total 294

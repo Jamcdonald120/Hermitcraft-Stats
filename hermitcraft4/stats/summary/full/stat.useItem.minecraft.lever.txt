@@ -1,0 +1,23 @@
+stat.useItem.minecraft.lever
+1: impulseSV: 821
+2: falsesymmetry: 713
+3: cubfan135: 628
+4: Xisuma: 547
+5: Tango: 387
+6: MumboJumbo: 379
+7: VintageBeef: 262
+8: iskall85: 259
+9: iJevin: 242
+10: Biffa2001: 178
+11: Etho: 140
+12: Welsknight: 99
+13: Docm77: 78
+14: ZombieCleo: 65
+15: Tinfoilchef: 18
+16: GoodTimeWithScar: 17
+17: joehillssays: 16
+18: Mumbo: 12
+19: PythonGB: 11
+20: Renthedog: 4
+21: zueljin: 1
+Total 4877

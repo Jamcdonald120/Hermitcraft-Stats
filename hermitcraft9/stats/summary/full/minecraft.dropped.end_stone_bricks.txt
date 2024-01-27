@@ -1,0 +1,18 @@
+minecraft.dropped.end_stone_bricks
+1: Renthedog: 124
+2: iJevin: 85
+3: GoodTimeWithScar: 58
+4: Tango: 55
+5: Zedaph: 54
+6: Keralis1: 21
+7: xBCrafted: 19
+8: hypnotizd: 15
+9: Docm77: 7
+10: ZombieCleo: 7
+11: cubfan135: 6
+12: falsesymmetry: 3
+13: Etho: 3
+14: GeminiTay: 2
+15: PearlescentMoon: 2
+16: impulseSV: 1
+Total 462

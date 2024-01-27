@@ -1,0 +1,24 @@
+minecraft.picked_up.mossy_stone_bricks
+1: Etho: 592
+2: joehillssays: 214
+3: cubfan135: 139
+4: Tango: 126
+5: iJevin: 122
+6: GoodTimeWithScar: 116
+7: xBCrafted: 68
+8: Stressmonster101: 57
+9: Zedaph: 49
+10: Grian: 47
+11: Xisuma: 21
+12: Keralis1: 21
+13: BdoubleO100: 15
+14: VintageBeef: 14
+15: Renthedog: 12
+16: iskall85: 12
+17: falsesymmetry: 10
+18: impulseSV: 9
+19: Docm77: 7
+20: MumboJumbo: 5
+21: Welsknight: 3
+22: hypnotizd: 2
+Total 1661

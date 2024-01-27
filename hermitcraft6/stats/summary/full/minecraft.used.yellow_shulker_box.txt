@@ -1,0 +1,24 @@
+minecraft.used.yellow_shulker_box
+1: iskall85: 1382
+2: cubfan135: 1375
+3: Xisuma: 933
+4: GoodTimeWithScar: 895
+5: Welsknight: 500
+6: iJevin: 457
+7: Grian: 368
+8: Renthedog: 289
+9: Stressmonster101: 257
+10: BdoubleO100: 256
+11: Zedaph: 203
+12: impulseSV: 150
+13: Biffa2001: 144
+14: falsesymmetry: 139
+15: Tango: 135
+16: joehillssays: 106
+17: MumboJumbo: 92
+18: Keralis1: 65
+19: Docm77: 36
+20: PythonGB: 36
+21: HumanCleo: 20
+22: ZombieCleo: 19
+Total 7857

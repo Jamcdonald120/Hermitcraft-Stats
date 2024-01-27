@@ -1,0 +1,17 @@
+minecraft.picked_up.red_candle
+1: GoodTimeWithScar: 126
+2: iJevin: 102
+3: falsesymmetry: 62
+4: Tango: 60
+5: impulseSV: 49
+6: cubfan135: 21
+7: hypnotizd: 20
+8: xBCrafted: 13
+9: Grian: 8
+10: Xisuma: 7
+11: PearlescentMoon: 6
+12: Zedaph: 5
+13: Etho: 3
+14: ZombieCleo: 3
+15: Renthedog: 2
+Total 487

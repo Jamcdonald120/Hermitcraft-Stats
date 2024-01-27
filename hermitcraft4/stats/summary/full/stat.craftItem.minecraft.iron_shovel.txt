@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.iron_shovel
+1: Tango: 49
+2: impulseSV: 35
+3: GoodTimeWithScar: 29
+4: iskall85: 24
+5: Xisuma: 16
+6: Docm77: 15
+7: Renthedog: 14
+8: MumboJumbo: 14
+9: ZombieCleo: 10
+10: Tinfoilchef: 10
+11: Welsknight: 8
+12: falsesymmetry: 7
+13: Jessassin: 6
+14: joehillssays: 6
+15: cubfan135: 6
+16: Mumbo: 5
+17: iJevin: 4
+18: xBCrafted: 4
+19: VintageBeef: 3
+20: Biffa2001: 3
+21: PythonGB: 2
+22: zueljin: 2
+23: Etho: 1
+Total 273

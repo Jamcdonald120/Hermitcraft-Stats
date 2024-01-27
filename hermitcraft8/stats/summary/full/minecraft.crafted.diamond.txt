@@ -1,0 +1,25 @@
+minecraft.crafted.diamond
+1: iJevin: 1431
+2: Xisuma: 1404
+3: Grian: 1071
+4: cubfan135: 981
+5: GoodTimeWithScar: 828
+6: impulseSV: 756
+7: PearlescentMoon: 729
+8: Renthedog: 567
+9: Keralis1: 486
+10: Docm77: 414
+11: Tango: 306
+12: xBCrafted: 288
+13: Welsknight: 153
+14: ZombieCleo: 153
+15: MumboJumbo: 135
+16: GeminiTay: 99
+17: falsesymmetry: 99
+18: joehillssays: 81
+19: VintageBeef: 63
+20: Tinfoilchef: 54
+21: hypnotizd: 45
+22: iskall85: 27
+23: BdoubleO100: 9
+Total 10179

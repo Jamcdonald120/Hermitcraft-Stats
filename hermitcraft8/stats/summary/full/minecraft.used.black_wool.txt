@@ -1,0 +1,20 @@
+minecraft.used.black_wool
+1: Grian: 5661
+2: impulseSV: 3284
+3: falsesymmetry: 1126
+4: xBCrafted: 570
+5: GoodTimeWithScar: 366
+6: Renthedog: 189
+7: hypnotizd: 149
+8: BdoubleO100: 128
+9: MumboJumbo: 75
+10: Docm77: 74
+11: PearlescentMoon: 55
+12: Welsknight: 15
+13: GeminiTay: 12
+14: Xisuma: 9
+15: EvilXisuma: 5
+16: Zedaph: 3
+17: Tango: 1
+18: ZombieCleo: 1
+Total 11723

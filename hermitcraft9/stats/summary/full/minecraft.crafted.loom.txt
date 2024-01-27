@@ -1,0 +1,21 @@
+minecraft.crafted.loom
+1: Etho: 883
+2: PearlescentMoon: 335
+3: Tango: 166
+4: Renthedog: 72
+5: ZombieCleo: 67
+6: Docm77: 66
+7: impulseSV: 66
+8: Keralis1: 65
+9: GoodTimeWithScar: 58
+10: GeminiTay: 33
+11: falsesymmetry: 16
+12: Xisuma: 14
+13: BdoubleO100: 13
+14: iJevin: 10
+15: xBCrafted: 9
+16: VintageBeef: 6
+17: Zedaph: 3
+18: cubfan135: 2
+19: Grian: 1
+Total 1885

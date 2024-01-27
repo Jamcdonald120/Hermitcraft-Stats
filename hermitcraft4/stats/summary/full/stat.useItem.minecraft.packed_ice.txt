@@ -1,0 +1,16 @@
+stat.useItem.minecraft.packed_ice
+1: MumboJumbo: 6260
+2: impulseSV: 4011
+3: Xisuma: 3539
+4: Tango: 3230
+5: cubfan135: 1921
+6: Welsknight: 1719
+7: Etho: 1436
+8: falsesymmetry: 1363
+9: Docm77: 784
+10: iskall85: 617
+11: GoodTimeWithScar: 443
+12: xBCrafted: 279
+13: Tinfoilchef: 205
+14: Renthedog: 1
+Total 25808

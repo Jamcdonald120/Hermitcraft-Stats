@@ -1,0 +1,28 @@
+minecraft.mined.gold_ore
+1: impulseSV: 1438
+2: Docm77: 1283
+3: joehillssays: 511
+4: iskall85: 326
+5: Etho: 270
+6: cubfan135: 266
+7: Xisuma: 260
+8: PearlescentMoon: 239
+9: GoodTimeWithScar: 235
+10: VintageBeef: 234
+11: hypnotizd: 223
+12: Grian: 214
+13: Tango: 195
+14: ZombieCleo: 183
+15: Zedaph: 168
+16: Renthedog: 113
+17: xBCrafted: 81
+18: iJevin: 79
+19: Keralis1: 63
+20: falsesymmetry: 61
+21: BdoubleO100: 56
+22: GeminiTay: 12
+23: Tinfoilchef: 6
+24: Stressmonster101: 5
+25: Smallishbeans: 1
+26: Mumbo: 1
+Total 6523

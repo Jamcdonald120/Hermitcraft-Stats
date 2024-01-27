@@ -1,0 +1,17 @@
+minecraft.dropped.stone_axe
+1: Zedaph: 29
+2: Stressmonster101: 13
+3: Xisuma: 12
+4: joehillssays: 6
+5: iJevin: 5
+6: GoodTimeWithScar: 5
+7: Tango: 4
+8: iskall85: 3
+9: ZombieCleo: 3
+10: Renthedog: 2
+11: xBCrafted: 2
+12: GeminiTay: 1
+13: PearlescentMoon: 1
+14: Etho: 1
+15: hypnotizd: 1
+Total 88

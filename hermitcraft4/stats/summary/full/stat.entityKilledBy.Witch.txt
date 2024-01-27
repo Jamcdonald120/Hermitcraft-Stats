@@ -1,0 +1,5 @@
+stat.entityKilledBy.Witch
+1: Docm77: 2
+2: Xisuma: 1
+3: impulseSV: 1
+Total 4

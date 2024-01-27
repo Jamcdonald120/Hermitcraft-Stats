@@ -1,0 +1,6 @@
+minecraft.mined.acacia_fence_gate
+1: BdoubleO100: 10
+2: Xisuma: 5
+3: PearlescentMoon: 1
+4: impulseSV: 1
+Total 17

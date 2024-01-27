@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.lead
+1: Zedaph: 128
+2: cubfan135: 74
+3: falsesymmetry: 40
+4: PythonGB: 20
+5: MumboJumbo: 18
+6: GoodTimeWithScar: 18
+7: Xisuma: 16
+8: impulseSV: 16
+9: Tango: 14
+10: Biffa2001: 14
+11: Welsknight: 12
+12: Tinfoilchef: 12
+13: Stressmonster101: 8
+14: xBCrafted: 6
+15: ZombieCleo: 6
+16: Docm77: 2
+17: VintageBeef: 2
+18: BdoubleO100: 2
+19: iskall85: 2
+Total 410

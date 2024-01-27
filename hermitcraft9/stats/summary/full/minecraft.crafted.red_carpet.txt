@@ -1,0 +1,26 @@
+minecraft.crafted.red_carpet
+1: VintageBeef: 10272
+2: falsesymmetry: 2618
+3: cubfan135: 2395
+4: RentheKing: 864
+5: Renthedog: 618
+6: joehillssays: 288
+7: Docm77: 243
+8: Tango: 204
+9: impulseSV: 126
+10: Xisuma: 96
+11: Grian: 81
+12: BdoubleO100: 66
+13: Zedaph: 59
+14: iJevin: 30
+15: PearlescentMoon: 30
+16: GeminiTay: 27
+17: ZombieCleo: 18
+18: MythicalSausage: 15
+19: Keralis1: 11
+20: Smajor1995: 9
+21: xBCrafted: 9
+22: GoodTimeWithScar: 6
+23: iskall85: 3
+24: Etho: 3
+Total 18091

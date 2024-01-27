@@ -1,0 +1,21 @@
+minecraft.mined.yellow_stained_glass
+1: GoodTimeWithScar: 515
+2: Renthedog: 272
+3: impulseSV: 206
+4: Grian: 189
+5: iskall85: 46
+6: Xisuma: 42
+7: PythonGB: 32
+8: MumboJumbo: 29
+9: iJevin: 19
+10: Docm77: 16
+11: falsesymmetry: 15
+12: Welsknight: 14
+13: joehillssays: 6
+14: ZombieCleo: 6
+15: Tango: 4
+16: cubfan135: 4
+17: Biffa2001: 3
+18: HumanCleo: 1
+19: Stressmonster101: 1
+Total 1420

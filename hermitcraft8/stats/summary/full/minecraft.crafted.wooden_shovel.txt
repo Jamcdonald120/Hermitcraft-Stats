@@ -1,0 +1,11 @@
+minecraft.crafted.wooden_shovel
+1: BdoubleO100: 53
+2: impulseSV: 27
+3: Welsknight: 11
+4: hypnotizd: 9
+5: Renthedog: 7
+6: Grian: 2
+7: ZombieCleo: 2
+8: Docm77: 1
+9: MumboJumbo: 1
+Total 113

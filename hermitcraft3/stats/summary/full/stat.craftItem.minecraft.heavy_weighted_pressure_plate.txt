@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.heavy_weighted_pressure_plate
+1: topmass: 446
+2: Mumbo: 116
+3: Tinfoilchef: 64
+4: falsesymmetry: 51
+5: xBCrafted: 50
+6: Xisuma: 37
+7: ZombieCleo: 20
+8: zueljin: 14
+9: sl1pg8r: 12
+10: Etho: 9
+11: impulseSV: 9
+12: PythonGB: 4
+13: iJevin: 2
+14: Docm77: 1
+15: Tango: 1
+Total 836

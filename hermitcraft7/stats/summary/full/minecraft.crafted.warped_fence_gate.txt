@@ -1,0 +1,15 @@
+minecraft.crafted.warped_fence_gate
+1: GoodTimeWithScar: 318
+2: xBCrafted: 117
+3: falsesymmetry: 40
+4: BdoubleO100: 23
+5: Grian: 7
+6: Etho: 4
+7: cubfan135: 3
+8: Xisuma: 2
+9: VintageBeef: 2
+10: joehillssays: 1
+11: Tango: 1
+12: Stressmonster101: 1
+13: Keralis1: 1
+Total 520

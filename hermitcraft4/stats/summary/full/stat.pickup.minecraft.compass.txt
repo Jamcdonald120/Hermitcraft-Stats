@@ -1,0 +1,8 @@
+stat.pickup.minecraft.compass
+1: GoodTimeWithScar: 11
+2: Renthedog: 6
+3: falsesymmetry: 2
+4: Xisuma: 1
+5: iJevin: 1
+6: impulseSV: 1
+Total 22

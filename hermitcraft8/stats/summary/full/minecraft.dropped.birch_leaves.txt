@@ -1,0 +1,15 @@
+minecraft.dropped.birch_leaves
+1: Grian: 354
+2: MumboJumbo: 104
+3: GoodTimeWithScar: 94
+4: GeminiTay: 64
+5: iJevin: 56
+6: PearlescentMoon: 52
+7: hypnotizd: 11
+8: Keralis1: 6
+9: ZombieCleo: 2
+10: Docm77: 1
+11: BdoubleO100: 1
+12: Welsknight: 1
+13: Stressmonster101: 1
+Total 747

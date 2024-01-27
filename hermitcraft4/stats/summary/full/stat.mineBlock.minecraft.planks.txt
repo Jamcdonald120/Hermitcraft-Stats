@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.planks
+1: GoodTimeWithScar: 5724
+2: cubfan135: 4610
+3: iskall85: 3839
+4: impulseSV: 3608
+5: Renthedog: 2928
+6: Welsknight: 2641
+7: Xisuma: 2275
+8: Tinfoilchef: 2079
+9: Tango: 1750
+10: joehillssays: 1101
+11: falsesymmetry: 1014
+12: iJevin: 983
+13: ZombieCleo: 953
+14: zueljin: 691
+15: MumboJumbo: 634
+16: Etho: 493
+17: Docm77: 299
+18: VintageBeef: 276
+19: PythonGB: 210
+20: Biffa2001: 157
+21: xBCrafted: 20
+22: Mumbo: 14
+23: Jessassin: 7
+Total 36306

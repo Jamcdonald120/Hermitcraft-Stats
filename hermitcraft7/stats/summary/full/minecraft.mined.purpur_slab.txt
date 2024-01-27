@@ -1,0 +1,20 @@
+minecraft.mined.purpur_slab
+1: Tango: 330
+2: GoodTimeWithScar: 108
+3: impulseSV: 99
+4: falsesymmetry: 94
+5: Xisuma: 61
+6: Keralis1: 55
+7: iskall85: 53
+8: cubfan135: 49
+9: Etho: 47
+10: MumboJumbo: 23
+11: Renthedog: 14
+12: xBCrafted: 13
+13: iJevin: 9
+14: Zedaph: 9
+15: VintageBeef: 6
+16: Docm77: 4
+17: Grian: 3
+18: hypnotizd: 3
+Total 980

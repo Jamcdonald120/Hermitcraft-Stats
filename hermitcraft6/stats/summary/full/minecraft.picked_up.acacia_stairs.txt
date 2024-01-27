@@ -1,0 +1,10 @@
+minecraft.picked_up.acacia_stairs
+1: Xisuma: 254
+2: cubfan135: 158
+3: GoodTimeWithScar: 47
+4: Renthedog: 44
+5: joehillssays: 12
+6: ZombieCleo: 3
+7: Grian: 2
+8: Biffa2001: 2
+Total 522

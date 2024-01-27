@@ -1,0 +1,12 @@
+minecraft.picked_up.waxed_weathered_cut_copper
+1: BdoubleO100: 493
+2: Grian: 123
+3: PearlescentMoon: 29
+4: impulseSV: 18
+5: Docm77: 6
+6: Etho: 2
+7: falsesymmetry: 1
+8: cubfan135: 1
+9: GoodTimeWithScar: 1
+10: Zedaph: 1
+Total 675

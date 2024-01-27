@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.gold_block
+1: Xisuma: 777
+2: sl1pg8r: 110
+3: xBCrafted: 64
+4: zueljin: 57
+5: falsesymmetry: 54
+6: Tango: 51
+7: Spumwackles: 45
+8: impulseSV: 45
+9: hypnotizd: 12
+10: monkeyfarm: 8
+11: Mumbo: 7
+12: Tinfoilchef: 4
+13: ZombieCleo: 2
+Total 1236

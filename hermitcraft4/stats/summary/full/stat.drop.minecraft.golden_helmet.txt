@@ -1,0 +1,17 @@
+stat.drop.minecraft.golden_helmet
+1: impulseSV: 13
+2: cubfan135: 8
+3: GoodTimeWithScar: 8
+4: falsesymmetry: 5
+5: Tango: 4
+6: Welsknight: 3
+7: Renthedog: 2
+8: PythonGB: 2
+9: iJevin: 2
+10: iskall85: 2
+11: Docm77: 1
+12: Xisuma: 1
+13: VintageBeef: 1
+14: ZombieCleo: 1
+15: Tinfoilchef: 1
+Total 54

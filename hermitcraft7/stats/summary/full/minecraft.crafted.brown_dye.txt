@@ -1,0 +1,22 @@
+minecraft.crafted.brown_dye
+1: Etho: 3411
+2: impulseSV: 2448
+3: Grian: 1619
+4: Renthedog: 1615
+5: GoodTimeWithScar: 954
+6: falsesymmetry: 886
+7: Xisuma: 824
+8: Keralis1: 449
+9: Tango: 319
+10: iskall85: 223
+11: Docm77: 180
+12: Stressmonster101: 176
+13: VintageBeef: 128
+14: joehillssays: 110
+15: cubfan135: 75
+16: BdoubleO100: 27
+17: hypnotizd: 17
+18: Zedaph: 8
+19: Helsknight_: 8
+20: MumboJumbo: 3
+Total 13480

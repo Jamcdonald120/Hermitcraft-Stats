@@ -1,0 +1,20 @@
+minecraft.dropped.oak_trapdoor
+1: cubfan135: 174
+2: Tango: 150
+3: GoodTimeWithScar: 101
+4: iskall85: 50
+5: Etho: 38
+6: Renthedog: 33
+7: Stressmonster101: 26
+8: Zedaph: 20
+9: impulseSV: 18
+10: MumboJumbo: 9
+11: Docm77: 6
+12: Grian: 6
+13: hypnotizd: 5
+14: xBCrafted: 4
+15: Keralis1: 4
+16: Xisuma: 2
+17: VintageBeef: 1
+18: falsesymmetry: 1
+Total 648

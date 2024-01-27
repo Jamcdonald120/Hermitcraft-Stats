@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.diamond
+1: Renthedog: 1233
+2: falsesymmetry: 405
+3: GoodTimeWithScar: 288
+4: PythonGB: 279
+5: cubfan135: 252
+6: Etho: 162
+7: impulseSV: 108
+8: Welsknight: 81
+9: Tinfoilchef: 81
+10: Zedaph: 45
+11: Xisuma: 36
+12: MumboJumbo: 18
+13: iskall85: 9
+Total 2997

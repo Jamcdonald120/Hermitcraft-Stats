@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.sandstone
+1: falsesymmetry: 20654
+2: Xisuma: 2642
+3: xBCrafted: 2580
+4: Mumbo: 1498
+5: Biffa2001: 597
+6: Tango: 392
+7: zueljin: 362
+8: joehillssays: 154
+9: KingDaddyDMAC: 87
+10: iJevin: 22
+Total 28988

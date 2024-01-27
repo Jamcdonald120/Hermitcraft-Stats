@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.purpur_pillar
+1: cubfan135: 660
+2: Xisuma: 186
+3: impulseSV: 181
+4: Tango: 179
+5: iskall85: 164
+6: Zedaph: 111
+7: Tinfoilchef: 107
+8: Renthedog: 53
+9: GoodTimeWithScar: 46
+10: MumboJumbo: 45
+11: iJevin: 36
+12: PythonGB: 33
+13: Welsknight: 24
+14: falsesymmetry: 19
+15: xBCrafted: 6
+16: Etho: 1
+Total 1851

@@ -1,0 +1,27 @@
+minecraft.picked_up.copper_ore
+1: cubfan135: 2354
+2: Renthedog: 1367
+3: iJevin: 992
+4: Grian: 933
+5: Xisuma: 649
+6: xBCrafted: 644
+7: PearlescentMoon: 636
+8: GoodTimeWithScar: 616
+9: Tango: 448
+10: falsesymmetry: 412
+11: Docm77: 347
+12: hypnotizd: 267
+13: joehillssays: 207
+14: BdoubleO100: 198
+15: GeminiTay: 159
+16: Stressmonster101: 98
+17: impulseSV: 97
+18: Welsknight: 84
+19: ZombieCleo: 83
+20: iskall85: 68
+21: Zedaph: 67
+22: MumboJumbo: 65
+23: Keralis1: 63
+24: VintageBeef: 53
+25: Etho: 22
+Total 10929

@@ -1,0 +1,21 @@
+minecraft.picked_up.polished_basalt
+1: impulseSV: 813
+2: GoodTimeWithScar: 358
+3: Tango: 201
+4: cubfan135: 200
+5: xBCrafted: 73
+6: iskall85: 72
+7: joehillssays: 60
+8: Xisuma: 49
+9: BdoubleO100: 48
+10: hypnotizd: 24
+11: Docm77: 20
+12: Welsknight: 14
+13: PearlescentMoon: 13
+14: Keralis1: 13
+15: GeminiTay: 12
+16: ZombieCleo: 10
+17: iJevin: 1
+18: Grian: 1
+19: MumboJumbo: 1
+Total 1983

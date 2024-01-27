@@ -1,0 +1,23 @@
+minecraft.mined.smooth_quartz
+1: impulseSV: 3503
+2: GoodTimeWithScar: 687
+3: Tango: 642
+4: Keralis1: 641
+5: cubfan135: 443
+6: Grian: 402
+7: VintageBeef: 370
+8: ZombieCleo: 207
+9: falsesymmetry: 166
+10: Etho: 149
+11: Xisuma: 118
+12: joehillssays: 96
+13: iJevin: 70
+14: xBCrafted: 45
+15: Welsknight: 40
+16: BdoubleO100: 35
+17: MumboJumbo: 15
+18: Docm77: 9
+19: Zedaph: 5
+20: hypnotizd: 3
+21: Renthedog: 1
+Total 7647

@@ -1,0 +1,14 @@
+stat.useItem.minecraft.blue_shulker_box
+1: Tango: 122
+2: falsesymmetry: 113
+3: iskall85: 96
+4: cubfan135: 88
+5: Xisuma: 52
+6: Renthedog: 46
+7: joehillssays: 27
+8: GoodTimeWithScar: 26
+9: Tinfoilchef: 21
+10: Welsknight: 5
+11: impulseSV: 5
+12: MumboJumbo: 1
+Total 602

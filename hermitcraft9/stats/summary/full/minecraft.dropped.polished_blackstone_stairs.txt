@@ -1,0 +1,9 @@
+minecraft.dropped.polished_blackstone_stairs
+1: Tango: 1196
+2: falsesymmetry: 80
+3: impulseSV: 55
+4: BdoubleO100: 4
+5: Zedaph: 4
+6: GoodTimeWithScar: 3
+7: Grian: 2
+Total 1344

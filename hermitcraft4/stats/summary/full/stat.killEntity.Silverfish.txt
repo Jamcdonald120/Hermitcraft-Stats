@@ -1,0 +1,18 @@
+stat.killEntity.Silverfish
+1: Xisuma: 85
+2: Welsknight: 78
+3: iskall85: 57
+4: Tinfoilchef: 37
+5: cubfan135: 32
+6: PythonGB: 26
+7: impulseSV: 26
+8: GoodTimeWithScar: 15
+9: Renthedog: 10
+10: Tango: 10
+11: ZombieCleo: 7
+12: Docm77: 5
+13: VintageBeef: 4
+14: falsesymmetry: 4
+15: Etho: 4
+16: Biffa2001: 1
+Total 401

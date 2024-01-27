@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.jungle_door
+1: falsesymmetry: 36
+2: monkeyfarm: 12
+3: xBCrafted: 6
+4: Xisuma: 3
+5: topmass: 3
+6: Tango: 3
+Total 63

@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.bread
+1: Biffa2001: 327
+Total 327

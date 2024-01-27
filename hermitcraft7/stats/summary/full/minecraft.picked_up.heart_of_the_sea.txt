@@ -1,0 +1,19 @@
+minecraft.picked_up.heart_of_the_sea
+1: joehillssays: 65
+2: xBCrafted: 60
+3: Keralis1: 15
+4: Zedaph: 10
+5: cubfan135: 7
+6: impulseSV: 5
+7: falsesymmetry: 4
+8: Docm77: 3
+9: Xisuma: 3
+10: ZombieCleo: 3
+11: iJevin: 2
+12: Grian: 2
+13: Tango: 2
+14: GoodTimeWithScar: 2
+15: Renthedog: 1
+16: VintageBeef: 1
+17: Etho: 1
+Total 186

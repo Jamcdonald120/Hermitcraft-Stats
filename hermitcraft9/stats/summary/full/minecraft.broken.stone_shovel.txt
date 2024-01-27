@@ -1,0 +1,12 @@
+minecraft.broken.stone_shovel
+1: VintageBeef: 96
+2: BdoubleO100: 6
+3: falsesymmetry: 4
+4: Tinfoilchef: 4
+5: Zedaph: 4
+6: hypnotizd: 3
+7: impulseSV: 3
+8: joehillssays: 2
+9: cubfan135: 2
+10: iskall85: 1
+Total 125

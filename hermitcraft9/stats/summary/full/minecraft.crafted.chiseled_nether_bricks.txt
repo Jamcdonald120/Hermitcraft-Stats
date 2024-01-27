@@ -1,0 +1,9 @@
+minecraft.crafted.chiseled_nether_bricks
+1: cubfan135: 96
+2: Xisuma: 9
+3: Tango: 8
+4: GoodTimeWithScar: 3
+5: VintageBeef: 2
+6: iJevin: 1
+7: Zedaph: 1
+Total 120

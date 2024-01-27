@@ -1,0 +1,24 @@
+minecraft.picked_up.iron_boots
+1: iJevin: 120
+2: GoodTimeWithScar: 26
+3: Tango: 21
+4: joehillssays: 17
+5: cubfan135: 16
+6: Docm77: 14
+7: Etho: 14
+8: Grian: 12
+9: Xisuma: 10
+10: Renthedog: 9
+11: impulseSV: 8
+12: PearlescentMoon: 7
+13: falsesymmetry: 6
+14: Welsknight: 5
+15: Zedaph: 5
+16: BdoubleO100: 4
+17: iskall85: 4
+18: GeminiTay: 3
+19: ZombieCleo: 2
+20: hypnotizd: 2
+21: MumboJumbo: 1
+22: Stressmonster101: 1
+Total 307

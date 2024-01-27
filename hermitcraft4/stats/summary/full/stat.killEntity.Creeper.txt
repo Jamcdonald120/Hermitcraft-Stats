@@ -1,0 +1,26 @@
+stat.killEntity.Creeper
+1: iskall85: 822
+2: cubfan135: 748
+3: GoodTimeWithScar: 727
+4: Xisuma: 570
+5: Renthedog: 510
+6: impulseSV: 386
+7: Tango: 340
+8: Welsknight: 319
+9: falsesymmetry: 300
+10: iJevin: 188
+11: MumboJumbo: 161
+12: PythonGB: 140
+13: Tinfoilchef: 133
+14: VintageBeef: 97
+15: Docm77: 95
+16: joehillssays: 91
+17: Etho: 91
+18: Biffa2001: 58
+19: ZombieCleo: 35
+20: xBCrafted: 16
+21: zueljin: 13
+22: Jessassin: 12
+23: Mumbo: 12
+24: hypnotizd: 3
+Total 5867

@@ -1,0 +1,9 @@
+minecraft.dropped.glowstone
+1: Grian: 324
+2: PearlescentMoon: 88
+3: iJevin: 43
+4: Welsknight: 32
+5: Zedaph: 32
+6: impulseSV: 3
+7: Keralis1: 1
+Total 523

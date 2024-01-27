@@ -1,0 +1,20 @@
+minecraft.mined.blue_wool
+1: VintageBeef: 252
+2: Tango: 182
+3: Welsknight: 80
+4: GoodTimeWithScar: 64
+5: cubfan135: 63
+6: iJevin: 60
+7: BdoubleO100: 55
+8: falsesymmetry: 48
+9: hypnotizd: 43
+10: Xisuma: 34
+11: joehillssays: 10
+12: Zedaph: 8
+13: Grian: 7
+14: ZombieCleo: 6
+15: xBCrafted: 5
+16: iskall85: 3
+17: Tinfoilchef: 1
+18: impulseSV: 1
+Total 922

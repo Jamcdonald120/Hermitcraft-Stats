@@ -1,0 +1,9 @@
+stat.useItem.minecraft.acacia_door
+1: Xisuma: 244
+2: PythonGB: 7
+3: falsesymmetry: 3
+4: cubfan135: 3
+5: joehillssays: 2
+6: Tango: 1
+7: xBCrafted: 1
+Total 261

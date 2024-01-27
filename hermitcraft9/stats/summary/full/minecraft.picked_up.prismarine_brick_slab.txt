@@ -1,0 +1,13 @@
+minecraft.picked_up.prismarine_brick_slab
+1: VintageBeef: 9263
+2: PearlescentMoon: 308
+3: GeminiTay: 82
+4: Mumbo: 81
+5: cubfan135: 60
+6: falsesymmetry: 16
+7: Stressmonster101: 14
+8: Xisuma: 5
+9: GoodTimeWithScar: 5
+10: xBCrafted: 2
+11: Keralis1: 1
+Total 9837

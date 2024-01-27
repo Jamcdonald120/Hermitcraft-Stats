@@ -1,0 +1,4 @@
+minecraft.dropped.red_candle
+1: GeminiTay: 16
+2: Tango: 16
+Total 32

@@ -1,0 +1,5 @@
+minecraft.picked_up.firework_star
+1: GoodTimeWithScar: 64
+2: cubfan135: 51
+3: Stressmonster101: 5
+Total 120

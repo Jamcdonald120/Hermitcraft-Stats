@@ -1,0 +1,15 @@
+stat.pickup.minecraft.acacia_boat
+1: impulseSV: 71
+2: Welsknight: 26
+3: Xisuma: 21
+4: cubfan135: 8
+5: Etho: 7
+6: falsesymmetry: 6
+7: PythonGB: 4
+8: Tango: 4
+9: Jessassin: 3
+10: Docm77: 2
+11: iskall85: 2
+12: Renthedog: 1
+13: VintageBeef: 1
+Total 156

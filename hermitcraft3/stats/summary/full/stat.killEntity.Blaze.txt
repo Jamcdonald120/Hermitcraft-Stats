@@ -1,0 +1,18 @@
+stat.killEntity.Blaze
+1: Xisuma: 2303
+2: impulseSV: 1409
+3: falsesymmetry: 829
+4: Tango: 241
+5: Tinfoilchef: 237
+6: PythonGB: 102
+7: ZombieCleo: 74
+8: xBCrafted: 57
+9: Spumwackles: 53
+10: zueljin: 41
+11: monkeyfarm: 30
+12: hypnotizd: 27
+13: KingDaddyDMAC: 24
+14: Biffa2001: 22
+15: sl1pg8r: 18
+16: topmass: 11
+Total 5478

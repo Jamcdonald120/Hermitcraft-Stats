@@ -1,0 +1,23 @@
+stat.pickup.minecraft.glowstone
+1: cubfan135: 1757
+2: Welsknight: 1337
+3: GoodTimeWithScar: 1306
+4: MumboJumbo: 1161
+5: Tango: 786
+6: Zedaph: 559
+7: Xisuma: 461
+8: iJevin: 436
+9: Renthedog: 391
+10: impulseSV: 353
+11: xBCrafted: 309
+12: falsesymmetry: 275
+13: PythonGB: 243
+14: Tinfoilchef: 215
+15: joehillssays: 170
+16: VintageBeef: 115
+17: Biffa2001: 80
+18: Etho: 69
+19: iskall85: 39
+20: ZombieCleo: 39
+21: Docm77: 15
+Total 10116

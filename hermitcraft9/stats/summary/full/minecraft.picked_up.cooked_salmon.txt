@@ -1,0 +1,19 @@
+minecraft.picked_up.cooked_salmon
+1: Grian: 247
+2: Keralis1: 70
+3: iJevin: 62
+4: PearlescentMoon: 54
+5: GeminiTay: 43
+6: impulseSV: 40
+7: BdoubleO100: 32
+8: Zedaph: 23
+9: Mumbo: 10
+10: MumboJumbo: 10
+11: Stressmonster101: 10
+12: hypnotizd: 8
+13: OrionSound: 4
+14: ZombieCleo: 3
+15: Tango: 1
+16: iskall85: 1
+17: xBCrafted: 1
+Total 619

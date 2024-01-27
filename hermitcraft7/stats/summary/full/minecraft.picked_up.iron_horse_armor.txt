@@ -1,0 +1,16 @@
+minecraft.picked_up.iron_horse_armor
+1: Tango: 9
+2: Zedaph: 6
+3: iJevin: 3
+4: Renthedog: 2
+5: Grian: 2
+6: hypnotizd: 2
+7: impulseSV: 2
+8: Xisuma: 1
+9: VintageBeef: 1
+10: xBCrafted: 1
+11: cubfan135: 1
+12: Etho: 1
+13: Stressmonster101: 1
+14: Keralis1: 1
+Total 33

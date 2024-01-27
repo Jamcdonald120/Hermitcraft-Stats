@@ -1,0 +1,20 @@
+minecraft.crafted.emerald_block
+1: Xisuma: 21428
+2: iskall85: 2189
+3: cubfan135: 1072
+4: Stressmonster101: 901
+5: impulseSV: 600
+6: PythonGB: 474
+7: MumboJumbo: 387
+8: Grian: 386
+9: iJevin: 235
+10: Docm77: 104
+11: falsesymmetry: 91
+12: Tinfoilchef: 50
+13: GoodTimeWithScar: 48
+14: ZombieCleo: 42
+15: joehillssays: 12
+16: Tango: 8
+17: Biffa2001: 7
+18: Zedaph: 1
+Total 28035

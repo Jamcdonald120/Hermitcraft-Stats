@@ -1,0 +1,9 @@
+stat.useItem.minecraft.fish
+1: Xisuma: 51
+2: falsesymmetry: 31
+3: ZombieCleo: 31
+4: zueljin: 22
+5: iJevin: 11
+6: sl1pg8r: 5
+7: xBCrafted: 1
+Total 152

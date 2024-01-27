@@ -1,0 +1,20 @@
+minecraft.dropped.obsidian
+1: Tango: 682
+2: cubfan135: 643
+3: Zedaph: 244
+4: impulseSV: 203
+5: falsesymmetry: 122
+6: Xisuma: 85
+7: Keralis1: 81
+8: iJevin: 70
+9: GoodTimeWithScar: 66
+10: Grian: 64
+11: Etho: 48
+12: iskall85: 30
+13: BdoubleO100: 26
+14: Renthedog: 17
+15: MumboJumbo: 6
+16: Stressmonster101: 4
+17: Docm77: 1
+18: xBCrafted: 1
+Total 2393

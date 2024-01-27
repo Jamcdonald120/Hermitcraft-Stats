@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.golden_chestplate
+1: Renthedog: 57
+2: ZombieCleo: 2
+3: MumboJumbo: 1
+Total 60

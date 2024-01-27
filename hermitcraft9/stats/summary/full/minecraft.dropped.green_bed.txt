@@ -1,0 +1,8 @@
+minecraft.dropped.green_bed
+1: BdoubleO100: 3
+2: Xisuma: 2
+3: Etho: 2
+4: impulseSV: 2
+5: Smajor1995: 1
+6: iJevin: 1
+Total 11

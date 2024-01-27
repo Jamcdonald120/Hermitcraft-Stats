@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.leather_leggings
+1: GoodTimeWithScar: 37
+2: PythonGB: 26
+3: falsesymmetry: 25
+4: Xisuma: 24
+5: cubfan135: 18
+6: BdoubleO100: 15
+7: Tinfoilchef: 11
+8: impulseSV: 11
+9: Zedaph: 8
+10: joehillssays: 5
+11: Renthedog: 2
+12: Tango: 2
+13: ZombieCleo: 2
+14: Stressmonster101: 2
+Total 188

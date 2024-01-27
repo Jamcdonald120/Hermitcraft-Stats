@@ -1,0 +1,5 @@
+stat.drop.minecraft.red_sandstone_stairs
+1: cubfan135: 107
+2: GoodTimeWithScar: 32
+3: Xisuma: 1
+Total 140

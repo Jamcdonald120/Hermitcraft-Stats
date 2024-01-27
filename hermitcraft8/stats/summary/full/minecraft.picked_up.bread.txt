@@ -1,0 +1,24 @@
+minecraft.picked_up.bread
+1: VintageBeef: 1730
+2: iJevin: 436
+3: Xisuma: 339
+4: joehillssays: 241
+5: GoodTimeWithScar: 222
+6: Renthedog: 190
+7: ZombieCleo: 64
+8: MumboJumbo: 50
+9: Grian: 43
+10: Etho: 34
+11: cubfan135: 32
+12: Docm77: 25
+13: PearlescentMoon: 22
+14: xBCrafted: 22
+15: Welsknight: 13
+16: hypnotizd: 10
+17: iskall85: 7
+18: Tango: 6
+19: GeminiTay: 4
+20: BdoubleO100: 3
+21: falsesymmetry: 3
+22: Zedaph: 2
+Total 3498

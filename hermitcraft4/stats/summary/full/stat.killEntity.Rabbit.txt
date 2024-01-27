@@ -1,0 +1,15 @@
+stat.killEntity.Rabbit
+1: Tango: 243
+2: cubfan135: 47
+3: joehillssays: 21
+4: Renthedog: 16
+5: GoodTimeWithScar: 11
+6: Docm77: 5
+7: iskall85: 5
+8: Tinfoilchef: 4
+9: impulseSV: 4
+10: falsesymmetry: 2
+11: Xisuma: 1
+12: PythonGB: 1
+13: Welsknight: 1
+Total 361

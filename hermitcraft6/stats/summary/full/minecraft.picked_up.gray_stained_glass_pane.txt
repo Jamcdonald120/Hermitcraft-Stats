@@ -1,0 +1,14 @@
+minecraft.picked_up.gray_stained_glass_pane
+1: MumboJumbo: 709
+2: Grian: 619
+3: iskall85: 526
+4: iJevin: 160
+5: Docm77: 158
+6: Renthedog: 139
+7: Xisuma: 109
+8: cubfan135: 59
+9: falsesymmetry: 58
+10: GoodTimeWithScar: 32
+11: Stressmonster101: 18
+12: Welsknight: 13
+Total 2600

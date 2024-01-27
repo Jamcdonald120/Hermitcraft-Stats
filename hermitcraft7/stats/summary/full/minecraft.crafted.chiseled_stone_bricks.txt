@@ -1,0 +1,16 @@
+minecraft.crafted.chiseled_stone_bricks
+1: impulseSV: 2812
+2: Tango: 2475
+3: Keralis1: 2160
+4: GoodTimeWithScar: 1124
+5: Etho: 808
+6: Grian: 457
+7: falsesymmetry: 383
+8: cubfan135: 368
+9: Docm77: 192
+10: iskall85: 122
+11: joehillssays: 38
+12: Xisuma: 17
+13: hypnotizd: 16
+14: Renthedog: 9
+Total 10981

@@ -1,0 +1,7 @@
+stat.useItem.minecraft.brewing_stand
+1: Spumwackles: 8
+2: iJevin: 6
+3: Xisuma: 5
+4: falsesymmetry: 2
+5: sl1pg8r: 1
+Total 22

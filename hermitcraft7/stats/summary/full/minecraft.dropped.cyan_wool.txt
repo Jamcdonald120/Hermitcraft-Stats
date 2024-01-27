@@ -1,0 +1,11 @@
+minecraft.dropped.cyan_wool
+1: cubfan135: 161
+2: Tango: 153
+3: falsesymmetry: 75
+4: BdoubleO100: 64
+5: GoodTimeWithScar: 56
+6: Zedaph: 35
+7: Etho: 6
+8: ZombieCleo: 1
+9: Keralis1: 1
+Total 552

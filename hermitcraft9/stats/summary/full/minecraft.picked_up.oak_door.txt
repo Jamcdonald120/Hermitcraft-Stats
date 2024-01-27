@@ -1,0 +1,23 @@
+minecraft.picked_up.oak_door
+1: Grian: 30
+2: Xisuma: 16
+3: iJevin: 16
+4: hypnotizd: 16
+5: Keralis1: 12
+6: Tango: 11
+7: Pixlriffs: 10
+8: cubfan135: 10
+9: BdoubleO100: 8
+10: Mumbo: 4
+11: Docm77: 3
+12: Renthedog: 3
+13: VintageBeef: 3
+14: PearlescentMoon: 3
+15: iskall85: 3
+16: xBCrafted: 2
+17: ZombieCleo: 1
+18: GoodTimeWithScar: 1
+19: SolidarityGaming: 1
+20: impulseSV: 1
+21: Zedaph: 1
+Total 155

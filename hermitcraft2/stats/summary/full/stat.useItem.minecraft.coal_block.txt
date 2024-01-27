@@ -1,0 +1,4 @@
+stat.useItem.minecraft.coal_block
+1: sl1pg8r: 160
+2: ZombieCleo: 46
+Total 206

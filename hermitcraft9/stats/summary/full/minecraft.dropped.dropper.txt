@@ -1,0 +1,16 @@
+minecraft.dropped.dropper
+1: Tango: 262
+2: Zedaph: 19
+3: Grian: 16
+4: Keralis1: 14
+5: Xisuma: 11
+6: impulseSV: 11
+7: GoodTimeWithScar: 10
+8: VintageBeef: 6
+9: xBCrafted: 6
+10: Etho: 5
+11: iJevin: 3
+12: Mumbo: 2
+13: Renthedog: 1
+14: Stressmonster101: 1
+Total 367

@@ -1,0 +1,13 @@
+stat.drop.minecraft.iron_bars
+1: Tango: 504
+2: Xisuma: 447
+3: cubfan135: 75
+4: MumboJumbo: 32
+5: falsesymmetry: 27
+6: Docm77: 2
+7: VintageBeef: 2
+8: GoodTimeWithScar: 2
+9: Renthedog: 1
+10: joehillssays: 1
+11: Welsknight: 1
+Total 1094

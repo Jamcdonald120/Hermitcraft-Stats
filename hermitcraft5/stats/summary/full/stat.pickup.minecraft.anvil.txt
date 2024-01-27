@@ -1,0 +1,24 @@
+stat.pickup.minecraft.anvil
+1: cubfan135: 198
+2: falsesymmetry: 134
+3: Xisuma: 71
+4: Tango: 48
+5: iskall85: 38
+6: Zedaph: 31
+7: impulseSV: 30
+8: GoodTimeWithScar: 26
+9: Renthedog: 22
+10: Welsknight: 21
+11: Stressmonster101: 21
+12: PythonGB: 9
+13: joehillssays: 9
+14: iJevin: 8
+15: xBCrafted: 8
+16: MumboJumbo: 7
+17: Tinfoilchef: 6
+18: VintageBeef: 4
+19: BdoubleO100: 4
+20: Biffa2001: 3
+21: Docm77: 1
+22: Etho: 1
+Total 700

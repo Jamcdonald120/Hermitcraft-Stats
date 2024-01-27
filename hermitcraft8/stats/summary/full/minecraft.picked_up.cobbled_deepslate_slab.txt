@@ -1,0 +1,20 @@
+minecraft.picked_up.cobbled_deepslate_slab
+1: Tango: 402
+2: Grian: 325
+3: Docm77: 283
+4: GoodTimeWithScar: 141
+5: Welsknight: 51
+6: Renthedog: 50
+7: Xisuma: 44
+8: hypnotizd: 41
+9: iJevin: 24
+10: impulseSV: 17
+11: MumboJumbo: 16
+12: joehillssays: 14
+13: xBCrafted: 8
+14: PearlescentMoon: 7
+15: falsesymmetry: 6
+16: EvilXisuma: 4
+17: cubfan135: 1
+18: Keralis1: 1
+Total 1435

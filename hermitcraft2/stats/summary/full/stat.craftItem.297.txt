@@ -1,0 +1,6 @@
+stat.craftItem.297
+1: topmass: 98
+2: Marriland: 96
+3: skyzm: 68
+4: Jessassin: 64
+Total 326

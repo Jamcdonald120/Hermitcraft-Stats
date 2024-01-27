@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.lever
+1: cubfan135: 562
+2: falsesymmetry: 529
+3: impulseSV: 521
+4: Xisuma: 461
+5: iJevin: 438
+6: Tango: 355
+7: MumboJumbo: 355
+8: VintageBeef: 236
+9: iskall85: 215
+10: Welsknight: 152
+11: Biffa2001: 145
+12: joehillssays: 134
+13: GoodTimeWithScar: 85
+14: Etho: 61
+15: Docm77: 46
+16: ZombieCleo: 46
+17: Tinfoilchef: 31
+18: Mumbo: 12
+19: Renthedog: 5
+20: PythonGB: 3
+21: zueljin: 1
+Total 4393

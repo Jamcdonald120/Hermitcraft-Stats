@@ -1,0 +1,25 @@
+stat.pickup.minecraft.diamond_shovel
+1: GoodTimeWithScar: 126
+2: Renthedog: 77
+3: Tango: 64
+4: cubfan135: 45
+5: Docm77: 42
+6: iJevin: 36
+7: iskall85: 36
+8: MumboJumbo: 33
+9: PythonGB: 29
+10: impulseSV: 27
+11: Zedaph: 26
+12: joehillssays: 21
+13: Xisuma: 20
+14: falsesymmetry: 14
+15: Welsknight: 11
+16: ZombieCleo: 6
+17: BdoubleO100: 5
+18: Tinfoilchef: 5
+19: Stressmonster101: 5
+20: xBCrafted: 3
+21: VintageBeef: 2
+22: Biffa2001: 2
+23: Etho: 1
+Total 636

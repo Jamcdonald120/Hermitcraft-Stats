@@ -1,0 +1,9 @@
+minecraft.dropped.cherry_planks
+1: Grian: 64
+2: Renthedog: 8
+3: Zedaph: 7
+4: falsesymmetry: 4
+5: cubfan135: 4
+6: Xisuma: 3
+7: impulseSV: 3
+Total 93

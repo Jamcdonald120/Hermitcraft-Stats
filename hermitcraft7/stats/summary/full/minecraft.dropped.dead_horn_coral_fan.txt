@@ -1,0 +1,3 @@
+minecraft.dropped.dead_horn_coral_fan
+1: falsesymmetry: 1
+Total 1

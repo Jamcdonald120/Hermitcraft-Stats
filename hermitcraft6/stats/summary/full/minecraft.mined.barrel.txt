@@ -1,0 +1,23 @@
+minecraft.mined.barrel
+1: GoodTimeWithScar: 330
+2: iskall85: 206
+3: cubfan135: 120
+4: Xisuma: 111
+5: falsesymmetry: 94
+6: BdoubleO100: 90
+7: ZombieCleo: 70
+8: Grian: 59
+9: Keralis1: 54
+10: Renthedog: 52
+11: Tango: 22
+12: Welsknight: 17
+13: Stressmonster101: 14
+14: impulseSV: 12
+15: joehillssays: 11
+16: MumboJumbo: 10
+17: Docm77: 8
+18: HumanCleo: 7
+19: PythonGB: 1
+20: Tinfoilchef: 1
+21: Zedaph: 1
+Total 1290

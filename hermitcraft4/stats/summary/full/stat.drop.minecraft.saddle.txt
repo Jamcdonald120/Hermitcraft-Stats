@@ -1,0 +1,8 @@
+stat.drop.minecraft.saddle
+1: MumboJumbo: 670
+2: impulseSV: 23
+3: Xisuma: 4
+4: Renthedog: 4
+5: iskall85: 2
+6: PythonGB: 1
+Total 704

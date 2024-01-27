@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.diamond_leggings
+1: MumboJumbo: 8
+2: iJevin: 7
+3: Welsknight: 7
+4: GoodTimeWithScar: 7
+5: Renthedog: 6
+6: Tango: 6
+7: iskall85: 6
+8: PythonGB: 4
+9: xBCrafted: 3
+10: cubfan135: 3
+11: Tinfoilchef: 3
+12: impulseSV: 3
+13: Etho: 2
+14: Stressmonster101: 2
+15: Docm77: 1
+16: Xisuma: 1
+17: VintageBeef: 1
+18: joehillssays: 1
+19: BdoubleO100: 1
+20: falsesymmetry: 1
+21: Biffa2001: 1
+22: ZombieCleo: 1
+23: Zedaph: 1
+Total 76

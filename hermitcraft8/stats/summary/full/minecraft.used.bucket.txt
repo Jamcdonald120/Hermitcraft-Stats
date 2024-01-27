@@ -1,0 +1,29 @@
+minecraft.used.bucket
+1: cubfan135: 14465
+2: xBCrafted: 3401
+3: iJevin: 3134
+4: Etho: 2596
+5: impulseSV: 2158
+6: MumboJumbo: 1977
+7: falsesymmetry: 1937
+8: Tango: 1696
+9: Renthedog: 1690
+10: PearlescentMoon: 1591
+11: Xisuma: 1464
+12: Docm77: 1388
+13: iskall85: 1153
+14: Welsknight: 1128
+15: Zedaph: 1112
+16: Keralis1: 1003
+17: hypnotizd: 772
+18: joehillssays: 678
+19: GeminiTay: 560
+20: GoodTimeWithScar: 545
+21: Grian: 498
+22: ZombieCleo: 431
+23: BdoubleO100: 344
+24: VintageBeef: 321
+25: Tinfoilchef: 158
+26: Stressmonster101: 126
+27: EvilXisuma: 2
+Total 46328

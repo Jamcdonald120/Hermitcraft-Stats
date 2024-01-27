@@ -1,0 +1,16 @@
+minecraft.mined.deepslate_brick_wall
+1: xBCrafted: 234
+2: Tango: 188
+3: impulseSV: 115
+4: Mumbo: 93
+5: PearlescentMoon: 58
+6: cubfan135: 28
+7: joehillssays: 26
+8: GoodTimeWithScar: 11
+9: iJevin: 7
+10: RentheKing: 7
+11: Xisuma: 4
+12: Docm77: 3
+13: Zedaph: 3
+14: Grian: 2
+Total 779

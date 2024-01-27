@@ -1,0 +1,21 @@
+stat.pickup.minecraft.trapped_chest
+1: Tinfoilchef: 370
+2: cubfan135: 185
+3: iJevin: 174
+4: GoodTimeWithScar: 166
+5: falsesymmetry: 150
+6: Xisuma: 117
+7: iskall85: 106
+8: Renthedog: 101
+9: Tango: 73
+10: impulseSV: 73
+11: Welsknight: 67
+12: Biffa2001: 51
+13: MumboJumbo: 50
+14: Etho: 47
+15: Docm77: 26
+16: xisumavoid: 6
+17: joehillssays: 3
+18: PythonGB: 2
+19: VintageBeef: 1
+Total 1768

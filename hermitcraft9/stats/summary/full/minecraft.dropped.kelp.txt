@@ -1,0 +1,27 @@
+minecraft.dropped.kelp
+1: GoodTimeWithScar: 2735
+2: Tango: 2205
+3: iJevin: 1416
+4: Renthedog: 632
+5: GeminiTay: 578
+6: Keralis1: 566
+7: Docm77: 463
+8: Zedaph: 450
+9: ZombieCleo: 407
+10: falsesymmetry: 276
+11: Xisuma: 201
+12: Mumbo: 199
+13: impulseSV: 157
+14: Grian: 105
+15: PearlescentMoon: 77
+16: Etho: 71
+17: Stressmonster101: 64
+18: BdoubleO100: 53
+19: cubfan135: 26
+20: joehillssays: 22
+21: iskall85: 15
+22: RentheKing: 12
+23: VintageBeef: 11
+24: xBCrafted: 6
+25: hypnotizd: 1
+Total 10748

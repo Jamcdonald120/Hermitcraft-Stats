@@ -1,0 +1,21 @@
+minecraft.mined.end_stone_bricks
+1: impulseSV: 1418
+2: iskall85: 1275
+3: Zedaph: 1039
+4: cubfan135: 944
+5: Renthedog: 636
+6: Xisuma: 446
+7: MumboJumbo: 276
+8: PythonGB: 178
+9: Tango: 161
+10: falsesymmetry: 157
+11: Grian: 129
+12: GoodTimeWithScar: 93
+13: iJevin: 66
+14: HumanCleo: 52
+15: ZombieCleo: 36
+16: joehillssays: 35
+17: Docm77: 22
+18: Welsknight: 4
+19: Tinfoilchef: 3
+Total 6970

@@ -1,0 +1,22 @@
+stat.drop.minecraft.carrot
+1: MumboJumbo: 29332
+2: Docm77: 18761
+3: Zedaph: 10842
+4: Tango: 8280
+5: impulseSV: 2435
+6: Renthedog: 2202
+7: iskall85: 1505
+8: cubfan135: 1163
+9: Stressmonster101: 748
+10: Xisuma: 535
+11: Tinfoilchef: 370
+12: iJevin: 285
+13: xBCrafted: 134
+14: falsesymmetry: 100
+15: GoodTimeWithScar: 89
+16: ZombieCleo: 85
+17: PythonGB: 9
+18: joehillssays: 9
+19: Biffa2001: 1
+20: Etho: 1
+Total 76886

@@ -1,0 +1,8 @@
+minecraft.dropped.yellow_bed
+1: Etho: 8
+2: iJevin: 5
+3: Tango: 4
+4: Renthedog: 1
+5: BdoubleO100: 1
+6: PearlescentMoon: 1
+Total 20

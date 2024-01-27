@@ -1,0 +1,9 @@
+minecraft.picked_up.chiseled_bookshelf
+1: Grian: 59
+2: GoodTimeWithScar: 20
+3: Renthedog: 17
+4: cubfan135: 12
+5: falsesymmetry: 5
+6: ZombieCleo: 2
+7: PearlescentMoon: 1
+Total 116

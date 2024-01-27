@@ -1,0 +1,9 @@
+minecraft.picked_up.polished_blackstone_pressure_plate
+1: Tango: 127
+2: iJevin: 39
+3: cubfan135: 39
+4: GoodTimeWithScar: 26
+5: Xisuma: 2
+6: Etho: 1
+7: impulseSV: 1
+Total 235

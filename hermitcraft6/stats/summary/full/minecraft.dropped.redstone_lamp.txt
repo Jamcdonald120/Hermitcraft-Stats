@@ -1,0 +1,11 @@
+minecraft.dropped.redstone_lamp
+1: MumboJumbo: 18
+2: impulseSV: 10
+3: iskall85: 7
+4: Docm77: 5
+5: iJevin: 5
+6: Renthedog: 3
+7: Zedaph: 2
+8: GoodTimeWithScar: 1
+9: Stressmonster101: 1
+Total 52

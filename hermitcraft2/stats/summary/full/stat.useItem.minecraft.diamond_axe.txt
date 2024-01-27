@@ -1,0 +1,17 @@
+stat.useItem.minecraft.diamond_axe
+1: Tango: 5130
+2: ZombieCleo: 3731
+3: Xisuma: 3413
+4: Mumbo: 3381
+5: zueljin: 2719
+6: falsesymmetry: 2185
+7: xBCrafted: 1843
+8: iJevin: 1774
+9: Biffa2001: 1055
+10: sl1pg8r: 1052
+11: Spumwackles: 759
+12: Tinfoilchef: 741
+13: KingDaddyDMAC: 373
+14: monkeyfarm: 151
+15: Pungence: 1
+Total 28308

@@ -1,0 +1,5 @@
+minecraft.crafted.green_glazed_terracotta
+1: Etho: 214
+2: BdoubleO100: 4
+3: ZombieCleo: 1
+Total 219

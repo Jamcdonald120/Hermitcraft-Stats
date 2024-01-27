@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.snow
+1: zueljin: 8
+2: ZombieCleo: 3
+Total 11

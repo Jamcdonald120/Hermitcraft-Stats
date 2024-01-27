@@ -1,0 +1,26 @@
+minecraft.used.deepslate_tiles
+1: impulseSV: 9599
+2: Docm77: 6324
+3: Renthedog: 4102
+4: Stressmonster101: 3638
+5: Xisuma: 2786
+6: xBCrafted: 2519
+7: Zedaph: 1927
+8: joehillssays: 1437
+9: PearlescentMoon: 1171
+10: cubfan135: 1134
+11: VintageBeef: 703
+12: iskall85: 692
+13: iJevin: 445
+14: Welsknight: 367
+15: hypnotizd: 356
+16: Keralis1: 335
+17: ZombieCleo: 294
+18: GeminiTay: 235
+19: GoodTimeWithScar: 184
+20: EvilXisuma: 159
+21: Grian: 156
+22: BdoubleO100: 132
+23: Tango: 43
+24: Etho: 17
+Total 38755

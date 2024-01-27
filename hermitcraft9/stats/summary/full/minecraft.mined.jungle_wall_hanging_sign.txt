@@ -1,0 +1,5 @@
+minecraft.mined.jungle_wall_hanging_sign
+1: cubfan135: 5
+2: GoodTimeWithScar: 3
+3: PearlescentMoon: 1
+Total 9

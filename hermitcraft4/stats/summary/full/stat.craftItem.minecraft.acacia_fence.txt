@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.acacia_fence
+1: cubfan135: 822
+2: falsesymmetry: 225
+3: PythonGB: 222
+4: Renthedog: 117
+5: ZombieCleo: 45
+6: Etho: 36
+7: Welsknight: 27
+8: iskall85: 24
+9: Xisuma: 12
+10: VintageBeef: 3
+11: impulseSV: 3
+Total 1536

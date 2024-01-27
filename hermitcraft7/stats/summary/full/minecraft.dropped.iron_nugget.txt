@@ -1,0 +1,22 @@
+minecraft.dropped.iron_nugget
+1: Tango: 9312
+2: Zedaph: 2651
+3: Xisuma: 1846
+4: impulseSV: 697
+5: Grian: 682
+6: cubfan135: 222
+7: GoodTimeWithScar: 216
+8: Renthedog: 142
+9: iskall85: 107
+10: Docm77: 106
+11: falsesymmetry: 74
+12: Stressmonster101: 66
+13: MumboJumbo: 61
+14: xBCrafted: 33
+15: iJevin: 27
+16: Keralis1: 27
+17: hypnotizd: 26
+18: Etho: 18
+19: BdoubleO100: 8
+20: VintageBeef: 7
+Total 16328

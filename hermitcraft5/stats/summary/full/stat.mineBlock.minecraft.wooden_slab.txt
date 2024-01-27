@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.wooden_slab
+1: Welsknight: 6042
+2: cubfan135: 4831
+3: Stressmonster101: 3277
+4: xBCrafted: 2279
+5: falsesymmetry: 2235
+6: Xisuma: 2130
+7: GoodTimeWithScar: 1605
+8: Tinfoilchef: 1543
+9: MumboJumbo: 1428
+10: PythonGB: 603
+11: VintageBeef: 509
+12: iJevin: 354
+13: iskall85: 350
+14: ZombieCleo: 274
+15: joehillssays: 268
+16: impulseSV: 243
+17: BdoubleO100: 200
+18: Zedaph: 169
+19: Tango: 154
+20: Docm77: 119
+21: Biffa2001: 74
+22: Renthedog: 24
+23: Etho: 5
+Total 28716

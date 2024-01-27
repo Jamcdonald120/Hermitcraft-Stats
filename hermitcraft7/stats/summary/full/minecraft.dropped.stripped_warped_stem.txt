@@ -1,0 +1,12 @@
+minecraft.dropped.stripped_warped_stem
+1: cubfan135: 13
+2: Tango: 12
+3: iskall85: 10
+4: BdoubleO100: 5
+5: Etho: 3
+6: MumboJumbo: 3
+7: VintageBeef: 2
+8: Grian: 1
+9: falsesymmetry: 1
+10: Zedaph: 1
+Total 51

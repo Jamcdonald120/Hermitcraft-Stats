@@ -1,0 +1,27 @@
+minecraft.crafted.cyan_terracotta
+1: Grian: 11385
+2: Keralis1: 9957
+3: impulseSV: 8728
+4: PearlescentMoon: 7024
+5: Tango: 4732
+6: GoodTimeWithScar: 4672
+7: Pixlriffs: 3584
+8: Renthedog: 2912
+9: cubfan135: 2600
+10: VintageBeef: 2288
+11: Etho: 1656
+12: BdoubleO100: 880
+13: Xisuma: 648
+14: Docm77: 632
+15: iskall85: 528
+16: iJevin: 520
+17: joehillssays: 472
+18: GeminiTay: 396
+19: Stressmonster101: 256
+20: ZombieCleo: 192
+21: xBCrafted: 112
+22: falsesymmetry: 32
+23: MythicalSausage: 24
+24: Smallishbeans: 16
+25: Zedaph: 8
+Total 64254

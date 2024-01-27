@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.light_blue_glazed_terracotta
+1: GoodTimeWithScar: 1239
+2: ZombieCleo: 200
+3: Xisuma: 144
+4: joehillssays: 64
+5: iJevin: 1
+Total 1648

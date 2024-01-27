@@ -1,0 +1,6 @@
+minecraft.dropped.birch_button
+1: MumboJumbo: 8
+2: falsesymmetry: 4
+3: xBCrafted: 3
+4: cubfan135: 1
+Total 16

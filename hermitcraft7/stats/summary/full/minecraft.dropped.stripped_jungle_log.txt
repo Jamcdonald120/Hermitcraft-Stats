@@ -1,0 +1,14 @@
+minecraft.dropped.stripped_jungle_log
+1: Zedaph: 44
+2: GoodTimeWithScar: 9
+3: impulseSV: 7
+4: MumboJumbo: 5
+5: cubfan135: 4
+6: Etho: 4
+7: Xisuma: 2
+8: Grian: 1
+9: iskall85: 1
+10: falsesymmetry: 1
+11: Stressmonster101: 1
+12: Keralis1: 1
+Total 80

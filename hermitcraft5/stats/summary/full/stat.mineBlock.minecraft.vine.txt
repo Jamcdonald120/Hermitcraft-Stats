@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.vine
+1: BdoubleO100: 1683
+2: falsesymmetry: 1597
+3: VintageBeef: 1427
+4: cubfan135: 1374
+5: Xisuma: 1163
+6: Stressmonster101: 932
+7: GoodTimeWithScar: 750
+8: Docm77: 605
+9: Tinfoilchef: 599
+10: MumboJumbo: 536
+11: impulseSV: 392
+12: PythonGB: 297
+13: Renthedog: 243
+14: Tango: 191
+15: joehillssays: 164
+16: xBCrafted: 157
+17: Etho: 121
+18: Welsknight: 83
+19: Zedaph: 67
+20: iskall85: 53
+21: iJevin: 2
+22: Biffa2001: 1
+Total 12437

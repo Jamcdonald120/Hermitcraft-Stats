@@ -1,0 +1,25 @@
+minecraft.used.barrel
+1: Xisuma: 1200
+2: GoodTimeWithScar: 1009
+3: Keralis1: 737
+4: Zedaph: 699
+5: Tango: 696
+6: Etho: 694
+7: BdoubleO100: 614
+8: joehillssays: 589
+9: Renthedog: 538
+10: cubfan135: 419
+11: impulseSV: 365
+12: iskall85: 297
+13: VintageBeef: 259
+14: falsesymmetry: 257
+15: xBCrafted: 244
+16: ZombieCleo: 168
+17: Grian: 146
+18: Welsknight: 143
+19: MumboJumbo: 57
+20: Docm77: 53
+21: hypnotizd: 52
+22: Stressmonster101: 10
+23: Tinfoilchef: 2
+Total 9248

@@ -1,0 +1,16 @@
+stat.useItem.minecraft.stone_shovel
+1: BdoubleO100: 569
+2: VintageBeef: 422
+3: PythonGB: 377
+4: Biffa2001: 332
+5: cubfan135: 302
+6: impulseSV: 287
+7: Zedaph: 274
+8: Renthedog: 264
+9: falsesymmetry: 241
+10: xBCrafted: 200
+11: joehillssays: 87
+12: Welsknight: 84
+13: Stressmonster101: 79
+14: iJevin: 3
+Total 3521

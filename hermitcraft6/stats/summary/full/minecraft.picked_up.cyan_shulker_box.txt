@@ -1,0 +1,19 @@
+minecraft.picked_up.cyan_shulker_box
+1: Xisuma: 642
+2: cubfan135: 527
+3: iskall85: 395
+4: Tango: 249
+5: GoodTimeWithScar: 151
+6: Stressmonster101: 125
+7: Renthedog: 103
+8: impulseSV: 56
+9: iJevin: 44
+10: joehillssays: 35
+11: Biffa2001: 33
+12: Grian: 27
+13: Zedaph: 27
+14: MumboJumbo: 17
+15: Docm77: 13
+16: Keralis1: 7
+17: BdoubleO100: 1
+Total 2452

@@ -1,0 +1,7 @@
+minecraft.picked_up.magenta_terracotta
+1: Grian: 291
+2: Tango: 233
+3: GeminiTay: 9
+4: hypnotizd: 3
+5: Etho: 1
+Total 537

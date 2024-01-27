@@ -1,0 +1,19 @@
+minecraft.dropped.oak_fence
+1: iJevin: 68
+2: Zedaph: 48
+3: joehillssays: 41
+4: Tango: 24
+5: Xisuma: 17
+6: Etho: 16
+7: iskall85: 15
+8: Renthedog: 10
+9: Docm77: 9
+10: Grian: 9
+11: GoodTimeWithScar: 8
+12: Pixlriffs: 5
+13: cubfan135: 4
+14: VintageBeef: 2
+15: xBCrafted: 2
+16: Keralis1: 2
+17: impulseSV: 1
+Total 281

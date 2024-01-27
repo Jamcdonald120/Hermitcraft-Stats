@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.emerald_ore
+1: Renthedog: 85
+2: Tinfoilchef: 51
+3: iskall85: 43
+4: PythonGB: 22
+5: Welsknight: 16
+6: iJevin: 14
+7: cubfan135: 12
+8: ZombieCleo: 12
+9: joehillssays: 3
+10: Xisuma: 2
+11: GoodTimeWithScar: 2
+12: VintageBeef: 1
+13: zueljin: 1
+Total 264

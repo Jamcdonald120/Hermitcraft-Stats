@@ -1,0 +1,25 @@
+minecraft.mined.warped_planks
+1: ZombieCleo: 3157
+2: impulseSV: 1403
+3: GoodTimeWithScar: 1289
+4: PearlescentMoon: 1086
+5: joehillssays: 805
+6: Etho: 717
+7: Xisuma: 251
+8: falsesymmetry: 202
+9: Grian: 182
+10: Pixlriffs: 141
+11: cubfan135: 77
+12: Tango: 65
+13: Mumbo: 40
+14: iJevin: 25
+15: Docm77: 19
+16: Keralis1: 16
+17: OrionSound: 12
+18: GeminiTay: 10
+19: Smallishbeans: 10
+20: fWhip: 6
+21: VintageBeef: 4
+22: Stressmonster101: 4
+23: BdoubleO100: 1
+Total 9522

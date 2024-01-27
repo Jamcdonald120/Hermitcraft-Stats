@@ -1,0 +1,12 @@
+minecraft.crafted.acacia_fence
+1: GoodTimeWithScar: 501
+2: impulseSV: 228
+3: Xisuma: 162
+4: MumboJumbo: 120
+5: Grian: 72
+6: BdoubleO100: 63
+7: PearlescentMoon: 24
+8: Keralis1: 24
+9: Renthedog: 21
+10: Docm77: 3
+Total 1218

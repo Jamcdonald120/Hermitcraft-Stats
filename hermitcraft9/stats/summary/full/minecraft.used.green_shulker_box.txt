@@ -1,0 +1,30 @@
+minecraft.used.green_shulker_box
+1: PearlescentMoon: 1370
+2: cubfan135: 355
+3: Renthedog: 146
+4: joehillssays: 137
+5: Xisuma: 136
+6: BdoubleO100: 128
+7: Zedaph: 104
+8: Etho: 100
+9: RentheKing: 74
+10: VintageBeef: 57
+11: GoodTimeWithScar: 50
+12: MythicalSausage: 43
+13: impulseSV: 40
+14: ZombieCleo: 39
+15: iJevin: 38
+16: xBCrafted: 35
+17: Tango: 30
+18: Grian: 26
+19: falsesymmetry: 22
+20: Keralis1: 18
+21: iskall85: 14
+22: ShubbleYT: 10
+23: Docm77: 7
+24: GeminiTay: 4
+25: Smallishbeans: 2
+26: Pixlriffs: 1
+27: hypnotizd: 1
+28: Stressmonster101: 1
+Total 2988

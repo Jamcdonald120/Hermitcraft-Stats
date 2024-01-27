@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.hardened_clay
+1: falsesymmetry: 121
+2: zueljin: 40
+3: Tango: 31
+4: iJevin: 2
+Total 194

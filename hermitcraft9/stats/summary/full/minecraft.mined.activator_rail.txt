@@ -1,0 +1,14 @@
+minecraft.mined.activator_rail
+1: Tango: 383
+2: Xisuma: 93
+3: Zedaph: 54
+4: Docm77: 27
+5: cubfan135: 25
+6: impulseSV: 16
+7: ZombieCleo: 11
+8: iJevin: 10
+9: GoodTimeWithScar: 6
+10: Etho: 5
+11: xBCrafted: 1
+12: hypnotizd: 1
+Total 632

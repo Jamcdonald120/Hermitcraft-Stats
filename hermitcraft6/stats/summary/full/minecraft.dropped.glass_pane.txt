@@ -1,0 +1,16 @@
+minecraft.dropped.glass_pane
+1: GoodTimeWithScar: 152
+2: cubfan135: 138
+3: Renthedog: 43
+4: falsesymmetry: 24
+5: iskall85: 9
+6: Keralis1: 8
+7: MumboJumbo: 6
+8: impulseSV: 5
+9: Grian: 4
+10: Biffa2001: 4
+11: Zedaph: 3
+12: Xisuma: 2
+13: iJevin: 1
+14: Tango: 1
+Total 400

@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.sugar
+1: Spumwackles: 32
+2: falsesymmetry: 4
+Total 36

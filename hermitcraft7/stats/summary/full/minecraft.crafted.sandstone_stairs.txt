@@ -1,0 +1,15 @@
+minecraft.crafted.sandstone_stairs
+1: Renthedog: 5000
+2: cubfan135: 1180
+3: Keralis1: 572
+4: joehillssays: 496
+5: ZombieCleo: 172
+6: VintageBeef: 133
+7: Xisuma: 40
+8: impulseSV: 28
+9: GoodTimeWithScar: 20
+10: Tango: 16
+11: xBCrafted: 8
+12: Docm77: 4
+13: Welsknight: 4
+Total 7673

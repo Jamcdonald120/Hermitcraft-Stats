@@ -1,0 +1,20 @@
+stat.useItem.minecraft.lapis_ore
+1: falsesymmetry: 397
+2: xBCrafted: 246
+3: Xisuma: 241
+4: topmass: 191
+5: Tango: 131
+6: sl1pg8r: 125
+7: Biffa2001: 90
+8: Tinfoilchef: 85
+9: KingDaddyDMAC: 72
+10: Spumwackles: 68
+11: Mumbo: 67
+12: PythonGB: 63
+13: impulseSV: 53
+14: ZombieCleo: 49
+15: zueljin: 41
+16: monkeyfarm: 5
+17: iJevin: 2
+18: hypnotizd: 2
+Total 1928

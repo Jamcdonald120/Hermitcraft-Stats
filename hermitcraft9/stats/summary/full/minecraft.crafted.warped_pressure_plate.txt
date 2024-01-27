@@ -1,0 +1,13 @@
+minecraft.crafted.warped_pressure_plate
+1: Tango: 409
+2: cubfan135: 37
+3: GoodTimeWithScar: 26
+4: Xisuma: 18
+5: Docm77: 3
+6: GeminiTay: 3
+7: PearlescentMoon: 2
+8: Mumbo: 1
+9: Keralis1: 1
+10: impulseSV: 1
+11: Zedaph: 1
+Total 502

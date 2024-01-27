@@ -1,0 +1,5 @@
+stat.mineBlock.102
+1: Marriland: 41
+2: Keralis1: 32
+3: skyzm: 23
+Total 96

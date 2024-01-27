@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.redstone_lamp
+1: zueljin: 39
+2: Xisuma: 25
+3: iJevin: 9
+4: falsesymmetry: 8
+5: Tango: 2
+6: Spumwackles: 2
+7: ZombieCleo: 1
+Total 86

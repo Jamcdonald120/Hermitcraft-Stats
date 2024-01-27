@@ -1,0 +1,10 @@
+minecraft.picked_up.deepslate_emerald_ore
+1: Xisuma: 26
+2: BdoubleO100: 13
+3: Tango: 4
+4: Grian: 3
+5: PearlescentMoon: 2
+6: GoodTimeWithScar: 2
+7: Zedaph: 2
+8: Renthedog: 1
+Total 53

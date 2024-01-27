@@ -1,0 +1,6 @@
+minecraft.dropped.crimson_stairs
+1: Zedaph: 244
+2: Etho: 145
+3: cubfan135: 68
+4: iskall85: 2
+Total 459

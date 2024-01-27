@@ -1,0 +1,4 @@
+minecraft.dropped.smoker
+1: Tango: 2
+2: impulseSV: 1
+Total 3

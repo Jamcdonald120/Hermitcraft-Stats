@@ -1,0 +1,26 @@
+minecraft.crafted.pink_dye
+1: cubfan135: 11850
+2: ZombieCleo: 3296
+3: Grian: 2710
+4: Etho: 2309
+5: Xisuma: 2054
+6: hypnotizd: 1798
+7: Docm77: 1100
+8: joehillssays: 1058
+9: GeminiTay: 1029
+10: iJevin: 834
+11: PearlescentMoon: 753
+12: falsesymmetry: 564
+13: Renthedog: 483
+14: Stressmonster101: 456
+15: VintageBeef: 282
+16: impulseSV: 202
+17: GoodTimeWithScar: 180
+18: Zedaph: 112
+19: Tango: 104
+20: RentheKing: 40
+21: BdoubleO100: 8
+22: Mumbo: 6
+23: Pixlriffs: 2
+24: Keralis1: 2
+Total 31232

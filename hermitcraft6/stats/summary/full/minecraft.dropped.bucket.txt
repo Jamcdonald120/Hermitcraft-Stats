@@ -1,0 +1,23 @@
+minecraft.dropped.bucket
+1: Renthedog: 147
+2: iskall85: 94
+3: falsesymmetry: 56
+4: cubfan135: 44
+5: Tango: 38
+6: GoodTimeWithScar: 32
+7: Grian: 31
+8: MumboJumbo: 24
+9: impulseSV: 20
+10: Docm77: 13
+11: Zedaph: 13
+12: Stressmonster101: 12
+13: iJevin: 11
+14: PythonGB: 10
+15: BdoubleO100: 8
+16: Keralis1: 7
+17: Xisuma: 5
+18: Tinfoilchef: 3
+19: Jessassin: 1
+20: joehillssays: 1
+21: Welsknight: 1
+Total 571

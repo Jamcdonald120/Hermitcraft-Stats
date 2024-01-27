@@ -1,0 +1,7 @@
+minecraft.crafted.blackstone_wall
+1: GoodTimeWithScar: 138
+2: PearlescentMoon: 126
+3: Grian: 54
+4: impulseSV: 40
+5: xBCrafted: 9
+Total 367

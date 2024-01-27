@@ -1,0 +1,25 @@
+minecraft.picked_up.cobbled_deepslate_stairs
+1: Tango: 387
+2: Renthedog: 301
+3: falsesymmetry: 195
+4: GoodTimeWithScar: 149
+5: PearlescentMoon: 143
+6: cubfan135: 106
+7: Xisuma: 88
+8: impulseSV: 67
+9: Docm77: 55
+10: RentheKing: 42
+11: BdoubleO100: 20
+12: iJevin: 18
+13: GeminiTay: 15
+14: joehillssays: 10
+15: xBCrafted: 7
+16: Welsknight: 7
+17: Mumbo: 6
+18: ZombieCleo: 5
+19: MythicalSausage: 3
+20: MumboJumbo: 3
+21: Zedaph: 3
+22: Grian: 2
+23: Etho: 2
+Total 1634

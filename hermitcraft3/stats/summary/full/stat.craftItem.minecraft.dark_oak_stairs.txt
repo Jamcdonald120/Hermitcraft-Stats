@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.dark_oak_stairs
+1: falsesymmetry: 876
+2: Xisuma: 836
+3: xBCrafted: 700
+4: zueljin: 492
+5: monkeyfarm: 484
+6: impulseSV: 332
+7: ZombieCleo: 296
+8: Tango: 208
+9: Docm77: 84
+10: hypnotizd: 60
+11: topmass: 32
+12: Tinfoilchef: 20
+13: Etho: 16
+14: sl1pg8r: 12
+15: PythonGB: 4
+16: iJevin: 4
+17: Mumbo: 4
+Total 4460

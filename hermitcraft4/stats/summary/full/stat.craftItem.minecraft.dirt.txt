@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.dirt
+1: GoodTimeWithScar: 13984
+2: iskall85: 7819
+3: Welsknight: 2048
+4: cubfan135: 2000
+5: Renthedog: 1736
+6: PythonGB: 256
+7: VintageBeef: 180
+8: Xisuma: 140
+9: Etho: 140
+10: Docm77: 128
+11: Tango: 104
+12: joehillssays: 84
+13: MumboJumbo: 44
+14: xBCrafted: 24
+15: iJevin: 4
+Total 28691

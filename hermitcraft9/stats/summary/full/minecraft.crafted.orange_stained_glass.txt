@@ -1,0 +1,17 @@
+minecraft.crafted.orange_stained_glass
+1: GoodTimeWithScar: 6272
+2: Xisuma: 3496
+3: falsesymmetry: 2968
+4: hypnotizd: 2752
+5: Grian: 1832
+6: PearlescentMoon: 1832
+7: impulseSV: 1584
+8: Etho: 768
+9: Keralis1: 720
+10: Renthedog: 376
+11: Zedaph: 216
+12: cubfan135: 200
+13: iJevin: 128
+14: BdoubleO100: 40
+15: Docm77: 32
+Total 23216

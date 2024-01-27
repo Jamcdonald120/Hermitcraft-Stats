@@ -1,0 +1,5 @@
+stat.killEntity.MushroomCow
+1: Tango: 28
+2: falsesymmetry: 5
+3: impulseSV: 3
+Total 36

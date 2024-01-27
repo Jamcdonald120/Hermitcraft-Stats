@@ -1,0 +1,30 @@
+minecraft.used.crossbow
+1: BdoubleO100: 288
+2: cubfan135: 243
+3: ZombieCleo: 88
+4: falsesymmetry: 85
+5: Keralis1: 69
+6: Etho: 66
+7: Grian: 56
+8: Xisuma: 41
+9: HBomb94: 27
+10: iJevin: 26
+11: joehillssays: 25
+12: Docm77: 24
+13: OrionSound: 22
+14: Smallishbeans: 21
+15: Renthedog: 19
+16: VintageBeef: 19
+17: PearlescentMoon: 13
+18: SolidarityGaming: 12
+19: Tango: 11
+20: iskall85: 11
+21: InTheLittleWood: 11
+22: impulseSV: 9
+23: GeminiTay: 8
+24: GoodTimeWithScar: 8
+25: Smajor1995: 6
+26: xBCrafted: 1
+27: Mumbo: 1
+28: hypnotizd: 1
+Total 1211

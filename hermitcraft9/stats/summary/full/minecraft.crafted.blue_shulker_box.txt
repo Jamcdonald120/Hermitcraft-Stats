@@ -1,0 +1,21 @@
+minecraft.crafted.blue_shulker_box
+1: joehillssays: 23
+2: xBCrafted: 10
+3: ZombieCleo: 10
+4: Tango: 6
+5: PearlescentMoon: 6
+6: Xisuma: 5
+7: Grian: 5
+8: cubfan135: 4
+9: falsesymmetry: 3
+10: Etho: 3
+11: GeminiTay: 2
+12: iskall85: 2
+13: Mumbo: 2
+14: VintageBeef: 1
+15: BdoubleO100: 1
+16: RentheKing: 1
+17: hypnotizd: 1
+18: impulseSV: 1
+19: Zedaph: 1
+Total 87

@@ -1,0 +1,24 @@
+stat.pickup.minecraft.feather
+1: cubfan135: 5850
+2: Mumbo: 2037
+3: Tango: 1698
+4: MumboJumbo: 1431
+5: impulseSV: 1078
+6: Tinfoilchef: 901
+7: Renthedog: 740
+8: GoodTimeWithScar: 475
+9: iJevin: 471
+10: falsesymmetry: 329
+11: iskall85: 325
+12: Xisuma: 195
+13: ZombieCleo: 168
+14: joehillssays: 113
+15: PythonGB: 104
+16: Welsknight: 58
+17: Jessassin: 40
+18: VintageBeef: 32
+19: xBCrafted: 21
+20: Etho: 9
+21: Docm77: 6
+22: Biffa2001: 5
+Total 16086

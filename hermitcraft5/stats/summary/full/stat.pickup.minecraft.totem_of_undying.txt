@@ -1,0 +1,5 @@
+stat.pickup.minecraft.totem_of_undying
+1: Xisuma: 6
+2: cubfan135: 5
+3: xBCrafted: 3
+Total 14

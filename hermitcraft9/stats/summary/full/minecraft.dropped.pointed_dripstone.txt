@@ -1,0 +1,25 @@
+minecraft.dropped.pointed_dripstone
+1: cubfan135: 1035
+2: Etho: 463
+3: Docm77: 332
+4: Grian: 119
+5: iJevin: 100
+6: GoodTimeWithScar: 52
+7: Tango: 37
+8: MythicalSausage: 20
+9: truesymmetry: 18
+10: xBCrafted: 17
+11: falsesymmetry: 16
+12: Zedaph: 11
+13: iskall85: 9
+14: Renthedog: 7
+15: Xisuma: 5
+16: BdoubleO100: 4
+17: hypnotizd: 3
+18: Keralis1: 3
+19: VintageBeef: 2
+20: Stressmonster101: 2
+21: GeminiTay: 1
+22: PearlescentMoon: 1
+23: impulseSV: 1
+Total 2258

@@ -1,0 +1,37 @@
+minecraft.picked_up.red_shulker_box
+1: Tango: 1964
+2: joehillssays: 1428
+3: GoodTimeWithScar: 987
+4: PearlescentMoon: 970
+5: cubfan135: 804
+6: Xisuma: 673
+7: Etho: 561
+8: iJevin: 551
+9: hypnotizd: 535
+10: impulseSV: 488
+11: Docm77: 473
+12: falsesymmetry: 451
+13: Renthedog: 442
+14: BdoubleO100: 400
+15: xBCrafted: 251
+16: iskall85: 198
+17: ZombieCleo: 197
+18: Keralis1: 197
+19: Zedaph: 168
+20: MythicalSausage: 107
+21: RentheKing: 95
+22: Stressmonster101: 78
+23: Mumbo: 63
+24: VintageBeef: 52
+25: Grian: 36
+26: Smallishbeans: 28
+27: GeminiTay: 18
+28: SolidarityGaming: 18
+29: HBomb94: 13
+30: Pixlriffs: 7
+31: Skizzleman: 2
+32: kingbdogz: 1
+33: OrionSound: 1
+34: Smajor1995: 1
+35: slicedlime: 1
+Total 12259

@@ -1,0 +1,18 @@
+stat.pickup.minecraft.brewing_stand
+1: falsesymmetry: 129
+2: Tango: 63
+3: Xisuma: 48
+4: iJevin: 35
+5: cubfan135: 26
+6: iskall85: 17
+7: impulseSV: 14
+8: GoodTimeWithScar: 6
+9: PythonGB: 5
+10: Renthedog: 2
+11: VintageBeef: 2
+12: Welsknight: 2
+13: Tinfoilchef: 2
+14: joehillssays: 1
+15: ZombieCleo: 1
+16: MumboJumbo: 1
+Total 354

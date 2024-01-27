@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.concrete_powder
+1: GoodTimeWithScar: 14976
+2: iskall85: 11600
+3: cubfan135: 6640
+4: falsesymmetry: 4192
+5: Xisuma: 2968
+6: Tango: 2640
+7: Renthedog: 2568
+8: impulseSV: 1816
+9: Welsknight: 1024
+10: joehillssays: 944
+11: MumboJumbo: 888
+12: PythonGB: 120
+13: Tinfoilchef: 24
+Total 50400

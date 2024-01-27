@@ -1,0 +1,22 @@
+stat.useItem.minecraft.nether_wart
+1: Tango: 120311
+2: cubfan135: 5158
+3: Renthedog: 4994
+4: MumboJumbo: 3980
+5: GoodTimeWithScar: 3438
+6: Xisuma: 2432
+7: falsesymmetry: 1828
+8: Zedaph: 870
+9: joehillssays: 527
+10: iskall85: 337
+11: Welsknight: 246
+12: Tinfoilchef: 243
+13: Stressmonster101: 189
+14: iJevin: 66
+15: xBCrafted: 36
+16: impulseSV: 24
+17: Biffa2001: 16
+18: ZombieCleo: 6
+19: Docm77: 5
+20: BdoubleO100: 5
+Total 144711

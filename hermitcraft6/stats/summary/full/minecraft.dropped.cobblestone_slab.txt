@@ -1,0 +1,19 @@
+minecraft.dropped.cobblestone_slab
+1: Renthedog: 752
+2: Xisuma: 522
+3: falsesymmetry: 234
+4: GoodTimeWithScar: 218
+5: Docm77: 214
+6: iskall85: 205
+7: cubfan135: 114
+8: Keralis1: 110
+9: Grian: 83
+10: Tango: 75
+11: iJevin: 23
+12: Zedaph: 19
+13: MumboJumbo: 15
+14: ZombieCleo: 6
+15: Stressmonster101: 4
+16: PythonGB: 1
+17: BdoubleO100: 1
+Total 2596

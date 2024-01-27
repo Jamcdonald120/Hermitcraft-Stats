@@ -1,0 +1,29 @@
+minecraft.picked_up.deepslate_redstone_ore
+1: xBCrafted: 2403
+2: cubfan135: 2296
+3: Zedaph: 1727
+4: PearlescentMoon: 1677
+5: Docm77: 1309
+6: hypnotizd: 1012
+7: Xisuma: 890
+8: Grian: 781
+9: Keralis1: 500
+10: joehillssays: 401
+11: ZombieCleo: 390
+12: Renthedog: 305
+13: RentheKing: 259
+14: VintageBeef: 222
+15: Tango: 211
+16: BdoubleO100: 180
+17: falsesymmetry: 165
+18: iJevin: 137
+19: impulseSV: 110
+20: MythicalSausage: 97
+21: GoodTimeWithScar: 90
+22: Etho: 78
+23: Stressmonster101: 58
+24: iskall85: 5
+25: GeminiTay: 3
+26: Pixlriffs: 2
+27: Welsknight: 1
+Total 15309

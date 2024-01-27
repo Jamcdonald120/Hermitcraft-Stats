@@ -1,0 +1,4 @@
+minecraft.dropped.brick_wall
+1: GoodTimeWithScar: 6
+2: cubfan135: 3
+Total 9

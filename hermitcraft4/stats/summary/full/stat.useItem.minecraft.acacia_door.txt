@@ -1,0 +1,12 @@
+stat.useItem.minecraft.acacia_door
+1: VintageBeef: 57
+2: ZombieCleo: 33
+3: cubfan135: 32
+4: Renthedog: 12
+5: PythonGB: 10
+6: falsesymmetry: 4
+7: xBCrafted: 3
+8: joehillssays: 2
+9: Tinfoilchef: 2
+10: Tango: 1
+Total 156

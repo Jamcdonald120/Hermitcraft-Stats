@@ -1,0 +1,20 @@
+minecraft.dropped.mutton
+1: hypnotizd: 230
+2: BdoubleO100: 197
+3: Docm77: 91
+4: cubfan135: 75
+5: Grian: 29
+6: Zedaph: 26
+7: GoodTimeWithScar: 25
+8: iJevin: 18
+9: xBCrafted: 18
+10: Renthedog: 14
+11: Keralis1: 12
+12: Tango: 11
+13: iskall85: 8
+14: Stressmonster101: 7
+15: falsesymmetry: 6
+16: impulseSV: 4
+17: MumboJumbo: 2
+18: Xisuma: 1
+Total 774

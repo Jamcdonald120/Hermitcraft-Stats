@@ -1,0 +1,5 @@
+minecraft.dropped.waxed_weathered_cut_copper_stairs
+1: Grian: 12
+2: BdoubleO100: 12
+3: GoodTimeWithScar: 3
+Total 27

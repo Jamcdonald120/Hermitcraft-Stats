@@ -1,0 +1,20 @@
+minecraft.picked_up.cut_sandstone
+1: GoodTimeWithScar: 718
+2: iskall85: 521
+3: Xisuma: 374
+4: joehillssays: 364
+5: Zedaph: 255
+6: Grian: 148
+7: ZombieCleo: 140
+8: falsesymmetry: 95
+9: Tango: 87
+10: cubfan135: 67
+11: iJevin: 48
+12: Welsknight: 35
+13: Docm77: 26
+14: Stressmonster101: 20
+15: Renthedog: 2
+16: PythonGB: 1
+17: Biffa2001: 1
+18: Keralis1: 1
+Total 2903

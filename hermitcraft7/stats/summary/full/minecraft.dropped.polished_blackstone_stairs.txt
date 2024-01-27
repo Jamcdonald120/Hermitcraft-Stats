@@ -1,0 +1,8 @@
+minecraft.dropped.polished_blackstone_stairs
+1: Tango: 72
+2: cubfan135: 28
+3: impulseSV: 13
+4: GoodTimeWithScar: 3
+5: Etho: 2
+6: MumboJumbo: 1
+Total 119

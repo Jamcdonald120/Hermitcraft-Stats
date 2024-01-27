@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.obsidian
+1: cubfan135: 50183
+2: Tinfoilchef: 5099
+3: Xisuma: 4980
+4: falsesymmetry: 3323
+5: ZombieCleo: 3062
+6: Tango: 1294
+7: impulseSV: 736
+8: GoodTimeWithScar: 697
+9: PythonGB: 681
+10: iskall85: 414
+11: MumboJumbo: 384
+12: Welsknight: 354
+13: Renthedog: 201
+14: iJevin: 186
+15: Biffa2001: 136
+16: joehillssays: 134
+17: VintageBeef: 98
+18: Docm77: 38
+19: Jessassin: 13
+Total 72013

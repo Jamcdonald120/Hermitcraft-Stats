@@ -1,0 +1,12 @@
+stat.pickup.minecraft.activator_rail
+1: impulseSV: 27
+2: Renthedog: 16
+3: cubfan135: 11
+4: Etho: 6
+5: GoodTimeWithScar: 4
+6: Tinfoilchef: 3
+7: Tango: 2
+8: Docm77: 1
+9: Xisuma: 1
+10: falsesymmetry: 1
+Total 72

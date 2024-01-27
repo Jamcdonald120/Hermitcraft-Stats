@@ -1,0 +1,25 @@
+minecraft.picked_up.spruce_sign
+1: GoodTimeWithScar: 390
+2: Grian: 181
+3: GeminiTay: 101
+4: Xisuma: 95
+5: PearlescentMoon: 84
+6: Tango: 71
+7: joehillssays: 60
+8: BdoubleO100: 52
+9: VintageBeef: 30
+10: falsesymmetry: 23
+11: xBCrafted: 20
+12: cubfan135: 18
+13: Etho: 15
+14: Welsknight: 14
+15: impulseSV: 13
+16: iskall85: 9
+17: Keralis1: 9
+18: Stressmonster101: 7
+19: Renthedog: 6
+20: Docm77: 5
+21: ZombieCleo: 4
+22: hypnotizd: 4
+23: iJevin: 3
+Total 1214

@@ -1,0 +1,11 @@
+minecraft.picked_up.green_carpet
+1: Grian: 144
+2: PearlescentMoon: 30
+3: impulseSV: 16
+4: GoodTimeWithScar: 11
+5: Xisuma: 9
+6: GeminiTay: 3
+7: cubfan135: 3
+8: iJevin: 2
+9: MumboJumbo: 1
+Total 219

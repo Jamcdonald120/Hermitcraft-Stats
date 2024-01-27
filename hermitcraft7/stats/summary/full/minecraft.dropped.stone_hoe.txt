@@ -1,0 +1,16 @@
+minecraft.dropped.stone_hoe
+1: Etho: 162
+2: impulseSV: 104
+3: MumboJumbo: 39
+4: GoodTimeWithScar: 8
+5: iskall85: 6
+6: iJevin: 5
+7: Grian: 4
+8: Xisuma: 3
+9: Docm77: 1
+10: Renthedog: 1
+11: BdoubleO100: 1
+12: falsesymmetry: 1
+13: ZombieCleo: 1
+14: hypnotizd: 1
+Total 337

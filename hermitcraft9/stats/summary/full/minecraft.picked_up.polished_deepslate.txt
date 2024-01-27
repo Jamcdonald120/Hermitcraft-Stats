@@ -1,0 +1,29 @@
+minecraft.picked_up.polished_deepslate
+1: Renthedog: 3295
+2: GoodTimeWithScar: 1998
+3: iJevin: 1359
+4: PearlescentMoon: 1147
+5: falsesymmetry: 956
+6: Tango: 904
+7: impulseSV: 771
+8: Mumbo: 684
+9: xBCrafted: 568
+10: Xisuma: 435
+11: Grian: 363
+12: hypnotizd: 320
+13: RentheKing: 246
+14: Docm77: 235
+15: cubfan135: 226
+16: GeminiTay: 184
+17: joehillssays: 161
+18: Keralis1: 152
+19: ZombieCleo: 126
+20: BdoubleO100: 94
+21: MumboJumbo: 61
+22: Etho: 24
+23: iskall85: 18
+24: Pixlriffs: 11
+25: VintageBeef: 2
+26: MythicalSausage: 1
+27: Zedaph: 1
+Total 14342

@@ -1,0 +1,12 @@
+stat.pickup.minecraft.iron_hoe
+1: MumboJumbo: 8
+2: falsesymmetry: 6
+3: cubfan135: 6
+4: VintageBeef: 5
+5: joehillssays: 4
+6: Tango: 4
+7: Renthedog: 3
+8: iskall85: 3
+9: PythonGB: 2
+10: GoodTimeWithScar: 2
+Total 43

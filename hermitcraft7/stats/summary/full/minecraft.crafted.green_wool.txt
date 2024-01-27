@@ -1,0 +1,14 @@
+minecraft.crafted.green_wool
+1: GoodTimeWithScar: 1107
+2: Tango: 292
+3: joehillssays: 217
+4: Grian: 192
+5: MumboJumbo: 175
+6: Stressmonster101: 75
+7: Keralis1: 34
+8: Zedaph: 22
+9: Docm77: 8
+10: Xisuma: 5
+11: iskall85: 3
+12: BdoubleO100: 1
+Total 2131

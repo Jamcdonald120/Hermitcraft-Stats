@@ -1,0 +1,25 @@
+minecraft.used.chipped_anvil
+1: Tango: 76
+2: cubfan135: 38
+3: Xisuma: 34
+4: joehillssays: 28
+5: Zedaph: 27
+6: VintageBeef: 20
+7: GoodTimeWithScar: 20
+8: Renthedog: 19
+9: iJevin: 14
+10: iskall85: 14
+11: Keralis1: 14
+12: Etho: 13
+13: Grian: 12
+14: impulseSV: 11
+15: Stressmonster101: 6
+16: BdoubleO100: 5
+17: falsesymmetry: 4
+18: xBCrafted: 3
+19: ZombieCleo: 3
+20: Docm77: 2
+21: hypnotizd: 2
+22: MumboJumbo: 2
+23: Tinfoilchef: 1
+Total 368

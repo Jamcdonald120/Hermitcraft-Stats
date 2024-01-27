@@ -1,0 +1,23 @@
+minecraft.dropped.kelp
+1: Zedaph: 4027
+2: iJevin: 3537
+3: BdoubleO100: 2230
+4: Grian: 2093
+5: impulseSV: 1368
+6: Tango: 1289
+7: GoodTimeWithScar: 1089
+8: Keralis1: 995
+9: MumboJumbo: 900
+10: hypnotizd: 687
+11: cubfan135: 579
+12: Xisuma: 381
+13: Renthedog: 358
+14: falsesymmetry: 173
+15: Docm77: 146
+16: Etho: 95
+17: joehillssays: 76
+18: iskall85: 47
+19: VintageBeef: 18
+20: xBCrafted: 5
+21: Stressmonster101: 5
+Total 20098

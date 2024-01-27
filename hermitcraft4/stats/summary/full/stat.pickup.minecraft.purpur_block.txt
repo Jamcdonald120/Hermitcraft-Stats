@@ -1,0 +1,16 @@
+stat.pickup.minecraft.purpur_block
+1: Renthedog: 2965
+2: iJevin: 947
+3: Xisuma: 819
+4: Tinfoilchef: 315
+5: impulseSV: 280
+6: Tango: 195
+7: cubfan135: 161
+8: GoodTimeWithScar: 156
+9: iskall85: 130
+10: Welsknight: 116
+11: PythonGB: 107
+12: falsesymmetry: 24
+13: MumboJumbo: 12
+14: joehillssays: 1
+Total 6228

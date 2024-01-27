@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.fishing_rod
+1: impulseSV: 66
+2: Etho: 50
+3: Docm77: 31
+4: Welsknight: 27
+5: Xisuma: 23
+6: PythonGB: 20
+7: iskall85: 20
+8: GoodTimeWithScar: 17
+9: cubfan135: 12
+10: falsesymmetry: 2
+11: MumboJumbo: 2
+12: iJevin: 1
+13: joehillssays: 1
+Total 272

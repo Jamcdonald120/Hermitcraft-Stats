@@ -1,0 +1,28 @@
+minecraft.crafted.copper_ingot
+1: Grian: 16977
+2: PearlescentMoon: 15960
+3: Etho: 8770
+4: impulseSV: 7026
+5: Mumbo: 4950
+6: BdoubleO100: 4660
+7: Zedaph: 4225
+8: ZombieCleo: 3714
+9: Renthedog: 3475
+10: Xisuma: 2061
+11: Keralis1: 1585
+12: joehillssays: 1499
+13: hypnotizd: 1441
+14: VintageBeef: 1322
+15: cubfan135: 880
+16: RentheKing: 802
+17: falsesymmetry: 737
+18: Docm77: 722
+19: Smallishbeans: 503
+20: GoodTimeWithScar: 498
+21: xBCrafted: 283
+22: GeminiTay: 241
+23: Tango: 190
+24: MumboJumbo: 128
+25: iJevin: 36
+26: Stressmonster101: 36
+Total 82721

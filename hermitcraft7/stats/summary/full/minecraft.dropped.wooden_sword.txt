@@ -1,0 +1,17 @@
+minecraft.dropped.wooden_sword
+1: Etho: 160
+2: ZombieCleo: 10
+3: Tango: 5
+4: Renthedog: 3
+5: GoodTimeWithScar: 3
+6: Keralis1: 3
+7: xBCrafted: 2
+8: cubfan135: 2
+9: Stressmonster101: 2
+10: impulseSV: 2
+11: Docm77: 1
+12: joehillssays: 1
+13: Grian: 1
+14: iskall85: 1
+15: hypnotizd: 1
+Total 197

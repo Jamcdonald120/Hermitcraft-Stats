@@ -1,0 +1,19 @@
+stat.useItem.minecraft.golden_apple
+1: GoodTimeWithScar: 33
+2: Renthedog: 29
+3: falsesymmetry: 24
+4: cubfan135: 22
+5: iskall85: 19
+6: Biffa2001: 10
+7: Tango: 6
+8: iJevin: 5
+9: xBCrafted: 4
+10: Welsknight: 4
+11: joehillssays: 3
+12: Etho: 3
+13: Zedaph: 3
+14: Xisuma: 2
+15: PythonGB: 1
+16: MumboJumbo: 1
+17: impulseSV: 1
+Total 170

@@ -1,0 +1,23 @@
+minecraft.dropped.brown_mushroom
+1: impulseSV: 519
+2: cubfan135: 432
+3: xBCrafted: 231
+4: GoodTimeWithScar: 209
+5: Xisuma: 189
+6: Renthedog: 187
+7: Grian: 185
+8: Zedaph: 165
+9: iskall85: 148
+10: Tango: 136
+11: iJevin: 125
+12: Keralis1: 66
+13: falsesymmetry: 45
+14: VintageBeef: 33
+15: BdoubleO100: 33
+16: MumboJumbo: 30
+17: Etho: 14
+18: Docm77: 11
+19: Stressmonster101: 3
+20: joehillssays: 2
+21: hypnotizd: 2
+Total 2765

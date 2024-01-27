@@ -1,0 +1,7 @@
+minecraft.crafted.nautilus_shell
+1: PearlescentMoon: 13
+2: Xisuma: 10
+3: Grian: 10
+4: cubfan135: 5
+5: iJevin: 3
+Total 41

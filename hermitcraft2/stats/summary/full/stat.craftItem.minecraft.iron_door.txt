@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.iron_door
+1: ZombieCleo: 21
+2: falsesymmetry: 12
+3: Tango: 3
+4: xBCrafted: 3
+Total 39

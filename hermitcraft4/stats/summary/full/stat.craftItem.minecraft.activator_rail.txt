@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.activator_rail
+1: Tango: 444
+2: iskall85: 12
+3: Etho: 12
+4: impulseSV: 12
+5: cubfan135: 6
+Total 486

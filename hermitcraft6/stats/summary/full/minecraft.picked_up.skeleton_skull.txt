@@ -1,0 +1,6 @@
+minecraft.picked_up.skeleton_skull
+1: falsesymmetry: 3
+2: cubfan135: 2
+3: Xisuma: 1
+4: iJevin: 1
+Total 7

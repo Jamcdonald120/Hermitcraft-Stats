@@ -1,0 +1,26 @@
+minecraft.dropped.chicken
+1: cubfan135: 20326
+2: Grian: 2034
+3: Mumbo: 1301
+4: Docm77: 1151
+5: hypnotizd: 1108
+6: GoodTimeWithScar: 661
+7: Xisuma: 440
+8: iJevin: 240
+9: Zedaph: 232
+10: Renthedog: 73
+11: ZombieCleo: 36
+12: Keralis1: 35
+13: RentheKing: 27
+14: Tango: 22
+15: falsesymmetry: 22
+16: impulseSV: 11
+17: VintageBeef: 8
+18: GeminiTay: 6
+19: xBCrafted: 6
+20: iskall85: 4
+21: BdoubleO100: 3
+22: PearlescentMoon: 3
+23: Etho: 3
+24: SolidarityGaming: 2
+Total 27754

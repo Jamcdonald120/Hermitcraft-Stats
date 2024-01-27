@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.mossy_cobblestone
+1: Xisuma: 919
+2: Welsknight: 897
+3: GoodTimeWithScar: 672
+4: iskall85: 659
+5: PythonGB: 560
+6: Tango: 376
+7: xBCrafted: 305
+8: Tinfoilchef: 276
+9: cubfan135: 267
+10: impulseSV: 252
+11: falsesymmetry: 233
+12: Zedaph: 187
+13: Renthedog: 176
+14: ZombieCleo: 168
+15: MumboJumbo: 165
+16: Stressmonster101: 161
+17: Docm77: 152
+18: iJevin: 113
+19: VintageBeef: 94
+20: BdoubleO100: 86
+21: Etho: 75
+22: Biffa2001: 36
+23: joehillssays: 1
+Total 6830

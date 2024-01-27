@@ -1,0 +1,12 @@
+minecraft.dropped.jungle_leaves
+1: Keralis1: 117
+2: RentheKing: 107
+3: iJevin: 65
+4: Grian: 49
+5: PearlescentMoon: 29
+6: Etho: 19
+7: falsesymmetry: 6
+8: GoodTimeWithScar: 4
+9: cubfan135: 1
+10: ZombieCleo: 1
+Total 398

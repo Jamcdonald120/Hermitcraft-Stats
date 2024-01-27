@@ -1,0 +1,5 @@
+minecraft.dropped.brain_coral
+1: Xisuma: 6
+2: BdoubleO100: 4
+3: iJevin: 1
+Total 11

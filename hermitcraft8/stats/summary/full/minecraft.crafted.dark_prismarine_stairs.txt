@@ -1,0 +1,6 @@
+minecraft.crafted.dark_prismarine_stairs
+1: Xisuma: 128
+2: MumboJumbo: 88
+3: iJevin: 8
+4: iskall85: 1
+Total 225

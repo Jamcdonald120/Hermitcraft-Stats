@@ -1,0 +1,18 @@
+minecraft.crafted.cyan_stained_glass_pane
+1: GoodTimeWithScar: 784
+2: impulseSV: 704
+3: iJevin: 608
+4: iskall85: 432
+5: xBCrafted: 240
+6: cubfan135: 176
+7: Xisuma: 160
+8: MumboJumbo: 160
+9: Tango: 144
+10: Renthedog: 128
+11: falsesymmetry: 128
+12: Keralis1: 64
+13: BdoubleO100: 48
+14: Stressmonster101: 32
+15: VintageBeef: 16
+16: Etho: 16
+Total 3840

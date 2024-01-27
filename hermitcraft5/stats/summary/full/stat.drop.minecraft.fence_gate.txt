@@ -1,0 +1,7 @@
+stat.drop.minecraft.fence_gate
+1: Tango: 4
+2: iskall85: 2
+3: Zedaph: 2
+4: Xisuma: 1
+5: cubfan135: 1
+Total 10

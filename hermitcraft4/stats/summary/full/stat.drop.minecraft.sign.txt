@@ -1,0 +1,19 @@
+stat.drop.minecraft.sign
+1: Renthedog: 45
+2: falsesymmetry: 44
+3: joehillssays: 36
+4: Xisuma: 33
+5: impulseSV: 30
+6: Tango: 27
+7: iskall85: 20
+8: GoodTimeWithScar: 18
+9: cubfan135: 8
+10: VintageBeef: 7
+11: Welsknight: 5
+12: Docm77: 4
+13: MumboJumbo: 3
+14: Jessassin: 2
+15: xisumavoid: 1
+16: Etho: 1
+17: ZombieCleo: 1
+Total 285

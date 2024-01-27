@@ -1,0 +1,23 @@
+stat.pickup.minecraft.iron_leggings
+1: joehillssays: 49
+2: Zedaph: 28
+3: Tango: 19
+4: iskall85: 17
+5: GoodTimeWithScar: 15
+6: Xisuma: 12
+7: falsesymmetry: 9
+8: impulseSV: 9
+9: Etho: 8
+10: Welsknight: 7
+11: Tinfoilchef: 6
+12: Renthedog: 4
+13: ZombieCleo: 4
+14: PythonGB: 3
+15: xBCrafted: 3
+16: cubfan135: 3
+17: VintageBeef: 2
+18: BdoubleO100: 2
+19: Stressmonster101: 2
+20: Docm77: 1
+21: Biffa2001: 1
+Total 204

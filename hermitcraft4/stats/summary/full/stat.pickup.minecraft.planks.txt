@@ -1,0 +1,25 @@
+stat.pickup.minecraft.planks
+1: GoodTimeWithScar: 8204
+2: cubfan135: 8045
+3: iskall85: 6179
+4: Welsknight: 5807
+5: Renthedog: 5431
+6: Xisuma: 3832
+7: impulseSV: 3755
+8: falsesymmetry: 3263
+9: iJevin: 3148
+10: Tinfoilchef: 3052
+11: Tango: 2838
+12: ZombieCleo: 2249
+13: joehillssays: 1266
+14: MumboJumbo: 1104
+15: zueljin: 1002
+16: PythonGB: 884
+17: Etho: 872
+18: Docm77: 509
+19: VintageBeef: 350
+20: Biffa2001: 348
+21: Jessassin: 222
+22: xBCrafted: 20
+23: Mumbo: 19
+Total 62399

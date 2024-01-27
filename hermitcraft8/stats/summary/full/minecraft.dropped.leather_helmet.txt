@@ -1,0 +1,23 @@
+minecraft.dropped.leather_helmet
+1: Xisuma: 63
+2: Tango: 45
+3: Etho: 27
+4: Grian: 25
+5: iskall85: 13
+6: Zedaph: 12
+7: Docm77: 7
+8: hypnotizd: 7
+9: GoodTimeWithScar: 6
+10: iJevin: 5
+11: cubfan135: 5
+12: impulseSV: 5
+13: Renthedog: 4
+14: PearlescentMoon: 4
+15: falsesymmetry: 4
+16: Keralis1: 3
+17: BdoubleO100: 2
+18: Welsknight: 2
+19: Stressmonster101: 2
+20: VintageBeef: 1
+21: joehillssays: 1
+Total 243

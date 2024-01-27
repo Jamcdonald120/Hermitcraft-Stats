@@ -1,0 +1,4 @@
+minecraft.dropped.mushroom_stem
+1: xBCrafted: 6
+2: falsesymmetry: 4
+Total 10

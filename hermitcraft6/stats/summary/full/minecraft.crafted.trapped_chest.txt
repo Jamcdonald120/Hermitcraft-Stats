@@ -1,0 +1,11 @@
+minecraft.crafted.trapped_chest
+1: impulseSV: 90
+2: Tinfoilchef: 64
+3: iJevin: 10
+4: cubfan135: 10
+5: Welsknight: 4
+6: GoodTimeWithScar: 4
+7: Renthedog: 1
+8: Tango: 1
+9: falsesymmetry: 1
+Total 185

@@ -1,0 +1,20 @@
+minecraft.crafted.deepslate_tile_wall
+1: cubfan135: 486
+2: Grian: 168
+3: Stressmonster101: 156
+4: GoodTimeWithScar: 45
+5: iJevin: 41
+6: Keralis1: 38
+7: PearlescentMoon: 36
+8: ZombieCleo: 36
+9: joehillssays: 28
+10: Renthedog: 26
+11: Welsknight: 25
+12: xBCrafted: 24
+13: VintageBeef: 15
+14: impulseSV: 12
+15: Docm77: 7
+16: EvilXisuma: 6
+17: Tango: 6
+18: Zedaph: 2
+Total 1157

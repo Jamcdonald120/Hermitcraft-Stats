@@ -1,0 +1,7 @@
+minecraft.dropped.cracked_deepslate_tiles
+1: cubfan135: 126
+2: GoodTimeWithScar: 40
+3: impulseSV: 28
+4: PearlescentMoon: 3
+5: Mumbo: 1
+Total 198

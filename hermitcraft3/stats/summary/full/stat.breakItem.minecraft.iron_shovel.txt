@@ -1,0 +1,21 @@
+stat.breakItem.minecraft.iron_shovel
+1: impulseSV: 22
+2: Tango: 19
+3: Spumwackles: 14
+4: Mumbo: 10
+5: NameOfSamuel: 10
+6: ZombieCleo: 8
+7: PythonGB: 7
+8: Biffa2001: 7
+9: Tinfoilchef: 7
+10: monkeyfarm: 7
+11: joehillssays: 6
+12: zueljin: 5
+13: xBCrafted: 5
+14: Xisuma: 4
+15: skyzm: 3
+16: KingDaddyDMAC: 2
+17: falsesymmetry: 1
+18: Pungence: 1
+19: Keralis1: 1
+Total 139

@@ -1,0 +1,6 @@
+minecraft.picked_up.bamboo_fence
+1: GoodTimeWithScar: 136
+2: Xisuma: 12
+3: Zedaph: 4
+4: cubfan135: 1
+Total 153

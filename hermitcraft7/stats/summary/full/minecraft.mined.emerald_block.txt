@@ -1,0 +1,26 @@
+minecraft.mined.emerald_block
+1: iJevin: 4353
+2: cubfan135: 2452
+3: hypnotizd: 1654
+4: Etho: 1428
+5: joehillssays: 90
+6: impulseSV: 13
+7: Tango: 11
+8: Docm77: 10
+9: MumboJumbo: 10
+10: iskall85: 9
+11: Stressmonster101: 6
+12: Keralis1: 6
+13: Zedaph: 5
+14: Xisuma: 4
+15: BdoubleO100: 4
+16: Renthedog: 3
+17: falsesymmetry: 3
+18: VintageBeef: 2
+19: Welsknight: 2
+20: BarryBoss1234: 2
+21: ZombieCleo: 2
+22: GoodTimeWithScar: 2
+23: Tinfoilchef: 2
+24: xBCrafted: 1
+Total 10074

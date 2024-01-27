@@ -1,0 +1,4 @@
+minecraft.broken.diamond_leggings
+1: iJevin: 1
+2: Zedaph: 1
+Total 2

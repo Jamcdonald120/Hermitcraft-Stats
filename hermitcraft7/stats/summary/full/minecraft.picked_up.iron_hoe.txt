@@ -1,0 +1,15 @@
+minecraft.picked_up.iron_hoe
+1: joehillssays: 15
+2: Renthedog: 9
+3: GoodTimeWithScar: 6
+4: VintageBeef: 5
+5: Tango: 4
+6: Grian: 3
+7: falsesymmetry: 2
+8: Docm77: 1
+9: Xisuma: 1
+10: Welsknight: 1
+11: Stressmonster101: 1
+12: Keralis1: 1
+13: impulseSV: 1
+Total 50

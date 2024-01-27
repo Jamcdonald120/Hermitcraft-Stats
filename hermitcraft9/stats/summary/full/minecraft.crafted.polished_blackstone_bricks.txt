@@ -1,0 +1,17 @@
+minecraft.crafted.polished_blackstone_bricks
+1: Mumbo: 2836
+2: PearlescentMoon: 2084
+3: Tango: 1276
+4: impulseSV: 1272
+5: iJevin: 272
+6: falsesymmetry: 200
+7: Xisuma: 153
+8: cubfan135: 148
+9: GoodTimeWithScar: 25
+10: MumboJumbo: 20
+11: Grian: 4
+12: Docm77: 2
+13: Zedaph: 2
+14: VintageBeef: 1
+15: ZombieCleo: 1
+Total 8296

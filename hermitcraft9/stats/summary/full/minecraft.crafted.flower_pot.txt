@@ -1,0 +1,28 @@
+minecraft.crafted.flower_pot
+1: Grian: 3477
+2: Etho: 923
+3: GoodTimeWithScar: 562
+4: iJevin: 192
+5: falsesymmetry: 150
+6: PearlescentMoon: 121
+7: ZombieCleo: 107
+8: GeminiTay: 104
+9: cubfan135: 92
+10: impulseSV: 92
+11: Renthedog: 80
+12: BdoubleO100: 76
+13: joehillssays: 67
+14: Keralis1: 62
+15: Docm77: 42
+16: hypnotizd: 21
+17: VintageBeef: 14
+18: Tango: 11
+19: RentheKing: 11
+20: Xisuma: 10
+21: MythicalSausage: 10
+22: Welsknight: 6
+23: Stressmonster101: 6
+24: xBCrafted: 4
+25: iskall85: 3
+26: Zedaph: 1
+Total 6244

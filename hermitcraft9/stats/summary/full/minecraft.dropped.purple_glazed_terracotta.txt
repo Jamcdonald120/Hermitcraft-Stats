@@ -1,0 +1,6 @@
+minecraft.dropped.purple_glazed_terracotta
+1: falsesymmetry: 308
+2: cubfan135: 12
+3: Grian: 4
+4: Etho: 1
+Total 325

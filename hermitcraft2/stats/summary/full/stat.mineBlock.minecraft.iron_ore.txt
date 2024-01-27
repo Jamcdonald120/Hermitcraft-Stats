@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.iron_ore
+1: Xisuma: 475
+2: xBCrafted: 472
+3: falsesymmetry: 229
+4: Biffa2001: 150
+5: Tango: 133
+6: Collen: 101
+7: Mumbo: 95
+8: sl1pg8r: 87
+9: Tinfoilchef: 68
+10: Spumwackles: 56
+11: ZombieCleo: 30
+12: zueljin: 17
+13: iJevin: 6
+14: NameOfSamuel: 2
+Total 1921

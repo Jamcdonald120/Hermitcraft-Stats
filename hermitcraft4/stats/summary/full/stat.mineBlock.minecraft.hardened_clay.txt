@@ -1,0 +1,26 @@
+stat.mineBlock.minecraft.hardened_clay
+1: GoodTimeWithScar: 163690
+2: Xisuma: 101419
+3: cubfan135: 87110
+4: falsesymmetry: 77009
+5: Renthedog: 53608
+6: iskall85: 35658
+7: Tango: 30597
+8: impulseSV: 25776
+9: Welsknight: 17037
+10: joehillssays: 15797
+11: MumboJumbo: 14498
+12: ZombieCleo: 6673
+13: PythonGB: 3997
+14: iJevin: 3663
+15: Mumbo: 3365
+16: xBCrafted: 2292
+17: Tinfoilchef: 1662
+18: Biffa2001: 1448
+19: Etho: 1371
+20: VintageBeef: 1293
+21: Docm77: 1150
+22: Jessassin: 627
+23: zueljin: 214
+24: hypnotizd: 7
+Total 649961

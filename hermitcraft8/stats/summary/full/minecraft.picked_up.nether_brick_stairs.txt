@@ -1,0 +1,10 @@
+minecraft.picked_up.nether_brick_stairs
+1: Keralis1: 83
+2: GoodTimeWithScar: 12
+3: Grian: 6
+4: Renthedog: 5
+5: cubfan135: 3
+6: Xisuma: 2
+7: VintageBeef: 2
+8: iJevin: 1
+Total 114

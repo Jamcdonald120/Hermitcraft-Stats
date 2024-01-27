@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.speckled_melon
+1: MumboJumbo: 512
+2: Tango: 300
+3: Xisuma: 74
+4: cubfan135: 59
+5: iskall85: 55
+6: impulseSV: 36
+7: Tinfoilchef: 35
+8: GoodTimeWithScar: 21
+9: falsesymmetry: 8
+10: joehillssays: 6
+Total 1106

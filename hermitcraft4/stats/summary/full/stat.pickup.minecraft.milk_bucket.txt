@@ -1,0 +1,9 @@
+stat.pickup.minecraft.milk_bucket
+1: falsesymmetry: 22
+2: GoodTimeWithScar: 7
+3: Xisuma: 2
+4: PythonGB: 2
+5: Renthedog: 1
+6: joehillssays: 1
+7: iskall85: 1
+Total 36

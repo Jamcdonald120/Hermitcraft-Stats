@@ -1,0 +1,9 @@
+minecraft.dropped.golden_pickaxe
+1: Keralis1: 6
+2: iJevin: 2
+3: impulseSV: 2
+4: Xisuma: 1
+5: Renthedog: 1
+6: iskall85: 1
+7: Zedaph: 1
+Total 14

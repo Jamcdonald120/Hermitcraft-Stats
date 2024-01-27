@@ -1,0 +1,24 @@
+minecraft.picked_up.jungle_planks
+1: iskall85: 1352
+2: Stressmonster101: 783
+3: Grian: 755
+4: cubfan135: 677
+5: Etho: 670
+6: Xisuma: 449
+7: GoodTimeWithScar: 437
+8: Tango: 295
+9: VintageBeef: 199
+10: iJevin: 184
+11: MumboJumbo: 156
+12: BdoubleO100: 117
+13: Renthedog: 103
+14: ZombieCleo: 92
+15: Zedaph: 76
+16: Keralis1: 74
+17: xBCrafted: 73
+18: joehillssays: 58
+19: Tinfoilchef: 20
+20: impulseSV: 17
+21: Docm77: 7
+22: hypnotizd: 1
+Total 6595

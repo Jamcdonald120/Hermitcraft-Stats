@@ -1,0 +1,17 @@
+minecraft.dropped.spruce_sign
+1: GeminiTay: 105
+2: GoodTimeWithScar: 44
+3: VintageBeef: 20
+4: Grian: 16
+5: BdoubleO100: 7
+6: joehillssays: 6
+7: Etho: 6
+8: Keralis1: 4
+9: iJevin: 3
+10: falsesymmetry: 3
+11: impulseSV: 3
+12: Renthedog: 2
+13: iskall85: 2
+14: Docm77: 1
+15: Xisuma: 1
+Total 223

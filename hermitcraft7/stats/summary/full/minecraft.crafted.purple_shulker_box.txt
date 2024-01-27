@@ -1,0 +1,11 @@
+minecraft.crafted.purple_shulker_box
+1: Tango: 10
+2: Keralis1: 9
+3: Xisuma: 5
+4: Etho: 5
+5: Renthedog: 2
+6: cubfan135: 2
+7: MumboJumbo: 1
+8: GoodTimeWithScar: 1
+9: Stressmonster101: 1
+Total 36

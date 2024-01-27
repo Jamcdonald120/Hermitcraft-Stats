@@ -1,0 +1,4 @@
+minecraft.dropped.golden_shovel
+1: Keralis1: 4
+2: xBCrafted: 2
+Total 6

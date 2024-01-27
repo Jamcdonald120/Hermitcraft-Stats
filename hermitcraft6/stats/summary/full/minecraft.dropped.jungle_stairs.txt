@@ -1,0 +1,9 @@
+minecraft.dropped.jungle_stairs
+1: falsesymmetry: 38
+2: BdoubleO100: 14
+3: Renthedog: 8
+4: cubfan135: 7
+5: Xisuma: 4
+6: GoodTimeWithScar: 3
+7: Biffa2001: 2
+Total 76

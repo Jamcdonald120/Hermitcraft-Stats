@@ -1,0 +1,7 @@
+minecraft.picked_up.sign
+1: Biffa2001: 60
+2: Jessassin: 15
+3: xBCrafted: 7
+4: Duke_da_dog: 7
+5: EvilXisuma: 1
+Total 90

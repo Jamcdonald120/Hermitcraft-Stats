@@ -1,0 +1,9 @@
+stat.breakItem.minecraft.wooden_sword
+1: Renthedog: 10
+2: Tinfoilchef: 5
+3: iskall85: 3
+4: Zedaph: 3
+5: PythonGB: 2
+6: iJevin: 1
+7: GoodTimeWithScar: 1
+Total 25

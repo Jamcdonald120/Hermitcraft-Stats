@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.stone_axe
+1: Tinfoilchef: 7
+2: topmass: 6
+3: falsesymmetry: 5
+4: joehillssays: 4
+5: zueljin: 4
+6: hypnotizd: 3
+7: sl1pg8r: 1
+8: skyzm: 1
+9: Xisuma: 1
+10: KingDaddyDMAC: 1
+11: Tango: 1
+12: xBCrafted: 1
+13: Pungence: 1
+14: Biffa2001: 1
+15: Spumwackles: 1
+16: Collen: 1
+Total 39

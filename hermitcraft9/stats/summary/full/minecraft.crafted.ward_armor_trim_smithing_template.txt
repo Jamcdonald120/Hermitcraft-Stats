@@ -1,0 +1,7 @@
+minecraft.crafted.ward_armor_trim_smithing_template
+1: iJevin: 7
+2: cubfan135: 4
+3: impulseSV: 4
+4: BdoubleO100: 2
+5: Zedaph: 2
+Total 19

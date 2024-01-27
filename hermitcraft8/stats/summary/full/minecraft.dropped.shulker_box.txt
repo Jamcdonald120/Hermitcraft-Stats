@@ -1,0 +1,22 @@
+minecraft.dropped.shulker_box
+1: GoodTimeWithScar: 51
+2: PearlescentMoon: 32
+3: Tango: 28
+4: Etho: 23
+5: cubfan135: 20
+6: Docm77: 15
+7: Grian: 15
+8: Keralis1: 15
+9: hypnotizd: 14
+10: impulseSV: 14
+11: Xisuma: 9
+12: joehillssays: 8
+13: Welsknight: 8
+14: Renthedog: 6
+15: iJevin: 5
+16: Zedaph: 5
+17: iskall85: 4
+18: GeminiTay: 3
+19: ZombieCleo: 3
+20: falsesymmetry: 2
+Total 280

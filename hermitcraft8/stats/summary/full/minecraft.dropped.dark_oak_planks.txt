@@ -1,0 +1,21 @@
+minecraft.dropped.dark_oak_planks
+1: Grian: 355
+2: PearlescentMoon: 241
+3: falsesymmetry: 215
+4: GoodTimeWithScar: 180
+5: BdoubleO100: 84
+6: joehillssays: 79
+7: iskall85: 50
+8: GeminiTay: 30
+9: ZombieCleo: 21
+10: Renthedog: 20
+11: Keralis1: 20
+12: xBCrafted: 9
+13: Tango: 8
+14: Etho: 7
+15: Docm77: 5
+16: impulseSV: 4
+17: iJevin: 1
+18: hypnotizd: 1
+19: Zedaph: 1
+Total 1331

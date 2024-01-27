@@ -1,0 +1,7 @@
+minecraft.dropped.brick_slab
+1: cubfan135: 40
+2: GoodTimeWithScar: 24
+3: iJevin: 22
+4: Etho: 19
+5: Zedaph: 16
+Total 121

@@ -1,0 +1,25 @@
+minecraft.custom.enchant_item
+1: Renthedog: 1425
+2: GoodTimeWithScar: 761
+3: iJevin: 377
+4: falsesymmetry: 359
+5: Grian: 311
+6: joehillssays: 227
+7: impulseSV: 213
+8: Stressmonster101: 185
+9: Welsknight: 160
+10: Tango: 159
+11: Xisuma: 156
+12: PythonGB: 123
+13: Zedaph: 107
+14: cubfan135: 81
+15: Biffa2001: 65
+16: MumboJumbo: 42
+17: iskall85: 41
+18: ZombieCleo: 37
+19: Docm77: 33
+20: xBCrafted: 22
+21: BdoubleO100: 9
+22: Tinfoilchef: 9
+23: Keralis1: 4
+Total 4906

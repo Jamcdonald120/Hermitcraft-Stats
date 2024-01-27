@@ -1,0 +1,15 @@
+minecraft.crafted.green_wool
+1: GoodTimeWithScar: 400
+2: Grian: 128
+3: joehillssays: 73
+4: falsesymmetry: 72
+5: Tango: 64
+6: iskall85: 64
+7: Renthedog: 49
+8: Tinfoilchef: 33
+9: cubfan135: 27
+10: ZombieCleo: 12
+11: Docm77: 8
+12: impulseSV: 6
+13: iJevin: 2
+Total 938

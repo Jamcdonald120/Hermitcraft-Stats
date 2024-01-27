@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.snow
+1: GoodTimeWithScar: 6147
+2: falsesymmetry: 5861
+3: Xisuma: 2938
+4: cubfan135: 1673
+5: iskall85: 1339
+6: impulseSV: 932
+7: Tinfoilchef: 781
+8: Welsknight: 699
+9: Tango: 622
+10: MumboJumbo: 390
+11: Renthedog: 339
+12: PythonGB: 78
+13: Docm77: 14
+14: Etho: 14
+15: iJevin: 3
+Total 21830

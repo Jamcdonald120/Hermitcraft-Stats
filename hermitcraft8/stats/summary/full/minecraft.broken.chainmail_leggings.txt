@@ -1,0 +1,4 @@
+minecraft.broken.chainmail_leggings
+1: Etho: 2
+2: BdoubleO100: 1
+Total 3

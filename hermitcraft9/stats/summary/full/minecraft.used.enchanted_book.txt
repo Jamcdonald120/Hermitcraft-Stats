@@ -1,0 +1,6 @@
+minecraft.used.enchanted_book
+1: GeminiTay: 40
+2: PearlescentMoon: 32
+3: cubfan135: 19
+4: GoodTimeWithScar: 5
+Total 96

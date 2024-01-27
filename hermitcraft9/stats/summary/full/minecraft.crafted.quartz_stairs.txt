@@ -1,0 +1,18 @@
+minecraft.crafted.quartz_stairs
+1: Tango: 364
+2: impulseSV: 156
+3: Renthedog: 124
+4: GoodTimeWithScar: 97
+5: ZombieCleo: 86
+6: Docm77: 40
+7: Keralis1: 40
+8: GeminiTay: 32
+9: falsesymmetry: 24
+10: VintageBeef: 12
+11: Smajor1995: 12
+12: cubfan135: 12
+13: Mumbo: 8
+14: Xisuma: 5
+15: Zedaph: 5
+16: Pixlriffs: 2
+Total 1019

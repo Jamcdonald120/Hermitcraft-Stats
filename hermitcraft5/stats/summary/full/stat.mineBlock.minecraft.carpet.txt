@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.carpet
+1: xBCrafted: 3586
+2: GoodTimeWithScar: 3480
+3: iskall85: 2759
+4: cubfan135: 2239
+5: Welsknight: 1096
+6: Tango: 1035
+7: falsesymmetry: 561
+8: joehillssays: 409
+9: Xisuma: 397
+10: impulseSV: 390
+11: Renthedog: 344
+12: PythonGB: 265
+13: iJevin: 89
+14: Stressmonster101: 86
+15: Zedaph: 46
+16: MumboJumbo: 38
+17: BdoubleO100: 33
+18: ZombieCleo: 20
+19: VintageBeef: 16
+20: Tinfoilchef: 10
+21: Docm77: 5
+Total 16904

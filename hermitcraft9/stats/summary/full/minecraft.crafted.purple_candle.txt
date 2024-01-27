@@ -1,0 +1,7 @@
+minecraft.crafted.purple_candle
+1: hypnotizd: 1872
+2: xBCrafted: 128
+3: Tango: 54
+4: Xisuma: 2
+5: Zedaph: 1
+Total 2057

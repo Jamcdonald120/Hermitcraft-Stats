@@ -1,0 +1,18 @@
+minecraft.picked_up.seagrass
+1: Xisuma: 1245
+2: Docm77: 882
+3: falsesymmetry: 603
+4: Grian: 599
+5: GoodTimeWithScar: 532
+6: cubfan135: 482
+7: Renthedog: 220
+8: iskall85: 147
+9: Keralis1: 131
+10: Jessassin: 50
+11: iJevin: 15
+12: ZombieCleo: 9
+13: Stressmonster101: 4
+14: Biffa2001: 3
+15: BdoubleO100: 1
+16: MumboJumbo: 1
+Total 4924

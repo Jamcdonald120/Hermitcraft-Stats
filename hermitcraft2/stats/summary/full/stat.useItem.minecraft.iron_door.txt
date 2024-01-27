@@ -1,0 +1,6 @@
+stat.useItem.minecraft.iron_door
+1: falsesymmetry: 22
+2: ZombieCleo: 14
+3: Tango: 4
+4: xBCrafted: 1
+Total 41

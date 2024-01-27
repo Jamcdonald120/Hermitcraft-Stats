@@ -1,0 +1,29 @@
+stat.useItem.minecraft.dye
+1: falsesymmetry: 10401
+2: Xisuma: 8146
+3: xBCrafted: 5638
+4: monkeyfarm: 2804
+5: Mumbo: 2604
+6: Tinfoilchef: 2275
+7: sl1pg8r: 1801
+8: zueljin: 1633
+9: Tango: 1592
+10: ZombieCleo: 1051
+11: PythonGB: 842
+12: Biffa2001: 776
+13: Keralis1: 587
+14: impulseSV: 529
+15: KingDaddyDMAC: 469
+16: iJevin: 441
+17: hypnotizd: 375
+18: topmass: 365
+19: Docm77: 106
+20: skyzm: 106
+21: Etho: 78
+22: Mrs_Keralis: 49
+23: NameOfSamuel: 19
+24: Spumwackles: 8
+25: joehillssays: 6
+26: Pungence: 6
+27: Collen: 3
+Total 42710

@@ -1,0 +1,21 @@
+minecraft.mined.light_blue_wool
+1: Renthedog: 567
+2: Tango: 490
+3: PearlescentMoon: 227
+4: cubfan135: 199
+5: Grian: 161
+6: MythicalSausage: 118
+7: BdoubleO100: 103
+8: Docm77: 43
+9: VintageBeef: 34
+10: Etho: 29
+11: iJevin: 21
+12: iskall85: 10
+13: Zedaph: 6
+14: GoodTimeWithScar: 5
+15: hypnotizd: 3
+16: impulseSV: 3
+17: Xisuma: 2
+18: Stressmonster101: 2
+19: RentheKing: 1
+Total 2024

@@ -1,0 +1,25 @@
+minecraft.dropped.paper
+1: Tango: 946
+2: iJevin: 522
+3: Grian: 502
+4: GoodTimeWithScar: 128
+5: Keralis1: 104
+6: impulseSV: 87
+7: Zedaph: 86
+8: cubfan135: 74
+9: MumboJumbo: 73
+10: Xisuma: 68
+11: Etho: 65
+12: Docm77: 43
+13: iskall85: 36
+14: hypnotizd: 23
+15: BdoubleO100: 22
+16: xBCrafted: 21
+17: Renthedog: 17
+18: EvilXisuma: 10
+19: pillbugnine: 10
+20: ZombieCleo: 8
+21: joehillssays: 3
+22: GeminiTay: 2
+23: PearlescentMoon: 1
+Total 2851

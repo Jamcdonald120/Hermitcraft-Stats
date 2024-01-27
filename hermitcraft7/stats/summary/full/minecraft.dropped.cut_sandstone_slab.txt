@@ -1,0 +1,9 @@
+minecraft.dropped.cut_sandstone_slab
+1: Grian: 185
+2: GoodTimeWithScar: 164
+3: cubfan135: 95
+4: MumboJumbo: 11
+5: BdoubleO100: 6
+6: VintageBeef: 2
+7: Keralis1: 2
+Total 465

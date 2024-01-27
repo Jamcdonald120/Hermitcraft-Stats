@@ -1,0 +1,21 @@
+minecraft.used.oak_door
+1: impulseSV: 137
+2: Tango: 123
+3: Tinfoilchef: 89
+4: iJevin: 68
+5: iskall85: 59
+6: Biffa2001: 57
+7: Renthedog: 38
+8: falsesymmetry: 30
+9: Docm77: 27
+10: cubfan135: 19
+11: MumboJumbo: 18
+12: BdoubleO100: 8
+13: Zedaph: 8
+14: Grian: 7
+15: GoodTimeWithScar: 7
+16: PythonGB: 4
+17: Stressmonster101: 3
+18: Welsknight: 2
+19: Xisuma: 1
+Total 705

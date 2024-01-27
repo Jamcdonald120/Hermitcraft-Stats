@@ -1,0 +1,28 @@
+stat.craftItem.minecraft.iron_boots
+1: Xisuma: 45
+2: falsesymmetry: 33
+3: topmass: 17
+4: Tango: 10
+5: Etho: 9
+6: sl1pg8r: 8
+7: joehillssays: 8
+8: impulseSV: 7
+9: xBCrafted: 6
+10: ZombieCleo: 5
+11: PythonGB: 4
+12: KingDaddyDMAC: 4
+13: zueljin: 4
+14: Biffa2001: 4
+15: Mumbo: 3
+16: Tinfoilchef: 3
+17: Spumwackles: 3
+18: Docm77: 2
+19: skyzm: 2
+20: Keralis1: 2
+21: iJevin: 1
+22: Pungence: 1
+23: hypnotizd: 1
+24: monkeyfarm: 1
+25: NameOfSamuel: 1
+26: Collen: 1
+Total 185

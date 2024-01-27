@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.prismarine
+1: Xisuma: 4660
+2: iskall85: 744
+3: cubfan135: 53
+Total 5457

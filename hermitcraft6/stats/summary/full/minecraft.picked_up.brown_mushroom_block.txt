@@ -1,0 +1,11 @@
+minecraft.picked_up.brown_mushroom_block
+1: falsesymmetry: 7622
+2: Docm77: 4829
+3: cubfan135: 3861
+4: Xisuma: 2601
+5: iskall85: 1593
+6: iJevin: 1014
+7: Renthedog: 158
+8: GoodTimeWithScar: 49
+9: Grian: 1
+Total 21728

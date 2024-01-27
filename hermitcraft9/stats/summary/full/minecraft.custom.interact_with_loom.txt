@@ -1,0 +1,27 @@
+minecraft.custom.interact_with_loom
+1: cubfan135: 115
+2: falsesymmetry: 87
+3: Tango: 67
+4: iJevin: 56
+5: ZombieCleo: 52
+6: BdoubleO100: 48
+7: Keralis1: 41
+8: GoodTimeWithScar: 40
+9: Etho: 36
+10: impulseSV: 35
+11: Xisuma: 27
+12: Renthedog: 27
+13: PearlescentMoon: 26
+14: joehillssays: 17
+15: Grian: 16
+16: RentheKing: 14
+17: GeminiTay: 13
+18: VintageBeef: 12
+19: Zedaph: 5
+20: hypnotizd: 4
+21: Docm77: 3
+22: Smajor1995: 3
+23: xBCrafted: 2
+24: MythicalSausage: 1
+25: Smallishbeans: 1
+Total 748

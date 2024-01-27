@@ -1,0 +1,8 @@
+minecraft.crafted.wayfinder_armor_trim_smithing_template
+1: iJevin: 8
+2: GeminiTay: 6
+3: falsesymmetry: 4
+4: cubfan135: 4
+5: impulseSV: 2
+6: Zedaph: 2
+Total 26

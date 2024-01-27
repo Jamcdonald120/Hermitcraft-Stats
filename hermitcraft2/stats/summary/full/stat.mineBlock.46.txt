@@ -1,0 +1,4 @@
+stat.mineBlock.46
+1: red3yz: 5
+2: skyzm: 3
+Total 8

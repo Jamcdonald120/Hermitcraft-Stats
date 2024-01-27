@@ -1,0 +1,25 @@
+minecraft.used.spruce_sapling
+1: Renthedog: 1535
+2: PearlescentMoon: 1149
+3: Tango: 623
+4: GoodTimeWithScar: 517
+5: ZombieCleo: 362
+6: GeminiTay: 294
+7: joehillssays: 282
+8: Xisuma: 275
+9: Etho: 260
+10: xBCrafted: 187
+11: impulseSV: 185
+12: Grian: 178
+13: iskall85: 148
+14: cubfan135: 127
+15: Welsknight: 124
+16: BdoubleO100: 94
+17: hypnotizd: 56
+18: VintageBeef: 50
+19: Stressmonster101: 49
+20: falsesymmetry: 27
+21: Keralis1: 25
+22: Zedaph: 6
+23: MumboJumbo: 5
+Total 6558

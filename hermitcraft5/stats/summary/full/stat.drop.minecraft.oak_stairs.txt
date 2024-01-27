@@ -1,0 +1,10 @@
+stat.drop.minecraft.oak_stairs
+1: xBCrafted: 12
+2: Tango: 5
+3: iskall85: 3
+4: cubfan135: 3
+5: MumboJumbo: 3
+6: VintageBeef: 2
+7: GoodTimeWithScar: 1
+8: impulseSV: 1
+Total 30

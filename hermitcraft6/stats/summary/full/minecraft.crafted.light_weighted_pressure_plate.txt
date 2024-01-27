@@ -1,0 +1,12 @@
+minecraft.crafted.light_weighted_pressure_plate
+1: Grian: 32
+2: iskall85: 32
+3: GoodTimeWithScar: 25
+4: Renthedog: 19
+5: cubfan135: 6
+6: Docm77: 3
+7: BdoubleO100: 3
+8: ZombieCleo: 3
+9: Biffa2001: 2
+10: Xisuma: 1
+Total 126

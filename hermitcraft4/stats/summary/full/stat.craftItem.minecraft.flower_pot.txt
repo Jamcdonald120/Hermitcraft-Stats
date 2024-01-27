@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.flower_pot
+1: falsesymmetry: 301
+2: Xisuma: 209
+3: cubfan135: 94
+4: Tango: 51
+5: GoodTimeWithScar: 26
+6: iskall85: 22
+7: PythonGB: 21
+8: Welsknight: 21
+9: zueljin: 16
+10: Etho: 8
+11: Mumbo: 6
+12: VintageBeef: 5
+13: ZombieCleo: 5
+14: joehillssays: 1
+Total 786

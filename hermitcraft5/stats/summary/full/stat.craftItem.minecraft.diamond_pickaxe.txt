@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.diamond_pickaxe
+1: Renthedog: 81
+2: PythonGB: 62
+3: joehillssays: 35
+4: Tango: 34
+5: cubfan135: 34
+6: iskall85: 30
+7: MumboJumbo: 30
+8: Etho: 25
+9: GoodTimeWithScar: 25
+10: impulseSV: 25
+11: iJevin: 23
+12: xBCrafted: 21
+13: falsesymmetry: 18
+14: Welsknight: 12
+15: Tinfoilchef: 9
+16: VintageBeef: 8
+17: Docm77: 7
+18: Stressmonster101: 7
+19: BdoubleO100: 6
+20: Zedaph: 6
+21: Biffa2001: 3
+22: ZombieCleo: 3
+23: Xisuma: 2
+Total 506

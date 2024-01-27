@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.planks
+1: sl1pg8r: 743
+2: zueljin: 573
+3: ZombieCleo: 453
+4: Mumbo: 326
+5: iJevin: 220
+6: xBCrafted: 156
+7: KingDaddyDMAC: 109
+8: Tango: 108
+9: monkeyfarm: 107
+10: Spumwackles: 90
+11: Xisuma: 78
+12: falsesymmetry: 55
+13: Biffa2001: 14
+14: Collen: 1
+Total 3033

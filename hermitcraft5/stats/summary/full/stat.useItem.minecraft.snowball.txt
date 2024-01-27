@@ -1,0 +1,15 @@
+stat.useItem.minecraft.snowball
+1: MumboJumbo: 386
+2: Zedaph: 357
+3: Renthedog: 253
+4: cubfan135: 142
+5: iskall85: 121
+6: Tango: 118
+7: impulseSV: 101
+8: falsesymmetry: 69
+9: iJevin: 64
+10: Xisuma: 14
+11: joehillssays: 14
+12: GoodTimeWithScar: 12
+13: xBCrafted: 2
+Total 1653

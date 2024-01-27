@@ -1,0 +1,6 @@
+minecraft.dropped.pink_stained_glass_pane
+1: falsesymmetry: 15
+2: Zedaph: 15
+3: Renthedog: 2
+4: iJevin: 1
+Total 33

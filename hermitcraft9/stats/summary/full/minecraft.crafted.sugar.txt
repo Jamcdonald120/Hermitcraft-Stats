@@ -1,0 +1,25 @@
+minecraft.crafted.sugar
+1: cubfan135: 15220
+2: Renthedog: 13778
+3: RentheKing: 3177
+4: Tango: 910
+5: BdoubleO100: 595
+6: joehillssays: 193
+7: iJevin: 132
+8: impulseSV: 81
+9: xBCrafted: 72
+10: Grian: 64
+11: Keralis1: 57
+12: hypnotizd: 50
+13: Stressmonster101: 43
+14: Zedaph: 40
+15: Docm77: 38
+16: Etho: 34
+17: GeminiTay: 32
+18: PearlescentMoon: 32
+19: iskall85: 28
+20: Xisuma: 6
+21: VintageBeef: 4
+22: falsesymmetry: 2
+23: ZombieCleo: 1
+Total 34589

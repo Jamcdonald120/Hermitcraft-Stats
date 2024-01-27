@@ -1,0 +1,21 @@
+minecraft.crafted.baked_potato
+1: VintageBeef: 1230
+2: joehillssays: 1181
+3: Welsknight: 590
+4: xBCrafted: 493
+5: impulseSV: 371
+6: iskall85: 367
+7: ZombieCleo: 291
+8: Stressmonster101: 287
+9: Xisuma: 251
+10: GeminiTay: 227
+11: PearlescentMoon: 206
+12: Tango: 128
+13: falsesymmetry: 112
+14: Mumbo: 64
+15: MumboJumbo: 64
+16: iJevin: 61
+17: Docm77: 15
+18: cubfan135: 4
+19: Keralis1: 4
+Total 5946

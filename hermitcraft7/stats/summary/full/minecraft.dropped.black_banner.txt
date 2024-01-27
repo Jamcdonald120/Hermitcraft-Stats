@@ -1,0 +1,14 @@
+minecraft.dropped.black_banner
+1: Zedaph: 635
+2: joehillssays: 16
+3: xBCrafted: 16
+4: Grian: 11
+5: Xisuma: 8
+6: Keralis1: 8
+7: Etho: 6
+8: MumboJumbo: 4
+9: Tango: 3
+10: cubfan135: 3
+11: GoodTimeWithScar: 3
+12: VintageBeef: 1
+Total 714

@@ -1,0 +1,11 @@
+stat.useItem.minecraft.jungle_door
+1: VintageBeef: 26
+2: Docm77: 14
+3: BdoubleO100: 12
+4: xBCrafted: 5
+5: cubfan135: 5
+6: joehillssays: 2
+7: MumboJumbo: 2
+8: falsesymmetry: 1
+9: Welsknight: 1
+Total 68

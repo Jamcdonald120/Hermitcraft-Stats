@@ -1,0 +1,28 @@
+minecraft.picked_up.cobblestone_slab
+1: iJevin: 3842
+2: PearlescentMoon: 3196
+3: VintageBeef: 2527
+4: GoodTimeWithScar: 2428
+5: cubfan135: 380
+6: impulseSV: 263
+7: Tango: 185
+8: Keralis1: 162
+9: Grian: 108
+10: falsesymmetry: 87
+11: joehillssays: 77
+12: Zedaph: 76
+13: GeminiTay: 60
+14: Docm77: 54
+15: iskall85: 48
+16: Renthedog: 37
+17: Xisuma: 32
+18: ZombieCleo: 31
+19: BdoubleO100: 29
+20: Etho: 28
+21: xBCrafted: 20
+22: hypnotizd: 13
+23: MythicalSausage: 10
+24: RentheKing: 6
+25: Stressmonster101: 6
+26: Pixlriffs: 2
+Total 13707

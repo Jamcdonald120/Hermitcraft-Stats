@@ -1,0 +1,29 @@
+stat.deaths
+1: Mumbo: 11276
+2: Xisuma: 5698
+3: impulseSV: 135
+4: Tango: 131
+5: Biffa2001: 96
+6: zueljin: 87
+7: falsesymmetry: 82
+8: sl1pg8r: 73
+9: xBCrafted: 70
+10: Tinfoilchef: 67
+11: ZombieCleo: 37
+12: Spumwackles: 37
+13: Etho: 24
+14: Docm77: 17
+15: PythonGB: 14
+16: KingDaddyDMAC: 14
+17: topmass: 11
+18: monkeyfarm: 11
+19: joehillssays: 9
+20: hypnotizd: 8
+21: Mrs_Keralis: 6
+22: skyzm: 5
+23: truesymmetry: 4
+24: Keralis1: 4
+25: iJevin: 1
+26: xisumavoid: 1
+27: Collen: 1
+Total 17919

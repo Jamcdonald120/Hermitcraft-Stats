@@ -1,0 +1,16 @@
+stat.drop.minecraft.iron_shovel
+1: falsesymmetry: 10
+2: Docm77: 6
+3: Xisuma: 5
+4: Renthedog: 5
+5: Tango: 5
+6: cubfan135: 5
+7: Etho: 5
+8: Tinfoilchef: 3
+9: iJevin: 2
+10: Welsknight: 2
+11: GoodTimeWithScar: 2
+12: Mumbo: 1
+13: MumboJumbo: 1
+14: impulseSV: 1
+Total 53

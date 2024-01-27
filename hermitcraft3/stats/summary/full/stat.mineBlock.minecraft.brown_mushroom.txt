@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.brown_mushroom
+1: sl1pg8r: 121
+2: impulseSV: 95
+3: Xisuma: 78
+4: falsesymmetry: 76
+5: Tango: 58
+6: Tinfoilchef: 40
+7: xBCrafted: 37
+8: zueljin: 30
+9: monkeyfarm: 28
+10: hypnotizd: 21
+11: Mumbo: 19
+12: Pungence: 18
+13: ZombieCleo: 16
+14: Biffa2001: 9
+15: iJevin: 8
+16: KingDaddyDMAC: 6
+17: Etho: 6
+18: topmass: 4
+19: Spumwackles: 3
+20: PythonGB: 1
+21: Collen: 1
+Total 675

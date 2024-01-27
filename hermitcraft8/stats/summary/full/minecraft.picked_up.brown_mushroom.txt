@@ -1,0 +1,27 @@
+minecraft.picked_up.brown_mushroom
+1: ZombieCleo: 890
+2: Etho: 726
+3: Renthedog: 300
+4: GeminiTay: 223
+5: BdoubleO100: 174
+6: joehillssays: 172
+7: PearlescentMoon: 163
+8: iJevin: 145
+9: hypnotizd: 136
+10: Zedaph: 126
+11: Xisuma: 108
+12: GoodTimeWithScar: 91
+13: falsesymmetry: 75
+14: Docm77: 48
+15: impulseSV: 48
+16: cubfan135: 38
+17: Grian: 29
+18: VintageBeef: 20
+19: iskall85: 17
+20: Stressmonster101: 15
+21: xBCrafted: 11
+22: Welsknight: 10
+23: Tango: 4
+24: MumboJumbo: 2
+25: Keralis1: 1
+Total 3572

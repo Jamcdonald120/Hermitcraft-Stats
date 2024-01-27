@@ -1,0 +1,4 @@
+stat.drop.minecraft.jungle_fence
+1: GoodTimeWithScar: 3
+2: Xisuma: 1
+Total 4

@@ -1,0 +1,5 @@
+minecraft.picked_up.eye_armor_trim_smithing_template
+1: iJevin: 2
+2: cubfan135: 2
+3: Xisuma: 1
+Total 5

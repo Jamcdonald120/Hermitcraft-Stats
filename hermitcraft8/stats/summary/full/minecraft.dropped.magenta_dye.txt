@@ -1,0 +1,7 @@
+minecraft.dropped.magenta_dye
+1: Etho: 66
+2: hypnotizd: 44
+3: GeminiTay: 26
+4: Zedaph: 3
+5: Renthedog: 1
+Total 140

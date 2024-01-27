@@ -1,0 +1,5 @@
+minecraft.used.red_nether_brick_slab
+1: Xisuma: 33
+2: cubfan135: 20
+3: Tango: 10
+Total 63

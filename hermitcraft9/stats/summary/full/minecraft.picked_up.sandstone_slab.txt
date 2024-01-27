@@ -1,0 +1,14 @@
+minecraft.picked_up.sandstone_slab
+1: cubfan135: 439
+2: GeminiTay: 402
+3: Stressmonster101: 298
+4: GoodTimeWithScar: 285
+5: Docm77: 157
+6: Xisuma: 133
+7: VintageBeef: 97
+8: Zedaph: 38
+9: xBCrafted: 12
+10: iJevin: 2
+11: Keralis1: 2
+12: impulseSV: 2
+Total 1867

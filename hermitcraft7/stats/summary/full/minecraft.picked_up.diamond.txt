@@ -1,0 +1,26 @@
+minecraft.picked_up.diamond
+1: Keralis1: 10684
+2: cubfan135: 8658
+3: iskall85: 6820
+4: iJevin: 5856
+5: MumboJumbo: 4967
+6: GoodTimeWithScar: 4150
+7: hypnotizd: 2751
+8: Grian: 2682
+9: Etho: 2289
+10: Xisuma: 1962
+11: impulseSV: 1701
+12: Docm77: 1642
+13: Welsknight: 1615
+14: Renthedog: 1596
+15: ZombieCleo: 1345
+16: BdoubleO100: 1344
+17: falsesymmetry: 1060
+18: Tinfoilchef: 976
+19: VintageBeef: 853
+20: Zedaph: 845
+21: Stressmonster101: 834
+22: xBCrafted: 773
+23: Tango: 613
+24: joehillssays: 206
+Total 66222

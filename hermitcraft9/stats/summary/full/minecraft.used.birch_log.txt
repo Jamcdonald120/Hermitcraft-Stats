@@ -1,0 +1,32 @@
+minecraft.used.birch_log
+1: VintageBeef: 10525
+2: GoodTimeWithScar: 5590
+3: GeminiTay: 2497
+4: joehillssays: 2342
+5: Docm77: 1974
+6: Renthedog: 868
+7: cubfan135: 591
+8: ZombieCleo: 580
+9: xBCrafted: 543
+10: Xisuma: 511
+11: Stressmonster101: 410
+12: BdoubleO100: 379
+13: iskall85: 296
+14: impulseSV: 196
+15: Keralis1: 167
+16: PearlescentMoon: 140
+17: iJevin: 118
+18: Grian: 71
+19: Welsknight: 65
+20: RentheKing: 64
+21: Tango: 58
+22: Smallishbeans: 57
+23: Mumbo: 57
+24: Etho: 55
+25: falsesymmetry: 38
+26: Zedaph: 27
+27: hypnotizd: 18
+28: ShubbleYT: 17
+29: MumboJumbo: 10
+30: Tinfoilchef: 2
+Total 28266

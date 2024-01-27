@@ -1,0 +1,15 @@
+minecraft.crafted.jungle_stairs
+1: PearlescentMoon: 608
+2: GeminiTay: 284
+3: Keralis1: 108
+4: Etho: 88
+5: MumboJumbo: 72
+6: Grian: 56
+7: BdoubleO100: 56
+8: GoodTimeWithScar: 48
+9: impulseSV: 48
+10: iskall85: 44
+11: cubfan135: 8
+12: Renthedog: 4
+13: Welsknight: 4
+Total 1428

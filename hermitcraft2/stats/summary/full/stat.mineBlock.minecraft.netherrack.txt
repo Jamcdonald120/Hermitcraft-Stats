@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.netherrack
+1: Mumbo: 3987
+2: ZombieCleo: 3328
+3: Xisuma: 3180
+4: Spumwackles: 3016
+5: Tinfoilchef: 2314
+6: Tango: 2272
+7: falsesymmetry: 965
+8: xBCrafted: 482
+9: sl1pg8r: 321
+10: Cleophas: 122
+11: iJevin: 90
+12: KingDaddyDMAC: 26
+13: zueljin: 12
+14: monkeyfarm: 12
+Total 20127

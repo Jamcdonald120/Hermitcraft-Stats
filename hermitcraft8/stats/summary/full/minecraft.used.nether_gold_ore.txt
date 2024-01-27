@@ -1,0 +1,6 @@
+minecraft.used.nether_gold_ore
+1: Welsknight: 18
+2: iJevin: 16
+3: PearlescentMoon: 7
+4: joehillssays: 1
+Total 42

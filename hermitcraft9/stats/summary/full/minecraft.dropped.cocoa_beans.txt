@@ -1,0 +1,15 @@
+minecraft.dropped.cocoa_beans
+1: falsesymmetry: 168
+2: Grian: 126
+3: cubfan135: 32
+4: Tango: 18
+5: xBCrafted: 18
+6: Keralis1: 16
+7: Etho: 6
+8: Zedaph: 5
+9: ZombieCleo: 4
+10: impulseSV: 4
+11: iJevin: 3
+12: BdoubleO100: 3
+13: Renthedog: 2
+Total 405

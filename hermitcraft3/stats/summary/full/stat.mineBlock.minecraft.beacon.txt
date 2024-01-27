@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.beacon
+1: Xisuma: 126
+2: falsesymmetry: 53
+3: xBCrafted: 44
+4: impulseSV: 21
+5: Tango: 19
+6: Mumbo: 11
+7: Biffa2001: 10
+8: zueljin: 7
+9: iJevin: 5
+10: hypnotizd: 4
+11: sl1pg8r: 3
+12: topmass: 2
+13: Etho: 2
+14: KingDaddyDMAC: 1
+Total 308

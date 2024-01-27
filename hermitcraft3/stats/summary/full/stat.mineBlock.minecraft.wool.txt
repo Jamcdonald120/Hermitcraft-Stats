@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.wool
+1: Mumbo: 2983
+2: zueljin: 1949
+3: falsesymmetry: 1646
+4: Spumwackles: 1566
+5: Xisuma: 1501
+6: sl1pg8r: 877
+7: Tinfoilchef: 711
+8: Tango: 510
+9: xBCrafted: 499
+10: monkeyfarm: 427
+11: ZombieCleo: 292
+12: Etho: 283
+13: PythonGB: 247
+14: KingDaddyDMAC: 209
+15: Biffa2001: 191
+16: impulseSV: 156
+17: topmass: 63
+18: iJevin: 33
+19: hypnotizd: 13
+20: joehillssays: 7
+21: Keralis1: 7
+22: Mrs_Keralis: 5
+23: Docm77: 4
+Total 14179

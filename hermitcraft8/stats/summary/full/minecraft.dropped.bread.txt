@@ -1,0 +1,21 @@
+minecraft.dropped.bread
+1: Xisuma: 2006
+2: Grian: 1542
+3: GoodTimeWithScar: 1510
+4: iJevin: 1307
+5: hypnotizd: 930
+6: xBCrafted: 230
+7: VintageBeef: 74
+8: Renthedog: 64
+9: joehillssays: 59
+10: iskall85: 30
+11: PearlescentMoon: 18
+12: Etho: 11
+13: Stressmonster101: 7
+14: cubfan135: 5
+15: Docm77: 2
+16: GeminiTay: 2
+17: falsesymmetry: 2
+18: ZombieCleo: 1
+19: Zedaph: 1
+Total 7801

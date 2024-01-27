@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.blaze_powder
+1: Tango: 5424
+2: MumboJumbo: 1582
+3: cubfan135: 1388
+4: Tinfoilchef: 480
+5: iskall85: 204
+6: Welsknight: 166
+7: GoodTimeWithScar: 90
+8: Renthedog: 78
+9: Zedaph: 78
+10: Xisuma: 70
+11: iJevin: 62
+12: falsesymmetry: 62
+13: xBCrafted: 60
+14: impulseSV: 58
+15: Stressmonster101: 44
+16: Biffa2001: 32
+17: BdoubleO100: 26
+18: Etho: 26
+19: PythonGB: 22
+20: Docm77: 20
+21: joehillssays: 8
+22: VintageBeef: 2
+Total 9982

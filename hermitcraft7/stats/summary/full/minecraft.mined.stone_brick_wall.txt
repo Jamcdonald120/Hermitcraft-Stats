@@ -1,0 +1,20 @@
+minecraft.mined.stone_brick_wall
+1: xBCrafted: 910
+2: cubfan135: 591
+3: Xisuma: 331
+4: VintageBeef: 171
+5: BdoubleO100: 118
+6: Keralis1: 87
+7: impulseSV: 64
+8: Tango: 63
+9: Grian: 51
+10: iskall85: 44
+11: GoodTimeWithScar: 33
+12: iJevin: 29
+13: MumboJumbo: 22
+14: Renthedog: 20
+15: joehillssays: 17
+16: Docm77: 8
+17: ZombieCleo: 5
+18: Etho: 2
+Total 2566

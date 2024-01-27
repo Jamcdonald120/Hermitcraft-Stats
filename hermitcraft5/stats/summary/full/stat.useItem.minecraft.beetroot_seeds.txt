@@ -1,0 +1,17 @@
+stat.useItem.minecraft.beetroot_seeds
+1: MumboJumbo: 1737
+2: joehillssays: 1600
+3: cubfan135: 1571
+4: Renthedog: 810
+5: Zedaph: 534
+6: Stressmonster101: 101
+7: Tinfoilchef: 88
+8: Biffa2001: 25
+9: ZombieCleo: 25
+10: falsesymmetry: 22
+11: VintageBeef: 16
+12: iJevin: 13
+13: Docm77: 11
+14: BdoubleO100: 11
+15: Xisuma: 10
+Total 6574

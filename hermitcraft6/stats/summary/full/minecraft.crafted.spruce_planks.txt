@@ -1,0 +1,30 @@
+minecraft.crafted.spruce_planks
+1: GoodTimeWithScar: 103229
+2: Renthedog: 45699
+3: cubfan135: 42330
+4: Xisuma: 39650
+5: Grian: 34730
+6: iskall85: 34660
+7: Welsknight: 25240
+8: iJevin: 21092
+9: MumboJumbo: 16260
+10: falsesymmetry: 13876
+11: Stressmonster101: 12064
+12: impulseSV: 10883
+13: BdoubleO100: 10148
+14: Docm77: 9337
+15: PythonGB: 9252
+16: Tango: 8516
+17: ZombieCleo: 7143
+18: Keralis1: 6262
+19: joehillssays: 4330
+20: Biffa2001: 3800
+21: Tinfoilchef: 2033
+22: HumanCleo: 1912
+23: xBCrafted: 1024
+24: Zedaph: 1008
+25: Jura_Whitey: 272
+26: BadTimeWithScar: 128
+27: Jessassin: 108
+28: Duke_da_dog: 32
+Total 465018

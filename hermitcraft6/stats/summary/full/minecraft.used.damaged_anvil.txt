@@ -1,0 +1,20 @@
+minecraft.used.damaged_anvil
+1: cubfan135: 42
+2: Xisuma: 36
+3: falsesymmetry: 25
+4: Stressmonster101: 23
+5: Grian: 10
+6: GoodTimeWithScar: 10
+7: impulseSV: 10
+8: Docm77: 9
+9: iskall85: 9
+10: iJevin: 8
+11: joehillssays: 7
+12: Tango: 7
+13: Renthedog: 6
+14: PythonGB: 4
+15: Biffa2001: 3
+16: Welsknight: 2
+17: Tinfoilchef: 2
+18: Zedaph: 1
+Total 214

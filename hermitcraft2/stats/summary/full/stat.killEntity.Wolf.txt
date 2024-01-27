@@ -1,0 +1,4 @@
+stat.killEntity.Wolf
+1: sl1pg8r: 1
+2: Keralis1: 1
+Total 2

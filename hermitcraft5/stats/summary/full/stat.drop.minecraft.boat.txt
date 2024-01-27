@@ -1,0 +1,17 @@
+stat.drop.minecraft.boat
+1: xBCrafted: 97
+2: Zedaph: 33
+3: Tango: 9
+4: Xisuma: 8
+5: falsesymmetry: 7
+6: impulseSV: 5
+7: Renthedog: 3
+8: joehillssays: 3
+9: iskall85: 3
+10: cubfan135: 3
+11: VintageBeef: 2
+12: Biffa2001: 2
+13: PythonGB: 1
+14: iJevin: 1
+15: Stressmonster101: 1
+Total 178

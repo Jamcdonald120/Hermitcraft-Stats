@@ -1,0 +1,26 @@
+stat.useItem.minecraft.hopper
+1: MumboJumbo: 5806
+2: cubfan135: 4014
+3: Xisuma: 3376
+4: impulseSV: 2058
+5: Tango: 2057
+6: Renthedog: 1943
+7: iskall85: 1903
+8: Zedaph: 1095
+9: xBCrafted: 730
+10: Tinfoilchef: 639
+11: Welsknight: 416
+12: Etho: 363
+13: Stressmonster101: 345
+14: GoodTimeWithScar: 321
+15: Docm77: 215
+16: falsesymmetry: 156
+17: iJevin: 138
+18: PythonGB: 98
+19: BdoubleO100: 39
+20: joehillssays: 29
+21: Biffa2001: 22
+22: VintageBeef: 15
+23: ZombieCleo: 14
+24: isGall85: 11
+Total 25803

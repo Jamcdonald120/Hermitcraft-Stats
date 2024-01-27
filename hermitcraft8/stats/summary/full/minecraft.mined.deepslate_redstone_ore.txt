@@ -1,0 +1,28 @@
+minecraft.mined.deepslate_redstone_ore
+1: Renthedog: 1317
+2: PearlescentMoon: 1173
+3: GoodTimeWithScar: 1110
+4: cubfan135: 813
+5: BdoubleO100: 484
+6: Docm77: 446
+7: Xisuma: 435
+8: impulseSV: 388
+9: Grian: 356
+10: MumboJumbo: 355
+11: GeminiTay: 344
+12: Welsknight: 337
+13: Etho: 314
+14: iJevin: 309
+15: Zedaph: 285
+16: xBCrafted: 283
+17: Tinfoilchef: 275
+18: ZombieCleo: 268
+19: falsesymmetry: 261
+20: VintageBeef: 212
+21: Tango: 182
+22: joehillssays: 172
+23: hypnotizd: 120
+24: Stressmonster101: 92
+25: iskall85: 34
+26: Keralis1: 9
+Total 10374

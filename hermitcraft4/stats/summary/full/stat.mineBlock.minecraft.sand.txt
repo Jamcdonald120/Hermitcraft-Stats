@@ -1,0 +1,27 @@
+stat.mineBlock.minecraft.sand
+1: Renthedog: 136878
+2: cubfan135: 86143
+3: falsesymmetry: 61723
+4: Xisuma: 56234
+5: impulseSV: 34798
+6: iskall85: 28310
+7: Tango: 27768
+8: GoodTimeWithScar: 25349
+9: MumboJumbo: 24150
+10: joehillssays: 14689
+11: Welsknight: 5778
+12: Tinfoilchef: 5174
+13: Etho: 4911
+14: Docm77: 3050
+15: VintageBeef: 3044
+16: iJevin: 1989
+17: Biffa2001: 1833
+18: ZombieCleo: 1710
+19: PythonGB: 1421
+20: Mumbo: 1276
+21: zueljin: 208
+22: xBCrafted: 142
+23: monkeyfarm: 8
+24: hypnotizd: 4
+25: Jessassin: 2
+Total 526592

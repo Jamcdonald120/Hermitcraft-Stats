@@ -1,0 +1,25 @@
+minecraft.picked_up.nether_wart_block
+1: Renthedog: 14001
+2: Etho: 12576
+3: Zedaph: 5738
+4: falsesymmetry: 5283
+5: Stressmonster101: 5156
+6: BdoubleO100: 4828
+7: cubfan135: 3606
+8: Xisuma: 2969
+9: Tango: 1755
+10: GoodTimeWithScar: 1456
+11: joehillssays: 1261
+12: Grian: 1214
+13: VintageBeef: 968
+14: hypnotizd: 714
+15: impulseSV: 652
+16: xBCrafted: 635
+17: iskall85: 542
+18: Keralis1: 538
+19: ZombieCleo: 390
+20: Welsknight: 357
+21: iJevin: 180
+22: MumboJumbo: 124
+23: Docm77: 6
+Total 64949

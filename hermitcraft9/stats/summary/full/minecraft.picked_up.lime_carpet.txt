@@ -1,0 +1,13 @@
+minecraft.picked_up.lime_carpet
+1: VintageBeef: 25957
+2: impulseSV: 3855
+3: iJevin: 1696
+4: PearlescentMoon: 257
+5: Docm77: 100
+6: joehillssays: 83
+7: cubfan135: 55
+8: GeminiTay: 24
+9: Smajor1995: 11
+10: Etho: 2
+11: Zedaph: 1
+Total 32041

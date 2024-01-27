@@ -1,0 +1,16 @@
+stat.breakItem.minecraft.fishing_rod
+1: impulseSV: 44
+2: Xisuma: 12
+3: Etho: 9
+4: iskall85: 5
+5: cubfan135: 5
+6: GoodTimeWithScar: 5
+7: Tango: 4
+8: PythonGB: 3
+9: Docm77: 2
+10: falsesymmetry: 2
+11: Welsknight: 2
+12: MumboJumbo: 2
+13: Renthedog: 1
+14: Tinfoilchef: 1
+Total 97

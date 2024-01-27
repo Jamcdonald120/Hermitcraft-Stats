@@ -1,0 +1,13 @@
+minecraft.dropped.chainmail_helmet
+1: Grian: 26
+2: Tango: 17
+3: Xisuma: 11
+4: iskall85: 6
+5: Etho: 5
+6: impulseSV: 4
+7: hypnotizd: 3
+8: Docm77: 2
+9: BdoubleO100: 1
+10: PearlescentMoon: 1
+11: GoodTimeWithScar: 1
+Total 77

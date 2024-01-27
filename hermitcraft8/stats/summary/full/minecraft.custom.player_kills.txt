@@ -1,0 +1,22 @@
+minecraft.custom.player_kills
+1: Xisuma: 21
+2: Grian: 18
+3: PearlescentMoon: 13
+4: Docm77: 11
+5: pillbugnine: 9
+6: Keralis1: 9
+7: Renthedog: 8
+8: GoodTimeWithScar: 8
+9: joehillssays: 5
+10: iskall85: 5
+11: ZombieCleo: 4
+12: cubfan135: 3
+13: impulseSV: 3
+14: iJevin: 2
+15: GeminiTay: 1
+16: Tango: 1
+17: xBCrafted: 1
+18: falsesymmetry: 1
+19: hypnotizd: 1
+20: MumboJumbo: 1
+Total 125

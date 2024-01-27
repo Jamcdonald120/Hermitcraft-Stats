@@ -1,0 +1,9 @@
+minecraft.dropped.sculk_sensor
+1: Tango: 115
+2: impulseSV: 72
+3: iJevin: 5
+4: xBCrafted: 3
+5: GoodTimeWithScar: 2
+6: Grian: 1
+7: cubfan135: 1
+Total 199

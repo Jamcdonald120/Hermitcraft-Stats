@@ -1,0 +1,26 @@
+minecraft.mined.grass_path
+1: GoodTimeWithScar: 1734
+2: cubfan135: 1391
+3: Xisuma: 970
+4: Renthedog: 845
+5: BdoubleO100: 772
+6: falsesymmetry: 679
+7: iskall85: 444
+8: iJevin: 345
+9: Grian: 283
+10: Docm77: 272
+11: PythonGB: 252
+12: Keralis1: 231
+13: Welsknight: 169
+14: joehillssays: 109
+15: Zedaph: 99
+16: MumboJumbo: 97
+17: Tango: 92
+18: Stressmonster101: 64
+19: impulseSV: 36
+20: Tinfoilchef: 5
+21: xBCrafted: 2
+22: Jura_Whitey: 1
+23: Biffa2001: 1
+24: ZombieCleo: 1
+Total 8894

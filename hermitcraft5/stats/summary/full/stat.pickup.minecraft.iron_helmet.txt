@@ -1,0 +1,21 @@
+stat.pickup.minecraft.iron_helmet
+1: joehillssays: 37
+2: Zedaph: 25
+3: iskall85: 22
+4: Tango: 20
+5: falsesymmetry: 12
+6: Xisuma: 10
+7: PythonGB: 10
+8: Renthedog: 9
+9: impulseSV: 8
+10: Welsknight: 7
+11: cubfan135: 6
+12: GoodTimeWithScar: 6
+13: Tinfoilchef: 6
+14: VintageBeef: 5
+15: xBCrafted: 5
+16: ZombieCleo: 5
+17: Etho: 4
+18: Stressmonster101: 2
+19: MumboJumbo: 1
+Total 200

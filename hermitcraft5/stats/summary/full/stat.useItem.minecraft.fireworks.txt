@@ -1,0 +1,24 @@
+stat.useItem.minecraft.fireworks
+1: cubfan135: 1303
+2: GoodTimeWithScar: 1150
+3: Tango: 483
+4: Renthedog: 401
+5: falsesymmetry: 269
+6: MumboJumbo: 243
+7: joehillssays: 199
+8: iskall85: 162
+9: iJevin: 158
+10: PythonGB: 145
+11: Stressmonster101: 133
+12: Welsknight: 88
+13: impulseSV: 78
+14: Xisuma: 61
+15: Zedaph: 61
+16: xBCrafted: 48
+17: Docm77: 37
+18: Biffa2001: 8
+19: Tinfoilchef: 5
+20: ZombieCleo: 3
+21: BdoubleO100: 2
+22: Etho: 1
+Total 5038

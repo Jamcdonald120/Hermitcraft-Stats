@@ -1,0 +1,22 @@
+stat.killEntity.Husk
+1: cubfan135: 231
+2: GoodTimeWithScar: 86
+3: Xisuma: 73
+4: ZombieCleo: 67
+5: falsesymmetry: 58
+6: iskall85: 55
+7: MumboJumbo: 54
+8: impulseSV: 53
+9: xBCrafted: 46
+10: Docm77: 33
+11: Biffa2001: 30
+12: Tango: 29
+13: Welsknight: 27
+14: VintageBeef: 22
+15: Stressmonster101: 20
+16: Renthedog: 18
+17: BdoubleO100: 10
+18: Zedaph: 4
+19: PythonGB: 3
+20: joehillssays: 1
+Total 920

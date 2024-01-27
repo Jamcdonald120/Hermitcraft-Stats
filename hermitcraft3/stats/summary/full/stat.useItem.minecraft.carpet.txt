@@ -1,0 +1,21 @@
+stat.useItem.minecraft.carpet
+1: falsesymmetry: 6985
+2: Xisuma: 5536
+3: zueljin: 5409
+4: impulseSV: 2937
+5: xBCrafted: 1885
+6: Tinfoilchef: 1057
+7: Biffa2001: 1016
+8: Tango: 924
+9: ZombieCleo: 380
+10: sl1pg8r: 257
+11: Mumbo: 187
+12: topmass: 186
+13: Etho: 139
+14: monkeyfarm: 69
+15: iJevin: 53
+16: PythonGB: 44
+17: Keralis1: 8
+18: Docm77: 1
+19: KingDaddyDMAC: 1
+Total 27074

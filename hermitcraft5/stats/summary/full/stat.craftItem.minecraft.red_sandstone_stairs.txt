@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.red_sandstone_stairs
+1: cubfan135: 988
+2: VintageBeef: 40
+3: joehillssays: 40
+4: Tango: 16
+5: Xisuma: 4
+6: iJevin: 4
+Total 1092

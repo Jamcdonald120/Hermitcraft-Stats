@@ -1,0 +1,27 @@
+stat.useItem.minecraft.stone_slab
+1: Xisuma: 87435
+2: falsesymmetry: 77213
+3: Mumbo: 39314
+4: Tango: 35119
+5: xBCrafted: 17029
+6: impulseSV: 16046
+7: KingDaddyDMAC: 10971
+8: sl1pg8r: 9710
+9: monkeyfarm: 8979
+10: zueljin: 7807
+11: Biffa2001: 6777
+12: hypnotizd: 5082
+13: ZombieCleo: 3469
+14: topmass: 3413
+15: Tinfoilchef: 3376
+16: PythonGB: 3054
+17: joehillssays: 2340
+18: iJevin: 2011
+19: snipepager: 785
+20: Spumwackles: 600
+21: Docm77: 407
+22: Etho: 361
+23: Keralis1: 351
+24: skyzm: 114
+25: NameOfSamuel: 1
+Total 341764

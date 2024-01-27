@@ -1,0 +1,13 @@
+minecraft.picked_up.emerald_ore
+1: iJevin: 120
+2: cubfan135: 76
+3: iskall85: 59
+4: Grian: 25
+5: Tango: 11
+6: impulseSV: 10
+7: Xisuma: 5
+8: Renthedog: 3
+9: falsesymmetry: 3
+10: Welsknight: 1
+11: Keralis1: 1
+Total 314

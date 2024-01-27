@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.enchanting_table
+1: cubfan135: 26
+2: impulseSV: 10
+3: MumboJumbo: 9
+4: PythonGB: 3
+5: Xisuma: 2
+6: Renthedog: 2
+7: falsesymmetry: 2
+8: Welsknight: 2
+9: VintageBeef: 1
+10: iJevin: 1
+11: joehillssays: 1
+12: Tango: 1
+13: BdoubleO100: 1
+14: xBCrafted: 1
+15: Etho: 1
+16: ZombieCleo: 1
+17: Tinfoilchef: 1
+18: Stressmonster101: 1
+19: Zedaph: 1
+Total 67

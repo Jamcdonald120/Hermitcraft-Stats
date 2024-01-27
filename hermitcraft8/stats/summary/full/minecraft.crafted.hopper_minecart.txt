@@ -1,0 +1,21 @@
+minecraft.crafted.hopper_minecart
+1: Docm77: 89
+2: impulseSV: 76
+3: cubfan135: 57
+4: Welsknight: 57
+5: iJevin: 54
+6: BdoubleO100: 31
+7: Grian: 27
+8: Zedaph: 24
+9: falsesymmetry: 23
+10: MumboJumbo: 21
+11: GeminiTay: 8
+12: Etho: 7
+13: Xisuma: 6
+14: Renthedog: 6
+15: Tango: 5
+16: Keralis1: 3
+17: xBCrafted: 2
+18: GoodTimeWithScar: 1
+19: Stressmonster101: 1
+Total 498

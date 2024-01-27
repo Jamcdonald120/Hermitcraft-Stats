@@ -1,0 +1,19 @@
+stat.pickup.minecraft.slime
+1: impulseSV: 18264
+2: cubfan135: 3102
+3: Renthedog: 1186
+4: GoodTimeWithScar: 957
+5: Tango: 698
+6: MumboJumbo: 678
+7: iskall85: 673
+8: iJevin: 614
+9: Xisuma: 560
+10: Tinfoilchef: 226
+11: Docm77: 201
+12: xBCrafted: 166
+13: falsesymmetry: 156
+14: Welsknight: 145
+15: PythonGB: 97
+16: Zedaph: 50
+17: ZombieCleo: 17
+Total 27790

@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.brick
+1: falsesymmetry: 6716
+2: joehillssays: 4660
+3: Tango: 779
+4: Tinfoilchef: 280
+5: PythonGB: 128
+6: Xisuma: 101
+7: zueljin: 99
+8: Spumwackles: 64
+9: iJevin: 61
+10: Etho: 42
+11: topmass: 40
+12: xBCrafted: 20
+13: impulseSV: 18
+14: sl1pg8r: 14
+15: ZombieCleo: 12
+16: Biffa2001: 3
+Total 13037

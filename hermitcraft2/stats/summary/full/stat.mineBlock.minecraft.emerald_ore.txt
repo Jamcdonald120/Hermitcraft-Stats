@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.emerald_ore
+1: falsesymmetry: 18
+2: Tango: 13
+3: xBCrafted: 7
+4: Spumwackles: 7
+5: Collen: 6
+6: iJevin: 1
+Total 52

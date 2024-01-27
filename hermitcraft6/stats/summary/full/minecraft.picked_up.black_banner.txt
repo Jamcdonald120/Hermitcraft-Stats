@@ -1,0 +1,15 @@
+minecraft.picked_up.black_banner
+1: Xisuma: 47
+2: iJevin: 31
+3: cubfan135: 27
+4: Docm77: 23
+5: Renthedog: 17
+6: Tango: 17
+7: falsesymmetry: 12
+8: impulseSV: 12
+9: iskall85: 5
+10: GoodTimeWithScar: 2
+11: HumanCleo: 1
+12: Tinfoilchef: 1
+13: Keralis1: 1
+Total 196

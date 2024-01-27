@@ -1,0 +1,4 @@
+stat.useItem.minecraft.birch_fence_gate
+1: Xisuma: 2474
+2: ZombieCleo: 3
+Total 2477

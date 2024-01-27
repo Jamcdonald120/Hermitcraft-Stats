@@ -1,0 +1,21 @@
+minecraft.picked_up.light_gray_stained_glass
+1: joehillssays: 4016
+2: iJevin: 291
+3: Etho: 283
+4: Zedaph: 274
+5: PearlescentMoon: 268
+6: Docm77: 264
+7: impulseSV: 195
+8: GoodTimeWithScar: 193
+9: falsesymmetry: 190
+10: ZombieCleo: 190
+11: Grian: 149
+12: Stressmonster101: 64
+13: Tango: 31
+14: Renthedog: 28
+15: Xisuma: 24
+16: iskall85: 16
+17: cubfan135: 9
+18: OrionSound: 6
+19: VintageBeef: 1
+Total 6492

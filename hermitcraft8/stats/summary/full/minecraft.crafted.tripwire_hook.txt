@@ -1,0 +1,17 @@
+minecraft.crafted.tripwire_hook
+1: falsesymmetry: 206
+2: Etho: 128
+3: cubfan135: 122
+4: PearlescentMoon: 90
+5: MumboJumbo: 56
+6: GoodTimeWithScar: 34
+7: Grian: 16
+8: joehillssays: 10
+9: Tango: 8
+10: impulseSV: 8
+11: Docm77: 6
+12: Renthedog: 6
+13: Keralis1: 6
+14: Xisuma: 4
+15: Zedaph: 4
+Total 704

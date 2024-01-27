@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.wool
+1: Spumwackles: 2207
+2: iJevin: 107
+3: Tango: 85
+4: zueljin: 40
+5: xBCrafted: 13
+6: Mumbo: 8
+7: falsesymmetry: 6
+Total 2466

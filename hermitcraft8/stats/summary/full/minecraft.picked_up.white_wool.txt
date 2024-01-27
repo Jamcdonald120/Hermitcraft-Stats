@@ -1,0 +1,28 @@
+minecraft.picked_up.white_wool
+1: BdoubleO100: 5666
+2: Welsknight: 1248
+3: Zedaph: 836
+4: Xisuma: 774
+5: iJevin: 588
+6: Tango: 546
+7: PearlescentMoon: 526
+8: Renthedog: 415
+9: Grian: 390
+10: impulseSV: 315
+11: Keralis1: 287
+12: GoodTimeWithScar: 207
+13: falsesymmetry: 185
+14: GeminiTay: 155
+15: joehillssays: 115
+16: hypnotizd: 106
+17: cubfan135: 96
+18: Docm77: 85
+19: xBCrafted: 84
+20: Stressmonster101: 60
+21: MumboJumbo: 53
+22: ZombieCleo: 30
+23: iskall85: 12
+24: VintageBeef: 8
+25: Tinfoilchef: 5
+26: Etho: 1
+Total 12793

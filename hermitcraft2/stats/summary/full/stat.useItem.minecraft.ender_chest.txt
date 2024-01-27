@@ -1,0 +1,12 @@
+stat.useItem.minecraft.ender_chest
+1: Xisuma: 17
+2: KingDaddyDMAC: 13
+3: ZombieCleo: 9
+4: falsesymmetry: 8
+5: Tango: 5
+6: sl1pg8r: 4
+7: Biffa2001: 4
+8: iJevin: 1
+9: zueljin: 1
+10: Spumwackles: 1
+Total 63

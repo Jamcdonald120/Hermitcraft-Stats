@@ -1,0 +1,29 @@
+minecraft.picked_up.emerald_block
+1: BdoubleO100: 13273
+2: impulseSV: 11198
+3: hypnotizd: 2320
+4: Docm77: 2163
+5: VintageBeef: 1483
+6: Grian: 1150
+7: iJevin: 1090
+8: Zedaph: 1077
+9: PearlescentMoon: 872
+10: joehillssays: 700
+11: Renthedog: 641
+12: falsesymmetry: 618
+13: cubfan135: 574
+14: iskall85: 191
+15: GoodTimeWithScar: 179
+16: RentheKing: 173
+17: Tango: 143
+18: ZombieCleo: 131
+19: Keralis1: 131
+20: Stressmonster101: 114
+21: GeminiTay: 82
+22: Pixlriffs: 43
+23: Xisuma: 15
+24: MythicalSausage: 8
+25: xBCrafted: 3
+26: Etho: 1
+27: Mumbo: 1
+Total 38374

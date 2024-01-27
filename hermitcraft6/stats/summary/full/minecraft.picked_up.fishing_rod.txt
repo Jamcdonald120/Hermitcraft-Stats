@@ -1,0 +1,23 @@
+minecraft.picked_up.fishing_rod
+1: Biffa2001: 71
+2: Docm77: 65
+3: Xisuma: 49
+4: iskall85: 37
+5: cubfan135: 23
+6: falsesymmetry: 22
+7: Tango: 14
+8: Stressmonster101: 11
+9: GoodTimeWithScar: 5
+10: Jessassin: 4
+11: ZombieCleo: 4
+12: PythonGB: 3
+13: iJevin: 2
+14: MumboJumbo: 2
+15: Renthedog: 1
+16: joehillssays: 1
+17: Grian: 1
+18: BdoubleO100: 1
+19: Welsknight: 1
+20: impulseSV: 1
+21: Zedaph: 1
+Total 319

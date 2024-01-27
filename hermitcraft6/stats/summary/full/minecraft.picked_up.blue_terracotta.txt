@@ -1,0 +1,17 @@
+minecraft.picked_up.blue_terracotta
+1: cubfan135: 1265
+2: Tango: 635
+3: Xisuma: 177
+4: iskall85: 176
+5: Docm77: 58
+6: MumboJumbo: 44
+7: Zedaph: 40
+8: joehillssays: 30
+9: Grian: 21
+10: GoodTimeWithScar: 15
+11: falsesymmetry: 7
+12: iJevin: 6
+13: impulseSV: 4
+14: Welsknight: 2
+15: Tinfoilchef: 1
+Total 2481

@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.birch_door
+1: ZombieCleo: 30
+2: sl1pg8r: 3
+3: xBCrafted: 3
+Total 36

@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.gravel
+1: Xisuma: 4859
+2: Tango: 2043
+3: falsesymmetry: 860
+4: Biffa2001: 720
+5: Tinfoilchef: 535
+6: Mumbo: 216
+7: ZombieCleo: 175
+8: Spumwackles: 148
+9: zueljin: 124
+10: xBCrafted: 96
+11: iJevin: 54
+12: sl1pg8r: 48
+13: Collen: 25
+14: KingDaddyDMAC: 12
+15: monkeyfarm: 10
+Total 9925

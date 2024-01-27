@@ -1,0 +1,10 @@
+minecraft.mined.light_gray_wool
+1: GoodTimeWithScar: 45
+2: Renthedog: 36
+3: falsesymmetry: 19
+4: Grian: 13
+5: impulseSV: 13
+6: Tango: 4
+7: PearlescentMoon: 4
+8: Docm77: 2
+Total 136

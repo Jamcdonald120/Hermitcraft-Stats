@@ -1,0 +1,22 @@
+minecraft.dropped.stone_shovel
+1: iJevin: 60
+2: Tango: 23
+3: cubfan135: 21
+4: Stressmonster101: 13
+5: VintageBeef: 10
+6: hypnotizd: 4
+7: Xisuma: 2
+8: Welsknight: 2
+9: Etho: 2
+10: Mumbo: 2
+11: MumboJumbo: 2
+12: Docm77: 1
+13: Renthedog: 1
+14: joehillssays: 1
+15: GeminiTay: 1
+16: xBCrafted: 1
+17: ZombieCleo: 1
+18: Keralis1: 1
+19: impulseSV: 1
+20: Zedaph: 1
+Total 150

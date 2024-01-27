@@ -1,0 +1,25 @@
+minecraft.mined.tripwire
+1: PearlescentMoon: 1652
+2: Grian: 216
+3: GoodTimeWithScar: 162
+4: iJevin: 69
+5: Xisuma: 45
+6: joehillssays: 33
+7: Keralis1: 31
+8: impulseSV: 23
+9: Renthedog: 21
+10: falsesymmetry: 20
+11: cubfan135: 19
+12: Zedaph: 14
+13: BdoubleO100: 12
+14: MumboJumbo: 12
+15: xBCrafted: 9
+16: hypnotizd: 9
+17: Tango: 7
+18: Etho: 7
+19: GeminiTay: 4
+20: ZombieCleo: 4
+21: Docm77: 2
+22: Welsknight: 2
+23: iskall85: 1
+Total 2374

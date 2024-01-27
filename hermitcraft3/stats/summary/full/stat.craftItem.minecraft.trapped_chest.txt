@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.trapped_chest
+1: Mumbo: 565
+2: Xisuma: 473
+3: Tango: 420
+4: xBCrafted: 419
+5: iJevin: 400
+6: impulseSV: 266
+7: falsesymmetry: 183
+8: hypnotizd: 176
+9: Tinfoilchef: 134
+10: zueljin: 88
+11: KingDaddyDMAC: 70
+12: topmass: 44
+13: Biffa2001: 25
+14: PythonGB: 10
+15: monkeyfarm: 9
+Total 3282

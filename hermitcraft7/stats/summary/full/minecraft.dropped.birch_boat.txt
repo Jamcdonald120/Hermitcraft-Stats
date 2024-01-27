@@ -1,0 +1,16 @@
+minecraft.dropped.birch_boat
+1: iJevin: 16
+2: GoodTimeWithScar: 14
+3: cubfan135: 10
+4: Xisuma: 5
+5: Renthedog: 5
+6: iskall85: 4
+7: hypnotizd: 4
+8: Grian: 2
+9: falsesymmetry: 2
+10: MumboJumbo: 2
+11: Tango: 1
+12: Stressmonster101: 1
+13: Keralis1: 1
+14: Zedaph: 1
+Total 68

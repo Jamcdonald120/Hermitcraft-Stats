@@ -1,0 +1,9 @@
+minecraft.killed.cat
+1: Etho: 5
+2: iJevin: 2
+3: Xisuma: 1
+4: Grian: 1
+5: PearlescentMoon: 1
+6: xBCrafted: 1
+7: cubfan135: 1
+Total 12

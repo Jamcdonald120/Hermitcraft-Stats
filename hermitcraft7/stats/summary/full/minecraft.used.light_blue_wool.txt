@@ -1,0 +1,17 @@
+minecraft.used.light_blue_wool
+1: MumboJumbo: 2363
+2: Grian: 1540
+3: Tango: 1337
+4: Xisuma: 972
+5: Keralis1: 741
+6: Etho: 196
+7: BdoubleO100: 171
+8: VintageBeef: 115
+9: hypnotizd: 99
+10: joehillssays: 50
+11: GoodTimeWithScar: 48
+12: Renthedog: 36
+13: Zedaph: 6
+14: falsesymmetry: 4
+15: impulseSV: 1
+Total 7679

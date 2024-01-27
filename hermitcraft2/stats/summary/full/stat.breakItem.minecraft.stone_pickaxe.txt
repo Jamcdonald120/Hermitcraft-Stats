@@ -1,0 +1,3 @@
+stat.breakItem.minecraft.stone_pickaxe
+1: xBCrafted: 3
+Total 3

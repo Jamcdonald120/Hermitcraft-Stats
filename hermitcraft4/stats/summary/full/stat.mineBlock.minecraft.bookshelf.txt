@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.bookshelf
+1: impulseSV: 274
+2: iskall85: 142
+3: Xisuma: 127
+4: iJevin: 116
+5: cubfan135: 112
+6: joehillssays: 69
+7: Tango: 53
+8: GoodTimeWithScar: 51
+9: MumboJumbo: 22
+10: Jessassin: 15
+11: falsesymmetry: 10
+12: Welsknight: 8
+13: Tinfoilchef: 3
+14: PythonGB: 2
+Total 1004

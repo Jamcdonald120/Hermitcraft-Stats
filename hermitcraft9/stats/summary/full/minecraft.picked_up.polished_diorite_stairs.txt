@@ -1,0 +1,13 @@
+minecraft.picked_up.polished_diorite_stairs
+1: GoodTimeWithScar: 121
+2: falsesymmetry: 90
+3: PearlescentMoon: 64
+4: BdoubleO100: 39
+5: Smajor1995: 16
+6: cubfan135: 14
+7: xBCrafted: 10
+8: Renthedog: 7
+9: GeminiTay: 4
+10: Xisuma: 3
+11: Keralis1: 3
+Total 371

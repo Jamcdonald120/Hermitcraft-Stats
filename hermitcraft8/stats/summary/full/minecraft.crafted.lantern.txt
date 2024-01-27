@@ -1,0 +1,25 @@
+minecraft.crafted.lantern
+1: Grian: 2016
+2: GoodTimeWithScar: 957
+3: PearlescentMoon: 475
+4: Xisuma: 417
+5: xBCrafted: 284
+6: iJevin: 258
+7: cubfan135: 231
+8: Renthedog: 199
+9: joehillssays: 186
+10: falsesymmetry: 161
+11: Keralis1: 145
+12: Tango: 133
+13: iskall85: 92
+14: Docm77: 81
+15: BdoubleO100: 63
+16: Etho: 48
+17: GeminiTay: 43
+18: MumboJumbo: 33
+19: Welsknight: 23
+20: ZombieCleo: 15
+21: impulseSV: 14
+22: hypnotizd: 12
+23: Zedaph: 12
+Total 5898

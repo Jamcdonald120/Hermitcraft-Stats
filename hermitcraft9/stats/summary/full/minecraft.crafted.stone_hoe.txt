@@ -1,0 +1,22 @@
+minecraft.crafted.stone_hoe
+1: joehillssays: 13
+2: impulseSV: 13
+3: iJevin: 12
+4: Docm77: 11
+5: GeminiTay: 9
+6: iskall85: 8
+7: ZombieCleo: 5
+8: VintageBeef: 4
+9: Xisuma: 3
+10: Renthedog: 3
+11: BdoubleO100: 3
+12: Stressmonster101: 3
+13: Grian: 2
+14: hypnotizd: 2
+15: Tinfoilchef: 2
+16: Zedaph: 2
+17: Tango: 1
+18: falsesymmetry: 1
+19: Welsknight: 1
+20: Keralis1: 1
+Total 99

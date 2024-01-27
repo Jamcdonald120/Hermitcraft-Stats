@@ -1,0 +1,22 @@
+minecraft.crafted.cherry_planks
+1: GeminiTay: 1188
+2: Grian: 600
+3: GoodTimeWithScar: 592
+4: cubfan135: 494
+5: Docm77: 264
+6: joehillssays: 252
+7: Stressmonster101: 232
+8: iJevin: 172
+9: ZombieCleo: 164
+10: PearlescentMoon: 144
+11: Etho: 136
+12: Mumbo: 104
+13: Zedaph: 60
+14: Renthedog: 52
+15: Keralis1: 52
+16: falsesymmetry: 40
+17: impulseSV: 32
+18: Xisuma: 8
+19: VintageBeef: 4
+20: BdoubleO100: 4
+Total 4594

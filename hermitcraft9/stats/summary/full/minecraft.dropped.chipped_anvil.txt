@@ -1,0 +1,9 @@
+minecraft.dropped.chipped_anvil
+1: Renthedog: 6
+2: GoodTimeWithScar: 4
+3: Tango: 2
+4: Docm77: 1
+5: BdoubleO100: 1
+6: xBCrafted: 1
+7: Keralis1: 1
+Total 16

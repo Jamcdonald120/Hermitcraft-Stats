@@ -1,0 +1,30 @@
+minecraft.mined.dropper
+1: Tango: 1466
+2: impulseSV: 294
+3: Xisuma: 232
+4: cubfan135: 186
+5: ZombieCleo: 129
+6: VintageBeef: 95
+7: GoodTimeWithScar: 93
+8: iJevin: 88
+9: Docm77: 59
+10: Grian: 51
+11: Zedaph: 48
+12: Etho: 42
+13: iskall85: 38
+14: hypnotizd: 34
+15: Stressmonster101: 32
+16: Keralis1: 20
+17: Renthedog: 18
+18: Pixlriffs: 17
+19: BdoubleO100: 13
+20: PearlescentMoon: 13
+21: falsesymmetry: 12
+22: Mumbo: 12
+23: joehillssays: 10
+24: xBCrafted: 8
+25: RentheKing: 5
+26: OrionSound: 3
+27: GeminiTay: 1
+28: Smallishbeans: 1
+Total 3020

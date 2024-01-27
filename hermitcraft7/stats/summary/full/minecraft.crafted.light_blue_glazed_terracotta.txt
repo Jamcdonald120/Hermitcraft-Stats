@@ -1,0 +1,6 @@
+minecraft.crafted.light_blue_glazed_terracotta
+1: falsesymmetry: 128
+2: BdoubleO100: 24
+3: VintageBeef: 14
+4: Etho: 6
+Total 172

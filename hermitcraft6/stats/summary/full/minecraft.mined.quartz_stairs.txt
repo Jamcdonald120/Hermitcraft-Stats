@@ -1,0 +1,23 @@
+minecraft.mined.quartz_stairs
+1: Renthedog: 1278
+2: Docm77: 1048
+3: cubfan135: 898
+4: impulseSV: 780
+5: iskall85: 638
+6: MumboJumbo: 572
+7: Grian: 568
+8: GoodTimeWithScar: 561
+9: falsesymmetry: 500
+10: PythonGB: 482
+11: Welsknight: 429
+12: Xisuma: 390
+13: iJevin: 258
+14: ZombieCleo: 154
+15: Tango: 152
+16: Stressmonster101: 53
+17: Tinfoilchef: 21
+18: Keralis1: 19
+19: HumanCleo: 16
+20: joehillssays: 13
+21: Zedaph: 8
+Total 8838

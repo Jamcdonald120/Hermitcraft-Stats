@@ -1,0 +1,24 @@
+minecraft.mined.warped_wart_block
+1: ZombieCleo: 12933
+2: PearlescentMoon: 9055
+3: Tango: 5769
+4: iJevin: 5084
+5: impulseSV: 3081
+6: Grian: 3054
+7: falsesymmetry: 2374
+8: Xisuma: 2352
+9: BdoubleO100: 2146
+10: Keralis1: 1214
+11: Etho: 890
+12: joehillssays: 684
+13: VintageBeef: 444
+14: Mumbo: 324
+15: GoodTimeWithScar: 239
+16: cubfan135: 193
+17: Zedaph: 141
+18: xBCrafted: 53
+19: Smallishbeans: 28
+20: Docm77: 20
+21: hypnotizd: 8
+22: iskall85: 1
+Total 50087

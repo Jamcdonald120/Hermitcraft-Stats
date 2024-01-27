@@ -1,0 +1,8 @@
+minecraft.dropped.cracked_stone_bricks
+1: iJevin: 17
+2: Tango: 10
+3: Keralis1: 3
+4: Grian: 2
+5: Xisuma: 1
+6: Etho: 1
+Total 34

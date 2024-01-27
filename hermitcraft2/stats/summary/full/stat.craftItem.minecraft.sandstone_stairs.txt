@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.sandstone_stairs
+1: ZombieCleo: 172
+Total 172

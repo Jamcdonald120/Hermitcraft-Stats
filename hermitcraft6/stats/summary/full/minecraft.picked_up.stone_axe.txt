@@ -1,0 +1,18 @@
+minecraft.picked_up.stone_axe
+1: cubfan135: 10
+2: ZombieCleo: 6
+3: Grian: 5
+4: GoodTimeWithScar: 5
+5: iskall85: 4
+6: Docm77: 3
+7: Xisuma: 3
+8: joehillssays: 3
+9: EvilXisuma: 2
+10: Biffa2001: 2
+11: Zedaph: 2
+12: iJevin: 1
+13: Tango: 1
+14: BdoubleO100: 1
+15: MumboJumbo: 1
+16: Tinfoilchef: 1
+Total 50

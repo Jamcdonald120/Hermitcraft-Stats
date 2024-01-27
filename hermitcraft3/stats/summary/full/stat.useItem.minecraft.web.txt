@@ -1,0 +1,7 @@
+stat.useItem.minecraft.web
+1: falsesymmetry: 354
+2: Tango: 55
+3: Mumbo: 14
+4: Tinfoilchef: 11
+5: zueljin: 3
+Total 437

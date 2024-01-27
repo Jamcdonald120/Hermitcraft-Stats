@@ -1,0 +1,7 @@
+minecraft.dropped.cut_sandstone_slab
+1: PearlescentMoon: 40
+2: cubfan135: 19
+3: Xisuma: 3
+4: GoodTimeWithScar: 3
+5: Zedaph: 1
+Total 66

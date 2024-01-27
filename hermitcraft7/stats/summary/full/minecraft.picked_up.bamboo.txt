@@ -1,0 +1,26 @@
+minecraft.picked_up.bamboo
+1: Etho: 31798
+2: Tango: 28641
+3: Xisuma: 25975
+4: GoodTimeWithScar: 24770
+5: Renthedog: 22742
+6: Grian: 11026
+7: cubfan135: 8904
+8: joehillssays: 8697
+9: Zedaph: 7518
+10: MumboJumbo: 7137
+11: falsesymmetry: 4375
+12: Docm77: 3279
+13: Stressmonster101: 2960
+14: iskall85: 2220
+15: xisumavoid: 1469
+16: hypnotizd: 1170
+17: BdoubleO100: 889
+18: Keralis1: 787
+19: ZombieCleo: 614
+20: VintageBeef: 435
+21: iJevin: 318
+22: impulseSV: 149
+23: xBCrafted: 142
+24: Welsknight: 137
+Total 196152

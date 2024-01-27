@@ -1,0 +1,28 @@
+minecraft.picked_up.elytra
+1: GoodTimeWithScar: 345
+2: Grian: 199
+3: iJevin: 144
+4: Tango: 99
+5: Renthedog: 97
+6: iskall85: 93
+7: Keralis1: 72
+8: joehillssays: 71
+9: Zedaph: 69
+10: cubfan135: 58
+11: Xisuma: 57
+12: Etho: 54
+13: impulseSV: 54
+14: VintageBeef: 52
+15: BdoubleO100: 51
+16: MumboJumbo: 51
+17: falsesymmetry: 29
+18: xBCrafted: 24
+19: ZombieCleo: 19
+20: hypnotizd: 15
+21: Docm77: 12
+22: Welsknight: 10
+23: Stressmonster101: 10
+24: BarryBoss1234: 7
+25: Tinfoilchef: 2
+26: Mumbo: 1
+Total 1695

@@ -1,0 +1,10 @@
+minecraft.picked_up.shaper_armor_trim_smithing_template
+1: Zedaph: 6
+2: iJevin: 5
+3: cubfan135: 4
+4: Etho: 3
+5: ZombieCleo: 3
+6: PearlescentMoon: 2
+7: Grian: 1
+8: Mumbo: 1
+Total 25

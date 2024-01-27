@@ -1,0 +1,12 @@
+minecraft.mined.weathered_cut_copper
+1: Keralis1: 21
+2: xBCrafted: 6
+3: cubfan135: 6
+4: PearlescentMoon: 4
+5: MythicalSausage: 3
+6: BdoubleO100: 3
+7: VintageBeef: 2
+8: Renthedog: 1
+9: RentheKing: 1
+10: impulseSV: 1
+Total 48

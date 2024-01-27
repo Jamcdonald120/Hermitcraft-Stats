@@ -1,0 +1,11 @@
+minecraft.dropped.activator_rail
+1: Xisuma: 33
+2: Zedaph: 9
+3: Docm77: 5
+4: iJevin: 5
+5: cubfan135: 3
+6: GoodTimeWithScar: 3
+7: Tango: 2
+8: Etho: 2
+9: ZombieCleo: 2
+Total 64

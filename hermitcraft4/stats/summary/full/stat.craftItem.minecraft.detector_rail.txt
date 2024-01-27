@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.detector_rail
+1: Xisuma: 768
+2: Renthedog: 450
+3: Tango: 366
+4: MumboJumbo: 72
+5: VintageBeef: 36
+6: iskall85: 30
+7: cubfan135: 18
+8: impulseSV: 18
+9: Biffa2001: 6
+Total 1764

@@ -1,0 +1,21 @@
+stat.breakItem.minecraft.shears
+1: falsesymmetry: 63
+2: Xisuma: 49
+3: zueljin: 15
+4: xBCrafted: 14
+5: PythonGB: 12
+6: Tinfoilchef: 12
+7: Tango: 11
+8: sl1pg8r: 10
+9: Mumbo: 10
+10: ZombieCleo: 9
+11: xisumavoid: 6
+12: Biffa2001: 5
+13: Etho: 5
+14: Spumwackles: 4
+15: monkeyfarm: 2
+16: Docm77: 1
+17: iJevin: 1
+18: KingDaddyDMAC: 1
+19: impulseSV: 1
+Total 231

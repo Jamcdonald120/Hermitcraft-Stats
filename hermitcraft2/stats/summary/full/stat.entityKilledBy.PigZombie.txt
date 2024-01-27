@@ -1,0 +1,9 @@
+stat.entityKilledBy.PigZombie
+1: red3yz: 22
+2: Mumbo: 6
+3: monkeyfarm: 6
+4: KingDaddyDMAC: 2
+5: ZombieCleo: 2
+6: topmass: 1
+7: Keralis1: 1
+Total 40

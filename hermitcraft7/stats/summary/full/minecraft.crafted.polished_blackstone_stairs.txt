@@ -1,0 +1,16 @@
+minecraft.crafted.polished_blackstone_stairs
+1: GoodTimeWithScar: 1590
+2: Renthedog: 1080
+3: impulseSV: 1008
+4: Tango: 743
+5: falsesymmetry: 252
+6: Keralis1: 247
+7: cubfan135: 212
+8: MumboJumbo: 112
+9: Xisuma: 58
+10: VintageBeef: 55
+11: xBCrafted: 45
+12: joehillssays: 28
+13: Etho: 7
+14: ZombieCleo: 4
+Total 5441

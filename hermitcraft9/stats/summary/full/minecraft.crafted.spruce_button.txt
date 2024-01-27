@@ -1,0 +1,27 @@
+minecraft.crafted.spruce_button
+1: iJevin: 691
+2: xBCrafted: 446
+3: Tango: 263
+4: impulseSV: 100
+5: Stressmonster101: 94
+6: BdoubleO100: 83
+7: GoodTimeWithScar: 81
+8: PearlescentMoon: 59
+9: Grian: 57
+10: Docm77: 55
+11: RentheKing: 52
+12: iskall85: 33
+13: Xisuma: 21
+14: Keralis1: 16
+15: MythicalSausage: 14
+16: hypnotizd: 9
+17: joehillssays: 8
+18: VintageBeef: 4
+19: falsesymmetry: 4
+20: ZombieCleo: 4
+21: Zedaph: 4
+22: GeminiTay: 2
+23: Smallishbeans: 2
+24: cubfan135: 2
+25: Renthedog: 1
+Total 2105

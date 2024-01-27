@@ -1,0 +1,6 @@
+minecraft.picked_up.gilded_blackstone
+1: GoodTimeWithScar: 128
+2: cubfan135: 70
+3: iJevin: 41
+4: GeminiTay: 16
+Total 255

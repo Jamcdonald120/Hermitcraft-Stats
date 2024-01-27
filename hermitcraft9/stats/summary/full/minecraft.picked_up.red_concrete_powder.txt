@@ -1,0 +1,20 @@
+minecraft.picked_up.red_concrete_powder
+1: Keralis1: 13911
+2: GoodTimeWithScar: 903
+3: PearlescentMoon: 648
+4: Grian: 264
+5: impulseSV: 188
+6: joehillssays: 99
+7: cubfan135: 55
+8: GeminiTay: 30
+9: Renthedog: 27
+10: iJevin: 6
+11: xBCrafted: 6
+12: Docm77: 4
+13: Etho: 4
+14: falsesymmetry: 2
+15: RentheKing: 2
+16: Xisuma: 1
+17: Pixlriffs: 1
+18: Zedaph: 1
+Total 16152

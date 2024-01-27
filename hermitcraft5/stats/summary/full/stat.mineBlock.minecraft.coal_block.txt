@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.coal_block
+1: Xisuma: 118
+2: cubfan135: 95
+3: Docm77: 29
+4: MumboJumbo: 25
+5: ZombieCleo: 21
+6: falsesymmetry: 20
+7: GoodTimeWithScar: 19
+8: iskall85: 11
+9: PythonGB: 7
+10: Renthedog: 5
+11: joehillssays: 5
+12: Tinfoilchef: 3
+13: Welsknight: 1
+Total 359

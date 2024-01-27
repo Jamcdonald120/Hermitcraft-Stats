@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.dark_oak_fence_gate
+1: Tango: 26
+2: impulseSV: 25
+3: joehillssays: 18
+4: GoodTimeWithScar: 17
+5: Xisuma: 6
+6: iJevin: 2
+7: cubfan135: 2
+Total 96

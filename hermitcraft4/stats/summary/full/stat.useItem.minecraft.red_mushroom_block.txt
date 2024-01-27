@@ -1,0 +1,6 @@
+stat.useItem.minecraft.red_mushroom_block
+1: Xisuma: 189
+2: Docm77: 107
+3: Etho: 24
+4: iskall85: 2
+Total 322

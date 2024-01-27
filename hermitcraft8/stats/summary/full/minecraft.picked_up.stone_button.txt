@@ -1,0 +1,27 @@
+minecraft.picked_up.stone_button
+1: iJevin: 2035
+2: GeminiTay: 442
+3: Tango: 329
+4: impulseSV: 249
+5: Docm77: 160
+6: cubfan135: 114
+7: Etho: 67
+8: BdoubleO100: 61
+9: ZombieCleo: 55
+10: Zedaph: 40
+11: MumboJumbo: 39
+12: Xisuma: 38
+13: iskall85: 31
+14: falsesymmetry: 16
+15: Grian: 15
+16: Keralis1: 12
+17: PearlescentMoon: 11
+18: Renthedog: 9
+19: Welsknight: 9
+20: GoodTimeWithScar: 9
+21: VintageBeef: 5
+22: HermitcraftAlt: 4
+23: xBCrafted: 3
+24: hypnotizd: 2
+25: Stressmonster101: 1
+Total 3756

@@ -1,0 +1,14 @@
+stat.useItem.minecraft.detector_rail
+1: MumboJumbo: 237
+2: Docm77: 230
+3: cubfan135: 204
+4: iskall85: 104
+5: Zedaph: 52
+6: Tango: 22
+7: Tinfoilchef: 12
+8: Xisuma: 9
+9: impulseSV: 6
+10: ZombieCleo: 4
+11: Stressmonster101: 4
+12: GoodTimeWithScar: 1
+Total 885

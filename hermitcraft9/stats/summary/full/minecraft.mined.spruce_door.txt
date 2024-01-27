@@ -1,0 +1,25 @@
+minecraft.mined.spruce_door
+1: Zedaph: 40
+2: RentheKing: 25
+3: xBCrafted: 20
+4: ZombieCleo: 17
+5: Keralis1: 17
+6: GeminiTay: 16
+7: iJevin: 15
+8: Renthedog: 13
+9: BdoubleO100: 12
+10: iskall85: 12
+11: impulseSV: 12
+12: Docm77: 10
+13: hypnotizd: 10
+14: PearlescentMoon: 8
+15: Xisuma: 7
+16: Grian: 6
+17: Tango: 6
+18: ShubbleYT: 3
+19: VintageBeef: 2
+20: falsesymmetry: 2
+21: GoodTimeWithScar: 2
+22: Pixlriffs: 1
+23: Etho: 1
+Total 257

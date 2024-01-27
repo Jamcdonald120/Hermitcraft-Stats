@@ -1,0 +1,20 @@
+minecraft.dropped.smooth_stone_slab
+1: Tango: 1635
+2: MumboJumbo: 1545
+3: iskall85: 1204
+4: Renthedog: 1193
+5: Zedaph: 758
+6: impulseSV: 589
+7: cubfan135: 479
+8: GoodTimeWithScar: 374
+9: Docm77: 246
+10: iJevin: 231
+11: falsesymmetry: 214
+12: Xisuma: 184
+13: ZombieCleo: 31
+14: Grian: 16
+15: Stressmonster101: 8
+16: joehillssays: 6
+17: BdoubleO100: 3
+18: Cub_Cam: 1
+Total 8717

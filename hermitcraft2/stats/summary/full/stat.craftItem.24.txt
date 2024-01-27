@@ -1,0 +1,3 @@
+stat.craftItem.24
+1: red3yz: 64
+Total 64

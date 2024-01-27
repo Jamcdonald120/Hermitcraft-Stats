@@ -1,0 +1,13 @@
+minecraft.crafted.detector_rail
+1: Keralis1: 60
+2: impulseSV: 54
+3: Docm77: 48
+4: falsesymmetry: 30
+5: Xisuma: 6
+6: BdoubleO100: 6
+7: PearlescentMoon: 6
+8: Welsknight: 6
+9: MumboJumbo: 6
+10: Stressmonster101: 6
+11: Zedaph: 6
+Total 234

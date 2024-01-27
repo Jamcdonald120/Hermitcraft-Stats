@@ -1,0 +1,29 @@
+minecraft.mined.crafting_table
+1: cubfan135: 1594
+2: falsesymmetry: 1087
+3: Xisuma: 871
+4: BdoubleO100: 612
+5: iskall85: 508
+6: GoodTimeWithScar: 389
+7: Renthedog: 388
+8: Stressmonster101: 378
+9: Welsknight: 295
+10: Grian: 290
+11: iJevin: 276
+12: impulseSV: 236
+13: Docm77: 223
+14: Zedaph: 190
+15: Tango: 136
+16: MumboJumbo: 135
+17: PythonGB: 99
+18: joehillssays: 86
+19: Biffa2001: 82
+20: ZombieCleo: 79
+21: Tinfoilchef: 53
+22: Keralis1: 37
+23: xBCrafted: 17
+24: HumanCleo: 13
+25: Jessassin: 6
+26: EvilXisuma: 4
+27: tterrag: 1
+Total 8085

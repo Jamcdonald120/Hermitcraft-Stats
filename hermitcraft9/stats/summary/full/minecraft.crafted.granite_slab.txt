@@ -1,0 +1,20 @@
+minecraft.crafted.granite_slab
+1: GoodTimeWithScar: 1110
+2: falsesymmetry: 774
+3: cubfan135: 216
+4: Tango: 114
+5: ZombieCleo: 90
+6: Keralis1: 72
+7: Renthedog: 60
+8: iJevin: 60
+9: Pixlriffs: 48
+10: MythicalSausage: 30
+11: Grian: 30
+12: PearlescentMoon: 30
+13: Xisuma: 24
+14: Docm77: 12
+15: BdoubleO100: 8
+16: VintageBeef: 6
+17: joehillssays: 6
+18: Zedaph: 2
+Total 2692

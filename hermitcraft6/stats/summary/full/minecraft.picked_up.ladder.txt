@@ -1,0 +1,24 @@
+minecraft.picked_up.ladder
+1: Xisuma: 2255
+2: falsesymmetry: 2064
+3: iJevin: 1495
+4: joehillssays: 1243
+5: Docm77: 1127
+6: impulseSV: 543
+7: iskall85: 508
+8: cubfan135: 501
+9: Stressmonster101: 341
+10: Renthedog: 273
+11: Welsknight: 234
+12: Grian: 233
+13: Zedaph: 231
+14: GoodTimeWithScar: 207
+15: MumboJumbo: 179
+16: ZombieCleo: 134
+17: Biffa2001: 95
+18: Tango: 85
+19: PythonGB: 64
+20: Keralis1: 48
+21: Tinfoilchef: 35
+22: BdoubleO100: 27
+Total 11922

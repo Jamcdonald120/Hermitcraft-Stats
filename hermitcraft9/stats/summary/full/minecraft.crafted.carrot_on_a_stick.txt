@@ -1,0 +1,5 @@
+minecraft.crafted.carrot_on_a_stick
+1: Zedaph: 22
+2: Mumbo: 1
+3: Stressmonster101: 1
+Total 24

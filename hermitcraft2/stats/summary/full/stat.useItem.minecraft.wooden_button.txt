@@ -1,0 +1,6 @@
+stat.useItem.minecraft.wooden_button
+1: falsesymmetry: 46
+2: Xisuma: 19
+3: Tango: 3
+4: zueljin: 1
+Total 69

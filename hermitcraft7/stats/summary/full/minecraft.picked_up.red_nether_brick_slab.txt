@@ -1,0 +1,14 @@
+minecraft.picked_up.red_nether_brick_slab
+1: Zedaph: 1676
+2: Tango: 1175
+3: impulseSV: 316
+4: Xisuma: 33
+5: Grian: 33
+6: BdoubleO100: 20
+7: cubfan135: 15
+8: Welsknight: 14
+9: Etho: 11
+10: VintageBeef: 8
+11: Keralis1: 6
+12: GoodTimeWithScar: 1
+Total 3308

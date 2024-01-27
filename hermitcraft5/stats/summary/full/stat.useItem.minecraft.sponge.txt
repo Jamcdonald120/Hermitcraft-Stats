@@ -1,0 +1,13 @@
+stat.useItem.minecraft.sponge
+1: MumboJumbo: 2970
+2: cubfan135: 2005
+3: impulseSV: 1049
+4: iJevin: 755
+5: Renthedog: 481
+6: Xisuma: 377
+7: GoodTimeWithScar: 337
+8: Tango: 144
+9: Zedaph: 70
+10: falsesymmetry: 67
+11: xBCrafted: 8
+Total 8263

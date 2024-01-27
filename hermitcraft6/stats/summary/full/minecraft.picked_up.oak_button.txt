@@ -1,0 +1,23 @@
+minecraft.picked_up.oak_button
+1: falsesymmetry: 133
+2: Docm77: 109
+3: iskall85: 78
+4: joehillssays: 70
+5: impulseSV: 56
+6: iJevin: 31
+7: Grian: 31
+8: Zedaph: 28
+9: cubfan135: 27
+10: Keralis1: 17
+11: Xisuma: 15
+12: Tango: 15
+13: Tinfoilchef: 13
+14: Welsknight: 11
+15: MumboJumbo: 11
+16: Renthedog: 6
+17: PythonGB: 4
+18: GoodTimeWithScar: 3
+19: BdoubleO100: 1
+20: ZombieCleo: 1
+21: PhoenixfireLune: 1
+Total 661

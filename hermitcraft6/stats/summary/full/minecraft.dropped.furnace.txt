@@ -1,0 +1,21 @@
+minecraft.dropped.furnace
+1: Renthedog: 263
+2: Xisuma: 73
+3: iskall85: 62
+4: iJevin: 33
+5: Tinfoilchef: 24
+6: Zedaph: 17
+7: Grian: 16
+8: cubfan135: 11
+9: Tango: 10
+10: falsesymmetry: 9
+11: GoodTimeWithScar: 9
+12: MumboJumbo: 7
+13: BdoubleO100: 4
+14: xBCrafted: 4
+15: Stressmonster101: 4
+16: Docm77: 2
+17: Jessassin: 1
+18: Biffa2001: 1
+19: ZombieCleo: 1
+Total 551

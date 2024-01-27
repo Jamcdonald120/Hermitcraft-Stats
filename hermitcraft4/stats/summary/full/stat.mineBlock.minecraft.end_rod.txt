@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.end_rod
+1: Renthedog: 1430
+2: Xisuma: 400
+3: cubfan135: 293
+4: Tango: 272
+5: GoodTimeWithScar: 242
+6: Tinfoilchef: 231
+7: impulseSV: 195
+8: iskall85: 129
+9: falsesymmetry: 117
+10: joehillssays: 64
+11: VintageBeef: 54
+12: PythonGB: 46
+13: Welsknight: 20
+14: Biffa2001: 14
+15: ZombieCleo: 14
+16: MumboJumbo: 8
+17: iJevin: 2
+Total 3531

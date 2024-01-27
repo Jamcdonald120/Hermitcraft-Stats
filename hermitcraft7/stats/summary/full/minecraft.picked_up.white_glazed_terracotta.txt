@@ -1,0 +1,8 @@
+minecraft.picked_up.white_glazed_terracotta
+1: cubfan135: 130
+2: VintageBeef: 68
+3: Xisuma: 35
+4: ZombieCleo: 26
+5: Zedaph: 3
+6: falsesymmetry: 2
+Total 264

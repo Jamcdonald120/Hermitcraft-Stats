@@ -1,0 +1,26 @@
+stat.useItem.minecraft.cooked_chicken
+1: cubfan135: 14606
+2: MumboJumbo: 4747
+3: falsesymmetry: 4637
+4: Welsknight: 3213
+5: Renthedog: 2919
+6: Tango: 2628
+7: iskall85: 2356
+8: GoodTimeWithScar: 2297
+9: Tinfoilchef: 1175
+10: impulseSV: 844
+11: ZombieCleo: 666
+12: Etho: 519
+13: VintageBeef: 518
+14: PythonGB: 286
+15: Mumbo: 254
+16: Xisuma: 199
+17: zueljin: 170
+18: Docm77: 107
+19: joehillssays: 99
+20: Biffa2001: 74
+21: iJevin: 39
+22: xBCrafted: 18
+23: Jessassin: 17
+24: truesymmetry: 2
+Total 42390

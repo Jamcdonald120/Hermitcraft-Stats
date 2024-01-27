@@ -1,0 +1,12 @@
+minecraft.dropped.sea_pickle
+1: impulseSV: 213
+2: cubfan135: 63
+3: Zedaph: 59
+4: BdoubleO100: 27
+5: Tango: 14
+6: Keralis1: 13
+7: GoodTimeWithScar: 12
+8: Renthedog: 5
+9: Grian: 4
+10: Etho: 3
+Total 413

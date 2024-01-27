@@ -1,0 +1,4 @@
+stat.useItem.minecraft.golden_pickaxe
+1: Renthedog: 33
+2: iskall85: 15
+Total 48

@@ -1,0 +1,16 @@
+minecraft.picked_up.netherite_ingot
+1: GoodTimeWithScar: 30
+2: Grian: 26
+3: iskall85: 12
+4: BdoubleO100: 10
+5: Keralis1: 9
+6: Renthedog: 7
+7: Tango: 6
+8: iJevin: 4
+9: Docm77: 2
+10: VintageBeef: 2
+11: Welsknight: 2
+12: ZombieCleo: 2
+13: xBCrafted: 1
+14: Stressmonster101: 1
+Total 114

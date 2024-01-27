@@ -1,0 +1,9 @@
+minecraft.dropped.andesite_wall
+1: falsesymmetry: 140
+2: Tango: 77
+3: Grian: 65
+4: PearlescentMoon: 32
+5: GoodTimeWithScar: 5
+6: RentheKing: 2
+7: BdoubleO100: 1
+Total 322

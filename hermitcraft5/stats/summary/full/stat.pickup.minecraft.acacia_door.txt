@@ -1,0 +1,8 @@
+stat.pickup.minecraft.acacia_door
+1: Xisuma: 159
+2: iJevin: 7
+3: PythonGB: 3
+4: cubfan135: 3
+5: falsesymmetry: 2
+6: Tango: 1
+Total 175

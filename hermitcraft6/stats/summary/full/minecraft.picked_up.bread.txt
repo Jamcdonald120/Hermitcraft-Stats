@@ -1,0 +1,20 @@
+minecraft.picked_up.bread
+1: iskall85: 638
+2: GoodTimeWithScar: 272
+3: Tango: 230
+4: Grian: 202
+5: joehillssays: 102
+6: iJevin: 68
+7: MumboJumbo: 52
+8: Zedaph: 49
+9: PythonGB: 45
+10: Renthedog: 39
+11: Welsknight: 10
+12: impulseSV: 10
+13: Biffa2001: 8
+14: falsesymmetry: 7
+15: cubfan135: 7
+16: Xisuma: 6
+17: Keralis1: 5
+18: Docm77: 4
+Total 1754

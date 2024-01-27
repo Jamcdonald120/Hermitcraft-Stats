@@ -1,0 +1,28 @@
+minecraft.crafted.stone_axe
+1: Docm77: 23
+2: Stressmonster101: 17
+3: falsesymmetry: 16
+4: iJevin: 14
+5: joehillssays: 14
+6: Grian: 13
+7: impulseSV: 10
+8: PearlescentMoon: 7
+9: VintageBeef: 6
+10: cubfan135: 5
+11: Etho: 5
+12: Renthedog: 4
+13: GeminiTay: 4
+14: Tango: 4
+15: Tinfoilchef: 4
+16: BdoubleO100: 3
+17: Welsknight: 3
+18: ZombieCleo: 3
+19: Zedaph: 3
+20: Xisuma: 2
+21: hypnotizd: 2
+22: Pixlriffs: 1
+23: iskall85: 1
+24: xBCrafted: 1
+25: Mumbo: 1
+26: MumboJumbo: 1
+Total 167

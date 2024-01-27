@@ -1,0 +1,20 @@
+minecraft.picked_up.rabbit_hide
+1: Xisuma: 3323
+2: GoodTimeWithScar: 105
+3: hypnotizd: 100
+4: cubfan135: 35
+5: Grian: 31
+6: Etho: 29
+7: impulseSV: 18
+8: VintageBeef: 16
+9: Keralis1: 11
+10: Tango: 6
+11: Renthedog: 5
+12: joehillssays: 3
+13: xBCrafted: 3
+14: iskall85: 2
+15: ZombieCleo: 2
+16: Zedaph: 2
+17: Docm77: 1
+18: falsesymmetry: 1
+Total 3693

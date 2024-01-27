@@ -1,0 +1,7 @@
+minecraft.dropped.glistering_melon_slice
+1: Etho: 340
+2: GoodTimeWithScar: 75
+3: MumboJumbo: 21
+4: iJevin: 9
+5: Keralis1: 8
+Total 453

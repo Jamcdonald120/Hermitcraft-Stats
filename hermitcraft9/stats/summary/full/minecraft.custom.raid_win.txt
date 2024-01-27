@@ -1,0 +1,9 @@
+minecraft.custom.raid_win
+1: impulseSV: 34032
+2: Keralis1: 9227
+3: Docm77: 3528
+4: iJevin: 2869
+5: Tango: 2057
+6: Xisuma: 1
+7: Etho: 1
+Total 51715

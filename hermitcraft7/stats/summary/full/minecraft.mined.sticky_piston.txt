@@ -1,0 +1,24 @@
+minecraft.mined.sticky_piston
+1: MumboJumbo: 689
+2: Tango: 488
+3: cubfan135: 484
+4: iskall85: 433
+5: Zedaph: 334
+6: Etho: 262
+7: Xisuma: 255
+8: impulseSV: 241
+9: Docm77: 211
+10: Grian: 158
+11: falsesymmetry: 128
+12: xBCrafted: 87
+13: VintageBeef: 66
+14: hypnotizd: 53
+15: Stressmonster101: 42
+16: Renthedog: 25
+17: joehillssays: 19
+18: iJevin: 18
+19: GoodTimeWithScar: 18
+20: BdoubleO100: 17
+21: Keralis1: 17
+22: Welsknight: 1
+Total 4046

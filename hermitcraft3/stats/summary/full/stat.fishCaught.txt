@@ -1,0 +1,9 @@
+stat.fishCaught
+1: xBCrafted: 525
+2: Tinfoilchef: 179
+3: hypnotizd: 52
+4: iJevin: 49
+5: monkeyfarm: 19
+6: topmass: 1
+7: Spumwackles: 1
+Total 826

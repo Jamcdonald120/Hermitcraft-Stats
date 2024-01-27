@@ -1,0 +1,21 @@
+minecraft.crafted.quartz_pillar
+1: PythonGB: 8850
+2: falsesymmetry: 2114
+3: Renthedog: 1614
+4: impulseSV: 1303
+5: cubfan135: 1128
+6: iskall85: 952
+7: Grian: 684
+8: Welsknight: 448
+9: GoodTimeWithScar: 310
+10: Zedaph: 280
+11: Xisuma: 262
+12: Docm77: 256
+13: iJevin: 178
+14: ZombieCleo: 64
+15: Tinfoilchef: 30
+16: Keralis1: 26
+17: joehillssays: 16
+18: MumboJumbo: 14
+19: xBCrafted: 4
+Total 18533

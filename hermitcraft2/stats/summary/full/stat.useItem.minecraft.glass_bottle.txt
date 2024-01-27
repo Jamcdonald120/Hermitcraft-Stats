@@ -1,0 +1,10 @@
+stat.useItem.minecraft.glass_bottle
+1: sl1pg8r: 46
+2: Xisuma: 25
+3: Spumwackles: 25
+4: falsesymmetry: 8
+5: KingDaddyDMAC: 5
+6: ZombieCleo: 3
+7: zueljin: 1
+8: Tango: 1
+Total 114

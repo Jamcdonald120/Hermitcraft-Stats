@@ -1,0 +1,19 @@
+stat.pickup.minecraft.iron_trapdoor
+1: impulseSV: 250
+2: iskall85: 243
+3: cubfan135: 237
+4: Tango: 235
+5: falsesymmetry: 235
+6: GoodTimeWithScar: 127
+7: VintageBeef: 93
+8: Xisuma: 56
+9: Tinfoilchef: 15
+10: PythonGB: 14
+11: Etho: 12
+12: Docm77: 10
+13: Renthedog: 10
+14: Mumbo: 8
+15: joehillssays: 6
+16: Welsknight: 5
+17: MumboJumbo: 3
+Total 1559

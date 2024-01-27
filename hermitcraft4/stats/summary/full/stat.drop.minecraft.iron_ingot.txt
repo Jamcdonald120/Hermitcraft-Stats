@@ -1,0 +1,15 @@
+stat.drop.minecraft.iron_ingot
+1: Tango: 42787
+2: impulseSV: 311
+3: iskall85: 254
+4: Xisuma: 88
+5: MumboJumbo: 85
+6: falsesymmetry: 66
+7: cubfan135: 53
+8: GoodTimeWithScar: 49
+9: Renthedog: 47
+10: VintageBeef: 38
+11: Welsknight: 12
+12: PythonGB: 7
+13: Etho: 4
+Total 43801

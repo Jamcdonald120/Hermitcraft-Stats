@@ -1,0 +1,8 @@
+minecraft.used.diorite_stairs
+1: xBCrafted: 293
+2: VintageBeef: 94
+3: Tango: 61
+4: BdoubleO100: 22
+5: Keralis1: 16
+6: impulseSV: 1
+Total 487

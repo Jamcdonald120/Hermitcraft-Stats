@@ -1,0 +1,24 @@
+minecraft.picked_up.lever
+1: cubfan135: 1377
+2: iJevin: 431
+3: GoodTimeWithScar: 426
+4: Tinfoilchef: 400
+5: iskall85: 354
+6: Grian: 352
+7: Docm77: 338
+8: falsesymmetry: 304
+9: impulseSV: 268
+10: Renthedog: 225
+11: Xisuma: 215
+12: Tango: 159
+13: MumboJumbo: 146
+14: Zedaph: 127
+15: Keralis1: 112
+16: Stressmonster101: 55
+17: BdoubleO100: 52
+18: Welsknight: 26
+19: PythonGB: 25
+20: joehillssays: 21
+21: ZombieCleo: 20
+22: xBCrafted: 16
+Total 5449

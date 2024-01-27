@@ -1,0 +1,7 @@
+minecraft.used.pink_candle
+1: GeminiTay: 39
+2: fWhip: 17
+3: hypnotizd: 8
+4: Tango: 5
+5: impulseSV: 1
+Total 70

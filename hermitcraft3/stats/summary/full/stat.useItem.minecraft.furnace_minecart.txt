@@ -1,0 +1,5 @@
+stat.useItem.minecraft.furnace_minecart
+1: Xisuma: 9
+2: Tango: 3
+3: impulseSV: 1
+Total 13

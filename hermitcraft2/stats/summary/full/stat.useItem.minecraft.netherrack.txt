@@ -1,0 +1,16 @@
+stat.useItem.minecraft.netherrack
+1: Tango: 2352
+2: Spumwackles: 946
+3: ZombieCleo: 827
+4: Xisuma: 282
+5: falsesymmetry: 180
+6: Tinfoilchef: 128
+7: Cleophas: 127
+8: iJevin: 108
+9: Mumbo: 98
+10: sl1pg8r: 62
+11: KingDaddyDMAC: 23
+12: monkeyfarm: 16
+13: xBCrafted: 15
+14: zueljin: 11
+Total 5175

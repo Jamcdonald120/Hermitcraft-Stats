@@ -1,0 +1,27 @@
+stat.killEntity.Pig
+1: falsesymmetry: 739
+2: hypnotizd: 141
+3: Xisuma: 114
+4: Tango: 106
+5: iJevin: 39
+6: xBCrafted: 35
+7: topmass: 27
+8: skyzm: 20
+9: Tinfoilchef: 15
+10: Mumbo: 11
+11: ZombieCleo: 10
+12: joehillssays: 7
+13: zueljin: 6
+14: Pungence: 5
+15: Etho: 5
+16: impulseSV: 5
+17: Collen: 5
+18: Biffa2001: 4
+19: sl1pg8r: 3
+20: monkeyfarm: 3
+21: Spumwackles: 3
+22: KingDaddyDMAC: 2
+23: Keralis1: 2
+24: Docm77: 1
+25: Mrs_Keralis: 1
+Total 1309

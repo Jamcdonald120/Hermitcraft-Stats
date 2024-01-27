@@ -1,0 +1,4 @@
+minecraft.mined.potted_poppy
+1: GeminiTay: 2
+2: Renthedog: 1
+Total 3

@@ -1,0 +1,8 @@
+minecraft.dropped.beacon
+1: Etho: 3
+2: Xisuma: 2
+3: iJevin: 2
+4: Grian: 1
+5: Welsknight: 1
+6: impulseSV: 1
+Total 10

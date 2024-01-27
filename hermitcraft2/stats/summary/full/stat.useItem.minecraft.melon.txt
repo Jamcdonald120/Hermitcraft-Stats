@@ -1,0 +1,4 @@
+stat.useItem.minecraft.melon
+1: Mumbo: 10
+2: ZombieCleo: 1
+Total 11

@@ -1,0 +1,4 @@
+minecraft.crafted.end_stone_brick_wall
+1: cubfan135: 114
+2: Xisuma: 96
+Total 210

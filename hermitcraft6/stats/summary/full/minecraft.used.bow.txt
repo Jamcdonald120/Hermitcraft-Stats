@@ -1,0 +1,26 @@
+minecraft.used.bow
+1: cubfan135: 20168
+2: impulseSV: 7807
+3: iskall85: 7639
+4: Xisuma: 5561
+5: Renthedog: 3044
+6: Tango: 2750
+7: GoodTimeWithScar: 2662
+8: PythonGB: 2536
+9: falsesymmetry: 2304
+10: MumboJumbo: 2238
+11: Biffa2001: 1628
+12: iJevin: 1377
+13: BdoubleO100: 1190
+14: Stressmonster101: 1168
+15: Zedaph: 1159
+16: Welsknight: 874
+17: Tinfoilchef: 866
+18: ZombieCleo: 647
+19: Grian: 417
+20: xBCrafted: 359
+21: joehillssays: 268
+22: Docm77: 211
+23: Jessassin: 76
+24: HumanCleo: 26
+Total 66975

@@ -1,0 +1,18 @@
+stat.drop.minecraft.snowball
+1: MumboJumbo: 862
+2: Tango: 795
+3: Zedaph: 641
+4: GoodTimeWithScar: 394
+5: Xisuma: 291
+6: iJevin: 224
+7: iskall85: 217
+8: falsesymmetry: 90
+9: ZombieCleo: 70
+10: xBCrafted: 48
+11: impulseSV: 48
+12: cubfan135: 37
+13: Renthedog: 20
+14: joehillssays: 10
+15: Tinfoilchef: 8
+16: VintageBeef: 4
+Total 3759

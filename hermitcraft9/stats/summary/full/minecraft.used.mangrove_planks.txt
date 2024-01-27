@@ -1,0 +1,24 @@
+minecraft.used.mangrove_planks
+1: PearlescentMoon: 1207
+2: cubfan135: 1200
+3: Grian: 427
+4: GoodTimeWithScar: 200
+5: Renthedog: 142
+6: Xisuma: 139
+7: MythicalSausage: 133
+8: Pixlriffs: 70
+9: Tango: 64
+10: RentheKing: 62
+11: OrionSound: 61
+12: ZombieCleo: 54
+13: joehillssays: 53
+14: BdoubleO100: 48
+15: ShubbleYT: 44
+16: iJevin: 43
+17: falsesymmetry: 32
+18: impulseSV: 18
+19: Zedaph: 13
+20: Stressmonster101: 6
+21: Docm77: 3
+22: xBCrafted: 3
+Total 4022

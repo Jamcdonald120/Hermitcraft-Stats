@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.clay
+1: falsesymmetry: 6450
+2: joehillssays: 1183
+3: zueljin: 750
+4: Tinfoilchef: 468
+5: Mumbo: 460
+6: Tango: 289
+7: Spumwackles: 225
+8: Xisuma: 116
+9: monkeyfarm: 94
+10: sl1pg8r: 60
+11: impulseSV: 44
+12: Etho: 43
+13: Biffa2001: 40
+14: PythonGB: 38
+15: xBCrafted: 35
+16: topmass: 22
+17: iJevin: 12
+18: Pungence: 11
+19: ZombieCleo: 11
+20: KingDaddyDMAC: 2
+Total 10353

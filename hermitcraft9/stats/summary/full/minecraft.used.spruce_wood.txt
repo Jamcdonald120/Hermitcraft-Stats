@@ -1,0 +1,23 @@
+minecraft.used.spruce_wood
+1: GeminiTay: 5988
+2: Keralis1: 5553
+3: Renthedog: 2154
+4: falsesymmetry: 1286
+5: hypnotizd: 796
+6: Docm77: 696
+7: iJevin: 695
+8: ZombieCleo: 292
+9: Tango: 206
+10: Grian: 172
+11: xBCrafted: 140
+12: MythicalSausage: 111
+13: PearlescentMoon: 91
+14: cubfan135: 44
+15: BdoubleO100: 29
+16: GoodTimeWithScar: 18
+17: Xisuma: 7
+18: Stressmonster101: 5
+19: VintageBeef: 4
+20: impulseSV: 1
+21: Zedaph: 1
+Total 18289

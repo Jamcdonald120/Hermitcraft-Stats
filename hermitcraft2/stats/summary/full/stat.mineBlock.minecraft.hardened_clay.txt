@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.hardened_clay
+1: Xisuma: 61
+2: Tango: 12
+3: falsesymmetry: 4
+Total 77

@@ -1,0 +1,30 @@
+minecraft.picked_up.end_rod
+1: cubfan135: 773
+2: GoodTimeWithScar: 708
+3: impulseSV: 365
+4: Tango: 329
+5: PearlescentMoon: 276
+6: iJevin: 227
+7: Keralis1: 226
+8: Etho: 213
+9: falsesymmetry: 185
+10: GeminiTay: 163
+11: xBCrafted: 139
+12: Docm77: 136
+13: Xisuma: 119
+14: Renthedog: 116
+15: ZombieCleo: 71
+16: Zedaph: 55
+17: iskall85: 51
+18: Grian: 49
+19: hypnotizd: 46
+20: VintageBeef: 33
+21: BdoubleO100: 23
+22: Smajor1995: 21
+23: fWhip: 14
+24: MythicalSausage: 12
+25: RentheKing: 10
+26: joehillssays: 5
+27: Smallishbeans: 2
+28: Stressmonster101: 1
+Total 4368

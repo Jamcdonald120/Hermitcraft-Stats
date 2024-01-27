@@ -1,0 +1,22 @@
+minecraft.used.daylight_detector
+1: Keralis1: 239
+2: joehillssays: 170
+3: Renthedog: 164
+4: xBCrafted: 142
+5: falsesymmetry: 128
+6: GoodTimeWithScar: 103
+7: cubfan135: 41
+8: Zedaph: 38
+9: Etho: 29
+10: VintageBeef: 28
+11: Xisuma: 11
+12: iJevin: 11
+13: iskall85: 9
+14: BdoubleO100: 7
+15: Grian: 5
+16: hypnotizd: 5
+17: impulseSV: 5
+18: MumboJumbo: 3
+19: Stressmonster101: 3
+20: Tango: 2
+Total 1143

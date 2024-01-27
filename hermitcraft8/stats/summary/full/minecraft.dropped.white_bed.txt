@@ -1,0 +1,14 @@
+minecraft.dropped.white_bed
+1: GoodTimeWithScar: 28
+2: Grian: 25
+3: iJevin: 8
+4: Tango: 7
+5: Renthedog: 6
+6: hypnotizd: 6
+7: impulseSV: 6
+8: BdoubleO100: 5
+9: PearlescentMoon: 3
+10: xBCrafted: 3
+11: Docm77: 1
+12: cubfan135: 1
+Total 99

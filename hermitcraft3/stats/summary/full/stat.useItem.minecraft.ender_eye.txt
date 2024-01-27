@@ -1,0 +1,5 @@
+stat.useItem.minecraft.ender_eye
+1: Xisuma: 9
+2: Spumwackles: 3
+3: zueljin: 1
+Total 13

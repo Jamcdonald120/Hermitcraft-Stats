@@ -1,0 +1,19 @@
+minecraft.dropped.green_dye
+1: Renthedog: 14981
+2: iJevin: 14400
+3: Tango: 6264
+4: iskall85: 4821
+5: impulseSV: 2574
+6: Stressmonster101: 1551
+7: ZombieCleo: 1210
+8: Grian: 1016
+9: Xisuma: 572
+10: BdoubleO100: 512
+11: cubfan135: 65
+12: PythonGB: 64
+13: GoodTimeWithScar: 23
+14: Zedaph: 5
+15: MumboJumbo: 2
+16: Docm77: 1
+17: Tinfoilchef: 1
+Total 48062

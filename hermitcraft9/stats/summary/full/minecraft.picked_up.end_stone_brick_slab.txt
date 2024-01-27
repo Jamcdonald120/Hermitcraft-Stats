@@ -1,0 +1,8 @@
+minecraft.picked_up.end_stone_brick_slab
+1: iJevin: 11
+2: cubfan135: 7
+3: joehillssays: 4
+4: Zedaph: 3
+5: Keralis1: 1
+6: impulseSV: 1
+Total 27

@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.trapped_chest
+1: Xisuma: 44
+2: iJevin: 14
+3: Tango: 6
+4: Tinfoilchef: 2
+5: ZombieCleo: 1
+6: Mumbo: 1
+7: monkeyfarm: 1
+Total 69

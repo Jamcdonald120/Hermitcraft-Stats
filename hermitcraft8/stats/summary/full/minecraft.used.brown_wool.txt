@@ -1,0 +1,16 @@
+minecraft.used.brown_wool
+1: PearlescentMoon: 453
+2: Tango: 248
+3: impulseSV: 108
+4: Zedaph: 96
+5: iJevin: 68
+6: BdoubleO100: 18
+7: falsesymmetry: 17
+8: GeminiTay: 16
+9: Welsknight: 15
+10: ZombieCleo: 13
+11: Renthedog: 6
+12: VintageBeef: 6
+13: GoodTimeWithScar: 4
+14: Grian: 3
+Total 1071

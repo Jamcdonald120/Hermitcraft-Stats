@@ -1,0 +1,4 @@
+stat.pickup.minecraft.white_glazed_terracotta
+1: falsesymmetry: 86
+2: joehillssays: 1
+Total 87

@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.quartz_stairs
+1: cubfan135: 594
+2: PythonGB: 394
+3: GoodTimeWithScar: 348
+4: impulseSV: 217
+5: Xisuma: 128
+6: falsesymmetry: 115
+7: iskall85: 111
+8: VintageBeef: 107
+9: Tinfoilchef: 63
+10: joehillssays: 44
+11: xBCrafted: 37
+12: Welsknight: 30
+13: Zedaph: 25
+14: MumboJumbo: 11
+15: Tango: 4
+16: Docm77: 3
+Total 2231

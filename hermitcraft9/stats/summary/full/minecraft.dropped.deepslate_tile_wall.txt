@@ -1,0 +1,10 @@
+minecraft.dropped.deepslate_tile_wall
+1: Tango: 43
+2: GoodTimeWithScar: 11
+3: Renthedog: 8
+4: Pixlriffs: 7
+5: GeminiTay: 6
+6: impulseSV: 3
+7: Etho: 2
+8: Keralis1: 1
+Total 81

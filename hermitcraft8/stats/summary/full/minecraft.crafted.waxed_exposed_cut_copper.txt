@@ -1,0 +1,4 @@
+minecraft.crafted.waxed_exposed_cut_copper
+1: impulseSV: 16
+2: cubfan135: 4
+Total 20

@@ -1,0 +1,24 @@
+minecraft.crafted.polished_granite
+1: GoodTimeWithScar: 6488
+2: Renthedog: 5312
+3: falsesymmetry: 4336
+4: PearlescentMoon: 976
+5: cubfan135: 732
+6: Etho: 684
+7: impulseSV: 576
+8: Grian: 368
+9: iJevin: 272
+10: GeminiTay: 256
+11: Stressmonster101: 256
+12: Keralis1: 256
+13: Xisuma: 236
+14: BdoubleO100: 136
+15: joehillssays: 68
+16: Tango: 64
+17: RentheKing: 64
+18: iskall85: 33
+19: ZombieCleo: 12
+20: Docm77: 2
+21: VintageBeef: 1
+22: Zedaph: 1
+Total 21129

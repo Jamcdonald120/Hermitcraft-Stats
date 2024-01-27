@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.netherrack
+1: Renthedog: 89035
+2: Tango: 80525
+3: Xisuma: 56394
+4: falsesymmetry: 44043
+5: impulseSV: 37949
+6: GoodTimeWithScar: 29585
+7: cubfan135: 27234
+8: Welsknight: 26898
+9: MumboJumbo: 22003
+10: Tinfoilchef: 17298
+11: iskall85: 17287
+12: Biffa2001: 16670
+13: VintageBeef: 12115
+14: joehillssays: 7878
+15: ZombieCleo: 6944
+16: Docm77: 2311
+17: Mumbo: 2231
+18: PythonGB: 1281
+19: iJevin: 1201
+20: Jessassin: 400
+21: zueljin: 162
+22: Etho: 132
+23: xBCrafted: 81
+Total 499657

@@ -1,0 +1,19 @@
+minecraft.picked_up.fishing_rod
+1: Grian: 23
+2: Tango: 19
+3: iJevin: 17
+4: Zedaph: 15
+5: PearlescentMoon: 7
+6: Docm77: 5
+7: Xisuma: 4
+8: Keralis1: 4
+9: GeminiTay: 3
+10: cubfan135: 3
+11: ZombieCleo: 3
+12: Renthedog: 2
+13: Pixlriffs: 2
+14: hypnotizd: 2
+15: iskall85: 1
+16: GoodTimeWithScar: 1
+17: impulseSV: 1
+Total 112

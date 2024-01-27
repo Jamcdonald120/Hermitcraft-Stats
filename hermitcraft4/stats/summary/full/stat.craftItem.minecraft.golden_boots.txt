@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.golden_boots
+1: Renthedog: 12
+2: MumboJumbo: 10
+3: cubfan135: 7
+4: iskall85: 6
+5: falsesymmetry: 5
+6: joehillssays: 2
+7: Xisuma: 1
+Total 43

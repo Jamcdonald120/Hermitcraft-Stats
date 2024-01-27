@@ -1,0 +1,25 @@
+minecraft.used.cooked_porkchop
+1: Tango: 984
+2: xBCrafted: 864
+3: GoodTimeWithScar: 288
+4: joehillssays: 192
+5: PearlescentMoon: 150
+6: hypnotizd: 64
+7: ZombieCleo: 36
+8: Welsknight: 30
+9: GeminiTay: 29
+10: iJevin: 27
+11: iskall85: 27
+12: Zedaph: 15
+13: Stressmonster101: 14
+14: VintageBeef: 13
+15: Etho: 11
+16: falsesymmetry: 9
+17: Renthedog: 7
+18: Docm77: 6
+19: cubfan135: 6
+20: Xisuma: 4
+21: Grian: 4
+22: BdoubleO100: 3
+23: MumboJumbo: 3
+Total 2786

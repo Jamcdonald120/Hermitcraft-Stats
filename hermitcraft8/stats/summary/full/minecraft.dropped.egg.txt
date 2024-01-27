@@ -1,0 +1,25 @@
+minecraft.dropped.egg
+1: VintageBeef: 1014
+2: Zedaph: 877
+3: Renthedog: 863
+4: Docm77: 352
+5: Grian: 335
+6: MumboJumbo: 206
+7: PearlescentMoon: 66
+8: GoodTimeWithScar: 42
+9: Xisuma: 29
+10: iJevin: 23
+11: impulseSV: 23
+12: GeminiTay: 22
+13: joehillssays: 17
+14: xBCrafted: 12
+15: cubfan135: 9
+16: ZombieCleo: 9
+17: hypnotizd: 9
+18: Tango: 7
+19: BdoubleO100: 4
+20: iskall85: 1
+21: falsesymmetry: 1
+22: Stressmonster101: 1
+23: Keralis1: 1
+Total 3923

@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.lever
+1: falsesymmetry: 35
+2: ZombieCleo: 14
+3: sl1pg8r: 9
+4: Xisuma: 9
+5: zueljin: 9
+6: KingDaddyDMAC: 3
+7: Spumwackles: 3
+8: Tango: 2
+9: xBCrafted: 2
+Total 86

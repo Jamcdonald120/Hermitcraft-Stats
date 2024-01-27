@@ -1,0 +1,8 @@
+stat.pickup.minecraft.brick_stairs
+1: cubfan135: 328
+2: PythonGB: 230
+3: MumboJumbo: 38
+4: falsesymmetry: 25
+5: Stressmonster101: 9
+6: iJevin: 2
+Total 632

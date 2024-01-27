@@ -1,0 +1,24 @@
+minecraft.killed.silverfish
+1: Xisuma: 103
+2: cubfan135: 38
+3: iJevin: 30
+4: iskall85: 25
+5: Keralis1: 25
+6: Zedaph: 18
+7: Docm77: 15
+8: Stressmonster101: 13
+9: Grian: 12
+10: xBCrafted: 12
+11: RentheKing: 9
+12: ZombieCleo: 8
+13: Renthedog: 7
+14: falsesymmetry: 5
+15: hypnotizd: 5
+16: PearlescentMoon: 3
+17: joehillssays: 2
+18: Pixlriffs: 2
+19: Mumbo: 2
+20: MumboJumbo: 2
+21: VintageBeef: 1
+22: impulseSV: 1
+Total 338

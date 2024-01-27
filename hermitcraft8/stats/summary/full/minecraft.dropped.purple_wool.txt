@@ -1,0 +1,5 @@
+minecraft.dropped.purple_wool
+1: Zedaph: 110
+2: Grian: 58
+3: MumboJumbo: 1
+Total 169

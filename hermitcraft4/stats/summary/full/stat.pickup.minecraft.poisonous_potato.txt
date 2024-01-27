@@ -1,0 +1,21 @@
+stat.pickup.minecraft.poisonous_potato
+1: impulseSV: 377
+2: cubfan135: 75
+3: falsesymmetry: 35
+4: Welsknight: 19
+5: Renthedog: 18
+6: PythonGB: 15
+7: Etho: 13
+8: GoodTimeWithScar: 13
+9: Jessassin: 10
+10: iskall85: 9
+11: ZombieCleo: 8
+12: Docm77: 6
+13: Tango: 6
+14: MumboJumbo: 6
+15: Tinfoilchef: 5
+16: xBCrafted: 4
+17: joehillssays: 3
+18: VintageBeef: 2
+19: Biffa2001: 2
+Total 626

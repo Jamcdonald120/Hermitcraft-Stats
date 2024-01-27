@@ -1,0 +1,21 @@
+minecraft.used.smooth_stone_slab
+1: impulseSV: 5265
+2: MumboJumbo: 2408
+3: xBCrafted: 1820
+4: Xisuma: 1720
+5: Tango: 1711
+6: Docm77: 1339
+7: cubfan135: 711
+8: Etho: 442
+9: Zedaph: 415
+10: BdoubleO100: 211
+11: GoodTimeWithScar: 200
+12: Renthedog: 180
+13: PearlescentMoon: 150
+14: Keralis1: 84
+15: iskall85: 7
+16: VintageBeef: 4
+17: Grian: 4
+18: HermitcraftAlt: 3
+19: Welsknight: 1
+Total 16675

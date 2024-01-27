@@ -1,0 +1,26 @@
+minecraft.crafted.iron_pickaxe
+1: joehillssays: 77
+2: BdoubleO100: 49
+3: ZombieCleo: 48
+4: GoodTimeWithScar: 30
+5: PearlescentMoon: 27
+6: Tango: 25
+7: xBCrafted: 19
+8: Welsknight: 19
+9: Tinfoilchef: 18
+10: Grian: 14
+11: falsesymmetry: 14
+12: Xisuma: 13
+13: hypnotizd: 13
+14: GeminiTay: 11
+15: VintageBeef: 10
+16: Stressmonster101: 9
+17: iJevin: 8
+18: Zedaph: 8
+19: impulseSV: 7
+20: iskall85: 5
+21: MumboJumbo: 4
+22: Docm77: 3
+23: Renthedog: 2
+24: cubfan135: 2
+Total 435

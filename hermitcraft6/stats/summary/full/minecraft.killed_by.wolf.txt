@@ -1,0 +1,4 @@
+minecraft.killed_by.wolf
+1: Xisuma: 1
+2: MumboJumbo: 1
+Total 2

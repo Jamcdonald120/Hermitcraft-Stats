@@ -1,0 +1,12 @@
+minecraft.dropped.music_disc_wait
+1: Zedaph: 18
+2: RentheKing: 9
+3: GoodTimeWithScar: 5
+4: Grian: 2
+5: Renthedog: 1
+6: VintageBeef: 1
+7: iJevin: 1
+8: Tango: 1
+9: xBCrafted: 1
+10: cubfan135: 1
+Total 40

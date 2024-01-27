@@ -1,0 +1,26 @@
+minecraft.picked_up.ladder
+1: Zedaph: 1199
+2: Renthedog: 930
+3: joehillssays: 871
+4: iJevin: 725
+5: cubfan135: 492
+6: Xisuma: 481
+7: iskall85: 456
+8: GoodTimeWithScar: 304
+9: VintageBeef: 264
+10: Tango: 263
+11: Stressmonster101: 260
+12: falsesymmetry: 247
+13: hypnotizd: 237
+14: impulseSV: 216
+15: Keralis1: 215
+16: Etho: 133
+17: xBCrafted: 104
+18: Grian: 79
+19: ZombieCleo: 69
+20: BdoubleO100: 35
+21: Docm77: 29
+22: Tinfoilchef: 29
+23: MumboJumbo: 18
+24: Welsknight: 2
+Total 7658

@@ -1,0 +1,11 @@
+minecraft.dropped.wither_rose
+1: Tango: 756
+2: impulseSV: 709
+3: joehillssays: 672
+4: iJevin: 288
+5: GeminiTay: 64
+6: GoodTimeWithScar: 63
+7: Keralis1: 3
+8: Xisuma: 2
+9: Grian: 1
+Total 2558

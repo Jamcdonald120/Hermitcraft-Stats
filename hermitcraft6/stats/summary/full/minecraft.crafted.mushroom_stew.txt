@@ -1,0 +1,4 @@
+minecraft.crafted.mushroom_stew
+1: joehillssays: 54
+2: falsesymmetry: 13
+Total 67

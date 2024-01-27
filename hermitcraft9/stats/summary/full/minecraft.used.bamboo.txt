@@ -1,0 +1,28 @@
+minecraft.used.bamboo
+1: impulseSV: 2391
+2: GoodTimeWithScar: 2001
+3: Keralis1: 1232
+4: hypnotizd: 593
+5: cubfan135: 572
+6: Mumbo: 439
+7: Xisuma: 382
+8: Renthedog: 338
+9: joehillssays: 331
+10: Grian: 329
+11: Docm77: 215
+12: Tango: 149
+13: GeminiTay: 139
+14: falsesymmetry: 111
+15: xBCrafted: 105
+16: Stressmonster101: 103
+17: BdoubleO100: 101
+18: iskall85: 62
+19: Zedaph: 55
+20: Etho: 45
+21: Welsknight: 40
+22: ZombieCleo: 40
+23: VintageBeef: 13
+24: MythicalSausage: 8
+25: iJevin: 7
+26: PearlescentMoon: 5
+Total 9806

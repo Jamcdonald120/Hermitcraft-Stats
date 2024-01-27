@@ -1,0 +1,4 @@
+minecraft.crafted.gunpowder
+1: joehillssays: 16
+2: Keralis1: 8
+Total 24

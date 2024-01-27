@@ -1,0 +1,13 @@
+minecraft.crafted.cobbled_deepslate_wall
+1: GoodTimeWithScar: 384
+2: Tango: 315
+3: Grian: 73
+4: Docm77: 63
+5: ZombieCleo: 60
+6: cubfan135: 50
+7: Keralis1: 36
+8: xBCrafted: 29
+9: Xisuma: 8
+10: BdoubleO100: 8
+11: Zedaph: 6
+Total 1032

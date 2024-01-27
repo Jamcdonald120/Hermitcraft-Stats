@@ -1,0 +1,21 @@
+minecraft.crafted.golden_helmet
+1: cubfan135: 14
+2: Welsknight: 10
+3: ZombieCleo: 9
+4: iJevin: 8
+5: joehillssays: 7
+6: PearlescentMoon: 5
+7: Keralis1: 5
+8: Xisuma: 4
+9: Tango: 3
+10: BdoubleO100: 3
+11: RentheKing: 3
+12: iskall85: 2
+13: falsesymmetry: 2
+14: Stressmonster101: 2
+15: Zedaph: 2
+16: Renthedog: 1
+17: VintageBeef: 1
+18: Mumbo: 1
+19: MumboJumbo: 1
+Total 83

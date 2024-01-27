@@ -1,0 +1,16 @@
+stat.useItem.minecraft.milk_bucket
+1: xBCrafted: 20
+2: falsesymmetry: 18
+3: impulseSV: 15
+4: monkeyfarm: 10
+5: Tango: 5
+6: Biffa2001: 4
+7: PythonGB: 2
+8: Tinfoilchef: 2
+9: Spumwackles: 2
+10: sl1pg8r: 1
+11: truesymmetry: 1
+12: xisumavoid: 1
+13: Mumbo: 1
+14: hypnotizd: 1
+Total 83

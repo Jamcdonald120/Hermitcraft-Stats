@@ -1,0 +1,21 @@
+minecraft.picked_up.black_wool
+1: GoodTimeWithScar: 1652
+2: Xisuma: 1221
+3: cubfan135: 696
+4: ZombieCleo: 425
+5: iskall85: 379
+6: Docm77: 320
+7: Grian: 178
+8: falsesymmetry: 133
+9: joehillssays: 111
+10: Tango: 92
+11: Welsknight: 84
+12: Biffa2001: 72
+13: iJevin: 63
+14: impulseSV: 17
+15: PythonGB: 14
+16: Zedaph: 5
+17: Keralis1: 4
+18: Renthedog: 3
+19: Stressmonster101: 2
+Total 5471

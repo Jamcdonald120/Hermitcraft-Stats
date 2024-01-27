@@ -1,0 +1,4 @@
+minecraft.dropped.yellow_candle
+1: falsesymmetry: 4
+2: Zedaph: 1
+Total 5

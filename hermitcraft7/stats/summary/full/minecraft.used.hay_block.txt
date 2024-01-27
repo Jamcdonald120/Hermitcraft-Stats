@@ -1,0 +1,23 @@
+minecraft.used.hay_block
+1: Keralis1: 661
+2: cubfan135: 210
+3: joehillssays: 186
+4: VintageBeef: 161
+5: Grian: 120
+6: Tango: 81
+7: Welsknight: 62
+8: GoodTimeWithScar: 58
+9: Docm77: 42
+10: Renthedog: 42
+11: xBCrafted: 32
+12: Etho: 31
+13: impulseSV: 28
+14: MumboJumbo: 27
+15: falsesymmetry: 22
+16: BdoubleO100: 16
+17: Xisuma: 14
+18: Zedaph: 14
+19: ZombieCleo: 10
+20: hypnotizd: 7
+21: iskall85: 1
+Total 1825

@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.emerald_block
+1: Tango: 74
+2: Tinfoilchef: 26
+3: Xisuma: 6
+4: PythonGB: 6
+5: impulseSV: 2
+Total 114

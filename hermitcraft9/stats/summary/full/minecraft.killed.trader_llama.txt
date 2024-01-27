@@ -1,0 +1,25 @@
+minecraft.killed.trader_llama
+1: VintageBeef: 52
+2: cubfan135: 39
+3: hypnotizd: 30
+4: Zedaph: 30
+5: BdoubleO100: 22
+6: iJevin: 21
+7: Grian: 20
+8: GoodTimeWithScar: 14
+9: PearlescentMoon: 13
+10: Etho: 11
+11: xBCrafted: 9
+12: Docm77: 8
+13: Tango: 8
+14: Keralis1: 8
+15: Xisuma: 7
+16: Renthedog: 6
+17: impulseSV: 6
+18: ZombieCleo: 5
+19: falsesymmetry: 4
+20: RentheKing: 4
+21: MythicalSausage: 2
+22: Mumbo: 2
+23: GeminiTay: 1
+Total 322

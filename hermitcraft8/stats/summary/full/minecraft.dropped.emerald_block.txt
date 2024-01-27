@@ -1,0 +1,8 @@
+minecraft.dropped.emerald_block
+1: Grian: 275
+2: iJevin: 64
+3: GoodTimeWithScar: 15
+4: Renthedog: 9
+5: Docm77: 1
+6: VintageBeef: 1
+Total 365

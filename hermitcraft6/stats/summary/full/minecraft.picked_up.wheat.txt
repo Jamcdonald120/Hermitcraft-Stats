@@ -1,0 +1,26 @@
+minecraft.picked_up.wheat
+1: Tinfoilchef: 9982
+2: GoodTimeWithScar: 8430
+3: Grian: 7676
+4: cubfan135: 6543
+5: Renthedog: 5955
+6: Xisuma: 5159
+7: Stressmonster101: 5119
+8: Tango: 4894
+9: joehillssays: 3258
+10: impulseSV: 2972
+11: falsesymmetry: 2911
+12: ZombieCleo: 2738
+13: Zedaph: 2690
+14: iJevin: 1674
+15: Docm77: 1597
+16: PythonGB: 1181
+17: BdoubleO100: 1075
+18: Welsknight: 929
+19: Keralis1: 445
+20: iskall85: 429
+21: Biffa2001: 403
+22: HumanCleo: 355
+23: Jessassin: 332
+24: MumboJumbo: 171
+Total 76918

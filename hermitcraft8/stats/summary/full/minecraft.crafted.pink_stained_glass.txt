@@ -1,0 +1,12 @@
+minecraft.crafted.pink_stained_glass
+1: PearlescentMoon: 448
+2: Etho: 320
+3: Docm77: 192
+4: GeminiTay: 124
+5: impulseSV: 48
+6: Xisuma: 40
+7: cubfan135: 24
+8: GoodTimeWithScar: 24
+9: iJevin: 8
+10: Welsknight: 8
+Total 1236

@@ -1,0 +1,24 @@
+stat.pickup.minecraft.carrot
+1: impulseSV: 77762
+2: MumboJumbo: 15918
+3: cubfan135: 12689
+4: Xisuma: 12583
+5: iskall85: 7104
+6: GoodTimeWithScar: 3703
+7: falsesymmetry: 3670
+8: Tinfoilchef: 1937
+9: joehillssays: 1655
+10: Renthedog: 1547
+11: Tango: 1273
+12: Etho: 1099
+13: iJevin: 956
+14: PythonGB: 824
+15: Jessassin: 524
+16: Welsknight: 443
+17: Mumbo: 378
+18: VintageBeef: 327
+19: ZombieCleo: 304
+20: Docm77: 245
+21: Biffa2001: 141
+22: xBCrafted: 26
+Total 145108

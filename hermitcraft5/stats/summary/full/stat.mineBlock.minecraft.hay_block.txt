@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.hay_block
+1: cubfan135: 1617
+2: Renthedog: 480
+3: Zedaph: 52
+4: joehillssays: 45
+5: xBCrafted: 43
+6: Stressmonster101: 16
+7: Welsknight: 13
+8: falsesymmetry: 10
+9: Xisuma: 8
+10: GoodTimeWithScar: 6
+11: Biffa2001: 3
+12: Tango: 1
+Total 2294

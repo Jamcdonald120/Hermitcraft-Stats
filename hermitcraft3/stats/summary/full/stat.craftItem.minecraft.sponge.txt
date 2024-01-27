@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.sponge
+1: hypnotizd: 3497
+2: falsesymmetry: 916
+3: monkeyfarm: 325
+4: xBCrafted: 244
+Total 4982

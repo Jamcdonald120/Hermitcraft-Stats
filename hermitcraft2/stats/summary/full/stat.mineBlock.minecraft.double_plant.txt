@@ -1,0 +1,10 @@
+stat.mineBlock.minecraft.double_plant
+1: falsesymmetry: 67
+2: ZombieCleo: 49
+3: zueljin: 20
+4: sl1pg8r: 4
+5: iJevin: 4
+6: Xisuma: 2
+7: xBCrafted: 1
+8: Spumwackles: 1
+Total 148

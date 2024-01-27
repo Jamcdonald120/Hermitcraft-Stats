@@ -1,0 +1,8 @@
+minecraft.crafted.waxed_cut_copper_stairs
+1: Docm77: 140
+2: Xisuma: 96
+3: Renthedog: 64
+4: impulseSV: 51
+5: Grian: 24
+6: falsesymmetry: 16
+Total 391

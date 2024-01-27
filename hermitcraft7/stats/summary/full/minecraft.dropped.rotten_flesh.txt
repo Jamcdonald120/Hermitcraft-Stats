@@ -1,0 +1,26 @@
+minecraft.dropped.rotten_flesh
+1: cubfan135: 294683
+2: iskall85: 110245
+3: hypnotizd: 96394
+4: Grian: 55340
+5: xBCrafted: 18237
+6: VintageBeef: 10240
+7: Tango: 5140
+8: iJevin: 4421
+9: Etho: 4040
+10: GoodTimeWithScar: 3736
+11: Xisuma: 2920
+12: Docm77: 2269
+13: Keralis1: 2091
+14: MumboJumbo: 1957
+15: impulseSV: 1220
+16: Renthedog: 1063
+17: Zedaph: 730
+18: BdoubleO100: 605
+19: falsesymmetry: 490
+20: joehillssays: 232
+21: Stressmonster101: 119
+22: ZombieCleo: 72
+23: Tinfoilchef: 24
+24: Welsknight: 19
+Total 616287

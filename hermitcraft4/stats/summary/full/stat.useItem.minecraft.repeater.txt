@@ -1,0 +1,23 @@
+stat.useItem.minecraft.repeater
+1: MumboJumbo: 1913
+2: Xisuma: 1704
+3: iskall85: 1670
+4: Tango: 1483
+5: cubfan135: 1357
+6: impulseSV: 1038
+7: Etho: 678
+8: falsesymmetry: 387
+9: Docm77: 345
+10: Tinfoilchef: 203
+11: GoodTimeWithScar: 155
+12: joehillssays: 73
+13: Mumbo: 65
+14: ZombieCleo: 49
+15: Welsknight: 39
+16: iJevin: 27
+17: Biffa2001: 26
+18: Renthedog: 18
+19: PythonGB: 16
+20: VintageBeef: 9
+21: xisumavoid: 1
+Total 11256

@@ -1,0 +1,22 @@
+stat.useItem.minecraft.cooked_mutton
+1: falsesymmetry: 453
+2: monkeyfarm: 337
+3: Xisuma: 112
+4: ZombieCleo: 111
+5: zueljin: 41
+6: topmass: 20
+7: Mumbo: 17
+8: Biffa2001: 16
+9: Tinfoilchef: 16
+10: Tango: 14
+11: Pungence: 11
+12: hypnotizd: 9
+13: skyzm: 7
+14: NameOfSamuel: 7
+15: xBCrafted: 6
+16: KingDaddyDMAC: 4
+17: Etho: 4
+18: Spumwackles: 4
+19: sl1pg8r: 3
+20: Collen: 2
+Total 1194

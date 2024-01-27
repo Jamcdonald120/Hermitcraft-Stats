@@ -1,0 +1,7 @@
+minecraft.picked_up.nether_brick_wall
+1: GoodTimeWithScar: 373
+2: Renthedog: 72
+3: Xisuma: 71
+4: cubfan135: 37
+5: Tango: 1
+Total 554

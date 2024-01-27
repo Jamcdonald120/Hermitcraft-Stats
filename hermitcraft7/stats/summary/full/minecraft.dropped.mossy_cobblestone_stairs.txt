@@ -1,0 +1,4 @@
+minecraft.dropped.mossy_cobblestone_stairs
+1: Tango: 16
+2: Zedaph: 12
+Total 28

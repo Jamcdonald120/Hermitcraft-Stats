@@ -1,0 +1,23 @@
+stat.pickup.minecraft.leaves
+1: GoodTimeWithScar: 111231
+2: falsesymmetry: 21997
+3: Renthedog: 18413
+4: Xisuma: 10642
+5: iskall85: 7298
+6: cubfan135: 5374
+7: Welsknight: 4530
+8: Biffa2001: 3552
+9: MumboJumbo: 2020
+10: Tinfoilchef: 1356
+11: iJevin: 1250
+12: impulseSV: 1161
+13: ZombieCleo: 1113
+14: PythonGB: 1088
+15: Tango: 749
+16: Etho: 567
+17: joehillssays: 306
+18: Docm77: 270
+19: VintageBeef: 167
+20: Jessassin: 61
+21: zueljin: 32
+Total 193177

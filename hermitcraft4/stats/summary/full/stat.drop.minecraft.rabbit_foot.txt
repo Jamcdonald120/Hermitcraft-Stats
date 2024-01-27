@@ -1,0 +1,4 @@
+stat.drop.minecraft.rabbit_foot
+1: Tango: 4
+2: Renthedog: 1
+Total 5

@@ -1,0 +1,18 @@
+stat.useItem.minecraft.hardened_clay
+1: Xisuma: 1821
+2: xBCrafted: 1118
+3: falsesymmetry: 1015
+4: Mumbo: 379
+5: impulseSV: 109
+6: zueljin: 88
+7: Tango: 67
+8: sl1pg8r: 55
+9: Tinfoilchef: 42
+10: ZombieCleo: 27
+11: KingDaddyDMAC: 23
+12: PythonGB: 15
+13: topmass: 8
+14: iJevin: 8
+15: monkeyfarm: 6
+16: Biffa2001: 2
+Total 4783

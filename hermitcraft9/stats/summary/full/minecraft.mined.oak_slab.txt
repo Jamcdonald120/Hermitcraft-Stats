@@ -1,0 +1,28 @@
+minecraft.mined.oak_slab
+1: ZombieCleo: 238
+2: PearlescentMoon: 180
+3: VintageBeef: 177
+4: cubfan135: 162
+5: impulseSV: 162
+6: Keralis1: 146
+7: xBCrafted: 102
+8: Grian: 88
+9: Renthedog: 77
+10: hypnotizd: 57
+11: Tango: 51
+12: Etho: 50
+13: Docm77: 49
+14: iskall85: 45
+15: GeminiTay: 37
+16: iJevin: 36
+17: Zedaph: 35
+18: GoodTimeWithScar: 24
+19: Xisuma: 21
+20: Pixlriffs: 17
+21: SolidarityGaming: 12
+22: MythicalSausage: 8
+23: Mumbo: 8
+24: Stressmonster101: 8
+25: BdoubleO100: 3
+26: Welsknight: 1
+Total 1794

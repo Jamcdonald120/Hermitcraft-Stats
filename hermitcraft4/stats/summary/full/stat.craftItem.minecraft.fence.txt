@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.fence
+1: GoodTimeWithScar: 2979
+2: Xisuma: 1480
+3: cubfan135: 1128
+4: iskall85: 645
+5: Renthedog: 591
+6: iJevin: 579
+7: MumboJumbo: 543
+8: joehillssays: 528
+9: Welsknight: 498
+10: Tango: 486
+11: falsesymmetry: 336
+12: VintageBeef: 243
+13: ZombieCleo: 210
+14: Etho: 171
+15: Tinfoilchef: 129
+16: impulseSV: 117
+17: PythonGB: 75
+18: Biffa2001: 54
+19: xBCrafted: 12
+20: Docm77: 3
+21: Jessassin: 3
+22: zueljin: 3
+Total 10813

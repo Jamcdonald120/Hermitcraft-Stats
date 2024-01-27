@@ -1,0 +1,9 @@
+minecraft.picked_up.netherite_scrap
+1: iJevin: 17
+2: falsesymmetry: 6
+3: Zedaph: 4
+4: impulseSV: 3
+5: Xisuma: 1
+6: VintageBeef: 1
+7: hypnotizd: 1
+Total 33

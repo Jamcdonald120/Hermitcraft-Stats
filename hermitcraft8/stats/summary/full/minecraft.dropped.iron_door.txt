@@ -1,0 +1,8 @@
+minecraft.dropped.iron_door
+1: Grian: 6
+2: Xisuma: 4
+3: Tango: 3
+4: Etho: 2
+5: hypnotizd: 2
+6: BdoubleO100: 1
+Total 18

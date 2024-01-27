@@ -1,0 +1,25 @@
+minecraft.picked_up.paper
+1: MumboJumbo: 12716
+2: GoodTimeWithScar: 3988
+3: Grian: 3398
+4: Renthedog: 2725
+5: joehillssays: 1899
+6: cubfan135: 1657
+7: Tango: 1506
+8: iskall85: 1350
+9: Stressmonster101: 1011
+10: Docm77: 961
+11: iJevin: 908
+12: Zedaph: 497
+13: impulseSV: 444
+14: falsesymmetry: 287
+15: ZombieCleo: 186
+16: Xisuma: 163
+17: BdoubleO100: 146
+18: Keralis1: 87
+19: Tinfoilchef: 58
+20: PythonGB: 57
+21: Biffa2001: 22
+22: Welsknight: 16
+23: HumanCleo: 6
+Total 34088

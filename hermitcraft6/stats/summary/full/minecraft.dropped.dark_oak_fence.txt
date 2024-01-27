@@ -1,0 +1,16 @@
+minecraft.dropped.dark_oak_fence
+1: Tango: 196
+2: cubfan135: 130
+3: Xisuma: 111
+4: GoodTimeWithScar: 35
+5: Renthedog: 27
+6: Grian: 17
+7: iskall85: 13
+8: falsesymmetry: 11
+9: Stressmonster101: 4
+10: ZombieCleo: 3
+11: Docm77: 2
+12: MumboJumbo: 2
+13: joehillssays: 1
+14: Welsknight: 1
+Total 553

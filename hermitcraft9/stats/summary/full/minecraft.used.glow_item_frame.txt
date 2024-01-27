@@ -1,0 +1,24 @@
+minecraft.used.glow_item_frame
+1: cubfan135: 745
+2: GoodTimeWithScar: 542
+3: Tango: 358
+4: falsesymmetry: 150
+5: VintageBeef: 134
+6: PearlescentMoon: 112
+7: GeminiTay: 94
+8: Docm77: 66
+9: BdoubleO100: 50
+10: Keralis1: 47
+11: ZombieCleo: 45
+12: iJevin: 41
+13: Renthedog: 34
+14: xBCrafted: 31
+15: joehillssays: 24
+16: hypnotizd: 23
+17: impulseSV: 19
+18: Xisuma: 14
+19: RentheKing: 13
+20: iskall85: 12
+21: Grian: 2
+22: Etho: 2
+Total 2558

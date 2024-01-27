@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.red_flower
+1: falsesymmetry: 1345
+2: MumboJumbo: 900
+3: Renthedog: 742
+4: GoodTimeWithScar: 451
+5: cubfan135: 433
+6: Tango: 386
+7: iskall85: 366
+8: Xisuma: 207
+9: joehillssays: 172
+10: impulseSV: 127
+11: Tinfoilchef: 122
+12: PythonGB: 63
+13: Welsknight: 63
+14: zueljin: 48
+15: Etho: 30
+16: Docm77: 23
+17: ZombieCleo: 21
+18: iJevin: 13
+19: VintageBeef: 12
+20: Mumbo: 3
+Total 5527

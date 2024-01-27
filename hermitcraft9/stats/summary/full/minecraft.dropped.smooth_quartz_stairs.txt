@@ -1,0 +1,10 @@
+minecraft.dropped.smooth_quartz_stairs
+1: Grian: 21
+2: falsesymmetry: 10
+3: Zedaph: 9
+4: ZombieCleo: 8
+5: Keralis1: 7
+6: Mumbo: 5
+7: impulseSV: 2
+8: cubfan135: 1
+Total 63

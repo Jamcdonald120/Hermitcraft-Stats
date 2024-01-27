@@ -1,0 +1,24 @@
+stat.pickup.minecraft.written_book
+1: falsesymmetry: 67
+2: cubfan135: 56
+3: Renthedog: 54
+4: GoodTimeWithScar: 40
+5: iskall85: 28
+6: Xisuma: 27
+7: impulseSV: 26
+8: Tango: 25
+9: Tinfoilchef: 20
+10: Welsknight: 19
+11: PythonGB: 15
+12: joehillssays: 15
+13: ZombieCleo: 11
+14: VintageBeef: 8
+15: MumboJumbo: 6
+16: Biffa2001: 4
+17: Docm77: 3
+18: Jessassin: 2
+19: iJevin: 2
+20: zueljin: 2
+21: Etho: 2
+22: Mumbo: 1
+Total 433

@@ -1,0 +1,5 @@
+stat.drop.minecraft.wooden_shovel
+1: Renthedog: 76
+2: iskall85: 18
+3: falsesymmetry: 1
+Total 95

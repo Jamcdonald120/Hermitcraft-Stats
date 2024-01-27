@@ -1,0 +1,6 @@
+stat.useItem.minecraft.lava_bucket
+1: falsesymmetry: 54
+2: Xisuma: 29
+3: Tango: 14
+4: zueljin: 2
+Total 99

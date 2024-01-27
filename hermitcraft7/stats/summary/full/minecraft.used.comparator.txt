@@ -1,0 +1,26 @@
+minecraft.used.comparator
+1: MumboJumbo: 1698
+2: Tango: 1586
+3: cubfan135: 882
+4: Xisuma: 749
+5: iskall85: 710
+6: impulseSV: 648
+7: Etho: 506
+8: Renthedog: 485
+9: Zedaph: 482
+10: Stressmonster101: 471
+11: iJevin: 232
+12: xBCrafted: 174
+13: Grian: 150
+14: Docm77: 128
+15: Keralis1: 101
+16: GoodTimeWithScar: 95
+17: hypnotizd: 82
+18: falsesymmetry: 69
+19: joehillssays: 56
+20: Tinfoilchef: 50
+21: VintageBeef: 38
+22: BdoubleO100: 38
+23: Welsknight: 35
+24: xisumavoid: 1
+Total 9466

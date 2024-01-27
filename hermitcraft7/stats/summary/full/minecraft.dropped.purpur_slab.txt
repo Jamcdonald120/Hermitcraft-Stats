@@ -1,0 +1,19 @@
+minecraft.dropped.purpur_slab
+1: cubfan135: 119
+2: GoodTimeWithScar: 67
+3: Keralis1: 40
+4: iskall85: 23
+5: Etho: 22
+6: Tango: 17
+7: Xisuma: 15
+8: Renthedog: 12
+9: MumboJumbo: 8
+10: xBCrafted: 6
+11: Zedaph: 6
+12: iJevin: 4
+13: falsesymmetry: 3
+14: hypnotizd: 3
+15: Grian: 2
+16: VintageBeef: 1
+17: impulseSV: 1
+Total 349

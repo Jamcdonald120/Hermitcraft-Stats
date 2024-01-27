@@ -1,0 +1,11 @@
+minecraft.crafted.polished_blackstone_bricks
+1: impulseSV: 5892
+2: iJevin: 2068
+3: GoodTimeWithScar: 764
+4: Xisuma: 496
+5: PearlescentMoon: 108
+6: cubfan135: 76
+7: joehillssays: 25
+8: Docm77: 8
+9: Renthedog: 4
+Total 9441

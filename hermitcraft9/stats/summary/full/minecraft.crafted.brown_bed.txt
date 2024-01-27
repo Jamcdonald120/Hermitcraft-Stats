@@ -1,0 +1,6 @@
+minecraft.crafted.brown_bed
+1: Keralis1: 19
+2: Grian: 17
+3: Zedaph: 2
+4: BdoubleO100: 1
+Total 39

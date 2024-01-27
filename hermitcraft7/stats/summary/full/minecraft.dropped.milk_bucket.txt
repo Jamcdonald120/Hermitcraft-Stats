@@ -1,0 +1,15 @@
+minecraft.dropped.milk_bucket
+1: Renthedog: 15
+2: GoodTimeWithScar: 10
+3: Zedaph: 9
+4: cubfan135: 8
+5: iskall85: 7
+6: iJevin: 5
+7: Grian: 4
+8: impulseSV: 3
+9: Docm77: 2
+10: joehillssays: 2
+11: Stressmonster101: 2
+12: xBCrafted: 1
+13: ZombieCleo: 1
+Total 69

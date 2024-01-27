@@ -1,0 +1,21 @@
+minecraft.picked_up.stone_brick_wall
+1: Docm77: 152
+2: xBCrafted: 130
+3: Renthedog: 69
+4: iJevin: 54
+5: Keralis1: 54
+6: Grian: 53
+7: ZombieCleo: 35
+8: Tango: 13
+9: BdoubleO100: 12
+10: Xisuma: 8
+11: MumboJumbo: 8
+12: joehillssays: 7
+13: PearlescentMoon: 4
+14: falsesymmetry: 3
+15: Welsknight: 3
+16: impulseSV: 3
+17: GeminiTay: 2
+18: hypnotizd: 2
+19: GoodTimeWithScar: 1
+Total 613

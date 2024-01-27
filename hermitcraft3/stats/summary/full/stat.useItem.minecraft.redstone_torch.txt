@@ -1,0 +1,25 @@
+stat.useItem.minecraft.redstone_torch
+1: Tango: 1883
+2: Xisuma: 1386
+3: Mumbo: 1214
+4: falsesymmetry: 933
+5: impulseSV: 800
+6: iJevin: 583
+7: monkeyfarm: 581
+8: xBCrafted: 413
+9: zueljin: 335
+10: sl1pg8r: 188
+11: Docm77: 135
+12: Tinfoilchef: 134
+13: Biffa2001: 119
+14: Etho: 117
+15: hypnotizd: 104
+16: KingDaddyDMAC: 100
+17: ZombieCleo: 67
+18: topmass: 55
+19: skyzm: 28
+20: snipepager: 13
+21: xisumavoid: 8
+22: PythonGB: 3
+23: Biffa001: 2
+Total 9201

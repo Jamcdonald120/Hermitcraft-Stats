@@ -1,0 +1,25 @@
+minecraft.picked_up.coal_block
+1: ZombieCleo: 1781
+2: Zedaph: 1123
+3: cubfan135: 1000
+4: xBCrafted: 756
+5: Tango: 697
+6: Etho: 566
+7: iJevin: 478
+8: Grian: 331
+9: falsesymmetry: 309
+10: Welsknight: 260
+11: BdoubleO100: 205
+12: Renthedog: 167
+13: GoodTimeWithScar: 119
+14: iskall85: 115
+15: joehillssays: 97
+16: Keralis1: 88
+17: VintageBeef: 70
+18: MumboJumbo: 24
+19: impulseSV: 8
+20: Docm77: 7
+21: Xisuma: 5
+22: Stressmonster101: 4
+23: Tinfoilchef: 2
+Total 8212

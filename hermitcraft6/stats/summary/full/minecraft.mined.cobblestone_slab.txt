@@ -1,0 +1,23 @@
+minecraft.mined.cobblestone_slab
+1: GoodTimeWithScar: 1412
+2: iJevin: 1237
+3: falsesymmetry: 836
+4: cubfan135: 451
+5: Xisuma: 418
+6: Grian: 319
+7: iskall85: 281
+8: Renthedog: 270
+9: Biffa2001: 209
+10: Stressmonster101: 190
+11: BdoubleO100: 144
+12: Tango: 143
+13: Docm77: 135
+14: impulseSV: 64
+15: Keralis1: 59
+16: joehillssays: 55
+17: Welsknight: 42
+18: MumboJumbo: 33
+19: Zedaph: 29
+20: PythonGB: 14
+21: ZombieCleo: 4
+Total 6345

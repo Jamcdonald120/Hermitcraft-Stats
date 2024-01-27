@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.cooked_porkchop
+1: falsesymmetry: 716
+2: hypnotizd: 279
+3: Xisuma: 166
+4: Tango: 74
+5: iJevin: 65
+6: skyzm: 42
+7: xBCrafted: 41
+8: ZombieCleo: 32
+9: topmass: 27
+10: joehillssays: 16
+11: Mumbo: 14
+12: Pungence: 12
+13: Tinfoilchef: 12
+14: zueljin: 10
+15: Etho: 9
+16: KingDaddyDMAC: 3
+17: sl1pg8r: 2
+18: monkeyfarm: 2
+19: Spumwackles: 1
+Total 1523

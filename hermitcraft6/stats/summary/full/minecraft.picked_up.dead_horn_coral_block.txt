@@ -1,0 +1,11 @@
+minecraft.picked_up.dead_horn_coral_block
+1: cubfan135: 272
+2: GoodTimeWithScar: 157
+3: joehillssays: 65
+4: Docm77: 37
+5: iJevin: 21
+6: iskall85: 21
+7: PythonGB: 11
+8: Tango: 2
+9: Renthedog: 1
+Total 587

@@ -1,0 +1,21 @@
+stat.pickup.minecraft.quartz_ore
+1: falsesymmetry: 17849
+2: Renthedog: 7256
+3: Biffa2001: 6467
+4: GoodTimeWithScar: 4980
+5: Xisuma: 2683
+6: Tango: 1007
+7: impulseSV: 965
+8: VintageBeef: 890
+9: Docm77: 378
+10: joehillssays: 297
+11: iskall85: 183
+12: PythonGB: 165
+13: ZombieCleo: 157
+14: MumboJumbo: 152
+15: Jessassin: 121
+16: cubfan135: 103
+17: iJevin: 20
+18: Etho: 15
+19: Welsknight: 2
+Total 43690

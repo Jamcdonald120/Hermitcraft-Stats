@@ -1,0 +1,20 @@
+minecraft.dropped.poisonous_potato
+1: PythonGB: 162
+2: Grian: 83
+3: cubfan135: 72
+4: Keralis1: 21
+5: Renthedog: 14
+6: Tango: 11
+7: iskall85: 8
+8: falsesymmetry: 8
+9: Biffa2001: 6
+10: GoodTimeWithScar: 6
+11: Zedaph: 6
+12: Stressmonster101: 3
+13: Docm77: 2
+14: iJevin: 2
+15: joehillssays: 2
+16: Xisuma: 1
+17: MumboJumbo: 1
+18: Tinfoilchef: 1
+Total 409

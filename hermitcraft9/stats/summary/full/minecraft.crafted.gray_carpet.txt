@@ -1,0 +1,27 @@
+minecraft.crafted.gray_carpet
+1: VintageBeef: 10439
+2: cubfan135: 4682
+3: iJevin: 2733
+4: joehillssays: 2690
+5: impulseSV: 2364
+6: Tango: 1413
+7: Etho: 1398
+8: Keralis1: 810
+9: Renthedog: 630
+10: PearlescentMoon: 480
+11: falsesymmetry: 225
+12: ZombieCleo: 210
+13: GoodTimeWithScar: 201
+14: GeminiTay: 144
+15: Pixlriffs: 129
+16: BdoubleO100: 117
+17: iskall85: 96
+18: RentheKing: 96
+19: xBCrafted: 57
+20: Zedaph: 54
+21: hypnotizd: 51
+22: Xisuma: 45
+23: Stressmonster101: 30
+24: Grian: 27
+25: Docm77: 12
+Total 29133

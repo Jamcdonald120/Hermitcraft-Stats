@@ -1,0 +1,24 @@
+minecraft.crafted.lightning_rod
+1: Renthedog: 1154
+2: Keralis1: 326
+3: BdoubleO100: 281
+4: GoodTimeWithScar: 251
+5: PearlescentMoon: 247
+6: cubfan135: 244
+7: Docm77: 205
+8: impulseSV: 169
+9: Xisuma: 166
+10: Tango: 98
+11: Grian: 64
+12: Etho: 63
+13: ZombieCleo: 54
+14: Mumbo: 39
+15: joehillssays: 35
+16: falsesymmetry: 23
+17: RentheKing: 21
+18: xBCrafted: 12
+19: Stressmonster101: 12
+20: Zedaph: 11
+21: iJevin: 5
+22: VintageBeef: 2
+Total 3482

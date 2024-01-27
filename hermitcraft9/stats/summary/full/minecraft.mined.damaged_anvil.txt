@@ -1,0 +1,26 @@
+minecraft.mined.damaged_anvil
+1: cubfan135: 45
+2: RentheKing: 23
+3: Renthedog: 20
+4: Docm77: 15
+5: GoodTimeWithScar: 12
+6: BdoubleO100: 11
+7: Grian: 10
+8: Etho: 10
+9: Xisuma: 9
+10: falsesymmetry: 7
+11: iJevin: 6
+12: joehillssays: 5
+13: Tango: 5
+14: Zedaph: 5
+15: impulseSV: 4
+16: VintageBeef: 3
+17: Stressmonster101: 3
+18: OrionSound: 1
+19: MythicalSausage: 1
+20: GeminiTay: 1
+21: PearlescentMoon: 1
+22: ZombieCleo: 1
+23: hypnotizd: 1
+24: Keralis1: 1
+Total 200

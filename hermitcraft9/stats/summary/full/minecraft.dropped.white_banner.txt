@@ -1,0 +1,21 @@
+minecraft.dropped.white_banner
+1: impulseSV: 1748
+2: iJevin: 1611
+3: Keralis1: 1415
+4: Tango: 806
+5: PearlescentMoon: 574
+6: Docm77: 264
+7: GoodTimeWithScar: 96
+8: Grian: 62
+9: falsesymmetry: 28
+10: GeminiTay: 16
+11: Renthedog: 15
+12: Xisuma: 9
+13: Zedaph: 6
+14: VintageBeef: 4
+15: cubfan135: 4
+16: Etho: 4
+17: BdoubleO100: 1
+18: xBCrafted: 1
+19: ShubbleYT: 1
+Total 6665

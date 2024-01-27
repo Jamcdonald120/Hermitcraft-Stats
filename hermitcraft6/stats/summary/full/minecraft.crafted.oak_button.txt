@@ -1,0 +1,22 @@
+minecraft.crafted.oak_button
+1: Docm77: 354
+2: iJevin: 335
+3: Xisuma: 133
+4: cubfan135: 119
+5: impulseSV: 102
+6: Keralis1: 60
+7: iskall85: 43
+8: GoodTimeWithScar: 21
+9: joehillssays: 20
+10: MumboJumbo: 14
+11: Zedaph: 12
+12: Welsknight: 11
+13: Grian: 9
+14: Renthedog: 7
+15: ZombieCleo: 7
+16: falsesymmetry: 3
+17: Tinfoilchef: 3
+18: PythonGB: 2
+19: BdoubleO100: 2
+20: PhoenixfireLune: 2
+Total 1259

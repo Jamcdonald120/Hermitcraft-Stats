@@ -1,0 +1,15 @@
+minecraft.picked_up.wooden_shovel
+1: Xisuma: 90
+2: Tango: 20
+3: ZombieCleo: 13
+4: iskall85: 12
+5: impulseSV: 5
+6: joehillssays: 3
+7: cubfan135: 3
+8: Welsknight: 2
+9: Zedaph: 2
+10: Renthedog: 1
+11: GeminiTay: 1
+12: BdoubleO100: 1
+13: xBCrafted: 1
+Total 154

@@ -1,0 +1,7 @@
+minecraft.picked_up.brick_wall
+1: cubfan135: 365
+2: Xisuma: 15
+3: Grian: 15
+4: iskall85: 3
+5: BdoubleO100: 1
+Total 399

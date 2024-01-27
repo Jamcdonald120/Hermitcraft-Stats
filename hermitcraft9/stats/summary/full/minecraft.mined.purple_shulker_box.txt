@@ -1,0 +1,22 @@
+minecraft.mined.purple_shulker_box
+1: Tango: 203
+2: cubfan135: 188
+3: joehillssays: 181
+4: Xisuma: 165
+5: PearlescentMoon: 140
+6: BdoubleO100: 96
+7: xBCrafted: 83
+8: iJevin: 81
+9: Renthedog: 74
+10: Etho: 74
+11: GeminiTay: 58
+12: RentheKing: 37
+13: falsesymmetry: 35
+14: ZombieCleo: 24
+15: Grian: 16
+16: GoodTimeWithScar: 6
+17: impulseSV: 5
+18: Docm77: 3
+19: iskall85: 3
+20: Zedaph: 2
+Total 1474

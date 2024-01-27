@@ -1,0 +1,10 @@
+minecraft.picked_up.wooden_hoe
+1: Biffa2001: 7
+2: Renthedog: 4
+3: ZombieCleo: 3
+4: Stressmonster101: 3
+5: Docm77: 2
+6: Xisuma: 2
+7: Grian: 1
+8: Zedaph: 1
+Total 23

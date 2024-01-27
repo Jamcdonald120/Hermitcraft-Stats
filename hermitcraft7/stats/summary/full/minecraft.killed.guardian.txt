@@ -1,0 +1,15 @@
+minecraft.killed.guardian
+1: impulseSV: 32503
+2: Grian: 3890
+3: MumboJumbo: 2463
+4: falsesymmetry: 1452
+5: Tango: 837
+6: xBCrafted: 204
+7: Renthedog: 76
+8: iJevin: 39
+9: Etho: 39
+10: hypnotizd: 17
+11: Docm77: 13
+12: Xisuma: 5
+13: isGall85: 2
+Total 41540

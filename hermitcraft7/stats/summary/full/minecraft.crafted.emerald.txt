@@ -1,0 +1,25 @@
+minecraft.crafted.emerald
+1: GoodTimeWithScar: 141278
+2: Grian: 138895
+3: Etho: 113144
+4: Keralis1: 106793
+5: impulseSV: 79970
+6: Stressmonster101: 68358
+7: cubfan135: 50154
+8: Docm77: 11161
+9: iskall85: 10888
+10: hypnotizd: 9354
+11: MumboJumbo: 6990
+12: joehillssays: 4778
+13: xBCrafted: 2450
+14: Xisuma: 1654
+15: iJevin: 1605
+16: Tango: 1439
+17: falsesymmetry: 641
+18: VintageBeef: 515
+19: ZombieCleo: 297
+20: Zedaph: 225
+21: Renthedog: 126
+22: BdoubleO100: 101
+23: Welsknight: 18
+Total 750834

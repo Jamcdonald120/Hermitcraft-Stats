@@ -1,0 +1,10 @@
+minecraft.picked_up.raiser_armor_trim_smithing_template
+1: cubfan135: 6
+2: Zedaph: 4
+3: PearlescentMoon: 3
+4: iJevin: 2
+5: falsesymmetry: 2
+6: GeminiTay: 1
+7: ZombieCleo: 1
+8: Mumbo: 1
+Total 20

@@ -1,0 +1,22 @@
+minecraft.picked_up.stripped_oak_log
+1: Grian: 6033
+2: joehillssays: 1481
+3: xBCrafted: 827
+4: ZombieCleo: 629
+5: Tango: 457
+6: PearlescentMoon: 308
+7: BdoubleO100: 204
+8: cubfan135: 132
+9: Etho: 129
+10: MumboJumbo: 74
+11: Xisuma: 67
+12: iskall85: 34
+13: GoodTimeWithScar: 34
+14: impulseSV: 25
+15: Docm77: 24
+16: iJevin: 23
+17: GeminiTay: 22
+18: Keralis1: 8
+19: Renthedog: 1
+20: Tinfoilchef: 1
+Total 10513

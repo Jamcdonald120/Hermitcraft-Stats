@@ -1,0 +1,28 @@
+minecraft.used.spruce_stairs
+1: Renthedog: 4549
+2: GoodTimeWithScar: 2762
+3: cubfan135: 2527
+4: falsesymmetry: 1698
+5: Xisuma: 1487
+6: Welsknight: 1486
+7: Keralis1: 1426
+8: impulseSV: 1360
+9: Grian: 1124
+10: BdoubleO100: 1124
+11: ZombieCleo: 1070
+12: iJevin: 903
+13: Stressmonster101: 871
+14: PythonGB: 596
+15: iskall85: 538
+16: Docm77: 290
+17: Biffa2001: 251
+18: joehillssays: 143
+19: xBCrafted: 130
+20: HumanCleo: 126
+21: Tango: 79
+22: MumboJumbo: 28
+23: Jessassin: 18
+24: isGall85: 9
+25: Tinfoilchef: 8
+26: BadTimeWithScar: 3
+Total 24606

@@ -1,0 +1,17 @@
+minecraft.crafted.orange_stained_glass_pane
+1: xBCrafted: 1072
+2: Grian: 926
+3: impulseSV: 843
+4: GoodTimeWithScar: 600
+5: iJevin: 288
+6: Xisuma: 216
+7: Etho: 112
+8: Docm77: 80
+9: cubfan135: 80
+10: VintageBeef: 48
+11: Keralis1: 48
+12: joehillssays: 32
+13: Zedaph: 24
+14: falsesymmetry: 16
+15: MumboJumbo: 16
+Total 4401

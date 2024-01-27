@@ -1,0 +1,24 @@
+minecraft.picked_up.sweet_berries
+1: joehillssays: 45768
+2: xBCrafted: 6582
+3: Docm77: 3995
+4: Etho: 1498
+5: Zedaph: 844
+6: GoodTimeWithScar: 646
+7: Grian: 474
+8: falsesymmetry: 230
+9: cubfan135: 206
+10: VintageBeef: 203
+11: BdoubleO100: 173
+12: Tango: 150
+13: Xisuma: 97
+14: Keralis1: 95
+15: hypnotizd: 42
+16: impulseSV: 31
+17: iskall85: 24
+18: Welsknight: 16
+19: MumboJumbo: 16
+20: ZombieCleo: 8
+21: BarryBoss1234: 3
+22: iJevin: 2
+Total 61103

@@ -1,0 +1,11 @@
+minecraft.dropped.copper_block
+1: GoodTimeWithScar: 301
+2: Tango: 256
+3: Xisuma: 163
+4: Docm77: 128
+5: hypnotizd: 87
+6: iJevin: 77
+7: Renthedog: 48
+8: BdoubleO100: 41
+9: cubfan135: 12
+Total 1113

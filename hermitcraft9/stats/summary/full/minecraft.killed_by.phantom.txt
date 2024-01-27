@@ -1,0 +1,11 @@
+minecraft.killed_by.phantom
+1: Xisuma: 3
+2: Renthedog: 2
+3: Docm77: 1
+4: OrionSound: 1
+5: iJevin: 1
+6: Grian: 1
+7: iskall85: 1
+8: GoodTimeWithScar: 1
+9: Zedaph: 1
+Total 12

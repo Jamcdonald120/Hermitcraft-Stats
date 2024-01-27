@@ -1,0 +1,18 @@
+minecraft.crafted.yellow_stained_glass_pane
+1: Grian: 1272
+2: impulseSV: 925
+3: GoodTimeWithScar: 480
+4: Etho: 256
+5: Xisuma: 192
+6: xBCrafted: 160
+7: falsesymmetry: 64
+8: Keralis1: 64
+9: MumboJumbo: 40
+10: VintageBeef: 32
+11: Zedaph: 32
+12: joehillssays: 16
+13: Tango: 16
+14: BdoubleO100: 16
+15: cubfan135: 16
+16: iskall85: 8
+Total 3589

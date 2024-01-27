@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.golden_rail
+1: impulseSV: 535
+2: Xisuma: 522
+3: Mumbo: 411
+4: hypnotizd: 353
+5: xBCrafted: 220
+6: falsesymmetry: 200
+7: Biffa2001: 180
+8: Tango: 161
+9: Etho: 119
+10: monkeyfarm: 117
+11: sl1pg8r: 83
+12: Tinfoilchef: 58
+13: zueljin: 53
+14: iJevin: 33
+15: KingDaddyDMAC: 15
+16: topmass: 6
+17: Docm77: 5
+18: skyzm: 3
+Total 3074

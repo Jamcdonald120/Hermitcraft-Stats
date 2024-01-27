@@ -1,0 +1,24 @@
+minecraft.picked_up.minecart
+1: impulseSV: 810
+2: iskall85: 662
+3: Docm77: 559
+4: GoodTimeWithScar: 517
+5: MumboJumbo: 427
+6: cubfan135: 268
+7: Renthedog: 264
+8: Xisuma: 238
+9: Tango: 210
+10: iJevin: 191
+11: falsesymmetry: 180
+12: joehillssays: 166
+13: Grian: 150
+14: Tinfoilchef: 145
+15: Stressmonster101: 122
+16: Zedaph: 76
+17: Welsknight: 52
+18: PythonGB: 17
+19: ZombieCleo: 15
+20: Biffa2001: 14
+21: Keralis1: 9
+22: BdoubleO100: 8
+Total 5100

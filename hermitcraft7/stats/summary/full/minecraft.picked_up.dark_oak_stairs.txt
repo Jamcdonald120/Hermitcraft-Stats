@@ -1,0 +1,24 @@
+minecraft.picked_up.dark_oak_stairs
+1: Zedaph: 3055
+2: Grian: 1859
+3: GoodTimeWithScar: 642
+4: cubfan135: 577
+5: Keralis1: 556
+6: Renthedog: 551
+7: impulseSV: 415
+8: Etho: 274
+9: BdoubleO100: 217
+10: joehillssays: 170
+11: Stressmonster101: 141
+12: ZombieCleo: 105
+13: Docm77: 72
+14: Tango: 72
+15: Xisuma: 63
+16: VintageBeef: 32
+17: xBCrafted: 32
+18: MumboJumbo: 32
+19: iskall85: 26
+20: Welsknight: 12
+21: falsesymmetry: 5
+22: iJevin: 4
+Total 8912

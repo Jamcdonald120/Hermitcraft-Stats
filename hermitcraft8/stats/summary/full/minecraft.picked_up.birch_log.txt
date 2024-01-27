@@ -1,0 +1,28 @@
+minecraft.picked_up.birch_log
+1: GoodTimeWithScar: 5055
+2: GeminiTay: 4716
+3: joehillssays: 4583
+4: Grian: 4436
+5: Renthedog: 3106
+6: Docm77: 2612
+7: BdoubleO100: 2448
+8: hypnotizd: 2309
+9: PearlescentMoon: 2100
+10: ZombieCleo: 1401
+11: Welsknight: 1375
+12: xBCrafted: 1125
+13: impulseSV: 1095
+14: Keralis1: 1069
+15: cubfan135: 1036
+16: iJevin: 854
+17: MumboJumbo: 696
+18: Etho: 473
+19: Xisuma: 316
+20: Stressmonster101: 313
+21: iskall85: 209
+22: falsesymmetry: 148
+23: Tango: 107
+24: Tinfoilchef: 37
+25: Zedaph: 36
+26: VintageBeef: 11
+Total 41666

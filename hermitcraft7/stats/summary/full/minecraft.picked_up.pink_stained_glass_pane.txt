@@ -1,0 +1,8 @@
+minecraft.picked_up.pink_stained_glass_pane
+1: Stressmonster101: 50
+2: Tango: 34
+3: impulseSV: 31
+4: MumboJumbo: 18
+5: iskall85: 3
+6: Xisuma: 1
+Total 137

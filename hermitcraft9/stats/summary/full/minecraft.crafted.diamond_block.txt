@@ -1,0 +1,29 @@
+minecraft.crafted.diamond_block
+1: impulseSV: 925
+2: cubfan135: 765
+3: iJevin: 698
+4: RentheKing: 670
+5: xBCrafted: 577
+6: Xisuma: 241
+7: Zedaph: 224
+8: PearlescentMoon: 211
+9: Mumbo: 210
+10: Keralis1: 175
+11: Grian: 167
+12: joehillssays: 159
+13: VintageBeef: 152
+14: GoodTimeWithScar: 128
+15: Renthedog: 104
+16: hypnotizd: 93
+17: falsesymmetry: 89
+18: Docm77: 84
+19: BdoubleO100: 81
+20: GeminiTay: 68
+21: ZombieCleo: 20
+22: iskall85: 18
+23: Etho: 17
+24: Tango: 9
+25: Welsknight: 8
+26: Pixlriffs: 5
+27: Smallishbeans: 3
+Total 5901

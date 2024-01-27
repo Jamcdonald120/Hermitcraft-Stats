@@ -1,0 +1,10 @@
+minecraft.dropped.birch_stairs
+1: GoodTimeWithScar: 275
+2: Zedaph: 52
+3: Keralis1: 34
+4: VintageBeef: 12
+5: Grian: 7
+6: cubfan135: 3
+7: xBCrafted: 2
+8: ZombieCleo: 1
+Total 386

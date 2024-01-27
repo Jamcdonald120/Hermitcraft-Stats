@@ -1,0 +1,17 @@
+minecraft.dropped.gray_concrete_powder
+1: Zedaph: 1190
+2: Grian: 1067
+3: falsesymmetry: 600
+4: Stressmonster101: 321
+5: cubfan135: 308
+6: Tango: 192
+7: GoodTimeWithScar: 118
+8: Keralis1: 57
+9: impulseSV: 32
+10: iskall85: 9
+11: Etho: 7
+12: BdoubleO100: 2
+13: VintageBeef: 1
+14: xBCrafted: 1
+15: MumboJumbo: 1
+Total 3906

@@ -1,0 +1,23 @@
+minecraft.crafted.diamond_hoe
+1: Etho: 17
+2: iskall85: 8
+3: Docm77: 7
+4: GoodTimeWithScar: 7
+5: Renthedog: 6
+6: xBCrafted: 6
+7: Welsknight: 5
+8: MumboJumbo: 5
+9: iJevin: 4
+10: Stressmonster101: 4
+11: Keralis1: 4
+12: Xisuma: 3
+13: ZombieCleo: 3
+14: hypnotizd: 3
+15: VintageBeef: 2
+16: BdoubleO100: 2
+17: falsesymmetry: 2
+18: impulseSV: 2
+19: Grian: 1
+20: Tango: 1
+21: cubfan135: 1
+Total 93

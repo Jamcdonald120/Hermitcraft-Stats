@@ -1,0 +1,4 @@
+stat.useItem.minecraft.wooden_sword
+1: sl1pg8r: 7
+2: iJevin: 4
+Total 11

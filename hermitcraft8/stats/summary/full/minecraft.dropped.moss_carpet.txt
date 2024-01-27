@@ -1,0 +1,23 @@
+minecraft.dropped.moss_carpet
+1: GeminiTay: 386
+2: GoodTimeWithScar: 310
+3: iskall85: 243
+4: PearlescentMoon: 147
+5: Grian: 134
+6: Keralis1: 108
+7: xBCrafted: 106
+8: Xisuma: 91
+9: Etho: 78
+10: MumboJumbo: 77
+11: impulseSV: 71
+12: cubfan135: 52
+13: falsesymmetry: 40
+14: Docm77: 27
+15: Zedaph: 13
+16: iJevin: 12
+17: Stressmonster101: 6
+18: Tango: 2
+19: hypnotizd: 2
+20: BdoubleO100: 1
+21: ZombieCleo: 1
+Total 1907

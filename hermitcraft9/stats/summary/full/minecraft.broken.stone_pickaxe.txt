@@ -1,0 +1,19 @@
+minecraft.broken.stone_pickaxe
+1: Tinfoilchef: 28
+2: ZombieCleo: 13
+3: BdoubleO100: 8
+4: iskall85: 4
+5: joehillssays: 3
+6: Stressmonster101: 3
+7: Zedaph: 3
+8: GeminiTay: 2
+9: falsesymmetry: 2
+10: hypnotizd: 2
+11: Grian: 1
+12: PearlescentMoon: 1
+13: Pixlriffs: 1
+14: xBCrafted: 1
+15: Welsknight: 1
+16: Mumbo: 1
+17: MumboJumbo: 1
+Total 75

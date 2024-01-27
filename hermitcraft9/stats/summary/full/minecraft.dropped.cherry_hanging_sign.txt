@@ -1,0 +1,4 @@
+minecraft.dropped.cherry_hanging_sign
+1: Zedaph: 10
+2: Mumbo: 2
+Total 12

@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.cake
+1: Tango: 80
+2: impulseSV: 58
+3: Tinfoilchef: 33
+4: Docm77: 27
+5: Mumbo: 17
+6: Spumwackles: 11
+7: falsesymmetry: 2
+8: iJevin: 1
+Total 229

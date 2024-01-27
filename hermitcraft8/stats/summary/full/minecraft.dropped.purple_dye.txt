@@ -1,0 +1,4 @@
+minecraft.dropped.purple_dye
+1: Etho: 64
+2: Renthedog: 1
+Total 65

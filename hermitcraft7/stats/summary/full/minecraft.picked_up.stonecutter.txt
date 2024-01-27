@@ -1,0 +1,24 @@
+minecraft.picked_up.stonecutter
+1: BdoubleO100: 1044
+2: cubfan135: 261
+3: xBCrafted: 254
+4: Xisuma: 233
+5: VintageBeef: 149
+6: GoodTimeWithScar: 148
+7: Grian: 99
+8: Tango: 88
+9: Etho: 78
+10: iskall85: 69
+11: Keralis1: 45
+12: hypnotizd: 40
+13: Zedaph: 40
+14: impulseSV: 28
+15: joehillssays: 27
+16: ZombieCleo: 24
+17: Docm77: 21
+18: Welsknight: 17
+19: Stressmonster101: 16
+20: Renthedog: 7
+21: falsesymmetry: 7
+22: iJevin: 3
+Total 2698

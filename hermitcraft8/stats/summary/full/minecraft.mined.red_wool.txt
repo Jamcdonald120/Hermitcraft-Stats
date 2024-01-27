@@ -1,0 +1,17 @@
+minecraft.mined.red_wool
+1: Grian: 1100
+2: PearlescentMoon: 991
+3: GoodTimeWithScar: 980
+4: BdoubleO100: 678
+5: GeminiTay: 388
+6: Tango: 368
+7: impulseSV: 310
+8: Keralis1: 251
+9: cubfan135: 74
+10: hypnotizd: 48
+11: Zedaph: 17
+12: falsesymmetry: 15
+13: xBCrafted: 13
+14: Xisuma: 4
+15: EvilXisuma: 3
+Total 5240

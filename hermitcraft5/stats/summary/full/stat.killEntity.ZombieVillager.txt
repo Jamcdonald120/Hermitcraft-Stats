@@ -1,0 +1,25 @@
+stat.killEntity.ZombieVillager
+1: cubfan135: 193
+2: GoodTimeWithScar: 190
+3: PythonGB: 76
+4: Tango: 65
+5: MumboJumbo: 60
+6: iJevin: 51
+7: Zedaph: 38
+8: Xisuma: 32
+9: Welsknight: 32
+10: impulseSV: 32
+11: Renthedog: 31
+12: xBCrafted: 31
+13: falsesymmetry: 23
+14: Tinfoilchef: 21
+15: iskall85: 20
+16: Biffa2001: 19
+17: Docm77: 16
+18: BdoubleO100: 9
+19: Stressmonster101: 9
+20: Etho: 8
+21: VintageBeef: 7
+22: joehillssays: 6
+23: ZombieCleo: 6
+Total 975

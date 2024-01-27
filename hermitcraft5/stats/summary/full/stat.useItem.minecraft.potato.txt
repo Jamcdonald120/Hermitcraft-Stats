@@ -1,0 +1,25 @@
+stat.useItem.minecraft.potato
+1: MumboJumbo: 7701
+2: ZombieCleo: 7538
+3: Tango: 3929
+4: Tinfoilchef: 3486
+5: cubfan135: 2015
+6: impulseSV: 1945
+7: PythonGB: 1267
+8: GoodTimeWithScar: 998
+9: Stressmonster101: 969
+10: Xisuma: 794
+11: falsesymmetry: 666
+12: iJevin: 554
+13: Zedaph: 483
+14: Renthedog: 425
+15: xBCrafted: 262
+16: iskall85: 248
+17: joehillssays: 147
+18: Welsknight: 143
+19: Biffa2001: 97
+20: Etho: 44
+21: Docm77: 8
+22: BdoubleO100: 8
+23: VintageBeef: 1
+Total 33728

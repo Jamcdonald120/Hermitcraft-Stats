@@ -1,0 +1,11 @@
+stat.useItem.minecraft.chest_minecart
+1: Xisuma: 115
+2: GoodTimeWithScar: 50
+3: impulseSV: 49
+4: iskall85: 42
+5: cubfan135: 24
+6: Renthedog: 9
+7: falsesymmetry: 7
+8: Tango: 6
+9: joehillssays: 2
+Total 304

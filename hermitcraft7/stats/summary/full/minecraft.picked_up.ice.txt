@@ -1,0 +1,23 @@
+minecraft.picked_up.ice
+1: impulseSV: 76782
+2: Etho: 39257
+3: Zedaph: 8749
+4: GoodTimeWithScar: 5969
+5: falsesymmetry: 3075
+6: Tango: 2512
+7: Xisuma: 2488
+8: iJevin: 1886
+9: Grian: 1301
+10: MumboJumbo: 715
+11: iskall85: 711
+12: cubfan135: 675
+13: BdoubleO100: 343
+14: Renthedog: 301
+15: Keralis1: 199
+16: Docm77: 162
+17: xBCrafted: 104
+18: VintageBeef: 77
+19: Stressmonster101: 11
+20: joehillssays: 2
+21: hypnotizd: 2
+Total 145321

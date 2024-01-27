@@ -1,0 +1,4 @@
+minecraft.killed.polar_bear
+1: Renthedog: 8
+2: Grian: 1
+Total 9

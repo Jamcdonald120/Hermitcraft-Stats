@@ -1,0 +1,34 @@
+minecraft.mined.deepslate_diamond_ore
+1: Docm77: 9944
+2: cubfan135: 4802
+3: xBCrafted: 2725
+4: Grian: 2404
+5: PearlescentMoon: 2312
+6: Mumbo: 1246
+7: joehillssays: 1243
+8: RentheKing: 920
+9: Zedaph: 897
+10: Xisuma: 738
+11: iJevin: 718
+12: hypnotizd: 675
+13: GoodTimeWithScar: 576
+14: ZombieCleo: 548
+15: impulseSV: 518
+16: Keralis1: 487
+17: falsesymmetry: 346
+18: Tango: 344
+19: Renthedog: 256
+20: iskall85: 226
+21: VintageBeef: 224
+22: GeminiTay: 198
+23: Welsknight: 161
+24: BdoubleO100: 147
+25: Etho: 106
+26: Pixlriffs: 85
+27: MythicalSausage: 76
+28: MumboJumbo: 68
+29: Smallishbeans: 43
+30: Stressmonster101: 18
+31: Tinfoilchef: 17
+32: fWhip: 1
+Total 33069

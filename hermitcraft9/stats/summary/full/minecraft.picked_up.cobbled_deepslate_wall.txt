@@ -1,0 +1,17 @@
+minecraft.picked_up.cobbled_deepslate_wall
+1: Tango: 323
+2: Grian: 218
+3: impulseSV: 84
+4: xBCrafted: 72
+5: GoodTimeWithScar: 68
+6: Docm77: 37
+7: BdoubleO100: 37
+8: Xisuma: 36
+9: cubfan135: 36
+10: iJevin: 34
+11: Renthedog: 29
+12: joehillssays: 11
+13: GeminiTay: 2
+14: PearlescentMoon: 2
+15: RentheKing: 1
+Total 990

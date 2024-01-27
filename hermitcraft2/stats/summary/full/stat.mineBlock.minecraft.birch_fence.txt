@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.birch_fence
+1: ZombieCleo: 8
+2: Spumwackles: 3
+Total 11

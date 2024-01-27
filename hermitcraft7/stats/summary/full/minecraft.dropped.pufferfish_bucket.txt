@@ -1,0 +1,10 @@
+minecraft.dropped.pufferfish_bucket
+1: Xisuma: 37
+2: Zedaph: 21
+3: Tango: 13
+4: cubfan135: 4
+5: Docm77: 1
+6: falsesymmetry: 1
+7: GoodTimeWithScar: 1
+8: Stressmonster101: 1
+Total 79

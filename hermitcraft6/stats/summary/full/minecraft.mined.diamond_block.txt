@@ -1,0 +1,22 @@
+minecraft.mined.diamond_block
+1: GoodTimeWithScar: 1077
+2: iskall85: 757
+3: cubfan135: 425
+4: iJevin: 250
+5: Docm77: 200
+6: Grian: 169
+7: MumboJumbo: 98
+8: Welsknight: 90
+9: Renthedog: 55
+10: falsesymmetry: 48
+11: Xisuma: 40
+12: Tango: 31
+13: Biffa2001: 29
+14: Tinfoilchef: 22
+15: impulseSV: 17
+16: joehillssays: 16
+17: Stressmonster101: 7
+18: Keralis1: 6
+19: BdoubleO100: 2
+20: ZombieCleo: 1
+Total 3340

@@ -1,0 +1,15 @@
+minecraft.picked_up.stripped_birch_wood
+1: Keralis1: 393
+2: BdoubleO100: 190
+3: cubfan135: 113
+4: Renthedog: 101
+5: Stressmonster101: 66
+6: Etho: 63
+7: Grian: 50
+8: GoodTimeWithScar: 37
+9: VintageBeef: 36
+10: Xisuma: 15
+11: impulseSV: 5
+12: iskall85: 3
+13: Welsknight: 2
+Total 1074

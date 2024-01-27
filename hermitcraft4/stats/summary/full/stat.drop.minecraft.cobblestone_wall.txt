@@ -1,0 +1,12 @@
+stat.drop.minecraft.cobblestone_wall
+1: Tango: 84
+2: Xisuma: 70
+3: falsesymmetry: 62
+4: iskall85: 51
+5: GoodTimeWithScar: 37
+6: Renthedog: 20
+7: cubfan135: 5
+8: MumboJumbo: 2
+9: PythonGB: 1
+10: Etho: 1
+Total 333

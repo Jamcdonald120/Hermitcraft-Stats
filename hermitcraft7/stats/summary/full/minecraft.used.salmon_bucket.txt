@@ -1,0 +1,4 @@
+minecraft.used.salmon_bucket
+1: xBCrafted: 11
+2: joehillssays: 1
+Total 12

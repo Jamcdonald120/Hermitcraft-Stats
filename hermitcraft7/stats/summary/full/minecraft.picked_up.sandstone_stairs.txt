@@ -1,0 +1,20 @@
+minecraft.picked_up.sandstone_stairs
+1: Renthedog: 1576
+2: cubfan135: 1460
+3: joehillssays: 713
+4: VintageBeef: 555
+5: ZombieCleo: 404
+6: Grian: 120
+7: Xisuma: 100
+8: BdoubleO100: 60
+9: Keralis1: 53
+10: impulseSV: 42
+11: Zedaph: 33
+12: Tango: 28
+13: Welsknight: 25
+14: hypnotizd: 19
+15: GoodTimeWithScar: 11
+16: Etho: 10
+17: Docm77: 9
+18: xBCrafted: 5
+Total 5223

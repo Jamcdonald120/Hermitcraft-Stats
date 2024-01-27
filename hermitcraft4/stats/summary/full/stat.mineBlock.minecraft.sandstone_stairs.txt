@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.sandstone_stairs
+1: falsesymmetry: 206
+2: Xisuma: 95
+3: impulseSV: 81
+4: joehillssays: 79
+5: MumboJumbo: 71
+6: cubfan135: 67
+7: Tango: 62
+8: Docm77: 50
+9: Welsknight: 35
+10: iskall85: 29
+11: Renthedog: 24
+12: Etho: 3
+Total 802

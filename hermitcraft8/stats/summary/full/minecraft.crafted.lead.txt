@@ -1,0 +1,20 @@
+minecraft.crafted.lead
+1: PearlescentMoon: 162
+2: GoodTimeWithScar: 78
+3: Docm77: 36
+4: Grian: 24
+5: impulseSV: 24
+6: Xisuma: 22
+7: cubfan135: 22
+8: Tango: 20
+9: Keralis1: 20
+10: joehillssays: 18
+11: Zedaph: 16
+12: Etho: 14
+13: BdoubleO100: 12
+14: MumboJumbo: 10
+15: falsesymmetry: 6
+16: iJevin: 4
+17: GeminiTay: 2
+18: ZombieCleo: 2
+Total 492

@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.slime_ball
+1: iskall85: 1746
+2: Tango: 1584
+3: GoodTimeWithScar: 963
+4: MumboJumbo: 738
+5: cubfan135: 729
+6: Xisuma: 720
+7: falsesymmetry: 675
+8: Renthedog: 585
+9: Welsknight: 486
+10: Biffa2001: 378
+11: impulseSV: 336
+12: Etho: 189
+13: Docm77: 117
+14: Mumbo: 36
+15: PythonGB: 9
+16: iJevin: 9
+17: joehillssays: 9
+18: Tinfoilchef: 9
+Total 9318

@@ -1,0 +1,7 @@
+minecraft.crafted.host_armor_trim_smithing_template
+1: iJevin: 8
+2: cubfan135: 8
+3: falsesymmetry: 4
+4: impulseSV: 4
+5: Zedaph: 2
+Total 26

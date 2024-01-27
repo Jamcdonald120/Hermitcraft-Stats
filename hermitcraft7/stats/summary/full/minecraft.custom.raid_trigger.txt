@@ -1,0 +1,16 @@
+minecraft.custom.raid_trigger
+1: impulseSV: 1268
+2: cubfan135: 10
+3: iJevin: 5
+4: Tango: 5
+5: Docm77: 2
+6: VintageBeef: 2
+7: Grian: 2
+8: Etho: 2
+9: Renthedog: 1
+10: joehillssays: 1
+11: falsesymmetry: 1
+12: Welsknight: 1
+13: ZombieCleo: 1
+14: Keralis1: 1
+Total 1302

@@ -1,0 +1,4 @@
+stat.useItem.minecraft.rabbit
+1: hypnotizd: 2
+2: KingDaddyDMAC: 1
+Total 3

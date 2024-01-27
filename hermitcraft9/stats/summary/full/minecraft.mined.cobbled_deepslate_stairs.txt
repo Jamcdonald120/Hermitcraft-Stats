@@ -1,0 +1,24 @@
+minecraft.mined.cobbled_deepslate_stairs
+1: Tango: 285
+2: Renthedog: 206
+3: cubfan135: 102
+4: RentheKing: 42
+5: Docm77: 40
+6: falsesymmetry: 32
+7: Xisuma: 24
+8: BdoubleO100: 19
+9: impulseSV: 18
+10: GeminiTay: 16
+11: GoodTimeWithScar: 14
+12: PearlescentMoon: 11
+13: joehillssays: 10
+14: Welsknight: 7
+15: iJevin: 6
+16: ZombieCleo: 5
+17: Zedaph: 5
+18: Grian: 3
+19: xBCrafted: 3
+20: Mumbo: 3
+21: MumboJumbo: 3
+22: MythicalSausage: 1
+Total 855

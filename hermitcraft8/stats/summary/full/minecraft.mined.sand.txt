@@ -1,0 +1,28 @@
+minecraft.mined.sand
+1: Renthedog: 88523
+2: impulseSV: 83231
+3: iJevin: 67265
+4: GoodTimeWithScar: 60256
+5: Docm77: 59527
+6: xBCrafted: 57455
+7: PearlescentMoon: 32794
+8: Tango: 30215
+9: Welsknight: 28218
+10: iskall85: 22889
+11: hypnotizd: 22158
+12: joehillssays: 22041
+13: MumboJumbo: 18621
+14: falsesymmetry: 13759
+15: cubfan135: 11513
+16: Xisuma: 10740
+17: Grian: 9430
+18: Etho: 7690
+19: Zedaph: 6415
+20: VintageBeef: 2259
+21: ZombieCleo: 2190
+22: BdoubleO100: 1813
+23: Keralis1: 1386
+24: GeminiTay: 1246
+25: Tinfoilchef: 650
+26: Stressmonster101: 125
+Total 662409

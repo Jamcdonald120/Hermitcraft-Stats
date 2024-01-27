@@ -1,0 +1,25 @@
+minecraft.dropped.oak_fence
+1: PearlescentMoon: 138
+2: MumboJumbo: 82
+3: hypnotizd: 32
+4: iJevin: 31
+5: cubfan135: 31
+6: Etho: 24
+7: Renthedog: 23
+8: joehillssays: 15
+9: GoodTimeWithScar: 15
+10: ZombieCleo: 13
+11: Grian: 9
+12: GeminiTay: 6
+13: Tango: 5
+14: Keralis1: 5
+15: Zedaph: 5
+16: Docm77: 4
+17: Xisuma: 3
+18: VintageBeef: 3
+19: BdoubleO100: 2
+20: iskall85: 2
+21: xBCrafted: 2
+22: falsesymmetry: 2
+23: impulseSV: 2
+Total 454

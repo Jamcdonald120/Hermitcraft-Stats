@@ -1,0 +1,23 @@
+stat.useItem.minecraft.repeater
+1: impulseSV: 1480
+2: Xisuma: 1458
+3: Mumbo: 1411
+4: Tango: 1366
+5: xBCrafted: 602
+6: falsesymmetry: 466
+7: iJevin: 431
+8: hypnotizd: 308
+9: Docm77: 252
+10: monkeyfarm: 245
+11: sl1pg8r: 180
+12: Etho: 171
+13: Tinfoilchef: 135
+14: zueljin: 93
+15: KingDaddyDMAC: 60
+16: topmass: 30
+17: Biffa2001: 26
+18: xisumavoid: 21
+19: PythonGB: 15
+20: snipepager: 10
+21: Biffa001: 1
+Total 8761

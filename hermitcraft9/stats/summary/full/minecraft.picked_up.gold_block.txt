@@ -1,0 +1,26 @@
+minecraft.picked_up.gold_block
+1: Tango: 4613
+2: iJevin: 3888
+3: cubfan135: 705
+4: impulseSV: 482
+5: Zedaph: 291
+6: Xisuma: 262
+7: Renthedog: 237
+8: PearlescentMoon: 209
+9: Grian: 186
+10: VintageBeef: 185
+11: hypnotizd: 145
+12: Etho: 110
+13: Docm77: 106
+14: Keralis1: 92
+15: GeminiTay: 91
+16: RentheKing: 81
+17: xBCrafted: 64
+18: joehillssays: 42
+19: GoodTimeWithScar: 24
+20: Stressmonster101: 18
+21: BdoubleO100: 8
+22: falsesymmetry: 5
+23: Mumbo: 2
+24: iskall85: 1
+Total 11847

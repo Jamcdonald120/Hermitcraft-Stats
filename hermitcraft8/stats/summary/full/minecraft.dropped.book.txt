@@ -1,0 +1,8 @@
+minecraft.dropped.book
+1: iJevin: 170
+2: Keralis1: 84
+3: Grian: 38
+4: Xisuma: 5
+5: falsesymmetry: 2
+6: GoodTimeWithScar: 1
+Total 300

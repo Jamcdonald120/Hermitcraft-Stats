@@ -1,0 +1,12 @@
+minecraft.picked_up.acacia_boat
+1: GoodTimeWithScar: 28
+2: Docm77: 15
+3: iJevin: 11
+4: iskall85: 5
+5: Tango: 3
+6: BdoubleO100: 3
+7: PearlescentMoon: 3
+8: Xisuma: 2
+9: hypnotizd: 2
+10: Etho: 1
+Total 73

@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.bone_block
+1: Welsknight: 9941
+2: GoodTimeWithScar: 2892
+3: Xisuma: 2405
+4: impulseSV: 1931
+5: cubfan135: 1540
+6: Renthedog: 1223
+7: iskall85: 901
+8: falsesymmetry: 752
+9: MumboJumbo: 640
+10: joehillssays: 414
+11: ZombieCleo: 304
+12: Tinfoilchef: 152
+13: PythonGB: 128
+14: zueljin: 5
+15: VintageBeef: 2
+16: iJevin: 1
+Total 23231

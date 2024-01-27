@@ -1,0 +1,21 @@
+minecraft.picked_up.shield
+1: Xisuma: 23
+2: GoodTimeWithScar: 20
+3: Docm77: 17
+4: Tango: 13
+5: Renthedog: 11
+6: iJevin: 11
+7: impulseSV: 8
+8: PearlescentMoon: 7
+9: falsesymmetry: 7
+10: GeminiTay: 6
+11: Grian: 6
+12: iskall85: 5
+13: Zedaph: 5
+14: hypnotizd: 4
+15: Stressmonster101: 3
+16: BdoubleO100: 2
+17: cubfan135: 2
+18: EvilXisuma: 1
+19: ZombieCleo: 1
+Total 152

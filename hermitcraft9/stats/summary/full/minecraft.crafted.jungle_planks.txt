@@ -1,0 +1,25 @@
+minecraft.crafted.jungle_planks
+1: iJevin: 29820
+2: Etho: 27996
+3: GoodTimeWithScar: 7196
+4: PearlescentMoon: 7164
+5: joehillssays: 5808
+6: Keralis1: 5484
+7: cubfan135: 3944
+8: Zedaph: 3592
+9: falsesymmetry: 2448
+10: BdoubleO100: 2404
+11: Renthedog: 1516
+12: impulseSV: 1476
+13: Xisuma: 1344
+14: VintageBeef: 1128
+15: Grian: 1004
+16: Docm77: 372
+17: RentheKing: 208
+18: ZombieCleo: 196
+19: Stressmonster101: 160
+20: iskall85: 128
+21: Smallishbeans: 32
+22: xBCrafted: 32
+23: hypnotizd: 4
+Total 103456

@@ -1,0 +1,25 @@
+minecraft.picked_up.nether_bricks
+1: Etho: 6551
+2: cubfan135: 6300
+3: xBCrafted: 6118
+4: iJevin: 3683
+5: GoodTimeWithScar: 3108
+6: impulseSV: 1846
+7: Xisuma: 1812
+8: Tango: 1768
+9: iskall85: 1716
+10: Grian: 1380
+11: Keralis1: 1163
+12: joehillssays: 996
+13: Zedaph: 942
+14: Docm77: 862
+15: Stressmonster101: 703
+16: VintageBeef: 428
+17: falsesymmetry: 422
+18: Renthedog: 341
+19: MumboJumbo: 204
+20: BdoubleO100: 174
+21: ZombieCleo: 44
+22: hypnotizd: 22
+23: Welsknight: 2
+Total 40585

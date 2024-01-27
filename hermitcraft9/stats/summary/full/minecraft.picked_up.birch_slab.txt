@@ -1,0 +1,23 @@
+minecraft.picked_up.birch_slab
+1: Grian: 1271
+2: PearlescentMoon: 223
+3: Docm77: 175
+4: GoodTimeWithScar: 158
+5: cubfan135: 132
+6: impulseSV: 97
+7: GeminiTay: 88
+8: Etho: 57
+9: Stressmonster101: 41
+10: Renthedog: 33
+11: VintageBeef: 23
+12: iJevin: 20
+13: Xisuma: 14
+14: xBCrafted: 9
+15: joehillssays: 8
+16: BdoubleO100: 4
+17: iskall85: 1
+18: falsesymmetry: 1
+19: Mumbo: 1
+20: Keralis1: 1
+21: Zedaph: 1
+Total 2358

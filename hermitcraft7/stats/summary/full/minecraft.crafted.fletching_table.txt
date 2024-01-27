@@ -1,0 +1,15 @@
+minecraft.crafted.fletching_table
+1: Etho: 477
+2: Xisuma: 68
+3: hypnotizd: 65
+4: Grian: 20
+5: iskall85: 13
+6: cubfan135: 12
+7: MumboJumbo: 4
+8: Stressmonster101: 4
+9: joehillssays: 3
+10: VintageBeef: 2
+11: Tango: 2
+12: Keralis1: 2
+13: impulseSV: 2
+Total 674

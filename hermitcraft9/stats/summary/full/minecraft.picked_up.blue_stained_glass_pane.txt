@@ -1,0 +1,15 @@
+minecraft.picked_up.blue_stained_glass_pane
+1: Tango: 59
+2: Renthedog: 41
+3: Zedaph: 33
+4: falsesymmetry: 30
+5: cubfan135: 12
+6: ZombieCleo: 5
+7: iJevin: 4
+8: GeminiTay: 2
+9: VintageBeef: 1
+10: PearlescentMoon: 1
+11: iskall85: 1
+12: xBCrafted: 1
+13: impulseSV: 1
+Total 191

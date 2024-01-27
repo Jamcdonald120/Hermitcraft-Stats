@@ -1,0 +1,17 @@
+minecraft.picked_up.birch_fence_gate
+1: GoodTimeWithScar: 159
+2: Grian: 117
+3: iJevin: 56
+4: Docm77: 40
+5: impulseSV: 24
+6: joehillssays: 15
+7: Xisuma: 10
+8: VintageBeef: 8
+9: GeminiTay: 7
+10: cubfan135: 2
+11: Keralis1: 2
+12: Tango: 1
+13: BdoubleO100: 1
+14: falsesymmetry: 1
+15: Zedaph: 1
+Total 444

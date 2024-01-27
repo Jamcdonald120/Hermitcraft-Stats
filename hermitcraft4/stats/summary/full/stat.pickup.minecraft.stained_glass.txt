@@ -1,0 +1,23 @@
+stat.pickup.minecraft.stained_glass
+1: falsesymmetry: 15483
+2: Xisuma: 9504
+3: impulseSV: 8568
+4: Renthedog: 7516
+5: iskall85: 5871
+6: Tango: 3058
+7: cubfan135: 2116
+8: Welsknight: 1848
+9: GoodTimeWithScar: 1512
+10: ZombieCleo: 1024
+11: joehillssays: 998
+12: MumboJumbo: 879
+13: Tinfoilchef: 721
+14: Docm77: 455
+15: PythonGB: 308
+16: Etho: 288
+17: iJevin: 113
+18: VintageBeef: 88
+19: xisumavoid: 9
+20: Biffa2001: 8
+21: zueljin: 2
+Total 60369

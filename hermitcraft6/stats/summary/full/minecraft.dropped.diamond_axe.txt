@@ -1,0 +1,22 @@
+minecraft.dropped.diamond_axe
+1: Grian: 29
+2: iskall85: 24
+3: GoodTimeWithScar: 21
+4: cubfan135: 16
+5: Xisuma: 11
+6: Tango: 9
+7: iJevin: 7
+8: MumboJumbo: 7
+9: Docm77: 6
+10: Renthedog: 6
+11: falsesymmetry: 6
+12: Stressmonster101: 5
+13: BadTimeWithScar: 2
+14: impulseSV: 2
+15: Zedaph: 2
+16: PythonCam: 1
+17: joehillssays: 1
+18: BdoubleO100: 1
+19: ZombieCleo: 1
+20: Keralis1: 1
+Total 158

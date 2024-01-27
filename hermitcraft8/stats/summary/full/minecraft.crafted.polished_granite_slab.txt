@@ -1,0 +1,10 @@
+minecraft.crafted.polished_granite_slab
+1: Tango: 126
+2: PearlescentMoon: 66
+3: Grian: 64
+4: iskall85: 60
+5: Keralis1: 44
+6: Xisuma: 18
+7: BdoubleO100: 6
+8: impulseSV: 6
+Total 390

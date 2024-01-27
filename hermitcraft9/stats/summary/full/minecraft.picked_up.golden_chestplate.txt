@@ -1,0 +1,28 @@
+minecraft.picked_up.golden_chestplate
+1: Xisuma: 111
+2: joehillssays: 84
+3: cubfan135: 48
+4: iJevin: 26
+5: Tango: 20
+6: Grian: 13
+7: Keralis1: 13
+8: falsesymmetry: 10
+9: impulseSV: 10
+10: Zedaph: 9
+11: Docm77: 8
+12: PearlescentMoon: 6
+13: iskall85: 5
+14: xBCrafted: 5
+15: GeminiTay: 4
+16: Etho: 4
+17: OrionSound: 3
+18: Renthedog: 3
+19: GoodTimeWithScar: 3
+20: VintageBeef: 2
+21: MythicalSausage: 2
+22: BdoubleO100: 2
+23: Welsknight: 2
+24: ZombieCleo: 2
+25: hypnotizd: 2
+26: RentheKing: 1
+Total 398

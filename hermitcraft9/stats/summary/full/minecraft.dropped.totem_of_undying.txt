@@ -1,0 +1,27 @@
+minecraft.dropped.totem_of_undying
+1: Keralis1: 370
+2: iJevin: 236
+3: Xisuma: 222
+4: Tango: 47
+5: PearlescentMoon: 40
+6: Docm77: 37
+7: impulseSV: 34
+8: joehillssays: 26
+9: cubfan135: 19
+10: Grian: 18
+11: GoodTimeWithScar: 18
+12: Zedaph: 14
+13: MythicalSausage: 7
+14: falsesymmetry: 7
+15: BdoubleO100: 6
+16: OrionSound: 5
+17: Etho: 5
+18: xBCrafted: 4
+19: ZombieCleo: 4
+20: RentheKing: 4
+21: Renthedog: 2
+22: GeminiTay: 2
+23: Smallishbeans: 2
+24: Minerva246: 1
+25: SolidarityGaming: 1
+Total 1131

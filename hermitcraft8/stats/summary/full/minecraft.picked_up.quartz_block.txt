@@ -1,0 +1,18 @@
+minecraft.picked_up.quartz_block
+1: Grian: 1343
+2: VintageBeef: 831
+3: GoodTimeWithScar: 413
+4: cubfan135: 383
+5: MumboJumbo: 149
+6: Welsknight: 76
+7: Keralis1: 70
+8: iJevin: 65
+9: PearlescentMoon: 49
+10: Xisuma: 35
+11: Zedaph: 22
+12: Renthedog: 13
+13: impulseSV: 9
+14: Tango: 8
+15: Docm77: 1
+16: Stressmonster101: 1
+Total 3468

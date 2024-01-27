@@ -1,0 +1,19 @@
+minecraft.picked_up.birch_fence
+1: Xisuma: 649
+2: cubfan135: 238
+3: iskall85: 35
+4: Renthedog: 25
+5: Tango: 20
+6: GoodTimeWithScar: 20
+7: Docm77: 17
+8: Grian: 12
+9: Keralis1: 7
+10: impulseSV: 7
+11: Zedaph: 7
+12: falsesymmetry: 6
+13: BdoubleO100: 5
+14: Stressmonster101: 5
+15: Jessassin: 4
+16: xBCrafted: 1
+17: Tinfoilchef: 1
+Total 1059

@@ -1,0 +1,10 @@
+minecraft.dropped.mud_brick_slab
+1: iJevin: 79
+2: Keralis1: 15
+3: Etho: 10
+4: Zedaph: 10
+5: falsesymmetry: 8
+6: cubfan135: 5
+7: xBCrafted: 1
+8: Mumbo: 1
+Total 129

@@ -1,0 +1,29 @@
+minecraft.used.lectern
+1: impulseSV: 1774
+2: iJevin: 1617
+3: Stressmonster101: 1031
+4: xBCrafted: 962
+5: Grian: 867
+6: Docm77: 750
+7: Keralis1: 655
+8: PearlescentMoon: 406
+9: Etho: 311
+10: Zedaph: 282
+11: iskall85: 221
+12: GoodTimeWithScar: 216
+13: cubfan135: 146
+14: GeminiTay: 131
+15: Tango: 115
+16: ZombieCleo: 95
+17: falsesymmetry: 55
+18: Renthedog: 39
+19: Xisuma: 34
+20: BdoubleO100: 34
+21: MythicalSausage: 11
+22: Smajor1995: 8
+23: RentheKing: 6
+24: VintageBeef: 4
+25: joehillssays: 3
+26: ShubbleYT: 3
+27: Mumbo: 1
+Total 9777

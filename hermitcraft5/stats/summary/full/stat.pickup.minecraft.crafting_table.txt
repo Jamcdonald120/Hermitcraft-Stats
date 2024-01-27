@@ -1,0 +1,26 @@
+stat.pickup.minecraft.crafting_table
+1: cubfan135: 807
+2: falsesymmetry: 660
+3: Welsknight: 391
+4: Xisuma: 298
+5: Zedaph: 286
+6: xBCrafted: 224
+7: BdoubleO100: 218
+8: Stressmonster101: 198
+9: GoodTimeWithScar: 185
+10: Tango: 162
+11: iskall85: 140
+12: impulseSV: 115
+13: MumboJumbo: 102
+14: VintageBeef: 92
+15: iJevin: 92
+16: joehillssays: 82
+17: Renthedog: 73
+18: PythonGB: 67
+19: Tinfoilchef: 46
+20: Biffa2001: 36
+21: Docm77: 32
+22: Etho: 28
+23: ZombieCleo: 17
+24: ImpulseCam: 1
+Total 4352

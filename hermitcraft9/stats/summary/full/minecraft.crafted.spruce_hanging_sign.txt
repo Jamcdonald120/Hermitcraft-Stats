@@ -1,0 +1,10 @@
+minecraft.crafted.spruce_hanging_sign
+1: Keralis1: 36
+2: Grian: 22
+3: GoodTimeWithScar: 12
+4: iJevin: 6
+5: BdoubleO100: 6
+6: cubfan135: 6
+7: impulseSV: 6
+8: Zedaph: 6
+Total 100

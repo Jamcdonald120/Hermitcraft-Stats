@@ -1,0 +1,27 @@
+minecraft.killed.spider
+1: cubfan135: 636
+2: GoodTimeWithScar: 515
+3: iskall85: 413
+4: iJevin: 310
+5: Grian: 259
+6: Tango: 233
+7: Zedaph: 226
+8: Docm77: 210
+9: MumboJumbo: 186
+10: Xisuma: 173
+11: impulseSV: 173
+12: Renthedog: 114
+13: falsesymmetry: 92
+14: PythonGB: 83
+15: Welsknight: 69
+16: Biffa2001: 54
+17: BdoubleO100: 44
+18: ZombieCleo: 43
+19: joehillssays: 34
+20: Stressmonster101: 31
+21: Tinfoilchef: 21
+22: Keralis1: 17
+23: xBCrafted: 9
+24: Jessassin: 3
+25: Jura_Whitey: 1
+Total 3949

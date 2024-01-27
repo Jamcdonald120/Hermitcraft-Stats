@@ -1,0 +1,20 @@
+minecraft.dropped.chicken
+1: Xisuma: 88
+2: Renthedog: 55
+3: Tango: 30
+4: Grian: 22
+5: iJevin: 17
+6: Docm77: 15
+7: GoodTimeWithScar: 12
+8: Etho: 4
+9: impulseSV: 4
+10: xBCrafted: 3
+11: Zedaph: 3
+12: BdoubleO100: 2
+13: iskall85: 2
+14: falsesymmetry: 2
+15: GeminiTay: 1
+16: hypnotizd: 1
+17: MumboJumbo: 1
+18: Stressmonster101: 1
+Total 263

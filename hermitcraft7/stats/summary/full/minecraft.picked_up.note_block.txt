@@ -1,0 +1,21 @@
+minecraft.picked_up.note_block
+1: VintageBeef: 678
+2: cubfan135: 306
+3: Zedaph: 244
+4: Etho: 180
+5: Grian: 143
+6: impulseSV: 125
+7: Tango: 123
+8: joehillssays: 87
+9: iskall85: 86
+10: MumboJumbo: 57
+11: Keralis1: 49
+12: Renthedog: 44
+13: Stressmonster101: 37
+14: Docm77: 29
+15: Xisuma: 29
+16: xBCrafted: 23
+17: BdoubleO100: 21
+18: GoodTimeWithScar: 16
+19: falsesymmetry: 14
+Total 2291

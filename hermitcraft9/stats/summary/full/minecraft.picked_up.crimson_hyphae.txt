@@ -1,0 +1,13 @@
+minecraft.picked_up.crimson_hyphae
+1: VintageBeef: 4582
+2: PearlescentMoon: 1029
+3: Grian: 584
+4: Renthedog: 192
+5: cubfan135: 130
+6: falsesymmetry: 21
+7: Keralis1: 2
+8: Xisuma: 1
+9: Tango: 1
+10: Etho: 1
+11: GoodTimeWithScar: 1
+Total 6544

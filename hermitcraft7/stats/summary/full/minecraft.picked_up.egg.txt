@@ -1,0 +1,27 @@
+minecraft.picked_up.egg
+1: Zedaph: 10112
+2: VintageBeef: 3578
+3: Grian: 2863
+4: joehillssays: 2776
+5: Etho: 871
+6: iskall85: 457
+7: Tango: 455
+8: MumboJumbo: 211
+9: BdoubleO100: 180
+10: cubfan135: 130
+11: Keralis1: 123
+12: falsesymmetry: 120
+13: Xisuma: 111
+14: GoodTimeWithScar: 98
+15: xBCrafted: 93
+16: Stressmonster101: 90
+17: impulseSV: 58
+18: Docm77: 47
+19: hypnotizd: 40
+20: iJevin: 28
+21: ZombieCleo: 27
+22: Welsknight: 21
+23: Renthedog: 14
+24: Tinfoilchef: 8
+25: HermitcraftAlt: 1
+Total 22512

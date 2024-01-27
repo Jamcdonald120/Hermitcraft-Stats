@@ -1,0 +1,31 @@
+stat.chestOpened
+1: MumboJumbo: 39024
+2: falsesymmetry: 36789
+3: cubfan135: 36349
+4: GoodTimeWithScar: 34528
+5: Renthedog: 32496
+6: impulseSV: 27617
+7: Tango: 25651
+8: Xisuma: 22082
+9: Tinfoilchef: 19297
+10: PythonGB: 17686
+11: Welsknight: 17256
+12: iskall85: 16695
+13: joehillssays: 16446
+14: iJevin: 12945
+15: Zedaph: 12591
+16: xBCrafted: 12589
+17: Stressmonster101: 7700
+18: Docm77: 4301
+19: ZombieCleo: 4019
+20: VintageBeef: 3946
+21: Biffa2001: 3903
+22: BdoubleO100: 3640
+23: Etho: 2017
+24: xisumavoid: 80
+25: TangoCam: 16
+26: ImpulseCam: 13
+27: EvilXisuma: 1
+28: isGall85: 1
+29: Mumbo: 1
+Total 409679

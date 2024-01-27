@@ -1,0 +1,18 @@
+minecraft.crafted.purple_stained_glass
+1: iJevin: 9128
+2: joehillssays: 3272
+3: Tango: 2792
+4: falsesymmetry: 1912
+5: Grian: 1904
+6: impulseSV: 1608
+7: Xisuma: 1272
+8: Etho: 960
+9: PearlescentMoon: 576
+10: Zedaph: 448
+11: Stressmonster101: 256
+12: cubfan135: 248
+13: Keralis1: 224
+14: GoodTimeWithScar: 144
+15: ZombieCleo: 120
+16: Docm77: 16
+Total 24880

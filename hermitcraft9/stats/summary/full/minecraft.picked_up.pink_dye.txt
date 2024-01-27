@@ -1,0 +1,16 @@
+minecraft.picked_up.pink_dye
+1: Grian: 246
+2: Stressmonster101: 238
+3: falsesymmetry: 183
+4: PearlescentMoon: 144
+5: iJevin: 94
+6: Tango: 56
+7: GeminiTay: 46
+8: GoodTimeWithScar: 12
+9: cubfan135: 9
+10: ZombieCleo: 5
+11: Etho: 3
+12: Zedaph: 3
+13: Smajor1995: 1
+14: xBCrafted: 1
+Total 1041

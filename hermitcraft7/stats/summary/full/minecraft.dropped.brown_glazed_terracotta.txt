@@ -1,0 +1,5 @@
+minecraft.dropped.brown_glazed_terracotta
+1: cubfan135: 64
+2: hypnotizd: 7
+3: Etho: 5
+Total 76

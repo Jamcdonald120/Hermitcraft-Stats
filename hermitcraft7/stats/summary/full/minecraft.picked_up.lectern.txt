@@ -1,0 +1,27 @@
+minecraft.picked_up.lectern
+1: Keralis1: 1653
+2: hypnotizd: 1440
+3: Docm77: 1247
+4: Etho: 399
+5: cubfan135: 380
+6: falsesymmetry: 371
+7: xBCrafted: 321
+8: GoodTimeWithScar: 295
+9: Xisuma: 269
+10: Zedaph: 268
+11: Stressmonster101: 195
+12: iskall85: 192
+13: Grian: 120
+14: Renthedog: 117
+15: iJevin: 96
+16: impulseSV: 76
+17: BdoubleO100: 39
+18: MumboJumbo: 21
+19: ZombieCleo: 17
+20: Tango: 10
+21: VintageBeef: 7
+22: joehillssays: 4
+23: Welsknight: 1
+24: BarryBoss1234: 1
+25: Tinfoilchef: 1
+Total 7540

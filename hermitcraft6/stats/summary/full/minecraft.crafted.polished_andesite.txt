@@ -1,0 +1,24 @@
+minecraft.crafted.polished_andesite
+1: cubfan135: 17888
+2: falsesymmetry: 17444
+3: GoodTimeWithScar: 14892
+4: Xisuma: 7744
+5: iskall85: 4180
+6: Tinfoilchef: 3536
+7: Renthedog: 3308
+8: Welsknight: 3176
+9: Docm77: 2856
+10: Zedaph: 1332
+11: impulseSV: 1168
+12: Tango: 852
+13: iJevin: 344
+14: MumboJumbo: 292
+15: Grian: 248
+16: ZombieCleo: 200
+17: PythonGB: 192
+18: joehillssays: 160
+19: Keralis1: 128
+20: Stressmonster101: 104
+21: BdoubleO100: 44
+22: xBCrafted: 4
+Total 80092

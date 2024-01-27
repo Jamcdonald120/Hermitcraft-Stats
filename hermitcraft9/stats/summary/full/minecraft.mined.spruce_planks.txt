@@ -1,0 +1,34 @@
+minecraft.mined.spruce_planks
+1: VintageBeef: 9638
+2: ZombieCleo: 2722
+3: GeminiTay: 1960
+4: Tango: 1604
+5: iJevin: 1059
+6: PearlescentMoon: 965
+7: Renthedog: 834
+8: hypnotizd: 764
+9: Stressmonster101: 733
+10: Grian: 622
+11: Keralis1: 372
+12: cubfan135: 324
+13: joehillssays: 295
+14: impulseSV: 286
+15: Xisuma: 282
+16: xBCrafted: 256
+17: falsesymmetry: 249
+18: Etho: 224
+19: iskall85: 129
+20: GoodTimeWithScar: 105
+21: RentheKing: 98
+22: BdoubleO100: 74
+23: Docm77: 72
+24: SolidarityGaming: 40
+25: Welsknight: 33
+26: Zedaph: 12
+27: MythicalSausage: 10
+28: Smallishbeans: 9
+29: OrionSound: 4
+30: fWhip: 2
+31: Mumbo: 1
+32: ShubbleYT: 1
+Total 23779

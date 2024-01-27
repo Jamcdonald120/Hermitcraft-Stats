@@ -1,0 +1,10 @@
+stat.mineBlock.minecraft.birch_fence
+1: monkeyfarm: 59
+2: xBCrafted: 30
+3: ZombieCleo: 27
+4: iJevin: 20
+5: Xisuma: 19
+6: zueljin: 17
+7: falsesymmetry: 14
+8: Mumbo: 6
+Total 192

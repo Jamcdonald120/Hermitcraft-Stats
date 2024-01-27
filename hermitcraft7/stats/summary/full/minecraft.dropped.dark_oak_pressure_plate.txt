@@ -1,0 +1,6 @@
+minecraft.dropped.dark_oak_pressure_plate
+1: Zedaph: 24
+2: cubfan135: 7
+3: GoodTimeWithScar: 5
+4: Etho: 1
+Total 37

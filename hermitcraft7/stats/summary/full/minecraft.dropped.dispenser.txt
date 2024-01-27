@@ -1,0 +1,14 @@
+minecraft.dropped.dispenser
+1: Etho: 322
+2: impulseSV: 147
+3: Zedaph: 131
+4: Tango: 112
+5: Grian: 21
+6: cubfan135: 19
+7: BdoubleO100: 13
+8: MumboJumbo: 4
+9: GoodTimeWithScar: 4
+10: iskall85: 3
+11: Renthedog: 1
+12: xBCrafted: 1
+Total 778

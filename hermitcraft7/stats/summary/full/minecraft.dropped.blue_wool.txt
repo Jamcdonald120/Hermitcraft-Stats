@@ -1,0 +1,11 @@
+minecraft.dropped.blue_wool
+1: cubfan135: 361
+2: Zedaph: 242
+3: GoodTimeWithScar: 165
+4: Tango: 99
+5: BdoubleO100: 63
+6: Etho: 6
+7: Grian: 2
+8: VintageBeef: 1
+9: MumboJumbo: 1
+Total 940

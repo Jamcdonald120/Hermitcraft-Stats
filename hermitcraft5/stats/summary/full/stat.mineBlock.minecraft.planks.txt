@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.planks
+1: xBCrafted: 12981
+2: Stressmonster101: 5846
+3: Welsknight: 4357
+4: cubfan135: 4103
+5: GoodTimeWithScar: 3380
+6: joehillssays: 2249
+7: falsesymmetry: 2217
+8: Xisuma: 2133
+9: iskall85: 2020
+10: Tinfoilchef: 1384
+11: ZombieCleo: 993
+12: Zedaph: 870
+13: Tango: 848
+14: BdoubleO100: 811
+15: iJevin: 686
+16: MumboJumbo: 665
+17: VintageBeef: 448
+18: Renthedog: 446
+19: Biffa2001: 327
+20: Docm77: 318
+21: impulseSV: 314
+22: PythonGB: 112
+23: Etho: 35
+Total 47543

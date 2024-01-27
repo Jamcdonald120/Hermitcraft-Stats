@@ -1,0 +1,4 @@
+stat.drop.minecraft.cooked_rabbit
+1: Tango: 4
+2: Renthedog: 2
+Total 6

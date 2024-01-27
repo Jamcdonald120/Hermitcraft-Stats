@@ -1,0 +1,14 @@
+minecraft.picked_up.fire_coral_fan
+1: cubfan135: 715
+2: Renthedog: 588
+3: Docm77: 164
+4: Xisuma: 142
+5: BdoubleO100: 25
+6: iJevin: 16
+7: Grian: 14
+8: impulseSV: 6
+9: GoodTimeWithScar: 4
+10: Welsknight: 3
+11: PearlescentMoon: 2
+12: falsesymmetry: 1
+Total 1680

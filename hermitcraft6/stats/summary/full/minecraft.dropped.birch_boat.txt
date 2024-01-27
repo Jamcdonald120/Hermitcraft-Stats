@@ -1,0 +1,18 @@
+minecraft.dropped.birch_boat
+1: Tango: 15
+2: iskall85: 11
+3: cubfan135: 11
+4: Xisuma: 10
+5: ZombieCleo: 9
+6: falsesymmetry: 7
+7: Renthedog: 4
+8: GoodTimeWithScar: 2
+9: Stressmonster101: 2
+10: impulseSV: 2
+11: iJevin: 1
+12: Grian: 1
+13: BdoubleO100: 1
+14: Biffa2001: 1
+15: Keralis1: 1
+16: Zedaph: 1
+Total 79

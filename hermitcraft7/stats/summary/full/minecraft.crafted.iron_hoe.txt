@@ -1,0 +1,23 @@
+minecraft.crafted.iron_hoe
+1: impulseSV: 19
+2: joehillssays: 18
+3: GoodTimeWithScar: 18
+4: Tango: 8
+5: VintageBeef: 6
+6: cubfan135: 5
+7: Renthedog: 4
+8: MumboJumbo: 4
+9: Zedaph: 4
+10: iskall85: 3
+11: xBCrafted: 3
+12: Docm77: 2
+13: Xisuma: 2
+14: iJevin: 2
+15: Welsknight: 2
+16: ZombieCleo: 2
+17: Stressmonster101: 2
+18: Grian: 1
+19: BdoubleO100: 1
+20: falsesymmetry: 1
+21: Keralis1: 1
+Total 108

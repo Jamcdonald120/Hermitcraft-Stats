@@ -1,0 +1,22 @@
+minecraft.picked_up.deepslate_brick_slab
+1: Tango: 1196
+2: iJevin: 743
+3: Mumbo: 586
+4: falsesymmetry: 287
+5: Grian: 273
+6: cubfan135: 250
+7: xBCrafted: 187
+8: Renthedog: 154
+9: RentheKing: 132
+10: impulseSV: 127
+11: hypnotizd: 120
+12: PearlescentMoon: 111
+13: GeminiTay: 27
+14: GoodTimeWithScar: 20
+15: Etho: 16
+16: Keralis1: 13
+17: iskall85: 5
+18: Xisuma: 3
+19: Zedaph: 2
+20: BdoubleO100: 1
+Total 4253

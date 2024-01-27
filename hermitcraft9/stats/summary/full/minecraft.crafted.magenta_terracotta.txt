@@ -1,0 +1,19 @@
+minecraft.crafted.magenta_terracotta
+1: Renthedog: 8912
+2: impulseSV: 2228
+3: Stressmonster101: 1504
+4: Etho: 768
+5: Grian: 720
+6: Pixlriffs: 640
+7: ZombieCleo: 640
+8: GoodTimeWithScar: 512
+9: PearlescentMoon: 344
+10: VintageBeef: 96
+11: Docm77: 64
+12: Tango: 24
+13: Zedaph: 21
+14: Xisuma: 8
+15: joehillssays: 8
+16: BdoubleO100: 8
+17: cubfan135: 8
+Total 16505

@@ -1,0 +1,17 @@
+minecraft.dropped.end_rod
+1: MumboJumbo: 617
+2: iskall85: 355
+3: Grian: 295
+4: Renthedog: 270
+5: Zedaph: 229
+6: Tango: 142
+7: Docm77: 132
+8: cubfan135: 105
+9: GoodTimeWithScar: 90
+10: Stressmonster101: 71
+11: impulseSV: 57
+12: Xisuma: 38
+13: PythonGB: 5
+14: falsesymmetry: 1
+15: Keralis1: 1
+Total 2408

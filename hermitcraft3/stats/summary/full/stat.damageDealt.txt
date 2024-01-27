@@ -1,0 +1,32 @@
+stat.damageDealt
+1: Tango: 2160839
+2: Xisuma: 1866185
+3: xBCrafted: 1551668
+4: falsesymmetry: 1538352
+5: impulseSV: 1201280
+6: Biffa2001: 648795
+7: Tinfoilchef: 619299
+8: Mumbo: 572444
+9: hypnotizd: 501848
+10: zueljin: 497015
+11: sl1pg8r: 488391
+12: PythonGB: 400137
+13: Spumwackles: 394840
+14: topmass: 360795
+15: monkeyfarm: 315064
+16: KingDaddyDMAC: 261633
+17: ZombieCleo: 216227
+18: iJevin: 182797
+19: Etho: 123463
+20: joehillssays: 96578
+21: Keralis1: 49645
+22: skyzm: 45105
+23: Docm77: 33674
+24: NameOfSamuel: 26985
+25: Pungence: 22575
+26: xisumavoid: 18519
+27: Collen: 16540
+28: Mrs_Keralis: 9855
+29: truesymmetry: 3270
+30: snipepager: 85
+Total 14223903

@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.leather_chestplate
+1: BdoubleO100: 1
+2: Zedaph: 1
+Total 2

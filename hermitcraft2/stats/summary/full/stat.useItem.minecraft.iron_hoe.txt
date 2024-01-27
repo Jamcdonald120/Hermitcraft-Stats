@@ -1,0 +1,4 @@
+stat.useItem.minecraft.iron_hoe
+1: falsesymmetry: 306
+2: Tango: 136
+Total 442

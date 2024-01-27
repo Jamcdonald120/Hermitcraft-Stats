@@ -1,0 +1,28 @@
+minecraft.crafted.furnace
+1: Etho: 672
+2: Renthedog: 607
+3: MumboJumbo: 324
+4: Zedaph: 149
+5: Xisuma: 129
+6: PearlescentMoon: 122
+7: iJevin: 121
+8: Docm77: 96
+9: GoodTimeWithScar: 94
+10: Welsknight: 90
+11: impulseSV: 68
+12: Grian: 55
+13: cubfan135: 51
+14: BdoubleO100: 49
+15: Tango: 38
+16: falsesymmetry: 37
+17: joehillssays: 34
+18: ZombieCleo: 33
+19: GeminiTay: 32
+20: hypnotizd: 32
+21: iskall85: 26
+22: Keralis1: 19
+23: xBCrafted: 15
+24: Stressmonster101: 13
+25: VintageBeef: 10
+26: Tinfoilchef: 2
+Total 2918

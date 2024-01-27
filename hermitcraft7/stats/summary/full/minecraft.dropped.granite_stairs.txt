@@ -1,0 +1,5 @@
+minecraft.dropped.granite_stairs
+1: falsesymmetry: 17
+2: Keralis1: 4
+3: BdoubleO100: 1
+Total 22

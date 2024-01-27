@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.hopper
+1: Tango: 857
+2: Xisuma: 311
+3: iJevin: 256
+4: Tinfoilchef: 99
+5: Spumwackles: 78
+6: ZombieCleo: 44
+7: falsesymmetry: 21
+8: Mumbo: 8
+9: xBCrafted: 7
+10: zueljin: 1
+Total 1682

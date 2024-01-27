@@ -1,0 +1,24 @@
+minecraft.mined.composter
+1: GoodTimeWithScar: 130
+2: Stressmonster101: 122
+3: Keralis1: 112
+4: Grian: 67
+5: iskall85: 54
+6: impulseSV: 53
+7: Docm77: 52
+8: Xisuma: 48
+9: cubfan135: 48
+10: VintageBeef: 42
+11: xBCrafted: 42
+12: hypnotizd: 41
+13: Etho: 36
+14: falsesymmetry: 31
+15: iJevin: 16
+16: Zedaph: 16
+17: Renthedog: 14
+18: MumboJumbo: 12
+19: BdoubleO100: 10
+20: Tango: 8
+21: joehillssays: 7
+22: ZombieCleo: 3
+Total 964

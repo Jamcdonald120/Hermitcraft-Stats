@@ -1,0 +1,5 @@
+minecraft.dropped.tube_coral_fan
+1: cubfan135: 45
+2: MumboJumbo: 21
+3: GoodTimeWithScar: 3
+Total 69

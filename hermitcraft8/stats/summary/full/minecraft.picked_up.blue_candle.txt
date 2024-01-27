@@ -1,0 +1,10 @@
+minecraft.picked_up.blue_candle
+1: Tango: 100
+2: ZombieCleo: 38
+3: iJevin: 12
+4: joehillssays: 10
+5: Renthedog: 6
+6: BdoubleO100: 4
+7: GeminiTay: 3
+8: Docm77: 1
+Total 174

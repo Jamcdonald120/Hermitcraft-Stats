@@ -1,0 +1,27 @@
+minecraft.used.shears
+1: GoodTimeWithScar: 85472
+2: Renthedog: 25076
+3: Welsknight: 24791
+4: falsesymmetry: 21760
+5: cubfan135: 19682
+6: Xisuma: 14249
+7: joehillssays: 10531
+8: Grian: 9127
+9: iskall85: 8282
+10: MumboJumbo: 5756
+11: Keralis1: 5207
+12: Tango: 5167
+13: impulseSV: 4232
+14: BdoubleO100: 4029
+15: ZombieCleo: 3513
+16: Zedaph: 3385
+17: Docm77: 3303
+18: PythonGB: 1604
+19: iJevin: 1339
+20: Stressmonster101: 756
+21: HumanCleo: 474
+22: Jessassin: 330
+23: Biffa2001: 303
+24: xBCrafted: 258
+25: Tinfoilchef: 167
+Total 258793

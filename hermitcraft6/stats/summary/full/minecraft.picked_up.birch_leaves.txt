@@ -1,0 +1,22 @@
+minecraft.picked_up.birch_leaves
+1: GoodTimeWithScar: 9366
+2: Welsknight: 2903
+3: falsesymmetry: 1592
+4: Xisuma: 1102
+5: Docm77: 888
+6: Keralis1: 636
+7: Renthedog: 443
+8: iskall85: 433
+9: Grian: 291
+10: cubfan135: 268
+11: Tango: 162
+12: Jessassin: 140
+13: BdoubleO100: 117
+14: impulseSV: 99
+15: Zedaph: 54
+16: xBCrafted: 53
+17: MumboJumbo: 44
+18: joehillssays: 17
+19: Stressmonster101: 2
+20: iJevin: 1
+Total 18611

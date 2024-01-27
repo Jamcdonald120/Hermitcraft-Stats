@@ -1,0 +1,24 @@
+stat.drop.minecraft.gravel
+1: MumboJumbo: 3123
+2: GoodTimeWithScar: 2871
+3: Renthedog: 2188
+4: iskall85: 1383
+5: cubfan135: 1319
+6: Zedaph: 1201
+7: falsesymmetry: 1174
+8: Xisuma: 828
+9: Tango: 823
+10: iJevin: 360
+11: PythonGB: 331
+12: xBCrafted: 269
+13: impulseSV: 219
+14: Tinfoilchef: 202
+15: Stressmonster101: 87
+16: Biffa2001: 85
+17: Welsknight: 72
+18: Docm77: 65
+19: Etho: 35
+20: VintageBeef: 27
+21: BdoubleO100: 18
+22: joehillssays: 16
+Total 16696

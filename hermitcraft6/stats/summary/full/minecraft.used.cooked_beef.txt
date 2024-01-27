@@ -1,0 +1,26 @@
+minecraft.used.cooked_beef
+1: falsesymmetry: 6168
+2: GoodTimeWithScar: 4222
+3: Tango: 1833
+4: impulseSV: 1823
+5: Zedaph: 1182
+6: Welsknight: 916
+7: BdoubleO100: 902
+8: ZombieCleo: 789
+9: cubfan135: 666
+10: Grian: 558
+11: Renthedog: 415
+12: Keralis1: 243
+13: iJevin: 207
+14: PythonGB: 184
+15: Docm77: 178
+16: joehillssays: 177
+17: HumanCleo: 123
+18: Xisuma: 122
+19: iskall85: 108
+20: Stressmonster101: 68
+21: Biffa2001: 62
+22: MumboJumbo: 35
+23: Jessassin: 16
+24: EvilXisuma: 5
+Total 21002

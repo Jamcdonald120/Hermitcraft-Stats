@@ -1,0 +1,25 @@
+minecraft.picked_up.book
+1: iskall85: 5288
+2: impulseSV: 1594
+3: cubfan135: 979
+4: GoodTimeWithScar: 741
+5: iJevin: 733
+6: Grian: 463
+7: Stressmonster101: 405
+8: Renthedog: 403
+9: BdoubleO100: 379
+10: Tango: 216
+11: Docm77: 166
+12: PythonGB: 164
+13: Welsknight: 158
+14: MumboJumbo: 144
+15: Xisuma: 112
+16: joehillssays: 80
+17: ZombieCleo: 74
+18: falsesymmetry: 66
+19: Zedaph: 60
+20: Tinfoilchef: 44
+21: Biffa2001: 12
+22: HumanCleo: 9
+23: Keralis1: 6
+Total 12296

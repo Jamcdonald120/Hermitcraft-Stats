@@ -1,0 +1,28 @@
+minecraft.mined.flowering_azalea_leaves
+1: GoodTimeWithScar: 8085
+2: Docm77: 3580
+3: Renthedog: 2698
+4: cubfan135: 2095
+5: RentheKing: 1983
+6: Grian: 1385
+7: ZombieCleo: 1042
+8: iJevin: 999
+9: PearlescentMoon: 843
+10: falsesymmetry: 831
+11: Etho: 733
+12: Zedaph: 683
+13: Xisuma: 619
+14: BdoubleO100: 606
+15: Keralis1: 361
+16: Stressmonster101: 314
+17: GeminiTay: 244
+18: impulseSV: 198
+19: Tango: 184
+20: joehillssays: 93
+21: hypnotizd: 91
+22: MythicalSausage: 75
+23: Mumbo: 62
+24: VintageBeef: 54
+25: xBCrafted: 40
+26: iskall85: 21
+Total 27919

@@ -1,0 +1,13 @@
+minecraft.crafted.cartography_table
+1: GoodTimeWithScar: 83
+2: Grian: 22
+3: Xisuma: 10
+4: joehillssays: 9
+5: Zedaph: 4
+6: cubfan135: 3
+7: Docm77: 1
+8: GeminiTay: 1
+9: PearlescentMoon: 1
+10: ZombieCleo: 1
+11: impulseSV: 1
+Total 136

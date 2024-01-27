@@ -1,0 +1,21 @@
+minecraft.picked_up.cocoa_beans
+1: impulseSV: 3854
+2: Tango: 1324
+3: PearlescentMoon: 1148
+4: ZombieCleo: 706
+5: Xisuma: 693
+6: Grian: 623
+7: joehillssays: 517
+8: GoodTimeWithScar: 309
+9: falsesymmetry: 220
+10: iJevin: 112
+11: BdoubleO100: 89
+12: GeminiTay: 61
+13: Renthedog: 54
+14: Keralis1: 48
+15: Welsknight: 47
+16: Etho: 42
+17: iskall85: 22
+18: hypnotizd: 6
+19: xBCrafted: 4
+Total 9879

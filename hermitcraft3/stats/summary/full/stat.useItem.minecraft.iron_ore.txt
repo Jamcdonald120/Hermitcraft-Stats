@@ -1,0 +1,17 @@
+stat.useItem.minecraft.iron_ore
+1: Xisuma: 91
+2: zueljin: 43
+3: PythonGB: 28
+4: Mumbo: 26
+5: xBCrafted: 21
+6: sl1pg8r: 19
+7: iJevin: 11
+8: topmass: 6
+9: falsesymmetry: 6
+10: KingDaddyDMAC: 5
+11: Tango: 4
+12: Tinfoilchef: 4
+13: Spumwackles: 2
+14: impulseSV: 2
+15: hypnotizd: 1
+Total 269

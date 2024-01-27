@@ -1,0 +1,7 @@
+minecraft.picked_up.light_blue_banner
+1: PearlescentMoon: 32
+2: cubfan135: 23
+3: GeminiTay: 4
+4: VintageBeef: 1
+5: Zedaph: 1
+Total 61

@@ -1,0 +1,7 @@
+minecraft.dropped.warped_stairs
+1: Tango: 68
+2: Etho: 56
+3: cubfan135: 17
+4: Grian: 9
+5: iskall85: 2
+Total 152

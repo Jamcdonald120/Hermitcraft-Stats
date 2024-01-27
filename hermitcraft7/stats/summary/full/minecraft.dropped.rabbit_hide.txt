@@ -1,0 +1,17 @@
+minecraft.dropped.rabbit_hide
+1: hypnotizd: 100
+2: Xisuma: 66
+3: cubfan135: 29
+4: Grian: 13
+5: Keralis1: 9
+6: VintageBeef: 8
+7: GoodTimeWithScar: 6
+8: Renthedog: 5
+9: Tango: 4
+10: impulseSV: 3
+11: Zedaph: 2
+12: joehillssays: 1
+13: iskall85: 1
+14: xBCrafted: 1
+15: falsesymmetry: 1
+Total 249

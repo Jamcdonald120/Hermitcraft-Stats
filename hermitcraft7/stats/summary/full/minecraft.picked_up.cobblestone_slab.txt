@@ -1,0 +1,24 @@
+minecraft.picked_up.cobblestone_slab
+1: Grian: 2449
+2: iJevin: 2194
+3: Zedaph: 1288
+4: Tango: 1015
+5: GoodTimeWithScar: 882
+6: xBCrafted: 515
+7: impulseSV: 363
+8: MumboJumbo: 344
+9: iskall85: 179
+10: VintageBeef: 164
+11: cubfan135: 163
+12: falsesymmetry: 97
+13: BdoubleO100: 82
+14: Stressmonster101: 78
+15: joehillssays: 76
+16: Keralis1: 73
+17: Xisuma: 55
+18: ZombieCleo: 35
+19: Renthedog: 30
+20: Docm77: 29
+21: Welsknight: 28
+22: Etho: 6
+Total 10145

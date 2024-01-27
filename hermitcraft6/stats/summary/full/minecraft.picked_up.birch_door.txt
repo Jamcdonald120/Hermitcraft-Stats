@@ -1,0 +1,19 @@
+minecraft.picked_up.birch_door
+1: cubfan135: 38
+2: Renthedog: 32
+3: iskall85: 32
+4: GoodTimeWithScar: 20
+5: Zedaph: 9
+6: iJevin: 7
+7: falsesymmetry: 7
+8: impulseSV: 7
+9: Docm77: 5
+10: BdoubleO100: 5
+11: Grian: 3
+12: Tango: 3
+13: Biffa2001: 3
+14: MumboJumbo: 3
+15: Xisuma: 2
+16: ZombieCleo: 2
+17: Keralis1: 2
+Total 180

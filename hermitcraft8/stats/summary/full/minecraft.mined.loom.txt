@@ -1,0 +1,15 @@
+minecraft.mined.loom
+1: PearlescentMoon: 40
+2: Etho: 24
+3: Xisuma: 7
+4: Tango: 4
+5: BdoubleO100: 4
+6: Renthedog: 3
+7: GeminiTay: 3
+8: cubfan135: 3
+9: GoodTimeWithScar: 3
+10: Grian: 2
+11: Zedaph: 2
+12: xBCrafted: 1
+13: impulseSV: 1
+Total 97

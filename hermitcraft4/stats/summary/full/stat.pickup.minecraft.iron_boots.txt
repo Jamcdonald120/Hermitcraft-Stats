@@ -1,0 +1,26 @@
+stat.pickup.minecraft.iron_boots
+1: Renthedog: 34
+2: iskall85: 28
+3: falsesymmetry: 26
+4: Welsknight: 25
+5: impulseSV: 23
+6: GoodTimeWithScar: 21
+7: Xisuma: 18
+8: Tango: 15
+9: PythonGB: 14
+10: Docm77: 13
+11: cubfan135: 13
+12: Biffa2001: 11
+13: Etho: 8
+14: joehillssays: 7
+15: iJevin: 6
+16: ZombieCleo: 6
+17: VintageBeef: 5
+18: MumboJumbo: 5
+19: zueljin: 2
+20: Tinfoilchef: 2
+21: Jessassin: 1
+22: WellsGlazes: 1
+23: xisumavoid: 1
+24: Mumbo: 1
+Total 286

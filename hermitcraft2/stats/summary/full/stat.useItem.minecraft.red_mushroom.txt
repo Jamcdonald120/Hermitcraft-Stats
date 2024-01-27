@@ -1,0 +1,4 @@
+stat.useItem.minecraft.red_mushroom
+1: sl1pg8r: 23
+2: falsesymmetry: 9
+Total 32

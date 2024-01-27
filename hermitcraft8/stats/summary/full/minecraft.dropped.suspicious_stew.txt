@@ -1,0 +1,9 @@
+minecraft.dropped.suspicious_stew
+1: iJevin: 37
+2: GoodTimeWithScar: 12
+3: Zedaph: 9
+4: BdoubleO100: 1
+5: xBCrafted: 1
+6: cubfan135: 1
+7: hypnotizd: 1
+Total 62

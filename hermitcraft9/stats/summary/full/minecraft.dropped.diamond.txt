@@ -1,0 +1,33 @@
+minecraft.dropped.diamond
+1: Xisuma: 2736
+2: GoodTimeWithScar: 2341
+3: cubfan135: 358
+4: iskall85: 275
+5: impulseSV: 244
+6: RentheKing: 228
+7: hypnotizd: 225
+8: PearlescentMoon: 215
+9: iJevin: 212
+10: Renthedog: 182
+11: Grian: 154
+12: Tango: 134
+13: Docm77: 127
+14: VintageBeef: 122
+15: Keralis1: 111
+16: Zedaph: 109
+17: BdoubleO100: 89
+18: falsesymmetry: 61
+19: GeminiTay: 60
+20: joehillssays: 57
+21: Etho: 51
+22: ZombieCleo: 49
+23: Mumbo: 47
+24: xBCrafted: 42
+25: MythicalSausage: 19
+26: Stressmonster101: 9
+27: Smallishbeans: 4
+28: MumboJumbo: 4
+29: Pixlriffs: 2
+30: Smajor1995: 1
+31: SolidarityGaming: 1
+Total 8269

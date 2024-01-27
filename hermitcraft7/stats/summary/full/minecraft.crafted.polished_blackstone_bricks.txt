@@ -1,0 +1,21 @@
+minecraft.crafted.polished_blackstone_bricks
+1: Renthedog: 10672
+2: impulseSV: 3060
+3: GoodTimeWithScar: 2224
+4: joehillssays: 2184
+5: iJevin: 1840
+6: cubfan135: 1736
+7: Tango: 1356
+8: iskall85: 1348
+9: MumboJumbo: 480
+10: Grian: 432
+11: falsesymmetry: 420
+12: xBCrafted: 276
+13: ZombieCleo: 132
+14: Keralis1: 64
+15: Docm77: 56
+16: BdoubleO100: 14
+17: hypnotizd: 4
+18: Zedaph: 4
+19: Xisuma: 1
+Total 26303

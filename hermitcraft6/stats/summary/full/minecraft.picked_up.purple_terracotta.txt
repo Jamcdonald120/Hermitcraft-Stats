@@ -1,0 +1,11 @@
+minecraft.picked_up.purple_terracotta
+1: cubfan135: 462
+2: falsesymmetry: 120
+3: joehillssays: 94
+4: Renthedog: 84
+5: Zedaph: 83
+6: PythonGB: 67
+7: Tango: 15
+8: Grian: 3
+9: Xisuma: 2
+Total 930

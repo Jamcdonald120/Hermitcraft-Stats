@@ -1,0 +1,7 @@
+minecraft.crafted.orange_wool
+1: GoodTimeWithScar: 27
+2: Zedaph: 6
+3: iJevin: 3
+4: BdoubleO100: 2
+5: Welsknight: 1
+Total 39

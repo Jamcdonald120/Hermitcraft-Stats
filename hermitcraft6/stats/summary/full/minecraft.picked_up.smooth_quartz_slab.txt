@@ -1,0 +1,15 @@
+minecraft.picked_up.smooth_quartz_slab
+1: GoodTimeWithScar: 3352
+2: cubfan135: 510
+3: Renthedog: 284
+4: falsesymmetry: 275
+5: Xisuma: 203
+6: Grian: 201
+7: impulseSV: 102
+8: Docm77: 53
+9: iskall85: 42
+10: PythonGB: 31
+11: BdoubleO100: 15
+12: Stressmonster101: 5
+13: Keralis1: 5
+Total 5078

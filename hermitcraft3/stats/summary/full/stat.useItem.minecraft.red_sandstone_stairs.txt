@@ -1,0 +1,7 @@
+stat.useItem.minecraft.red_sandstone_stairs
+1: Tango: 994
+2: xBCrafted: 421
+3: zueljin: 121
+4: falsesymmetry: 29
+5: sl1pg8r: 2
+Total 1567

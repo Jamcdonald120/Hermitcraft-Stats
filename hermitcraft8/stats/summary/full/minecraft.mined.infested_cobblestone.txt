@@ -1,0 +1,5 @@
+minecraft.mined.infested_cobblestone
+1: Welsknight: 3
+2: VintageBeef: 1
+3: hypnotizd: 1
+Total 5

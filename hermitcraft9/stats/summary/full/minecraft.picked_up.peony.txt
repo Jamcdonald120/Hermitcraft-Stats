@@ -1,0 +1,27 @@
+minecraft.picked_up.peony
+1: cubfan135: 3168
+2: hypnotizd: 1797
+3: ZombieCleo: 1735
+4: Grian: 1250
+5: Xisuma: 840
+6: Etho: 788
+7: iskall85: 647
+8: falsesymmetry: 406
+9: GeminiTay: 380
+10: joehillssays: 282
+11: impulseSV: 277
+12: PearlescentMoon: 117
+13: Tango: 56
+14: Zedaph: 31
+15: MythicalSausage: 22
+16: Keralis1: 14
+17: iJevin: 13
+18: BdoubleO100: 12
+19: Docm77: 10
+20: GoodTimeWithScar: 7
+21: VintageBeef: 4
+22: Stressmonster101: 3
+23: Welsknight: 2
+24: Smallishbeans: 1
+25: Mumbo: 1
+Total 11863

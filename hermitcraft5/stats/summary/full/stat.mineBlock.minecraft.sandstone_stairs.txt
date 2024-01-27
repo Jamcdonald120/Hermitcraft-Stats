@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.sandstone_stairs
+1: ZombieCleo: 520
+2: impulseSV: 437
+3: cubfan135: 225
+4: Welsknight: 180
+5: xBCrafted: 173
+6: Xisuma: 151
+7: Biffa2001: 105
+8: PythonGB: 17
+9: Tango: 17
+10: falsesymmetry: 9
+11: GoodTimeWithScar: 5
+12: VintageBeef: 1
+13: MumboJumbo: 1
+14: Zedaph: 1
+Total 1842

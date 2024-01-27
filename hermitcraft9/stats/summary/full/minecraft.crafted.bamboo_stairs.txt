@@ -1,0 +1,7 @@
+minecraft.crafted.bamboo_stairs
+1: GoodTimeWithScar: 20
+2: Keralis1: 12
+3: Renthedog: 4
+4: cubfan135: 4
+5: Zedaph: 4
+Total 44

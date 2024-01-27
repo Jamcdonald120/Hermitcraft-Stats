@@ -1,0 +1,9 @@
+stat.craftItem.256
+1: Marriland: 38
+2: red3yz: 13
+3: topmass: 7
+4: skyzm: 4
+5: Jessassin: 2
+6: Keralis1: 2
+7: Unhost: 1
+Total 67

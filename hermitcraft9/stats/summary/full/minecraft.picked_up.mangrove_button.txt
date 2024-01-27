@@ -1,0 +1,12 @@
+minecraft.picked_up.mangrove_button
+1: GoodTimeWithScar: 24
+2: Keralis1: 9
+3: iJevin: 7
+4: cubfan135: 6
+5: RentheKing: 4
+6: falsesymmetry: 2
+7: Stressmonster101: 2
+8: Xisuma: 1
+9: Renthedog: 1
+10: BdoubleO100: 1
+Total 57

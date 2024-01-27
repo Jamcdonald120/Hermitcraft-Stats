@@ -1,0 +1,22 @@
+minecraft.dropped.bread
+1: Grian: 14786
+2: hypnotizd: 7247
+3: GoodTimeWithScar: 4698
+4: Zedaph: 2820
+5: Etho: 582
+6: Keralis1: 245
+7: impulseSV: 188
+8: iJevin: 172
+9: BdoubleO100: 117
+10: Docm77: 96
+11: iskall85: 81
+12: cubfan135: 71
+13: falsesymmetry: 25
+14: Xisuma: 21
+15: joehillssays: 19
+16: Tango: 3
+17: Renthedog: 2
+18: MumboJumbo: 2
+19: xBCrafted: 1
+20: Stressmonster101: 1
+Total 31177

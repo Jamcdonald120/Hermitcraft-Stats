@@ -1,0 +1,5 @@
+minecraft.picked_up.orange_carpet
+1: PearlescentMoon: 36
+2: BdoubleO100: 11
+3: iJevin: 4
+Total 51

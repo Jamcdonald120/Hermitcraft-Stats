@@ -1,0 +1,10 @@
+minecraft.picked_up.light_gray_banner
+1: PearlescentMoon: 45
+2: impulseSV: 8
+3: Tango: 5
+4: ZombieCleo: 3
+5: cubfan135: 2
+6: GoodTimeWithScar: 2
+7: Keralis1: 1
+8: Zedaph: 1
+Total 67

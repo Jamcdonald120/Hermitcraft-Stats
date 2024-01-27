@@ -1,0 +1,22 @@
+minecraft.picked_up.book
+1: PearlescentMoon: 3623
+2: Xisuma: 2930
+3: iJevin: 2420
+4: GoodTimeWithScar: 2321
+5: Keralis1: 2216
+6: Grian: 1679
+7: Stressmonster101: 618
+8: Zedaph: 485
+9: Tango: 267
+10: joehillssays: 109
+11: cubfan135: 80
+12: Etho: 72
+13: VintageBeef: 63
+14: iskall85: 54
+15: Welsknight: 44
+16: Docm77: 39
+17: Renthedog: 25
+18: falsesymmetry: 14
+19: MumboJumbo: 9
+20: BdoubleO100: 6
+Total 17074

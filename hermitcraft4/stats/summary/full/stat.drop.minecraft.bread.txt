@@ -1,0 +1,10 @@
+stat.drop.minecraft.bread
+1: MumboJumbo: 56
+2: impulseSV: 9
+3: PythonGB: 6
+4: GoodTimeWithScar: 6
+5: Renthedog: 3
+6: Xisuma: 1
+7: xBCrafted: 1
+8: falsesymmetry: 1
+Total 83

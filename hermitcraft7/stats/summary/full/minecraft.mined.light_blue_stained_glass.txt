@@ -1,0 +1,18 @@
+minecraft.mined.light_blue_stained_glass
+1: impulseSV: 6343
+2: Xisuma: 744
+3: Etho: 300
+4: joehillssays: 211
+5: Tango: 104
+6: cubfan135: 79
+7: Zedaph: 64
+8: GoodTimeWithScar: 44
+9: iskall85: 26
+10: MumboJumbo: 21
+11: iJevin: 14
+12: falsesymmetry: 13
+13: Stressmonster101: 10
+14: Grian: 6
+15: BdoubleO100: 2
+16: VintageBeef: 1
+Total 7982

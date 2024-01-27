@@ -1,0 +1,8 @@
+stat.drop.minecraft.splash_potion
+1: falsesymmetry: 6
+2: cubfan135: 3
+3: Xisuma: 1
+4: Tango: 1
+5: Welsknight: 1
+6: GoodTimeWithScar: 1
+Total 13

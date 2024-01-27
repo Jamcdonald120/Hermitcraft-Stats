@@ -1,0 +1,30 @@
+minecraft.mined.oak_wall_sign
+1: PearlescentMoon: 440
+2: falsesymmetry: 69
+3: impulseSV: 63
+4: Xisuma: 57
+5: Keralis1: 55
+6: Zedaph: 53
+7: iJevin: 33
+8: Tango: 32
+9: cubfan135: 27
+10: GoodTimeWithScar: 23
+11: Grian: 22
+12: VintageBeef: 20
+13: Docm77: 19
+14: BdoubleO100: 9
+15: Etho: 8
+16: ZombieCleo: 6
+17: Renthedog: 5
+18: joehillssays: 4
+19: Welsknight: 4
+20: iskall85: 3
+21: Mumbo: 3
+22: Stressmonster101: 3
+23: OrionSound: 2
+24: GeminiTay: 2
+25: Smallishbeans: 1
+26: xBCrafted: 1
+27: fWhip: 1
+28: SolidarityGaming: 1
+Total 966

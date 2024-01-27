@@ -1,0 +1,23 @@
+minecraft.picked_up.red_dye
+1: iJevin: 936
+2: Grian: 467
+3: PearlescentMoon: 453
+4: Zedaph: 417
+5: GoodTimeWithScar: 332
+6: impulseSV: 118
+7: cubfan135: 93
+8: Renthedog: 89
+9: Stressmonster101: 86
+10: VintageBeef: 82
+11: falsesymmetry: 72
+12: Tango: 56
+13: BdoubleO100: 48
+14: Etho: 35
+15: joehillssays: 22
+16: RentheKing: 12
+17: ZombieCleo: 11
+18: GeminiTay: 6
+19: Docm77: 4
+20: Smallishbeans: 1
+21: xBCrafted: 1
+Total 3341

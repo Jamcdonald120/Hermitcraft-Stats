@@ -1,0 +1,9 @@
+minecraft.picked_up.red_glazed_terracotta
+1: VintageBeef: 549
+2: cubfan135: 278
+3: joehillssays: 212
+4: falsesymmetry: 127
+5: Etho: 72
+6: Xisuma: 16
+7: Tango: 3
+Total 1257

@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.double_plant
+1: Xisuma: 284
+2: iskall85: 258
+3: GoodTimeWithScar: 213
+4: joehillssays: 190
+5: falsesymmetry: 180
+6: Renthedog: 163
+7: cubfan135: 113
+8: Docm77: 104
+9: Welsknight: 57
+10: Etho: 55
+11: Tango: 53
+12: impulseSV: 47
+13: MumboJumbo: 43
+14: Tinfoilchef: 38
+15: PythonGB: 11
+16: iJevin: 10
+17: zueljin: 8
+18: VintageBeef: 3
+19: ZombieCleo: 2
+20: Biffa2001: 1
+Total 1833

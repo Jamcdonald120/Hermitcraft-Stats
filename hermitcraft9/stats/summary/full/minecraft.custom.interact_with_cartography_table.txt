@@ -1,0 +1,21 @@
+minecraft.custom.interact_with_cartography_table
+1: VintageBeef: 287
+2: joehillssays: 65
+3: PearlescentMoon: 58
+4: Keralis1: 42
+5: Tango: 36
+6: falsesymmetry: 30
+7: Renthedog: 28
+8: iJevin: 22
+9: impulseSV: 22
+10: Docm77: 18
+11: Grian: 18
+12: Etho: 18
+13: cubfan135: 17
+14: GeminiTay: 14
+15: GoodTimeWithScar: 9
+16: BdoubleO100: 2
+17: ZombieCleo: 1
+18: RentheKing: 1
+19: HBomb94: 1
+Total 689

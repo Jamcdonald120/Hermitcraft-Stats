@@ -1,0 +1,25 @@
+minecraft.picked_up.prismarine_crystals
+1: Xisuma: 27593
+2: cubfan135: 24244
+3: iskall85: 16090
+4: GoodTimeWithScar: 12226
+5: Stressmonster101: 10156
+6: Renthedog: 4235
+7: MumboJumbo: 3451
+8: Welsknight: 3173
+9: Grian: 3042
+10: iJevin: 2877
+11: Tango: 2329
+12: Docm77: 2299
+13: falsesymmetry: 2155
+14: PythonGB: 1597
+15: xBCrafted: 475
+16: impulseSV: 402
+17: joehillssays: 134
+18: Biffa2001: 95
+19: Zedaph: 93
+20: Keralis1: 32
+21: Tinfoilchef: 22
+22: BdoubleO100: 5
+23: PythonCam: 3
+Total 116728

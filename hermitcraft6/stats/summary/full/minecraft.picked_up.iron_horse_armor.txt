@@ -1,0 +1,11 @@
+minecraft.picked_up.iron_horse_armor
+1: Tango: 7
+2: PythonGB: 4
+3: falsesymmetry: 2
+4: iJevin: 1
+5: Grian: 1
+6: iskall85: 1
+7: Welsknight: 1
+8: Stressmonster101: 1
+9: Zedaph: 1
+Total 19

@@ -1,0 +1,16 @@
+minecraft.picked_up.yellow_bed
+1: Docm77: 259
+2: impulseSV: 56
+3: iskall85: 50
+4: Renthedog: 40
+5: Grian: 25
+6: GoodTimeWithScar: 23
+7: Keralis1: 14
+8: BdoubleO100: 13
+9: Tango: 12
+10: Xisuma: 8
+11: falsesymmetry: 7
+12: cubfan135: 6
+13: PythonGB: 1
+14: Stressmonster101: 1
+Total 515

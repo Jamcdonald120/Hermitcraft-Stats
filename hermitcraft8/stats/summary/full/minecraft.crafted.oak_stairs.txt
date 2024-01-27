@@ -1,0 +1,20 @@
+minecraft.crafted.oak_stairs
+1: Xisuma: 544
+2: MumboJumbo: 508
+3: xBCrafted: 272
+4: Keralis1: 272
+5: falsesymmetry: 248
+6: Renthedog: 132
+7: BdoubleO100: 124
+8: PearlescentMoon: 96
+9: iJevin: 76
+10: Welsknight: 76
+11: hypnotizd: 40
+12: ZombieCleo: 28
+13: GoodTimeWithScar: 24
+14: Grian: 12
+15: Tango: 12
+16: impulseSV: 12
+17: GeminiTay: 4
+18: Etho: 4
+Total 2484

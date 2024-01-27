@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.white_glazed_terracotta
+1: falsesymmetry: 108
+2: joehillssays: 107
+3: Xisuma: 4
+Total 219

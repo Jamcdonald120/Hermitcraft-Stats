@@ -1,0 +1,21 @@
+minecraft.crafted.flower_pot
+1: GoodTimeWithScar: 269
+2: Grian: 227
+3: joehillssays: 160
+4: PearlescentMoon: 103
+5: Xisuma: 80
+6: GeminiTay: 79
+7: MumboJumbo: 54
+8: BdoubleO100: 45
+9: cubfan135: 45
+10: Keralis1: 33
+11: falsesymmetry: 22
+12: Renthedog: 15
+13: iJevin: 14
+14: Etho: 12
+15: impulseSV: 11
+16: Tango: 10
+17: iskall85: 4
+18: Welsknight: 4
+19: VintageBeef: 3
+Total 1190

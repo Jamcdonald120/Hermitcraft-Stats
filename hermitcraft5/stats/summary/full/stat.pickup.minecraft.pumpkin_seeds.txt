@@ -1,0 +1,20 @@
+stat.pickup.minecraft.pumpkin_seeds
+1: MumboJumbo: 448
+2: cubfan135: 358
+3: Zedaph: 182
+4: Tinfoilchef: 169
+5: Tango: 139
+6: Xisuma: 44
+7: falsesymmetry: 37
+8: GoodTimeWithScar: 30
+9: impulseSV: 28
+10: PythonGB: 23
+11: iskall85: 21
+12: xBCrafted: 18
+13: Docm77: 16
+14: VintageBeef: 15
+15: Stressmonster101: 12
+16: Welsknight: 7
+17: Etho: 3
+18: joehillssays: 2
+Total 1552

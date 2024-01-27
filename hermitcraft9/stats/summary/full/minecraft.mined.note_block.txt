@@ -1,0 +1,27 @@
+minecraft.mined.note_block
+1: Tango: 359
+2: Etho: 144
+3: impulseSV: 126
+4: Zedaph: 103
+5: Docm77: 86
+6: cubfan135: 84
+7: BdoubleO100: 46
+8: Xisuma: 41
+9: Grian: 40
+10: Stressmonster101: 40
+11: RentheKing: 14
+12: Keralis1: 14
+13: MythicalSausage: 13
+14: Renthedog: 12
+15: iskall85: 12
+16: iJevin: 10
+17: GoodTimeWithScar: 9
+18: GeminiTay: 8
+19: PearlescentMoon: 7
+20: ZombieCleo: 7
+21: VintageBeef: 5
+22: OrionSound: 4
+23: joehillssays: 1
+24: Pixlriffs: 1
+25: Mumbo: 1
+Total 1187

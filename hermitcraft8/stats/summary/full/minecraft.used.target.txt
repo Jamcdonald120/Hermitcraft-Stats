@@ -1,0 +1,13 @@
+minecraft.used.target
+1: impulseSV: 253
+2: Xisuma: 194
+3: Zedaph: 64
+4: cubfan135: 48
+5: Etho: 41
+6: GoodTimeWithScar: 24
+7: Docm77: 15
+8: MumboJumbo: 13
+9: ZombieCleo: 6
+10: PearlescentMoon: 4
+11: Tango: 1
+Total 663

@@ -1,0 +1,35 @@
+minecraft.picked_up.pumpkin_pie
+1: Keralis1: 2623
+2: Renthedog: 2068
+3: GoodTimeWithScar: 1851
+4: Grian: 1567
+5: Docm77: 1451
+6: cubfan135: 1298
+7: iJevin: 737
+8: Zedaph: 569
+9: Smajor1995: 451
+10: joehillssays: 451
+11: RentheKing: 365
+12: Mumbo: 275
+13: PearlescentMoon: 239
+14: impulseSV: 232
+15: falsesymmetry: 218
+16: MythicalSausage: 216
+17: xBCrafted: 178
+18: VintageBeef: 137
+19: Xisuma: 115
+20: GeminiTay: 113
+21: ZombieCleo: 111
+22: Tango: 86
+23: OrionSound: 81
+24: Smallishbeans: 68
+25: BdoubleO100: 68
+26: MumboJumbo: 64
+27: ShubbleYT: 44
+28: Pixlriffs: 34
+29: Etho: 19
+30: iskall85: 18
+31: SolidarityGaming: 16
+32: fWhip: 10
+33: hypnotizd: 1
+Total 15774

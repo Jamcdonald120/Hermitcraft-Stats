@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.beacon
+1: Xisuma: 45
+2: Tango: 14
+3: Biffa2001: 3
+Total 62

@@ -1,0 +1,22 @@
+minecraft.crafted.gold_block
+1: impulseSV: 7016
+2: Xisuma: 5389
+3: falsesymmetry: 1742
+4: cubfan135: 895
+5: Tango: 733
+6: Renthedog: 386
+7: iskall85: 308
+8: GoodTimeWithScar: 307
+9: Docm77: 250
+10: iJevin: 166
+11: Zedaph: 140
+12: Grian: 101
+13: Stressmonster101: 93
+14: Welsknight: 89
+15: Tinfoilchef: 81
+16: Biffa2001: 77
+17: ZombieCleo: 66
+18: PythonGB: 50
+19: BdoubleO100: 33
+20: joehillssays: 8
+Total 17930

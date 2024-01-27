@@ -1,0 +1,14 @@
+minecraft.dropped.spruce_boat
+1: Grian: 9
+2: Etho: 9
+3: cubfan135: 6
+4: Zedaph: 5
+5: Xisuma: 3
+6: Renthedog: 3
+7: Tango: 3
+8: impulseSV: 3
+9: hypnotizd: 2
+10: GoodTimeWithScar: 2
+11: Docm77: 1
+12: MumboJumbo: 1
+Total 47

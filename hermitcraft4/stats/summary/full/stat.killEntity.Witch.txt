@@ -1,0 +1,23 @@
+stat.killEntity.Witch
+1: Tango: 98
+2: cubfan135: 84
+3: iskall85: 63
+4: Xisuma: 52
+5: GoodTimeWithScar: 44
+6: Renthedog: 40
+7: impulseSV: 34
+8: falsesymmetry: 28
+9: Welsknight: 24
+10: MumboJumbo: 16
+11: PythonGB: 13
+12: Docm77: 12
+13: iJevin: 8
+14: Tinfoilchef: 7
+15: Biffa2001: 6
+16: Etho: 6
+17: joehillssays: 5
+18: ZombieCleo: 4
+19: VintageBeef: 3
+20: Jessassin: 2
+21: zueljin: 1
+Total 550

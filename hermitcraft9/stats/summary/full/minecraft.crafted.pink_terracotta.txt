@@ -1,0 +1,21 @@
+minecraft.crafted.pink_terracotta
+1: Docm77: 3544
+2: impulseSV: 2880
+3: GeminiTay: 1793
+4: Etho: 1536
+5: Grian: 1498
+6: joehillssays: 1328
+7: PearlescentMoon: 416
+8: ZombieCleo: 256
+9: VintageBeef: 144
+10: Tango: 128
+11: BdoubleO100: 40
+12: Keralis1: 24
+13: Xisuma: 8
+14: Renthedog: 8
+15: falsesymmetry: 8
+16: cubfan135: 8
+17: GoodTimeWithScar: 8
+18: Stressmonster101: 8
+19: Zedaph: 8
+Total 13643

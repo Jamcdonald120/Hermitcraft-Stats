@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.trapped_chest
+1: Zedaph: 1443
+2: MumboJumbo: 326
+3: Tango: 298
+4: cubfan135: 206
+5: Xisuma: 168
+6: Renthedog: 148
+7: iskall85: 127
+8: Stressmonster101: 98
+9: impulseSV: 88
+10: falsesymmetry: 82
+11: Welsknight: 82
+12: GoodTimeWithScar: 34
+13: iJevin: 32
+14: xBCrafted: 24
+15: Etho: 7
+16: Tinfoilchef: 7
+17: Docm77: 4
+18: PythonGB: 2
+Total 3176

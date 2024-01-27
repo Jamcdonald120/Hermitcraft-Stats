@@ -1,0 +1,10 @@
+stat.useItem.minecraft.dragon_egg
+1: impulseSV: 130
+2: iskall85: 26
+3: cubfan135: 14
+4: Welsknight: 3
+5: PythonGB: 1
+6: joehillssays: 1
+7: Tango: 1
+8: Biffa2001: 1
+Total 177

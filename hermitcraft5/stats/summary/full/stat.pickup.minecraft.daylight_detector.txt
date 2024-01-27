@@ -1,0 +1,14 @@
+stat.pickup.minecraft.daylight_detector
+1: impulseSV: 102
+2: cubfan135: 88
+3: Tango: 21
+4: MumboJumbo: 21
+5: VintageBeef: 12
+6: Xisuma: 8
+7: iskall85: 5
+8: falsesymmetry: 5
+9: xBCrafted: 4
+10: Welsknight: 3
+11: GoodTimeWithScar: 2
+12: Biffa2001: 1
+Total 272

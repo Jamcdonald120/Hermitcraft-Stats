@@ -1,0 +1,6 @@
+minecraft.killed_by.ghast
+1: iJevin: 1
+2: PearlescentMoon: 1
+3: cubfan135: 1
+4: Zedaph: 1
+Total 4

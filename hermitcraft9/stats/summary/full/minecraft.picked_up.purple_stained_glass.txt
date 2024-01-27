@@ -1,0 +1,18 @@
+minecraft.picked_up.purple_stained_glass
+1: iJevin: 962
+2: impulseSV: 703
+3: Tango: 250
+4: joehillssays: 195
+5: falsesymmetry: 170
+6: Grian: 136
+7: Stressmonster101: 78
+8: Xisuma: 69
+9: cubfan135: 65
+10: PearlescentMoon: 64
+11: ZombieCleo: 31
+12: Zedaph: 20
+13: GoodTimeWithScar: 10
+14: Etho: 9
+15: RentheKing: 4
+16: iskall85: 2
+Total 2768

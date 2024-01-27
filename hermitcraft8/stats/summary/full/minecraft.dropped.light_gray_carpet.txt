@@ -1,0 +1,7 @@
+minecraft.dropped.light_gray_carpet
+1: iJevin: 40
+2: falsesymmetry: 21
+3: MumboJumbo: 10
+4: Renthedog: 3
+5: GoodTimeWithScar: 1
+Total 75

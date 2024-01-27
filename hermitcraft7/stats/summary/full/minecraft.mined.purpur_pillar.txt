@@ -1,0 +1,21 @@
+minecraft.mined.purpur_pillar
+1: falsesymmetry: 780
+2: impulseSV: 643
+3: GoodTimeWithScar: 313
+4: Tango: 213
+5: Etho: 212
+6: Xisuma: 156
+7: Keralis1: 132
+8: iJevin: 113
+9: iskall85: 79
+10: MumboJumbo: 62
+11: cubfan135: 51
+12: Renthedog: 34
+13: VintageBeef: 31
+14: Zedaph: 16
+15: Grian: 10
+16: hypnotizd: 9
+17: xBCrafted: 7
+18: BdoubleO100: 5
+19: Docm77: 2
+Total 2868

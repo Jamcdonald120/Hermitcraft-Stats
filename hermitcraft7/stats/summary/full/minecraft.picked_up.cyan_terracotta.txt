@@ -1,0 +1,25 @@
+minecraft.picked_up.cyan_terracotta
+1: impulseSV: 13086
+2: GoodTimeWithScar: 10814
+3: Grian: 8079
+4: iskall85: 6123
+5: Zedaph: 5619
+6: Xisuma: 4603
+7: joehillssays: 4020
+8: cubfan135: 2087
+9: Keralis1: 1688
+10: xBCrafted: 1216
+11: Stressmonster101: 1080
+12: Renthedog: 1023
+13: MumboJumbo: 888
+14: falsesymmetry: 867
+15: Docm77: 760
+16: VintageBeef: 536
+17: Etho: 533
+18: BdoubleO100: 424
+19: ZombieCleo: 303
+20: Tango: 216
+21: iJevin: 74
+22: Welsknight: 18
+23: hypnotizd: 1
+Total 64058

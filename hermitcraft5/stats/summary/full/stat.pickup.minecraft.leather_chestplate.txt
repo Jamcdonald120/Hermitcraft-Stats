@@ -1,0 +1,25 @@
+stat.pickup.minecraft.leather_chestplate
+1: Renthedog: 110
+2: iskall85: 80
+3: Stressmonster101: 41
+4: xBCrafted: 37
+5: GoodTimeWithScar: 36
+6: Zedaph: 36
+7: PythonGB: 29
+8: falsesymmetry: 19
+9: cubfan135: 19
+10: BdoubleO100: 16
+11: Docm77: 12
+12: Tango: 12
+13: MumboJumbo: 11
+14: Tinfoilchef: 10
+15: ZombieCleo: 9
+16: Xisuma: 8
+17: iJevin: 8
+18: Welsknight: 6
+19: impulseSV: 6
+20: joehillssays: 5
+21: VintageBeef: 4
+22: Biffa2001: 1
+23: Etho: 1
+Total 516

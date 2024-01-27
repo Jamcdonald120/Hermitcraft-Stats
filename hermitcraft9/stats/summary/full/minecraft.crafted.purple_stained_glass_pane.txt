@@ -1,0 +1,15 @@
+minecraft.crafted.purple_stained_glass_pane
+1: iJevin: 1872
+2: impulseSV: 1328
+3: Keralis1: 480
+4: Xisuma: 448
+5: Tango: 320
+6: Stressmonster101: 128
+7: cubfan135: 80
+8: GoodTimeWithScar: 80
+9: falsesymmetry: 48
+10: Docm77: 32
+11: PearlescentMoon: 16
+12: ZombieCleo: 16
+13: Zedaph: 16
+Total 4864

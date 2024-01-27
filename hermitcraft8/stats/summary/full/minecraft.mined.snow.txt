@@ -1,0 +1,21 @@
+minecraft.mined.snow
+1: ZombieCleo: 54189
+2: PearlescentMoon: 37900
+3: GoodTimeWithScar: 35320
+4: impulseSV: 26048
+5: Grian: 4176
+6: cubfan135: 2885
+7: Tango: 1202
+8: Etho: 342
+9: iJevin: 143
+10: BdoubleO100: 111
+11: Zedaph: 101
+12: VintageBeef: 63
+13: Renthedog: 33
+14: MumboJumbo: 26
+15: Docm77: 22
+16: GeminiTay: 12
+17: hypnotizd: 10
+18: Welsknight: 5
+19: Xisuma: 2
+Total 162590

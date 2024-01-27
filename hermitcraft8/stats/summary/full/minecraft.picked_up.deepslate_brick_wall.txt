@@ -1,0 +1,16 @@
+minecraft.picked_up.deepslate_brick_wall
+1: Docm77: 150
+2: PearlescentMoon: 66
+3: joehillssays: 35
+4: GoodTimeWithScar: 31
+5: Renthedog: 29
+6: iJevin: 20
+7: VintageBeef: 16
+8: Welsknight: 15
+9: impulseSV: 5
+10: Xisuma: 4
+11: ZombieCleo: 4
+12: cubfan135: 2
+13: Grian: 1
+14: Stressmonster101: 1
+Total 379

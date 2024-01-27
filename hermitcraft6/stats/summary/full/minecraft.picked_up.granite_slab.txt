@@ -1,0 +1,6 @@
+minecraft.picked_up.granite_slab
+1: cubfan135: 223
+2: Xisuma: 17
+3: Renthedog: 14
+4: BdoubleO100: 3
+Total 257

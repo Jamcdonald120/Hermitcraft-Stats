@@ -1,0 +1,25 @@
+stat.pickup.minecraft.log2
+1: Welsknight: 29630
+2: GoodTimeWithScar: 28993
+3: cubfan135: 22471
+4: falsesymmetry: 17186
+5: xBCrafted: 10844
+6: Tango: 10293
+7: Stressmonster101: 9051
+8: Xisuma: 7420
+9: Renthedog: 4856
+10: MumboJumbo: 4364
+11: impulseSV: 3909
+12: iskall85: 3381
+13: joehillssays: 3004
+14: BdoubleO100: 2037
+15: PythonGB: 1614
+16: VintageBeef: 357
+17: Zedaph: 334
+18: iJevin: 227
+19: Docm77: 113
+20: Tinfoilchef: 87
+21: ZombieCleo: 81
+22: Biffa2001: 16
+23: Etho: 1
+Total 160269

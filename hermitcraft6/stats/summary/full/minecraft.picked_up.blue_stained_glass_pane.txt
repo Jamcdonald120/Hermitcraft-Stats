@@ -1,0 +1,13 @@
+minecraft.picked_up.blue_stained_glass_pane
+1: Xisuma: 708
+2: PythonGB: 201
+3: GoodTimeWithScar: 149
+4: joehillssays: 64
+5: cubfan135: 48
+6: falsesymmetry: 32
+7: iskall85: 20
+8: Welsknight: 13
+9: Docm77: 7
+10: Tango: 4
+11: Renthedog: 1
+Total 1247

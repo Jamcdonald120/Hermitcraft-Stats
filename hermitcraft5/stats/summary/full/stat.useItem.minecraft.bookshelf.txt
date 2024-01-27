@@ -1,0 +1,24 @@
+stat.useItem.minecraft.bookshelf
+1: cubfan135: 556
+2: Welsknight: 532
+3: impulseSV: 481
+4: PythonGB: 197
+5: joehillssays: 170
+6: xBCrafted: 123
+7: Xisuma: 121
+8: falsesymmetry: 110
+9: Zedaph: 106
+10: Stressmonster101: 87
+11: Tango: 82
+12: iskall85: 75
+13: iJevin: 60
+14: Tinfoilchef: 52
+15: BdoubleO100: 45
+16: GoodTimeWithScar: 44
+17: VintageBeef: 30
+18: MumboJumbo: 20
+19: Renthedog: 18
+20: Etho: 18
+21: ZombieCleo: 18
+22: Biffa2001: 1
+Total 2946

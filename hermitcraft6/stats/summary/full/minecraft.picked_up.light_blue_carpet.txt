@@ -1,0 +1,13 @@
+minecraft.picked_up.light_blue_carpet
+1: iJevin: 272
+2: GoodTimeWithScar: 239
+3: cubfan135: 234
+4: Xisuma: 141
+5: Renthedog: 67
+6: Grian: 13
+7: iskall85: 10
+8: Docm77: 3
+9: falsesymmetry: 1
+10: Welsknight: 1
+11: Stressmonster101: 1
+Total 982

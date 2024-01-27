@@ -1,0 +1,6 @@
+minecraft.dropped.experience_bottle
+1: GoodTimeWithScar: 284
+2: Grian: 169
+3: cubfan135: 96
+4: Keralis1: 93
+Total 642

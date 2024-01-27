@@ -1,0 +1,27 @@
+minecraft.used.iron_pickaxe
+1: Keralis1: 16421
+2: ZombieCleo: 12768
+3: Stressmonster101: 7568
+4: iJevin: 6766
+5: joehillssays: 6327
+6: Tango: 5703
+7: GoodTimeWithScar: 4253
+8: impulseSV: 4215
+9: cubfan135: 3912
+10: falsesymmetry: 3548
+11: Grian: 3399
+12: Tinfoilchef: 3256
+13: Renthedog: 3243
+14: Zedaph: 3201
+15: BdoubleO100: 3001
+16: xBCrafted: 2514
+17: Biffa2001: 2247
+18: Docm77: 2119
+19: PythonGB: 2106
+20: Jessassin: 1506
+21: Welsknight: 1018
+22: MumboJumbo: 758
+23: iskall85: 712
+24: Xisuma: 233
+25: EvilXisuma: 2
+Total 100796

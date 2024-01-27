@@ -1,0 +1,22 @@
+stat.pickup.minecraft.spruce_door
+1: Tango: 673
+2: cubfan135: 46
+3: iskall85: 38
+4: falsesymmetry: 30
+5: Welsknight: 27
+6: Renthedog: 14
+7: GoodTimeWithScar: 13
+8: Etho: 12
+9: ZombieCleo: 12
+10: iJevin: 10
+11: Docm77: 7
+12: Tinfoilchef: 4
+13: impulseSV: 4
+14: VintageBeef: 3
+15: PythonGB: 3
+16: Xisuma: 2
+17: zueljin: 2
+18: MumboJumbo: 2
+19: joehillssays: 1
+20: Biffa2001: 1
+Total 904

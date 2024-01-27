@@ -1,0 +1,24 @@
+minecraft.picked_up.slime_ball
+1: iskall85: 18744
+2: MumboJumbo: 6675
+3: impulseSV: 3235
+4: GoodTimeWithScar: 2915
+5: Tango: 2645
+6: Renthedog: 2270
+7: Tinfoilchef: 1895
+8: cubfan135: 1842
+9: Xisuma: 1594
+10: Grian: 1421
+11: BdoubleO100: 1411
+12: iJevin: 1088
+13: Stressmonster101: 874
+14: joehillssays: 370
+15: falsesymmetry: 366
+16: Welsknight: 284
+17: Docm77: 199
+18: Zedaph: 195
+19: ZombieCleo: 173
+20: Biffa2001: 155
+21: PythonGB: 44
+22: Cub_Cam: 5
+Total 48400

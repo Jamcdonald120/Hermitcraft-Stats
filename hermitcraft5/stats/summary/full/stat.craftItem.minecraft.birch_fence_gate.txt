@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.birch_fence_gate
+1: Renthedog: 64
+2: MumboJumbo: 60
+3: cubfan135: 11
+4: impulseSV: 8
+5: PythonGB: 6
+6: Biffa2001: 5
+7: xBCrafted: 4
+8: joehillssays: 2
+9: ZombieCleo: 2
+10: VintageBeef: 1
+11: iJevin: 1
+12: falsesymmetry: 1
+Total 165

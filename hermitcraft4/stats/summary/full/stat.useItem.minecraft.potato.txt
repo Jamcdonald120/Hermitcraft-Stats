@@ -1,0 +1,23 @@
+stat.useItem.minecraft.potato
+1: impulseSV: 16089
+2: cubfan135: 6483
+3: falsesymmetry: 2328
+4: GoodTimeWithScar: 898
+5: Renthedog: 890
+6: PythonGB: 745
+7: Etho: 727
+8: MumboJumbo: 653
+9: Docm77: 624
+10: Welsknight: 448
+11: Jessassin: 342
+12: iskall85: 266
+13: ZombieCleo: 253
+14: Tinfoilchef: 249
+15: Biffa2001: 247
+16: xBCrafted: 208
+17: VintageBeef: 190
+18: iJevin: 165
+19: joehillssays: 141
+20: Tango: 82
+21: Xisuma: 10
+Total 32038

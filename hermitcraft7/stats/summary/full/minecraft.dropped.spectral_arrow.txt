@@ -1,0 +1,19 @@
+minecraft.dropped.spectral_arrow
+1: Etho: 1478
+2: Tango: 1433
+3: Zedaph: 205
+4: cubfan135: 181
+5: Xisuma: 127
+6: Grian: 63
+7: xBCrafted: 47
+8: hypnotizd: 25
+9: iJevin: 9
+10: GoodTimeWithScar: 8
+11: joehillssays: 3
+12: Docm77: 2
+13: BdoubleO100: 2
+14: Keralis1: 2
+15: Renthedog: 1
+16: Welsknight: 1
+17: impulseSV: 1
+Total 3588

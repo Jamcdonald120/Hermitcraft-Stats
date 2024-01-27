@@ -1,0 +1,21 @@
+stat.pickup.minecraft.tnt
+1: Zedaph: 956
+2: Tango: 771
+3: PythonGB: 614
+4: cubfan135: 319
+5: joehillssays: 238
+6: iskall85: 175
+7: MumboJumbo: 121
+8: Xisuma: 65
+9: Renthedog: 64
+10: BdoubleO100: 41
+11: iJevin: 35
+12: Welsknight: 19
+13: Tinfoilchef: 18
+14: falsesymmetry: 11
+15: GoodTimeWithScar: 10
+16: Etho: 8
+17: ZombieCleo: 4
+18: Docm77: 2
+19: impulseSV: 1
+Total 3472

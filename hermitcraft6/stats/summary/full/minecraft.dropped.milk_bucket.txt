@@ -1,0 +1,12 @@
+minecraft.dropped.milk_bucket
+1: Grian: 8
+2: Stressmonster101: 7
+3: Tango: 3
+4: iskall85: 2
+5: cubfan135: 2
+6: Xisuma: 1
+7: Renthedog: 1
+8: falsesymmetry: 1
+9: GoodTimeWithScar: 1
+10: Zedaph: 1
+Total 27

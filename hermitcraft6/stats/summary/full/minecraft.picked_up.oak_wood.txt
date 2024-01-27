@@ -1,0 +1,17 @@
+minecraft.picked_up.oak_wood
+1: GoodTimeWithScar: 654
+2: cubfan135: 251
+3: falsesymmetry: 107
+4: Grian: 79
+5: iskall85: 27
+6: ZombieCleo: 18
+7: Keralis1: 13
+8: Tango: 7
+9: BdoubleO100: 7
+10: Xisuma: 4
+11: Biffa2001: 4
+12: Stressmonster101: 3
+13: joehillssays: 2
+14: Welsknight: 2
+15: impulseSV: 2
+Total 1180

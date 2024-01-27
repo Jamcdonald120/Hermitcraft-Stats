@@ -1,0 +1,4 @@
+stat.useItem.minecraft.light_weighted_pressure_plate
+1: Tango: 25
+2: falsesymmetry: 3
+Total 28

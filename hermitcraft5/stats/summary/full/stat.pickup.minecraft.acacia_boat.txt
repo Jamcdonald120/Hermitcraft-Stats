@@ -1,0 +1,10 @@
+stat.pickup.minecraft.acacia_boat
+1: falsesymmetry: 10
+2: cubfan135: 8
+3: iskall85: 6
+4: Xisuma: 3
+5: Renthedog: 3
+6: PythonGB: 3
+7: joehillssays: 3
+8: Welsknight: 2
+Total 38

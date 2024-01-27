@@ -1,0 +1,19 @@
+stat.useItem.minecraft.dark_oak_boat
+1: falsesymmetry: 106
+2: cubfan135: 60
+3: Xisuma: 53
+4: Renthedog: 46
+5: iskall85: 35
+6: GoodTimeWithScar: 31
+7: PythonGB: 18
+8: MumboJumbo: 16
+9: Welsknight: 9
+10: iJevin: 8
+11: impulseSV: 8
+12: Tango: 7
+13: joehillssays: 3
+14: Docm77: 1
+15: Biffa2001: 1
+16: ZombieCleo: 1
+17: Tinfoilchef: 1
+Total 404

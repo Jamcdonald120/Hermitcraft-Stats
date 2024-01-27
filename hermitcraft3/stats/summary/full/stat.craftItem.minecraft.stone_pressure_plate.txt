@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.stone_pressure_plate
+1: falsesymmetry: 230
+2: Xisuma: 140
+3: Mumbo: 136
+4: Tango: 128
+5: sl1pg8r: 73
+6: Tinfoilchef: 73
+7: xBCrafted: 69
+8: Spumwackles: 58
+9: Biffa2001: 40
+10: KingDaddyDMAC: 38
+11: impulseSV: 21
+12: Etho: 15
+13: iJevin: 13
+14: topmass: 11
+15: monkeyfarm: 11
+16: Docm77: 7
+17: zueljin: 6
+18: PythonGB: 4
+Total 1073

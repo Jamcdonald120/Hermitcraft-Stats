@@ -1,0 +1,5 @@
+stat.craftItem.66
+1: Keralis1: 2480
+2: red3yz: 800
+3: skyzm: 288
+Total 3568

@@ -1,0 +1,15 @@
+minecraft.crafted.light_gray_wool
+1: Keralis1: 5119
+2: Xisuma: 261
+3: GoodTimeWithScar: 210
+4: Stressmonster101: 108
+5: xBCrafted: 62
+6: Zedaph: 40
+7: Renthedog: 32
+8: ZombieCleo: 19
+9: iskall85: 16
+10: Docm77: 8
+11: cubfan135: 7
+12: Grian: 4
+13: joehillssays: 2
+Total 5888

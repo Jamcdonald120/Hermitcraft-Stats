@@ -1,0 +1,14 @@
+minecraft.picked_up.weathered_cut_copper
+1: Keralis1: 21
+2: xBCrafted: 6
+3: cubfan135: 6
+4: Zedaph: 6
+5: PearlescentMoon: 5
+6: MythicalSausage: 3
+7: BdoubleO100: 3
+8: VintageBeef: 2
+9: Grian: 2
+10: impulseSV: 2
+11: Renthedog: 1
+12: RentheKing: 1
+Total 58

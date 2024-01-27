@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.golden_rail
+1: Xisuma: 126
+2: falsesymmetry: 12
+3: sl1pg8r: 3
+4: Mumbo: 2
+5: Spumwackles: 2
+6: monkeyfarm: 1
+Total 146

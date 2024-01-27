@@ -1,0 +1,8 @@
+minecraft.picked_up.granite_slab
+1: impulseSV: 132
+2: PearlescentMoon: 45
+3: Xisuma: 25
+4: Tango: 11
+5: GeminiTay: 9
+6: xBCrafted: 1
+Total 223

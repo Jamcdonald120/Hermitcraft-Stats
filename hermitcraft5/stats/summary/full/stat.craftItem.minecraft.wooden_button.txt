@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.wooden_button
+1: Renthedog: 3567
+2: Welsknight: 164
+3: falsesymmetry: 137
+4: iskall85: 99
+5: Tango: 97
+6: PythonGB: 91
+7: cubfan135: 85
+8: GoodTimeWithScar: 73
+9: impulseSV: 70
+10: BdoubleO100: 58
+11: MumboJumbo: 57
+12: xBCrafted: 44
+13: Xisuma: 29
+14: Zedaph: 26
+15: joehillssays: 20
+16: Tinfoilchef: 16
+17: Etho: 10
+18: VintageBeef: 8
+19: ZombieCleo: 3
+20: Stressmonster101: 3
+21: iJevin: 1
+22: Biffa2001: 1
+Total 4659

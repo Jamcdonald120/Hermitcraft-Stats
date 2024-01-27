@@ -1,0 +1,28 @@
+minecraft.picked_up.magma_cream
+1: Tango: 893
+2: cubfan135: 873
+3: joehillssays: 761
+4: impulseSV: 426
+5: iJevin: 258
+6: Zedaph: 253
+7: Renthedog: 233
+8: Etho: 157
+9: Xisuma: 153
+10: Docm77: 132
+11: falsesymmetry: 132
+12: ZombieCleo: 115
+13: PearlescentMoon: 79
+14: iskall85: 69
+15: hypnotizd: 63
+16: xBCrafted: 61
+17: Keralis1: 56
+18: Stressmonster101: 32
+19: VintageBeef: 27
+20: RentheKing: 18
+21: Grian: 17
+22: BdoubleO100: 13
+23: GeminiTay: 7
+24: Welsknight: 4
+25: Mumbo: 1
+26: MumboJumbo: 1
+Total 4834

@@ -1,0 +1,17 @@
+minecraft.picked_up.sandstone_wall
+1: GoodTimeWithScar: 317
+2: cubfan135: 290
+3: Xisuma: 185
+4: Docm77: 120
+5: VintageBeef: 59
+6: PearlescentMoon: 39
+7: xBCrafted: 33
+8: ZombieCleo: 18
+9: GeminiTay: 11
+10: Grian: 11
+11: joehillssays: 6
+12: BdoubleO100: 4
+13: Stressmonster101: 1
+14: Keralis1: 1
+15: impulseSV: 1
+Total 1096

@@ -1,0 +1,15 @@
+minecraft.custom.raid_trigger
+1: impulseSV: 90005
+2: Keralis1: 15219
+3: Docm77: 14608
+4: Tango: 14140
+5: iJevin: 4565
+6: GoodTimeWithScar: 6
+7: cubfan135: 5
+8: Grian: 4
+9: PearlescentMoon: 2
+10: Etho: 2
+11: Zedaph: 2
+12: Xisuma: 1
+13: xBCrafted: 1
+Total 138560

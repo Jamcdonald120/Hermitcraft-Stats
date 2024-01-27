@@ -1,0 +1,10 @@
+stat.mineBlock.minecraft.brown_mushroom_block
+1: monkeyfarm: 1558
+2: falsesymmetry: 501
+3: Tinfoilchef: 290
+4: topmass: 202
+5: Xisuma: 201
+6: impulseSV: 151
+7: Tango: 53
+8: Spumwackles: 47
+Total 3003

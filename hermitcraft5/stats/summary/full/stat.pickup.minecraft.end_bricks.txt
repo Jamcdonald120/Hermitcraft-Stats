@@ -1,0 +1,20 @@
+stat.pickup.minecraft.end_bricks
+1: joehillssays: 678
+2: iskall85: 637
+3: Renthedog: 551
+4: Zedaph: 465
+5: cubfan135: 448
+6: Xisuma: 399
+7: impulseSV: 250
+8: Tango: 195
+9: Tinfoilchef: 130
+10: MumboJumbo: 89
+11: falsesymmetry: 57
+12: iJevin: 55
+13: GoodTimeWithScar: 52
+14: Welsknight: 25
+15: PythonGB: 14
+16: Biffa2001: 5
+17: xBCrafted: 2
+18: Etho: 2
+Total 4054

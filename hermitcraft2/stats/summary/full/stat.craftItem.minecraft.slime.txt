@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.slime
+1: KingDaddyDMAC: 481
+2: sl1pg8r: 64
+3: Xisuma: 64
+4: Spumwackles: 35
+5: Mumbo: 28
+6: monkeyfarm: 8
+7: Tango: 5
+8: zueljin: 3
+Total 688

@@ -1,0 +1,12 @@
+minecraft.picked_up.polished_diorite_stairs
+1: xBCrafted: 518
+2: VintageBeef: 246
+3: BdoubleO100: 185
+4: Tinfoilchef: 108
+5: iskall85: 78
+6: GoodTimeWithScar: 59
+7: Keralis1: 50
+8: cubfan135: 9
+9: Xisuma: 6
+10: Grian: 1
+Total 1260

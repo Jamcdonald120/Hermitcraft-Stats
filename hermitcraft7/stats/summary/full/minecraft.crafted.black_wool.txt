@@ -1,0 +1,21 @@
+minecraft.crafted.black_wool
+1: ZombieCleo: 1583
+2: iskall85: 975
+3: Renthedog: 452
+4: GoodTimeWithScar: 449
+5: Stressmonster101: 379
+6: Keralis1: 286
+7: hypnotizd: 158
+8: Grian: 128
+9: Tango: 105
+10: joehillssays: 100
+11: cubfan135: 84
+12: impulseSV: 64
+13: xBCrafted: 61
+14: MumboJumbo: 56
+15: Xisuma: 49
+16: BdoubleO100: 11
+17: Etho: 8
+18: Zedaph: 8
+19: Docm77: 1
+Total 4957

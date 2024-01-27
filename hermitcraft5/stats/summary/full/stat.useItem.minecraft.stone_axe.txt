@@ -1,0 +1,21 @@
+stat.useItem.minecraft.stone_axe
+1: Welsknight: 1401
+2: Tinfoilchef: 917
+3: PythonGB: 482
+4: Biffa2001: 217
+5: Etho: 209
+6: Zedaph: 209
+7: Tango: 154
+8: cubfan135: 146
+9: impulseSV: 137
+10: VintageBeef: 136
+11: Renthedog: 135
+12: ZombieCleo: 134
+13: xBCrafted: 132
+14: joehillssays: 128
+15: falsesymmetry: 124
+16: BdoubleO100: 96
+17: Xisuma: 70
+18: Stressmonster101: 51
+19: Docm77: 7
+Total 4885

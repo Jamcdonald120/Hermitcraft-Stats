@@ -1,0 +1,17 @@
+stat.useItem.minecraft.diamond_sword
+1: Tango: 3260
+2: ZombieCleo: 1818
+3: Xisuma: 1783
+4: iJevin: 1434
+5: Spumwackles: 852
+6: xBCrafted: 733
+7: sl1pg8r: 464
+8: Mumbo: 373
+9: Biffa2001: 355
+10: KingDaddyDMAC: 354
+11: zueljin: 327
+12: Collen: 276
+13: Tinfoilchef: 116
+14: falsesymmetry: 96
+15: monkeyfarm: 34
+Total 12275

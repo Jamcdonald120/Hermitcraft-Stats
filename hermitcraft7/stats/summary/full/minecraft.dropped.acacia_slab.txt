@@ -1,0 +1,10 @@
+minecraft.dropped.acacia_slab
+1: GoodTimeWithScar: 175
+2: Keralis1: 43
+3: VintageBeef: 28
+4: cubfan135: 16
+5: xBCrafted: 7
+6: Renthedog: 5
+7: iskall85: 5
+8: MumboJumbo: 1
+Total 280

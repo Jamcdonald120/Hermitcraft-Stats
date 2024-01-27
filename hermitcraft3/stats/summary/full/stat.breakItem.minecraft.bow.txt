@@ -1,0 +1,5 @@
+stat.breakItem.minecraft.bow
+1: topmass: 1
+2: xBCrafted: 1
+3: hypnotizd: 1
+Total 3

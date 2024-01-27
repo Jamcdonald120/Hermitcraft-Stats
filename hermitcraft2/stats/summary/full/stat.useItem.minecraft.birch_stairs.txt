@@ -1,0 +1,8 @@
+stat.useItem.minecraft.birch_stairs
+1: zueljin: 65
+2: xBCrafted: 59
+3: ZombieCleo: 42
+4: Spumwackles: 19
+5: Biffa2001: 13
+6: falsesymmetry: 1
+Total 199

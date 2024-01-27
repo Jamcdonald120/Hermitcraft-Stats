@@ -1,0 +1,25 @@
+minecraft.mined.brown_mushroom_block
+1: Docm77: 10048
+2: Renthedog: 5308
+3: VintageBeef: 5050
+4: cubfan135: 4214
+5: PearlescentMoon: 4137
+6: GoodTimeWithScar: 3491
+7: Xisuma: 2975
+8: Etho: 1488
+9: Zedaph: 1414
+10: Keralis1: 1289
+11: Tango: 1074
+12: Stressmonster101: 759
+13: joehillssays: 720
+14: RentheKing: 720
+15: falsesymmetry: 548
+16: impulseSV: 463
+17: GeminiTay: 249
+18: iskall85: 246
+19: BdoubleO100: 226
+20: Grian: 177
+21: xBCrafted: 110
+22: ZombieCleo: 39
+23: iJevin: 9
+Total 44754

@@ -1,0 +1,20 @@
+minecraft.picked_up.bamboo
+1: joehillssays: 21336
+2: Xisuma: 19335
+3: iskall85: 18552
+4: impulseSV: 7708
+5: Grian: 4355
+6: cubfan135: 4135
+7: MumboJumbo: 2842
+8: Keralis1: 2541
+9: Docm77: 1216
+10: Renthedog: 909
+11: BdoubleO100: 882
+12: falsesymmetry: 629
+13: Zedaph: 601
+14: GoodTimeWithScar: 560
+15: ZombieCleo: 274
+16: iJevin: 156
+17: Stressmonster101: 133
+18: Tinfoilchef: 93
+Total 86257

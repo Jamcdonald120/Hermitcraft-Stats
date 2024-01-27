@@ -1,0 +1,15 @@
+minecraft.picked_up.purple_stained_glass_pane
+1: GoodTimeWithScar: 138
+2: PythonGB: 104
+3: Grian: 90
+4: Tango: 56
+5: Stressmonster101: 40
+6: Xisuma: 38
+7: cubfan135: 21
+8: iskall85: 19
+9: Welsknight: 13
+10: Renthedog: 11
+11: joehillssays: 4
+12: falsesymmetry: 2
+13: impulseSV: 2
+Total 538

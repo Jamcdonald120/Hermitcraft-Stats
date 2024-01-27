@@ -1,0 +1,19 @@
+minecraft.crafted.mangrove_stairs
+1: Docm77: 700
+2: GoodTimeWithScar: 364
+3: Xisuma: 304
+4: cubfan135: 168
+5: Grian: 100
+6: BdoubleO100: 88
+7: MythicalSausage: 80
+8: Renthedog: 64
+9: iJevin: 64
+10: PearlescentMoon: 64
+11: RentheKing: 56
+12: Tango: 48
+13: Zedaph: 24
+14: ZombieCleo: 20
+15: Stressmonster101: 4
+16: Keralis1: 4
+17: impulseSV: 4
+Total 2156

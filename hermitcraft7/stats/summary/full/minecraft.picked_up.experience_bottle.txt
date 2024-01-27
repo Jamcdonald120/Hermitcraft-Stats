@@ -1,0 +1,13 @@
+minecraft.picked_up.experience_bottle
+1: hypnotizd: 644
+2: cubfan135: 210
+3: joehillssays: 111
+4: impulseSV: 71
+5: Grian: 69
+6: GoodTimeWithScar: 22
+7: Zedaph: 20
+8: Etho: 17
+9: falsesymmetry: 12
+10: Keralis1: 2
+11: Tango: 1
+Total 1179

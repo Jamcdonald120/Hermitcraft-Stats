@@ -1,0 +1,24 @@
+stat.useItem.minecraft.bread
+1: MumboJumbo: 3558
+2: joehillssays: 1497
+3: cubfan135: 1327
+4: Renthedog: 703
+5: GoodTimeWithScar: 562
+6: PythonGB: 346
+7: iskall85: 205
+8: iJevin: 168
+9: Docm77: 141
+10: falsesymmetry: 82
+11: Zedaph: 39
+12: Etho: 27
+13: Xisuma: 23
+14: Tango: 22
+15: impulseSV: 20
+16: VintageBeef: 18
+17: Welsknight: 15
+18: Biffa2001: 9
+19: ZombieCleo: 7
+20: Stressmonster101: 7
+21: BdoubleO100: 3
+22: xBCrafted: 3
+Total 8782

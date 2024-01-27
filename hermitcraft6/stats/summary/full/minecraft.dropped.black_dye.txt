@@ -1,0 +1,11 @@
+minecraft.dropped.black_dye
+1: PythonGB: 1344
+2: Xisuma: 96
+3: iskall85: 64
+4: Docm77: 48
+5: falsesymmetry: 17
+6: MumboJumbo: 14
+7: Grian: 6
+8: Renthedog: 5
+9: GoodTimeWithScar: 1
+Total 1595

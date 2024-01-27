@@ -1,0 +1,21 @@
+minecraft.picked_up.end_stone
+1: cubfan135: 11092
+2: Xisuma: 4959
+3: iskall85: 1908
+4: MumboJumbo: 1392
+5: iJevin: 1285
+6: Zedaph: 1169
+7: Tango: 1134
+8: falsesymmetry: 750
+9: joehillssays: 500
+10: impulseSV: 445
+11: PythonGB: 394
+12: Docm77: 171
+13: GoodTimeWithScar: 124
+14: Grian: 67
+15: Renthedog: 49
+16: Tinfoilchef: 40
+17: Stressmonster101: 4
+18: Welsknight: 1
+19: ZombieCleo: 1
+Total 25485

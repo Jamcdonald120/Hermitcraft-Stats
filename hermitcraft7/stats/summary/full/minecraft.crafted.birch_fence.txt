@@ -1,0 +1,19 @@
+minecraft.crafted.birch_fence
+1: Xisuma: 729
+2: Grian: 544
+3: VintageBeef: 468
+4: Keralis1: 441
+5: Welsknight: 264
+6: Renthedog: 255
+7: xBCrafted: 189
+8: Etho: 132
+9: cubfan135: 102
+10: BdoubleO100: 93
+11: Tango: 84
+12: GoodTimeWithScar: 75
+13: impulseSV: 57
+14: Stressmonster101: 36
+15: joehillssays: 18
+16: Zedaph: 9
+17: MumboJumbo: 3
+Total 3499

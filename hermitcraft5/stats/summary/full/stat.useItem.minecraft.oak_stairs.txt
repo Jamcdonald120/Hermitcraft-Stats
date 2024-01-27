@@ -1,0 +1,22 @@
+stat.useItem.minecraft.oak_stairs
+1: xBCrafted: 912
+2: MumboJumbo: 786
+3: Tinfoilchef: 572
+4: VintageBeef: 513
+5: Welsknight: 426
+6: Biffa2001: 300
+7: cubfan135: 287
+8: falsesymmetry: 240
+9: Xisuma: 149
+10: iskall85: 144
+11: PythonGB: 79
+12: Tango: 33
+13: Zedaph: 26
+14: joehillssays: 17
+15: GoodTimeWithScar: 14
+16: BdoubleO100: 9
+17: Stressmonster101: 9
+18: iJevin: 5
+19: impulseSV: 5
+20: Renthedog: 1
+Total 4527

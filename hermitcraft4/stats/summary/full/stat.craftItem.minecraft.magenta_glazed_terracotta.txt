@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.magenta_glazed_terracotta
+1: falsesymmetry: 128
+2: iskall85: 27
+3: joehillssays: 6
+Total 161

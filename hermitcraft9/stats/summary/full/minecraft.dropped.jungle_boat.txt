@@ -1,0 +1,10 @@
+minecraft.dropped.jungle_boat
+1: Etho: 16
+2: Xisuma: 4
+3: falsesymmetry: 4
+4: Zedaph: 4
+5: Renthedog: 1
+6: VintageBeef: 1
+7: iJevin: 1
+8: hypnotizd: 1
+Total 32

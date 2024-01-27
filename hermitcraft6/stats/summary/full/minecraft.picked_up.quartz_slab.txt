@@ -1,0 +1,23 @@
+minecraft.picked_up.quartz_slab
+1: iskall85: 2768
+2: Grian: 2683
+3: MumboJumbo: 2641
+4: Renthedog: 2163
+5: falsesymmetry: 1349
+6: cubfan135: 1342
+7: GoodTimeWithScar: 1303
+8: PythonGB: 1097
+9: Docm77: 981
+10: iJevin: 951
+11: Xisuma: 586
+12: Welsknight: 477
+13: impulseSV: 249
+14: Stressmonster101: 240
+15: Tango: 153
+16: Zedaph: 23
+17: xBCrafted: 19
+18: Keralis1: 19
+19: joehillssays: 15
+20: ZombieCleo: 14
+21: Biffa2001: 3
+Total 19076

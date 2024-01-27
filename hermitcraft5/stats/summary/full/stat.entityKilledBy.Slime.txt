@@ -1,0 +1,9 @@
+stat.entityKilledBy.Slime
+1: cubfan135: 9
+2: GoodTimeWithScar: 9
+3: MumboJumbo: 3
+4: Xisuma: 2
+5: Renthedog: 1
+6: PythonGB: 1
+7: Welsknight: 1
+Total 26

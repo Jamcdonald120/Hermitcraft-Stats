@@ -1,0 +1,4 @@
+minecraft.mined.acacia_sign
+1: GoodTimeWithScar: 2
+2: Keralis1: 1
+Total 3

@@ -1,0 +1,21 @@
+minecraft.picked_up.bowl
+1: Grian: 68
+2: impulseSV: 50
+3: PearlescentMoon: 49
+4: Xisuma: 46
+5: ZombieCleo: 39
+6: GeminiTay: 33
+7: iJevin: 21
+8: BdoubleO100: 18
+9: cubfan135: 17
+10: Renthedog: 9
+11: GoodTimeWithScar: 8
+12: hypnotizd: 4
+13: falsesymmetry: 3
+14: RentheKing: 3
+15: joehillssays: 2
+16: Docm77: 1
+17: VintageBeef: 1
+18: Tango: 1
+19: Zedaph: 1
+Total 374

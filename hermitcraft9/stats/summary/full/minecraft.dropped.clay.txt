@@ -1,0 +1,20 @@
+minecraft.dropped.clay
+1: Tango: 4561
+2: Zedaph: 3170
+3: iskall85: 609
+4: Keralis1: 396
+5: iJevin: 267
+6: falsesymmetry: 129
+7: Grian: 78
+8: xBCrafted: 71
+9: Renthedog: 42
+10: GoodTimeWithScar: 30
+11: impulseSV: 19
+12: Docm77: 15
+13: Etho: 9
+14: PearlescentMoon: 8
+15: cubfan135: 6
+16: ZombieCleo: 2
+17: VintageBeef: 1
+18: hypnotizd: 1
+Total 9414

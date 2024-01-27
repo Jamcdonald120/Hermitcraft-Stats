@@ -1,0 +1,22 @@
+minecraft.dropped.redstone_torch
+1: Tango: 728
+2: Zedaph: 97
+3: iJevin: 62
+4: Keralis1: 57
+5: impulseSV: 45
+6: Grian: 44
+7: cubfan135: 42
+8: Renthedog: 34
+9: ZombieCleo: 30
+10: Xisuma: 28
+11: GoodTimeWithScar: 27
+12: Stressmonster101: 25
+13: Etho: 22
+14: PearlescentMoon: 21
+15: Mumbo: 16
+16: iskall85: 4
+17: hypnotizd: 2
+18: GeminiTay: 1
+19: BdoubleO100: 1
+20: falsesymmetry: 1
+Total 1287

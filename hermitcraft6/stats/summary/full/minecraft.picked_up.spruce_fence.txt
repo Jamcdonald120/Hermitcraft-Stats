@@ -1,0 +1,24 @@
+minecraft.picked_up.spruce_fence
+1: GoodTimeWithScar: 1285
+2: Stressmonster101: 1150
+3: cubfan135: 1074
+4: Renthedog: 990
+5: iJevin: 863
+6: Xisuma: 815
+7: iskall85: 517
+8: falsesymmetry: 496
+9: Grian: 492
+10: impulseSV: 350
+11: ZombieCleo: 223
+12: Docm77: 162
+13: BdoubleO100: 123
+14: PythonGB: 120
+15: Welsknight: 72
+16: joehillssays: 47
+17: Keralis1: 27
+18: Tango: 24
+19: Biffa2001: 10
+20: MumboJumbo: 8
+21: Tinfoilchef: 1
+22: Zedaph: 1
+Total 8850

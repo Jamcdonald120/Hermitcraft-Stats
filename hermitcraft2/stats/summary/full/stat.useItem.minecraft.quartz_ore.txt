@@ -1,0 +1,10 @@
+stat.useItem.minecraft.quartz_ore
+1: ZombieCleo: 545
+2: Spumwackles: 297
+3: Tango: 240
+4: Xisuma: 167
+5: zueljin: 140
+6: iJevin: 64
+7: KingDaddyDMAC: 5
+8: falsesymmetry: 4
+Total 1462

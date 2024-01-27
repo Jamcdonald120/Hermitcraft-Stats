@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.sponge
+1: hypnotizd: 3526
+2: xBCrafted: 3348
+3: falsesymmetry: 1018
+4: Mumbo: 585
+5: Biffa2001: 344
+6: monkeyfarm: 336
+7: iJevin: 2
+Total 9159

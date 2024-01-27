@@ -1,0 +1,24 @@
+minecraft.crafted.tripwire_hook
+1: impulseSV: 1038
+2: Etho: 864
+3: Tango: 548
+4: Keralis1: 216
+5: Zedaph: 154
+6: hypnotizd: 128
+7: GoodTimeWithScar: 82
+8: Renthedog: 74
+9: xBCrafted: 74
+10: cubfan135: 54
+11: Xisuma: 34
+12: falsesymmetry: 16
+13: Docm77: 14
+14: VintageBeef: 10
+15: BdoubleO100: 10
+16: Welsknight: 10
+17: ZombieCleo: 10
+18: MumboJumbo: 8
+19: Stressmonster101: 8
+20: iJevin: 6
+21: joehillssays: 2
+22: iskall85: 2
+Total 3362

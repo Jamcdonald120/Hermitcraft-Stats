@@ -1,0 +1,23 @@
+stat.killEntity.Chicken
+1: ZombieCleo: 668
+2: sl1pg8r: 459
+3: Xisuma: 435
+4: iJevin: 231
+5: xisumavoid: 188
+6: Biffa2001: 150
+7: Spumwackles: 144
+8: monkeyfarm: 130
+9: Pungence: 129
+10: KingDaddyDMAC: 118
+11: Tinfoilchef: 48
+12: Keralis1: 33
+13: xBCrafted: 31
+14: Collen: 30
+15: hypnotizd: 28
+16: red3yz: 20
+17: falsesymmetry: 17
+18: Tango: 13
+19: Marriland: 6
+20: Mumbo: 4
+21: zueljin: 2
+Total 2884

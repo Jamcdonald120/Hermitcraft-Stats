@@ -1,0 +1,17 @@
+minecraft.dropped.iron_chestplate
+1: Etho: 28
+2: Tango: 20
+3: cubfan135: 15
+4: xBCrafted: 12
+5: Zedaph: 12
+6: impulseSV: 6
+7: Xisuma: 5
+8: Grian: 5
+9: hypnotizd: 4
+10: VintageBeef: 3
+11: GoodTimeWithScar: 3
+12: Keralis1: 2
+13: iJevin: 1
+14: iskall85: 1
+15: MumboJumbo: 1
+Total 118

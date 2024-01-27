@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.furnace_minecart
+1: Renthedog: 55
+2: cubfan135: 7
+3: Tinfoilchef: 2
+4: Xisuma: 1
+Total 65

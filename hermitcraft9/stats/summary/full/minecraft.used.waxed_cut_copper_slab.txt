@@ -1,0 +1,10 @@
+minecraft.used.waxed_cut_copper_slab
+1: impulseSV: 263
+2: Renthedog: 252
+3: Xisuma: 122
+4: xBCrafted: 47
+5: Docm77: 30
+6: Keralis1: 9
+7: falsesymmetry: 8
+8: GoodTimeWithScar: 5
+Total 736

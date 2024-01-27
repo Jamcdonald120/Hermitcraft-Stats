@@ -1,0 +1,4 @@
+minecraft.mined.potted_red_tulip
+1: BdoubleO100: 3
+2: GoodTimeWithScar: 1
+Total 4

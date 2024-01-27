@@ -1,0 +1,27 @@
+minecraft.mined.ladder
+1: Zedaph: 119
+2: cubfan135: 107
+3: impulseSV: 97
+4: Docm77: 92
+5: iJevin: 80
+6: hypnotizd: 67
+7: Stressmonster101: 64
+8: joehillssays: 58
+9: ZombieCleo: 51
+10: GeminiTay: 47
+11: GoodTimeWithScar: 46
+12: Etho: 33
+13: Renthedog: 31
+14: falsesymmetry: 24
+15: Tango: 22
+16: xBCrafted: 22
+17: Xisuma: 19
+18: PearlescentMoon: 18
+19: MumboJumbo: 17
+20: Welsknight: 15
+21: Grian: 5
+22: BdoubleO100: 2
+23: Keralis1: 2
+24: VintageBeef: 1
+25: iskall85: 1
+Total 1040

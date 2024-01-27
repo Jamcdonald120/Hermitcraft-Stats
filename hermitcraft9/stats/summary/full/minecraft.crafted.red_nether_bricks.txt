@@ -1,0 +1,14 @@
+minecraft.crafted.red_nether_bricks
+1: Etho: 723
+2: Xisuma: 512
+3: iJevin: 437
+4: cubfan135: 147
+5: falsesymmetry: 103
+6: Tango: 97
+7: Docm77: 68
+8: RentheKing: 64
+9: impulseSV: 32
+10: GoodTimeWithScar: 22
+11: Zedaph: 8
+12: VintageBeef: 2
+Total 2215

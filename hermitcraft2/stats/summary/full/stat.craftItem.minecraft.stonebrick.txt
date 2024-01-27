@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.stonebrick
+1: ZombieCleo: 14000
+2: Xisuma: 3944
+3: falsesymmetry: 2972
+4: Biffa2001: 1976
+5: Mumbo: 1534
+6: Tango: 852
+7: xBCrafted: 676
+8: Tinfoilchef: 336
+9: KingDaddyDMAC: 235
+10: zueljin: 154
+Total 26679

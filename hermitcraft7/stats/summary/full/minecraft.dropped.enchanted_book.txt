@@ -1,0 +1,21 @@
+minecraft.dropped.enchanted_book
+1: Etho: 1019
+2: hypnotizd: 471
+3: cubfan135: 449
+4: Keralis1: 91
+5: Grian: 74
+6: Zedaph: 70
+7: Tango: 68
+8: Xisuma: 51
+9: GoodTimeWithScar: 29
+10: iskall85: 25
+11: xBCrafted: 22
+12: MumboJumbo: 22
+13: Stressmonster101: 22
+14: iJevin: 9
+15: Renthedog: 6
+16: Docm77: 4
+17: xisumavoid: 4
+18: impulseSV: 3
+19: VintageBeef: 1
+Total 2440

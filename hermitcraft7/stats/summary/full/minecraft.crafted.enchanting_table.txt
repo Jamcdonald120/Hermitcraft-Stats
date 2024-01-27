@@ -1,0 +1,23 @@
+minecraft.crafted.enchanting_table
+1: Xisuma: 18
+2: cubfan135: 11
+3: Tango: 10
+4: Etho: 4
+5: impulseSV: 3
+6: VintageBeef: 2
+7: falsesymmetry: 2
+8: hypnotizd: 2
+9: MumboJumbo: 2
+10: Zedaph: 2
+11: Renthedog: 1
+12: iJevin: 1
+13: joehillssays: 1
+14: Grian: 1
+15: BdoubleO100: 1
+16: iskall85: 1
+17: xBCrafted: 1
+18: ZombieCleo: 1
+19: GoodTimeWithScar: 1
+20: Stressmonster101: 1
+21: Keralis1: 1
+Total 67

@@ -1,0 +1,29 @@
+minecraft.used.spruce_stairs
+1: iJevin: 2877
+2: hypnotizd: 2702
+3: xBCrafted: 1476
+4: GeminiTay: 1298
+5: Etho: 999
+6: Keralis1: 792
+7: falsesymmetry: 738
+8: Xisuma: 707
+9: impulseSV: 704
+10: ZombieCleo: 690
+11: Renthedog: 657
+12: BdoubleO100: 622
+13: PearlescentMoon: 539
+14: GoodTimeWithScar: 533
+15: Tango: 472
+16: iskall85: 370
+17: Docm77: 368
+18: Welsknight: 336
+19: Stressmonster101: 331
+20: Grian: 317
+21: VintageBeef: 130
+22: cubfan135: 95
+23: MythicalSausage: 70
+24: fWhip: 10
+25: Pixlriffs: 7
+26: Smallishbeans: 4
+27: joehillssays: 1
+Total 17845

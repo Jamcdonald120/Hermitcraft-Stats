@@ -1,0 +1,28 @@
+stat.pickup.minecraft.string
+1: GoodTimeWithScar: 12910
+2: iskall85: 8885
+3: falsesymmetry: 4785
+4: Renthedog: 4370
+5: impulseSV: 3098
+6: cubfan135: 3063
+7: Tango: 2697
+8: Welsknight: 2335
+9: joehillssays: 2307
+10: Xisuma: 1936
+11: iJevin: 1513
+12: MumboJumbo: 1409
+13: Biffa2001: 570
+14: Tinfoilchef: 504
+15: PythonGB: 436
+16: Etho: 370
+17: Docm77: 352
+18: ZombieCleo: 291
+19: Mumbo: 97
+20: VintageBeef: 78
+21: xBCrafted: 67
+22: Jessassin: 40
+23: zueljin: 11
+24: xisumavoid: 4
+25: hypnotizd: 2
+26: monkeyfarm: 1
+Total 52131

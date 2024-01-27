@@ -1,0 +1,22 @@
+stat.useItem.minecraft.item_frame
+1: falsesymmetry: 782
+2: cubfan135: 688
+3: Renthedog: 568
+4: GoodTimeWithScar: 512
+5: iJevin: 427
+6: iskall85: 392
+7: PythonGB: 313
+8: impulseSV: 227
+9: Welsknight: 219
+10: Xisuma: 214
+11: Tango: 214
+12: MumboJumbo: 178
+13: Biffa2001: 144
+14: Tinfoilchef: 84
+15: joehillssays: 61
+16: VintageBeef: 56
+17: ZombieCleo: 55
+18: Etho: 8
+19: Mumbo: 3
+20: zueljin: 2
+Total 5147

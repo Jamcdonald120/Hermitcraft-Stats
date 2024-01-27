@@ -1,0 +1,6 @@
+stat.useItem.minecraft.tripwire_hook
+1: Xisuma: 93
+2: Tango: 66
+3: ZombieCleo: 13
+4: falsesymmetry: 4
+Total 176

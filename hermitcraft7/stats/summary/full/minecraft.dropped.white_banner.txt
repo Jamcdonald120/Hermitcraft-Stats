@@ -1,0 +1,16 @@
+minecraft.dropped.white_banner
+1: impulseSV: 1428
+2: Zedaph: 86
+3: Keralis1: 55
+4: cubfan135: 40
+5: iJevin: 38
+6: Tango: 14
+7: MumboJumbo: 8
+8: Grian: 6
+9: GoodTimeWithScar: 6
+10: iskall85: 4
+11: BdoubleO100: 3
+12: Xisuma: 2
+13: Renthedog: 1
+14: Etho: 1
+Total 1692

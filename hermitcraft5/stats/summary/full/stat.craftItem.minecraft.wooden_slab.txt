@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.wooden_slab
+1: Welsknight: 23288
+2: Renthedog: 17942
+3: cubfan135: 13068
+4: GoodTimeWithScar: 10950
+5: xBCrafted: 10129
+6: Stressmonster101: 7906
+7: falsesymmetry: 7608
+8: MumboJumbo: 6922
+9: Xisuma: 6054
+10: Tinfoilchef: 4808
+11: PythonGB: 3612
+12: impulseSV: 3034
+13: iskall85: 2008
+14: Tango: 1860
+15: joehillssays: 1412
+16: VintageBeef: 1176
+17: ZombieCleo: 1068
+18: BdoubleO100: 1008
+19: iJevin: 900
+20: Zedaph: 666
+21: Biffa2001: 396
+22: Docm77: 216
+Total 126031

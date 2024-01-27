@@ -1,0 +1,13 @@
+minecraft.crafted.jungle_door
+1: Xisuma: 996
+2: VintageBeef: 63
+3: MumboJumbo: 48
+4: impulseSV: 21
+5: Tango: 9
+6: BdoubleO100: 9
+7: Etho: 6
+8: Keralis1: 6
+9: Renthedog: 3
+10: cubfan135: 3
+11: ZombieCleo: 3
+Total 1167

@@ -1,0 +1,21 @@
+minecraft.dropped.spruce_fence
+1: Grian: 144
+2: ZombieCleo: 117
+3: Renthedog: 75
+4: Docm77: 64
+5: Etho: 58
+6: iJevin: 49
+7: Keralis1: 34
+8: impulseSV: 23
+9: cubfan135: 18
+10: Tango: 6
+11: GoodTimeWithScar: 5
+12: GeminiTay: 4
+13: BdoubleO100: 4
+14: Xisuma: 3
+15: iskall85: 3
+16: xBCrafted: 3
+17: PearlescentMoon: 2
+18: falsesymmetry: 2
+19: Stressmonster101: 2
+Total 616

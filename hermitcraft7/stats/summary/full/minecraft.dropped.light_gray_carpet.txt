@@ -1,0 +1,19 @@
+minecraft.dropped.light_gray_carpet
+1: Zedaph: 821
+2: Tango: 152
+3: cubfan135: 104
+4: GoodTimeWithScar: 90
+5: Keralis1: 67
+6: Grian: 65
+7: iskall85: 45
+8: falsesymmetry: 36
+9: Renthedog: 16
+10: Etho: 10
+11: xBCrafted: 8
+12: impulseSV: 5
+13: hypnotizd: 4
+14: Stressmonster101: 2
+15: Docm77: 1
+16: Xisuma: 1
+17: MumboJumbo: 1
+Total 1428

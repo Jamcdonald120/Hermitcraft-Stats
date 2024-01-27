@@ -1,0 +1,20 @@
+minecraft.dropped.porkchop
+1: iJevin: 477
+2: Keralis1: 48
+3: VintageBeef: 32
+4: Zedaph: 21
+5: Tango: 20
+6: Renthedog: 12
+7: cubfan135: 12
+8: GoodTimeWithScar: 12
+9: Grian: 11
+10: GeminiTay: 8
+11: Xisuma: 7
+12: PearlescentMoon: 6
+13: RentheKing: 6
+14: Docm77: 5
+15: Etho: 3
+16: Mumbo: 3
+17: fWhip: 3
+18: falsesymmetry: 2
+Total 688

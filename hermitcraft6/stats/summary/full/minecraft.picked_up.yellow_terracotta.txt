@@ -1,0 +1,20 @@
+minecraft.picked_up.yellow_terracotta
+1: cubfan135: 18219
+2: MumboJumbo: 2310
+3: Xisuma: 2048
+4: joehillssays: 1350
+5: iJevin: 1248
+6: iskall85: 941
+7: Tango: 683
+8: falsesymmetry: 586
+9: Docm77: 309
+10: Grian: 248
+11: Stressmonster101: 139
+12: ZombieCleo: 102
+13: Welsknight: 81
+14: Zedaph: 73
+15: GoodTimeWithScar: 49
+16: Renthedog: 39
+17: Biffa2001: 37
+18: PythonGB: 28
+Total 28490

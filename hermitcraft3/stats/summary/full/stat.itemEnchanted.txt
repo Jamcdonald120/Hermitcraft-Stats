@@ -1,0 +1,20 @@
+stat.itemEnchanted
+1: falsesymmetry: 639
+2: Tinfoilchef: 321
+3: PythonGB: 243
+4: Xisuma: 237
+5: iJevin: 167
+6: Biffa2001: 120
+7: topmass: 110
+8: impulseSV: 93
+9: Tango: 86
+10: xBCrafted: 86
+11: Etho: 75
+12: sl1pg8r: 62
+13: Mumbo: 62
+14: monkeyfarm: 30
+15: joehillssays: 24
+16: zueljin: 23
+17: Docm77: 22
+18: ZombieCleo: 16
+Total 2416

@@ -1,0 +1,6 @@
+minecraft.crafted.red_nether_brick_slab
+1: Xisuma: 110
+2: GoodTimeWithScar: 56
+3: Docm77: 2
+4: Zedaph: 2
+Total 170

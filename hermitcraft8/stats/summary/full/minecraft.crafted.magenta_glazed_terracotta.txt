@@ -1,0 +1,4 @@
+minecraft.crafted.magenta_glazed_terracotta
+1: GoodTimeWithScar: 12
+2: GeminiTay: 8
+Total 20

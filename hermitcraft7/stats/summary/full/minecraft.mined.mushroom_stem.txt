@@ -1,0 +1,25 @@
+minecraft.mined.mushroom_stem
+1: Etho: 2995
+2: GoodTimeWithScar: 1921
+3: impulseSV: 1783
+4: cubfan135: 874
+5: Grian: 759
+6: Renthedog: 752
+7: xBCrafted: 514
+8: Xisuma: 427
+9: falsesymmetry: 420
+10: BdoubleO100: 318
+11: Tango: 306
+12: Keralis1: 159
+13: iskall85: 131
+14: Stressmonster101: 114
+15: Welsknight: 102
+16: Docm77: 81
+17: hypnotizd: 66
+18: VintageBeef: 59
+19: ZombieCleo: 31
+20: MumboJumbo: 24
+21: joehillssays: 15
+22: Zedaph: 8
+23: iJevin: 6
+Total 11865

@@ -1,0 +1,8 @@
+minecraft.picked_up.jungle_button
+1: GoodTimeWithScar: 11
+2: iJevin: 9
+3: hypnotizd: 7
+4: impulseSV: 6
+5: GeminiTay: 1
+6: Grian: 1
+Total 35

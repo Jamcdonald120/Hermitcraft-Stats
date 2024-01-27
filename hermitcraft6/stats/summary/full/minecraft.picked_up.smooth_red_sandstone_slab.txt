@@ -1,0 +1,4 @@
+minecraft.picked_up.smooth_red_sandstone_slab
+1: cubfan135: 163
+2: Xisuma: 30
+Total 193

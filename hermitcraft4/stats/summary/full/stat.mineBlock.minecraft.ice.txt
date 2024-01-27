@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.ice
+1: Tango: 8382
+2: falsesymmetry: 5292
+3: Xisuma: 4018
+4: iskall85: 1792
+5: impulseSV: 1402
+6: cubfan135: 1203
+7: Renthedog: 1089
+8: Welsknight: 1087
+9: GoodTimeWithScar: 999
+10: PythonGB: 609
+Total 25873

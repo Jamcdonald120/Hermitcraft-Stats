@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.mushroom_stew
+1: Xisuma: 9
+2: iJevin: 7
+3: monkeyfarm: 7
+4: hypnotizd: 5
+5: zueljin: 3
+6: Pungence: 3
+7: Tinfoilchef: 2
+Total 36

@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.yellow_shulker_box
+1: cubfan135: 1270
+2: iskall85: 382
+3: Xisuma: 313
+4: Welsknight: 313
+5: joehillssays: 154
+6: Renthedog: 114
+7: GoodTimeWithScar: 106
+8: falsesymmetry: 92
+9: Zedaph: 62
+10: PythonGB: 52
+11: MumboJumbo: 35
+12: Tango: 27
+13: iJevin: 18
+14: Stressmonster101: 14
+15: Docm77: 4
+16: Tinfoilchef: 4
+17: VintageBeef: 3
+Total 2963

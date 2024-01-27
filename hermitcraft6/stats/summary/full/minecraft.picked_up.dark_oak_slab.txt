@@ -1,0 +1,23 @@
+minecraft.picked_up.dark_oak_slab
+1: Renthedog: 2822
+2: GoodTimeWithScar: 2388
+3: Grian: 1165
+4: falsesymmetry: 1027
+5: Docm77: 818
+6: BdoubleO100: 748
+7: Xisuma: 724
+8: iskall85: 713
+9: cubfan135: 538
+10: Welsknight: 449
+11: Tango: 277
+12: ZombieCleo: 234
+13: xBCrafted: 225
+14: Stressmonster101: 125
+15: Keralis1: 78
+16: impulseSV: 30
+17: PythonGB: 16
+18: joehillssays: 11
+19: Jessassin: 9
+20: MumboJumbo: 4
+21: Biffa2001: 3
+Total 12404

@@ -1,0 +1,10 @@
+minecraft.picked_up.brick_stairs
+1: Grian: 32
+2: impulseSV: 24
+3: Xisuma: 14
+4: Renthedog: 3
+5: joehillssays: 2
+6: GoodTimeWithScar: 2
+7: falsesymmetry: 1
+8: Etho: 1
+Total 79

@@ -1,0 +1,7 @@
+minecraft.picked_up.golden_hoe
+1: falsesymmetry: 4
+2: Zedaph: 4
+3: PearlescentMoon: 2
+4: xBCrafted: 1
+5: Keralis1: 1
+Total 12

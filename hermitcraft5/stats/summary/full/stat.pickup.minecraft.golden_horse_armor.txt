@@ -1,0 +1,17 @@
+stat.pickup.minecraft.golden_horse_armor
+1: Zedaph: 24
+2: falsesymmetry: 11
+3: iskall85: 9
+4: Welsknight: 9
+5: PythonGB: 5
+6: GoodTimeWithScar: 5
+7: xBCrafted: 4
+8: Tango: 3
+9: Tinfoilchef: 3
+10: Xisuma: 2
+11: MumboJumbo: 2
+12: Docm77: 1
+13: BdoubleO100: 1
+14: Biffa2001: 1
+15: impulseSV: 1
+Total 81

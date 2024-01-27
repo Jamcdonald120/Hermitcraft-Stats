@@ -1,0 +1,21 @@
+minecraft.mined.oak_door
+1: Xisuma: 21
+2: iJevin: 10
+3: Grian: 10
+4: hypnotizd: 10
+5: BdoubleO100: 8
+6: Keralis1: 8
+7: Tango: 6
+8: Pixlriffs: 6
+9: Docm77: 3
+10: PearlescentMoon: 3
+11: xBCrafted: 2
+12: VintageBeef: 1
+13: iskall85: 1
+14: cubfan135: 1
+15: ZombieCleo: 1
+16: Mumbo: 1
+17: GoodTimeWithScar: 1
+18: SolidarityGaming: 1
+19: impulseSV: 1
+Total 95

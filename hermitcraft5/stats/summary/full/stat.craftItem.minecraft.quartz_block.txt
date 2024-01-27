@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.quartz_block
+1: impulseSV: 8181
+2: cubfan135: 5762
+3: GoodTimeWithScar: 5108
+4: MumboJumbo: 4925
+5: Zedaph: 2061
+6: falsesymmetry: 2046
+7: PythonGB: 1579
+8: Welsknight: 1100
+9: Xisuma: 1030
+10: iskall85: 836
+11: VintageBeef: 671
+12: joehillssays: 402
+13: Tinfoilchef: 391
+14: Tango: 262
+15: Docm77: 87
+16: xBCrafted: 80
+17: Stressmonster101: 55
+18: iJevin: 27
+19: Renthedog: 2
+Total 34605

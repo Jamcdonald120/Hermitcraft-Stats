@@ -1,0 +1,19 @@
+minecraft.dropped.ladder
+1: Xisuma: 221
+2: iJevin: 211
+3: falsesymmetry: 183
+4: Renthedog: 160
+5: iskall85: 156
+6: MumboJumbo: 95
+7: joehillssays: 66
+8: Tango: 64
+9: Stressmonster101: 41
+10: cubfan135: 34
+11: GoodTimeWithScar: 27
+12: Grian: 23
+13: Docm77: 22
+14: impulseSV: 15
+15: PythonGB: 12
+16: Zedaph: 8
+17: Keralis1: 1
+Total 1339

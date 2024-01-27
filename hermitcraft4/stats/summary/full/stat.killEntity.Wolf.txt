@@ -1,0 +1,6 @@
+stat.killEntity.Wolf
+1: Xisuma: 3
+2: impulseSV: 3
+3: Tango: 1
+4: cubfan135: 1
+Total 8

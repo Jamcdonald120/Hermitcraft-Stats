@@ -1,0 +1,11 @@
+minecraft.crafted.popped_chorus_fruit
+1: PythonGB: 1344
+2: Tango: 564
+3: GoodTimeWithScar: 518
+4: cubfan135: 256
+5: Zedaph: 76
+6: Keralis1: 30
+7: impulseSV: 27
+8: iJevin: 17
+9: falsesymmetry: 14
+Total 2846

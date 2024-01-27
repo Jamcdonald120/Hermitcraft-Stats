@@ -1,0 +1,8 @@
+minecraft.dropped.light_weighted_pressure_plate
+1: Xisuma: 454
+2: RentheKing: 268
+3: Renthedog: 33
+4: impulseSV: 3
+5: iJevin: 1
+6: Zedaph: 1
+Total 760

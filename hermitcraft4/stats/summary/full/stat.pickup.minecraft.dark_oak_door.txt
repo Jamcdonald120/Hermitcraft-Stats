@@ -1,0 +1,16 @@
+stat.pickup.minecraft.dark_oak_door
+1: Renthedog: 100
+2: iskall85: 61
+3: Welsknight: 23
+4: zueljin: 17
+5: cubfan135: 9
+6: PythonGB: 6
+7: falsesymmetry: 5
+8: ZombieCleo: 4
+9: GoodTimeWithScar: 4
+10: Tango: 2
+11: Xisuma: 1
+12: VintageBeef: 1
+13: joehillssays: 1
+14: Etho: 1
+Total 235

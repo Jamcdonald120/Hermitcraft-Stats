@@ -1,0 +1,26 @@
+minecraft.mined.potatoes
+1: Tinfoilchef: 9936
+2: Renthedog: 1891
+3: cubfan135: 1362
+4: joehillssays: 1224
+5: GoodTimeWithScar: 1186
+6: Tango: 747
+7: impulseSV: 683
+8: Grian: 647
+9: PythonGB: 575
+10: falsesymmetry: 531
+11: Biffa2001: 442
+12: Zedaph: 418
+13: iJevin: 313
+14: iskall85: 240
+15: Jessassin: 238
+16: Stressmonster101: 221
+17: Xisuma: 208
+18: Welsknight: 165
+19: ZombieCleo: 162
+20: xBCrafted: 92
+21: MumboJumbo: 30
+22: Docm77: 13
+23: BdoubleO100: 10
+24: Keralis1: 6
+Total 21340

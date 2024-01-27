@@ -1,0 +1,17 @@
+stat.useItem.minecraft.rotten_flesh
+1: cubfan135: 63
+2: Etho: 61
+3: PythonGB: 56
+4: iJevin: 24
+5: VintageBeef: 21
+6: GoodTimeWithScar: 15
+7: iskall85: 14
+8: MumboJumbo: 13
+9: Stressmonster101: 7
+10: falsesymmetry: 5
+11: impulseSV: 5
+12: Xisuma: 3
+13: Tango: 2
+14: Welsknight: 1
+15: Zedaph: 1
+Total 291

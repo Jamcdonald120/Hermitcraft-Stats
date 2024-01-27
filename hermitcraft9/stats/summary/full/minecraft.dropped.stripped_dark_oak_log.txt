@@ -1,0 +1,10 @@
+minecraft.dropped.stripped_dark_oak_log
+1: BdoubleO100: 29
+2: Etho: 25
+3: Renthedog: 21
+4: falsesymmetry: 20
+5: cubfan135: 9
+6: GoodTimeWithScar: 3
+7: Keralis1: 2
+8: iskall85: 1
+Total 110

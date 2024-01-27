@@ -1,0 +1,12 @@
+stat.drop.minecraft.golden_apple
+1: xBCrafted: 12
+2: Renthedog: 9
+3: cubfan135: 5
+4: Zedaph: 5
+5: Tango: 4
+6: falsesymmetry: 4
+7: Xisuma: 2
+8: iJevin: 2
+9: iskall85: 2
+10: Etho: 1
+Total 46

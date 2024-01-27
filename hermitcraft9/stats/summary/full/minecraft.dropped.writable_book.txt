@@ -1,0 +1,21 @@
+minecraft.dropped.writable_book
+1: cubfan135: 30
+2: iJevin: 16
+3: Zedaph: 13
+4: impulseSV: 10
+5: joehillssays: 9
+6: PearlescentMoon: 8
+7: Tango: 7
+8: Renthedog: 6
+9: falsesymmetry: 5
+10: Xisuma: 4
+11: ZombieCleo: 4
+12: GoodTimeWithScar: 4
+13: xBCrafted: 3
+14: Etho: 3
+15: BdoubleO100: 2
+16: MythicalSausage: 1
+17: Grian: 1
+18: Mumbo: 1
+19: RentheKing: 1
+Total 128

@@ -1,0 +1,14 @@
+stat.drop.minecraft.water_bucket
+1: falsesymmetry: 7
+2: iskall85: 6
+3: Xisuma: 4
+4: Tango: 3
+5: Etho: 3
+6: GoodTimeWithScar: 3
+7: PythonGB: 2
+8: Docm77: 1
+9: Renthedog: 1
+10: cubfan135: 1
+11: Tinfoilchef: 1
+12: impulseSV: 1
+Total 33

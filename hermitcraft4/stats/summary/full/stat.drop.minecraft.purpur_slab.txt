@@ -1,0 +1,10 @@
+stat.drop.minecraft.purpur_slab
+1: Xisuma: 17
+2: Renthedog: 10
+3: PythonGB: 6
+4: Tango: 6
+5: MumboJumbo: 6
+6: iskall85: 3
+7: falsesymmetry: 2
+8: impulseSV: 1
+Total 51

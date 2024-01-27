@@ -1,0 +1,14 @@
+minecraft.dropped.spruce_pressure_plate
+1: xBCrafted: 64
+2: Xisuma: 40
+3: joehillssays: 22
+4: Etho: 20
+5: Tango: 16
+6: Renthedog: 12
+7: Keralis1: 6
+8: Grian: 4
+9: cubfan135: 4
+10: BdoubleO100: 1
+11: iskall85: 1
+12: GoodTimeWithScar: 1
+Total 191

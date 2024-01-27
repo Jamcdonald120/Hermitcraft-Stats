@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.lapis_block
+1: Tinfoilchef: 934
+2: Renthedog: 761
+3: GoodTimeWithScar: 517
+4: cubfan135: 465
+5: falsesymmetry: 366
+6: Zedaph: 229
+7: PythonGB: 208
+8: Xisuma: 198
+9: Etho: 187
+10: Welsknight: 148
+11: iskall85: 97
+12: Tango: 96
+13: Biffa2001: 96
+14: iJevin: 89
+15: BdoubleO100: 74
+16: xBCrafted: 68
+17: impulseSV: 57
+18: VintageBeef: 55
+19: Stressmonster101: 50
+20: MumboJumbo: 28
+21: joehillssays: 15
+Total 4738

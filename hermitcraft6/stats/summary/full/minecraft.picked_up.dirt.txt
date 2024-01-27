@@ -1,0 +1,37 @@
+minecraft.picked_up.dirt
+1: GoodTimeWithScar: 316951
+2: falsesymmetry: 195095
+3: cubfan135: 159062
+4: Xisuma: 109152
+5: Renthedog: 99288
+6: iskall85: 82725
+7: joehillssays: 54786
+8: Grian: 48110
+9: Docm77: 38609
+10: iJevin: 36436
+11: MumboJumbo: 32938
+12: Welsknight: 30998
+13: impulseSV: 28459
+14: Tango: 27270
+15: Stressmonster101: 21755
+16: ZombieCleo: 14740
+17: Zedaph: 13804
+18: BdoubleO100: 11940
+19: PythonGB: 9706
+20: Tinfoilchef: 8010
+21: Keralis1: 6096
+22: xBCrafted: 4051
+23: Biffa2001: 2907
+24: Jessassin: 923
+25: HumanCleo: 622
+26: Duke_da_dog: 197
+27: EvilXisuma: 39
+28: tterrag: 35
+29: Cojomax99: 30
+30: isGall85: 10
+31: PokePugx: 9
+32: PhoenixfireLune: 9
+33: Jura_Whitey: 4
+34: CamM77: 1
+35: BadTimeWithScar: 1
+Total 1354768

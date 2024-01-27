@@ -1,0 +1,13 @@
+minecraft.crafted.brick_wall
+1: GoodTimeWithScar: 259
+2: cubfan135: 242
+3: Keralis1: 180
+4: joehillssays: 18
+5: Etho: 12
+6: xBCrafted: 8
+7: MythicalSausage: 6
+8: GeminiTay: 6
+9: Grian: 6
+10: PearlescentMoon: 1
+11: Zedaph: 1
+Total 739

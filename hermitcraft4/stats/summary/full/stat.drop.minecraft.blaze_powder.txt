@@ -1,0 +1,4 @@
+stat.drop.minecraft.blaze_powder
+1: GoodTimeWithScar: 2
+2: Renthedog: 1
+Total 3

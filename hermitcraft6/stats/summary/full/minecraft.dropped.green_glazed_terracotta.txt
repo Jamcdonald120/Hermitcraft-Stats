@@ -1,0 +1,6 @@
+minecraft.dropped.green_glazed_terracotta
+1: falsesymmetry: 68
+2: cubfan135: 64
+3: iskall85: 2
+4: BdoubleO100: 1
+Total 135

@@ -1,0 +1,9 @@
+minecraft.crafted.waxed_cut_copper_slab
+1: impulseSV: 136
+2: xBCrafted: 105
+3: Renthedog: 103
+4: Xisuma: 64
+5: Docm77: 42
+6: Keralis1: 18
+7: falsesymmetry: 8
+Total 476

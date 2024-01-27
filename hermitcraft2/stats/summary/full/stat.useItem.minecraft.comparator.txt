@@ -1,0 +1,10 @@
+stat.useItem.minecraft.comparator
+1: Xisuma: 218
+2: Tango: 138
+3: Tinfoilchef: 33
+4: Spumwackles: 14
+5: iJevin: 6
+6: xBCrafted: 5
+7: Mumbo: 4
+8: sl1pg8r: 2
+Total 420

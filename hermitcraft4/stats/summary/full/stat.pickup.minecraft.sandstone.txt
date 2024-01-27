@@ -1,0 +1,20 @@
+stat.pickup.minecraft.sandstone
+1: MumboJumbo: 33527
+2: falsesymmetry: 25723
+3: Xisuma: 13268
+4: Tango: 7615
+5: Welsknight: 5966
+6: cubfan135: 4389
+7: impulseSV: 4306
+8: Docm77: 3445
+9: Renthedog: 2624
+10: Etho: 2302
+11: iskall85: 2012
+12: joehillssays: 1547
+13: Biffa2001: 786
+14: GoodTimeWithScar: 185
+15: VintageBeef: 85
+16: iJevin: 73
+17: PythonGB: 20
+18: ZombieCleo: 14
+Total 107887

@@ -1,0 +1,7 @@
+minecraft.dropped.light_gray_dye
+1: GoodTimeWithScar: 204
+2: impulseSV: 40
+3: Etho: 12
+4: Zedaph: 5
+5: iJevin: 4
+Total 265

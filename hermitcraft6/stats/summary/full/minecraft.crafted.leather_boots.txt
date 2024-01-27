@@ -1,0 +1,19 @@
+minecraft.crafted.leather_boots
+1: ZombieCleo: 260
+2: Renthedog: 100
+3: GoodTimeWithScar: 79
+4: cubfan135: 65
+5: Docm77: 54
+6: Tango: 46
+7: Xisuma: 36
+8: falsesymmetry: 31
+9: HumanCleo: 28
+10: BdoubleO100: 24
+11: joehillssays: 17
+12: impulseSV: 17
+13: iskall85: 12
+14: PythonGB: 7
+15: Stressmonster101: 5
+16: Grian: 4
+17: Welsknight: 4
+Total 789

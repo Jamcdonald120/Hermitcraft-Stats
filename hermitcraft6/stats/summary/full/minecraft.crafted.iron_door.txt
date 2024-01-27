@@ -1,0 +1,21 @@
+minecraft.crafted.iron_door
+1: cubfan135: 390
+2: iskall85: 96
+3: falsesymmetry: 48
+4: Xisuma: 45
+5: MumboJumbo: 45
+6: GoodTimeWithScar: 30
+7: Zedaph: 30
+8: Tinfoilchef: 24
+9: Renthedog: 21
+10: joehillssays: 21
+11: Stressmonster101: 18
+12: Docm77: 12
+13: PythonGB: 12
+14: Grian: 12
+15: impulseSV: 12
+16: Tango: 9
+17: Welsknight: 9
+18: ZombieCleo: 9
+19: iJevin: 3
+Total 846

@@ -1,0 +1,23 @@
+minecraft.used.spruce_fence_gate
+1: Etho: 1121
+2: BdoubleO100: 345
+3: GoodTimeWithScar: 318
+4: Renthedog: 266
+5: iJevin: 87
+6: Keralis1: 61
+7: Grian: 40
+8: Stressmonster101: 33
+9: Xisuma: 32
+10: xBCrafted: 21
+11: Welsknight: 15
+12: Tango: 14
+13: cubfan135: 10
+14: VintageBeef: 9
+15: Zedaph: 9
+16: iskall85: 8
+17: joehillssays: 6
+18: Docm77: 5
+19: falsesymmetry: 5
+20: MumboJumbo: 2
+21: impulseSV: 1
+Total 2408

@@ -1,0 +1,36 @@
+minecraft.picked_up.bone
+1: Tango: 14655
+2: joehillssays: 12410
+3: Xisuma: 12077
+4: iJevin: 7690
+5: Keralis1: 5867
+6: hypnotizd: 5520
+7: impulseSV: 5126
+8: PearlescentMoon: 3607
+9: cubfan135: 3473
+10: falsesymmetry: 2329
+11: iskall85: 1926
+12: Grian: 1672
+13: Zedaph: 1568
+14: ZombieCleo: 1443
+15: GeminiTay: 1432
+16: VintageBeef: 1291
+17: Docm77: 1183
+18: Stressmonster101: 650
+19: xBCrafted: 602
+20: Welsknight: 570
+21: BdoubleO100: 514
+22: GoodTimeWithScar: 413
+23: Etho: 345
+24: Renthedog: 247
+25: RentheKing: 104
+26: Pixlriffs: 99
+27: Mumbo: 35
+28: MumboJumbo: 21
+29: MythicalSausage: 11
+30: OrionSound: 10
+31: kingbdogz: 6
+32: Smajor1995: 4
+33: SolidarityGaming: 2
+34: Smallishbeans: 1
+Total 86903

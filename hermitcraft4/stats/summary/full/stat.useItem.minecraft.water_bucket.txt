@@ -1,0 +1,25 @@
+stat.useItem.minecraft.water_bucket
+1: falsesymmetry: 4377
+2: Tinfoilchef: 4091
+3: joehillssays: 3534
+4: Xisuma: 2165
+5: Renthedog: 2154
+6: cubfan135: 1598
+7: impulseSV: 1196
+8: Tango: 1168
+9: MumboJumbo: 1111
+10: ZombieCleo: 1060
+11: iskall85: 866
+12: iJevin: 758
+13: GoodTimeWithScar: 738
+14: PythonGB: 399
+15: Welsknight: 334
+16: Biffa2001: 208
+17: VintageBeef: 197
+18: Etho: 182
+19: Mumbo: 125
+20: xBCrafted: 93
+21: Docm77: 83
+22: Jessassin: 29
+23: xisumavoid: 1
+Total 26467

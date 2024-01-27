@@ -1,0 +1,23 @@
+minecraft.crafted.deepslate_tiles
+1: Xisuma: 3500
+2: Stressmonster101: 3344
+3: Grian: 2036
+4: cubfan135: 1920
+5: PearlescentMoon: 608
+6: GeminiTay: 320
+7: Etho: 128
+8: EvilXisuma: 108
+9: iJevin: 108
+10: Keralis1: 71
+11: Docm77: 70
+12: Renthedog: 40
+13: impulseSV: 21
+14: BdoubleO100: 20
+15: iskall85: 15
+16: xBCrafted: 7
+17: ZombieCleo: 5
+18: VintageBeef: 2
+19: GoodTimeWithScar: 2
+20: Welsknight: 1
+21: hypnotizd: 1
+Total 12327

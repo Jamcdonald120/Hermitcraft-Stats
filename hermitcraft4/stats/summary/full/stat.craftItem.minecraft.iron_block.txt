@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.iron_block
+1: Tango: 123359
+2: cubfan135: 1933
+3: Tinfoilchef: 1840
+4: impulseSV: 1511
+5: Xisuma: 1170
+6: Renthedog: 1099
+7: MumboJumbo: 1070
+8: iskall85: 952
+9: GoodTimeWithScar: 809
+10: falsesymmetry: 524
+11: Welsknight: 492
+12: Etho: 359
+13: iJevin: 256
+14: PythonGB: 159
+15: Biffa2001: 51
+16: joehillssays: 48
+17: Docm77: 44
+18: ZombieCleo: 31
+19: Jessassin: 21
+20: VintageBeef: 9
+21: xBCrafted: 6
+22: Mumbo: 3
+Total 135746

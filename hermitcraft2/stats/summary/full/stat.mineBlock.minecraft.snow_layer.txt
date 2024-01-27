@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.snow_layer
+1: sl1pg8r: 184
+2: Spumwackles: 27
+3: Xisuma: 20
+4: iJevin: 6
+5: xBCrafted: 5
+6: Tinfoilchef: 2
+7: Tango: 1
+8: falsesymmetry: 1
+9: ZombieCleo: 1
+Total 247

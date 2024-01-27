@@ -1,0 +1,23 @@
+minecraft.used.redstone_ore
+1: Renthedog: 1029
+2: GoodTimeWithScar: 568
+3: cubfan135: 508
+4: MumboJumbo: 448
+5: BdoubleO100: 347
+6: iJevin: 292
+7: xBCrafted: 285
+8: falsesymmetry: 183
+9: joehillssays: 148
+10: GeminiTay: 122
+11: ZombieCleo: 116
+12: Grian: 113
+13: Xisuma: 71
+14: Etho: 60
+15: Zedaph: 48
+16: Docm77: 35
+17: Tango: 29
+18: impulseSV: 26
+19: hypnotizd: 21
+20: PearlescentMoon: 16
+21: Welsknight: 16
+Total 4481

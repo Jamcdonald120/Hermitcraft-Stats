@@ -1,0 +1,13 @@
+stat.mineBlock.minecraft.wool
+1: ZombieCleo: 1710
+2: Spumwackles: 730
+3: Xisuma: 310
+4: iJevin: 202
+5: Tinfoilchef: 36
+6: falsesymmetry: 29
+7: zueljin: 11
+8: Tango: 6
+9: KingDaddyDMAC: 3
+10: Biffa2001: 2
+11: monkeyfarm: 2
+Total 3041

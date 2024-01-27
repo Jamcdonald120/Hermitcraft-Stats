@@ -1,0 +1,20 @@
+minecraft.crafted.polished_blackstone_slab
+1: impulseSV: 3862
+2: GoodTimeWithScar: 3742
+3: Renthedog: 3728
+4: joehillssays: 3704
+5: falsesymmetry: 2196
+6: cubfan135: 1680
+7: Tango: 986
+8: Keralis1: 754
+9: MumboJumbo: 372
+10: BdoubleO100: 166
+11: Docm77: 156
+12: iskall85: 138
+13: Welsknight: 108
+14: Etho: 90
+15: Zedaph: 90
+16: xBCrafted: 60
+17: ZombieCleo: 60
+18: Xisuma: 4
+Total 21896

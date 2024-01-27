@@ -1,0 +1,3 @@
+stat.useItem.minecraft.spawn_egg
+1: xisumavoid: 25
+Total 25

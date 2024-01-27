@@ -1,0 +1,10 @@
+minecraft.picked_up.birch_door
+1: PearlescentMoon: 41
+2: GoodTimeWithScar: 41
+3: Stressmonster101: 4
+4: Smajor1995: 2
+5: Grian: 2
+6: falsesymmetry: 2
+7: RentheKing: 1
+8: Zedaph: 1
+Total 94

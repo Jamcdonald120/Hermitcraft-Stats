@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.ladder
+1: falsesymmetry: 853
+2: joehillssays: 607
+3: Xisuma: 342
+4: Welsknight: 318
+5: impulseSV: 270
+6: cubfan135: 187
+7: iskall85: 166
+8: Renthedog: 140
+9: Docm77: 136
+10: Tango: 99
+11: Stressmonster101: 95
+12: Zedaph: 82
+13: MumboJumbo: 62
+14: Etho: 53
+15: VintageBeef: 43
+16: GoodTimeWithScar: 43
+17: Tinfoilchef: 42
+18: xBCrafted: 38
+19: PythonGB: 29
+20: Biffa2001: 14
+21: iJevin: 13
+22: ZombieCleo: 6
+Total 3638

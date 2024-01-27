@@ -1,0 +1,8 @@
+stat.useItem.minecraft.jungle_door
+1: falsesymmetry: 21
+2: monkeyfarm: 9
+3: Tango: 3
+4: topmass: 2
+5: Keralis1: 2
+6: xBCrafted: 1
+Total 38

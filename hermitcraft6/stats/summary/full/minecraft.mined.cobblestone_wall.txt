@@ -1,0 +1,26 @@
+minecraft.mined.cobblestone_wall
+1: cubfan135: 737
+2: Xisuma: 416
+3: falsesymmetry: 363
+4: GoodTimeWithScar: 347
+5: iskall85: 260
+6: Stressmonster101: 238
+7: iJevin: 156
+8: impulseSV: 153
+9: Docm77: 147
+10: Renthedog: 132
+11: ZombieCleo: 104
+12: Keralis1: 103
+13: joehillssays: 99
+14: Grian: 91
+15: Tango: 91
+16: BdoubleO100: 63
+17: MumboJumbo: 58
+18: PythonGB: 29
+19: Welsknight: 19
+20: HumanCleo: 14
+21: Biffa2001: 10
+22: Tinfoilchef: 4
+23: Jessassin: 3
+24: Zedaph: 1
+Total 3638

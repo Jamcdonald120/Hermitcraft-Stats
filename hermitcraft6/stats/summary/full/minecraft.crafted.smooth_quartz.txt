@@ -1,0 +1,17 @@
+minecraft.crafted.smooth_quartz
+1: Keralis1: 1236
+2: GoodTimeWithScar: 929
+3: Xisuma: 773
+4: PythonGB: 534
+5: impulseSV: 230
+6: falsesymmetry: 228
+7: cubfan135: 228
+8: iskall85: 137
+9: Grian: 128
+10: Renthedog: 99
+11: Docm77: 37
+12: Tango: 14
+13: iJevin: 12
+14: BdoubleO100: 7
+15: Welsknight: 2
+Total 4594

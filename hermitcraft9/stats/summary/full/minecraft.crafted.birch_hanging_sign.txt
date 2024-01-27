@@ -1,0 +1,8 @@
+minecraft.crafted.birch_hanging_sign
+1: Tango: 36
+2: cubfan135: 18
+3: GoodTimeWithScar: 18
+4: falsesymmetry: 12
+5: PearlescentMoon: 6
+6: Zedaph: 6
+Total 96

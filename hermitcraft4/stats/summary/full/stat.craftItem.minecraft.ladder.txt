@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.ladder
+1: falsesymmetry: 2109
+2: Xisuma: 1827
+3: iskall85: 1215
+4: Tango: 1101
+5: impulseSV: 1027
+6: cubfan135: 927
+7: Renthedog: 888
+8: joehillssays: 702
+9: GoodTimeWithScar: 549
+10: Etho: 516
+11: Welsknight: 339
+12: ZombieCleo: 303
+13: Tinfoilchef: 302
+14: MumboJumbo: 285
+15: VintageBeef: 264
+16: iJevin: 252
+17: PythonGB: 219
+18: Biffa2001: 189
+19: Docm77: 126
+20: Mumbo: 30
+21: xBCrafted: 6
+Total 13176

@@ -1,0 +1,27 @@
+minecraft.dropped.leather_helmet
+1: cubfan135: 100
+2: Xisuma: 78
+3: iJevin: 16
+4: Tango: 16
+5: Zedaph: 13
+6: GeminiTay: 9
+7: impulseSV: 9
+8: ZombieCleo: 8
+9: Etho: 6
+10: VintageBeef: 5
+11: GoodTimeWithScar: 5
+12: Docm77: 3
+13: PearlescentMoon: 3
+14: iskall85: 3
+15: Grian: 2
+16: hypnotizd: 2
+17: Renthedog: 1
+18: BdoubleO100: 1
+19: xBCrafted: 1
+20: falsesymmetry: 1
+21: Mumbo: 1
+22: RentheKing: 1
+23: MumboJumbo: 1
+24: SolidarityGaming: 1
+25: Keralis1: 1
+Total 287

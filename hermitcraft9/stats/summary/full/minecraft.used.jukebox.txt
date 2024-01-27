@@ -1,0 +1,28 @@
+minecraft.used.jukebox
+1: Tango: 350
+2: cubfan135: 98
+3: Zedaph: 72
+4: impulseSV: 65
+5: GoodTimeWithScar: 63
+6: PearlescentMoon: 60
+7: Xisuma: 46
+8: Docm77: 38
+9: OrionSound: 12
+10: Grian: 11
+11: Keralis1: 8
+12: iJevin: 7
+13: GeminiTay: 7
+14: Renthedog: 5
+15: VintageBeef: 5
+16: falsesymmetry: 5
+17: Etho: 5
+18: joehillssays: 4
+19: iskall85: 4
+20: xBCrafted: 3
+21: ZombieCleo: 3
+22: Mumbo: 2
+23: MythicalSausage: 1
+24: BdoubleO100: 1
+25: fWhip: 1
+26: Stressmonster101: 1
+Total 877

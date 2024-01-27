@@ -1,0 +1,27 @@
+minecraft.used.oak_sign
+1: Xisuma: 2711
+2: iskall85: 2337
+3: cubfan135: 2092
+4: falsesymmetry: 1052
+5: impulseSV: 793
+6: iJevin: 772
+7: Grian: 767
+8: Docm77: 641
+9: MumboJumbo: 604
+10: joehillssays: 557
+11: Stressmonster101: 436
+12: Tango: 415
+13: GoodTimeWithScar: 240
+14: Renthedog: 226
+15: Cojomax99: 217
+16: ZombieCleo: 209
+17: Zedaph: 187
+18: Welsknight: 177
+19: Tinfoilchef: 131
+20: PythonGB: 100
+21: tterrag: 77
+22: Jura_Whitey: 52
+23: BdoubleO100: 42
+24: HumanCleo: 19
+25: Keralis1: 16
+Total 14870

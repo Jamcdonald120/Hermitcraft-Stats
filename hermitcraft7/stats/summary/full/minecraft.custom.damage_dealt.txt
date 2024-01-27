@@ -1,0 +1,30 @@
+minecraft.custom.damage_dealt
+1: Xisuma: 39794895
+2: Keralis1: 7957912
+3: GoodTimeWithScar: 3460566
+4: cubfan135: 2911010
+5: impulseSV: 2380375
+6: iJevin: 2249359
+7: Renthedog: 1939009
+8: joehillssays: 1760294
+9: Tango: 1655254
+10: MumboJumbo: 1652324
+11: hypnotizd: 1636939
+12: Etho: 1602052
+13: iskall85: 1494392
+14: falsesymmetry: 1327605
+15: Grian: 1256805
+16: VintageBeef: 1083733
+17: Welsknight: 791373
+18: xBCrafted: 750471
+19: Zedaph: 742969
+20: Stressmonster101: 713162
+21: Docm77: 688673
+22: ZombieCleo: 610568
+23: BdoubleO100: 406717
+24: HermitcraftAlt: 125475
+25: Tinfoilchef: 9389
+26: BarryBoss1234: 1195
+27: isGall85: 788
+28: xisumavoid: 18
+Total 79003322

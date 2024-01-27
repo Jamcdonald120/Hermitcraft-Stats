@@ -1,0 +1,14 @@
+stat.useItem.minecraft.log
+1: Mumbo: 974
+2: ZombieCleo: 205
+3: zueljin: 194
+4: falsesymmetry: 167
+5: Biffa2001: 150
+6: xBCrafted: 80
+7: Tango: 66
+8: iJevin: 60
+9: Xisuma: 38
+10: monkeyfarm: 37
+11: Tinfoilchef: 19
+12: Spumwackles: 1
+Total 1991

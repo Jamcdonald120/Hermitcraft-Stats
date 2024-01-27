@@ -1,0 +1,25 @@
+stat.pickup.minecraft.obsidian
+1: GoodTimeWithScar: 9870
+2: cubfan135: 4074
+3: Xisuma: 2195
+4: falsesymmetry: 1918
+5: Tango: 1301
+6: impulseSV: 1207
+7: MumboJumbo: 1023
+8: Tinfoilchef: 751
+9: iskall85: 595
+10: joehillssays: 535
+11: Renthedog: 511
+12: Welsknight: 433
+13: Stressmonster101: 423
+14: PythonGB: 393
+15: Zedaph: 379
+16: Etho: 369
+17: iJevin: 267
+18: xBCrafted: 267
+19: Docm77: 199
+20: Biffa2001: 191
+21: VintageBeef: 116
+22: ZombieCleo: 30
+23: BdoubleO100: 9
+Total 27056

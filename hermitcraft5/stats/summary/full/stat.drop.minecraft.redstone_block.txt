@@ -1,0 +1,13 @@
+stat.drop.minecraft.redstone_block
+1: Tango: 1128
+2: MumboJumbo: 385
+3: impulseSV: 243
+4: Zedaph: 203
+5: falsesymmetry: 194
+6: Welsknight: 128
+7: BdoubleO100: 64
+8: iskall85: 61
+9: cubfan135: 46
+10: Xisuma: 22
+11: Renthedog: 6
+Total 2480

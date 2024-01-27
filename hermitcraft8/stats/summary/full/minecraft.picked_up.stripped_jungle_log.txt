@@ -1,0 +1,15 @@
+minecraft.picked_up.stripped_jungle_log
+1: Etho: 178
+2: PearlescentMoon: 161
+3: iskall85: 81
+4: impulseSV: 65
+5: GeminiTay: 54
+6: BdoubleO100: 25
+7: MumboJumbo: 14
+8: Renthedog: 13
+9: Xisuma: 8
+10: GoodTimeWithScar: 3
+11: Tango: 2
+12: cubfan135: 2
+13: hypnotizd: 1
+Total 607

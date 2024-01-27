@@ -1,0 +1,20 @@
+stat.useItem.minecraft.cauldron
+1: MumboJumbo: 130
+2: falsesymmetry: 97
+3: cubfan135: 67
+4: Xisuma: 43
+5: Welsknight: 19
+6: Stressmonster101: 14
+7: iskall85: 13
+8: GoodTimeWithScar: 10
+9: Tango: 9
+10: xBCrafted: 6
+11: Zedaph: 6
+12: PythonGB: 5
+13: VintageBeef: 4
+14: ZombieCleo: 4
+15: iJevin: 3
+16: joehillssays: 3
+17: impulseSV: 3
+18: BdoubleO100: 2
+Total 438

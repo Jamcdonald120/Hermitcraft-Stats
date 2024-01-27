@@ -1,0 +1,29 @@
+minecraft.mined.torch
+1: falsesymmetry: 7145
+2: GoodTimeWithScar: 6372
+3: Grian: 5387
+4: cubfan135: 4439
+5: Xisuma: 4082
+6: iskall85: 3427
+7: Renthedog: 3090
+8: Stressmonster101: 2290
+9: iJevin: 1911
+10: joehillssays: 1863
+11: Tinfoilchef: 1714
+12: impulseSV: 1575
+13: MumboJumbo: 1232
+14: Tango: 1114
+15: Docm77: 1089
+16: Zedaph: 741
+17: Welsknight: 607
+18: BdoubleO100: 523
+19: ZombieCleo: 502
+20: Keralis1: 393
+21: Biffa2001: 229
+22: PythonGB: 154
+23: xBCrafted: 103
+24: Jessassin: 53
+25: HumanCleo: 27
+26: Duke_da_dog: 1
+27: BadTimeWithScar: 1
+Total 50064

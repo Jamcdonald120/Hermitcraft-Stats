@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.coal_block
+1: xBCrafted: 80
+2: Collen: 10
+Total 90

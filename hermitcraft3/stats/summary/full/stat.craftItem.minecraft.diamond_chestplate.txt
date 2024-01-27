@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.diamond_chestplate
+1: Xisuma: 18
+2: xBCrafted: 15
+3: impulseSV: 15
+4: Tango: 9
+5: falsesymmetry: 9
+6: iJevin: 6
+7: sl1pg8r: 5
+8: zueljin: 3
+9: ZombieCleo: 3
+10: Mumbo: 3
+11: Tinfoilchef: 3
+12: monkeyfarm: 3
+13: topmass: 2
+14: PythonGB: 2
+15: hypnotizd: 2
+16: KingDaddyDMAC: 1
+17: Biffa2001: 1
+18: Etho: 1
+19: Spumwackles: 1
+Total 102

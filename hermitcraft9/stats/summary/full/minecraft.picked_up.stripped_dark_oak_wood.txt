@@ -1,0 +1,20 @@
+minecraft.picked_up.stripped_dark_oak_wood
+1: Renthedog: 1205
+2: Keralis1: 879
+3: GoodTimeWithScar: 344
+4: Grian: 115
+5: cubfan135: 105
+6: BdoubleO100: 39
+7: Etho: 18
+8: GeminiTay: 15
+9: ZombieCleo: 9
+10: Xisuma: 8
+11: Stressmonster101: 8
+12: PearlescentMoon: 4
+13: iskall85: 4
+14: iJevin: 3
+15: joehillssays: 2
+16: RentheKing: 2
+17: impulseSV: 1
+18: Zedaph: 1
+Total 2762

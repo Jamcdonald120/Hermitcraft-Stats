@@ -1,0 +1,22 @@
+stat.pickup.minecraft.diamond_boots
+1: iskall85: 122
+2: Renthedog: 110
+3: Xisuma: 73
+4: GoodTimeWithScar: 69
+5: cubfan135: 56
+6: impulseSV: 53
+7: Tango: 41
+8: falsesymmetry: 40
+9: MumboJumbo: 34
+10: Welsknight: 26
+11: Docm77: 21
+12: Etho: 19
+13: iJevin: 18
+14: Tinfoilchef: 18
+15: PythonGB: 11
+16: VintageBeef: 8
+17: joehillssays: 3
+18: ZombieCleo: 3
+19: xisumavoid: 1
+20: Biffa2001: 1
+Total 727

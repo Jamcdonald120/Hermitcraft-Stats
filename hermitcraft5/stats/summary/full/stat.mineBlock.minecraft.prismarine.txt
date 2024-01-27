@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.prismarine
+1: MumboJumbo: 37841
+2: cubfan135: 21111
+3: impulseSV: 18631
+4: iJevin: 8572
+5: falsesymmetry: 2386
+6: Xisuma: 1821
+7: PythonGB: 1064
+8: Renthedog: 898
+9: xBCrafted: 323
+10: iskall85: 286
+11: joehillssays: 128
+12: GoodTimeWithScar: 87
+13: Welsknight: 42
+14: Zedaph: 41
+15: Tango: 34
+16: ZombieCleo: 22
+17: Tinfoilchef: 19
+18: Etho: 3
+Total 93309

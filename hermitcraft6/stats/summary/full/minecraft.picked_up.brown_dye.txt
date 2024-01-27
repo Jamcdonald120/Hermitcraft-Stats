@@ -1,0 +1,5 @@
+minecraft.picked_up.brown_dye
+1: Grian: 128
+2: Xisuma: 3
+3: GoodTimeWithScar: 2
+Total 133

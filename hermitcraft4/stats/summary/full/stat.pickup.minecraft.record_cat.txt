@@ -1,0 +1,16 @@
+stat.pickup.minecraft.record_cat
+1: falsesymmetry: 11
+2: Xisuma: 9
+3: Biffa2001: 4
+4: iskall85: 3
+5: Welsknight: 3
+6: Renthedog: 2
+7: Tinfoilchef: 2
+8: VintageBeef: 1
+9: PythonGB: 1
+10: joehillssays: 1
+11: Tango: 1
+12: cubfan135: 1
+13: Etho: 1
+14: MumboJumbo: 1
+Total 41

@@ -1,0 +1,16 @@
+stat.drop.minecraft.item_frame
+1: Renthedog: 29
+2: GoodTimeWithScar: 23
+3: MumboJumbo: 9
+4: Zedaph: 8
+5: cubfan135: 6
+6: Tango: 4
+7: falsesymmetry: 2
+8: Biffa2001: 2
+9: Stressmonster101: 2
+10: impulseSV: 2
+11: Xisuma: 1
+12: PythonGB: 1
+13: BdoubleO100: 1
+14: iskall85: 1
+Total 91

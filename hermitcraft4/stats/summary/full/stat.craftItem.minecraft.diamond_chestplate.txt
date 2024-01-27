@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.diamond_chestplate
+1: GoodTimeWithScar: 26
+2: falsesymmetry: 23
+3: impulseSV: 8
+4: PythonGB: 6
+5: iskall85: 4
+6: Welsknight: 4
+7: MumboJumbo: 4
+8: Renthedog: 3
+9: iJevin: 2
+10: Tango: 2
+11: cubfan135: 2
+12: Tinfoilchef: 2
+13: Xisuma: 1
+14: joehillssays: 1
+15: Biffa2001: 1
+Total 89

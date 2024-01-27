@@ -1,0 +1,4 @@
+stat.drop.minecraft.speckled_melon
+1: Renthedog: 10
+2: Zedaph: 2
+Total 12

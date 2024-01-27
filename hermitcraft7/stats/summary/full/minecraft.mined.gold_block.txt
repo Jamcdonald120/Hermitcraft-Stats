@@ -1,0 +1,23 @@
+minecraft.mined.gold_block
+1: iskall85: 3390
+2: cubfan135: 1158
+3: Renthedog: 394
+4: hypnotizd: 383
+5: GoodTimeWithScar: 349
+6: VintageBeef: 343
+7: impulseSV: 226
+8: Xisuma: 209
+9: Etho: 128
+10: Tango: 122
+11: MumboJumbo: 122
+12: Grian: 109
+13: iJevin: 70
+14: joehillssays: 49
+15: Keralis1: 36
+16: BdoubleO100: 34
+17: ZombieCleo: 26
+18: Zedaph: 22
+19: Docm77: 15
+20: Welsknight: 5
+21: falsesymmetry: 3
+Total 7193

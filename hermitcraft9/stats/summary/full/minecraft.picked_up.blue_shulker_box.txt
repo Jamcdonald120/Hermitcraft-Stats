@@ -1,0 +1,23 @@
+minecraft.picked_up.blue_shulker_box
+1: cubfan135: 1989
+2: Tango: 518
+3: hypnotizd: 391
+4: ZombieCleo: 343
+5: GoodTimeWithScar: 306
+6: xBCrafted: 293
+7: PearlescentMoon: 215
+8: falsesymmetry: 204
+9: joehillssays: 113
+10: BdoubleO100: 95
+11: GeminiTay: 78
+12: Etho: 57
+13: Xisuma: 50
+14: Grian: 21
+15: Zedaph: 13
+16: RentheKing: 8
+17: Mumbo: 5
+18: iskall85: 4
+19: VintageBeef: 1
+20: Keralis1: 1
+21: impulseSV: 1
+Total 4706

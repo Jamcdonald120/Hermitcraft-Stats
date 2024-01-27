@@ -1,0 +1,27 @@
+minecraft.used.writable_book
+1: cubfan135: 1055
+2: iskall85: 456
+3: falsesymmetry: 275
+4: Grian: 272
+5: iJevin: 239
+6: Stressmonster101: 202
+7: Xisuma: 199
+8: Renthedog: 141
+9: Docm77: 126
+10: joehillssays: 118
+11: GoodTimeWithScar: 117
+12: impulseSV: 103
+13: MumboJumbo: 69
+14: HumanCleo: 54
+15: Tango: 36
+16: ZombieCleo: 36
+17: Welsknight: 32
+18: Biffa2001: 32
+19: Zedaph: 28
+20: Jessassin: 25
+21: BdoubleO100: 25
+22: Keralis1: 25
+23: PythonGB: 10
+24: Tinfoilchef: 8
+25: Duke_da_dog: 2
+Total 3685

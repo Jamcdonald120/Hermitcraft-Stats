@@ -1,0 +1,13 @@
+minecraft.picked_up.cut_copper_slab
+1: GoodTimeWithScar: 103
+2: BdoubleO100: 50
+3: cubfan135: 36
+4: Tango: 33
+5: Renthedog: 32
+6: Xisuma: 26
+7: PearlescentMoon: 19
+8: impulseSV: 9
+9: Docm77: 5
+10: Keralis1: 4
+11: GeminiTay: 3
+Total 320

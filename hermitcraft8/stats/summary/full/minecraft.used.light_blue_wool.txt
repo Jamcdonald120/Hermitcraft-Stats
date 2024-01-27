@@ -1,0 +1,11 @@
+minecraft.used.light_blue_wool
+1: BdoubleO100: 650
+2: GoodTimeWithScar: 424
+3: MumboJumbo: 93
+4: PearlescentMoon: 77
+5: Zedaph: 65
+6: Grian: 44
+7: Welsknight: 15
+8: Tango: 11
+9: falsesymmetry: 3
+Total 1382

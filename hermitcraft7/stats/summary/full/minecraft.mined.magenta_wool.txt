@@ -1,0 +1,13 @@
+minecraft.mined.magenta_wool
+1: Renthedog: 638
+2: Tango: 65
+3: MumboJumbo: 37
+4: VintageBeef: 19
+5: cubfan135: 18
+6: ZombieCleo: 18
+7: Xisuma: 6
+8: joehillssays: 5
+9: GoodTimeWithScar: 2
+10: Grian: 1
+11: impulseSV: 1
+Total 810

@@ -1,0 +1,15 @@
+minecraft.dropped.lava_bucket
+1: Docm77: 32
+2: Zedaph: 22
+3: GoodTimeWithScar: 12
+4: Grian: 6
+5: RentheKing: 6
+6: cubfan135: 5
+7: Etho: 3
+8: Tango: 2
+9: Keralis1: 2
+10: iJevin: 1
+11: falsesymmetry: 1
+12: ZombieCleo: 1
+13: hypnotizd: 1
+Total 94

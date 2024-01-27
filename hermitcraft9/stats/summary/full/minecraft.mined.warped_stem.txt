@@ -1,0 +1,26 @@
+minecraft.mined.warped_stem
+1: Keralis1: 9875
+2: Mumbo: 4930
+3: ZombieCleo: 4067
+4: Tango: 3480
+5: falsesymmetry: 2233
+6: Xisuma: 1809
+7: PearlescentMoon: 1775
+8: impulseSV: 659
+9: VintageBeef: 477
+10: BdoubleO100: 316
+11: Grian: 177
+12: cubfan135: 139
+13: iJevin: 99
+14: xBCrafted: 88
+15: Renthedog: 87
+16: Smajor1995: 73
+17: Smallishbeans: 59
+18: Zedaph: 45
+19: Etho: 24
+20: Stressmonster101: 20
+21: Pixlriffs: 16
+22: Docm77: 13
+23: RentheKing: 3
+24: GoodTimeWithScar: 2
+Total 30466

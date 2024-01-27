@@ -1,0 +1,11 @@
+minecraft.picked_up.netherite_block
+1: iJevin: 335
+2: Zedaph: 167
+3: Tango: 8
+4: BdoubleO100: 6
+5: cubfan135: 6
+6: MythicalSausage: 4
+7: RentheKing: 2
+8: iskall85: 1
+9: impulseSV: 1
+Total 530

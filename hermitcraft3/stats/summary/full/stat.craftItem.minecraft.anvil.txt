@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.anvil
+1: falsesymmetry: 354
+2: Xisuma: 270
+3: hypnotizd: 78
+4: Tango: 71
+5: impulseSV: 55
+6: Tinfoilchef: 44
+7: xBCrafted: 36
+8: iJevin: 35
+9: Spumwackles: 12
+10: topmass: 11
+11: zueljin: 11
+12: ZombieCleo: 8
+13: Mumbo: 7
+14: sl1pg8r: 6
+15: PythonGB: 6
+16: KingDaddyDMAC: 6
+17: Biffa2001: 5
+18: monkeyfarm: 4
+19: Etho: 3
+20: Docm77: 1
+21: joehillssays: 1
+Total 1024

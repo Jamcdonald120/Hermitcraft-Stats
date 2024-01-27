@@ -1,0 +1,26 @@
+minecraft.used.magma_block
+1: Docm77: 5043
+2: Tango: 4920
+3: Xisuma: 3271
+4: iJevin: 3258
+5: Etho: 1968
+6: iskall85: 1935
+7: GoodTimeWithScar: 1384
+8: Mumbo: 1162
+9: MumboJumbo: 1143
+10: Stressmonster101: 1109
+11: impulseSV: 324
+12: RentheKing: 287
+13: cubfan135: 280
+14: Renthedog: 240
+15: Keralis1: 199
+16: Grian: 137
+17: falsesymmetry: 115
+18: PearlescentMoon: 86
+19: joehillssays: 40
+20: xBCrafted: 19
+21: Zedaph: 14
+22: BdoubleO100: 7
+23: VintageBeef: 1
+24: MythicalSausage: 1
+Total 26943

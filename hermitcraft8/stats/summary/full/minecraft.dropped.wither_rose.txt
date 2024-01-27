@@ -1,0 +1,3 @@
+minecraft.dropped.wither_rose
+1: impulseSV: 128
+Total 128

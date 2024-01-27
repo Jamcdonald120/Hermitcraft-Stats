@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.glass_bottle
+1: Spumwackles: 60
+2: Xisuma: 21
+3: sl1pg8r: 15
+4: falsesymmetry: 6
+5: zueljin: 3
+Total 105

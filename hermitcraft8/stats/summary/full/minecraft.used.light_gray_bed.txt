@@ -1,0 +1,7 @@
+minecraft.used.light_gray_bed
+1: Keralis1: 22
+2: PearlescentMoon: 14
+3: Grian: 3
+4: BdoubleO100: 1
+5: falsesymmetry: 1
+Total 41

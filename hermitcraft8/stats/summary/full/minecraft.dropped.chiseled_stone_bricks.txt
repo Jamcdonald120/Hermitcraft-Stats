@@ -1,0 +1,7 @@
+minecraft.dropped.chiseled_stone_bricks
+1: GoodTimeWithScar: 448
+2: Zedaph: 320
+3: Grian: 24
+4: Keralis1: 2
+5: Etho: 1
+Total 795

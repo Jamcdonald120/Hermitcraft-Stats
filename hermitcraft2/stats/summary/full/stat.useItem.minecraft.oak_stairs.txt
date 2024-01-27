@@ -1,0 +1,7 @@
+stat.useItem.minecraft.oak_stairs
+1: Mumbo: 143
+2: ZombieCleo: 119
+3: zueljin: 85
+4: xBCrafted: 19
+5: falsesymmetry: 16
+Total 382

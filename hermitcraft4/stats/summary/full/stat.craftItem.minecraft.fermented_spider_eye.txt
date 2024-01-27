@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.fermented_spider_eye
+1: MumboJumbo: 202
+2: Tango: 141
+3: cubfan135: 112
+4: Renthedog: 19
+5: iskall85: 19
+6: PythonGB: 13
+7: falsesymmetry: 10
+8: ZombieCleo: 7
+9: Xisuma: 6
+10: Etho: 5
+11: VintageBeef: 2
+Total 536

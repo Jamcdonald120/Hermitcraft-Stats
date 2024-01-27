@@ -1,0 +1,22 @@
+minecraft.dropped.orange_terracotta
+1: Docm77: 197
+2: iJevin: 93
+3: Keralis1: 89
+4: VintageBeef: 67
+5: Xisuma: 64
+6: GoodTimeWithScar: 64
+7: Renthedog: 55
+8: hypnotizd: 35
+9: falsesymmetry: 33
+10: MythicalSausage: 27
+11: cubfan135: 27
+12: Zedaph: 23
+13: PearlescentMoon: 19
+14: xBCrafted: 10
+15: impulseSV: 9
+16: joehillssays: 8
+17: Etho: 8
+18: Grian: 4
+19: ZombieCleo: 3
+20: iskall85: 2
+Total 837

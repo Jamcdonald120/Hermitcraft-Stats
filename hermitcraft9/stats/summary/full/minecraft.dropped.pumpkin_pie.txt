@@ -1,0 +1,29 @@
+minecraft.dropped.pumpkin_pie
+1: Renthedog: 2101
+2: cubfan135: 1102
+3: Keralis1: 1070
+4: Grian: 339
+5: iJevin: 269
+6: Stressmonster101: 256
+7: MythicalSausage: 208
+8: GoodTimeWithScar: 157
+9: Zedaph: 155
+10: joehillssays: 100
+11: ZombieCleo: 73
+12: xBCrafted: 71
+13: falsesymmetry: 66
+14: Smallishbeans: 59
+15: RentheKing: 55
+16: Docm77: 52
+17: iskall85: 38
+18: Smajor1995: 28
+19: PearlescentMoon: 24
+20: Xisuma: 19
+21: GeminiTay: 12
+22: fWhip: 8
+23: BdoubleO100: 6
+24: Etho: 6
+25: impulseSV: 5
+26: Tango: 3
+27: hypnotizd: 1
+Total 6283

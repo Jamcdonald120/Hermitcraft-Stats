@@ -1,0 +1,8 @@
+minecraft.dropped.polished_diorite_slab
+1: xBCrafted: 17
+2: GoodTimeWithScar: 16
+3: BdoubleO100: 2
+4: impulseSV: 2
+5: joehillssays: 1
+6: iskall85: 1
+Total 39

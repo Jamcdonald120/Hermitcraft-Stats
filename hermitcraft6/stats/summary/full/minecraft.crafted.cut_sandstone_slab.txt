@@ -1,0 +1,7 @@
+minecraft.crafted.cut_sandstone_slab
+1: Xisuma: 310
+2: GoodTimeWithScar: 304
+3: joehillssays: 130
+4: ZombieCleo: 66
+5: Grian: 6
+Total 816

@@ -1,0 +1,16 @@
+minecraft.dropped.cooked_mutton
+1: hypnotizd: 329
+2: Keralis1: 227
+3: cubfan135: 65
+4: VintageBeef: 53
+5: Xisuma: 42
+6: Grian: 25
+7: Tango: 16
+8: Zedaph: 15
+9: Renthedog: 8
+10: Etho: 3
+11: Docm77: 2
+12: iskall85: 2
+13: BdoubleO100: 1
+14: MumboJumbo: 1
+Total 789

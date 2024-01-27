@@ -1,0 +1,3 @@
+minecraft.dropped.cracked_nether_bricks
+1: Etho: 3
+Total 3

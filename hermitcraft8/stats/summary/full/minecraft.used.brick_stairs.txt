@@ -1,0 +1,12 @@
+minecraft.used.brick_stairs
+1: impulseSV: 713
+2: Xisuma: 209
+3: Grian: 109
+4: GoodTimeWithScar: 37
+5: Keralis1: 13
+6: Renthedog: 11
+7: joehillssays: 6
+8: BdoubleO100: 6
+9: falsesymmetry: 3
+10: Etho: 3
+Total 1110

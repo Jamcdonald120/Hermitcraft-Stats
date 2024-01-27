@@ -1,0 +1,16 @@
+minecraft.picked_up.cracked_stone_bricks
+1: iJevin: 1871
+2: Welsknight: 304
+3: Tango: 249
+4: cubfan135: 45
+5: Keralis1: 35
+6: iskall85: 25
+7: PearlescentMoon: 22
+8: Docm77: 21
+9: impulseSV: 15
+10: Xisuma: 13
+11: ZombieCleo: 10
+12: Renthedog: 8
+13: Grian: 2
+14: Etho: 1
+Total 2621

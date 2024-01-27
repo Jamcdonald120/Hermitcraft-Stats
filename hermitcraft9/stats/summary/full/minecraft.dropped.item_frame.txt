@@ -1,0 +1,24 @@
+minecraft.dropped.item_frame
+1: falsesymmetry: 108
+2: Tango: 98
+3: VintageBeef: 64
+4: impulseSV: 36
+5: Zedaph: 21
+6: ZombieCleo: 12
+7: iJevin: 11
+8: GeminiTay: 9
+9: Etho: 5
+10: Keralis1: 5
+11: MythicalSausage: 4
+12: PearlescentMoon: 4
+13: BdoubleO100: 3
+14: Grian: 2
+15: xBCrafted: 2
+16: cubfan135: 2
+17: GoodTimeWithScar: 2
+18: Docm77: 1
+19: Xisuma: 1
+20: OrionSound: 1
+21: Smallishbeans: 1
+22: iskall85: 1
+Total 393

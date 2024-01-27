@@ -1,0 +1,8 @@
+minecraft.picked_up.mossy_cobblestone_wall
+1: GoodTimeWithScar: 97
+2: Tango: 11
+3: VintageBeef: 4
+4: cubfan135: 1
+5: Etho: 1
+6: impulseSV: 1
+Total 115

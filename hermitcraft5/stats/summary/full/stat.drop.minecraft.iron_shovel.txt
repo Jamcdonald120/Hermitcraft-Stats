@@ -1,0 +1,23 @@
+stat.drop.minecraft.iron_shovel
+1: iskall85: 58
+2: Tango: 48
+3: Renthedog: 46
+4: GoodTimeWithScar: 43
+5: Xisuma: 24
+6: xBCrafted: 23
+7: impulseSV: 20
+8: cubfan135: 11
+9: MumboJumbo: 8
+10: falsesymmetry: 7
+11: Zedaph: 6
+12: Tinfoilchef: 4
+13: Stressmonster101: 3
+14: PythonGB: 2
+15: iJevin: 2
+16: Welsknight: 2
+17: Biffa2001: 2
+18: Etho: 2
+19: Docm77: 1
+20: VintageBeef: 1
+21: ZombieCleo: 1
+Total 314

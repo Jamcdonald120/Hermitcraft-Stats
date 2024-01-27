@@ -1,0 +1,10 @@
+minecraft.dropped.green_terracotta
+1: GoodTimeWithScar: 581
+2: Tango: 35
+3: Grian: 18
+4: Etho: 3
+5: cubfan135: 2
+6: Keralis1: 2
+7: MumboJumbo: 1
+8: Zedaph: 1
+Total 643

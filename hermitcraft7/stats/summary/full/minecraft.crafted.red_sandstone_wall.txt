@@ -1,0 +1,6 @@
+minecraft.crafted.red_sandstone_wall
+1: Keralis1: 168
+2: GoodTimeWithScar: 12
+3: Renthedog: 6
+4: cubfan135: 6
+Total 192

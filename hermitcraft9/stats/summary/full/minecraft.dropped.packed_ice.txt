@@ -1,0 +1,19 @@
+minecraft.dropped.packed_ice
+1: falsesymmetry: 3085
+2: Tango: 1051
+3: Etho: 321
+4: Renthedog: 303
+5: iskall85: 216
+6: iJevin: 134
+7: Keralis1: 128
+8: cubfan135: 114
+9: Xisuma: 75
+10: VintageBeef: 70
+11: GoodTimeWithScar: 67
+12: PearlescentMoon: 65
+13: joehillssays: 64
+14: Docm77: 28
+15: impulseSV: 28
+16: Zedaph: 19
+17: BdoubleO100: 2
+Total 5770

@@ -1,0 +1,17 @@
+minecraft.dropped.observer
+1: Tango: 600
+2: impulseSV: 83
+3: Keralis1: 53
+4: VintageBeef: 36
+5: joehillssays: 36
+6: Xisuma: 35
+7: Grian: 32
+8: GoodTimeWithScar: 25
+9: hypnotizd: 11
+10: iJevin: 9
+11: BdoubleO100: 9
+12: falsesymmetry: 9
+13: Etho: 9
+14: ZombieCleo: 8
+15: Zedaph: 7
+Total 962

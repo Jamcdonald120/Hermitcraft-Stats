@@ -1,0 +1,8 @@
+minecraft.mined.light_gray_banner
+1: GoodTimeWithScar: 11
+2: Keralis1: 7
+3: Tango: 2
+4: xBCrafted: 2
+5: Grian: 1
+6: impulseSV: 1
+Total 24

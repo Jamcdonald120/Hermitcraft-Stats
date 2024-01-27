@@ -1,0 +1,14 @@
+minecraft.dropped.smooth_quartz_slab
+1: Keralis1: 119
+2: Grian: 98
+3: Smajor1995: 60
+4: SolidarityGaming: 60
+5: Zedaph: 55
+6: impulseSV: 31
+7: OrionSound: 30
+8: Smallishbeans: 30
+9: GoodTimeWithScar: 25
+10: iJevin: 8
+11: cubfan135: 3
+12: GeminiTay: 1
+Total 520

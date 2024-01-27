@@ -1,0 +1,27 @@
+stat.dispenserInspected
+1: cubfan135: 1881
+2: MumboJumbo: 1435
+3: Tango: 747
+4: Xisuma: 678
+5: impulseSV: 491
+6: iskall85: 400
+7: PythonGB: 333
+8: xBCrafted: 312
+9: Zedaph: 299
+10: falsesymmetry: 267
+11: Tinfoilchef: 174
+12: Welsknight: 171
+13: GoodTimeWithScar: 161
+14: Docm77: 153
+15: iJevin: 117
+16: Renthedog: 113
+17: Stressmonster101: 109
+18: Etho: 64
+19: joehillssays: 38
+20: VintageBeef: 26
+21: BdoubleO100: 26
+22: TangoCam: 8
+23: ZombieCleo: 5
+24: Biffa2001: 2
+25: xisumavoid: 1
+Total 8011

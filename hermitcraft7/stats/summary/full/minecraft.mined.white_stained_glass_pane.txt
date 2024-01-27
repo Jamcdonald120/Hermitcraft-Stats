@@ -1,0 +1,24 @@
+minecraft.mined.white_stained_glass_pane
+1: GoodTimeWithScar: 644
+2: VintageBeef: 240
+3: Xisuma: 210
+4: impulseSV: 148
+5: cubfan135: 144
+6: Keralis1: 124
+7: Grian: 121
+8: falsesymmetry: 108
+9: xBCrafted: 89
+10: Welsknight: 78
+11: iskall85: 64
+12: Tango: 61
+13: Renthedog: 43
+14: BdoubleO100: 38
+15: Zedaph: 36
+16: joehillssays: 34
+17: MumboJumbo: 7
+18: ZombieCleo: 5
+19: Docm77: 4
+20: Etho: 2
+21: hypnotizd: 2
+22: Stressmonster101: 2
+Total 2204

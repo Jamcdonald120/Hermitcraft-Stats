@@ -1,0 +1,26 @@
+minecraft.used.soul_lantern
+1: Tango: 766
+2: impulseSV: 280
+3: cubfan135: 259
+4: Etho: 230
+5: Xisuma: 206
+6: GeminiTay: 133
+7: GoodTimeWithScar: 128
+8: RentheKing: 88
+9: Mumbo: 80
+10: falsesymmetry: 79
+11: Renthedog: 77
+12: PearlescentMoon: 64
+13: MythicalSausage: 46
+14: xBCrafted: 39
+15: Smallishbeans: 24
+16: VintageBeef: 18
+17: Docm77: 13
+18: BdoubleO100: 9
+19: Grian: 6
+20: fWhip: 6
+21: Keralis1: 5
+22: iJevin: 1
+23: hypnotizd: 1
+24: Zedaph: 1
+Total 2559

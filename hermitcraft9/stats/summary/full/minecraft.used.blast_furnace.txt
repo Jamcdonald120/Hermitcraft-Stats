@@ -1,0 +1,25 @@
+minecraft.used.blast_furnace
+1: Tango: 289
+2: PearlescentMoon: 176
+3: impulseSV: 125
+4: Keralis1: 78
+5: xBCrafted: 70
+6: BdoubleO100: 64
+7: Docm77: 50
+8: iJevin: 43
+9: joehillssays: 17
+10: ZombieCleo: 15
+11: Grian: 14
+12: Zedaph: 11
+13: GoodTimeWithScar: 10
+14: falsesymmetry: 9
+15: Renthedog: 7
+16: cubfan135: 7
+17: VintageBeef: 6
+18: Etho: 5
+19: iskall85: 4
+20: Stressmonster101: 3
+21: MythicalSausage: 2
+22: hypnotizd: 2
+23: Xisuma: 1
+Total 1008

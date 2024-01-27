@@ -1,0 +1,10 @@
+minecraft.dropped.quartz_slab
+1: Zedaph: 67
+2: Tango: 51
+3: ZombieCleo: 49
+4: GoodTimeWithScar: 37
+5: Pixlriffs: 32
+6: Keralis1: 26
+7: iJevin: 6
+8: cubfan135: 1
+Total 269

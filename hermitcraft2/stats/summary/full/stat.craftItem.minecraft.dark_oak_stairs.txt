@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.dark_oak_stairs
+1: sl1pg8r: 216
+2: ZombieCleo: 132
+3: Tango: 82
+4: xBCrafted: 80
+5: falsesymmetry: 56
+6: zueljin: 16
+Total 582

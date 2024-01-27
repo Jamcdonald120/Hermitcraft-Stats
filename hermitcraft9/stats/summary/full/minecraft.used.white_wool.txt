@@ -1,0 +1,31 @@
+minecraft.used.white_wool
+1: iJevin: 11618
+2: ZombieCleo: 4638
+3: VintageBeef: 3929
+4: Docm77: 2707
+5: Tango: 2042
+6: falsesymmetry: 1765
+7: Grian: 1071
+8: BdoubleO100: 840
+9: hypnotizd: 768
+10: Keralis1: 709
+11: GoodTimeWithScar: 597
+12: Xisuma: 584
+13: PearlescentMoon: 537
+14: GeminiTay: 496
+15: impulseSV: 495
+16: xBCrafted: 378
+17: Zedaph: 316
+18: cubfan135: 282
+19: joehillssays: 204
+20: Renthedog: 167
+21: RentheKing: 75
+22: Etho: 74
+23: Welsknight: 63
+24: MythicalSausage: 36
+25: Smajor1995: 5
+26: Pixlriffs: 2
+27: iskall85: 2
+28: Mumbo: 1
+29: MumboJumbo: 1
+Total 34402

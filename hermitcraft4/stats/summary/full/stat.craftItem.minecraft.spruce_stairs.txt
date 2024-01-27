@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.spruce_stairs
+1: GoodTimeWithScar: 6264
+2: Renthedog: 3068
+3: Welsknight: 3012
+4: Xisuma: 2892
+5: iskall85: 1552
+6: falsesymmetry: 1040
+7: Tango: 840
+8: cubfan135: 760
+9: Docm77: 504
+10: joehillssays: 496
+11: Etho: 448
+12: VintageBeef: 348
+13: ZombieCleo: 240
+14: iJevin: 212
+15: Tinfoilchef: 152
+16: PythonGB: 148
+17: MumboJumbo: 44
+18: impulseSV: 40
+19: zueljin: 8
+Total 22068

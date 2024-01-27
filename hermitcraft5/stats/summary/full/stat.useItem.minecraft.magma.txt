@@ -1,0 +1,18 @@
+stat.useItem.minecraft.magma
+1: Renthedog: 9178
+2: Tango: 1146
+3: cubfan135: 1142
+4: MumboJumbo: 901
+5: impulseSV: 505
+6: Xisuma: 420
+7: Biffa2001: 322
+8: joehillssays: 241
+9: iskall85: 159
+10: GoodTimeWithScar: 133
+11: PythonGB: 54
+12: xBCrafted: 29
+13: Docm77: 22
+14: Etho: 7
+15: falsesymmetry: 5
+16: Welsknight: 2
+Total 14266

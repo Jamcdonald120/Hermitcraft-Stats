@@ -1,0 +1,26 @@
+minecraft.used.stone_brick_stairs
+1: iJevin: 2426
+2: Tango: 1385
+3: Etho: 978
+4: falsesymmetry: 658
+5: PearlescentMoon: 528
+6: GeminiTay: 474
+7: Xisuma: 316
+8: BdoubleO100: 292
+9: xBCrafted: 273
+10: impulseSV: 238
+11: GoodTimeWithScar: 204
+12: cubfan135: 197
+13: VintageBeef: 174
+14: Keralis1: 174
+15: hypnotizd: 172
+16: joehillssays: 161
+17: RentheKing: 131
+18: ZombieCleo: 123
+19: iskall85: 120
+20: Renthedog: 68
+21: Docm77: 58
+22: Stressmonster101: 10
+23: Zedaph: 7
+24: MythicalSausage: 3
+Total 9170

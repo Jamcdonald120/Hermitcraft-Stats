@@ -1,0 +1,26 @@
+minecraft.mined.campfire
+1: Keralis1: 256
+2: xBCrafted: 166
+3: iJevin: 139
+4: ZombieCleo: 47
+5: impulseSV: 47
+6: PearlescentMoon: 40
+7: cubfan135: 40
+8: BdoubleO100: 33
+9: Tango: 32
+10: falsesymmetry: 30
+11: Docm77: 25
+12: Grian: 24
+13: VintageBeef: 16
+14: Etho: 11
+15: Renthedog: 9
+16: Zedaph: 9
+17: GeminiTay: 8
+18: GoodTimeWithScar: 8
+19: Xisuma: 7
+20: RentheKing: 7
+21: Pixlriffs: 2
+22: MythicalSausage: 1
+23: iskall85: 1
+24: Welsknight: 1
+Total 959

@@ -1,0 +1,16 @@
+minecraft.picked_up.cyan_bed
+1: GeminiTay: 432
+2: Etho: 120
+3: ZombieCleo: 46
+4: falsesymmetry: 19
+5: iJevin: 15
+6: iskall85: 12
+7: joehillssays: 11
+8: Keralis1: 10
+9: Docm77: 4
+10: VintageBeef: 4
+11: Zedaph: 4
+12: MythicalSausage: 2
+13: cubfan135: 1
+14: impulseSV: 1
+Total 681

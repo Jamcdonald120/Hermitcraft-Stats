@@ -1,0 +1,6 @@
+minecraft.dropped.light_weighted_pressure_plate
+1: Grian: 32
+2: iskall85: 4
+3: Xisuma: 1
+4: Renthedog: 1
+Total 38

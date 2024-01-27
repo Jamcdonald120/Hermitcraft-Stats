@@ -1,0 +1,15 @@
+minecraft.mined.acacia_planks
+1: xBCrafted: 410
+2: impulseSV: 242
+3: Etho: 135
+4: Renthedog: 108
+5: cubfan135: 85
+6: Tango: 55
+7: VintageBeef: 51
+8: joehillssays: 47
+9: Welsknight: 22
+10: BdoubleO100: 8
+11: Keralis1: 4
+12: falsesymmetry: 1
+13: GoodTimeWithScar: 1
+Total 1169

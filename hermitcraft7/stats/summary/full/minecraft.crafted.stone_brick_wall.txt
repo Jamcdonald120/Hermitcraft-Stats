@@ -1,0 +1,22 @@
+minecraft.crafted.stone_brick_wall
+1: cubfan135: 1680
+2: ZombieCleo: 1298
+3: GoodTimeWithScar: 1014
+4: Keralis1: 378
+5: iskall85: 252
+6: Stressmonster101: 252
+7: joehillssays: 198
+8: MumboJumbo: 180
+9: Grian: 132
+10: Docm77: 120
+11: xBCrafted: 120
+12: iJevin: 60
+13: falsesymmetry: 60
+14: Etho: 54
+15: Tango: 48
+16: BdoubleO100: 40
+17: Xisuma: 24
+18: impulseSV: 24
+19: VintageBeef: 12
+20: Renthedog: 1
+Total 5947

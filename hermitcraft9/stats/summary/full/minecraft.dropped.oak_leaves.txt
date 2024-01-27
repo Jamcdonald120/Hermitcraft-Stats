@@ -1,0 +1,26 @@
+minecraft.dropped.oak_leaves
+1: Keralis1: 1168
+2: GoodTimeWithScar: 422
+3: Docm77: 417
+4: Renthedog: 335
+5: Grian: 283
+6: Stressmonster101: 144
+7: iskall85: 140
+8: iJevin: 103
+9: PearlescentMoon: 68
+10: xBCrafted: 40
+11: cubfan135: 37
+12: falsesymmetry: 33
+13: Tango: 30
+14: Mumbo: 25
+15: Etho: 16
+16: MythicalSausage: 13
+17: joehillssays: 8
+18: impulseSV: 4
+19: ZombieCleo: 3
+20: Xisuma: 2
+21: Smallishbeans: 2
+22: VintageBeef: 1
+23: GeminiTay: 1
+24: RentheKing: 1
+Total 3296

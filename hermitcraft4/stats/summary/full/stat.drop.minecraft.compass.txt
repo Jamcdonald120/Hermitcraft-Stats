@@ -1,0 +1,4 @@
+stat.drop.minecraft.compass
+1: Renthedog: 2
+2: MumboJumbo: 1
+Total 3

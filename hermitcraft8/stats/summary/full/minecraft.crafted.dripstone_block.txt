@@ -1,0 +1,14 @@
+minecraft.crafted.dripstone_block
+1: cubfan135: 43298
+2: GoodTimeWithScar: 7728
+3: Grian: 6268
+4: joehillssays: 1636
+5: ZombieCleo: 636
+6: Xisuma: 613
+7: Keralis1: 512
+8: Tango: 256
+9: Zedaph: 128
+10: GeminiTay: 88
+11: BdoubleO100: 2
+12: PearlescentMoon: 2
+Total 61167

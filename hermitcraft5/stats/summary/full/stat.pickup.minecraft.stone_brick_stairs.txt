@@ -1,0 +1,23 @@
+stat.pickup.minecraft.stone_brick_stairs
+1: Renthedog: 3104
+2: falsesymmetry: 2140
+3: Xisuma: 1710
+4: GoodTimeWithScar: 1657
+5: Welsknight: 1484
+6: iJevin: 1320
+7: joehillssays: 1187
+8: xBCrafted: 1038
+9: impulseSV: 790
+10: Tinfoilchef: 752
+11: cubfan135: 739
+12: MumboJumbo: 400
+13: PythonGB: 324
+14: VintageBeef: 259
+15: iskall85: 238
+16: Tango: 134
+17: Stressmonster101: 116
+18: Zedaph: 111
+19: Docm77: 31
+20: BdoubleO100: 5
+21: Etho: 1
+Total 17540

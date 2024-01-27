@@ -1,0 +1,18 @@
+minecraft.dropped.cobblestone_wall
+1: Tango: 426
+2: falsesymmetry: 415
+3: xBCrafted: 75
+4: Keralis1: 72
+5: GoodTimeWithScar: 29
+6: iJevin: 26
+7: Xisuma: 10
+8: iskall85: 6
+9: Mumbo: 5
+10: MumboJumbo: 5
+11: Docm77: 4
+12: PearlescentMoon: 4
+13: RentheKing: 4
+14: Grian: 2
+15: cubfan135: 2
+16: Zedaph: 1
+Total 1086

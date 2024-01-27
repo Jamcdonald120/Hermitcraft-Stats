@@ -1,0 +1,20 @@
+minecraft.dropped.oak_leaves
+1: MumboJumbo: 1776
+2: GoodTimeWithScar: 324
+3: cubfan135: 272
+4: impulseSV: 163
+5: Grian: 158
+6: iJevin: 119
+7: Docm77: 109
+8: Keralis1: 91
+9: Xisuma: 88
+10: GeminiTay: 88
+11: PearlescentMoon: 68
+12: BdoubleO100: 35
+13: ZombieCleo: 15
+14: Renthedog: 14
+15: xBCrafted: 8
+16: falsesymmetry: 3
+17: Welsknight: 3
+18: Etho: 1
+Total 3335

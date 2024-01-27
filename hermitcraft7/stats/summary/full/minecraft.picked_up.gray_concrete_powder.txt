@@ -1,0 +1,25 @@
+minecraft.picked_up.gray_concrete_powder
+1: Xisuma: 46956
+2: Keralis1: 34178
+3: Renthedog: 17788
+4: xBCrafted: 9782
+5: falsesymmetry: 4878
+6: Grian: 4020
+7: GoodTimeWithScar: 3454
+8: cubfan135: 2044
+9: Stressmonster101: 2036
+10: joehillssays: 1468
+11: Zedaph: 1391
+12: iskall85: 1039
+13: VintageBeef: 744
+14: Welsknight: 448
+15: Etho: 409
+16: Tango: 345
+17: iJevin: 332
+18: BdoubleO100: 245
+19: BarryBoss1234: 85
+20: impulseSV: 44
+21: MumboJumbo: 39
+22: ZombieCleo: 1
+23: hypnotizd: 1
+Total 131727

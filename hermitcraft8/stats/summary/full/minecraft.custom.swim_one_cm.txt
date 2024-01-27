@@ -1,0 +1,29 @@
+minecraft.custom.swim_one_cm
+1: Docm77: 10674665
+2: Renthedog: 6243935
+3: cubfan135: 4914316
+4: PearlescentMoon: 3541679
+5: iskall85: 3462535
+6: xBCrafted: 3380568
+7: iJevin: 2906819
+8: Etho: 2244186
+9: Grian: 1859936
+10: Zedaph: 1559313
+11: Keralis1: 1434276
+12: Welsknight: 1384633
+13: impulseSV: 1345929
+14: GeminiTay: 1166171
+15: BdoubleO100: 913073
+16: Tango: 904097
+17: falsesymmetry: 885062
+18: Xisuma: 851791
+19: VintageBeef: 781131
+20: ZombieCleo: 565865
+21: GoodTimeWithScar: 536155
+22: hypnotizd: 488550
+23: joehillssays: 334137
+24: Stressmonster101: 264691
+25: MumboJumbo: 137844
+26: Tinfoilchef: 79833
+27: EvilXisuma: 431
+Total 52861621

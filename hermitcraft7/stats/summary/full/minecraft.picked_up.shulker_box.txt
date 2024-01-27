@@ -1,0 +1,28 @@
+minecraft.picked_up.shulker_box
+1: Xisuma: 10420
+2: cubfan135: 8374
+3: GoodTimeWithScar: 6483
+4: Etho: 5824
+5: iJevin: 5747
+6: Grian: 5441
+7: impulseSV: 5090
+8: Tango: 4759
+9: Keralis1: 4185
+10: falsesymmetry: 3855
+11: hypnotizd: 3139
+12: iskall85: 2925
+13: BdoubleO100: 2221
+14: joehillssays: 2138
+15: Renthedog: 1746
+16: VintageBeef: 1541
+17: Welsknight: 1481
+18: Stressmonster101: 1412
+19: xBCrafted: 1062
+20: MumboJumbo: 996
+21: ZombieCleo: 858
+22: Zedaph: 651
+23: Docm77: 383
+24: Tinfoilchef: 124
+25: xisumavoid: 2
+26: Mumbo: 1
+Total 80858

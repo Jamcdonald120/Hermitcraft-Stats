@@ -1,0 +1,12 @@
+minecraft.dropped.lily_of_the_valley
+1: iJevin: 47
+2: Grian: 9
+3: OrionSound: 8
+4: GoodTimeWithScar: 7
+5: falsesymmetry: 6
+6: Renthedog: 4
+7: Docm77: 1
+8: Etho: 1
+9: ZombieCleo: 1
+10: Mumbo: 1
+Total 85

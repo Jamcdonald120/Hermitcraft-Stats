@@ -1,0 +1,12 @@
+minecraft.crafted.smooth_sandstone
+1: PearlescentMoon: 2782
+2: Xisuma: 2368
+3: cubfan135: 1166
+4: Etho: 797
+5: BdoubleO100: 444
+6: impulseSV: 342
+7: Welsknight: 256
+8: joehillssays: 140
+9: falsesymmetry: 130
+10: ZombieCleo: 6
+Total 8431

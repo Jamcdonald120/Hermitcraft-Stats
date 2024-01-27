@@ -1,0 +1,30 @@
+stat.damageTaken
+1: GoodTimeWithScar: 694301
+2: impulseSV: 560778
+3: cubfan135: 397404
+4: Tango: 337805
+5: Renthedog: 289861
+6: MumboJumbo: 271993
+7: falsesymmetry: 266284
+8: iskall85: 246316
+9: Zedaph: 191162
+10: joehillssays: 174647
+11: Xisuma: 151148
+12: PythonGB: 122009
+13: iJevin: 118807
+14: Welsknight: 116864
+15: Docm77: 83684
+16: Stressmonster101: 34293
+17: xBCrafted: 33057
+18: Tinfoilchef: 30541
+19: Biffa2001: 26929
+20: ZombieCleo: 25950
+21: Etho: 25122
+22: VintageBeef: 20945
+23: BdoubleO100: 16547
+24: Lechaion: 270
+25: BadTimeWithScar: 140
+26: truesymmetry: 80
+27: isGall85: 40
+28: ImpulseCam: 40
+Total 4237017

@@ -1,0 +1,12 @@
+minecraft.dropped.dark_oak_door
+1: Tango: 85
+2: xBCrafted: 52
+3: falsesymmetry: 44
+4: Keralis1: 39
+5: impulseSV: 12
+6: GoodTimeWithScar: 7
+7: Renthedog: 6
+8: iskall85: 3
+9: iJevin: 1
+10: BdoubleO100: 1
+Total 250

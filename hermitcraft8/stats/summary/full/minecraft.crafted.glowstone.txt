@@ -1,0 +1,21 @@
+minecraft.crafted.glowstone
+1: Grian: 8523
+2: Xisuma: 2041
+3: Keralis1: 145
+4: GoodTimeWithScar: 133
+5: iJevin: 107
+6: cubfan135: 64
+7: MumboJumbo: 46
+8: VintageBeef: 44
+9: PearlescentMoon: 42
+10: Welsknight: 40
+11: Zedaph: 38
+12: iskall85: 34
+13: falsesymmetry: 29
+14: Docm77: 26
+15: hypnotizd: 26
+16: xBCrafted: 17
+17: impulseSV: 17
+18: joehillssays: 9
+19: BdoubleO100: 1
+Total 11382

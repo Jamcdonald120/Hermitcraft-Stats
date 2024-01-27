@@ -1,0 +1,16 @@
+minecraft.crafted.lime_shulker_box
+1: cubfan135: 135
+2: iskall85: 65
+3: PythonGB: 12
+4: Xisuma: 8
+5: Tango: 8
+6: falsesymmetry: 7
+7: iJevin: 4
+8: GoodTimeWithScar: 4
+9: Renthedog: 3
+10: joehillssays: 2
+11: Grian: 1
+12: MumboJumbo: 1
+13: Stressmonster101: 1
+14: Zedaph: 1
+Total 252

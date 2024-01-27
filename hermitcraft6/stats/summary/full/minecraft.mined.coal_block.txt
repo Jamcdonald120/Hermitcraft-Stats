@@ -1,0 +1,24 @@
+minecraft.mined.coal_block
+1: GoodTimeWithScar: 848
+2: iskall85: 379
+3: Grian: 294
+4: Docm77: 254
+5: cubfan135: 175
+6: Xisuma: 165
+7: joehillssays: 100
+8: Renthedog: 99
+9: iJevin: 60
+10: Zedaph: 45
+11: ZombieCleo: 39
+12: impulseSV: 38
+13: falsesymmetry: 33
+14: MumboJumbo: 23
+15: Stressmonster101: 18
+16: Keralis1: 5
+17: HumanCleo: 3
+18: Tango: 2
+19: BdoubleO100: 2
+20: xBCrafted: 2
+21: Tinfoilchef: 2
+22: PythonGB: 1
+Total 2587

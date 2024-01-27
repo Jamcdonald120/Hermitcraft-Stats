@@ -1,0 +1,23 @@
+minecraft.dropped.golden_carrot
+1: Grian: 1504
+2: impulseSV: 712
+3: Renthedog: 681
+4: GoodTimeWithScar: 395
+5: Docm77: 322
+6: cubfan135: 278
+7: Stressmonster101: 275
+8: Keralis1: 266
+9: iJevin: 259
+10: iskall85: 216
+11: MumboJumbo: 160
+12: Tango: 89
+13: falsesymmetry: 76
+14: PythonGB: 73
+15: Xisuma: 50
+16: Jura_Whitey: 35
+17: joehillssays: 20
+18: BadTimeWithScar: 20
+19: Cojomax99: 10
+20: BdoubleO100: 3
+21: Zedaph: 1
+Total 5445

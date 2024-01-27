@@ -1,0 +1,33 @@
+minecraft.picked_up.item_frame
+1: cubfan135: 723
+2: VintageBeef: 715
+3: falsesymmetry: 603
+4: impulseSV: 526
+5: Grian: 507
+6: ZombieCleo: 499
+7: PearlescentMoon: 337
+8: iJevin: 318
+9: Tango: 202
+10: Renthedog: 199
+11: Keralis1: 189
+12: joehillssays: 183
+13: Zedaph: 179
+14: Docm77: 159
+15: Xisuma: 135
+16: iskall85: 117
+17: xBCrafted: 114
+18: GoodTimeWithScar: 85
+19: hypnotizd: 84
+20: GeminiTay: 78
+21: Etho: 56
+22: BdoubleO100: 51
+23: RentheKing: 46
+24: Stressmonster101: 45
+25: Welsknight: 30
+26: OrionSound: 11
+27: Smallishbeans: 7
+28: SolidarityGaming: 7
+29: MythicalSausage: 5
+30: Mumbo: 5
+31: Tinfoilchef: 3
+Total 6218

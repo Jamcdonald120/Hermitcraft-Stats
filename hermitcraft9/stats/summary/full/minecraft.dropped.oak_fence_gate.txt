@@ -1,0 +1,10 @@
+minecraft.dropped.oak_fence_gate
+1: Docm77: 18
+2: Etho: 17
+3: GoodTimeWithScar: 5
+4: Zedaph: 3
+5: Xisuma: 2
+6: Tango: 2
+7: iJevin: 1
+8: iskall85: 1
+Total 49

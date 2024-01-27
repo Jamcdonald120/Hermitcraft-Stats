@@ -1,0 +1,17 @@
+stat.drop.minecraft.flint_and_steel
+1: Tango: 30
+2: Zedaph: 18
+3: Renthedog: 16
+4: iskall85: 14
+5: cubfan135: 8
+6: GoodTimeWithScar: 8
+7: Xisuma: 4
+8: MumboJumbo: 4
+9: impulseSV: 3
+10: xBCrafted: 2
+11: Docm77: 1
+12: PythonGB: 1
+13: BdoubleO100: 1
+14: Biffa2001: 1
+15: Stressmonster101: 1
+Total 112

@@ -1,0 +1,17 @@
+minecraft.picked_up.red_stained_glass
+1: iJevin: 1965
+2: iskall85: 1457
+3: Renthedog: 607
+4: GoodTimeWithScar: 352
+5: Xisuma: 294
+6: Tango: 146
+7: PythonGB: 108
+8: cubfan135: 75
+9: impulseSV: 73
+10: Grian: 20
+11: MumboJumbo: 16
+12: Welsknight: 5
+13: falsesymmetry: 4
+14: joehillssays: 3
+15: Biffa2001: 3
+Total 5128

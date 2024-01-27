@@ -1,0 +1,18 @@
+minecraft.dropped.bamboo
+1: MumboJumbo: 11765
+2: iskall85: 9525
+3: Tinfoilchef: 1799
+4: cubfan135: 1086
+5: Xisuma: 768
+6: Grian: 667
+7: Keralis1: 240
+8: impulseSV: 189
+9: Zedaph: 130
+10: Docm77: 64
+11: Renthedog: 51
+12: iJevin: 34
+13: GoodTimeWithScar: 13
+14: Stressmonster101: 7
+15: BdoubleO100: 3
+16: falsesymmetry: 3
+Total 26344

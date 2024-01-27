@@ -1,0 +1,17 @@
+minecraft.dropped.nether_gold_ore
+1: iJevin: 332
+2: Tango: 93
+3: xBCrafted: 51
+4: Docm77: 35
+5: falsesymmetry: 23
+6: Renthedog: 21
+7: impulseSV: 13
+8: GeminiTay: 5
+9: GoodTimeWithScar: 5
+10: BdoubleO100: 3
+11: Pixlriffs: 3
+12: RentheKing: 3
+13: cubfan135: 1
+14: Keralis1: 1
+15: Zedaph: 1
+Total 590

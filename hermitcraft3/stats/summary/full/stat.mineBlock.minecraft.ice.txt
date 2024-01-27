@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.ice
+1: falsesymmetry: 4216
+2: Xisuma: 3696
+3: Biffa2001: 1004
+4: iJevin: 884
+5: xBCrafted: 734
+6: Tango: 567
+7: Tinfoilchef: 475
+8: Docm77: 410
+9: zueljin: 258
+10: impulseSV: 189
+11: joehillssays: 54
+12: Mumbo: 30
+13: sl1pg8r: 3
+14: hypnotizd: 2
+15: topmass: 1
+Total 12523

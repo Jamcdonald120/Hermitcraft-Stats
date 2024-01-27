@@ -1,0 +1,23 @@
+minecraft.crafted.white_carpet
+1: impulseSV: 2946
+2: Welsknight: 1293
+3: falsesymmetry: 300
+4: iJevin: 243
+5: hypnotizd: 234
+6: cubfan135: 225
+7: Tango: 195
+8: PearlescentMoon: 135
+9: Xisuma: 120
+10: Zedaph: 81
+11: Keralis1: 78
+12: GoodTimeWithScar: 63
+13: GeminiTay: 57
+14: xBCrafted: 48
+15: Stressmonster101: 45
+16: joehillssays: 36
+17: Renthedog: 15
+18: Grian: 9
+19: Docm77: 3
+20: ZombieCleo: 3
+21: MumboJumbo: 3
+Total 6132

@@ -1,0 +1,17 @@
+minecraft.picked_up.magenta_stained_glass
+1: Zedaph: 628
+2: Tango: 379
+3: cubfan135: 91
+4: impulseSV: 88
+5: Stressmonster101: 87
+6: iJevin: 64
+7: Renthedog: 24
+8: iskall85: 13
+9: GoodTimeWithScar: 10
+10: falsesymmetry: 6
+11: MumboJumbo: 5
+12: Grian: 4
+13: Biffa2001: 3
+14: Docm77: 1
+15: PythonGB: 1
+Total 1404

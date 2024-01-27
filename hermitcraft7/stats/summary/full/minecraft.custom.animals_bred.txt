@@ -1,0 +1,25 @@
+minecraft.custom.animals_bred
+1: Xisuma: 9100
+2: joehillssays: 2644
+3: VintageBeef: 2394
+4: Grian: 1792
+5: Zedaph: 1483
+6: hypnotizd: 1460
+7: ZombieCleo: 1445
+8: GoodTimeWithScar: 1262
+9: Welsknight: 1152
+10: impulseSV: 869
+11: Etho: 863
+12: Keralis1: 696
+13: BdoubleO100: 661
+14: falsesymmetry: 655
+15: cubfan135: 620
+16: Tango: 465
+17: Renthedog: 360
+18: iJevin: 288
+19: xBCrafted: 219
+20: Docm77: 210
+21: Stressmonster101: 195
+22: iskall85: 117
+23: MumboJumbo: 33
+Total 28983

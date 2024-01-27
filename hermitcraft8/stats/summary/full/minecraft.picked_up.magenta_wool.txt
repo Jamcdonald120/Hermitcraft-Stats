@@ -1,0 +1,12 @@
+minecraft.picked_up.magenta_wool
+1: Stressmonster101: 684
+2: Zedaph: 552
+3: Grian: 59
+4: Welsknight: 28
+5: cubfan135: 25
+6: GeminiTay: 18
+7: Xisuma: 3
+8: PearlescentMoon: 3
+9: iJevin: 2
+10: falsesymmetry: 2
+Total 1376

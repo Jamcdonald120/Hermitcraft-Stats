@@ -1,0 +1,37 @@
+minecraft.used.water_bucket
+1: Docm77: 33467
+2: iJevin: 7784
+3: VintageBeef: 7300
+4: Xisuma: 5457
+5: Tango: 4243
+6: cubfan135: 3589
+7: GoodTimeWithScar: 3368
+8: impulseSV: 3090
+9: PearlescentMoon: 2520
+10: falsesymmetry: 2321
+11: hypnotizd: 1923
+12: joehillssays: 1889
+13: Grian: 1528
+14: Renthedog: 1364
+15: xBCrafted: 1245
+16: Etho: 1207
+17: Zedaph: 1186
+18: ZombieCleo: 900
+19: Keralis1: 865
+20: GeminiTay: 771
+21: iskall85: 553
+22: BdoubleO100: 519
+23: Stressmonster101: 488
+24: RentheKing: 251
+25: Pixlriffs: 185
+26: Mumbo: 78
+27: Welsknight: 51
+28: MumboJumbo: 7
+29: Tinfoilchef: 5
+30: SolidarityGaming: 4
+31: MythicalSausage: 3
+32: Smajor1995: 2
+33: Smallishbeans: 2
+34: OrionSound: 1
+35: ShubbleYT: 1
+Total 88167

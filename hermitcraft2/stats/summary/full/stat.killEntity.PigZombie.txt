@@ -1,0 +1,18 @@
+stat.killEntity.PigZombie
+1: Tango: 806
+2: iJevin: 482
+3: Xisuma: 92
+4: Spumwackles: 71
+5: hypnotizd: 62
+6: Tinfoilchef: 33
+7: Biffa2001: 30
+8: monkeyfarm: 23
+9: red3yz: 15
+10: skyzm: 14
+11: KingDaddyDMAC: 10
+12: Mumbo: 10
+13: Keralis1: 9
+14: sl1pg8r: 8
+15: ZombieCleo: 2
+16: Jessassin: 1
+Total 1668

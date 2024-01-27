@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.jungle_door
+1: falsesymmetry: 3
+Total 3

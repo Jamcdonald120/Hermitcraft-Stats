@@ -1,0 +1,14 @@
+minecraft.picked_up.oak_hanging_sign
+1: falsesymmetry: 22
+2: cubfan135: 14
+3: Renthedog: 8
+4: iJevin: 6
+5: Xisuma: 5
+6: iskall85: 5
+7: VintageBeef: 4
+8: PearlescentMoon: 4
+9: BdoubleO100: 2
+10: ZombieCleo: 2
+11: GoodTimeWithScar: 2
+12: impulseSV: 1
+Total 75

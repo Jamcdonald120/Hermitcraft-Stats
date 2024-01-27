@@ -1,0 +1,21 @@
+stat.pickup.minecraft.prismarine
+1: MumboJumbo: 33686
+2: cubfan135: 19707
+3: impulseSV: 15842
+4: iJevin: 8644
+5: falsesymmetry: 2839
+6: Xisuma: 2681
+7: PythonGB: 1190
+8: Renthedog: 1186
+9: Zedaph: 420
+10: xBCrafted: 322
+11: Tinfoilchef: 316
+12: iskall85: 276
+13: joehillssays: 247
+14: GoodTimeWithScar: 206
+15: Welsknight: 170
+16: Tango: 127
+17: ZombieCleo: 21
+18: xisumavoid: 5
+19: Etho: 3
+Total 87888

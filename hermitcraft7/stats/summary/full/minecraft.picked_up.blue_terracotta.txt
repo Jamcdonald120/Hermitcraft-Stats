@@ -1,0 +1,15 @@
+minecraft.picked_up.blue_terracotta
+1: Zedaph: 1136
+2: cubfan135: 1108
+3: Etho: 522
+4: falsesymmetry: 512
+5: VintageBeef: 430
+6: GoodTimeWithScar: 425
+7: Grian: 415
+8: Tango: 139
+9: BdoubleO100: 87
+10: Xisuma: 61
+11: Renthedog: 36
+12: Keralis1: 3
+13: iJevin: 1
+Total 4875

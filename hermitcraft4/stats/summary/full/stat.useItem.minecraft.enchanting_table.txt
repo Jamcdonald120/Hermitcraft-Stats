@@ -1,0 +1,18 @@
+stat.useItem.minecraft.enchanting_table
+1: Xisuma: 17
+2: cubfan135: 16
+3: falsesymmetry: 8
+4: iskall85: 7
+5: Tango: 4
+6: joehillssays: 3
+7: Etho: 3
+8: GoodTimeWithScar: 3
+9: Renthedog: 2
+10: iJevin: 2
+11: PythonGB: 1
+12: Jessassin: 1
+13: Welsknight: 1
+14: ZombieCleo: 1
+15: Tinfoilchef: 1
+16: impulseSV: 1
+Total 71

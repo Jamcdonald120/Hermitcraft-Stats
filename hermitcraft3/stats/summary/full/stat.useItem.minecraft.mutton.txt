@@ -1,0 +1,11 @@
+stat.useItem.minecraft.mutton
+1: impulseSV: 32
+2: iJevin: 13
+3: zueljin: 6
+4: sl1pg8r: 5
+5: skyzm: 5
+6: Mumbo: 3
+7: monkeyfarm: 3
+8: Etho: 2
+9: falsesymmetry: 1
+Total 70

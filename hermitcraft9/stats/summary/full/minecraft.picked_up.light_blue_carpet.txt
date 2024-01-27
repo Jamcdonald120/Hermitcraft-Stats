@@ -1,0 +1,13 @@
+minecraft.picked_up.light_blue_carpet
+1: VintageBeef: 10022
+2: PearlescentMoon: 6258
+3: iJevin: 580
+4: impulseSV: 64
+5: cubfan135: 35
+6: falsesymmetry: 6
+7: Renthedog: 4
+8: GeminiTay: 2
+9: Keralis1: 2
+10: Etho: 1
+11: Zedaph: 1
+Total 16975

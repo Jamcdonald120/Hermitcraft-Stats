@@ -1,0 +1,14 @@
+minecraft.dropped.end_rod
+1: impulseSV: 172
+2: GeminiTay: 128
+3: Docm77: 64
+4: GoodTimeWithScar: 61
+5: joehillssays: 56
+6: Keralis1: 41
+7: Grian: 4
+8: Tango: 4
+9: Xisuma: 2
+10: iJevin: 2
+11: BdoubleO100: 1
+12: cubfan135: 1
+Total 536

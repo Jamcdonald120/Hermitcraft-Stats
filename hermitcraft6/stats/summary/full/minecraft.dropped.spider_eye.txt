@@ -1,0 +1,23 @@
+minecraft.dropped.spider_eye
+1: impulseSV: 2457
+2: Xisuma: 881
+3: GoodTimeWithScar: 391
+4: iskall85: 332
+5: MumboJumbo: 293
+6: cubfan135: 234
+7: Docm77: 209
+8: Tango: 187
+9: iJevin: 111
+10: Grian: 92
+11: Zedaph: 53
+12: Renthedog: 47
+13: falsesymmetry: 38
+14: Stressmonster101: 27
+15: PythonGB: 20
+16: Keralis1: 9
+17: BdoubleO100: 5
+18: Duke_da_dog: 4
+19: Welsknight: 3
+20: joehillssays: 2
+21: ZombieCleo: 2
+Total 5397

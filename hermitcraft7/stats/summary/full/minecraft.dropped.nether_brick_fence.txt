@@ -1,0 +1,17 @@
+minecraft.dropped.nether_brick_fence
+1: Zedaph: 194
+2: iJevin: 66
+3: cubfan135: 45
+4: iskall85: 34
+5: xBCrafted: 26
+6: GoodTimeWithScar: 13
+7: falsesymmetry: 4
+8: Keralis1: 4
+9: Etho: 3
+10: MumboJumbo: 2
+11: Docm77: 1
+12: Xisuma: 1
+13: VintageBeef: 1
+14: Grian: 1
+15: Tango: 1
+Total 396

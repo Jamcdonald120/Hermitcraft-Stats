@@ -1,0 +1,17 @@
+minecraft.dropped.writable_book
+1: Renthedog: 47
+2: cubfan135: 17
+3: Grian: 11
+4: GoodTimeWithScar: 6
+5: iskall85: 4
+6: Stressmonster101: 3
+7: MumboJumbo: 2
+8: Xisuma: 1
+9: iJevin: 1
+10: joehillssays: 1
+11: Tango: 1
+12: BdoubleO100: 1
+13: falsesymmetry: 1
+14: Keralis1: 1
+15: Zedaph: 1
+Total 98

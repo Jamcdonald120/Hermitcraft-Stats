@@ -1,0 +1,24 @@
+minecraft.mined.white_wool
+1: GoodTimeWithScar: 887
+2: impulseSV: 580
+3: cubfan135: 303
+4: Xisuma: 274
+5: MumboJumbo: 118
+6: Docm77: 105
+7: iskall85: 87
+8: iJevin: 52
+9: Renthedog: 48
+10: falsesymmetry: 44
+11: ZombieCleo: 43
+12: Zedaph: 43
+13: Tango: 41
+14: Grian: 34
+15: Welsknight: 30
+16: BdoubleO100: 17
+17: Tinfoilchef: 7
+18: HumanCleo: 1
+19: Jessassin: 1
+20: xBCrafted: 1
+21: Stressmonster101: 1
+22: Keralis1: 1
+Total 2718

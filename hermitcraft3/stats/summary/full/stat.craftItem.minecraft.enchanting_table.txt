@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.enchanting_table
+1: falsesymmetry: 5
+2: Xisuma: 3
+3: zueljin: 3
+4: impulseSV: 3
+5: topmass: 2
+6: PythonGB: 2
+7: iJevin: 2
+8: Tango: 2
+9: Mumbo: 2
+10: Tinfoilchef: 2
+11: Spumwackles: 2
+12: sl1pg8r: 1
+13: KingDaddyDMAC: 1
+14: xBCrafted: 1
+15: hypnotizd: 1
+16: monkeyfarm: 1
+Total 33

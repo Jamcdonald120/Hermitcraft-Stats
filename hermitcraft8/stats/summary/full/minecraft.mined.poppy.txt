@@ -1,0 +1,28 @@
+minecraft.mined.poppy
+1: GoodTimeWithScar: 946
+2: Tango: 300
+3: Renthedog: 178
+4: Keralis1: 146
+5: Xisuma: 121
+6: PearlescentMoon: 117
+7: iJevin: 101
+8: joehillssays: 98
+9: xBCrafted: 95
+10: Zedaph: 90
+11: GeminiTay: 74
+12: Grian: 74
+13: falsesymmetry: 65
+14: cubfan135: 60
+15: BdoubleO100: 51
+16: VintageBeef: 31
+17: impulseSV: 22
+18: Docm77: 16
+19: Etho: 13
+20: Stressmonster101: 13
+21: hypnotizd: 11
+22: Welsknight: 10
+23: ZombieCleo: 8
+24: MumboJumbo: 7
+25: iskall85: 3
+26: Tinfoilchef: 1
+Total 2651

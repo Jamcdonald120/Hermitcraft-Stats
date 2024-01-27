@@ -1,0 +1,21 @@
+minecraft.mined.warped_slab
+1: falsesymmetry: 208
+2: cubfan135: 140
+3: xBCrafted: 130
+4: Etho: 111
+5: Xisuma: 89
+6: Tango: 75
+7: joehillssays: 70
+8: iJevin: 40
+9: Stressmonster101: 36
+10: ZombieCleo: 16
+11: Grian: 14
+12: Zedaph: 13
+13: Keralis1: 12
+14: GoodTimeWithScar: 7
+15: Renthedog: 5
+16: Docm77: 4
+17: hypnotizd: 3
+18: BdoubleO100: 2
+19: impulseSV: 1
+Total 976

@@ -1,0 +1,9 @@
+minecraft.picked_up.diorite_wall
+1: Docm77: 30
+2: GoodTimeWithScar: 14
+3: cubfan135: 12
+4: xBCrafted: 9
+5: GeminiTay: 8
+6: iskall85: 6
+7: Xisuma: 1
+Total 80

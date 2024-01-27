@@ -1,0 +1,23 @@
+stat.pickup.minecraft.iron_axe
+1: Renthedog: 15
+2: impulseSV: 11
+3: Welsknight: 9
+4: iskall85: 8
+5: falsesymmetry: 8
+6: cubfan135: 7
+7: GoodTimeWithScar: 7
+8: Xisuma: 6
+9: ZombieCleo: 6
+10: joehillssays: 5
+11: Biffa2001: 5
+12: VintageBeef: 4
+13: PythonGB: 3
+14: Tango: 3
+15: iJevin: 2
+16: Etho: 2
+17: Docm77: 1
+18: Jessassin: 1
+19: zueljin: 1
+20: MumboJumbo: 1
+21: Tinfoilchef: 1
+Total 106

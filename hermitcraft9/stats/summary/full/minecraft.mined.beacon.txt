@@ -1,0 +1,26 @@
+minecraft.mined.beacon
+1: iJevin: 55
+2: Tango: 43
+3: impulseSV: 43
+4: cubfan135: 38
+5: Xisuma: 32
+6: falsesymmetry: 31
+7: Zedaph: 31
+8: PearlescentMoon: 28
+9: Renthedog: 27
+10: joehillssays: 27
+11: Docm77: 19
+12: Grian: 17
+13: hypnotizd: 17
+14: Etho: 13
+15: GoodTimeWithScar: 9
+16: Stressmonster101: 9
+17: xBCrafted: 8
+18: Keralis1: 6
+19: BdoubleO100: 5
+20: iskall85: 5
+21: Mumbo: 5
+22: ZombieCleo: 3
+23: RentheKing: 3
+24: VintageBeef: 2
+Total 476

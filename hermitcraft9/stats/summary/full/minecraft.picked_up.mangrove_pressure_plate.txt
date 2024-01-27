@@ -1,0 +1,10 @@
+minecraft.picked_up.mangrove_pressure_plate
+1: Renthedog: 96
+2: GoodTimeWithScar: 66
+3: iJevin: 15
+4: ZombieCleo: 7
+5: cubfan135: 6
+6: Tango: 2
+7: Xisuma: 1
+8: Stressmonster101: 1
+Total 194

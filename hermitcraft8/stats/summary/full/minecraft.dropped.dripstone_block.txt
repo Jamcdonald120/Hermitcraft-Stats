@@ -1,0 +1,15 @@
+minecraft.dropped.dripstone_block
+1: cubfan135: 833
+2: GoodTimeWithScar: 507
+3: Grian: 438
+4: Zedaph: 128
+5: MumboJumbo: 16
+6: Etho: 9
+7: iJevin: 7
+8: falsesymmetry: 7
+9: Xisuma: 6
+10: Renthedog: 2
+11: Tango: 2
+12: iskall85: 2
+13: Docm77: 1
+Total 1958

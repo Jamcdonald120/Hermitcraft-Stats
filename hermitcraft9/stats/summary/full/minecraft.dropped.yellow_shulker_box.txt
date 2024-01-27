@@ -1,0 +1,13 @@
+minecraft.dropped.yellow_shulker_box
+1: impulseSV: 10
+2: iJevin: 3
+3: falsesymmetry: 3
+4: Keralis1: 3
+5: RentheKing: 2
+6: Zedaph: 2
+7: Xisuma: 1
+8: GeminiTay: 1
+9: Tango: 1
+10: cubfan135: 1
+11: hypnotizd: 1
+Total 28

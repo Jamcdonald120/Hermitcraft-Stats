@@ -1,0 +1,21 @@
+stat.pickup.minecraft.paper
+1: Tango: 687
+2: Xisuma: 440
+3: iskall85: 401
+4: falsesymmetry: 332
+5: GoodTimeWithScar: 323
+6: cubfan135: 243
+7: impulseSV: 224
+8: Renthedog: 201
+9: MumboJumbo: 193
+10: iJevin: 122
+11: PythonGB: 100
+12: Tinfoilchef: 42
+13: EvilXisuma: 37
+14: joehillssays: 22
+15: Welsknight: 5
+16: ZombieCleo: 5
+17: Biffa2001: 2
+18: Docm77: 1
+19: VintageBeef: 1
+Total 3381

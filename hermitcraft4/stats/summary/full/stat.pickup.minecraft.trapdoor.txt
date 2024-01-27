@@ -1,0 +1,25 @@
+stat.pickup.minecraft.trapdoor
+1: cubfan135: 829
+2: falsesymmetry: 729
+3: Xisuma: 671
+4: iskall85: 270
+5: Tango: 204
+6: iJevin: 186
+7: PythonGB: 150
+8: GoodTimeWithScar: 143
+9: impulseSV: 135
+10: Welsknight: 93
+11: Renthedog: 91
+12: joehillssays: 50
+13: Etho: 22
+14: Biffa2001: 18
+15: zueljin: 17
+16: ZombieCleo: 17
+17: Mumbo: 14
+18: MumboJumbo: 13
+19: Jessassin: 12
+20: Tinfoilchef: 12
+21: VintageBeef: 11
+22: Docm77: 10
+23: xBCrafted: 5
+Total 3702

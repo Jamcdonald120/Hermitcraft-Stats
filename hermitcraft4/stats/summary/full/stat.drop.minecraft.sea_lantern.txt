@@ -1,0 +1,9 @@
+stat.drop.minecraft.sea_lantern
+1: Xisuma: 202
+2: falsesymmetry: 83
+3: impulseSV: 20
+4: Renthedog: 2
+5: iskall85: 1
+6: xisumavoid: 1
+7: MumboJumbo: 1
+Total 310

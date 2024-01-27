@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.painting
+1: Xisuma: 218
+2: falsesymmetry: 70
+3: cubfan135: 69
+4: Welsknight: 16
+5: Tinfoilchef: 12
+6: PythonGB: 10
+7: VintageBeef: 8
+8: GoodTimeWithScar: 8
+9: Mumbo: 7
+10: Renthedog: 5
+11: ZombieCleo: 5
+12: joehillssays: 2
+13: iskall85: 2
+14: iJevin: 1
+15: impulseSV: 1
+Total 434

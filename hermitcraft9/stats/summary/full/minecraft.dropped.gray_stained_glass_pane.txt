@@ -1,0 +1,7 @@
+minecraft.dropped.gray_stained_glass_pane
+1: falsesymmetry: 62
+2: GoodTimeWithScar: 41
+3: Zedaph: 30
+4: Keralis1: 3
+5: RentheKing: 2
+Total 138

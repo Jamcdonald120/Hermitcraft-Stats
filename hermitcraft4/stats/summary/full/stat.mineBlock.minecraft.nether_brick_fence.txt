@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.nether_brick_fence
+1: impulseSV: 861
+2: Tango: 340
+3: cubfan135: 226
+4: joehillssays: 142
+5: iskall85: 109
+6: Xisuma: 107
+7: Tinfoilchef: 31
+8: Welsknight: 18
+9: GoodTimeWithScar: 18
+10: Renthedog: 14
+11: Biffa2001: 6
+12: VintageBeef: 5
+13: xBCrafted: 2
+14: PythonGB: 1
+15: falsesymmetry: 1
+Total 1881

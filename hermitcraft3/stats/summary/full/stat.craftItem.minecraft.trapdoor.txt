@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.trapdoor
+1: falsesymmetry: 1990
+2: xBCrafted: 1196
+3: impulseSV: 386
+4: Xisuma: 294
+5: Biffa2001: 294
+6: Etho: 124
+7: Tango: 90
+8: ZombieCleo: 80
+9: sl1pg8r: 76
+10: topmass: 68
+11: zueljin: 66
+12: monkeyfarm: 32
+13: KingDaddyDMAC: 22
+14: Docm77: 20
+15: iJevin: 6
+16: Tinfoilchef: 6
+17: PythonGB: 4
+18: joehillssays: 4
+19: Mumbo: 4
+20: hypnotizd: 2
+Total 4764

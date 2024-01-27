@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.emerald_block
+1: Xisuma: 122
+2: Collen: 1
+Total 123

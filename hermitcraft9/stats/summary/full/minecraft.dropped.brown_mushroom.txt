@@ -1,0 +1,21 @@
+minecraft.dropped.brown_mushroom
+1: Tango: 277
+2: Renthedog: 230
+3: Keralis1: 147
+4: iJevin: 92
+5: Docm77: 71
+6: Xisuma: 52
+7: Stressmonster101: 33
+8: RentheKing: 32
+9: hypnotizd: 24
+10: impulseSV: 23
+11: GeminiTay: 15
+12: falsesymmetry: 15
+13: Zedaph: 15
+14: joehillssays: 11
+15: BdoubleO100: 10
+16: GoodTimeWithScar: 10
+17: Grian: 5
+18: Etho: 2
+19: cubfan135: 1
+Total 1065

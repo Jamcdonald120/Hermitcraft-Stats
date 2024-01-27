@@ -1,0 +1,25 @@
+minecraft.used.gold_block
+1: cubfan135: 6500
+2: iskall85: 5903
+3: VintageBeef: 937
+4: Renthedog: 798
+5: hypnotizd: 613
+6: MumboJumbo: 553
+7: Xisuma: 472
+8: GoodTimeWithScar: 227
+9: iJevin: 198
+10: joehillssays: 163
+11: Tango: 163
+12: Etho: 161
+13: impulseSV: 132
+14: Grian: 104
+15: Docm77: 85
+16: ZombieCleo: 50
+17: Keralis1: 45
+18: Zedaph: 35
+19: BdoubleO100: 19
+20: falsesymmetry: 8
+21: Welsknight: 2
+22: Stressmonster101: 2
+23: Tinfoilchef: 1
+Total 17171

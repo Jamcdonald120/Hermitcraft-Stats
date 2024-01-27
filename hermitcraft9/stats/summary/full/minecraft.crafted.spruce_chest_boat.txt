@@ -1,0 +1,5 @@
+minecraft.crafted.spruce_chest_boat
+1: impulseSV: 16
+2: Tango: 5
+3: Zedaph: 1
+Total 22

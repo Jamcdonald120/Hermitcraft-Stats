@@ -1,0 +1,29 @@
+minecraft.picked_up.repeater
+1: Tango: 2571
+2: cubfan135: 806
+3: Grian: 667
+4: Docm77: 626
+5: Xisuma: 607
+6: Zedaph: 416
+7: impulseSV: 395
+8: Etho: 359
+9: iJevin: 347
+10: GoodTimeWithScar: 330
+11: Keralis1: 225
+12: PearlescentMoon: 171
+13: Renthedog: 134
+14: iskall85: 116
+15: BdoubleO100: 104
+16: GeminiTay: 98
+17: Stressmonster101: 94
+18: ZombieCleo: 70
+19: hypnotizd: 60
+20: RentheKing: 42
+21: Mumbo: 34
+22: xBCrafted: 26
+23: VintageBeef: 17
+24: joehillssays: 16
+25: falsesymmetry: 9
+26: MythicalSausage: 5
+27: Pixlriffs: 2
+Total 8347

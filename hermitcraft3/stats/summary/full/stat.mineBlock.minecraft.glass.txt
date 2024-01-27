@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.glass
+1: falsesymmetry: 1488
+2: Xisuma: 1412
+3: impulseSV: 1379
+4: Tango: 905
+5: Tinfoilchef: 620
+6: Mumbo: 443
+7: Spumwackles: 440
+8: monkeyfarm: 418
+9: sl1pg8r: 399
+10: ZombieCleo: 384
+11: xBCrafted: 375
+12: KingDaddyDMAC: 200
+13: joehillssays: 113
+14: hypnotizd: 83
+15: PythonGB: 46
+16: Biffa2001: 32
+17: zueljin: 29
+18: iJevin: 23
+19: topmass: 13
+20: Docm77: 8
+21: Etho: 6
+22: NameOfSamuel: 2
+23: xisumavoid: 1
+Total 8819

@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.acacia_fence_gate
+1: Docm77: 3
+2: Renthedog: 3
+3: VintageBeef: 2
+4: falsesymmetry: 1
+5: impulseSV: 1
+Total 10

@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.iron_hoe
+1: Renthedog: 58
+2: impulseSV: 15
+3: Tango: 14
+4: MumboJumbo: 7
+5: Tinfoilchef: 6
+6: ZombieCleo: 5
+7: Zedaph: 5
+8: GoodTimeWithScar: 4
+9: joehillssays: 3
+10: xBCrafted: 3
+11: Welsknight: 3
+12: PythonGB: 2
+13: Stressmonster101: 2
+14: VintageBeef: 1
+15: iskall85: 1
+16: falsesymmetry: 1
+17: cubfan135: 1
+18: Biffa2001: 1
+Total 132

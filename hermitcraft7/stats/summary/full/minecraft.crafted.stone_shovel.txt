@@ -1,0 +1,19 @@
+minecraft.crafted.stone_shovel
+1: BdoubleO100: 216
+2: impulseSV: 178
+3: Docm77: 133
+4: MumboJumbo: 54
+5: VintageBeef: 30
+6: Xisuma: 23
+7: ZombieCleo: 16
+8: Tinfoilchef: 13
+9: joehillssays: 8
+10: Grian: 5
+11: Zedaph: 5
+12: GoodTimeWithScar: 4
+13: xBCrafted: 3
+14: falsesymmetry: 3
+15: Stressmonster101: 2
+16: Renthedog: 1
+17: Keralis1: 1
+Total 695

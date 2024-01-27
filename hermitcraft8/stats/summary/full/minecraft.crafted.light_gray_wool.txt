@@ -1,0 +1,16 @@
+minecraft.crafted.light_gray_wool
+1: impulseSV: 2107
+2: Renthedog: 810
+3: Docm77: 114
+4: Keralis1: 79
+5: iJevin: 65
+6: Xisuma: 32
+7: falsesymmetry: 21
+8: ZombieCleo: 20
+9: MumboJumbo: 20
+10: Welsknight: 11
+11: GeminiTay: 6
+12: cubfan135: 6
+13: joehillssays: 4
+14: PearlescentMoon: 2
+Total 3297

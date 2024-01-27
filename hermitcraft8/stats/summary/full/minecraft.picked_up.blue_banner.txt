@@ -1,0 +1,3 @@
+minecraft.picked_up.blue_banner
+1: Tango: 8
+Total 8

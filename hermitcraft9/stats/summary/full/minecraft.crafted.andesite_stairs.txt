@@ -1,0 +1,17 @@
+minecraft.crafted.andesite_stairs
+1: Keralis1: 277
+2: Tango: 236
+3: GoodTimeWithScar: 204
+4: falsesymmetry: 128
+5: Docm77: 92
+6: Grian: 82
+7: ZombieCleo: 64
+8: cubfan135: 61
+9: PearlescentMoon: 48
+10: xBCrafted: 31
+11: iJevin: 20
+12: joehillssays: 8
+13: Tinfoilchef: 4
+14: Xisuma: 2
+15: Zedaph: 1
+Total 1258

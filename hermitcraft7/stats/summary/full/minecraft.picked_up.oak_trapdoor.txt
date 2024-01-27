@@ -1,0 +1,24 @@
+minecraft.picked_up.oak_trapdoor
+1: Tango: 316
+2: iskall85: 293
+3: impulseSV: 273
+4: Etho: 251
+5: Keralis1: 231
+6: GoodTimeWithScar: 226
+7: VintageBeef: 186
+8: cubfan135: 184
+9: Renthedog: 154
+10: xBCrafted: 148
+11: Zedaph: 84
+12: BdoubleO100: 83
+13: MumboJumbo: 69
+14: hypnotizd: 63
+15: Xisuma: 51
+16: joehillssays: 50
+17: falsesymmetry: 48
+18: iJevin: 42
+19: Grian: 40
+20: Stressmonster101: 25
+21: Welsknight: 24
+22: Docm77: 13
+Total 2854

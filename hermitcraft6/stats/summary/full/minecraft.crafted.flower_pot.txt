@@ -1,0 +1,20 @@
+minecraft.crafted.flower_pot
+1: PythonGB: 2516
+2: Xisuma: 329
+3: Tango: 329
+4: falsesymmetry: 189
+5: cubfan135: 188
+6: BdoubleO100: 109
+7: iskall85: 55
+8: impulseSV: 55
+9: GoodTimeWithScar: 45
+10: Renthedog: 43
+11: Stressmonster101: 30
+12: Welsknight: 28
+13: Zedaph: 21
+14: iJevin: 18
+15: Keralis1: 8
+16: Docm77: 7
+17: ZombieCleo: 6
+18: joehillssays: 5
+Total 3981

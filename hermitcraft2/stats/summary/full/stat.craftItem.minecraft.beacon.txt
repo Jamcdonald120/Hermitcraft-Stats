@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.beacon
+1: Tango: 4
+2: iJevin: 1
+Total 5

@@ -1,0 +1,23 @@
+stat.pickup.minecraft.dispenser
+1: cubfan135: 123
+2: Xisuma: 92
+3: MumboJumbo: 86
+4: Tango: 57
+5: iskall85: 52
+6: impulseSV: 51
+7: xBCrafted: 36
+8: falsesymmetry: 26
+9: Docm77: 23
+10: Welsknight: 23
+11: GoodTimeWithScar: 23
+12: Zedaph: 23
+13: iJevin: 21
+14: PythonGB: 14
+15: Stressmonster101: 12
+16: Renthedog: 8
+17: BdoubleO100: 6
+18: Tinfoilchef: 6
+19: joehillssays: 5
+20: VintageBeef: 4
+21: Etho: 2
+Total 693

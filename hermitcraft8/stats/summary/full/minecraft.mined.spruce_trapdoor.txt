@@ -1,0 +1,26 @@
+minecraft.mined.spruce_trapdoor
+1: PearlescentMoon: 874
+2: GoodTimeWithScar: 727
+3: Xisuma: 385
+4: Tango: 256
+5: Keralis1: 208
+6: Renthedog: 200
+7: BdoubleO100: 184
+8: Etho: 166
+9: Grian: 160
+10: impulseSV: 131
+11: iskall85: 90
+12: xBCrafted: 85
+13: GeminiTay: 54
+14: Stressmonster101: 45
+15: Docm77: 34
+16: falsesymmetry: 24
+17: ZombieCleo: 13
+18: joehillssays: 11
+19: VintageBeef: 10
+20: cubfan135: 6
+21: Welsknight: 5
+22: hypnotizd: 5
+23: Zedaph: 4
+24: iJevin: 1
+Total 3678

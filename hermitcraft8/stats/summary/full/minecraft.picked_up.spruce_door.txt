@@ -1,0 +1,20 @@
+minecraft.picked_up.spruce_door
+1: PearlescentMoon: 103
+2: joehillssays: 47
+3: Xisuma: 38
+4: BdoubleO100: 34
+5: Tango: 22
+6: iskall85: 22
+7: VintageBeef: 17
+8: GeminiTay: 13
+9: GoodTimeWithScar: 13
+10: Keralis1: 11
+11: impulseSV: 9
+12: Grian: 8
+13: Etho: 7
+14: ZombieCleo: 6
+15: Stressmonster101: 6
+16: Renthedog: 3
+17: Docm77: 2
+18: cubfan135: 2
+Total 363

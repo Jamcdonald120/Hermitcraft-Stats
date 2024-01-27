@@ -1,0 +1,22 @@
+minecraft.mined.dark_oak_leaves
+1: Renthedog: 26285
+2: Etho: 13164
+3: Keralis1: 2824
+4: GoodTimeWithScar: 2058
+5: cubfan135: 1944
+6: Stressmonster101: 1714
+7: BdoubleO100: 1066
+8: Docm77: 693
+9: hypnotizd: 399
+10: Grian: 247
+11: Zedaph: 218
+12: joehillssays: 161
+13: VintageBeef: 149
+14: Tango: 148
+15: Xisuma: 95
+16: ZombieCleo: 91
+17: falsesymmetry: 53
+18: impulseSV: 46
+19: xBCrafted: 43
+20: iskall85: 9
+Total 51407

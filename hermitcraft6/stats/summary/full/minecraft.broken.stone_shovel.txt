@@ -1,0 +1,18 @@
+minecraft.broken.stone_shovel
+1: GoodTimeWithScar: 112
+2: ZombieCleo: 15
+3: MumboJumbo: 14
+4: Biffa2001: 5
+5: joehillssays: 4
+6: Tinfoilchef: 4
+7: PythonGB: 3
+8: BdoubleO100: 3
+9: Grian: 2
+10: iskall85: 2
+11: Docm77: 1
+12: Xisuma: 1
+13: iJevin: 1
+14: xBCrafted: 1
+15: cubfan135: 1
+16: impulseSV: 1
+Total 170

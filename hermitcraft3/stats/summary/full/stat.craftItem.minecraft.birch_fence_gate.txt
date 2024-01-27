@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.birch_fence_gate
+1: ZombieCleo: 10
+2: Xisuma: 4
+3: iJevin: 2
+4: Tango: 2
+5: falsesymmetry: 2
+Total 20

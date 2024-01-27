@@ -1,0 +1,22 @@
+minecraft.mined.stripped_spruce_log
+1: GoodTimeWithScar: 2806
+2: Tango: 967
+3: BdoubleO100: 260
+4: iskall85: 227
+5: PearlescentMoon: 110
+6: Xisuma: 71
+7: GeminiTay: 71
+8: joehillssays: 49
+9: Etho: 49
+10: Grian: 40
+11: MumboJumbo: 29
+12: impulseSV: 26
+13: Keralis1: 19
+14: ZombieCleo: 16
+15: cubfan135: 10
+16: hypnotizd: 7
+17: falsesymmetry: 5
+18: Renthedog: 3
+19: xBCrafted: 2
+20: Welsknight: 1
+Total 4768

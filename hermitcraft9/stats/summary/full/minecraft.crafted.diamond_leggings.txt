@@ -1,0 +1,29 @@
+minecraft.crafted.diamond_leggings
+1: cubfan135: 128
+2: Tango: 32
+3: Grian: 19
+4: iJevin: 17
+5: RentheKing: 11
+6: GoodTimeWithScar: 10
+7: Keralis1: 10
+8: hypnotizd: 8
+9: Etho: 7
+10: iskall85: 5
+11: ZombieCleo: 5
+12: impulseSV: 4
+13: Zedaph: 4
+14: GeminiTay: 3
+15: xBCrafted: 3
+16: falsesymmetry: 3
+17: Docm77: 2
+18: Renthedog: 2
+19: PearlescentMoon: 2
+20: Pixlriffs: 2
+21: Mumbo: 2
+22: Stressmonster101: 2
+23: Xisuma: 1
+24: VintageBeef: 1
+25: joehillssays: 1
+26: Welsknight: 1
+27: MumboJumbo: 1
+Total 286

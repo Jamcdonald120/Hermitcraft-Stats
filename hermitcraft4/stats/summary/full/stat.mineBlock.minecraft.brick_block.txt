@@ -1,0 +1,10 @@
+stat.mineBlock.minecraft.brick_block
+1: Welsknight: 714
+2: GoodTimeWithScar: 108
+3: cubfan135: 74
+4: Tinfoilchef: 40
+5: Xisuma: 22
+6: iJevin: 17
+7: falsesymmetry: 9
+8: impulseSV: 1
+Total 985

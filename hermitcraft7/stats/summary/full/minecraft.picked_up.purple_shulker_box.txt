@@ -1,0 +1,14 @@
+minecraft.picked_up.purple_shulker_box
+1: Etho: 211
+2: Tango: 173
+3: cubfan135: 77
+4: Xisuma: 71
+5: MumboJumbo: 21
+6: Stressmonster101: 16
+7: Renthedog: 11
+8: BdoubleO100: 7
+9: GoodTimeWithScar: 7
+10: iskall85: 2
+11: xisumavoid: 1
+12: Zedaph: 1
+Total 598

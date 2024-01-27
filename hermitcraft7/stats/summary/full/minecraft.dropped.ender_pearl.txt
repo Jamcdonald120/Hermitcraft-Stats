@@ -1,0 +1,26 @@
+minecraft.dropped.ender_pearl
+1: iJevin: 104484
+2: hypnotizd: 46749
+3: xBCrafted: 39011
+4: cubfan135: 31995
+5: Zedaph: 31674
+6: Renthedog: 29504
+7: falsesymmetry: 28306
+8: Keralis1: 25909
+9: Welsknight: 18792
+10: GoodTimeWithScar: 17314
+11: Tango: 16033
+12: VintageBeef: 5371
+13: impulseSV: 5154
+14: MumboJumbo: 2866
+15: iskall85: 1600
+16: Xisuma: 1531
+17: ZombieCleo: 1234
+18: Etho: 1146
+19: joehillssays: 1079
+20: BdoubleO100: 471
+21: Grian: 280
+22: Docm77: 232
+23: BarryBoss1234: 24
+24: Stressmonster101: 16
+Total 410775

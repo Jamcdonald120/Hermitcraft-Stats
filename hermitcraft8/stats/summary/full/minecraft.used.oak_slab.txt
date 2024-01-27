@@ -1,0 +1,25 @@
+minecraft.used.oak_slab
+1: Xisuma: 1415
+2: MumboJumbo: 1202
+3: falsesymmetry: 987
+4: Keralis1: 569
+5: PearlescentMoon: 534
+6: BdoubleO100: 338
+7: Tango: 330
+8: iskall85: 241
+9: impulseSV: 212
+10: ZombieCleo: 145
+11: Grian: 114
+12: Etho: 103
+13: Welsknight: 96
+14: iJevin: 93
+15: xBCrafted: 87
+16: Renthedog: 29
+17: Tinfoilchef: 23
+18: GoodTimeWithScar: 19
+19: Stressmonster101: 15
+20: GeminiTay: 11
+21: Zedaph: 10
+22: hypnotizd: 5
+23: Docm77: 2
+Total 6580

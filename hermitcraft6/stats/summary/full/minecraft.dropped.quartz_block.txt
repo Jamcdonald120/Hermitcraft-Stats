@@ -1,0 +1,16 @@
+minecraft.dropped.quartz_block
+1: GoodTimeWithScar: 16967
+2: Keralis1: 398
+3: cubfan135: 392
+4: Renthedog: 287
+5: iskall85: 204
+6: falsesymmetry: 192
+7: Grian: 181
+8: Docm77: 160
+9: iJevin: 29
+10: MumboJumbo: 27
+11: BdoubleO100: 25
+12: PythonGB: 6
+13: impulseSV: 6
+14: Stressmonster101: 1
+Total 18875

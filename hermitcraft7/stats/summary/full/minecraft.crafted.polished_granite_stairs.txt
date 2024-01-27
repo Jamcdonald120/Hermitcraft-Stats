@@ -1,0 +1,10 @@
+minecraft.crafted.polished_granite_stairs
+1: GoodTimeWithScar: 226
+2: Xisuma: 83
+3: cubfan135: 72
+4: Keralis1: 60
+5: xBCrafted: 58
+6: falsesymmetry: 24
+7: impulseSV: 4
+8: VintageBeef: 1
+Total 528

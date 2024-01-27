@@ -1,0 +1,21 @@
+minecraft.dropped.enchanted_book
+1: GoodTimeWithScar: 343
+2: iskall85: 102
+3: Xisuma: 39
+4: iJevin: 37
+5: Tango: 28
+6: Docm77: 16
+7: Grian: 13
+8: cubfan135: 13
+9: Zedaph: 12
+10: impulseSV: 10
+11: Renthedog: 7
+12: joehillssays: 7
+13: Stressmonster101: 7
+14: MumboJumbo: 5
+15: falsesymmetry: 4
+16: Tinfoilchef: 3
+17: BdoubleO100: 1
+18: Biffa2001: 1
+19: Keralis1: 1
+Total 649

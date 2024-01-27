@@ -1,0 +1,25 @@
+minecraft.crafted.oak_boat
+1: Docm77: 113
+2: Etho: 61
+3: Zedaph: 42
+4: joehillssays: 22
+5: impulseSV: 17
+6: iJevin: 14
+7: Grian: 11
+8: falsesymmetry: 10
+9: Xisuma: 9
+10: VintageBeef: 8
+11: Tango: 6
+12: cubfan135: 6
+13: Renthedog: 5
+14: ZombieCleo: 4
+15: iskall85: 3
+16: xBCrafted: 3
+17: Keralis1: 3
+18: GeminiTay: 2
+19: Mumbo: 2
+20: MythicalSausage: 1
+21: BdoubleO100: 1
+22: PearlescentMoon: 1
+23: Stressmonster101: 1
+Total 345

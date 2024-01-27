@@ -1,0 +1,24 @@
+minecraft.mined.cobblestone_stairs
+1: GoodTimeWithScar: 629
+2: Renthedog: 364
+3: BdoubleO100: 266
+4: falsesymmetry: 243
+5: Grian: 239
+6: cubfan135: 236
+7: iskall85: 200
+8: Stressmonster101: 136
+9: Xisuma: 127
+10: Welsknight: 98
+11: Docm77: 89
+12: iJevin: 88
+13: Keralis1: 87
+14: impulseSV: 78
+15: joehillssays: 77
+16: MumboJumbo: 59
+17: Biffa2001: 40
+18: Tango: 25
+19: ZombieCleo: 11
+20: Tinfoilchef: 2
+21: Jessassin: 1
+22: Zedaph: 1
+Total 3096

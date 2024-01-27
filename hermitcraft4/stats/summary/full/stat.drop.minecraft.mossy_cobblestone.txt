@@ -1,0 +1,7 @@
+stat.drop.minecraft.mossy_cobblestone
+1: VintageBeef: 46
+2: Tango: 5
+3: Xisuma: 3
+4: Renthedog: 2
+5: impulseSV: 1
+Total 57

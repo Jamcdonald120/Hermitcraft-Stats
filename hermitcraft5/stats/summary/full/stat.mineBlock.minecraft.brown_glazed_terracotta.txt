@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.brown_glazed_terracotta
+1: Xisuma: 40
+2: cubfan135: 33
+3: joehillssays: 9
+Total 82

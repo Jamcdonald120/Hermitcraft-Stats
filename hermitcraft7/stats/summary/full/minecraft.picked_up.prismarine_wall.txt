@@ -1,0 +1,9 @@
+minecraft.picked_up.prismarine_wall
+1: iJevin: 190
+2: cubfan135: 99
+3: GoodTimeWithScar: 26
+4: Xisuma: 5
+5: BdoubleO100: 2
+6: Etho: 2
+7: Keralis1: 1
+Total 325

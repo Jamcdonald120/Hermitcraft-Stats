@@ -1,0 +1,28 @@
+minecraft.picked_up.carved_pumpkin
+1: Tango: 964
+2: joehillssays: 730
+3: cubfan135: 449
+4: PearlescentMoon: 440
+5: GoodTimeWithScar: 312
+6: iJevin: 280
+7: Welsknight: 261
+8: impulseSV: 192
+9: ZombieCleo: 155
+10: Docm77: 120
+11: Grian: 83
+12: Zedaph: 68
+13: MumboJumbo: 28
+14: GeminiTay: 26
+15: Xisuma: 25
+16: Keralis1: 21
+17: Stressmonster101: 20
+18: BdoubleO100: 11
+19: iskall85: 9
+20: Etho: 8
+21: pillbugnine: 6
+22: falsesymmetry: 4
+23: xBCrafted: 2
+24: Tinfoilchef: 2
+25: Renthedog: 1
+26: VintageBeef: 1
+Total 4218

@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.jungle_stairs
+1: Welsknight: 121
+2: PythonGB: 61
+3: Xisuma: 35
+4: Renthedog: 30
+5: cubfan135: 23
+6: iskall85: 20
+7: joehillssays: 19
+8: GoodTimeWithScar: 16
+9: Tango: 8
+Total 333

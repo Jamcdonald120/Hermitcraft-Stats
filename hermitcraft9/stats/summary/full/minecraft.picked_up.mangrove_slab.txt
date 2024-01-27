@@ -1,0 +1,24 @@
+minecraft.picked_up.mangrove_slab
+1: Grian: 389
+2: GoodTimeWithScar: 331
+3: joehillssays: 258
+4: PearlescentMoon: 200
+5: Renthedog: 134
+6: ShubbleYT: 93
+7: OrionSound: 91
+8: iJevin: 66
+9: cubfan135: 55
+10: Xisuma: 52
+11: Keralis1: 36
+12: RentheKing: 21
+13: BdoubleO100: 19
+14: MythicalSausage: 17
+15: Pixlriffs: 11
+16: impulseSV: 11
+17: ZombieCleo: 9
+18: Smallishbeans: 7
+19: falsesymmetry: 6
+20: Docm77: 3
+21: Tango: 2
+22: Stressmonster101: 1
+Total 1812

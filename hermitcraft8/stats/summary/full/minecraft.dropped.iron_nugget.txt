@@ -1,0 +1,24 @@
+minecraft.dropped.iron_nugget
+1: EvilXisuma: 870
+2: Xisuma: 809
+3: GoodTimeWithScar: 410
+4: Tango: 283
+5: Docm77: 176
+6: Grian: 138
+7: iJevin: 135
+8: PearlescentMoon: 64
+9: xBCrafted: 30
+10: ZombieCleo: 25
+11: Keralis1: 24
+12: VintageBeef: 23
+13: iskall85: 23
+14: cubfan135: 23
+15: hypnotizd: 22
+16: Etho: 18
+17: pillbugnine: 12
+18: impulseSV: 11
+19: Renthedog: 8
+20: MumboJumbo: 7
+21: Stressmonster101: 7
+22: BdoubleO100: 4
+Total 3122

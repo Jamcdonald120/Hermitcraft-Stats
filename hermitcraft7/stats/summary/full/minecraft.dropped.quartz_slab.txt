@@ -1,0 +1,14 @@
+minecraft.dropped.quartz_slab
+1: Zedaph: 2632
+2: impulseSV: 158
+3: cubfan135: 68
+4: Xisuma: 42
+5: Keralis1: 15
+6: GoodTimeWithScar: 14
+7: iskall85: 11
+8: Grian: 7
+9: MumboJumbo: 7
+10: Etho: 5
+11: Tango: 4
+12: hypnotizd: 1
+Total 2964

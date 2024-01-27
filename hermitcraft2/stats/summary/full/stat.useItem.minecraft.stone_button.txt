@@ -1,0 +1,10 @@
+stat.useItem.minecraft.stone_button
+1: Tango: 50
+2: falsesymmetry: 22
+3: Mumbo: 13
+4: xBCrafted: 8
+5: Xisuma: 7
+6: zueljin: 7
+7: iJevin: 5
+8: ZombieCleo: 2
+Total 114

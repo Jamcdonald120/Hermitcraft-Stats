@@ -1,0 +1,25 @@
+minecraft.custom.interact_with_blast_furnace
+1: cubfan135: 503
+2: GoodTimeWithScar: 382
+3: VintageBeef: 237
+4: Zedaph: 176
+5: Renthedog: 145
+6: hypnotizd: 120
+7: xBCrafted: 108
+8: Etho: 85
+9: BdoubleO100: 75
+10: Docm77: 40
+11: Keralis1: 37
+12: Xisuma: 36
+13: impulseSV: 28
+14: Tango: 23
+15: Grian: 20
+16: MumboJumbo: 18
+17: joehillssays: 8
+18: Tinfoilchef: 8
+19: falsesymmetry: 5
+20: ZombieCleo: 5
+21: iskall85: 3
+22: Welsknight: 1
+23: Stressmonster101: 1
+Total 2064

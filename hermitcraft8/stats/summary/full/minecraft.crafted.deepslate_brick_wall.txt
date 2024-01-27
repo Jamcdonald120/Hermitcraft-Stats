@@ -1,0 +1,15 @@
+minecraft.crafted.deepslate_brick_wall
+1: iJevin: 128
+2: GoodTimeWithScar: 86
+3: cubfan135: 78
+4: Docm77: 64
+5: Stressmonster101: 54
+6: PearlescentMoon: 30
+7: VintageBeef: 15
+8: joehillssays: 12
+9: BdoubleO100: 12
+10: Welsknight: 10
+11: ZombieCleo: 9
+12: Tango: 6
+13: Renthedog: 1
+Total 505

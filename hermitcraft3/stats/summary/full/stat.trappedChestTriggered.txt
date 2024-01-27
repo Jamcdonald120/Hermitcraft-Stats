@@ -1,0 +1,25 @@
+stat.trappedChestTriggered
+1: falsesymmetry: 9787
+2: Xisuma: 7611
+3: Tango: 6143
+4: Mumbo: 5495
+5: iJevin: 3514
+6: impulseSV: 3422
+7: xBCrafted: 3229
+8: zueljin: 2203
+9: Biffa2001: 639
+10: Tinfoilchef: 493
+11: PythonGB: 249
+12: Etho: 167
+13: sl1pg8r: 161
+14: topmass: 151
+15: monkeyfarm: 114
+16: ZombieCleo: 100
+17: Docm77: 55
+18: hypnotizd: 47
+19: joehillssays: 23
+20: KingDaddyDMAC: 5
+21: truesymmetry: 4
+22: NameOfSamuel: 4
+23: xisumavoid: 3
+Total 43619

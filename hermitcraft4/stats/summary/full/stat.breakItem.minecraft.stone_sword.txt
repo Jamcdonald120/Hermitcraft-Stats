@@ -1,0 +1,10 @@
+stat.breakItem.minecraft.stone_sword
+1: GoodTimeWithScar: 13
+2: Renthedog: 5
+3: MumboJumbo: 5
+4: Biffa2001: 2
+5: Mumbo: 2
+6: PythonGB: 1
+7: Jessassin: 1
+8: falsesymmetry: 1
+Total 30

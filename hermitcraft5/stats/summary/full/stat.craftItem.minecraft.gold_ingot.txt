@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.gold_ingot
+1: impulseSV: 23117
+2: Renthedog: 10113
+3: Tango: 6299
+4: cubfan135: 4148
+5: iskall85: 1839
+6: Xisuma: 1208
+7: MumboJumbo: 1178
+8: Welsknight: 929
+9: Tinfoilchef: 788
+10: GoodTimeWithScar: 742
+11: falsesymmetry: 692
+12: Zedaph: 646
+13: PythonGB: 601
+14: Etho: 443
+15: VintageBeef: 425
+16: ZombieCleo: 280
+17: Biffa2001: 239
+18: Stressmonster101: 234
+19: iJevin: 212
+20: xBCrafted: 156
+21: BdoubleO100: 154
+22: joehillssays: 98
+23: Docm77: 93
+Total 54634

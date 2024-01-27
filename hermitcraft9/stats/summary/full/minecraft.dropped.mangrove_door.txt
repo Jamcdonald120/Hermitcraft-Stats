@@ -1,0 +1,8 @@
+minecraft.dropped.mangrove_door
+1: Keralis1: 2
+2: Grian: 1
+3: falsesymmetry: 1
+4: GoodTimeWithScar: 1
+5: Stressmonster101: 1
+6: Zedaph: 1
+Total 7

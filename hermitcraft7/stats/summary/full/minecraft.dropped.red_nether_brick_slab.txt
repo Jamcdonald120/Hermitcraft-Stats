@@ -1,0 +1,9 @@
+minecraft.dropped.red_nether_brick_slab
+1: Zedaph: 1573
+2: Tango: 120
+3: Grian: 13
+4: GoodTimeWithScar: 9
+5: impulseSV: 9
+6: cubfan135: 6
+7: Etho: 1
+Total 1731

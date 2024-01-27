@@ -1,0 +1,7 @@
+minecraft.dropped.armor_stand
+1: joehillssays: 71
+2: PearlescentMoon: 16
+3: ZombieCleo: 16
+4: GoodTimeWithScar: 11
+5: GeminiTay: 9
+Total 123

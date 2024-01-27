@@ -1,0 +1,16 @@
+minecraft.crafted.blue_stained_glass
+1: cubfan135: 5520
+2: GoodTimeWithScar: 5264
+3: joehillssays: 2288
+4: Stressmonster101: 1416
+5: Xisuma: 1072
+6: Etho: 832
+7: xBCrafted: 472
+8: impulseSV: 328
+9: falsesymmetry: 128
+10: Tango: 64
+11: VintageBeef: 24
+12: Keralis1: 24
+13: BdoubleO100: 8
+14: MumboJumbo: 8
+Total 17448

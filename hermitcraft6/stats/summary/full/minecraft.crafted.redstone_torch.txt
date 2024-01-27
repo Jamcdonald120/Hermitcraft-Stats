@@ -1,0 +1,24 @@
+minecraft.crafted.redstone_torch
+1: GoodTimeWithScar: 40094
+2: iskall85: 5679
+3: Grian: 5531
+4: MumboJumbo: 3992
+5: Xisuma: 3469
+6: impulseSV: 2871
+7: Docm77: 2834
+8: cubfan135: 2688
+9: Tango: 1852
+10: joehillssays: 1211
+11: Renthedog: 1197
+12: falsesymmetry: 749
+13: Zedaph: 717
+14: Stressmonster101: 707
+15: iJevin: 641
+16: Tinfoilchef: 623
+17: Welsknight: 409
+18: BdoubleO100: 218
+19: ZombieCleo: 184
+20: PythonGB: 67
+21: Keralis1: 26
+22: Biffa2001: 6
+Total 75765

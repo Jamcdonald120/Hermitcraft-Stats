@@ -1,0 +1,17 @@
+stat.useItem.minecraft.quartz_ore
+1: sl1pg8r: 8022
+2: falsesymmetry: 5163
+3: impulseSV: 4440
+4: Xisuma: 2976
+5: PythonGB: 2411
+6: Tango: 2068
+7: Mumbo: 1759
+8: xBCrafted: 986
+9: Biffa2001: 893
+10: ZombieCleo: 732
+11: zueljin: 596
+12: topmass: 293
+13: KingDaddyDMAC: 163
+14: Tinfoilchef: 121
+15: monkeyfarm: 1
+Total 30624

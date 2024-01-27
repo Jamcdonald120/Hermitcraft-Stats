@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.golden_apple
+1: Xisuma: 91
+2: falsesymmetry: 52
+3: impulseSV: 40
+4: Tango: 22
+5: sl1pg8r: 17
+6: Biffa2001: 16
+7: topmass: 10
+8: xBCrafted: 8
+9: monkeyfarm: 8
+10: iJevin: 6
+11: ZombieCleo: 6
+12: Spumwackles: 5
+13: PythonGB: 4
+14: zueljin: 3
+15: KingDaddyDMAC: 2
+16: hypnotizd: 1
+Total 291

@@ -1,0 +1,23 @@
+minecraft.picked_up.black_stained_glass
+1: GoodTimeWithScar: 1740
+2: joehillssays: 1205
+3: falsesymmetry: 1112
+4: Zedaph: 1061
+5: xBCrafted: 934
+6: Xisuma: 510
+7: Keralis1: 454
+8: Etho: 314
+9: cubfan135: 271
+10: iskall85: 229
+11: Tango: 228
+12: Stressmonster101: 139
+13: hypnotizd: 125
+14: BdoubleO100: 77
+15: Renthedog: 70
+16: impulseSV: 36
+17: Grian: 35
+18: VintageBeef: 22
+19: MumboJumbo: 5
+20: Docm77: 3
+21: iJevin: 1
+Total 8571

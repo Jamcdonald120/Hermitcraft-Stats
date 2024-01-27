@@ -1,0 +1,16 @@
+minecraft.crafted.brush
+1: ZombieCleo: 21
+2: cubfan135: 17
+3: Zedaph: 15
+4: PearlescentMoon: 8
+5: iJevin: 6
+6: Mumbo: 5
+7: xBCrafted: 4
+8: GoodTimeWithScar: 3
+9: GeminiTay: 2
+10: falsesymmetry: 2
+11: Docm77: 1
+12: Xisuma: 1
+13: Grian: 1
+14: Etho: 1
+Total 87

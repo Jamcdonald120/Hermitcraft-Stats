@@ -1,0 +1,22 @@
+minecraft.killed.zombified_piglin
+1: Tango: 1481297
+2: Xisuma: 733859
+3: impulseSV: 39989
+4: cubfan135: 15299
+5: Docm77: 1844
+6: Renthedog: 1168
+7: iJevin: 297
+8: iskall85: 134
+9: Grian: 92
+10: hypnotizd: 33
+11: joehillssays: 14
+12: Zedaph: 10
+13: Etho: 7
+14: ZombieCleo: 6
+15: Keralis1: 3
+16: falsesymmetry: 2
+17: MythicalSausage: 1
+18: BdoubleO100: 1
+19: PearlescentMoon: 1
+20: xBCrafted: 1
+Total 2274058

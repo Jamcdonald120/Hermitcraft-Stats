@@ -1,0 +1,25 @@
+minecraft.crafted.stone_pickaxe
+1: Docm77: 324
+2: impulseSV: 111
+3: BdoubleO100: 105
+4: joehillssays: 100
+5: VintageBeef: 34
+6: iskall85: 26
+7: MumboJumbo: 22
+8: iJevin: 18
+9: GoodTimeWithScar: 18
+10: Tinfoilchef: 16
+11: hypnotizd: 15
+12: Grian: 12
+13: ZombieCleo: 11
+14: falsesymmetry: 5
+15: cubfan135: 4
+16: Zedaph: 3
+17: Xisuma: 2
+18: Tango: 2
+19: xBCrafted: 2
+20: Stressmonster101: 2
+21: Renthedog: 1
+22: Etho: 1
+23: Keralis1: 1
+Total 835

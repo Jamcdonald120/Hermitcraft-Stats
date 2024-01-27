@@ -1,0 +1,5 @@
+minecraft.dropped.blue_banner
+1: Tango: 3
+2: Etho: 2
+3: Keralis1: 1
+Total 6

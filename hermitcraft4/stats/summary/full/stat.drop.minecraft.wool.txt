@@ -1,0 +1,17 @@
+stat.drop.minecraft.wool
+1: falsesymmetry: 225
+2: cubfan135: 200
+3: iskall85: 148
+4: Tango: 139
+5: GoodTimeWithScar: 138
+6: Xisuma: 86
+7: Renthedog: 38
+8: PythonGB: 26
+9: xisumavoid: 18
+10: joehillssays: 17
+11: Docm77: 12
+12: MumboJumbo: 3
+13: VintageBeef: 2
+14: iJevin: 2
+15: impulseSV: 1
+Total 1055

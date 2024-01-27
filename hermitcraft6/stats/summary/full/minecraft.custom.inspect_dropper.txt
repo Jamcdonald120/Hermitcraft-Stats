@@ -1,0 +1,27 @@
+minecraft.custom.inspect_dropper
+1: iskall85: 4979
+2: cubfan135: 3645
+3: Xisuma: 1624
+4: impulseSV: 1618
+5: Renthedog: 904
+6: Tango: 840
+7: Docm77: 828
+8: MumboJumbo: 817
+9: Grian: 749
+10: ZombieCleo: 587
+11: iJevin: 386
+12: Zedaph: 363
+13: Stressmonster101: 347
+14: GoodTimeWithScar: 237
+15: falsesymmetry: 145
+16: Tinfoilchef: 129
+17: Welsknight: 103
+18: Keralis1: 97
+19: joehillssays: 82
+20: PythonGB: 57
+21: BdoubleO100: 22
+22: Duke_da_dog: 5
+23: HumanCleo: 3
+24: Biffa2001: 2
+25: Cub_Cam: 1
+Total 18570

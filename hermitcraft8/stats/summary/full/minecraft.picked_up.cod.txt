@@ -1,0 +1,28 @@
+minecraft.picked_up.cod
+1: iskall85: 13806
+2: Grian: 263
+3: PearlescentMoon: 262
+4: cubfan135: 256
+5: ZombieCleo: 226
+6: Etho: 207
+7: hypnotizd: 201
+8: Renthedog: 145
+9: Docm77: 113
+10: xBCrafted: 86
+11: Zedaph: 86
+12: iJevin: 81
+13: BdoubleO100: 69
+14: EvilXisuma: 64
+15: impulseSV: 51
+16: joehillssays: 44
+17: Xisuma: 30
+18: GoodTimeWithScar: 29
+19: GeminiTay: 20
+20: Welsknight: 19
+21: Tango: 6
+22: MumboJumbo: 4
+23: Tinfoilchef: 4
+24: Stressmonster101: 4
+25: VintageBeef: 3
+26: falsesymmetry: 3
+Total 16082

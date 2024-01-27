@@ -1,0 +1,23 @@
+minecraft.crafted.quartz_slab
+1: Keralis1: 12156
+2: impulseSV: 7513
+3: cubfan135: 2502
+4: falsesymmetry: 1264
+5: Tango: 834
+6: Etho: 780
+7: Xisuma: 564
+8: Grian: 488
+9: Docm77: 204
+10: BdoubleO100: 192
+11: joehillssays: 174
+12: Zedaph: 170
+13: MumboJumbo: 160
+14: ZombieCleo: 134
+15: GoodTimeWithScar: 132
+16: Renthedog: 114
+17: Stressmonster101: 96
+18: xBCrafted: 84
+19: VintageBeef: 72
+20: iskall85: 36
+21: iJevin: 6
+Total 27675

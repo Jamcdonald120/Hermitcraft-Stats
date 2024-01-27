@@ -1,0 +1,13 @@
+minecraft.crafted.warped_fence_gate
+1: Docm77: 85
+2: Keralis1: 83
+3: BdoubleO100: 51
+4: PearlescentMoon: 43
+5: Xisuma: 19
+6: ZombieCleo: 16
+7: GoodTimeWithScar: 12
+8: cubfan135: 6
+9: Tango: 1
+10: impulseSV: 1
+11: Zedaph: 1
+Total 318

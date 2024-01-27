@@ -1,0 +1,23 @@
+minecraft.picked_up.chorus_fruit
+1: impulseSV: 7748
+2: Tango: 4553
+3: cubfan135: 2768
+4: Grian: 2631
+5: GoodTimeWithScar: 1265
+6: Zedaph: 1212
+7: joehillssays: 1031
+8: Etho: 967
+9: ZombieCleo: 872
+10: xBCrafted: 866
+11: Docm77: 635
+12: falsesymmetry: 626
+13: iJevin: 625
+14: Xisuma: 389
+15: Keralis1: 164
+16: VintageBeef: 163
+17: MumboJumbo: 131
+18: Renthedog: 117
+19: BdoubleO100: 91
+20: iskall85: 74
+21: Stressmonster101: 4
+Total 26932

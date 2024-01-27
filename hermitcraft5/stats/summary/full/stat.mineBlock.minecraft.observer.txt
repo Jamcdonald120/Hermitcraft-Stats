@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.observer
+1: cubfan135: 1084
+2: impulseSV: 754
+3: Xisuma: 258
+4: Tango: 231
+5: MumboJumbo: 158
+6: Docm77: 124
+7: iskall85: 111
+8: Zedaph: 109
+9: GoodTimeWithScar: 95
+10: falsesymmetry: 79
+11: xBCrafted: 43
+12: Etho: 35
+13: Renthedog: 25
+14: Welsknight: 14
+15: PythonGB: 4
+16: joehillssays: 4
+17: Stressmonster101: 3
+18: iJevin: 1
+Total 3132

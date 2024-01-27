@@ -1,0 +1,11 @@
+minecraft.dropped.smooth_sandstone_stairs
+1: cubfan135: 366
+2: Zedaph: 272
+3: Xisuma: 28
+4: VintageBeef: 24
+5: Etho: 20
+6: Welsknight: 12
+7: GoodTimeWithScar: 12
+8: Grian: 8
+9: Tango: 3
+Total 745

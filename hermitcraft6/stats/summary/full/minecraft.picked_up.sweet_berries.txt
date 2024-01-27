@@ -1,0 +1,19 @@
+minecraft.picked_up.sweet_berries
+1: GoodTimeWithScar: 16074
+2: cubfan135: 5581
+3: Xisuma: 3692
+4: Grian: 934
+5: Docm77: 425
+6: BdoubleO100: 318
+7: iskall85: 264
+8: Renthedog: 241
+9: joehillssays: 212
+10: Stressmonster101: 199
+11: falsesymmetry: 99
+12: Grianch: 67
+13: ZombieCleo: 67
+14: Keralis1: 26
+15: impulseSV: 25
+16: Welsknight: 8
+17: Tango: 3
+Total 28235

@@ -1,0 +1,3 @@
+minecraft.killed_by.polar_bear
+1: Zedaph: 1
+Total 1

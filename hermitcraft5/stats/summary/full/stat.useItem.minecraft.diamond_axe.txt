@@ -1,0 +1,25 @@
+stat.useItem.minecraft.diamond_axe
+1: Renthedog: 95628
+2: cubfan135: 95232
+3: GoodTimeWithScar: 77170
+4: Welsknight: 61755
+5: falsesymmetry: 58634
+6: Xisuma: 48985
+7: MumboJumbo: 40691
+8: xBCrafted: 39152
+9: Stressmonster101: 34739
+10: iskall85: 30710
+11: Tango: 26517
+12: impulseSV: 15014
+13: Tinfoilchef: 14610
+14: BdoubleO100: 14232
+15: Zedaph: 13421
+16: joehillssays: 13200
+17: iJevin: 11679
+18: PythonGB: 11541
+19: VintageBeef: 6656
+20: ZombieCleo: 6027
+21: Docm77: 4711
+22: Etho: 2617
+23: Biffa2001: 1911
+Total 724832

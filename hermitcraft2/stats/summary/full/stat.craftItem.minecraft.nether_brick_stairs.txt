@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.nether_brick_stairs
+1: Spumwackles: 8
+Total 8

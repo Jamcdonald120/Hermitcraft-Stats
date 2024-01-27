@@ -1,0 +1,35 @@
+minecraft.picked_up.sweet_berries
+1: PearlescentMoon: 4255
+2: Etho: 3841
+3: cubfan135: 3155
+4: GoodTimeWithScar: 2755
+5: Docm77: 2657
+6: hypnotizd: 2101
+7: Keralis1: 2000
+8: GeminiTay: 1968
+9: iJevin: 1871
+10: Tango: 1511
+11: joehillssays: 962
+12: Grian: 902
+13: Zedaph: 766
+14: BdoubleO100: 749
+15: falsesymmetry: 716
+16: impulseSV: 529
+17: Xisuma: 519
+18: Renthedog: 365
+19: iskall85: 287
+20: xBCrafted: 269
+21: ZombieCleo: 262
+22: VintageBeef: 56
+23: InTheLittleWood: 38
+24: HBomb94: 35
+25: SolidarityGaming: 35
+26: Smallishbeans: 31
+27: MythicalSausage: 27
+28: Stressmonster101: 23
+29: Skizzleman: 20
+30: OrionSound: 13
+31: LDShadowLady: 7
+32: Minerva246: 6
+33: Pixlriffs: 6
+Total 32737

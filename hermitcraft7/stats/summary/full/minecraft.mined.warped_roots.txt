@@ -1,0 +1,24 @@
+minecraft.mined.warped_roots
+1: falsesymmetry: 3449
+2: joehillssays: 1344
+3: Etho: 1110
+4: Xisuma: 718
+5: xBCrafted: 469
+6: ZombieCleo: 467
+7: hypnotizd: 356
+8: Renthedog: 292
+9: BdoubleO100: 273
+10: cubfan135: 169
+11: iskall85: 129
+12: Grian: 77
+13: GoodTimeWithScar: 60
+14: Keralis1: 43
+15: Tango: 40
+16: VintageBeef: 28
+17: impulseSV: 24
+18: Welsknight: 16
+19: iJevin: 15
+20: Tinfoilchef: 3
+21: Stressmonster101: 3
+22: Zedaph: 2
+Total 9087

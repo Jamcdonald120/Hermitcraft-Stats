@@ -1,0 +1,23 @@
+minecraft.crafted.spruce_fence
+1: GoodTimeWithScar: 3603
+2: PearlescentMoon: 1158
+3: BdoubleO100: 933
+4: GeminiTay: 834
+5: Renthedog: 582
+6: Etho: 541
+7: Tango: 408
+8: Grian: 345
+9: xBCrafted: 345
+10: Keralis1: 330
+11: cubfan135: 234
+12: ZombieCleo: 201
+13: Xisuma: 195
+14: Welsknight: 144
+15: hypnotizd: 87
+16: Stressmonster101: 81
+17: impulseSV: 78
+18: VintageBeef: 72
+19: iskall85: 66
+20: joehillssays: 57
+21: Docm77: 3
+Total 10297

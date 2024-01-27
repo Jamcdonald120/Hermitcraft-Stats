@@ -1,0 +1,17 @@
+minecraft.crafted.jungle_boat
+1: Tango: 85
+2: Xisuma: 23
+3: MumboJumbo: 18
+4: iJevin: 13
+5: cubfan135: 10
+6: iskall85: 8
+7: Etho: 8
+8: Renthedog: 7
+9: Docm77: 4
+10: Grian: 4
+11: GoodTimeWithScar: 4
+12: impulseSV: 3
+13: hypnotizd: 2
+14: joehillssays: 1
+15: BdoubleO100: 1
+Total 191

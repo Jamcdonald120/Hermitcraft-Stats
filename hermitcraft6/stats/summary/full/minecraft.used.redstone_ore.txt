@@ -1,0 +1,21 @@
+minecraft.used.redstone_ore
+1: GoodTimeWithScar: 10099
+2: cubfan135: 5963
+3: impulseSV: 978
+4: Tango: 890
+5: Biffa2001: 719
+6: falsesymmetry: 664
+7: Stressmonster101: 655
+8: Zedaph: 572
+9: MumboJumbo: 571
+10: Docm77: 486
+11: iJevin: 386
+12: ZombieCleo: 343
+13: PythonGB: 249
+14: iskall85: 200
+15: Renthedog: 104
+16: joehillssays: 98
+17: Grian: 20
+18: Xisuma: 16
+19: Welsknight: 6
+Total 23019

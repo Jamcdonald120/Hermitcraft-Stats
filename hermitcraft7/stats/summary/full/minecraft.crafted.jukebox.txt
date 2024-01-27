@@ -1,0 +1,18 @@
+minecraft.crafted.jukebox
+1: VintageBeef: 20
+2: GoodTimeWithScar: 19
+3: Keralis1: 11
+4: Grian: 9
+5: Xisuma: 8
+6: Etho: 3
+7: Docm77: 2
+8: BdoubleO100: 2
+9: iskall85: 2
+10: cubfan135: 2
+11: hypnotizd: 2
+12: Renthedog: 1
+13: joehillssays: 1
+14: xBCrafted: 1
+15: ZombieCleo: 1
+16: impulseSV: 1
+Total 85

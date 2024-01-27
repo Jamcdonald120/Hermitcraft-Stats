@@ -1,0 +1,17 @@
+minecraft.crafted.crimson_sign
+1: Tango: 228
+2: Xisuma: 108
+3: cubfan135: 30
+4: falsesymmetry: 24
+5: joehillssays: 15
+6: Etho: 12
+7: MumboJumbo: 12
+8: GoodTimeWithScar: 6
+9: Keralis1: 6
+10: iJevin: 3
+11: iskall85: 3
+12: ZombieCleo: 3
+13: Stressmonster101: 3
+14: impulseSV: 3
+15: Zedaph: 3
+Total 459

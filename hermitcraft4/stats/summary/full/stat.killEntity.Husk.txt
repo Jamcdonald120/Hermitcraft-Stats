@@ -1,0 +1,16 @@
+stat.killEntity.Husk
+1: Tango: 83
+2: cubfan135: 41
+3: VintageBeef: 14
+4: GoodTimeWithScar: 11
+5: falsesymmetry: 10
+6: joehillssays: 9
+7: MumboJumbo: 9
+8: Tinfoilchef: 8
+9: Renthedog: 6
+10: impulseSV: 6
+11: PythonGB: 3
+12: Welsknight: 3
+13: Xisuma: 2
+14: iskall85: 1
+Total 206

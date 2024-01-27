@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.banner
+1: ZombieCleo: 238
+2: falsesymmetry: 87
+3: sl1pg8r: 83
+4: Xisuma: 39
+5: Tango: 32
+6: zueljin: 27
+7: Spumwackles: 1
+Total 507

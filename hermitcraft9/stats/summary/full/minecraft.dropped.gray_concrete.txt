@@ -1,0 +1,13 @@
+minecraft.dropped.gray_concrete
+1: iJevin: 233
+2: Keralis1: 141
+3: cubfan135: 68
+4: iskall85: 51
+5: Renthedog: 49
+6: falsesymmetry: 33
+7: impulseSV: 26
+8: Etho: 4
+9: GoodTimeWithScar: 3
+10: ZombieCleo: 2
+11: Grian: 1
+Total 611

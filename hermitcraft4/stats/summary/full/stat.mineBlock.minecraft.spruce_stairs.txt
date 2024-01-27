@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.spruce_stairs
+1: GoodTimeWithScar: 2150
+2: iskall85: 885
+3: Welsknight: 668
+4: Renthedog: 663
+5: Xisuma: 619
+6: cubfan135: 387
+7: joehillssays: 272
+8: Tango: 229
+9: Docm77: 199
+10: Etho: 197
+11: falsesymmetry: 158
+12: VintageBeef: 146
+13: iJevin: 113
+14: ZombieCleo: 65
+15: Tinfoilchef: 47
+16: impulseSV: 16
+17: PythonGB: 12
+18: MumboJumbo: 12
+19: zueljin: 9
+Total 6847

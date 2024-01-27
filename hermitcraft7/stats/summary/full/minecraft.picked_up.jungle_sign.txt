@@ -1,0 +1,23 @@
+minecraft.picked_up.jungle_sign
+1: iJevin: 250
+2: Xisuma: 105
+3: Grian: 70
+4: iskall85: 70
+5: Tango: 48
+6: cubfan135: 48
+7: MumboJumbo: 46
+8: GoodTimeWithScar: 28
+9: Etho: 26
+10: VintageBeef: 23
+11: BdoubleO100: 22
+12: Stressmonster101: 16
+13: Zedaph: 14
+14: Keralis1: 12
+15: Renthedog: 9
+16: falsesymmetry: 7
+17: joehillssays: 3
+18: Welsknight: 3
+19: Docm77: 1
+20: ZombieCleo: 1
+21: impulseSV: 1
+Total 803

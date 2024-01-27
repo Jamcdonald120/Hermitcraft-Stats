@@ -1,0 +1,35 @@
+minecraft.picked_up.lead
+1: Zedaph: 658
+2: Grian: 363
+3: cubfan135: 335
+4: Docm77: 331
+5: BdoubleO100: 327
+6: Xisuma: 238
+7: xBCrafted: 203
+8: iJevin: 195
+9: impulseSV: 177
+10: GoodTimeWithScar: 168
+11: Renthedog: 161
+12: PearlescentMoon: 118
+13: Keralis1: 115
+14: VintageBeef: 114
+15: falsesymmetry: 86
+16: joehillssays: 69
+17: ZombieCleo: 57
+18: Etho: 49
+19: Tango: 46
+20: Pixlriffs: 38
+21: hypnotizd: 36
+22: GeminiTay: 22
+23: OrionSound: 20
+24: MythicalSausage: 18
+25: Mumbo: 16
+26: fWhip: 10
+27: ShubbleYT: 6
+28: RentheKing: 4
+29: iskall85: 2
+30: Stressmonster101: 2
+31: Smajor1995: 1
+32: Welsknight: 1
+33: SolidarityGaming: 1
+Total 3987

@@ -1,0 +1,24 @@
+minecraft.crafted.observer
+1: impulseSV: 3068
+2: cubfan135: 2819
+3: Xisuma: 1976
+4: xBCrafted: 1584
+5: MumboJumbo: 1571
+6: iskall85: 1274
+7: Etho: 1246
+8: Stressmonster101: 1243
+9: Tango: 948
+10: Docm77: 873
+11: Grian: 739
+12: GoodTimeWithScar: 591
+13: Keralis1: 326
+14: Zedaph: 306
+15: hypnotizd: 208
+16: falsesymmetry: 100
+17: Welsknight: 96
+18: BdoubleO100: 80
+19: Renthedog: 64
+20: VintageBeef: 63
+21: iJevin: 48
+22: joehillssays: 12
+Total 19235

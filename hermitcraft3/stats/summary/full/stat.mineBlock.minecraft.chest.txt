@@ -1,0 +1,29 @@
+stat.mineBlock.minecraft.chest
+1: Tango: 2192
+2: falsesymmetry: 1564
+3: Xisuma: 1030
+4: xBCrafted: 504
+5: Mumbo: 341
+6: sl1pg8r: 340
+7: hypnotizd: 247
+8: Biffa2001: 228
+9: iJevin: 223
+10: impulseSV: 220
+11: KingDaddyDMAC: 169
+12: zueljin: 167
+13: Spumwackles: 163
+14: topmass: 122
+15: ZombieCleo: 96
+16: Tinfoilchef: 90
+17: monkeyfarm: 80
+18: Docm77: 49
+19: PythonGB: 47
+20: joehillssays: 19
+21: Etho: 9
+22: truesymmetry: 6
+23: skyzm: 5
+24: NameOfSamuel: 3
+25: Keralis1: 2
+26: Pungence: 1
+27: Collen: 1
+Total 7918

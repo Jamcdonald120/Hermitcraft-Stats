@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.leather_boots
+1: iJevin: 2
+2: ZombieCleo: 2
+Total 4

@@ -1,0 +1,10 @@
+minecraft.used.warped_door
+1: GoodTimeWithScar: 10
+2: Xisuma: 9
+3: MumboJumbo: 8
+4: BdoubleO100: 7
+5: Grian: 6
+6: Renthedog: 4
+7: GeminiTay: 3
+8: Tango: 3
+Total 50

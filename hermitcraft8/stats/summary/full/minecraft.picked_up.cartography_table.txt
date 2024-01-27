@@ -1,0 +1,13 @@
+minecraft.picked_up.cartography_table
+1: Grian: 84
+2: Xisuma: 39
+3: GoodTimeWithScar: 29
+4: Zedaph: 10
+5: Docm77: 4
+6: joehillssays: 3
+7: impulseSV: 2
+8: cubfan135: 1
+9: Etho: 1
+10: hypnotizd: 1
+11: Keralis1: 1
+Total 175

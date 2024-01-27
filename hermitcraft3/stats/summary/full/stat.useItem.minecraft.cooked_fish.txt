@@ -1,0 +1,16 @@
+stat.useItem.minecraft.cooked_fish
+1: falsesymmetry: 4132
+2: xBCrafted: 3978
+3: zueljin: 1411
+4: Etho: 703
+5: Tango: 133
+6: hypnotizd: 124
+7: impulseSV: 64
+8: sl1pg8r: 63
+9: Biffa2001: 29
+10: Xisuma: 9
+11: monkeyfarm: 9
+12: Mumbo: 2
+13: truesymmetry: 1
+14: PythonGB: 1
+Total 10659

@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.stone_pickaxe
+1: joehillssays: 60
+2: Xisuma: 29
+3: Etho: 25
+4: zueljin: 22
+5: Tinfoilchef: 22
+6: xBCrafted: 10
+7: sl1pg8r: 9
+8: Biffa2001: 8
+9: Spumwackles: 8
+10: skyzm: 7
+11: falsesymmetry: 5
+12: Mumbo: 5
+13: Collen: 5
+14: KingDaddyDMAC: 4
+15: hypnotizd: 4
+16: iJevin: 3
+17: ZombieCleo: 3
+18: Keralis1: 3
+19: NameOfSamuel: 3
+20: topmass: 2
+21: Tango: 2
+22: Pungence: 2
+23: monkeyfarm: 2
+Total 243

@@ -1,0 +1,8 @@
+minecraft.dropped.dark_oak_wood
+1: Keralis1: 58
+2: Etho: 48
+3: falsesymmetry: 32
+4: Grian: 28
+5: ZombieCleo: 5
+6: GoodTimeWithScar: 1
+Total 172

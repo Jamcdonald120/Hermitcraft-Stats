@@ -1,0 +1,27 @@
+stat.pickup.minecraft.skull
+1: cubfan135: 1199
+2: impulseSV: 508
+3: GoodTimeWithScar: 374
+4: Xisuma: 340
+5: falsesymmetry: 303
+6: iskall85: 272
+7: MumboJumbo: 242
+8: Renthedog: 226
+9: Tango: 204
+10: Zedaph: 175
+11: PythonGB: 113
+12: Welsknight: 59
+13: Tinfoilchef: 57
+14: joehillssays: 52
+15: ZombieCleo: 50
+16: xBCrafted: 47
+17: iJevin: 45
+18: Docm77: 36
+19: BdoubleO100: 28
+20: Biffa2001: 27
+21: Stressmonster101: 19
+22: VintageBeef: 11
+23: xisumavoid: 6
+24: Etho: 6
+25: EvilXisuma: 1
+Total 4400

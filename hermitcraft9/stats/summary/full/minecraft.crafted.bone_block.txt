@@ -1,0 +1,26 @@
+minecraft.crafted.bone_block
+1: Xisuma: 66468
+2: hypnotizd: 35892
+3: cubfan135: 15760
+4: Tango: 15480
+5: impulseSV: 13995
+6: Etho: 13976
+7: Keralis1: 13935
+8: xBCrafted: 7585
+9: joehillssays: 6447
+10: Zedaph: 3417
+11: GeminiTay: 2160
+12: Docm77: 1565
+13: Grian: 1372
+14: PearlescentMoon: 705
+15: Renthedog: 641
+16: falsesymmetry: 483
+17: iJevin: 384
+18: BdoubleO100: 343
+19: ZombieCleo: 205
+20: RentheKing: 86
+21: iskall85: 21
+22: GoodTimeWithScar: 21
+23: VintageBeef: 19
+24: Mumbo: 6
+Total 200966

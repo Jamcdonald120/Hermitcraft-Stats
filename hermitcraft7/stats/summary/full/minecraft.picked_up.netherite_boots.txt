@@ -1,0 +1,25 @@
+minecraft.picked_up.netherite_boots
+1: GoodTimeWithScar: 120
+2: Grian: 89
+3: Renthedog: 61
+4: iskall85: 37
+5: BdoubleO100: 32
+6: cubfan135: 26
+7: MumboJumbo: 21
+8: iJevin: 19
+9: joehillssays: 18
+10: Etho: 18
+11: impulseSV: 18
+12: Xisuma: 16
+13: Docm77: 14
+14: Tango: 14
+15: Keralis1: 14
+16: ZombieCleo: 11
+17: xBCrafted: 9
+18: Zedaph: 9
+19: VintageBeef: 5
+20: hypnotizd: 5
+21: Welsknight: 4
+22: Stressmonster101: 3
+23: falsesymmetry: 1
+Total 564

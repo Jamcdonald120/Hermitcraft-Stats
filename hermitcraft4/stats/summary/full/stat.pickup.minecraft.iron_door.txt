@@ -1,0 +1,18 @@
+stat.pickup.minecraft.iron_door
+1: falsesymmetry: 99
+2: cubfan135: 82
+3: Tango: 78
+4: GoodTimeWithScar: 53
+5: impulseSV: 39
+6: MumboJumbo: 38
+7: Xisuma: 32
+8: iskall85: 29
+9: Renthedog: 26
+10: joehillssays: 19
+11: PythonGB: 8
+12: Welsknight: 7
+13: Mumbo: 3
+14: Docm77: 2
+15: Tinfoilchef: 2
+16: Etho: 1
+Total 518

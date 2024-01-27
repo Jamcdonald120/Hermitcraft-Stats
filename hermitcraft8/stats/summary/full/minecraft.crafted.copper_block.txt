@@ -1,0 +1,27 @@
+minecraft.crafted.copper_block
+1: Docm77: 7295
+2: Tango: 5601
+3: Xisuma: 4103
+4: Renthedog: 2036
+5: cubfan135: 2010
+6: GoodTimeWithScar: 1550
+7: Grian: 1232
+8: joehillssays: 401
+9: Etho: 387
+10: PearlescentMoon: 352
+11: Welsknight: 257
+12: xBCrafted: 215
+13: BdoubleO100: 186
+14: impulseSV: 169
+15: iJevin: 158
+16: VintageBeef: 113
+17: Zedaph: 102
+18: GeminiTay: 92
+19: ZombieCleo: 92
+20: hypnotizd: 87
+21: Keralis1: 82
+22: falsesymmetry: 81
+23: Tinfoilchef: 53
+24: iskall85: 42
+25: MumboJumbo: 8
+Total 26704

@@ -1,0 +1,11 @@
+minecraft.picked_up.black_dye
+1: PythonGB: 1344
+2: Grian: 871
+3: GoodTimeWithScar: 105
+4: Stressmonster101: 64
+5: falsesymmetry: 49
+6: Docm77: 48
+7: Xisuma: 32
+8: BdoubleO100: 8
+9: Renthedog: 1
+Total 2522

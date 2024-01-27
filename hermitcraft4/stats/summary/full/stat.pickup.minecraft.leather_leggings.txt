@@ -1,0 +1,23 @@
+stat.pickup.minecraft.leather_leggings
+1: GoodTimeWithScar: 154
+2: Renthedog: 82
+3: falsesymmetry: 58
+4: impulseSV: 48
+5: cubfan135: 47
+6: iskall85: 44
+7: Xisuma: 41
+8: iJevin: 35
+9: Welsknight: 33
+10: Tango: 29
+11: joehillssays: 26
+12: PythonGB: 14
+13: ZombieCleo: 13
+14: Tinfoilchef: 11
+15: MumboJumbo: 9
+16: Docm77: 7
+17: Etho: 7
+18: Jessassin: 3
+19: Biffa2001: 3
+20: Mumbo: 2
+21: VintageBeef: 1
+Total 667

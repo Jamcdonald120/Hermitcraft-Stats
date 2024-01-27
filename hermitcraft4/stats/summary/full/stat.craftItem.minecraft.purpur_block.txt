@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.purpur_block
+1: Xisuma: 10544
+2: Renthedog: 6952
+3: Tinfoilchef: 580
+4: Tango: 396
+5: PythonGB: 96
+6: falsesymmetry: 80
+Total 18648

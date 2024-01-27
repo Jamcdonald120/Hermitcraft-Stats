@@ -1,0 +1,24 @@
+minecraft.picked_up.polished_deepslate_wall
+1: Tango: 780
+2: Renthedog: 427
+3: PearlescentMoon: 404
+4: GoodTimeWithScar: 384
+5: cubfan135: 375
+6: Docm77: 319
+7: impulseSV: 270
+8: xBCrafted: 249
+9: joehillssays: 144
+10: falsesymmetry: 94
+11: BdoubleO100: 89
+12: Pixlriffs: 39
+13: Etho: 28
+14: Zedaph: 19
+15: Xisuma: 15
+16: Keralis1: 13
+17: iJevin: 10
+18: VintageBeef: 8
+19: hypnotizd: 3
+20: GeminiTay: 2
+21: ZombieCleo: 2
+22: RentheKing: 1
+Total 3675

@@ -1,0 +1,9 @@
+minecraft.picked_up.warped_fungus_on_a_stick
+1: ZombieCleo: 14
+2: iJevin: 8
+3: GoodTimeWithScar: 5
+4: Tango: 1
+5: Keralis1: 1
+6: impulseSV: 1
+7: Zedaph: 1
+Total 31

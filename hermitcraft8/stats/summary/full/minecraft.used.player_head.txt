@@ -1,0 +1,29 @@
+minecraft.used.player_head
+1: PearlescentMoon: 206
+2: Grian: 201
+3: Renthedog: 131
+4: GeminiTay: 89
+5: GoodTimeWithScar: 81
+6: Docm77: 53
+7: cubfan135: 52
+8: joehillssays: 33
+9: iJevin: 31
+10: falsesymmetry: 30
+11: xBCrafted: 29
+12: Etho: 29
+13: impulseSV: 28
+14: Zedaph: 28
+15: iskall85: 27
+16: BdoubleO100: 20
+17: Xisuma: 19
+18: Tango: 14
+19: Stressmonster101: 14
+20: pillbugnine: 10
+21: Keralis1: 8
+22: hypnotizd: 7
+23: Welsknight: 6
+24: MumboJumbo: 6
+25: VintageBeef: 3
+26: ZombieCleo: 3
+27: EvilXisuma: 2
+Total 1160

@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.red_mushroom_block
+1: monkeyfarm: 4681
+2: falsesymmetry: 614
+3: Spumwackles: 188
+4: xBCrafted: 101
+5: Xisuma: 99
+6: ZombieCleo: 53
+7: Etho: 49
+8: topmass: 47
+9: iJevin: 1
+Total 5833

@@ -1,0 +1,13 @@
+minecraft.used.nether_brick_fence
+1: Xisuma: 211
+2: PythonGB: 196
+3: Zedaph: 181
+4: cubfan135: 145
+5: iskall85: 55
+6: GoodTimeWithScar: 39
+7: Tango: 38
+8: Grian: 18
+9: ZombieCleo: 5
+10: falsesymmetry: 1
+11: impulseSV: 1
+Total 890

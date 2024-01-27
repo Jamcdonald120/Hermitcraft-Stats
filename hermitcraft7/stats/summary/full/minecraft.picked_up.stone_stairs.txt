@@ -1,0 +1,24 @@
+minecraft.picked_up.stone_stairs
+1: Zedaph: 3493
+2: xBCrafted: 1543
+3: Grian: 570
+4: GoodTimeWithScar: 433
+5: Keralis1: 343
+6: iJevin: 186
+7: Xisuma: 183
+8: BdoubleO100: 174
+9: cubfan135: 147
+10: ZombieCleo: 145
+11: iskall85: 93
+12: Tango: 79
+13: VintageBeef: 59
+14: impulseSV: 39
+15: falsesymmetry: 33
+16: joehillssays: 32
+17: Stressmonster101: 19
+18: Welsknight: 18
+19: Docm77: 15
+20: MumboJumbo: 9
+21: hypnotizd: 2
+22: Etho: 1
+Total 7616

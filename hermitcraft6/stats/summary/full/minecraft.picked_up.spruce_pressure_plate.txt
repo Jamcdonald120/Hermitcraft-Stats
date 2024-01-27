@@ -1,0 +1,19 @@
+minecraft.picked_up.spruce_pressure_plate
+1: cubfan135: 98
+2: Renthedog: 88
+3: Stressmonster101: 54
+4: joehillssays: 44
+5: iskall85: 29
+6: GoodTimeWithScar: 22
+7: ZombieCleo: 15
+8: Keralis1: 7
+9: Grian: 6
+10: Welsknight: 6
+11: falsesymmetry: 5
+12: Tinfoilchef: 4
+13: Docm77: 2
+14: MumboJumbo: 2
+15: iJevin: 1
+16: Tango: 1
+17: impulseSV: 1
+Total 385

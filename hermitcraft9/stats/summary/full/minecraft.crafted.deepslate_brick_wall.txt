@@ -1,0 +1,17 @@
+minecraft.crafted.deepslate_brick_wall
+1: Tango: 190
+2: Mumbo: 150
+3: cubfan135: 67
+4: Zedaph: 65
+5: falsesymmetry: 56
+6: PearlescentMoon: 33
+7: impulseSV: 29
+8: ZombieCleo: 12
+9: GoodTimeWithScar: 12
+10: xBCrafted: 10
+11: Keralis1: 7
+12: iJevin: 6
+13: GeminiTay: 6
+14: Docm77: 4
+15: Xisuma: 2
+Total 649

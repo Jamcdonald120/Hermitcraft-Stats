@@ -1,0 +1,6 @@
+stat.entityKilledBy.Guardian
+1: impulseSV: 17
+2: Renthedog: 5
+3: iJevin: 3
+4: MumboJumbo: 2
+Total 27

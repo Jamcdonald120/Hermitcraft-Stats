@@ -1,0 +1,13 @@
+stat.drop.minecraft.brown_mushroom
+1: falsesymmetry: 22
+2: GoodTimeWithScar: 11
+3: Renthedog: 10
+4: Etho: 10
+5: Tango: 9
+6: Xisuma: 8
+7: impulseSV: 4
+8: Welsknight: 3
+9: cubfan135: 2
+10: VintageBeef: 1
+11: iskall85: 1
+Total 81

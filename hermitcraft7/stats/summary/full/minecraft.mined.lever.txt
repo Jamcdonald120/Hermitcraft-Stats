@@ -1,0 +1,26 @@
+minecraft.mined.lever
+1: Tango: 235
+2: cubfan135: 226
+3: Zedaph: 155
+4: impulseSV: 151
+5: Keralis1: 129
+6: Docm77: 104
+7: Xisuma: 88
+8: MumboJumbo: 85
+9: hypnotizd: 81
+10: joehillssays: 75
+11: Etho: 69
+12: Grian: 65
+13: iJevin: 55
+14: xBCrafted: 38
+15: falsesymmetry: 26
+16: VintageBeef: 25
+17: Stressmonster101: 24
+18: GoodTimeWithScar: 21
+19: iskall85: 19
+20: BdoubleO100: 13
+21: Renthedog: 12
+22: ZombieCleo: 10
+23: Welsknight: 4
+24: Tinfoilchef: 1
+Total 1711

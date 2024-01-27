@@ -1,0 +1,6 @@
+stat.mineBlock.minecraft.sea_lantern
+1: sl1pg8r: 149
+2: KingDaddyDMAC: 70
+3: Xisuma: 59
+4: zueljin: 5
+Total 283

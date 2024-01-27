@@ -1,0 +1,24 @@
+minecraft.used.mud_bricks
+1: Keralis1: 3276
+2: PearlescentMoon: 2197
+3: ZombieCleo: 1460
+4: Xisuma: 1052
+5: Grian: 441
+6: cubfan135: 383
+7: Docm77: 374
+8: Tango: 323
+9: joehillssays: 315
+10: xBCrafted: 146
+11: impulseSV: 142
+12: Renthedog: 131
+13: falsesymmetry: 114
+14: MythicalSausage: 31
+15: GoodTimeWithScar: 29
+16: GeminiTay: 22
+17: Etho: 22
+18: BdoubleO100: 20
+19: Zedaph: 13
+20: iskall85: 6
+21: iJevin: 2
+22: Stressmonster101: 2
+Total 10501

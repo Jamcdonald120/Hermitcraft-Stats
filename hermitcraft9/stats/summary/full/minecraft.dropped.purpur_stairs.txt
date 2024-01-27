@@ -1,0 +1,16 @@
+minecraft.dropped.purpur_stairs
+1: Keralis1: 27
+2: iJevin: 22
+3: Renthedog: 20
+4: iskall85: 10
+5: Grian: 9
+6: Tango: 7
+7: xBCrafted: 5
+8: hypnotizd: 5
+9: GoodTimeWithScar: 5
+10: Etho: 4
+11: Zedaph: 2
+12: Docm77: 1
+13: GeminiTay: 1
+14: PearlescentMoon: 1
+Total 119

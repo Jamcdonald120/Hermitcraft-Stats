@@ -1,0 +1,10 @@
+minecraft.picked_up.warped_fence_gate
+1: GoodTimeWithScar: 24
+2: xBCrafted: 17
+3: falsesymmetry: 9
+4: VintageBeef: 2
+5: joehillssays: 2
+6: Stressmonster101: 2
+7: Grian: 1
+8: Tango: 1
+Total 58

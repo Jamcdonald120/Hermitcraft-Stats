@@ -1,0 +1,19 @@
+stat.drop.minecraft.spider_eye
+1: Tango: 837
+2: falsesymmetry: 253
+3: impulseSV: 240
+4: GoodTimeWithScar: 202
+5: iskall85: 183
+6: cubfan135: 171
+7: Xisuma: 75
+8: MumboJumbo: 36
+9: Renthedog: 35
+10: Etho: 20
+11: PythonGB: 13
+12: Welsknight: 8
+13: VintageBeef: 4
+14: Docm77: 1
+15: ZombieCleo: 1
+16: hypnotizd: 1
+17: Tinfoilchef: 1
+Total 2081

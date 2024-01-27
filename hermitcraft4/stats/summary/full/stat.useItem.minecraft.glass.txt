@@ -1,0 +1,24 @@
+stat.useItem.minecraft.glass
+1: MumboJumbo: 11902
+2: cubfan135: 5907
+3: Tango: 5723
+4: impulseSV: 4426
+5: Xisuma: 4092
+6: Tinfoilchef: 3907
+7: joehillssays: 653
+8: Biffa2001: 182
+9: Etho: 161
+10: falsesymmetry: 158
+11: iskall85: 151
+12: Welsknight: 132
+13: PythonGB: 128
+14: xBCrafted: 120
+15: ZombieCleo: 89
+16: Docm77: 82
+17: iJevin: 72
+18: Mumbo: 61
+19: Renthedog: 24
+20: GoodTimeWithScar: 22
+21: VintageBeef: 5
+22: xisumavoid: 2
+Total 37999

@@ -1,0 +1,14 @@
+stat.useItem.minecraft.splash_potion
+1: iskall85: 26
+2: Tango: 16
+3: cubfan135: 14
+4: impulseSV: 10
+5: falsesymmetry: 9
+6: Xisuma: 8
+7: VintageBeef: 4
+8: MumboJumbo: 3
+9: Docm77: 1
+10: PythonGB: 1
+11: joehillssays: 1
+12: Etho: 1
+Total 94

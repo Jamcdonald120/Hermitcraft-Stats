@@ -1,0 +1,4 @@
+stat.useItem.minecraft.melon_seeds
+1: falsesymmetry: 17
+2: Mumbo: 4
+Total 21

@@ -1,0 +1,32 @@
+stat.mobKills
+1: Xisuma: 351930
+2: Spumwackles: 150149
+3: impulseSV: 97499
+4: falsesymmetry: 94351
+5: xBCrafted: 93055
+6: Biffa2001: 67029
+7: Tinfoilchef: 66527
+8: hypnotizd: 56746
+9: Mumbo: 51190
+10: Tango: 48208
+11: sl1pg8r: 48179
+12: iJevin: 34565
+13: ZombieCleo: 28606
+14: zueljin: 25989
+15: KingDaddyDMAC: 21928
+16: topmass: 21166
+17: PythonGB: 18121
+18: monkeyfarm: 13429
+19: Etho: 6990
+20: Docm77: 3144
+21: joehillssays: 2782
+22: skyzm: 781
+23: Pungence: 407
+24: Keralis1: 338
+25: NameOfSamuel: 105
+26: Collen: 75
+27: Mrs_Keralis: 34
+28: xisumavoid: 11
+29: truesymmetry: 1
+30: snipepager: 1
+Total 1303336

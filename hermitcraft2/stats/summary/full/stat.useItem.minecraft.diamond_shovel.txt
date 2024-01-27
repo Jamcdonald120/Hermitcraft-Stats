@@ -1,0 +1,17 @@
+stat.useItem.minecraft.diamond_shovel
+1: Xisuma: 25520
+2: Tango: 25505
+3: ZombieCleo: 19333
+4: Biffa2001: 7639
+5: falsesymmetry: 5856
+6: Mumbo: 4252
+7: zueljin: 3286
+8: Spumwackles: 2243
+9: sl1pg8r: 1917
+10: iJevin: 1056
+11: xBCrafted: 1016
+12: Tinfoilchef: 981
+13: monkeyfarm: 747
+14: KingDaddyDMAC: 624
+15: Collen: 124
+Total 100099

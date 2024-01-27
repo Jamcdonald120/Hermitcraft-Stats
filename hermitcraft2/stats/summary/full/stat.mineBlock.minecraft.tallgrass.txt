@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.tallgrass
+1: Tango: 479
+2: ZombieCleo: 403
+3: falsesymmetry: 164
+4: Xisuma: 150
+5: Tinfoilchef: 116
+6: Biffa2001: 104
+7: Mumbo: 104
+8: zueljin: 68
+9: sl1pg8r: 62
+10: iJevin: 50
+11: xBCrafted: 38
+12: Spumwackles: 23
+13: Collen: 9
+14: monkeyfarm: 7
+15: KingDaddyDMAC: 5
+16: NameOfSamuel: 2
+Total 1784

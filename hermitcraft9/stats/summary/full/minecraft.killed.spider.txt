@@ -1,0 +1,35 @@
+minecraft.killed.spider
+1: cubfan135: 413
+2: iJevin: 345
+3: VintageBeef: 201
+4: GoodTimeWithScar: 197
+5: Tango: 180
+6: Docm77: 174
+7: Keralis1: 173
+8: impulseSV: 136
+9: PearlescentMoon: 130
+10: Etho: 124
+11: BdoubleO100: 117
+12: xBCrafted: 106
+13: Grian: 81
+14: Xisuma: 80
+15: Zedaph: 80
+16: iskall85: 70
+17: joehillssays: 59
+18: hypnotizd: 50
+19: falsesymmetry: 43
+20: Renthedog: 42
+21: GeminiTay: 30
+22: ZombieCleo: 13
+23: Stressmonster101: 12
+24: Mumbo: 11
+25: Pixlriffs: 10
+26: RentheKing: 6
+27: OrionSound: 3
+28: Smallishbeans: 3
+29: Welsknight: 3
+30: MumboJumbo: 3
+31: Smajor1995: 1
+32: MythicalSausage: 1
+33: SolidarityGaming: 1
+Total 2898

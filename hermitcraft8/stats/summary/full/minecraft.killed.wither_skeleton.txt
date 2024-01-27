@@ -1,0 +1,22 @@
+minecraft.killed.wither_skeleton
+1: iJevin: 16228
+2: Grian: 535
+3: xBCrafted: 106
+4: Docm77: 91
+5: hypnotizd: 76
+6: GoodTimeWithScar: 70
+7: Welsknight: 66
+8: falsesymmetry: 65
+9: cubfan135: 48
+10: impulseSV: 48
+11: Renthedog: 46
+12: Etho: 38
+13: Xisuma: 37
+14: iskall85: 36
+15: PearlescentMoon: 24
+16: VintageBeef: 19
+17: Zedaph: 10
+18: joehillssays: 6
+19: Keralis1: 2
+20: Stressmonster101: 1
+Total 17552

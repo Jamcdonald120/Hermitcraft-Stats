@@ -1,0 +1,20 @@
+stat.useItem.minecraft.fishing_rod
+1: impulseSV: 154155
+2: MumboJumbo: 110942
+3: GoodTimeWithScar: 31973
+4: Xisuma: 22739
+5: Welsknight: 22476
+6: cubfan135: 17706
+7: iskall85: 6546
+8: PythonGB: 2360
+9: Etho: 667
+10: Docm77: 280
+11: falsesymmetry: 270
+12: Tango: 196
+13: Renthedog: 175
+14: Biffa2001: 109
+15: Tinfoilchef: 84
+16: VintageBeef: 45
+17: iJevin: 9
+18: Jessassin: 8
+Total 370740

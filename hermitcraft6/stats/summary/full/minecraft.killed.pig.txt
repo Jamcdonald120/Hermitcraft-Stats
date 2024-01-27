@@ -1,0 +1,27 @@
+minecraft.killed.pig
+1: GoodTimeWithScar: 274
+2: iJevin: 100
+3: Tango: 65
+4: Grian: 54
+5: Stressmonster101: 47
+6: Welsknight: 41
+7: cubfan135: 40
+8: iskall85: 19
+9: Renthedog: 14
+10: Zedaph: 13
+11: ZombieCleo: 11
+12: BdoubleO100: 8
+13: Tinfoilchef: 8
+14: Docm77: 6
+15: Xisuma: 6
+16: falsesymmetry: 5
+17: EvilXisuma: 4
+18: joehillssays: 3
+19: impulseSV: 3
+20: PythonGB: 2
+21: Jessassin: 2
+22: Biffa2001: 2
+23: BadTimeWithScar: 2
+24: Jura_Whitey: 1
+25: Keralis1: 1
+Total 731

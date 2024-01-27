@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.dark_oak_door
+1: Tango: 1463
+2: falsesymmetry: 60
+3: Keralis1: 36
+4: xBCrafted: 27
+5: zueljin: 18
+6: Xisuma: 12
+7: topmass: 9
+8: monkeyfarm: 9
+9: Tinfoilchef: 6
+10: Docm77: 3
+Total 1643

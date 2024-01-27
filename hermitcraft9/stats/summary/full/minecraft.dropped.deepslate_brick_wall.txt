@@ -1,0 +1,12 @@
+minecraft.dropped.deepslate_brick_wall
+1: Tango: 827
+2: iJevin: 67
+3: xBCrafted: 16
+4: GoodTimeWithScar: 14
+5: cubfan135: 10
+6: Renthedog: 8
+7: GeminiTay: 5
+8: Zedaph: 5
+9: falsesymmetry: 3
+10: Keralis1: 3
+Total 958

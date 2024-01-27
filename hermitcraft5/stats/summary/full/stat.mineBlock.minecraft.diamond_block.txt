@@ -1,0 +1,13 @@
+stat.mineBlock.minecraft.diamond_block
+1: Renthedog: 170
+2: falsesymmetry: 30
+3: cubfan135: 22
+4: PythonGB: 20
+5: impulseSV: 13
+6: Zedaph: 13
+7: Welsknight: 9
+8: GoodTimeWithScar: 9
+9: iskall85: 4
+10: Xisuma: 1
+11: MumboJumbo: 1
+Total 292

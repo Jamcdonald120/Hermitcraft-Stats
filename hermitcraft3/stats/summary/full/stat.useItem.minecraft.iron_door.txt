@@ -1,0 +1,17 @@
+stat.useItem.minecraft.iron_door
+1: xBCrafted: 63
+2: falsesymmetry: 50
+3: Mumbo: 41
+4: Xisuma: 24
+5: Tango: 22
+6: impulseSV: 19
+7: ZombieCleo: 14
+8: sl1pg8r: 5
+9: PythonGB: 5
+10: monkeyfarm: 5
+11: Docm77: 2
+12: Etho: 2
+13: zueljin: 1
+14: Tinfoilchef: 1
+15: Spumwackles: 1
+Total 255

@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.cyan_shulker_box
+1: cubfan135: 320
+2: Xisuma: 220
+3: iskall85: 188
+4: GoodTimeWithScar: 178
+5: falsesymmetry: 135
+6: Stressmonster101: 96
+7: xBCrafted: 73
+8: Welsknight: 57
+9: MumboJumbo: 54
+10: Renthedog: 47
+11: impulseSV: 10
+12: Tinfoilchef: 6
+13: Zedaph: 2
+Total 1386

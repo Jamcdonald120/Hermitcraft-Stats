@@ -1,0 +1,24 @@
+minecraft.mined.nether_wart
+1: PearlescentMoon: 1262
+2: Etho: 887
+3: Docm77: 721
+4: Xisuma: 673
+5: BdoubleO100: 662
+6: Tango: 434
+7: Zedaph: 346
+8: GoodTimeWithScar: 161
+9: joehillssays: 160
+10: cubfan135: 157
+11: Grian: 114
+12: iJevin: 77
+13: hypnotizd: 57
+14: iskall85: 50
+15: falsesymmetry: 48
+16: Renthedog: 39
+17: impulseSV: 29
+18: ZombieCleo: 27
+19: GeminiTay: 22
+20: Welsknight: 10
+21: Keralis1: 2
+22: xBCrafted: 1
+Total 5939

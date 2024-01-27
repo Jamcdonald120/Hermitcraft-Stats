@@ -1,0 +1,31 @@
+minecraft.used.stone_pickaxe
+1: Tinfoilchef: 3838
+2: ZombieCleo: 1795
+3: joehillssays: 1258
+4: BdoubleO100: 1048
+5: Zedaph: 693
+6: iskall85: 648
+7: falsesymmetry: 506
+8: VintageBeef: 439
+9: Docm77: 436
+10: Stressmonster101: 404
+11: GeminiTay: 383
+12: hypnotizd: 366
+13: xBCrafted: 333
+14: PearlescentMoon: 327
+15: Grian: 276
+16: impulseSV: 220
+17: Welsknight: 202
+18: Renthedog: 193
+19: Keralis1: 191
+20: Mumbo: 189
+21: MumboJumbo: 189
+22: Xisuma: 170
+23: iJevin: 139
+24: Pixlriffs: 131
+25: cubfan135: 100
+26: Etho: 60
+27: Tango: 31
+28: ShubbleYT: 29
+29: OrionSound: 8
+Total 14602

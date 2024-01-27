@@ -1,0 +1,20 @@
+minecraft.mined.light_gray_wool
+1: Keralis1: 1691
+2: VintageBeef: 672
+3: Xisuma: 395
+4: falsesymmetry: 117
+5: Welsknight: 59
+6: Grian: 54
+7: xBCrafted: 40
+8: impulseSV: 40
+9: Tango: 36
+10: GoodTimeWithScar: 21
+11: cubfan135: 13
+12: BdoubleO100: 12
+13: Etho: 4
+14: iskall85: 3
+15: Zedaph: 2
+16: Renthedog: 1
+17: joehillssays: 1
+18: ZombieCleo: 1
+Total 3162

@@ -1,0 +1,5 @@
+minecraft.crafted.brown_stained_glass_pane
+1: impulseSV: 160
+2: joehillssays: 128
+3: Xisuma: 80
+Total 368

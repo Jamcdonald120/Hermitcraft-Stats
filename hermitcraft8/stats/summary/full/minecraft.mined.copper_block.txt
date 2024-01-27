@@ -1,0 +1,23 @@
+minecraft.mined.copper_block
+1: Renthedog: 781
+2: Xisuma: 249
+3: Docm77: 217
+4: GoodTimeWithScar: 214
+5: impulseSV: 155
+6: cubfan135: 135
+7: iskall85: 90
+8: Grian: 87
+9: Tango: 58
+10: Etho: 55
+11: joehillssays: 40
+12: BdoubleO100: 17
+13: PearlescentMoon: 12
+14: MumboJumbo: 8
+15: VintageBeef: 7
+16: ZombieCleo: 7
+17: xBCrafted: 2
+18: hypnotizd: 2
+19: iJevin: 1
+20: GeminiTay: 1
+21: Keralis1: 1
+Total 2139

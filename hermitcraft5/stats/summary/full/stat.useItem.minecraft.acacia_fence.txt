@@ -1,0 +1,15 @@
+stat.useItem.minecraft.acacia_fence
+1: MumboJumbo: 410
+2: Xisuma: 316
+3: PythonGB: 139
+4: iskall85: 66
+5: Tango: 37
+6: GoodTimeWithScar: 18
+7: cubfan135: 12
+8: VintageBeef: 7
+9: Renthedog: 6
+10: Docm77: 5
+11: impulseSV: 4
+12: joehillssays: 1
+13: BdoubleO100: 1
+Total 1022

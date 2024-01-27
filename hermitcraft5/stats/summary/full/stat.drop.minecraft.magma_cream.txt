@@ -1,0 +1,13 @@
+stat.drop.minecraft.magma_cream
+1: Tango: 86
+2: impulseSV: 86
+3: MumboJumbo: 59
+4: iskall85: 56
+5: cubfan135: 31
+6: Renthedog: 19
+7: Zedaph: 11
+8: GoodTimeWithScar: 8
+9: xBCrafted: 6
+10: iJevin: 3
+11: Xisuma: 1
+Total 366

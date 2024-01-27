@@ -1,0 +1,3 @@
+minecraft.dropped.stripped_cherry_log
+1: Keralis1: 3
+Total 3

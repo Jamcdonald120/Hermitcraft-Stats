@@ -1,0 +1,17 @@
+stat.pickup.minecraft.wooden_pickaxe
+1: PythonGB: 4
+2: Jessassin: 4
+3: joehillssays: 4
+4: Welsknight: 3
+5: iskall85: 2
+6: ZombieCleo: 2
+7: GoodTimeWithScar: 2
+8: Docm77: 1
+9: Xisuma: 1
+10: iJevin: 1
+11: Tango: 1
+12: falsesymmetry: 1
+13: cubfan135: 1
+14: Biffa2001: 1
+15: Etho: 1
+Total 29

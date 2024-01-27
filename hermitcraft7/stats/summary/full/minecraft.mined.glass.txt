@@ -1,0 +1,26 @@
+minecraft.mined.glass
+1: impulseSV: 4147
+2: Tango: 2773
+3: Zedaph: 2549
+4: cubfan135: 2144
+5: MumboJumbo: 1513
+6: VintageBeef: 1467
+7: Keralis1: 1144
+8: iJevin: 824
+9: hypnotizd: 805
+10: xBCrafted: 783
+11: Stressmonster101: 621
+12: joehillssays: 593
+13: falsesymmetry: 358
+14: Xisuma: 329
+15: iskall85: 329
+16: Grian: 316
+17: BdoubleO100: 249
+18: Renthedog: 227
+19: Docm77: 149
+20: Etho: 139
+21: GoodTimeWithScar: 102
+22: Tinfoilchef: 84
+23: ZombieCleo: 80
+24: Welsknight: 1
+Total 21726

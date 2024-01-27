@@ -1,0 +1,18 @@
+minecraft.dropped.deepslate_tile_slab
+1: Grian: 250
+2: Tango: 127
+3: Keralis1: 119
+4: impulseSV: 67
+5: joehillssays: 64
+6: RentheKing: 55
+7: GoodTimeWithScar: 51
+8: Etho: 13
+9: Renthedog: 5
+10: BdoubleO100: 5
+11: cubfan135: 5
+12: Zedaph: 5
+13: ZombieCleo: 3
+14: iJevin: 2
+15: falsesymmetry: 2
+16: PearlescentMoon: 1
+Total 774

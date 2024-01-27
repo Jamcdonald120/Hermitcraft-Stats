@@ -1,0 +1,20 @@
+stat.pickup.minecraft.dark_oak_fence
+1: cubfan135: 1388
+2: xBCrafted: 910
+3: falsesymmetry: 840
+4: Tango: 260
+5: Welsknight: 259
+6: Stressmonster101: 108
+7: Xisuma: 89
+8: PythonGB: 60
+9: Zedaph: 57
+10: MumboJumbo: 38
+11: GoodTimeWithScar: 20
+12: joehillssays: 19
+13: BdoubleO100: 7
+14: Renthedog: 5
+15: impulseSV: 4
+16: iJevin: 3
+17: Etho: 2
+18: iskall85: 1
+Total 4070

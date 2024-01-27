@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.redstone_block
+1: Xisuma: 1594
+2: Tango: 89
+3: sl1pg8r: 86
+4: xBCrafted: 69
+5: Mumbo: 65
+6: iJevin: 21
+7: falsesymmetry: 14
+8: zueljin: 5
+Total 1943

@@ -1,0 +1,18 @@
+minecraft.picked_up.birch_wood
+1: Grian: 133
+2: Renthedog: 103
+3: iJevin: 73
+4: GeminiTay: 52
+5: PearlescentMoon: 47
+6: ShubbleYT: 29
+7: MythicalSausage: 27
+8: Docm77: 9
+9: BdoubleO100: 9
+10: Keralis1: 8
+11: GoodTimeWithScar: 3
+12: Etho: 2
+13: Zedaph: 2
+14: VintageBeef: 1
+15: iskall85: 1
+16: Stressmonster101: 1
+Total 500

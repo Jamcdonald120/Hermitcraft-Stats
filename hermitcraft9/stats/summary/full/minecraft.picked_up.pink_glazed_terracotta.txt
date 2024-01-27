@@ -1,0 +1,12 @@
+minecraft.picked_up.pink_glazed_terracotta
+1: joehillssays: 115
+2: PearlescentMoon: 95
+3: impulseSV: 67
+4: GeminiTay: 20
+5: Grian: 12
+6: Tango: 12
+7: Etho: 4
+8: GoodTimeWithScar: 2
+9: ZombieCleo: 1
+10: Zedaph: 1
+Total 329

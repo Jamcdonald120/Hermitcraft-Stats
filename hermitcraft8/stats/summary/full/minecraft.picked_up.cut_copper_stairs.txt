@@ -1,0 +1,13 @@
+minecraft.picked_up.cut_copper_stairs
+1: cubfan135: 43
+2: joehillssays: 36
+3: Xisuma: 32
+4: iskall85: 30
+5: Docm77: 23
+6: GoodTimeWithScar: 21
+7: Renthedog: 15
+8: BdoubleO100: 12
+9: Tango: 4
+10: xBCrafted: 4
+11: impulseSV: 1
+Total 221

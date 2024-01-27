@@ -1,0 +1,19 @@
+minecraft.dropped.polished_deepslate
+1: falsesymmetry: 887
+2: Tango: 510
+3: GoodTimeWithScar: 166
+4: Grian: 153
+5: Xisuma: 97
+6: impulseSV: 96
+7: iJevin: 81
+8: ZombieCleo: 52
+9: Keralis1: 19
+10: cubfan135: 18
+11: GeminiTay: 4
+12: PearlescentMoon: 4
+13: Mumbo: 4
+14: RentheKing: 4
+15: Renthedog: 3
+16: xBCrafted: 3
+17: iskall85: 1
+Total 2102

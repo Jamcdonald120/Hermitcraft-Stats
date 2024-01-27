@@ -1,0 +1,4 @@
+minecraft.mined.exposed_cut_copper
+1: impulseSV: 19
+2: cubfan135: 3
+Total 22

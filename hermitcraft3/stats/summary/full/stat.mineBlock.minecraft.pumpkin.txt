@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.pumpkin
+1: falsesymmetry: 630
+2: Tango: 263
+3: Mumbo: 259
+4: Tinfoilchef: 230
+5: ZombieCleo: 130
+6: xBCrafted: 124
+7: impulseSV: 99
+8: Xisuma: 75
+9: monkeyfarm: 65
+10: zueljin: 44
+11: sl1pg8r: 43
+12: KingDaddyDMAC: 31
+13: Mrs_Keralis: 21
+14: Etho: 14
+15: Spumwackles: 10
+16: topmass: 9
+17: hypnotizd: 8
+18: Biffa2001: 6
+19: NameOfSamuel: 5
+20: Keralis1: 4
+21: iJevin: 2
+Total 2072

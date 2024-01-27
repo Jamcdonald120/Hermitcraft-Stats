@@ -1,0 +1,24 @@
+minecraft.mined.deepslate_coal_ore
+1: Etho: 67
+2: VintageBeef: 48
+3: hypnotizd: 40
+4: Keralis1: 34
+5: joehillssays: 29
+6: cubfan135: 25
+7: impulseSV: 20
+8: Tango: 19
+9: falsesymmetry: 16
+10: Docm77: 12
+11: Zedaph: 8
+12: PearlescentMoon: 4
+13: iskall85: 4
+14: Renthedog: 3
+15: Grian: 3
+16: xBCrafted: 3
+17: Xisuma: 2
+18: iJevin: 2
+19: Mumbo: 1
+20: MumboJumbo: 1
+21: GoodTimeWithScar: 1
+22: Stressmonster101: 1
+Total 343

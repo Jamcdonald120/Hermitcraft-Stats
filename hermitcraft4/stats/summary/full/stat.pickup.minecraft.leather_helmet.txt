@@ -1,0 +1,22 @@
+stat.pickup.minecraft.leather_helmet
+1: GoodTimeWithScar: 88
+2: Renthedog: 72
+3: cubfan135: 57
+4: iskall85: 46
+5: impulseSV: 39
+6: falsesymmetry: 37
+7: Xisuma: 27
+8: Tango: 24
+9: Welsknight: 24
+10: joehillssays: 17
+11: ZombieCleo: 13
+12: PythonGB: 12
+13: iJevin: 12
+14: MumboJumbo: 12
+15: Tinfoilchef: 10
+16: Docm77: 5
+17: Etho: 3
+18: Biffa2001: 2
+19: Mumbo: 2
+20: Jessassin: 1
+Total 503

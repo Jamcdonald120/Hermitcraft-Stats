@@ -1,0 +1,30 @@
+stat.killEntity.Zombie
+1: xisumavoid: 2894
+2: Xisuma: 1629
+3: hypnotizd: 1502
+4: ZombieCleo: 1199
+5: iJevin: 1003
+6: Spumwackles: 951
+7: sl1pg8r: 845
+8: KingDaddyDMAC: 747
+9: Mumbo: 714
+10: Keralis1: 505
+11: red3yz: 414
+12: Tango: 403
+13: falsesymmetry: 337
+14: Tinfoilchef: 325
+15: zueljin: 252
+16: Biffa2001: 230
+17: skyzm: 228
+18: Pungence: 218
+19: Collen: 181
+20: monkeyfarm: 140
+21: xBCrafted: 78
+22: topmass: 75
+23: Marriland: 68
+24: joehillssays: 54
+25: NameOfSamuel: 37
+26: Jessassin: 35
+27: Unhost: 25
+28: Cleophas: 2
+Total 15091

@@ -1,0 +1,15 @@
+minecraft.crafted.gray_wool
+1: Keralis1: 1635
+2: Stressmonster101: 759
+3: Tango: 230
+4: Xisuma: 127
+5: Grian: 64
+6: GoodTimeWithScar: 64
+7: Etho: 48
+8: xBCrafted: 28
+9: Docm77: 24
+10: VintageBeef: 15
+11: joehillssays: 8
+12: Welsknight: 3
+13: Zedaph: 2
+Total 3007

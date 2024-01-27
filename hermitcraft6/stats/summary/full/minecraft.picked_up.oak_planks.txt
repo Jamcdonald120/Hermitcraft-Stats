@@ -1,0 +1,30 @@
+minecraft.picked_up.oak_planks
+1: cubfan135: 4167
+2: Grian: 3537
+3: iJevin: 3080
+4: iskall85: 2251
+5: falsesymmetry: 1978
+6: Renthedog: 1575
+7: GoodTimeWithScar: 1350
+8: Xisuma: 1169
+9: impulseSV: 1074
+10: Zedaph: 1045
+11: Docm77: 1044
+12: joehillssays: 1009
+13: ZombieCleo: 951
+14: BdoubleO100: 652
+15: Tango: 626
+16: Welsknight: 525
+17: Stressmonster101: 427
+18: MumboJumbo: 332
+19: Tinfoilchef: 306
+20: Keralis1: 296
+21: PythonGB: 213
+22: Biffa2001: 147
+23: HumanCleo: 47
+24: Jessassin: 15
+25: PhoenixfireLune: 5
+26: EvilXisuma: 2
+27: tterrag: 2
+28: Cub_Cam: 1
+Total 27826

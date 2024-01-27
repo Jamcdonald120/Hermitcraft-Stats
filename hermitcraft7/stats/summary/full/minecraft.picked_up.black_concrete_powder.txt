@@ -1,0 +1,23 @@
+minecraft.picked_up.black_concrete_powder
+1: Renthedog: 43648
+2: Stressmonster101: 12864
+3: Xisuma: 10083
+4: Keralis1: 2409
+5: xBCrafted: 1449
+6: GoodTimeWithScar: 1026
+7: Grian: 651
+8: Tango: 476
+9: joehillssays: 420
+10: Etho: 305
+11: iJevin: 280
+12: falsesymmetry: 259
+13: ZombieCleo: 133
+14: hypnotizd: 124
+15: iskall85: 117
+16: cubfan135: 116
+17: VintageBeef: 71
+18: BdoubleO100: 44
+19: MumboJumbo: 44
+20: impulseSV: 37
+21: Zedaph: 26
+Total 74582

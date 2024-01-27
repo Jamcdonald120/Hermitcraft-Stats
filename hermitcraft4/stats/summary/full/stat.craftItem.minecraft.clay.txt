@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.clay
+1: Xisuma: 676
+2: GoodTimeWithScar: 238
+3: Tango: 112
+4: impulseSV: 91
+5: joehillssays: 89
+6: cubfan135: 74
+7: Welsknight: 64
+8: PythonGB: 1
+Total 1345

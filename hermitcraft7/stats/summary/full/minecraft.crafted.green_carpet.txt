@@ -1,0 +1,21 @@
+minecraft.crafted.green_carpet
+1: GoodTimeWithScar: 2364
+2: cubfan135: 1877
+3: Zedaph: 1815
+4: joehillssays: 1104
+5: Etho: 804
+6: Tango: 666
+7: BdoubleO100: 564
+8: Keralis1: 390
+9: Grian: 354
+10: Xisuma: 336
+11: MumboJumbo: 279
+12: falsesymmetry: 252
+13: iskall85: 243
+14: xBCrafted: 192
+15: Stressmonster101: 147
+16: VintageBeef: 75
+17: impulseSV: 18
+18: ZombieCleo: 15
+19: Docm77: 12
+Total 11507

@@ -1,0 +1,14 @@
+minecraft.picked_up.black_shulker_box
+1: Xisuma: 157
+2: cubfan135: 125
+3: Renthedog: 110
+4: Docm77: 109
+5: PearlescentMoon: 27
+6: Keralis1: 27
+7: Tango: 21
+8: Etho: 13
+9: iskall85: 12
+10: Grian: 9
+11: VintageBeef: 3
+12: xBCrafted: 2
+Total 615

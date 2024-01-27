@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.dispenser
+1: Tango: 377
+2: MumboJumbo: 353
+3: cubfan135: 218
+4: Xisuma: 203
+5: impulseSV: 116
+6: iskall85: 101
+7: Tinfoilchef: 73
+8: falsesymmetry: 36
+9: iJevin: 34
+10: Zedaph: 34
+11: xBCrafted: 22
+12: Welsknight: 18
+13: PythonGB: 14
+14: GoodTimeWithScar: 14
+15: Docm77: 13
+16: Stressmonster101: 13
+17: Renthedog: 11
+18: Etho: 11
+19: VintageBeef: 5
+20: BdoubleO100: 2
+21: joehillssays: 1
+Total 1669

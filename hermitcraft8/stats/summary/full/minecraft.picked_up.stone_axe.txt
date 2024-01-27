@@ -1,0 +1,17 @@
+minecraft.picked_up.stone_axe
+1: joehillssays: 7
+2: iJevin: 6
+3: Tango: 5
+4: ZombieCleo: 5
+5: GoodTimeWithScar: 4
+6: BdoubleO100: 3
+7: Xisuma: 2
+8: PearlescentMoon: 2
+9: iskall85: 2
+10: cubfan135: 2
+11: Welsknight: 2
+12: Etho: 2
+13: GeminiTay: 1
+14: Grian: 1
+15: impulseSV: 1
+Total 45

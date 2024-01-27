@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.daylight_detector
+1: PythonGB: 193
+2: Xisuma: 142
+3: VintageBeef: 64
+4: cubfan135: 37
+5: falsesymmetry: 29
+6: ZombieCleo: 21
+7: Tango: 4
+8: Renthedog: 2
+9: MumboJumbo: 2
+10: impulseSV: 1
+Total 495

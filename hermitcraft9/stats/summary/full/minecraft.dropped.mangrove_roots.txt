@@ -1,0 +1,15 @@
+minecraft.dropped.mangrove_roots
+1: Keralis1: 42987
+2: BdoubleO100: 180
+3: cubfan135: 35
+4: iJevin: 29
+5: Renthedog: 25
+6: impulseSV: 22
+7: GoodTimeWithScar: 15
+8: Tango: 6
+9: RentheKing: 5
+10: Xisuma: 4
+11: Stressmonster101: 4
+12: Etho: 2
+13: Zedaph: 1
+Total 43315

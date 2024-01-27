@@ -1,0 +1,4 @@
+stat.craftItem.133
+1: red3yz: 12
+2: skyzm: 2
+Total 14

@@ -1,0 +1,14 @@
+minecraft.picked_up.birch_pressure_plate
+1: Renthedog: 65
+2: Grian: 38
+3: hypnotizd: 23
+4: cubfan135: 15
+5: BdoubleO100: 10
+6: Xisuma: 7
+7: iskall85: 5
+8: VintageBeef: 3
+9: falsesymmetry: 3
+10: joehillssays: 1
+11: Welsknight: 1
+12: impulseSV: 1
+Total 172

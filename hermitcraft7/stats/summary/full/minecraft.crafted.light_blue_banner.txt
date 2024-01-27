@@ -1,0 +1,10 @@
+minecraft.crafted.light_blue_banner
+1: Keralis1: 106
+2: BdoubleO100: 81
+3: falsesymmetry: 61
+4: cubfan135: 54
+5: Xisuma: 44
+6: Grian: 3
+7: Tango: 2
+8: GoodTimeWithScar: 1
+Total 352

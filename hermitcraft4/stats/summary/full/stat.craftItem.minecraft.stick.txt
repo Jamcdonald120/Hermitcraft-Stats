@@ -1,0 +1,26 @@
+stat.craftItem.minecraft.stick
+1: GoodTimeWithScar: 23216
+2: falsesymmetry: 22695
+3: iskall85: 21284
+4: cubfan135: 21241
+5: Xisuma: 17876
+6: Renthedog: 15769
+7: Tinfoilchef: 14464
+8: MumboJumbo: 13253
+9: impulseSV: 9599
+10: Tango: 9504
+11: iJevin: 7495
+12: joehillssays: 6198
+13: PythonGB: 5348
+14: Etho: 5004
+15: Welsknight: 4724
+16: ZombieCleo: 3932
+17: VintageBeef: 2392
+18: Docm77: 2084
+19: Biffa2001: 1860
+20: Mumbo: 696
+21: xBCrafted: 304
+22: zueljin: 240
+23: Jessassin: 236
+24: hypnotizd: 28
+Total 209442

@@ -1,0 +1,26 @@
+stat.pickup.minecraft.ladder
+1: Zedaph: 1690
+2: impulseSV: 1463
+3: joehillssays: 1452
+4: falsesymmetry: 1334
+5: Xisuma: 1203
+6: Tango: 707
+7: Welsknight: 647
+8: Renthedog: 617
+9: cubfan135: 527
+10: Docm77: 524
+11: iskall85: 405
+12: Tinfoilchef: 401
+13: xBCrafted: 264
+14: Stressmonster101: 187
+15: MumboJumbo: 183
+16: GoodTimeWithScar: 173
+17: VintageBeef: 145
+18: Biffa2001: 95
+19: Etho: 82
+20: PythonGB: 47
+21: BdoubleO100: 40
+22: ZombieCleo: 34
+23: iJevin: 19
+24: xisumavoid: 2
+Total 12241

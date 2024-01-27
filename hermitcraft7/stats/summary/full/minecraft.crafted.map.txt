@@ -1,0 +1,22 @@
+minecraft.crafted.map
+1: Grian: 2096
+2: VintageBeef: 320
+3: cubfan135: 205
+4: falsesymmetry: 139
+5: Tango: 103
+6: BdoubleO100: 98
+7: iskall85: 93
+8: Xisuma: 70
+9: GoodTimeWithScar: 66
+10: impulseSV: 64
+11: Keralis1: 50
+12: ZombieCleo: 38
+13: joehillssays: 34
+14: MumboJumbo: 32
+15: xBCrafted: 24
+16: Renthedog: 15
+17: hypnotizd: 14
+18: Etho: 13
+19: Stressmonster101: 12
+20: Zedaph: 1
+Total 3487

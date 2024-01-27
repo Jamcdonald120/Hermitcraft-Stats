@@ -1,0 +1,10 @@
+minecraft.dropped.barrel
+1: GoodTimeWithScar: 67
+2: ZombieCleo: 26
+3: falsesymmetry: 25
+4: cubfan135: 12
+5: Keralis1: 11
+6: iskall85: 8
+7: BdoubleO100: 4
+8: Grian: 1
+Total 154

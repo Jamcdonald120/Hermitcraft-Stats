@@ -1,0 +1,5 @@
+minecraft.dropped.polished_blackstone_pressure_plate
+1: iJevin: 48
+2: GoodTimeWithScar: 16
+3: Tango: 7
+Total 71

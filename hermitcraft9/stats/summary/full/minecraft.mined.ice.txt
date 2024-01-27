@@ -1,0 +1,29 @@
+minecraft.mined.ice
+1: Tango: 110791
+2: Xisuma: 47921
+3: falsesymmetry: 41147
+4: Renthedog: 18292
+5: Etho: 13462
+6: Docm77: 11827
+7: ZombieCleo: 6789
+8: GoodTimeWithScar: 4013
+9: impulseSV: 2632
+10: Zedaph: 1671
+11: Mumbo: 1328
+12: iskall85: 1101
+13: hypnotizd: 892
+14: Stressmonster101: 614
+15: Pixlriffs: 585
+16: PearlescentMoon: 447
+17: BdoubleO100: 418
+18: iJevin: 244
+19: cubfan135: 150
+20: Grian: 105
+21: VintageBeef: 80
+22: Keralis1: 74
+23: RentheKing: 21
+24: joehillssays: 17
+25: xBCrafted: 15
+26: GeminiTay: 6
+27: MythicalSausage: 3
+Total 264645

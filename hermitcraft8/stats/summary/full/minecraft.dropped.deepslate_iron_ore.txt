@@ -1,0 +1,8 @@
+minecraft.dropped.deepslate_iron_ore
+1: Xisuma: 21
+2: iJevin: 8
+3: Zedaph: 5
+4: GeminiTay: 4
+5: Renthedog: 2
+6: MumboJumbo: 2
+Total 42

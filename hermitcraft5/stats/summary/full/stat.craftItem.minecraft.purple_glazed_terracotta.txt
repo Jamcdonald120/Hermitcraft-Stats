@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.purple_glazed_terracotta
+1: joehillssays: 64
+2: Xisuma: 24
+3: xBCrafted: 8
+4: MumboJumbo: 3
+5: iJevin: 1
+Total 100

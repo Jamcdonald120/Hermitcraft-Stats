@@ -1,0 +1,20 @@
+stat.drop.minecraft.ladder
+1: Tango: 715
+2: Zedaph: 373
+3: Renthedog: 201
+4: GoodTimeWithScar: 145
+5: Xisuma: 137
+6: iskall85: 132
+7: MumboJumbo: 116
+8: cubfan135: 115
+9: falsesymmetry: 73
+10: impulseSV: 56
+11: xBCrafted: 55
+12: Docm77: 35
+13: Welsknight: 35
+14: Stressmonster101: 35
+15: VintageBeef: 27
+16: BdoubleO100: 23
+17: PythonGB: 18
+18: Etho: 3
+Total 2294

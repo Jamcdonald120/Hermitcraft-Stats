@@ -1,0 +1,9 @@
+minecraft.dropped.warped_hyphae
+1: PearlescentMoon: 192
+2: Grian: 112
+3: Keralis1: 26
+4: cubfan135: 3
+5: VintageBeef: 1
+6: Etho: 1
+7: GoodTimeWithScar: 1
+Total 336

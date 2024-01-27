@@ -1,0 +1,19 @@
+minecraft.used.cartography_table
+1: Tango: 76
+2: Etho: 39
+3: cubfan135: 25
+4: falsesymmetry: 24
+5: GoodTimeWithScar: 23
+6: Xisuma: 17
+7: BdoubleO100: 14
+8: Grian: 11
+9: iskall85: 9
+10: Keralis1: 7
+11: hypnotizd: 5
+12: joehillssays: 4
+13: VintageBeef: 3
+14: ZombieCleo: 2
+15: Stressmonster101: 1
+16: impulseSV: 1
+17: Zedaph: 1
+Total 262

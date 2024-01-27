@@ -1,0 +1,26 @@
+stat.pickup.minecraft.stone
+1: falsesymmetry: 287259
+2: Xisuma: 217104
+3: Renthedog: 167485
+4: Welsknight: 154864
+5: iskall85: 147236
+6: GoodTimeWithScar: 121236
+7: MumboJumbo: 108593
+8: Tinfoilchef: 73767
+9: iJevin: 64603
+10: Tango: 61718
+11: cubfan135: 58984
+12: impulseSV: 54613
+13: joehillssays: 31129
+14: Etho: 26313
+15: Docm77: 18422
+16: PythonGB: 13327
+17: VintageBeef: 6051
+18: ZombieCleo: 5988
+19: Biffa2001: 4134
+20: zueljin: 3762
+21: Mumbo: 1640
+22: xBCrafted: 829
+23: Jessassin: 558
+24: truesymmetry: 1
+Total 1629616

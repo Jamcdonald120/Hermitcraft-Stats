@@ -1,0 +1,12 @@
+minecraft.dropped.purple_dye
+1: hypnotizd: 128
+2: falsesymmetry: 40
+3: cubfan135: 7
+4: Etho: 3
+5: joehillssays: 2
+6: ZombieCleo: 2
+7: Zedaph: 2
+8: iJevin: 1
+9: RentheKing: 1
+10: GoodTimeWithScar: 1
+Total 187

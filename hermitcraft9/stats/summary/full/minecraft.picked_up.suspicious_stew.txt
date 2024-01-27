@@ -1,0 +1,22 @@
+minecraft.picked_up.suspicious_stew
+1: RentheKing: 59
+2: Xisuma: 30
+3: impulseSV: 22
+4: GeminiTay: 15
+5: Grian: 14
+6: PearlescentMoon: 14
+7: GoodTimeWithScar: 12
+8: Keralis1: 12
+9: cubfan135: 11
+10: Zedaph: 10
+11: Etho: 8
+12: BdoubleO100: 4
+13: iJevin: 3
+14: ZombieCleo: 3
+15: joehillssays: 2
+16: Tango: 2
+17: OrionSound: 1
+18: Renthedog: 1
+19: hypnotizd: 1
+20: Firecracker1195: 1
+Total 225

@@ -1,0 +1,20 @@
+minecraft.picked_up.purpur_slab
+1: PearlescentMoon: 83
+2: impulseSV: 54
+3: VintageBeef: 41
+4: Tango: 31
+5: Keralis1: 28
+6: Renthedog: 24
+7: cubfan135: 23
+8: iJevin: 22
+9: Etho: 15
+10: Zedaph: 10
+11: Xisuma: 9
+12: hypnotizd: 9
+13: xBCrafted: 6
+14: iskall85: 4
+15: GoodTimeWithScar: 4
+16: ZombieCleo: 3
+17: Docm77: 2
+18: GeminiTay: 2
+Total 370

@@ -1,0 +1,23 @@
+minecraft.crafted.mangrove_slab
+1: Renthedog: 894
+2: Grian: 626
+3: GoodTimeWithScar: 546
+4: Xisuma: 534
+5: PearlescentMoon: 252
+6: cubfan135: 198
+7: joehillssays: 144
+8: RentheKing: 144
+9: OrionSound: 132
+10: iJevin: 126
+11: Tango: 108
+12: MythicalSausage: 96
+13: Keralis1: 84
+14: ZombieCleo: 78
+15: Pixlriffs: 36
+16: ShubbleYT: 36
+17: BdoubleO100: 24
+18: Docm77: 6
+19: Stressmonster101: 6
+20: impulseSV: 6
+21: Zedaph: 6
+Total 4082

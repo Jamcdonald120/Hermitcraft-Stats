@@ -1,0 +1,22 @@
+minecraft.used.fishing_rod
+1: Grian: 883
+2: impulseSV: 315
+3: Zedaph: 287
+4: Tango: 272
+5: Keralis1: 266
+6: cubfan135: 244
+7: Docm77: 159
+8: Renthedog: 141
+9: falsesymmetry: 123
+10: Xisuma: 116
+11: iJevin: 106
+12: GeminiTay: 73
+13: ZombieCleo: 53
+14: Pixlriffs: 36
+15: VintageBeef: 29
+16: hypnotizd: 15
+17: GoodTimeWithScar: 15
+18: PearlescentMoon: 6
+19: Etho: 3
+20: Mumbo: 1
+Total 3143

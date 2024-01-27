@@ -1,0 +1,13 @@
+stat.useItem.minecraft.obsidian
+1: Tango: 198
+2: iJevin: 157
+3: ZombieCleo: 78
+4: Xisuma: 70
+5: sl1pg8r: 43
+6: Spumwackles: 36
+7: falsesymmetry: 33
+8: Biffa2001: 20
+9: zueljin: 14
+10: Tinfoilchef: 14
+11: Mumbo: 11
+Total 674

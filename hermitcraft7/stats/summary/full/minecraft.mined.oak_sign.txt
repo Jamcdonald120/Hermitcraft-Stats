@@ -1,0 +1,26 @@
+minecraft.mined.oak_sign
+1: Keralis1: 124
+2: iskall85: 82
+3: Grian: 54
+4: cubfan135: 51
+5: falsesymmetry: 45
+6: Tango: 42
+7: ZombieCleo: 35
+8: GoodTimeWithScar: 32
+9: Xisuma: 25
+10: BdoubleO100: 24
+11: VintageBeef: 23
+12: MumboJumbo: 23
+13: Stressmonster101: 20
+14: impulseSV: 17
+15: Zedaph: 17
+16: iJevin: 16
+17: Welsknight: 15
+18: hypnotizd: 12
+19: joehillssays: 8
+20: xBCrafted: 8
+21: Etho: 8
+22: Renthedog: 5
+23: Docm77: 4
+24: BarryBoss1234: 1
+Total 691

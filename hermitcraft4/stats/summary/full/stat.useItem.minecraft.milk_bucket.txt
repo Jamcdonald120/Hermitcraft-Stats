@@ -1,0 +1,12 @@
+stat.useItem.minecraft.milk_bucket
+1: falsesymmetry: 21
+2: PythonGB: 7
+3: GoodTimeWithScar: 5
+4: impulseSV: 5
+5: Xisuma: 4
+6: cubfan135: 4
+7: iskall85: 2
+8: Renthedog: 1
+9: joehillssays: 1
+10: xisumavoid: 1
+Total 51

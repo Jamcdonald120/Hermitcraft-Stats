@@ -1,0 +1,14 @@
+minecraft.mined.acacia_slab
+1: xBCrafted: 307
+2: VintageBeef: 157
+3: Xisuma: 70
+4: joehillssays: 63
+5: GoodTimeWithScar: 44
+6: Etho: 22
+7: Keralis1: 12
+8: Tango: 10
+9: BdoubleO100: 9
+10: impulseSV: 6
+11: MumboJumbo: 5
+12: falsesymmetry: 1
+Total 706

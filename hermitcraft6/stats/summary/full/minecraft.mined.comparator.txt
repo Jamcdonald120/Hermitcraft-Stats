@@ -1,0 +1,23 @@
+minecraft.mined.comparator
+1: iskall85: 576
+2: MumboJumbo: 247
+3: cubfan135: 239
+4: Xisuma: 192
+5: impulseSV: 167
+6: Docm77: 145
+7: Tango: 136
+8: Renthedog: 86
+9: Tinfoilchef: 56
+10: GoodTimeWithScar: 49
+11: Zedaph: 43
+12: Grian: 30
+13: iJevin: 27
+14: joehillssays: 20
+15: falsesymmetry: 16
+16: Stressmonster101: 14
+17: HumanCleo: 9
+18: PythonGB: 8
+19: ZombieCleo: 7
+20: Welsknight: 3
+21: Keralis1: 1
+Total 2071

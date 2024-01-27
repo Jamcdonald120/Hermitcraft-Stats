@@ -1,0 +1,24 @@
+minecraft.dropped.birch_planks
+1: cubfan135: 844
+2: Grian: 483
+3: Keralis1: 197
+4: GoodTimeWithScar: 164
+5: Tango: 119
+6: Stressmonster101: 113
+7: iskall85: 109
+8: Zedaph: 69
+9: Etho: 53
+10: Docm77: 45
+11: iJevin: 37
+12: VintageBeef: 36
+13: falsesymmetry: 33
+14: ZombieCleo: 25
+15: MumboJumbo: 20
+16: impulseSV: 19
+17: Renthedog: 15
+18: BdoubleO100: 10
+19: Xisuma: 8
+20: xBCrafted: 8
+21: joehillssays: 5
+22: hypnotizd: 2
+Total 2414

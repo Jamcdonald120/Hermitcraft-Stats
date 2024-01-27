@@ -1,0 +1,4 @@
+minecraft.crafted.red_nether_brick_wall
+1: Xisuma: 162
+2: cubfan135: 54
+Total 216

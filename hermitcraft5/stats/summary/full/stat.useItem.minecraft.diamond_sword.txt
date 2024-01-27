@@ -1,0 +1,27 @@
+stat.useItem.minecraft.diamond_sword
+1: GoodTimeWithScar: 96689
+2: Xisuma: 82854
+3: cubfan135: 64346
+4: impulseSV: 62588
+5: iJevin: 27145
+6: iskall85: 25991
+7: falsesymmetry: 23988
+8: Renthedog: 21404
+9: MumboJumbo: 20475
+10: Tango: 20117
+11: PythonGB: 19999
+12: joehillssays: 14199
+13: Welsknight: 11507
+14: Zedaph: 8442
+15: Tinfoilchef: 7791
+16: Stressmonster101: 7500
+17: Docm77: 5420
+18: Biffa2001: 4606
+19: ZombieCleo: 4070
+20: BdoubleO100: 3223
+21: Etho: 2343
+22: xBCrafted: 1852
+23: VintageBeef: 1799
+24: EvilXisuma: 75
+25: xisumavoid: 50
+Total 538473

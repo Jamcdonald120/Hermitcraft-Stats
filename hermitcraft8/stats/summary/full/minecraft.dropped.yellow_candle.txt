@@ -1,0 +1,4 @@
+minecraft.dropped.yellow_candle
+1: Tango: 16
+2: Keralis1: 12
+Total 28

@@ -1,0 +1,23 @@
+stat.killEntity.Slime
+1: Xisuma: 2907
+2: xBCrafted: 1425
+3: KingDaddyDMAC: 843
+4: Tango: 675
+5: impulseSV: 446
+6: Mumbo: 420
+7: zueljin: 417
+8: hypnotizd: 407
+9: falsesymmetry: 245
+10: Spumwackles: 241
+11: Tinfoilchef: 104
+12: Biffa2001: 64
+13: monkeyfarm: 48
+14: sl1pg8r: 24
+15: iJevin: 23
+16: Pungence: 12
+17: joehillssays: 11
+18: Etho: 4
+19: topmass: 1
+20: PythonGB: 1
+21: Collen: 1
+Total 8319

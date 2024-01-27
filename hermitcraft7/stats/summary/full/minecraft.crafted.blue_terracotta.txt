@@ -1,0 +1,12 @@
+minecraft.crafted.blue_terracotta
+1: Tango: 5632
+2: falsesymmetry: 4200
+3: Etho: 2304
+4: cubfan135: 1792
+5: Grian: 748
+6: GoodTimeWithScar: 524
+7: Xisuma: 520
+8: VintageBeef: 272
+9: Keralis1: 68
+10: iskall85: 12
+Total 16072

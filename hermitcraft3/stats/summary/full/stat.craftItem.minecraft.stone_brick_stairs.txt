@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.stone_brick_stairs
+1: falsesymmetry: 7592
+2: Tango: 2484
+3: Xisuma: 2020
+4: xBCrafted: 1676
+5: Biffa2001: 1616
+6: PythonGB: 1496
+7: monkeyfarm: 1404
+8: topmass: 1392
+9: iJevin: 1288
+10: impulseSV: 932
+11: Etho: 780
+12: ZombieCleo: 640
+13: sl1pg8r: 548
+14: Tinfoilchef: 348
+15: joehillssays: 108
+16: KingDaddyDMAC: 92
+17: Spumwackles: 56
+18: zueljin: 44
+19: Docm77: 32
+20: skyzm: 12
+Total 24560

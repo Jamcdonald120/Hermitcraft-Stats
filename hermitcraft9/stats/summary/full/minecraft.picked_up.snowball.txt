@@ -1,0 +1,36 @@
+minecraft.picked_up.snowball
+1: Tango: 289863
+2: joehillssays: 67166
+3: falsesymmetry: 44074
+4: Keralis1: 35397
+5: cubfan135: 28024
+6: impulseSV: 18493
+7: iskall85: 15496
+8: iJevin: 13999
+9: VintageBeef: 12414
+10: RentheKing: 7052
+11: Docm77: 6455
+12: Renthedog: 5314
+13: Xisuma: 5057
+14: PearlescentMoon: 4673
+15: hypnotizd: 3521
+16: BdoubleO100: 1457
+17: MythicalSausage: 1389
+18: Zedaph: 1262
+19: Grian: 938
+20: Etho: 578
+21: SolidarityGaming: 515
+22: InTheLittleWood: 508
+23: ZombieCleo: 325
+24: OrionSound: 187
+25: GoodTimeWithScar: 162
+26: ShubbleYT: 137
+27: Smallishbeans: 80
+28: Pixlriffs: 52
+29: Mumbo: 44
+30: MumboJumbo: 44
+31: xBCrafted: 43
+32: GeminiTay: 34
+33: HBomb94: 16
+34: Welsknight: 15
+Total 564784

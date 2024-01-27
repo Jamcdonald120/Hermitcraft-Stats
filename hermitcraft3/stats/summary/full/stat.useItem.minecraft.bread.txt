@@ -1,0 +1,24 @@
+stat.useItem.minecraft.bread
+1: Xisuma: 672
+2: Mumbo: 88
+3: joehillssays: 87
+4: topmass: 68
+5: skyzm: 55
+6: Tango: 30
+7: ZombieCleo: 30
+8: monkeyfarm: 29
+9: zueljin: 26
+10: sl1pg8r: 24
+11: Docm77: 20
+12: Pungence: 18
+13: Spumwackles: 17
+14: Tinfoilchef: 16
+15: iJevin: 14
+16: impulseSV: 12
+17: PythonGB: 9
+18: Biffa2001: 9
+19: falsesymmetry: 5
+20: hypnotizd: 2
+21: Keralis1: 2
+22: NameOfSamuel: 2
+Total 1235

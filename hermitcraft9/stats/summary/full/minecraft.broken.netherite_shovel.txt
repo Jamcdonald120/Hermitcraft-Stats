@@ -1,0 +1,4 @@
+minecraft.broken.netherite_shovel
+1: cubfan135: 2
+2: impulseSV: 1
+Total 3

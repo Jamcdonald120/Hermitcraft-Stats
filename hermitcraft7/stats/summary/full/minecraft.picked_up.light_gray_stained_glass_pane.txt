@@ -1,0 +1,24 @@
+minecraft.picked_up.light_gray_stained_glass_pane
+1: Zedaph: 8353
+2: Grian: 1858
+3: VintageBeef: 845
+4: iJevin: 765
+5: Etho: 679
+6: GoodTimeWithScar: 549
+7: Xisuma: 420
+8: cubfan135: 411
+9: Keralis1: 404
+10: BdoubleO100: 355
+11: impulseSV: 197
+12: joehillssays: 182
+13: xBCrafted: 88
+14: iskall85: 70
+15: hypnotizd: 60
+16: Renthedog: 48
+17: Docm77: 44
+18: Tango: 41
+19: Stressmonster101: 41
+20: MumboJumbo: 33
+21: ZombieCleo: 29
+22: falsesymmetry: 24
+Total 15496

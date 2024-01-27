@@ -1,0 +1,17 @@
+minecraft.picked_up.mangrove_stairs
+1: Grian: 72
+2: Docm77: 28
+3: Xisuma: 26
+4: Renthedog: 26
+5: cubfan135: 19
+6: RentheKing: 19
+7: Tango: 15
+8: BdoubleO100: 11
+9: PearlescentMoon: 11
+10: MythicalSausage: 10
+11: iJevin: 9
+12: joehillssays: 8
+13: ZombieCleo: 6
+14: GoodTimeWithScar: 3
+15: Stressmonster101: 1
+Total 264

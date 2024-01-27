@@ -1,0 +1,24 @@
+minecraft.used.armor_stand
+1: ZombieCleo: 642
+2: cubfan135: 60
+3: PearlescentMoon: 39
+4: GoodTimeWithScar: 34
+5: Renthedog: 25
+6: Docm77: 24
+7: Keralis1: 23
+8: Xisuma: 18
+9: joehillssays: 17
+10: GeminiTay: 16
+11: Zedaph: 16
+12: iJevin: 11
+13: Tango: 10
+14: falsesymmetry: 8
+15: BdoubleO100: 5
+16: hypnotizd: 3
+17: impulseSV: 2
+18: VintageBeef: 1
+19: Grian: 1
+20: xBCrafted: 1
+21: Welsknight: 1
+22: MumboJumbo: 1
+Total 958

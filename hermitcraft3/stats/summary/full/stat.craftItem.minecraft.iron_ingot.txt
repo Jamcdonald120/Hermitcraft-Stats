@@ -1,0 +1,29 @@
+stat.craftItem.minecraft.iron_ingot
+1: Tango: 60736
+2: Xisuma: 46466
+3: falsesymmetry: 19008
+4: Mumbo: 17330
+5: iJevin: 15095
+6: impulseSV: 14506
+7: xBCrafted: 13509
+8: Tinfoilchef: 13346
+9: hypnotizd: 11580
+10: topmass: 7443
+11: sl1pg8r: 4148
+12: Biffa2001: 3380
+13: monkeyfarm: 2903
+14: zueljin: 1935
+15: ZombieCleo: 1608
+16: KingDaddyDMAC: 1586
+17: PythonGB: 1560
+18: Etho: 1478
+19: Docm77: 1268
+20: Spumwackles: 968
+21: joehillssays: 351
+22: Pungence: 104
+23: skyzm: 96
+24: NameOfSamuel: 75
+25: Collen: 51
+26: Mrs_Keralis: 23
+27: Keralis1: 23
+Total 240576

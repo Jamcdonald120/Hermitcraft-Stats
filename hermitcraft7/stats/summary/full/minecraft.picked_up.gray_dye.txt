@@ -1,0 +1,16 @@
+minecraft.picked_up.gray_dye
+1: Grian: 1113
+2: Renthedog: 718
+3: Zedaph: 355
+4: Keralis1: 194
+5: cubfan135: 162
+6: Xisuma: 128
+7: joehillssays: 65
+8: Etho: 64
+9: GoodTimeWithScar: 49
+10: VintageBeef: 48
+11: BdoubleO100: 36
+12: iJevin: 28
+13: falsesymmetry: 11
+14: iskall85: 1
+Total 2972

@@ -1,0 +1,8 @@
+minecraft.crafted.polished_diorite_slab
+1: Tinfoilchef: 204
+2: PearlescentMoon: 18
+3: Xisuma: 16
+4: impulseSV: 12
+5: cubfan135: 6
+6: Tango: 4
+Total 260

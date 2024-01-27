@@ -1,0 +1,19 @@
+minecraft.picked_up.wither_skeleton_skull
+1: Tango: 1568
+2: impulseSV: 633
+3: Zedaph: 244
+4: PearlescentMoon: 131
+5: iJevin: 37
+6: iskall85: 22
+7: Xisuma: 20
+8: cubfan135: 17
+9: Docm77: 16
+10: Stressmonster101: 11
+11: Grian: 10
+12: hypnotizd: 10
+13: VintageBeef: 9
+14: BdoubleO100: 5
+15: xBCrafted: 3
+16: Keralis1: 3
+17: Pixlriffs: 1
+Total 2740

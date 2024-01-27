@@ -1,0 +1,22 @@
+minecraft.crafted.gold_nugget
+1: Xisuma: 125567
+2: iskall85: 16337
+3: cubfan135: 13587
+4: iJevin: 13117
+5: Tango: 6479
+6: hypnotizd: 4241
+7: Keralis1: 2721
+8: joehillssays: 2581
+9: GoodTimeWithScar: 1842
+10: Zedaph: 1701
+11: impulseSV: 1584
+12: Stressmonster101: 1546
+13: Docm77: 950
+14: VintageBeef: 680
+15: MumboJumbo: 558
+16: Etho: 459
+17: Grian: 418
+18: Renthedog: 209
+19: falsesymmetry: 144
+20: ZombieCleo: 36
+Total 194757

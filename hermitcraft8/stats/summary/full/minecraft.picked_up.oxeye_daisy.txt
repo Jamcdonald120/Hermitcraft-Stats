@@ -1,0 +1,20 @@
+minecraft.picked_up.oxeye_daisy
+1: ZombieCleo: 1451
+2: Grian: 208
+3: joehillssays: 175
+4: GoodTimeWithScar: 143
+5: Tango: 89
+6: cubfan135: 60
+7: PearlescentMoon: 52
+8: impulseSV: 31
+9: xBCrafted: 28
+10: BdoubleO100: 26
+11: hypnotizd: 14
+12: GeminiTay: 13
+13: Welsknight: 11
+14: Renthedog: 10
+15: iJevin: 8
+16: Docm77: 7
+17: MumboJumbo: 7
+18: Xisuma: 1
+Total 2334

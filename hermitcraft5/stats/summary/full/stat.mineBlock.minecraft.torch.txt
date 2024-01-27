@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.torch
+1: GoodTimeWithScar: 13853
+2: Renthedog: 7028
+3: impulseSV: 5952
+4: joehillssays: 5695
+5: MumboJumbo: 4527
+6: cubfan135: 4214
+7: Tinfoilchef: 3712
+8: xBCrafted: 2842
+9: Welsknight: 2750
+10: Tango: 2465
+11: Stressmonster101: 2046
+12: falsesymmetry: 2026
+13: Xisuma: 2014
+14: Zedaph: 1534
+15: PythonGB: 1525
+16: iskall85: 1365
+17: iJevin: 1171
+18: Docm77: 589
+19: BdoubleO100: 484
+20: ZombieCleo: 339
+21: Biffa2001: 323
+22: VintageBeef: 236
+23: Etho: 168
+Total 66858

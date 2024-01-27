@@ -1,0 +1,26 @@
+minecraft.picked_up.nether_quartz_ore
+1: Docm77: 4089
+2: ZombieCleo: 2427
+3: Keralis1: 1891
+4: iJevin: 1611
+5: cubfan135: 1279
+6: Zedaph: 1014
+7: Tango: 1005
+8: falsesymmetry: 915
+9: xBCrafted: 642
+10: Etho: 564
+11: hypnotizd: 545
+12: Xisuma: 520
+13: joehillssays: 437
+14: impulseSV: 269
+15: Grian: 204
+16: Renthedog: 180
+17: GoodTimeWithScar: 128
+18: BdoubleO100: 113
+19: VintageBeef: 80
+20: RentheKing: 63
+21: PearlescentMoon: 61
+22: Smallishbeans: 59
+23: GeminiTay: 33
+24: Pixlriffs: 4
+Total 18133

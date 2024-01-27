@@ -1,0 +1,3 @@
+stat.drop.minecraft.jungle_stairs
+1: PythonGB: 1
+Total 1

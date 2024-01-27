@@ -1,0 +1,23 @@
+minecraft.picked_up.poisonous_potato
+1: PearlescentMoon: 19
+2: iskall85: 18
+3: joehillssays: 17
+4: xBCrafted: 17
+5: VintageBeef: 15
+6: Tango: 13
+7: Stressmonster101: 13
+8: impulseSV: 12
+9: Zedaph: 10
+10: RentheKing: 8
+11: Xisuma: 7
+12: cubfan135: 6
+13: Etho: 6
+14: Welsknight: 5
+15: ZombieCleo: 3
+16: GoodTimeWithScar: 2
+17: GeminiTay: 1
+18: Mumbo: 1
+19: hypnotizd: 1
+20: MumboJumbo: 1
+21: Keralis1: 1
+Total 176

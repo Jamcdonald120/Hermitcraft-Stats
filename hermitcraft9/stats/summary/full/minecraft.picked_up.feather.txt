@@ -1,0 +1,32 @@
+minecraft.picked_up.feather
+1: cubfan135: 26439
+2: Grian: 3058
+3: Xisuma: 2531
+4: Zedaph: 2280
+5: ZombieCleo: 2262
+6: Docm77: 2017
+7: Renthedog: 663
+8: hypnotizd: 525
+9: iJevin: 290
+10: Etho: 274
+11: VintageBeef: 256
+12: GoodTimeWithScar: 247
+13: PearlescentMoon: 117
+14: impulseSV: 103
+15: falsesymmetry: 96
+16: xBCrafted: 48
+17: joehillssays: 47
+18: Stressmonster101: 38
+19: Tango: 31
+20: RentheKing: 23
+21: iskall85: 19
+22: BdoubleO100: 13
+23: Keralis1: 13
+24: Smajor1995: 12
+25: GeminiTay: 9
+26: Mumbo: 7
+27: MythicalSausage: 6
+28: Pixlriffs: 4
+29: Minerva246: 1
+30: MumboJumbo: 1
+Total 41430

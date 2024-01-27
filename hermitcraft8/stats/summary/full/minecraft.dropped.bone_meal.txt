@@ -1,0 +1,24 @@
+minecraft.dropped.bone_meal
+1: iJevin: 83037
+2: Zedaph: 9482
+3: Etho: 6671
+4: impulseSV: 4613
+5: Docm77: 2345
+6: Grian: 1156
+7: hypnotizd: 1079
+8: xBCrafted: 1039
+9: Tango: 893
+10: GoodTimeWithScar: 429
+11: Renthedog: 295
+12: BdoubleO100: 279
+13: Keralis1: 237
+14: PearlescentMoon: 90
+15: iskall85: 87
+16: falsesymmetry: 74
+17: joehillssays: 66
+18: ZombieCleo: 64
+19: Stressmonster101: 64
+20: Xisuma: 14
+21: cubfan135: 5
+22: GeminiTay: 1
+Total 112020

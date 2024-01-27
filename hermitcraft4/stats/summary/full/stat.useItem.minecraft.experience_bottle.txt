@@ -1,0 +1,4 @@
+stat.useItem.minecraft.experience_bottle
+1: cubfan135: 7
+2: PythonGB: 1
+Total 8

@@ -1,0 +1,21 @@
+minecraft.dropped.glass
+1: Renthedog: 5131
+2: MumboJumbo: 1134
+3: Xisuma: 776
+4: Tango: 680
+5: impulseSV: 567
+6: iskall85: 533
+7: Grian: 350
+8: Docm77: 335
+9: GoodTimeWithScar: 254
+10: Zedaph: 226
+11: iJevin: 161
+12: cubfan135: 139
+13: falsesymmetry: 120
+14: Stressmonster101: 77
+15: BadTimeWithScar: 64
+16: Biffa2001: 53
+17: Keralis1: 52
+18: Tinfoilchef: 10
+19: joehillssays: 1
+Total 10663

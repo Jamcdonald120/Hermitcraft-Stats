@@ -1,0 +1,21 @@
+minecraft.picked_up.magenta_shulker_box
+1: Stressmonster101: 987
+2: Xisuma: 470
+3: cubfan135: 291
+4: Renthedog: 239
+5: Tango: 178
+6: iskall85: 171
+7: Biffa2001: 130
+8: falsesymmetry: 113
+9: Grian: 104
+10: impulseSV: 91
+11: ZombieCleo: 64
+12: Welsknight: 60
+13: joehillssays: 57
+14: GoodTimeWithScar: 38
+15: Docm77: 28
+16: Keralis1: 27
+17: HumanCleo: 15
+18: PythonGB: 11
+19: Zedaph: 2
+Total 3076

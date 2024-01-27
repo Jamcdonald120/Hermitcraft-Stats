@@ -1,0 +1,24 @@
+stat.drop.minecraft.bone
+1: Tinfoilchef: 9776
+2: impulseSV: 6156
+3: MumboJumbo: 6034
+4: Stressmonster101: 1305
+5: iskall85: 1293
+6: Tango: 1047
+7: GoodTimeWithScar: 806
+8: BdoubleO100: 709
+9: cubfan135: 391
+10: Renthedog: 387
+11: Zedaph: 380
+12: Xisuma: 306
+13: Biffa2001: 226
+14: Docm77: 217
+15: VintageBeef: 199
+16: xBCrafted: 198
+17: falsesymmetry: 170
+18: iJevin: 169
+19: PythonGB: 116
+20: Welsknight: 86
+21: joehillssays: 75
+22: Etho: 24
+Total 30070

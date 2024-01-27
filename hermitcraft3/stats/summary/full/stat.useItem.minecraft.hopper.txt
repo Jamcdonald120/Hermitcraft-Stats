@@ -1,0 +1,24 @@
+stat.useItem.minecraft.hopper
+1: Xisuma: 4784
+2: Mumbo: 2565
+3: iJevin: 1750
+4: Tinfoilchef: 1596
+5: xBCrafted: 1566
+6: Tango: 1528
+7: impulseSV: 1134
+8: hypnotizd: 455
+9: KingDaddyDMAC: 370
+10: monkeyfarm: 319
+11: sl1pg8r: 241
+12: Biffa2001: 208
+13: zueljin: 179
+14: falsesymmetry: 163
+15: ZombieCleo: 103
+16: Etho: 102
+17: Docm77: 86
+18: topmass: 24
+19: snipepager: 19
+20: PythonGB: 2
+21: xisumavoid: 2
+22: Spumwackles: 2
+Total 17198

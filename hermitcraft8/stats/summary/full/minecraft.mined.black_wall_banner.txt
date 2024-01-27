@@ -1,0 +1,4 @@
+minecraft.mined.black_wall_banner
+1: Tango: 5
+2: MumboJumbo: 1
+Total 6

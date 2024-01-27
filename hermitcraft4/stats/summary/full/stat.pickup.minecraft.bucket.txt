@@ -1,0 +1,22 @@
+stat.pickup.minecraft.bucket
+1: falsesymmetry: 129
+2: Tango: 123
+3: Xisuma: 79
+4: cubfan135: 73
+5: Renthedog: 39
+6: GoodTimeWithScar: 31
+7: Welsknight: 22
+8: MumboJumbo: 21
+9: impulseSV: 19
+10: iJevin: 18
+11: iskall85: 16
+12: PythonGB: 15
+13: Etho: 15
+14: ZombieCleo: 14
+15: Docm77: 3
+16: VintageBeef: 2
+17: joehillssays: 2
+18: zueljin: 1
+19: xisumavoid: 1
+20: Tinfoilchef: 1
+Total 624

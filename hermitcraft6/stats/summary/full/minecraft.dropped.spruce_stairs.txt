@@ -1,0 +1,18 @@
+minecraft.dropped.spruce_stairs
+1: GoodTimeWithScar: 1088
+2: Renthedog: 893
+3: Tango: 258
+4: cubfan135: 211
+5: iskall85: 128
+6: Keralis1: 80
+7: Grian: 58
+8: MumboJumbo: 56
+9: Docm77: 34
+10: BadTimeWithScar: 21
+11: Xisuma: 18
+12: falsesymmetry: 16
+13: iJevin: 10
+14: Biffa2001: 3
+15: Stressmonster101: 2
+16: impulseSV: 1
+Total 2877

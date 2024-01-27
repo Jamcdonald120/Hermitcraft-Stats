@@ -1,0 +1,13 @@
+minecraft.dropped.comparator
+1: Renthedog: 262
+2: Stressmonster101: 65
+3: cubfan135: 55
+4: Grian: 37
+5: Tango: 35
+6: Zedaph: 35
+7: impulseSV: 14
+8: Etho: 9
+9: GoodTimeWithScar: 5
+10: Xisuma: 2
+11: Keralis1: 2
+Total 521

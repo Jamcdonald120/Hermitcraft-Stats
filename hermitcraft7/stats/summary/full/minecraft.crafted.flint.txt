@@ -1,0 +1,3 @@
+minecraft.crafted.flint
+1: hypnotizd: 440
+Total 440

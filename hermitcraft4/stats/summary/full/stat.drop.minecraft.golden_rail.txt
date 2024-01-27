@@ -1,0 +1,8 @@
+stat.drop.minecraft.golden_rail
+1: impulseSV: 133
+2: Tango: 19
+3: iskall85: 14
+4: MumboJumbo: 5
+5: Xisuma: 3
+6: falsesymmetry: 3
+Total 177

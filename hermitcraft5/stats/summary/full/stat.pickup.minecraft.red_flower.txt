@@ -1,0 +1,25 @@
+stat.pickup.minecraft.red_flower
+1: Tango: 8822
+2: MumboJumbo: 8568
+3: Xisuma: 7049
+4: cubfan135: 3867
+5: GoodTimeWithScar: 3464
+6: falsesymmetry: 1166
+7: impulseSV: 1142
+8: Welsknight: 871
+9: Stressmonster101: 814
+10: Renthedog: 769
+11: joehillssays: 460
+12: iskall85: 454
+13: Zedaph: 233
+14: xBCrafted: 205
+15: PythonGB: 171
+16: ZombieCleo: 152
+17: iJevin: 107
+18: BdoubleO100: 91
+19: VintageBeef: 51
+20: Tinfoilchef: 48
+21: Docm77: 32
+22: Biffa2001: 20
+23: Etho: 10
+Total 38566

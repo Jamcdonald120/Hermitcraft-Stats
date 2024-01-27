@@ -1,0 +1,26 @@
+stat.useItem.minecraft.boat
+1: impulseSV: 135
+2: cubfan135: 110
+3: Zedaph: 97
+4: ZombieCleo: 81
+5: Xisuma: 63
+6: Tango: 54
+7: iskall85: 44
+8: falsesymmetry: 36
+9: xBCrafted: 31
+10: Welsknight: 28
+11: iJevin: 24
+12: Renthedog: 23
+13: joehillssays: 21
+14: PythonGB: 15
+15: GoodTimeWithScar: 14
+16: Etho: 12
+17: BdoubleO100: 11
+18: MumboJumbo: 10
+19: Biffa2001: 7
+20: Stressmonster101: 7
+21: Tinfoilchef: 5
+22: Docm77: 4
+23: VintageBeef: 3
+24: xisumavoid: 3
+Total 838

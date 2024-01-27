@@ -1,0 +1,28 @@
+minecraft.mined.warped_roots
+1: ZombieCleo: 1816
+2: PearlescentMoon: 1179
+3: falsesymmetry: 995
+4: Etho: 765
+5: BdoubleO100: 329
+6: Keralis1: 178
+7: Tango: 142
+8: GoodTimeWithScar: 118
+9: Grian: 116
+10: Xisuma: 97
+11: GeminiTay: 83
+12: Mumbo: 47
+13: VintageBeef: 39
+14: cubfan135: 36
+15: iJevin: 24
+16: Renthedog: 16
+17: xBCrafted: 11
+18: impulseSV: 11
+19: Zedaph: 6
+20: RentheKing: 4
+21: Docm77: 2
+22: OrionSound: 1
+23: joehillssays: 1
+24: iskall85: 1
+25: hypnotizd: 1
+26: Stressmonster101: 1
+Total 6019

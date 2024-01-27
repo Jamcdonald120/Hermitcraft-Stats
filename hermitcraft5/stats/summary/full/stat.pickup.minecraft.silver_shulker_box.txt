@@ -1,0 +1,18 @@
+stat.pickup.minecraft.silver_shulker_box
+1: cubfan135: 750
+2: iskall85: 355
+3: Xisuma: 250
+4: GoodTimeWithScar: 159
+5: Stressmonster101: 151
+6: xBCrafted: 125
+7: Renthedog: 73
+8: Welsknight: 61
+9: falsesymmetry: 60
+10: PythonGB: 51
+11: iJevin: 35
+12: MumboJumbo: 34
+13: Tango: 13
+14: Tinfoilchef: 5
+15: impulseSV: 3
+16: Zedaph: 3
+Total 2128

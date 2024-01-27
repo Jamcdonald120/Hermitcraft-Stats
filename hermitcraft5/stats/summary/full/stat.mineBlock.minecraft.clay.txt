@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.clay
+1: cubfan135: 5888
+2: falsesymmetry: 3312
+3: MumboJumbo: 2346
+4: PythonGB: 2246
+5: ZombieCleo: 1216
+6: Zedaph: 352
+7: Xisuma: 347
+8: Tinfoilchef: 256
+9: GoodTimeWithScar: 246
+10: BdoubleO100: 230
+11: Welsknight: 190
+12: Stressmonster101: 187
+13: Renthedog: 116
+14: Tango: 96
+15: iskall85: 86
+16: Etho: 66
+17: iJevin: 65
+18: joehillssays: 43
+19: Biffa2001: 37
+20: xBCrafted: 29
+21: VintageBeef: 13
+22: impulseSV: 1
+Total 17368

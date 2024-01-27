@@ -1,0 +1,17 @@
+stat.drop.minecraft.glowstone
+1: Tango: 466
+2: Zedaph: 122
+3: cubfan135: 55
+4: Xisuma: 37
+5: xBCrafted: 31
+6: impulseSV: 15
+7: MumboJumbo: 10
+8: Welsknight: 6
+9: joehillssays: 5
+10: GoodTimeWithScar: 5
+11: iskall85: 3
+12: ZombieCleo: 2
+13: Renthedog: 1
+14: PythonGB: 1
+15: Stressmonster101: 1
+Total 760

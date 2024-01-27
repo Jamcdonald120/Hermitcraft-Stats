@@ -1,0 +1,29 @@
+minecraft.used.stone_stairs
+1: falsesymmetry: 4062
+2: BdoubleO100: 2816
+3: Keralis1: 1883
+4: PearlescentMoon: 1229
+5: Xisuma: 1054
+6: Grian: 702
+7: Tango: 603
+8: iJevin: 596
+9: xBCrafted: 289
+10: GoodTimeWithScar: 267
+11: GeminiTay: 212
+12: Docm77: 137
+13: joehillssays: 125
+14: ZombieCleo: 121
+15: RentheKing: 111
+16: cubfan135: 106
+17: MythicalSausage: 88
+18: iskall85: 61
+19: hypnotizd: 50
+20: Renthedog: 42
+21: Zedaph: 37
+22: impulseSV: 26
+23: Smallishbeans: 24
+24: VintageBeef: 18
+25: Stressmonster101: 5
+26: Etho: 2
+27: Mumbo: 1
+Total 14667

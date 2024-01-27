@@ -1,0 +1,12 @@
+minecraft.mined.diorite_stairs
+1: Keralis1: 30
+2: BdoubleO100: 20
+3: Xisuma: 9
+4: GeminiTay: 9
+5: Tango: 7
+6: GoodTimeWithScar: 3
+7: Renthedog: 2
+8: Grian: 2
+9: falsesymmetry: 1
+10: cubfan135: 1
+Total 84

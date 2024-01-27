@@ -1,0 +1,21 @@
+stat.pickup.minecraft.stone_sword
+1: cubfan135: 240
+2: iskall85: 130
+3: GoodTimeWithScar: 108
+4: impulseSV: 106
+5: Tango: 67
+6: Xisuma: 54
+7: falsesymmetry: 37
+8: iJevin: 31
+9: Docm77: 19
+10: PythonGB: 17
+11: Welsknight: 16
+12: Etho: 16
+13: Biffa2001: 14
+14: Renthedog: 12
+15: Jessassin: 2
+16: hypnotizd: 2
+17: MumboJumbo: 2
+18: Tinfoilchef: 2
+19: joehillssays: 1
+Total 876

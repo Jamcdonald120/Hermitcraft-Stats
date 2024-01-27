@@ -1,0 +1,17 @@
+minecraft.crafted.light_gray_carpet
+1: falsesymmetry: 4059
+2: GoodTimeWithScar: 894
+3: impulseSV: 462
+4: iJevin: 288
+5: Tango: 235
+6: Grian: 192
+7: Renthedog: 99
+8: Xisuma: 54
+9: PearlescentMoon: 54
+10: GeminiTay: 36
+11: MumboJumbo: 30
+12: Welsknight: 18
+13: joehillssays: 6
+14: BdoubleO100: 6
+15: Keralis1: 6
+Total 6439

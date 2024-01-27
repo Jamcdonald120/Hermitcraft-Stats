@@ -1,0 +1,24 @@
+minecraft.used.stone_axe
+1: ZombieCleo: 4001
+2: BdoubleO100: 2358
+3: falsesymmetry: 852
+4: joehillssays: 555
+5: Grian: 430
+6: Tinfoilchef: 393
+7: PythonGB: 351
+8: iskall85: 253
+9: GoodTimeWithScar: 246
+10: Xisuma: 146
+11: Biffa2001: 136
+12: cubfan135: 132
+13: xBCrafted: 123
+14: Tango: 120
+15: EvilXisuma: 110
+16: iJevin: 106
+17: Zedaph: 83
+18: Docm77: 73
+19: Jessassin: 69
+20: Renthedog: 36
+21: Stressmonster101: 18
+22: MumboJumbo: 9
+Total 10600

@@ -1,0 +1,5 @@
+minecraft.used.acacia_hanging_sign
+1: cubfan135: 16
+2: GoodTimeWithScar: 5
+3: PearlescentMoon: 1
+Total 22

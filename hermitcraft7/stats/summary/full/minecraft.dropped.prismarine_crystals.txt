@@ -1,0 +1,19 @@
+minecraft.dropped.prismarine_crystals
+1: impulseSV: 9515
+2: Zedaph: 6918
+3: MumboJumbo: 638
+4: iJevin: 433
+5: Keralis1: 256
+6: Grian: 253
+7: falsesymmetry: 242
+8: Etho: 161
+9: Docm77: 66
+10: Tango: 28
+11: Renthedog: 23
+12: Xisuma: 21
+13: iskall85: 17
+14: GoodTimeWithScar: 6
+15: BdoubleO100: 5
+16: xBCrafted: 5
+17: cubfan135: 2
+Total 18589

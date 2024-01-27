@@ -1,0 +1,6 @@
+stat.mineBlock.minecraft.web
+1: Collen: 49
+2: Mumbo: 45
+3: Spumwackles: 12
+4: falsesymmetry: 4
+Total 110

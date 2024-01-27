@@ -1,0 +1,20 @@
+minecraft.dropped.nether_bricks
+1: GoodTimeWithScar: 1133
+2: Zedaph: 807
+3: Tango: 579
+4: cubfan135: 310
+5: impulseSV: 184
+6: Renthedog: 154
+7: iJevin: 138
+8: BdoubleO100: 97
+9: iskall85: 73
+10: Xisuma: 65
+11: Grian: 50
+12: Docm77: 48
+13: falsesymmetry: 41
+14: joehillssays: 39
+15: VintageBeef: 30
+16: xBCrafted: 30
+17: Keralis1: 26
+18: Etho: 15
+Total 3819

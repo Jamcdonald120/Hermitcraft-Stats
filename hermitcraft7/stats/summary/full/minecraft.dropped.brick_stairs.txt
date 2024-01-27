@@ -1,0 +1,9 @@
+minecraft.dropped.brick_stairs
+1: cubfan135: 98
+2: Etho: 88
+3: Zedaph: 4
+4: BdoubleO100: 3
+5: impulseSV: 3
+6: Grian: 2
+7: Tango: 2
+Total 200

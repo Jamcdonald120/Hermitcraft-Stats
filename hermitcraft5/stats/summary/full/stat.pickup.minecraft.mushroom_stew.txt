@@ -1,0 +1,9 @@
+stat.pickup.minecraft.mushroom_stew
+1: joehillssays: 35
+2: Tinfoilchef: 9
+3: Welsknight: 4
+4: falsesymmetry: 2
+5: iJevin: 1
+6: Tango: 1
+7: Zedaph: 1
+Total 53

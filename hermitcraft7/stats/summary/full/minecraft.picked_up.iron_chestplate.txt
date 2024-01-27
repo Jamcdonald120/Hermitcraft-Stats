@@ -1,0 +1,25 @@
+minecraft.picked_up.iron_chestplate
+1: Zedaph: 36
+2: Tango: 30
+3: xBCrafted: 21
+4: Etho: 20
+5: GoodTimeWithScar: 15
+6: VintageBeef: 13
+7: Grian: 11
+8: impulseSV: 9
+9: falsesymmetry: 8
+10: hypnotizd: 7
+11: Xisuma: 6
+12: cubfan135: 6
+13: Keralis1: 6
+14: iJevin: 5
+15: Welsknight: 5
+16: joehillssays: 4
+17: iskall85: 4
+18: Tinfoilchef: 3
+19: ZombieCleo: 2
+20: MumboJumbo: 2
+21: Docm77: 1
+22: BdoubleO100: 1
+23: Stressmonster101: 1
+Total 216

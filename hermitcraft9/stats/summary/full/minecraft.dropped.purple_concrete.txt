@@ -1,0 +1,5 @@
+minecraft.dropped.purple_concrete
+1: falsesymmetry: 263
+2: Docm77: 95
+3: impulseSV: 36
+Total 394

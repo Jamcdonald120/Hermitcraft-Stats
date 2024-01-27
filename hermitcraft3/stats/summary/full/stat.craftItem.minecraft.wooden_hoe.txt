@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.wooden_hoe
+1: sl1pg8r: 1
+2: Xisuma: 1
+3: falsesymmetry: 1
+4: ZombieCleo: 1
+5: Tinfoilchef: 1
+6: monkeyfarm: 1
+7: impulseSV: 1
+Total 7

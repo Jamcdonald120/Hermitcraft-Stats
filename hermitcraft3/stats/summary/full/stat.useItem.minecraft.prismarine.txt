@@ -1,0 +1,19 @@
+stat.useItem.minecraft.prismarine
+1: xBCrafted: 40552
+2: hypnotizd: 17445
+3: falsesymmetry: 9259
+4: ZombieCleo: 4584
+5: Xisuma: 2878
+6: Biffa2001: 1702
+7: Tinfoilchef: 1068
+8: monkeyfarm: 795
+9: impulseSV: 395
+10: Tango: 250
+11: zueljin: 243
+12: sl1pg8r: 126
+13: Mumbo: 42
+14: Spumwackles: 40
+15: iJevin: 2
+16: KingDaddyDMAC: 1
+17: Etho: 1
+Total 79383

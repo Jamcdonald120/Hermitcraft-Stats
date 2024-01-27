@@ -1,0 +1,24 @@
+minecraft.dropped.diamond
+1: GoodTimeWithScar: 2207
+2: cubfan135: 1154
+3: iskall85: 845
+4: Xisuma: 813
+5: Grian: 811
+6: Docm77: 724
+7: Renthedog: 638
+8: MumboJumbo: 478
+9: BdoubleO100: 394
+10: iJevin: 365
+11: Stressmonster101: 232
+12: falsesymmetry: 225
+13: Zedaph: 153
+14: impulseSV: 108
+15: joehillssays: 106
+16: Welsknight: 75
+17: Tango: 73
+18: PythonGB: 71
+19: Keralis1: 62
+20: ZombieCleo: 48
+21: Tinfoilchef: 33
+22: Biffa2001: 32
+Total 9647

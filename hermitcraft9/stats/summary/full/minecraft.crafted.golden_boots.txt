@@ -1,0 +1,17 @@
+minecraft.crafted.golden_boots
+1: Tango: 40
+2: cubfan135: 15
+3: Welsknight: 10
+4: Xisuma: 9
+5: iJevin: 9
+6: RentheKing: 8
+7: Zedaph: 8
+8: Renthedog: 4
+9: BdoubleO100: 3
+10: impulseSV: 3
+11: xBCrafted: 2
+12: VintageBeef: 1
+13: joehillssays: 1
+14: Pixlriffs: 1
+15: falsesymmetry: 1
+Total 115

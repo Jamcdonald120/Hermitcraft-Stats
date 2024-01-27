@@ -1,0 +1,6 @@
+minecraft.picked_up.light_gray_candle
+1: pillbugnine: 32
+2: iskall85: 18
+3: Tango: 16
+4: ZombieCleo: 1
+Total 67

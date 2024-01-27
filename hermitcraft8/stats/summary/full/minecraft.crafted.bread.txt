@@ -1,0 +1,23 @@
+minecraft.crafted.bread
+1: Xisuma: 3258
+2: joehillssays: 2005
+3: GoodTimeWithScar: 1623
+4: Grian: 1522
+5: iJevin: 1297
+6: hypnotizd: 1051
+7: Stressmonster101: 885
+8: Renthedog: 373
+9: xBCrafted: 227
+10: PearlescentMoon: 215
+11: ZombieCleo: 169
+12: VintageBeef: 154
+13: iskall85: 78
+14: MumboJumbo: 64
+15: falsesymmetry: 60
+16: cubfan135: 35
+17: Zedaph: 21
+18: Tango: 17
+19: Docm77: 12
+20: Etho: 8
+21: BdoubleO100: 5
+Total 13079

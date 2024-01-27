@@ -1,0 +1,20 @@
+minecraft.picked_up.brown_wool
+1: Xisuma: 6339
+2: ZombieCleo: 520
+3: iJevin: 387
+4: Renthedog: 278
+5: Welsknight: 274
+6: cubfan135: 223
+7: falsesymmetry: 167
+8: GoodTimeWithScar: 87
+9: Zedaph: 77
+10: Biffa2001: 67
+11: Grian: 45
+12: Tango: 33
+13: iskall85: 28
+14: joehillssays: 13
+15: xBCrafted: 4
+16: impulseSV: 3
+17: Docm77: 1
+18: Stressmonster101: 1
+Total 8547

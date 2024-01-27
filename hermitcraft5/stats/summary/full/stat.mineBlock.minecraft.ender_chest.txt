@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.ender_chest
+1: cubfan135: 2812
+2: Welsknight: 976
+3: GoodTimeWithScar: 644
+4: Xisuma: 511
+5: MumboJumbo: 323
+6: iskall85: 296
+7: Stressmonster101: 268
+8: PythonGB: 252
+9: Zedaph: 225
+10: Tango: 218
+11: impulseSV: 145
+12: xBCrafted: 121
+13: Biffa2001: 112
+14: falsesymmetry: 74
+15: iJevin: 72
+16: Tinfoilchef: 50
+17: Renthedog: 34
+18: Etho: 13
+19: joehillssays: 5
+20: Docm77: 1
+21: VintageBeef: 1
+Total 7153

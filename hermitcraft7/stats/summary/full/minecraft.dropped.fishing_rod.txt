@@ -1,0 +1,18 @@
+minecraft.dropped.fishing_rod
+1: Etho: 78
+2: hypnotizd: 35
+3: Tango: 17
+4: Zedaph: 10
+5: Renthedog: 6
+6: VintageBeef: 4
+7: Keralis1: 4
+8: iJevin: 3
+9: iskall85: 3
+10: GoodTimeWithScar: 3
+11: cubfan135: 2
+12: Docm77: 1
+13: Xisuma: 1
+14: Grian: 1
+15: BdoubleO100: 1
+16: falsesymmetry: 1
+Total 170

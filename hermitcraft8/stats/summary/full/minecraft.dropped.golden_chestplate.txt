@@ -1,0 +1,22 @@
+minecraft.dropped.golden_chestplate
+1: Tango: 97
+2: Xisuma: 71
+3: Grian: 32
+4: Docm77: 28
+5: Etho: 24
+6: hypnotizd: 17
+7: impulseSV: 14
+8: iJevin: 12
+9: Keralis1: 8
+10: Renthedog: 6
+11: PearlescentMoon: 6
+12: GoodTimeWithScar: 6
+13: iskall85: 3
+14: xBCrafted: 3
+15: falsesymmetry: 3
+16: VintageBeef: 2
+17: joehillssays: 2
+18: cubfan135: 2
+19: Zedaph: 2
+20: Stressmonster101: 1
+Total 339

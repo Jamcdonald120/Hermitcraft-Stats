@@ -1,0 +1,6 @@
+stat.drop.minecraft.nether_brick_stairs
+1: Tango: 1046
+2: Zedaph: 101
+3: iskall85: 3
+4: MumboJumbo: 3
+Total 1153

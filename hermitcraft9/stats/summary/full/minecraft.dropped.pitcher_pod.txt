@@ -1,0 +1,9 @@
+minecraft.dropped.pitcher_pod
+1: PearlescentMoon: 847
+2: Renthedog: 263
+3: Xisuma: 203
+4: ZombieCleo: 65
+5: GoodTimeWithScar: 6
+6: Docm77: 1
+7: falsesymmetry: 1
+Total 1386

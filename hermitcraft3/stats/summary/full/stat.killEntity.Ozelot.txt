@@ -1,0 +1,4 @@
+stat.killEntity.Ozelot
+1: Mumbo: 23
+2: xBCrafted: 6
+Total 29

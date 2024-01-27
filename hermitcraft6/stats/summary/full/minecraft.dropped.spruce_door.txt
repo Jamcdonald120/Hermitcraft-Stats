@@ -1,0 +1,15 @@
+minecraft.dropped.spruce_door
+1: Renthedog: 56
+2: Grian: 12
+3: GoodTimeWithScar: 8
+4: Tango: 7
+5: cubfan135: 7
+6: Stressmonster101: 6
+7: iskall85: 5
+8: falsesymmetry: 5
+9: Keralis1: 4
+10: Xisuma: 2
+11: iJevin: 2
+12: ZombieCleo: 1
+13: MumboJumbo: 1
+Total 116

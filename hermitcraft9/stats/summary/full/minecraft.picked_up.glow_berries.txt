@@ -1,0 +1,33 @@
+minecraft.picked_up.glow_berries
+1: cubfan135: 1270
+2: Etho: 721
+3: Tango: 610
+4: PearlescentMoon: 559
+5: Xisuma: 511
+6: iJevin: 460
+7: joehillssays: 439
+8: Grian: 410
+9: RentheKing: 269
+10: ZombieCleo: 239
+11: Renthedog: 235
+12: impulseSV: 212
+13: Zedaph: 159
+14: GeminiTay: 134
+15: hypnotizd: 128
+16: iskall85: 124
+17: xBCrafted: 110
+18: falsesymmetry: 84
+19: GoodTimeWithScar: 84
+20: Keralis1: 80
+21: BdoubleO100: 74
+22: VintageBeef: 67
+23: Stressmonster101: 30
+24: Docm77: 20
+25: MythicalSausage: 12
+26: Pixlriffs: 8
+27: Tinfoilchef: 8
+28: Welsknight: 2
+29: Mumbo: 2
+30: ShubbleYT: 2
+31: kingbdogz: 1
+Total 7064

@@ -1,0 +1,28 @@
+minecraft.used.diamond_shovel
+1: GoodTimeWithScar: 1001428
+2: Grian: 615040
+3: cubfan135: 567795
+4: falsesymmetry: 395424
+5: Xisuma: 371083
+6: iskall85: 358349
+7: Renthedog: 312762
+8: MumboJumbo: 258451
+9: Welsknight: 164485
+10: Tango: 135537
+11: Stressmonster101: 127374
+12: Docm77: 117682
+13: joehillssays: 104561
+14: iJevin: 96577
+15: impulseSV: 72448
+16: PythonGB: 43006
+17: Zedaph: 35573
+18: ZombieCleo: 25990
+19: BdoubleO100: 20465
+20: Tinfoilchef: 13458
+21: Biffa2001: 8874
+22: Keralis1: 8226
+23: xBCrafted: 5551
+24: HumanCleo: 1708
+25: Duke_da_dog: 71
+26: BadTimeWithScar: 10
+Total 4861928

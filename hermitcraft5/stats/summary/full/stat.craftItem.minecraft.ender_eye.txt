@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.ender_eye
+1: Tango: 201
+2: cubfan135: 117
+3: iskall85: 109
+4: GoodTimeWithScar: 58
+5: Welsknight: 49
+6: Stressmonster101: 38
+7: falsesymmetry: 36
+8: MumboJumbo: 35
+9: Biffa2001: 31
+10: Xisuma: 28
+11: impulseSV: 27
+12: Etho: 26
+13: Tinfoilchef: 24
+14: Renthedog: 23
+15: xBCrafted: 23
+16: Docm77: 17
+17: PythonGB: 17
+18: Zedaph: 14
+19: BdoubleO100: 8
+20: iJevin: 3
+Total 884

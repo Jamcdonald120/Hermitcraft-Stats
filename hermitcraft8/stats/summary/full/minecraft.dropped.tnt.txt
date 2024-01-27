@@ -1,0 +1,9 @@
+minecraft.dropped.tnt
+1: ZombieCleo: 128
+2: Grian: 109
+3: joehillssays: 10
+4: falsesymmetry: 10
+5: iJevin: 3
+6: BdoubleO100: 3
+7: GoodTimeWithScar: 1
+Total 264

@@ -1,0 +1,22 @@
+minecraft.picked_up.emerald_block
+1: cubfan135: 594
+2: Grian: 465
+3: iskall85: 343
+4: Xisuma: 147
+5: Docm77: 103
+6: GoodTimeWithScar: 73
+7: Stressmonster101: 73
+8: ZombieCleo: 67
+9: iJevin: 62
+10: MumboJumbo: 59
+11: joehillssays: 35
+12: Renthedog: 24
+13: falsesymmetry: 10
+14: PythonGB: 4
+15: BdoubleO100: 4
+16: Biffa2001: 4
+17: HumanCleo: 2
+18: Tango: 2
+19: Keralis1: 2
+20: impulseSV: 1
+Total 2074

@@ -1,0 +1,24 @@
+stat.killEntity.Enderman
+1: GoodTimeWithScar: 160059
+2: cubfan135: 106470
+3: falsesymmetry: 65926
+4: iJevin: 64088
+5: Xisuma: 40534
+6: Welsknight: 40503
+7: Tango: 28972
+8: iskall85: 25880
+9: Zedaph: 22152
+10: joehillssays: 16530
+11: impulseSV: 15747
+12: PythonGB: 9925
+13: Biffa2001: 9786
+14: Docm77: 6290
+15: Etho: 6013
+16: Renthedog: 5891
+17: MumboJumbo: 5470
+18: Tinfoilchef: 5227
+19: Stressmonster101: 2583
+20: xBCrafted: 1784
+21: VintageBeef: 11
+22: BdoubleO100: 2
+Total 639843

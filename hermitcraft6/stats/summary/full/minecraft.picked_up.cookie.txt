@@ -1,0 +1,21 @@
+minecraft.picked_up.cookie
+1: iskall85: 808
+2: PythonGB: 628
+3: GoodTimeWithScar: 574
+4: iJevin: 452
+5: Docm77: 387
+6: Grian: 253
+7: impulseSV: 172
+8: cubfan135: 144
+9: Stressmonster101: 65
+10: Renthedog: 41
+11: Tango: 30
+12: Xisuma: 27
+13: Zedaph: 22
+14: HumanCleo: 14
+15: falsesymmetry: 6
+16: Tinfoilchef: 6
+17: ZombieCleo: 3
+18: Welsknight: 2
+19: joehillssays: 1
+Total 3635

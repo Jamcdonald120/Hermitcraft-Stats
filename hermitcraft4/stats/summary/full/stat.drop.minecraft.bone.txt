@@ -1,0 +1,20 @@
+stat.drop.minecraft.bone
+1: MumboJumbo: 733
+2: impulseSV: 464
+3: GoodTimeWithScar: 370
+4: Xisuma: 254
+5: Tango: 236
+6: falsesymmetry: 209
+7: PythonGB: 145
+8: iskall85: 135
+9: Renthedog: 123
+10: Tinfoilchef: 72
+11: cubfan135: 26
+12: ZombieCleo: 16
+13: VintageBeef: 8
+14: iJevin: 8
+15: joehillssays: 8
+16: Welsknight: 5
+17: Etho: 5
+18: xBCrafted: 1
+Total 2818

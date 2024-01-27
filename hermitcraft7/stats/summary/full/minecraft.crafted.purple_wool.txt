@@ -1,0 +1,8 @@
+minecraft.crafted.purple_wool
+1: Xisuma: 197
+2: GoodTimeWithScar: 96
+3: xBCrafted: 84
+4: joehillssays: 71
+5: Zedaph: 21
+6: MumboJumbo: 16
+Total 485

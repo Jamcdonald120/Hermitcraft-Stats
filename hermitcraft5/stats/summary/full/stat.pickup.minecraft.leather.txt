@@ -1,0 +1,26 @@
+stat.pickup.minecraft.leather
+1: GoodTimeWithScar: 5238
+2: cubfan135: 2028
+3: Renthedog: 1760
+4: iskall85: 1706
+5: iJevin: 1672
+6: falsesymmetry: 1225
+7: Welsknight: 1175
+8: Tinfoilchef: 1134
+9: Zedaph: 1031
+10: MumboJumbo: 1020
+11: Tango: 665
+12: Xisuma: 567
+13: joehillssays: 510
+14: impulseSV: 447
+15: Etho: 412
+16: Stressmonster101: 306
+17: ZombieCleo: 195
+18: Biffa2001: 166
+19: VintageBeef: 156
+20: xisumavoid: 92
+21: Docm77: 86
+22: xBCrafted: 86
+23: PythonGB: 82
+24: BdoubleO100: 80
+Total 21839

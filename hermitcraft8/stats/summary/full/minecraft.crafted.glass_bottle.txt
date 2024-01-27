@@ -1,0 +1,26 @@
+minecraft.crafted.glass_bottle
+1: GoodTimeWithScar: 17997
+2: iJevin: 3717
+3: Etho: 1821
+4: cubfan135: 1764
+5: Docm77: 1251
+6: Zedaph: 660
+7: Tango: 615
+8: impulseSV: 471
+9: Keralis1: 414
+10: Renthedog: 174
+11: PearlescentMoon: 165
+12: falsesymmetry: 156
+13: joehillssays: 150
+14: GeminiTay: 123
+15: Xisuma: 96
+16: Grian: 69
+17: Tinfoilchef: 45
+18: hypnotizd: 42
+19: VintageBeef: 30
+20: iskall85: 21
+21: Stressmonster101: 21
+22: BdoubleO100: 18
+23: Welsknight: 9
+24: ZombieCleo: 3
+Total 29832

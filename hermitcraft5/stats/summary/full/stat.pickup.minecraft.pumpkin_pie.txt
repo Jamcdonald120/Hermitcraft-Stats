@@ -1,0 +1,4 @@
+stat.pickup.minecraft.pumpkin_pie
+1: cubfan135: 20
+2: Tango: 1
+Total 21

@@ -1,0 +1,21 @@
+minecraft.dropped.white_wool
+1: cubfan135: 274
+2: Tango: 233
+3: GoodTimeWithScar: 232
+4: Zedaph: 198
+5: impulseSV: 192
+6: iskall85: 183
+7: iJevin: 148
+8: MumboJumbo: 28
+9: Renthedog: 27
+10: Docm77: 23
+11: Grian: 16
+12: Stressmonster101: 15
+13: joehillssays: 9
+14: Xisuma: 7
+15: EvilXisuma: 4
+16: falsesymmetry: 3
+17: ZombieCleo: 2
+18: Biffa2001: 1
+19: BadTimeWithScar: 1
+Total 1596

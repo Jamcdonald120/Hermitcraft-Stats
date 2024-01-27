@@ -1,0 +1,20 @@
+stat.useItem.minecraft.writable_book
+1: Tango: 90
+2: Mumbo: 90
+3: falsesymmetry: 89
+4: xBCrafted: 44
+5: Spumwackles: 35
+6: zueljin: 32
+7: iJevin: 29
+8: impulseSV: 29
+9: Biffa2001: 22
+10: Xisuma: 19
+11: topmass: 16
+12: Tinfoilchef: 12
+13: sl1pg8r: 4
+14: ZombieCleo: 3
+15: PythonGB: 1
+16: KingDaddyDMAC: 1
+17: Etho: 1
+18: hypnotizd: 1
+Total 518

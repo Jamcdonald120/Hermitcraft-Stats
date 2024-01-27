@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.melon_block
+1: iskall85: 17016
+2: cubfan135: 5795
+3: MumboJumbo: 5103
+4: impulseSV: 1537
+5: Tango: 445
+6: Xisuma: 264
+7: Renthedog: 64
+8: PythonGB: 57
+9: Jessassin: 18
+10: Tinfoilchef: 15
+11: falsesymmetry: 11
+Total 30325

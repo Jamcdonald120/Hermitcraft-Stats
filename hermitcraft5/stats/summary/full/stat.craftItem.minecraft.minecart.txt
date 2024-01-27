@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.minecart
+1: Tango: 692
+2: impulseSV: 498
+3: cubfan135: 299
+4: Renthedog: 272
+5: MumboJumbo: 246
+6: iskall85: 132
+7: Docm77: 129
+8: Xisuma: 116
+9: PythonGB: 54
+10: Tinfoilchef: 54
+11: xBCrafted: 31
+12: falsesymmetry: 29
+13: Zedaph: 21
+14: GoodTimeWithScar: 18
+15: ZombieCleo: 14
+16: iJevin: 13
+17: Welsknight: 8
+18: VintageBeef: 7
+19: BdoubleO100: 5
+20: joehillssays: 4
+21: Stressmonster101: 4
+Total 2646

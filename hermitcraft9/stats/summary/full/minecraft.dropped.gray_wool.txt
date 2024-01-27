@@ -1,0 +1,19 @@
+minecraft.dropped.gray_wool
+1: VintageBeef: 832
+2: Renthedog: 579
+3: iJevin: 522
+4: falsesymmetry: 206
+5: Tango: 77
+6: ZombieCleo: 71
+7: iskall85: 64
+8: Docm77: 36
+9: cubfan135: 31
+10: Keralis1: 15
+11: Mumbo: 14
+12: GoodTimeWithScar: 8
+13: Etho: 3
+14: Grian: 2
+15: Xisuma: 1
+16: BdoubleO100: 1
+17: impulseSV: 1
+Total 2463

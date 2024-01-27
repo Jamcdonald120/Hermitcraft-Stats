@@ -1,0 +1,12 @@
+minecraft.crafted.acacia_pressure_plate
+1: Renthedog: 98
+2: GoodTimeWithScar: 10
+3: PearlescentMoon: 6
+4: Xisuma: 5
+5: Keralis1: 4
+6: Docm77: 2
+7: cubfan135: 1
+8: Stressmonster101: 1
+9: impulseSV: 1
+10: Zedaph: 1
+Total 129

@@ -1,0 +1,26 @@
+minecraft.dropped.bucket
+1: joehillssays: 305
+2: Tango: 125
+3: Keralis1: 102
+4: GoodTimeWithScar: 78
+5: Renthedog: 52
+6: iJevin: 50
+7: Zedaph: 40
+8: falsesymmetry: 25
+9: Xisuma: 21
+10: ZombieCleo: 15
+11: impulseSV: 15
+12: cubfan135: 14
+13: Stressmonster101: 13
+14: Docm77: 11
+15: Grian: 10
+16: Etho: 9
+17: PearlescentMoon: 5
+18: BdoubleO100: 3
+19: GeminiTay: 2
+20: hypnotizd: 2
+21: OrionSound: 1
+22: VintageBeef: 1
+23: iskall85: 1
+24: ShubbleYT: 1
+Total 901

@@ -1,0 +1,4 @@
+minecraft.mined.cherry_slab
+1: GeminiTay: 12
+2: Mumbo: 2
+Total 14

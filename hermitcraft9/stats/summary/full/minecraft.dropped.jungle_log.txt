@@ -1,0 +1,17 @@
+minecraft.dropped.jungle_log
+1: falsesymmetry: 1768
+2: PearlescentMoon: 511
+3: Keralis1: 125
+4: xBCrafted: 73
+5: GoodTimeWithScar: 73
+6: Grian: 66
+7: cubfan135: 39
+8: Zedaph: 37
+9: VintageBeef: 16
+10: Renthedog: 12
+11: iJevin: 11
+12: ZombieCleo: 10
+13: iskall85: 7
+14: Etho: 5
+15: Xisuma: 2
+Total 2755

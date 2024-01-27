@@ -1,0 +1,12 @@
+stat.drop.minecraft.coal_ore
+1: falsesymmetry: 419
+2: iskall85: 90
+3: MumboJumbo: 89
+4: Tango: 71
+5: Xisuma: 34
+6: GoodTimeWithScar: 29
+7: Renthedog: 14
+8: cubfan135: 10
+9: Etho: 7
+10: impulseSV: 4
+Total 767

@@ -1,0 +1,10 @@
+minecraft.mined.red_carpet
+1: PearlescentMoon: 57
+2: Tango: 24
+3: xBCrafted: 16
+4: falsesymmetry: 16
+5: Xisuma: 4
+6: Renthedog: 4
+7: ZombieCleo: 3
+8: GeminiTay: 1
+Total 125

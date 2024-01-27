@@ -1,0 +1,20 @@
+minecraft.picked_up.jungle_leaves
+1: GoodTimeWithScar: 4000
+2: Welsknight: 3661
+3: Zedaph: 3071
+4: Renthedog: 1903
+5: iskall85: 1590
+6: Xisuma: 1509
+7: cubfan135: 1341
+8: falsesymmetry: 605
+9: Grian: 254
+10: iJevin: 187
+11: Stressmonster101: 106
+12: Docm77: 61
+13: Jura_Whitey: 50
+14: BdoubleO100: 37
+15: Keralis1: 33
+16: Biffa2001: 8
+17: impulseSV: 7
+18: ZombieCleo: 4
+Total 18427

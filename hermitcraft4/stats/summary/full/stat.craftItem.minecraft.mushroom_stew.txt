@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.mushroom_stew
+1: joehillssays: 13
+2: iJevin: 1
+Total 14

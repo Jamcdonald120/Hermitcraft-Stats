@@ -1,0 +1,15 @@
+minecraft.crafted.netherite_scrap
+1: iJevin: 228
+2: PearlescentMoon: 150
+3: Welsknight: 89
+4: impulseSV: 83
+5: hypnotizd: 73
+6: cubfan135: 49
+7: xBCrafted: 24
+8: MumboJumbo: 24
+9: VintageBeef: 21
+10: Grian: 19
+11: Docm77: 16
+12: Renthedog: 16
+13: GeminiTay: 12
+Total 804

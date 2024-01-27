@@ -1,0 +1,6 @@
+stat.killEntity.Ozelot
+1: ZombieCleo: 13
+2: Xisuma: 4
+3: topmass: 1
+4: Mumbo: 1
+Total 19

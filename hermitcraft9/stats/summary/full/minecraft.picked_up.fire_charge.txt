@@ -1,0 +1,15 @@
+minecraft.picked_up.fire_charge
+1: Tango: 1553
+2: iJevin: 464
+3: iskall85: 135
+4: Etho: 69
+5: Xisuma: 48
+6: Grian: 23
+7: cubfan135: 20
+8: Docm77: 19
+9: PearlescentMoon: 16
+10: Zedaph: 7
+11: impulseSV: 4
+12: Renthedog: 2
+13: Pixlriffs: 1
+Total 2361

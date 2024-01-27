@@ -1,0 +1,17 @@
+minecraft.mined.brick_stairs
+1: Keralis1: 191
+2: cubfan135: 99
+3: xBCrafted: 87
+4: iJevin: 54
+5: Etho: 54
+6: Xisuma: 24
+7: iskall85: 13
+8: Grian: 12
+9: VintageBeef: 9
+10: BdoubleO100: 9
+11: Zedaph: 9
+12: GoodTimeWithScar: 8
+13: impulseSV: 4
+14: Tango: 2
+15: joehillssays: 1
+Total 576

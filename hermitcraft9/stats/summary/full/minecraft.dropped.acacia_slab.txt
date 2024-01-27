@@ -1,0 +1,11 @@
+minecraft.dropped.acacia_slab
+1: Keralis1: 66
+2: iJevin: 61
+3: GoodTimeWithScar: 21
+4: Grian: 14
+5: Tango: 4
+6: MythicalSausage: 3
+7: cubfan135: 3
+8: falsesymmetry: 1
+9: Etho: 1
+Total 174

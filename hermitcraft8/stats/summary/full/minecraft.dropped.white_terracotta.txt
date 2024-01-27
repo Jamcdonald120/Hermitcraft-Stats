@@ -1,0 +1,10 @@
+minecraft.dropped.white_terracotta
+1: Etho: 141
+2: BdoubleO100: 65
+3: impulseSV: 65
+4: PearlescentMoon: 52
+5: GoodTimeWithScar: 51
+6: joehillssays: 20
+7: Zedaph: 8
+8: xBCrafted: 3
+Total 405

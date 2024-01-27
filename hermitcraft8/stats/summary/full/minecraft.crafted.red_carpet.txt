@@ -1,0 +1,13 @@
+minecraft.crafted.red_carpet
+1: falsesymmetry: 886
+2: PearlescentMoon: 93
+3: Tango: 69
+4: Renthedog: 57
+5: xBCrafted: 27
+6: Xisuma: 24
+7: ZombieCleo: 15
+8: GeminiTay: 9
+9: BdoubleO100: 6
+10: cubfan135: 3
+11: Welsknight: 3
+Total 1192

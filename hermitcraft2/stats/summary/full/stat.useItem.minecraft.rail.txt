@@ -1,0 +1,11 @@
+stat.useItem.minecraft.rail
+1: Xisuma: 1476
+2: Mumbo: 618
+3: ZombieCleo: 384
+4: falsesymmetry: 207
+5: monkeyfarm: 65
+6: Spumwackles: 60
+7: Tango: 9
+8: zueljin: 5
+9: sl1pg8r: 2
+Total 2826

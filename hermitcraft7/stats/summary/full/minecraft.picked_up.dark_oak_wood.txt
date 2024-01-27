@@ -1,0 +1,16 @@
+minecraft.picked_up.dark_oak_wood
+1: GoodTimeWithScar: 601
+2: Renthedog: 153
+3: Keralis1: 124
+4: cubfan135: 88
+5: Etho: 83
+6: ZombieCleo: 19
+7: Grian: 11
+8: Docm77: 10
+9: BdoubleO100: 9
+10: Tango: 8
+11: Xisuma: 4
+12: Stressmonster101: 2
+13: iskall85: 1
+14: Zedaph: 1
+Total 1114

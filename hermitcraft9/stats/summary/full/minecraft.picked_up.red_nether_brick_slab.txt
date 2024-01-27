@@ -1,0 +1,3 @@
+minecraft.picked_up.red_nether_brick_slab
+1: Xisuma: 102
+Total 102

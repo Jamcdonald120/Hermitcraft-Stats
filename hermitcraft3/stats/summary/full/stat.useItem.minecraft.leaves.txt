@@ -1,0 +1,22 @@
+stat.useItem.minecraft.leaves
+1: falsesymmetry: 13837
+2: xBCrafted: 2332
+3: Xisuma: 1950
+4: zueljin: 1277
+5: Tango: 1110
+6: PythonGB: 839
+7: Mumbo: 674
+8: sl1pg8r: 622
+9: Spumwackles: 460
+10: Docm77: 279
+11: impulseSV: 272
+12: Etho: 196
+13: topmass: 85
+14: Keralis1: 82
+15: ZombieCleo: 64
+16: iJevin: 61
+17: monkeyfarm: 49
+18: Tinfoilchef: 28
+19: hypnotizd: 7
+20: Biffa2001: 6
+Total 24230

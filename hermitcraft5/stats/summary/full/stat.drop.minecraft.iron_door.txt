@@ -1,0 +1,13 @@
+stat.drop.minecraft.iron_door
+1: cubfan135: 15
+2: MumboJumbo: 10
+3: Xisuma: 6
+4: falsesymmetry: 4
+5: GoodTimeWithScar: 4
+6: Tango: 3
+7: iskall85: 3
+8: impulseSV: 3
+9: Renthedog: 1
+10: PythonGB: 1
+11: Zedaph: 1
+Total 51

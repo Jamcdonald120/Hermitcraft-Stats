@@ -1,0 +1,24 @@
+minecraft.picked_up.rooted_dirt
+1: cubfan135: 2661
+2: GoodTimeWithScar: 471
+3: PearlescentMoon: 334
+4: Renthedog: 141
+5: impulseSV: 68
+6: GeminiTay: 45
+7: falsesymmetry: 38
+8: Docm77: 35
+9: hypnotizd: 34
+10: MumboJumbo: 33
+11: Etho: 25
+12: Xisuma: 22
+13: Keralis1: 18
+14: Stressmonster101: 16
+15: iskall85: 14
+16: Tango: 10
+17: joehillssays: 7
+18: Grian: 4
+19: iJevin: 2
+20: BdoubleO100: 2
+21: xBCrafted: 1
+22: ZombieCleo: 1
+Total 3982

@@ -1,0 +1,12 @@
+stat.drop.minecraft.birch_boat
+1: Xisuma: 10
+2: Tango: 8
+3: falsesymmetry: 8
+4: cubfan135: 6
+5: impulseSV: 5
+6: GoodTimeWithScar: 2
+7: Renthedog: 1
+8: iJevin: 1
+9: iskall85: 1
+10: Tinfoilchef: 1
+Total 43

@@ -1,0 +1,10 @@
+minecraft.used.granite_stairs
+1: impulseSV: 831
+2: Xisuma: 62
+3: Tango: 45
+4: GeminiTay: 39
+5: BdoubleO100: 34
+6: Grian: 24
+7: cubfan135: 8
+8: Keralis1: 4
+Total 1047

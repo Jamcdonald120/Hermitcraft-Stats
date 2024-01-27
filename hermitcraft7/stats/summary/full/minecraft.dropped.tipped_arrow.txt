@@ -1,0 +1,11 @@
+minecraft.dropped.tipped_arrow
+1: Tango: 564
+2: Etho: 171
+3: hypnotizd: 151
+4: Zedaph: 58
+5: cubfan135: 27
+6: impulseSV: 22
+7: iskall85: 20
+8: Grian: 2
+9: GoodTimeWithScar: 2
+Total 1017

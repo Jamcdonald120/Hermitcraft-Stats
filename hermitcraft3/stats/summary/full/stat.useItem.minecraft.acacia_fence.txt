@@ -1,0 +1,9 @@
+stat.useItem.minecraft.acacia_fence
+1: Xisuma: 188
+2: Tango: 152
+3: zueljin: 70
+4: xBCrafted: 58
+5: falsesymmetry: 9
+6: ZombieCleo: 7
+7: topmass: 1
+Total 485

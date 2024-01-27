@@ -1,0 +1,21 @@
+minecraft.picked_up.purpur_stairs
+1: PearlescentMoon: 965
+2: iJevin: 158
+3: Renthedog: 67
+4: Keralis1: 60
+5: impulseSV: 28
+6: Xisuma: 17
+7: Tango: 17
+8: Etho: 15
+9: iskall85: 14
+10: cubfan135: 14
+11: GoodTimeWithScar: 13
+12: xBCrafted: 12
+13: Grian: 10
+14: hypnotizd: 7
+15: GeminiTay: 5
+16: ZombieCleo: 4
+17: VintageBeef: 3
+18: Zedaph: 3
+19: Docm77: 1
+Total 1413

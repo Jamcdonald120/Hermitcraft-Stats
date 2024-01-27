@@ -1,0 +1,21 @@
+minecraft.dropped.stone_pickaxe
+1: Docm77: 324
+2: impulseSV: 114
+3: iskall85: 41
+4: MumboJumbo: 26
+5: iJevin: 16
+6: hypnotizd: 12
+7: ZombieCleo: 10
+8: GoodTimeWithScar: 7
+9: BdoubleO100: 4
+10: falsesymmetry: 4
+11: Xisuma: 1
+12: VintageBeef: 1
+13: Grian: 1
+14: Tango: 1
+15: cubfan135: 1
+16: Etho: 1
+17: Stressmonster101: 1
+18: Keralis1: 1
+19: Zedaph: 1
+Total 567

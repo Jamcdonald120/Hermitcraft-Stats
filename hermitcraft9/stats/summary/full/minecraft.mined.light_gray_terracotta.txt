@@ -1,0 +1,27 @@
+minecraft.mined.light_gray_terracotta
+1: PearlescentMoon: 6243
+2: Etho: 3955
+3: VintageBeef: 2165
+4: Tango: 991
+5: falsesymmetry: 641
+6: Renthedog: 540
+7: Docm77: 391
+8: Keralis1: 215
+9: RentheKing: 117
+10: joehillssays: 100
+11: cubfan135: 84
+12: Zedaph: 75
+13: Grian: 68
+14: GeminiTay: 23
+15: ShubbleYT: 20
+16: impulseSV: 20
+17: iJevin: 18
+18: iskall85: 11
+19: BdoubleO100: 8
+20: Xisuma: 5
+21: Mumbo: 5
+22: GoodTimeWithScar: 5
+23: Pixlriffs: 3
+24: xBCrafted: 3
+25: ZombieCleo: 2
+Total 15708

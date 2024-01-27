@@ -1,0 +1,24 @@
+stat.useItem.minecraft.wooden_slab
+1: GoodTimeWithScar: 23057
+2: Xisuma: 14650
+3: falsesymmetry: 13446
+4: Renthedog: 12952
+5: MumboJumbo: 12828
+6: cubfan135: 11798
+7: Welsknight: 10246
+8: iskall85: 9842
+9: joehillssays: 2900
+10: ZombieCleo: 2819
+11: Etho: 2805
+12: Docm77: 1942
+13: PythonGB: 1750
+14: Tango: 1285
+15: VintageBeef: 1268
+16: iJevin: 1139
+17: xBCrafted: 643
+18: Tinfoilchef: 615
+19: impulseSV: 392
+20: Mumbo: 302
+21: zueljin: 179
+22: Biffa2001: 114
+Total 126972

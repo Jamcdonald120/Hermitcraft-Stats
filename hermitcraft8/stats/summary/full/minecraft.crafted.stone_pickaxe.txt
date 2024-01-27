@@ -1,0 +1,27 @@
+minecraft.crafted.stone_pickaxe
+1: GoodTimeWithScar: 42
+2: Zedaph: 28
+3: joehillssays: 25
+4: Xisuma: 12
+5: Tinfoilchef: 7
+6: BdoubleO100: 6
+7: Renthedog: 4
+8: VintageBeef: 4
+9: PearlescentMoon: 4
+10: hypnotizd: 4
+11: Grian: 3
+12: Tango: 3
+13: iskall85: 3
+14: xBCrafted: 3
+15: falsesymmetry: 3
+16: Etho: 3
+17: MumboJumbo: 3
+18: Docm77: 2
+19: iJevin: 2
+20: Welsknight: 2
+21: ZombieCleo: 2
+22: Stressmonster101: 2
+23: GeminiTay: 1
+24: cubfan135: 1
+25: impulseSV: 1
+Total 170

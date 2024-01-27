@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.detector_rail
+1: Xisuma: 6
+2: Mumbo: 6
+Total 12

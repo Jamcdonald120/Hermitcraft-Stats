@@ -1,0 +1,5 @@
+minecraft.dropped.red_nether_brick_wall
+1: cubfan135: 7
+2: Tango: 6
+3: Etho: 1
+Total 14

@@ -1,0 +1,4 @@
+stat.craftItem.23
+1: red3yz: 10
+2: Unhost: 3
+Total 13

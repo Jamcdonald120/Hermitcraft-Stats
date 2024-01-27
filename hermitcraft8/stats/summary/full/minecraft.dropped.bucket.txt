@@ -1,0 +1,21 @@
+minecraft.dropped.bucket
+1: MumboJumbo: 109
+2: BdoubleO100: 27
+3: xBCrafted: 17
+4: Xisuma: 15
+5: Tango: 15
+6: PearlescentMoon: 13
+7: cubfan135: 12
+8: GoodTimeWithScar: 10
+9: Grian: 8
+10: Keralis1: 8
+11: Docm77: 7
+12: iJevin: 5
+13: Renthedog: 3
+14: Welsknight: 3
+15: falsesymmetry: 2
+16: Etho: 2
+17: hypnotizd: 2
+18: impulseSV: 2
+19: Zedaph: 2
+Total 262

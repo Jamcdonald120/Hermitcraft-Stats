@@ -1,0 +1,27 @@
+stat.craftingTableInteraction
+1: cubfan135: 5734
+2: falsesymmetry: 5580
+3: Xisuma: 4691
+4: iskall85: 4131
+5: GoodTimeWithScar: 3659
+6: Tango: 3396
+7: Renthedog: 3184
+8: Tinfoilchef: 2455
+9: impulseSV: 2203
+10: MumboJumbo: 1991
+11: Welsknight: 1718
+12: joehillssays: 1329
+13: PythonGB: 1130
+14: VintageBeef: 833
+15: iJevin: 812
+16: ZombieCleo: 770
+17: Etho: 701
+18: Docm77: 537
+19: Biffa2001: 318
+20: Mumbo: 293
+21: zueljin: 160
+22: xBCrafted: 126
+23: Jessassin: 101
+24: hypnotizd: 19
+25: Biffa001: 1
+Total 45872

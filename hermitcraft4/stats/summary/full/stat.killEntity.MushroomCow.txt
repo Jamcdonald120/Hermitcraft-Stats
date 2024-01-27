@@ -1,0 +1,7 @@
+stat.killEntity.MushroomCow
+1: MumboJumbo: 32
+2: impulseSV: 13
+3: iskall85: 7
+4: falsesymmetry: 1
+5: Welsknight: 1
+Total 54

@@ -1,0 +1,15 @@
+minecraft.picked_up.birch_fence
+1: Grian: 257
+2: Renthedog: 192
+3: GeminiTay: 78
+4: Xisuma: 31
+5: PearlescentMoon: 24
+6: cubfan135: 23
+7: impulseSV: 22
+8: joehillssays: 18
+9: MumboJumbo: 14
+10: ZombieCleo: 8
+11: BdoubleO100: 5
+12: Docm77: 4
+13: GoodTimeWithScar: 1
+Total 677

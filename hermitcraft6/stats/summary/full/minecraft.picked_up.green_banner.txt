@@ -1,0 +1,12 @@
+minecraft.picked_up.green_banner
+1: cubfan135: 11
+2: Xisuma: 4
+3: iJevin: 4
+4: joehillssays: 3
+5: falsesymmetry: 3
+6: Docm77: 2
+7: iskall85: 2
+8: Stressmonster101: 2
+9: MumboJumbo: 1
+10: impulseSV: 1
+Total 33

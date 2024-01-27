@@ -1,0 +1,4 @@
+minecraft.used.golden_axe
+1: falsesymmetry: 33
+2: iJevin: 27
+Total 60

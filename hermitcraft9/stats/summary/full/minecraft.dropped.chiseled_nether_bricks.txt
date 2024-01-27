@@ -1,0 +1,5 @@
+minecraft.dropped.chiseled_nether_bricks
+1: Etho: 3
+2: cubfan135: 1
+3: GoodTimeWithScar: 1
+Total 5

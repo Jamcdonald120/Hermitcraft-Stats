@@ -1,0 +1,12 @@
+minecraft.crafted.prismarine_brick_stairs
+1: iJevin: 900
+2: impulseSV: 228
+3: ZombieCleo: 214
+4: GoodTimeWithScar: 192
+5: BdoubleO100: 88
+6: Grian: 72
+7: Keralis1: 64
+8: Tango: 8
+9: hypnotizd: 7
+10: MumboJumbo: 4
+Total 1777

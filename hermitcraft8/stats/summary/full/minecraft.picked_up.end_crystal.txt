@@ -1,0 +1,11 @@
+minecraft.picked_up.end_crystal
+1: Grian: 301
+2: MumboJumbo: 261
+3: iJevin: 172
+4: impulseSV: 76
+5: Docm77: 72
+6: Renthedog: 29
+7: iskall85: 22
+8: PearlescentMoon: 8
+9: Keralis1: 6
+Total 947

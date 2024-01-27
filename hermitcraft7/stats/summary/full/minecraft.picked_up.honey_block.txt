@@ -1,0 +1,24 @@
+minecraft.picked_up.honey_block
+1: Xisuma: 1620
+2: cubfan135: 1573
+3: iskall85: 1192
+4: Zedaph: 547
+5: Etho: 325
+6: Tango: 291
+7: MumboJumbo: 288
+8: Docm77: 232
+9: Grian: 141
+10: xBCrafted: 130
+11: VintageBeef: 129
+12: joehillssays: 90
+13: impulseSV: 90
+14: GoodTimeWithScar: 85
+15: ZombieCleo: 72
+16: falsesymmetry: 69
+17: BdoubleO100: 37
+18: Renthedog: 32
+19: Keralis1: 19
+20: iJevin: 7
+21: hypnotizd: 7
+22: Stressmonster101: 5
+Total 6981

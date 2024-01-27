@@ -1,0 +1,23 @@
+minecraft.mined.nether_bricks
+1: Xisuma: 1546
+2: cubfan135: 1390
+3: MumboJumbo: 1222
+4: Keralis1: 1055
+5: iJevin: 849
+6: VintageBeef: 269
+7: xBCrafted: 223
+8: iskall85: 185
+9: PearlescentMoon: 179
+10: Grian: 114
+11: ZombieCleo: 103
+12: GoodTimeWithScar: 81
+13: impulseSV: 62
+14: hypnotizd: 41
+15: GeminiTay: 29
+16: Etho: 23
+17: Welsknight: 15
+18: falsesymmetry: 11
+19: joehillssays: 10
+20: Renthedog: 4
+21: Zedaph: 2
+Total 7413

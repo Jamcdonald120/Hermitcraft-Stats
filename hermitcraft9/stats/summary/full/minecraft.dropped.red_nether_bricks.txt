@@ -1,0 +1,7 @@
+minecraft.dropped.red_nether_bricks
+1: falsesymmetry: 85
+2: Zedaph: 4
+3: Etho: 3
+4: iJevin: 2
+5: GoodTimeWithScar: 2
+Total 96

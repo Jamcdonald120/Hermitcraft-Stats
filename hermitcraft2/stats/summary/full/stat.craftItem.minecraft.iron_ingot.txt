@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.iron_ingot
+1: Xisuma: 18458
+2: Tango: 6840
+3: iJevin: 3286
+4: Spumwackles: 1635
+5: ZombieCleo: 1177
+6: falsesymmetry: 1080
+7: Tinfoilchef: 873
+8: sl1pg8r: 694
+9: Mumbo: 405
+10: xBCrafted: 351
+11: zueljin: 200
+12: Biffa2001: 117
+13: monkeyfarm: 63
+14: KingDaddyDMAC: 36
+15: NameOfSamuel: 18
+16: joehillssays: 9
+Total 35242

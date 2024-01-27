@@ -1,0 +1,22 @@
+minecraft.picked_up.mossy_cobblestone
+1: cubfan135: 514
+2: iskall85: 409
+3: Docm77: 341
+4: Grian: 256
+5: Keralis1: 242
+6: Xisuma: 205
+7: PearlescentMoon: 178
+8: BdoubleO100: 167
+9: Etho: 159
+10: joehillssays: 145
+11: GoodTimeWithScar: 121
+12: Renthedog: 120
+13: falsesymmetry: 119
+14: Stressmonster101: 65
+15: impulseSV: 58
+16: hypnotizd: 54
+17: Tango: 52
+18: GeminiTay: 8
+19: xBCrafted: 5
+20: iJevin: 4
+Total 3222

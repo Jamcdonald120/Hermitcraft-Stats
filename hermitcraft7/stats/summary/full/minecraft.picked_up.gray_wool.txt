@@ -1,0 +1,25 @@
+minecraft.picked_up.gray_wool
+1: Grian: 15533
+2: falsesymmetry: 7616
+3: Etho: 3285
+4: Keralis1: 1895
+5: VintageBeef: 1381
+6: Tango: 1010
+7: GoodTimeWithScar: 872
+8: BdoubleO100: 556
+9: Xisuma: 529
+10: Zedaph: 367
+11: iJevin: 331
+12: Renthedog: 249
+13: ZombieCleo: 198
+14: cubfan135: 196
+15: impulseSV: 106
+16: MumboJumbo: 64
+17: joehillssays: 58
+18: hypnotizd: 36
+19: Docm77: 28
+20: Stressmonster101: 27
+21: iskall85: 13
+22: xBCrafted: 11
+23: Welsknight: 1
+Total 34362

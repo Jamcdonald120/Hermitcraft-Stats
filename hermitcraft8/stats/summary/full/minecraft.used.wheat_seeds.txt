@@ -1,0 +1,26 @@
+minecraft.used.wheat_seeds
+1: joehillssays: 20782
+2: BdoubleO100: 12528
+3: Xisuma: 10185
+4: Renthedog: 9874
+5: ZombieCleo: 7753
+6: Grian: 7582
+7: hypnotizd: 7549
+8: GoodTimeWithScar: 7519
+9: Etho: 5590
+10: impulseSV: 3824
+11: GeminiTay: 2327
+12: PearlescentMoon: 2206
+13: Zedaph: 2168
+14: xBCrafted: 2157
+15: Docm77: 1867
+16: cubfan135: 1773
+17: VintageBeef: 1409
+18: MumboJumbo: 1277
+19: Welsknight: 1073
+20: falsesymmetry: 866
+21: Tango: 608
+22: Stressmonster101: 361
+23: iskall85: 292
+24: iJevin: 89
+Total 111659

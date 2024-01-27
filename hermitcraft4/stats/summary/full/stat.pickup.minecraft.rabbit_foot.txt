@@ -1,0 +1,9 @@
+stat.pickup.minecraft.rabbit_foot
+1: Tango: 10
+2: falsesymmetry: 8
+3: cubfan135: 7
+4: Renthedog: 5
+5: joehillssays: 2
+6: VintageBeef: 1
+7: impulseSV: 1
+Total 34

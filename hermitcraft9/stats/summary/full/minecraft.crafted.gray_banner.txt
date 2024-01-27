@@ -1,0 +1,13 @@
+minecraft.crafted.gray_banner
+1: Keralis1: 90
+2: impulseSV: 51
+3: cubfan135: 47
+4: BdoubleO100: 30
+5: PearlescentMoon: 22
+6: iJevin: 8
+7: Xisuma: 2
+8: Renthedog: 2
+9: GoodTimeWithScar: 2
+10: joehillssays: 1
+11: Zedaph: 1
+Total 256

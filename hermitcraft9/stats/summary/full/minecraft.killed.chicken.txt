@@ -1,0 +1,29 @@
+minecraft.killed.chicken
+1: cubfan135: 12708
+2: Docm77: 4628
+3: Grian: 2233
+4: ZombieCleo: 860
+5: Zedaph: 513
+6: GoodTimeWithScar: 279
+7: Renthedog: 179
+8: Etho: 156
+9: iJevin: 115
+10: VintageBeef: 96
+11: hypnotizd: 65
+12: Xisuma: 52
+13: impulseSV: 35
+14: PearlescentMoon: 26
+15: xBCrafted: 23
+16: joehillssays: 20
+17: falsesymmetry: 19
+18: iskall85: 11
+19: RentheKing: 9
+20: BdoubleO100: 8
+21: Keralis1: 8
+22: Mumbo: 7
+23: Tango: 6
+24: Pixlriffs: 6
+25: Stressmonster101: 6
+26: GeminiTay: 4
+27: SolidarityGaming: 2
+Total 22074

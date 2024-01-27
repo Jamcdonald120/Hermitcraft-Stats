@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.item_frame
+1: Tango: 133
+2: ZombieCleo: 60
+3: Spumwackles: 57
+4: zueljin: 39
+5: Xisuma: 24
+6: Tinfoilchef: 8
+7: falsesymmetry: 2
+Total 323

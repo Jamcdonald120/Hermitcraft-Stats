@@ -1,0 +1,14 @@
+minecraft.picked_up.acacia_trapdoor
+1: GoodTimeWithScar: 157
+2: Xisuma: 119
+3: BdoubleO100: 91
+4: impulseSV: 82
+5: PearlescentMoon: 71
+6: Docm77: 52
+7: joehillssays: 34
+8: Grian: 19
+9: Keralis1: 14
+10: falsesymmetry: 10
+11: Renthedog: 9
+12: cubfan135: 1
+Total 659

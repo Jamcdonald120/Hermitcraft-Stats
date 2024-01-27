@@ -1,0 +1,16 @@
+minecraft.crafted.blue_wool
+1: iJevin: 432
+2: GoodTimeWithScar: 312
+3: Tango: 192
+4: Grian: 125
+5: Xisuma: 103
+6: cubfan135: 90
+7: xBCrafted: 86
+8: joehillssays: 78
+9: MumboJumbo: 19
+10: Stressmonster101: 7
+11: Keralis1: 7
+12: Zedaph: 4
+13: VintageBeef: 3
+14: ZombieCleo: 2
+Total 1460

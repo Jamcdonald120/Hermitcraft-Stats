@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.detector_rail
+1: iskall85: 57
+2: Xisuma: 43
+3: VintageBeef: 36
+4: impulseSV: 35
+5: Renthedog: 21
+6: Tango: 19
+7: Biffa2001: 13
+8: MumboJumbo: 7
+9: falsesymmetry: 6
+10: cubfan135: 4
+Total 241

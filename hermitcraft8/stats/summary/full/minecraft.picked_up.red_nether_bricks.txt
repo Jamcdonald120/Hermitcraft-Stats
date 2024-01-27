@@ -1,0 +1,9 @@
+minecraft.picked_up.red_nether_bricks
+1: Tango: 75
+2: GoodTimeWithScar: 51
+3: iJevin: 48
+4: PearlescentMoon: 14
+5: impulseSV: 4
+6: EvilXisuma: 3
+7: Grian: 3
+Total 198

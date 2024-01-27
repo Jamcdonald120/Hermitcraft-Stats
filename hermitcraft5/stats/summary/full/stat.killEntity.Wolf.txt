@@ -1,0 +1,7 @@
+stat.killEntity.Wolf
+1: MumboJumbo: 19
+2: cubfan135: 7
+3: iskall85: 5
+4: Renthedog: 1
+5: PythonGB: 1
+Total 33

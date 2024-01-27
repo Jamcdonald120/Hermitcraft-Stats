@@ -1,0 +1,12 @@
+minecraft.dropped.polished_deepslate_stairs
+1: Tango: 605
+2: falsesymmetry: 227
+3: impulseSV: 134
+4: GoodTimeWithScar: 82
+5: Renthedog: 40
+6: Keralis1: 28
+7: cubfan135: 4
+8: Zedaph: 3
+9: MythicalSausage: 1
+10: Grian: 1
+Total 1125

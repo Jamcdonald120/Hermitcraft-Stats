@@ -1,0 +1,15 @@
+minecraft.picked_up.pitcher_plant
+1: PearlescentMoon: 76
+2: ZombieCleo: 63
+3: Renthedog: 49
+4: GeminiTay: 22
+5: cubfan135: 17
+6: GoodTimeWithScar: 14
+7: Etho: 12
+8: falsesymmetry: 11
+9: Grian: 8
+10: Zedaph: 3
+11: Docm77: 2
+12: Keralis1: 1
+13: impulseSV: 1
+Total 279

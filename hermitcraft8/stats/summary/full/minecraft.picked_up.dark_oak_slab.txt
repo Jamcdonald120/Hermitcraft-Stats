@@ -1,0 +1,23 @@
+minecraft.picked_up.dark_oak_slab
+1: Grian: 756
+2: joehillssays: 393
+3: GeminiTay: 190
+4: xBCrafted: 163
+5: GoodTimeWithScar: 126
+6: falsesymmetry: 103
+7: Renthedog: 84
+8: Keralis1: 67
+9: Welsknight: 66
+10: BdoubleO100: 61
+11: impulseSV: 57
+12: ZombieCleo: 35
+13: Docm77: 23
+14: iskall85: 23
+15: cubfan135: 22
+16: Tango: 14
+17: Xisuma: 12
+18: Stressmonster101: 12
+19: MumboJumbo: 11
+20: PearlescentMoon: 9
+21: VintageBeef: 4
+Total 2231

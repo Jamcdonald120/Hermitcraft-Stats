@@ -1,0 +1,13 @@
+minecraft.crafted.smooth_sandstone_stairs
+1: ZombieCleo: 605
+2: xBCrafted: 81
+3: falsesymmetry: 72
+4: impulseSV: 21
+5: cubfan135: 12
+6: iJevin: 8
+7: joehillssays: 8
+8: Welsknight: 5
+9: Etho: 5
+10: GeminiTay: 4
+11: GoodTimeWithScar: 4
+Total 825

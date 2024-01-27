@@ -1,0 +1,7 @@
+stat.useItem.minecraft.double_plant
+1: ZombieCleo: 44
+2: zueljin: 26
+3: falsesymmetry: 14
+4: Xisuma: 2
+5: Tango: 1
+Total 87

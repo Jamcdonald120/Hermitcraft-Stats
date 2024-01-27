@@ -1,0 +1,27 @@
+minecraft.picked_up.beef
+1: ZombieCleo: 6230
+2: falsesymmetry: 6121
+3: GoodTimeWithScar: 4128
+4: Grian: 3513
+5: Zedaph: 1182
+6: Xisuma: 1053
+7: impulseSV: 901
+8: HumanCleo: 803
+9: Welsknight: 713
+10: cubfan135: 646
+11: Tango: 611
+12: Docm77: 512
+13: iJevin: 508
+14: iskall85: 416
+15: Stressmonster101: 339
+16: Renthedog: 319
+17: Tinfoilchef: 253
+18: Biffa2001: 176
+19: BdoubleO100: 157
+20: MumboJumbo: 148
+21: joehillssays: 130
+22: PythonGB: 101
+23: Jessassin: 19
+24: EvilXisuma: 14
+25: Keralis1: 9
+Total 29002

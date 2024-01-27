@@ -1,0 +1,5 @@
+minecraft.picked_up.golden_axe
+1: iJevin: 2
+2: cubfan135: 2
+3: VintageBeef: 1
+Total 5

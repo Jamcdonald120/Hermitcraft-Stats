@@ -1,0 +1,23 @@
+minecraft.picked_up.oak_fence_gate
+1: Tango: 370
+2: impulseSV: 232
+3: iskall85: 208
+4: Zedaph: 71
+5: iJevin: 68
+6: joehillssays: 65
+7: Keralis1: 65
+8: Renthedog: 54
+9: Xisuma: 33
+10: VintageBeef: 27
+11: cubfan135: 20
+12: Grian: 18
+13: GoodTimeWithScar: 12
+14: falsesymmetry: 10
+15: Stressmonster101: 10
+16: hypnotizd: 7
+17: BdoubleO100: 4
+18: xBCrafted: 2
+19: ZombieCleo: 2
+20: Docm77: 1
+21: MumboJumbo: 1
+Total 1280

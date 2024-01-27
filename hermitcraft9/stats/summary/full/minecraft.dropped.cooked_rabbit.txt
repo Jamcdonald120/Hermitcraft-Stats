@@ -1,0 +1,4 @@
+minecraft.dropped.cooked_rabbit
+1: Zedaph: 105
+2: Keralis1: 5
+Total 110

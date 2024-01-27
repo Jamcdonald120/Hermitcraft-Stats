@@ -1,0 +1,23 @@
+minecraft.crafted.red_shulker_box
+1: VintageBeef: 29
+2: Xisuma: 11
+3: Grian: 5
+4: PearlescentMoon: 4
+5: ZombieCleo: 4
+6: Renthedog: 3
+7: Keralis1: 3
+8: Docm77: 2
+9: joehillssays: 2
+10: cubfan135: 2
+11: hypnotizd: 2
+12: impulseSV: 2
+13: GeminiTay: 1
+14: Tango: 1
+15: BdoubleO100: 1
+16: iskall85: 1
+17: xBCrafted: 1
+18: falsesymmetry: 1
+19: Welsknight: 1
+20: Etho: 1
+21: Zedaph: 1
+Total 78

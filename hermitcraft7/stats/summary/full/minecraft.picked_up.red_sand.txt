@@ -1,0 +1,24 @@
+minecraft.picked_up.red_sand
+1: Renthedog: 49707
+2: falsesymmetry: 32065
+3: GoodTimeWithScar: 16337
+4: joehillssays: 13982
+5: Grian: 10582
+6: Etho: 9988
+7: hypnotizd: 7042
+8: Keralis1: 4637
+9: Xisuma: 2849
+10: VintageBeef: 1314
+11: Stressmonster101: 1015
+12: BdoubleO100: 956
+13: cubfan135: 907
+14: Zedaph: 880
+15: iskall85: 518
+16: Tango: 457
+17: impulseSV: 281
+18: iJevin: 107
+19: Docm77: 76
+20: Welsknight: 64
+21: xBCrafted: 57
+22: MumboJumbo: 3
+Total 153824

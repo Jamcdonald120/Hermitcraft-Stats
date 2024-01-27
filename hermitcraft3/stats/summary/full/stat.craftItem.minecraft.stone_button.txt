@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.stone_button
+1: falsesymmetry: 698
+2: Xisuma: 266
+3: Mumbo: 121
+4: xBCrafted: 115
+5: sl1pg8r: 111
+6: Etho: 68
+7: monkeyfarm: 47
+8: impulseSV: 36
+9: Tango: 28
+10: topmass: 18
+11: Docm77: 17
+12: zueljin: 17
+13: Biffa2001: 7
+14: PythonGB: 6
+15: ZombieCleo: 6
+16: KingDaddyDMAC: 5
+17: Tinfoilchef: 5
+18: hypnotizd: 4
+19: iJevin: 2
+20: Spumwackles: 2
+Total 1579

@@ -1,0 +1,11 @@
+minecraft.picked_up.fire_coral_block
+1: Renthedog: 1066
+2: Xisuma: 1022
+3: cubfan135: 204
+4: BdoubleO100: 73
+5: Grian: 24
+6: iJevin: 12
+7: Docm77: 6
+8: falsesymmetry: 4
+9: impulseSV: 4
+Total 2415

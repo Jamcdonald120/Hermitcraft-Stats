@@ -1,0 +1,29 @@
+minecraft.picked_up.cobbled_deepslate_slab
+1: VintageBeef: 5901
+2: PearlescentMoon: 1897
+3: iJevin: 1347
+4: xBCrafted: 832
+5: Tango: 634
+6: Renthedog: 365
+7: Grian: 301
+8: falsesymmetry: 226
+9: RentheKing: 148
+10: Docm77: 138
+11: Keralis1: 97
+12: Xisuma: 85
+13: GoodTimeWithScar: 82
+14: cubfan135: 78
+15: GeminiTay: 67
+16: ZombieCleo: 32
+17: impulseSV: 26
+18: BdoubleO100: 25
+19: Etho: 17
+20: joehillssays: 9
+21: Welsknight: 8
+22: Zedaph: 6
+23: MythicalSausage: 5
+24: hypnotizd: 4
+25: Mumbo: 3
+26: OrionSound: 1
+27: MumboJumbo: 1
+Total 12335

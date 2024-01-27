@@ -1,0 +1,18 @@
+minecraft.picked_up.yellow_concrete
+1: Renthedog: 3309
+2: iskall85: 2613
+3: Xisuma: 2023
+4: MumboJumbo: 1586
+5: GoodTimeWithScar: 1559
+6: impulseSV: 994
+7: PythonGB: 905
+8: Grian: 826
+9: falsesymmetry: 621
+10: cubfan135: 367
+11: iJevin: 344
+12: Docm77: 253
+13: Stressmonster101: 165
+14: Tango: 142
+15: BdoubleO100: 35
+16: Welsknight: 1
+Total 15743

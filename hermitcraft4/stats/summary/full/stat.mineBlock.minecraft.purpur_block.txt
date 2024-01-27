@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.purpur_block
+1: Renthedog: 3098
+2: Xisuma: 763
+3: impulseSV: 408
+4: Tango: 187
+5: cubfan135: 172
+6: iskall85: 170
+7: GoodTimeWithScar: 163
+8: iJevin: 136
+9: PythonGB: 79
+10: Tinfoilchef: 65
+11: Welsknight: 40
+12: falsesymmetry: 23
+13: MumboJumbo: 22
+Total 5326

@@ -1,0 +1,11 @@
+minecraft.dropped.carrot_on_a_stick
+1: Keralis1: 17
+2: Zedaph: 12
+3: OrionSound: 3
+4: MythicalSausage: 2
+5: Xisuma: 1
+6: joehillssays: 1
+7: Grian: 1
+8: falsesymmetry: 1
+9: Stressmonster101: 1
+Total 39

@@ -1,0 +1,4 @@
+minecraft.dropped.cut_red_sandstone
+1: Etho: 2
+2: falsesymmetry: 1
+Total 3

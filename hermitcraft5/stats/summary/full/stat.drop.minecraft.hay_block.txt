@@ -1,0 +1,3 @@
+stat.drop.minecraft.hay_block
+1: cubfan135: 99
+Total 99

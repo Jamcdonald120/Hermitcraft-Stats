@@ -1,0 +1,23 @@
+minecraft.picked_up.glass_pane
+1: Zedaph: 3444
+2: Grian: 683
+3: VintageBeef: 389
+4: xBCrafted: 339
+5: iJevin: 198
+6: joehillssays: 195
+7: cubfan135: 195
+8: ZombieCleo: 173
+9: Tinfoilchef: 141
+10: Renthedog: 108
+11: Keralis1: 83
+12: impulseSV: 79
+13: Xisuma: 78
+14: Etho: 76
+15: iskall85: 65
+16: MumboJumbo: 60
+17: falsesymmetry: 39
+18: Tango: 28
+19: hypnotizd: 9
+20: Docm77: 3
+21: GoodTimeWithScar: 2
+Total 6387

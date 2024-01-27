@@ -1,0 +1,30 @@
+stat.killEntity.Skeleton
+1: KingDaddyDMAC: 3480
+2: xBCrafted: 1496
+3: topmass: 1000
+4: Xisuma: 964
+5: impulseSV: 928
+6: Tango: 774
+7: falsesymmetry: 721
+8: PythonGB: 417
+9: zueljin: 389
+10: Mumbo: 299
+11: Biffa2001: 266
+12: Spumwackles: 221
+13: monkeyfarm: 203
+14: hypnotizd: 193
+15: sl1pg8r: 160
+16: ZombieCleo: 120
+17: iJevin: 104
+18: Tinfoilchef: 102
+19: Etho: 100
+20: skyzm: 50
+21: Keralis1: 42
+22: Docm77: 32
+23: NameOfSamuel: 30
+24: Collen: 21
+25: Pungence: 19
+26: joehillssays: 12
+27: Mrs_Keralis: 8
+28: snipepager: 1
+Total 12152

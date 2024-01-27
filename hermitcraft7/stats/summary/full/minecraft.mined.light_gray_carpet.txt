@@ -1,0 +1,25 @@
+minecraft.mined.light_gray_carpet
+1: falsesymmetry: 2006
+2: Stressmonster101: 1086
+3: impulseSV: 426
+4: Zedaph: 269
+5: iskall85: 229
+6: Keralis1: 214
+7: Tango: 168
+8: cubfan135: 128
+9: Grian: 91
+10: GoodTimeWithScar: 83
+11: VintageBeef: 79
+12: Xisuma: 77
+13: Etho: 52
+14: joehillssays: 42
+15: Welsknight: 27
+16: BdoubleO100: 26
+17: xBCrafted: 21
+18: MumboJumbo: 18
+19: iJevin: 10
+20: Docm77: 9
+21: Renthedog: 6
+22: hypnotizd: 4
+23: ZombieCleo: 1
+Total 5072

@@ -1,0 +1,23 @@
+minecraft.dropped.basalt
+1: Renthedog: 3093
+2: cubfan135: 1931
+3: Zedaph: 814
+4: iJevin: 679
+5: GoodTimeWithScar: 521
+6: Grian: 369
+7: iskall85: 349
+8: hypnotizd: 254
+9: VintageBeef: 248
+10: falsesymmetry: 206
+11: Etho: 197
+12: Xisuma: 108
+13: Tango: 94
+14: BdoubleO100: 67
+15: Docm77: 31
+16: Keralis1: 31
+17: MumboJumbo: 29
+18: Stressmonster101: 27
+19: xBCrafted: 14
+20: impulseSV: 3
+21: joehillssays: 1
+Total 9066

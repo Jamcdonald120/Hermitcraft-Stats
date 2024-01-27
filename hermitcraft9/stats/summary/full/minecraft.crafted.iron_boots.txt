@@ -1,0 +1,31 @@
+minecraft.crafted.iron_boots
+1: iJevin: 136
+2: cubfan135: 52
+3: Grian: 26
+4: impulseSV: 21
+5: iskall85: 11
+6: Docm77: 8
+7: VintageBeef: 8
+8: Renthedog: 6
+9: Tango: 6
+10: ZombieCleo: 6
+11: hypnotizd: 5
+12: Zedaph: 5
+13: Welsknight: 4
+14: RentheKing: 4
+15: GeminiTay: 3
+16: PearlescentMoon: 3
+17: Xisuma: 2
+18: joehillssays: 2
+19: falsesymmetry: 2
+20: Etho: 2
+21: Mumbo: 2
+22: Keralis1: 2
+23: Smajor1995: 1
+24: MythicalSausage: 1
+25: Pixlriffs: 1
+26: xBCrafted: 1
+27: MumboJumbo: 1
+28: Stressmonster101: 1
+29: ShubbleYT: 1
+Total 323

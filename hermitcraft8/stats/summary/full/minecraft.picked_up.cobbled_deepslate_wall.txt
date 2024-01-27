@@ -1,0 +1,18 @@
+minecraft.picked_up.cobbled_deepslate_wall
+1: joehillssays: 123
+2: Docm77: 100
+3: Renthedog: 88
+4: hypnotizd: 67
+5: GoodTimeWithScar: 62
+6: cubfan135: 55
+7: Grian: 32
+8: Xisuma: 20
+9: Tango: 16
+10: ZombieCleo: 8
+11: VintageBeef: 5
+12: impulseSV: 5
+13: Welsknight: 3
+14: EvilXisuma: 2
+15: BdoubleO100: 2
+16: Stressmonster101: 2
+Total 590

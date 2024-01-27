@@ -1,0 +1,19 @@
+minecraft.picked_up.birch_stairs
+1: cubfan135: 3021
+2: impulseSV: 2289
+3: falsesymmetry: 458
+4: Stressmonster101: 448
+5: Xisuma: 302
+6: GoodTimeWithScar: 128
+7: Grian: 121
+8: iskall85: 86
+9: MumboJumbo: 81
+10: Docm77: 50
+11: Renthedog: 42
+12: Keralis1: 15
+13: Tango: 13
+14: Tinfoilchef: 9
+15: ZombieCleo: 7
+16: BdoubleO100: 2
+17: Zedaph: 1
+Total 7073

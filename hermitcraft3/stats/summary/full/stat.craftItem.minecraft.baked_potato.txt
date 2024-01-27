@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.baked_potato
+1: Tango: 3677
+2: falsesymmetry: 2268
+3: xBCrafted: 693
+4: Xisuma: 661
+5: Tinfoilchef: 632
+6: Spumwackles: 543
+7: topmass: 542
+8: sl1pg8r: 518
+9: impulseSV: 345
+10: PythonGB: 256
+11: skyzm: 205
+12: ZombieCleo: 161
+13: joehillssays: 133
+14: NameOfSamuel: 132
+15: zueljin: 114
+16: iJevin: 101
+17: KingDaddyDMAC: 99
+18: Biffa2001: 81
+19: Pungence: 61
+20: monkeyfarm: 45
+21: Collen: 33
+22: Mumbo: 32
+Total 11332

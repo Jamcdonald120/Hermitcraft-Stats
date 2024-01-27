@@ -1,0 +1,20 @@
+minecraft.picked_up.black_terracotta
+1: Renthedog: 4240
+2: cubfan135: 1190
+3: Grian: 1123
+4: VintageBeef: 1121
+5: GoodTimeWithScar: 1065
+6: Zedaph: 785
+7: iskall85: 680
+8: falsesymmetry: 527
+9: Etho: 355
+10: impulseSV: 101
+11: ZombieCleo: 81
+12: joehillssays: 43
+13: Tango: 42
+14: BdoubleO100: 27
+15: Xisuma: 11
+16: Keralis1: 11
+17: xBCrafted: 2
+18: MumboJumbo: 2
+Total 11406

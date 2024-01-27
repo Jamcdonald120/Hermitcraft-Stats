@@ -1,0 +1,4 @@
+stat.pickup.minecraft.acacia_fence_gate
+1: cubfan135: 4
+2: Xisuma: 3
+Total 7

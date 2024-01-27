@@ -1,0 +1,24 @@
+minecraft.used.brewing_stand
+1: GoodTimeWithScar: 132
+2: iJevin: 119
+3: cubfan135: 73
+4: iskall85: 49
+5: impulseSV: 34
+6: Xisuma: 33
+7: Stressmonster101: 32
+8: Docm77: 26
+9: falsesymmetry: 18
+10: Tango: 17
+11: joehillssays: 16
+12: BdoubleO100: 16
+13: PythonGB: 6
+14: Grian: 5
+15: HumanCleo: 4
+16: ZombieCleo: 4
+17: Zedaph: 4
+18: Biffa2001: 2
+19: Renthedog: 1
+20: Welsknight: 1
+21: MumboJumbo: 1
+22: Tinfoilchef: 1
+Total 594

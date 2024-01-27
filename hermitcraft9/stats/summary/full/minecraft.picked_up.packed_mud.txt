@@ -1,0 +1,24 @@
+minecraft.picked_up.packed_mud
+1: Etho: 581
+2: Grian: 305
+3: GoodTimeWithScar: 193
+4: cubfan135: 189
+5: Keralis1: 153
+6: impulseSV: 150
+7: PearlescentMoon: 104
+8: Xisuma: 101
+9: Zedaph: 88
+10: iJevin: 82
+11: Docm77: 70
+12: joehillssays: 39
+13: falsesymmetry: 25
+14: Tango: 18
+15: OrionSound: 14
+16: Mumbo: 12
+17: BdoubleO100: 3
+18: iskall85: 2
+19: ZombieCleo: 2
+20: Renthedog: 1
+21: MythicalSausage: 1
+22: Stressmonster101: 1
+Total 2134

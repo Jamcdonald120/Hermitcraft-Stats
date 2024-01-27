@@ -1,0 +1,25 @@
+minecraft.picked_up.terracotta
+1: GoodTimeWithScar: 79250
+2: falsesymmetry: 66718
+3: Etho: 43012
+4: Grian: 38040
+5: Xisuma: 30283
+6: Renthedog: 27437
+7: impulseSV: 22928
+8: joehillssays: 22212
+9: cubfan135: 13328
+10: Stressmonster101: 12454
+11: VintageBeef: 8916
+12: Tango: 7520
+13: iskall85: 6776
+14: Docm77: 4801
+15: Welsknight: 4406
+16: MumboJumbo: 4310
+17: BdoubleO100: 3475
+18: ZombieCleo: 3295
+19: Keralis1: 318
+20: iJevin: 288
+21: xBCrafted: 264
+22: Zedaph: 120
+23: hypnotizd: 3
+Total 400154

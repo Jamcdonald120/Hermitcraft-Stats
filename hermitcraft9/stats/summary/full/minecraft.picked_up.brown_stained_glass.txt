@@ -1,0 +1,9 @@
+minecraft.picked_up.brown_stained_glass
+1: PearlescentMoon: 422
+2: Zedaph: 138
+3: Stressmonster101: 83
+4: Xisuma: 72
+5: falsesymmetry: 61
+6: Etho: 10
+7: Keralis1: 2
+Total 788

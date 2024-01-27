@@ -1,0 +1,5 @@
+minecraft.dropped.crimson_fence_gate
+1: Grian: 13
+2: Tango: 4
+3: falsesymmetry: 2
+Total 19

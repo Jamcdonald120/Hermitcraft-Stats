@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.double_plant
+1: GoodTimeWithScar: 986
+2: cubfan135: 592
+3: xBCrafted: 182
+4: iskall85: 150
+5: Stressmonster101: 147
+6: falsesymmetry: 134
+7: Welsknight: 128
+8: Renthedog: 106
+9: joehillssays: 88
+10: Tango: 79
+11: ZombieCleo: 71
+12: Zedaph: 69
+13: Xisuma: 68
+14: Tinfoilchef: 45
+15: MumboJumbo: 43
+16: impulseSV: 43
+17: BdoubleO100: 24
+18: PythonGB: 23
+19: Biffa2001: 21
+20: VintageBeef: 13
+21: Etho: 12
+22: iJevin: 11
+23: Docm77: 6
+Total 3041

@@ -1,0 +1,18 @@
+stat.useItem.minecraft.gold_block
+1: Xisuma: 763
+2: cubfan135: 527
+3: iskall85: 411
+4: falsesymmetry: 327
+5: Renthedog: 250
+6: Welsknight: 235
+7: iJevin: 178
+8: PythonGB: 166
+9: impulseSV: 146
+10: Tinfoilchef: 98
+11: Tango: 93
+12: ZombieCleo: 57
+13: MumboJumbo: 38
+14: Mumbo: 29
+15: GoodTimeWithScar: 16
+16: joehillssays: 3
+Total 3337

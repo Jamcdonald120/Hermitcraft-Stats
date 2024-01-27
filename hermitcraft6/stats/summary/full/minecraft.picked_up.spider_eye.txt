@@ -1,0 +1,27 @@
+minecraft.picked_up.spider_eye
+1: impulseSV: 4195
+2: Xisuma: 2022
+3: iskall85: 1361
+4: iJevin: 1268
+5: cubfan135: 706
+6: GoodTimeWithScar: 686
+7: MumboJumbo: 631
+8: Docm77: 522
+9: Grian: 227
+10: Tango: 182
+11: falsesymmetry: 152
+12: Welsknight: 138
+13: Zedaph: 120
+14: Renthedog: 96
+15: Biffa2001: 49
+16: PythonGB: 48
+17: Stressmonster101: 48
+18: ZombieCleo: 44
+19: Tinfoilchef: 19
+20: joehillssays: 16
+21: BdoubleO100: 16
+22: Keralis1: 11
+23: Duke_da_dog: 6
+24: Jessassin: 2
+25: xBCrafted: 2
+Total 12567

@@ -1,0 +1,4 @@
+stat.drop.minecraft.quartz_stairs
+1: falsesymmetry: 14
+2: Renthedog: 3
+Total 17

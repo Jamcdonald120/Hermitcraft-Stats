@@ -1,0 +1,6 @@
+minecraft.crafted.mossy_stone_brick_stairs
+1: Renthedog: 480
+2: cubfan135: 192
+3: Keralis1: 160
+4: Xisuma: 56
+Total 888

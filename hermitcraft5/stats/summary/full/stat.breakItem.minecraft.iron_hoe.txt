@@ -1,0 +1,12 @@
+stat.breakItem.minecraft.iron_hoe
+1: impulseSV: 13
+2: Tango: 4
+3: GoodTimeWithScar: 3
+4: ZombieCleo: 2
+5: MumboJumbo: 2
+6: xBCrafted: 1
+7: cubfan135: 1
+8: Tinfoilchef: 1
+9: Stressmonster101: 1
+10: Zedaph: 1
+Total 29

@@ -1,0 +1,25 @@
+stat.pickup.minecraft.rail
+1: cubfan135: 7998
+2: Zedaph: 5225
+3: Tango: 3699
+4: MumboJumbo: 3228
+5: xBCrafted: 3161
+6: iskall85: 2492
+7: impulseSV: 2374
+8: iJevin: 1620
+9: PythonGB: 1537
+10: GoodTimeWithScar: 1351
+11: Tinfoilchef: 1342
+12: Xisuma: 1311
+13: Docm77: 1110
+14: Renthedog: 967
+15: falsesymmetry: 743
+16: VintageBeef: 612
+17: ZombieCleo: 572
+18: Stressmonster101: 373
+19: Welsknight: 126
+20: Etho: 108
+21: joehillssays: 86
+22: Biffa2001: 83
+23: BdoubleO100: 11
+Total 40129

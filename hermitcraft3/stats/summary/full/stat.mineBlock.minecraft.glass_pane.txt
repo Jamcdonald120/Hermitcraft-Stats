@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.glass_pane
+1: monkeyfarm: 367
+2: sl1pg8r: 185
+3: falsesymmetry: 108
+4: joehillssays: 102
+5: Mumbo: 98
+6: Tinfoilchef: 43
+7: Xisuma: 34
+8: zueljin: 31
+9: topmass: 27
+10: Spumwackles: 17
+11: Tango: 15
+12: Biffa2001: 7
+13: impulseSV: 7
+14: Docm77: 6
+15: xBCrafted: 6
+16: PythonGB: 2
+17: Etho: 2
+18: ZombieCleo: 2
+19: skyzm: 1
+Total 1060

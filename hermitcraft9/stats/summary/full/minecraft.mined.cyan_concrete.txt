@@ -1,0 +1,23 @@
+minecraft.mined.cyan_concrete
+1: PearlescentMoon: 9116
+2: falsesymmetry: 2221
+3: VintageBeef: 1275
+4: Renthedog: 1124
+5: impulseSV: 975
+6: Etho: 654
+7: iJevin: 491
+8: cubfan135: 449
+9: GoodTimeWithScar: 381
+10: Xisuma: 360
+11: xBCrafted: 292
+12: Grian: 81
+13: iskall85: 72
+14: joehillssays: 67
+15: Tango: 61
+16: BdoubleO100: 23
+17: RentheKing: 16
+18: Smallishbeans: 8
+19: Keralis1: 8
+20: Mumbo: 1
+21: Zedaph: 1
+Total 17676

@@ -1,0 +1,25 @@
+minecraft.used.bow
+1: GoodTimeWithScar: 20165
+2: cubfan135: 11949
+3: xBCrafted: 10016
+4: impulseSV: 8615
+5: hypnotizd: 7933
+6: Keralis1: 7909
+7: iskall85: 5679
+8: Tango: 5490
+9: MumboJumbo: 5446
+10: Renthedog: 3883
+11: VintageBeef: 3583
+12: joehillssays: 3347
+13: falsesymmetry: 3343
+14: Etho: 3004
+15: Xisuma: 2458
+16: iJevin: 2180
+17: Stressmonster101: 1467
+18: Grian: 1160
+19: Zedaph: 1115
+20: BdoubleO100: 993
+21: ZombieCleo: 251
+22: Welsknight: 231
+23: Tinfoilchef: 209
+Total 110426

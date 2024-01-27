@@ -1,0 +1,11 @@
+minecraft.crafted.netherite_chestplate
+1: impulseSV: 10
+2: cubfan135: 8
+3: iJevin: 2
+4: Docm77: 1
+5: Xisuma: 1
+6: ZombieCleo: 1
+7: RentheKing: 1
+8: Keralis1: 1
+9: Zedaph: 1
+Total 26

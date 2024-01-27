@@ -1,0 +1,8 @@
+minecraft.crafted.rib_armor_trim_smithing_template
+1: iJevin: 24
+2: cubfan135: 14
+3: falsesymmetry: 6
+4: GoodTimeWithScar: 2
+5: impulseSV: 2
+6: Zedaph: 2
+Total 50

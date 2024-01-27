@@ -1,0 +1,11 @@
+minecraft.crafted.warped_fence_gate
+1: impulseSV: 118
+2: Keralis1: 64
+3: GoodTimeWithScar: 48
+4: BdoubleO100: 44
+5: Grian: 37
+6: joehillssays: 8
+7: Docm77: 1
+8: Renthedog: 1
+9: Welsknight: 1
+Total 322

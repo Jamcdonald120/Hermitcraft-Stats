@@ -1,0 +1,4 @@
+stat.drop.minecraft.command_block
+1: impulseSV: 2
+2: PythonGB: 1
+Total 3

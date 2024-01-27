@@ -1,0 +1,23 @@
+minecraft.crafted.brick
+1: Grian: 102551
+2: GoodTimeWithScar: 85017
+3: Keralis1: 68314
+4: Etho: 66028
+5: Xisuma: 25634
+6: iskall85: 23998
+7: impulseSV: 7010
+8: Tango: 2683
+9: VintageBeef: 2674
+10: BdoubleO100: 2374
+11: xBCrafted: 710
+12: cubfan135: 377
+13: Docm77: 352
+14: hypnotizd: 312
+15: Stressmonster101: 292
+16: Renthedog: 216
+17: Zedaph: 210
+18: Welsknight: 192
+19: ZombieCleo: 56
+20: iJevin: 21
+21: joehillssays: 20
+Total 389041

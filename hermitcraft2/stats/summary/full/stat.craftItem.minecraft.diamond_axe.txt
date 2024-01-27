@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.diamond_axe
+1: Xisuma: 2
+2: Tango: 2
+3: xBCrafted: 1
+4: falsesymmetry: 1
+5: ZombieCleo: 1
+Total 7

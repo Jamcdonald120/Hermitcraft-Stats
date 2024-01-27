@@ -1,0 +1,18 @@
+minecraft.picked_up.clock
+1: Tango: 63
+2: Grian: 21
+3: GoodTimeWithScar: 18
+4: BdoubleO100: 11
+5: Zedaph: 10
+6: joehillssays: 7
+7: PearlescentMoon: 6
+8: Etho: 6
+9: iJevin: 4
+10: cubfan135: 4
+11: falsesymmetry: 3
+12: Keralis1: 2
+13: xBCrafted: 1
+14: hypnotizd: 1
+15: Stressmonster101: 1
+16: impulseSV: 1
+Total 159

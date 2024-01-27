@@ -1,0 +1,12 @@
+minecraft.crafted.nether_brick_slab
+1: cubfan135: 1058
+2: Xisuma: 276
+3: MumboJumbo: 132
+4: Keralis1: 120
+5: Renthedog: 64
+6: Etho: 60
+7: GeminiTay: 42
+8: GoodTimeWithScar: 12
+9: iJevin: 6
+10: PearlescentMoon: 6
+Total 1776

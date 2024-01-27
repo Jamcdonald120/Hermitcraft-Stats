@@ -1,0 +1,23 @@
+minecraft.mined.weeping_vines_plant
+1: Etho: 268
+2: Tango: 238
+3: Renthedog: 218
+4: iskall85: 124
+5: Grian: 98
+6: GoodTimeWithScar: 75
+7: iJevin: 53
+8: Xisuma: 52
+9: cubfan135: 52
+10: Stressmonster101: 35
+11: BdoubleO100: 23
+12: joehillssays: 21
+13: falsesymmetry: 20
+14: ZombieCleo: 18
+15: Zedaph: 15
+16: VintageBeef: 10
+17: xBCrafted: 10
+18: Welsknight: 7
+19: Keralis1: 7
+20: impulseSV: 5
+21: hypnotizd: 3
+Total 1352

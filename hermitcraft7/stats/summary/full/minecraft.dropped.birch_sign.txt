@@ -1,0 +1,22 @@
+minecraft.dropped.birch_sign
+1: cubfan135: 379
+2: Zedaph: 327
+3: falsesymmetry: 183
+4: impulseSV: 123
+5: Grian: 58
+6: Tango: 33
+7: GoodTimeWithScar: 30
+8: joehillssays: 25
+9: Xisuma: 24
+10: iskall85: 22
+11: iJevin: 20
+12: MumboJumbo: 16
+13: Etho: 11
+14: ZombieCleo: 10
+15: Renthedog: 8
+16: VintageBeef: 8
+17: Keralis1: 8
+18: BdoubleO100: 5
+19: xBCrafted: 1
+20: Stressmonster101: 1
+Total 1292

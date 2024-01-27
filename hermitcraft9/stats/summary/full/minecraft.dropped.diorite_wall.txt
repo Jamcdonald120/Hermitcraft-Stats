@@ -1,0 +1,9 @@
+minecraft.dropped.diorite_wall
+1: GoodTimeWithScar: 229
+2: falsesymmetry: 180
+3: Grian: 118
+4: BdoubleO100: 38
+5: Zedaph: 35
+6: Tango: 25
+7: Xisuma: 2
+Total 627

@@ -1,0 +1,19 @@
+minecraft.picked_up.charcoal
+1: falsesymmetry: 72
+2: cubfan135: 72
+3: HumanCleo: 64
+4: Grian: 36
+5: Renthedog: 34
+6: Stressmonster101: 17
+7: Zedaph: 16
+8: ZombieCleo: 14
+9: EvilXisuma: 13
+10: Tango: 13
+11: iskall85: 12
+12: Docm77: 11
+13: GoodTimeWithScar: 10
+14: Tinfoilchef: 10
+15: PythonGB: 6
+16: Welsknight: 6
+17: BdoubleO100: 4
+Total 410

@@ -1,0 +1,12 @@
+minecraft.picked_up.detector_rail
+1: impulseSV: 28
+2: Welsknight: 14
+3: cubfan135: 7
+4: Stressmonster101: 7
+5: Docm77: 3
+6: joehillssays: 3
+7: PearlescentMoon: 3
+8: Xisuma: 2
+9: Zedaph: 2
+10: BdoubleO100: 1
+Total 70

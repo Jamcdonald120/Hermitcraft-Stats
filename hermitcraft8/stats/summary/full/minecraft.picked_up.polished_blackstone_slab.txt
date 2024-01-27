@@ -1,0 +1,17 @@
+minecraft.picked_up.polished_blackstone_slab
+1: Xisuma: 338
+2: PearlescentMoon: 181
+3: cubfan135: 87
+4: Docm77: 57
+5: GoodTimeWithScar: 50
+6: Keralis1: 46
+7: xBCrafted: 39
+8: impulseSV: 28
+9: EvilXisuma: 26
+10: Renthedog: 24
+11: hypnotizd: 12
+12: falsesymmetry: 5
+13: Tango: 2
+14: ZombieCleo: 2
+15: Grian: 1
+Total 898

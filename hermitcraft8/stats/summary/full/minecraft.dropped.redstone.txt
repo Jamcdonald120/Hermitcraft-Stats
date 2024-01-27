@@ -1,0 +1,26 @@
+minecraft.dropped.redstone
+1: GoodTimeWithScar: 739
+2: Grian: 522
+3: iJevin: 511
+4: Zedaph: 454
+5: Tango: 185
+6: BdoubleO100: 182
+7: cubfan135: 169
+8: xBCrafted: 140
+9: Etho: 135
+10: Keralis1: 102
+11: Docm77: 93
+12: Xisuma: 81
+13: Renthedog: 67
+14: PearlescentMoon: 59
+15: impulseSV: 59
+16: MumboJumbo: 55
+17: ZombieCleo: 54
+18: Welsknight: 36
+19: iskall85: 27
+20: Stressmonster101: 27
+21: GeminiTay: 19
+22: joehillssays: 17
+23: hypnotizd: 5
+24: VintageBeef: 1
+Total 3739

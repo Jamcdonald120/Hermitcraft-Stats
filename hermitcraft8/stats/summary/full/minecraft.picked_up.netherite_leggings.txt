@@ -1,0 +1,19 @@
+minecraft.picked_up.netherite_leggings
+1: iJevin: 40
+2: PearlescentMoon: 32
+3: impulseSV: 17
+4: MumboJumbo: 6
+5: Docm77: 3
+6: Grian: 3
+7: Keralis1: 3
+8: Xisuma: 2
+9: Renthedog: 2
+10: xBCrafted: 2
+11: hypnotizd: 2
+12: joehillssays: 1
+13: GeminiTay: 1
+14: Tango: 1
+15: iskall85: 1
+16: Welsknight: 1
+17: Zedaph: 1
+Total 118

@@ -1,0 +1,14 @@
+minecraft.custom.raid_win
+1: impulseSV: 255
+2: cubfan135: 7
+3: Tango: 4
+4: Etho: 3
+5: Grian: 2
+6: GoodTimeWithScar: 2
+7: Docm77: 1
+8: Renthedog: 1
+9: BdoubleO100: 1
+10: xBCrafted: 1
+11: Welsknight: 1
+12: Keralis1: 1
+Total 279

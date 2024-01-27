@@ -1,0 +1,22 @@
+minecraft.picked_up.chainmail_leggings
+1: joehillssays: 22
+2: Xisuma: 17
+3: BdoubleO100: 12
+4: cubfan135: 8
+5: iJevin: 6
+6: Tango: 6
+7: PearlescentMoon: 5
+8: Etho: 5
+9: impulseSV: 5
+10: VintageBeef: 4
+11: Renthedog: 3
+12: xBCrafted: 3
+13: falsesymmetry: 3
+14: Keralis1: 3
+15: Docm77: 2
+16: Grian: 1
+17: iskall85: 1
+18: ZombieCleo: 1
+19: Mumbo: 1
+20: hypnotizd: 1
+Total 109

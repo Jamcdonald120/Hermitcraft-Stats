@@ -1,0 +1,25 @@
+stat.pickup.minecraft.coal
+1: Tinfoilchef: 27639
+2: GoodTimeWithScar: 21121
+3: Renthedog: 18769
+4: iskall85: 16674
+5: Welsknight: 14984
+6: cubfan135: 14562
+7: falsesymmetry: 14357
+8: MumboJumbo: 13162
+9: Xisuma: 10578
+10: impulseSV: 9708
+11: Tango: 9016
+12: PythonGB: 7280
+13: iJevin: 7082
+14: joehillssays: 6467
+15: Zedaph: 6438
+16: xBCrafted: 5945
+17: Stressmonster101: 3599
+18: Etho: 3241
+19: Biffa2001: 3198
+20: BdoubleO100: 3119
+21: ZombieCleo: 2773
+22: Docm77: 1814
+23: VintageBeef: 1543
+Total 223069

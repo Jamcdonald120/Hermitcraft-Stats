@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.vine
+1: zueljin: 206
+2: Tango: 88
+3: Mumbo: 61
+4: sl1pg8r: 39
+5: Xisuma: 22
+6: falsesymmetry: 17
+7: Spumwackles: 2
+Total 435

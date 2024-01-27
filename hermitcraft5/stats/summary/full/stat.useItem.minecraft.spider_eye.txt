@@ -1,0 +1,7 @@
+stat.useItem.minecraft.spider_eye
+1: impulseSV: 4
+2: cubfan135: 2
+3: falsesymmetry: 1
+4: GoodTimeWithScar: 1
+5: Zedaph: 1
+Total 9

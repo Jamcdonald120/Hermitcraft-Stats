@@ -1,0 +1,17 @@
+minecraft.picked_up.light_blue_stained_glass
+1: Xisuma: 718
+2: falsesymmetry: 327
+3: Grian: 282
+4: Renthedog: 116
+5: GeminiTay: 78
+6: RentheKing: 54
+7: Tango: 46
+8: GoodTimeWithScar: 31
+9: cubfan135: 26
+10: Etho: 12
+11: Zedaph: 8
+12: impulseSV: 5
+13: Pixlriffs: 2
+14: Stressmonster101: 2
+15: Keralis1: 2
+Total 1709

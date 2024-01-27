@@ -1,0 +1,9 @@
+minecraft.dropped.experience_bottle
+1: cubfan135: 1415
+2: Etho: 395
+3: impulseSV: 128
+4: Grian: 70
+5: hypnotizd: 54
+6: Zedaph: 20
+7: Tango: 1
+Total 2083

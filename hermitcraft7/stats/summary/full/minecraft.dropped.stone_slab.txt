@@ -1,0 +1,21 @@
+minecraft.dropped.stone_slab
+1: Zedaph: 13439
+2: GoodTimeWithScar: 2174
+3: Tango: 1523
+4: Grian: 1198
+5: iskall85: 833
+6: Keralis1: 401
+7: cubfan135: 277
+8: Docm77: 223
+9: impulseSV: 118
+10: falsesymmetry: 97
+11: MumboJumbo: 60
+12: Xisuma: 36
+13: Etho: 32
+14: iJevin: 22
+15: VintageBeef: 13
+16: BdoubleO100: 13
+17: Stressmonster101: 12
+18: Renthedog: 7
+19: hypnotizd: 4
+Total 20482

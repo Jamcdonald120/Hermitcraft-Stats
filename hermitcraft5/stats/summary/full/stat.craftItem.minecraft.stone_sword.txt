@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.stone_sword
+1: Renthedog: 274
+2: PythonGB: 25
+3: iJevin: 12
+4: Xisuma: 9
+5: iskall85: 9
+6: Tango: 8
+7: Biffa2001: 8
+8: cubfan135: 6
+9: xBCrafted: 5
+10: ZombieCleo: 5
+11: impulseSV: 5
+12: Zedaph: 5
+13: Etho: 3
+14: Stressmonster101: 3
+15: BdoubleO100: 2
+16: falsesymmetry: 2
+17: Welsknight: 2
+18: MumboJumbo: 2
+19: GoodTimeWithScar: 2
+20: Tinfoilchef: 2
+21: Docm77: 1
+22: VintageBeef: 1
+23: joehillssays: 1
+Total 392

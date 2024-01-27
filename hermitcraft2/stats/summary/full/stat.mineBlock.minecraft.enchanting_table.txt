@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.enchanting_table
+1: zueljin: 5
+2: Mumbo: 1
+Total 6

@@ -1,0 +1,19 @@
+stat.pickup.minecraft.skull
+1: falsesymmetry: 473
+2: cubfan135: 251
+3: Xisuma: 198
+4: Renthedog: 161
+5: iskall85: 149
+6: impulseSV: 104
+7: GoodTimeWithScar: 101
+8: Tango: 81
+9: Docm77: 38
+10: Etho: 33
+11: Welsknight: 32
+12: iJevin: 23
+13: PythonGB: 13
+14: Biffa2001: 9
+15: Tinfoilchef: 6
+16: joehillssays: 5
+17: VintageBeef: 2
+Total 1679

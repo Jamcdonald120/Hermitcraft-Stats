@@ -1,0 +1,7 @@
+minecraft.dropped.nether_brick_slab
+1: Tango: 3001
+2: Keralis1: 12
+3: cubfan135: 3
+4: GoodTimeWithScar: 1
+5: Zedaph: 1
+Total 3018

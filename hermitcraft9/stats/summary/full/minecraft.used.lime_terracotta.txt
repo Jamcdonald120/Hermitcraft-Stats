@@ -1,0 +1,29 @@
+minecraft.used.lime_terracotta
+1: impulseSV: 35335
+2: Grian: 7250
+3: GoodTimeWithScar: 5128
+4: VintageBeef: 3158
+5: Docm77: 3119
+6: PearlescentMoon: 1524
+7: Etho: 1298
+8: iskall85: 741
+9: ZombieCleo: 593
+10: BdoubleO100: 537
+11: MythicalSausage: 479
+12: Keralis1: 390
+13: Xisuma: 319
+14: iJevin: 201
+15: falsesymmetry: 169
+16: cubfan135: 168
+17: Smajor1995: 157
+18: GeminiTay: 123
+19: ShubbleYT: 123
+20: joehillssays: 59
+21: OrionSound: 33
+22: Mumbo: 11
+23: Tango: 8
+24: Renthedog: 5
+25: SolidarityGaming: 5
+26: Smallishbeans: 1
+27: Stressmonster101: 1
+Total 60935

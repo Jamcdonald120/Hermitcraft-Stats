@@ -1,0 +1,11 @@
+minecraft.dropped.light_blue_dye
+1: Zedaph: 140
+2: Etho: 110
+3: GoodTimeWithScar: 64
+4: impulseSV: 64
+5: Keralis1: 45
+6: Renthedog: 8
+7: MumboJumbo: 3
+8: Docm77: 2
+9: cubfan135: 2
+Total 438

@@ -1,0 +1,16 @@
+minecraft.crafted.dark_oak_wood
+1: falsesymmetry: 2835
+2: GoodTimeWithScar: 1989
+3: BdoubleO100: 1149
+4: cubfan135: 1057
+5: PythonGB: 144
+6: Xisuma: 66
+7: HumanCleo: 51
+8: Tango: 45
+9: ZombieCleo: 45
+10: Renthedog: 36
+11: joehillssays: 21
+12: Grian: 21
+13: Stressmonster101: 15
+14: iskall85: 9
+Total 7483

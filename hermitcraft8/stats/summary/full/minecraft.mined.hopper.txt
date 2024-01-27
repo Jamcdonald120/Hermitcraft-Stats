@@ -1,0 +1,28 @@
+minecraft.mined.hopper
+1: iJevin: 2031
+2: impulseSV: 1032
+3: Tango: 323
+4: Xisuma: 254
+5: cubfan135: 216
+6: Docm77: 215
+7: xBCrafted: 156
+8: Zedaph: 143
+9: Etho: 132
+10: MumboJumbo: 90
+11: GoodTimeWithScar: 83
+12: hypnotizd: 81
+13: Renthedog: 72
+14: BdoubleO100: 48
+15: Welsknight: 47
+16: joehillssays: 33
+17: Grian: 31
+18: PearlescentMoon: 22
+19: iskall85: 19
+20: falsesymmetry: 11
+21: Keralis1: 9
+22: VintageBeef: 5
+23: GeminiTay: 3
+24: ZombieCleo: 1
+25: Tinfoilchef: 1
+26: Stressmonster101: 1
+Total 5059

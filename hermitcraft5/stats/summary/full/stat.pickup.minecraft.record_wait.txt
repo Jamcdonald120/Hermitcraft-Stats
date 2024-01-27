@@ -1,0 +1,6 @@
+stat.pickup.minecraft.record_wait
+1: Xisuma: 7
+2: cubfan135: 4
+3: Zedaph: 2
+4: iJevin: 1
+Total 14

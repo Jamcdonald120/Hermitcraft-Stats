@@ -1,0 +1,4 @@
+stat.useItem.minecraft.acacia_fence_gate
+1: Xisuma: 14
+2: xBCrafted: 4
+Total 18

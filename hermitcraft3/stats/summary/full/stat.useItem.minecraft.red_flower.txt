@@ -1,0 +1,15 @@
+stat.useItem.minecraft.red_flower
+1: falsesymmetry: 371
+2: Xisuma: 123
+3: PythonGB: 107
+4: xBCrafted: 87
+5: Keralis1: 16
+6: sl1pg8r: 10
+7: zueljin: 9
+8: Tinfoilchef: 9
+9: Tango: 6
+10: Mumbo: 4
+11: Spumwackles: 3
+12: iJevin: 1
+13: Biffa2001: 1
+Total 747

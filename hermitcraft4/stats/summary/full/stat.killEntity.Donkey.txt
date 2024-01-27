@@ -1,0 +1,3 @@
+stat.killEntity.Donkey
+1: Tango: 1
+Total 1

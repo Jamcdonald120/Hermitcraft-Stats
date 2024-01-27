@@ -1,0 +1,17 @@
+minecraft.crafted.light_gray_stained_glass
+1: Etho: 10000
+2: Grian: 9792
+3: Stressmonster101: 6176
+4: GoodTimeWithScar: 4616
+5: Keralis1: 4320
+6: Xisuma: 2288
+7: impulseSV: 1112
+8: joehillssays: 992
+9: iskall85: 552
+10: BdoubleO100: 280
+11: Docm77: 232
+12: falsesymmetry: 216
+13: cubfan135: 200
+14: Tango: 184
+15: MumboJumbo: 128
+Total 41088

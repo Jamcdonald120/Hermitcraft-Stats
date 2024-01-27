@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.sponge
+1: MumboJumbo: 2979
+2: cubfan135: 2023
+3: impulseSV: 1077
+4: iJevin: 789
+5: Renthedog: 525
+6: GoodTimeWithScar: 507
+7: Xisuma: 440
+8: Tango: 214
+9: falsesymmetry: 93
+10: iskall85: 47
+11: Zedaph: 33
+12: xBCrafted: 7
+Total 8734

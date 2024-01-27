@@ -1,0 +1,17 @@
+minecraft.picked_up.dried_kelp
+1: Xisuma: 65702
+2: Keralis1: 58754
+3: cubfan135: 1945
+4: BdoubleO100: 271
+5: VintageBeef: 152
+6: Zedaph: 118
+7: impulseSV: 78
+8: falsesymmetry: 66
+9: joehillssays: 63
+10: ZombieCleo: 31
+11: iJevin: 25
+12: Grian: 16
+13: hypnotizd: 8
+14: iskall85: 7
+15: Etho: 5
+Total 127241

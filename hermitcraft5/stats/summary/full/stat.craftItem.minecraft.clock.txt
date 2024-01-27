@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.clock
+1: Renthedog: 18
+2: cubfan135: 6
+3: MumboJumbo: 6
+4: BdoubleO100: 2
+5: GoodTimeWithScar: 2
+6: Tinfoilchef: 2
+7: PythonGB: 1
+8: falsesymmetry: 1
+9: ZombieCleo: 1
+10: impulseSV: 1
+11: Zedaph: 1
+Total 41

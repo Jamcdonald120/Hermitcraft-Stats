@@ -1,0 +1,26 @@
+minecraft.used.dropper
+1: Tango: 1217
+2: MumboJumbo: 925
+3: cubfan135: 914
+4: Xisuma: 872
+5: Keralis1: 708
+6: Stressmonster101: 701
+7: iskall85: 669
+8: Etho: 541
+9: impulseSV: 326
+10: Zedaph: 280
+11: iJevin: 256
+12: GoodTimeWithScar: 245
+13: Renthedog: 93
+14: Docm77: 88
+15: Grian: 56
+16: BdoubleO100: 52
+17: VintageBeef: 36
+18: joehillssays: 27
+19: xBCrafted: 25
+20: hypnotizd: 24
+21: Welsknight: 12
+22: ZombieCleo: 7
+23: falsesymmetry: 5
+24: Tinfoilchef: 4
+Total 8083

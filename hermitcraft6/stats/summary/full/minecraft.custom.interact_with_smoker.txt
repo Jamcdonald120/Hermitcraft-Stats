@@ -1,0 +1,23 @@
+minecraft.custom.interact_with_smoker
+1: Tinfoilchef: 276
+2: cubfan135: 52
+3: Tango: 44
+4: ZombieCleo: 44
+5: Xisuma: 39
+6: joehillssays: 32
+7: GoodTimeWithScar: 17
+8: Docm77: 13
+9: Renthedog: 13
+10: iskall85: 7
+11: falsesymmetry: 7
+12: Zedaph: 6
+13: Stressmonster101: 5
+14: PythonGB: 4
+15: Grian: 3
+16: BdoubleO100: 3
+17: MumboJumbo: 3
+18: Keralis1: 3
+19: HumanCleo: 1
+20: Welsknight: 1
+21: impulseSV: 1
+Total 574

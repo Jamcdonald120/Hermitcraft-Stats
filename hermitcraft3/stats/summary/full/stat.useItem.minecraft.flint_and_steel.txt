@@ -1,0 +1,27 @@
+stat.useItem.minecraft.flint_and_steel
+1: Tango: 466
+2: xBCrafted: 310
+3: falsesymmetry: 227
+4: Xisuma: 221
+5: sl1pg8r: 116
+6: impulseSV: 110
+7: monkeyfarm: 100
+8: Etho: 93
+9: topmass: 35
+10: ZombieCleo: 26
+11: zueljin: 24
+12: hypnotizd: 15
+13: Spumwackles: 15
+14: Tinfoilchef: 13
+15: joehillssays: 12
+16: Mumbo: 11
+17: snipepager: 10
+18: Biffa2001: 8
+19: iJevin: 6
+20: PythonGB: 3
+21: Docm77: 1
+22: KingDaddyDMAC: 1
+23: Biffa001: 1
+24: Mrs_Keralis: 1
+25: Keralis1: 1
+Total 1826

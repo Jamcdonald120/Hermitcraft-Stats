@@ -1,0 +1,8 @@
+minecraft.killed_by.ender_dragon
+1: Docm77: 15
+2: Welsknight: 5
+3: GoodTimeWithScar: 4
+4: Tango: 3
+5: Xisuma: 1
+6: falsesymmetry: 1
+Total 29

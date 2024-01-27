@@ -1,0 +1,15 @@
+minecraft.dropped.oak_door
+1: Tango: 8
+2: Grian: 6
+3: Mumbo: 5
+4: iJevin: 4
+5: GoodTimeWithScar: 4
+6: Keralis1: 4
+7: Renthedog: 3
+8: cubfan135: 3
+9: iskall85: 2
+10: MumboJumbo: 2
+11: Xisuma: 1
+12: VintageBeef: 1
+13: BdoubleO100: 1
+Total 44

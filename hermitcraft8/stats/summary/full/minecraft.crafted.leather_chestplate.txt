@@ -1,0 +1,14 @@
+minecraft.crafted.leather_chestplate
+1: ZombieCleo: 55
+2: GeminiTay: 38
+3: Keralis1: 26
+4: joehillssays: 19
+5: GoodTimeWithScar: 9
+6: xBCrafted: 3
+7: falsesymmetry: 2
+8: Zedaph: 2
+9: VintageBeef: 1
+10: cubfan135: 1
+11: Etho: 1
+12: hypnotizd: 1
+Total 158

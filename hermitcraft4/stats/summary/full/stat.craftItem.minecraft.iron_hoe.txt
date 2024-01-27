@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.iron_hoe
+1: joehillssays: 20
+2: MumboJumbo: 20
+3: impulseSV: 14
+4: cubfan135: 7
+5: Tango: 6
+6: GoodTimeWithScar: 6
+7: iskall85: 4
+8: Docm77: 2
+9: PythonGB: 2
+10: falsesymmetry: 2
+11: Tinfoilchef: 2
+12: Renthedog: 1
+13: VintageBeef: 1
+14: xBCrafted: 1
+15: Welsknight: 1
+16: Biffa2001: 1
+Total 90

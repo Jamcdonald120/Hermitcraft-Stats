@@ -1,0 +1,27 @@
+minecraft.picked_up.slime_ball
+1: cubfan135: 7318
+2: impulseSV: 5238
+3: iJevin: 3648
+4: Docm77: 1010
+5: hypnotizd: 569
+6: Welsknight: 516
+7: joehillssays: 417
+8: Xisuma: 366
+9: Etho: 366
+10: xBCrafted: 349
+11: Grian: 338
+12: Renthedog: 325
+13: iskall85: 266
+14: falsesymmetry: 195
+15: Zedaph: 152
+16: GoodTimeWithScar: 130
+17: GeminiTay: 126
+18: BdoubleO100: 114
+19: PearlescentMoon: 107
+20: MumboJumbo: 77
+21: Keralis1: 66
+22: Tango: 33
+23: ZombieCleo: 31
+24: Stressmonster101: 19
+25: VintageBeef: 11
+Total 21787

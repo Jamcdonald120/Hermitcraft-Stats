@@ -1,0 +1,12 @@
+minecraft.dropped.polished_blackstone_brick_slab
+1: cubfan135: 256
+2: Tango: 79
+3: iJevin: 64
+4: Zedaph: 32
+5: iskall85: 19
+6: Etho: 14
+7: Docm77: 10
+8: Stressmonster101: 3
+9: MumboJumbo: 1
+10: impulseSV: 1
+Total 479

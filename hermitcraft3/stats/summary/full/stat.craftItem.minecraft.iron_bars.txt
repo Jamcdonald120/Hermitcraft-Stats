@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.iron_bars
+1: xBCrafted: 1792
+2: falsesymmetry: 1664
+3: Tango: 1587
+4: Xisuma: 1168
+5: impulseSV: 976
+6: Mumbo: 948
+7: PythonGB: 576
+8: Spumwackles: 320
+9: Tinfoilchef: 192
+10: sl1pg8r: 160
+11: joehillssays: 160
+12: ZombieCleo: 160
+13: topmass: 96
+14: Docm77: 16
+15: iJevin: 16
+16: zueljin: 16
+17: monkeyfarm: 16
+Total 9863

@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.hardened_clay
+1: Renthedog: 256
+2: Xisuma: 1
+Total 257

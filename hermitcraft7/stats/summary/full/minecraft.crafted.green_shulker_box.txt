@@ -1,0 +1,17 @@
+minecraft.crafted.green_shulker_box
+1: Keralis1: 24
+2: Tango: 20
+3: GoodTimeWithScar: 11
+4: Stressmonster101: 11
+5: Xisuma: 10
+6: joehillssays: 9
+7: Renthedog: 5
+8: Etho: 4
+9: iskall85: 3
+10: Grian: 2
+11: Zedaph: 2
+12: BdoubleO100: 1
+13: cubfan135: 1
+14: MumboJumbo: 1
+15: impulseSV: 1
+Total 105

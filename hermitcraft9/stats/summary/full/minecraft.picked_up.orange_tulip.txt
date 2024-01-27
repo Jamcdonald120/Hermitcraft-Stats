@@ -1,0 +1,18 @@
+minecraft.picked_up.orange_tulip
+1: Etho: 2365
+2: ZombieCleo: 109
+3: Mumbo: 88
+4: cubfan135: 43
+5: iJevin: 35
+6: Keralis1: 20
+7: Welsknight: 17
+8: PearlescentMoon: 16
+9: Grian: 14
+10: GoodTimeWithScar: 11
+11: VintageBeef: 9
+12: iskall85: 4
+13: Xisuma: 2
+14: Zedaph: 2
+15: GeminiTay: 1
+16: BdoubleO100: 1
+Total 2737

@@ -1,0 +1,20 @@
+stat.pickup.minecraft.stone_pickaxe
+1: Zedaph: 15
+2: Tango: 7
+3: iskall85: 5
+4: MumboJumbo: 5
+5: iJevin: 4
+6: BdoubleO100: 4
+7: PythonGB: 3
+8: falsesymmetry: 3
+9: joehillssays: 2
+10: Biffa2001: 2
+11: Tinfoilchef: 2
+12: Stressmonster101: 2
+13: Docm77: 1
+14: VintageBeef: 1
+15: cubfan135: 1
+16: Etho: 1
+17: ZombieCleo: 1
+18: impulseSV: 1
+Total 60

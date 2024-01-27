@@ -1,0 +1,24 @@
+stat.pickup.minecraft.fishing_rod
+1: Xisuma: 109
+2: Welsknight: 89
+3: cubfan135: 66
+4: MumboJumbo: 52
+5: iskall85: 49
+6: falsesymmetry: 26
+7: impulseSV: 24
+8: Renthedog: 23
+9: PythonGB: 14
+10: Tinfoilchef: 14
+11: Stressmonster101: 14
+12: Docm77: 12
+13: GoodTimeWithScar: 10
+14: Tango: 7
+15: xisumavoid: 4
+16: ZombieCleo: 3
+17: VintageBeef: 2
+18: iJevin: 2
+19: BdoubleO100: 2
+20: xBCrafted: 2
+21: Biffa2001: 2
+22: Zedaph: 1
+Total 527

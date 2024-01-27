@@ -1,0 +1,19 @@
+minecraft.crafted.red_wool
+1: iJevin: 512
+2: Xisuma: 503
+3: Keralis1: 434
+4: Stressmonster101: 221
+5: joehillssays: 220
+6: Docm77: 159
+7: Grian: 131
+8: ZombieCleo: 102
+9: GoodTimeWithScar: 82
+10: xBCrafted: 75
+11: Renthedog: 42
+12: cubfan135: 37
+13: impulseSV: 16
+14: iskall85: 8
+15: Tango: 7
+16: BdoubleO100: 6
+17: VintageBeef: 4
+Total 2559

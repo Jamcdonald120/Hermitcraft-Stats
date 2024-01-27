@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.waterlily
+1: cubfan135: 667
+2: Tango: 450
+3: Stressmonster101: 363
+4: Xisuma: 281
+5: falsesymmetry: 226
+6: impulseSV: 92
+7: iskall85: 79
+8: Tinfoilchef: 60
+9: Renthedog: 53
+10: MumboJumbo: 49
+11: joehillssays: 28
+12: GoodTimeWithScar: 28
+13: iJevin: 27
+14: Zedaph: 20
+15: VintageBeef: 16
+16: PythonGB: 10
+17: xBCrafted: 8
+18: Welsknight: 5
+19: Biffa2001: 5
+20: ZombieCleo: 1
+Total 2468

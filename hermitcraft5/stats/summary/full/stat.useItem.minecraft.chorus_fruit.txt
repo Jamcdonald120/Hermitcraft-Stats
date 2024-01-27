@@ -1,0 +1,14 @@
+stat.useItem.minecraft.chorus_fruit
+1: Tango: 594
+2: Zedaph: 584
+3: falsesymmetry: 267
+4: Xisuma: 247
+5: impulseSV: 78
+6: cubfan135: 22
+7: joehillssays: 19
+8: iskall85: 13
+9: GoodTimeWithScar: 9
+10: PythonGB: 3
+11: Biffa2001: 3
+12: Tinfoilchef: 1
+Total 1840

@@ -1,0 +1,29 @@
+minecraft.killed.piglin
+1: iJevin: 740
+2: Xisuma: 383
+3: impulseSV: 340
+4: Tango: 298
+5: cubfan135: 224
+6: xBCrafted: 97
+7: VintageBeef: 90
+8: Docm77: 50
+9: Keralis1: 50
+10: Renthedog: 38
+11: PearlescentMoon: 35
+12: iskall85: 31
+13: Zedaph: 25
+14: Etho: 19
+15: Grian: 18
+16: hypnotizd: 18
+17: GeminiTay: 11
+18: GoodTimeWithScar: 7
+19: joehillssays: 6
+20: Pixlriffs: 6
+21: ZombieCleo: 6
+22: BdoubleO100: 5
+23: Stressmonster101: 5
+24: falsesymmetry: 2
+25: RentheKing: 2
+26: MythicalSausage: 1
+27: Mumbo: 1
+Total 2508

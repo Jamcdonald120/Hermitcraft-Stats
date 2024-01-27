@@ -1,0 +1,18 @@
+minecraft.picked_up.stone_hoe
+1: Etho: 51
+2: impulseSV: 15
+3: MumboJumbo: 9
+4: joehillssays: 8
+5: iJevin: 6
+6: iskall85: 5
+7: Xisuma: 4
+8: GoodTimeWithScar: 4
+9: BdoubleO100: 3
+10: Zedaph: 3
+11: Grian: 2
+12: ZombieCleo: 2
+13: Docm77: 1
+14: Renthedog: 1
+15: Tinfoilchef: 1
+16: Stressmonster101: 1
+Total 116

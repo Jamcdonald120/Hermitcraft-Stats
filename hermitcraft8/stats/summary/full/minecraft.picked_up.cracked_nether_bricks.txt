@@ -1,0 +1,5 @@
+minecraft.picked_up.cracked_nether_bricks
+1: cubfan135: 343
+2: VintageBeef: 19
+3: GoodTimeWithScar: 2
+Total 364

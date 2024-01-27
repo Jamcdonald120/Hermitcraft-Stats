@@ -1,0 +1,25 @@
+stat.killEntity.Cow
+1: GoodTimeWithScar: 2148
+2: Zedaph: 559
+3: iJevin: 538
+4: Tinfoilchef: 462
+5: Welsknight: 362
+6: MumboJumbo: 266
+7: cubfan135: 253
+8: Etho: 221
+9: Tango: 193
+10: falsesymmetry: 163
+11: Stressmonster101: 128
+12: Renthedog: 123
+13: joehillssays: 97
+14: VintageBeef: 86
+15: ZombieCleo: 86
+16: Biffa2001: 81
+17: iskall85: 53
+18: Docm77: 50
+19: impulseSV: 42
+20: BdoubleO100: 38
+21: Xisuma: 35
+22: PythonGB: 32
+23: xBCrafted: 28
+Total 6044

@@ -1,0 +1,25 @@
+minecraft.mined.oak_slab
+1: Xisuma: 345
+2: MumboJumbo: 227
+3: PearlescentMoon: 110
+4: Keralis1: 104
+5: impulseSV: 96
+6: iskall85: 86
+7: falsesymmetry: 80
+8: xBCrafted: 78
+9: iJevin: 63
+10: ZombieCleo: 51
+11: Tango: 43
+12: Renthedog: 19
+13: Grian: 17
+14: hypnotizd: 13
+15: Zedaph: 12
+16: Etho: 10
+17: BdoubleO100: 9
+18: Tinfoilchef: 9
+19: Docm77: 6
+20: GeminiTay: 6
+21: cubfan135: 5
+22: GoodTimeWithScar: 5
+23: Welsknight: 3
+Total 1397

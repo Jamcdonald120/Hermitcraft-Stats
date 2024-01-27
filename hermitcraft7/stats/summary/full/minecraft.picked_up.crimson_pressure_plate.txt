@@ -1,0 +1,9 @@
+minecraft.picked_up.crimson_pressure_plate
+1: Etho: 7
+2: Xisuma: 5
+3: Renthedog: 5
+4: Tango: 3
+5: xBCrafted: 1
+6: ZombieCleo: 1
+7: Stressmonster101: 1
+Total 23

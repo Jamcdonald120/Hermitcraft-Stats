@@ -1,0 +1,29 @@
+stat.useItem.minecraft.iron_sword
+1: falsesymmetry: 6569
+2: zueljin: 1627
+3: Biffa2001: 1590
+4: PythonGB: 1521
+5: topmass: 1015
+6: Tango: 874
+7: joehillssays: 846
+8: KingDaddyDMAC: 498
+9: skyzm: 490
+10: Xisuma: 472
+11: monkeyfarm: 421
+12: Etho: 405
+13: xBCrafted: 375
+14: Spumwackles: 355
+15: Pungence: 277
+16: iJevin: 270
+17: Docm77: 265
+18: hypnotizd: 238
+19: NameOfSamuel: 219
+20: Tinfoilchef: 151
+21: sl1pg8r: 143
+22: ZombieCleo: 142
+23: Collen: 108
+24: impulseSV: 62
+25: Mumbo: 48
+26: truesymmetry: 40
+27: Keralis1: 34
+Total 19055

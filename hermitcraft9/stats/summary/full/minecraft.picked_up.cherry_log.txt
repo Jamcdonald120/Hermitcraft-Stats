@@ -1,0 +1,24 @@
+minecraft.picked_up.cherry_log
+1: GoodTimeWithScar: 2541
+2: Grian: 2069
+3: Stressmonster101: 1527
+4: joehillssays: 690
+5: ZombieCleo: 686
+6: cubfan135: 578
+7: GeminiTay: 454
+8: PearlescentMoon: 287
+9: Xisuma: 136
+10: Renthedog: 111
+11: Keralis1: 107
+12: impulseSV: 96
+13: Etho: 61
+14: Zedaph: 60
+15: iJevin: 45
+16: falsesymmetry: 45
+17: BdoubleO100: 27
+18: Mumbo: 26
+19: iskall85: 25
+20: VintageBeef: 19
+21: Docm77: 9
+22: InTheLittleWood: 1
+Total 9600

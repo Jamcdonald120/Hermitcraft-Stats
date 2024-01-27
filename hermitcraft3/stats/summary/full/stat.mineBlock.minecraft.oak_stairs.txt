@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.oak_stairs
+1: topmass: 214
+2: xBCrafted: 208
+3: Xisuma: 168
+4: falsesymmetry: 164
+5: Biffa2001: 121
+6: Tango: 96
+7: monkeyfarm: 74
+8: Etho: 64
+9: zueljin: 60
+10: PythonGB: 22
+11: Tinfoilchef: 21
+12: hypnotizd: 15
+13: ZombieCleo: 14
+14: sl1pg8r: 12
+15: Mumbo: 6
+16: NameOfSamuel: 6
+17: impulseSV: 1
+Total 1266

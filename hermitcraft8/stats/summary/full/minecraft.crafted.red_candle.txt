@@ -1,0 +1,5 @@
+minecraft.crafted.red_candle
+1: Tango: 278
+2: ZombieCleo: 141
+3: falsesymmetry: 17
+Total 436

@@ -1,0 +1,9 @@
+stat.drop.minecraft.writable_book
+1: Zedaph: 45
+2: falsesymmetry: 3
+3: Xisuma: 2
+4: Tango: 2
+5: cubfan135: 2
+6: ZombieCleo: 2
+7: MumboJumbo: 2
+Total 58

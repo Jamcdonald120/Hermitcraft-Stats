@@ -1,0 +1,28 @@
+minecraft.mined.gold_ore
+1: cubfan135: 2993
+2: GoodTimeWithScar: 1291
+3: Grian: 808
+4: PearlescentMoon: 782
+5: iJevin: 583
+6: Renthedog: 496
+7: Xisuma: 446
+8: impulseSV: 438
+9: GeminiTay: 325
+10: Welsknight: 312
+11: xBCrafted: 311
+12: joehillssays: 307
+13: BdoubleO100: 281
+14: MumboJumbo: 233
+15: falsesymmetry: 228
+16: Etho: 221
+17: hypnotizd: 205
+18: Zedaph: 181
+19: ZombieCleo: 162
+20: Docm77: 157
+21: Stressmonster101: 135
+22: iskall85: 123
+23: Tango: 122
+24: VintageBeef: 117
+25: Tinfoilchef: 109
+26: Keralis1: 103
+Total 11469

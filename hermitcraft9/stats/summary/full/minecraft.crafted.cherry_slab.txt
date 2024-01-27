@@ -1,0 +1,8 @@
+minecraft.crafted.cherry_slab
+1: GeminiTay: 222
+2: GoodTimeWithScar: 204
+3: Mumbo: 18
+4: falsesymmetry: 12
+5: Keralis1: 6
+6: Zedaph: 6
+Total 468

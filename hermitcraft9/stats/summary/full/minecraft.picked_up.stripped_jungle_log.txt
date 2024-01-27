@@ -1,0 +1,21 @@
+minecraft.picked_up.stripped_jungle_log
+1: GoodTimeWithScar: 2036
+2: falsesymmetry: 1468
+3: Docm77: 1392
+4: PearlescentMoon: 169
+5: BdoubleO100: 113
+6: Xisuma: 68
+7: RentheKing: 64
+8: Etho: 63
+9: joehillssays: 57
+10: cubfan135: 28
+11: Zedaph: 11
+12: hypnotizd: 8
+13: Grian: 5
+14: Tango: 4
+15: Keralis1: 3
+16: Renthedog: 2
+17: impulseSV: 2
+18: iJevin: 1
+19: ZombieCleo: 1
+Total 5495

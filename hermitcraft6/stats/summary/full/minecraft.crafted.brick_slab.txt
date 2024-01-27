@@ -1,0 +1,11 @@
+minecraft.crafted.brick_slab
+1: cubfan135: 4285
+2: Xisuma: 2286
+3: iJevin: 546
+4: impulseSV: 270
+5: falsesymmetry: 144
+6: GoodTimeWithScar: 144
+7: Welsknight: 66
+8: Renthedog: 60
+9: MumboJumbo: 36
+Total 7837

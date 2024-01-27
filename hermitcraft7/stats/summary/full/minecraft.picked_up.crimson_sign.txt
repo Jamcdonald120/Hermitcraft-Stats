@@ -1,0 +1,16 @@
+minecraft.picked_up.crimson_sign
+1: Tango: 131
+2: falsesymmetry: 28
+3: Xisuma: 22
+4: Etho: 7
+5: BdoubleO100: 5
+6: iskall85: 4
+7: iJevin: 3
+8: cubfan135: 3
+9: impulseSV: 3
+10: joehillssays: 2
+11: ZombieCleo: 2
+12: Keralis1: 2
+13: MumboJumbo: 1
+14: Stressmonster101: 1
+Total 214

@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.coal_block
+1: ZombieCleo: 11
+2: Collen: 5
+Total 16

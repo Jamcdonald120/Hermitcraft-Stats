@@ -1,0 +1,22 @@
+minecraft.dropped.potato
+1: Tango: 4225
+2: iskall85: 4203
+3: Grian: 3146
+4: PythonGB: 2515
+5: MumboJumbo: 978
+6: iJevin: 682
+7: impulseSV: 424
+8: Xisuma: 345
+9: Biffa2001: 323
+10: GoodTimeWithScar: 294
+11: falsesymmetry: 209
+12: Docm77: 145
+13: Renthedog: 129
+14: cubfan135: 124
+15: ZombieCleo: 61
+16: Zedaph: 32
+17: Stressmonster101: 22
+18: Jessassin: 20
+19: Keralis1: 3
+20: joehillssays: 2
+Total 17882

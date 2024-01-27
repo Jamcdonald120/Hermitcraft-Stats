@@ -1,0 +1,14 @@
+minecraft.dropped.jungle_button
+1: Tango: 14
+2: Keralis1: 12
+3: hypnotizd: 8
+4: Etho: 7
+5: MumboJumbo: 7
+6: GoodTimeWithScar: 6
+7: Xisuma: 5
+8: iskall85: 5
+9: cubfan135: 2
+10: VintageBeef: 1
+11: iJevin: 1
+12: impulseSV: 1
+Total 69

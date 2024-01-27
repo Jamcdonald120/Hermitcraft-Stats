@@ -1,0 +1,18 @@
+stat.useItem.minecraft.spruce_door
+1: zueljin: 135
+2: falsesymmetry: 110
+3: Tango: 82
+4: xBCrafted: 76
+5: iJevin: 51
+6: Xisuma: 19
+7: Biffa2001: 17
+8: monkeyfarm: 8
+9: impulseSV: 8
+10: topmass: 7
+11: sl1pg8r: 5
+12: Mumbo: 5
+13: Keralis1: 5
+14: KingDaddyDMAC: 4
+15: ZombieCleo: 2
+16: Tinfoilchef: 2
+Total 536

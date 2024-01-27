@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.light_weighted_pressure_plate
+1: falsesymmetry: 76
+2: impulseSV: 46
+3: iskall85: 40
+4: cubfan135: 36
+5: Xisuma: 7
+6: VintageBeef: 1
+7: Tango: 1
+Total 207

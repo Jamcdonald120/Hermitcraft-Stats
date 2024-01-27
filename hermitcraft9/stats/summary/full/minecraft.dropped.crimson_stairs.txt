@@ -1,0 +1,7 @@
+minecraft.dropped.crimson_stairs
+1: Tango: 59
+2: iJevin: 33
+3: GoodTimeWithScar: 3
+4: Zedaph: 3
+5: ZombieCleo: 1
+Total 99

@@ -1,0 +1,5 @@
+minecraft.crafted.pink_banner
+1: Keralis1: 4
+2: Renthedog: 3
+3: PearlescentMoon: 1
+Total 8

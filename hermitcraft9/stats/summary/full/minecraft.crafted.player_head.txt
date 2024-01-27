@@ -1,0 +1,17 @@
+minecraft.crafted.player_head
+1: VintageBeef: 4096
+2: GoodTimeWithScar: 1456
+3: iJevin: 1208
+4: falsesymmetry: 872
+5: PearlescentMoon: 576
+6: Grian: 472
+7: Etho: 344
+8: Keralis1: 264
+9: ZombieCleo: 144
+10: GeminiTay: 120
+11: joehillssays: 104
+12: Renthedog: 56
+13: impulseSV: 40
+14: BdoubleO100: 16
+15: iskall85: 8
+Total 9776

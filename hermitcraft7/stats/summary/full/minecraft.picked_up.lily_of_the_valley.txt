@@ -1,0 +1,20 @@
+minecraft.picked_up.lily_of_the_valley
+1: Etho: 2924
+2: impulseSV: 1563
+3: cubfan135: 309
+4: GoodTimeWithScar: 276
+5: Keralis1: 167
+6: falsesymmetry: 76
+7: BdoubleO100: 67
+8: Xisuma: 57
+9: VintageBeef: 39
+10: Grian: 35
+11: ZombieCleo: 30
+12: joehillssays: 27
+13: Zedaph: 21
+14: hypnotizd: 15
+15: Renthedog: 7
+16: Tango: 6
+17: MumboJumbo: 2
+18: Stressmonster101: 1
+Total 5622

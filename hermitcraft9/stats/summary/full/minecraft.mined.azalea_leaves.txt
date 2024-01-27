@@ -1,0 +1,29 @@
+minecraft.mined.azalea_leaves
+1: GoodTimeWithScar: 24955
+2: Docm77: 8473
+3: Renthedog: 8413
+4: cubfan135: 6162
+5: RentheKing: 5823
+6: Grian: 4250
+7: iJevin: 3265
+8: PearlescentMoon: 2735
+9: falsesymmetry: 2405
+10: ZombieCleo: 2374
+11: Zedaph: 2187
+12: Etho: 2152
+13: Xisuma: 2069
+14: BdoubleO100: 1769
+15: Keralis1: 994
+16: Stressmonster101: 813
+17: GeminiTay: 689
+18: impulseSV: 532
+19: Tango: 510
+20: hypnotizd: 270
+21: joehillssays: 242
+22: MythicalSausage: 236
+23: VintageBeef: 140
+24: xBCrafted: 102
+25: iskall85: 83
+26: Mumbo: 75
+27: SolidarityGaming: 1
+Total 81719

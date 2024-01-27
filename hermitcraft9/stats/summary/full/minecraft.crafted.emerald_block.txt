@@ -1,0 +1,26 @@
+minecraft.crafted.emerald_block
+1: impulseSV: 53956
+2: Keralis1: 33666
+3: iJevin: 17664
+4: cubfan135: 1977
+5: Zedaph: 1842
+6: GoodTimeWithScar: 1573
+7: Grian: 1161
+8: Stressmonster101: 1109
+9: Docm77: 613
+10: Renthedog: 563
+11: iskall85: 533
+12: Tango: 483
+13: RentheKing: 277
+14: Xisuma: 192
+15: falsesymmetry: 163
+16: joehillssays: 79
+17: xBCrafted: 45
+18: Pixlriffs: 13
+19: VintageBeef: 11
+20: Smallishbeans: 7
+21: hypnotizd: 5
+22: BdoubleO100: 3
+23: PearlescentMoon: 1
+24: Etho: 1
+Total 115937

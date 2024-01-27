@@ -1,0 +1,8 @@
+minecraft.picked_up.lime_bed
+1: iJevin: 163
+2: Grian: 10
+3: Tango: 7
+4: ZombieCleo: 3
+5: PearlescentMoon: 2
+6: iskall85: 2
+Total 187

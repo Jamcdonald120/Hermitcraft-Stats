@@ -1,0 +1,33 @@
+minecraft.picked_up.granite
+1: joehillssays: 67900
+2: Renthedog: 16710
+3: PearlescentMoon: 15875
+4: Tango: 14794
+5: Docm77: 14510
+6: iJevin: 12618
+7: GoodTimeWithScar: 11908
+8: Grian: 9427
+9: falsesymmetry: 9114
+10: Etho: 8103
+11: impulseSV: 8037
+12: Keralis1: 7687
+13: BdoubleO100: 6771
+14: Xisuma: 6664
+15: iskall85: 4286
+16: hypnotizd: 3547
+17: cubfan135: 3458
+18: ZombieCleo: 2914
+19: xBCrafted: 2050
+20: Zedaph: 1455
+21: GeminiTay: 1062
+22: Stressmonster101: 784
+23: Pixlriffs: 520
+24: VintageBeef: 309
+25: Tinfoilchef: 290
+26: Mumbo: 126
+27: Smallishbeans: 56
+28: RentheKing: 19
+29: Welsknight: 18
+30: MumboJumbo: 7
+31: MythicalSausage: 1
+Total 231020

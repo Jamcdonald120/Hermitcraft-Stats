@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.painting
+1: ZombieCleo: 16
+2: falsesymmetry: 15
+3: zueljin: 7
+Total 38

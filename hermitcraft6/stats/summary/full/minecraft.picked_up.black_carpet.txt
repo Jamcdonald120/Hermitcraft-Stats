@@ -1,0 +1,21 @@
+minecraft.picked_up.black_carpet
+1: GoodTimeWithScar: 493
+2: iskall85: 300
+3: Docm77: 292
+4: falsesymmetry: 252
+5: Xisuma: 236
+6: cubfan135: 166
+7: impulseSV: 164
+8: Stressmonster101: 153
+9: iJevin: 85
+10: PythonGB: 70
+11: Grian: 43
+12: ZombieCleo: 35
+13: Tango: 7
+14: joehillssays: 5
+15: MumboJumbo: 5
+16: Keralis1: 5
+17: Renthedog: 3
+18: Tinfoilchef: 2
+19: Biffa2001: 1
+Total 2317

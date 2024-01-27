@@ -1,0 +1,25 @@
+minecraft.custom.interact_with_stonecutter
+1: BdoubleO100: 2028
+2: Xisuma: 1047
+3: VintageBeef: 988
+4: xBCrafted: 864
+5: cubfan135: 701
+6: Etho: 596
+7: Tango: 354
+8: GoodTimeWithScar: 325
+9: Keralis1: 206
+10: Grian: 184
+11: hypnotizd: 140
+12: Docm77: 128
+13: impulseSV: 126
+14: Zedaph: 125
+15: ZombieCleo: 109
+16: joehillssays: 86
+17: falsesymmetry: 71
+18: Welsknight: 54
+19: iskall85: 42
+20: Renthedog: 16
+21: MumboJumbo: 3
+22: iJevin: 1
+23: Stressmonster101: 1
+Total 8195

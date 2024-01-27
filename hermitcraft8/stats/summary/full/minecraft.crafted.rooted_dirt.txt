@@ -1,0 +1,4 @@
+minecraft.crafted.rooted_dirt
+1: PearlescentMoon: 20
+2: cubfan135: 10
+Total 30

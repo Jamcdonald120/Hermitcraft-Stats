@@ -1,0 +1,5 @@
+stat.drop.minecraft.wooden_door
+1: Renthedog: 2
+2: GoodTimeWithScar: 2
+3: cubfan135: 1
+Total 5

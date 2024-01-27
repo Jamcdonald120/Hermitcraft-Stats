@@ -1,0 +1,25 @@
+stat.useItem.minecraft.gravel
+1: xBCrafted: 5061
+2: falsesymmetry: 1554
+3: hypnotizd: 1384
+4: topmass: 1069
+5: Xisuma: 698
+6: Spumwackles: 618
+7: monkeyfarm: 565
+8: Etho: 543
+9: impulseSV: 281
+10: Mumbo: 255
+11: Tango: 242
+12: PythonGB: 165
+13: zueljin: 132
+14: ZombieCleo: 109
+15: Tinfoilchef: 109
+16: KingDaddyDMAC: 75
+17: Biffa2001: 37
+18: sl1pg8r: 27
+19: Docm77: 25
+20: joehillssays: 19
+21: skyzm: 4
+22: Keralis1: 4
+23: iJevin: 3
+Total 12979

@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.stone_shovel
+1: Tango: 245
+2: Renthedog: 63
+3: falsesymmetry: 62
+4: MumboJumbo: 48
+5: xBCrafted: 32
+6: iJevin: 30
+7: BdoubleO100: 5
+8: VintageBeef: 4
+9: Welsknight: 4
+10: Biffa2001: 3
+11: impulseSV: 3
+12: Zedaph: 3
+13: PythonGB: 2
+14: cubfan135: 2
+15: joehillssays: 1
+16: Stressmonster101: 1
+Total 508

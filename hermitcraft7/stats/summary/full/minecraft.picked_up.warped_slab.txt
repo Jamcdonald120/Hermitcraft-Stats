@@ -1,0 +1,21 @@
+minecraft.picked_up.warped_slab
+1: Etho: 227
+2: falsesymmetry: 212
+3: cubfan135: 202
+4: Zedaph: 175
+5: xBCrafted: 144
+6: Xisuma: 93
+7: Tango: 87
+8: joehillssays: 71
+9: impulseSV: 50
+10: Stressmonster101: 40
+11: iJevin: 39
+12: Keralis1: 18
+13: ZombieCleo: 16
+14: Grian: 11
+15: Renthedog: 5
+16: Docm77: 4
+17: hypnotizd: 3
+18: BdoubleO100: 2
+19: GoodTimeWithScar: 2
+Total 1401

@@ -1,0 +1,7 @@
+stat.useItem.minecraft.nether_brick
+1: Tango: 99
+2: Spumwackles: 80
+3: zueljin: 38
+4: ZombieCleo: 24
+5: xBCrafted: 12
+Total 253

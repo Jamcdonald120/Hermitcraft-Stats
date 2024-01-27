@@ -1,0 +1,21 @@
+minecraft.dropped.spruce_log
+1: Etho: 5329
+2: BdoubleO100: 2230
+3: hypnotizd: 1664
+4: Grian: 917
+5: GoodTimeWithScar: 741
+6: Renthedog: 297
+7: MumboJumbo: 203
+8: cubfan135: 202
+9: Docm77: 198
+10: Tango: 189
+11: Keralis1: 175
+12: Stressmonster101: 148
+13: xBCrafted: 120
+14: Zedaph: 99
+15: iJevin: 98
+16: iskall85: 88
+17: impulseSV: 75
+18: falsesymmetry: 6
+19: VintageBeef: 4
+Total 12783

@@ -1,0 +1,31 @@
+stat.killEntity.Zombie
+1: falsesymmetry: 1357
+2: Xisuma: 1203
+3: Tango: 1089
+4: xBCrafted: 1056
+5: impulseSV: 979
+6: Biffa2001: 796
+7: Mumbo: 674
+8: zueljin: 466
+9: topmass: 410
+10: Spumwackles: 323
+11: monkeyfarm: 292
+12: PythonGB: 252
+13: iJevin: 227
+14: Tinfoilchef: 226
+15: hypnotizd: 201
+16: sl1pg8r: 173
+17: ZombieCleo: 160
+18: Etho: 152
+19: KingDaddyDMAC: 109
+20: Keralis1: 84
+21: skyzm: 42
+22: Docm77: 41
+23: NameOfSamuel: 32
+24: Pungence: 23
+25: joehillssays: 18
+26: Collen: 18
+27: Mrs_Keralis: 16
+28: xisumavoid: 9
+29: truesymmetry: 1
+Total 10429

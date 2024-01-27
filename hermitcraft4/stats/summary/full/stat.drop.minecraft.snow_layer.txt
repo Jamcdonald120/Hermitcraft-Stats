@@ -1,0 +1,6 @@
+stat.drop.minecraft.snow_layer
+1: falsesymmetry: 48
+2: iskall85: 47
+3: Xisuma: 15
+4: Tango: 1
+Total 111

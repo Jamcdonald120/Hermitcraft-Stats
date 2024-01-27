@@ -1,0 +1,17 @@
+minecraft.picked_up.bee_nest
+1: GoodTimeWithScar: 34
+2: Grian: 20
+3: Etho: 16
+4: iJevin: 14
+5: Xisuma: 11
+6: Keralis1: 9
+7: impulseSV: 6
+8: Tango: 5
+9: cubfan135: 5
+10: PearlescentMoon: 3
+11: xBCrafted: 2
+12: ZombieCleo: 2
+13: joehillssays: 1
+14: GeminiTay: 1
+15: Welsknight: 1
+Total 130

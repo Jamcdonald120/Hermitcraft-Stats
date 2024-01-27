@@ -1,0 +1,8 @@
+minecraft.crafted.magenta_glazed_terracotta
+1: Etho: 768
+2: falsesymmetry: 64
+3: Stressmonster101: 64
+4: VintageBeef: 12
+5: Keralis1: 12
+6: BdoubleO100: 10
+Total 930

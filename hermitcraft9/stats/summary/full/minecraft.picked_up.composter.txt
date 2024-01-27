@@ -1,0 +1,27 @@
+minecraft.picked_up.composter
+1: Tango: 247
+2: Zedaph: 222
+3: xBCrafted: 202
+4: impulseSV: 175
+5: Xisuma: 160
+6: Renthedog: 159
+7: Docm77: 115
+8: iJevin: 97
+9: Stressmonster101: 87
+10: iskall85: 67
+11: Keralis1: 67
+12: Smajor1995: 64
+13: Etho: 64
+14: PearlescentMoon: 62
+15: Grian: 60
+16: cubfan135: 40
+17: GeminiTay: 28
+18: RentheKing: 26
+19: GoodTimeWithScar: 21
+20: hypnotizd: 12
+21: VintageBeef: 8
+22: BdoubleO100: 8
+23: ZombieCleo: 7
+24: joehillssays: 5
+25: Mumbo: 1
+Total 2004

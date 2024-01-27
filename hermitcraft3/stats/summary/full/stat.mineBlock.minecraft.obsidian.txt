@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.obsidian
+1: Xisuma: 2422
+2: Tinfoilchef: 1851
+3: Tango: 1623
+4: Biffa2001: 1571
+5: falsesymmetry: 1309
+6: xBCrafted: 996
+7: impulseSV: 973
+8: KingDaddyDMAC: 622
+9: hypnotizd: 470
+10: ZombieCleo: 458
+11: Mumbo: 360
+12: Spumwackles: 308
+13: monkeyfarm: 217
+14: zueljin: 106
+15: PythonGB: 97
+16: sl1pg8r: 91
+17: topmass: 76
+18: iJevin: 53
+19: joehillssays: 39
+20: Etho: 36
+21: Keralis1: 12
+Total 13690

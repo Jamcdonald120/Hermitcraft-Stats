@@ -1,0 +1,25 @@
+stat.useItem.minecraft.dye
+1: Renthedog: 22594
+2: cubfan135: 11191
+3: GoodTimeWithScar: 10708
+4: falsesymmetry: 7545
+5: iskall85: 7492
+6: Stressmonster101: 6579
+7: Xisuma: 5365
+8: BdoubleO100: 5011
+9: xBCrafted: 4650
+10: impulseSV: 3693
+11: PythonGB: 3684
+12: MumboJumbo: 3355
+13: Zedaph: 2992
+14: Tango: 2911
+15: joehillssays: 2826
+16: iJevin: 2218
+17: Welsknight: 1697
+18: Tinfoilchef: 1471
+19: Docm77: 864
+20: VintageBeef: 729
+21: Etho: 516
+22: Biffa2001: 272
+23: ZombieCleo: 24
+Total 108387

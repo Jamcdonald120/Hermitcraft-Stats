@@ -1,0 +1,20 @@
+minecraft.dropped.gold_ore
+1: Zedaph: 98
+2: Keralis1: 79
+3: GoodTimeWithScar: 71
+4: iJevin: 57
+5: Tango: 56
+6: ZombieCleo: 54
+7: iskall85: 48
+8: MumboJumbo: 41
+9: Grian: 33
+10: cubfan135: 25
+11: falsesymmetry: 19
+12: Docm77: 9
+13: xBCrafted: 8
+14: Renthedog: 4
+15: joehillssays: 4
+16: VintageBeef: 1
+17: Etho: 1
+18: impulseSV: 1
+Total 609

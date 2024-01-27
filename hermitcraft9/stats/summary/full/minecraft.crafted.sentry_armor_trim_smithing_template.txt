@@ -1,0 +1,6 @@
+minecraft.crafted.sentry_armor_trim_smithing_template
+1: iJevin: 4
+2: impulseSV: 4
+3: BdoubleO100: 2
+4: GoodTimeWithScar: 2
+Total 12

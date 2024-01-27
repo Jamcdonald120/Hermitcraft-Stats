@@ -1,0 +1,21 @@
+minecraft.dropped.glowstone_dust
+1: Xisuma: 1045
+2: cubfan135: 181
+3: Grian: 86
+4: impulseSV: 86
+5: Zedaph: 55
+6: Renthedog: 51
+7: iJevin: 30
+8: iskall85: 24
+9: hypnotizd: 23
+10: Tango: 15
+11: GoodTimeWithScar: 13
+12: Keralis1: 9
+13: Etho: 7
+14: falsesymmetry: 5
+15: VintageBeef: 3
+16: MumboJumbo: 3
+17: Docm77: 2
+18: BdoubleO100: 1
+19: xBCrafted: 1
+Total 1640

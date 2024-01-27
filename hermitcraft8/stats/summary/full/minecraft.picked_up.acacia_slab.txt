@@ -1,0 +1,13 @@
+minecraft.picked_up.acacia_slab
+1: PearlescentMoon: 324
+2: joehillssays: 253
+3: cubfan135: 154
+4: falsesymmetry: 86
+5: GoodTimeWithScar: 79
+6: MumboJumbo: 78
+7: Grian: 76
+8: Xisuma: 19
+9: impulseSV: 13
+10: BdoubleO100: 4
+11: Keralis1: 1
+Total 1087

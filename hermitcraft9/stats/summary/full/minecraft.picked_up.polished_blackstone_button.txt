@@ -1,0 +1,20 @@
+minecraft.picked_up.polished_blackstone_button
+1: iJevin: 948
+2: GoodTimeWithScar: 223
+3: cubfan135: 54
+4: impulseSV: 45
+5: Zedaph: 40
+6: Grian: 29
+7: PearlescentMoon: 29
+8: Renthedog: 21
+9: Xisuma: 16
+10: RentheKing: 14
+11: Docm77: 11
+12: Tango: 10
+13: xBCrafted: 6
+14: BdoubleO100: 5
+15: falsesymmetry: 5
+16: Keralis1: 4
+17: Mumbo: 3
+18: hypnotizd: 1
+Total 1464

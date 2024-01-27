@@ -1,0 +1,31 @@
+minecraft.killed.zombie_villager
+1: cubfan135: 42
+2: iJevin: 38
+3: Docm77: 36
+4: VintageBeef: 24
+5: xBCrafted: 19
+6: iskall85: 18
+7: PearlescentMoon: 16
+8: impulseSV: 14
+9: truesymmetry: 12
+10: GoodTimeWithScar: 12
+11: Xisuma: 11
+12: Tango: 11
+13: Grian: 10
+14: Etho: 10
+15: Renthedog: 9
+16: Keralis1: 8
+17: falsesymmetry: 7
+18: GeminiTay: 5
+19: hypnotizd: 5
+20: Zedaph: 5
+21: joehillssays: 4
+22: BdoubleO100: 4
+23: OrionSound: 1
+24: Pixlriffs: 1
+25: ZombieCleo: 1
+26: Mumbo: 1
+27: RentheKing: 1
+28: MumboJumbo: 1
+29: Stressmonster101: 1
+Total 327

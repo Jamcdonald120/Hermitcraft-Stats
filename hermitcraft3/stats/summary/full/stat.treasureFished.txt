@@ -1,0 +1,7 @@
+stat.treasureFished
+1: xBCrafted: 28
+2: Tinfoilchef: 11
+3: iJevin: 5
+4: hypnotizd: 5
+5: monkeyfarm: 1
+Total 50

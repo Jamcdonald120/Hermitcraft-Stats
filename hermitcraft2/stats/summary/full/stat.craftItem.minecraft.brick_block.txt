@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.brick_block
+1: zueljin: 128
+2: falsesymmetry: 71
+Total 199

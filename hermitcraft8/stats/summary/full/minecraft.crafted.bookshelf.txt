@@ -1,0 +1,27 @@
+minecraft.crafted.bookshelf
+1: PearlescentMoon: 2024
+2: Xisuma: 1603
+3: Grian: 1241
+4: GoodTimeWithScar: 979
+5: Keralis1: 748
+6: iJevin: 512
+7: Zedaph: 243
+8: Stressmonster101: 222
+9: BdoubleO100: 200
+10: GeminiTay: 99
+11: hypnotizd: 66
+12: Welsknight: 51
+13: xBCrafted: 35
+14: joehillssays: 27
+15: cubfan135: 23
+16: falsesymmetry: 21
+17: Tango: 20
+18: Docm77: 16
+19: VintageBeef: 16
+20: Renthedog: 15
+21: Etho: 15
+22: impulseSV: 10
+23: iskall85: 9
+24: MumboJumbo: 3
+25: ZombieCleo: 2
+Total 8200

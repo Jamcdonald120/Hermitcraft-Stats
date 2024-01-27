@@ -1,0 +1,21 @@
+minecraft.crafted.brick
+1: Grian: 10627
+2: cubfan135: 8449
+3: PythonGB: 7612
+4: iskall85: 5376
+5: Xisuma: 3729
+6: MumboJumbo: 2348
+7: Welsknight: 2304
+8: Tango: 1579
+9: falsesymmetry: 589
+10: BdoubleO100: 556
+11: iJevin: 445
+12: impulseSV: 407
+13: Renthedog: 206
+14: GoodTimeWithScar: 160
+15: Stressmonster101: 67
+16: joehillssays: 40
+17: ZombieCleo: 28
+18: Keralis1: 24
+19: Docm77: 6
+Total 44552

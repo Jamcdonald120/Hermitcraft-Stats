@@ -1,0 +1,8 @@
+minecraft.dropped.golden_horse_armor
+1: Zedaph: 4
+2: iJevin: 2
+3: falsesymmetry: 2
+4: Grian: 1
+5: Etho: 1
+6: Keralis1: 1
+Total 11

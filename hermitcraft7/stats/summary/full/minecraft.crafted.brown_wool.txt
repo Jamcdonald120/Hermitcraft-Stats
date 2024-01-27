@@ -1,0 +1,17 @@
+minecraft.crafted.brown_wool
+1: impulseSV: 511
+2: GoodTimeWithScar: 341
+3: Grian: 199
+4: Keralis1: 179
+5: Stressmonster101: 108
+6: Renthedog: 64
+7: cubfan135: 64
+8: Xisuma: 35
+9: joehillssays: 26
+10: xBCrafted: 16
+11: hypnotizd: 14
+12: Zedaph: 7
+13: Docm77: 4
+14: Etho: 3
+15: VintageBeef: 2
+Total 1573

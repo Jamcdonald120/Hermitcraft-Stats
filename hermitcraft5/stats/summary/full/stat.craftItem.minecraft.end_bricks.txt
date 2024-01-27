@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.end_bricks
+1: joehillssays: 1524
+2: cubfan135: 36
+Total 1560

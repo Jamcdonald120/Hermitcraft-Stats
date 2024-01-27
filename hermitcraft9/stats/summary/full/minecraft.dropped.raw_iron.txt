@@ -1,0 +1,28 @@
+minecraft.dropped.raw_iron
+1: iJevin: 667
+2: Tango: 388
+3: impulseSV: 379
+4: falsesymmetry: 137
+5: Docm77: 120
+6: VintageBeef: 84
+7: Zedaph: 80
+8: Grian: 66
+9: GoodTimeWithScar: 51
+10: Keralis1: 51
+11: Renthedog: 48
+12: xBCrafted: 33
+13: cubfan135: 19
+14: Stressmonster101: 14
+15: BdoubleO100: 12
+16: Smallishbeans: 6
+17: Mumbo: 6
+18: SolidarityGaming: 6
+19: RentheKing: 5
+20: Xisuma: 4
+21: Etho: 4
+22: GeminiTay: 3
+23: iskall85: 3
+24: ZombieCleo: 2
+25: PearlescentMoon: 1
+26: hypnotizd: 1
+Total 2190

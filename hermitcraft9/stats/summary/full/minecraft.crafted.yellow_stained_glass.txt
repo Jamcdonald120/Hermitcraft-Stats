@@ -1,0 +1,19 @@
+minecraft.crafted.yellow_stained_glass
+1: GoodTimeWithScar: 6396
+2: impulseSV: 4520
+3: falsesymmetry: 2424
+4: Grian: 1832
+5: Etho: 768
+6: joehillssays: 736
+7: Keralis1: 704
+8: Zedaph: 656
+9: PearlescentMoon: 608
+10: Renthedog: 400
+11: cubfan135: 200
+12: Pixlriffs: 184
+13: Tango: 152
+14: iJevin: 128
+15: RentheKing: 32
+16: BdoubleO100: 16
+17: xBCrafted: 8
+Total 19764

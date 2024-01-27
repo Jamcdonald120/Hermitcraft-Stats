@@ -1,0 +1,30 @@
+minecraft.custom.deaths
+1: MumboJumbo: 488
+2: GoodTimeWithScar: 475
+3: Docm77: 241
+4: Grian: 241
+5: cubfan135: 229
+6: iskall85: 208
+7: Renthedog: 155
+8: impulseSV: 110
+9: Xisuma: 90
+10: joehillssays: 82
+11: iJevin: 79
+12: Tango: 52
+13: Zedaph: 40
+14: falsesymmetry: 38
+15: Stressmonster101: 29
+16: Keralis1: 28
+17: PythonGB: 26
+18: Tinfoilchef: 25
+19: ZombieCleo: 24
+20: BdoubleO100: 23
+21: Welsknight: 13
+22: Biffa2001: 11
+23: Duke_da_dog: 10
+24: EvilXisuma: 6
+25: HumanCleo: 2
+26: xBCrafted: 2
+27: Cub_Cam: 1
+28: Grianch: 1
+Total 2729

@@ -1,0 +1,25 @@
+minecraft.mined.player_head
+1: cubfan135: 759
+2: falsesymmetry: 352
+3: Tango: 248
+4: GoodTimeWithScar: 233
+5: joehillssays: 114
+6: Grian: 101
+7: iskall85: 93
+8: Xisuma: 84
+9: iJevin: 55
+10: ZombieCleo: 47
+11: Docm77: 41
+12: Tinfoilchef: 41
+13: BdoubleO100: 36
+14: impulseSV: 25
+15: Renthedog: 22
+16: Keralis1: 12
+17: Stressmonster101: 11
+18: Welsknight: 4
+19: PythonGB: 3
+20: MumboJumbo: 3
+21: Zedaph: 3
+22: HumanCleo: 2
+23: Jessassin: 1
+Total 2290

@@ -1,0 +1,23 @@
+stat.pickup.minecraft.water_bucket
+1: falsesymmetry: 100
+2: Xisuma: 71
+3: cubfan135: 44
+4: Tango: 39
+5: Renthedog: 37
+6: iskall85: 37
+7: impulseSV: 31
+8: Tinfoilchef: 24
+9: PythonGB: 19
+10: Etho: 18
+11: GoodTimeWithScar: 18
+12: joehillssays: 17
+13: Welsknight: 17
+14: MumboJumbo: 14
+15: iJevin: 11
+16: Docm77: 10
+17: VintageBeef: 10
+18: ZombieCleo: 9
+19: Biffa2001: 7
+20: Jessassin: 1
+21: xBCrafted: 1
+Total 535

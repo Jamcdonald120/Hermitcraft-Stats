@@ -1,0 +1,3 @@
+stat.useItem.minecraft.bedrock
+1: falsesymmetry: 36
+Total 36

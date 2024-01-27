@@ -1,0 +1,20 @@
+stat.dispenserInspected
+1: Tango: 537
+2: falsesymmetry: 532
+3: impulseSV: 465
+4: sl1pg8r: 371
+5: Mumbo: 363
+6: xBCrafted: 345
+7: monkeyfarm: 329
+8: Xisuma: 294
+9: Tinfoilchef: 234
+10: iJevin: 184
+11: zueljin: 107
+12: Biffa2001: 99
+13: Docm77: 42
+14: Etho: 37
+15: PythonGB: 35
+16: ZombieCleo: 22
+17: topmass: 11
+18: joehillssays: 1
+Total 4008

@@ -1,0 +1,16 @@
+stat.useItem.minecraft.sign
+1: Spumwackles: 303
+2: falsesymmetry: 238
+3: Xisuma: 113
+4: ZombieCleo: 94
+5: sl1pg8r: 72
+6: Biffa2001: 54
+7: Mumbo: 33
+8: Tinfoilchef: 29
+9: zueljin: 11
+10: xBCrafted: 10
+11: iJevin: 9
+12: Tango: 6
+13: joehillssays: 2
+14: KingDaddyDMAC: 1
+Total 975

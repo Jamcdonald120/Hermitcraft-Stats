@@ -1,0 +1,10 @@
+minecraft.dropped.quartz_bricks
+1: Zedaph: 97
+2: cubfan135: 67
+3: Keralis1: 64
+4: Grian: 58
+5: GoodTimeWithScar: 20
+6: Etho: 5
+7: iskall85: 2
+8: impulseSV: 1
+Total 314

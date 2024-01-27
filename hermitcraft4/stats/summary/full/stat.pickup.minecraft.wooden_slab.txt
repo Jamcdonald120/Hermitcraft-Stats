@@ -1,0 +1,24 @@
+stat.pickup.minecraft.wooden_slab
+1: GoodTimeWithScar: 11872
+2: Renthedog: 7208
+3: Xisuma: 4575
+4: falsesymmetry: 4369
+5: Welsknight: 4244
+6: iskall85: 3779
+7: cubfan135: 3476
+8: MumboJumbo: 3394
+9: iJevin: 2951
+10: Etho: 1325
+11: joehillssays: 1194
+12: ZombieCleo: 1006
+13: PythonGB: 659
+14: VintageBeef: 525
+15: impulseSV: 509
+16: Tango: 456
+17: Docm77: 443
+18: xBCrafted: 287
+19: Tinfoilchef: 287
+20: zueljin: 219
+21: Biffa2001: 139
+22: Mumbo: 57
+Total 52974

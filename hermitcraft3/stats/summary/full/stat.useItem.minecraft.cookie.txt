@@ -1,0 +1,7 @@
+stat.useItem.minecraft.cookie
+1: monkeyfarm: 58
+2: impulseSV: 36
+3: zueljin: 11
+4: Tango: 2
+5: Xisuma: 1
+Total 108

@@ -1,0 +1,20 @@
+minecraft.mined.acacia_wall_sign
+1: hypnotizd: 667
+2: GoodTimeWithScar: 43
+3: Renthedog: 30
+4: iJevin: 26
+5: cubfan135: 26
+6: BdoubleO100: 17
+7: falsesymmetry: 13
+8: xBCrafted: 10
+9: MumboJumbo: 7
+10: joehillssays: 4
+11: Grian: 4
+12: iskall85: 3
+13: impulseSV: 3
+14: Welsknight: 2
+15: Keralis1: 2
+16: Xisuma: 1
+17: Tango: 1
+18: Etho: 1
+Total 860

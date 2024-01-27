@@ -1,0 +1,23 @@
+stat.pickup.minecraft.glass
+1: Xisuma: 10435
+2: falsesymmetry: 7069
+3: Tango: 2992
+4: impulseSV: 2779
+5: MumboJumbo: 1916
+6: iskall85: 1331
+7: Renthedog: 1068
+8: cubfan135: 795
+9: Welsknight: 774
+10: joehillssays: 476
+11: iJevin: 440
+12: Tinfoilchef: 358
+13: ZombieCleo: 330
+14: GoodTimeWithScar: 257
+15: Docm77: 194
+16: Etho: 145
+17: zueljin: 136
+18: Biffa2001: 82
+19: PythonGB: 22
+20: xBCrafted: 20
+21: xisumavoid: 1
+Total 31620

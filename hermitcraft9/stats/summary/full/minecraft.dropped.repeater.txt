@@ -1,0 +1,18 @@
+minecraft.dropped.repeater
+1: Tango: 328
+2: impulseSV: 186
+3: Zedaph: 73
+4: GoodTimeWithScar: 64
+5: BdoubleO100: 58
+6: cubfan135: 53
+7: Grian: 46
+8: PearlescentMoon: 46
+9: iJevin: 32
+10: Keralis1: 31
+11: Etho: 24
+12: Xisuma: 22
+13: Stressmonster101: 21
+14: Renthedog: 11
+15: iskall85: 4
+16: VintageBeef: 3
+Total 1002

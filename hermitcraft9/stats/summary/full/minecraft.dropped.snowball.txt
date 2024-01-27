@@ -1,0 +1,32 @@
+minecraft.dropped.snowball
+1: iJevin: 11812
+2: Tango: 4797
+3: Renthedog: 3155
+4: RentheKing: 1336
+5: falsesymmetry: 867
+6: Keralis1: 454
+7: cubfan135: 355
+8: Xisuma: 181
+9: PearlescentMoon: 180
+10: VintageBeef: 142
+11: BdoubleO100: 135
+12: iskall85: 119
+13: Grian: 98
+14: Zedaph: 97
+15: joehillssays: 85
+16: Mumbo: 40
+17: MumboJumbo: 40
+18: OrionSound: 37
+19: GoodTimeWithScar: 37
+20: Docm77: 33
+21: Smallishbeans: 28
+22: Pixlriffs: 24
+23: hypnotizd: 21
+24: Etho: 16
+25: ShubbleYT: 12
+26: MythicalSausage: 4
+27: impulseSV: 2
+28: truesymmetry: 1
+29: ZombieCleo: 1
+30: SolidarityGaming: 1
+Total 24110

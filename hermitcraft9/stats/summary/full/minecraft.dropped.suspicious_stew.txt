@@ -1,0 +1,15 @@
+minecraft.dropped.suspicious_stew
+1: RentheKing: 179
+2: Keralis1: 52
+3: Grian: 34
+4: PearlescentMoon: 34
+5: Xisuma: 29
+6: Zedaph: 23
+7: impulseSV: 17
+8: Etho: 9
+9: GoodTimeWithScar: 8
+10: ZombieCleo: 6
+11: cubfan135: 5
+12: Renthedog: 4
+13: GeminiTay: 2
+Total 402

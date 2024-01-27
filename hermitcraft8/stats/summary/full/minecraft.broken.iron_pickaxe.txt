@@ -1,0 +1,25 @@
+minecraft.broken.iron_pickaxe
+1: BdoubleO100: 48
+2: ZombieCleo: 43
+3: joehillssays: 32
+4: PearlescentMoon: 21
+5: xBCrafted: 18
+6: Tinfoilchef: 18
+7: Welsknight: 15
+8: Tango: 13
+9: hypnotizd: 13
+10: GeminiTay: 10
+11: GoodTimeWithScar: 9
+12: Xisuma: 8
+13: Grian: 8
+14: Stressmonster101: 8
+15: Zedaph: 7
+16: iJevin: 5
+17: falsesymmetry: 5
+18: VintageBeef: 4
+19: iskall85: 4
+20: MumboJumbo: 3
+21: impulseSV: 3
+22: Renthedog: 2
+23: cubfan135: 2
+Total 299

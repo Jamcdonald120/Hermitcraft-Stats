@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.oak_stairs
+1: xBCrafted: 858
+2: Stressmonster101: 220
+3: Welsknight: 212
+4: MumboJumbo: 192
+5: Tinfoilchef: 183
+6: VintageBeef: 140
+7: cubfan135: 85
+8: iskall85: 71
+9: falsesymmetry: 64
+10: impulseSV: 60
+11: Biffa2001: 39
+12: Tango: 21
+13: Xisuma: 19
+14: PythonGB: 9
+15: Zedaph: 9
+16: iJevin: 5
+17: joehillssays: 4
+18: GoodTimeWithScar: 4
+Total 2195

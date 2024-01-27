@@ -1,0 +1,23 @@
+stat.pickup.minecraft.saddle
+1: iskall85: 99
+2: cubfan135: 67
+3: Zedaph: 40
+4: Renthedog: 39
+5: MumboJumbo: 39
+6: Tinfoilchef: 26
+7: Stressmonster101: 25
+8: falsesymmetry: 24
+9: GoodTimeWithScar: 15
+10: Welsknight: 10
+11: xBCrafted: 9
+12: iJevin: 8
+13: impulseSV: 8
+14: Xisuma: 7
+15: Tango: 6
+16: PythonGB: 4
+17: joehillssays: 4
+18: Biffa2001: 4
+19: BdoubleO100: 3
+20: ZombieCleo: 3
+21: Docm77: 1
+Total 441

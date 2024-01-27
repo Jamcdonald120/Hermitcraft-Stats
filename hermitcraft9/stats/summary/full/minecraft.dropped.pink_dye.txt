@@ -1,0 +1,10 @@
+minecraft.dropped.pink_dye
+1: GeminiTay: 128
+2: Tango: 56
+3: iJevin: 24
+4: PearlescentMoon: 18
+5: GoodTimeWithScar: 13
+6: falsesymmetry: 8
+7: Etho: 2
+8: ZombieCleo: 2
+Total 251

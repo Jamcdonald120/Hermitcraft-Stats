@@ -1,0 +1,29 @@
+minecraft.picked_up.cooked_beef
+1: BdoubleO100: 907
+2: VintageBeef: 867
+3: RentheKing: 645
+4: Etho: 611
+5: ZombieCleo: 467
+6: Xisuma: 382
+7: cubfan135: 343
+8: iJevin: 303
+9: Renthedog: 253
+10: Zedaph: 206
+11: Tango: 172
+12: falsesymmetry: 151
+13: xBCrafted: 109
+14: Docm77: 105
+15: PearlescentMoon: 95
+16: GoodTimeWithScar: 92
+17: joehillssays: 73
+18: GeminiTay: 62
+19: Grian: 47
+20: hypnotizd: 42
+21: Keralis1: 33
+22: impulseSV: 30
+23: Stressmonster101: 11
+24: Mumbo: 2
+25: MumboJumbo: 2
+26: Pixlriffs: 1
+27: iskall85: 1
+Total 6012

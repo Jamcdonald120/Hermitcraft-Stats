@@ -1,0 +1,21 @@
+minecraft.dropped.leather_chestplate
+1: Xisuma: 43
+2: Tango: 29
+3: impulseSV: 27
+4: cubfan135: 26
+5: Zedaph: 23
+6: GoodTimeWithScar: 19
+7: iskall85: 13
+8: Grian: 9
+9: iJevin: 6
+10: Docm77: 5
+11: Renthedog: 5
+12: falsesymmetry: 5
+13: Biffa2001: 2
+14: Tinfoilchef: 2
+15: Stressmonster101: 2
+16: PythonGB: 1
+17: joehillssays: 1
+18: ZombieCleo: 1
+19: MumboJumbo: 1
+Total 220

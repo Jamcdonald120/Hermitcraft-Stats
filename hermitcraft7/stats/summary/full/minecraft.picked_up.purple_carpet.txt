@@ -1,0 +1,21 @@
+minecraft.picked_up.purple_carpet
+1: Zedaph: 473
+2: cubfan135: 436
+3: iJevin: 273
+4: joehillssays: 246
+5: Grian: 91
+6: GoodTimeWithScar: 83
+7: Tango: 81
+8: Xisuma: 58
+9: Stressmonster101: 25
+10: MumboJumbo: 18
+11: iskall85: 7
+12: Docm77: 4
+13: VintageBeef: 4
+14: Etho: 3
+15: impulseSV: 3
+16: ZombieCleo: 2
+17: hypnotizd: 2
+18: xBCrafted: 1
+19: falsesymmetry: 1
+Total 1811

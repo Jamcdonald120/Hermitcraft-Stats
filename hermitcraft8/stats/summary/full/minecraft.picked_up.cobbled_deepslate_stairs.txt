@@ -1,0 +1,17 @@
+minecraft.picked_up.cobbled_deepslate_stairs
+1: GoodTimeWithScar: 300
+2: Docm77: 237
+3: Tango: 56
+4: Xisuma: 23
+5: Renthedog: 19
+6: impulseSV: 15
+7: falsesymmetry: 11
+8: VintageBeef: 5
+9: cubfan135: 4
+10: Stressmonster101: 3
+11: EvilXisuma: 2
+12: joehillssays: 1
+13: Grian: 1
+14: xBCrafted: 1
+15: Welsknight: 1
+Total 679

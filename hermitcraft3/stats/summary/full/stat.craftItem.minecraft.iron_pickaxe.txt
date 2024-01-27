@@ -1,0 +1,29 @@
+stat.craftItem.minecraft.iron_pickaxe
+1: joehillssays: 78
+2: falsesymmetry: 51
+3: Spumwackles: 48
+4: KingDaddyDMAC: 47
+5: zueljin: 46
+6: Tango: 33
+7: PythonGB: 27
+8: Tinfoilchef: 24
+9: iJevin: 23
+10: skyzm: 19
+11: Biffa2001: 18
+12: impulseSV: 15
+13: topmass: 14
+14: ZombieCleo: 13
+15: Pungence: 10
+16: sl1pg8r: 9
+17: Xisuma: 9
+18: monkeyfarm: 9
+19: xBCrafted: 8
+20: Docm77: 7
+21: hypnotizd: 4
+22: Keralis1: 4
+23: NameOfSamuel: 4
+24: Collen: 4
+25: Etho: 3
+26: Mumbo: 1
+27: Mrs_Keralis: 1
+Total 529

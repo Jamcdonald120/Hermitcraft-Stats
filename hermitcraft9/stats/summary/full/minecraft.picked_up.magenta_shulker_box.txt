@@ -1,0 +1,20 @@
+minecraft.picked_up.magenta_shulker_box
+1: cubfan135: 1354
+2: joehillssays: 423
+3: PearlescentMoon: 219
+4: Docm77: 155
+5: BdoubleO100: 102
+6: Xisuma: 92
+7: Etho: 82
+8: Renthedog: 33
+9: iJevin: 23
+10: Grian: 18
+11: iskall85: 6
+12: Tango: 5
+13: ZombieCleo: 4
+14: Zedaph: 4
+15: Pixlriffs: 3
+16: falsesymmetry: 2
+17: GoodTimeWithScar: 2
+18: impulseSV: 1
+Total 2528

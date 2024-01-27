@@ -1,0 +1,16 @@
+minecraft.picked_up.beetroot
+1: xBCrafted: 651
+2: joehillssays: 648
+3: Etho: 406
+4: Zedaph: 202
+5: ZombieCleo: 163
+6: Keralis1: 46
+7: falsesymmetry: 15
+8: Welsknight: 15
+9: VintageBeef: 12
+10: Xisuma: 7
+11: impulseSV: 6
+12: Stressmonster101: 2
+13: Tango: 1
+14: BdoubleO100: 1
+Total 2175

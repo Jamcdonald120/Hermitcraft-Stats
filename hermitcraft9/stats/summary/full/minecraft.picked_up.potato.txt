@@ -1,0 +1,31 @@
+minecraft.picked_up.potato
+1: joehillssays: 4727
+2: Tango: 4048
+3: xBCrafted: 3699
+4: iskall85: 3568
+5: VintageBeef: 2475
+6: Welsknight: 1748
+7: impulseSV: 1297
+8: Etho: 1050
+9: PearlescentMoon: 1034
+10: ZombieCleo: 903
+11: Stressmonster101: 808
+12: Zedaph: 794
+13: Xisuma: 744
+14: RentheKing: 563
+15: GeminiTay: 509
+16: cubfan135: 259
+17: falsesymmetry: 225
+18: iJevin: 208
+19: Mumbo: 173
+20: MumboJumbo: 173
+21: hypnotizd: 151
+22: Renthedog: 113
+23: Keralis1: 92
+24: Docm77: 19
+25: BdoubleO100: 15
+26: Grian: 8
+27: OrionSound: 3
+28: STEAKFG: 3
+29: GoodTimeWithScar: 3
+Total 29412

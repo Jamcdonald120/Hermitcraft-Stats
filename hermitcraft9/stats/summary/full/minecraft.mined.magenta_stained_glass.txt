@@ -1,0 +1,21 @@
+minecraft.mined.magenta_stained_glass
+1: Grian: 173
+2: PearlescentMoon: 100
+3: Xisuma: 72
+4: iJevin: 48
+5: xBCrafted: 23
+6: ZombieCleo: 13
+7: Stressmonster101: 11
+8: Keralis1: 11
+9: Zedaph: 11
+10: Tango: 9
+11: falsesymmetry: 9
+12: hypnotizd: 7
+13: impulseSV: 7
+14: Renthedog: 6
+15: Etho: 3
+16: GoodTimeWithScar: 3
+17: Docm77: 2
+18: cubfan135: 2
+19: VintageBeef: 1
+Total 511

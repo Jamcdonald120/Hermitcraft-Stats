@@ -1,0 +1,12 @@
+minecraft.dropped.porkchop
+1: GoodTimeWithScar: 65
+2: impulseSV: 38
+3: Grian: 20
+4: iJevin: 19
+5: iskall85: 11
+6: MumboJumbo: 9
+7: Stressmonster101: 7
+8: VintageBeef: 6
+9: Zedaph: 5
+10: Docm77: 4
+Total 184

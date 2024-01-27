@@ -1,0 +1,19 @@
+minecraft.picked_up.lectern
+1: Stressmonster101: 1896
+2: iskall85: 1492
+3: impulseSV: 1117
+4: MumboJumbo: 597
+5: Docm77: 261
+6: cubfan135: 94
+7: falsesymmetry: 39
+8: Grian: 29
+9: Xisuma: 27
+10: GoodTimeWithScar: 24
+11: joehillssays: 17
+12: Welsknight: 7
+13: BdoubleO100: 4
+14: HumanCleo: 2
+15: Tinfoilchef: 2
+16: Renthedog: 1
+17: ZombieCleo: 1
+Total 5610

@@ -1,0 +1,9 @@
+minecraft.picked_up.dead_horn_coral_block
+1: Welsknight: 157
+2: iJevin: 125
+3: impulseSV: 15
+4: cubfan135: 6
+5: VintageBeef: 3
+6: Docm77: 1
+7: Renthedog: 1
+Total 308

@@ -1,0 +1,21 @@
+minecraft.mined.purpur_stairs
+1: falsesymmetry: 813
+2: GoodTimeWithScar: 294
+3: Tango: 168
+4: impulseSV: 126
+5: Etho: 92
+6: cubfan135: 87
+7: iskall85: 78
+8: Xisuma: 59
+9: iJevin: 42
+10: Keralis1: 34
+11: MumboJumbo: 30
+12: Renthedog: 18
+13: hypnotizd: 17
+14: Docm77: 10
+15: xBCrafted: 8
+16: Grian: 4
+17: Zedaph: 2
+18: VintageBeef: 1
+19: BdoubleO100: 1
+Total 1884

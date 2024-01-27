@@ -1,0 +1,13 @@
+minecraft.dropped.deepslate_gold_ore
+1: cubfan135: 108
+2: impulseSV: 64
+3: Tango: 52
+4: Zedaph: 32
+5: xBCrafted: 26
+6: Docm77: 12
+7: Xisuma: 7
+8: Grian: 7
+9: falsesymmetry: 6
+10: Renthedog: 3
+11: iJevin: 2
+Total 319

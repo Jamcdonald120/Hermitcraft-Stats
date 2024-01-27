@@ -1,0 +1,24 @@
+minecraft.picked_up.cobblestone_stairs
+1: impulseSV: 138
+2: Tango: 124
+3: Keralis1: 90
+4: BdoubleO100: 75
+5: Docm77: 58
+6: hypnotizd: 57
+7: Grian: 55
+8: MumboJumbo: 37
+9: GoodTimeWithScar: 33
+10: joehillssays: 32
+11: Zedaph: 29
+12: PearlescentMoon: 22
+13: iJevin: 20
+14: xBCrafted: 20
+15: falsesymmetry: 17
+16: Xisuma: 14
+17: Renthedog: 14
+18: Etho: 4
+19: GeminiTay: 3
+20: Stressmonster101: 3
+21: Tinfoilchef: 2
+22: Welsknight: 1
+Total 848

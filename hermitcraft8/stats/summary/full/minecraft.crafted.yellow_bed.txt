@@ -1,0 +1,11 @@
+minecraft.crafted.yellow_bed
+1: PearlescentMoon: 8
+2: impulseSV: 8
+3: Xisuma: 3
+4: GeminiTay: 3
+5: Grian: 2
+6: cubfan135: 2
+7: falsesymmetry: 1
+8: GoodTimeWithScar: 1
+9: Keralis1: 1
+Total 29

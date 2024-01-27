@@ -1,0 +1,24 @@
+minecraft.picked_up.deepslate_tile_stairs
+1: Renthedog: 846
+2: cubfan135: 576
+3: impulseSV: 574
+4: iJevin: 295
+5: Etho: 238
+6: Tango: 204
+7: RentheKing: 190
+8: Xisuma: 161
+9: Mumbo: 130
+10: Grian: 128
+11: GeminiTay: 79
+12: PearlescentMoon: 62
+13: xBCrafted: 35
+14: Stressmonster101: 31
+15: ZombieCleo: 28
+16: GoodTimeWithScar: 16
+17: hypnotizd: 14
+18: Docm77: 7
+19: joehillssays: 7
+20: Zedaph: 7
+21: MumboJumbo: 2
+22: Keralis1: 1
+Total 3631

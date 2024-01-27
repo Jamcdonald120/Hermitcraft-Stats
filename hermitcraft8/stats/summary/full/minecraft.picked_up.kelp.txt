@@ -1,0 +1,28 @@
+minecraft.picked_up.kelp
+1: iJevin: 12464
+2: cubfan135: 3997
+3: iskall85: 3727
+4: impulseSV: 3197
+5: Zedaph: 2702
+6: Tango: 2691
+7: BdoubleO100: 2460
+8: Grian: 1766
+9: Docm77: 1422
+10: Xisuma: 869
+11: Renthedog: 844
+12: xBCrafted: 705
+13: Tinfoilchef: 605
+14: Welsknight: 580
+15: Etho: 524
+16: hypnotizd: 502
+17: falsesymmetry: 484
+18: GoodTimeWithScar: 210
+19: ZombieCleo: 199
+20: GeminiTay: 186
+21: Stressmonster101: 128
+22: Keralis1: 116
+23: MumboJumbo: 82
+24: PearlescentMoon: 72
+25: joehillssays: 53
+26: VintageBeef: 40
+Total 40625

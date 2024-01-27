@@ -1,0 +1,4 @@
+minecraft.picked_up.beetroot_soup
+1: PearlescentMoon: 1
+2: Zedaph: 1
+Total 2

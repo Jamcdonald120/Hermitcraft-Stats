@@ -1,0 +1,13 @@
+minecraft.crafted.bowl
+1: Xisuma: 368
+2: PearlescentMoon: 180
+3: Grian: 88
+4: impulseSV: 88
+5: GoodTimeWithScar: 84
+6: ZombieCleo: 24
+7: cubfan135: 20
+8: GeminiTay: 16
+9: iJevin: 8
+10: Zedaph: 8
+11: xBCrafted: 4
+Total 888

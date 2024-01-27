@@ -1,0 +1,5 @@
+minecraft.dropped.white_tulip
+1: Mumbo: 23
+2: Etho: 3
+3: GoodTimeWithScar: 3
+Total 29

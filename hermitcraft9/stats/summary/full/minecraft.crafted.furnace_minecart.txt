@@ -1,0 +1,16 @@
+minecraft.crafted.furnace_minecart
+1: impulseSV: 17
+2: iskall85: 13
+3: Stressmonster101: 13
+4: Grian: 11
+5: iJevin: 8
+6: Docm77: 4
+7: BdoubleO100: 4
+8: joehillssays: 2
+9: Xisuma: 1
+10: PearlescentMoon: 1
+11: cubfan135: 1
+12: Etho: 1
+13: GoodTimeWithScar: 1
+14: Zedaph: 1
+Total 78

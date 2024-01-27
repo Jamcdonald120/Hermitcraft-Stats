@@ -1,0 +1,5 @@
+minecraft.crafted.magma_cream
+1: Zedaph: 59
+2: Tinfoilchef: 30
+3: Xisuma: 1
+Total 90

@@ -1,0 +1,9 @@
+stat.useItem.minecraft.diamond_hoe
+1: Xisuma: 11985
+2: xBCrafted: 1116
+3: Spumwackles: 473
+4: Tinfoilchef: 387
+5: xisumavoid: 245
+6: falsesymmetry: 113
+7: Mumbo: 46
+Total 14365

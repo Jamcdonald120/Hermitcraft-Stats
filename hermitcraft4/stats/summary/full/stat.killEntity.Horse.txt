@@ -1,0 +1,4 @@
+stat.killEntity.Horse
+1: Tinfoilchef: 2
+2: Tango: 1
+Total 3

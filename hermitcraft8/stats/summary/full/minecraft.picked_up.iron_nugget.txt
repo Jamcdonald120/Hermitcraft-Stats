@@ -1,0 +1,28 @@
+minecraft.picked_up.iron_nugget
+1: iJevin: 3332
+2: Xisuma: 1374
+3: EvilXisuma: 725
+4: Grian: 663
+5: cubfan135: 526
+6: Etho: 343
+7: Docm77: 328
+8: joehillssays: 291
+9: ZombieCleo: 279
+10: Welsknight: 209
+11: Renthedog: 199
+12: iskall85: 184
+13: PearlescentMoon: 122
+14: Keralis1: 90
+15: GoodTimeWithScar: 87
+16: GeminiTay: 82
+17: Zedaph: 51
+18: impulseSV: 49
+19: Tango: 48
+20: xBCrafted: 37
+21: VintageBeef: 31
+22: Stressmonster101: 29
+23: falsesymmetry: 28
+24: BdoubleO100: 21
+25: hypnotizd: 14
+26: pillbugnine: 1
+Total 9143

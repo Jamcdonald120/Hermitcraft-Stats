@@ -1,0 +1,11 @@
+stat.useItem.minecraft.ladder
+1: Xisuma: 993
+2: Tango: 284
+3: falsesymmetry: 187
+4: KingDaddyDMAC: 164
+5: sl1pg8r: 96
+6: ZombieCleo: 89
+7: iJevin: 30
+8: xBCrafted: 16
+9: Spumwackles: 3
+Total 1862

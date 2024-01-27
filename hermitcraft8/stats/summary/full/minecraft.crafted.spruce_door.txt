@@ -1,0 +1,22 @@
+minecraft.crafted.spruce_door
+1: PearlescentMoon: 174
+2: joehillssays: 45
+3: Tango: 24
+4: BdoubleO100: 24
+5: iskall85: 21
+6: GoodTimeWithScar: 18
+7: Xisuma: 15
+8: VintageBeef: 12
+9: Welsknight: 12
+10: Etho: 12
+11: Keralis1: 12
+12: GeminiTay: 9
+13: Grian: 9
+14: falsesymmetry: 9
+15: ZombieCleo: 9
+16: Stressmonster101: 9
+17: EvilXisuma: 6
+18: cubfan135: 6
+19: impulseSV: 6
+20: Renthedog: 3
+Total 435

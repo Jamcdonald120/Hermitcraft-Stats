@@ -1,0 +1,25 @@
+minecraft.crafted.dark_oak_slab
+1: Stressmonster101: 8104
+2: Grian: 5056
+3: Renthedog: 3886
+4: GoodTimeWithScar: 3846
+5: BdoubleO100: 3534
+6: cubfan135: 3320
+7: Keralis1: 2532
+8: xBCrafted: 1264
+9: Etho: 1104
+10: Tango: 838
+11: hypnotizd: 834
+12: Xisuma: 750
+13: ZombieCleo: 630
+14: Docm77: 606
+15: iskall85: 558
+16: joehillssays: 456
+17: impulseSV: 240
+18: VintageBeef: 126
+19: falsesymmetry: 108
+20: Zedaph: 72
+21: MumboJumbo: 66
+22: Welsknight: 48
+23: iJevin: 30
+Total 38008

@@ -1,0 +1,30 @@
+minecraft.crafted.spruce_fence
+1: Docm77: 6657
+2: Renthedog: 2859
+3: iJevin: 2373
+4: GoodTimeWithScar: 1233
+5: ZombieCleo: 1113
+6: Keralis1: 1098
+7: hypnotizd: 1041
+8: Etho: 927
+9: PearlescentMoon: 792
+10: BdoubleO100: 789
+11: xBCrafted: 606
+12: impulseSV: 423
+13: Stressmonster101: 372
+14: Grian: 367
+15: cubfan135: 342
+16: Tango: 315
+17: GeminiTay: 312
+18: Xisuma: 186
+19: VintageBeef: 180
+20: Smallishbeans: 144
+21: MythicalSausage: 108
+22: iskall85: 93
+23: RentheKing: 51
+24: joehillssays: 36
+25: falsesymmetry: 30
+26: Welsknight: 12
+27: SolidarityGaming: 6
+28: Zedaph: 3
+Total 22468

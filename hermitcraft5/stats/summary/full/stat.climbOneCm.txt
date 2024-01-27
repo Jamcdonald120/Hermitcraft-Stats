@@ -1,0 +1,28 @@
+stat.climbOneCm
+1: impulseSV: 5426833
+2: Tinfoilchef: 4761506
+3: joehillssays: 3709109
+4: Tango: 3642861
+5: Xisuma: 3182149
+6: cubfan135: 2610788
+7: falsesymmetry: 2235021
+8: MumboJumbo: 2228194
+9: GoodTimeWithScar: 2063076
+10: Renthedog: 2055130
+11: Welsknight: 1856009
+12: xBCrafted: 1629512
+13: Docm77: 1580334
+14: iskall85: 1557462
+15: Stressmonster101: 1210832
+16: iJevin: 1091962
+17: PythonGB: 948062
+18: BdoubleO100: 930613
+19: Zedaph: 889847
+20: VintageBeef: 503272
+21: Etho: 338653
+22: Biffa2001: 270042
+23: ZombieCleo: 205466
+24: TangoCam: 6567
+25: isGall85: 1458
+26: xisumavoid: 921
+Total 44935679

@@ -1,0 +1,28 @@
+minecraft.picked_up.raw_iron
+1: cubfan135: 35224
+2: GoodTimeWithScar: 14449
+3: iJevin: 12393
+4: Renthedog: 10518
+5: PearlescentMoon: 5299
+6: Welsknight: 5036
+7: Grian: 4698
+8: Etho: 4159
+9: joehillssays: 3385
+10: falsesymmetry: 2868
+11: xBCrafted: 2766
+12: impulseSV: 2732
+13: MumboJumbo: 2699
+14: Tango: 2598
+15: BdoubleO100: 2591
+16: GeminiTay: 1915
+17: Docm77: 1822
+18: hypnotizd: 1770
+19: VintageBeef: 1714
+20: Zedaph: 1711
+21: ZombieCleo: 1636
+22: Tinfoilchef: 1268
+23: Stressmonster101: 1262
+24: Xisuma: 1253
+25: iskall85: 980
+26: Keralis1: 459
+Total 127205

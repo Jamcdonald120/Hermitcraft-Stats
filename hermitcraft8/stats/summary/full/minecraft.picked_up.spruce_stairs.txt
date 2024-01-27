@@ -1,0 +1,26 @@
+minecraft.picked_up.spruce_stairs
+1: GoodTimeWithScar: 594
+2: PearlescentMoon: 426
+3: Xisuma: 289
+4: GeminiTay: 217
+5: Grian: 206
+6: Tango: 204
+7: Etho: 171
+8: joehillssays: 164
+9: Keralis1: 106
+10: BdoubleO100: 99
+11: Renthedog: 96
+12: ZombieCleo: 71
+13: iskall85: 65
+14: Welsknight: 64
+15: impulseSV: 17
+16: hypnotizd: 15
+17: iJevin: 10
+18: falsesymmetry: 7
+19: xBCrafted: 4
+20: cubfan135: 4
+21: Stressmonster101: 4
+22: MumboJumbo: 2
+23: Docm77: 1
+24: VintageBeef: 1
+Total 2837

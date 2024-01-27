@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.stone_shovel
+1: zueljin: 238
+2: falsesymmetry: 149
+3: xBCrafted: 125
+4: Mumbo: 105
+5: PythonGB: 78
+6: Spumwackles: 53
+7: Xisuma: 38
+8: joehillssays: 11
+9: Tango: 11
+10: Biffa2001: 7
+11: Tinfoilchef: 7
+12: topmass: 4
+13: Pungence: 3
+14: hypnotizd: 3
+15: Docm77: 2
+16: skyzm: 2
+17: sl1pg8r: 1
+18: KingDaddyDMAC: 1
+19: Etho: 1
+20: monkeyfarm: 1
+21: NameOfSamuel: 1
+22: Collen: 1
+Total 842

@@ -1,0 +1,25 @@
+minecraft.picked_up.leather_boots
+1: Tango: 63
+2: Xisuma: 44
+3: cubfan135: 27
+4: impulseSV: 27
+5: hypnotizd: 25
+6: PearlescentMoon: 17
+7: falsesymmetry: 15
+8: iJevin: 14
+9: Grian: 14
+10: xBCrafted: 14
+11: Keralis1: 14
+12: Etho: 12
+13: GoodTimeWithScar: 9
+14: iskall85: 8
+15: Renthedog: 6
+16: Welsknight: 6
+17: Docm77: 5
+18: GeminiTay: 5
+19: ZombieCleo: 4
+20: joehillssays: 3
+21: VintageBeef: 2
+22: BdoubleO100: 1
+23: Stressmonster101: 1
+Total 336

@@ -1,0 +1,29 @@
+stat.craftItem.minecraft.chest
+1: Xisuma: 4927
+2: Mumbo: 3536
+3: Tango: 2364
+4: iJevin: 2319
+5: xBCrafted: 2295
+6: Tinfoilchef: 2291
+7: impulseSV: 1980
+8: falsesymmetry: 1515
+9: hypnotizd: 886
+10: sl1pg8r: 725
+11: Biffa2001: 665
+12: KingDaddyDMAC: 504
+13: ZombieCleo: 351
+14: zueljin: 322
+15: topmass: 309
+16: monkeyfarm: 287
+17: PythonGB: 165
+18: Spumwackles: 161
+19: Etho: 130
+20: Docm77: 97
+21: joehillssays: 52
+22: skyzm: 21
+23: Keralis1: 21
+24: NameOfSamuel: 7
+25: xisumavoid: 6
+26: Pungence: 6
+27: Collen: 2
+Total 25944

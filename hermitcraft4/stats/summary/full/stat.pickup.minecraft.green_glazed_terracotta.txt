@@ -1,0 +1,6 @@
+stat.pickup.minecraft.green_glazed_terracotta
+1: falsesymmetry: 128
+2: GoodTimeWithScar: 15
+3: joehillssays: 4
+4: impulseSV: 1
+Total 148

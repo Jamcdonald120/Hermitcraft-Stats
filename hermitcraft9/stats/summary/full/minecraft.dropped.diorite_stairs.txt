@@ -1,0 +1,7 @@
+minecraft.dropped.diorite_stairs
+1: Keralis1: 51
+2: falsesymmetry: 41
+3: GoodTimeWithScar: 27
+4: Renthedog: 2
+5: Tango: 1
+Total 122

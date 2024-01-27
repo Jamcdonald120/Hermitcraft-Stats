@@ -1,0 +1,19 @@
+minecraft.crafted.oak_door
+1: Renthedog: 9
+2: iJevin: 9
+3: joehillssays: 9
+4: hypnotizd: 9
+5: iskall85: 6
+6: ZombieCleo: 6
+7: MumboJumbo: 6
+8: Xisuma: 3
+9: VintageBeef: 3
+10: GeminiTay: 3
+11: Grian: 3
+12: Tango: 3
+13: BdoubleO100: 3
+14: falsesymmetry: 3
+15: cubfan135: 3
+16: Tinfoilchef: 3
+17: Stressmonster101: 3
+Total 84

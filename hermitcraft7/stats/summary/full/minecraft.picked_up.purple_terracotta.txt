@@ -1,0 +1,10 @@
+minecraft.picked_up.purple_terracotta
+1: Welsknight: 1172
+2: Etho: 702
+3: GoodTimeWithScar: 352
+4: VintageBeef: 340
+5: MumboJumbo: 235
+6: joehillssays: 195
+7: Zedaph: 16
+8: Xisuma: 3
+Total 3015

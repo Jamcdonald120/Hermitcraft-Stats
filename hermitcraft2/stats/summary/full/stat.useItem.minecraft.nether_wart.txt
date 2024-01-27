@@ -1,0 +1,5 @@
+stat.useItem.minecraft.nether_wart
+1: falsesymmetry: 46
+2: Tinfoilchef: 18
+3: Spumwackles: 9
+Total 73

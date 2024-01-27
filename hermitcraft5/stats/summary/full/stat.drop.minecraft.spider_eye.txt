@@ -1,0 +1,24 @@
+stat.drop.minecraft.spider_eye
+1: Xisuma: 13445
+2: Tango: 8598
+3: cubfan135: 4007
+4: impulseSV: 495
+5: GoodTimeWithScar: 454
+6: MumboJumbo: 323
+7: Zedaph: 135
+8: PythonGB: 121
+9: iskall85: 94
+10: iJevin: 38
+11: xisumavoid: 34
+12: Docm77: 28
+13: Etho: 17
+14: VintageBeef: 16
+15: falsesymmetry: 15
+16: Welsknight: 14
+17: Stressmonster101: 13
+18: BdoubleO100: 12
+19: xBCrafted: 12
+20: Renthedog: 9
+21: joehillssays: 6
+22: ZombieCleo: 6
+Total 27892

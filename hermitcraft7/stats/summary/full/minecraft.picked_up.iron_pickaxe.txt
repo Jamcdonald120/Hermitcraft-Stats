@@ -1,0 +1,21 @@
+minecraft.picked_up.iron_pickaxe
+1: joehillssays: 89
+2: Tango: 32
+3: Zedaph: 18
+4: Grian: 16
+5: Etho: 16
+6: falsesymmetry: 14
+7: GoodTimeWithScar: 13
+8: iJevin: 10
+9: iskall85: 8
+10: BdoubleO100: 7
+11: impulseSV: 7
+12: Xisuma: 5
+13: ZombieCleo: 5
+14: Keralis1: 4
+15: VintageBeef: 3
+16: cubfan135: 3
+17: Docm77: 2
+18: Renthedog: 1
+19: xBCrafted: 1
+Total 254

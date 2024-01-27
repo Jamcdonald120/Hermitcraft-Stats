@@ -1,0 +1,24 @@
+stat.drop.minecraft.leather_chestplate
+1: Renthedog: 117
+2: GoodTimeWithScar: 99
+3: iskall85: 74
+4: Tinfoilchef: 42
+5: Zedaph: 42
+6: xBCrafted: 40
+7: falsesymmetry: 40
+8: Tango: 21
+9: BdoubleO100: 21
+10: Docm77: 13
+11: cubfan135: 12
+12: impulseSV: 12
+13: iJevin: 7
+14: MumboJumbo: 7
+15: Stressmonster101: 7
+16: PythonGB: 4
+17: joehillssays: 3
+18: Welsknight: 3
+19: Xisuma: 2
+20: VintageBeef: 2
+21: Etho: 1
+22: ZombieCleo: 1
+Total 570

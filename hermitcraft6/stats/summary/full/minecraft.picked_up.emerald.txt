@@ -1,0 +1,25 @@
+minecraft.picked_up.emerald
+1: Xisuma: 46614
+2: Grian: 3963
+3: cubfan135: 2265
+4: Docm77: 1614
+5: iskall85: 1506
+6: GoodTimeWithScar: 1438
+7: MumboJumbo: 625
+8: Renthedog: 348
+9: impulseSV: 259
+10: PythonGB: 231
+11: iJevin: 212
+12: falsesymmetry: 133
+13: Zedaph: 113
+14: Tango: 86
+15: Tinfoilchef: 65
+16: joehillssays: 47
+17: ZombieCleo: 42
+18: Keralis1: 40
+19: Stressmonster101: 32
+20: Biffa2001: 27
+21: Welsknight: 22
+22: Duke_da_dog: 9
+23: BdoubleO100: 3
+Total 59694

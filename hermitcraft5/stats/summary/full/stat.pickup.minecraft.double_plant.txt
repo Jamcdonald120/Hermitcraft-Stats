@@ -1,0 +1,24 @@
+stat.pickup.minecraft.double_plant
+1: iskall85: 4439
+2: Renthedog: 2003
+3: Tango: 1802
+4: MumboJumbo: 1799
+5: GoodTimeWithScar: 1673
+6: Stressmonster101: 1652
+7: Xisuma: 1550
+8: falsesymmetry: 1343
+9: cubfan135: 1337
+10: impulseSV: 1180
+11: Welsknight: 522
+12: Zedaph: 491
+13: xBCrafted: 341
+14: PythonGB: 168
+15: joehillssays: 156
+16: Tinfoilchef: 80
+17: VintageBeef: 17
+18: ZombieCleo: 14
+19: BdoubleO100: 11
+20: Biffa2001: 7
+21: Docm77: 2
+22: iJevin: 1
+Total 20588

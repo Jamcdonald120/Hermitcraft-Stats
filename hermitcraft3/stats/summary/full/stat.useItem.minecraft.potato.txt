@@ -1,0 +1,24 @@
+stat.useItem.minecraft.potato
+1: Tinfoilchef: 7090
+2: Xisuma: 6414
+3: xBCrafted: 1957
+4: falsesymmetry: 920
+5: Tango: 463
+6: Spumwackles: 458
+7: NameOfSamuel: 427
+8: topmass: 391
+9: sl1pg8r: 379
+10: joehillssays: 337
+11: iJevin: 267
+12: skyzm: 251
+13: PythonGB: 234
+14: zueljin: 164
+15: ZombieCleo: 146
+16: Biffa2001: 144
+17: KingDaddyDMAC: 126
+18: Mumbo: 82
+19: monkeyfarm: 80
+20: Collen: 52
+21: Pungence: 38
+22: impulseSV: 1
+Total 20421

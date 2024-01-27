@@ -1,0 +1,14 @@
+minecraft.picked_up.white_tulip
+1: Etho: 1309
+2: ZombieCleo: 990
+3: GoodTimeWithScar: 59
+4: cubfan135: 51
+5: Mumbo: 23
+6: PearlescentMoon: 13
+7: GeminiTay: 10
+8: VintageBeef: 2
+9: BdoubleO100: 2
+10: Zedaph: 2
+11: Welsknight: 1
+12: hypnotizd: 1
+Total 2463

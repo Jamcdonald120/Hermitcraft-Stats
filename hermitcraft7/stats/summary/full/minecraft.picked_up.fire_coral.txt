@@ -1,0 +1,12 @@
+minecraft.picked_up.fire_coral
+1: cubfan135: 70
+2: Etho: 68
+3: Xisuma: 21
+4: Zedaph: 16
+5: Keralis1: 15
+6: hypnotizd: 12
+7: Docm77: 2
+8: VintageBeef: 2
+9: GoodTimeWithScar: 2
+10: Renthedog: 1
+Total 209

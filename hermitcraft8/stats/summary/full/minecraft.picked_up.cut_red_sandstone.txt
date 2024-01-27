@@ -1,0 +1,8 @@
+minecraft.picked_up.cut_red_sandstone
+1: Xisuma: 62
+2: cubfan135: 42
+3: MumboJumbo: 12
+4: BdoubleO100: 6
+5: Keralis1: 2
+6: Etho: 1
+Total 125

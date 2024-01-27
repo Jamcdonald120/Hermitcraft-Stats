@@ -1,0 +1,14 @@
+minecraft.picked_up.dark_oak_pressure_plate
+1: Renthedog: 48
+2: GoodTimeWithScar: 45
+3: cubfan135: 31
+4: iskall85: 11
+5: joehillssays: 7
+6: Grian: 5
+7: falsesymmetry: 5
+8: BdoubleO100: 2
+9: iJevin: 1
+10: Tango: 1
+11: ZombieCleo: 1
+12: Tinfoilchef: 1
+Total 158

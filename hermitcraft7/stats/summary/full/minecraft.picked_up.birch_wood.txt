@@ -1,0 +1,12 @@
+minecraft.picked_up.birch_wood
+1: Keralis1: 25
+2: cubfan135: 23
+3: Etho: 19
+4: falsesymmetry: 18
+5: Xisuma: 13
+6: Renthedog: 9
+7: Stressmonster101: 7
+8: GoodTimeWithScar: 6
+9: BdoubleO100: 4
+10: Grian: 3
+Total 127

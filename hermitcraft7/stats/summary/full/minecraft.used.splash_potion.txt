@@ -1,0 +1,25 @@
+minecraft.used.splash_potion
+1: cubfan135: 441
+2: hypnotizd: 231
+3: Etho: 147
+4: Keralis1: 141
+5: GoodTimeWithScar: 86
+6: impulseSV: 71
+7: Stressmonster101: 65
+8: Tango: 63
+9: iskall85: 56
+10: Xisuma: 45
+11: xBCrafted: 35
+12: Grian: 31
+13: Renthedog: 26
+14: Zedaph: 23
+15: Docm77: 22
+16: BdoubleO100: 21
+17: HermitcraftAlt: 21
+18: joehillssays: 17
+19: VintageBeef: 11
+20: falsesymmetry: 11
+21: MumboJumbo: 7
+22: iJevin: 5
+23: ZombieCleo: 4
+Total 1580

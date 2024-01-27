@@ -1,0 +1,8 @@
+minecraft.crafted.acacia_sign
+1: GoodTimeWithScar: 15
+2: Keralis1: 12
+3: iskall85: 6
+4: Docm77: 3
+5: Xisuma: 3
+6: Renthedog: 3
+Total 42

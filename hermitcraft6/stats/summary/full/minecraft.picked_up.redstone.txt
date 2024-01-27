@@ -1,0 +1,27 @@
+minecraft.picked_up.redstone
+1: GoodTimeWithScar: 107504
+2: Tinfoilchef: 77537
+3: cubfan135: 50897
+4: Renthedog: 48016
+5: iskall85: 37098
+6: MumboJumbo: 19108
+7: ZombieCleo: 13047
+8: Xisuma: 12528
+9: Grian: 12381
+10: impulseSV: 12201
+11: BdoubleO100: 10684
+12: joehillssays: 9123
+13: iJevin: 8709
+14: Biffa2001: 8574
+15: Tango: 8466
+16: Docm77: 7683
+17: Stressmonster101: 6876
+18: Welsknight: 6819
+19: falsesymmetry: 6444
+20: xBCrafted: 5565
+21: Zedaph: 5327
+22: Keralis1: 1907
+23: PythonGB: 1668
+24: Jessassin: 280
+25: HumanCleo: 94
+Total 478536

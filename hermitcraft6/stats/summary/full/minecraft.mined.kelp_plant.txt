@@ -1,0 +1,27 @@
+minecraft.mined.kelp_plant
+1: Renthedog: 6885
+2: GoodTimeWithScar: 6281
+3: cubfan135: 5999
+4: falsesymmetry: 5438
+5: Grian: 3339
+6: Xisuma: 3100
+7: joehillssays: 2330
+8: Tango: 1406
+9: iskall85: 1142
+10: Docm77: 487
+11: Jessassin: 459
+12: MumboJumbo: 456
+13: impulseSV: 411
+14: iJevin: 324
+15: Welsknight: 219
+16: Tinfoilchef: 182
+17: BdoubleO100: 174
+18: Zedaph: 173
+19: Biffa2001: 125
+20: ZombieCleo: 115
+21: Stressmonster101: 35
+22: PythonGB: 34
+23: Keralis1: 24
+24: xBCrafted: 16
+25: HumanCleo: 11
+Total 39165

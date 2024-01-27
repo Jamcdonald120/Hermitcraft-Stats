@@ -1,0 +1,4 @@
+stat.drop.minecraft.light_blue_shulker_box
+1: cubfan135: 55
+2: falsesymmetry: 1
+Total 56

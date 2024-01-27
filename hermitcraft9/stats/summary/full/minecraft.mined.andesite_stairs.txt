@@ -1,0 +1,20 @@
+minecraft.mined.andesite_stairs
+1: Tango: 75
+2: xBCrafted: 63
+3: Keralis1: 39
+4: RentheKing: 36
+5: Docm77: 35
+6: Xisuma: 25
+7: falsesymmetry: 21
+8: GoodTimeWithScar: 18
+9: Renthedog: 11
+10: PearlescentMoon: 11
+11: cubfan135: 11
+12: Grian: 10
+13: joehillssays: 9
+14: impulseSV: 8
+15: VintageBeef: 6
+16: ZombieCleo: 6
+17: iJevin: 3
+18: GeminiTay: 3
+Total 390

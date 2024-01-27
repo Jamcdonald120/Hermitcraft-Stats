@@ -1,0 +1,11 @@
+stat.drop.minecraft.redstone_ore
+1: GoodTimeWithScar: 139
+2: MumboJumbo: 56
+3: Xisuma: 27
+4: Tango: 26
+5: Renthedog: 16
+6: xBCrafted: 12
+7: falsesymmetry: 11
+8: cubfan135: 4
+9: impulseSV: 1
+Total 292

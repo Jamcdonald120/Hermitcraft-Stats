@@ -1,0 +1,28 @@
+minecraft.killed.sheep
+1: Etho: 235
+2: BdoubleO100: 139
+3: falsesymmetry: 102
+4: Renthedog: 81
+5: iJevin: 69
+6: PearlescentMoon: 44
+7: joehillssays: 42
+8: Grian: 42
+9: Keralis1: 36
+10: Tango: 26
+11: Docm77: 25
+12: Xisuma: 23
+13: Zedaph: 22
+14: VintageBeef: 21
+15: impulseSV: 17
+16: ZombieCleo: 11
+17: xBCrafted: 10
+18: iskall85: 9
+19: Mumbo: 9
+20: MumboJumbo: 7
+21: cubfan135: 6
+22: Welsknight: 6
+23: Pixlriffs: 2
+24: fWhip: 2
+25: hypnotizd: 1
+26: GoodTimeWithScar: 1
+Total 988

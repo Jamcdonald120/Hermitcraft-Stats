@@ -1,0 +1,10 @@
+minecraft.picked_up.spruce_wood
+1: Grian: 72
+2: GeminiTay: 51
+3: PearlescentMoon: 30
+4: GoodTimeWithScar: 15
+5: hypnotizd: 9
+6: BdoubleO100: 6
+7: Keralis1: 2
+8: cubfan135: 1
+Total 186

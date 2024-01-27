@@ -1,0 +1,14 @@
+stat.useItem.minecraft.hopper_minecart
+1: hypnotizd: 59
+2: Xisuma: 51
+3: impulseSV: 37
+4: KingDaddyDMAC: 16
+5: iJevin: 15
+6: Etho: 14
+7: Mumbo: 9
+8: xBCrafted: 8
+9: zueljin: 4
+10: Tinfoilchef: 4
+11: falsesymmetry: 2
+12: monkeyfarm: 2
+Total 221

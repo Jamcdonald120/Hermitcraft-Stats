@@ -1,0 +1,25 @@
+stat.pickup.minecraft.water_bucket
+1: Zedaph: 46
+2: Tango: 43
+3: Renthedog: 40
+4: impulseSV: 37
+5: MumboJumbo: 32
+6: GoodTimeWithScar: 31
+7: Xisuma: 29
+8: cubfan135: 29
+9: PythonGB: 26
+10: Docm77: 23
+11: falsesymmetry: 18
+12: Welsknight: 14
+13: iJevin: 13
+14: Tinfoilchef: 10
+15: joehillssays: 7
+16: iskall85: 6
+17: Biffa2001: 5
+18: Stressmonster101: 5
+19: xBCrafted: 4
+20: Etho: 4
+21: ZombieCleo: 3
+22: VintageBeef: 2
+23: BdoubleO100: 2
+Total 429

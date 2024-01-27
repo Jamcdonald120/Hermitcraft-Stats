@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.pumpkin
+1: falsesymmetry: 49
+2: zueljin: 31
+3: KingDaddyDMAC: 16
+4: Xisuma: 14
+5: ZombieCleo: 14
+6: Tango: 6
+7: Mumbo: 2
+Total 132

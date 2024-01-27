@@ -1,0 +1,20 @@
+minecraft.picked_up.dead_bush
+1: Etho: 954
+2: Renthedog: 753
+3: falsesymmetry: 665
+4: Xisuma: 279
+5: BdoubleO100: 233
+6: cubfan135: 173
+7: hypnotizd: 81
+8: iskall85: 71
+9: Keralis1: 56
+10: xBCrafted: 49
+11: ZombieCleo: 32
+12: iJevin: 30
+13: Welsknight: 30
+14: GoodTimeWithScar: 25
+15: VintageBeef: 19
+16: joehillssays: 17
+17: impulseSV: 4
+18: Tango: 2
+Total 3473

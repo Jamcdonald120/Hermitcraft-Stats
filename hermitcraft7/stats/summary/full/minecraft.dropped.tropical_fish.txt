@@ -1,0 +1,18 @@
+minecraft.dropped.tropical_fish
+1: Xisuma: 21048
+2: impulseSV: 94
+3: Grian: 40
+4: GoodTimeWithScar: 38
+5: Renthedog: 16
+6: Tango: 16
+7: Stressmonster101: 11
+8: hypnotizd: 9
+9: iskall85: 7
+10: iJevin: 4
+11: cubfan135: 4
+12: Etho: 4
+13: Zedaph: 4
+14: Docm77: 2
+15: xBCrafted: 1
+16: MumboJumbo: 1
+Total 21299

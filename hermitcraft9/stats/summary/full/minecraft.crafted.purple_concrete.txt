@@ -1,0 +1,5 @@
+minecraft.crafted.purple_concrete
+1: impulseSV: 808
+2: cubfan135: 64
+3: iJevin: 40
+Total 912

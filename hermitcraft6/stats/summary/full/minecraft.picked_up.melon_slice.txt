@@ -1,0 +1,19 @@
+minecraft.picked_up.melon_slice
+1: MumboJumbo: 37710
+2: iskall85: 12560
+3: Renthedog: 2028
+4: iJevin: 1306
+5: Stressmonster101: 905
+6: cubfan135: 788
+7: Xisuma: 636
+8: impulseSV: 528
+9: Jessassin: 312
+10: Welsknight: 67
+11: joehillssays: 64
+12: ZombieCleo: 58
+13: GoodTimeWithScar: 44
+14: Tango: 33
+15: falsesymmetry: 27
+16: Biffa2001: 8
+17: Grian: 4
+Total 57078

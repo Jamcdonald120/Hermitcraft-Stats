@@ -1,0 +1,10 @@
+minecraft.dropped.brown_carpet
+1: falsesymmetry: 81
+2: impulseSV: 45
+3: Tango: 22
+4: iJevin: 20
+5: Grian: 18
+6: iskall85: 15
+7: Keralis1: 4
+8: Renthedog: 1
+Total 206

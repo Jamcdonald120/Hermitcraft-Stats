@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.paper
+1: impulseSV: 28584
+2: Tango: 21330
+3: cubfan135: 17616
+4: iskall85: 12834
+5: GoodTimeWithScar: 10059
+6: MumboJumbo: 7677
+7: Renthedog: 7218
+8: Tinfoilchef: 6186
+9: falsesymmetry: 3652
+10: joehillssays: 2496
+11: Xisuma: 1839
+12: PythonGB: 690
+13: Docm77: 423
+14: ZombieCleo: 423
+15: Biffa2001: 327
+16: Etho: 321
+17: iJevin: 144
+18: Welsknight: 123
+19: VintageBeef: 105
+Total 122047

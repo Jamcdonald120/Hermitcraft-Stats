@@ -1,0 +1,24 @@
+minecraft.picked_up.jungle_sapling
+1: cubfan135: 1615
+2: Renthedog: 584
+3: GoodTimeWithScar: 550
+4: impulseSV: 296
+5: Xisuma: 251
+6: Grian: 95
+7: iskall85: 77
+8: Jura_Whitey: 66
+9: Zedaph: 47
+10: Jessassin: 28
+11: tterrag: 28
+12: ZombieCleo: 28
+13: BdoubleO100: 26
+14: Cojomax99: 24
+15: Welsknight: 15
+16: PhoenixfireLune: 15
+17: PythonGB: 14
+18: falsesymmetry: 14
+19: PokePugx: 10
+20: iJevin: 9
+21: joehillssays: 1
+22: Biffa2001: 1
+Total 3794

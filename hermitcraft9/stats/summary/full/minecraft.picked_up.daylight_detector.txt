@@ -1,0 +1,13 @@
+minecraft.picked_up.daylight_detector
+1: GoodTimeWithScar: 110
+2: Grian: 52
+3: Docm77: 44
+4: PearlescentMoon: 24
+5: Renthedog: 19
+6: impulseSV: 11
+7: Keralis1: 8
+8: iJevin: 6
+9: cubfan135: 4
+10: Zedaph: 2
+11: Etho: 1
+Total 281

@@ -1,0 +1,10 @@
+stat.mineBlock.minecraft.iron_bars
+1: Mumbo: 1237
+2: falsesymmetry: 80
+3: Tango: 42
+4: zueljin: 41
+5: Spumwackles: 41
+6: monkeyfarm: 6
+7: xBCrafted: 4
+8: Pungence: 3
+Total 1454

@@ -1,0 +1,11 @@
+minecraft.dropped.birch_stairs
+1: MumboJumbo: 108
+2: impulseSV: 82
+3: cubfan135: 43
+4: Xisuma: 32
+5: Renthedog: 22
+6: iskall85: 6
+7: Keralis1: 5
+8: Grian: 1
+9: falsesymmetry: 1
+Total 300

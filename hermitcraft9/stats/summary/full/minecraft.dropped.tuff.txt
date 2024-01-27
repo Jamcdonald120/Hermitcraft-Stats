@@ -1,0 +1,30 @@
+minecraft.dropped.tuff
+1: iJevin: 9291
+2: xBCrafted: 3341
+3: Zedaph: 2034
+4: cubfan135: 1514
+5: Docm77: 1468
+6: VintageBeef: 1406
+7: Tango: 1276
+8: falsesymmetry: 1054
+9: Renthedog: 997
+10: Grian: 494
+11: iskall85: 472
+12: Keralis1: 402
+13: Mumbo: 392
+14: BdoubleO100: 211
+15: impulseSV: 177
+16: GoodTimeWithScar: 166
+17: RentheKing: 157
+18: Xisuma: 149
+19: PearlescentMoon: 118
+20: Smallishbeans: 92
+21: hypnotizd: 74
+22: Stressmonster101: 64
+23: Pixlriffs: 55
+24: MumboJumbo: 46
+25: Etho: 21
+26: ZombieCleo: 17
+27: joehillssays: 3
+28: GeminiTay: 1
+Total 25492

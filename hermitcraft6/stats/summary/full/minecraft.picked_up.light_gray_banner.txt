@@ -1,0 +1,10 @@
+minecraft.picked_up.light_gray_banner
+1: iJevin: 32
+2: GoodTimeWithScar: 29
+3: cubfan135: 19
+4: Renthedog: 12
+5: falsesymmetry: 7
+6: joehillssays: 5
+7: Xisuma: 4
+8: MumboJumbo: 1
+Total 109

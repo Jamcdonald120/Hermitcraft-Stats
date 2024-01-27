@@ -1,0 +1,21 @@
+minecraft.dropped.armor_stand
+1: Zedaph: 65
+2: impulseSV: 34
+3: ZombieCleo: 17
+4: cubfan135: 16
+5: xBCrafted: 14
+6: Etho: 14
+7: Docm77: 13
+8: GoodTimeWithScar: 13
+9: joehillssays: 10
+10: Tango: 10
+11: Xisuma: 8
+12: Grian: 7
+13: Keralis1: 6
+14: iJevin: 5
+15: BdoubleO100: 3
+16: iskall85: 3
+17: hypnotizd: 3
+18: Renthedog: 1
+19: MumboJumbo: 1
+Total 243

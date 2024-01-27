@@ -1,0 +1,26 @@
+minecraft.mined.shulker_box
+1: cubfan135: 7830
+2: GoodTimeWithScar: 6174
+3: Xisuma: 4126
+4: impulseSV: 2365
+5: Grian: 2320
+6: iJevin: 2178
+7: Welsknight: 2018
+8: Tango: 2001
+9: iskall85: 1737
+10: falsesymmetry: 1063
+11: MumboJumbo: 997
+12: Stressmonster101: 917
+13: Renthedog: 823
+14: Docm77: 806
+15: PythonGB: 756
+16: Tinfoilchef: 559
+17: Zedaph: 446
+18: Biffa2001: 370
+19: joehillssays: 336
+20: ZombieCleo: 225
+21: HumanCleo: 93
+22: BdoubleO100: 46
+23: Keralis1: 27
+24: xBCrafted: 9
+Total 38222

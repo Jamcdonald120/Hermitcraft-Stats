@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.brick_block
+1: falsesymmetry: 339
+2: joehillssays: 97
+3: Mumbo: 29
+4: Tinfoilchef: 24
+5: Tango: 5
+6: Spumwackles: 5
+7: Xisuma: 4
+8: iJevin: 1
+9: xBCrafted: 1
+Total 505

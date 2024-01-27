@@ -1,0 +1,17 @@
+minecraft.picked_up.green_carpet
+1: Xisuma: 186
+2: Renthedog: 116
+3: GoodTimeWithScar: 95
+4: cubfan135: 64
+5: iskall85: 40
+6: falsesymmetry: 40
+7: Docm77: 10
+8: Grian: 10
+9: joehillssays: 6
+10: Tango: 4
+11: Welsknight: 3
+12: Stressmonster101: 3
+13: Grianch: 2
+14: Tinfoilchef: 2
+15: Keralis1: 1
+Total 582

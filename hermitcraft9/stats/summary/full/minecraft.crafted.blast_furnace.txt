@@ -1,0 +1,22 @@
+minecraft.crafted.blast_furnace
+1: Tango: 292
+2: impulseSV: 172
+3: PearlescentMoon: 99
+4: Keralis1: 77
+5: BdoubleO100: 43
+6: Docm77: 39
+7: xBCrafted: 38
+8: iJevin: 26
+9: Grian: 10
+10: falsesymmetry: 9
+11: Xisuma: 8
+12: cubfan135: 8
+13: VintageBeef: 6
+14: Zedaph: 4
+15: Renthedog: 2
+16: hypnotizd: 2
+17: iskall85: 1
+18: ZombieCleo: 1
+19: GoodTimeWithScar: 1
+20: Stressmonster101: 1
+Total 839

@@ -1,0 +1,24 @@
+stat.drop.minecraft.yellow_flower
+1: GoodTimeWithScar: 400
+2: cubfan135: 203
+3: MumboJumbo: 187
+4: falsesymmetry: 147
+5: xBCrafted: 99
+6: joehillssays: 94
+7: Xisuma: 85
+8: Tinfoilchef: 64
+9: Stressmonster101: 61
+10: Renthedog: 50
+11: BdoubleO100: 34
+12: impulseSV: 24
+13: iskall85: 23
+14: ZombieCleo: 19
+15: Zedaph: 14
+16: Docm77: 12
+17: VintageBeef: 7
+18: iJevin: 5
+19: PythonGB: 3
+20: Tango: 2
+21: Biffa2001: 1
+22: Etho: 1
+Total 1535

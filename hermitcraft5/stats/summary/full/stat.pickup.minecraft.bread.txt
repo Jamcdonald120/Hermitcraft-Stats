@@ -1,0 +1,24 @@
+stat.pickup.minecraft.bread
+1: cubfan135: 644
+2: MumboJumbo: 639
+3: Renthedog: 387
+4: joehillssays: 259
+5: iJevin: 161
+6: GoodTimeWithScar: 150
+7: iskall85: 104
+8: Docm77: 103
+9: PythonGB: 84
+10: falsesymmetry: 74
+11: Tango: 56
+12: Zedaph: 40
+13: impulseSV: 32
+14: BdoubleO100: 24
+15: Tinfoilchef: 23
+16: Stressmonster101: 23
+17: ZombieCleo: 18
+18: xBCrafted: 9
+19: Welsknight: 8
+20: Xisuma: 7
+21: Biffa2001: 6
+22: VintageBeef: 4
+Total 2855

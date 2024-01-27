@@ -1,0 +1,14 @@
+minecraft.custom.fish_caught
+1: Grian: 313
+2: GeminiTay: 60
+3: Pixlriffs: 32
+4: ZombieCleo: 30
+5: cubfan135: 25
+6: VintageBeef: 21
+7: iJevin: 11
+8: GoodTimeWithScar: 5
+9: Zedaph: 5
+10: Xisuma: 1
+11: Etho: 1
+12: Mumbo: 1
+Total 505

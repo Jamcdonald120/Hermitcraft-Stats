@@ -1,0 +1,6 @@
+stat.drop.minecraft.lit_pumpkin
+1: impulseSV: 56
+2: Xisuma: 2
+3: Renthedog: 1
+4: falsesymmetry: 1
+Total 60

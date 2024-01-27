@@ -1,0 +1,26 @@
+minecraft.mined.pink_shulker_box
+1: PearlescentMoon: 375
+2: GoodTimeWithScar: 271
+3: Tango: 242
+4: falsesymmetry: 221
+5: Renthedog: 180
+6: GeminiTay: 143
+7: joehillssays: 124
+8: BdoubleO100: 110
+9: iJevin: 108
+10: Xisuma: 103
+11: cubfan135: 78
+12: RentheKing: 64
+13: Grian: 41
+14: Etho: 37
+15: Keralis1: 11
+16: ZombieCleo: 10
+17: Mumbo: 9
+18: iskall85: 8
+19: Zedaph: 2
+20: Docm77: 1
+21: Minerva246: 1
+22: OrionSound: 1
+23: VintageBeef: 1
+24: impulseSV: 1
+Total 2142

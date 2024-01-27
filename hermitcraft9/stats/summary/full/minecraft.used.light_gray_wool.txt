@@ -1,0 +1,23 @@
+minecraft.used.light_gray_wool
+1: Renthedog: 14593
+2: GoodTimeWithScar: 4247
+3: PearlescentMoon: 3358
+4: Grian: 2538
+5: BdoubleO100: 2133
+6: ZombieCleo: 1728
+7: Tango: 1362
+8: impulseSV: 787
+9: falsesymmetry: 780
+10: Docm77: 634
+11: Keralis1: 229
+12: Stressmonster101: 224
+13: VintageBeef: 59
+14: cubfan135: 55
+15: GeminiTay: 44
+16: MythicalSausage: 29
+17: RentheKing: 25
+18: joehillssays: 18
+19: iJevin: 8
+20: Xisuma: 6
+21: Zedaph: 2
+Total 32859

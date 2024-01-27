@@ -1,0 +1,5 @@
+minecraft.crafted.yellow_glazed_terracotta
+1: Etho: 768
+2: ZombieCleo: 8
+3: GeminiTay: 4
+Total 780

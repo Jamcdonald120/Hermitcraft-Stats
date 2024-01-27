@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.lapis_block
+1: Xisuma: 97
+2: falsesymmetry: 67
+3: joehillssays: 19
+4: cubfan135: 16
+5: GoodTimeWithScar: 13
+6: Tango: 9
+7: ZombieCleo: 7
+8: iskall85: 4
+9: Welsknight: 1
+10: Tinfoilchef: 1
+Total 234

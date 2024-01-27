@@ -1,0 +1,18 @@
+minecraft.crafted.white_banner
+1: Zedaph: 718
+2: impulseSV: 206
+3: Xisuma: 161
+4: cubfan135: 124
+5: falsesymmetry: 86
+6: Renthedog: 56
+7: Keralis1: 55
+8: PearlescentMoon: 52
+9: xBCrafted: 22
+10: GoodTimeWithScar: 13
+11: ZombieCleo: 9
+12: Docm77: 8
+13: VintageBeef: 8
+14: iJevin: 7
+15: Smajor1995: 2
+16: BdoubleO100: 1
+Total 1528

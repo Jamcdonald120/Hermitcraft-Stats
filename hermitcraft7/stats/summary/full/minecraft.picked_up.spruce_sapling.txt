@@ -1,0 +1,25 @@
+minecraft.picked_up.spruce_sapling
+1: GoodTimeWithScar: 2697
+2: Etho: 2449
+3: Grian: 2176
+4: Renthedog: 1826
+5: BdoubleO100: 1712
+6: hypnotizd: 1137
+7: xBCrafted: 868
+8: Zedaph: 853
+9: joehillssays: 791
+10: VintageBeef: 695
+11: Stressmonster101: 431
+12: ZombieCleo: 300
+13: falsesymmetry: 279
+14: MumboJumbo: 277
+15: Keralis1: 231
+16: Docm77: 213
+17: Xisuma: 157
+18: cubfan135: 152
+19: Tango: 93
+20: iJevin: 92
+21: iskall85: 49
+22: Tinfoilchef: 7
+23: impulseSV: 2
+Total 17487

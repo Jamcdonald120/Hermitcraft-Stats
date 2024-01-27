@@ -1,0 +1,33 @@
+minecraft.picked_up.written_book
+1: GoodTimeWithScar: 157
+2: ZombieCleo: 73
+3: cubfan135: 61
+4: impulseSV: 58
+5: iJevin: 45
+6: Tango: 43
+7: Zedaph: 43
+8: falsesymmetry: 24
+9: hypnotizd: 23
+10: Grian: 15
+11: Keralis1: 15
+12: xBCrafted: 14
+13: BdoubleO100: 12
+14: iskall85: 11
+15: joehillssays: 10
+16: VintageBeef: 9
+17: Stressmonster101: 9
+18: Xisuma: 7
+19: RentheKing: 6
+20: GeminiTay: 5
+21: Smallishbeans: 5
+22: Etho: 4
+23: Docm77: 3
+24: OrionSound: 3
+25: PearlescentMoon: 3
+26: Welsknight: 3
+27: Tinfoilchef: 2
+28: Renthedog: 1
+29: MythicalSausage: 1
+30: Pixlriffs: 1
+31: Mumbo: 1
+Total 667

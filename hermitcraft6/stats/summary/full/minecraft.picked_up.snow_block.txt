@@ -1,0 +1,20 @@
+minecraft.picked_up.snow_block
+1: Stressmonster101: 2030
+2: iskall85: 1690
+3: falsesymmetry: 1374
+4: GoodTimeWithScar: 1307
+5: cubfan135: 998
+6: MumboJumbo: 908
+7: Grian: 430
+8: Biffa2001: 376
+9: Tango: 219
+10: Welsknight: 185
+11: Renthedog: 171
+12: Zedaph: 164
+13: Docm77: 149
+14: joehillssays: 88
+15: Xisuma: 56
+16: impulseSV: 54
+17: iJevin: 5
+18: Duke_da_dog: 5
+Total 10209

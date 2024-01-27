@@ -1,0 +1,11 @@
+stat.useItem.minecraft.porkchop
+1: Mumbo: 24
+2: topmass: 12
+3: Etho: 6
+4: iJevin: 5
+5: Tinfoilchef: 3
+6: impulseSV: 3
+7: skyzm: 2
+8: hypnotizd: 2
+9: Docm77: 1
+Total 58

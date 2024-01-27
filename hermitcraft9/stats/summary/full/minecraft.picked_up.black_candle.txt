@@ -1,0 +1,7 @@
+minecraft.picked_up.black_candle
+1: GoodTimeWithScar: 126
+2: Tango: 19
+3: cubfan135: 8
+4: hypnotizd: 4
+5: Zedaph: 1
+Total 158

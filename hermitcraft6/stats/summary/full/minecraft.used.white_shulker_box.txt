@@ -1,0 +1,22 @@
+minecraft.used.white_shulker_box
+1: cubfan135: 3049
+2: Xisuma: 1099
+3: iskall85: 838
+4: falsesymmetry: 814
+5: impulseSV: 656
+6: Tango: 551
+7: Renthedog: 351
+8: Stressmonster101: 280
+9: Docm77: 197
+10: GoodTimeWithScar: 196
+11: Zedaph: 191
+12: Welsknight: 123
+13: Grian: 111
+14: iJevin: 77
+15: joehillssays: 73
+16: ZombieCleo: 65
+17: PythonGB: 52
+18: MumboJumbo: 25
+19: Biffa2001: 21
+20: HumanCleo: 6
+Total 8775

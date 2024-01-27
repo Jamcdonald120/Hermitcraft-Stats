@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.glass_pane
+1: ZombieCleo: 1216
+2: falsesymmetry: 240
+3: zueljin: 144
+4: xBCrafted: 48
+5: Spumwackles: 48
+Total 1696

@@ -1,0 +1,25 @@
+minecraft.used.lava_bucket
+1: cubfan135: 10965
+2: PearlescentMoon: 629
+3: MumboJumbo: 551
+4: Tango: 421
+5: iJevin: 403
+6: Renthedog: 179
+7: VintageBeef: 169
+8: impulseSV: 125
+9: Xisuma: 124
+10: Keralis1: 122
+11: hypnotizd: 95
+12: xBCrafted: 84
+13: Docm77: 61
+14: Zedaph: 55
+15: Etho: 32
+16: falsesymmetry: 28
+17: BdoubleO100: 26
+18: joehillssays: 23
+19: iskall85: 18
+20: GeminiTay: 4
+21: Welsknight: 3
+22: Grian: 2
+23: GoodTimeWithScar: 2
+Total 14121

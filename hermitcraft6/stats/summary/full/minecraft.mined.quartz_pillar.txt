@@ -1,0 +1,21 @@
+minecraft.mined.quartz_pillar
+1: PythonGB: 771
+2: Renthedog: 718
+3: iJevin: 366
+4: falsesymmetry: 356
+5: iskall85: 323
+6: Grian: 322
+7: Docm77: 296
+8: cubfan135: 242
+9: GoodTimeWithScar: 171
+10: Welsknight: 150
+11: Zedaph: 94
+12: impulseSV: 86
+13: Keralis1: 43
+14: Xisuma: 15
+15: joehillssays: 11
+16: Tinfoilchef: 7
+17: BdoubleO100: 4
+18: ZombieCleo: 4
+19: MumboJumbo: 2
+Total 3981

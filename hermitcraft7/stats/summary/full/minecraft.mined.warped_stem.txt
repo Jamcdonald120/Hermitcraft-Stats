@@ -1,0 +1,24 @@
+minecraft.mined.warped_stem
+1: GoodTimeWithScar: 7430
+2: cubfan135: 6293
+3: Grian: 5533
+4: iskall85: 5380
+5: falsesymmetry: 3361
+6: joehillssays: 2296
+7: VintageBeef: 1729
+8: BdoubleO100: 1657
+9: Renthedog: 867
+10: Etho: 618
+11: Xisuma: 614
+12: ZombieCleo: 494
+13: Stressmonster101: 476
+14: iJevin: 384
+15: hypnotizd: 296
+16: Tango: 183
+17: xBCrafted: 138
+18: Welsknight: 102
+19: Keralis1: 80
+20: impulseSV: 75
+21: Zedaph: 20
+22: MumboJumbo: 2
+Total 38028

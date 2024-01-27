@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.sandstone_stairs
+1: falsesymmetry: 2112
+2: xBCrafted: 692
+3: Mumbo: 672
+4: zueljin: 624
+5: Tango: 280
+6: ZombieCleo: 252
+7: Xisuma: 224
+8: Tinfoilchef: 92
+9: iJevin: 4
+10: joehillssays: 4
+Total 4956

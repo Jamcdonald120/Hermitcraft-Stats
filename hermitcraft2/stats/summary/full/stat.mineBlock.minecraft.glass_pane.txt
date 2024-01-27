@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.glass_pane
+1: zueljin: 99
+2: ZombieCleo: 35
+3: falsesymmetry: 26
+4: Spumwackles: 10
+5: xBCrafted: 3
+6: Tinfoilchef: 3
+7: iJevin: 1
+Total 177

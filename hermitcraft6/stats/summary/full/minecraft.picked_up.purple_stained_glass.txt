@@ -1,0 +1,16 @@
+minecraft.picked_up.purple_stained_glass
+1: Renthedog: 2563
+2: Grian: 2308
+3: iskall85: 492
+4: GoodTimeWithScar: 492
+5: Zedaph: 279
+6: Tango: 178
+7: iJevin: 111
+8: Stressmonster101: 93
+9: falsesymmetry: 73
+10: cubfan135: 55
+11: Docm77: 44
+12: Xisuma: 43
+13: PythonGB: 35
+14: Biffa2001: 3
+Total 6769

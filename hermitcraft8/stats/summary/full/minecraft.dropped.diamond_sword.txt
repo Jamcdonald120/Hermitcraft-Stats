@@ -1,0 +1,27 @@
+minecraft.dropped.diamond_sword
+1: Grian: 22
+2: Zedaph: 16
+3: GoodTimeWithScar: 14
+4: Docm77: 11
+5: PearlescentMoon: 10
+6: iJevin: 9
+7: iskall85: 7
+8: Xisuma: 6
+9: ZombieCleo: 6
+10: Etho: 5
+11: BdoubleO100: 4
+12: cubfan135: 4
+13: MumboJumbo: 4
+14: Keralis1: 4
+15: GeminiTay: 3
+16: hypnotizd: 3
+17: Renthedog: 2
+18: impulseSV: 2
+19: EvilXisuma: 1
+20: VintageBeef: 1
+21: pillbugnine: 1
+22: joehillssays: 1
+23: Tango: 1
+24: xBCrafted: 1
+25: Stressmonster101: 1
+Total 139

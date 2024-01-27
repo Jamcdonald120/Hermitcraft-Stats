@@ -1,0 +1,25 @@
+minecraft.picked_up.sea_lantern
+1: iskall85: 730
+2: Etho: 289
+3: Zedaph: 262
+4: MumboJumbo: 107
+5: Xisuma: 103
+6: Docm77: 90
+7: Renthedog: 82
+8: Welsknight: 79
+9: VintageBeef: 70
+10: GeminiTay: 70
+11: xBCrafted: 65
+12: impulseSV: 56
+13: PearlescentMoon: 50
+14: falsesymmetry: 48
+15: cubfan135: 25
+16: Tango: 20
+17: joehillssays: 14
+18: Keralis1: 9
+19: Grian: 8
+20: BdoubleO100: 3
+21: GoodTimeWithScar: 3
+22: iJevin: 1
+23: pillbugnine: 1
+Total 2185

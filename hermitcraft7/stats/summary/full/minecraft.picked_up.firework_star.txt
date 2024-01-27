@@ -1,0 +1,6 @@
+minecraft.picked_up.firework_star
+1: GoodTimeWithScar: 138
+2: falsesymmetry: 65
+3: cubfan135: 21
+4: Grian: 4
+Total 228

@@ -1,0 +1,22 @@
+minecraft.crafted.red_shulker_box
+1: cubfan135: 104
+2: iskall85: 52
+3: GoodTimeWithScar: 30
+4: Xisuma: 29
+5: Renthedog: 16
+6: falsesymmetry: 16
+7: PythonGB: 15
+8: Docm77: 10
+9: iJevin: 9
+10: MumboJumbo: 8
+11: joehillssays: 6
+12: Grian: 4
+13: ZombieCleo: 4
+14: Tango: 3
+15: Stressmonster101: 3
+16: impulseSV: 2
+17: Zedaph: 2
+18: BdoubleO100: 1
+19: Welsknight: 1
+20: Tinfoilchef: 1
+Total 316

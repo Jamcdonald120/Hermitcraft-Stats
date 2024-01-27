@@ -1,0 +1,13 @@
+minecraft.dropped.jungle_boat
+1: Tango: 17
+2: cubfan135: 16
+3: iskall85: 10
+4: Xisuma: 9
+5: MumboJumbo: 5
+6: Renthedog: 2
+7: iJevin: 2
+8: VintageBeef: 1
+9: Grian: 1
+10: hypnotizd: 1
+11: impulseSV: 1
+Total 65

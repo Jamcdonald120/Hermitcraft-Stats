@@ -1,0 +1,20 @@
+minecraft.picked_up.acacia_planks
+1: xBCrafted: 500
+2: impulseSV: 245
+3: cubfan135: 240
+4: iJevin: 217
+5: Etho: 165
+6: Renthedog: 140
+7: joehillssays: 101
+8: Keralis1: 78
+9: GoodTimeWithScar: 58
+10: Tango: 56
+11: Grian: 52
+12: VintageBeef: 51
+13: iskall85: 22
+14: falsesymmetry: 22
+15: Welsknight: 22
+16: Zedaph: 20
+17: BdoubleO100: 11
+18: Xisuma: 2
+Total 2002

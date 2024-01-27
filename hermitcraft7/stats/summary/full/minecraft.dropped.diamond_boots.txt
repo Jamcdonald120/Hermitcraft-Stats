@@ -1,0 +1,22 @@
+minecraft.dropped.diamond_boots
+1: Zedaph: 34
+2: iJevin: 28
+3: Renthedog: 22
+4: Xisuma: 16
+5: Grian: 11
+6: Etho: 10
+7: Tango: 9
+8: iskall85: 8
+9: Keralis1: 8
+10: cubfan135: 6
+11: hypnotizd: 6
+12: GoodTimeWithScar: 6
+13: MumboJumbo: 4
+14: VintageBeef: 3
+15: BdoubleO100: 3
+16: Docm77: 2
+17: falsesymmetry: 2
+18: impulseSV: 2
+19: BarryBoss1234: 1
+20: ZombieCleo: 1
+Total 182

@@ -1,0 +1,14 @@
+stat.useItem.minecraft.gray_shulker_box
+1: cubfan135: 905
+2: iskall85: 381
+3: GoodTimeWithScar: 330
+4: falsesymmetry: 309
+5: Xisuma: 106
+6: Stressmonster101: 78
+7: Renthedog: 59
+8: PythonGB: 20
+9: Tango: 19
+10: MumboJumbo: 17
+11: Tinfoilchef: 3
+12: Zedaph: 1
+Total 2228

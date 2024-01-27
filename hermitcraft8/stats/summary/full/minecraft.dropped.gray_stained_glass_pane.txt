@@ -1,0 +1,5 @@
+minecraft.dropped.gray_stained_glass_pane
+1: falsesymmetry: 99
+2: GoodTimeWithScar: 68
+3: iskall85: 1
+Total 168

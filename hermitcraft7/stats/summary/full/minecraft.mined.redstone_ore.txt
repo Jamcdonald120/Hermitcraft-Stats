@@ -1,0 +1,26 @@
+minecraft.mined.redstone_ore
+1: GoodTimeWithScar: 15201
+2: MumboJumbo: 11292
+3: Etho: 8969
+4: cubfan135: 6782
+5: xBCrafted: 6416
+6: iJevin: 5197
+7: ZombieCleo: 4738
+8: iskall85: 4715
+9: Grian: 4358
+10: Keralis1: 4301
+11: Welsknight: 3823
+12: Renthedog: 3753
+13: impulseSV: 3669
+14: Tinfoilchef: 3161
+15: falsesymmetry: 2971
+16: hypnotizd: 2831
+17: Zedaph: 2714
+18: Xisuma: 2489
+19: VintageBeef: 2162
+20: BdoubleO100: 2005
+21: Tango: 1978
+22: Stressmonster101: 1718
+23: Docm77: 1009
+24: joehillssays: 927
+Total 107179

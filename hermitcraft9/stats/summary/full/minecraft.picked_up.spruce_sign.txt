@@ -1,0 +1,33 @@
+minecraft.picked_up.spruce_sign
+1: iJevin: 217
+2: impulseSV: 213
+3: xBCrafted: 134
+4: Grian: 121
+5: ZombieCleo: 110
+6: PearlescentMoon: 105
+7: Tango: 91
+8: falsesymmetry: 87
+9: hypnotizd: 76
+10: Xisuma: 45
+11: GeminiTay: 44
+12: Keralis1: 44
+13: GoodTimeWithScar: 41
+14: Docm77: 37
+15: cubfan135: 36
+16: Renthedog: 18
+17: BdoubleO100: 17
+18: OrionSound: 14
+19: VintageBeef: 13
+20: Zedaph: 13
+21: ShubbleYT: 10
+22: joehillssays: 9
+23: Etho: 6
+24: Mumbo: 4
+25: MythicalSausage: 3
+26: RentheKing: 3
+27: Smajor1995: 2
+28: iskall85: 2
+29: Welsknight: 2
+30: Stressmonster101: 2
+31: Smallishbeans: 1
+Total 1520

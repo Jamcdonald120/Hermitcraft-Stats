@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.leather_helmet
+1: iskall85: 43
+2: GoodTimeWithScar: 30
+3: Renthedog: 21
+4: Xisuma: 16
+5: Tango: 15
+6: falsesymmetry: 11
+7: cubfan135: 9
+8: VintageBeef: 6
+9: MumboJumbo: 6
+10: joehillssays: 2
+11: Welsknight: 2
+12: impulseSV: 2
+13: ZombieCleo: 1
+Total 164

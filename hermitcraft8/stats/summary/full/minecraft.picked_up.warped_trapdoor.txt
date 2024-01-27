@@ -1,0 +1,16 @@
+minecraft.picked_up.warped_trapdoor
+1: GoodTimeWithScar: 115
+2: impulseSV: 39
+3: Keralis1: 33
+4: Grian: 26
+5: PearlescentMoon: 21
+6: Xisuma: 19
+7: Docm77: 16
+8: Welsknight: 12
+9: BdoubleO100: 7
+10: Tango: 4
+11: MumboJumbo: 4
+12: GeminiTay: 2
+13: joehillssays: 1
+14: cubfan135: 1
+Total 300

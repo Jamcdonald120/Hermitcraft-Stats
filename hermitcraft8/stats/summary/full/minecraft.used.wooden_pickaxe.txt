@@ -1,0 +1,24 @@
+minecraft.used.wooden_pickaxe
+1: MumboJumbo: 118
+2: ZombieCleo: 60
+3: Grian: 59
+4: VintageBeef: 41
+5: iJevin: 31
+6: Welsknight: 26
+7: cubfan135: 22
+8: PearlescentMoon: 13
+9: Docm77: 12
+10: impulseSV: 12
+11: Zedaph: 12
+12: Stressmonster101: 10
+13: iskall85: 9
+14: GeminiTay: 8
+15: Tango: 8
+16: GoodTimeWithScar: 7
+17: Xisuma: 6
+18: joehillssays: 6
+19: xBCrafted: 4
+20: falsesymmetry: 3
+21: Etho: 3
+22: hypnotizd: 3
+Total 473

@@ -1,0 +1,16 @@
+stat.drop.minecraft.gold_ingot
+1: Renthedog: 325
+2: iskall85: 234
+3: Zedaph: 224
+4: PythonGB: 91
+5: impulseSV: 86
+6: xBCrafted: 64
+7: Xisuma: 38
+8: MumboJumbo: 17
+9: Tinfoilchef: 14
+10: cubfan135: 10
+11: falsesymmetry: 7
+12: Tango: 3
+13: Biffa2001: 3
+14: Stressmonster101: 2
+Total 1118

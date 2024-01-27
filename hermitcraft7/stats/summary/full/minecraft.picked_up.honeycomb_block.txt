@@ -1,0 +1,17 @@
+minecraft.picked_up.honeycomb_block
+1: cubfan135: 1156
+2: Xisuma: 588
+3: ZombieCleo: 156
+4: Zedaph: 115
+5: Etho: 59
+6: Tango: 56
+7: iskall85: 36
+8: Grian: 19
+9: joehillssays: 9
+10: Docm77: 8
+11: hypnotizd: 5
+12: falsesymmetry: 3
+13: Keralis1: 3
+14: GoodTimeWithScar: 2
+15: impulseSV: 2
+Total 2217

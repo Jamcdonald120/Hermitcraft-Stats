@@ -1,0 +1,21 @@
+minecraft.crafted.dark_oak_stairs
+1: GoodTimeWithScar: 720
+2: joehillssays: 716
+3: falsesymmetry: 708
+4: GeminiTay: 496
+5: Tango: 380
+6: iskall85: 360
+7: Grian: 336
+8: BdoubleO100: 272
+9: ZombieCleo: 212
+10: Xisuma: 160
+11: Renthedog: 156
+12: Welsknight: 148
+13: PearlescentMoon: 120
+14: cubfan135: 92
+15: impulseSV: 60
+16: xBCrafted: 40
+17: hypnotizd: 28
+18: Keralis1: 16
+19: VintageBeef: 12
+Total 5032

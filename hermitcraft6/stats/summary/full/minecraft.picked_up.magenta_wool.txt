@@ -1,0 +1,17 @@
+minecraft.picked_up.magenta_wool
+1: Xisuma: 6394
+2: iskall85: 82
+3: cubfan135: 73
+4: Biffa2001: 66
+5: falsesymmetry: 57
+6: Tango: 29
+7: Grian: 27
+8: Welsknight: 20
+9: MumboJumbo: 15
+10: Stressmonster101: 5
+11: Tinfoilchef: 3
+12: Renthedog: 2
+13: joehillssays: 2
+14: iJevin: 1
+15: impulseSV: 1
+Total 6777

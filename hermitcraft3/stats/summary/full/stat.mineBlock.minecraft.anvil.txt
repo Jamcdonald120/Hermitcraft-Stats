@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.anvil
+1: falsesymmetry: 90
+2: Xisuma: 70
+3: impulseSV: 60
+4: xBCrafted: 29
+5: Tango: 28
+6: Spumwackles: 18
+7: zueljin: 17
+8: KingDaddyDMAC: 14
+9: Biffa2001: 13
+10: sl1pg8r: 11
+11: iJevin: 9
+12: topmass: 8
+13: Mumbo: 7
+14: monkeyfarm: 7
+15: ZombieCleo: 6
+16: Docm77: 3
+17: PythonGB: 2
+18: Etho: 2
+19: hypnotizd: 1
+Total 395

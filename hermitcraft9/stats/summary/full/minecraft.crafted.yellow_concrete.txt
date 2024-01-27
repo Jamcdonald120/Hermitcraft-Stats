@@ -1,0 +1,10 @@
+minecraft.crafted.yellow_concrete
+1: Keralis1: 352
+2: RentheKing: 248
+3: Xisuma: 152
+4: cubfan135: 88
+5: impulseSV: 72
+6: Renthedog: 24
+7: Grian: 16
+8: iJevin: 8
+Total 960

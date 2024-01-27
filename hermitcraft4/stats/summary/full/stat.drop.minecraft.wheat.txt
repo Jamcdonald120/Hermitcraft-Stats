@@ -1,0 +1,15 @@
+stat.drop.minecraft.wheat
+1: MumboJumbo: 309
+2: impulseSV: 136
+3: GoodTimeWithScar: 66
+4: cubfan135: 15
+5: Tinfoilchef: 12
+6: Renthedog: 11
+7: Docm77: 9
+8: falsesymmetry: 6
+9: Jessassin: 5
+10: Xisuma: 3
+11: PythonGB: 2
+12: Etho: 2
+13: Tango: 1
+Total 577

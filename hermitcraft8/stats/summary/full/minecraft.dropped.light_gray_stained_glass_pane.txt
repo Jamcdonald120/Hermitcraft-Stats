@@ -1,0 +1,5 @@
+minecraft.dropped.light_gray_stained_glass_pane
+1: GoodTimeWithScar: 180
+2: Grian: 53
+3: Tango: 32
+Total 265

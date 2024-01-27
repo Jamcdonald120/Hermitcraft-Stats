@@ -1,0 +1,22 @@
+minecraft.picked_up.crimson_fungus
+1: joehillssays: 124
+2: Etho: 67
+3: Xisuma: 65
+4: GoodTimeWithScar: 56
+5: Stressmonster101: 53
+6: impulseSV: 45
+7: GeminiTay: 20
+8: ZombieCleo: 20
+9: PearlescentMoon: 18
+10: cubfan135: 15
+11: BdoubleO100: 14
+12: xBCrafted: 12
+13: VintageBeef: 9
+14: Keralis1: 8
+15: Renthedog: 4
+16: Tango: 3
+17: Docm77: 2
+18: Welsknight: 2
+19: falsesymmetry: 1
+20: hypnotizd: 1
+Total 539

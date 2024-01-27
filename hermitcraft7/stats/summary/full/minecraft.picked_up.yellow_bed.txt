@@ -1,0 +1,13 @@
+minecraft.picked_up.yellow_bed
+1: impulseSV: 214
+2: Xisuma: 95
+3: iJevin: 35
+4: GoodTimeWithScar: 23
+5: Stressmonster101: 16
+6: Keralis1: 6
+7: cubfan135: 5
+8: falsesymmetry: 2
+9: ZombieCleo: 2
+10: Grian: 1
+11: Etho: 1
+Total 400

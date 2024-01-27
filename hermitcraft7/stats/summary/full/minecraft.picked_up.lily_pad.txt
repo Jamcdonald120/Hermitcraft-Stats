@@ -1,0 +1,22 @@
+minecraft.picked_up.lily_pad
+1: hypnotizd: 941
+2: Etho: 790
+3: cubfan135: 224
+4: joehillssays: 162
+5: falsesymmetry: 153
+6: Xisuma: 133
+7: iJevin: 130
+8: GoodTimeWithScar: 110
+9: xBCrafted: 102
+10: ZombieCleo: 98
+11: Renthedog: 57
+12: Docm77: 53
+13: Keralis1: 44
+14: Stressmonster101: 42
+15: Zedaph: 27
+16: VintageBeef: 20
+17: iskall85: 19
+18: Tango: 12
+19: BdoubleO100: 5
+20: impulseSV: 3
+Total 3125

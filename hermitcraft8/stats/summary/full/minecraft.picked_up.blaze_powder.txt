@@ -1,0 +1,16 @@
+minecraft.picked_up.blaze_powder
+1: iJevin: 113
+2: Zedaph: 45
+3: Grian: 33
+4: Docm77: 15
+5: PearlescentMoon: 8
+6: Etho: 6
+7: Renthedog: 5
+8: cubfan135: 4
+9: GoodTimeWithScar: 2
+10: VintageBeef: 1
+11: falsesymmetry: 1
+12: Welsknight: 1
+13: ZombieCleo: 1
+14: MumboJumbo: 1
+Total 236

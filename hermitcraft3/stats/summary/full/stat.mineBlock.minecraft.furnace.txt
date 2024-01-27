@@ -1,0 +1,28 @@
+stat.mineBlock.minecraft.furnace
+1: Xisuma: 472
+2: falsesymmetry: 269
+3: xBCrafted: 199
+4: Tango: 161
+5: Mumbo: 138
+6: KingDaddyDMAC: 131
+7: zueljin: 124
+8: monkeyfarm: 89
+9: sl1pg8r: 84
+10: impulseSV: 79
+11: iJevin: 74
+12: Biffa2001: 62
+13: Spumwackles: 44
+14: hypnotizd: 39
+15: topmass: 38
+16: ZombieCleo: 31
+17: Etho: 24
+18: skyzm: 15
+19: Docm77: 14
+20: Tinfoilchef: 11
+21: joehillssays: 9
+22: NameOfSamuel: 8
+23: Pungence: 7
+24: Collen: 6
+25: PythonGB: 5
+26: Keralis1: 2
+Total 2135

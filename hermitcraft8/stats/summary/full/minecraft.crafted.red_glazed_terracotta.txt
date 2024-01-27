@@ -1,0 +1,5 @@
+minecraft.crafted.red_glazed_terracotta
+1: Etho: 832
+2: GeminiTay: 8
+3: BdoubleO100: 4
+Total 844

@@ -1,0 +1,26 @@
+minecraft.crafted.light_gray_dye
+1: impulseSV: 3024
+2: Renthedog: 1206
+3: Grian: 990
+4: Welsknight: 738
+5: GoodTimeWithScar: 574
+6: ZombieCleo: 495
+7: iJevin: 223
+8: Docm77: 178
+9: PearlescentMoon: 154
+10: Xisuma: 126
+11: Keralis1: 124
+12: Etho: 91
+13: Tango: 79
+14: MumboJumbo: 78
+15: hypnotizd: 72
+16: falsesymmetry: 69
+17: iskall85: 32
+18: cubfan135: 28
+19: BdoubleO100: 24
+20: xBCrafted: 14
+21: joehillssays: 10
+22: GeminiTay: 10
+23: pillbugnine: 2
+24: Zedaph: 2
+Total 8343

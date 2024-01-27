@@ -1,0 +1,8 @@
+stat.useItem.minecraft.wooden_shovel
+1: Zedaph: 120
+2: Renthedog: 61
+3: impulseSV: 33
+4: iJevin: 16
+5: iskall85: 12
+6: GoodTimeWithScar: 3
+Total 245

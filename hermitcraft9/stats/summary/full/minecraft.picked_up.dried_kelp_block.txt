@@ -1,0 +1,12 @@
+minecraft.picked_up.dried_kelp_block
+1: Grian: 234
+2: joehillssays: 68
+3: cubfan135: 60
+4: Xisuma: 37
+5: PearlescentMoon: 23
+6: falsesymmetry: 16
+7: Renthedog: 5
+8: GeminiTay: 3
+9: Etho: 3
+10: Zedaph: 1
+Total 450

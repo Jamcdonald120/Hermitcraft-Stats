@@ -1,0 +1,23 @@
+minecraft.crafted.brewing_stand
+1: Etho: 843
+2: cubfan135: 96
+3: Stressmonster101: 71
+4: hypnotizd: 64
+5: Xisuma: 54
+6: Tango: 51
+7: impulseSV: 37
+8: Grian: 31
+9: GoodTimeWithScar: 22
+10: iJevin: 15
+11: Keralis1: 14
+12: Renthedog: 6
+13: iskall85: 5
+14: Docm77: 4
+15: VintageBeef: 4
+16: xBCrafted: 4
+17: ZombieCleo: 3
+18: joehillssays: 2
+19: Welsknight: 2
+20: BdoubleO100: 1
+21: MumboJumbo: 1
+Total 1330

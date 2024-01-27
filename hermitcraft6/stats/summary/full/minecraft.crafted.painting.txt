@@ -1,0 +1,21 @@
+minecraft.crafted.painting
+1: Xisuma: 1726
+2: falsesymmetry: 286
+3: Grian: 150
+4: cubfan135: 144
+5: Tinfoilchef: 64
+6: Renthedog: 48
+7: BdoubleO100: 32
+8: Welsknight: 31
+9: PythonGB: 27
+10: ZombieCleo: 27
+11: iJevin: 25
+12: Docm77: 21
+13: MumboJumbo: 20
+14: GoodTimeWithScar: 18
+15: Stressmonster101: 13
+16: joehillssays: 11
+17: Tango: 6
+18: Keralis1: 6
+19: impulseSV: 4
+Total 2659

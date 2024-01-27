@@ -1,0 +1,19 @@
+stat.killEntity.Silverfish
+1: cubfan135: 229
+2: Welsknight: 44
+3: Xisuma: 34
+4: GoodTimeWithScar: 29
+5: MumboJumbo: 20
+6: iJevin: 19
+7: Tango: 19
+8: Docm77: 17
+9: impulseSV: 10
+10: Biffa2001: 9
+11: xBCrafted: 7
+12: Renthedog: 4
+13: Tinfoilchef: 4
+14: Zedaph: 4
+15: falsesymmetry: 3
+16: PythonGB: 2
+17: Stressmonster101: 2
+Total 456

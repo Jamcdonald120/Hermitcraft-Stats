@@ -1,0 +1,25 @@
+minecraft.picked_up.oak_slab
+1: cubfan135: 1078
+2: iskall85: 931
+3: Renthedog: 752
+4: Stressmonster101: 632
+5: joehillssays: 568
+6: Welsknight: 563
+7: Keralis1: 463
+8: Tango: 382
+9: Zedaph: 361
+10: Xisuma: 351
+11: Etho: 289
+12: VintageBeef: 205
+13: iJevin: 151
+14: ZombieCleo: 138
+15: BdoubleO100: 117
+16: falsesymmetry: 106
+17: MumboJumbo: 93
+18: xBCrafted: 69
+19: Docm77: 68
+20: GoodTimeWithScar: 48
+21: impulseSV: 43
+22: Grian: 12
+23: hypnotizd: 2
+Total 7422

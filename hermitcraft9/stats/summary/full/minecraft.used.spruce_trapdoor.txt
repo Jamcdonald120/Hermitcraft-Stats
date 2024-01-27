@@ -1,0 +1,35 @@
+minecraft.used.spruce_trapdoor
+1: Keralis1: 7130
+2: iJevin: 3450
+3: BdoubleO100: 1846
+4: ZombieCleo: 1752
+5: falsesymmetry: 1703
+6: Docm77: 1586
+7: xBCrafted: 1161
+8: hypnotizd: 1149
+9: Tango: 1088
+10: impulseSV: 1027
+11: PearlescentMoon: 966
+12: Zedaph: 931
+13: Etho: 772
+14: GoodTimeWithScar: 588
+15: cubfan135: 504
+16: iskall85: 475
+17: GeminiTay: 422
+18: Grian: 411
+19: Renthedog: 369
+20: Stressmonster101: 358
+21: Xisuma: 318
+22: MythicalSausage: 316
+23: VintageBeef: 107
+24: RentheKing: 68
+25: Welsknight: 62
+26: Pixlriffs: 57
+27: joehillssays: 33
+28: ShubbleYT: 30
+29: fWhip: 27
+30: Smallishbeans: 25
+31: OrionSound: 7
+32: Mumbo: 3
+33: SolidarityGaming: 2
+Total 28743

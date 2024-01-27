@@ -1,0 +1,10 @@
+minecraft.picked_up.ender_eye
+1: cubfan135: 8
+2: Tango: 5
+3: Zedaph: 4
+4: Grian: 3
+5: GoodTimeWithScar: 2
+6: iJevin: 1
+7: iskall85: 1
+8: Welsknight: 1
+Total 25

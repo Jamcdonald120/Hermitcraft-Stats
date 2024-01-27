@@ -1,0 +1,11 @@
+minecraft.picked_up.light_gray_stained_glass_pane
+1: Grian: 574
+2: GoodTimeWithScar: 94
+3: Tango: 58
+4: Renthedog: 46
+5: BdoubleO100: 34
+6: joehillssays: 9
+7: impulseSV: 6
+8: cubfan135: 1
+9: ZombieCleo: 1
+Total 823

@@ -1,0 +1,5 @@
+stat.drop.minecraft.red_nether_brick
+1: Tango: 9
+2: cubfan135: 2
+3: falsesymmetry: 1
+Total 12

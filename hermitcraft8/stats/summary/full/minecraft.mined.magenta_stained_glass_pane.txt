@@ -1,0 +1,4 @@
+minecraft.mined.magenta_stained_glass_pane
+1: Welsknight: 7
+2: Keralis1: 1
+Total 8

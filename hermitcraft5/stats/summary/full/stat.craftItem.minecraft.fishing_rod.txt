@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.fishing_rod
+1: Tango: 226
+2: Renthedog: 127
+3: falsesymmetry: 112
+4: Xisuma: 27
+5: impulseSV: 24
+6: xBCrafted: 21
+7: cubfan135: 13
+8: Welsknight: 12
+9: PythonGB: 10
+10: Docm77: 7
+11: Biffa2001: 6
+12: Zedaph: 6
+13: BdoubleO100: 5
+14: GoodTimeWithScar: 4
+15: iJevin: 3
+16: MumboJumbo: 3
+17: joehillssays: 2
+18: ZombieCleo: 2
+19: Stressmonster101: 2
+20: VintageBeef: 1
+21: Etho: 1
+22: Tinfoilchef: 1
+Total 615

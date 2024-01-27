@@ -1,0 +1,23 @@
+stat.pickup.minecraft.redstone_torch
+1: Xisuma: 1773
+2: iskall85: 1513
+3: Tango: 1232
+4: impulseSV: 1140
+5: MumboJumbo: 962
+6: Tinfoilchef: 955
+7: falsesymmetry: 815
+8: cubfan135: 762
+9: GoodTimeWithScar: 361
+10: Etho: 321
+11: Renthedog: 247
+12: joehillssays: 233
+13: Docm77: 134
+14: Welsknight: 130
+15: ZombieCleo: 102
+16: iJevin: 82
+17: VintageBeef: 61
+18: PythonGB: 47
+19: Biffa2001: 35
+20: Mumbo: 22
+21: xisumavoid: 3
+Total 10930

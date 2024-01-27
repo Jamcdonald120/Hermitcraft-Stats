@@ -1,0 +1,10 @@
+stat.pickup.minecraft.dark_oak_fence_gate
+1: cubfan135: 99
+2: xBCrafted: 44
+3: falsesymmetry: 21
+4: impulseSV: 19
+5: Stressmonster101: 4
+6: Tango: 2
+7: MumboJumbo: 1
+8: GoodTimeWithScar: 1
+Total 191

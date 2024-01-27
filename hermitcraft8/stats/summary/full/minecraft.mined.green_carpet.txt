@@ -1,0 +1,10 @@
+minecraft.mined.green_carpet
+1: PearlescentMoon: 28
+2: impulseSV: 19
+3: GoodTimeWithScar: 10
+4: Xisuma: 8
+5: Grian: 8
+6: iJevin: 2
+7: cubfan135: 1
+8: MumboJumbo: 1
+Total 77

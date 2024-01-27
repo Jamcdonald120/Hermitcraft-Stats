@@ -1,0 +1,6 @@
+stat.drop.minecraft.bone_block
+1: Tango: 93
+2: Zedaph: 60
+3: MumboJumbo: 12
+4: Xisuma: 4
+Total 169

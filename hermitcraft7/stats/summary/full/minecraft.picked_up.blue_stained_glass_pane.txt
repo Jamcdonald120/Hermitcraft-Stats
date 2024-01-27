@@ -1,0 +1,10 @@
+minecraft.picked_up.blue_stained_glass_pane
+1: cubfan135: 104
+2: impulseSV: 48
+3: Xisuma: 25
+4: falsesymmetry: 16
+5: xBCrafted: 4
+6: joehillssays: 2
+7: BdoubleO100: 2
+8: VintageBeef: 1
+Total 202

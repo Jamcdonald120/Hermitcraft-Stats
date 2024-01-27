@@ -1,0 +1,28 @@
+minecraft.dropped.flint
+1: iJevin: 1384
+2: GoodTimeWithScar: 483
+3: Renthedog: 418
+4: Zedaph: 183
+5: Tango: 131
+6: impulseSV: 94
+7: Docm77: 69
+8: PearlescentMoon: 43
+9: Xisuma: 35
+10: Stressmonster101: 32
+11: VintageBeef: 25
+12: joehillssays: 25
+13: GeminiTay: 25
+14: falsesymmetry: 25
+15: MumboJumbo: 21
+16: BdoubleO100: 19
+17: cubfan135: 19
+18: ZombieCleo: 18
+19: Grian: 17
+20: iskall85: 7
+21: xBCrafted: 7
+22: hypnotizd: 7
+23: Tinfoilchef: 6
+24: Etho: 4
+25: Welsknight: 3
+26: Keralis1: 2
+Total 3102

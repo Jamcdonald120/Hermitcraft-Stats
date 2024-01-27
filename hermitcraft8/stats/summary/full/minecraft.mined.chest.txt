@@ -1,0 +1,29 @@
+minecraft.mined.chest
+1: iJevin: 2229
+2: impulseSV: 1139
+3: PearlescentMoon: 626
+4: cubfan135: 430
+5: Renthedog: 367
+6: Docm77: 363
+7: MumboJumbo: 347
+8: Tango: 330
+9: Grian: 324
+10: GoodTimeWithScar: 294
+11: Xisuma: 279
+12: Welsknight: 237
+13: Zedaph: 227
+14: xBCrafted: 158
+15: falsesymmetry: 146
+16: joehillssays: 145
+17: Etho: 141
+18: BdoubleO100: 136
+19: VintageBeef: 51
+20: hypnotizd: 48
+21: iskall85: 46
+22: GeminiTay: 39
+23: Stressmonster101: 37
+24: Keralis1: 30
+25: ZombieCleo: 23
+26: Tinfoilchef: 6
+27: EvilXisuma: 3
+Total 8201

@@ -1,0 +1,7 @@
+minecraft.dropped.nether_brick_fence
+1: cubfan135: 5
+2: iskall85: 4
+3: MumboJumbo: 4
+4: xBCrafted: 3
+5: iJevin: 1
+Total 17

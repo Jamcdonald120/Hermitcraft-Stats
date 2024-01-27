@@ -1,0 +1,11 @@
+minecraft.dropped.honey_block
+1: falsesymmetry: 286
+2: Pixlriffs: 256
+3: Tango: 225
+4: Grian: 198
+5: Xisuma: 82
+6: GoodTimeWithScar: 73
+7: hypnotizd: 64
+8: cubfan135: 37
+9: Docm77: 4
+Total 1225

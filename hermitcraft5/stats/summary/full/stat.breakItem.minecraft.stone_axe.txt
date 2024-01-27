@@ -1,0 +1,14 @@
+stat.breakItem.minecraft.stone_axe
+1: Welsknight: 10
+2: Tinfoilchef: 5
+3: PythonGB: 4
+4: Renthedog: 1
+5: VintageBeef: 1
+6: BdoubleO100: 1
+7: falsesymmetry: 1
+8: Biffa2001: 1
+9: Etho: 1
+10: ZombieCleo: 1
+11: impulseSV: 1
+12: Zedaph: 1
+Total 28

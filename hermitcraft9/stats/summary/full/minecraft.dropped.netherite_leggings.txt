@@ -1,0 +1,21 @@
+minecraft.dropped.netherite_leggings
+1: cubfan135: 10
+2: iJevin: 7
+3: GoodTimeWithScar: 6
+4: Keralis1: 6
+5: PearlescentMoon: 5
+6: Tango: 3
+7: Xisuma: 2
+8: GeminiTay: 2
+9: xBCrafted: 2
+10: Etho: 2
+11: ZombieCleo: 2
+12: impulseSV: 2
+13: Zedaph: 2
+14: Renthedog: 1
+15: VintageBeef: 1
+16: MythicalSausage: 1
+17: Grian: 1
+18: BdoubleO100: 1
+19: RentheKing: 1
+Total 57

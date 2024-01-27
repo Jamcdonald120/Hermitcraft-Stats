@@ -1,0 +1,12 @@
+stat.useItem.minecraft.leaves2
+1: xBCrafted: 417
+2: Xisuma: 149
+3: falsesymmetry: 131
+4: Tinfoilchef: 120
+5: zueljin: 117
+6: Keralis1: 56
+7: Docm77: 45
+8: iJevin: 17
+9: monkeyfarm: 12
+10: topmass: 4
+Total 1068

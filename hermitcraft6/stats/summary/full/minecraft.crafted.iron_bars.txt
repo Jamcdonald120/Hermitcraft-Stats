@@ -1,0 +1,26 @@
+minecraft.crafted.iron_bars
+1: cubfan135: 6656
+2: Xisuma: 4992
+3: GoodTimeWithScar: 3520
+4: Docm77: 3060
+5: Tango: 3035
+6: falsesymmetry: 2480
+7: iskall85: 1728
+8: Stressmonster101: 1152
+9: Grian: 1120
+10: Biffa2001: 896
+11: iJevin: 880
+12: MumboJumbo: 864
+13: impulseSV: 832
+14: joehillssays: 608
+15: Renthedog: 448
+16: Zedaph: 416
+17: ZombieCleo: 352
+18: PythonGB: 288
+19: Keralis1: 272
+20: BdoubleO100: 224
+21: xBCrafted: 192
+22: Welsknight: 176
+23: Tinfoilchef: 64
+24: HumanCleo: 32
+Total 34287

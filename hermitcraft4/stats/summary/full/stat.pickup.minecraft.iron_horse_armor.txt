@@ -1,0 +1,13 @@
+stat.pickup.minecraft.iron_horse_armor
+1: falsesymmetry: 7
+2: iJevin: 5
+3: Xisuma: 3
+4: Biffa2001: 3
+5: Renthedog: 2
+6: iskall85: 2
+7: cubfan135: 2
+8: Welsknight: 2
+9: Tinfoilchef: 2
+10: VintageBeef: 1
+11: PythonGB: 1
+Total 30

@@ -1,0 +1,27 @@
+minecraft.picked_up.gold_ore
+1: cubfan135: 699
+2: GoodTimeWithScar: 462
+3: PearlescentMoon: 362
+4: Grian: 336
+5: Xisuma: 302
+6: Renthedog: 183
+7: xBCrafted: 140
+8: iJevin: 136
+9: BdoubleO100: 114
+10: GeminiTay: 94
+11: hypnotizd: 92
+12: joehillssays: 80
+13: falsesymmetry: 59
+14: Docm77: 51
+15: Keralis1: 46
+16: Zedaph: 36
+17: Stressmonster101: 33
+18: Etho: 32
+19: VintageBeef: 28
+20: ZombieCleo: 24
+21: Welsknight: 23
+22: Tango: 9
+23: MumboJumbo: 7
+24: impulseSV: 5
+25: iskall85: 3
+Total 3356

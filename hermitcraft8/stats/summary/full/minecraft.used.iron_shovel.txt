@@ -1,0 +1,24 @@
+minecraft.used.iron_shovel
+1: GoodTimeWithScar: 28737
+2: impulseSV: 23031
+3: ZombieCleo: 4253
+4: VintageBeef: 4140
+5: falsesymmetry: 3265
+6: PearlescentMoon: 2532
+7: Tinfoilchef: 2472
+8: iJevin: 2216
+9: Zedaph: 2182
+10: BdoubleO100: 1676
+11: Xisuma: 1589
+12: GeminiTay: 1463
+13: joehillssays: 1354
+14: Tango: 1280
+15: MumboJumbo: 1190
+16: hypnotizd: 599
+17: Grian: 524
+18: iskall85: 397
+19: Renthedog: 340
+20: Welsknight: 265
+21: Etho: 223
+22: cubfan135: 16
+Total 83744

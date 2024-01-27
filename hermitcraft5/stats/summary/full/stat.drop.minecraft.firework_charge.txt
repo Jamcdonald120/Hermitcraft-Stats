@@ -1,0 +1,3 @@
+stat.drop.minecraft.firework_charge
+1: MumboJumbo: 128
+Total 128

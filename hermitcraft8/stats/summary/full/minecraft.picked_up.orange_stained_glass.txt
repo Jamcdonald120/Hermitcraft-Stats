@@ -1,0 +1,9 @@
+minecraft.picked_up.orange_stained_glass
+1: Tango: 33
+2: falsesymmetry: 24
+3: cubfan135: 16
+4: Keralis1: 14
+5: Docm77: 2
+6: iJevin: 1
+7: Etho: 1
+Total 91

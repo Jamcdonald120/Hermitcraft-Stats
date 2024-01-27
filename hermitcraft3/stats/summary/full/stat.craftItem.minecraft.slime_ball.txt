@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.slime_ball
+1: Xisuma: 1035
+2: Biffa2001: 585
+3: impulseSV: 351
+4: Mumbo: 297
+5: Tango: 171
+6: KingDaddyDMAC: 72
+7: hypnotizd: 72
+8: falsesymmetry: 63
+9: Docm77: 54
+10: iJevin: 45
+11: monkeyfarm: 36
+12: xBCrafted: 27
+13: Etho: 27
+14: sl1pg8r: 18
+15: zueljin: 9
+Total 2862

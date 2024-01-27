@@ -1,0 +1,21 @@
+minecraft.crafted.spruce_sign
+1: Renthedog: 539
+2: iskall85: 508
+3: joehillssays: 147
+4: Jura_Whitey: 132
+5: Grian: 126
+6: iJevin: 102
+7: falsesymmetry: 87
+8: GoodTimeWithScar: 78
+9: cubfan135: 69
+10: Stressmonster101: 60
+11: impulseSV: 48
+12: Xisuma: 30
+13: Keralis1: 24
+14: BdoubleO100: 15
+15: PythonGB: 12
+16: Tinfoilchef: 12
+17: Tango: 6
+18: Welsknight: 3
+19: MumboJumbo: 3
+Total 2001

@@ -1,0 +1,7 @@
+minecraft.crafted.bamboo_door
+1: Keralis1: 27
+2: PearlescentMoon: 15
+3: Xisuma: 3
+4: Tango: 3
+5: Zedaph: 3
+Total 51

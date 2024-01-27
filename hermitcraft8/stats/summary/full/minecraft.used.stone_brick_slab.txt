@@ -1,0 +1,22 @@
+minecraft.used.stone_brick_slab
+1: xBCrafted: 4835
+2: iJevin: 4435
+3: hypnotizd: 3931
+4: ZombieCleo: 2653
+5: MumboJumbo: 2432
+6: Xisuma: 2312
+7: Welsknight: 1959
+8: impulseSV: 887
+9: Keralis1: 525
+10: cubfan135: 192
+11: Tango: 159
+12: Docm77: 147
+13: PearlescentMoon: 131
+14: BdoubleO100: 127
+15: joehillssays: 25
+16: GoodTimeWithScar: 22
+17: falsesymmetry: 21
+18: GeminiTay: 19
+19: Grian: 17
+20: Zedaph: 15
+Total 24844

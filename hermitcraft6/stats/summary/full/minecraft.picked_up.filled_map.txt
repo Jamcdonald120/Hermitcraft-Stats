@@ -1,0 +1,24 @@
+minecraft.picked_up.filled_map
+1: cubfan135: 2531
+2: Grian: 1266
+3: iskall85: 343
+4: GoodTimeWithScar: 333
+5: Docm77: 268
+6: Welsknight: 149
+7: Renthedog: 131
+8: Xisuma: 84
+9: Tango: 75
+10: iJevin: 59
+11: falsesymmetry: 53
+12: joehillssays: 25
+13: Zedaph: 11
+14: BdoubleO100: 10
+15: Biffa2001: 7
+16: Keralis1: 7
+17: PythonGB: 2
+18: ZombieCleo: 2
+19: impulseSV: 2
+20: Jessassin: 1
+21: MumboJumbo: 1
+22: Stressmonster101: 1
+Total 5361

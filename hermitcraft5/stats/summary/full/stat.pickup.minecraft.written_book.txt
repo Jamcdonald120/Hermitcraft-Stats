@@ -1,0 +1,20 @@
+stat.pickup.minecraft.written_book
+1: Zedaph: 41
+2: PythonGB: 33
+3: cubfan135: 30
+4: Xisuma: 22
+5: Tango: 22
+6: GoodTimeWithScar: 22
+7: Renthedog: 21
+8: falsesymmetry: 20
+9: iskall85: 16
+10: Stressmonster101: 11
+11: Welsknight: 10
+12: joehillssays: 8
+13: MumboJumbo: 8
+14: Tinfoilchef: 8
+15: impulseSV: 8
+16: iJevin: 3
+17: xBCrafted: 2
+18: Docm77: 1
+Total 286

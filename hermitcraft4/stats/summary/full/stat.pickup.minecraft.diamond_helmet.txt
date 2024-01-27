@@ -1,0 +1,21 @@
+stat.pickup.minecraft.diamond_helmet
+1: iskall85: 108
+2: Renthedog: 92
+3: Xisuma: 71
+4: GoodTimeWithScar: 68
+5: impulseSV: 49
+6: cubfan135: 48
+7: Tango: 43
+8: MumboJumbo: 34
+9: falsesymmetry: 33
+10: Welsknight: 23
+11: Tinfoilchef: 16
+12: PythonGB: 15
+13: iJevin: 13
+14: VintageBeef: 8
+15: Etho: 7
+16: Docm77: 5
+17: joehillssays: 4
+18: xisumavoid: 1
+19: Biffa2001: 1
+Total 639

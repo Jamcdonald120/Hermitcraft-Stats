@@ -1,0 +1,30 @@
+minecraft.crafted.spruce_sign
+1: ZombieCleo: 396
+2: iJevin: 285
+3: xBCrafted: 273
+4: Tango: 249
+5: impulseSV: 201
+6: PearlescentMoon: 138
+7: Keralis1: 126
+8: falsesymmetry: 123
+9: hypnotizd: 117
+10: GeminiTay: 93
+11: Renthedog: 84
+12: Grian: 84
+13: Xisuma: 66
+14: BdoubleO100: 60
+15: GoodTimeWithScar: 48
+16: Docm77: 24
+17: cubfan135: 24
+18: MythicalSausage: 9
+19: Zedaph: 9
+20: Smallishbeans: 6
+21: Welsknight: 6
+22: Etho: 6
+23: Stressmonster101: 6
+24: OrionSound: 3
+25: joehillssays: 3
+26: iskall85: 3
+27: RentheKing: 3
+28: SolidarityGaming: 3
+Total 2448

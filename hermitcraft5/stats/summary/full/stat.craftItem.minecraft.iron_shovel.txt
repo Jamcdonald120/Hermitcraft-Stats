@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.iron_shovel
+1: Renthedog: 114
+2: Tango: 62
+3: impulseSV: 51
+4: MumboJumbo: 43
+5: cubfan135: 24
+6: Xisuma: 22
+7: GoodTimeWithScar: 19
+8: Zedaph: 18
+9: joehillssays: 14
+10: VintageBeef: 6
+11: Welsknight: 6
+12: Biffa2001: 6
+13: iJevin: 4
+14: xBCrafted: 4
+15: falsesymmetry: 4
+16: PythonGB: 3
+17: Tinfoilchef: 3
+18: iskall85: 2
+19: Etho: 2
+20: ZombieCleo: 2
+21: Docm77: 1
+22: BdoubleO100: 1
+23: Stressmonster101: 1
+Total 412

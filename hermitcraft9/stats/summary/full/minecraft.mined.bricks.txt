@@ -1,0 +1,26 @@
+minecraft.mined.bricks
+1: Renthedog: 619
+2: iJevin: 579
+3: falsesymmetry: 572
+4: cubfan135: 546
+5: Zedaph: 263
+6: joehillssays: 186
+7: impulseSV: 162
+8: Keralis1: 91
+9: Grian: 86
+10: Etho: 68
+11: Mumbo: 47
+12: PearlescentMoon: 31
+13: Xisuma: 25
+14: iskall85: 16
+15: ZombieCleo: 14
+16: xBCrafted: 11
+17: GoodTimeWithScar: 10
+18: GeminiTay: 9
+19: BdoubleO100: 6
+20: Pixlriffs: 6
+21: Tango: 2
+22: Docm77: 1
+23: MythicalSausage: 1
+24: hypnotizd: 1
+Total 3352

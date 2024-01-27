@@ -1,0 +1,6 @@
+stat.drop.minecraft.gold_block
+1: Tinfoilchef: 64
+2: falsesymmetry: 43
+3: impulseSV: 14
+4: Xisuma: 11
+Total 132

@@ -1,0 +1,12 @@
+minecraft.crafted.suspicious_stew
+1: RentheKing: 129
+2: impulseSV: 70
+3: PearlescentMoon: 67
+4: Xisuma: 53
+5: Keralis1: 43
+6: Zedaph: 14
+7: Grian: 11
+8: Etho: 6
+9: iskall85: 4
+10: cubfan135: 2
+Total 399

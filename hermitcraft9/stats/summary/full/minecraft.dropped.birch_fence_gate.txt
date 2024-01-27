@@ -1,0 +1,6 @@
+minecraft.dropped.birch_fence_gate
+1: Grian: 36
+2: iJevin: 16
+3: GoodTimeWithScar: 10
+4: Tango: 1
+Total 63

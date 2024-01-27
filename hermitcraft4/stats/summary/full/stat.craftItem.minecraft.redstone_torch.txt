@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.redstone_torch
+1: MumboJumbo: 5715
+2: iskall85: 5695
+3: Xisuma: 5588
+4: Tango: 3876
+5: cubfan135: 2870
+6: impulseSV: 2807
+7: PythonGB: 1947
+8: Tinfoilchef: 1923
+9: Etho: 1315
+10: GoodTimeWithScar: 1154
+11: falsesymmetry: 1119
+12: Docm77: 535
+13: Renthedog: 459
+14: joehillssays: 424
+15: ZombieCleo: 215
+16: Welsknight: 197
+17: Mumbo: 157
+18: iJevin: 143
+19: Biffa2001: 44
+20: VintageBeef: 29
+Total 36212

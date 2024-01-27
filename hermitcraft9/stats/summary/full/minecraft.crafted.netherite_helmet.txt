@@ -1,0 +1,13 @@
+minecraft.crafted.netherite_helmet
+1: impulseSV: 10
+2: cubfan135: 8
+3: iJevin: 7
+4: Docm77: 3
+5: hypnotizd: 2
+6: Keralis1: 2
+7: Xisuma: 1
+8: Etho: 1
+9: ZombieCleo: 1
+10: RentheKing: 1
+11: Zedaph: 1
+Total 37

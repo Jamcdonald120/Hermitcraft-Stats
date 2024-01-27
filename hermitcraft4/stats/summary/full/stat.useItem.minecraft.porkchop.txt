@@ -1,0 +1,10 @@
+stat.useItem.minecraft.porkchop
+1: iJevin: 42
+2: cubfan135: 6
+3: iskall85: 4
+4: VintageBeef: 3
+5: Renthedog: 2
+6: Etho: 2
+7: xBCrafted: 1
+8: impulseSV: 1
+Total 61

@@ -1,0 +1,22 @@
+minecraft.crafted.stone_brick_stairs
+1: Keralis1: 528
+2: iJevin: 388
+3: PearlescentMoon: 252
+4: ZombieCleo: 152
+5: impulseSV: 152
+6: Grian: 140
+7: MumboJumbo: 140
+8: Welsknight: 99
+9: xBCrafted: 65
+10: cubfan135: 60
+11: Tango: 53
+12: iskall85: 40
+13: Renthedog: 29
+14: falsesymmetry: 24
+15: Xisuma: 16
+16: GoodTimeWithScar: 12
+17: BdoubleO100: 9
+18: Docm77: 6
+19: GeminiTay: 4
+20: hypnotizd: 4
+Total 2173

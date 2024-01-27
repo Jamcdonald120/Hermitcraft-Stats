@@ -1,0 +1,7 @@
+minecraft.picked_up.creeper_head
+1: iJevin: 12
+2: GoodTimeWithScar: 3
+3: Zedaph: 3
+4: cubfan135: 2
+5: Grian: 1
+Total 21

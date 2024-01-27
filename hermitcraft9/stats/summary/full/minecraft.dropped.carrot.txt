@@ -1,0 +1,28 @@
+minecraft.dropped.carrot
+1: impulseSV: 15265
+2: Renthedog: 7752
+3: Keralis1: 3052
+4: iJevin: 2178
+5: Tango: 1203
+6: iskall85: 1047
+7: hypnotizd: 971
+8: Docm77: 916
+9: Stressmonster101: 639
+10: GeminiTay: 405
+11: Zedaph: 402
+12: xBCrafted: 204
+13: PearlescentMoon: 129
+14: Grian: 43
+15: joehillssays: 34
+16: Pixlriffs: 34
+17: falsesymmetry: 24
+18: Etho: 23
+19: RentheKing: 13
+20: Xisuma: 7
+21: OrionSound: 7
+22: cubfan135: 6
+23: GoodTimeWithScar: 5
+24: MythicalSausage: 1
+25: Smallishbeans: 1
+26: BdoubleO100: 1
+Total 34362

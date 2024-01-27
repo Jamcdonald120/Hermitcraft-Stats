@@ -1,0 +1,26 @@
+minecraft.crafted.stone_sword
+1: Tango: 334
+2: ZombieCleo: 13
+3: Etho: 8
+4: cubfan135: 7
+5: Xisuma: 6
+6: Zedaph: 5
+7: falsesymmetry: 4
+8: impulseSV: 4
+9: Docm77: 3
+10: Renthedog: 3
+11: GeminiTay: 3
+12: Welsknight: 3
+13: RentheKing: 3
+14: joehillssays: 2
+15: BdoubleO100: 2
+16: xBCrafted: 2
+17: iJevin: 1
+18: PearlescentMoon: 1
+19: Mumbo: 1
+20: hypnotizd: 1
+21: MumboJumbo: 1
+22: Tinfoilchef: 1
+23: Stressmonster101: 1
+24: Keralis1: 1
+Total 410

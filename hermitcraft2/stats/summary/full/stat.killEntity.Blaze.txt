@@ -1,0 +1,19 @@
+stat.killEntity.Blaze
+1: hypnotizd: 3115
+2: Tinfoilchef: 905
+3: sl1pg8r: 630
+4: ZombieCleo: 422
+5: Xisuma: 396
+6: Tango: 384
+7: iJevin: 224
+8: red3yz: 30
+9: KingDaddyDMAC: 26
+10: Collen: 20
+11: Biffa2001: 10
+12: zueljin: 6
+13: Spumwackles: 4
+14: Mumbo: 2
+15: Unhost: 1
+16: monkeyfarm: 1
+17: Keralis1: 1
+Total 6177

@@ -1,0 +1,9 @@
+minecraft.dropped.brown_bed
+1: Renthedog: 3
+2: cubfan135: 3
+3: Xisuma: 2
+4: Tango: 1
+5: Stressmonster101: 1
+6: Keralis1: 1
+7: Zedaph: 1
+Total 12

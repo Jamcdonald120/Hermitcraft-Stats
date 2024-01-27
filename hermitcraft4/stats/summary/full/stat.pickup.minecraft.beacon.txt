@@ -1,0 +1,19 @@
+stat.pickup.minecraft.beacon
+1: Xisuma: 86
+2: falsesymmetry: 82
+3: cubfan135: 71
+4: iskall85: 53
+5: GoodTimeWithScar: 50
+6: Renthedog: 38
+7: MumboJumbo: 28
+8: Tango: 23
+9: Welsknight: 20
+10: impulseSV: 15
+11: Etho: 8
+12: Tinfoilchef: 6
+13: iJevin: 5
+14: joehillssays: 3
+15: Docm77: 1
+16: VintageBeef: 1
+17: PythonGB: 1
+Total 491

@@ -1,0 +1,19 @@
+minecraft.dropped.purpur_block
+1: GoodTimeWithScar: 293
+2: MumboJumbo: 193
+3: Renthedog: 142
+4: iskall85: 109
+5: Keralis1: 93
+6: iJevin: 69
+7: Tango: 67
+8: hypnotizd: 37
+9: Etho: 32
+10: cubfan135: 22
+11: Xisuma: 16
+12: xBCrafted: 15
+13: falsesymmetry: 15
+14: Grian: 10
+15: Zedaph: 9
+16: VintageBeef: 4
+17: impulseSV: 4
+Total 1130

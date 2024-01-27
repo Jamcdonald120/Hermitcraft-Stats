@@ -1,0 +1,16 @@
+minecraft.picked_up.blue_dye
+1: falsesymmetry: 523
+2: Grian: 300
+3: PearlescentMoon: 250
+4: Zedaph: 151
+5: GoodTimeWithScar: 101
+6: iJevin: 18
+7: Renthedog: 13
+8: Docm77: 10
+9: ZombieCleo: 4
+10: cubfan135: 3
+11: GeminiTay: 2
+12: joehillssays: 1
+13: hypnotizd: 1
+14: impulseSV: 1
+Total 1378

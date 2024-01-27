@@ -1,0 +1,12 @@
+minecraft.dropped.lime_carpet
+1: Tango: 431
+2: cubfan135: 403
+3: BdoubleO100: 86
+4: Zedaph: 67
+5: MumboJumbo: 14
+6: Etho: 12
+7: GoodTimeWithScar: 4
+8: Keralis1: 4
+9: falsesymmetry: 2
+10: Grian: 1
+Total 1024

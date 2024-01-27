@@ -1,0 +1,10 @@
+stat.entityKilledBy.PigZombie
+1: Tango: 5
+2: Xisuma: 4
+3: Renthedog: 3
+4: cubfan135: 2
+5: impulseSV: 2
+6: iskall85: 1
+7: falsesymmetry: 1
+8: Tinfoilchef: 1
+Total 19

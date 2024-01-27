@@ -1,0 +1,22 @@
+minecraft.used.cooked_porkchop
+1: iJevin: 172
+2: iskall85: 95
+3: cubfan135: 95
+4: Welsknight: 85
+5: Tango: 69
+6: Grian: 34
+7: Zedaph: 34
+8: GoodTimeWithScar: 31
+9: Tinfoilchef: 17
+10: ZombieCleo: 13
+11: BdoubleO100: 10
+12: Stressmonster101: 10
+13: Xisuma: 9
+14: impulseSV: 6
+15: Docm77: 5
+16: Biffa2001: 5
+17: Renthedog: 4
+18: PythonGB: 4
+19: falsesymmetry: 3
+20: joehillssays: 2
+Total 703

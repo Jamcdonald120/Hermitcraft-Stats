@@ -1,0 +1,20 @@
+minecraft.dropped.glowstone_dust
+1: Grian: 1373
+2: iJevin: 852
+3: impulseSV: 849
+4: Keralis1: 694
+5: hypnotizd: 588
+6: Tango: 340
+7: Xisuma: 320
+8: Docm77: 209
+9: falsesymmetry: 76
+10: PearlescentMoon: 66
+11: Zedaph: 15
+12: cubfan135: 10
+13: RentheKing: 7
+14: ZombieCleo: 6
+15: VintageBeef: 5
+16: GoodTimeWithScar: 4
+17: Etho: 3
+18: xBCrafted: 2
+Total 5419

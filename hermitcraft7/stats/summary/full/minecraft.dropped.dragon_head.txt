@@ -1,0 +1,5 @@
+minecraft.dropped.dragon_head
+1: Zedaph: 6
+2: Xisuma: 1
+3: Grian: 1
+Total 8

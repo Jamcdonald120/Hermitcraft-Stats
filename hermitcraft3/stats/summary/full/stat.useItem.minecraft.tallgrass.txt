@@ -1,0 +1,12 @@
+stat.useItem.minecraft.tallgrass
+1: Xisuma: 122
+2: falsesymmetry: 55
+3: Etho: 52
+4: xBCrafted: 34
+5: PythonGB: 32
+6: sl1pg8r: 26
+7: impulseSV: 13
+8: Tango: 11
+9: zueljin: 6
+10: Keralis1: 4
+Total 355

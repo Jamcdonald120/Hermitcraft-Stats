@@ -1,0 +1,8 @@
+minecraft.picked_up.red_nether_brick_slab
+1: Xisuma: 111
+2: Renthedog: 77
+3: impulseSV: 77
+4: cubfan135: 13
+5: falsesymmetry: 7
+6: Tango: 4
+Total 289

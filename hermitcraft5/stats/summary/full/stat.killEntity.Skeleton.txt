@@ -1,0 +1,26 @@
+stat.killEntity.Skeleton
+1: Stressmonster101: 9689
+2: Tinfoilchef: 4532
+3: Renthedog: 4212
+4: BdoubleO100: 3534
+5: GoodTimeWithScar: 3524
+6: impulseSV: 2560
+7: cubfan135: 1556
+8: falsesymmetry: 1471
+9: Tango: 1383
+10: Docm77: 1180
+11: Welsknight: 1138
+12: PythonGB: 1001
+13: MumboJumbo: 974
+14: VintageBeef: 964
+15: iJevin: 850
+16: iskall85: 755
+17: joehillssays: 725
+18: Biffa2001: 694
+19: Zedaph: 519
+20: Etho: 403
+21: Xisuma: 305
+22: xBCrafted: 276
+23: ZombieCleo: 77
+24: xisumavoid: 4
+Total 42326

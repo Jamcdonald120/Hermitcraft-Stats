@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.yellow_flower
+1: monkeyfarm: 27
+2: ZombieCleo: 21
+3: NameOfSamuel: 21
+4: falsesymmetry: 15
+5: iJevin: 6
+6: zueljin: 5
+7: Tango: 3
+8: Biffa2001: 3
+9: Mumbo: 3
+10: sl1pg8r: 1
+11: Xisuma: 1
+12: Spumwackles: 1
+Total 107

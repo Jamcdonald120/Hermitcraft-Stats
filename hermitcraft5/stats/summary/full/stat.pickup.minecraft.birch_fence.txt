@@ -1,0 +1,22 @@
+stat.pickup.minecraft.birch_fence
+1: xBCrafted: 386
+2: Tango: 122
+3: PythonGB: 68
+4: Biffa2001: 52
+5: joehillssays: 50
+6: GoodTimeWithScar: 47
+7: iJevin: 44
+8: cubfan135: 31
+9: falsesymmetry: 22
+10: impulseSV: 15
+11: Xisuma: 13
+12: Renthedog: 8
+13: ZombieCleo: 7
+14: Zedaph: 7
+15: VintageBeef: 3
+16: MumboJumbo: 3
+17: Welsknight: 2
+18: Stressmonster101: 2
+19: BdoubleO100: 1
+20: iskall85: 1
+Total 884

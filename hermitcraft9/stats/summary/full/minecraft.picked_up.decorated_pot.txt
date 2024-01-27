@@ -1,0 +1,16 @@
+minecraft.picked_up.decorated_pot
+1: Renthedog: 71
+2: Grian: 69
+3: cubfan135: 64
+4: GoodTimeWithScar: 37
+5: iskall85: 35
+6: GeminiTay: 14
+7: PearlescentMoon: 13
+8: ZombieCleo: 11
+9: Keralis1: 6
+10: xBCrafted: 4
+11: Docm77: 1
+12: BdoubleO100: 1
+13: Mumbo: 1
+14: impulseSV: 1
+Total 328

@@ -1,0 +1,21 @@
+minecraft.used.light_gray_wool
+1: Keralis1: 13471
+2: falsesymmetry: 3186
+3: Xisuma: 2903
+4: VintageBeef: 851
+5: GoodTimeWithScar: 448
+6: Grian: 434
+7: Tango: 294
+8: xBCrafted: 118
+9: Welsknight: 66
+10: BdoubleO100: 64
+11: cubfan135: 61
+12: impulseSV: 45
+13: Etho: 41
+14: joehillssays: 5
+15: iskall85: 3
+16: Renthedog: 2
+17: hypnotizd: 2
+18: Zedaph: 2
+19: MumboJumbo: 1
+Total 21997

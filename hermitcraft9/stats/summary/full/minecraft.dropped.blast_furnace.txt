@@ -1,0 +1,7 @@
+minecraft.dropped.blast_furnace
+1: Tango: 41
+2: ZombieCleo: 20
+3: iJevin: 16
+4: falsesymmetry: 2
+5: Grian: 1
+Total 80

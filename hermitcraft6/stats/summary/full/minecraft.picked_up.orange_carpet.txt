@@ -1,0 +1,14 @@
+minecraft.picked_up.orange_carpet
+1: Zedaph: 82
+2: falsesymmetry: 80
+3: impulseSV: 61
+4: Xisuma: 38
+5: Grian: 13
+6: GoodTimeWithScar: 12
+7: Renthedog: 10
+8: Docm77: 7
+9: cubfan135: 5
+10: iskall85: 2
+11: BdoubleO100: 1
+12: Stressmonster101: 1
+Total 312

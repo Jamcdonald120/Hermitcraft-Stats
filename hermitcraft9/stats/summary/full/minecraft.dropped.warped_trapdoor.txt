@@ -1,0 +1,11 @@
+minecraft.dropped.warped_trapdoor
+1: GoodTimeWithScar: 65
+2: Grian: 24
+3: impulseSV: 24
+4: falsesymmetry: 18
+5: Docm77: 3
+6: Tango: 3
+7: Etho: 2
+8: Xisuma: 1
+9: Zedaph: 1
+Total 141

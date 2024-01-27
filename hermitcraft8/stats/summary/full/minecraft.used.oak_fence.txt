@@ -1,0 +1,25 @@
+minecraft.used.oak_fence
+1: MumboJumbo: 1670
+2: Xisuma: 549
+3: Keralis1: 351
+4: iJevin: 276
+5: BdoubleO100: 201
+6: Tango: 195
+7: joehillssays: 173
+8: Zedaph: 168
+9: iskall85: 142
+10: PearlescentMoon: 107
+11: Etho: 72
+12: GoodTimeWithScar: 55
+13: Stressmonster101: 43
+14: falsesymmetry: 41
+15: cubfan135: 26
+16: impulseSV: 24
+17: Welsknight: 23
+18: Docm77: 18
+19: Grian: 18
+20: VintageBeef: 14
+21: ZombieCleo: 6
+22: EvilXisuma: 5
+23: GeminiTay: 2
+Total 4179

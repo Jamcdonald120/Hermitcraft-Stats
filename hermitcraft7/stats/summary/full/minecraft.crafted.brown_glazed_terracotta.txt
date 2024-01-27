@@ -1,0 +1,9 @@
+minecraft.crafted.brown_glazed_terracotta
+1: Etho: 132
+2: falsesymmetry: 64
+3: VintageBeef: 34
+4: impulseSV: 24
+5: Keralis1: 12
+6: hypnotizd: 7
+7: joehillssays: 1
+Total 274

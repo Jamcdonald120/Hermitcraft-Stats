@@ -1,0 +1,26 @@
+minecraft.mined.diamond_block
+1: cubfan135: 680
+2: xBCrafted: 677
+3: impulseSV: 659
+4: RentheKing: 445
+5: Zedaph: 237
+6: PearlescentMoon: 215
+7: Grian: 214
+8: BdoubleO100: 92
+9: GeminiTay: 42
+10: falsesymmetry: 34
+11: hypnotizd: 32
+12: VintageBeef: 29
+13: joehillssays: 20
+14: Mumbo: 20
+15: Xisuma: 10
+16: iJevin: 8
+17: Renthedog: 5
+18: Keralis1: 5
+19: Smajor1995: 3
+20: GoodTimeWithScar: 3
+21: Docm77: 2
+22: ZombieCleo: 2
+23: Tango: 1
+24: fWhip: 1
+Total 3436

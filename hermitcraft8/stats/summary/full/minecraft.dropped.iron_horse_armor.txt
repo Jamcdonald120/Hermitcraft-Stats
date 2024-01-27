@@ -1,0 +1,8 @@
+minecraft.dropped.iron_horse_armor
+1: Tango: 2
+2: GoodTimeWithScar: 2
+3: joehillssays: 1
+4: Grian: 1
+5: cubfan135: 1
+6: impulseSV: 1
+Total 8

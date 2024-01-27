@@ -1,0 +1,9 @@
+minecraft.dropped.polished_granite_stairs
+1: GoodTimeWithScar: 48
+2: falsesymmetry: 16
+3: cubfan135: 13
+4: Keralis1: 12
+5: xBCrafted: 8
+6: Tango: 2
+7: Etho: 2
+Total 101

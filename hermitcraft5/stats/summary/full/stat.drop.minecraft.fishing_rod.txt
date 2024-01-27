@@ -1,0 +1,20 @@
+stat.drop.minecraft.fishing_rod
+1: Welsknight: 500
+2: Xisuma: 449
+3: MumboJumbo: 413
+4: impulseSV: 227
+5: Renthedog: 177
+6: cubfan135: 118
+7: Tinfoilchef: 79
+8: falsesymmetry: 55
+9: iskall85: 12
+10: GoodTimeWithScar: 9
+11: Tango: 7
+12: PythonGB: 6
+13: xBCrafted: 5
+14: BdoubleO100: 3
+15: Stressmonster101: 3
+16: Zedaph: 3
+17: Docm77: 2
+18: Biffa2001: 1
+Total 2069

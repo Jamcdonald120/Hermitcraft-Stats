@@ -1,0 +1,10 @@
+stat.entityKilledBy.Creeper
+1: falsesymmetry: 3
+2: Tinfoilchef: 3
+3: Mumbo: 2
+4: sl1pg8r: 1
+5: Xisuma: 1
+6: xBCrafted: 1
+7: ZombieCleo: 1
+8: Mrs_Keralis: 1
+Total 13

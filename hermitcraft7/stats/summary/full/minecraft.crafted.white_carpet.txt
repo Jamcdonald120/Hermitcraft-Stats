@@ -1,0 +1,25 @@
+minecraft.crafted.white_carpet
+1: Tango: 7617
+2: BdoubleO100: 5054
+3: Xisuma: 4641
+4: hypnotizd: 3858
+5: Keralis1: 2802
+6: impulseSV: 2796
+7: VintageBeef: 2301
+8: xBCrafted: 2250
+9: falsesymmetry: 891
+10: iJevin: 729
+11: Etho: 708
+12: joehillssays: 663
+13: iskall85: 525
+14: GoodTimeWithScar: 510
+15: Welsknight: 507
+16: ZombieCleo: 243
+17: cubfan135: 240
+18: Stressmonster101: 138
+19: MumboJumbo: 114
+20: Renthedog: 99
+21: Zedaph: 87
+22: Docm77: 75
+23: Grian: 6
+Total 36854

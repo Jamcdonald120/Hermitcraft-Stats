@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.iron_chestplate
+1: sl1pg8r: 8
+2: falsesymmetry: 7
+3: xBCrafted: 5
+4: Tango: 1
+Total 21

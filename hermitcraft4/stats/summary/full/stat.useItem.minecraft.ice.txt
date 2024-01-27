@@ -1,0 +1,13 @@
+stat.useItem.minecraft.ice
+1: Tango: 6827
+2: Xisuma: 3262
+3: falsesymmetry: 2134
+4: cubfan135: 1802
+5: impulseSV: 760
+6: GoodTimeWithScar: 673
+7: iskall85: 178
+8: Renthedog: 91
+9: Welsknight: 53
+10: PythonGB: 21
+11: xisumavoid: 1
+Total 15802

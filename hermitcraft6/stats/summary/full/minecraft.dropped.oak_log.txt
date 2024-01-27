@@ -1,0 +1,22 @@
+minecraft.dropped.oak_log
+1: Renthedog: 774
+2: cubfan135: 655
+3: Grian: 523
+4: Xisuma: 399
+5: falsesymmetry: 318
+6: GoodTimeWithScar: 247
+7: iJevin: 172
+8: iskall85: 129
+9: impulseSV: 107
+10: Zedaph: 76
+11: Tango: 70
+12: joehillssays: 68
+13: Biffa2001: 57
+14: Docm77: 41
+15: MumboJumbo: 24
+16: Keralis1: 19
+17: Stressmonster101: 16
+18: ZombieCleo: 6
+19: PythonGB: 1
+20: BdoubleO100: 1
+Total 3703

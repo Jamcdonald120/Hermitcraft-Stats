@@ -1,0 +1,23 @@
+minecraft.crafted.charcoal
+1: ZombieCleo: 3679
+2: Renthedog: 2983
+3: BdoubleO100: 1494
+4: RentheKing: 809
+5: Docm77: 625
+6: cubfan135: 614
+7: falsesymmetry: 610
+8: joehillssays: 559
+9: Stressmonster101: 490
+10: VintageBeef: 273
+11: impulseSV: 135
+12: iskall85: 111
+13: Tango: 103
+14: Xisuma: 38
+15: Zedaph: 35
+16: GeminiTay: 33
+17: SolidarityGaming: 32
+18: PearlescentMoon: 15
+19: Grian: 14
+20: hypnotizd: 10
+21: iJevin: 4
+Total 12666

@@ -1,0 +1,10 @@
+minecraft.picked_up.diorite_wall
+1: GoodTimeWithScar: 110
+2: BdoubleO100: 95
+3: cubfan135: 37
+4: Renthedog: 7
+5: Grian: 2
+6: Tango: 2
+7: Docm77: 1
+8: Xisuma: 1
+Total 255

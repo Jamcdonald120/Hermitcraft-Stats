@@ -1,0 +1,29 @@
+minecraft.picked_up.shroomlight
+1: ZombieCleo: 959
+2: PearlescentMoon: 590
+3: Keralis1: 575
+4: Tango: 573
+5: Renthedog: 498
+6: Docm77: 420
+7: Zedaph: 410
+8: joehillssays: 354
+9: Grian: 283
+10: Xisuma: 234
+11: falsesymmetry: 232
+12: Etho: 224
+13: cubfan135: 204
+14: impulseSV: 97
+15: Stressmonster101: 92
+16: BdoubleO100: 81
+17: hypnotizd: 62
+18: RentheKing: 50
+19: GoodTimeWithScar: 46
+20: VintageBeef: 45
+21: GeminiTay: 20
+22: ShubbleYT: 19
+23: xBCrafted: 17
+24: iJevin: 13
+25: iskall85: 8
+26: Mumbo: 6
+27: Smallishbeans: 1
+Total 6113

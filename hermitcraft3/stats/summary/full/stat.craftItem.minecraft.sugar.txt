@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.sugar
+1: Tango: 648
+2: impulseSV: 226
+3: Mumbo: 182
+4: Tinfoilchef: 140
+5: Spumwackles: 66
+6: sl1pg8r: 64
+7: falsesymmetry: 45
+8: xBCrafted: 44
+9: monkeyfarm: 37
+10: Biffa2001: 32
+11: Xisuma: 28
+12: zueljin: 17
+13: topmass: 16
+14: PythonGB: 15
+15: hypnotizd: 3
+16: iJevin: 1
+17: ZombieCleo: 1
+Total 1565

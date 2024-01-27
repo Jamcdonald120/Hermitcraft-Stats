@@ -1,0 +1,8 @@
+minecraft.crafted.stripped_dark_oak_wood
+1: Keralis1: 42
+2: BdoubleO100: 15
+3: Stressmonster101: 12
+4: Etho: 9
+5: Grian: 6
+6: GoodTimeWithScar: 3
+Total 87

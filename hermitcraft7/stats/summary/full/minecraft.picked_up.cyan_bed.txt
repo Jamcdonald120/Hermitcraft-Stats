@@ -1,0 +1,18 @@
+minecraft.picked_up.cyan_bed
+1: Etho: 999
+2: GoodTimeWithScar: 42
+3: Keralis1: 31
+4: BdoubleO100: 29
+5: Tango: 26
+6: cubfan135: 25
+7: Zedaph: 17
+8: joehillssays: 16
+9: Grian: 15
+10: xBCrafted: 10
+11: ZombieCleo: 4
+12: Docm77: 2
+13: Xisuma: 2
+14: Renthedog: 2
+15: VintageBeef: 2
+16: Welsknight: 1
+Total 1223

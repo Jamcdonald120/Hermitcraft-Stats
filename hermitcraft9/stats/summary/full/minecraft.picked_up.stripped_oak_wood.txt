@@ -1,0 +1,22 @@
+minecraft.picked_up.stripped_oak_wood
+1: Keralis1: 1062
+2: Docm77: 490
+3: BdoubleO100: 294
+4: Renthedog: 144
+5: Grian: 141
+6: RentheKing: 123
+7: cubfan135: 80
+8: PearlescentMoon: 39
+9: iJevin: 9
+10: iskall85: 8
+11: Stressmonster101: 6
+12: Etho: 5
+13: joehillssays: 4
+14: falsesymmetry: 4
+15: impulseSV: 4
+16: Welsknight: 3
+17: Zedaph: 2
+18: Xisuma: 1
+19: GeminiTay: 1
+20: GoodTimeWithScar: 1
+Total 2421

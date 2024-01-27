@@ -1,0 +1,23 @@
+stat.pickup.minecraft.flint_and_steel
+1: Tango: 47
+2: Renthedog: 23
+3: Docm77: 22
+4: Zedaph: 20
+5: iskall85: 13
+6: cubfan135: 13
+7: Xisuma: 8
+8: PythonGB: 6
+9: falsesymmetry: 6
+10: MumboJumbo: 6
+11: impulseSV: 6
+12: iJevin: 5
+13: BdoubleO100: 4
+14: Welsknight: 4
+15: GoodTimeWithScar: 4
+16: VintageBeef: 3
+17: xBCrafted: 3
+18: Tinfoilchef: 2
+19: Stressmonster101: 2
+20: joehillssays: 1
+21: Biffa2001: 1
+Total 199

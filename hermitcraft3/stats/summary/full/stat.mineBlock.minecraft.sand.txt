@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.sand
+1: xBCrafted: 67046
+2: Xisuma: 66082
+3: falsesymmetry: 58952
+4: hypnotizd: 29777
+5: Tango: 21091
+6: impulseSV: 15631
+7: ZombieCleo: 14724
+8: Biffa2001: 14658
+9: Mumbo: 12977
+10: sl1pg8r: 11491
+11: Tinfoilchef: 7554
+12: KingDaddyDMAC: 6759
+13: monkeyfarm: 6427
+14: Spumwackles: 4775
+15: zueljin: 2813
+16: skyzm: 1931
+17: topmass: 1673
+18: Docm77: 1540
+19: NameOfSamuel: 1095
+20: PythonGB: 812
+21: joehillssays: 553
+22: iJevin: 444
+23: Etho: 61
+Total 348866

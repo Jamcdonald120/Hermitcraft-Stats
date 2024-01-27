@@ -1,0 +1,30 @@
+minecraft.dropped.deepslate
+1: xBCrafted: 19878
+2: Tango: 18279
+3: cubfan135: 10021
+4: Zedaph: 9148
+5: falsesymmetry: 3608
+6: Docm77: 3581
+7: iJevin: 3528
+8: Grian: 2774
+9: hypnotizd: 2457
+10: Xisuma: 1855
+11: PearlescentMoon: 1682
+12: Keralis1: 1224
+13: impulseSV: 749
+14: GoodTimeWithScar: 744
+15: Welsknight: 593
+16: Renthedog: 498
+17: VintageBeef: 494
+18: Mumbo: 364
+19: BdoubleO100: 181
+20: iskall85: 130
+21: Etho: 110
+22: Pixlriffs: 74
+23: RentheKing: 33
+24: joehillssays: 12
+25: ZombieCleo: 11
+26: Stressmonster101: 8
+27: MythicalSausage: 5
+28: GeminiTay: 4
+Total 82045

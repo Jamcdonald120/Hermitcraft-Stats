@@ -1,0 +1,28 @@
+minecraft.used.repeater
+1: Tango: 3166
+2: MumboJumbo: 2731
+3: Etho: 2263
+4: impulseSV: 1995
+5: cubfan135: 1859
+6: iskall85: 1594
+7: Xisuma: 1298
+8: Zedaph: 1044
+9: Renthedog: 979
+10: Grian: 855
+11: Keralis1: 444
+12: iJevin: 398
+13: VintageBeef: 379
+14: joehillssays: 343
+15: Docm77: 326
+16: xBCrafted: 263
+17: Stressmonster101: 250
+18: GoodTimeWithScar: 173
+19: hypnotizd: 152
+20: BdoubleO100: 119
+21: falsesymmetry: 113
+22: Tinfoilchef: 107
+23: Welsknight: 83
+24: ZombieCleo: 2
+25: xisumavoid: 1
+26: Helsknight_: 1
+Total 20938

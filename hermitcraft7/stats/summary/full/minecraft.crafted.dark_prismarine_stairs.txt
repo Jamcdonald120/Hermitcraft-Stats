@@ -1,0 +1,10 @@
+minecraft.crafted.dark_prismarine_stairs
+1: Keralis1: 468
+2: ZombieCleo: 320
+3: xBCrafted: 55
+4: cubfan135: 48
+5: GoodTimeWithScar: 20
+6: Xisuma: 10
+7: VintageBeef: 10
+8: impulseSV: 4
+Total 935

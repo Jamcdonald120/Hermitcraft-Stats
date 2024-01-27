@@ -1,0 +1,15 @@
+stat.useItem.minecraft.glass
+1: Tango: 5090
+2: Xisuma: 3819
+3: falsesymmetry: 1067
+4: Spumwackles: 458
+5: ZombieCleo: 454
+6: monkeyfarm: 311
+7: NameOfSamuel: 311
+8: zueljin: 275
+9: xBCrafted: 75
+10: sl1pg8r: 29
+11: Tinfoilchef: 7
+12: Mumbo: 6
+13: iJevin: 3
+Total 11905

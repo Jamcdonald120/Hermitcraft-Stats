@@ -1,0 +1,9 @@
+minecraft.crafted.mossy_cobblestone_stairs
+1: Keralis1: 192
+2: Renthedog: 88
+3: cubfan135: 64
+4: BdoubleO100: 32
+5: Grian: 24
+6: joehillssays: 16
+7: Xisuma: 8
+Total 424

@@ -1,0 +1,20 @@
+minecraft.dropped.light_gray_terracotta
+1: Tango: 335
+2: GoodTimeWithScar: 213
+3: Zedaph: 171
+4: cubfan135: 169
+5: Stressmonster101: 165
+6: Renthedog: 120
+7: MumboJumbo: 101
+8: BdoubleO100: 67
+9: falsesymmetry: 40
+10: Etho: 17
+11: Keralis1: 16
+12: Xisuma: 8
+13: VintageBeef: 5
+14: Grian: 5
+15: iskall85: 5
+16: Docm77: 2
+17: joehillssays: 1
+18: ZombieCleo: 1
+Total 1441

@@ -1,0 +1,12 @@
+minecraft.dropped.lily_pad
+1: iJevin: 50
+2: Keralis1: 23
+3: Xisuma: 17
+4: cubfan135: 10
+5: Docm77: 8
+6: falsesymmetry: 7
+7: Renthedog: 6
+8: BdoubleO100: 4
+9: impulseSV: 2
+10: Zedaph: 1
+Total 128

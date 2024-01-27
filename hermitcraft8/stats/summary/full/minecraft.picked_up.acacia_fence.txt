@@ -1,0 +1,11 @@
+minecraft.picked_up.acacia_fence
+1: BdoubleO100: 52
+2: GoodTimeWithScar: 29
+3: Grian: 28
+4: Xisuma: 26
+5: MumboJumbo: 13
+6: PearlescentMoon: 4
+7: impulseSV: 4
+8: Renthedog: 2
+9: Docm77: 1
+Total 159

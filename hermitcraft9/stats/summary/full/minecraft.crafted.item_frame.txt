@@ -1,0 +1,28 @@
+minecraft.crafted.item_frame
+1: Tango: 897
+2: Grian: 795
+3: Etho: 703
+4: VintageBeef: 641
+5: iJevin: 624
+6: cubfan135: 584
+7: falsesymmetry: 569
+8: PearlescentMoon: 481
+9: ZombieCleo: 410
+10: Docm77: 256
+11: xBCrafted: 209
+12: Xisuma: 203
+13: BdoubleO100: 199
+14: Renthedog: 175
+15: GoodTimeWithScar: 174
+16: impulseSV: 161
+17: joehillssays: 147
+18: Keralis1: 109
+19: GeminiTay: 70
+20: RentheKing: 52
+21: iskall85: 50
+22: hypnotizd: 37
+23: Zedaph: 35
+24: Mumbo: 8
+25: Smajor1995: 6
+26: Stressmonster101: 4
+Total 7599

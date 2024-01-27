@@ -1,0 +1,17 @@
+stat.drop.minecraft.tripwire_hook
+1: MumboJumbo: 73
+2: Biffa2001: 68
+3: impulseSV: 35
+4: Xisuma: 27
+5: iskall85: 13
+6: Stressmonster101: 13
+7: Renthedog: 10
+8: falsesymmetry: 10
+9: Zedaph: 10
+10: cubfan135: 4
+11: PythonGB: 2
+12: xBCrafted: 2
+13: ZombieCleo: 2
+14: BdoubleO100: 1
+15: GoodTimeWithScar: 1
+Total 271

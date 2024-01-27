@@ -1,0 +1,5 @@
+stat.breakItem.minecraft.golden_sword
+1: zueljin: 3
+2: Biffa2001: 2
+3: falsesymmetry: 1
+Total 6

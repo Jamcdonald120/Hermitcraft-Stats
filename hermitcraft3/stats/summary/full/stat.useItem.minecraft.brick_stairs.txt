@@ -1,0 +1,6 @@
+stat.useItem.minecraft.brick_stairs
+1: falsesymmetry: 732
+2: joehillssays: 52
+3: Mumbo: 12
+4: Tango: 4
+Total 800

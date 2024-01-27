@@ -1,0 +1,20 @@
+minecraft.picked_up.pink_tulip
+1: Etho: 4213
+2: impulseSV: 339
+3: cubfan135: 257
+4: GoodTimeWithScar: 148
+5: joehillssays: 94
+6: ZombieCleo: 69
+7: Zedaph: 68
+8: Xisuma: 56
+9: BdoubleO100: 38
+10: VintageBeef: 37
+11: Grian: 33
+12: Welsknight: 25
+13: Tango: 22
+14: xBCrafted: 22
+15: hypnotizd: 22
+16: Stressmonster101: 18
+17: iskall85: 5
+18: MumboJumbo: 1
+Total 5467

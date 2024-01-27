@@ -1,0 +1,8 @@
+minecraft.crafted.orange_banner
+1: PearlescentMoon: 31
+2: GoodTimeWithScar: 15
+3: Renthedog: 10
+4: Keralis1: 4
+5: VintageBeef: 2
+6: Zedaph: 1
+Total 63

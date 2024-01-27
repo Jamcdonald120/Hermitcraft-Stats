@@ -1,0 +1,32 @@
+minecraft.used.dark_oak_log
+1: falsesymmetry: 23479
+2: Stressmonster101: 8324
+3: GoodTimeWithScar: 5320
+4: Xisuma: 3798
+5: xBCrafted: 2313
+6: Etho: 1977
+7: iskall85: 1863
+8: Renthedog: 1440
+9: ZombieCleo: 1154
+10: cubfan135: 1062
+11: GeminiTay: 997
+12: BdoubleO100: 887
+13: RentheKing: 542
+14: Docm77: 438
+15: Keralis1: 437
+16: impulseSV: 390
+17: Pixlriffs: 271
+18: PearlescentMoon: 230
+19: Tango: 147
+20: MythicalSausage: 121
+21: hypnotizd: 72
+22: iJevin: 59
+23: SolidarityGaming: 58
+24: Grian: 49
+25: Mumbo: 24
+26: MumboJumbo: 20
+27: Zedaph: 14
+28: joehillssays: 11
+29: VintageBeef: 10
+30: ShubbleYT: 6
+Total 55513

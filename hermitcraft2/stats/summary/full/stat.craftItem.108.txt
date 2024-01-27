@@ -1,0 +1,4 @@
+stat.craftItem.108
+1: Keralis1: 84
+2: red3yz: 16
+Total 100

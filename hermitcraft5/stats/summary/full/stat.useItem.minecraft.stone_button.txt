@@ -1,0 +1,23 @@
+stat.useItem.minecraft.stone_button
+1: iskall85: 1992
+2: xBCrafted: 1145
+3: cubfan135: 730
+4: impulseSV: 473
+5: MumboJumbo: 390
+6: falsesymmetry: 257
+7: GoodTimeWithScar: 233
+8: Docm77: 221
+9: Xisuma: 168
+10: Zedaph: 156
+11: Tango: 132
+12: Welsknight: 114
+13: Renthedog: 91
+14: BdoubleO100: 44
+15: Stressmonster101: 32
+16: iJevin: 22
+17: joehillssays: 19
+18: ZombieCleo: 18
+19: VintageBeef: 16
+20: PythonGB: 7
+21: Tinfoilchef: 3
+Total 6263

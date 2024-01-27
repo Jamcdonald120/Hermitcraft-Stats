@@ -1,0 +1,21 @@
+minecraft.picked_up.dragon_head
+1: GoodTimeWithScar: 113
+2: iJevin: 38
+3: Tango: 33
+4: Xisuma: 32
+5: Zedaph: 29
+6: Keralis1: 21
+7: falsesymmetry: 19
+8: Etho: 14
+9: iskall85: 12
+10: VintageBeef: 11
+11: Renthedog: 10
+12: Grian: 9
+13: impulseSV: 8
+14: cubfan135: 7
+15: hypnotizd: 5
+16: Docm77: 3
+17: xBCrafted: 3
+18: MumboJumbo: 3
+19: ZombieCleo: 1
+Total 371

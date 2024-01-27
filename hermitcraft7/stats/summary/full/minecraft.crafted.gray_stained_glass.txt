@@ -1,0 +1,17 @@
+minecraft.crafted.gray_stained_glass
+1: Keralis1: 15760
+2: iskall85: 7288
+3: Grian: 5888
+4: GoodTimeWithScar: 5344
+5: impulseSV: 4012
+6: falsesymmetry: 2384
+7: Xisuma: 2368
+8: Etho: 896
+9: Renthedog: 768
+10: joehillssays: 720
+11: Stressmonster101: 704
+12: cubfan135: 592
+13: Tango: 144
+14: BdoubleO100: 104
+15: ZombieCleo: 8
+Total 46980

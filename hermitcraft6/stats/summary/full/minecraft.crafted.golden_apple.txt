@@ -1,0 +1,15 @@
+minecraft.crafted.golden_apple
+1: impulseSV: 313
+2: MumboJumbo: 129
+3: Tango: 108
+4: iskall85: 96
+5: Xisuma: 70
+6: Welsknight: 67
+7: Stressmonster101: 35
+8: cubfan135: 32
+9: GoodTimeWithScar: 30
+10: falsesymmetry: 21
+11: PythonGB: 10
+12: Docm77: 9
+13: joehillssays: 5
+Total 925

@@ -1,0 +1,26 @@
+minecraft.mined.spruce_slab
+1: Xisuma: 712
+2: impulseSV: 665
+3: GeminiTay: 545
+4: PearlescentMoon: 450
+5: BdoubleO100: 326
+6: GoodTimeWithScar: 234
+7: Keralis1: 207
+8: Tango: 195
+9: Grian: 179
+10: Etho: 173
+11: joehillssays: 148
+12: ZombieCleo: 142
+13: iskall85: 138
+14: cubfan135: 82
+15: falsesymmetry: 71
+16: Welsknight: 66
+17: Renthedog: 57
+18: Stressmonster101: 55
+19: hypnotizd: 26
+20: Docm77: 21
+21: MumboJumbo: 11
+22: Zedaph: 9
+23: iJevin: 7
+24: VintageBeef: 1
+Total 4520

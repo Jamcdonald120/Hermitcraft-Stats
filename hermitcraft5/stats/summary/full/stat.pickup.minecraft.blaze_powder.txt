@@ -1,0 +1,18 @@
+stat.pickup.minecraft.blaze_powder
+1: Tinfoilchef: 111
+2: Renthedog: 76
+3: Tango: 58
+4: Welsknight: 49
+5: Zedaph: 43
+6: impulseSV: 42
+7: iskall85: 36
+8: Xisuma: 29
+9: cubfan135: 28
+10: GoodTimeWithScar: 9
+11: xBCrafted: 8
+12: Docm77: 4
+13: Stressmonster101: 4
+14: falsesymmetry: 3
+15: VintageBeef: 2
+16: BdoubleO100: 1
+Total 503

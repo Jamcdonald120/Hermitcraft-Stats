@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.jungle_fence
+1: Xisuma: 172
+2: Renthedog: 109
+3: PythonGB: 66
+4: GoodTimeWithScar: 25
+5: VintageBeef: 24
+6: Tango: 12
+7: falsesymmetry: 12
+8: iskall85: 11
+9: ZombieCleo: 9
+10: Welsknight: 6
+11: cubfan135: 4
+12: MumboJumbo: 1
+Total 451

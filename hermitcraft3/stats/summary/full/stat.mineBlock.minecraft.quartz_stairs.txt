@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.quartz_stairs
+1: sl1pg8r: 588
+2: Tango: 210
+3: Xisuma: 207
+4: falsesymmetry: 206
+5: impulseSV: 170
+6: zueljin: 155
+7: ZombieCleo: 108
+8: xBCrafted: 95
+9: PythonGB: 92
+10: monkeyfarm: 78
+11: Biffa2001: 70
+12: Mumbo: 57
+13: topmass: 5
+14: iJevin: 3
+15: Spumwackles: 3
+Total 2047

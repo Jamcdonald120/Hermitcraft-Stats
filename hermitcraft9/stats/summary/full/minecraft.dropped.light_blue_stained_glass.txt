@@ -1,0 +1,9 @@
+minecraft.dropped.light_blue_stained_glass
+1: falsesymmetry: 46
+2: Grian: 45
+3: GeminiTay: 44
+4: Tango: 32
+5: Etho: 5
+6: Keralis1: 2
+7: Renthedog: 1
+Total 175

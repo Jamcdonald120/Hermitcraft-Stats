@@ -1,0 +1,26 @@
+minecraft.killed.cow
+1: GoodTimeWithScar: 1021
+2: Grian: 840
+3: BdoubleO100: 591
+4: Etho: 551
+5: GeminiTay: 483
+6: Docm77: 433
+7: ZombieCleo: 357
+8: hypnotizd: 330
+9: falsesymmetry: 307
+10: joehillssays: 272
+11: Xisuma: 242
+12: xBCrafted: 215
+13: Welsknight: 187
+14: VintageBeef: 181
+15: Zedaph: 93
+16: Renthedog: 89
+17: cubfan135: 86
+18: iskall85: 80
+19: Stressmonster101: 67
+20: iJevin: 52
+21: Tango: 44
+22: Keralis1: 38
+23: PearlescentMoon: 29
+24: impulseSV: 14
+Total 6602

@@ -1,0 +1,24 @@
+stat.pickup.minecraft.beetroot_seeds
+1: joehillssays: 3158
+2: Renthedog: 2559
+3: cubfan135: 2477
+4: MumboJumbo: 1820
+5: Zedaph: 1534
+6: Tinfoilchef: 354
+7: xBCrafted: 153
+8: Stressmonster101: 152
+9: iJevin: 114
+10: Biffa2001: 86
+11: PythonGB: 84
+12: ZombieCleo: 45
+13: iskall85: 41
+14: falsesymmetry: 39
+15: Tango: 30
+16: VintageBeef: 28
+17: GoodTimeWithScar: 25
+18: Docm77: 23
+19: Xisuma: 21
+20: BdoubleO100: 18
+21: impulseSV: 8
+22: Etho: 2
+Total 12771

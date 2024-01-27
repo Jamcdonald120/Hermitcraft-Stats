@@ -1,0 +1,16 @@
+minecraft.picked_up.acacia_fence
+1: xBCrafted: 181
+2: Xisuma: 52
+3: Keralis1: 28
+4: VintageBeef: 15
+5: BdoubleO100: 15
+6: Docm77: 12
+7: cubfan135: 6
+8: Renthedog: 5
+9: Tango: 5
+10: Etho: 5
+11: GoodTimeWithScar: 5
+12: joehillssays: 2
+13: Grian: 1
+14: Zedaph: 1
+Total 333

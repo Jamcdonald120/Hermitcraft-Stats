@@ -1,0 +1,26 @@
+minecraft.picked_up.oak_sapling
+1: iskall85: 26129
+2: Renthedog: 11752
+3: GoodTimeWithScar: 4346
+4: Zedaph: 1755
+5: falsesymmetry: 1729
+6: Tinfoilchef: 1663
+7: Xisuma: 1560
+8: joehillssays: 1556
+9: Etho: 1539
+10: Grian: 1516
+11: Keralis1: 1349
+12: MumboJumbo: 1145
+13: Stressmonster101: 1144
+14: BdoubleO100: 1108
+15: hypnotizd: 820
+16: VintageBeef: 755
+17: ZombieCleo: 737
+18: Tango: 719
+19: impulseSV: 431
+20: Welsknight: 336
+21: xBCrafted: 330
+22: cubfan135: 195
+23: Docm77: 109
+24: iJevin: 109
+Total 62832

@@ -1,0 +1,27 @@
+minecraft.picked_up.bone_meal
+1: iJevin: 80026
+2: Zedaph: 9619
+3: impulseSV: 6780
+4: Etho: 6103
+5: Tango: 3329
+6: Xisuma: 2685
+7: xBCrafted: 2119
+8: Docm77: 1900
+9: Grian: 1892
+10: GoodTimeWithScar: 1170
+11: BdoubleO100: 795
+12: PearlescentMoon: 791
+13: hypnotizd: 728
+14: Renthedog: 589
+15: joehillssays: 569
+16: ZombieCleo: 493
+17: cubfan135: 454
+18: falsesymmetry: 207
+19: GeminiTay: 194
+20: iskall85: 190
+21: Keralis1: 190
+22: MumboJumbo: 130
+23: Stressmonster101: 122
+24: VintageBeef: 25
+25: Welsknight: 5
+Total 121105

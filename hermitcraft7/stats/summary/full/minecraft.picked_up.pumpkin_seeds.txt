@@ -1,0 +1,25 @@
+minecraft.picked_up.pumpkin_seeds
+1: Zedaph: 7861
+2: Etho: 5780
+3: iskall85: 5090
+4: iJevin: 1849
+5: Xisuma: 1829
+6: Tango: 1803
+7: Grian: 1237
+8: joehillssays: 702
+9: MumboJumbo: 447
+10: impulseSV: 375
+11: xBCrafted: 333
+12: VintageBeef: 312
+13: hypnotizd: 274
+14: Keralis1: 213
+15: BdoubleO100: 203
+16: Stressmonster101: 183
+17: cubfan135: 171
+18: Renthedog: 136
+19: Docm77: 122
+20: falsesymmetry: 99
+21: GoodTimeWithScar: 47
+22: ZombieCleo: 29
+23: Welsknight: 8
+Total 29103

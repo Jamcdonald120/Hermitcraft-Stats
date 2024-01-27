@@ -1,0 +1,19 @@
+minecraft.picked_up.acacia_boat
+1: iJevin: 43
+2: cubfan135: 37
+3: falsesymmetry: 23
+4: Etho: 18
+5: Grian: 8
+6: Renthedog: 7
+7: Stressmonster101: 6
+8: joehillssays: 5
+9: Tango: 2
+10: hypnotizd: 2
+11: Zedaph: 2
+12: Xisuma: 1
+13: MythicalSausage: 1
+14: Smallishbeans: 1
+15: iskall85: 1
+16: ZombieCleo: 1
+17: impulseSV: 1
+Total 159

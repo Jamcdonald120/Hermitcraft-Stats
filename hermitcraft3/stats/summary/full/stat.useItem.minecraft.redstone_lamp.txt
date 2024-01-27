@@ -1,0 +1,19 @@
+stat.useItem.minecraft.redstone_lamp
+1: hypnotizd: 940
+2: impulseSV: 898
+3: iJevin: 813
+4: Xisuma: 796
+5: falsesymmetry: 522
+6: Tango: 318
+7: Mumbo: 294
+8: Biffa2001: 282
+9: sl1pg8r: 222
+10: zueljin: 214
+11: Docm77: 40
+12: topmass: 31
+13: xBCrafted: 31
+14: monkeyfarm: 28
+15: Tinfoilchef: 27
+16: KingDaddyDMAC: 16
+17: snipepager: 16
+Total 5488

@@ -1,0 +1,24 @@
+minecraft.dropped.feather
+1: ZombieCleo: 1484
+2: Zedaph: 1145
+3: hypnotizd: 738
+4: Grian: 293
+5: Renthedog: 172
+6: Docm77: 145
+7: cubfan135: 73
+8: GoodTimeWithScar: 48
+9: falsesymmetry: 47
+10: iJevin: 42
+11: Keralis1: 34
+12: Tango: 22
+13: Xisuma: 18
+14: impulseSV: 10
+15: VintageBeef: 6
+16: Etho: 4
+17: PearlescentMoon: 3
+18: xBCrafted: 3
+19: iskall85: 2
+20: Minerva246: 1
+21: joehillssays: 1
+22: BdoubleO100: 1
+Total 4292

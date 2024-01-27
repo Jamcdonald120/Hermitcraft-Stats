@@ -1,0 +1,21 @@
+minecraft.used.cooked_mutton
+1: VintageBeef: 1883
+2: cubfan135: 485
+3: BdoubleO100: 439
+4: GoodTimeWithScar: 348
+5: joehillssays: 305
+6: Tango: 169
+7: Grian: 116
+8: Zedaph: 86
+9: Keralis1: 81
+10: Xisuma: 70
+11: Etho: 46
+12: Docm77: 27
+13: falsesymmetry: 11
+14: Stressmonster101: 10
+15: Renthedog: 8
+16: Tinfoilchef: 6
+17: iskall85: 5
+18: MumboJumbo: 3
+19: xBCrafted: 1
+Total 4099

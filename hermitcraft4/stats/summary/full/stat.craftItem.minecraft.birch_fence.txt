@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.birch_fence
+1: MumboJumbo: 1338
+2: cubfan135: 972
+3: impulseSV: 264
+4: joehillssays: 180
+5: Xisuma: 150
+6: Tinfoilchef: 90
+7: iskall85: 87
+8: Docm77: 78
+9: GoodTimeWithScar: 48
+10: Etho: 42
+11: Tango: 33
+12: Renthedog: 27
+13: PythonGB: 15
+14: falsesymmetry: 9
+15: iJevin: 6
+Total 3339

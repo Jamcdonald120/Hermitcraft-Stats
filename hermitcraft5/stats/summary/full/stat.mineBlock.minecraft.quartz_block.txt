@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.quartz_block
+1: cubfan135: 2896
+2: impulseSV: 677
+3: Zedaph: 428
+4: iskall85: 244
+5: GoodTimeWithScar: 215
+6: VintageBeef: 206
+7: falsesymmetry: 204
+8: PythonGB: 179
+9: Welsknight: 152
+10: MumboJumbo: 105
+11: Xisuma: 104
+12: joehillssays: 79
+13: Tinfoilchef: 74
+14: Tango: 40
+15: Docm77: 11
+16: xBCrafted: 3
+Total 5617

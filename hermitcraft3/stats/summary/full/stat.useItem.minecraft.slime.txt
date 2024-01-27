@@ -1,0 +1,24 @@
+stat.useItem.minecraft.slime
+1: Xisuma: 2687
+2: falsesymmetry: 862
+3: impulseSV: 443
+4: zueljin: 442
+5: sl1pg8r: 370
+6: Mumbo: 347
+7: KingDaddyDMAC: 314
+8: Tango: 311
+9: ZombieCleo: 172
+10: xBCrafted: 160
+11: Tinfoilchef: 156
+12: monkeyfarm: 149
+13: Docm77: 40
+14: topmass: 33
+15: Biffa2001: 22
+16: iJevin: 15
+17: snipepager: 15
+18: Etho: 8
+19: hypnotizd: 8
+20: Spumwackles: 6
+21: xisumavoid: 5
+22: PythonGB: 3
+Total 6568

@@ -1,0 +1,23 @@
+minecraft.dropped.gold_ingot
+1: Tango: 22520
+2: Etho: 945
+3: iJevin: 695
+4: PearlescentMoon: 572
+5: cubfan135: 439
+6: Grian: 354
+7: RentheKing: 289
+8: iskall85: 259
+9: Xisuma: 104
+10: Zedaph: 93
+11: GeminiTay: 82
+12: Renthedog: 60
+13: impulseSV: 58
+14: falsesymmetry: 35
+15: Keralis1: 18
+16: GoodTimeWithScar: 14
+17: Pixlriffs: 6
+18: BdoubleO100: 3
+19: joehillssays: 2
+20: xBCrafted: 2
+21: Mumbo: 2
+Total 26552

@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.comparator
+1: Xisuma: 211
+2: Tango: 146
+3: Tinfoilchef: 48
+4: Spumwackles: 25
+5: Mumbo: 4
+6: xBCrafted: 1
+Total 435

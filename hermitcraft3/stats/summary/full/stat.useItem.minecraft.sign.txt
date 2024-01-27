@@ -1,0 +1,30 @@
+stat.useItem.minecraft.sign
+1: falsesymmetry: 2718
+2: Xisuma: 742
+3: xBCrafted: 627
+4: Tango: 594
+5: Mumbo: 417
+6: zueljin: 362
+7: sl1pg8r: 332
+8: monkeyfarm: 210
+9: Tinfoilchef: 206
+10: impulseSV: 170
+11: KingDaddyDMAC: 148
+12: Biffa2001: 142
+13: topmass: 113
+14: snipepager: 111
+15: iJevin: 70
+16: Spumwackles: 69
+17: ZombieCleo: 54
+18: joehillssays: 37
+19: hypnotizd: 32
+20: Keralis1: 25
+21: Etho: 23
+22: Docm77: 13
+23: PythonGB: 13
+24: xisumavoid: 11
+25: Mrs_Keralis: 10
+26: Pungence: 5
+27: NameOfSamuel: 4
+28: skyzm: 1
+Total 7259

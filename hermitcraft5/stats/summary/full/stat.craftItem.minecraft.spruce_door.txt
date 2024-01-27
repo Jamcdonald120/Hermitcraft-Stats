@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.spruce_door
+1: Renthedog: 3504
+2: Tango: 1440
+3: joehillssays: 165
+4: iskall85: 156
+5: Welsknight: 126
+6: falsesymmetry: 78
+7: Xisuma: 51
+8: Stressmonster101: 48
+9: PythonGB: 36
+10: BdoubleO100: 36
+11: MumboJumbo: 30
+12: iJevin: 21
+13: Zedaph: 12
+14: xBCrafted: 9
+15: VintageBeef: 6
+16: cubfan135: 6
+17: GoodTimeWithScar: 6
+18: ZombieCleo: 3
+Total 5733

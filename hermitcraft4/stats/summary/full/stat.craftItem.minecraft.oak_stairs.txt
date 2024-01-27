@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.oak_stairs
+1: GoodTimeWithScar: 3500
+2: Welsknight: 1308
+3: cubfan135: 764
+4: Xisuma: 492
+5: PythonGB: 312
+6: Renthedog: 272
+7: falsesymmetry: 156
+8: Tinfoilchef: 152
+9: joehillssays: 144
+10: zueljin: 128
+11: xBCrafted: 112
+12: impulseSV: 88
+13: Etho: 84
+14: Biffa2001: 80
+15: Tango: 72
+16: iJevin: 52
+17: iskall85: 52
+18: ZombieCleo: 32
+19: VintageBeef: 24
+20: Docm77: 4
+21: MumboJumbo: 4
+Total 7832

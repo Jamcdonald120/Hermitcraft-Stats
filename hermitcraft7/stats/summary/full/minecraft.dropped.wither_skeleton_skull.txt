@@ -1,0 +1,8 @@
+minecraft.dropped.wither_skeleton_skull
+1: Renthedog: 40
+2: impulseSV: 40
+3: xBCrafted: 4
+4: Etho: 3
+5: Tango: 2
+6: iskall85: 1
+Total 90

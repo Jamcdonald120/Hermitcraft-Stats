@@ -1,0 +1,11 @@
+minecraft.picked_up.green_terracotta
+1: PearlescentMoon: 1154
+2: Grian: 902
+3: GeminiTay: 94
+4: GoodTimeWithScar: 92
+5: falsesymmetry: 19
+6: cubfan135: 10
+7: Keralis1: 2
+8: Etho: 1
+9: Zedaph: 1
+Total 2275

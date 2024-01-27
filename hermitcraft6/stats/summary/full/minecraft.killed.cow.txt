@@ -1,0 +1,29 @@
+minecraft.killed.cow
+1: falsesymmetry: 2184
+2: ZombieCleo: 1638
+3: GoodTimeWithScar: 1459
+4: Grian: 1263
+5: Tango: 851
+6: impulseSV: 600
+7: Renthedog: 476
+8: Zedaph: 379
+9: BdoubleO100: 367
+10: cubfan135: 271
+11: Welsknight: 201
+12: HumanCleo: 184
+13: Docm77: 163
+14: Stressmonster101: 145
+15: iJevin: 120
+16: Xisuma: 107
+17: iskall85: 93
+18: Tinfoilchef: 72
+19: PythonGB: 68
+20: MumboJumbo: 59
+21: joehillssays: 39
+22: Jessassin: 8
+23: EvilXisuma: 6
+24: Keralis1: 4
+25: BadTimeWithScar: 4
+26: Jura_Whitey: 1
+27: Biffa2001: 1
+Total 10763

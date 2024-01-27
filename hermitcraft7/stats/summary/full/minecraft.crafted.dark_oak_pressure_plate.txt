@@ -1,0 +1,16 @@
+minecraft.crafted.dark_oak_pressure_plate
+1: Keralis1: 15
+2: Xisuma: 11
+3: GoodTimeWithScar: 9
+4: Grian: 8
+5: cubfan135: 8
+6: MumboJumbo: 8
+7: BdoubleO100: 4
+8: Zedaph: 4
+9: Renthedog: 3
+10: Docm77: 2
+11: joehillssays: 1
+12: Tango: 1
+13: iskall85: 1
+14: xBCrafted: 1
+Total 76

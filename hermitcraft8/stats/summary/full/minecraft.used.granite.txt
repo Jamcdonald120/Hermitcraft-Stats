@@ -1,0 +1,28 @@
+minecraft.used.granite
+1: PearlescentMoon: 7493
+2: Tango: 2224
+3: BdoubleO100: 1870
+4: impulseSV: 1767
+5: cubfan135: 1047
+6: Xisuma: 992
+7: ZombieCleo: 832
+8: Docm77: 544
+9: GeminiTay: 444
+10: Grian: 416
+11: falsesymmetry: 415
+12: VintageBeef: 400
+13: Renthedog: 390
+14: iJevin: 353
+15: GoodTimeWithScar: 271
+16: joehillssays: 222
+17: Keralis1: 220
+18: Welsknight: 177
+19: Tinfoilchef: 128
+20: xBCrafted: 103
+21: iskall85: 93
+22: Zedaph: 89
+23: Etho: 62
+24: MumboJumbo: 41
+25: Stressmonster101: 18
+26: hypnotizd: 6
+Total 20617

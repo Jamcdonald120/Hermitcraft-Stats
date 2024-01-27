@@ -1,0 +1,19 @@
+minecraft.picked_up.birch_stairs
+1: impulseSV: 321
+2: Renthedog: 208
+3: xBCrafted: 185
+4: Keralis1: 147
+5: Xisuma: 130
+6: Zedaph: 85
+7: Grian: 84
+8: VintageBeef: 72
+9: joehillssays: 53
+10: Stressmonster101: 40
+11: Welsknight: 37
+12: GoodTimeWithScar: 30
+13: MumboJumbo: 16
+14: cubfan135: 5
+15: ZombieCleo: 4
+16: BdoubleO100: 2
+17: iskall85: 1
+Total 1420

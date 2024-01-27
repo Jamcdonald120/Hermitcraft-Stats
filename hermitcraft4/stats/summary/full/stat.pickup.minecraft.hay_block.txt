@@ -1,0 +1,13 @@
+stat.pickup.minecraft.hay_block
+1: cubfan135: 101
+2: falsesymmetry: 73
+3: joehillssays: 63
+4: Renthedog: 22
+5: Biffa2001: 13
+6: Tango: 5
+7: impulseSV: 5
+8: iskall85: 4
+9: Xisuma: 3
+10: GoodTimeWithScar: 2
+11: VintageBeef: 1
+Total 292

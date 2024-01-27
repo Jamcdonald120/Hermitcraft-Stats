@@ -1,0 +1,20 @@
+stat.drop.minecraft.apple
+1: MumboJumbo: 120
+2: iskall85: 53
+3: Tango: 36
+4: xBCrafted: 29
+5: GoodTimeWithScar: 29
+6: impulseSV: 24
+7: Stressmonster101: 22
+8: Renthedog: 17
+9: Zedaph: 14
+10: falsesymmetry: 10
+11: Tinfoilchef: 8
+12: VintageBeef: 7
+13: cubfan135: 7
+14: Welsknight: 6
+15: BdoubleO100: 2
+16: Xisuma: 1
+17: PythonGB: 1
+18: Biffa2001: 1
+Total 387

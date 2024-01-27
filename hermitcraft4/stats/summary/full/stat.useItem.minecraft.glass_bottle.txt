@@ -1,0 +1,21 @@
+stat.useItem.minecraft.glass_bottle
+1: Tango: 1623
+2: cubfan135: 1591
+3: Xisuma: 1061
+4: falsesymmetry: 615
+5: iskall85: 547
+6: MumboJumbo: 375
+7: Etho: 224
+8: impulseSV: 162
+9: joehillssays: 121
+10: iJevin: 108
+11: Tinfoilchef: 95
+12: Welsknight: 90
+13: Docm77: 75
+14: GoodTimeWithScar: 54
+15: Renthedog: 42
+16: PythonGB: 37
+17: ZombieCleo: 33
+18: Jessassin: 4
+19: VintageBeef: 3
+Total 6860

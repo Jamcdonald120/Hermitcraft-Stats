@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.trapped_chest
+1: Mumbo: 190
+2: Xisuma: 144
+3: xBCrafted: 126
+4: Tango: 107
+5: hypnotizd: 92
+6: iJevin: 62
+7: falsesymmetry: 42
+8: zueljin: 28
+9: Biffa2001: 18
+10: impulseSV: 15
+11: KingDaddyDMAC: 12
+12: monkeyfarm: 9
+13: topmass: 6
+14: sl1pg8r: 5
+15: PythonGB: 2
+16: Tinfoilchef: 1
+Total 859

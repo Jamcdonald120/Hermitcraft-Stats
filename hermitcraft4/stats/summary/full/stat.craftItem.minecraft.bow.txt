@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.bow
+1: cubfan135: 320
+2: Renthedog: 300
+3: MumboJumbo: 235
+4: falsesymmetry: 217
+5: iskall85: 173
+6: Xisuma: 137
+7: Tango: 119
+8: joehillssays: 97
+9: GoodTimeWithScar: 63
+10: Tinfoilchef: 61
+11: Etho: 54
+12: iJevin: 49
+13: impulseSV: 48
+14: Docm77: 46
+15: ZombieCleo: 24
+16: Mumbo: 21
+17: Welsknight: 20
+18: PythonGB: 13
+19: Jessassin: 8
+20: Biffa2001: 3
+21: VintageBeef: 1
+Total 2009

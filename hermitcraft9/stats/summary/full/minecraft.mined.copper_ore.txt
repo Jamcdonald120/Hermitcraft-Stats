@@ -1,0 +1,33 @@
+minecraft.mined.copper_ore
+1: Grian: 8860
+2: joehillssays: 8038
+3: Docm77: 5956
+4: GoodTimeWithScar: 5615
+5: Tango: 5331
+6: Etho: 4675
+7: PearlescentMoon: 4304
+8: impulseSV: 3957
+9: cubfan135: 3134
+10: Xisuma: 2828
+11: xBCrafted: 2203
+12: Zedaph: 1839
+13: hypnotizd: 1375
+14: iJevin: 1363
+15: BdoubleO100: 1353
+16: ZombieCleo: 1182
+17: Keralis1: 1057
+18: Renthedog: 970
+19: falsesymmetry: 906
+20: iskall85: 516
+21: VintageBeef: 281
+22: Mumbo: 258
+23: GeminiTay: 86
+24: Tinfoilchef: 81
+25: Smallishbeans: 73
+26: Stressmonster101: 66
+27: MumboJumbo: 49
+28: RentheKing: 43
+29: Welsknight: 37
+30: Pixlriffs: 16
+31: OrionSound: 1
+Total 66453

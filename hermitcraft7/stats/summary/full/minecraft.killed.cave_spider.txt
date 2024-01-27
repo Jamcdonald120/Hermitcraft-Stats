@@ -1,0 +1,24 @@
+minecraft.killed.cave_spider
+1: Keralis1: 17337
+2: cubfan135: 7331
+3: Renthedog: 3446
+4: Etho: 3119
+5: iskall85: 2887
+6: joehillssays: 1471
+7: Zedaph: 921
+8: ZombieCleo: 807
+9: iJevin: 377
+10: Tango: 119
+11: hypnotizd: 35
+12: xBCrafted: 21
+13: Xisuma: 19
+14: Welsknight: 16
+15: VintageBeef: 13
+16: Stressmonster101: 7
+17: Docm77: 5
+18: Grian: 5
+19: GoodTimeWithScar: 5
+20: falsesymmetry: 4
+21: BdoubleO100: 2
+22: impulseSV: 1
+Total 37948

@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.lapis_block
+1: falsesymmetry: 484
+2: topmass: 257
+3: Biffa2001: 250
+4: KingDaddyDMAC: 191
+5: impulseSV: 191
+6: Xisuma: 167
+7: hypnotizd: 140
+8: PythonGB: 125
+9: monkeyfarm: 97
+10: Mumbo: 95
+11: ZombieCleo: 91
+12: Etho: 80
+13: sl1pg8r: 74
+14: xBCrafted: 68
+15: Tango: 67
+16: Tinfoilchef: 64
+17: Spumwackles: 35
+Total 2476

@@ -1,0 +1,17 @@
+minecraft.dropped.polished_andesite_stairs
+1: falsesymmetry: 190
+2: impulseSV: 56
+3: Renthedog: 24
+4: GoodTimeWithScar: 22
+5: Keralis1: 7
+6: xBCrafted: 4
+7: Grian: 3
+8: Etho: 2
+9: RentheKing: 2
+10: Docm77: 1
+11: Xisuma: 1
+12: Tango: 1
+13: cubfan135: 1
+14: hypnotizd: 1
+15: Zedaph: 1
+Total 316

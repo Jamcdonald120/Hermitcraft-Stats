@@ -1,0 +1,6 @@
+minecraft.dropped.orange_bed
+1: Keralis1: 6
+2: Tango: 2
+3: GoodTimeWithScar: 2
+4: iJevin: 1
+Total 11

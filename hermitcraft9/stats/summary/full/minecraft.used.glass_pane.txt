@@ -1,0 +1,22 @@
+minecraft.used.glass_pane
+1: Keralis1: 1510
+2: xBCrafted: 1193
+3: GoodTimeWithScar: 990
+4: impulseSV: 465
+5: hypnotizd: 187
+6: cubfan135: 184
+7: PearlescentMoon: 138
+8: Grian: 131
+9: joehillssays: 104
+10: iJevin: 100
+11: Xisuma: 88
+12: GeminiTay: 86
+13: VintageBeef: 80
+14: iskall85: 78
+15: Zedaph: 55
+16: Tango: 38
+17: ZombieCleo: 16
+18: Renthedog: 10
+19: BdoubleO100: 10
+20: Docm77: 4
+Total 5467

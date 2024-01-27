@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.green_glazed_terracotta
+1: GoodTimeWithScar: 15
+2: joehillssays: 4
+3: impulseSV: 1
+Total 20

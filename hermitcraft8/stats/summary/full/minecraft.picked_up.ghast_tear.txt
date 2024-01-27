@@ -1,0 +1,20 @@
+minecraft.picked_up.ghast_tear
+1: iJevin: 168
+2: Docm77: 130
+3: MumboJumbo: 129
+4: GoodTimeWithScar: 46
+5: Zedaph: 45
+6: PearlescentMoon: 18
+7: hypnotizd: 13
+8: impulseSV: 13
+9: Renthedog: 9
+10: Grian: 5
+11: GeminiTay: 3
+12: iskall85: 2
+13: falsesymmetry: 2
+14: cubfan135: 2
+15: Welsknight: 2
+16: Xisuma: 1
+17: Tango: 1
+18: xBCrafted: 1
+Total 590

@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.birch_stairs
+1: zueljin: 53
+2: xBCrafted: 38
+3: Biffa2001: 13
+4: Mumbo: 11
+5: Spumwackles: 8
+6: ZombieCleo: 3
+7: falsesymmetry: 1
+Total 127

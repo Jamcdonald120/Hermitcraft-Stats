@@ -1,0 +1,27 @@
+minecraft.mined.stone_stairs
+1: falsesymmetry: 528
+2: PearlescentMoon: 350
+3: Xisuma: 295
+4: Keralis1: 229
+5: iJevin: 199
+6: Tango: 197
+7: BdoubleO100: 182
+8: Grian: 180
+9: GeminiTay: 57
+10: cubfan135: 38
+11: iskall85: 32
+12: GoodTimeWithScar: 31
+13: Docm77: 29
+14: Renthedog: 28
+15: xBCrafted: 27
+16: ZombieCleo: 18
+17: MythicalSausage: 16
+18: VintageBeef: 14
+19: RentheKing: 13
+20: Smallishbeans: 11
+21: hypnotizd: 8
+22: Zedaph: 7
+23: joehillssays: 4
+24: impulseSV: 4
+25: Etho: 3
+Total 2500

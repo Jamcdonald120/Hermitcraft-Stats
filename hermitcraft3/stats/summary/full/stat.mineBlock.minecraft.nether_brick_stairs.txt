@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.nether_brick_stairs
+1: zueljin: 752
+2: Tango: 729
+3: xBCrafted: 282
+4: impulseSV: 252
+5: Etho: 226
+6: Xisuma: 187
+7: falsesymmetry: 122
+8: monkeyfarm: 13
+9: joehillssays: 9
+10: Biffa2001: 4
+11: Mumbo: 3
+12: PythonGB: 2
+Total 2581

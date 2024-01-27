@@ -1,0 +1,24 @@
+minecraft.dropped.golden_boots
+1: Xisuma: 221
+2: cubfan135: 144
+3: Tango: 96
+4: iJevin: 21
+5: GeminiTay: 16
+6: Zedaph: 11
+7: Keralis1: 10
+8: GoodTimeWithScar: 8
+9: VintageBeef: 7
+10: Docm77: 6
+11: Grian: 6
+12: ZombieCleo: 6
+13: impulseSV: 6
+14: PearlescentMoon: 5
+15: iskall85: 5
+16: Etho: 5
+17: Renthedog: 2
+18: hypnotizd: 2
+19: kingbdogz: 1
+20: joehillssays: 1
+21: xBCrafted: 1
+22: RentheKing: 1
+Total 581

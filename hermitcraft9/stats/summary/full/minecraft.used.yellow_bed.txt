@@ -1,0 +1,22 @@
+minecraft.used.yellow_bed
+1: Tango: 283
+2: impulseSV: 245
+3: ZombieCleo: 170
+4: Docm77: 71
+5: iJevin: 68
+6: GeminiTay: 40
+7: Keralis1: 39
+8: iskall85: 27
+9: Etho: 22
+10: Renthedog: 14
+11: PearlescentMoon: 13
+12: GoodTimeWithScar: 12
+13: Grian: 6
+14: VintageBeef: 3
+15: cubfan135: 3
+16: Stressmonster101: 3
+17: joehillssays: 2
+18: xBCrafted: 2
+19: Smajor1995: 1
+20: BdoubleO100: 1
+Total 1025

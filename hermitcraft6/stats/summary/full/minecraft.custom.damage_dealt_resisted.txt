@@ -1,0 +1,3 @@
+minecraft.custom.damage_dealt_resisted
+1: iskall85: 264
+Total 264

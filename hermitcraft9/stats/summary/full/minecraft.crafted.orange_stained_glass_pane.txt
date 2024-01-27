@@ -1,0 +1,15 @@
+minecraft.crafted.orange_stained_glass_pane
+1: PearlescentMoon: 576
+2: Renthedog: 464
+3: impulseSV: 384
+4: Grian: 64
+5: falsesymmetry: 64
+6: Xisuma: 48
+7: GoodTimeWithScar: 48
+8: Docm77: 32
+9: iJevin: 24
+10: Zedaph: 24
+11: BdoubleO100: 16
+12: cubfan135: 16
+13: Keralis1: 16
+Total 1776

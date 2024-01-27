@@ -1,0 +1,13 @@
+minecraft.picked_up.light_gray_banner
+1: Tango: 29
+2: Keralis1: 25
+3: impulseSV: 13
+4: GoodTimeWithScar: 10
+5: hypnotizd: 6
+6: Etho: 5
+7: Xisuma: 3
+8: xBCrafted: 3
+9: Grian: 2
+10: Zedaph: 2
+11: cubfan135: 1
+Total 99

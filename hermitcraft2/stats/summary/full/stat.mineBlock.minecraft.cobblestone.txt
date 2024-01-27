@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.cobblestone
+1: Xisuma: 4923
+2: iJevin: 2428
+3: falsesymmetry: 1262
+4: Spumwackles: 1075
+5: zueljin: 840
+6: Tango: 809
+7: ZombieCleo: 614
+8: xBCrafted: 537
+9: Biffa2001: 343
+10: Mumbo: 153
+11: Tinfoilchef: 145
+12: KingDaddyDMAC: 7
+13: monkeyfarm: 5
+14: sl1pg8r: 4
+15: Collen: 4
+Total 13149

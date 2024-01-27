@@ -1,0 +1,13 @@
+stat.mineBlock.minecraft.iron_block
+1: Xisuma: 1772
+2: Tango: 1312
+3: falsesymmetry: 774
+4: Mumbo: 772
+5: ZombieCleo: 530
+6: Spumwackles: 457
+7: zueljin: 334
+8: Biffa2001: 162
+9: iJevin: 121
+10: KingDaddyDMAC: 10
+11: NameOfSamuel: 6
+Total 6250

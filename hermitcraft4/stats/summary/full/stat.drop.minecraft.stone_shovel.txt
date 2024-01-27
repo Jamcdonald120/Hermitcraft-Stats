@@ -1,0 +1,4 @@
+stat.drop.minecraft.stone_shovel
+1: Renthedog: 6
+2: iskall85: 1
+Total 7

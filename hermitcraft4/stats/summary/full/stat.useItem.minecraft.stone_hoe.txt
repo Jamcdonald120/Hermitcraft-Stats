@@ -1,0 +1,18 @@
+stat.useItem.minecraft.stone_hoe
+1: Tinfoilchef: 1596
+2: impulseSV: 996
+3: Renthedog: 812
+4: joehillssays: 470
+5: iskall85: 445
+6: falsesymmetry: 290
+7: MumboJumbo: 179
+8: cubfan135: 152
+9: Docm77: 141
+10: VintageBeef: 59
+11: Welsknight: 43
+12: Xisuma: 40
+13: Tango: 27
+14: Etho: 26
+15: GoodTimeWithScar: 23
+16: Mumbo: 6
+Total 5305

@@ -1,0 +1,15 @@
+minecraft.picked_up.bamboo_block
+1: cubfan135: 240
+2: Grian: 237
+3: Docm77: 211
+4: GoodTimeWithScar: 47
+5: Keralis1: 23
+6: Xisuma: 13
+7: BdoubleO100: 12
+8: iskall85: 8
+9: falsesymmetry: 6
+10: Tango: 4
+11: Etho: 4
+12: PearlescentMoon: 3
+13: hypnotizd: 3
+Total 811

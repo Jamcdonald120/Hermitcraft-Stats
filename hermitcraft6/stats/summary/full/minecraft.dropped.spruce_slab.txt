@@ -1,0 +1,24 @@
+minecraft.dropped.spruce_slab
+1: GoodTimeWithScar: 813
+2: Renthedog: 431
+3: Grian: 366
+4: cubfan135: 200
+5: Stressmonster101: 66
+6: impulseSV: 64
+7: Keralis1: 60
+8: iJevin: 59
+9: BadTimeWithScar: 47
+10: iskall85: 46
+11: Docm77: 40
+12: Xisuma: 23
+13: MumboJumbo: 13
+14: PythonGB: 12
+15: falsesymmetry: 11
+16: Tango: 10
+17: ZombieCleo: 3
+18: Zedaph: 3
+19: Jura_Whitey: 2
+20: Biffa2001: 2
+21: BdoubleO100: 1
+22: Welsknight: 1
+Total 2273

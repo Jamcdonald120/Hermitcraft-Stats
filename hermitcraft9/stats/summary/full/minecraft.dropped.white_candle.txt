@@ -1,0 +1,4 @@
+minecraft.dropped.white_candle
+1: GoodTimeWithScar: 64
+2: Tango: 4
+Total 68

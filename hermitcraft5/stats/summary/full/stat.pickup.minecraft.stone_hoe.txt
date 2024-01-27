@@ -1,0 +1,17 @@
+stat.pickup.minecraft.stone_hoe
+1: falsesymmetry: 4
+2: Tango: 3
+3: cubfan135: 3
+4: VintageBeef: 2
+5: PythonGB: 2
+6: iskall85: 2
+7: MumboJumbo: 2
+8: GoodTimeWithScar: 2
+9: Xisuma: 1
+10: iJevin: 1
+11: BdoubleO100: 1
+12: xBCrafted: 1
+13: Welsknight: 1
+14: Tinfoilchef: 1
+15: impulseSV: 1
+Total 27

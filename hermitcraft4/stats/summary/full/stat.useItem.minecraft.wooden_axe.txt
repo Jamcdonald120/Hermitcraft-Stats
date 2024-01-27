@@ -1,0 +1,11 @@
+stat.useItem.minecraft.wooden_axe
+1: Jessassin: 282
+2: GoodTimeWithScar: 100
+3: Tinfoilchef: 77
+4: PythonGB: 60
+5: Tango: 56
+6: iskall85: 56
+7: cubfan135: 22
+8: Xisuma: 7
+9: Renthedog: 6
+Total 666

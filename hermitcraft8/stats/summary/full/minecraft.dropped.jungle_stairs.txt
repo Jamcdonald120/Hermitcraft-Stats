@@ -1,0 +1,6 @@
+minecraft.dropped.jungle_stairs
+1: GoodTimeWithScar: 40
+2: PearlescentMoon: 2
+3: Keralis1: 2
+4: Etho: 1
+Total 45

@@ -1,0 +1,14 @@
+minecraft.picked_up.light_blue_stained_glass
+1: Zedaph: 1360
+2: Renthedog: 159
+3: Docm77: 122
+4: iskall85: 47
+5: Tango: 9
+6: Grian: 5
+7: falsesymmetry: 5
+8: Welsknight: 5
+9: PearlescentMoon: 3
+10: impulseSV: 3
+11: iJevin: 1
+12: Etho: 1
+Total 1720

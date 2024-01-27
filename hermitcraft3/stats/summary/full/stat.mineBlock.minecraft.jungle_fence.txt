@@ -1,0 +1,10 @@
+stat.mineBlock.minecraft.jungle_fence
+1: iJevin: 366
+2: Xisuma: 72
+3: topmass: 10
+4: xBCrafted: 7
+5: impulseSV: 6
+6: falsesymmetry: 4
+7: zueljin: 2
+8: Mumbo: 2
+Total 469

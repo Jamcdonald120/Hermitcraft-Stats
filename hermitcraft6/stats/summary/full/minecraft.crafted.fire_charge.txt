@@ -1,0 +1,7 @@
+minecraft.crafted.fire_charge
+1: cubfan135: 7230
+2: Tango: 6957
+3: GoodTimeWithScar: 972
+4: MumboJumbo: 108
+5: PythonGB: 3
+Total 15270

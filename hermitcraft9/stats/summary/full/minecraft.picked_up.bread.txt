@@ -1,0 +1,23 @@
+minecraft.picked_up.bread
+1: Tango: 3779
+2: impulseSV: 1256
+3: iJevin: 1032
+4: Keralis1: 963
+5: Xisuma: 916
+6: Grian: 767
+7: Zedaph: 480
+8: Docm77: 442
+9: GeminiTay: 370
+10: joehillssays: 275
+11: Etho: 248
+12: cubfan135: 185
+13: Stressmonster101: 130
+14: Renthedog: 103
+15: PearlescentMoon: 87
+16: falsesymmetry: 56
+17: hypnotizd: 39
+18: RentheKing: 32
+19: VintageBeef: 16
+20: iskall85: 8
+21: xBCrafted: 1
+Total 11185

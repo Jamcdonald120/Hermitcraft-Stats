@@ -1,0 +1,16 @@
+minecraft.dropped.iron_door
+1: iskall85: 62
+2: Grian: 25
+3: cubfan135: 24
+4: GoodTimeWithScar: 15
+5: Xisuma: 10
+6: impulseSV: 7
+7: Renthedog: 5
+8: Tango: 4
+9: MumboJumbo: 4
+10: ZombieCleo: 3
+11: falsesymmetry: 2
+12: Welsknight: 2
+13: Docm77: 1
+14: Zedaph: 1
+Total 165

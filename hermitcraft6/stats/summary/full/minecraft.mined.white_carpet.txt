@@ -1,0 +1,24 @@
+minecraft.mined.white_carpet
+1: iJevin: 580
+2: impulseSV: 346
+3: falsesymmetry: 236
+4: Grian: 168
+5: GoodTimeWithScar: 160
+6: Xisuma: 149
+7: cubfan135: 149
+8: iskall85: 141
+9: Docm77: 124
+10: Renthedog: 90
+11: Welsknight: 65
+12: Stressmonster101: 53
+13: Tinfoilchef: 43
+14: ZombieCleo: 34
+15: MumboJumbo: 31
+16: Biffa2001: 26
+17: BdoubleO100: 17
+18: PythonGB: 16
+19: Tango: 14
+20: joehillssays: 9
+21: xBCrafted: 9
+22: Keralis1: 4
+Total 2464

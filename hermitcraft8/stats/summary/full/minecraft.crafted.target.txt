@@ -1,0 +1,16 @@
+minecraft.crafted.target
+1: Xisuma: 321
+2: impulseSV: 277
+3: Zedaph: 72
+4: hypnotizd: 64
+5: cubfan135: 43
+6: Etho: 36
+7: MumboJumbo: 23
+8: GoodTimeWithScar: 22
+9: Docm77: 15
+10: ZombieCleo: 9
+11: PearlescentMoon: 5
+12: Tango: 1
+13: BdoubleO100: 1
+14: falsesymmetry: 1
+Total 890

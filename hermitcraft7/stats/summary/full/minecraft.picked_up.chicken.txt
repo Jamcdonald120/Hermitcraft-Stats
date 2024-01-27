@@ -1,0 +1,25 @@
+minecraft.picked_up.chicken
+1: VintageBeef: 1225
+2: Zedaph: 1136
+3: Tango: 1085
+4: Grian: 1022
+5: joehillssays: 601
+6: Xisuma: 584
+7: cubfan135: 105
+8: impulseSV: 55
+9: hypnotizd: 51
+10: Stressmonster101: 49
+11: iskall85: 39
+12: xBCrafted: 38
+13: falsesymmetry: 38
+14: GoodTimeWithScar: 35
+15: Keralis1: 29
+16: BdoubleO100: 19
+17: Etho: 19
+18: MumboJumbo: 19
+19: Docm77: 17
+20: iJevin: 16
+21: Renthedog: 14
+22: ZombieCleo: 13
+23: Tinfoilchef: 4
+Total 6213

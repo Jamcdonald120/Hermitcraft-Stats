@@ -1,0 +1,12 @@
+minecraft.picked_up.yellow_dye
+1: Etho: 205
+2: Tango: 138
+3: Grian: 92
+4: ZombieCleo: 48
+5: PearlescentMoon: 32
+6: falsesymmetry: 12
+7: MumboJumbo: 11
+8: Zedaph: 4
+9: xBCrafted: 3
+10: Welsknight: 2
+Total 547

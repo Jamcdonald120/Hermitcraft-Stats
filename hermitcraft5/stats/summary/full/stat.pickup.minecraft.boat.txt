@@ -1,0 +1,26 @@
+stat.pickup.minecraft.boat
+1: xBCrafted: 680
+2: Zedaph: 115
+3: cubfan135: 107
+4: ZombieCleo: 69
+5: impulseSV: 64
+6: Xisuma: 63
+7: Tango: 47
+8: falsesymmetry: 36
+9: Welsknight: 31
+10: iskall85: 30
+11: iJevin: 19
+12: Renthedog: 18
+13: joehillssays: 16
+14: PythonGB: 10
+15: Etho: 10
+16: VintageBeef: 7
+17: BdoubleO100: 7
+18: Biffa2001: 6
+19: MumboJumbo: 6
+20: GoodTimeWithScar: 4
+21: Tinfoilchef: 3
+22: Stressmonster101: 3
+23: Docm77: 2
+24: xisumavoid: 1
+Total 1354

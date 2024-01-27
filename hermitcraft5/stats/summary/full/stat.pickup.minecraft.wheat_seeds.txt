@@ -1,0 +1,25 @@
+stat.pickup.minecraft.wheat_seeds
+1: impulseSV: 19708
+2: cubfan135: 17493
+3: GoodTimeWithScar: 14114
+4: Tango: 11346
+5: Xisuma: 10231
+6: MumboJumbo: 9673
+7: joehillssays: 7355
+8: falsesymmetry: 7238
+9: iJevin: 5482
+10: Tinfoilchef: 5385
+11: Welsknight: 5003
+12: ZombieCleo: 4672
+13: Zedaph: 4629
+14: Stressmonster101: 4571
+15: PythonGB: 4106
+16: xBCrafted: 3499
+17: BdoubleO100: 2814
+18: Renthedog: 2424
+19: Biffa2001: 1450
+20: Etho: 1448
+21: iskall85: 1137
+22: Docm77: 850
+23: VintageBeef: 136
+Total 144764

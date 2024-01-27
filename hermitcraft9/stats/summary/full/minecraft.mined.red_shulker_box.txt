@@ -1,0 +1,36 @@
+minecraft.mined.red_shulker_box
+1: Tango: 1936
+2: joehillssays: 1412
+3: GoodTimeWithScar: 981
+4: PearlescentMoon: 962
+5: cubfan135: 800
+6: Xisuma: 671
+7: Etho: 554
+8: iJevin: 535
+9: hypnotizd: 535
+10: Docm77: 449
+11: impulseSV: 449
+12: falsesymmetry: 444
+13: Renthedog: 435
+14: BdoubleO100: 396
+15: xBCrafted: 250
+16: Keralis1: 194
+17: iskall85: 190
+18: ZombieCleo: 189
+19: Zedaph: 167
+20: MythicalSausage: 104
+21: RentheKing: 93
+22: Stressmonster101: 77
+23: Mumbo: 61
+24: VintageBeef: 51
+25: Grian: 34
+26: Smallishbeans: 25
+27: GeminiTay: 14
+28: SolidarityGaming: 14
+29: HBomb94: 11
+30: Pixlriffs: 7
+31: Skizzleman: 2
+32: kingbdogz: 1
+33: OrionSound: 1
+34: slicedlime: 1
+Total 12045

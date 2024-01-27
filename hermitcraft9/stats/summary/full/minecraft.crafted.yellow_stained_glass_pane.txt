@@ -1,0 +1,16 @@
+minecraft.crafted.yellow_stained_glass_pane
+1: joehillssays: 912
+2: falsesymmetry: 464
+3: RentheKing: 376
+4: PearlescentMoon: 208
+5: MythicalSausage: 80
+6: Grian: 80
+7: Tango: 64
+8: BdoubleO100: 40
+9: Xisuma: 32
+10: GoodTimeWithScar: 32
+11: Zedaph: 24
+12: Keralis1: 16
+13: iJevin: 8
+14: cubfan135: 8
+Total 2344

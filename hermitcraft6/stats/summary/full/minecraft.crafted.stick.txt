@@ -1,0 +1,31 @@
+minecraft.crafted.stick
+1: GoodTimeWithScar: 82128
+2: cubfan135: 37294
+3: Grian: 34467
+4: Xisuma: 27330
+5: iskall85: 24768
+6: Renthedog: 23748
+7: falsesymmetry: 22001
+8: iJevin: 16484
+9: Stressmonster101: 13900
+10: impulseSV: 12277
+11: Docm77: 10916
+12: Tinfoilchef: 9994
+13: ZombieCleo: 9864
+14: Tango: 9300
+15: Welsknight: 9072
+16: MumboJumbo: 8712
+17: joehillssays: 8308
+18: BdoubleO100: 4964
+19: Biffa2001: 3955
+20: Zedaph: 3368
+21: Keralis1: 2976
+22: PythonGB: 2804
+23: HumanCleo: 1708
+24: xBCrafted: 624
+25: Jura_Whitey: 322
+26: Jessassin: 224
+27: tterrag: 108
+28: EvilXisuma: 48
+29: PokePugx: 24
+Total 381688

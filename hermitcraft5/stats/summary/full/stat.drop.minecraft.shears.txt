@@ -1,0 +1,18 @@
+stat.drop.minecraft.shears
+1: GoodTimeWithScar: 110
+2: Xisuma: 87
+3: Tango: 25
+4: falsesymmetry: 18
+5: cubfan135: 13
+6: iskall85: 9
+7: MumboJumbo: 9
+8: xBCrafted: 4
+9: Stressmonster101: 4
+10: BdoubleO100: 3
+11: impulseSV: 3
+12: Renthedog: 2
+13: iJevin: 2
+14: Welsknight: 2
+15: Docm77: 1
+16: Biffa2001: 1
+Total 293

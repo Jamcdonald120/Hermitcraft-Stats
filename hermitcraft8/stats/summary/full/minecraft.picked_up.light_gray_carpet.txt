@@ -1,0 +1,17 @@
+minecraft.picked_up.light_gray_carpet
+1: falsesymmetry: 371
+2: GoodTimeWithScar: 360
+3: Grian: 214
+4: iJevin: 189
+5: Tango: 47
+6: Docm77: 32
+7: impulseSV: 32
+8: Welsknight: 26
+9: MumboJumbo: 7
+10: GeminiTay: 4
+11: Renthedog: 3
+12: hypnotizd: 3
+13: Xisuma: 1
+14: PearlescentMoon: 1
+15: cubfan135: 1
+Total 1291

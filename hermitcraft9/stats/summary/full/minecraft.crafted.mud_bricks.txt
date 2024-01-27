@@ -1,0 +1,23 @@
+minecraft.crafted.mud_bricks
+1: Keralis1: 5028
+2: ZombieCleo: 2872
+3: PearlescentMoon: 2780
+4: Xisuma: 1728
+5: xBCrafted: 1152
+6: Etho: 952
+7: cubfan135: 504
+8: joehillssays: 468
+9: Docm77: 412
+10: impulseSV: 400
+11: Grian: 356
+12: Tango: 308
+13: Renthedog: 252
+14: falsesymmetry: 176
+15: iJevin: 104
+16: MythicalSausage: 64
+17: GeminiTay: 48
+18: BdoubleO100: 48
+19: GoodTimeWithScar: 24
+20: Zedaph: 8
+21: Stressmonster101: 4
+Total 17688

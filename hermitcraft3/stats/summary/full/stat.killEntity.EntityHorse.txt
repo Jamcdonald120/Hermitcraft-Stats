@@ -1,0 +1,6 @@
+stat.killEntity.EntityHorse
+1: Xisuma: 9
+2: xBCrafted: 3
+3: falsesymmetry: 1
+4: monkeyfarm: 1
+Total 14

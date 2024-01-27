@@ -1,0 +1,26 @@
+minecraft.used.netherite_pickaxe
+1: impulseSV: 1095885
+2: iJevin: 1063414
+3: cubfan135: 647654
+4: Xisuma: 553027
+5: Docm77: 435762
+6: PearlescentMoon: 358573
+7: Renthedog: 307415
+8: xBCrafted: 263865
+9: joehillssays: 221143
+10: ZombieCleo: 194919
+11: Keralis1: 118353
+12: hypnotizd: 98402
+13: Zedaph: 86368
+14: Etho: 60098
+15: iskall85: 56456
+16: GeminiTay: 29495
+17: Grian: 11829
+18: Pixlriffs: 6210
+19: MythicalSausage: 1598
+20: Smajor1995: 136
+21: RentheKing: 4
+22: falsesymmetry: 3
+23: Tango: 2
+24: GoodTimeWithScar: 2
+Total 5610613

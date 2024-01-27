@@ -1,0 +1,19 @@
+minecraft.picked_up.soul_torch
+1: GoodTimeWithScar: 244
+2: cubfan135: 184
+3: Tango: 119
+4: falsesymmetry: 86
+5: joehillssays: 76
+6: xBCrafted: 35
+7: Stressmonster101: 21
+8: Xisuma: 9
+9: BdoubleO100: 9
+10: Grian: 3
+11: hypnotizd: 3
+12: iskall85: 2
+13: Etho: 2
+14: Renthedog: 1
+15: VintageBeef: 1
+16: Welsknight: 1
+17: Zedaph: 1
+Total 797

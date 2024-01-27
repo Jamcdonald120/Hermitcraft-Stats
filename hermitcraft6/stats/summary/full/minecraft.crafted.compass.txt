@@ -1,0 +1,22 @@
+minecraft.crafted.compass
+1: Grian: 963
+2: cubfan135: 575
+3: iskall85: 257
+4: GoodTimeWithScar: 169
+5: Welsknight: 106
+6: Tango: 65
+7: Docm77: 58
+8: iJevin: 37
+9: Xisuma: 31
+10: joehillssays: 25
+11: PythonGB: 12
+12: Renthedog: 10
+13: Biffa2001: 10
+14: impulseSV: 10
+15: ZombieCleo: 7
+16: BdoubleO100: 6
+17: falsesymmetry: 5
+18: MumboJumbo: 3
+19: Stressmonster101: 1
+20: Zedaph: 1
+Total 2351

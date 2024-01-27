@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.birch_fence
+1: Renthedog: 3513
+2: xBCrafted: 414
+3: PythonGB: 402
+4: Biffa2001: 150
+5: Tango: 105
+6: cubfan135: 96
+7: Xisuma: 93
+8: ZombieCleo: 90
+9: impulseSV: 45
+10: joehillssays: 27
+11: VintageBeef: 24
+12: Stressmonster101: 18
+13: BdoubleO100: 15
+14: MumboJumbo: 15
+15: Zedaph: 15
+16: falsesymmetry: 12
+17: iJevin: 3
+Total 5037

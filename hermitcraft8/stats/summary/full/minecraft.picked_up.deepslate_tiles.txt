@@ -1,0 +1,26 @@
+minecraft.picked_up.deepslate_tiles
+1: Zedaph: 1225
+2: Docm77: 1141
+3: xBCrafted: 831
+4: Renthedog: 637
+5: joehillssays: 585
+6: Stressmonster101: 535
+7: PearlescentMoon: 507
+8: impulseSV: 498
+9: Grian: 300
+10: VintageBeef: 225
+11: hypnotizd: 195
+12: Xisuma: 193
+13: ZombieCleo: 174
+14: GoodTimeWithScar: 143
+15: iskall85: 140
+16: Keralis1: 112
+17: Welsknight: 100
+18: iJevin: 98
+19: cubfan135: 80
+20: BdoubleO100: 45
+21: GeminiTay: 18
+22: Etho: 17
+23: EvilXisuma: 13
+24: Tango: 6
+Total 7818

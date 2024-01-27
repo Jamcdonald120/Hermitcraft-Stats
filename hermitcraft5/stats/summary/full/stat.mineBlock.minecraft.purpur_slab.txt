@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.purpur_slab
+1: cubfan135: 359
+2: Xisuma: 79
+3: Tinfoilchef: 55
+4: iskall85: 37
+5: MumboJumbo: 27
+6: impulseSV: 24
+7: GoodTimeWithScar: 21
+8: joehillssays: 18
+9: Tango: 16
+10: falsesymmetry: 15
+11: Welsknight: 15
+12: PythonGB: 14
+13: Renthedog: 10
+14: Zedaph: 9
+15: iJevin: 4
+16: xBCrafted: 1
+17: Biffa2001: 1
+Total 705

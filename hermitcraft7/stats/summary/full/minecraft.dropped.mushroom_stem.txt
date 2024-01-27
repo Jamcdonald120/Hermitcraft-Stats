@@ -1,0 +1,15 @@
+minecraft.dropped.mushroom_stem
+1: Zedaph: 9004
+2: cubfan135: 166
+3: GoodTimeWithScar: 101
+4: BdoubleO100: 31
+5: Grian: 13
+6: Tango: 8
+7: iskall85: 5
+8: Docm77: 1
+9: Xisuma: 1
+10: Renthedog: 1
+11: iJevin: 1
+12: xBCrafted: 1
+13: Etho: 1
+Total 9334

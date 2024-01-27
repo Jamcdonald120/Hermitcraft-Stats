@@ -1,0 +1,8 @@
+minecraft.crafted.lime_wool
+1: iJevin: 55
+2: impulseSV: 10
+3: GoodTimeWithScar: 6
+4: falsesymmetry: 4
+5: Zedaph: 2
+6: Welsknight: 1
+Total 78

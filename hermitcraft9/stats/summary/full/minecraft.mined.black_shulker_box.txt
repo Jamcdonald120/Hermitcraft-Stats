@@ -1,0 +1,31 @@
+minecraft.mined.black_shulker_box
+1: PearlescentMoon: 963
+2: Tango: 701
+3: joehillssays: 602
+4: GoodTimeWithScar: 539
+5: Xisuma: 382
+6: VintageBeef: 316
+7: hypnotizd: 206
+8: BdoubleO100: 203
+9: Renthedog: 201
+10: xBCrafted: 199
+11: Etho: 147
+12: Zedaph: 98
+13: falsesymmetry: 95
+14: Docm77: 64
+15: impulseSV: 63
+16: MythicalSausage: 61
+17: RentheKing: 61
+18: Grian: 40
+19: cubfan135: 37
+20: Keralis1: 24
+21: iJevin: 19
+22: GeminiTay: 13
+23: Stressmonster101: 13
+24: Mumbo: 12
+25: iskall85: 10
+26: Pixlriffs: 4
+27: Welsknight: 2
+28: ZombieCleo: 1
+29: Tinfoilchef: 1
+Total 5077

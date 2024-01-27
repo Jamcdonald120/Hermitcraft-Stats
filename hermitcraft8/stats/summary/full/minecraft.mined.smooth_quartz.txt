@@ -1,0 +1,16 @@
+minecraft.mined.smooth_quartz
+1: PearlescentMoon: 97
+2: impulseSV: 85
+3: Grian: 61
+4: Welsknight: 58
+5: GoodTimeWithScar: 36
+6: GeminiTay: 33
+7: Keralis1: 26
+8: Tango: 22
+9: Zedaph: 19
+10: xBCrafted: 8
+11: VintageBeef: 2
+12: iJevin: 2
+13: cubfan135: 2
+14: ZombieCleo: 1
+Total 452

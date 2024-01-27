@@ -1,0 +1,13 @@
+minecraft.picked_up.cyan_banner
+1: cubfan135: 23
+2: Grian: 17
+3: falsesymmetry: 9
+4: Xisuma: 5
+5: BdoubleO100: 5
+6: ZombieCleo: 5
+7: GoodTimeWithScar: 4
+8: HumanCleo: 3
+9: iskall85: 3
+10: MumboJumbo: 2
+11: Welsknight: 1
+Total 77

@@ -1,0 +1,13 @@
+minecraft.picked_up.nether_brick_stairs
+1: Xisuma: 46
+2: iJevin: 35
+3: Tango: 30
+4: Keralis1: 7
+5: GoodTimeWithScar: 5
+6: Zedaph: 4
+7: iskall85: 3
+8: cubfan135: 3
+9: Docm77: 2
+10: BdoubleO100: 2
+11: impulseSV: 1
+Total 138

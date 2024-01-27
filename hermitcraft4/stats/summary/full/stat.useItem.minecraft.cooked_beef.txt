@@ -1,0 +1,23 @@
+stat.useItem.minecraft.cooked_beef
+1: falsesymmetry: 7617
+2: GoodTimeWithScar: 5518
+3: iskall85: 5031
+4: Renthedog: 3141
+5: Xisuma: 2790
+6: joehillssays: 2035
+7: Tinfoilchef: 1984
+8: Tango: 868
+9: cubfan135: 827
+10: Docm77: 809
+11: Etho: 742
+12: iJevin: 706
+13: PythonGB: 650
+14: impulseSV: 552
+15: VintageBeef: 526
+16: Biffa2001: 311
+17: Welsknight: 309
+18: MumboJumbo: 307
+19: xBCrafted: 27
+20: WellsGlazes: 10
+21: zueljin: 6
+Total 34766

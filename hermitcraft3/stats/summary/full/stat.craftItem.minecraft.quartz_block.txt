@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.quartz_block
+1: sl1pg8r: 5690
+2: falsesymmetry: 3253
+3: Tango: 2598
+4: Xisuma: 2500
+5: impulseSV: 2477
+6: PythonGB: 1512
+7: ZombieCleo: 1175
+8: Mumbo: 892
+9: joehillssays: 686
+10: Biffa2001: 536
+11: xBCrafted: 508
+12: zueljin: 431
+13: Spumwackles: 262
+14: topmass: 144
+15: KingDaddyDMAC: 114
+16: iJevin: 100
+17: monkeyfarm: 83
+18: Tinfoilchef: 43
+Total 23004

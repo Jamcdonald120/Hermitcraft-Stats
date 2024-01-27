@@ -1,0 +1,15 @@
+minecraft.dropped.chain
+1: falsesymmetry: 57
+2: GoodTimeWithScar: 45
+3: Stressmonster101: 27
+4: Docm77: 15
+5: Grian: 15
+6: iJevin: 13
+7: joehillssays: 12
+8: Xisuma: 11
+9: hypnotizd: 6
+10: Tango: 3
+11: impulseSV: 3
+12: BdoubleO100: 2
+13: PearlescentMoon: 2
+Total 211

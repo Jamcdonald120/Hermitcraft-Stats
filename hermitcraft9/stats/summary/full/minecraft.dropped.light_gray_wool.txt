@@ -1,0 +1,16 @@
+minecraft.dropped.light_gray_wool
+1: falsesymmetry: 2177
+2: Renthedog: 606
+3: iJevin: 314
+4: BdoubleO100: 241
+5: GoodTimeWithScar: 172
+6: Grian: 61
+7: impulseSV: 57
+8: Keralis1: 43
+9: Tango: 8
+10: Etho: 7
+11: VintageBeef: 2
+12: Xisuma: 1
+13: cubfan135: 1
+14: ZombieCleo: 1
+Total 3691

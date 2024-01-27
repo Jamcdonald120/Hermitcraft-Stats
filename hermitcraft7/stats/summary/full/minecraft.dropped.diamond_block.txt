@@ -1,0 +1,23 @@
+minecraft.dropped.diamond_block
+1: Grian: 349
+2: iskall85: 337
+3: MumboJumbo: 316
+4: cubfan135: 264
+5: Keralis1: 246
+6: Tango: 217
+7: Xisuma: 163
+8: Docm77: 141
+9: GoodTimeWithScar: 132
+10: BdoubleO100: 106
+11: VintageBeef: 88
+12: iJevin: 73
+13: xBCrafted: 70
+14: Renthedog: 67
+15: impulseSV: 54
+16: Etho: 38
+17: ZombieCleo: 35
+18: Welsknight: 5
+19: hypnotizd: 2
+20: joehillssays: 1
+21: Zedaph: 1
+Total 2705

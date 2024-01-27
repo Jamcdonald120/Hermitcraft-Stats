@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.leather_helmet
+1: falsesymmetry: 110
+2: Biffa2001: 97
+3: Mumbo: 10
+4: xBCrafted: 9
+5: KingDaddyDMAC: 3
+6: zueljin: 2
+7: ZombieCleo: 2
+Total 233

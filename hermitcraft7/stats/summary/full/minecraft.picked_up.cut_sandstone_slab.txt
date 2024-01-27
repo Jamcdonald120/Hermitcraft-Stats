@@ -1,0 +1,16 @@
+minecraft.picked_up.cut_sandstone_slab
+1: cubfan135: 358
+2: Grian: 251
+3: Welsknight: 173
+4: GoodTimeWithScar: 173
+5: VintageBeef: 152
+6: Renthedog: 123
+7: BdoubleO100: 105
+8: impulseSV: 22
+9: joehillssays: 18
+10: Xisuma: 17
+11: Etho: 15
+12: Keralis1: 12
+13: MumboJumbo: 11
+14: iskall85: 9
+Total 1439

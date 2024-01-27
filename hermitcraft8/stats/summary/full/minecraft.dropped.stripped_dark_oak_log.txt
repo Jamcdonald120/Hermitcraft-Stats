@@ -1,0 +1,8 @@
+minecraft.dropped.stripped_dark_oak_log
+1: BdoubleO100: 25
+2: GoodTimeWithScar: 21
+3: falsesymmetry: 6
+4: Etho: 4
+5: Grian: 1
+6: PearlescentMoon: 1
+Total 58

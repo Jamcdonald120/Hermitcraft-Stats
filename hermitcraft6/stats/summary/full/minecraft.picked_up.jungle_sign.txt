@@ -1,0 +1,10 @@
+minecraft.picked_up.jungle_sign
+1: Xisuma: 44
+2: cubfan135: 35
+3: HumanCleo: 33
+4: Jura_Whitey: 10
+5: Tinfoilchef: 7
+6: Grian: 5
+7: iskall85: 4
+8: Tango: 2
+Total 140

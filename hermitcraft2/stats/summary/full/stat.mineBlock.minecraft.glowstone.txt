@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.glowstone
+1: Tango: 323
+2: Spumwackles: 185
+3: ZombieCleo: 164
+4: sl1pg8r: 130
+5: zueljin: 39
+6: falsesymmetry: 35
+7: iJevin: 34
+8: Xisuma: 16
+9: Biffa2001: 2
+10: Tinfoilchef: 1
+Total 929

@@ -1,0 +1,28 @@
+minecraft.mined.dirt_path
+1: GoodTimeWithScar: 1695
+2: cubfan135: 1656
+3: PearlescentMoon: 1240
+4: joehillssays: 1057
+5: Renthedog: 441
+6: GeminiTay: 430
+7: BdoubleO100: 423
+8: falsesymmetry: 382
+9: Keralis1: 346
+10: Etho: 340
+11: Grian: 241
+12: Docm77: 199
+13: hypnotizd: 194
+14: xBCrafted: 171
+15: Xisuma: 138
+16: Tango: 118
+17: MumboJumbo: 106
+18: iJevin: 59
+19: Stressmonster101: 27
+20: Zedaph: 24
+21: impulseSV: 21
+22: Tinfoilchef: 20
+23: ZombieCleo: 17
+24: VintageBeef: 10
+25: Welsknight: 10
+26: iskall85: 9
+Total 9374

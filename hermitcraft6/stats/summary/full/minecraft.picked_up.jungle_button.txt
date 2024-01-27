@@ -1,0 +1,10 @@
+minecraft.picked_up.jungle_button
+1: cubfan135: 71
+2: falsesymmetry: 64
+3: Xisuma: 29
+4: MumboJumbo: 4
+5: Docm77: 2
+6: GoodTimeWithScar: 2
+7: Zedaph: 2
+8: impulseSV: 1
+Total 175

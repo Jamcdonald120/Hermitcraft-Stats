@@ -1,0 +1,23 @@
+minecraft.picked_up.prismarine
+1: GeminiTay: 3198
+2: Stressmonster101: 1865
+3: cubfan135: 1541
+4: iJevin: 1028
+5: joehillssays: 663
+6: falsesymmetry: 567
+7: iskall85: 453
+8: Grian: 358
+9: Xisuma: 159
+10: PearlescentMoon: 141
+11: Etho: 98
+12: ZombieCleo: 83
+13: impulseSV: 83
+14: BdoubleO100: 82
+15: Renthedog: 61
+16: xBCrafted: 27
+17: hypnotizd: 24
+18: Zedaph: 15
+19: VintageBeef: 5
+20: GoodTimeWithScar: 2
+21: Pixlriffs: 1
+Total 10454

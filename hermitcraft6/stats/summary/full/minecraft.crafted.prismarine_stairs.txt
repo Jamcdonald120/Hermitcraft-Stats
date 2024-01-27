@@ -1,0 +1,10 @@
+minecraft.crafted.prismarine_stairs
+1: falsesymmetry: 472
+2: cubfan135: 468
+3: iskall85: 176
+4: iJevin: 120
+5: Renthedog: 72
+6: Xisuma: 40
+7: Stressmonster101: 28
+8: GoodTimeWithScar: 12
+Total 1388

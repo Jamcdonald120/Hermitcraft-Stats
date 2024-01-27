@@ -1,0 +1,20 @@
+minecraft.custom.damage_absorbed
+1: impulseSV: 1562
+2: Tango: 950
+3: GoodTimeWithScar: 686
+4: Keralis1: 686
+5: Xisuma: 676
+6: joehillssays: 588
+7: iskall85: 488
+8: iJevin: 430
+9: Etho: 428
+10: Grian: 347
+11: Renthedog: 300
+12: falsesymmetry: 271
+13: cubfan135: 270
+14: MumboJumbo: 239
+15: VintageBeef: 200
+16: BdoubleO100: 80
+17: Docm77: 78
+18: Stressmonster101: 42
+Total 8321

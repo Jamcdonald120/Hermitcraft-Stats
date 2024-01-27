@@ -1,0 +1,20 @@
+minecraft.crafted.glowstone
+1: Xisuma: 6084
+2: MumboJumbo: 4322
+3: iskall85: 3952
+4: Grian: 2171
+5: impulseSV: 1597
+6: Renthedog: 525
+7: GoodTimeWithScar: 456
+8: Docm77: 428
+9: cubfan135: 215
+10: joehillssays: 126
+11: ZombieCleo: 79
+12: iJevin: 72
+13: PythonGB: 48
+14: Stressmonster101: 47
+15: Tinfoilchef: 33
+16: Welsknight: 20
+17: falsesymmetry: 5
+18: Tango: 1
+Total 20181

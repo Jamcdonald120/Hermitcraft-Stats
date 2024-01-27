@@ -1,0 +1,8 @@
+minecraft.dropped.nether_brick_wall
+1: Zedaph: 1044
+2: cubfan135: 155
+3: Etho: 56
+4: Tango: 17
+5: Grian: 12
+6: Renthedog: 7
+Total 1291

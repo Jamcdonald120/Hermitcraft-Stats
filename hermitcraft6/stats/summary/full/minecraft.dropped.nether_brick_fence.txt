@@ -1,0 +1,9 @@
+minecraft.dropped.nether_brick_fence
+1: iskall85: 98
+2: Tango: 66
+3: Zedaph: 30
+4: MumboJumbo: 21
+5: cubfan135: 8
+6: Xisuma: 4
+7: Grian: 1
+Total 228

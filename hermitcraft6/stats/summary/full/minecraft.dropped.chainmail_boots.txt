@@ -1,0 +1,16 @@
+minecraft.dropped.chainmail_boots
+1: Xisuma: 30
+2: iskall85: 16
+3: cubfan135: 15
+4: iJevin: 7
+5: GoodTimeWithScar: 6
+6: Zedaph: 6
+7: Tango: 4
+8: Docm77: 3
+9: PythonGB: 2
+10: impulseSV: 2
+11: Renthedog: 1
+12: Grian: 1
+13: falsesymmetry: 1
+14: Keralis1: 1
+Total 95

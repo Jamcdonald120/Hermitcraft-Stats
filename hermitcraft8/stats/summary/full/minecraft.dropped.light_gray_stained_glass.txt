@@ -1,0 +1,10 @@
+minecraft.dropped.light_gray_stained_glass
+1: GoodTimeWithScar: 56
+2: Grian: 49
+3: impulseSV: 32
+4: iJevin: 24
+5: Etho: 22
+6: falsesymmetry: 7
+7: BdoubleO100: 6
+8: iskall85: 2
+Total 198

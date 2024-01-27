@@ -1,0 +1,17 @@
+minecraft.dropped.spruce_leaves
+1: Zedaph: 1035
+2: GoodTimeWithScar: 632
+3: Etho: 446
+4: Grian: 424
+5: Keralis1: 359
+6: joehillssays: 99
+7: Tango: 71
+8: Docm77: 48
+9: cubfan135: 48
+10: hypnotizd: 42
+11: BdoubleO100: 21
+12: Xisuma: 4
+13: MumboJumbo: 4
+14: Renthedog: 3
+15: VintageBeef: 1
+Total 3237

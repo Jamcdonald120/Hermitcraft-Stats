@@ -1,0 +1,28 @@
+minecraft.mined.stone_bricks
+1: iJevin: 24682
+2: Xisuma: 2950
+3: iskall85: 2130
+4: cubfan135: 1986
+5: impulseSV: 1752
+6: Tango: 1447
+7: Etho: 1304
+8: hypnotizd: 1190
+9: GeminiTay: 629
+10: falsesymmetry: 538
+11: Renthedog: 374
+12: Docm77: 332
+13: PearlescentMoon: 319
+14: Grian: 302
+15: Stressmonster101: 253
+16: Mumbo: 232
+17: ZombieCleo: 181
+18: Keralis1: 170
+19: xBCrafted: 163
+20: BdoubleO100: 130
+21: Zedaph: 107
+22: GoodTimeWithScar: 106
+23: VintageBeef: 96
+24: MythicalSausage: 26
+25: Pixlriffs: 22
+26: RentheKing: 6
+Total 41427

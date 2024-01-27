@@ -1,0 +1,11 @@
+stat.useItem.minecraft.purpur_pillar
+1: Renthedog: 915
+2: Welsknight: 215
+3: Xisuma: 197
+4: iskall85: 195
+5: cubfan135: 157
+6: Tango: 154
+7: PythonGB: 60
+8: iJevin: 19
+9: falsesymmetry: 2
+Total 1914

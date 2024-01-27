@@ -1,0 +1,5 @@
+minecraft.mined.red_sandstone_slab
+1: Xisuma: 3
+2: Keralis1: 3
+3: cubfan135: 2
+Total 8

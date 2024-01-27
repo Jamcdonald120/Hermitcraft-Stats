@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.lever
+1: falsesymmetry: 254
+2: impulseSV: 251
+3: cubfan135: 158
+4: Tango: 146
+5: Xisuma: 84
+6: Etho: 84
+7: iskall85: 71
+8: MumboJumbo: 61
+9: VintageBeef: 57
+10: Docm77: 48
+11: Biffa2001: 36
+12: iJevin: 32
+13: ZombieCleo: 18
+14: Tinfoilchef: 11
+15: Welsknight: 9
+16: GoodTimeWithScar: 9
+17: PythonGB: 8
+18: joehillssays: 6
+19: Mumbo: 4
+20: Renthedog: 1
+Total 1348

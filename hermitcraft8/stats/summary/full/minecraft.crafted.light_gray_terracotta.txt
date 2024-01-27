@@ -1,0 +1,11 @@
+minecraft.crafted.light_gray_terracotta
+1: Grian: 960
+2: impulseSV: 192
+3: GoodTimeWithScar: 184
+4: BdoubleO100: 72
+5: hypnotizd: 32
+6: ZombieCleo: 16
+7: GeminiTay: 8
+8: Welsknight: 8
+9: Xisuma: 1
+Total 1473

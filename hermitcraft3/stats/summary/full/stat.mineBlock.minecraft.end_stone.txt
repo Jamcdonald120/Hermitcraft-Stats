@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.end_stone
+1: ZombieCleo: 933
+2: Biffa2001: 556
+3: xBCrafted: 548
+4: sl1pg8r: 313
+5: impulseSV: 292
+6: Tango: 217
+7: falsesymmetry: 137
+8: Xisuma: 50
+9: Spumwackles: 27
+10: KingDaddyDMAC: 18
+11: Mumbo: 12
+12: Tinfoilchef: 8
+Total 3111

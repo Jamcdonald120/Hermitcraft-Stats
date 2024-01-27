@@ -1,0 +1,11 @@
+stat.drop.minecraft.written_book
+1: Zedaph: 38
+2: Tango: 7
+3: GoodTimeWithScar: 6
+4: PythonGB: 5
+5: cubfan135: 5
+6: iskall85: 4
+7: MumboJumbo: 3
+8: Xisuma: 1
+9: falsesymmetry: 1
+Total 70

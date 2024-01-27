@@ -1,0 +1,23 @@
+minecraft.crafted.player_head
+1: Xisuma: 4489
+2: GoodTimeWithScar: 1869
+3: iskall85: 1148
+4: Etho: 1063
+5: Renthedog: 893
+6: VintageBeef: 852
+7: hypnotizd: 682
+8: Grian: 407
+9: Keralis1: 342
+10: falsesymmetry: 166
+11: impulseSV: 150
+12: joehillssays: 126
+13: iJevin: 125
+14: cubfan135: 114
+15: Stressmonster101: 55
+16: BdoubleO100: 41
+17: Docm77: 21
+18: Tango: 16
+19: ZombieCleo: 15
+20: xBCrafted: 8
+21: Zedaph: 3
+Total 12585

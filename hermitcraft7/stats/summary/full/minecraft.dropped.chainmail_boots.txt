@@ -1,0 +1,17 @@
+minecraft.dropped.chainmail_boots
+1: Xisuma: 32
+2: iJevin: 24
+3: iskall85: 19
+4: Grian: 18
+5: Renthedog: 9
+6: MumboJumbo: 8
+7: hypnotizd: 5
+8: GoodTimeWithScar: 5
+9: xBCrafted: 4
+10: Etho: 4
+11: Tango: 3
+12: impulseSV: 3
+13: Zedaph: 3
+14: cubfan135: 1
+15: Keralis1: 1
+Total 139

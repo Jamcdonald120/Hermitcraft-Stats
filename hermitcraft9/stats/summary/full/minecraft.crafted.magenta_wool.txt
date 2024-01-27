@@ -1,0 +1,10 @@
+minecraft.crafted.magenta_wool
+1: Etho: 448
+2: impulseSV: 65
+3: Keralis1: 64
+4: PearlescentMoon: 55
+5: Zedaph: 13
+6: Xisuma: 6
+7: Renthedog: 1
+8: GoodTimeWithScar: 1
+Total 653

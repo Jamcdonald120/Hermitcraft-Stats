@@ -1,0 +1,22 @@
+minecraft.dropped.leather_boots
+1: Xisuma: 102
+2: Grian: 74
+3: hypnotizd: 40
+4: Stressmonster101: 28
+5: Renthedog: 22
+6: xBCrafted: 19
+7: cubfan135: 17
+8: iskall85: 16
+9: Etho: 15
+10: Tango: 12
+11: impulseSV: 12
+12: Keralis1: 9
+13: VintageBeef: 6
+14: iJevin: 5
+15: Zedaph: 5
+16: Docm77: 3
+17: GoodTimeWithScar: 3
+18: BdoubleO100: 2
+19: falsesymmetry: 2
+20: MumboJumbo: 1
+Total 393

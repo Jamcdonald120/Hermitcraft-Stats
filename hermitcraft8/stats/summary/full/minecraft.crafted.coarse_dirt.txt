@@ -1,0 +1,24 @@
+minecraft.crafted.coarse_dirt
+1: cubfan135: 10576
+2: GoodTimeWithScar: 6084
+3: VintageBeef: 2284
+4: Keralis1: 1732
+5: Grian: 1604
+6: GeminiTay: 1556
+7: MumboJumbo: 1380
+8: PearlescentMoon: 888
+9: BdoubleO100: 880
+10: xBCrafted: 544
+11: Etho: 512
+12: iskall85: 468
+13: Renthedog: 408
+14: falsesymmetry: 384
+15: Xisuma: 288
+16: Stressmonster101: 248
+17: joehillssays: 168
+18: Welsknight: 128
+19: ZombieCleo: 52
+20: Tango: 20
+21: impulseSV: 16
+22: iJevin: 4
+Total 30224

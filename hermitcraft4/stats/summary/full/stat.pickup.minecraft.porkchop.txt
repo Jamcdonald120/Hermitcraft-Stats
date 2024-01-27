@@ -1,0 +1,21 @@
+stat.pickup.minecraft.porkchop
+1: iJevin: 1344
+2: iskall85: 342
+3: impulseSV: 230
+4: cubfan135: 151
+5: GoodTimeWithScar: 63
+6: joehillssays: 53
+7: Welsknight: 42
+8: Renthedog: 40
+9: Xisuma: 35
+10: Tango: 27
+11: Jessassin: 20
+12: xBCrafted: 15
+13: zueljin: 12
+14: Tinfoilchef: 12
+15: falsesymmetry: 10
+16: VintageBeef: 8
+17: MumboJumbo: 3
+18: Etho: 2
+19: ZombieCleo: 2
+Total 2411

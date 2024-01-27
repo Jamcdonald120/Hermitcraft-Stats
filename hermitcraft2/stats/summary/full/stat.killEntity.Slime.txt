@@ -1,0 +1,22 @@
+stat.killEntity.Slime
+1: hypnotizd: 2071
+2: Xisuma: 1405
+3: KingDaddyDMAC: 633
+4: ZombieCleo: 535
+5: Spumwackles: 439
+6: red3yz: 421
+7: Tango: 346
+8: Biffa2001: 334
+9: Mumbo: 233
+10: sl1pg8r: 124
+11: monkeyfarm: 70
+12: falsesymmetry: 23
+13: Keralis1: 21
+14: iJevin: 15
+15: Tinfoilchef: 11
+16: topmass: 9
+17: Pungence: 8
+18: joehillssays: 7
+19: zueljin: 1
+20: Marriland: 1
+Total 6707

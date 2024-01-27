@@ -1,0 +1,18 @@
+minecraft.picked_up.light_blue_wool
+1: Xisuma: 3761
+2: GoodTimeWithScar: 737
+3: Tinfoilchef: 605
+4: ZombieCleo: 559
+5: falsesymmetry: 558
+6: cubfan135: 349
+7: iJevin: 270
+8: Biffa2001: 78
+9: Docm77: 50
+10: iskall85: 40
+11: Renthedog: 35
+12: Welsknight: 27
+13: Grian: 26
+14: Keralis1: 20
+15: MumboJumbo: 11
+16: Stressmonster101: 1
+Total 7127

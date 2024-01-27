@@ -1,0 +1,8 @@
+minecraft.dropped.glow_item_frame
+1: falsesymmetry: 35
+2: GoodTimeWithScar: 21
+3: cubfan135: 10
+4: MythicalSausage: 4
+5: Renthedog: 2
+6: Grian: 1
+Total 73

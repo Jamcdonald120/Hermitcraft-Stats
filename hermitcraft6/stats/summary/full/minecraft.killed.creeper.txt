@@ -1,0 +1,27 @@
+minecraft.killed.creeper
+1: cubfan135: 1690
+2: iskall85: 839
+3: iJevin: 832
+4: GoodTimeWithScar: 794
+5: Xisuma: 457
+6: Grian: 425
+7: impulseSV: 420
+8: Tango: 382
+9: Docm77: 294
+10: falsesymmetry: 277
+11: MumboJumbo: 244
+12: Renthedog: 219
+13: Zedaph: 217
+14: Welsknight: 140
+15: Biffa2001: 129
+16: Stressmonster101: 122
+17: PythonGB: 113
+18: joehillssays: 107
+19: ZombieCleo: 89
+20: BdoubleO100: 70
+21: xBCrafted: 60
+22: Tinfoilchef: 45
+23: Keralis1: 40
+24: Jessassin: 11
+25: HumanCleo: 4
+Total 8020

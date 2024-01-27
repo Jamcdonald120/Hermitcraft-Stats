@@ -1,0 +1,10 @@
+stat.killEntity.Vex
+1: Tango: 60
+2: impulseSV: 42
+3: cubfan135: 5
+4: Xisuma: 3
+5: falsesymmetry: 3
+6: PythonGB: 1
+7: Welsknight: 1
+8: Tinfoilchef: 1
+Total 116

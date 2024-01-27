@@ -1,0 +1,21 @@
+minecraft.picked_up.jungle_leaves
+1: cubfan135: 2934
+2: Keralis1: 1849
+3: Etho: 1498
+4: PearlescentMoon: 1158
+5: xBCrafted: 683
+6: joehillssays: 641
+7: Renthedog: 577
+8: iskall85: 292
+9: Grian: 260
+10: VintageBeef: 242
+11: Xisuma: 208
+12: Zedaph: 40
+13: Docm77: 17
+14: falsesymmetry: 13
+15: iJevin: 5
+16: ZombieCleo: 5
+17: GoodTimeWithScar: 5
+18: BdoubleO100: 1
+19: Stressmonster101: 1
+Total 10429

@@ -1,0 +1,24 @@
+minecraft.dropped.stone_sword
+1: iJevin: 481
+2: Grian: 59
+3: Zedaph: 17
+4: xBCrafted: 14
+5: Docm77: 11
+6: GoodTimeWithScar: 11
+7: iskall85: 10
+8: Renthedog: 8
+9: cubfan135: 8
+10: VintageBeef: 7
+11: Xisuma: 4
+12: PearlescentMoon: 4
+13: Welsknight: 4
+14: hypnotizd: 4
+15: falsesymmetry: 2
+16: Etho: 2
+17: ZombieCleo: 2
+18: Tango: 1
+19: BdoubleO100: 1
+20: MumboJumbo: 1
+21: Stressmonster101: 1
+22: impulseSV: 1
+Total 653

@@ -1,0 +1,22 @@
+minecraft.picked_up.polished_blackstone_slab
+1: Tango: 1416
+2: cubfan135: 745
+3: GoodTimeWithScar: 545
+4: PearlescentMoon: 360
+5: impulseSV: 227
+6: Renthedog: 183
+7: falsesymmetry: 140
+8: RentheKing: 118
+9: Grian: 80
+10: ZombieCleo: 76
+11: iJevin: 46
+12: Etho: 44
+13: Xisuma: 37
+14: BdoubleO100: 35
+15: Keralis1: 34
+16: Zedaph: 34
+17: joehillssays: 31
+18: hypnotizd: 26
+19: Docm77: 10
+20: GeminiTay: 1
+Total 4188

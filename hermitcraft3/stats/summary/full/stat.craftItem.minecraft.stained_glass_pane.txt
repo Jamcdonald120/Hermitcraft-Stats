@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.stained_glass_pane
+1: falsesymmetry: 4876
+2: xBCrafted: 3616
+3: sl1pg8r: 2816
+4: monkeyfarm: 2080
+5: Xisuma: 1904
+6: Tango: 1850
+7: impulseSV: 960
+8: ZombieCleo: 892
+9: zueljin: 544
+10: iJevin: 272
+11: topmass: 160
+12: Tinfoilchef: 160
+13: Docm77: 16
+14: KingDaddyDMAC: 16
+Total 20162

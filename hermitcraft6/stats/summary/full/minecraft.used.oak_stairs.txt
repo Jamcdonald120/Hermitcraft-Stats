@@ -1,0 +1,25 @@
+minecraft.used.oak_stairs
+1: Renthedog: 1708
+2: impulseSV: 1116
+3: Tango: 1112
+4: Welsknight: 913
+5: Stressmonster101: 861
+6: falsesymmetry: 649
+7: GoodTimeWithScar: 611
+8: Xisuma: 564
+9: ZombieCleo: 487
+10: Keralis1: 406
+11: cubfan135: 202
+12: BdoubleO100: 189
+13: Tinfoilchef: 130
+14: Grian: 82
+15: iskall85: 70
+16: MumboJumbo: 46
+17: xBCrafted: 38
+18: Biffa2001: 21
+19: PythonGB: 15
+20: Docm77: 13
+21: joehillssays: 11
+22: iJevin: 7
+23: HumanCleo: 2
+Total 9253

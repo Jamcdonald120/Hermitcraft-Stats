@@ -1,0 +1,8 @@
+minecraft.crafted.granite_slab
+1: Keralis1: 222
+2: GeminiTay: 66
+3: Tango: 54
+4: Xisuma: 52
+5: impulseSV: 16
+6: BdoubleO100: 14
+Total 424

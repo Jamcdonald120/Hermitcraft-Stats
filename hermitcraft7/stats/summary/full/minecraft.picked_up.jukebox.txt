@@ -1,0 +1,16 @@
+minecraft.picked_up.jukebox
+1: Grian: 36
+2: VintageBeef: 18
+3: GoodTimeWithScar: 16
+4: impulseSV: 7
+5: Etho: 6
+6: ZombieCleo: 5
+7: cubfan135: 4
+8: Keralis1: 4
+9: iJevin: 3
+10: MumboJumbo: 3
+11: Renthedog: 2
+12: iskall85: 2
+13: hypnotizd: 2
+14: BarryBoss1234: 1
+Total 109

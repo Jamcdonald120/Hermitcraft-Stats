@@ -1,0 +1,6 @@
+minecraft.picked_up.smooth_red_sandstone_stairs
+1: Keralis1: 63
+2: PearlescentMoon: 26
+3: GoodTimeWithScar: 2
+4: impulseSV: 1
+Total 92

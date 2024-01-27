@@ -1,0 +1,32 @@
+minecraft.picked_up.terracotta
+1: PearlescentMoon: 57201
+2: impulseSV: 37027
+3: Docm77: 22376
+4: Renthedog: 21695
+5: Etho: 15915
+6: Xisuma: 13615
+7: VintageBeef: 13451
+8: Keralis1: 10373
+9: ZombieCleo: 8007
+10: falsesymmetry: 5412
+11: joehillssays: 5335
+12: Tango: 4386
+13: Grian: 4297
+14: Pixlriffs: 3982
+15: cubfan135: 3014
+16: xBCrafted: 2516
+17: iJevin: 2479
+18: MythicalSausage: 2368
+19: iskall85: 782
+20: Stressmonster101: 736
+21: RentheKing: 652
+22: BdoubleO100: 413
+23: Zedaph: 398
+24: GeminiTay: 232
+25: hypnotizd: 121
+26: OrionSound: 100
+27: GoodTimeWithScar: 71
+28: Smallishbeans: 68
+29: Mumbo: 4
+30: SolidarityGaming: 2
+Total 237028

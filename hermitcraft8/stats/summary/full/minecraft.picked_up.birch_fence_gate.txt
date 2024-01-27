@@ -1,0 +1,9 @@
+minecraft.picked_up.birch_fence_gate
+1: GoodTimeWithScar: 11
+2: Docm77: 5
+3: Renthedog: 4
+4: impulseSV: 2
+5: BdoubleO100: 1
+6: PearlescentMoon: 1
+7: cubfan135: 1
+Total 25

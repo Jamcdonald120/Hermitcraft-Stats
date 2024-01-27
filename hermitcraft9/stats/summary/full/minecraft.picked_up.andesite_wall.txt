@@ -1,0 +1,17 @@
+minecraft.picked_up.andesite_wall
+1: GoodTimeWithScar: 581
+2: PearlescentMoon: 313
+3: falsesymmetry: 265
+4: Tango: 259
+5: Grian: 236
+6: impulseSV: 149
+7: Keralis1: 107
+8: xBCrafted: 81
+9: cubfan135: 45
+10: Renthedog: 36
+11: Docm77: 17
+12: BdoubleO100: 10
+13: iJevin: 8
+14: RentheKing: 2
+15: GeminiTay: 1
+Total 2110

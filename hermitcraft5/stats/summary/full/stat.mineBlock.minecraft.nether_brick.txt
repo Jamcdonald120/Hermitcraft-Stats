@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.nether_brick
+1: Tango: 23049
+2: impulseSV: 16953
+3: cubfan135: 3711
+4: MumboJumbo: 2266
+5: iskall85: 746
+6: Xisuma: 704
+7: xBCrafted: 640
+8: Welsknight: 449
+9: GoodTimeWithScar: 447
+10: joehillssays: 421
+11: Zedaph: 333
+12: falsesymmetry: 89
+13: Renthedog: 42
+14: Docm77: 32
+15: Etho: 15
+16: Tinfoilchef: 13
+17: iJevin: 10
+18: Stressmonster101: 7
+19: BdoubleO100: 2
+Total 49929

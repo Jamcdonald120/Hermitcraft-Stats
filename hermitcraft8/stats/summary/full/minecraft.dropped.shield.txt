@@ -1,0 +1,17 @@
+minecraft.dropped.shield
+1: GoodTimeWithScar: 8
+2: Xisuma: 4
+3: falsesymmetry: 4
+4: impulseSV: 4
+5: Docm77: 3
+6: Grian: 3
+7: Tango: 3
+8: iJevin: 2
+9: iskall85: 2
+10: Zedaph: 2
+11: VintageBeef: 1
+12: BdoubleO100: 1
+13: PearlescentMoon: 1
+14: hypnotizd: 1
+15: Keralis1: 1
+Total 40

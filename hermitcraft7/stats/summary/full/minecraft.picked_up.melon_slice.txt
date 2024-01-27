@@ -1,0 +1,24 @@
+minecraft.picked_up.melon_slice
+1: impulseSV: 17550
+2: Grian: 16179
+3: Zedaph: 6414
+4: GoodTimeWithScar: 2440
+5: Keralis1: 2076
+6: Stressmonster101: 2006
+7: Renthedog: 1981
+8: iskall85: 746
+9: Xisuma: 560
+10: MumboJumbo: 513
+11: joehillssays: 484
+12: iJevin: 364
+13: cubfan135: 352
+14: VintageBeef: 200
+15: falsesymmetry: 141
+16: Etho: 140
+17: Docm77: 105
+18: xBCrafted: 104
+19: ZombieCleo: 64
+20: BdoubleO100: 21
+21: Welsknight: 13
+22: Tango: 11
+Total 52464

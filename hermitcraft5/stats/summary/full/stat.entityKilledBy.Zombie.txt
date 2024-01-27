@@ -1,0 +1,21 @@
+stat.entityKilledBy.Zombie
+1: GoodTimeWithScar: 35
+2: iJevin: 13
+3: Renthedog: 10
+4: Docm77: 9
+5: Tango: 6
+6: impulseSV: 5
+7: Zedaph: 5
+8: PythonGB: 4
+9: joehillssays: 3
+10: iskall85: 3
+11: cubfan135: 3
+12: ZombieCleo: 3
+13: Xisuma: 2
+14: Welsknight: 2
+15: xBCrafted: 1
+16: Lechaion: 1
+17: MumboJumbo: 1
+18: Tinfoilchef: 1
+19: Stressmonster101: 1
+Total 108

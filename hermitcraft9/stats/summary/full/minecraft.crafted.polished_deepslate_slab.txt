@@ -1,0 +1,21 @@
+minecraft.crafted.polished_deepslate_slab
+1: Mumbo: 5670
+2: MumboJumbo: 5610
+3: cubfan135: 1756
+4: Tango: 1034
+5: falsesymmetry: 846
+6: GoodTimeWithScar: 698
+7: MythicalSausage: 320
+8: impulseSV: 234
+9: Keralis1: 196
+10: Renthedog: 156
+11: hypnotizd: 118
+12: iJevin: 106
+13: PearlescentMoon: 86
+14: Grian: 72
+15: Xisuma: 54
+16: BdoubleO100: 30
+17: Zedaph: 30
+18: Docm77: 6
+19: Pixlriffs: 6
+Total 17028

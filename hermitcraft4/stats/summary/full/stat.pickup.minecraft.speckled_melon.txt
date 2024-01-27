@@ -1,0 +1,5 @@
+stat.pickup.minecraft.speckled_melon
+1: Xisuma: 4
+2: Tango: 2
+3: MumboJumbo: 1
+Total 7

@@ -1,0 +1,24 @@
+stat.killEntity.Slime
+1: cubfan135: 16409
+2: GoodTimeWithScar: 8430
+3: MumboJumbo: 3668
+4: PythonGB: 2950
+5: impulseSV: 1563
+6: Xisuma: 1188
+7: Renthedog: 685
+8: iskall85: 472
+9: Welsknight: 442
+10: Tango: 405
+11: Tinfoilchef: 331
+12: falsesymmetry: 215
+13: xBCrafted: 152
+14: Stressmonster101: 134
+15: Zedaph: 119
+16: iJevin: 98
+17: BdoubleO100: 77
+18: Etho: 58
+19: joehillssays: 49
+20: ZombieCleo: 24
+21: Biffa2001: 19
+22: Docm77: 13
+Total 37501

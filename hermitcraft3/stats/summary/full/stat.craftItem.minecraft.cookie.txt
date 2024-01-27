@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.cookie
+1: zueljin: 80
+2: monkeyfarm: 72
+3: impulseSV: 36
+4: iJevin: 8
+5: Tango: 6
+Total 202

@@ -1,0 +1,20 @@
+minecraft.dropped.dark_oak_log
+1: Renthedog: 1286
+2: falsesymmetry: 600
+3: GoodTimeWithScar: 261
+4: Grian: 260
+5: Xisuma: 202
+6: Tango: 162
+7: impulseSV: 129
+8: cubfan135: 127
+9: Stressmonster101: 124
+10: Docm77: 119
+11: iskall85: 119
+12: Welsknight: 64
+13: iJevin: 50
+14: MumboJumbo: 41
+15: Keralis1: 30
+16: PythonGB: 10
+17: Zedaph: 8
+18: Biffa2001: 4
+Total 3596

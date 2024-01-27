@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.cooked_chicken
+1: Tango: 2492
+2: ZombieCleo: 560
+3: falsesymmetry: 125
+4: Tinfoilchef: 122
+5: PythonGB: 109
+6: joehillssays: 87
+7: Etho: 86
+8: GoodTimeWithScar: 53
+9: Zedaph: 49
+10: BdoubleO100: 42
+11: Stressmonster101: 31
+12: cubfan135: 18
+13: xBCrafted: 11
+14: Renthedog: 5
+15: VintageBeef: 2
+16: Docm77: 1
+17: iJevin: 1
+Total 3794

@@ -1,0 +1,10 @@
+minecraft.crafted.diorite_wall
+1: GoodTimeWithScar: 42
+2: GeminiTay: 30
+3: cubfan135: 30
+4: Xisuma: 18
+5: joehillssays: 12
+6: PearlescentMoon: 8
+7: iskall85: 8
+8: impulseSV: 6
+Total 154

@@ -1,0 +1,24 @@
+minecraft.picked_up.netherite_leggings
+1: Grian: 83
+2: GoodTimeWithScar: 71
+3: joehillssays: 46
+4: Renthedog: 39
+5: cubfan135: 23
+6: MumboJumbo: 19
+7: iJevin: 17
+8: Etho: 15
+9: Xisuma: 13
+10: impulseSV: 13
+11: ZombieCleo: 12
+12: Docm77: 10
+13: Tango: 10
+14: Keralis1: 10
+15: xBCrafted: 9
+16: Zedaph: 9
+17: VintageBeef: 7
+18: falsesymmetry: 7
+19: BdoubleO100: 6
+20: hypnotizd: 5
+21: Welsknight: 4
+22: Stressmonster101: 1
+Total 429

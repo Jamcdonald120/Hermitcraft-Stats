@@ -1,0 +1,17 @@
+stat.useItem.minecraft.bookshelf
+1: zueljin: 299
+2: Xisuma: 288
+3: falsesymmetry: 190
+4: xBCrafted: 97
+5: iJevin: 95
+6: KingDaddyDMAC: 72
+7: PythonGB: 67
+8: Tinfoilchef: 66
+9: Spumwackles: 61
+10: Tango: 50
+11: Mumbo: 39
+12: monkeyfarm: 38
+13: topmass: 37
+14: sl1pg8r: 33
+15: impulseSV: 31
+Total 1463

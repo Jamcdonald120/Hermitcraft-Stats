@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.redstone_ore
+1: Tinfoilchef: 17328
+2: Renthedog: 8456
+3: GoodTimeWithScar: 7667
+4: iskall85: 6824
+5: MumboJumbo: 4182
+6: PythonGB: 3123
+7: falsesymmetry: 3047
+8: Xisuma: 2784
+9: Welsknight: 2396
+10: ZombieCleo: 1575
+11: cubfan135: 1496
+12: Etho: 1413
+13: iJevin: 1254
+14: joehillssays: 816
+15: impulseSV: 746
+16: Docm77: 616
+17: Tango: 609
+18: Mumbo: 582
+19: Biffa2001: 481
+20: Jessassin: 410
+21: xBCrafted: 268
+22: VintageBeef: 106
+Total 66179

@@ -1,0 +1,22 @@
+minecraft.dropped.coal_ore
+1: Tango: 1113
+2: GoodTimeWithScar: 1019
+3: Zedaph: 1017
+4: iskall85: 916
+5: iJevin: 726
+6: Grian: 454
+7: xBCrafted: 427
+8: Keralis1: 426
+9: falsesymmetry: 349
+10: cubfan135: 335
+11: MumboJumbo: 235
+12: Etho: 115
+13: impulseSV: 113
+14: Xisuma: 109
+15: Docm77: 39
+16: BdoubleO100: 34
+17: Stressmonster101: 25
+18: Renthedog: 22
+19: hypnotizd: 16
+20: joehillssays: 1
+Total 7491

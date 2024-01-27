@@ -1,0 +1,5 @@
+stat.useItem.minecraft.furnace_minecart
+1: cubfan135: 7
+2: Tinfoilchef: 2
+3: Xisuma: 1
+Total 10

@@ -1,0 +1,20 @@
+minecraft.crafted.smoker
+1: impulseSV: 67
+2: iJevin: 27
+3: BdoubleO100: 25
+4: Keralis1: 25
+5: xBCrafted: 10
+6: Xisuma: 9
+7: PearlescentMoon: 9
+8: cubfan135: 8
+9: ZombieCleo: 4
+10: Zedaph: 4
+11: GeminiTay: 3
+12: VintageBeef: 2
+13: falsesymmetry: 2
+14: hypnotizd: 2
+15: Docm77: 1
+16: Smajor1995: 1
+17: Tango: 1
+18: Stressmonster101: 1
+Total 201

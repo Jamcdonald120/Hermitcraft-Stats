@@ -1,0 +1,6 @@
+stat.useItem.minecraft.tnt_minecart
+1: PythonGB: 52
+2: Docm77: 10
+3: iskall85: 10
+4: cubfan135: 2
+Total 74

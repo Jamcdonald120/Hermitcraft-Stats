@@ -1,0 +1,26 @@
+minecraft.crafted.smooth_stone
+1: Etho: 39489
+2: impulseSV: 12545
+3: MumboJumbo: 6502
+4: VintageBeef: 4475
+5: Xisuma: 3704
+6: Stressmonster101: 1757
+7: BdoubleO100: 1649
+8: falsesymmetry: 1074
+9: GoodTimeWithScar: 900
+10: Zedaph: 717
+11: ZombieCleo: 708
+12: Tango: 641
+13: Docm77: 639
+14: joehillssays: 637
+15: Welsknight: 512
+16: iskall85: 410
+17: cubfan135: 353
+18: xBCrafted: 271
+19: Grian: 149
+20: iJevin: 123
+21: Renthedog: 82
+22: Keralis1: 43
+23: hypnotizd: 19
+24: Tinfoilchef: 6
+Total 77405

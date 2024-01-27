@@ -1,0 +1,25 @@
+minecraft.used.potion
+1: iJevin: 162
+2: cubfan135: 146
+3: joehillssays: 101
+4: Renthedog: 59
+5: impulseSV: 42
+6: Docm77: 35
+7: GoodTimeWithScar: 32
+8: falsesymmetry: 25
+9: Etho: 22
+10: iskall85: 19
+11: hypnotizd: 16
+12: Welsknight: 15
+13: Xisuma: 14
+14: BdoubleO100: 14
+15: PearlescentMoon: 14
+16: Grian: 9
+17: VintageBeef: 8
+18: Zedaph: 6
+19: ZombieCleo: 5
+20: GeminiTay: 3
+21: EvilXisuma: 2
+22: Tango: 1
+23: Keralis1: 1
+Total 751

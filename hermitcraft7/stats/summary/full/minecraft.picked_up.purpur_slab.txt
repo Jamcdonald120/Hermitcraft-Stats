@@ -1,0 +1,21 @@
+minecraft.picked_up.purpur_slab
+1: Tango: 322
+2: cubfan135: 153
+3: GoodTimeWithScar: 116
+4: impulseSV: 106
+5: falsesymmetry: 93
+6: Keralis1: 62
+7: Xisuma: 58
+8: iskall85: 49
+9: Etho: 41
+10: MumboJumbo: 27
+11: Renthedog: 19
+12: xBCrafted: 13
+13: iJevin: 11
+14: Zedaph: 10
+15: Docm77: 5
+16: VintageBeef: 5
+17: hypnotizd: 3
+18: Grian: 2
+19: joehillssays: 1
+Total 1096

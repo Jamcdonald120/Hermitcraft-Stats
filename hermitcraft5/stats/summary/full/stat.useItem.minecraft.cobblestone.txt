@@ -1,0 +1,26 @@
+stat.useItem.minecraft.cobblestone
+1: Tinfoilchef: 72094
+2: cubfan135: 37867
+3: Xisuma: 25967
+4: iskall85: 20509
+5: Welsknight: 17926
+6: GoodTimeWithScar: 15792
+7: MumboJumbo: 13108
+8: PythonGB: 12125
+9: xBCrafted: 9439
+10: BdoubleO100: 8479
+11: Renthedog: 7671
+12: Stressmonster101: 7504
+13: iJevin: 7098
+14: falsesymmetry: 5354
+15: Docm77: 4955
+16: Tango: 4561
+17: ZombieCleo: 4407
+18: VintageBeef: 3572
+19: impulseSV: 2725
+20: joehillssays: 2655
+21: Etho: 2099
+22: Zedaph: 1714
+23: Biffa2001: 1071
+24: xisumavoid: 15
+Total 288707

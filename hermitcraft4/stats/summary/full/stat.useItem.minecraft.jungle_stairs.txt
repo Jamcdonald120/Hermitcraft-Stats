@@ -1,0 +1,11 @@
+stat.useItem.minecraft.jungle_stairs
+1: PythonGB: 570
+2: Welsknight: 300
+3: iskall85: 111
+4: Xisuma: 76
+5: GoodTimeWithScar: 74
+6: cubfan135: 68
+7: Renthedog: 54
+8: Tango: 35
+9: joehillssays: 19
+Total 1307

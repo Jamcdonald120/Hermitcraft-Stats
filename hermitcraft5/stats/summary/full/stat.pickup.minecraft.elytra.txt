@@ -1,0 +1,25 @@
+stat.pickup.minecraft.elytra
+1: GoodTimeWithScar: 148
+2: cubfan135: 74
+3: Renthedog: 67
+4: Tango: 64
+5: iskall85: 46
+6: Zedaph: 45
+7: MumboJumbo: 35
+8: impulseSV: 34
+9: PythonGB: 31
+10: iJevin: 30
+11: Docm77: 26
+12: Welsknight: 23
+13: Xisuma: 18
+14: joehillssays: 18
+15: falsesymmetry: 13
+16: Tinfoilchef: 7
+17: Etho: 6
+18: BdoubleO100: 5
+19: xBCrafted: 5
+20: VintageBeef: 3
+21: Biffa2001: 2
+22: ZombieCleo: 2
+23: Stressmonster101: 2
+Total 704

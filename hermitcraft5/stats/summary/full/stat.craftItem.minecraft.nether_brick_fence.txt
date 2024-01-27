@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.nether_brick_fence
+1: Tango: 6682
+2: cubfan135: 2616
+3: Zedaph: 72
+4: MumboJumbo: 66
+5: joehillssays: 42
+6: xBCrafted: 36
+7: Xisuma: 30
+8: Docm77: 24
+9: iJevin: 6
+10: impulseSV: 6
+Total 9580

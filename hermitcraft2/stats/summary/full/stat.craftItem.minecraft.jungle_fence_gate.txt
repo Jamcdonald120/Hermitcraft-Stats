@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.jungle_fence_gate
+1: falsesymmetry: 8
+2: Xisuma: 4
+Total 12

@@ -1,0 +1,27 @@
+minecraft.dropped.tropical_fish
+1: Zedaph: 862
+2: joehillssays: 722
+3: Tango: 134
+4: ZombieCleo: 118
+5: Renthedog: 91
+6: iJevin: 49
+7: PearlescentMoon: 40
+8: iskall85: 32
+9: cubfan135: 26
+10: Grian: 18
+11: hypnotizd: 14
+12: xBCrafted: 12
+13: Xisuma: 10
+14: RentheKing: 9
+15: Docm77: 7
+16: GoodTimeWithScar: 7
+17: VintageBeef: 6
+18: Pixlriffs: 6
+19: Keralis1: 5
+20: impulseSV: 5
+21: BdoubleO100: 3
+22: GeminiTay: 2
+23: InTheLittleWood: 2
+24: Skizzleman: 1
+25: Etho: 1
+Total 2182

@@ -1,0 +1,27 @@
+minecraft.picked_up.minecart
+1: Grian: 181
+2: iJevin: 128
+3: impulseSV: 122
+4: GoodTimeWithScar: 116
+5: Xisuma: 111
+6: Stressmonster101: 102
+7: PearlescentMoon: 92
+8: Docm77: 85
+9: Tango: 83
+10: MumboJumbo: 64
+11: Zedaph: 51
+12: cubfan135: 49
+13: Keralis1: 39
+14: joehillssays: 38
+15: hypnotizd: 35
+16: iskall85: 31
+17: Welsknight: 31
+18: falsesymmetry: 29
+19: GeminiTay: 21
+20: xBCrafted: 12
+21: BdoubleO100: 10
+22: Etho: 10
+23: Renthedog: 4
+24: ZombieCleo: 3
+25: Tinfoilchef: 1
+Total 1448

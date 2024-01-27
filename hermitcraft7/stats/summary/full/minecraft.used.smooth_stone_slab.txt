@@ -1,0 +1,24 @@
+minecraft.used.smooth_stone_slab
+1: Etho: 76547
+2: MumboJumbo: 21688
+3: hypnotizd: 15677
+4: xBCrafted: 14805
+5: impulseSV: 12411
+6: falsesymmetry: 7887
+7: Keralis1: 6932
+8: Xisuma: 5725
+9: Grian: 5632
+10: GoodTimeWithScar: 4321
+11: Tango: 3859
+12: VintageBeef: 3669
+13: iskall85: 3503
+14: cubfan135: 2449
+15: Zedaph: 1852
+16: BdoubleO100: 1557
+17: Welsknight: 1274
+18: Renthedog: 285
+19: Docm77: 226
+20: ZombieCleo: 137
+21: joehillssays: 78
+22: xisumavoid: 1
+Total 190515

@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.sandstone
+1: falsesymmetry: 46088
+2: Xisuma: 25180
+3: xBCrafted: 9088
+4: Mumbo: 7682
+5: hypnotizd: 6246
+6: Tinfoilchef: 3673
+7: ZombieCleo: 3652
+8: zueljin: 2114
+9: Tango: 1543
+10: impulseSV: 725
+11: KingDaddyDMAC: 373
+12: topmass: 336
+13: joehillssays: 195
+14: Biffa2001: 150
+15: PythonGB: 61
+16: monkeyfarm: 28
+17: sl1pg8r: 12
+18: iJevin: 10
+19: NameOfSamuel: 3
+20: skyzm: 1
+Total 107160

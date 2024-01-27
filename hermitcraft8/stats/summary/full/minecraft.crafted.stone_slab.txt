@@ -1,0 +1,24 @@
+minecraft.crafted.stone_slab
+1: GoodTimeWithScar: 4380
+2: Welsknight: 4218
+3: iJevin: 3056
+4: Tango: 950
+5: Grian: 694
+6: Keralis1: 500
+7: Xisuma: 446
+8: PearlescentMoon: 404
+9: xBCrafted: 276
+10: iskall85: 196
+11: impulseSV: 150
+12: Etho: 144
+13: falsesymmetry: 132
+14: Stressmonster101: 90
+15: Docm77: 72
+16: MumboJumbo: 72
+17: GeminiTay: 24
+18: cubfan135: 24
+19: Renthedog: 18
+20: BdoubleO100: 14
+21: Zedaph: 12
+22: hypnotizd: 6
+Total 15878

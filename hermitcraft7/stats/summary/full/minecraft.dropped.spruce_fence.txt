@@ -1,0 +1,19 @@
+minecraft.dropped.spruce_fence
+1: Zedaph: 3119
+2: GoodTimeWithScar: 306
+3: Grian: 288
+4: BdoubleO100: 192
+5: Tango: 70
+6: xBCrafted: 44
+7: Etho: 36
+8: impulseSV: 12
+9: Docm77: 6
+10: cubfan135: 6
+11: Renthedog: 5
+12: iskall85: 4
+13: Xisuma: 2
+14: VintageBeef: 2
+15: iJevin: 1
+16: falsesymmetry: 1
+17: Stressmonster101: 1
+Total 4095

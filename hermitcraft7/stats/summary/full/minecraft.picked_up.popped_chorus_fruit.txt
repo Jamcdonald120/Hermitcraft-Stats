@@ -1,0 +1,5 @@
+minecraft.picked_up.popped_chorus_fruit
+1: cubfan135: 342
+2: impulseSV: 182
+3: joehillssays: 54
+Total 578

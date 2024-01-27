@@ -1,0 +1,10 @@
+minecraft.mined.smooth_red_sandstone_stairs
+1: BdoubleO100: 48
+2: Xisuma: 43
+3: Tango: 22
+4: falsesymmetry: 12
+5: GoodTimeWithScar: 12
+6: Keralis1: 11
+7: Renthedog: 5
+8: Welsknight: 5
+Total 158

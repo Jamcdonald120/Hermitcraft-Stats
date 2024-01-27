@@ -1,0 +1,8 @@
+minecraft.picked_up.end_stone_brick_slab
+1: iJevin: 2213
+2: Tango: 133
+3: cubfan135: 65
+4: falsesymmetry: 2
+5: impulseSV: 2
+6: MumboJumbo: 1
+Total 2416

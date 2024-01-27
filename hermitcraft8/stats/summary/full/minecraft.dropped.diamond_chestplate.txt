@@ -1,0 +1,13 @@
+minecraft.dropped.diamond_chestplate
+1: Xisuma: 4
+2: PearlescentMoon: 3
+3: Docm77: 2
+4: Tango: 2
+5: GoodTimeWithScar: 2
+6: Keralis1: 2
+7: Zedaph: 2
+8: EvilXisuma: 1
+9: Grian: 1
+10: MumboJumbo: 1
+11: Stressmonster101: 1
+Total 21

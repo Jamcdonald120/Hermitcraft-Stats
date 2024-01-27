@@ -1,0 +1,5 @@
+minecraft.picked_up.purple_dye
+1: Etho: 64
+2: Grian: 6
+3: Welsknight: 2
+Total 72

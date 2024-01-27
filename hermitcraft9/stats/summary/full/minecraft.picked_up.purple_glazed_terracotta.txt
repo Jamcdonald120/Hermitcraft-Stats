@@ -1,0 +1,10 @@
+minecraft.picked_up.purple_glazed_terracotta
+1: falsesymmetry: 392
+2: cubfan135: 32
+3: Xisuma: 9
+4: Grian: 4
+5: impulseSV: 3
+6: PearlescentMoon: 2
+7: Etho: 1
+8: Zedaph: 1
+Total 444

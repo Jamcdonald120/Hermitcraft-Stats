@@ -1,0 +1,16 @@
+minecraft.mined.note_block
+1: PearlescentMoon: 96
+2: impulseSV: 91
+3: cubfan135: 60
+4: Xisuma: 46
+5: GeminiTay: 21
+6: MumboJumbo: 18
+7: iskall85: 17
+8: Grian: 8
+9: GoodTimeWithScar: 8
+10: Docm77: 6
+11: Etho: 5
+12: Zedaph: 5
+13: Renthedog: 1
+14: hypnotizd: 1
+Total 383

@@ -1,0 +1,27 @@
+minecraft.picked_up.amethyst_block
+1: iJevin: 3502
+2: Docm77: 3215
+3: PearlescentMoon: 2087
+4: Xisuma: 1955
+5: Renthedog: 1926
+6: impulseSV: 1687
+7: hypnotizd: 1493
+8: joehillssays: 1380
+9: falsesymmetry: 1062
+10: Tango: 1031
+11: Grian: 961
+12: iskall85: 941
+13: cubfan135: 837
+14: Etho: 689
+15: Zedaph: 527
+16: xBCrafted: 503
+17: BdoubleO100: 392
+18: GeminiTay: 286
+19: Stressmonster101: 221
+20: Keralis1: 208
+21: GoodTimeWithScar: 192
+22: VintageBeef: 74
+23: ZombieCleo: 69
+24: RentheKing: 10
+25: Mumbo: 1
+Total 25249

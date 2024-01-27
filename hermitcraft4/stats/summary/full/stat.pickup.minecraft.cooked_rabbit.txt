@@ -1,0 +1,9 @@
+stat.pickup.minecraft.cooked_rabbit
+1: Renthedog: 23
+2: Tango: 9
+3: GoodTimeWithScar: 7
+4: cubfan135: 4
+5: iskall85: 2
+6: Xisuma: 1
+7: falsesymmetry: 1
+Total 47

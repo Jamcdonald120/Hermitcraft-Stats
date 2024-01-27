@@ -1,0 +1,22 @@
+minecraft.crafted.pink_dye
+1: impulseSV: 3324
+2: Stressmonster101: 1670
+3: Etho: 1270
+4: Tango: 1158
+5: Xisuma: 1061
+6: falsesymmetry: 648
+7: VintageBeef: 309
+8: Grian: 278
+9: GoodTimeWithScar: 274
+10: iskall85: 162
+11: Keralis1: 84
+12: joehillssays: 61
+13: MumboJumbo: 54
+14: BdoubleO100: 50
+15: Zedaph: 42
+16: cubfan135: 30
+17: Renthedog: 28
+18: Docm77: 22
+19: ZombieCleo: 2
+20: hypnotizd: 2
+Total 10529

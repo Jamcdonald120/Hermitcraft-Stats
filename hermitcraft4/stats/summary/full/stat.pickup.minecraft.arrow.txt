@@ -1,0 +1,27 @@
+stat.pickup.minecraft.arrow
+1: impulseSV: 17179
+2: GoodTimeWithScar: 15992
+3: Renthedog: 14493
+4: iskall85: 9864
+5: falsesymmetry: 9730
+6: Xisuma: 6776
+7: cubfan135: 5513
+8: Tango: 5182
+9: Welsknight: 4981
+10: PythonGB: 3841
+11: joehillssays: 3610
+12: iJevin: 3007
+13: MumboJumbo: 2392
+14: Tinfoilchef: 1801
+15: Docm77: 1657
+16: ZombieCleo: 1642
+17: Etho: 1593
+18: Mumbo: 524
+19: Jessassin: 406
+20: zueljin: 367
+21: Biffa2001: 332
+22: VintageBeef: 282
+23: xBCrafted: 87
+24: xisumavoid: 6
+25: hypnotizd: 1
+Total 111258

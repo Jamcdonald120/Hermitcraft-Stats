@@ -1,0 +1,13 @@
+minecraft.dropped.purpur_block
+1: MumboJumbo: 267
+2: PythonGB: 239
+3: iskall85: 174
+4: Tango: 106
+5: Renthedog: 87
+6: cubfan135: 78
+7: GoodTimeWithScar: 76
+8: Zedaph: 66
+9: Grian: 48
+10: iJevin: 11
+11: impulseSV: 4
+Total 1156

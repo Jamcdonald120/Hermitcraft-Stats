@@ -1,0 +1,33 @@
+minecraft.custom.target_hit
+1: cubfan135: 1233
+2: Docm77: 275
+3: Xisuma: 179
+4: GoodTimeWithScar: 139
+5: falsesymmetry: 130
+6: Renthedog: 121
+7: Etho: 119
+8: iJevin: 118
+9: BdoubleO100: 111
+10: Grian: 108
+11: iskall85: 94
+12: hypnotizd: 83
+13: Mumbo: 77
+14: ZombieCleo: 54
+15: Zedaph: 54
+16: xBCrafted: 30
+17: joehillssays: 15
+18: Stressmonster101: 13
+19: PearlescentMoon: 10
+20: Keralis1: 10
+21: Tango: 9
+22: impulseSV: 9
+23: Smallishbeans: 8
+24: HBomb94: 8
+25: InTheLittleWood: 7
+26: MythicalSausage: 6
+27: SolidarityGaming: 6
+28: GeminiTay: 5
+29: OrionSound: 3
+30: Smajor1995: 2
+31: VintageBeef: 1
+Total 3037

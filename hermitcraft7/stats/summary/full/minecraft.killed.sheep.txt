@@ -1,0 +1,24 @@
+minecraft.killed.sheep
+1: VintageBeef: 677
+2: BdoubleO100: 242
+3: Keralis1: 203
+4: hypnotizd: 187
+5: cubfan135: 182
+6: GoodTimeWithScar: 172
+7: Grian: 143
+8: Docm77: 116
+9: joehillssays: 104
+10: Tango: 83
+11: Renthedog: 62
+12: Zedaph: 48
+13: Etho: 40
+14: Xisuma: 32
+15: falsesymmetry: 31
+16: Stressmonster101: 26
+17: impulseSV: 25
+18: xBCrafted: 15
+19: iskall85: 14
+20: iJevin: 13
+21: MumboJumbo: 4
+22: Tinfoilchef: 4
+Total 2423

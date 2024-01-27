@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.pumpkin_seeds
+1: MumboJumbo: 1288
+2: joehillssays: 216
+3: impulseSV: 152
+4: iskall85: 148
+5: Xisuma: 56
+6: Welsknight: 24
+7: Renthedog: 16
+8: PythonGB: 12
+9: falsesymmetry: 12
+10: cubfan135: 8
+11: Docm77: 4
+12: VintageBeef: 4
+13: Etho: 4
+Total 1944

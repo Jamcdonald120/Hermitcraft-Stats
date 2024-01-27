@@ -1,0 +1,6 @@
+minecraft.picked_up.soul_campfire
+1: Renthedog: 13
+2: Grian: 4
+3: Docm77: 1
+4: xBCrafted: 1
+Total 19

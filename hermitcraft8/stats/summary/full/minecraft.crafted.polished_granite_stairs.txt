@@ -1,0 +1,7 @@
+minecraft.crafted.polished_granite_stairs
+1: Tinfoilchef: 144
+2: Keralis1: 24
+3: Xisuma: 20
+4: impulseSV: 16
+5: BdoubleO100: 8
+Total 212

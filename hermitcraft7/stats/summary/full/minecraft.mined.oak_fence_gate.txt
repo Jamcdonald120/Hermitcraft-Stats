@@ -1,0 +1,23 @@
+minecraft.mined.oak_fence_gate
+1: impulseSV: 274
+2: iskall85: 223
+3: Zedaph: 71
+4: Renthedog: 54
+5: Keralis1: 50
+6: Tango: 46
+7: Xisuma: 33
+8: iJevin: 28
+9: joehillssays: 26
+10: VintageBeef: 25
+11: Grian: 16
+12: cubfan135: 14
+13: GoodTimeWithScar: 14
+14: Stressmonster101: 10
+15: falsesymmetry: 9
+16: hypnotizd: 7
+17: BdoubleO100: 4
+18: Docm77: 3
+19: xBCrafted: 2
+20: ZombieCleo: 1
+21: MumboJumbo: 1
+Total 911

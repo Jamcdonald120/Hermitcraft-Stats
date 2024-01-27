@@ -1,0 +1,3 @@
+stat.breakItem.minecraft.diamond_leggings
+1: impulseSV: 2
+Total 2

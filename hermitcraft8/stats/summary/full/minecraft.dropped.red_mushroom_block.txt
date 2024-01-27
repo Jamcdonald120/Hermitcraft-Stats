@@ -1,0 +1,7 @@
+minecraft.dropped.red_mushroom_block
+1: falsesymmetry: 64
+2: xBCrafted: 45
+3: joehillssays: 37
+4: PearlescentMoon: 32
+5: Xisuma: 17
+Total 195

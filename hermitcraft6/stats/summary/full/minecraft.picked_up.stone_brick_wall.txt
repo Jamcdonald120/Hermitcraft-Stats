@@ -1,0 +1,17 @@
+minecraft.picked_up.stone_brick_wall
+1: cubfan135: 500
+2: Docm77: 306
+3: GoodTimeWithScar: 292
+4: Renthedog: 252
+5: falsesymmetry: 130
+6: Xisuma: 128
+7: iskall85: 121
+8: BdoubleO100: 58
+9: Tango: 56
+10: MumboJumbo: 16
+11: Tinfoilchef: 13
+12: impulseSV: 3
+13: Grian: 2
+14: Stressmonster101: 2
+15: Welsknight: 1
+Total 1880

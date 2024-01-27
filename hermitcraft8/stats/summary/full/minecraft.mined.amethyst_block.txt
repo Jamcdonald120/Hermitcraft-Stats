@@ -1,0 +1,25 @@
+minecraft.mined.amethyst_block
+1: iJevin: 3882
+2: PearlescentMoon: 2222
+3: cubfan135: 2018
+4: Xisuma: 1678
+5: GoodTimeWithScar: 1477
+6: Docm77: 1003
+7: joehillssays: 949
+8: Renthedog: 929
+9: falsesymmetry: 728
+10: impulseSV: 664
+11: xBCrafted: 552
+12: ZombieCleo: 506
+13: Zedaph: 323
+14: GeminiTay: 281
+15: Etho: 275
+16: Welsknight: 254
+17: Grian: 253
+18: hypnotizd: 249
+19: Tango: 193
+20: iskall85: 120
+21: MumboJumbo: 51
+22: Keralis1: 10
+23: VintageBeef: 7
+Total 18624

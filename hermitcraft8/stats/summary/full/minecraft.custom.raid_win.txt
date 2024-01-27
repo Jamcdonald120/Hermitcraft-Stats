@@ -1,0 +1,4 @@
+minecraft.custom.raid_win
+1: Tango: 8
+2: Etho: 1
+Total 9

@@ -1,0 +1,23 @@
+minecraft.mined.stone_button
+1: iJevin: 770
+2: GeminiTay: 167
+3: Docm77: 91
+4: impulseSV: 90
+5: cubfan135: 71
+6: ZombieCleo: 44
+7: Tango: 34
+8: Xisuma: 25
+9: Etho: 22
+10: iskall85: 18
+11: MumboJumbo: 12
+12: falsesymmetry: 10
+13: Zedaph: 10
+14: Keralis1: 8
+15: Welsknight: 7
+16: Renthedog: 6
+17: PearlescentMoon: 4
+18: Grian: 2
+19: BdoubleO100: 2
+20: VintageBeef: 1
+21: xBCrafted: 1
+Total 1395

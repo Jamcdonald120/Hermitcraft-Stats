@@ -1,0 +1,19 @@
+minecraft.picked_up.cyan_terracotta
+1: Grian: 991
+2: impulseSV: 825
+3: GoodTimeWithScar: 647
+4: Docm77: 477
+5: PearlescentMoon: 413
+6: cubfan135: 145
+7: Stressmonster101: 118
+8: Xisuma: 99
+9: Welsknight: 87
+10: MumboJumbo: 84
+11: Renthedog: 75
+12: BdoubleO100: 26
+13: GeminiTay: 14
+14: falsesymmetry: 13
+15: EvilXisuma: 5
+16: ZombieCleo: 2
+17: Etho: 1
+Total 4022

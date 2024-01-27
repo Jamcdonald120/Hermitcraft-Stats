@@ -1,0 +1,21 @@
+minecraft.picked_up.detector_rail
+1: falsesymmetry: 123
+2: hypnotizd: 67
+3: iskall85: 39
+4: joehillssays: 31
+5: Docm77: 30
+6: xBCrafted: 17
+7: cubfan135: 16
+8: Xisuma: 15
+9: Renthedog: 13
+10: Etho: 13
+11: Tango: 12
+12: Grian: 11
+13: Zedaph: 11
+14: BdoubleO100: 9
+15: GoodTimeWithScar: 8
+16: Keralis1: 6
+17: MumboJumbo: 5
+18: Stressmonster101: 3
+19: impulseSV: 1
+Total 430

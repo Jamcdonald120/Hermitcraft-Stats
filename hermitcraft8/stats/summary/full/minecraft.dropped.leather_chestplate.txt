@@ -1,0 +1,19 @@
+minecraft.dropped.leather_chestplate
+1: Tango: 73
+2: Xisuma: 52
+3: Etho: 17
+4: Docm77: 15
+5: Grian: 15
+6: hypnotizd: 13
+7: impulseSV: 12
+8: Keralis1: 10
+9: iskall85: 8
+10: Renthedog: 7
+11: PearlescentMoon: 4
+12: GoodTimeWithScar: 4
+13: iJevin: 3
+14: falsesymmetry: 3
+15: BdoubleO100: 1
+16: cubfan135: 1
+17: Zedaph: 1
+Total 239

@@ -1,0 +1,20 @@
+minecraft.picked_up.yellow_carpet
+1: Docm77: 477
+2: GoodTimeWithScar: 256
+3: Xisuma: 231
+4: iskall85: 227
+5: PythonGB: 77
+6: Grian: 76
+7: Renthedog: 34
+8: Tinfoilchef: 32
+9: cubfan135: 31
+10: MumboJumbo: 28
+11: falsesymmetry: 25
+12: impulseSV: 14
+13: BdoubleO100: 7
+14: iJevin: 5
+15: joehillssays: 4
+16: Tango: 2
+17: Keralis1: 2
+18: HumanCleo: 1
+Total 1529

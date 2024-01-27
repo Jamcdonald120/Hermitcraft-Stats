@@ -1,0 +1,5 @@
+minecraft.dropped.pink_bed
+1: iskall85: 4
+2: Tango: 3
+3: GoodTimeWithScar: 1
+Total 8

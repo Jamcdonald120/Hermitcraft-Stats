@@ -1,0 +1,5 @@
+minecraft.mined.acacia_pressure_plate
+1: Renthedog: 5
+2: PearlescentMoon: 5
+3: cubfan135: 2
+Total 12

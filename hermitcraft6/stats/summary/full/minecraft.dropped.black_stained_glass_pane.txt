@@ -1,0 +1,6 @@
+minecraft.dropped.black_stained_glass_pane
+1: cubfan135: 87
+2: BdoubleO100: 16
+3: Xisuma: 1
+4: GoodTimeWithScar: 1
+Total 105

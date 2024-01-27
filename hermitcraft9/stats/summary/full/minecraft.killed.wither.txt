@@ -1,0 +1,17 @@
+minecraft.killed.wither
+1: impulseSV: 113
+2: Tango: 93
+3: PearlescentMoon: 14
+4: iJevin: 8
+5: iskall85: 3
+6: Docm77: 2
+7: falsesymmetry: 2
+8: Xisuma: 1
+9: VintageBeef: 1
+10: Grian: 1
+11: Pixlriffs: 1
+12: xBCrafted: 1
+13: cubfan135: 1
+14: Stressmonster101: 1
+15: Keralis1: 1
+Total 243

@@ -1,0 +1,15 @@
+minecraft.used.nether_gold_ore
+1: GoodTimeWithScar: 68
+2: Grian: 67
+3: Tango: 58
+4: BdoubleO100: 48
+5: Zedaph: 40
+6: xBCrafted: 36
+7: Etho: 24
+8: Xisuma: 20
+9: Welsknight: 12
+10: iJevin: 4
+11: cubfan135: 4
+12: MumboJumbo: 4
+13: VintageBeef: 3
+Total 388

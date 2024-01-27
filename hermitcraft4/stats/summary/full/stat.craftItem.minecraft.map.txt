@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.map
+1: cubfan135: 110
+2: Xisuma: 95
+3: falsesymmetry: 79
+4: GoodTimeWithScar: 48
+5: iskall85: 21
+6: Renthedog: 15
+7: Docm77: 10
+8: VintageBeef: 2
+9: Welsknight: 2
+10: PythonGB: 1
+11: joehillssays: 1
+12: MumboJumbo: 1
+13: impulseSV: 1
+Total 386

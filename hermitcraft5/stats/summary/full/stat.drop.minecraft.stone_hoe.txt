@@ -1,0 +1,14 @@
+stat.drop.minecraft.stone_hoe
+1: Tango: 8
+2: Xisuma: 4
+3: iskall85: 4
+4: GoodTimeWithScar: 4
+5: MumboJumbo: 3
+6: PythonGB: 2
+7: falsesymmetry: 2
+8: Tinfoilchef: 2
+9: BdoubleO100: 1
+10: xBCrafted: 1
+11: cubfan135: 1
+12: Welsknight: 1
+Total 33

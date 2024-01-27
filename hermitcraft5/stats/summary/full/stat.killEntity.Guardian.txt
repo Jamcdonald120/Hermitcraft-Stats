@@ -1,0 +1,16 @@
+stat.killEntity.Guardian
+1: impulseSV: 493292
+2: MumboJumbo: 15856
+3: cubfan135: 9938
+4: Tango: 1291
+5: iskall85: 293
+6: iJevin: 213
+7: Zedaph: 213
+8: PythonGB: 209
+9: Renthedog: 164
+10: Xisuma: 147
+11: falsesymmetry: 137
+12: GoodTimeWithScar: 76
+13: joehillssays: 8
+14: xBCrafted: 1
+Total 521838

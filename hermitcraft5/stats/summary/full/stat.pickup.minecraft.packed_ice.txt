@@ -1,0 +1,21 @@
+stat.pickup.minecraft.packed_ice
+1: Renthedog: 12505
+2: xBCrafted: 9752
+3: GoodTimeWithScar: 7523
+4: Welsknight: 6428
+5: MumboJumbo: 5756
+6: cubfan135: 5656
+7: Xisuma: 4135
+8: Docm77: 3619
+9: impulseSV: 2731
+10: iskall85: 2464
+11: falsesymmetry: 2376
+12: Tango: 1436
+13: Etho: 1115
+14: Tinfoilchef: 899
+15: Zedaph: 563
+16: joehillssays: 514
+17: ZombieCleo: 63
+18: Stressmonster101: 20
+19: iJevin: 1
+Total 67556

@@ -1,0 +1,4 @@
+stat.pickup.minecraft.cake
+1: GoodTimeWithScar: 7
+2: cubfan135: 2
+Total 9

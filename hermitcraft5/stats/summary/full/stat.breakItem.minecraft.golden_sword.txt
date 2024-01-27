@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.golden_sword
+1: impulseSV: 4
+2: Renthedog: 2
+Total 6

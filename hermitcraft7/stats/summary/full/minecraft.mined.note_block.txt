@@ -1,0 +1,21 @@
+minecraft.mined.note_block
+1: cubfan135: 268
+2: Etho: 170
+3: Tango: 115
+4: impulseSV: 95
+5: Grian: 70
+6: iskall85: 69
+7: MumboJumbo: 55
+8: Xisuma: 53
+9: joehillssays: 39
+10: Stressmonster101: 37
+11: VintageBeef: 32
+12: Renthedog: 29
+13: Docm77: 28
+14: Zedaph: 27
+15: xBCrafted: 22
+16: Keralis1: 16
+17: GoodTimeWithScar: 13
+18: BdoubleO100: 9
+19: falsesymmetry: 4
+Total 1151

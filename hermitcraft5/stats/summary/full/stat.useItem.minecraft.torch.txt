@@ -1,0 +1,26 @@
+stat.useItem.minecraft.torch
+1: GoodTimeWithScar: 53850
+2: Tinfoilchef: 18548
+3: cubfan135: 17825
+4: Renthedog: 16540
+5: Xisuma: 14632
+6: Welsknight: 14283
+7: joehillssays: 13901
+8: xBCrafted: 12621
+9: MumboJumbo: 12257
+10: impulseSV: 12073
+11: Tango: 12071
+12: iskall85: 10805
+13: falsesymmetry: 8983
+14: PythonGB: 8282
+15: Stressmonster101: 7841
+16: Zedaph: 7341
+17: iJevin: 7035
+18: Etho: 3442
+19: Biffa2001: 3251
+20: Docm77: 2217
+21: BdoubleO100: 2112
+22: VintageBeef: 1904
+23: ZombieCleo: 1775
+24: xisumavoid: 20
+Total 263609

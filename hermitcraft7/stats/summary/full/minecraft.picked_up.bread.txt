@@ -1,0 +1,23 @@
+minecraft.picked_up.bread
+1: Grian: 4413
+2: Zedaph: 3497
+3: hypnotizd: 1476
+4: GoodTimeWithScar: 1186
+5: iJevin: 287
+6: joehillssays: 153
+7: Etho: 119
+8: impulseSV: 76
+9: VintageBeef: 60
+10: Keralis1: 60
+11: cubfan135: 59
+12: Xisuma: 31
+13: Tango: 24
+14: Stressmonster101: 22
+15: Tinfoilchef: 18
+16: iskall85: 9
+17: Renthedog: 3
+18: Welsknight: 3
+19: ZombieCleo: 3
+20: falsesymmetry: 2
+21: MumboJumbo: 1
+Total 11502

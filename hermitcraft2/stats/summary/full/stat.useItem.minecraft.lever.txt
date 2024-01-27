@@ -1,0 +1,15 @@
+stat.useItem.minecraft.lever
+1: falsesymmetry: 116
+2: ZombieCleo: 88
+3: zueljin: 37
+4: Xisuma: 25
+5: sl1pg8r: 17
+6: monkeyfarm: 15
+7: Tango: 10
+8: Mumbo: 7
+9: KingDaddyDMAC: 6
+10: iJevin: 4
+11: Spumwackles: 4
+12: xBCrafted: 2
+13: Tinfoilchef: 1
+Total 332

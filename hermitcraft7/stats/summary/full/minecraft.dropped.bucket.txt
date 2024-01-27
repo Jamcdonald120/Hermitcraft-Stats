@@ -1,0 +1,22 @@
+minecraft.dropped.bucket
+1: Zedaph: 452
+2: Tango: 147
+3: cubfan135: 93
+4: impulseSV: 61
+5: Renthedog: 60
+6: Keralis1: 55
+7: Grian: 37
+8: GoodTimeWithScar: 33
+9: iJevin: 25
+10: MumboJumbo: 20
+11: Xisuma: 14
+12: falsesymmetry: 12
+13: iskall85: 8
+14: Docm77: 6
+15: xBCrafted: 3
+16: Etho: 3
+17: joehillssays: 2
+18: BdoubleO100: 2
+19: VintageBeef: 1
+20: ZombieCleo: 1
+Total 1035

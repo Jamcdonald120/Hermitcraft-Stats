@@ -1,0 +1,21 @@
+stat.pickup.minecraft.flint_and_steel
+1: Xisuma: 72
+2: falsesymmetry: 27
+3: impulseSV: 18
+4: iskall85: 13
+5: Renthedog: 11
+6: Tango: 11
+7: cubfan135: 9
+8: iJevin: 6
+9: PythonGB: 4
+10: MumboJumbo: 4
+11: Docm77: 3
+12: joehillssays: 2
+13: Welsknight: 2
+14: Biffa2001: 2
+15: EvilXisuma: 1
+16: VintageBeef: 1
+17: Jessassin: 1
+18: xisumavoid: 1
+19: GoodTimeWithScar: 1
+Total 189

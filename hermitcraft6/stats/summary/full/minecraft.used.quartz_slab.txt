@@ -1,0 +1,24 @@
+minecraft.used.quartz_slab
+1: MumboJumbo: 9745
+2: Renthedog: 8513
+3: Grian: 7310
+4: iskall85: 6379
+5: falsesymmetry: 5407
+6: PythonGB: 3998
+7: GoodTimeWithScar: 2891
+8: impulseSV: 2233
+9: cubfan135: 2225
+10: Welsknight: 1899
+11: Xisuma: 1341
+12: iJevin: 1071
+13: Stressmonster101: 1062
+14: Docm77: 854
+15: Tango: 810
+16: Zedaph: 94
+17: Keralis1: 91
+18: ZombieCleo: 90
+19: joehillssays: 43
+20: xBCrafted: 23
+21: Biffa2001: 3
+22: BdoubleO100: 1
+Total 56083

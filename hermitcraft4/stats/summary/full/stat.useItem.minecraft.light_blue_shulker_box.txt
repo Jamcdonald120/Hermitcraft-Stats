@@ -1,0 +1,13 @@
+stat.useItem.minecraft.light_blue_shulker_box
+1: falsesymmetry: 184
+2: cubfan135: 104
+3: iskall85: 103
+4: Renthedog: 89
+5: joehillssays: 59
+6: Welsknight: 42
+7: GoodTimeWithScar: 41
+8: impulseSV: 40
+9: Xisuma: 38
+10: Tango: 6
+11: MumboJumbo: 6
+Total 712

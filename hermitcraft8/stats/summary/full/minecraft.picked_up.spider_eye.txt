@@ -1,0 +1,27 @@
+minecraft.picked_up.spider_eye
+1: GoodTimeWithScar: 779
+2: Grian: 628
+3: cubfan135: 516
+4: iJevin: 485
+5: Xisuma: 445
+6: VintageBeef: 431
+7: Docm77: 367
+8: BdoubleO100: 344
+9: ZombieCleo: 276
+10: Etho: 252
+11: Welsknight: 243
+12: Tango: 238
+13: hypnotizd: 219
+14: joehillssays: 160
+15: impulseSV: 96
+16: PearlescentMoon: 93
+17: Keralis1: 72
+18: Zedaph: 59
+19: xBCrafted: 46
+20: falsesymmetry: 45
+21: iskall85: 42
+22: Renthedog: 34
+23: GeminiTay: 23
+24: Stressmonster101: 8
+25: Tinfoilchef: 7
+Total 5908

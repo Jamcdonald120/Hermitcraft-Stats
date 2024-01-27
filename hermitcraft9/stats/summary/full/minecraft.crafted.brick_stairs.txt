@@ -1,0 +1,16 @@
+minecraft.crafted.brick_stairs
+1: falsesymmetry: 528
+2: cubfan135: 73
+3: Keralis1: 64
+4: GeminiTay: 12
+5: iskall85: 10
+6: xBCrafted: 8
+7: PearlescentMoon: 5
+8: Etho: 5
+9: GoodTimeWithScar: 5
+10: joehillssays: 4
+11: Tango: 4
+12: ZombieCleo: 2
+13: Xisuma: 1
+14: Zedaph: 1
+Total 722

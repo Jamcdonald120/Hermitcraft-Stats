@@ -1,0 +1,20 @@
+minecraft.dropped.feather
+1: Docm77: 296
+2: Renthedog: 60
+3: Xisuma: 49
+4: iJevin: 42
+5: Tango: 25
+6: Grian: 18
+7: xBCrafted: 16
+8: PearlescentMoon: 9
+9: impulseSV: 9
+10: Zedaph: 9
+11: GoodTimeWithScar: 5
+12: Stressmonster101: 4
+13: ZombieCleo: 2
+14: MumboJumbo: 2
+15: GeminiTay: 1
+16: BdoubleO100: 1
+17: cubfan135: 1
+18: Etho: 1
+Total 550

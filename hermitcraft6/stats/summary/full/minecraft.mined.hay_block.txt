@@ -1,0 +1,18 @@
+minecraft.mined.hay_block
+1: falsesymmetry: 246
+2: cubfan135: 178
+3: GoodTimeWithScar: 82
+4: iskall85: 37
+5: Docm77: 28
+6: Tinfoilchef: 17
+7: Keralis1: 15
+8: Xisuma: 10
+9: joehillssays: 7
+10: ZombieCleo: 7
+11: Grian: 5
+12: iJevin: 4
+13: Renthedog: 3
+14: BdoubleO100: 3
+15: Jessassin: 2
+16: MumboJumbo: 1
+Total 645

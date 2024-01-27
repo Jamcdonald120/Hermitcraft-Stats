@@ -1,0 +1,5 @@
+stat.entityKilledBy.LavaSlime
+1: Tango: 10
+2: Renthedog: 2
+3: impulseSV: 2
+Total 14

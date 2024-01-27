@@ -1,0 +1,8 @@
+stat.useItem.minecraft.spider_eye
+1: iJevin: 5
+2: GoodTimeWithScar: 5
+3: Tango: 2
+4: Xisuma: 1
+5: xBCrafted: 1
+6: Etho: 1
+Total 15

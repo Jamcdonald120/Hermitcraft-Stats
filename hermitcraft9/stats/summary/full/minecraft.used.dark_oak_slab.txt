@@ -1,0 +1,30 @@
+minecraft.used.dark_oak_slab
+1: falsesymmetry: 23302
+2: GoodTimeWithScar: 2628
+3: ZombieCleo: 2143
+4: Renthedog: 1898
+5: GeminiTay: 1012
+6: Stressmonster101: 778
+7: Grian: 661
+8: Keralis1: 640
+9: Xisuma: 550
+10: xBCrafted: 503
+11: joehillssays: 452
+12: cubfan135: 414
+13: OrionSound: 351
+14: BdoubleO100: 345
+15: impulseSV: 322
+16: Tango: 293
+17: iskall85: 229
+18: ShubbleYT: 186
+19: RentheKing: 96
+20: Welsknight: 71
+21: MythicalSausage: 27
+22: Zedaph: 27
+23: fWhip: 24
+24: Smallishbeans: 10
+25: Pixlriffs: 10
+26: VintageBeef: 4
+27: Docm77: 2
+28: iJevin: 2
+Total 36980

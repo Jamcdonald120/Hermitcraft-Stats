@@ -1,0 +1,8 @@
+minecraft.dropped.blaze_rod
+1: GoodTimeWithScar: 34
+2: iJevin: 21
+3: Xisuma: 2
+4: iskall85: 2
+5: VintageBeef: 1
+6: GeminiTay: 1
+Total 61

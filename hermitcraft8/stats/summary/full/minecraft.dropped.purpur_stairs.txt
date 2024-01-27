@@ -1,0 +1,9 @@
+minecraft.dropped.purpur_stairs
+1: hypnotizd: 50
+2: GoodTimeWithScar: 24
+3: Keralis1: 11
+4: iJevin: 4
+5: Docm77: 3
+6: Xisuma: 1
+7: ZombieCleo: 1
+Total 94

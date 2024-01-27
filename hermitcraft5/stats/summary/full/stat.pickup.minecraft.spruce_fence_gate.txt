@@ -1,0 +1,15 @@
+stat.pickup.minecraft.spruce_fence_gate
+1: falsesymmetry: 119
+2: GoodTimeWithScar: 85
+3: cubfan135: 37
+4: Stressmonster101: 29
+5: iJevin: 19
+6: VintageBeef: 12
+7: Xisuma: 5
+8: joehillssays: 5
+9: Tango: 5
+10: Tinfoilchef: 5
+11: iskall85: 4
+12: PythonGB: 3
+13: Welsknight: 1
+Total 329

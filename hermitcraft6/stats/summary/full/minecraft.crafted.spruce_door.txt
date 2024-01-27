@@ -1,0 +1,24 @@
+minecraft.crafted.spruce_door
+1: iJevin: 561
+2: Renthedog: 171
+3: GoodTimeWithScar: 126
+4: BdoubleO100: 69
+5: Grian: 60
+6: iskall85: 57
+7: Xisuma: 51
+8: falsesymmetry: 42
+9: joehillssays: 36
+10: Stressmonster101: 36
+11: cubfan135: 33
+12: ZombieCleo: 27
+13: Keralis1: 27
+14: Docm77: 24
+15: Tango: 18
+16: PythonGB: 15
+17: Welsknight: 15
+18: impulseSV: 9
+19: Biffa2001: 6
+20: HumanCleo: 3
+21: xBCrafted: 3
+22: Tinfoilchef: 3
+Total 1392

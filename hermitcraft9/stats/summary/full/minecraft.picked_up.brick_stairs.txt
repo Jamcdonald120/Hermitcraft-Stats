@@ -1,0 +1,17 @@
+minecraft.picked_up.brick_stairs
+1: falsesymmetry: 315
+2: cubfan135: 60
+3: Keralis1: 30
+4: iJevin: 27
+5: Etho: 19
+6: Zedaph: 16
+7: iskall85: 15
+8: impulseSV: 15
+9: Grian: 11
+10: PearlescentMoon: 5
+11: xBCrafted: 4
+12: GeminiTay: 2
+13: Tango: 2
+14: Xisuma: 1
+15: joehillssays: 1
+Total 523

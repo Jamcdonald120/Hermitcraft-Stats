@@ -1,0 +1,25 @@
+minecraft.picked_up.polished_andesite
+1: Renthedog: 7113
+2: cubfan135: 5228
+3: GoodTimeWithScar: 5085
+4: falsesymmetry: 4019
+5: Xisuma: 2132
+6: iskall85: 1406
+7: iJevin: 1006
+8: Zedaph: 1002
+9: Docm77: 944
+10: Welsknight: 742
+11: impulseSV: 734
+12: Tinfoilchef: 517
+13: Grian: 290
+14: Tango: 136
+15: Stressmonster101: 114
+16: MumboJumbo: 88
+17: joehillssays: 87
+18: BdoubleO100: 31
+19: Keralis1: 28
+20: HumanCleo: 9
+21: ZombieCleo: 4
+22: BadTimeWithScar: 2
+23: PythonGB: 1
+Total 30718

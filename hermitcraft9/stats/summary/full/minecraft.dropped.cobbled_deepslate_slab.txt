@@ -1,0 +1,19 @@
+minecraft.dropped.cobbled_deepslate_slab
+1: Tango: 234
+2: falsesymmetry: 188
+3: Grian: 125
+4: Renthedog: 77
+5: VintageBeef: 67
+6: Xisuma: 65
+7: Welsknight: 64
+8: RentheKing: 36
+9: Docm77: 13
+10: GoodTimeWithScar: 11
+11: Etho: 10
+12: cubfan135: 6
+13: Zedaph: 4
+14: BdoubleO100: 3
+15: Keralis1: 2
+16: OrionSound: 1
+17: xBCrafted: 1
+Total 907

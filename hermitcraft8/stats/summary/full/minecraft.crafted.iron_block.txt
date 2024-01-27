@@ -1,0 +1,28 @@
+minecraft.crafted.iron_block
+1: Tango: 20457
+2: impulseSV: 15154
+3: hypnotizd: 13888
+4: Xisuma: 10259
+5: Grian: 3551
+6: Docm77: 3055
+7: xBCrafted: 2191
+8: iJevin: 1108
+9: GoodTimeWithScar: 1076
+10: Welsknight: 911
+11: Renthedog: 908
+12: PearlescentMoon: 487
+13: Etho: 397
+14: cubfan135: 339
+15: falsesymmetry: 324
+16: BdoubleO100: 273
+17: VintageBeef: 212
+18: joehillssays: 199
+19: Zedaph: 191
+20: Keralis1: 136
+21: MumboJumbo: 114
+22: GeminiTay: 111
+23: ZombieCleo: 100
+24: iskall85: 84
+25: Tinfoilchef: 63
+26: Stressmonster101: 32
+Total 75620

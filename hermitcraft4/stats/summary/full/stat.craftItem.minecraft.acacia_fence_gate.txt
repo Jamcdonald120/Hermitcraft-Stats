@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.acacia_fence_gate
+1: cubfan135: 130
+2: falsesymmetry: 57
+3: VintageBeef: 4
+4: Renthedog: 3
+5: joehillssays: 3
+6: impulseSV: 2
+7: Docm77: 1
+8: iskall85: 1
+9: Etho: 1
+Total 202

@@ -1,0 +1,25 @@
+minecraft.picked_up.chiseled_stone_bricks
+1: falsesymmetry: 4824
+2: Grian: 1592
+3: Renthedog: 1469
+4: cubfan135: 616
+5: Tango: 557
+6: GeminiTay: 335
+7: iJevin: 193
+8: Etho: 167
+9: RentheKing: 107
+10: GoodTimeWithScar: 86
+11: impulseSV: 73
+12: hypnotizd: 66
+13: Docm77: 65
+14: joehillssays: 42
+15: Xisuma: 23
+16: Zedaph: 21
+17: PearlescentMoon: 18
+18: ZombieCleo: 8
+19: Mumbo: 6
+20: Pixlriffs: 4
+21: VintageBeef: 3
+22: xBCrafted: 3
+23: Keralis1: 2
+Total 10280

@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.clay
+1: zueljin: 644
+2: Tinfoilchef: 349
+3: falsesymmetry: 265
+4: Mumbo: 222
+5: Xisuma: 74
+6: Tango: 54
+7: PythonGB: 6
+8: iJevin: 2
+Total 1616

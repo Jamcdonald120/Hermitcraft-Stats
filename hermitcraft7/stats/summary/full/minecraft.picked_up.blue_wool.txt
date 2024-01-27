@@ -1,0 +1,24 @@
+minecraft.picked_up.blue_wool
+1: Etho: 3896
+2: VintageBeef: 3752
+3: iJevin: 1915
+4: Tango: 709
+5: BdoubleO100: 581
+6: Zedaph: 364
+7: GoodTimeWithScar: 322
+8: Grian: 116
+9: Welsknight: 80
+10: cubfan135: 78
+11: falsesymmetry: 48
+12: hypnotizd: 43
+13: Xisuma: 34
+14: Stressmonster101: 31
+15: impulseSV: 14
+16: joehillssays: 11
+17: xBCrafted: 5
+18: iskall85: 3
+19: ZombieCleo: 2
+20: MumboJumbo: 2
+21: Keralis1: 2
+22: Tinfoilchef: 1
+Total 12009

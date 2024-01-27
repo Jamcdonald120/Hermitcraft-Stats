@@ -1,0 +1,12 @@
+minecraft.picked_up.nether_wart_block
+1: iskall85: 45
+2: cubfan135: 37
+3: Renthedog: 26
+4: Tango: 19
+5: ZombieCleo: 8
+6: BdoubleO100: 4
+7: GoodTimeWithScar: 2
+8: HumanCleo: 1
+9: joehillssays: 1
+10: Zedaph: 1
+Total 144

@@ -1,0 +1,27 @@
+minecraft.used.honey_block
+1: cubfan135: 3316
+2: Docm77: 1358
+3: GoodTimeWithScar: 1350
+4: hypnotizd: 996
+5: Xisuma: 673
+6: Tango: 369
+7: falsesymmetry: 317
+8: Etho: 271
+9: Pixlriffs: 235
+10: iJevin: 214
+11: Keralis1: 158
+12: BdoubleO100: 113
+13: impulseSV: 113
+14: Mumbo: 91
+15: iskall85: 70
+16: xBCrafted: 61
+17: PearlescentMoon: 31
+18: Grian: 28
+19: joehillssays: 24
+20: Renthedog: 22
+21: ZombieCleo: 17
+22: Zedaph: 15
+23: VintageBeef: 10
+24: fWhip: 7
+25: GeminiTay: 3
+Total 9862

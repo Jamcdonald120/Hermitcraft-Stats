@@ -1,0 +1,14 @@
+minecraft.dropped.brown_wool
+1: Zedaph: 3916
+2: cubfan135: 193
+3: iJevin: 122
+4: VintageBeef: 49
+5: MumboJumbo: 44
+6: Keralis1: 36
+7: Etho: 6
+8: GoodTimeWithScar: 5
+9: Tango: 4
+10: Grian: 2
+11: hypnotizd: 2
+12: BdoubleO100: 1
+Total 4380

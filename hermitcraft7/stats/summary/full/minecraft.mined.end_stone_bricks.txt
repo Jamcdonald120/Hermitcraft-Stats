@@ -1,0 +1,20 @@
+minecraft.mined.end_stone_bricks
+1: iJevin: 26572
+2: falsesymmetry: 1418
+3: GoodTimeWithScar: 562
+4: iskall85: 348
+5: Etho: 326
+6: impulseSV: 285
+7: Tango: 276
+8: Xisuma: 270
+9: Keralis1: 186
+10: cubfan135: 177
+11: MumboJumbo: 146
+12: Renthedog: 125
+13: hypnotizd: 36
+14: xBCrafted: 31
+15: Grian: 20
+16: VintageBeef: 18
+17: Zedaph: 18
+18: Docm77: 8
+Total 30822

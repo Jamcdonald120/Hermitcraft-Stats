@@ -1,0 +1,4 @@
+minecraft.dropped.dead_fire_coral_fan
+1: impulseSV: 64
+2: Docm77: 32
+Total 96

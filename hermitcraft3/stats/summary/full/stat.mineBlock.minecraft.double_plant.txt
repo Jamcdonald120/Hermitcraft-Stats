@@ -1,0 +1,27 @@
+stat.mineBlock.minecraft.double_plant
+1: falsesymmetry: 268
+2: xBCrafted: 103
+3: Xisuma: 93
+4: zueljin: 63
+5: Tango: 62
+6: sl1pg8r: 59
+7: Tinfoilchef: 59
+8: Biffa2001: 49
+9: monkeyfarm: 35
+10: ZombieCleo: 27
+11: PythonGB: 25
+12: Mumbo: 20
+13: topmass: 12
+14: iJevin: 12
+15: impulseSV: 11
+16: Spumwackles: 9
+17: skyzm: 5
+18: Docm77: 3
+19: Keralis1: 3
+20: joehillssays: 2
+21: KingDaddyDMAC: 2
+22: Mrs_Keralis: 2
+23: Pungence: 1
+24: Etho: 1
+25: hypnotizd: 1
+Total 927

@@ -1,0 +1,24 @@
+minecraft.used.cobbled_deepslate_stairs
+1: Tango: 1225
+2: falsesymmetry: 1099
+3: Renthedog: 365
+4: cubfan135: 330
+5: Xisuma: 215
+6: GeminiTay: 201
+7: Docm77: 194
+8: RentheKing: 184
+9: BdoubleO100: 155
+10: joehillssays: 126
+11: PearlescentMoon: 103
+12: impulseSV: 76
+13: Zedaph: 53
+14: GoodTimeWithScar: 46
+15: xBCrafted: 14
+16: Welsknight: 13
+17: ZombieCleo: 11
+18: Mumbo: 10
+19: MumboJumbo: 10
+20: Keralis1: 9
+21: MythicalSausage: 7
+22: Etho: 1
+Total 4447

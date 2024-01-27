@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.bookshelf
+1: impulseSV: 317
+2: GoodTimeWithScar: 301
+3: iskall85: 178
+4: cubfan135: 175
+5: joehillssays: 172
+6: Tinfoilchef: 169
+7: falsesymmetry: 128
+8: Renthedog: 106
+9: MumboJumbo: 55
+10: Xisuma: 45
+11: iJevin: 21
+12: PythonGB: 18
+13: Tango: 15
+14: Welsknight: 11
+15: VintageBeef: 6
+16: ZombieCleo: 2
+Total 1719

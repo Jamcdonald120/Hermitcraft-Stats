@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.jukebox
+1: cubfan135: 68
+2: Xisuma: 11
+3: falsesymmetry: 2
+4: iJevin: 1
+5: joehillssays: 1
+6: xBCrafted: 1
+7: GoodTimeWithScar: 1
+8: Zedaph: 1
+Total 86

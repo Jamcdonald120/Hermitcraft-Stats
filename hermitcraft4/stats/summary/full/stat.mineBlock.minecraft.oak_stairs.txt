@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.oak_stairs
+1: GoodTimeWithScar: 861
+2: Welsknight: 424
+3: Renthedog: 250
+4: Xisuma: 217
+5: cubfan135: 196
+6: falsesymmetry: 87
+7: zueljin: 73
+8: iskall85: 68
+9: impulseSV: 68
+10: PythonGB: 52
+11: Tinfoilchef: 48
+12: iJevin: 31
+13: joehillssays: 30
+14: ZombieCleo: 24
+15: Biffa2001: 22
+16: Tango: 16
+17: xBCrafted: 15
+18: VintageBeef: 14
+19: MumboJumbo: 6
+20: Docm77: 5
+21: Etho: 5
+22: Jessassin: 1
+Total 2513

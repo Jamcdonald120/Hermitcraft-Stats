@@ -1,0 +1,24 @@
+minecraft.crafted.glass_bottle
+1: hypnotizd: 28312
+2: Etho: 21084
+3: cubfan135: 16434
+4: Docm77: 10920
+5: Tango: 2007
+6: Xisuma: 1890
+7: falsesymmetry: 1482
+8: PearlescentMoon: 1182
+9: BdoubleO100: 936
+10: iJevin: 522
+11: Grian: 438
+12: Zedaph: 363
+13: iskall85: 294
+14: impulseSV: 216
+15: joehillssays: 183
+16: xBCrafted: 156
+17: ZombieCleo: 99
+18: Keralis1: 84
+19: Stressmonster101: 81
+20: GeminiTay: 75
+21: VintageBeef: 15
+22: Pixlriffs: 3
+Total 86776

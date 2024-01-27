@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.banner
+1: falsesymmetry: 1623
+2: Xisuma: 725
+3: zueljin: 486
+4: xBCrafted: 187
+5: Tango: 132
+6: Mumbo: 105
+7: ZombieCleo: 94
+8: monkeyfarm: 82
+9: impulseSV: 64
+10: Spumwackles: 40
+11: Biffa2001: 30
+12: sl1pg8r: 24
+13: Tinfoilchef: 23
+Total 3615

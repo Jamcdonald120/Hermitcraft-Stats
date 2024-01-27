@@ -1,0 +1,26 @@
+minecraft.picked_up.golden_boots
+1: Xisuma: 60
+2: falsesymmetry: 35
+3: impulseSV: 33
+4: iJevin: 32
+5: cubfan135: 32
+6: Grian: 30
+7: iskall85: 28
+8: joehillssays: 25
+9: GoodTimeWithScar: 24
+10: Zedaph: 19
+11: Docm77: 15
+12: PythonGB: 15
+13: Tango: 13
+14: Renthedog: 11
+15: Stressmonster101: 9
+16: Biffa2001: 8
+17: Welsknight: 6
+18: ZombieCleo: 6
+19: MumboJumbo: 6
+20: Keralis1: 5
+21: HumanCleo: 2
+22: BdoubleO100: 2
+23: xBCrafted: 2
+24: Tinfoilchef: 2
+Total 420

@@ -1,0 +1,23 @@
+minecraft.crafted.birch_slab
+1: Keralis1: 2660
+2: Docm77: 1686
+3: MumboJumbo: 978
+4: cubfan135: 744
+5: GeminiTay: 672
+6: GoodTimeWithScar: 666
+7: impulseSV: 444
+8: PearlescentMoon: 414
+9: Etho: 312
+10: xBCrafted: 218
+11: joehillssays: 216
+12: Xisuma: 114
+13: falsesymmetry: 54
+14: Renthedog: 48
+15: ZombieCleo: 48
+16: iJevin: 24
+17: Grian: 24
+18: Tango: 18
+19: BdoubleO100: 12
+20: Welsknight: 12
+21: hypnotizd: 12
+Total 9376

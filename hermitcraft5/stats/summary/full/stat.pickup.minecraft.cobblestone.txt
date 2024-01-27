@@ -1,0 +1,26 @@
+stat.pickup.minecraft.cobblestone
+1: Renthedog: 162297
+2: cubfan135: 144229
+3: Xisuma: 135002
+4: Tinfoilchef: 127129
+5: PythonGB: 123793
+6: iskall85: 116892
+7: GoodTimeWithScar: 95979
+8: falsesymmetry: 82480
+9: MumboJumbo: 79376
+10: Welsknight: 69615
+11: xBCrafted: 56768
+12: Tango: 45834
+13: impulseSV: 34526
+14: iJevin: 28277
+15: Stressmonster101: 27749
+16: joehillssays: 27524
+17: ZombieCleo: 26865
+18: Etho: 23121
+19: BdoubleO100: 17896
+20: Docm77: 16511
+21: Zedaph: 14939
+22: Biffa2001: 10762
+23: VintageBeef: 9445
+24: xisumavoid: 2
+Total 1477011

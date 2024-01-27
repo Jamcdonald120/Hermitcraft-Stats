@@ -1,0 +1,21 @@
+minecraft.picked_up.cut_sandstone
+1: cubfan135: 4199
+2: VintageBeef: 1123
+3: joehillssays: 737
+4: Xisuma: 459
+5: Zedaph: 406
+6: Renthedog: 333
+7: hypnotizd: 116
+8: GoodTimeWithScar: 99
+9: Keralis1: 72
+10: BdoubleO100: 50
+11: impulseSV: 43
+12: iJevin: 23
+13: Etho: 22
+14: Docm77: 21
+15: Grian: 17
+16: falsesymmetry: 15
+17: Welsknight: 6
+18: xBCrafted: 5
+19: iskall85: 3
+Total 7749

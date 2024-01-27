@@ -1,0 +1,10 @@
+minecraft.dropped.brick_slab
+1: Keralis1: 79
+2: falsesymmetry: 67
+3: GoodTimeWithScar: 36
+4: cubfan135: 35
+5: Etho: 31
+6: Zedaph: 3
+7: iJevin: 1
+8: BdoubleO100: 1
+Total 253

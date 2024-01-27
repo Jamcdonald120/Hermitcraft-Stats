@@ -1,0 +1,8 @@
+minecraft.crafted.light_gray_shulker_box
+1: PearlescentMoon: 5
+2: Xisuma: 3
+3: falsesymmetry: 2
+4: Etho: 2
+5: joehillssays: 1
+6: Grian: 1
+Total 14

@@ -1,0 +1,22 @@
+stat.useItem.minecraft.golden_rail
+1: hypnotizd: 4330
+2: falsesymmetry: 2965
+3: Mumbo: 2662
+4: Xisuma: 2646
+5: impulseSV: 2528
+6: xBCrafted: 706
+7: sl1pg8r: 567
+8: Biffa2001: 500
+9: Tango: 484
+10: Etho: 401
+11: monkeyfarm: 386
+12: zueljin: 268
+13: Tinfoilchef: 249
+14: topmass: 100
+15: iJevin: 99
+16: snipepager: 82
+17: ZombieCleo: 60
+18: KingDaddyDMAC: 46
+19: skyzm: 30
+20: Docm77: 12
+Total 19121

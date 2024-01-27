@@ -1,0 +1,24 @@
+minecraft.picked_up.polished_diorite
+1: Renthedog: 2276
+2: PearlescentMoon: 536
+3: Grian: 443
+4: impulseSV: 397
+5: falsesymmetry: 317
+6: GoodTimeWithScar: 164
+7: BdoubleO100: 156
+8: Tango: 131
+9: GeminiTay: 98
+10: Zedaph: 78
+11: Smajor1995: 60
+12: Docm77: 32
+13: cubfan135: 31
+14: Xisuma: 17
+15: iJevin: 10
+16: joehillssays: 9
+17: ZombieCleo: 5
+18: xBCrafted: 2
+19: Etho: 2
+20: fWhip: 2
+21: iskall85: 1
+22: Keralis1: 1
+Total 4768

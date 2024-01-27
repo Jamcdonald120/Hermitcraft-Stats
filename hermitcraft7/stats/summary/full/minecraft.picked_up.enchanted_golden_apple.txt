@@ -1,0 +1,4 @@
+minecraft.picked_up.enchanted_golden_apple
+1: Xisuma: 1
+2: iJevin: 1
+Total 2

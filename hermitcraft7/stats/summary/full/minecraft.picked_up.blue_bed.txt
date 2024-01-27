@@ -1,0 +1,11 @@
+minecraft.picked_up.blue_bed
+1: Etho: 658
+2: cubfan135: 62
+3: VintageBeef: 27
+4: GoodTimeWithScar: 27
+5: iJevin: 22
+6: Grian: 17
+7: Zedaph: 6
+8: iskall85: 2
+9: Tango: 1
+Total 822

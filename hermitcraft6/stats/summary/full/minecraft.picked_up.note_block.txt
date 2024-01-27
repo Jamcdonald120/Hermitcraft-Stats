@@ -1,0 +1,22 @@
+minecraft.picked_up.note_block
+1: iskall85: 214
+2: cubfan135: 186
+3: impulseSV: 176
+4: Docm77: 166
+5: Stressmonster101: 127
+6: Grian: 111
+7: Xisuma: 106
+8: Tango: 81
+9: Renthedog: 75
+10: GoodTimeWithScar: 43
+11: MumboJumbo: 29
+12: iJevin: 23
+13: joehillssays: 17
+14: falsesymmetry: 17
+15: ZombieCleo: 8
+16: Keralis1: 5
+17: Zedaph: 5
+18: Tinfoilchef: 3
+19: PythonGB: 1
+20: BdoubleO100: 1
+Total 1394

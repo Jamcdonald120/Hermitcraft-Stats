@@ -1,0 +1,22 @@
+minecraft.dropped.baked_potato
+1: MumboJumbo: 2351
+2: Renthedog: 611
+3: Grian: 431
+4: impulseSV: 202
+5: Welsknight: 192
+6: ZombieCleo: 95
+7: iJevin: 65
+8: Keralis1: 64
+9: falsesymmetry: 48
+10: Tango: 34
+11: GoodTimeWithScar: 19
+12: PearlescentMoon: 11
+13: cubfan135: 9
+14: Etho: 5
+15: hypnotizd: 4
+16: GeminiTay: 3
+17: Docm77: 2
+18: iskall85: 2
+19: pillbugnine: 1
+20: xBCrafted: 1
+Total 4150

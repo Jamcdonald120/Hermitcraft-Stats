@@ -1,0 +1,8 @@
+minecraft.picked_up.wooden_axe
+1: GoodTimeWithScar: 4
+2: Renthedog: 3
+3: falsesymmetry: 3
+4: iJevin: 2
+5: Docm77: 1
+6: BdoubleO100: 1
+Total 14

@@ -1,0 +1,36 @@
+minecraft.used.player_head
+1: cubfan135: 681
+2: ZombieCleo: 354
+3: PearlescentMoon: 316
+4: GoodTimeWithScar: 292
+5: GeminiTay: 163
+6: Grian: 160
+7: Renthedog: 147
+8: VintageBeef: 142
+9: falsesymmetry: 142
+10: RentheKing: 141
+11: joehillssays: 113
+12: xBCrafted: 98
+13: Tango: 77
+14: BdoubleO100: 76
+15: Docm77: 63
+16: iJevin: 63
+17: Etho: 50
+18: Keralis1: 50
+19: iskall85: 42
+20: MythicalSausage: 38
+21: Xisuma: 36
+22: hypnotizd: 24
+23: impulseSV: 24
+24: OrionSound: 21
+25: Smajor1995: 18
+26: Smallishbeans: 16
+27: Stressmonster101: 15
+28: Zedaph: 6
+29: fWhip: 4
+30: SolidarityGaming: 2
+31: Pixlriffs: 1
+32: Mumbo: 1
+33: ShubbleYT: 1
+34: HBomb94: 1
+Total 3378

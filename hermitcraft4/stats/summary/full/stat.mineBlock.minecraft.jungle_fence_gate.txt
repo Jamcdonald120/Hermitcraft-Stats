@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.jungle_fence_gate
+1: PythonGB: 7
+2: joehillssays: 7
+3: Renthedog: 3
+4: VintageBeef: 3
+5: ZombieCleo: 2
+6: MumboJumbo: 1
+Total 23

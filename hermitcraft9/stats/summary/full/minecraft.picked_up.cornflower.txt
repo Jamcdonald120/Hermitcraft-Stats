@@ -1,0 +1,27 @@
+minecraft.picked_up.cornflower
+1: cubfan135: 22946
+2: joehillssays: 14456
+3: ZombieCleo: 13296
+4: Xisuma: 9404
+5: hypnotizd: 4441
+6: Etho: 3005
+7: Tango: 645
+8: falsesymmetry: 235
+9: GoodTimeWithScar: 126
+10: Keralis1: 111
+11: impulseSV: 75
+12: iJevin: 73
+13: Welsknight: 70
+14: PearlescentMoon: 61
+15: Grian: 45
+16: Docm77: 43
+17: Stressmonster101: 24
+18: BdoubleO100: 16
+19: Zedaph: 13
+20: VintageBeef: 10
+21: Mumbo: 9
+22: iskall85: 8
+23: RentheKing: 5
+24: Pixlriffs: 3
+25: GeminiTay: 1
+Total 69121

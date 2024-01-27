@@ -1,0 +1,26 @@
+minecraft.picked_up.pearlescent_froglight
+1: joehillssays: 867
+2: cubfan135: 374
+3: Grian: 297
+4: Xisuma: 146
+5: iJevin: 87
+6: Renthedog: 84
+7: ZombieCleo: 65
+8: falsesymmetry: 64
+9: Stressmonster101: 64
+10: PearlescentMoon: 61
+11: Keralis1: 51
+12: Docm77: 41
+13: impulseSV: 17
+14: GeminiTay: 10
+15: xBCrafted: 8
+16: iskall85: 7
+17: BdoubleO100: 5
+18: InTheLittleWood: 4
+19: GoodTimeWithScar: 4
+20: Etho: 3
+21: Skizzleman: 2
+22: Pixlriffs: 2
+23: Zedaph: 2
+24: MythicalSausage: 1
+Total 2266

@@ -1,0 +1,9 @@
+minecraft.dropped.stonecutter
+1: GoodTimeWithScar: 47
+2: cubfan135: 15
+3: Grian: 7
+4: Etho: 6
+5: Tango: 3
+6: BdoubleO100: 3
+7: Zedaph: 1
+Total 82

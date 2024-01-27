@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.glass
+1: Xisuma: 8345
+2: Tango: 5214
+3: ZombieCleo: 4380
+4: falsesymmetry: 344
+5: NameOfSamuel: 320
+6: xBCrafted: 309
+7: monkeyfarm: 125
+Total 19037

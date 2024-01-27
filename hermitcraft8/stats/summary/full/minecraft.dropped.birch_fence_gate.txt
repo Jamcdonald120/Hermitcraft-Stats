@@ -1,0 +1,4 @@
+minecraft.dropped.birch_fence_gate
+1: BdoubleO100: 1
+2: GoodTimeWithScar: 1
+Total 2

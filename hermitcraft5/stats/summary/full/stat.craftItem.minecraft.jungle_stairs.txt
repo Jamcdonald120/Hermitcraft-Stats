@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.jungle_stairs
+1: VintageBeef: 812
+2: cubfan135: 624
+3: Docm77: 320
+4: falsesymmetry: 68
+5: BdoubleO100: 60
+6: Welsknight: 56
+7: MumboJumbo: 52
+8: PythonGB: 40
+9: xBCrafted: 28
+10: Zedaph: 12
+11: Xisuma: 8
+12: Tango: 8
+13: iJevin: 4
+Total 2092

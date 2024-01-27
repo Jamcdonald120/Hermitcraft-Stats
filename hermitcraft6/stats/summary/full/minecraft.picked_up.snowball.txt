@@ -1,0 +1,23 @@
+minecraft.picked_up.snowball
+1: GoodTimeWithScar: 16927
+2: cubfan135: 15585
+3: falsesymmetry: 14938
+4: iskall85: 8610
+5: Xisuma: 6646
+6: Welsknight: 6079
+7: impulseSV: 5501
+8: Docm77: 4427
+9: Tango: 3984
+10: iJevin: 3902
+11: MumboJumbo: 2614
+12: Stressmonster101: 2100
+13: Zedaph: 1478
+14: Grian: 1344
+15: Biffa2001: 522
+16: joehillssays: 317
+17: Renthedog: 190
+18: xBCrafted: 117
+19: ZombieCleo: 82
+20: Tinfoilchef: 51
+21: PythonGB: 1
+Total 95415

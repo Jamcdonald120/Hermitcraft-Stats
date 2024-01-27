@@ -1,0 +1,11 @@
+minecraft.dropped.birch_boat
+1: iJevin: 10
+2: Grian: 4
+3: Renthedog: 2
+4: xBCrafted: 2
+5: falsesymmetry: 2
+6: Tango: 1
+7: Etho: 1
+8: Keralis1: 1
+9: Zedaph: 1
+Total 24

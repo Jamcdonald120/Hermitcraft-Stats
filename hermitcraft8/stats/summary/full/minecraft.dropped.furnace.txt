@@ -1,0 +1,12 @@
+minecraft.dropped.furnace
+1: Xisuma: 10
+2: Etho: 8
+3: iJevin: 7
+4: Grian: 4
+5: impulseSV: 2
+6: Tango: 1
+7: iskall85: 1
+8: MumboJumbo: 1
+9: GoodTimeWithScar: 1
+10: Zedaph: 1
+Total 36

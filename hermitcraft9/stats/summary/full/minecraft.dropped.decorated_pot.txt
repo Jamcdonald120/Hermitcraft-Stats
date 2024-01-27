@@ -1,0 +1,6 @@
+minecraft.dropped.decorated_pot
+1: GoodTimeWithScar: 28
+2: Grian: 21
+3: cubfan135: 10
+4: Keralis1: 1
+Total 60

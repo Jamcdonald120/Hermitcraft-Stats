@@ -1,0 +1,10 @@
+minecraft.dropped.honey_bottle
+1: Xisuma: 165
+2: hypnotizd: 46
+3: Tango: 37
+4: Keralis1: 11
+5: Zedaph: 5
+6: Etho: 4
+7: Grian: 3
+8: Docm77: 2
+Total 273

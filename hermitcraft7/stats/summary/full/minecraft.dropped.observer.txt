@@ -1,0 +1,14 @@
+minecraft.dropped.observer
+1: Zedaph: 483
+2: Tango: 97
+3: impulseSV: 64
+4: MumboJumbo: 50
+5: Xisuma: 37
+6: cubfan135: 17
+7: Grian: 11
+8: Keralis1: 11
+9: Etho: 8
+10: GoodTimeWithScar: 5
+11: BdoubleO100: 4
+12: Docm77: 1
+Total 788

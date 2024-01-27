@@ -1,0 +1,20 @@
+stat.useItem.minecraft.rotten_flesh
+1: Etho: 478
+2: Xisuma: 433
+3: monkeyfarm: 148
+4: PythonGB: 108
+5: Mumbo: 94
+6: iJevin: 37
+7: zueljin: 27
+8: Biffa2001: 26
+9: falsesymmetry: 19
+10: NameOfSamuel: 13
+11: KingDaddyDMAC: 12
+12: impulseSV: 8
+13: skyzm: 7
+14: topmass: 4
+15: Tinfoilchef: 4
+16: Pungence: 2
+17: joehillssays: 1
+18: xBCrafted: 1
+Total 1422

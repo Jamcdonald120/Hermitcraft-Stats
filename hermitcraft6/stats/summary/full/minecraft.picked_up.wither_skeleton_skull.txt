@@ -1,0 +1,19 @@
+minecraft.picked_up.wither_skeleton_skull
+1: iskall85: 318
+2: cubfan135: 47
+3: MumboJumbo: 28
+4: Tango: 23
+5: Xisuma: 20
+6: GoodTimeWithScar: 19
+7: PythonGB: 14
+8: Docm77: 12
+9: iJevin: 12
+10: falsesymmetry: 9
+11: Biffa2001: 9
+12: Grian: 8
+13: impulseSV: 6
+14: Welsknight: 4
+15: Renthedog: 3
+16: Stressmonster101: 3
+17: Zedaph: 1
+Total 536

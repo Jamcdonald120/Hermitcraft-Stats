@@ -1,0 +1,25 @@
+minecraft.crafted.polished_blackstone
+1: impulseSV: 11160
+2: Mumbo: 6332
+3: falsesymmetry: 3532
+4: GoodTimeWithScar: 3168
+5: PearlescentMoon: 2730
+6: Tango: 2572
+7: iJevin: 2340
+8: cubfan135: 1232
+9: Xisuma: 1156
+10: Renthedog: 531
+11: Grian: 516
+12: Etho: 240
+13: Zedaph: 167
+14: RentheKing: 96
+15: xBCrafted: 92
+16: MumboJumbo: 88
+17: MythicalSausage: 56
+18: hypnotizd: 48
+19: joehillssays: 16
+20: Docm77: 12
+21: ZombieCleo: 11
+22: BdoubleO100: 8
+23: VintageBeef: 1
+Total 36104

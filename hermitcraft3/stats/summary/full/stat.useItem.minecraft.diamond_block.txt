@@ -1,0 +1,10 @@
+stat.useItem.minecraft.diamond_block
+1: Tango: 11
+2: PythonGB: 10
+3: xBCrafted: 7
+4: Tinfoilchef: 5
+5: iJevin: 2
+6: KingDaddyDMAC: 2
+7: impulseSV: 2
+8: topmass: 1
+Total 40

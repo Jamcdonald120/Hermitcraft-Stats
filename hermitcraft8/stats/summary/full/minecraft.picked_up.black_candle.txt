@@ -1,0 +1,10 @@
+minecraft.picked_up.black_candle
+1: ZombieCleo: 175
+2: cubfan135: 41
+3: Tango: 36
+4: Renthedog: 11
+5: joehillssays: 4
+6: PearlescentMoon: 3
+7: Keralis1: 3
+8: GoodTimeWithScar: 1
+Total 274

@@ -1,0 +1,7 @@
+minecraft.crafted.dark_oak_hanging_sign
+1: ZombieCleo: 36
+2: GoodTimeWithScar: 12
+3: cubfan135: 6
+4: impulseSV: 6
+5: Zedaph: 6
+Total 66

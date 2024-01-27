@@ -1,0 +1,4 @@
+minecraft.picked_up.waxed_weathered_cut_copper
+1: BdoubleO100: 10
+2: Renthedog: 2
+Total 12

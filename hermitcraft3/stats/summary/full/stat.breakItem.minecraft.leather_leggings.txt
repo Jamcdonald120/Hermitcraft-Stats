@@ -1,0 +1,3 @@
+stat.breakItem.minecraft.leather_leggings
+1: falsesymmetry: 3
+Total 3

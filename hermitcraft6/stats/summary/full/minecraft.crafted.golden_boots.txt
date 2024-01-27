@@ -1,0 +1,16 @@
+minecraft.crafted.golden_boots
+1: impulseSV: 41
+2: Grian: 13
+3: falsesymmetry: 13
+4: joehillssays: 11
+5: ZombieCleo: 6
+6: PythonGB: 5
+7: Xisuma: 4
+8: iJevin: 3
+9: BdoubleO100: 2
+10: cubfan135: 2
+11: GoodTimeWithScar: 2
+12: HumanCleo: 1
+13: Renthedog: 1
+14: iskall85: 1
+Total 105

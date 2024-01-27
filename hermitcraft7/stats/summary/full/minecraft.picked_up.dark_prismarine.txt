@@ -1,0 +1,21 @@
+minecraft.picked_up.dark_prismarine
+1: Grian: 3111
+2: iJevin: 1169
+3: GoodTimeWithScar: 771
+4: cubfan135: 544
+5: Zedaph: 478
+6: ZombieCleo: 448
+7: impulseSV: 391
+8: falsesymmetry: 211
+9: BarryBoss1234: 134
+10: hypnotizd: 130
+11: Keralis1: 130
+12: Etho: 100
+13: Renthedog: 88
+14: Xisuma: 25
+15: xBCrafted: 9
+16: Tango: 8
+17: MumboJumbo: 3
+18: BdoubleO100: 2
+19: VintageBeef: 1
+Total 7753

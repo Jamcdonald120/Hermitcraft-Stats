@@ -1,0 +1,26 @@
+minecraft.used.deepslate_bricks
+1: PearlescentMoon: 6568
+2: iJevin: 5370
+3: impulseSV: 5116
+4: Renthedog: 4985
+5: Docm77: 4966
+6: xBCrafted: 4149
+7: GoodTimeWithScar: 1733
+8: Xisuma: 1701
+9: Keralis1: 789
+10: MumboJumbo: 654
+11: Welsknight: 592
+12: iskall85: 450
+13: VintageBeef: 218
+14: EvilXisuma: 211
+15: joehillssays: 183
+16: cubfan135: 158
+17: Grian: 148
+18: Stressmonster101: 130
+19: Tango: 99
+20: GeminiTay: 85
+21: BdoubleO100: 64
+22: Zedaph: 2
+23: ZombieCleo: 1
+24: hypnotizd: 1
+Total 38373

@@ -1,0 +1,25 @@
+minecraft.mined.stone_slab
+1: impulseSV: 2276
+2: Tango: 1772
+3: iskall85: 1726
+4: Xisuma: 1629
+5: Keralis1: 1160
+6: Grian: 925
+7: GoodTimeWithScar: 903
+8: falsesymmetry: 647
+9: BdoubleO100: 350
+10: ZombieCleo: 343
+11: cubfan135: 228
+12: xBCrafted: 223
+13: VintageBeef: 208
+14: Zedaph: 175
+15: Welsknight: 139
+16: Stressmonster101: 109
+17: MumboJumbo: 65
+18: Docm77: 50
+19: joehillssays: 39
+20: Etho: 29
+21: Renthedog: 25
+22: iJevin: 14
+23: hypnotizd: 5
+Total 13040

@@ -1,0 +1,22 @@
+minecraft.picked_up.acacia_sign
+1: hypnotizd: 681
+2: GoodTimeWithScar: 108
+3: iJevin: 90
+4: Renthedog: 49
+5: cubfan135: 42
+6: joehillssays: 25
+7: BdoubleO100: 19
+8: xBCrafted: 18
+9: Zedaph: 16
+10: falsesymmetry: 14
+11: Keralis1: 8
+12: Grian: 7
+13: iskall85: 7
+14: MumboJumbo: 6
+15: Tango: 5
+16: impulseSV: 5
+17: Welsknight: 4
+18: Xisuma: 3
+19: VintageBeef: 2
+20: Etho: 1
+Total 1110

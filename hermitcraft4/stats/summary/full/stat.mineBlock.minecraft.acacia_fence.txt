@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.acacia_fence
+1: PythonGB: 120
+2: Renthedog: 72
+3: Docm77: 27
+4: falsesymmetry: 20
+5: Etho: 6
+6: cubfan135: 3
+7: Xisuma: 2
+8: Welsknight: 2
+9: ZombieCleo: 2
+10: iskall85: 1
+11: hypnotizd: 1
+12: impulseSV: 1
+Total 257

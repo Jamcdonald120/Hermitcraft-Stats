@@ -1,0 +1,32 @@
+minecraft.mined.cyan_terracotta
+1: VintageBeef: 9887
+2: Grian: 1178
+3: PearlescentMoon: 684
+4: Keralis1: 584
+5: cubfan135: 503
+6: impulseSV: 449
+7: Mumbo: 428
+8: GoodTimeWithScar: 404
+9: Etho: 313
+10: iJevin: 230
+11: Tango: 143
+12: Pixlriffs: 114
+13: Xisuma: 111
+14: iskall85: 108
+15: Renthedog: 103
+16: Zedaph: 87
+17: GeminiTay: 81
+18: Docm77: 54
+19: BdoubleO100: 40
+20: joehillssays: 34
+21: Skizzleman: 30
+22: ZombieCleo: 25
+23: falsesymmetry: 24
+24: Stressmonster101: 22
+25: MythicalSausage: 7
+26: fWhip: 6
+27: LDShadowLady: 3
+28: RentheKing: 3
+29: MumboJumbo: 2
+30: Smallishbeans: 1
+Total 15658

@@ -1,0 +1,23 @@
+stat.killEntity.Ghast
+1: impulseSV: 301
+2: cubfan135: 280
+3: Renthedog: 169
+4: Tango: 153
+5: Xisuma: 108
+6: Welsknight: 71
+7: iskall85: 66
+8: falsesymmetry: 54
+9: MumboJumbo: 40
+10: GoodTimeWithScar: 39
+11: Biffa2001: 32
+12: joehillssays: 30
+13: Etho: 24
+14: VintageBeef: 22
+15: PythonGB: 18
+16: iJevin: 15
+17: Docm77: 13
+18: Mumbo: 3
+19: ZombieCleo: 2
+20: Jessassin: 1
+21: Tinfoilchef: 1
+Total 1442

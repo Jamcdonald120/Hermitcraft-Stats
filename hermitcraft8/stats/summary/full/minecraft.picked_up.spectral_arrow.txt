@@ -1,0 +1,15 @@
+minecraft.picked_up.spectral_arrow
+1: Docm77: 3918
+2: iJevin: 2862
+3: cubfan135: 885
+4: impulseSV: 268
+5: Etho: 232
+6: Grian: 221
+7: iskall85: 199
+8: Renthedog: 97
+9: PearlescentMoon: 93
+10: MumboJumbo: 51
+11: GoodTimeWithScar: 20
+12: VintageBeef: 9
+13: Zedaph: 5
+Total 8860

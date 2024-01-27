@@ -1,0 +1,9 @@
+minecraft.used.nether_brick_wall
+1: BdoubleO100: 242
+2: Tango: 176
+3: Xisuma: 22
+4: impulseSV: 11
+5: GoodTimeWithScar: 10
+6: PearlescentMoon: 6
+7: iJevin: 1
+Total 468

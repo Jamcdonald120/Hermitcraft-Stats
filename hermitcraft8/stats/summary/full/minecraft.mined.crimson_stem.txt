@@ -1,0 +1,24 @@
+minecraft.mined.crimson_stem
+1: GoodTimeWithScar: 1252
+2: MumboJumbo: 1017
+3: Xisuma: 930
+4: Grian: 848
+5: iJevin: 359
+6: Renthedog: 233
+7: cubfan135: 63
+8: joehillssays: 38
+9: BdoubleO100: 35
+10: hypnotizd: 32
+11: xBCrafted: 24
+12: Docm77: 18
+13: ZombieCleo: 15
+14: Welsknight: 14
+15: Stressmonster101: 14
+16: Keralis1: 14
+17: impulseSV: 14
+18: VintageBeef: 12
+19: Tango: 7
+20: Zedaph: 5
+21: GeminiTay: 2
+22: PearlescentMoon: 2
+Total 4948

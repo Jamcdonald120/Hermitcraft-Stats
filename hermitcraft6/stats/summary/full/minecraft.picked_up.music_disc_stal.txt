@@ -1,0 +1,8 @@
+minecraft.picked_up.music_disc_stal
+1: falsesymmetry: 79
+2: Grian: 9
+3: joehillssays: 5
+4: iskall85: 3
+5: Xisuma: 2
+6: cubfan135: 2
+Total 100

@@ -1,0 +1,22 @@
+minecraft.mined.gold_block
+1: Renthedog: 4238
+2: iJevin: 1570
+3: cubfan135: 1195
+4: falsesymmetry: 661
+5: Xisuma: 640
+6: Tango: 596
+7: GoodTimeWithScar: 595
+8: impulseSV: 430
+9: BdoubleO100: 389
+10: iskall85: 242
+11: Stressmonster101: 155
+12: Docm77: 140
+13: Grian: 92
+14: Biffa2001: 91
+15: MumboJumbo: 26
+16: joehillssays: 17
+17: Zedaph: 15
+18: ZombieCleo: 11
+19: PythonGB: 5
+20: Tinfoilchef: 2
+Total 11110

@@ -1,0 +1,12 @@
+minecraft.crafted.dark_prismarine
+1: impulseSV: 6656
+2: GeminiTay: 6272
+3: Xisuma: 4256
+4: Stressmonster101: 4096
+5: Docm77: 1280
+6: PearlescentMoon: 686
+7: Pixlriffs: 384
+8: Etho: 216
+9: Mumbo: 39
+10: Zedaph: 1
+Total 23886

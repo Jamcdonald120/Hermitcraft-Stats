@@ -1,0 +1,4 @@
+minecraft.picked_up.bamboo_mosaic_slab
+1: Xisuma: 75
+2: Zedaph: 5
+Total 80

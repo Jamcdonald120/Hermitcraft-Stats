@@ -1,0 +1,24 @@
+minecraft.picked_up.cobblestone_stairs
+1: GoodTimeWithScar: 1285
+2: Renthedog: 775
+3: iJevin: 671
+4: Grian: 621
+5: cubfan135: 398
+6: falsesymmetry: 387
+7: iskall85: 344
+8: BdoubleO100: 279
+9: Docm77: 213
+10: Xisuma: 194
+11: Stressmonster101: 179
+12: MumboJumbo: 132
+13: joehillssays: 121
+14: Keralis1: 113
+15: impulseSV: 97
+16: Welsknight: 95
+17: ZombieCleo: 51
+18: Biffa2001: 44
+19: Tango: 32
+20: Tinfoilchef: 2
+21: Jessassin: 1
+22: Zedaph: 1
+Total 6035

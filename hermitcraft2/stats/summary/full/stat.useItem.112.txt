@@ -1,0 +1,4 @@
+stat.useItem.112
+1: red3yz: 419
+2: topmass: 2
+Total 421

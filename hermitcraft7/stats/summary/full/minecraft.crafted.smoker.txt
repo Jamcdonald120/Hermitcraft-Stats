@@ -1,0 +1,19 @@
+minecraft.crafted.smoker
+1: Etho: 752
+2: GoodTimeWithScar: 234
+3: hypnotizd: 64
+4: cubfan135: 40
+5: Xisuma: 32
+6: Grian: 32
+7: Keralis1: 17
+8: xBCrafted: 11
+9: BdoubleO100: 9
+10: Docm77: 8
+11: falsesymmetry: 8
+12: Zedaph: 5
+13: VintageBeef: 4
+14: joehillssays: 2
+15: Tango: 2
+16: Welsknight: 2
+17: ZombieCleo: 1
+Total 1223

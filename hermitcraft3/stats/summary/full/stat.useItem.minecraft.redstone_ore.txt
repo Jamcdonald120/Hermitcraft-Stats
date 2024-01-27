@@ -1,0 +1,19 @@
+stat.useItem.minecraft.redstone_ore
+1: topmass: 1158
+2: falsesymmetry: 1115
+3: Xisuma: 943
+4: xBCrafted: 590
+5: Mumbo: 492
+6: Tango: 470
+7: Spumwackles: 467
+8: Biffa2001: 362
+9: impulseSV: 335
+10: Tinfoilchef: 298
+11: PythonGB: 205
+12: zueljin: 107
+13: hypnotizd: 98
+14: sl1pg8r: 60
+15: Etho: 23
+16: ZombieCleo: 17
+17: Docm77: 4
+Total 6744

@@ -1,0 +1,27 @@
+minecraft.crafted.moss_carpet
+1: GoodTimeWithScar: 3075
+2: Etho: 1527
+3: PearlescentMoon: 891
+4: Docm77: 811
+5: cubfan135: 811
+6: Renthedog: 642
+7: Xisuma: 618
+8: VintageBeef: 309
+9: Zedaph: 291
+10: xBCrafted: 276
+11: falsesymmetry: 261
+12: Grian: 234
+13: iskall85: 162
+14: GeminiTay: 111
+15: hypnotizd: 54
+16: joehillssays: 39
+17: ZombieCleo: 30
+18: BdoubleO100: 24
+19: RentheKing: 24
+20: impulseSV: 24
+21: fWhip: 15
+22: iJevin: 9
+23: Tango: 6
+24: Keralis1: 6
+25: MythicalSausage: 3
+Total 10253

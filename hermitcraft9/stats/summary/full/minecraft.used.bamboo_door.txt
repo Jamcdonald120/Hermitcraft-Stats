@@ -1,0 +1,6 @@
+minecraft.used.bamboo_door
+1: Keralis1: 10
+2: PearlescentMoon: 9
+3: Xisuma: 4
+4: Tango: 1
+Total 24

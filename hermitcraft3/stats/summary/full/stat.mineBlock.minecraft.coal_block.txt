@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.coal_block
+1: impulseSV: 111
+2: xBCrafted: 71
+3: zueljin: 46
+4: ZombieCleo: 34
+5: falsesymmetry: 31
+6: Mumbo: 16
+7: Biffa2001: 10
+8: hypnotizd: 8
+9: Spumwackles: 8
+10: Xisuma: 7
+11: Tango: 6
+12: KingDaddyDMAC: 5
+13: PythonGB: 4
+14: joehillssays: 3
+Total 360

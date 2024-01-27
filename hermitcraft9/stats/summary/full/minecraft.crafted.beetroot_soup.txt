@@ -1,0 +1,6 @@
+minecraft.crafted.beetroot_soup
+1: GeminiTay: 4
+2: Xisuma: 1
+3: cubfan135: 1
+4: Zedaph: 1
+Total 7

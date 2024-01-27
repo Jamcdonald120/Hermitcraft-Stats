@@ -1,0 +1,7 @@
+minecraft.picked_up.experience_bottle
+1: GoodTimeWithScar: 368
+2: falsesymmetry: 184
+3: cubfan135: 65
+4: iskall85: 12
+5: Xisuma: 2
+Total 631

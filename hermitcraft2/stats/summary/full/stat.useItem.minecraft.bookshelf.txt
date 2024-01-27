@@ -1,0 +1,5 @@
+stat.useItem.minecraft.bookshelf
+1: iJevin: 18
+2: zueljin: 7
+3: ZombieCleo: 3
+Total 28

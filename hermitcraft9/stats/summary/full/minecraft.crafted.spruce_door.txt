@@ -1,0 +1,27 @@
+minecraft.crafted.spruce_door
+1: Docm77: 126
+2: ZombieCleo: 75
+3: xBCrafted: 48
+4: GoodTimeWithScar: 45
+5: iJevin: 33
+6: iskall85: 30
+7: BdoubleO100: 27
+8: Keralis1: 27
+9: RentheKing: 24
+10: Stressmonster101: 21
+11: Renthedog: 18
+12: PearlescentMoon: 18
+13: falsesymmetry: 18
+14: impulseSV: 18
+15: GeminiTay: 15
+16: Tango: 15
+17: Xisuma: 12
+18: Grian: 12
+19: hypnotizd: 12
+20: VintageBeef: 6
+21: MythicalSausage: 3
+22: Pixlriffs: 3
+23: Welsknight: 3
+24: ShubbleYT: 3
+25: Zedaph: 3
+Total 615

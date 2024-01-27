@@ -1,0 +1,15 @@
+stat.useItem.minecraft.tripwire_hook
+1: Xisuma: 426
+2: impulseSV: 249
+3: Tango: 85
+4: Mumbo: 71
+5: falsesymmetry: 68
+6: monkeyfarm: 26
+7: zueljin: 20
+8: xBCrafted: 11
+9: Docm77: 5
+10: sl1pg8r: 5
+11: iJevin: 3
+12: Tinfoilchef: 2
+13: Keralis1: 1
+Total 972

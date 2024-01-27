@@ -1,0 +1,22 @@
+minecraft.mined.white_concrete_powder
+1: GoodTimeWithScar: 1913
+2: Grian: 1873
+3: iskall85: 791
+4: Xisuma: 649
+5: Docm77: 313
+6: Keralis1: 312
+7: joehillssays: 293
+8: cubfan135: 219
+9: falsesymmetry: 140
+10: PythonGB: 135
+11: Stressmonster101: 94
+12: MumboJumbo: 71
+13: iJevin: 41
+14: Renthedog: 40
+15: Welsknight: 36
+16: ZombieCleo: 34
+17: impulseSV: 15
+18: HumanCleo: 14
+19: BadTimeWithScar: 9
+20: BdoubleO100: 6
+Total 6998

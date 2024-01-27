@@ -1,0 +1,15 @@
+stat.pickup.minecraft.stone_axe
+1: Zedaph: 7
+2: VintageBeef: 2
+3: Tango: 2
+4: xBCrafted: 2
+5: falsesymmetry: 2
+6: Etho: 2
+7: Docm77: 1
+8: PythonGB: 1
+9: iJevin: 1
+10: joehillssays: 1
+11: ZombieCleo: 1
+12: Tinfoilchef: 1
+13: impulseSV: 1
+Total 24

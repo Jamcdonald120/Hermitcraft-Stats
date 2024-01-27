@@ -1,0 +1,3 @@
+minecraft.picked_up.golden_shovel
+1: impulseSV: 1
+Total 1

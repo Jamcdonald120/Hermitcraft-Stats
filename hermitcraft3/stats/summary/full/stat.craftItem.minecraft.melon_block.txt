@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.melon_block
+1: impulseSV: 461
+2: ZombieCleo: 416
+3: falsesymmetry: 348
+4: iJevin: 320
+5: Tinfoilchef: 158
+6: Tango: 51
+7: monkeyfarm: 7
+Total 1761

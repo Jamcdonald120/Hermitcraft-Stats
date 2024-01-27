@@ -1,0 +1,28 @@
+minecraft.picked_up.light_gray_terracotta
+1: PearlescentMoon: 6784
+2: Etho: 3931
+3: VintageBeef: 2360
+4: Tango: 1003
+5: falsesymmetry: 998
+6: Grian: 803
+7: Docm77: 596
+8: Renthedog: 528
+9: Keralis1: 213
+10: joehillssays: 161
+11: cubfan135: 151
+12: RentheKing: 113
+13: GeminiTay: 80
+14: Zedaph: 60
+15: Xisuma: 44
+16: GoodTimeWithScar: 38
+17: iJevin: 26
+18: ShubbleYT: 19
+19: impulseSV: 19
+20: BdoubleO100: 8
+21: Mumbo: 5
+22: Pixlriffs: 3
+23: xBCrafted: 3
+24: MythicalSausage: 2
+25: ZombieCleo: 2
+26: OrionSound: 1
+Total 17951

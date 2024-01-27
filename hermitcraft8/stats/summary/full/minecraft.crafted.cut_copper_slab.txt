@@ -1,0 +1,12 @@
+minecraft.crafted.cut_copper_slab
+1: PearlescentMoon: 180
+2: GoodTimeWithScar: 162
+3: GeminiTay: 114
+4: Docm77: 98
+5: Keralis1: 86
+6: cubfan135: 32
+7: Tango: 24
+8: Renthedog: 6
+9: impulseSV: 6
+10: iskall85: 2
+Total 710

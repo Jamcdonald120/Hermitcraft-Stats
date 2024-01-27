@@ -1,0 +1,29 @@
+minecraft.crafted.chain
+1: impulseSV: 2227
+2: Tango: 1440
+3: iJevin: 1151
+4: Keralis1: 920
+5: falsesymmetry: 726
+6: cubfan135: 650
+7: Grian: 547
+8: Renthedog: 523
+9: RentheKing: 522
+10: BdoubleO100: 501
+11: GoodTimeWithScar: 344
+12: xBCrafted: 337
+13: PearlescentMoon: 317
+14: ZombieCleo: 291
+15: Xisuma: 279
+16: Stressmonster101: 252
+17: joehillssays: 243
+18: GeminiTay: 226
+19: Docm77: 144
+20: MythicalSausage: 128
+21: Etho: 46
+22: Zedaph: 31
+23: VintageBeef: 26
+24: hypnotizd: 20
+25: Mumbo: 8
+26: iskall85: 4
+27: MumboJumbo: 4
+Total 11907

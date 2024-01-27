@@ -1,0 +1,22 @@
+minecraft.crafted.warped_sign
+1: joehillssays: 329
+2: GoodTimeWithScar: 255
+3: Keralis1: 249
+4: PearlescentMoon: 243
+5: Tango: 207
+6: Xisuma: 87
+7: falsesymmetry: 72
+8: Docm77: 63
+9: cubfan135: 42
+10: Grian: 36
+11: BdoubleO100: 36
+12: Mumbo: 33
+13: fWhip: 21
+14: impulseSV: 15
+15: VintageBeef: 12
+16: Zedaph: 12
+17: Smallishbeans: 6
+18: ZombieCleo: 6
+19: Smajor1995: 3
+20: hypnotizd: 3
+Total 1730

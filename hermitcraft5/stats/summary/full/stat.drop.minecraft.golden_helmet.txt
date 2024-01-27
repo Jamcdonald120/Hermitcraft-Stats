@@ -1,0 +1,21 @@
+stat.drop.minecraft.golden_helmet
+1: Renthedog: 135
+2: GoodTimeWithScar: 113
+3: iskall85: 84
+4: xBCrafted: 48
+5: Tango: 32
+6: falsesymmetry: 23
+7: Stressmonster101: 10
+8: Docm77: 9
+9: PythonGB: 9
+10: impulseSV: 8
+11: MumboJumbo: 7
+12: Zedaph: 7
+13: Welsknight: 5
+14: iJevin: 4
+15: cubfan135: 4
+16: VintageBeef: 2
+17: Biffa2001: 2
+18: BdoubleO100: 1
+19: Tinfoilchef: 1
+Total 504

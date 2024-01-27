@@ -1,0 +1,17 @@
+minecraft.dropped.beef
+1: Grian: 198
+2: GoodTimeWithScar: 179
+3: Renthedog: 145
+4: BdoubleO100: 128
+5: Zedaph: 102
+6: Stressmonster101: 26
+7: Keralis1: 25
+8: iJevin: 12
+9: Xisuma: 5
+10: Etho: 5
+11: hypnotizd: 5
+12: impulseSV: 5
+13: Tango: 4
+14: xBCrafted: 4
+15: Docm77: 1
+Total 844

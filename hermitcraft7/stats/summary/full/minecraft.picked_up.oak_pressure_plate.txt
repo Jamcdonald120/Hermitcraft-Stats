@@ -1,0 +1,18 @@
+minecraft.picked_up.oak_pressure_plate
+1: Zedaph: 18
+2: cubfan135: 15
+3: iJevin: 14
+4: Xisuma: 7
+5: Tango: 7
+6: Etho: 7
+7: hypnotizd: 6
+8: VintageBeef: 5
+9: Grian: 4
+10: Renthedog: 3
+11: iskall85: 3
+12: Welsknight: 1
+13: MumboJumbo: 1
+14: GoodTimeWithScar: 1
+15: Keralis1: 1
+16: impulseSV: 1
+Total 94

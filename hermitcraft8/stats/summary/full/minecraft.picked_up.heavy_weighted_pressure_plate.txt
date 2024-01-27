@@ -1,0 +1,10 @@
+minecraft.picked_up.heavy_weighted_pressure_plate
+1: Keralis1: 11
+2: VintageBeef: 7
+3: cubfan135: 3
+4: MumboJumbo: 3
+5: GoodTimeWithScar: 2
+6: impulseSV: 2
+7: Docm77: 1
+8: xBCrafted: 1
+Total 30

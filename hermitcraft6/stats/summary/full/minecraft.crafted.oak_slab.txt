@@ -1,0 +1,27 @@
+minecraft.crafted.oak_slab
+1: Renthedog: 5394
+2: GoodTimeWithScar: 2970
+3: falsesymmetry: 2868
+4: impulseSV: 2645
+5: Welsknight: 2400
+6: ZombieCleo: 2232
+7: Xisuma: 1464
+8: iskall85: 1206
+9: Grian: 1068
+10: Keralis1: 816
+11: Tango: 810
+12: MumboJumbo: 786
+13: cubfan135: 600
+14: BdoubleO100: 540
+15: Stressmonster101: 528
+16: HumanCleo: 256
+17: xBCrafted: 252
+18: joehillssays: 204
+19: Biffa2001: 204
+20: iJevin: 186
+21: Docm77: 126
+22: Jessassin: 96
+23: PythonGB: 48
+24: Zedaph: 36
+25: Tinfoilchef: 30
+Total 27765

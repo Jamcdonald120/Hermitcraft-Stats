@@ -1,0 +1,31 @@
+minecraft.used.bone_meal
+1: Renthedog: 52270
+2: Xisuma: 14827
+3: GoodTimeWithScar: 13107
+4: falsesymmetry: 11941
+5: cubfan135: 10078
+6: impulseSV: 4698
+7: Grian: 3853
+8: Stressmonster101: 3759
+9: iskall85: 3112
+10: Docm77: 3083
+11: iJevin: 2762
+12: ZombieCleo: 2612
+13: Keralis1: 2383
+14: joehillssays: 2088
+15: tterrag: 1948
+16: Jura_Whitey: 1653
+17: Welsknight: 1329
+18: Cojomax99: 1329
+19: MumboJumbo: 1272
+20: PythonGB: 1163
+21: Zedaph: 998
+22: BdoubleO100: 986
+23: PhoenixfireLune: 427
+24: Tango: 393
+25: HumanCleo: 368
+26: Biffa2001: 286
+27: xBCrafted: 274
+28: Tinfoilchef: 82
+29: PokePugx: 19
+Total 143100

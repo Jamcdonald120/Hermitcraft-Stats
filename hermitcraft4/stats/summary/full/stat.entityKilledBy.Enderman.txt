@@ -1,0 +1,21 @@
+stat.entityKilledBy.Enderman
+1: iskall85: 19
+2: Renthedog: 14
+3: GoodTimeWithScar: 10
+4: impulseSV: 9
+5: cubfan135: 6
+6: iJevin: 5
+7: Welsknight: 5
+8: Xisuma: 4
+9: PythonGB: 3
+10: Tango: 3
+11: Etho: 3
+12: Docm77: 2
+13: falsesymmetry: 2
+14: ZombieCleo: 2
+15: Tinfoilchef: 2
+16: Jessassin: 1
+17: joehillssays: 1
+18: zueljin: 1
+19: MumboJumbo: 1
+Total 93

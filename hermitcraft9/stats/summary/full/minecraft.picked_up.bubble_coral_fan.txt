@@ -1,0 +1,22 @@
+minecraft.picked_up.bubble_coral_fan
+1: GoodTimeWithScar: 1322
+2: iJevin: 800
+3: joehillssays: 180
+4: ZombieCleo: 129
+5: Keralis1: 37
+6: PearlescentMoon: 32
+7: VintageBeef: 27
+8: Docm77: 22
+9: Renthedog: 22
+10: Xisuma: 21
+11: Zedaph: 17
+12: xBCrafted: 8
+13: impulseSV: 5
+14: Grian: 4
+15: cubfan135: 4
+16: falsesymmetry: 3
+17: GeminiTay: 1
+18: Etho: 1
+19: Mumbo: 1
+20: hypnotizd: 1
+Total 2637

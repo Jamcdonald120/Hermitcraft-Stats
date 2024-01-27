@@ -1,0 +1,11 @@
+minecraft.mined.netherite_block
+1: Zedaph: 170
+2: iJevin: 165
+3: Tango: 8
+4: BdoubleO100: 6
+5: cubfan135: 6
+6: MythicalSausage: 4
+7: RentheKing: 2
+8: iskall85: 1
+9: impulseSV: 1
+Total 363

@@ -1,0 +1,15 @@
+minecraft.used.pufferfish_bucket
+1: Tango: 39
+2: Zedaph: 37
+3: hypnotizd: 33
+4: impulseSV: 13
+5: cubfan135: 12
+6: Xisuma: 6
+7: Docm77: 5
+8: iskall85: 5
+9: falsesymmetry: 4
+10: GoodTimeWithScar: 4
+11: xBCrafted: 2
+12: VintageBeef: 1
+13: Etho: 1
+Total 162

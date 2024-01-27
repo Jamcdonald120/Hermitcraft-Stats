@@ -1,0 +1,17 @@
+stat.pickup.minecraft.wooden_door
+1: Tango: 641
+2: Xisuma: 231
+3: impulseSV: 87
+4: cubfan135: 25
+5: iJevin: 21
+6: iskall85: 18
+7: joehillssays: 12
+8: falsesymmetry: 10
+9: Welsknight: 9
+10: GoodTimeWithScar: 9
+11: Renthedog: 4
+12: MumboJumbo: 4
+13: Etho: 2
+14: Tinfoilchef: 2
+15: Biffa2001: 1
+Total 1076

@@ -1,0 +1,9 @@
+minecraft.dropped.orange_carpet
+1: Zedaph: 24
+2: GoodTimeWithScar: 8
+3: Renthedog: 6
+4: Docm77: 5
+5: Xisuma: 1
+6: falsesymmetry: 1
+7: MumboJumbo: 1
+Total 46

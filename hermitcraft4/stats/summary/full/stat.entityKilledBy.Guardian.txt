@@ -1,0 +1,5 @@
+stat.entityKilledBy.Guardian
+1: Xisuma: 2
+2: iskall85: 2
+3: ZombieCleo: 1
+Total 5

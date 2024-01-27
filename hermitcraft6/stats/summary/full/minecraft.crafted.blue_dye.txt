@@ -1,0 +1,23 @@
+minecraft.crafted.blue_dye
+1: Xisuma: 5749
+2: Grian: 5380
+3: GoodTimeWithScar: 4270
+4: cubfan135: 3686
+5: iskall85: 2269
+6: Docm77: 960
+7: Tango: 759
+8: iJevin: 595
+9: Renthedog: 583
+10: PythonGB: 563
+11: Stressmonster101: 333
+12: Zedaph: 284
+13: falsesymmetry: 276
+14: MumboJumbo: 194
+15: impulseSV: 166
+16: ZombieCleo: 79
+17: Keralis1: 68
+18: joehillssays: 30
+19: BdoubleO100: 29
+20: Tinfoilchef: 20
+21: HumanCleo: 18
+Total 26311

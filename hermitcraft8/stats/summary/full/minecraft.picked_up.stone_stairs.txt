@@ -1,0 +1,22 @@
+minecraft.picked_up.stone_stairs
+1: iJevin: 2782
+2: Xisuma: 328
+3: PearlescentMoon: 323
+4: Grian: 253
+5: cubfan135: 104
+6: Keralis1: 69
+7: impulseSV: 53
+8: Tango: 44
+9: xBCrafted: 35
+10: GoodTimeWithScar: 33
+11: Welsknight: 24
+12: BdoubleO100: 21
+13: MumboJumbo: 16
+14: falsesymmetry: 12
+15: Zedaph: 7
+16: Renthedog: 6
+17: Docm77: 4
+18: Etho: 2
+19: joehillssays: 1
+20: Stressmonster101: 1
+Total 4118

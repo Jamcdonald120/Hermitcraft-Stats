@@ -1,0 +1,14 @@
+minecraft.crafted.fishing_rod
+1: GoodTimeWithScar: 6
+2: iJevin: 5
+3: impulseSV: 5
+4: cubfan135: 2
+5: Xisuma: 1
+6: VintageBeef: 1
+7: Grian: 1
+8: BdoubleO100: 1
+9: iskall85: 1
+10: Welsknight: 1
+11: hypnotizd: 1
+12: Zedaph: 1
+Total 26

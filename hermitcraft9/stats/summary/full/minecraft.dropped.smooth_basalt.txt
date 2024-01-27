@@ -1,0 +1,23 @@
+minecraft.dropped.smooth_basalt
+1: iJevin: 1016
+2: Tango: 303
+3: Grian: 162
+4: Docm77: 143
+5: Xisuma: 89
+6: Keralis1: 79
+7: falsesymmetry: 76
+8: Zedaph: 69
+9: impulseSV: 66
+10: hypnotizd: 64
+11: Renthedog: 23
+12: GoodTimeWithScar: 23
+13: cubfan135: 21
+14: xBCrafted: 20
+15: Mumbo: 17
+16: joehillssays: 16
+17: Etho: 14
+18: iskall85: 7
+19: PearlescentMoon: 6
+20: BdoubleO100: 5
+21: VintageBeef: 3
+Total 2222

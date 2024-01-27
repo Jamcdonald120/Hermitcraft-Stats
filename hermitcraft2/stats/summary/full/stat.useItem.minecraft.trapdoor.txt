@@ -1,0 +1,8 @@
+stat.useItem.minecraft.trapdoor
+1: Tango: 53
+2: zueljin: 50
+3: xBCrafted: 32
+4: falsesymmetry: 19
+5: ZombieCleo: 7
+6: Spumwackles: 1
+Total 162

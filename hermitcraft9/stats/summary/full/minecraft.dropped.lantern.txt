@@ -1,0 +1,22 @@
+minecraft.dropped.lantern
+1: Grian: 1100
+2: falsesymmetry: 532
+3: GoodTimeWithScar: 213
+4: iJevin: 195
+5: PearlescentMoon: 50
+6: Stressmonster101: 40
+7: Xisuma: 34
+8: cubfan135: 33
+9: RentheKing: 27
+10: MythicalSausage: 22
+11: Zedaph: 9
+12: ShubbleYT: 8
+13: Etho: 7
+14: Renthedog: 4
+15: Keralis1: 4
+16: impulseSV: 4
+17: OrionSound: 3
+18: Tango: 3
+19: GeminiTay: 1
+20: iskall85: 1
+Total 2290

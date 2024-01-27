@@ -1,0 +1,11 @@
+minecraft.dropped.soul_lantern
+1: falsesymmetry: 98
+2: Tango: 64
+3: Etho: 20
+4: GoodTimeWithScar: 13
+5: Grian: 8
+6: Zedaph: 5
+7: Renthedog: 2
+8: Skizzleman: 1
+9: cubfan135: 1
+Total 212

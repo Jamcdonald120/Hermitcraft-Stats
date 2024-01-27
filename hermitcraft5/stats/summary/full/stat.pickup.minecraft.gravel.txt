@@ -1,0 +1,25 @@
+stat.pickup.minecraft.gravel
+1: Renthedog: 107329
+2: GoodTimeWithScar: 94983
+3: iskall85: 71741
+4: cubfan135: 50244
+5: falsesymmetry: 45747
+6: impulseSV: 18253
+7: Xisuma: 16418
+8: Stressmonster101: 14284
+9: MumboJumbo: 14249
+10: Welsknight: 12026
+11: PythonGB: 9530
+12: joehillssays: 9383
+13: Tango: 7684
+14: Tinfoilchef: 5172
+15: Zedaph: 4799
+16: iJevin: 3699
+17: ZombieCleo: 2527
+18: xBCrafted: 2445
+19: Biffa2001: 1428
+20: Etho: 1312
+21: Docm77: 955
+22: BdoubleO100: 938
+23: VintageBeef: 751
+Total 495897

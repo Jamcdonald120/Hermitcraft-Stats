@@ -1,0 +1,16 @@
+minecraft.picked_up.purpur_block
+1: cubfan135: 1683
+2: impulseSV: 984
+3: iskall85: 799
+4: Renthedog: 444
+5: MumboJumbo: 410
+6: Tango: 408
+7: Xisuma: 381
+8: PythonGB: 368
+9: iJevin: 190
+10: Zedaph: 164
+11: Grian: 116
+12: GoodTimeWithScar: 115
+13: falsesymmetry: 34
+14: joehillssays: 2
+Total 6098

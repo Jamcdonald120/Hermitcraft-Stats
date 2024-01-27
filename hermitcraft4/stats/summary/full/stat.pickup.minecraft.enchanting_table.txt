@@ -1,0 +1,15 @@
+stat.pickup.minecraft.enchanting_table
+1: Renthedog: 32
+2: Xisuma: 27
+3: falsesymmetry: 7
+4: cubfan135: 6
+5: iskall85: 5
+6: Tango: 2
+7: Etho: 2
+8: Jessassin: 1
+9: iJevin: 1
+10: joehillssays: 1
+11: Welsknight: 1
+12: GoodTimeWithScar: 1
+13: impulseSV: 1
+Total 87

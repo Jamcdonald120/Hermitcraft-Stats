@@ -1,0 +1,7 @@
+stat.useItem.minecraft.cooked_rabbit
+1: topmass: 5
+2: KingDaddyDMAC: 2
+3: joehillssays: 1
+4: Pungence: 1
+5: Spumwackles: 1
+Total 10

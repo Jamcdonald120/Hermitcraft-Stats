@@ -1,0 +1,25 @@
+minecraft.picked_up.nether_gold_ore
+1: GoodTimeWithScar: 2650
+2: cubfan135: 2013
+3: Xisuma: 374
+4: hypnotizd: 316
+5: Grian: 235
+6: xBCrafted: 196
+7: Tango: 178
+8: Zedaph: 173
+9: falsesymmetry: 161
+10: BdoubleO100: 158
+11: MumboJumbo: 156
+12: VintageBeef: 128
+13: Etho: 100
+14: Renthedog: 98
+15: iskall85: 72
+16: iJevin: 53
+17: Docm77: 51
+18: Stressmonster101: 34
+19: impulseSV: 21
+20: ZombieCleo: 17
+21: Welsknight: 12
+22: joehillssays: 4
+23: Keralis1: 4
+Total 7204

@@ -1,0 +1,16 @@
+stat.useItem.minecraft.fish
+1: impulseSV: 5340
+2: cubfan135: 89
+3: iJevin: 62
+4: MumboJumbo: 57
+5: Tinfoilchef: 14
+6: GoodTimeWithScar: 11
+7: Zedaph: 9
+8: falsesymmetry: 8
+9: Xisuma: 3
+10: Docm77: 2
+11: Tango: 2
+12: Welsknight: 2
+13: VintageBeef: 1
+14: joehillssays: 1
+Total 5601

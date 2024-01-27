@@ -1,0 +1,5 @@
+minecraft.picked_up.lime_candle
+1: Tango: 64
+2: ZombieCleo: 4
+3: GoodTimeWithScar: 1
+Total 69

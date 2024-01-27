@@ -1,0 +1,7 @@
+minecraft.picked_up.lime_glazed_terracotta
+1: Xisuma: 29
+2: impulseSV: 27
+3: VintageBeef: 25
+4: falsesymmetry: 21
+5: Tango: 1
+Total 103

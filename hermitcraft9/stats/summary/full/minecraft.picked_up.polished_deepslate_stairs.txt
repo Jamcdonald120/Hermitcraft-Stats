@@ -1,0 +1,26 @@
+minecraft.picked_up.polished_deepslate_stairs
+1: Renthedog: 1267
+2: Tango: 762
+3: cubfan135: 284
+4: iJevin: 275
+5: GoodTimeWithScar: 265
+6: impulseSV: 264
+7: xBCrafted: 223
+8: falsesymmetry: 220
+9: OrionSound: 210
+10: GeminiTay: 151
+11: BdoubleO100: 70
+12: Keralis1: 68
+13: PearlescentMoon: 65
+14: Xisuma: 45
+15: STEAKFG: 42
+16: Mumbo: 29
+17: Docm77: 17
+18: hypnotizd: 15
+19: RentheKing: 13
+20: ZombieCleo: 12
+21: Zedaph: 11
+22: Grian: 4
+23: MythicalSausage: 2
+24: joehillssays: 1
+Total 4315

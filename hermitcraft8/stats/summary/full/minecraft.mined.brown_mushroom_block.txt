@@ -1,0 +1,18 @@
+minecraft.mined.brown_mushroom_block
+1: ZombieCleo: 5018
+2: GeminiTay: 3248
+3: joehillssays: 3094
+4: Etho: 3056
+5: BdoubleO100: 1530
+6: hypnotizd: 1367
+7: falsesymmetry: 612
+8: PearlescentMoon: 536
+9: Grian: 497
+10: Zedaph: 360
+11: Renthedog: 293
+12: Docm77: 135
+13: iJevin: 106
+14: iskall85: 59
+15: Xisuma: 45
+16: MumboJumbo: 5
+Total 19961

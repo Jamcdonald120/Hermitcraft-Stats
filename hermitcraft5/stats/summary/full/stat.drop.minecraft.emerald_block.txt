@@ -1,0 +1,5 @@
+stat.drop.minecraft.emerald_block
+1: cubfan135: 15
+2: GoodTimeWithScar: 2
+3: Xisuma: 1
+Total 18

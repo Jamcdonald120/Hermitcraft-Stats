@@ -1,0 +1,29 @@
+minecraft.picked_up.yellow_concrete
+1: Docm77: 4292
+2: PearlescentMoon: 1857
+3: cubfan135: 1627
+4: joehillssays: 1333
+5: ZombieCleo: 831
+6: Keralis1: 583
+7: Renthedog: 343
+8: impulseSV: 319
+9: VintageBeef: 262
+10: GoodTimeWithScar: 201
+11: Grian: 189
+12: iJevin: 166
+13: Xisuma: 135
+14: Etho: 131
+15: Mumbo: 126
+16: Smallishbeans: 62
+17: falsesymmetry: 37
+18: BdoubleO100: 31
+19: RentheKing: 31
+20: Skizzleman: 17
+21: SolidarityGaming: 12
+22: iskall85: 10
+23: GeminiTay: 7
+24: Tango: 2
+25: xBCrafted: 2
+26: hypnotizd: 2
+27: Zedaph: 2
+Total 12610

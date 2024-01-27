@@ -1,0 +1,13 @@
+minecraft.crafted.diorite_stairs
+1: GoodTimeWithScar: 352
+2: Keralis1: 297
+3: Xisuma: 150
+4: falsesymmetry: 72
+5: cubfan135: 22
+6: GeminiTay: 20
+7: Grian: 8
+8: BdoubleO100: 8
+9: Tango: 7
+10: Docm77: 2
+11: Zedaph: 1
+Total 939

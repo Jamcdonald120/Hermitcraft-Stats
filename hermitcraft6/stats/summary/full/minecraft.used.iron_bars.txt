@@ -1,0 +1,26 @@
+minecraft.used.iron_bars
+1: cubfan135: 8905
+2: Xisuma: 4535
+3: falsesymmetry: 2861
+4: GoodTimeWithScar: 2577
+5: Docm77: 2341
+6: Stressmonster101: 1617
+7: Tango: 1577
+8: impulseSV: 945
+9: MumboJumbo: 786
+10: Zedaph: 786
+11: iskall85: 728
+12: joehillssays: 722
+13: iJevin: 595
+14: Grian: 471
+15: Renthedog: 320
+16: BdoubleO100: 313
+17: ZombieCleo: 299
+18: PythonGB: 236
+19: Biffa2001: 230
+20: Keralis1: 183
+21: xBCrafted: 171
+22: Welsknight: 162
+23: HumanCleo: 43
+24: Tinfoilchef: 42
+Total 31445

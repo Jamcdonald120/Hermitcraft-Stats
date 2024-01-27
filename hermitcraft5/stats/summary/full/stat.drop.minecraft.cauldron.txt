@@ -1,0 +1,6 @@
+stat.drop.minecraft.cauldron
+1: Tango: 2
+2: GoodTimeWithScar: 2
+3: ZombieCleo: 1
+4: impulseSV: 1
+Total 6

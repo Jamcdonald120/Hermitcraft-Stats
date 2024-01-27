@@ -1,0 +1,15 @@
+minecraft.picked_up.horn_coral
+1: cubfan135: 108
+2: Etho: 63
+3: hypnotizd: 29
+4: Xisuma: 18
+5: Keralis1: 11
+6: GoodTimeWithScar: 10
+7: Zedaph: 9
+8: VintageBeef: 3
+9: Docm77: 2
+10: Renthedog: 2
+11: Tango: 2
+12: xBCrafted: 1
+13: falsesymmetry: 1
+Total 259

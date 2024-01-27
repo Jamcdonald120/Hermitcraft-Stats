@@ -1,0 +1,22 @@
+minecraft.picked_up.stripped_birch_log
+1: cubfan135: 1199
+2: Keralis1: 1081
+3: Renthedog: 570
+4: BdoubleO100: 485
+5: GoodTimeWithScar: 478
+6: iskall85: 278
+7: xBCrafted: 179
+8: Stressmonster101: 161
+9: Xisuma: 149
+10: Etho: 141
+11: MumboJumbo: 106
+12: VintageBeef: 73
+13: Grian: 73
+14: joehillssays: 72
+15: Zedaph: 8
+16: Tango: 7
+17: ZombieCleo: 7
+18: hypnotizd: 7
+19: falsesymmetry: 4
+20: Welsknight: 4
+Total 5082

@@ -1,0 +1,6 @@
+stat.mineBlock.minecraft.monster_egg
+1: falsesymmetry: 73
+2: Tango: 17
+3: Spumwackles: 16
+4: zueljin: 9
+Total 115

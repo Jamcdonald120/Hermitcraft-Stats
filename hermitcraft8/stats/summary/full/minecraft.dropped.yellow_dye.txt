@@ -1,0 +1,7 @@
+minecraft.dropped.yellow_dye
+1: Etho: 65
+2: GeminiTay: 28
+3: MumboJumbo: 11
+4: Zedaph: 6
+5: Tango: 1
+Total 111

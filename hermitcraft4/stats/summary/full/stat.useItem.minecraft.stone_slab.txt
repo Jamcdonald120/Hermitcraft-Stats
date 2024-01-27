@@ -1,0 +1,25 @@
+stat.useItem.minecraft.stone_slab
+1: falsesymmetry: 56483
+2: impulseSV: 40216
+3: MumboJumbo: 35899
+4: Tango: 24827
+5: Xisuma: 22966
+6: Renthedog: 16299
+7: cubfan135: 15600
+8: GoodTimeWithScar: 11749
+9: Welsknight: 9938
+10: iJevin: 9459
+11: iskall85: 6286
+12: VintageBeef: 5677
+13: Tinfoilchef: 5430
+14: ZombieCleo: 3425
+15: PythonGB: 2626
+16: joehillssays: 2211
+17: Mumbo: 1986
+18: Etho: 860
+19: Docm77: 759
+20: zueljin: 748
+21: xBCrafted: 61
+22: Biffa2001: 45
+23: xisumavoid: 3
+Total 273553

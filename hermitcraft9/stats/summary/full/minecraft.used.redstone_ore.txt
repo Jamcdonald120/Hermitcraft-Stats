@@ -1,0 +1,19 @@
+minecraft.used.redstone_ore
+1: Renthedog: 50
+2: joehillssays: 45
+3: VintageBeef: 39
+4: Zedaph: 33
+5: hypnotizd: 32
+6: BdoubleO100: 20
+7: Xisuma: 19
+8: Keralis1: 19
+9: iskall85: 16
+10: Grian: 11
+11: falsesymmetry: 6
+12: impulseSV: 5
+13: xBCrafted: 4
+14: Etho: 4
+15: Docm77: 1
+16: PearlescentMoon: 1
+17: cubfan135: 1
+Total 306

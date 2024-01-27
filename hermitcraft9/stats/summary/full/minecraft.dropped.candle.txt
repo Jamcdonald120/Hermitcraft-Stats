@@ -1,0 +1,6 @@
+minecraft.dropped.candle
+1: falsesymmetry: 54
+2: iJevin: 53
+3: Keralis1: 13
+4: GoodTimeWithScar: 7
+Total 127

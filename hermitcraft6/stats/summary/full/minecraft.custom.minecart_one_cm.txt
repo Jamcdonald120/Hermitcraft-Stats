@@ -1,0 +1,26 @@
+minecraft.custom.minecart_one_cm
+1: Xisuma: 213493778
+2: impulseSV: 27005809
+3: Tinfoilchef: 24416287
+4: Docm77: 7481166
+5: GoodTimeWithScar: 4512778
+6: Renthedog: 4305943
+7: cubfan135: 3662439
+8: falsesymmetry: 3469127
+9: joehillssays: 3011446
+10: Grian: 1502263
+11: iskall85: 1475132
+12: iJevin: 832381
+13: ZombieCleo: 703121
+14: Zedaph: 296924
+15: Keralis1: 251261
+16: Tango: 224717
+17: MumboJumbo: 115358
+18: Duke_da_dog: 73669
+19: PythonGB: 65232
+20: Jessassin: 64916
+21: Welsknight: 59625
+22: BdoubleO100: 46438
+23: Stressmonster101: 38952
+24: HumanCleo: 254
+Total 297109016

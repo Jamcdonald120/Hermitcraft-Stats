@@ -1,0 +1,25 @@
+minecraft.used.coal_ore
+1: GoodTimeWithScar: 10506
+2: cubfan135: 6226
+3: falsesymmetry: 5560
+4: iJevin: 3496
+5: xBCrafted: 3392
+6: ZombieCleo: 3167
+7: hypnotizd: 2878
+8: Grian: 2634
+9: Keralis1: 2235
+10: BdoubleO100: 1782
+11: Zedaph: 1701
+12: Renthedog: 1458
+13: joehillssays: 1266
+14: Tango: 881
+15: MumboJumbo: 852
+16: impulseSV: 671
+17: Etho: 591
+18: Xisuma: 506
+19: Stressmonster101: 331
+20: iskall85: 297
+21: Docm77: 247
+22: Welsknight: 132
+23: VintageBeef: 77
+Total 50886

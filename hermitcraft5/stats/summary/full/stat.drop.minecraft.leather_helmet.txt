@@ -1,0 +1,23 @@
+stat.drop.minecraft.leather_helmet
+1: Renthedog: 166
+2: GoodTimeWithScar: 85
+3: iskall85: 53
+4: Tinfoilchef: 45
+5: xBCrafted: 40
+6: Tango: 23
+7: falsesymmetry: 21
+8: Zedaph: 21
+9: impulseSV: 19
+10: BdoubleO100: 16
+11: Docm77: 13
+12: cubfan135: 10
+13: Xisuma: 5
+14: PythonGB: 4
+15: VintageBeef: 3
+16: iJevin: 3
+17: Welsknight: 3
+18: MumboJumbo: 3
+19: joehillssays: 2
+20: Stressmonster101: 2
+21: Etho: 1
+Total 538

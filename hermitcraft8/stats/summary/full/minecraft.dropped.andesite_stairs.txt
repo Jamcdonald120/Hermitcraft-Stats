@@ -1,0 +1,6 @@
+minecraft.dropped.andesite_stairs
+1: impulseSV: 27
+2: Tango: 7
+3: Etho: 4
+4: Xisuma: 2
+Total 40

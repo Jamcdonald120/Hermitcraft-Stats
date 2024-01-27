@@ -1,0 +1,11 @@
+minecraft.picked_up.spruce_pressure_plate
+1: Etho: 19
+2: PearlescentMoon: 14
+3: cubfan135: 9
+4: Xisuma: 2
+5: Tango: 2
+6: GoodTimeWithScar: 2
+7: impulseSV: 2
+8: Docm77: 1
+9: iskall85: 1
+Total 52

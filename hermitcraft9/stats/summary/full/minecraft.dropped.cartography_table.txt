@@ -1,0 +1,5 @@
+minecraft.dropped.cartography_table
+1: GoodTimeWithScar: 4
+2: iJevin: 2
+3: Tango: 2
+Total 8

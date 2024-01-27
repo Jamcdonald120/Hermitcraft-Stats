@@ -1,0 +1,12 @@
+minecraft.dropped.light_gray_concrete
+1: falsesymmetry: 1118
+2: Renthedog: 640
+3: Grian: 66
+4: cubfan135: 30
+5: GoodTimeWithScar: 19
+6: PearlescentMoon: 7
+7: impulseSV: 7
+8: Etho: 6
+9: Keralis1: 5
+10: xBCrafted: 1
+Total 1899

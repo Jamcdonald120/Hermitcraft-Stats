@@ -1,0 +1,4 @@
+stat.pickup.minecraft.spectral_arrow
+1: Xisuma: 86
+2: joehillssays: 1
+Total 87

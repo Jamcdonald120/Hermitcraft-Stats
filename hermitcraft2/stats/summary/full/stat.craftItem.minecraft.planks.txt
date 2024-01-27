@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.planks
+1: Xisuma: 18864
+2: Tango: 14958
+3: ZombieCleo: 5606
+4: falsesymmetry: 3956
+5: Spumwackles: 3514
+6: zueljin: 2512
+7: Mumbo: 2316
+8: iJevin: 2068
+9: Tinfoilchef: 1864
+10: xBCrafted: 1696
+11: Biffa2001: 1424
+12: sl1pg8r: 944
+13: KingDaddyDMAC: 256
+14: monkeyfarm: 76
+15: Collen: 68
+16: Pungence: 4
+17: NameOfSamuel: 4
+Total 60130

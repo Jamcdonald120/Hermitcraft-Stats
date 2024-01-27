@@ -1,0 +1,13 @@
+minecraft.picked_up.jungle_boat
+1: Docm77: 17
+2: impulseSV: 16
+3: Renthedog: 15
+4: Grian: 15
+5: Xisuma: 5
+6: PearlescentMoon: 5
+7: GoodTimeWithScar: 3
+8: Tango: 2
+9: GeminiTay: 1
+10: BdoubleO100: 1
+11: iskall85: 1
+Total 81

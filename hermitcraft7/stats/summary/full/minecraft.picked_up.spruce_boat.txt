@@ -1,0 +1,20 @@
+minecraft.picked_up.spruce_boat
+1: cubfan135: 232
+2: iJevin: 37
+3: Grian: 35
+4: impulseSV: 25
+5: Docm77: 24
+6: joehillssays: 24
+7: MumboJumbo: 17
+8: Etho: 16
+9: Tango: 15
+10: GoodTimeWithScar: 13
+11: Zedaph: 12
+12: Renthedog: 11
+13: iskall85: 8
+14: BdoubleO100: 6
+15: Xisuma: 5
+16: VintageBeef: 5
+17: hypnotizd: 2
+18: Keralis1: 1
+Total 488

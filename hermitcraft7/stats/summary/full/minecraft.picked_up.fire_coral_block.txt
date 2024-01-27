@@ -1,0 +1,14 @@
+minecraft.picked_up.fire_coral_block
+1: cubfan135: 949
+2: Etho: 674
+3: Xisuma: 489
+4: Zedaph: 84
+5: iJevin: 69
+6: hypnotizd: 47
+7: xBCrafted: 11
+8: VintageBeef: 9
+9: GoodTimeWithScar: 4
+10: Renthedog: 3
+11: iskall85: 3
+12: Grian: 1
+Total 2343

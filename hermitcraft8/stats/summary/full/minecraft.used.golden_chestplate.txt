@@ -1,0 +1,5 @@
+minecraft.used.golden_chestplate
+1: falsesymmetry: 3
+2: Stressmonster101: 2
+3: joehillssays: 1
+Total 6

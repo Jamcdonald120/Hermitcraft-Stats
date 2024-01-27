@@ -1,0 +1,24 @@
+minecraft.used.stone_shovel
+1: VintageBeef: 12904
+2: BdoubleO100: 788
+3: Zedaph: 672
+4: falsesymmetry: 631
+5: impulseSV: 606
+6: Tinfoilchef: 582
+7: hypnotizd: 511
+8: joehillssays: 331
+9: cubfan135: 324
+10: GeminiTay: 140
+11: iskall85: 131
+12: Xisuma: 128
+13: xBCrafted: 125
+14: Renthedog: 88
+15: PearlescentMoon: 82
+16: Docm77: 55
+17: fWhip: 50
+18: Grian: 35
+19: Pixlriffs: 31
+20: Mumbo: 9
+21: MumboJumbo: 9
+22: iJevin: 5
+Total 18237

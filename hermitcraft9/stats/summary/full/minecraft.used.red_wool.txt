@@ -1,0 +1,25 @@
+minecraft.used.red_wool
+1: Tango: 3328
+2: ZombieCleo: 1627
+3: GeminiTay: 991
+4: Docm77: 892
+5: cubfan135: 868
+6: Xisuma: 638
+7: BdoubleO100: 283
+8: impulseSV: 263
+9: Keralis1: 244
+10: falsesymmetry: 232
+11: Renthedog: 179
+12: iskall85: 138
+13: Grian: 132
+14: joehillssays: 109
+15: PearlescentMoon: 105
+16: Stressmonster101: 83
+17: iJevin: 76
+18: GoodTimeWithScar: 74
+19: RentheKing: 57
+20: VintageBeef: 18
+21: MythicalSausage: 12
+22: hypnotizd: 7
+23: Zedaph: 6
+Total 10362

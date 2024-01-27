@@ -1,0 +1,18 @@
+minecraft.crafted.glass_pane
+1: Grian: 109533
+2: GoodTimeWithScar: 53328
+3: Keralis1: 34273
+4: BdoubleO100: 19800
+5: iskall85: 512
+6: xBCrafted: 384
+7: MumboJumbo: 288
+8: joehillssays: 272
+9: PearlescentMoon: 256
+10: Docm77: 176
+11: Renthedog: 176
+12: Xisuma: 96
+13: cubfan135: 64
+14: Tango: 16
+15: ZombieCleo: 16
+16: Zedaph: 16
+Total 219206

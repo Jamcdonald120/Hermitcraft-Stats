@@ -1,0 +1,16 @@
+minecraft.dropped.hopper
+1: Renthedog: 226
+2: iJevin: 120
+3: iskall85: 85
+4: Stressmonster101: 77
+5: Grian: 51
+6: impulseSV: 40
+7: GoodTimeWithScar: 26
+8: Tango: 22
+9: Zedaph: 18
+10: MumboJumbo: 14
+11: Keralis1: 12
+12: Docm77: 10
+13: cubfan135: 4
+14: falsesymmetry: 1
+Total 706

@@ -1,0 +1,10 @@
+minecraft.used.raw_gold_block
+1: impulseSV: 115
+2: cubfan135: 79
+3: GeminiTay: 29
+4: Etho: 23
+5: PearlescentMoon: 2
+6: iJevin: 1
+7: joehillssays: 1
+8: iskall85: 1
+Total 251

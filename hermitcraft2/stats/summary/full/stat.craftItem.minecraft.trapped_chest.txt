@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.trapped_chest
+1: Tango: 266
+2: Xisuma: 50
+3: Tinfoilchef: 32
+Total 348

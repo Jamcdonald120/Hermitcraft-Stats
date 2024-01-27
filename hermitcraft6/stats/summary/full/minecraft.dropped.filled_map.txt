@@ -1,0 +1,18 @@
+minecraft.dropped.filled_map
+1: cubfan135: 118
+2: iskall85: 62
+3: GoodTimeWithScar: 28
+4: Grian: 18
+5: Tango: 16
+6: Zedaph: 15
+7: Renthedog: 11
+8: Xisuma: 8
+9: iJevin: 7
+10: Docm77: 5
+11: Biffa2001: 2
+12: PythonGB: 1
+13: BdoubleO100: 1
+14: Stressmonster101: 1
+15: Keralis1: 1
+16: impulseSV: 1
+Total 295

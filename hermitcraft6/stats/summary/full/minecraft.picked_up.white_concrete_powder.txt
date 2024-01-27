@@ -1,0 +1,23 @@
+minecraft.picked_up.white_concrete_powder
+1: Grian: 83591
+2: iskall85: 28251
+3: Renthedog: 20370
+4: Stressmonster101: 13694
+5: iJevin: 13010
+6: GoodTimeWithScar: 10882
+7: Xisuma: 7265
+8: MumboJumbo: 6202
+9: Welsknight: 5314
+10: cubfan135: 2973
+11: falsesymmetry: 1901
+12: Tango: 1328
+13: impulseSV: 1103
+14: PythonGB: 719
+15: joehillssays: 416
+16: Keralis1: 401
+17: Docm77: 391
+18: BadTimeWithScar: 298
+19: ZombieCleo: 34
+20: HumanCleo: 13
+21: BdoubleO100: 9
+Total 198165

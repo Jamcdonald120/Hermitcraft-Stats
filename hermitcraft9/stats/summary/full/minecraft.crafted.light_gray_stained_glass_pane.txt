@@ -1,0 +1,19 @@
+minecraft.crafted.light_gray_stained_glass_pane
+1: ZombieCleo: 1104
+2: iJevin: 592
+3: PearlescentMoon: 416
+4: Stressmonster101: 384
+5: GoodTimeWithScar: 288
+6: Keralis1: 240
+7: falsesymmetry: 176
+8: VintageBeef: 160
+9: impulseSV: 160
+10: Renthedog: 144
+11: Grian: 128
+12: BdoubleO100: 72
+13: Docm77: 64
+14: Tango: 64
+15: Xisuma: 24
+16: Etho: 16
+17: Zedaph: 8
+Total 4040

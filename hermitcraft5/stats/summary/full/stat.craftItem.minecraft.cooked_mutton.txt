@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.cooked_mutton
+1: GoodTimeWithScar: 3125
+2: BdoubleO100: 791
+3: Xisuma: 556
+4: Stressmonster101: 230
+5: Tango: 215
+6: falsesymmetry: 92
+7: Etho: 68
+8: iskall85: 52
+9: cubfan135: 48
+10: Zedaph: 47
+11: Docm77: 28
+12: Renthedog: 22
+13: Biffa2001: 21
+14: Welsknight: 16
+15: ZombieCleo: 15
+16: PythonGB: 11
+17: joehillssays: 11
+18: xBCrafted: 9
+19: iJevin: 7
+20: impulseSV: 5
+21: VintageBeef: 3
+22: MumboJumbo: 3
+Total 5375

@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.tripwire_hook
+1: cubfan135: 79
+2: Renthedog: 44
+3: Tango: 39
+4: impulseSV: 20
+5: xBCrafted: 17
+6: iskall85: 16
+7: ZombieCleo: 9
+8: Xisuma: 8
+9: falsesymmetry: 8
+10: MumboJumbo: 7
+11: Zedaph: 7
+12: GoodTimeWithScar: 6
+13: Tinfoilchef: 5
+14: Biffa2001: 3
+15: BdoubleO100: 2
+16: Welsknight: 2
+17: iJevin: 1
+18: Stressmonster101: 1
+Total 274

@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.gold_ingot
+1: Xisuma: 3608
+2: Mumbo: 431
+3: Tinfoilchef: 348
+4: Spumwackles: 331
+5: iJevin: 242
+6: Tango: 155
+7: falsesymmetry: 57
+8: Biffa2001: 37
+9: monkeyfarm: 18
+Total 5227

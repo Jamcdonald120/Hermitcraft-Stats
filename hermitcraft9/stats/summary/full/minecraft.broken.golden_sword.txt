@@ -1,0 +1,4 @@
+minecraft.broken.golden_sword
+1: Renthedog: 2
+2: cubfan135: 1
+Total 3

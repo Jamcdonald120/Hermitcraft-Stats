@@ -1,0 +1,14 @@
+minecraft.picked_up.totem_of_undying
+1: iJevin: 165
+2: Etho: 8
+3: Tango: 6
+4: Renthedog: 4
+5: iskall85: 3
+6: Keralis1: 3
+7: Grian: 2
+8: PearlescentMoon: 2
+9: ZombieCleo: 2
+10: Xisuma: 1
+11: VintageBeef: 1
+12: Welsknight: 1
+Total 198

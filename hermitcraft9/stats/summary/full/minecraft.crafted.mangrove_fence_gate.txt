@@ -1,0 +1,13 @@
+minecraft.crafted.mangrove_fence_gate
+1: cubfan135: 47
+2: PearlescentMoon: 37
+3: GoodTimeWithScar: 16
+4: Keralis1: 15
+5: Docm77: 4
+6: Renthedog: 4
+7: Xisuma: 2
+8: Tango: 2
+9: BdoubleO100: 2
+10: impulseSV: 1
+11: Zedaph: 1
+Total 131

@@ -1,0 +1,6 @@
+stat.useItem.minecraft.dark_oak_fence
+1: ZombieCleo: 535
+2: zueljin: 55
+3: falsesymmetry: 35
+4: xBCrafted: 29
+Total 654

@@ -1,0 +1,21 @@
+stat.pickup.minecraft.chainmail_boots
+1: Renthedog: 48
+2: iskall85: 35
+3: xBCrafted: 28
+4: joehillssays: 24
+5: Docm77: 13
+6: GoodTimeWithScar: 10
+7: Stressmonster101: 10
+8: PythonGB: 9
+9: cubfan135: 9
+10: Tango: 8
+11: Zedaph: 8
+12: falsesymmetry: 6
+13: BdoubleO100: 5
+14: MumboJumbo: 5
+15: iJevin: 4
+16: impulseSV: 4
+17: Welsknight: 3
+18: Biffa2001: 1
+19: Tinfoilchef: 1
+Total 231

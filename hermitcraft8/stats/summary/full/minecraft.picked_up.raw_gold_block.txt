@@ -1,0 +1,11 @@
+minecraft.picked_up.raw_gold_block
+1: cubfan135: 34
+2: Etho: 23
+3: impulseSV: 8
+4: Grian: 6
+5: ZombieCleo: 6
+6: joehillssays: 5
+7: BdoubleO100: 5
+8: iJevin: 4
+9: GeminiTay: 3
+Total 94

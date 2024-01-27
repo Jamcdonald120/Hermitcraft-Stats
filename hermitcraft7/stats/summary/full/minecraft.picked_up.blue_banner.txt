@@ -1,0 +1,9 @@
+minecraft.picked_up.blue_banner
+1: cubfan135: 16
+2: Keralis1: 8
+3: Tango: 4
+4: impulseSV: 3
+5: Etho: 2
+6: VintageBeef: 1
+7: Stressmonster101: 1
+Total 35

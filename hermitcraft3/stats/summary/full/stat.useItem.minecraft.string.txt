@@ -1,0 +1,19 @@
+stat.useItem.minecraft.string
+1: Xisuma: 2876
+2: impulseSV: 1340
+3: falsesymmetry: 801
+4: Tango: 771
+5: xBCrafted: 484
+6: Mumbo: 263
+7: Tinfoilchef: 197
+8: PythonGB: 106
+9: monkeyfarm: 99
+10: iJevin: 43
+11: zueljin: 17
+12: xisumavoid: 15
+13: ZombieCleo: 13
+14: Docm77: 9
+15: Keralis1: 6
+16: sl1pg8r: 4
+17: Biffa2001: 1
+Total 7045

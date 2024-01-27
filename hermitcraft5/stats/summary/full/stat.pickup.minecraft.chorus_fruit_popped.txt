@@ -1,0 +1,4 @@
+stat.pickup.minecraft.chorus_fruit_popped
+1: joehillssays: 21
+2: falsesymmetry: 11
+Total 32

@@ -1,0 +1,9 @@
+stat.useItem.minecraft.light_weighted_pressure_plate
+1: cubfan135: 24
+2: Xisuma: 19
+3: impulseSV: 2
+4: joehillssays: 1
+5: iskall85: 1
+6: falsesymmetry: 1
+7: MumboJumbo: 1
+Total 49

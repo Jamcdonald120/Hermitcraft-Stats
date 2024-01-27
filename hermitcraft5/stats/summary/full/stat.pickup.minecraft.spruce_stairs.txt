@@ -1,0 +1,23 @@
+stat.pickup.minecraft.spruce_stairs
+1: Welsknight: 2879
+2: Stressmonster101: 1504
+3: cubfan135: 1106
+4: falsesymmetry: 956
+5: GoodTimeWithScar: 495
+6: xBCrafted: 470
+7: iJevin: 399
+8: MumboJumbo: 359
+9: iskall85: 211
+10: PythonGB: 169
+11: joehillssays: 160
+12: Tango: 89
+13: Xisuma: 84
+14: impulseSV: 74
+15: BdoubleO100: 67
+16: ZombieCleo: 62
+17: Docm77: 48
+18: VintageBeef: 29
+19: Tinfoilchef: 23
+20: Zedaph: 22
+21: Renthedog: 14
+Total 9220

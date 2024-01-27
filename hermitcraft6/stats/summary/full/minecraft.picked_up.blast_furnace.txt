@@ -1,0 +1,15 @@
+minecraft.picked_up.blast_furnace
+1: GoodTimeWithScar: 237
+2: iskall85: 71
+3: Xisuma: 24
+4: Keralis1: 18
+5: Tango: 15
+6: cubfan135: 11
+7: Docm77: 10
+8: falsesymmetry: 8
+9: Stressmonster101: 6
+10: BdoubleO100: 4
+11: joehillssays: 2
+12: Grian: 1
+13: Tinfoilchef: 1
+Total 408

@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.dark_oak_door
+1: ZombieCleo: 18
+2: zueljin: 15
+3: sl1pg8r: 3
+4: xBCrafted: 3
+5: falsesymmetry: 3
+Total 42

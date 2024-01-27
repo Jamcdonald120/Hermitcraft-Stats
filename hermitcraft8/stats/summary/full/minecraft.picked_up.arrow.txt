@@ -1,0 +1,29 @@
+minecraft.picked_up.arrow
+1: Etho: 9230
+2: Grian: 4696
+3: iJevin: 4694
+4: falsesymmetry: 4187
+5: GoodTimeWithScar: 4159
+6: hypnotizd: 4114
+7: impulseSV: 3539
+8: Docm77: 3312
+9: xBCrafted: 2784
+10: Xisuma: 2760
+11: PearlescentMoon: 2148
+12: Tango: 1874
+13: cubfan135: 1812
+14: iskall85: 1498
+15: GeminiTay: 824
+16: Renthedog: 764
+17: Zedaph: 678
+18: joehillssays: 627
+19: Keralis1: 606
+20: Welsknight: 420
+21: Stressmonster101: 396
+22: ZombieCleo: 384
+23: VintageBeef: 278
+24: BdoubleO100: 276
+25: MumboJumbo: 68
+26: EvilXisuma: 64
+27: Tinfoilchef: 23
+Total 56215

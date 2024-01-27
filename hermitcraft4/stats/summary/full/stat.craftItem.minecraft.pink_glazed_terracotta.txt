@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.pink_glazed_terracotta
+1: falsesymmetry: 128
+2: joehillssays: 44
+Total 172

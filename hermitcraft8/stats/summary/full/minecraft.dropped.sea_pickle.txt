@@ -1,0 +1,9 @@
+minecraft.dropped.sea_pickle
+1: Etho: 32
+2: iJevin: 22
+3: Xisuma: 10
+4: cubfan135: 8
+5: Docm77: 6
+6: Grian: 1
+7: BdoubleO100: 1
+Total 80

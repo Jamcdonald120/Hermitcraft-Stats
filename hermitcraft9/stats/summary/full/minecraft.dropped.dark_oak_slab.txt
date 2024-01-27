@@ -1,0 +1,18 @@
+minecraft.dropped.dark_oak_slab
+1: falsesymmetry: 3099
+2: Renthedog: 372
+3: BdoubleO100: 85
+4: iJevin: 72
+5: GoodTimeWithScar: 59
+6: Zedaph: 49
+7: PearlescentMoon: 11
+8: Grian: 10
+9: OrionSound: 8
+10: Pixlriffs: 8
+11: Keralis1: 7
+12: Tango: 6
+13: Docm77: 4
+14: MythicalSausage: 2
+15: Xisuma: 1
+16: joehillssays: 1
+Total 3794

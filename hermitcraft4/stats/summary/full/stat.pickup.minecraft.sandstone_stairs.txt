@@ -1,0 +1,15 @@
+stat.pickup.minecraft.sandstone_stairs
+1: falsesymmetry: 561
+2: cubfan135: 177
+3: impulseSV: 171
+4: Xisuma: 108
+5: Tango: 105
+6: joehillssays: 94
+7: MumboJumbo: 61
+8: Docm77: 47
+9: Welsknight: 35
+10: iskall85: 29
+11: Renthedog: 24
+12: Etho: 6
+13: GoodTimeWithScar: 1
+Total 1419

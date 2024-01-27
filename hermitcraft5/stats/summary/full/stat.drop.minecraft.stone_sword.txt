@@ -1,0 +1,22 @@
+stat.drop.minecraft.stone_sword
+1: Renthedog: 234
+2: impulseSV: 215
+3: Tango: 107
+4: Xisuma: 97
+5: MumboJumbo: 47
+6: iskall85: 45
+7: falsesymmetry: 42
+8: xBCrafted: 33
+9: cubfan135: 13
+10: GoodTimeWithScar: 13
+11: Zedaph: 13
+12: iJevin: 7
+13: Biffa2001: 6
+14: PythonGB: 5
+15: Stressmonster101: 3
+16: Welsknight: 2
+17: Docm77: 1
+18: BdoubleO100: 1
+19: Etho: 1
+20: ZombieCleo: 1
+Total 886

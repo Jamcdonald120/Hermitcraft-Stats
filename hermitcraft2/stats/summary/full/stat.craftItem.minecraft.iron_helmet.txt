@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.iron_helmet
+1: xBCrafted: 6
+2: Xisuma: 3
+3: Tango: 2
+4: zueljin: 1
+5: falsesymmetry: 1
+Total 13

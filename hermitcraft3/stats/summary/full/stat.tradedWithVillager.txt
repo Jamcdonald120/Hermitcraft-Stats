@@ -1,0 +1,14 @@
+stat.tradedWithVillager
+1: Tango: 1637
+2: impulseSV: 1584
+3: Xisuma: 1422
+4: Tinfoilchef: 885
+5: xBCrafted: 688
+6: iJevin: 675
+7: falsesymmetry: 584
+8: Docm77: 464
+9: PythonGB: 217
+10: zueljin: 98
+11: ZombieCleo: 16
+12: topmass: 4
+Total 8274

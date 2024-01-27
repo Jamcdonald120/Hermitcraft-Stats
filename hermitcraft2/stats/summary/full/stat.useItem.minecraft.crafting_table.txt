@@ -1,0 +1,18 @@
+stat.useItem.minecraft.crafting_table
+1: falsesymmetry: 128
+2: Xisuma: 30
+3: Tango: 29
+4: xBCrafted: 25
+5: monkeyfarm: 17
+6: zueljin: 10
+7: Mumbo: 9
+8: KingDaddyDMAC: 8
+9: Spumwackles: 7
+10: sl1pg8r: 4
+11: Biffa2001: 4
+12: ZombieCleo: 4
+13: Tinfoilchef: 4
+14: iJevin: 3
+15: Collen: 3
+16: NameOfSamuel: 1
+Total 286

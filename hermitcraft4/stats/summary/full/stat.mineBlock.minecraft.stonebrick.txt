@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.stonebrick
+1: iJevin: 12723
+2: falsesymmetry: 10001
+3: Welsknight: 8073
+4: iskall85: 6735
+5: cubfan135: 5627
+6: Xisuma: 5462
+7: MumboJumbo: 4093
+8: Renthedog: 3877
+9: Tinfoilchef: 2252
+10: Etho: 1920
+11: Tango: 1498
+12: impulseSV: 1239
+13: ZombieCleo: 816
+14: GoodTimeWithScar: 740
+15: Docm77: 671
+16: zueljin: 454
+17: VintageBeef: 361
+18: joehillssays: 323
+19: Biffa2001: 229
+20: PythonGB: 143
+21: Mumbo: 13
+Total 67250

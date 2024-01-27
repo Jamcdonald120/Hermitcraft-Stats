@@ -1,0 +1,21 @@
+stat.pickup.minecraft.armor_stand
+1: iskall85: 87
+2: joehillssays: 82
+3: cubfan135: 75
+4: falsesymmetry: 63
+5: Zedaph: 28
+6: Xisuma: 25
+7: xBCrafted: 25
+8: Tango: 24
+9: Welsknight: 23
+10: ZombieCleo: 20
+11: VintageBeef: 9
+12: PythonGB: 7
+13: BdoubleO100: 6
+14: Renthedog: 5
+15: GoodTimeWithScar: 5
+16: Stressmonster101: 3
+17: Biffa2001: 2
+18: impulseSV: 2
+19: iJevin: 1
+Total 492

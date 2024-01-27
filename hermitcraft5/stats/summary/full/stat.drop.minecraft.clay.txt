@@ -1,0 +1,9 @@
+stat.drop.minecraft.clay
+1: Tango: 49
+2: MumboJumbo: 32
+3: GoodTimeWithScar: 27
+4: Zedaph: 13
+5: falsesymmetry: 8
+6: iskall85: 5
+7: cubfan135: 5
+Total 139

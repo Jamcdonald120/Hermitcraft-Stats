@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.snow_layer
+1: Xisuma: 20493
+2: Zedaph: 7154
+3: Tango: 2864
+4: Renthedog: 2623
+5: GoodTimeWithScar: 2486
+6: ZombieCleo: 2317
+7: MumboJumbo: 1924
+8: cubfan135: 1283
+9: impulseSV: 547
+10: falsesymmetry: 511
+11: iskall85: 294
+12: joehillssays: 118
+13: xBCrafted: 107
+14: iJevin: 101
+15: VintageBeef: 70
+16: Biffa2001: 2
+17: Etho: 1
+Total 42895

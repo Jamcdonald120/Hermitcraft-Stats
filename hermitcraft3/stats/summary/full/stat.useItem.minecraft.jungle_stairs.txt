@@ -1,0 +1,7 @@
+stat.useItem.minecraft.jungle_stairs
+1: xBCrafted: 403
+2: Xisuma: 266
+3: monkeyfarm: 205
+4: falsesymmetry: 61
+5: zueljin: 55
+Total 990

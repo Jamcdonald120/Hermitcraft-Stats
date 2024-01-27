@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.stone_brick_stairs
+1: ZombieCleo: 800
+2: falsesymmetry: 612
+3: Tango: 140
+4: KingDaddyDMAC: 48
+5: Tinfoilchef: 40
+6: zueljin: 12
+Total 1652

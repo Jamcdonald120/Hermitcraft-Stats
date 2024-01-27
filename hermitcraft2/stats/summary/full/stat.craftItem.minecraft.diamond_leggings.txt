@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.diamond_leggings
+1: Xisuma: 2
+2: Tango: 2
+3: xBCrafted: 2
+4: Mumbo: 1
+Total 7

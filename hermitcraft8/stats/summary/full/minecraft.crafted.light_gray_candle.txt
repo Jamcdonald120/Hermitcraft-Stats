@@ -1,0 +1,6 @@
+minecraft.crafted.light_gray_candle
+1: ZombieCleo: 195
+2: Grian: 32
+3: Tango: 21
+4: GoodTimeWithScar: 5
+Total 253

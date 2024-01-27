@@ -1,0 +1,28 @@
+minecraft.used.spruce_trapdoor
+1: GoodTimeWithScar: 2658
+2: Xisuma: 2561
+3: PearlescentMoon: 1866
+4: Grian: 1678
+5: Tango: 861
+6: BdoubleO100: 775
+7: GeminiTay: 540
+8: impulseSV: 506
+9: Keralis1: 452
+10: Etho: 406
+11: Renthedog: 390
+12: iskall85: 332
+13: xBCrafted: 313
+14: hypnotizd: 151
+15: ZombieCleo: 149
+16: falsesymmetry: 120
+17: Stressmonster101: 69
+18: VintageBeef: 47
+19: joehillssays: 44
+20: Welsknight: 35
+21: cubfan135: 13
+22: MumboJumbo: 4
+23: Zedaph: 4
+24: EvilXisuma: 2
+25: Docm77: 2
+26: iJevin: 1
+Total 13979

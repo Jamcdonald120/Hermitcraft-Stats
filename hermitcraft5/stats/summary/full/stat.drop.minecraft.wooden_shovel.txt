@@ -1,0 +1,11 @@
+stat.drop.minecraft.wooden_shovel
+1: falsesymmetry: 91
+2: xBCrafted: 39
+3: PythonGB: 30
+4: Welsknight: 20
+5: Renthedog: 19
+6: Tango: 8
+7: iskall85: 5
+8: GoodTimeWithScar: 3
+9: iJevin: 1
+Total 216

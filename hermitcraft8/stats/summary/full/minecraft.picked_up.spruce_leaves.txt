@@ -1,0 +1,21 @@
+minecraft.picked_up.spruce_leaves
+1: GoodTimeWithScar: 67800
+2: Keralis1: 9990
+3: cubfan135: 8219
+4: PearlescentMoon: 5934
+5: Grian: 2781
+6: joehillssays: 1008
+7: BdoubleO100: 710
+8: Tango: 623
+9: impulseSV: 529
+10: Xisuma: 454
+11: ZombieCleo: 311
+12: Welsknight: 230
+13: falsesymmetry: 78
+14: MumboJumbo: 53
+15: xBCrafted: 18
+16: GeminiTay: 16
+17: Etho: 10
+18: Renthedog: 9
+19: hypnotizd: 2
+Total 98775

@@ -1,0 +1,22 @@
+minecraft.crafted.spruce_boat
+1: Grian: 435
+2: PearlescentMoon: 36
+3: impulseSV: 33
+4: Docm77: 19
+5: Tango: 16
+6: GoodTimeWithScar: 5
+7: Xisuma: 4
+8: BdoubleO100: 4
+9: Renthedog: 3
+10: GeminiTay: 3
+11: iskall85: 3
+12: xBCrafted: 2
+13: Etho: 2
+14: VintageBeef: 1
+15: joehillssays: 1
+16: cubfan135: 1
+17: Welsknight: 1
+18: ZombieCleo: 1
+19: Keralis1: 1
+20: Zedaph: 1
+Total 572

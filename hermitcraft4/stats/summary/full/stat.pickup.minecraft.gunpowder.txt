@@ -1,0 +1,25 @@
+stat.pickup.minecraft.gunpowder
+1: impulseSV: 3371
+2: Xisuma: 2943
+3: iskall85: 1811
+4: cubfan135: 1788
+5: falsesymmetry: 1252
+6: GoodTimeWithScar: 1167
+7: MumboJumbo: 1059
+8: Tango: 888
+9: Renthedog: 729
+10: iJevin: 563
+11: Welsknight: 430
+12: PythonGB: 240
+13: Tinfoilchef: 224
+14: VintageBeef: 92
+15: joehillssays: 88
+16: Biffa2001: 83
+17: Etho: 83
+18: Docm77: 68
+19: Jessassin: 46
+20: ZombieCleo: 30
+21: zueljin: 28
+22: xBCrafted: 8
+23: Mumbo: 6
+Total 16997

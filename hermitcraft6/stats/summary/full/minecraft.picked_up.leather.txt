@@ -1,0 +1,28 @@
+minecraft.picked_up.leather
+1: falsesymmetry: 6325
+2: ZombieCleo: 4178
+3: GoodTimeWithScar: 3852
+4: Grian: 2886
+5: Tango: 2337
+6: impulseSV: 1593
+7: Renthedog: 1414
+8: BdoubleO100: 1193
+9: Xisuma: 1052
+10: cubfan135: 770
+11: Zedaph: 741
+12: Docm77: 633
+13: Welsknight: 519
+14: HumanCleo: 486
+15: Stressmonster101: 427
+16: iskall85: 258
+17: iJevin: 240
+18: Biffa2001: 200
+19: Tinfoilchef: 186
+20: MumboJumbo: 137
+21: PythonGB: 135
+22: joehillssays: 111
+23: EvilXisuma: 16
+24: BadTimeWithScar: 15
+25: Keralis1: 14
+26: Jessassin: 7
+Total 29725

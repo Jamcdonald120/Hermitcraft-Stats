@@ -1,0 +1,26 @@
+minecraft.crafted.jungle_planks
+1: Xisuma: 66380
+2: Etho: 38963
+3: joehillssays: 32148
+4: MumboJumbo: 26480
+5: Tango: 22268
+6: Renthedog: 22140
+7: GoodTimeWithScar: 18444
+8: Grian: 16342
+9: iskall85: 13748
+10: cubfan135: 11981
+11: Stressmonster101: 11612
+12: VintageBeef: 11232
+13: impulseSV: 10224
+14: iJevin: 7972
+15: BdoubleO100: 3904
+16: hypnotizd: 3576
+17: xBCrafted: 3081
+18: Keralis1: 2212
+19: falsesymmetry: 1212
+20: Zedaph: 1108
+21: ZombieCleo: 780
+22: Tinfoilchef: 768
+23: Docm77: 440
+24: Welsknight: 4
+Total 327019

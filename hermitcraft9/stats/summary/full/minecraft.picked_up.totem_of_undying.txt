@@ -1,0 +1,34 @@
+minecraft.picked_up.totem_of_undying
+1: iJevin: 445
+2: Keralis1: 316
+3: BdoubleO100: 277
+4: impulseSV: 235
+5: Tango: 151
+6: joehillssays: 103
+7: PearlescentMoon: 102
+8: Xisuma: 87
+9: GoodTimeWithScar: 86
+10: Grian: 77
+11: Docm77: 54
+12: Zedaph: 53
+13: ZombieCleo: 38
+14: cubfan135: 28
+15: Etho: 25
+16: Renthedog: 17
+17: GeminiTay: 16
+18: OrionSound: 15
+19: falsesymmetry: 14
+20: xBCrafted: 13
+21: RentheKing: 5
+22: Smajor1995: 4
+23: MythicalSausage: 4
+24: hypnotizd: 3
+25: VintageBeef: 2
+26: Smallishbeans: 2
+27: ShubbleYT: 2
+28: SolidarityGaming: 2
+29: Pixlriffs: 1
+30: fWhip: 1
+31: Stressmonster101: 1
+32: HBomb94: 1
+Total 2180

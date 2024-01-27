@@ -1,0 +1,24 @@
+minecraft.crafted.white_dye
+1: GoodTimeWithScar: 22363
+2: Grian: 16067
+3: Xisuma: 8536
+4: iskall85: 6279
+5: Renthedog: 4072
+6: cubfan135: 3975
+7: Docm77: 3843
+8: MumboJumbo: 1901
+9: Stressmonster101: 1860
+10: falsesymmetry: 1855
+11: iJevin: 1736
+12: PythonGB: 1684
+13: impulseSV: 674
+14: joehillssays: 585
+15: Zedaph: 408
+16: Tango: 389
+17: ZombieCleo: 204
+18: Tinfoilchef: 181
+19: BdoubleO100: 177
+20: Keralis1: 175
+21: HumanCleo: 158
+22: Welsknight: 40
+Total 77162

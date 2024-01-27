@@ -1,0 +1,33 @@
+minecraft.mined.powder_snow
+1: BdoubleO100: 302
+2: Docm77: 118
+3: MythicalSausage: 118
+4: RentheKing: 116
+5: iJevin: 115
+6: Tango: 108
+7: falsesymmetry: 100
+8: OrionSound: 96
+9: Xisuma: 87
+10: cubfan135: 64
+11: ShubbleYT: 61
+12: iskall85: 51
+13: Etho: 51
+14: ZombieCleo: 49
+15: Grian: 47
+16: Keralis1: 38
+17: Renthedog: 35
+18: Pixlriffs: 25
+19: joehillssays: 23
+20: Mumbo: 21
+21: MumboJumbo: 21
+22: Zedaph: 19
+23: SolidarityGaming: 17
+24: Stressmonster101: 15
+25: impulseSV: 15
+26: hypnotizd: 14
+27: PearlescentMoon: 12
+28: GoodTimeWithScar: 12
+29: xBCrafted: 10
+30: Welsknight: 8
+31: kingbdogz: 4
+Total 1772

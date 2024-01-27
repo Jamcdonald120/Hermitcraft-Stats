@@ -1,0 +1,19 @@
+minecraft.picked_up.sponge
+1: impulseSV: 2406
+2: iJevin: 869
+3: Renthedog: 842
+4: Etho: 587
+5: GoodTimeWithScar: 572
+6: Zedaph: 390
+7: Xisuma: 201
+8: ZombieCleo: 176
+9: Tango: 130
+10: falsesymmetry: 113
+11: MumboJumbo: 109
+12: cubfan135: 92
+13: Grian: 57
+14: Docm77: 36
+15: Keralis1: 12
+16: hypnotizd: 7
+17: xBCrafted: 1
+Total 6600

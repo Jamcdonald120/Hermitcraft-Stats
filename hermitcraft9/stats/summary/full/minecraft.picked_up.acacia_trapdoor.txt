@@ -1,0 +1,21 @@
+minecraft.picked_up.acacia_trapdoor
+1: Renthedog: 441
+2: PearlescentMoon: 314
+3: GoodTimeWithScar: 236
+4: Keralis1: 223
+5: cubfan135: 166
+6: Grian: 163
+7: Docm77: 118
+8: Tango: 77
+9: impulseSV: 73
+10: falsesymmetry: 56
+11: iJevin: 46
+12: Xisuma: 32
+13: hypnotizd: 22
+14: BdoubleO100: 17
+15: fWhip: 14
+16: VintageBeef: 4
+17: MythicalSausage: 2
+18: Etho: 2
+19: xBCrafted: 1
+Total 2007

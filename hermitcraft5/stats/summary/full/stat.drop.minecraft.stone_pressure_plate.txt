@@ -1,0 +1,13 @@
+stat.drop.minecraft.stone_pressure_plate
+1: Renthedog: 636
+2: Xisuma: 169
+3: Tango: 65
+4: MumboJumbo: 49
+5: iskall85: 14
+6: falsesymmetry: 11
+7: GoodTimeWithScar: 6
+8: cubfan135: 5
+9: Zedaph: 4
+10: Tinfoilchef: 1
+11: impulseSV: 1
+Total 961

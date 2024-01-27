@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.stone_button
+1: Renthedog: 3594
+2: iskall85: 1968
+3: xBCrafted: 1120
+4: impulseSV: 724
+5: GoodTimeWithScar: 456
+6: MumboJumbo: 433
+7: cubfan135: 374
+8: falsesymmetry: 237
+9: Tango: 231
+10: Docm77: 141
+11: Xisuma: 141
+12: Welsknight: 101
+13: Zedaph: 58
+14: BdoubleO100: 38
+15: Stressmonster101: 29
+16: VintageBeef: 15
+17: joehillssays: 15
+18: iJevin: 6
+19: ZombieCleo: 6
+20: PythonGB: 4
+21: Tinfoilchef: 4
+Total 9695

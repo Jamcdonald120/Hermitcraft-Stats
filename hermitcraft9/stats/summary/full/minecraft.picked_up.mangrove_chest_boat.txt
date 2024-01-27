@@ -1,0 +1,4 @@
+minecraft.picked_up.mangrove_chest_boat
+1: GoodTimeWithScar: 2
+2: Zedaph: 2
+Total 4

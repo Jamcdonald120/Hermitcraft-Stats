@@ -1,0 +1,9 @@
+stat.drop.minecraft.dispenser
+1: Tango: 3
+2: GoodTimeWithScar: 3
+3: Renthedog: 2
+4: cubfan135: 2
+5: MumboJumbo: 2
+6: Docm77: 1
+7: impulseSV: 1
+Total 14

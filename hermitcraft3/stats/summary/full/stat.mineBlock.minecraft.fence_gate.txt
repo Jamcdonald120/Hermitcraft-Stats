@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.fence_gate
+1: hypnotizd: 68
+2: Xisuma: 67
+3: falsesymmetry: 15
+4: sl1pg8r: 9
+5: xBCrafted: 5
+6: impulseSV: 4
+7: PythonGB: 2
+8: Tango: 2
+9: monkeyfarm: 2
+Total 174

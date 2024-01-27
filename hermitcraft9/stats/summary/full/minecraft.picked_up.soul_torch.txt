@@ -1,0 +1,19 @@
+minecraft.picked_up.soul_torch
+1: iJevin: 397
+2: joehillssays: 322
+3: impulseSV: 254
+4: Tango: 163
+5: GoodTimeWithScar: 148
+6: falsesymmetry: 124
+7: PearlescentMoon: 102
+8: cubfan135: 75
+9: RentheKing: 64
+10: Mumbo: 39
+11: Grian: 33
+12: Etho: 8
+13: Xisuma: 5
+14: GeminiTay: 4
+15: Renthedog: 1
+16: BdoubleO100: 1
+17: xBCrafted: 1
+Total 1741

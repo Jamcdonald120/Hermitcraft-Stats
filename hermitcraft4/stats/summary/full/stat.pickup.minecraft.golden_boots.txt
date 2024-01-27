@@ -1,0 +1,25 @@
+stat.pickup.minecraft.golden_boots
+1: GoodTimeWithScar: 167
+2: Renthedog: 134
+3: falsesymmetry: 78
+4: impulseSV: 66
+5: cubfan135: 51
+6: iskall85: 46
+7: Welsknight: 45
+8: joehillssays: 43
+9: Xisuma: 34
+10: iJevin: 28
+11: PythonGB: 24
+12: Tango: 21
+13: ZombieCleo: 19
+14: Tinfoilchef: 17
+15: Docm77: 15
+16: MumboJumbo: 13
+17: Jessassin: 6
+18: Etho: 5
+19: Mumbo: 5
+20: VintageBeef: 1
+21: xBCrafted: 1
+22: xisumavoid: 1
+23: Biffa2001: 1
+Total 821

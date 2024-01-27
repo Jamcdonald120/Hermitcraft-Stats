@@ -1,0 +1,6 @@
+minecraft.picked_up.brown_stained_glass_pane
+1: GoodTimeWithScar: 41
+2: Grian: 27
+3: Welsknight: 13
+4: MumboJumbo: 1
+Total 82

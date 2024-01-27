@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.emerald_block
+1: cubfan135: 902
+2: Xisuma: 258
+3: Tinfoilchef: 209
+4: Zedaph: 167
+5: falsesymmetry: 120
+6: Welsknight: 60
+7: MumboJumbo: 13
+8: ZombieCleo: 9
+9: GoodTimeWithScar: 3
+10: Tango: 2
+Total 1743

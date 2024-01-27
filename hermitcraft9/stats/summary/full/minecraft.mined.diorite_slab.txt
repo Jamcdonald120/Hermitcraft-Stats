@@ -1,0 +1,14 @@
+minecraft.mined.diorite_slab
+1: Tango: 17
+2: BdoubleO100: 15
+3: Grian: 11
+4: Renthedog: 10
+5: Xisuma: 9
+6: Keralis1: 9
+7: GeminiTay: 7
+8: hypnotizd: 3
+9: MythicalSausage: 2
+10: PearlescentMoon: 2
+11: iskall85: 1
+12: impulseSV: 1
+Total 87

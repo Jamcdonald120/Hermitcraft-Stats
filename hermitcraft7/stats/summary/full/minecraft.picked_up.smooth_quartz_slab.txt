@@ -1,0 +1,22 @@
+minecraft.picked_up.smooth_quartz_slab
+1: GoodTimeWithScar: 3387
+2: impulseSV: 1890
+3: Zedaph: 1883
+4: Keralis1: 1067
+5: cubfan135: 1063
+6: Grian: 790
+7: Xisuma: 578
+8: Tango: 544
+9: VintageBeef: 533
+10: joehillssays: 365
+11: xBCrafted: 295
+12: BdoubleO100: 166
+13: Welsknight: 79
+14: falsesymmetry: 32
+15: Docm77: 25
+16: Etho: 24
+17: ZombieCleo: 15
+18: iJevin: 7
+19: iskall85: 1
+20: Stressmonster101: 1
+Total 12745

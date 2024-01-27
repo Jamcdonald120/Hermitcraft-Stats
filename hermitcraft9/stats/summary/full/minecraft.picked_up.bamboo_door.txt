@@ -1,0 +1,7 @@
+minecraft.picked_up.bamboo_door
+1: Keralis1: 4
+2: Xisuma: 3
+3: PearlescentMoon: 2
+4: Zedaph: 2
+5: Tango: 1
+Total 12

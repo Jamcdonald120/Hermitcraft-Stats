@@ -1,0 +1,4 @@
+stat.useItem.380
+1: Keralis1: 20
+2: skyzm: 5
+Total 25

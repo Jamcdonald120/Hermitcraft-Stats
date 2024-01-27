@@ -1,0 +1,9 @@
+minecraft.picked_up.jungle_fence_gate
+1: iJevin: 41
+2: PearlescentMoon: 6
+3: Keralis1: 6
+4: cubfan135: 4
+5: hypnotizd: 3
+6: Docm77: 2
+7: Grian: 1
+Total 63

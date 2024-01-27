@@ -1,0 +1,34 @@
+minecraft.dropped.glass_bottle
+1: iJevin: 2001
+2: impulseSV: 1523
+3: Keralis1: 1451
+4: Docm77: 904
+5: hypnotizd: 581
+6: Tango: 577
+7: cubfan135: 460
+8: Xisuma: 220
+9: PearlescentMoon: 195
+10: GoodTimeWithScar: 143
+11: Zedaph: 140
+12: joehillssays: 93
+13: Etho: 93
+14: Grian: 92
+15: RentheKing: 85
+16: Renthedog: 70
+17: falsesymmetry: 37
+18: BdoubleO100: 29
+19: ZombieCleo: 20
+20: MythicalSausage: 19
+21: iskall85: 16
+22: OrionSound: 7
+23: xBCrafted: 7
+24: Pixlriffs: 5
+25: ShubbleYT: 5
+26: VintageBeef: 4
+27: GeminiTay: 3
+28: Skizzleman: 3
+29: Stressmonster101: 3
+30: SolidarityGaming: 3
+31: HBomb94: 2
+32: Mumbo: 1
+Total 8792

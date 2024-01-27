@@ -1,0 +1,9 @@
+minecraft.dropped.lapis_block
+1: GoodTimeWithScar: 192
+2: Renthedog: 103
+3: Stressmonster101: 64
+4: iskall85: 47
+5: Grian: 34
+6: ZombieCleo: 23
+7: iJevin: 8
+Total 471

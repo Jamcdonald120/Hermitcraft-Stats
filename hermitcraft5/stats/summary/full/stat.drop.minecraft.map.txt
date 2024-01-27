@@ -1,0 +1,6 @@
+stat.drop.minecraft.map
+1: cubfan135: 14
+2: Tango: 7
+3: MumboJumbo: 2
+4: GoodTimeWithScar: 1
+Total 24

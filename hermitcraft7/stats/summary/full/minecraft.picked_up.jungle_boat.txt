@@ -1,0 +1,22 @@
+minecraft.picked_up.jungle_boat
+1: cubfan135: 127
+2: Etho: 106
+3: MumboJumbo: 78
+4: Xisuma: 50
+5: Docm77: 46
+6: iJevin: 25
+7: Tango: 21
+8: iskall85: 19
+9: impulseSV: 11
+10: Renthedog: 10
+11: joehillssays: 10
+12: Grian: 7
+13: VintageBeef: 6
+14: falsesymmetry: 5
+15: xBCrafted: 4
+16: GoodTimeWithScar: 4
+17: Keralis1: 3
+18: hypnotizd: 2
+19: BdoubleO100: 1
+20: Stressmonster101: 1
+Total 536

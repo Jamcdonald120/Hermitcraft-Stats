@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.ender_eye
+1: Tango: 1109
+2: cubfan135: 319
+3: falsesymmetry: 115
+4: Xisuma: 97
+5: Tinfoilchef: 84
+6: impulseSV: 47
+7: iskall85: 39
+8: GoodTimeWithScar: 22
+9: Renthedog: 19
+10: Welsknight: 16
+11: Docm77: 14
+12: MumboJumbo: 12
+13: Etho: 8
+14: Biffa2001: 7
+15: VintageBeef: 3
+Total 1911

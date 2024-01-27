@@ -1,0 +1,14 @@
+minecraft.crafted.sandstone_stairs
+1: ZombieCleo: 320
+2: cubfan135: 160
+3: Xisuma: 59
+4: GeminiTay: 52
+5: Docm77: 25
+6: PearlescentMoon: 17
+7: BdoubleO100: 6
+8: VintageBeef: 4
+9: MythicalSausage: 4
+10: Keralis1: 4
+11: GoodTimeWithScar: 1
+12: Zedaph: 1
+Total 653

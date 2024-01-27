@@ -1,0 +1,30 @@
+minecraft.picked_up.crimson_planks
+1: Grian: 2452
+2: Xisuma: 338
+3: cubfan135: 334
+4: ZombieCleo: 257
+5: Tango: 236
+6: PearlescentMoon: 180
+7: iJevin: 155
+8: Pixlriffs: 140
+9: GoodTimeWithScar: 138
+10: ShubbleYT: 136
+11: VintageBeef: 112
+12: Renthedog: 110
+13: joehillssays: 102
+14: GeminiTay: 96
+15: Stressmonster101: 63
+16: Docm77: 46
+17: Keralis1: 33
+18: BdoubleO100: 32
+19: impulseSV: 32
+20: Smajor1995: 30
+21: Etho: 24
+22: MythicalSausage: 19
+23: xBCrafted: 16
+24: falsesymmetry: 12
+25: OrionSound: 3
+26: RentheKing: 3
+27: hypnotizd: 3
+28: Zedaph: 3
+Total 5105

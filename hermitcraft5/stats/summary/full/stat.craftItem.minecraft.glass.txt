@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.glass
+1: falsesymmetry: 27890
+2: cubfan135: 13068
+3: impulseSV: 11582
+4: Tango: 9203
+5: GoodTimeWithScar: 8629
+6: joehillssays: 5730
+7: PythonGB: 4647
+8: iskall85: 2818
+9: Xisuma: 2720
+10: ZombieCleo: 2487
+11: Docm77: 1711
+12: iJevin: 1327
+13: Biffa2001: 1089
+14: Tinfoilchef: 911
+15: Zedaph: 850
+16: Renthedog: 779
+17: Stressmonster101: 768
+18: Etho: 359
+19: VintageBeef: 280
+20: BdoubleO100: 140
+21: Welsknight: 66
+22: MumboJumbo: 60
+23: xBCrafted: 4
+Total 97118

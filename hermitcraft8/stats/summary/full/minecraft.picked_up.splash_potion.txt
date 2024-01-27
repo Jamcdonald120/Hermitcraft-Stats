@@ -1,0 +1,14 @@
+minecraft.picked_up.splash_potion
+1: Etho: 301
+2: iJevin: 218
+3: GoodTimeWithScar: 29
+4: cubfan135: 17
+5: Docm77: 13
+6: Zedaph: 11
+7: Tango: 9
+8: impulseSV: 9
+9: Grian: 4
+10: VintageBeef: 2
+11: joehillssays: 2
+12: Welsknight: 2
+Total 617

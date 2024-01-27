@@ -1,0 +1,17 @@
+stat.pickup.minecraft.prismarine_crystals
+1: impulseSV: 22406
+2: MumboJumbo: 5174
+3: cubfan135: 3245
+4: Tango: 563
+5: PythonGB: 475
+6: iJevin: 330
+7: falsesymmetry: 244
+8: Renthedog: 137
+9: Xisuma: 123
+10: iskall85: 117
+11: Zedaph: 113
+12: GoodTimeWithScar: 71
+13: joehillssays: 9
+14: xBCrafted: 4
+15: BdoubleO100: 3
+Total 33014

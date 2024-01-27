@@ -1,0 +1,9 @@
+minecraft.picked_up.horn_coral
+1: GoodTimeWithScar: 200
+2: cubfan135: 159
+3: Grian: 42
+4: Xisuma: 7
+5: iJevin: 6
+6: Docm77: 2
+7: PythonGB: 1
+Total 417

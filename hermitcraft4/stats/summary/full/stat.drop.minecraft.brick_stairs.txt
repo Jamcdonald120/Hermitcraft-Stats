@@ -1,0 +1,4 @@
+stat.drop.minecraft.brick_stairs
+1: Xisuma: 4
+2: falsesymmetry: 1
+Total 5

@@ -1,0 +1,14 @@
+minecraft.dropped.sticky_piston
+1: Tango: 163
+2: Zedaph: 137
+3: cubfan135: 124
+4: MumboJumbo: 32
+5: Xisuma: 13
+6: impulseSV: 13
+7: Etho: 7
+8: iskall85: 4
+9: Grian: 2
+10: Renthedog: 1
+11: BdoubleO100: 1
+12: Keralis1: 1
+Total 498

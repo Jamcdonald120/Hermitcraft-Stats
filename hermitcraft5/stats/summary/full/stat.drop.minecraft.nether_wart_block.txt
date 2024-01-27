@@ -1,0 +1,5 @@
+stat.drop.minecraft.nether_wart_block
+1: Tango: 170
+2: cubfan135: 136
+3: Zedaph: 8
+Total 314

@@ -1,0 +1,23 @@
+minecraft.mined.deepslate_tile_wall
+1: cubfan135: 312
+2: Renthedog: 238
+3: impulseSV: 87
+4: Tango: 78
+5: Mumbo: 71
+6: RentheKing: 60
+7: xBCrafted: 57
+8: Xisuma: 28
+9: Docm77: 20
+10: Grian: 13
+11: Pixlriffs: 11
+12: Stressmonster101: 6
+13: BdoubleO100: 5
+14: ZombieCleo: 5
+15: MumboJumbo: 5
+16: GoodTimeWithScar: 4
+17: GeminiTay: 3
+18: Keralis1: 3
+19: iJevin: 1
+20: joehillssays: 1
+21: PearlescentMoon: 1
+Total 1009

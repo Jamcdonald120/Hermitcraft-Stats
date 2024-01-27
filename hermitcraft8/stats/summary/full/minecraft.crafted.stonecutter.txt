@@ -1,0 +1,26 @@
+minecraft.crafted.stonecutter
+1: Xisuma: 67
+2: Etho: 64
+3: GoodTimeWithScar: 52
+4: Grian: 19
+5: Zedaph: 9
+6: Renthedog: 8
+7: BdoubleO100: 7
+8: iskall85: 7
+9: joehillssays: 5
+10: impulseSV: 5
+11: Docm77: 4
+12: Tango: 4
+13: cubfan135: 4
+14: iJevin: 3
+15: PearlescentMoon: 3
+16: Welsknight: 3
+17: xBCrafted: 2
+18: falsesymmetry: 2
+19: hypnotizd: 2
+20: Stressmonster101: 2
+21: Keralis1: 2
+22: VintageBeef: 1
+23: GeminiTay: 1
+24: ZombieCleo: 1
+Total 277

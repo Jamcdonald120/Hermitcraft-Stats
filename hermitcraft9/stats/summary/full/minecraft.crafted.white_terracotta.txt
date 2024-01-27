@@ -1,0 +1,21 @@
+minecraft.crafted.white_terracotta
+1: Renthedog: 3288
+2: GoodTimeWithScar: 2128
+3: impulseSV: 2112
+4: Docm77: 1736
+5: VintageBeef: 888
+6: Stressmonster101: 732
+7: joehillssays: 304
+8: Grian: 240
+9: ZombieCleo: 192
+10: PearlescentMoon: 128
+11: RentheKing: 128
+12: xBCrafted: 64
+13: BdoubleO100: 40
+14: Zedaph: 40
+15: GeminiTay: 36
+16: Pixlriffs: 32
+17: Keralis1: 30
+18: Tango: 8
+19: hypnotizd: 8
+Total 12134

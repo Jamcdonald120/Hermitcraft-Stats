@@ -1,0 +1,6 @@
+stat.drop.minecraft.diamond_block
+1: Xisuma: 64
+2: Tango: 12
+3: cubfan135: 11
+4: VintageBeef: 5
+Total 92

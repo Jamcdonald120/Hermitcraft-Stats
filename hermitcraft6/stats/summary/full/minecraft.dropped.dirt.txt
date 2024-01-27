@@ -1,0 +1,28 @@
+minecraft.dropped.dirt
+1: iskall85: 24732
+2: Xisuma: 12354
+3: cubfan135: 11508
+4: Renthedog: 10541
+5: MumboJumbo: 10358
+6: Tango: 8479
+7: GoodTimeWithScar: 7234
+8: Docm77: 6273
+9: falsesymmetry: 4995
+10: iJevin: 3803
+11: Grian: 2906
+12: Zedaph: 2717
+13: impulseSV: 2133
+14: Stressmonster101: 1872
+15: Welsknight: 1839
+16: ZombieCleo: 1174
+17: Keralis1: 1060
+18: joehillssays: 888
+19: Tinfoilchef: 752
+20: BdoubleO100: 281
+21: Biffa2001: 144
+22: xBCrafted: 115
+23: HumanCleo: 81
+24: PythonGB: 50
+25: Duke_da_dog: 22
+26: EvilXisuma: 2
+Total 116313

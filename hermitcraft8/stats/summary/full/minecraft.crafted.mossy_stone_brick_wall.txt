@@ -1,0 +1,5 @@
+minecraft.crafted.mossy_stone_brick_wall
+1: Keralis1: 74
+2: iJevin: 48
+3: cubfan135: 15
+Total 137

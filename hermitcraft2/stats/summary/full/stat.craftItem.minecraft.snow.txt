@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.snow
+1: Spumwackles: 12
+2: zueljin: 9
+Total 21

@@ -1,0 +1,8 @@
+minecraft.picked_up.brush
+1: Zedaph: 10
+2: ZombieCleo: 2
+3: GoodTimeWithScar: 2
+4: Grian: 1
+5: PearlescentMoon: 1
+6: cubfan135: 1
+Total 17

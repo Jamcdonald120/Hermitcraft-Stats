@@ -1,0 +1,15 @@
+minecraft.crafted.acacia_trapdoor
+1: impulseSV: 854
+2: GoodTimeWithScar: 708
+3: Docm77: 558
+4: BdoubleO100: 474
+5: PearlescentMoon: 312
+6: Renthedog: 228
+7: Xisuma: 188
+8: falsesymmetry: 150
+9: Etho: 84
+10: Keralis1: 84
+11: Grian: 76
+12: joehillssays: 40
+13: MumboJumbo: 18
+Total 3774

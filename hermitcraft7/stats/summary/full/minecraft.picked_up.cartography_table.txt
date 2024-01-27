@@ -1,0 +1,21 @@
+minecraft.picked_up.cartography_table
+1: Tango: 70
+2: GoodTimeWithScar: 21
+3: falsesymmetry: 19
+4: cubfan135: 19
+5: Etho: 17
+6: Xisuma: 14
+7: Grian: 14
+8: iskall85: 7
+9: BdoubleO100: 6
+10: Keralis1: 6
+11: iJevin: 5
+12: hypnotizd: 5
+13: joehillssays: 3
+14: impulseSV: 3
+15: xBCrafted: 2
+16: ZombieCleo: 2
+17: Docm77: 1
+18: VintageBeef: 1
+19: Zedaph: 1
+Total 216

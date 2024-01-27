@@ -1,0 +1,22 @@
+minecraft.dropped.white_dye
+1: Tango: 910
+2: Keralis1: 771
+3: falsesymmetry: 315
+4: impulseSV: 254
+5: Grian: 216
+6: cubfan135: 176
+7: GoodTimeWithScar: 174
+8: iJevin: 161
+9: hypnotizd: 160
+10: Renthedog: 157
+11: ZombieCleo: 96
+12: BdoubleO100: 41
+13: Zedaph: 39
+14: Docm77: 26
+15: Etho: 10
+16: Xisuma: 9
+17: VintageBeef: 6
+18: joehillssays: 6
+19: GeminiTay: 2
+20: Mumbo: 1
+Total 3530

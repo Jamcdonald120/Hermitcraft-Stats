@@ -1,0 +1,28 @@
+minecraft.mined.copper_block
+1: Mumbo: 748
+2: Grian: 648
+3: Xisuma: 600
+4: RentheKing: 560
+5: falsesymmetry: 211
+6: joehillssays: 182
+7: PearlescentMoon: 174
+8: Keralis1: 173
+9: cubfan135: 167
+10: Renthedog: 160
+11: GoodTimeWithScar: 160
+12: Docm77: 104
+13: BdoubleO100: 92
+14: Tango: 81
+15: Zedaph: 69
+16: VintageBeef: 47
+17: impulseSV: 35
+18: iskall85: 27
+19: xBCrafted: 11
+20: Etho: 8
+21: MumboJumbo: 7
+22: ZombieCleo: 6
+23: Smallishbeans: 5
+24: GeminiTay: 2
+25: Pixlriffs: 1
+26: Stressmonster101: 1
+Total 4279

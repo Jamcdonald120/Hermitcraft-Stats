@@ -1,0 +1,22 @@
+minecraft.dropped.magma_cream
+1: Zedaph: 181
+2: iJevin: 98
+3: impulseSV: 89
+4: cubfan135: 60
+5: GoodTimeWithScar: 57
+6: xBCrafted: 53
+7: Xisuma: 49
+8: Renthedog: 39
+9: VintageBeef: 38
+10: Grian: 29
+11: Docm77: 26
+12: iskall85: 11
+13: GeminiTay: 5
+14: Welsknight: 4
+15: Tango: 3
+16: Etho: 3
+17: PearlescentMoon: 2
+18: hypnotizd: 2
+19: EvilXisuma: 1
+20: Keralis1: 1
+Total 751

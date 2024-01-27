@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.quartz_block
+1: ZombieCleo: 302
+2: Tango: 171
+3: iJevin: 127
+4: zueljin: 74
+5: Xisuma: 40
+6: xBCrafted: 23
+7: Collen: 3
+Total 740

@@ -1,0 +1,3 @@
+minecraft.dropped.purple_banner
+1: GoodTimeWithScar: 7
+Total 7

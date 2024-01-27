@@ -1,0 +1,27 @@
+minecraft.crafted.red_dye
+1: cubfan135: 1600
+2: Tango: 1420
+3: Etho: 1122
+4: iJevin: 950
+5: ZombieCleo: 878
+6: Renthedog: 728
+7: MumboJumbo: 686
+8: PearlescentMoon: 519
+9: hypnotizd: 439
+10: falsesymmetry: 338
+11: Xisuma: 307
+12: xBCrafted: 290
+13: GoodTimeWithScar: 286
+14: Docm77: 263
+15: Keralis1: 135
+16: Stressmonster101: 129
+17: Welsknight: 98
+18: impulseSV: 81
+19: Grian: 73
+20: VintageBeef: 66
+21: Zedaph: 61
+22: GeminiTay: 51
+23: joehillssays: 31
+24: BdoubleO100: 29
+25: iskall85: 3
+Total 10583

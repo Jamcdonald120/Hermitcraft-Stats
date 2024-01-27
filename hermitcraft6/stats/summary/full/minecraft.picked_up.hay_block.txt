@@ -1,0 +1,19 @@
+minecraft.picked_up.hay_block
+1: falsesymmetry: 348
+2: cubfan135: 310
+3: GoodTimeWithScar: 204
+4: iskall85: 49
+5: impulseSV: 36
+6: joehillssays: 33
+7: Docm77: 30
+8: iJevin: 22
+9: Tinfoilchef: 17
+10: Keralis1: 15
+11: Xisuma: 8
+12: ZombieCleo: 7
+13: Grian: 5
+14: Renthedog: 3
+15: BdoubleO100: 3
+16: Jessassin: 2
+17: MumboJumbo: 1
+Total 1093

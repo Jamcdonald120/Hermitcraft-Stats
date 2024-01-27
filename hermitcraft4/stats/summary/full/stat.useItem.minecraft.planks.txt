@@ -1,0 +1,25 @@
+stat.useItem.minecraft.planks
+1: GoodTimeWithScar: 13087
+2: cubfan135: 12711
+3: Welsknight: 8885
+4: iskall85: 8287
+5: Xisuma: 7178
+6: Renthedog: 6402
+7: Tinfoilchef: 6017
+8: impulseSV: 4054
+9: Tango: 2926
+10: falsesymmetry: 2169
+11: MumboJumbo: 2061
+12: joehillssays: 1814
+13: zueljin: 1680
+14: ZombieCleo: 1454
+15: iJevin: 1286
+16: Etho: 1238
+17: Biffa2001: 1106
+18: PythonGB: 932
+19: Docm77: 465
+20: VintageBeef: 396
+21: Mumbo: 206
+22: xBCrafted: 20
+23: Jessassin: 6
+Total 84380

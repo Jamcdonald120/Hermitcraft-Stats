@@ -1,0 +1,12 @@
+minecraft.picked_up.granite_stairs
+1: cubfan135: 37
+2: PearlescentMoon: 28
+3: falsesymmetry: 24
+4: Xisuma: 12
+5: BdoubleO100: 12
+6: Keralis1: 5
+7: joehillssays: 1
+8: Grian: 1
+9: Tango: 1
+10: impulseSV: 1
+Total 122

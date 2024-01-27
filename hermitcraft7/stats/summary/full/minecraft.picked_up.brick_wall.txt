@@ -1,0 +1,14 @@
+minecraft.picked_up.brick_wall
+1: GoodTimeWithScar: 671
+2: Zedaph: 252
+3: cubfan135: 187
+4: Xisuma: 137
+5: xBCrafted: 136
+6: BdoubleO100: 98
+7: Etho: 95
+8: Grian: 59
+9: Tango: 14
+10: iskall85: 14
+11: falsesymmetry: 7
+12: VintageBeef: 2
+Total 1672

@@ -1,0 +1,6 @@
+minecraft.dropped.magenta_stained_glass_pane
+1: MumboJumbo: 8
+2: iskall85: 6
+3: falsesymmetry: 5
+4: Renthedog: 2
+Total 21

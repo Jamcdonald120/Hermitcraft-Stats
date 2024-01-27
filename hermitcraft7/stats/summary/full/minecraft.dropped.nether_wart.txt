@@ -1,0 +1,17 @@
+minecraft.dropped.nether_wart
+1: Tango: 904
+2: Zedaph: 726
+3: Stressmonster101: 256
+4: iskall85: 237
+5: cubfan135: 231
+6: Grian: 67
+7: VintageBeef: 65
+8: Etho: 49
+9: GoodTimeWithScar: 48
+10: Xisuma: 47
+11: impulseSV: 25
+12: Docm77: 4
+13: hypnotizd: 3
+14: Keralis1: 3
+15: joehillssays: 2
+Total 2667

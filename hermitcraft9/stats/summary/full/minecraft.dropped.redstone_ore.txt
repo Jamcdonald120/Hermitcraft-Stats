@@ -1,0 +1,11 @@
+minecraft.dropped.redstone_ore
+1: Tango: 29
+2: Keralis1: 11
+3: iJevin: 5
+4: Xisuma: 4
+5: joehillssays: 4
+6: impulseSV: 4
+7: xBCrafted: 3
+8: Zedaph: 3
+9: Etho: 1
+Total 64

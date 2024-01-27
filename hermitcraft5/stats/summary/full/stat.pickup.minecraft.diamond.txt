@@ -1,0 +1,25 @@
+stat.pickup.minecraft.diamond
+1: Renthedog: 2099
+2: Tinfoilchef: 2054
+3: cubfan135: 1888
+4: GoodTimeWithScar: 1189
+5: MumboJumbo: 890
+6: iskall85: 585
+7: Welsknight: 520
+8: falsesymmetry: 504
+9: xBCrafted: 496
+10: PythonGB: 459
+11: impulseSV: 439
+12: Zedaph: 422
+13: Tango: 358
+14: ZombieCleo: 302
+15: iJevin: 295
+16: Xisuma: 268
+17: joehillssays: 240
+18: Etho: 238
+19: Stressmonster101: 183
+20: VintageBeef: 175
+21: BdoubleO100: 164
+22: Biffa2001: 152
+23: Docm77: 124
+Total 14044

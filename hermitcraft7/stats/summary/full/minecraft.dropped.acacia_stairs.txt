@@ -1,0 +1,8 @@
+minecraft.dropped.acacia_stairs
+1: xBCrafted: 64
+2: GoodTimeWithScar: 22
+3: Etho: 7
+4: Renthedog: 5
+5: Tango: 3
+6: Grian: 1
+Total 102

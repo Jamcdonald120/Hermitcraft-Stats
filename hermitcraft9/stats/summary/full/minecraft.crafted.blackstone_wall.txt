@@ -1,0 +1,13 @@
+minecraft.crafted.blackstone_wall
+1: Tango: 282
+2: cubfan135: 50
+3: Xisuma: 37
+4: falsesymmetry: 30
+5: PearlescentMoon: 19
+6: joehillssays: 18
+7: GoodTimeWithScar: 7
+8: MythicalSausage: 6
+9: Grian: 6
+10: Docm77: 4
+11: Zedaph: 1
+Total 460

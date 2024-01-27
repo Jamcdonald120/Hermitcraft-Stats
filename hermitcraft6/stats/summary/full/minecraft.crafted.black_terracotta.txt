@@ -1,0 +1,16 @@
+minecraft.crafted.black_terracotta
+1: cubfan135: 9392
+2: GoodTimeWithScar: 5168
+3: Xisuma: 3240
+4: joehillssays: 1608
+5: iskall85: 980
+6: Stressmonster101: 648
+7: Grian: 440
+8: falsesymmetry: 256
+9: MumboJumbo: 72
+10: impulseSV: 64
+11: Tango: 16
+12: Biffa2001: 16
+13: PythonGB: 12
+14: ZombieCleo: 8
+Total 21920

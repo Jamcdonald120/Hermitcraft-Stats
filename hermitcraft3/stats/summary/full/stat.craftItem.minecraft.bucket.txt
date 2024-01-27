@@ -1,0 +1,28 @@
+stat.craftItem.minecraft.bucket
+1: hypnotizd: 2221
+2: Xisuma: 636
+3: xBCrafted: 566
+4: falsesymmetry: 342
+5: Mumbo: 260
+6: Tango: 166
+7: impulseSV: 133
+8: monkeyfarm: 99
+9: Tinfoilchef: 81
+10: Biffa2001: 48
+11: zueljin: 42
+12: Spumwackles: 37
+13: sl1pg8r: 36
+14: KingDaddyDMAC: 29
+15: iJevin: 28
+16: joehillssays: 20
+17: Etho: 17
+18: ZombieCleo: 15
+19: topmass: 13
+20: Docm77: 11
+21: PythonGB: 10
+22: Pungence: 2
+23: Keralis1: 2
+24: skyzm: 1
+25: NameOfSamuel: 1
+26: Collen: 1
+Total 4817

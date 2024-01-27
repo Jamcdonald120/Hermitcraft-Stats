@@ -1,0 +1,29 @@
+stat.useItem.minecraft.cooked_beef
+1: xBCrafted: 3681
+2: falsesymmetry: 2417
+3: Tango: 1943
+4: sl1pg8r: 1919
+5: impulseSV: 1516
+6: Biffa2001: 1182
+7: Xisuma: 1086
+8: hypnotizd: 985
+9: monkeyfarm: 984
+10: ZombieCleo: 928
+11: KingDaddyDMAC: 905
+12: topmass: 845
+13: zueljin: 778
+14: Tinfoilchef: 657
+15: Mumbo: 614
+16: Spumwackles: 521
+17: PythonGB: 460
+18: iJevin: 437
+19: Docm77: 106
+20: joehillssays: 48
+21: Keralis1: 29
+22: Etho: 28
+23: Collen: 8
+24: NameOfSamuel: 6
+25: truesymmetry: 3
+26: D_A_I_N_A: 2
+27: Pungence: 1
+Total 22089

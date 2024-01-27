@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.wooden_door
+1: Tango: 1149
+2: cubfan135: 210
+3: Xisuma: 72
+4: joehillssays: 42
+5: GoodTimeWithScar: 33
+6: VintageBeef: 27
+7: impulseSV: 15
+8: MumboJumbo: 12
+9: Tinfoilchef: 12
+10: iskall85: 6
+11: Welsknight: 6
+12: Biffa2001: 6
+13: Etho: 6
+14: Mumbo: 6
+15: iJevin: 3
+16: falsesymmetry: 3
+17: ZombieCleo: 3
+Total 1611

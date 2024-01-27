@@ -1,0 +1,27 @@
+minecraft.picked_up.torch
+1: cubfan135: 18455
+2: Zedaph: 15075
+3: GoodTimeWithScar: 14905
+4: Grian: 12820
+5: joehillssays: 12532
+6: iJevin: 11648
+7: falsesymmetry: 11149
+8: Tango: 9703
+9: impulseSV: 9111
+10: xBCrafted: 8617
+11: Renthedog: 6660
+12: Xisuma: 6314
+13: Stressmonster101: 5480
+14: iskall85: 5116
+15: Keralis1: 4981
+16: hypnotizd: 4063
+17: Etho: 3775
+18: BdoubleO100: 3585
+19: MumboJumbo: 3414
+20: VintageBeef: 2971
+21: Docm77: 1751
+22: Welsknight: 1645
+23: ZombieCleo: 1220
+24: Tinfoilchef: 1022
+25: Helsknight_: 2
+Total 176014

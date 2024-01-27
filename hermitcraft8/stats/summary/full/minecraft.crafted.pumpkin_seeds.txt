@@ -1,0 +1,15 @@
+minecraft.crafted.pumpkin_seeds
+1: iJevin: 608
+2: Xisuma: 100
+3: Welsknight: 56
+4: Stressmonster101: 48
+5: Zedaph: 44
+6: GoodTimeWithScar: 28
+7: cubfan135: 24
+8: ZombieCleo: 24
+9: Tango: 20
+10: GeminiTay: 16
+11: Grian: 8
+12: joehillssays: 4
+13: impulseSV: 4
+Total 984

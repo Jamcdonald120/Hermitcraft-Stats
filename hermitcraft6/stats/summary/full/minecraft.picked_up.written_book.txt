@@ -1,0 +1,27 @@
+minecraft.picked_up.written_book
+1: cubfan135: 390
+2: iJevin: 219
+3: impulseSV: 193
+4: Docm77: 141
+5: falsesymmetry: 136
+6: Renthedog: 118
+7: Grian: 105
+8: Tango: 104
+9: GoodTimeWithScar: 75
+10: MumboJumbo: 67
+11: Zedaph: 64
+12: Welsknight: 63
+13: iskall85: 50
+14: Xisuma: 48
+15: ZombieCleo: 44
+16: PythonGB: 29
+17: Tinfoilchef: 25
+18: Biffa2001: 20
+19: Stressmonster101: 18
+20: joehillssays: 16
+21: BdoubleO100: 14
+22: Keralis1: 7
+23: EvilXisuma: 2
+24: HumanCleo: 1
+25: Jessassin: 1
+Total 1950

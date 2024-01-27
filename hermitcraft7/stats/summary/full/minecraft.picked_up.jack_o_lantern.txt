@@ -1,0 +1,20 @@
+minecraft.picked_up.jack_o_lantern
+1: Etho: 298
+2: cubfan135: 95
+3: MumboJumbo: 95
+4: Tango: 82
+5: iskall85: 63
+6: Zedaph: 56
+7: joehillssays: 51
+8: iJevin: 21
+9: Xisuma: 8
+10: falsesymmetry: 5
+11: Keralis1: 3
+12: impulseSV: 2
+13: Docm77: 1
+14: Renthedog: 1
+15: Grian: 1
+16: xBCrafted: 1
+17: hypnotizd: 1
+18: GoodTimeWithScar: 1
+Total 785

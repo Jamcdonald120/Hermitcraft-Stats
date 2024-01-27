@@ -1,0 +1,7 @@
+stat.drop.minecraft.coal_block
+1: impulseSV: 256
+2: cubfan135: 68
+3: Tango: 32
+4: iskall85: 11
+5: GoodTimeWithScar: 8
+Total 375

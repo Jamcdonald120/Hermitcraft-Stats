@@ -1,0 +1,24 @@
+minecraft.dropped.sweet_berries
+1: Tango: 2991
+2: BdoubleO100: 236
+3: Zedaph: 141
+4: xBCrafted: 132
+5: Grian: 55
+6: PearlescentMoon: 49
+7: GoodTimeWithScar: 46
+8: Keralis1: 41
+9: GeminiTay: 27
+10: iJevin: 26
+11: cubfan135: 25
+12: hypnotizd: 22
+13: Etho: 17
+14: Docm77: 14
+15: ZombieCleo: 13
+16: Xisuma: 7
+17: impulseSV: 6
+18: joehillssays: 4
+19: Smallishbeans: 3
+20: falsesymmetry: 3
+21: Renthedog: 2
+22: Stressmonster101: 1
+Total 3861

@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.yellow_flower
+1: falsesymmetry: 889
+2: Xisuma: 319
+3: xBCrafted: 288
+4: impulseSV: 230
+5: ZombieCleo: 221
+6: monkeyfarm: 125
+7: zueljin: 86
+8: Tango: 80
+9: sl1pg8r: 58
+10: Mumbo: 35
+11: skyzm: 31
+12: Biffa2001: 15
+13: topmass: 12
+14: Tinfoilchef: 7
+15: Docm77: 6
+16: iJevin: 6
+17: KingDaddyDMAC: 5
+18: PythonGB: 3
+19: Pungence: 2
+20: Etho: 1
+21: NameOfSamuel: 1
+Total 2420

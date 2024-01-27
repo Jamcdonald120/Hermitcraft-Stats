@@ -1,0 +1,6 @@
+stat.mineBlock.minecraft.activator_rail
+1: impulseSV: 11
+2: Tango: 2
+3: Xisuma: 1
+4: falsesymmetry: 1
+Total 15

@@ -1,0 +1,19 @@
+stat.killEntity.CaveSpider
+1: Tinfoilchef: 4349
+2: xBCrafted: 3613
+3: hypnotizd: 2714
+4: Tango: 347
+5: Biffa2001: 225
+6: KingDaddyDMAC: 166
+7: falsesymmetry: 118
+8: impulseSV: 61
+9: sl1pg8r: 60
+10: topmass: 48
+11: Xisuma: 45
+12: Mumbo: 21
+13: zueljin: 8
+14: Pungence: 4
+15: Etho: 3
+16: skyzm: 1
+17: monkeyfarm: 1
+Total 11784

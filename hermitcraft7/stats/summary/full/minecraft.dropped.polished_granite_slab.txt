@@ -1,0 +1,8 @@
+minecraft.dropped.polished_granite_slab
+1: Zedaph: 280
+2: Tango: 254
+3: GoodTimeWithScar: 21
+4: iskall85: 4
+5: impulseSV: 2
+6: BdoubleO100: 1
+Total 562

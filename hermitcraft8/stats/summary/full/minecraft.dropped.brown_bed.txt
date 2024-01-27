@@ -1,0 +1,3 @@
+minecraft.dropped.brown_bed
+1: PearlescentMoon: 2
+Total 2

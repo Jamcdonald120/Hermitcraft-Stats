@@ -1,0 +1,20 @@
+minecraft.picked_up.blackstone_wall
+1: Zedaph: 1304
+2: cubfan135: 176
+3: xBCrafted: 175
+4: Tango: 144
+5: ZombieCleo: 131
+6: Grian: 102
+7: Etho: 92
+8: VintageBeef: 49
+9: iskall85: 45
+10: GoodTimeWithScar: 39
+11: joehillssays: 24
+12: BdoubleO100: 15
+13: hypnotizd: 7
+14: Keralis1: 6
+15: Renthedog: 4
+16: impulseSV: 4
+17: Xisuma: 3
+18: Welsknight: 2
+Total 2322

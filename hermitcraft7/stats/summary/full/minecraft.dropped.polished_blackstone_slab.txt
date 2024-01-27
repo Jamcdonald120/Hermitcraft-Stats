@@ -1,0 +1,16 @@
+minecraft.dropped.polished_blackstone_slab
+1: Zedaph: 120
+2: cubfan135: 101
+3: Tango: 84
+4: xBCrafted: 48
+5: MumboJumbo: 42
+6: ZombieCleo: 18
+7: Etho: 16
+8: GoodTimeWithScar: 12
+9: falsesymmetry: 8
+10: impulseSV: 8
+11: iskall85: 7
+12: joehillssays: 1
+13: BdoubleO100: 1
+14: Keralis1: 1
+Total 467

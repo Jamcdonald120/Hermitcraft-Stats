@@ -1,0 +1,10 @@
+minecraft.dropped.stripped_acacia_log
+1: falsesymmetry: 65
+2: Docm77: 24
+3: Tango: 12
+4: BdoubleO100: 8
+5: MythicalSausage: 2
+6: Keralis1: 2
+7: Renthedog: 1
+8: GoodTimeWithScar: 1
+Total 115

@@ -1,0 +1,10 @@
+minecraft.crafted.cyan_banner
+1: cubfan135: 24
+2: BdoubleO100: 20
+3: ZombieCleo: 11
+4: HumanCleo: 10
+5: GoodTimeWithScar: 8
+6: Xisuma: 5
+7: iskall85: 3
+8: falsesymmetry: 2
+Total 83

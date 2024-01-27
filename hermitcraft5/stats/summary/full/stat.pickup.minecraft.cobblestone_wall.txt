@@ -1,0 +1,23 @@
+stat.pickup.minecraft.cobblestone_wall
+1: Docm77: 1746
+2: xBCrafted: 1071
+3: MumboJumbo: 1032
+4: Welsknight: 966
+5: PythonGB: 725
+6: cubfan135: 554
+7: GoodTimeWithScar: 524
+8: joehillssays: 431
+9: Xisuma: 400
+10: iskall85: 380
+11: iJevin: 275
+12: VintageBeef: 256
+13: Tinfoilchef: 201
+14: impulseSV: 175
+15: falsesymmetry: 138
+16: Renthedog: 133
+17: Stressmonster101: 112
+18: Zedaph: 110
+19: ZombieCleo: 53
+20: Tango: 34
+21: BdoubleO100: 28
+Total 9344

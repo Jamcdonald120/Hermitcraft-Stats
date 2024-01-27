@@ -1,0 +1,10 @@
+stat.drop.minecraft.trapped_chest
+1: xBCrafted: 65
+2: iskall85: 6
+3: Tango: 4
+4: MumboJumbo: 3
+5: iJevin: 2
+6: Zedaph: 2
+7: Renthedog: 1
+8: impulseSV: 1
+Total 84

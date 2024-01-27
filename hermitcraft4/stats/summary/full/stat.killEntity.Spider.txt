@@ -1,0 +1,27 @@
+stat.killEntity.Spider
+1: iskall85: 1385
+2: cubfan135: 610
+3: GoodTimeWithScar: 393
+4: Xisuma: 309
+5: Renthedog: 269
+6: impulseSV: 260
+7: Tango: 240
+8: falsesymmetry: 172
+9: Welsknight: 157
+10: MumboJumbo: 143
+11: iJevin: 119
+12: PythonGB: 79
+13: Tinfoilchef: 60
+14: VintageBeef: 59
+15: Etho: 56
+16: Docm77: 52
+17: joehillssays: 49
+18: Biffa2001: 42
+19: ZombieCleo: 29
+20: Jessassin: 17
+21: Mumbo: 16
+22: zueljin: 8
+23: xBCrafted: 8
+24: hypnotizd: 1
+25: monkeyfarm: 1
+Total 4534

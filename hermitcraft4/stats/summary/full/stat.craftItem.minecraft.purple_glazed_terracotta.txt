@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.purple_glazed_terracotta
+1: falsesymmetry: 128
+2: joehillssays: 64
+3: iskall85: 36
+4: Tango: 30
+Total 258

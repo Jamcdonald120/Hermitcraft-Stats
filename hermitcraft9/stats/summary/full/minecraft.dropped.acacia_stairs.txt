@@ -1,0 +1,6 @@
+minecraft.dropped.acacia_stairs
+1: GoodTimeWithScar: 9
+2: Renthedog: 2
+3: BdoubleO100: 2
+4: Etho: 2
+Total 15

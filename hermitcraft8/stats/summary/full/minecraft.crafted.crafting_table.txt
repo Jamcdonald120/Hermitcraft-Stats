@@ -1,0 +1,29 @@
+minecraft.crafted.crafting_table
+1: PearlescentMoon: 180
+2: Grian: 159
+3: iJevin: 95
+4: Docm77: 92
+5: GoodTimeWithScar: 84
+6: GeminiTay: 80
+7: joehillssays: 72
+8: cubfan135: 68
+9: MumboJumbo: 68
+10: iskall85: 67
+11: Etho: 67
+12: Tango: 56
+13: Renthedog: 55
+14: Xisuma: 54
+15: impulseSV: 39
+16: xBCrafted: 34
+17: ZombieCleo: 33
+18: Keralis1: 32
+19: falsesymmetry: 29
+20: Welsknight: 24
+21: Stressmonster101: 23
+22: BdoubleO100: 18
+23: Zedaph: 11
+24: hypnotizd: 10
+25: VintageBeef: 7
+26: Tinfoilchef: 3
+27: EvilXisuma: 1
+Total 1461

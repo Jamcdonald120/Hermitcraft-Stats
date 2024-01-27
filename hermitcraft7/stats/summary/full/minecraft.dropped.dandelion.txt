@@ -1,0 +1,23 @@
+minecraft.dropped.dandelion
+1: MumboJumbo: 2442
+2: Tango: 1590
+3: GoodTimeWithScar: 368
+4: xBCrafted: 148
+5: BdoubleO100: 121
+6: falsesymmetry: 100
+7: Renthedog: 87
+8: Etho: 65
+9: Zedaph: 60
+10: Keralis1: 51
+11: iskall85: 47
+12: joehillssays: 45
+13: Grian: 37
+14: hypnotizd: 33
+15: Xisuma: 30
+16: impulseSV: 29
+17: Stressmonster101: 27
+18: Docm77: 10
+19: cubfan135: 10
+20: iJevin: 5
+21: VintageBeef: 3
+Total 5308

@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.snow_layer
+1: Xisuma: 1556
+2: Renthedog: 1284
+3: GoodTimeWithScar: 904
+4: cubfan135: 522
+5: falsesymmetry: 462
+6: Zedaph: 282
+7: impulseSV: 60
+8: Tango: 36
+9: iskall85: 36
+Total 5142

@@ -1,0 +1,8 @@
+minecraft.dropped.jungle_fence
+1: cubfan135: 75
+2: BdoubleO100: 12
+3: Renthedog: 5
+4: Stressmonster101: 4
+5: Tango: 3
+6: Xisuma: 1
+Total 100

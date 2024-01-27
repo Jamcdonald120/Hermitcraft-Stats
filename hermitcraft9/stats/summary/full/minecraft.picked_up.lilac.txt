@@ -1,0 +1,28 @@
+minecraft.picked_up.lilac
+1: cubfan135: 2735
+2: Etho: 1727
+3: Grian: 1556
+4: ZombieCleo: 1553
+5: hypnotizd: 1094
+6: Xisuma: 972
+7: iskall85: 649
+8: falsesymmetry: 544
+9: impulseSV: 442
+10: Stressmonster101: 276
+11: Tango: 209
+12: Renthedog: 192
+13: GeminiTay: 127
+14: iJevin: 119
+15: PearlescentMoon: 91
+16: GoodTimeWithScar: 91
+17: Docm77: 42
+18: Zedaph: 40
+19: MythicalSausage: 34
+20: BdoubleO100: 16
+21: joehillssays: 10
+22: Mumbo: 10
+23: Pixlriffs: 6
+24: Keralis1: 5
+25: xBCrafted: 1
+26: RentheKing: 1
+Total 12542

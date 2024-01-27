@@ -1,0 +1,33 @@
+minecraft.picked_up.cobblestone
+1: Renthedog: 410153
+2: Tinfoilchef: 255940
+3: GoodTimeWithScar: 225524
+4: Grian: 211588
+5: Xisuma: 144152
+6: iskall85: 139562
+7: iJevin: 105974
+8: impulseSV: 96614
+9: Tango: 93905
+10: cubfan135: 90397
+11: Welsknight: 78956
+12: BdoubleO100: 68273
+13: falsesymmetry: 51661
+14: ZombieCleo: 48320
+15: MumboJumbo: 39411
+16: joehillssays: 34307
+17: Docm77: 29247
+18: Biffa2001: 24018
+19: Keralis1: 23133
+20: Stressmonster101: 22911
+21: xBCrafted: 8046
+22: Zedaph: 5603
+23: HumanCleo: 5433
+24: PythonGB: 2583
+25: Jessassin: 1212
+26: isGall85: 65
+27: EvilXisuma: 59
+28: Cub_Cam: 4
+29: Duke_da_dog: 4
+30: Cojomax99: 2
+31: Jura_Whitey: 1
+Total 2217058

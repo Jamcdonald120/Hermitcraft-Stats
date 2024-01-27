@@ -1,0 +1,29 @@
+minecraft.picked_up.bamboo
+1: impulseSV: 59128
+2: Docm77: 45779
+3: Etho: 31964
+4: joehillssays: 25221
+5: Keralis1: 23170
+6: Zedaph: 15696
+7: cubfan135: 10615
+8: Renthedog: 9207
+9: Grian: 7938
+10: Tango: 6062
+11: GoodTimeWithScar: 5587
+12: iJevin: 4456
+13: Mumbo: 4350
+14: Xisuma: 4299
+15: falsesymmetry: 2808
+16: hypnotizd: 2335
+17: Stressmonster101: 1998
+18: GeminiTay: 1841
+19: BdoubleO100: 1592
+20: xBCrafted: 1246
+21: PearlescentMoon: 1242
+22: ZombieCleo: 922
+23: Welsknight: 163
+24: iskall85: 117
+25: Pixlriffs: 80
+26: VintageBeef: 39
+27: MythicalSausage: 15
+Total 267870

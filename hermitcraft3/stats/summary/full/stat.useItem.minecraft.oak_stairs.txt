@@ -1,0 +1,20 @@
+stat.useItem.minecraft.oak_stairs
+1: Xisuma: 895
+2: xBCrafted: 632
+3: topmass: 606
+4: falsesymmetry: 561
+5: Biffa2001: 423
+6: Etho: 296
+7: PythonGB: 280
+8: Tango: 225
+9: zueljin: 153
+10: monkeyfarm: 138
+11: hypnotizd: 61
+12: impulseSV: 44
+13: Mumbo: 38
+14: Tinfoilchef: 37
+15: ZombieCleo: 25
+16: sl1pg8r: 20
+17: NameOfSamuel: 20
+18: Spumwackles: 6
+Total 4460

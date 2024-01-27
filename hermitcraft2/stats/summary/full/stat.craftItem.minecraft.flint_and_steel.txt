@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.flint_and_steel
+1: Xisuma: 3
+2: Tango: 3
+3: Biffa2001: 3
+4: ZombieCleo: 2
+5: Tinfoilchef: 2
+6: sl1pg8r: 1
+7: iJevin: 1
+8: zueljin: 1
+9: falsesymmetry: 1
+Total 17

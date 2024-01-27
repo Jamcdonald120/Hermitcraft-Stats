@@ -1,0 +1,25 @@
+stat.pickup.minecraft.sapling
+1: Renthedog: 9044
+2: GoodTimeWithScar: 8207
+3: cubfan135: 5779
+4: Welsknight: 4759
+5: falsesymmetry: 3851
+6: Xisuma: 3178
+7: Tinfoilchef: 3020
+8: MumboJumbo: 2792
+9: Stressmonster101: 2753
+10: impulseSV: 2077
+11: xBCrafted: 1769
+12: PythonGB: 1759
+13: iskall85: 1715
+14: Tango: 1523
+15: BdoubleO100: 1498
+16: iJevin: 1229
+17: joehillssays: 1200
+18: ZombieCleo: 1183
+19: Zedaph: 1011
+20: VintageBeef: 638
+21: Etho: 427
+22: Biffa2001: 308
+23: Docm77: 246
+Total 59966

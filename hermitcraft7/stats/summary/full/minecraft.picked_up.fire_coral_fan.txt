@@ -1,0 +1,17 @@
+minecraft.picked_up.fire_coral_fan
+1: Etho: 259
+2: Xisuma: 109
+3: hypnotizd: 99
+4: GoodTimeWithScar: 88
+5: Zedaph: 87
+6: cubfan135: 84
+7: Keralis1: 59
+8: Docm77: 21
+9: VintageBeef: 11
+10: xBCrafted: 9
+11: iskall85: 7
+12: falsesymmetry: 6
+13: Renthedog: 2
+14: MumboJumbo: 2
+15: impulseSV: 1
+Total 844

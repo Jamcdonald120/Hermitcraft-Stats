@@ -1,0 +1,25 @@
+minecraft.mined.polished_andesite
+1: impulseSV: 3527
+2: GoodTimeWithScar: 2993
+3: cubfan135: 2695
+4: Keralis1: 2484
+5: iskall85: 1442
+6: Grian: 1254
+7: Xisuma: 808
+8: falsesymmetry: 722
+9: Etho: 663
+10: xBCrafted: 599
+11: Zedaph: 573
+12: Tango: 508
+13: VintageBeef: 344
+14: BdoubleO100: 143
+15: Docm77: 90
+16: MumboJumbo: 45
+17: joehillssays: 42
+18: Welsknight: 36
+19: ZombieCleo: 33
+20: Renthedog: 30
+21: hypnotizd: 9
+22: Stressmonster101: 2
+23: iJevin: 1
+Total 19043

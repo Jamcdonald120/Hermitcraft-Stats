@@ -1,0 +1,23 @@
+minecraft.used.enchanting_table
+1: Zedaph: 19
+2: Xisuma: 16
+3: cubfan135: 16
+4: VintageBeef: 9
+5: Etho: 9
+6: falsesymmetry: 7
+7: iJevin: 5
+8: Keralis1: 5
+9: Tango: 4
+10: impulseSV: 4
+11: iskall85: 3
+12: hypnotizd: 3
+13: MumboJumbo: 3
+14: Grian: 2
+15: GoodTimeWithScar: 2
+16: Renthedog: 1
+17: joehillssays: 1
+18: BdoubleO100: 1
+19: xBCrafted: 1
+20: ZombieCleo: 1
+21: Stressmonster101: 1
+Total 113

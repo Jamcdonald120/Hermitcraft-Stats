@@ -1,0 +1,26 @@
+minecraft.picked_up.feather
+1: Zedaph: 4047
+2: Tango: 2870
+3: VintageBeef: 1655
+4: Grian: 1218
+5: joehillssays: 705
+6: Xisuma: 527
+7: Keralis1: 372
+8: cubfan135: 318
+9: Stressmonster101: 162
+10: hypnotizd: 138
+11: iJevin: 74
+12: iskall85: 69
+13: GoodTimeWithScar: 59
+14: MumboJumbo: 49
+15: impulseSV: 41
+16: falsesymmetry: 39
+17: xBCrafted: 37
+18: Etho: 35
+19: ZombieCleo: 28
+20: Docm77: 27
+21: Renthedog: 18
+22: BdoubleO100: 18
+23: Welsknight: 16
+24: Tinfoilchef: 12
+Total 12534

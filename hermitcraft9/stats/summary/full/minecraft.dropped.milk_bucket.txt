@@ -1,0 +1,10 @@
+minecraft.dropped.milk_bucket
+1: Zedaph: 22
+2: iJevin: 14
+3: hypnotizd: 11
+4: RentheKing: 9
+5: ZombieCleo: 5
+6: GoodTimeWithScar: 5
+7: Grian: 3
+8: joehillssays: 1
+Total 70

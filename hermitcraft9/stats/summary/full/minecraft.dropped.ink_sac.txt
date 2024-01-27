@@ -1,0 +1,22 @@
+minecraft.dropped.ink_sac
+1: Grian: 18489
+2: falsesymmetry: 4146
+3: iJevin: 128
+4: Renthedog: 69
+5: GeminiTay: 66
+6: Zedaph: 48
+7: RentheKing: 29
+8: BdoubleO100: 24
+9: GoodTimeWithScar: 19
+10: Stressmonster101: 18
+11: cubfan135: 12
+12: Etho: 11
+13: Docm77: 8
+14: Xisuma: 8
+15: joehillssays: 7
+16: impulseSV: 7
+17: Keralis1: 5
+18: xBCrafted: 4
+19: VintageBeef: 3
+20: Minerva246: 2
+Total 23103

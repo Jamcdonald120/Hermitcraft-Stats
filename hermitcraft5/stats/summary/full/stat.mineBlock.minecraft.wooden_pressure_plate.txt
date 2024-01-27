@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.wooden_pressure_plate
+1: cubfan135: 42
+2: Xisuma: 18
+3: Stressmonster101: 14
+4: joehillssays: 7
+5: GoodTimeWithScar: 6
+6: Welsknight: 5
+7: Tango: 4
+8: iskall85: 4
+9: Zedaph: 4
+10: BdoubleO100: 3
+11: Biffa2001: 3
+12: Docm77: 2
+13: PythonGB: 2
+14: falsesymmetry: 1
+15: ZombieCleo: 1
+16: Tinfoilchef: 1
+17: impulseSV: 1
+Total 118

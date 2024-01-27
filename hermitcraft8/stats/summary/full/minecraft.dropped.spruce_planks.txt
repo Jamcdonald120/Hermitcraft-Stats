@@ -1,0 +1,23 @@
+minecraft.dropped.spruce_planks
+1: Grian: 744
+2: PearlescentMoon: 350
+3: impulseSV: 257
+4: Tango: 182
+5: GoodTimeWithScar: 182
+6: GeminiTay: 150
+7: MumboJumbo: 129
+8: Stressmonster101: 128
+9: BdoubleO100: 84
+10: iJevin: 77
+11: Keralis1: 71
+12: Docm77: 49
+13: iskall85: 41
+14: Etho: 34
+15: Xisuma: 17
+16: Renthedog: 12
+17: VintageBeef: 11
+18: falsesymmetry: 10
+19: cubfan135: 5
+20: joehillssays: 3
+21: hypnotizd: 1
+Total 2537

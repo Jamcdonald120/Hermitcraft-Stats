@@ -1,0 +1,14 @@
+minecraft.picked_up.horn_coral_block
+1: cubfan135: 1928
+2: GoodTimeWithScar: 1524
+3: Grian: 458
+4: Xisuma: 332
+5: iJevin: 42
+6: Docm77: 31
+7: iskall85: 27
+8: Tango: 23
+9: MumboJumbo: 15
+10: PythonGB: 14
+11: Renthedog: 7
+12: falsesymmetry: 2
+Total 4403

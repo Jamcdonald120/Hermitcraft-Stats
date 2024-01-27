@@ -1,0 +1,15 @@
+minecraft.crafted.emerald_block
+1: Grian: 3184
+2: GoodTimeWithScar: 2118
+3: Stressmonster101: 953
+4: Xisuma: 595
+5: iJevin: 335
+6: MumboJumbo: 259
+7: cubfan135: 130
+8: Renthedog: 71
+9: PearlescentMoon: 65
+10: hypnotizd: 32
+11: Docm77: 24
+12: VintageBeef: 16
+13: Zedaph: 1
+Total 7783

@@ -1,0 +1,6 @@
+minecraft.picked_up.fermented_spider_eye
+1: Etho: 172
+2: Zedaph: 44
+3: falsesymmetry: 24
+4: Grian: 7
+Total 247

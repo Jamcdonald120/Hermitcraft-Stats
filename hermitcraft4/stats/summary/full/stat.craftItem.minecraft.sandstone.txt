@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.sandstone
+1: MumboJumbo: 22190
+2: falsesymmetry: 9449
+3: Xisuma: 5812
+4: Tango: 4002
+5: Welsknight: 2241
+6: cubfan135: 1969
+7: impulseSV: 1534
+8: joehillssays: 1494
+9: iskall85: 995
+10: GoodTimeWithScar: 980
+11: Docm77: 179
+12: Etho: 86
+13: iJevin: 81
+14: Renthedog: 72
+15: Mumbo: 54
+16: Tinfoilchef: 4
+17: VintageBeef: 1
+Total 51143

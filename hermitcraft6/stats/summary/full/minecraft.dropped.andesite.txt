@@ -1,0 +1,26 @@
+minecraft.dropped.andesite
+1: iskall85: 16524
+2: Tango: 9638
+3: iJevin: 5989
+4: MumboJumbo: 3901
+5: Welsknight: 3281
+6: Renthedog: 2182
+7: cubfan135: 2120
+8: impulseSV: 2051
+9: Stressmonster101: 1944
+10: GoodTimeWithScar: 1671
+11: falsesymmetry: 1543
+12: Grian: 1302
+13: Xisuma: 1232
+14: Zedaph: 1184
+15: Tinfoilchef: 1082
+16: Docm77: 1042
+17: ZombieCleo: 993
+18: Keralis1: 757
+19: joehillssays: 390
+20: BdoubleO100: 315
+21: xBCrafted: 309
+22: Biffa2001: 85
+23: Jessassin: 51
+24: PythonGB: 22
+Total 59608

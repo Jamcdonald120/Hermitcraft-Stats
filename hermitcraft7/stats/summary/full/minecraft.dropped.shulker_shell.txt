@@ -1,0 +1,13 @@
+minecraft.dropped.shulker_shell
+1: GoodTimeWithScar: 417
+2: Zedaph: 268
+3: Xisuma: 32
+4: Keralis1: 20
+5: iskall85: 16
+6: iJevin: 10
+7: Etho: 6
+8: MumboJumbo: 5
+9: cubfan135: 4
+10: Grian: 3
+11: Tango: 3
+Total 784

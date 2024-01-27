@@ -1,0 +1,18 @@
+minecraft.killed_by.skeleton
+1: GoodTimeWithScar: 23
+2: iJevin: 10
+3: Grian: 9
+4: Docm77: 7
+5: Renthedog: 7
+6: Tinfoilchef: 6
+7: impulseSV: 6
+8: joehillssays: 3
+9: cubfan135: 3
+10: Xisuma: 2
+11: Zedaph: 2
+12: EvilXisuma: 1
+13: PythonGB: 1
+14: iskall85: 1
+15: ZombieCleo: 1
+16: MumboJumbo: 1
+Total 83

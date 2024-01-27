@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.stone_brick_stairs
+1: falsesymmetry: 146
+2: ZombieCleo: 99
+3: zueljin: 72
+4: sl1pg8r: 42
+5: Tango: 30
+6: Spumwackles: 14
+7: monkeyfarm: 8
+8: Biffa2001: 7
+9: Tinfoilchef: 7
+10: xBCrafted: 3
+11: Xisuma: 2
+12: iJevin: 2
+Total 432

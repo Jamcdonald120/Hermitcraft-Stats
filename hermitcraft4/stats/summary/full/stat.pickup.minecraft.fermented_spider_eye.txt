@@ -1,0 +1,6 @@
+stat.pickup.minecraft.fermented_spider_eye
+1: Renthedog: 16
+2: Etho: 3
+3: Xisuma: 1
+4: VintageBeef: 1
+Total 21

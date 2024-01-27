@@ -1,0 +1,11 @@
+minecraft.dropped.netherite_boots
+1: iJevin: 8
+2: Etho: 3
+3: Docm77: 2
+4: MumboJumbo: 2
+5: Renthedog: 1
+6: Grian: 1
+7: PearlescentMoon: 1
+8: Keralis1: 1
+9: impulseSV: 1
+Total 20

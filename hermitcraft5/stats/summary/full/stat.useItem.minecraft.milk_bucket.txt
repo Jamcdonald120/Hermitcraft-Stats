@@ -1,0 +1,13 @@
+stat.useItem.minecraft.milk_bucket
+1: cubfan135: 145
+2: GoodTimeWithScar: 40
+3: falsesymmetry: 29
+4: iJevin: 5
+5: xBCrafted: 5
+6: Renthedog: 3
+7: Tango: 3
+8: Zedaph: 2
+9: Xisuma: 1
+10: iskall85: 1
+11: Biffa2001: 1
+Total 235

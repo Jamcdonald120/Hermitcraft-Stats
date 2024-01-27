@@ -1,0 +1,10 @@
+minecraft.crafted.bundle
+1: VintageBeef: 870
+2: iJevin: 16
+3: impulseSV: 10
+4: cubfan135: 4
+5: Xisuma: 1
+6: Grian: 1
+7: Tango: 1
+8: Zedaph: 1
+Total 904

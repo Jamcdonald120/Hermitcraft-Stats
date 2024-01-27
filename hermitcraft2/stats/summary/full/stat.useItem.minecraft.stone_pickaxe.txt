@@ -1,0 +1,6 @@
+stat.useItem.minecraft.stone_pickaxe
+1: xBCrafted: 471
+2: Spumwackles: 27
+3: Tango: 14
+4: falsesymmetry: 3
+Total 515

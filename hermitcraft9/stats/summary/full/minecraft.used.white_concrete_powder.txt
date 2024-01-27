@@ -1,0 +1,24 @@
+minecraft.used.white_concrete_powder
+1: VintageBeef: 14167
+2: Renthedog: 13318
+3: falsesymmetry: 12196
+4: ZombieCleo: 10070
+5: Docm77: 9378
+6: Grian: 8156
+7: impulseSV: 5481
+8: BdoubleO100: 4366
+9: cubfan135: 3316
+10: GoodTimeWithScar: 2934
+11: xBCrafted: 2115
+12: Keralis1: 1465
+13: PearlescentMoon: 1254
+14: joehillssays: 1102
+15: Xisuma: 1065
+16: Etho: 900
+17: iJevin: 320
+18: iskall85: 263
+19: Stressmonster101: 128
+20: Mumbo: 2
+21: Skizzleman: 1
+22: Zedaph: 1
+Total 91998

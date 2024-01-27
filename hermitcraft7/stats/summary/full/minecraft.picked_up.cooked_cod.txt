@@ -1,0 +1,21 @@
+minecraft.picked_up.cooked_cod
+1: Grian: 633
+2: impulseSV: 401
+3: Zedaph: 279
+4: Tango: 203
+5: iskall85: 128
+6: cubfan135: 83
+7: hypnotizd: 75
+8: GoodTimeWithScar: 68
+9: Etho: 47
+10: VintageBeef: 23
+11: iJevin: 20
+12: Keralis1: 19
+13: MumboJumbo: 6
+14: BdoubleO100: 4
+15: ZombieCleo: 4
+16: joehillssays: 3
+17: Docm77: 1
+18: Renthedog: 1
+19: xBCrafted: 1
+Total 1999

@@ -1,0 +1,22 @@
+minecraft.used.verdant_froglight
+1: impulseSV: 2620
+2: cubfan135: 1942
+3: Mumbo: 1188
+4: Xisuma: 750
+5: BdoubleO100: 249
+6: ZombieCleo: 161
+7: joehillssays: 141
+8: Grian: 139
+9: Docm77: 82
+10: Keralis1: 81
+11: Etho: 69
+12: iJevin: 50
+13: iskall85: 47
+14: PearlescentMoon: 43
+15: xBCrafted: 36
+16: Pixlriffs: 21
+17: GoodTimeWithScar: 13
+18: falsesymmetry: 3
+19: Tango: 1
+20: hypnotizd: 1
+Total 7637

@@ -1,0 +1,8 @@
+stat.useItem.minecraft.hay_block
+1: falsesymmetry: 152
+2: Xisuma: 102
+3: Tango: 80
+4: zueljin: 56
+5: xBCrafted: 32
+6: impulseSV: 19
+Total 441

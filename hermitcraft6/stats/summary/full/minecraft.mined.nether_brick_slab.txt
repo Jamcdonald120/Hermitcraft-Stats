@@ -1,0 +1,18 @@
+minecraft.mined.nether_brick_slab
+1: falsesymmetry: 1502
+2: Xisuma: 926
+3: cubfan135: 363
+4: iskall85: 229
+5: Welsknight: 85
+6: GoodTimeWithScar: 77
+7: Biffa2001: 54
+8: Zedaph: 40
+9: joehillssays: 38
+10: Tango: 24
+11: Renthedog: 9
+12: Grian: 6
+13: impulseSV: 3
+14: ZombieCleo: 2
+15: Docm77: 1
+16: PythonGB: 1
+Total 3360

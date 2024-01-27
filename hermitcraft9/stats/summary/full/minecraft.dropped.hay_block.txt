@@ -1,0 +1,15 @@
+minecraft.dropped.hay_block
+1: BdoubleO100: 525
+2: Keralis1: 87
+3: iJevin: 82
+4: Stressmonster101: 61
+5: Zedaph: 44
+6: Xisuma: 15
+7: falsesymmetry: 14
+8: GoodTimeWithScar: 12
+9: Docm77: 11
+10: cubfan135: 4
+11: Renthedog: 2
+12: xBCrafted: 1
+13: Etho: 1
+Total 859

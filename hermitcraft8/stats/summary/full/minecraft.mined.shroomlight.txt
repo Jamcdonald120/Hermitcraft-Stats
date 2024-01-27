@@ -1,0 +1,27 @@
+minecraft.mined.shroomlight
+1: PearlescentMoon: 548
+2: impulseSV: 371
+3: Xisuma: 226
+4: hypnotizd: 219
+5: xBCrafted: 183
+6: joehillssays: 170
+7: cubfan135: 151
+8: BdoubleO100: 141
+9: GoodTimeWithScar: 116
+10: Zedaph: 113
+11: Grian: 106
+12: Stressmonster101: 91
+13: Renthedog: 66
+14: Tango: 43
+15: iskall85: 43
+16: GeminiTay: 35
+17: MumboJumbo: 25
+18: Welsknight: 21
+19: falsesymmetry: 12
+20: Keralis1: 12
+21: ZombieCleo: 11
+22: Etho: 5
+23: Docm77: 4
+24: Tinfoilchef: 3
+25: iJevin: 1
+Total 2716

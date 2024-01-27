@@ -1,0 +1,26 @@
+minecraft.picked_up.white_concrete
+1: Xisuma: 15492
+2: Stressmonster101: 14441
+3: Keralis1: 14040
+4: GoodTimeWithScar: 13325
+5: Welsknight: 9992
+6: hypnotizd: 8537
+7: xBCrafted: 8242
+8: iskall85: 7381
+9: MumboJumbo: 5811
+10: Grian: 4887
+11: falsesymmetry: 3718
+12: Docm77: 3662
+13: BdoubleO100: 3220
+14: cubfan135: 2402
+15: Renthedog: 2128
+16: impulseSV: 1306
+17: Tango: 1156
+18: VintageBeef: 1016
+19: joehillssays: 930
+20: ZombieCleo: 838
+21: Tinfoilchef: 437
+22: Etho: 419
+23: Zedaph: 296
+24: iJevin: 257
+Total 123933

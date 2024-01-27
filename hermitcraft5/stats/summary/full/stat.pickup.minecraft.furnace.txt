@@ -1,0 +1,25 @@
+stat.pickup.minecraft.furnace
+1: Xisuma: 556
+2: MumboJumbo: 332
+3: cubfan135: 261
+4: impulseSV: 242
+5: Tango: 176
+6: iskall85: 171
+7: Zedaph: 165
+8: falsesymmetry: 157
+9: joehillssays: 147
+10: Renthedog: 131
+11: iJevin: 131
+12: PythonGB: 103
+13: Welsknight: 81
+14: xBCrafted: 60
+15: GoodTimeWithScar: 44
+16: Stressmonster101: 34
+17: BdoubleO100: 23
+18: Biffa2001: 21
+19: Etho: 20
+20: VintageBeef: 16
+21: Tinfoilchef: 8
+22: ZombieCleo: 3
+23: Docm77: 2
+Total 2884

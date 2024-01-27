@@ -1,0 +1,25 @@
+minecraft.picked_up.gold_ore
+1: joehillssays: 258
+2: Grian: 190
+3: Xisuma: 136
+4: Zedaph: 115
+5: GoodTimeWithScar: 109
+6: hypnotizd: 108
+7: ZombieCleo: 97
+8: xBCrafted: 93
+9: PearlescentMoon: 82
+10: Docm77: 79
+11: impulseSV: 58
+12: Tango: 53
+13: Etho: 45
+14: VintageBeef: 30
+15: falsesymmetry: 30
+16: Keralis1: 25
+17: Renthedog: 23
+18: cubfan135: 20
+19: BdoubleO100: 18
+20: iskall85: 16
+21: iJevin: 8
+22: GeminiTay: 2
+23: Mumbo: 1
+Total 1596

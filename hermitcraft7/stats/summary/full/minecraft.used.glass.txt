@@ -1,0 +1,26 @@
+minecraft.used.glass
+1: impulseSV: 15081
+2: Tango: 11855
+3: MumboJumbo: 10488
+4: Zedaph: 8415
+5: cubfan135: 4397
+6: hypnotizd: 4386
+7: Keralis1: 3779
+8: falsesymmetry: 3416
+9: VintageBeef: 3265
+10: Xisuma: 2981
+11: iskall85: 2177
+12: Stressmonster101: 2060
+13: xBCrafted: 2047
+14: Grian: 1756
+15: iJevin: 1204
+16: Renthedog: 1129
+17: Tinfoilchef: 1066
+18: ZombieCleo: 833
+19: joehillssays: 729
+20: BdoubleO100: 724
+21: GoodTimeWithScar: 513
+22: Etho: 434
+23: Docm77: 345
+24: Welsknight: 1
+Total 83081

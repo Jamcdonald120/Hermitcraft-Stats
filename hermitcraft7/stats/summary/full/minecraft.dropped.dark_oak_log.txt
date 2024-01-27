@@ -1,0 +1,17 @@
+minecraft.dropped.dark_oak_log
+1: BdoubleO100: 447
+2: cubfan135: 316
+3: Tango: 311
+4: Etho: 274
+5: Grian: 271
+6: GoodTimeWithScar: 200
+7: impulseSV: 192
+8: iskall85: 132
+9: Renthedog: 69
+10: Docm77: 64
+11: xBCrafted: 10
+12: iJevin: 8
+13: Zedaph: 6
+14: Keralis1: 2
+15: Xisuma: 1
+Total 2303

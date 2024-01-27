@@ -1,0 +1,16 @@
+minecraft.dropped.end_stone
+1: Zedaph: 106
+2: Tango: 77
+3: iJevin: 75
+4: MumboJumbo: 72
+5: cubfan135: 69
+6: PythonGB: 65
+7: impulseSV: 64
+8: iskall85: 46
+9: Docm77: 25
+10: GoodTimeWithScar: 9
+11: Xisuma: 5
+12: Renthedog: 2
+13: Grian: 2
+14: falsesymmetry: 1
+Total 618

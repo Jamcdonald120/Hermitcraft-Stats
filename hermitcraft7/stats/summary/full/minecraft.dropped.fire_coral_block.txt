@@ -1,0 +1,6 @@
+minecraft.dropped.fire_coral_block
+1: cubfan135: 60
+2: iJevin: 17
+3: Grian: 1
+4: Etho: 1
+Total 79

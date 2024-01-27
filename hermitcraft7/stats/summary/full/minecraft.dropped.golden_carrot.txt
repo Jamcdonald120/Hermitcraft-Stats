@@ -1,0 +1,24 @@
+minecraft.dropped.golden_carrot
+1: Zedaph: 3615
+2: Grian: 1445
+3: Keralis1: 1042
+4: Etho: 887
+5: cubfan135: 552
+6: GoodTimeWithScar: 515
+7: Renthedog: 450
+8: BdoubleO100: 364
+9: iJevin: 352
+10: iskall85: 352
+11: Stressmonster101: 174
+12: MumboJumbo: 129
+13: Xisuma: 126
+14: impulseSV: 113
+15: xBCrafted: 89
+16: falsesymmetry: 57
+17: Tango: 22
+18: Docm77: 20
+19: VintageBeef: 19
+20: joehillssays: 9
+21: Welsknight: 1
+22: hypnotizd: 1
+Total 10334

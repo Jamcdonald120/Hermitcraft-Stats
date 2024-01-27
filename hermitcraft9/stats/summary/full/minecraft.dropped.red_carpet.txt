@@ -1,0 +1,16 @@
+minecraft.dropped.red_carpet
+1: RentheKing: 102
+2: VintageBeef: 70
+3: cubfan135: 63
+4: falsesymmetry: 56
+5: Renthedog: 39
+6: iJevin: 12
+7: Grian: 9
+8: GoodTimeWithScar: 9
+9: Xisuma: 6
+10: Tango: 4
+11: Etho: 4
+12: ZombieCleo: 4
+13: GeminiTay: 2
+14: Zedaph: 1
+Total 381

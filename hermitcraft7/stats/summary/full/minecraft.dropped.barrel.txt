@@ -1,0 +1,16 @@
+minecraft.dropped.barrel
+1: Keralis1: 92
+2: Tango: 88
+3: Zedaph: 60
+4: cubfan135: 26
+5: Etho: 22
+6: iskall85: 16
+7: BdoubleO100: 8
+8: GoodTimeWithScar: 3
+9: Renthedog: 2
+10: Grian: 2
+11: falsesymmetry: 2
+12: impulseSV: 2
+13: Xisuma: 1
+14: MumboJumbo: 1
+Total 325

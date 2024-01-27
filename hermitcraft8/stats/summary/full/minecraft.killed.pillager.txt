@@ -1,0 +1,24 @@
+minecraft.killed.pillager
+1: iJevin: 1719
+2: Tango: 1511
+3: cubfan135: 126
+4: Etho: 58
+5: Keralis1: 42
+6: xBCrafted: 36
+7: Xisuma: 33
+8: Grian: 33
+9: VintageBeef: 31
+10: GeminiTay: 24
+11: Docm77: 22
+12: impulseSV: 21
+13: PearlescentMoon: 17
+14: falsesymmetry: 11
+15: ZombieCleo: 10
+16: BdoubleO100: 7
+17: Welsknight: 6
+18: Renthedog: 5
+19: GoodTimeWithScar: 5
+20: Stressmonster101: 4
+21: Zedaph: 3
+22: hypnotizd: 2
+Total 3726

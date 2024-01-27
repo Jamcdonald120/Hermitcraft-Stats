@@ -1,0 +1,3 @@
+stat.entityKilledBy.Blaze
+1: falsesymmetry: 3
+Total 3

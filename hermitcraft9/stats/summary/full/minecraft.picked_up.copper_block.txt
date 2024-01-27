@@ -1,0 +1,29 @@
+minecraft.picked_up.copper_block
+1: Grian: 2567
+2: falsesymmetry: 2192
+3: PearlescentMoon: 1452
+4: Xisuma: 1103
+5: Keralis1: 968
+6: Tango: 875
+7: Mumbo: 759
+8: RentheKing: 558
+9: Renthedog: 305
+10: GoodTimeWithScar: 298
+11: BdoubleO100: 273
+12: cubfan135: 215
+13: joehillssays: 181
+14: Docm77: 152
+15: VintageBeef: 114
+16: Zedaph: 106
+17: Etho: 82
+18: impulseSV: 34
+19: iskall85: 27
+20: ZombieCleo: 12
+21: xBCrafted: 11
+22: STEAKFG: 10
+23: MumboJumbo: 7
+24: Smallishbeans: 5
+25: GeminiTay: 2
+26: Pixlriffs: 1
+27: Stressmonster101: 1
+Total 12310

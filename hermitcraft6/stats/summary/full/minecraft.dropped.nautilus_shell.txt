@@ -1,0 +1,13 @@
+minecraft.dropped.nautilus_shell
+1: impulseSV: 73
+2: Docm77: 62
+3: Renthedog: 38
+4: GoodTimeWithScar: 23
+5: iskall85: 9
+6: Xisuma: 2
+7: Tango: 2
+8: falsesymmetry: 2
+9: iJevin: 1
+10: cubfan135: 1
+11: MumboJumbo: 1
+Total 214

@@ -1,0 +1,14 @@
+minecraft.mined.brick_wall
+1: GoodTimeWithScar: 610
+2: xBCrafted: 136
+3: cubfan135: 65
+4: Grian: 58
+5: BdoubleO100: 43
+6: Etho: 35
+7: Xisuma: 32
+8: Tango: 14
+9: iskall85: 14
+10: Zedaph: 8
+11: falsesymmetry: 7
+12: VintageBeef: 2
+Total 1024

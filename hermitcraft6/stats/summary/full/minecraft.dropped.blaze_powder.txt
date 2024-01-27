@@ -1,0 +1,12 @@
+minecraft.dropped.blaze_powder
+1: Zedaph: 104
+2: iJevin: 65
+3: cubfan135: 64
+4: MumboJumbo: 27
+5: Docm77: 13
+6: Renthedog: 12
+7: Tango: 4
+8: Xisuma: 1
+9: PythonGB: 1
+10: Keralis1: 1
+Total 292

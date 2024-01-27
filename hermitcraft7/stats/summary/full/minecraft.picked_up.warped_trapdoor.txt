@@ -1,0 +1,21 @@
+minecraft.picked_up.warped_trapdoor
+1: iJevin: 248
+2: Zedaph: 119
+3: ZombieCleo: 64
+4: cubfan135: 60
+5: xBCrafted: 57
+6: falsesymmetry: 56
+7: Etho: 55
+8: Grian: 45
+9: GoodTimeWithScar: 41
+10: VintageBeef: 35
+11: Xisuma: 34
+12: BdoubleO100: 28
+13: Tango: 18
+14: joehillssays: 15
+15: Renthedog: 11
+16: Keralis1: 9
+17: Stressmonster101: 7
+18: impulseSV: 5
+19: iskall85: 3
+Total 910

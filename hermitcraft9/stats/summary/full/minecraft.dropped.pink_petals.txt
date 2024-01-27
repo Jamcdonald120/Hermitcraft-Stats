@@ -1,0 +1,13 @@
+minecraft.dropped.pink_petals
+1: falsesymmetry: 94
+2: cubfan135: 78
+3: Renthedog: 65
+4: Tango: 55
+5: GoodTimeWithScar: 15
+6: Xisuma: 6
+7: Mumbo: 6
+8: Zedaph: 5
+9: Docm77: 4
+10: ZombieCleo: 3
+11: impulseSV: 1
+Total 332

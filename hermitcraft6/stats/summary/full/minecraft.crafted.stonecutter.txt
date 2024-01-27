@@ -1,0 +1,16 @@
+minecraft.crafted.stonecutter
+1: Xisuma: 256
+2: cubfan135: 146
+3: GoodTimeWithScar: 144
+4: MumboJumbo: 63
+5: iskall85: 48
+6: falsesymmetry: 26
+7: PythonGB: 12
+8: BdoubleO100: 6
+9: Renthedog: 3
+10: Docm77: 2
+11: Tango: 2
+12: impulseSV: 2
+13: Grian: 1
+14: ZombieCleo: 1
+Total 712

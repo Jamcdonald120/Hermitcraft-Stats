@@ -1,0 +1,25 @@
+minecraft.used.potato
+1: Tinfoilchef: 10099
+2: Grian: 6543
+3: cubfan135: 3947
+4: Biffa2001: 2842
+5: impulseSV: 2153
+6: Renthedog: 2009
+7: joehillssays: 1341
+8: GoodTimeWithScar: 1202
+9: Tango: 735
+10: PythonGB: 624
+11: falsesymmetry: 530
+12: iskall85: 497
+13: Zedaph: 466
+14: iJevin: 243
+15: Jessassin: 238
+16: Stressmonster101: 196
+17: Xisuma: 191
+18: ZombieCleo: 162
+19: Welsknight: 111
+20: xBCrafted: 92
+21: MumboJumbo: 90
+22: BdoubleO100: 11
+23: Keralis1: 5
+Total 34327

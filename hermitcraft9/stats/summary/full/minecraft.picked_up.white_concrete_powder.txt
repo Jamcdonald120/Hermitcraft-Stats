@@ -1,0 +1,23 @@
+minecraft.picked_up.white_concrete_powder
+1: Renthedog: 13811
+2: VintageBeef: 12948
+3: falsesymmetry: 4953
+4: PearlescentMoon: 1302
+5: Grian: 729
+6: Xisuma: 721
+7: GoodTimeWithScar: 416
+8: ZombieCleo: 304
+9: Docm77: 275
+10: joehillssays: 161
+11: cubfan135: 138
+12: Keralis1: 131
+13: Smallishbeans: 65
+14: impulseSV: 48
+15: BdoubleO100: 33
+16: Etho: 9
+17: iskall85: 5
+18: Mumbo: 4
+19: xBCrafted: 3
+20: Skizzleman: 1
+21: Zedaph: 1
+Total 36058

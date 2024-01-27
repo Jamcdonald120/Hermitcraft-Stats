@@ -1,0 +1,24 @@
+minecraft.dropped.scaffolding
+1: falsesymmetry: 2872
+2: Tango: 2589
+3: Zedaph: 2086
+4: BdoubleO100: 909
+5: cubfan135: 843
+6: Keralis1: 606
+7: iJevin: 480
+8: impulseSV: 403
+9: Docm77: 387
+10: joehillssays: 291
+11: Etho: 233
+12: GeminiTay: 194
+13: xBCrafted: 167
+14: GoodTimeWithScar: 161
+15: PearlescentMoon: 159
+16: Xisuma: 153
+17: Grian: 87
+18: ZombieCleo: 81
+19: hypnotizd: 78
+20: RentheKing: 69
+21: Renthedog: 55
+22: Stressmonster101: 4
+Total 12907

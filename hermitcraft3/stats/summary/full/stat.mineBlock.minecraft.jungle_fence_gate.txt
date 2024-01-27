@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.jungle_fence_gate
+1: hypnotizd: 48
+2: Biffa2001: 4
+3: Xisuma: 1
+Total 53

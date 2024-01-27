@@ -1,0 +1,9 @@
+stat.killEntity.Villager
+1: impulseSV: 295
+2: MumboJumbo: 292
+3: iskall85: 82
+4: Xisuma: 2
+5: PythonGB: 2
+6: Tango: 2
+7: cubfan135: 2
+Total 677

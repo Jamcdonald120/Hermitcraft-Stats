@@ -1,0 +1,29 @@
+minecraft.dropped.coal
+1: Tango: 3310
+2: iJevin: 2230
+3: impulseSV: 497
+4: Grian: 211
+5: Zedaph: 205
+6: Xisuma: 180
+7: BdoubleO100: 150
+8: ZombieCleo: 124
+9: cubfan135: 98
+10: joehillssays: 97
+11: Smallishbeans: 86
+12: Keralis1: 74
+13: Renthedog: 71
+14: xBCrafted: 65
+15: falsesymmetry: 64
+16: RentheKing: 45
+17: VintageBeef: 29
+18: iskall85: 28
+19: Etho: 24
+20: Docm77: 16
+21: Stressmonster101: 10
+22: hypnotizd: 9
+23: Mumbo: 8
+24: PearlescentMoon: 7
+25: GoodTimeWithScar: 7
+26: GeminiTay: 2
+27: Pixlriffs: 2
+Total 7649

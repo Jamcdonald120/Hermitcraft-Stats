@@ -1,0 +1,5 @@
+minecraft.dropped.brick_wall
+1: Grian: 12
+2: Etho: 3
+3: GoodTimeWithScar: 3
+Total 18

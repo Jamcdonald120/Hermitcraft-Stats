@@ -1,0 +1,24 @@
+minecraft.crafted.campfire
+1: Grian: 1055
+2: Etho: 729
+3: xBCrafted: 340
+4: GoodTimeWithScar: 222
+5: Renthedog: 157
+6: Tango: 144
+7: cubfan135: 134
+8: BdoubleO100: 101
+9: hypnotizd: 91
+10: Keralis1: 82
+11: VintageBeef: 81
+12: Stressmonster101: 81
+13: ZombieCleo: 70
+14: iskall85: 62
+15: falsesymmetry: 36
+16: MumboJumbo: 33
+17: Xisuma: 27
+18: iJevin: 23
+19: Zedaph: 17
+20: impulseSV: 16
+21: joehillssays: 9
+22: Docm77: 5
+Total 3515

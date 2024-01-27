@@ -1,0 +1,20 @@
+minecraft.picked_up.raw_copper_block
+1: Grian: 520
+2: iJevin: 422
+3: falsesymmetry: 378
+4: Xisuma: 179
+5: Etho: 173
+6: cubfan135: 165
+7: Tango: 142
+8: PearlescentMoon: 109
+9: impulseSV: 56
+10: Docm77: 55
+11: joehillssays: 44
+12: xBCrafted: 8
+13: BdoubleO100: 5
+14: Zedaph: 3
+15: Renthedog: 2
+16: GoodTimeWithScar: 2
+17: VintageBeef: 1
+18: ZombieCleo: 1
+Total 2265

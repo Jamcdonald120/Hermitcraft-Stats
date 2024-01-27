@@ -1,0 +1,25 @@
+minecraft.picked_up.powered_rail
+1: Docm77: 5476
+2: GoodTimeWithScar: 869
+3: iJevin: 606
+4: impulseSV: 515
+5: Stressmonster101: 460
+6: Xisuma: 407
+7: cubfan135: 351
+8: Tango: 174
+9: Zedaph: 166
+10: Grian: 141
+11: hypnotizd: 129
+12: Tinfoilchef: 103
+13: xBCrafted: 95
+14: iskall85: 77
+15: falsesymmetry: 58
+16: Welsknight: 52
+17: joehillssays: 37
+18: Etho: 32
+19: Renthedog: 31
+20: GeminiTay: 17
+21: BdoubleO100: 10
+22: PearlescentMoon: 8
+23: ZombieCleo: 1
+Total 9815

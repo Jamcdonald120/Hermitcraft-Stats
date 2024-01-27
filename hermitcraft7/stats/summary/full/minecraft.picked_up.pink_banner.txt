@@ -1,0 +1,8 @@
+minecraft.picked_up.pink_banner
+1: Keralis1: 10
+2: GoodTimeWithScar: 5
+3: Xisuma: 4
+4: Tango: 4
+5: BdoubleO100: 1
+6: cubfan135: 1
+Total 25

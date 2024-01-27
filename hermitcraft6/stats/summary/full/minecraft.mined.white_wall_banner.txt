@@ -1,0 +1,19 @@
+minecraft.mined.white_wall_banner
+1: Renthedog: 120
+2: Xisuma: 63
+3: impulseSV: 54
+4: cubfan135: 36
+5: falsesymmetry: 28
+6: Keralis1: 24
+7: Tango: 16
+8: Tinfoilchef: 15
+9: Stressmonster101: 13
+10: iJevin: 11
+11: GoodTimeWithScar: 6
+12: Welsknight: 5
+13: Grian: 3
+14: BdoubleO100: 2
+15: joehillssays: 1
+16: ZombieCleo: 1
+17: Zedaph: 1
+Total 399

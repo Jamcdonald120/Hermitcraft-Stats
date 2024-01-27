@@ -1,0 +1,26 @@
+minecraft.mined.white_concrete
+1: Keralis1: 45561
+2: Xisuma: 43186
+3: hypnotizd: 22911
+4: xBCrafted: 19224
+5: Stressmonster101: 14900
+6: GoodTimeWithScar: 12880
+7: Welsknight: 10105
+8: iskall85: 8125
+9: Docm77: 7263
+10: MumboJumbo: 4858
+11: Grian: 4314
+12: falsesymmetry: 3649
+13: BdoubleO100: 3052
+14: cubfan135: 2312
+15: Renthedog: 2008
+16: impulseSV: 1367
+17: VintageBeef: 1015
+18: ZombieCleo: 1003
+19: joehillssays: 955
+20: Tango: 858
+21: Tinfoilchef: 446
+22: Etho: 436
+23: iJevin: 179
+24: Zedaph: 67
+Total 210674

@@ -1,0 +1,4 @@
+stat.drop.minecraft.jungle_door
+1: Xisuma: 2
+2: cubfan135: 2
+Total 4

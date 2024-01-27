@@ -1,0 +1,9 @@
+minecraft.crafted.cyan_wool
+1: Keralis1: 54
+2: xBCrafted: 48
+3: GoodTimeWithScar: 16
+4: cubfan135: 7
+5: Stressmonster101: 3
+6: iJevin: 1
+7: Welsknight: 1
+Total 130

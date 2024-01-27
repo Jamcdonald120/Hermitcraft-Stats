@@ -1,0 +1,12 @@
+minecraft.picked_up.honeycomb_block
+1: GoodTimeWithScar: 131
+2: cubfan135: 86
+3: Grian: 76
+4: PearlescentMoon: 60
+5: impulseSV: 46
+6: Xisuma: 4
+7: ZombieCleo: 4
+8: GeminiTay: 3
+9: Tango: 2
+10: Keralis1: 1
+Total 413

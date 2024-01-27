@@ -1,0 +1,21 @@
+minecraft.dropped.weeping_vines
+1: Keralis1: 401
+2: cubfan135: 177
+3: Docm77: 53
+4: Xisuma: 50
+5: Tango: 30
+6: Renthedog: 24
+7: PearlescentMoon: 20
+8: iJevin: 16
+9: Grian: 12
+10: VintageBeef: 11
+11: RentheKing: 9
+12: hypnotizd: 9
+13: Stressmonster101: 8
+14: GoodTimeWithScar: 5
+15: Zedaph: 4
+16: iskall85: 3
+17: Etho: 2
+18: GeminiTay: 1
+19: ZombieCleo: 1
+Total 836

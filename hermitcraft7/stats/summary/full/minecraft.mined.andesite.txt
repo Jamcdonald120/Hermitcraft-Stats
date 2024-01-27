@@ -1,0 +1,27 @@
+minecraft.mined.andesite
+1: falsesymmetry: 45286
+2: Grian: 43344
+3: GoodTimeWithScar: 37450
+4: Tango: 35751
+5: MumboJumbo: 34446
+6: impulseSV: 29525
+7: Etho: 22760
+8: Xisuma: 22601
+9: Keralis1: 17447
+10: iJevin: 16848
+11: cubfan135: 15962
+12: xBCrafted: 13554
+13: joehillssays: 11958
+14: iskall85: 11482
+15: Renthedog: 11472
+16: hypnotizd: 10600
+17: Zedaph: 10314
+18: Stressmonster101: 9164
+19: BdoubleO100: 7581
+20: VintageBeef: 7062
+21: Welsknight: 6817
+22: ZombieCleo: 5939
+23: Docm77: 3241
+24: Tinfoilchef: 3169
+25: Helsknight_: 9
+Total 433782

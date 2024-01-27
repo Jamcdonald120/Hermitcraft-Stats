@@ -1,0 +1,30 @@
+minecraft.dropped.diamond_shovel
+1: iJevin: 25
+2: Tango: 20
+3: Zedaph: 17
+4: Renthedog: 13
+5: GoodTimeWithScar: 12
+6: Grian: 11
+7: PearlescentMoon: 9
+8: xBCrafted: 8
+9: Keralis1: 8
+10: joehillssays: 6
+11: cubfan135: 6
+12: Mumbo: 5
+13: MythicalSausage: 4
+14: GeminiTay: 4
+15: BdoubleO100: 4
+16: ZombieCleo: 4
+17: impulseSV: 4
+18: Docm77: 3
+19: Xisuma: 3
+20: Smallishbeans: 3
+21: iskall85: 3
+22: RentheKing: 3
+23: Etho: 2
+24: Stressmonster101: 2
+25: Minerva246: 1
+26: Pixlriffs: 1
+27: hypnotizd: 1
+28: SolidarityGaming: 1
+Total 183

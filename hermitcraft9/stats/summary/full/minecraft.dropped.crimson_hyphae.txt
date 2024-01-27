@@ -1,0 +1,10 @@
+minecraft.dropped.crimson_hyphae
+1: PearlescentMoon: 111
+2: Renthedog: 64
+3: Grian: 47
+4: VintageBeef: 19
+5: falsesymmetry: 8
+6: Keralis1: 4
+7: cubfan135: 1
+8: Etho: 1
+Total 255

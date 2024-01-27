@@ -1,0 +1,19 @@
+minecraft.picked_up.red_terracotta
+1: PearlescentMoon: 6460
+2: Keralis1: 1318
+3: Etho: 318
+4: Xisuma: 130
+5: impulseSV: 117
+6: GoodTimeWithScar: 102
+7: Tango: 95
+8: MumboJumbo: 86
+9: Grian: 79
+10: ZombieCleo: 64
+11: Docm77: 20
+12: Renthedog: 8
+13: BdoubleO100: 8
+14: xBCrafted: 6
+15: falsesymmetry: 6
+16: cubfan135: 4
+17: GeminiTay: 3
+Total 8824

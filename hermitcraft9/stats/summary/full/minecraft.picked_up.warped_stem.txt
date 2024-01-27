@@ -1,0 +1,27 @@
+minecraft.picked_up.warped_stem
+1: Keralis1: 9264
+2: Mumbo: 4901
+3: ZombieCleo: 4171
+4: Tango: 4040
+5: falsesymmetry: 2321
+6: PearlescentMoon: 2196
+7: Xisuma: 1757
+8: impulseSV: 644
+9: VintageBeef: 475
+10: Grian: 442
+11: Smajor1995: 327
+12: BdoubleO100: 316
+13: Docm77: 234
+14: GoodTimeWithScar: 232
+15: iJevin: 115
+16: xBCrafted: 87
+17: Renthedog: 78
+18: cubfan135: 69
+19: Smallishbeans: 58
+20: Zedaph: 50
+21: Etho: 27
+22: Stressmonster101: 20
+23: hypnotizd: 19
+24: Pixlriffs: 16
+25: RentheKing: 6
+Total 31865

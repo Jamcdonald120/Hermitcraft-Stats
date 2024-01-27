@@ -1,0 +1,24 @@
+minecraft.crafted.spruce_wood
+1: Keralis1: 6672
+2: GeminiTay: 4805
+3: Renthedog: 2163
+4: falsesymmetry: 1398
+5: Docm77: 969
+6: PearlescentMoon: 858
+7: Etho: 744
+8: iJevin: 729
+9: hypnotizd: 633
+10: Grian: 417
+11: MythicalSausage: 330
+12: ZombieCleo: 315
+13: Tango: 210
+14: xBCrafted: 138
+15: cubfan135: 51
+16: BdoubleO100: 33
+17: GoodTimeWithScar: 24
+18: Xisuma: 12
+19: VintageBeef: 6
+20: Stressmonster101: 6
+21: impulseSV: 3
+22: Zedaph: 3
+Total 20519

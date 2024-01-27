@@ -1,0 +1,20 @@
+stat.drop.minecraft.lever
+1: Tango: 225
+2: GoodTimeWithScar: 156
+3: MumboJumbo: 136
+4: impulseSV: 102
+5: Zedaph: 75
+6: Xisuma: 67
+7: cubfan135: 53
+8: BdoubleO100: 31
+9: iskall85: 19
+10: xBCrafted: 12
+11: ZombieCleo: 6
+12: falsesymmetry: 4
+13: Docm77: 3
+14: Biffa2001: 3
+15: iJevin: 2
+16: Welsknight: 2
+17: VintageBeef: 1
+18: Etho: 1
+Total 898

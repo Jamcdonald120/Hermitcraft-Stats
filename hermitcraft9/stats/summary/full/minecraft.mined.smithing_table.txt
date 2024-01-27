@@ -1,0 +1,25 @@
+minecraft.mined.smithing_table
+1: Tango: 142
+2: impulseSV: 73
+3: iJevin: 37
+4: PearlescentMoon: 34
+5: ZombieCleo: 16
+6: GoodTimeWithScar: 11
+7: Docm77: 9
+8: cubfan135: 8
+9: Stressmonster101: 6
+10: xBCrafted: 5
+11: Keralis1: 5
+12: Zedaph: 5
+13: joehillssays: 4
+14: Etho: 4
+15: Renthedog: 3
+16: GeminiTay: 2
+17: BdoubleO100: 2
+18: hypnotizd: 2
+19: MythicalSausage: 1
+20: Pixlriffs: 1
+21: iskall85: 1
+22: falsesymmetry: 1
+23: RentheKing: 1
+Total 373

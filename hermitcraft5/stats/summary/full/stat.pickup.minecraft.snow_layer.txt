@@ -1,0 +1,6 @@
+stat.pickup.minecraft.snow_layer
+1: Renthedog: 59
+2: Zedaph: 16
+3: GoodTimeWithScar: 6
+4: Xisuma: 4
+Total 85

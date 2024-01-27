@@ -1,0 +1,18 @@
+minecraft.crafted.jungle_button
+1: VintageBeef: 161
+2: MumboJumbo: 110
+3: GoodTimeWithScar: 108
+4: cubfan135: 84
+5: Stressmonster101: 66
+6: Grian: 33
+7: iJevin: 32
+8: Tango: 31
+9: Etho: 23
+10: iskall85: 18
+11: Keralis1: 16
+12: Xisuma: 12
+13: hypnotizd: 8
+14: Renthedog: 4
+15: BdoubleO100: 2
+16: joehillssays: 1
+Total 709

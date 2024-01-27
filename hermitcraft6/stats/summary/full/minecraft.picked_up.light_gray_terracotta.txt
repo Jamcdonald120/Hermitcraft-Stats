@@ -1,0 +1,22 @@
+minecraft.picked_up.light_gray_terracotta
+1: cubfan135: 56907
+2: GoodTimeWithScar: 34168
+3: falsesymmetry: 13857
+4: Xisuma: 13032
+5: Grian: 10926
+6: iskall85: 4808
+7: Biffa2001: 1946
+8: MumboJumbo: 1819
+9: joehillssays: 1267
+10: Tango: 982
+11: ZombieCleo: 831
+12: Docm77: 535
+13: iJevin: 503
+14: Zedaph: 336
+15: BdoubleO100: 150
+16: Welsknight: 95
+17: impulseSV: 26
+18: Renthedog: 10
+19: Stressmonster101: 8
+20: PythonGB: 1
+Total 142207

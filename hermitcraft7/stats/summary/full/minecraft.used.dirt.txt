@@ -1,0 +1,28 @@
+minecraft.used.dirt
+1: GoodTimeWithScar: 219888
+2: falsesymmetry: 81539
+3: hypnotizd: 68327
+4: impulseSV: 58803
+5: Grian: 49324
+6: BdoubleO100: 47128
+7: joehillssays: 44876
+8: Renthedog: 44113
+9: Xisuma: 38383
+10: iskall85: 28491
+11: MumboJumbo: 27915
+12: Tango: 27823
+13: xBCrafted: 25536
+14: cubfan135: 21880
+15: iJevin: 21544
+16: Keralis1: 20004
+17: Etho: 16624
+18: Stressmonster101: 14897
+19: Zedaph: 14826
+20: ZombieCleo: 6827
+21: VintageBeef: 6570
+22: Docm77: 5341
+23: Welsknight: 3170
+24: Tinfoilchef: 526
+25: BarryBoss1234: 27
+26: Helsknight_: 9
+Total 894391

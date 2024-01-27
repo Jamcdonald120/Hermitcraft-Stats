@@ -1,0 +1,22 @@
+minecraft.killed.pig
+1: GoodTimeWithScar: 294
+2: iJevin: 31
+3: PearlescentMoon: 30
+4: Welsknight: 30
+5: GeminiTay: 21
+6: ZombieCleo: 21
+7: Tango: 17
+8: Renthedog: 15
+9: iskall85: 15
+10: impulseSV: 14
+11: Grian: 13
+12: Stressmonster101: 8
+13: falsesymmetry: 6
+14: Zedaph: 6
+15: VintageBeef: 4
+16: BdoubleO100: 3
+17: xBCrafted: 3
+18: cubfan135: 2
+19: Tinfoilchef: 1
+20: HermitcraftAlt: 1
+Total 535

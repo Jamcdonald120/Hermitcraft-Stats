@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.cyan_glazed_terracotta
+1: ZombieCleo: 152
+2: Xisuma: 24
+3: MumboJumbo: 8
+4: iJevin: 1
+Total 185

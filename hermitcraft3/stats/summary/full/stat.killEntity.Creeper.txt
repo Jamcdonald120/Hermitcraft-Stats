@@ -1,0 +1,30 @@
+stat.killEntity.Creeper
+1: Xisuma: 578
+2: falsesymmetry: 528
+3: xBCrafted: 456
+4: Tango: 410
+5: impulseSV: 401
+6: Mumbo: 237
+7: Biffa2001: 227
+8: topmass: 154
+9: zueljin: 140
+10: Spumwackles: 125
+11: sl1pg8r: 103
+12: hypnotizd: 102
+13: PythonGB: 95
+14: monkeyfarm: 94
+15: Etho: 79
+16: iJevin: 75
+17: ZombieCleo: 60
+18: KingDaddyDMAC: 58
+19: Tinfoilchef: 43
+20: skyzm: 31
+21: Keralis1: 31
+22: NameOfSamuel: 25
+23: Docm77: 15
+24: Pungence: 12
+25: joehillssays: 8
+26: Collen: 7
+27: xisumavoid: 1
+28: Mrs_Keralis: 1
+Total 4096

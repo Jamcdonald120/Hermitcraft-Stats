@@ -1,0 +1,29 @@
+minecraft.crafted.diamond_boots
+1: iJevin: 28
+2: Grian: 25
+3: cubfan135: 13
+4: Etho: 13
+5: RentheKing: 11
+6: GoodTimeWithScar: 11
+7: Keralis1: 10
+8: Docm77: 8
+9: impulseSV: 8
+10: iskall85: 5
+11: Zedaph: 4
+12: joehillssays: 3
+13: GeminiTay: 3
+14: xBCrafted: 3
+15: falsesymmetry: 3
+16: ZombieCleo: 3
+17: hypnotizd: 3
+18: Tango: 2
+19: Pixlriffs: 2
+20: Mumbo: 2
+21: Stressmonster101: 2
+22: Xisuma: 1
+23: Renthedog: 1
+24: BdoubleO100: 1
+25: PearlescentMoon: 1
+26: Welsknight: 1
+27: MumboJumbo: 1
+Total 168

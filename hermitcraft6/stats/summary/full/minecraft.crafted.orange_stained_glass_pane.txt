@@ -1,0 +1,15 @@
+minecraft.crafted.orange_stained_glass_pane
+1: Renthedog: 2424
+2: impulseSV: 1344
+3: GoodTimeWithScar: 408
+4: PythonGB: 352
+5: cubfan135: 288
+6: Xisuma: 144
+7: Grian: 128
+8: Tango: 112
+9: falsesymmetry: 48
+10: joehillssays: 16
+11: Welsknight: 16
+12: ZombieCleo: 16
+13: MumboJumbo: 16
+Total 5312

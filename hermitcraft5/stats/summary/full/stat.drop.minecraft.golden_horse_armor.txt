@@ -1,0 +1,9 @@
+stat.drop.minecraft.golden_horse_armor
+1: Zedaph: 7
+2: iskall85: 3
+3: PythonGB: 2
+4: Tango: 1
+5: Biffa2001: 1
+6: MumboJumbo: 1
+7: GoodTimeWithScar: 1
+Total 16

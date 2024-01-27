@@ -1,0 +1,6 @@
+stat.useItem.minecraft.cooked_mutton
+1: ZombieCleo: 238
+2: iJevin: 3
+3: Biffa2001: 3
+4: Pungence: 1
+Total 245

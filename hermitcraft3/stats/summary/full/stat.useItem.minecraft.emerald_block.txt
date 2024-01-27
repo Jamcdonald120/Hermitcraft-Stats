@@ -1,0 +1,7 @@
+stat.useItem.minecraft.emerald_block
+1: impulseSV: 76
+2: Xisuma: 20
+3: Tinfoilchef: 17
+4: Tango: 12
+5: PythonGB: 10
+Total 135

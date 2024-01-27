@@ -1,0 +1,16 @@
+stat.useItem.minecraft.dark_oak_fence
+1: monkeyfarm: 1923
+2: falsesymmetry: 553
+3: xBCrafted: 279
+4: Tango: 159
+5: Tinfoilchef: 153
+6: impulseSV: 137
+7: Xisuma: 92
+8: ZombieCleo: 82
+9: zueljin: 59
+10: iJevin: 41
+11: Docm77: 34
+12: sl1pg8r: 22
+13: Biffa2001: 16
+14: hypnotizd: 1
+Total 3551

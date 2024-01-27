@@ -1,0 +1,22 @@
+stat.useItem.minecraft.stone_button
+1: cubfan135: 2147
+2: Welsknight: 598
+3: falsesymmetry: 551
+4: Xisuma: 510
+5: iskall85: 452
+6: Tinfoilchef: 245
+7: GoodTimeWithScar: 235
+8: MumboJumbo: 202
+9: Tango: 151
+10: Docm77: 115
+11: VintageBeef: 50
+12: impulseSV: 42
+13: Renthedog: 32
+14: ZombieCleo: 32
+15: Etho: 28
+16: joehillssays: 16
+17: Mumbo: 7
+18: PythonGB: 4
+19: zueljin: 1
+20: xisumavoid: 1
+Total 5419

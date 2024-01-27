@@ -1,0 +1,19 @@
+minecraft.used.nether_brick_stairs
+1: falsesymmetry: 1966
+2: Tango: 1105
+3: Etho: 1044
+4: joehillssays: 866
+5: Xisuma: 612
+6: GoodTimeWithScar: 303
+7: xBCrafted: 264
+8: Keralis1: 248
+9: VintageBeef: 219
+10: cubfan135: 196
+11: iJevin: 92
+12: impulseSV: 30
+13: ZombieCleo: 28
+14: Docm77: 11
+15: hypnotizd: 8
+16: BdoubleO100: 5
+17: Zedaph: 3
+Total 7000

@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.dark_oak_fence
+1: Renthedog: 190
+2: cubfan135: 154
+3: joehillssays: 143
+4: falsesymmetry: 134
+5: iskall85: 63
+6: Welsknight: 51
+7: Xisuma: 50
+8: GoodTimeWithScar: 48
+9: zueljin: 21
+10: MumboJumbo: 21
+11: PythonGB: 10
+12: ZombieCleo: 10
+13: Tango: 9
+14: impulseSV: 1
+Total 905

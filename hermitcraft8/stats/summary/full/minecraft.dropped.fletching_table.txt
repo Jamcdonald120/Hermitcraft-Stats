@@ -1,0 +1,4 @@
+minecraft.dropped.fletching_table
+1: Zedaph: 3
+2: GoodTimeWithScar: 1
+Total 4

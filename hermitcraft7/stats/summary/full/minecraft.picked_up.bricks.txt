@@ -1,0 +1,17 @@
+minecraft.picked_up.bricks
+1: BdoubleO100: 2867
+2: Grian: 1802
+3: iskall85: 1664
+4: GoodTimeWithScar: 1634
+5: Etho: 1259
+6: Keralis1: 1143
+7: cubfan135: 792
+8: iJevin: 598
+9: Xisuma: 493
+10: Zedaph: 469
+11: xBCrafted: 309
+12: VintageBeef: 236
+13: impulseSV: 77
+14: falsesymmetry: 53
+15: Tango: 29
+Total 13425

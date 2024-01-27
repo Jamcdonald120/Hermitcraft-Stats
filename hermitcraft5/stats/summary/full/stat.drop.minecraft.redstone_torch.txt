@@ -1,0 +1,15 @@
+stat.drop.minecraft.redstone_torch
+1: Tango: 184
+2: impulseSV: 126
+3: MumboJumbo: 97
+4: Zedaph: 96
+5: falsesymmetry: 59
+6: cubfan135: 42
+7: iJevin: 37
+8: iskall85: 24
+9: Xisuma: 17
+10: GoodTimeWithScar: 13
+11: ZombieCleo: 6
+12: xBCrafted: 4
+13: Renthedog: 1
+Total 706

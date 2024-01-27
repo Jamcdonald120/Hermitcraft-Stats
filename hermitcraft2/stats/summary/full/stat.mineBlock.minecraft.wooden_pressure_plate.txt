@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.wooden_pressure_plate
+1: zueljin: 4
+2: iJevin: 1
+Total 5

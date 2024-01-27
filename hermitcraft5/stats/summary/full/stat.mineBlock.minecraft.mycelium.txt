@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.mycelium
+1: cubfan135: 79001
+2: falsesymmetry: 69927
+3: Xisuma: 59266
+4: iskall85: 23053
+5: Zedaph: 19675
+6: Renthedog: 16732
+7: GoodTimeWithScar: 6363
+8: MumboJumbo: 3684
+9: Tango: 1350
+10: joehillssays: 612
+11: PythonGB: 601
+12: Docm77: 187
+13: Welsknight: 116
+14: impulseSV: 64
+15: iJevin: 48
+16: BdoubleO100: 47
+17: Stressmonster101: 12
+18: ZombieCleo: 1
+Total 280739

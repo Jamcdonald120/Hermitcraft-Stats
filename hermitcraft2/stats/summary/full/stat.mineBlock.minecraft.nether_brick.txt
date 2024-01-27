@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.nether_brick
+1: ZombieCleo: 121
+2: zueljin: 34
+3: Tango: 22
+4: xBCrafted: 6
+5: Spumwackles: 2
+Total 185

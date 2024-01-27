@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.activator_rail
+1: cubfan135: 70
+2: Zedaph: 9
+3: impulseSV: 6
+4: Docm77: 3
+5: iskall85: 3
+6: Tango: 1
+7: GoodTimeWithScar: 1
+Total 93

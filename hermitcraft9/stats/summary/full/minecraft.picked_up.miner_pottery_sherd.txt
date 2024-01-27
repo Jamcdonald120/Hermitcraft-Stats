@@ -1,0 +1,6 @@
+minecraft.picked_up.miner_pottery_sherd
+1: cubfan135: 20
+2: Zedaph: 5
+3: PearlescentMoon: 3
+4: xBCrafted: 1
+Total 29

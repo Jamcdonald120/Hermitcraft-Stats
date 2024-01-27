@@ -1,0 +1,22 @@
+minecraft.crafted.dark_oak_sign
+1: GoodTimeWithScar: 423
+2: Grian: 144
+3: Keralis1: 105
+4: Renthedog: 102
+5: BdoubleO100: 93
+6: Etho: 69
+7: impulseSV: 54
+8: iskall85: 48
+9: Tango: 39
+10: Welsknight: 36
+11: Stressmonster101: 33
+12: Xisuma: 24
+13: iJevin: 24
+14: cubfan135: 21
+15: joehillssays: 12
+16: Zedaph: 12
+17: VintageBeef: 6
+18: falsesymmetry: 6
+19: Docm77: 3
+20: xBCrafted: 3
+Total 1257

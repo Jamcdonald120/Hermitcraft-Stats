@@ -1,0 +1,28 @@
+minecraft.picked_up.golden_helmet
+1: Xisuma: 164
+2: joehillssays: 77
+3: cubfan135: 51
+4: iJevin: 29
+5: PearlescentMoon: 20
+6: Docm77: 19
+7: VintageBeef: 13
+8: Tango: 12
+9: Grian: 10
+10: iskall85: 9
+11: falsesymmetry: 8
+12: Zedaph: 8
+13: Keralis1: 7
+14: impulseSV: 7
+15: Welsknight: 6
+16: BdoubleO100: 5
+17: GoodTimeWithScar: 5
+18: OrionSound: 4
+19: Renthedog: 4
+20: xBCrafted: 4
+21: ZombieCleo: 4
+22: GeminiTay: 2
+23: Etho: 2
+24: Pixlriffs: 1
+25: hypnotizd: 1
+26: Stressmonster101: 1
+Total 473

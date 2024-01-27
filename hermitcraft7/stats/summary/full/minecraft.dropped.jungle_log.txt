@@ -1,0 +1,20 @@
+minecraft.dropped.jungle_log
+1: cubfan135: 266
+2: GoodTimeWithScar: 264
+3: MumboJumbo: 262
+4: Etho: 218
+5: Grian: 202
+6: Renthedog: 175
+7: Xisuma: 174
+8: joehillssays: 128
+9: Tango: 96
+10: Zedaph: 78
+11: iskall85: 51
+12: Tinfoilchef: 27
+13: falsesymmetry: 15
+14: Stressmonster101: 12
+15: impulseSV: 7
+16: BdoubleO100: 5
+17: Keralis1: 5
+18: Docm77: 1
+Total 1986

@@ -1,0 +1,4 @@
+minecraft.mined.bamboo_hanging_sign
+1: Tango: 9
+2: cubfan135: 1
+Total 10

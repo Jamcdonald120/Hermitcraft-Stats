@@ -1,0 +1,28 @@
+minecraft.crafted.jungle_planks
+1: cubfan135: 21510
+2: Xisuma: 16392
+3: Renthedog: 16246
+4: iskall85: 8840
+5: Grian: 4804
+6: falsesymmetry: 4404
+7: Tango: 3880
+8: PythonGB: 2312
+9: impulseSV: 2260
+10: GoodTimeWithScar: 1556
+11: iJevin: 1448
+12: ZombieCleo: 1376
+13: Docm77: 1316
+14: BdoubleO100: 1272
+15: Tinfoilchef: 768
+16: MumboJumbo: 760
+17: Zedaph: 668
+18: joehillssays: 512
+19: Keralis1: 512
+20: Jura_Whitey: 304
+21: Biffa2001: 88
+22: Jessassin: 44
+23: Stressmonster101: 36
+24: tterrag: 16
+25: Welsknight: 12
+26: PokePugx: 4
+Total 91340

@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.birch_fence_gate
+1: Welsknight: 42
+2: MumboJumbo: 16
+3: joehillssays: 5
+4: cubfan135: 5
+5: xBCrafted: 4
+6: PythonGB: 2
+7: impulseSV: 2
+8: falsesymmetry: 1
+9: GoodTimeWithScar: 1
+Total 78

@@ -1,0 +1,16 @@
+minecraft.picked_up.brick_slab
+1: Xisuma: 1157
+2: cubfan135: 690
+3: GoodTimeWithScar: 226
+4: impulseSV: 164
+5: iJevin: 63
+6: falsesymmetry: 34
+7: Welsknight: 31
+8: Docm77: 14
+9: Renthedog: 14
+10: Tango: 11
+11: Grian: 4
+12: BdoubleO100: 3
+13: MumboJumbo: 1
+14: Tinfoilchef: 1
+Total 2413

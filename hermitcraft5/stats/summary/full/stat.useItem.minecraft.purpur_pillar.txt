@@ -1,0 +1,12 @@
+stat.useItem.minecraft.purpur_pillar
+1: cubfan135: 3650
+2: Tango: 129
+3: Xisuma: 49
+4: iskall85: 36
+5: Welsknight: 15
+6: iJevin: 14
+7: MumboJumbo: 12
+8: impulseSV: 10
+9: PythonGB: 8
+10: GoodTimeWithScar: 6
+Total 3929

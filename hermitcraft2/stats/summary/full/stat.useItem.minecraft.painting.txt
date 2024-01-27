@@ -1,0 +1,5 @@
+stat.useItem.minecraft.painting
+1: falsesymmetry: 338
+2: zueljin: 93
+3: ZombieCleo: 63
+Total 494

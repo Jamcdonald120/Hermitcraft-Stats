@@ -1,0 +1,26 @@
+minecraft.picked_up.pufferfish
+1: Xisuma: 157
+2: impulseSV: 135
+3: Renthedog: 84
+4: VintageBeef: 78
+5: hypnotizd: 64
+6: Zedaph: 61
+7: iJevin: 37
+8: cubfan135: 34
+9: falsesymmetry: 30
+10: BdoubleO100: 23
+11: Grian: 21
+12: joehillssays: 20
+13: Tango: 14
+14: Etho: 11
+15: Keralis1: 11
+16: MumboJumbo: 9
+17: xBCrafted: 6
+18: GoodTimeWithScar: 6
+19: Docm77: 5
+20: iskall85: 5
+21: HermitcraftAlt: 3
+22: Stressmonster101: 2
+23: xisumavoid: 1
+24: Welsknight: 1
+Total 818

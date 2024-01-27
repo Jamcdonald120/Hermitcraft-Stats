@@ -1,0 +1,23 @@
+minecraft.crafted.lectern
+1: PearlescentMoon: 66
+2: GoodTimeWithScar: 63
+3: Xisuma: 54
+4: iJevin: 39
+5: Grian: 29
+6: GeminiTay: 21
+7: cubfan135: 21
+8: Stressmonster101: 16
+9: hypnotizd: 10
+10: Keralis1: 10
+11: impulseSV: 10
+12: Renthedog: 8
+13: BdoubleO100: 7
+14: Zedaph: 5
+15: Tango: 2
+16: iskall85: 2
+17: ZombieCleo: 2
+18: MumboJumbo: 2
+19: Docm77: 1
+20: falsesymmetry: 1
+21: Welsknight: 1
+Total 370

@@ -1,0 +1,27 @@
+minecraft.mined.sweet_berry_bush
+1: xBCrafted: 84
+2: PearlescentMoon: 57
+3: Tango: 53
+4: iJevin: 24
+5: BdoubleO100: 24
+6: cubfan135: 21
+7: hypnotizd: 21
+8: Keralis1: 19
+9: Zedaph: 18
+10: Docm77: 13
+11: Xisuma: 13
+12: joehillssays: 12
+13: MythicalSausage: 11
+14: impulseSV: 11
+15: GeminiTay: 10
+16: Grian: 9
+17: GoodTimeWithScar: 9
+18: Etho: 8
+19: falsesymmetry: 3
+20: iskall85: 2
+21: Stressmonster101: 2
+22: OrionSound: 1
+23: VintageBeef: 1
+24: Smallishbeans: 1
+25: ZombieCleo: 1
+Total 428

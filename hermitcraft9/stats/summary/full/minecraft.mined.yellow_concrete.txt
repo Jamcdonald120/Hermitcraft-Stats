@@ -1,0 +1,27 @@
+minecraft.mined.yellow_concrete
+1: PearlescentMoon: 5563
+2: Docm77: 3962
+3: cubfan135: 1637
+4: joehillssays: 1316
+5: ZombieCleo: 839
+6: Keralis1: 597
+7: Renthedog: 345
+8: impulseSV: 296
+9: Xisuma: 282
+10: VintageBeef: 262
+11: GoodTimeWithScar: 204
+12: iJevin: 165
+13: Grian: 156
+14: Etho: 128
+15: Mumbo: 128
+16: Smallishbeans: 52
+17: falsesymmetry: 38
+18: RentheKing: 31
+19: BdoubleO100: 29
+20: SolidarityGaming: 11
+21: GeminiTay: 10
+22: iskall85: 10
+23: Tango: 2
+24: hypnotizd: 2
+25: Zedaph: 1
+Total 16066

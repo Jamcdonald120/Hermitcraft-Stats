@@ -1,0 +1,24 @@
+minecraft.picked_up.azure_bluet
+1: Grian: 3371
+2: Docm77: 794
+3: Renthedog: 547
+4: falsesymmetry: 532
+5: impulseSV: 480
+6: GoodTimeWithScar: 423
+7: cubfan135: 360
+8: joehillssays: 107
+9: Xisuma: 63
+10: PythonGB: 62
+11: BdoubleO100: 58
+12: Welsknight: 43
+13: Tango: 40
+14: MumboJumbo: 36
+15: Zedaph: 36
+16: Biffa2001: 29
+17: iJevin: 25
+18: iskall85: 16
+19: Keralis1: 12
+20: Stressmonster101: 8
+21: xBCrafted: 6
+22: tterrag: 1
+Total 7049

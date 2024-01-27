@@ -1,0 +1,22 @@
+minecraft.dropped.quartz
+1: Zedaph: 2898
+2: BdoubleO100: 1877
+3: cubfan135: 1368
+4: Grian: 983
+5: Renthedog: 251
+6: GoodTimeWithScar: 226
+7: iskall85: 207
+8: iJevin: 186
+9: Tango: 104
+10: Etho: 103
+11: Stressmonster101: 64
+12: xBCrafted: 32
+13: Keralis1: 19
+14: MumboJumbo: 12
+15: Xisuma: 10
+16: hypnotizd: 5
+17: Docm77: 3
+18: falsesymmetry: 3
+19: VintageBeef: 1
+20: joehillssays: 1
+Total 8353

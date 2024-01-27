@@ -1,0 +1,18 @@
+stat.drop.minecraft.cooked_beef
+1: Tango: 489
+2: Zedaph: 473
+3: Xisuma: 440
+4: Renthedog: 231
+5: Docm77: 148
+6: impulseSV: 146
+7: GoodTimeWithScar: 89
+8: falsesymmetry: 74
+9: iskall85: 65
+10: Etho: 64
+11: cubfan135: 50
+12: Biffa2001: 11
+13: MumboJumbo: 11
+14: iJevin: 3
+15: joehillssays: 2
+16: Tinfoilchef: 1
+Total 2297

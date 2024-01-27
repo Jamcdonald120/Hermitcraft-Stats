@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.golden_rail
+1: impulseSV: 6666
+2: Xisuma: 1224
+3: iskall85: 1086
+4: Tango: 522
+5: MumboJumbo: 438
+6: falsesymmetry: 306
+7: Etho: 288
+8: Biffa2001: 198
+9: VintageBeef: 192
+10: Tinfoilchef: 150
+11: cubfan135: 144
+12: Renthedog: 108
+13: GoodTimeWithScar: 66
+14: PythonGB: 60
+15: iJevin: 54
+16: Docm77: 18
+Total 11520

@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.cooked_beef
+1: Xisuma: 512
+2: Tango: 321
+3: ZombieCleo: 56
+4: falsesymmetry: 2
+Total 891

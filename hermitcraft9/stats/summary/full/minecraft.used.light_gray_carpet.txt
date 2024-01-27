@@ -1,0 +1,25 @@
+minecraft.used.light_gray_carpet
+1: VintageBeef: 11376
+2: falsesymmetry: 2052
+3: impulseSV: 1386
+4: iJevin: 599
+5: PearlescentMoon: 362
+6: GoodTimeWithScar: 267
+7: Stressmonster101: 101
+8: Keralis1: 94
+9: Docm77: 85
+10: BdoubleO100: 83
+11: Grian: 78
+12: cubfan135: 69
+13: Etho: 69
+14: hypnotizd: 66
+15: Tango: 32
+16: Renthedog: 28
+17: ZombieCleo: 22
+18: GeminiTay: 7
+19: xBCrafted: 3
+20: RentheKing: 3
+21: MythicalSausage: 2
+22: Zedaph: 2
+23: iskall85: 1
+Total 16787

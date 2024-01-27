@@ -1,0 +1,23 @@
+minecraft.mined.bone_block
+1: cubfan135: 971
+2: GoodTimeWithScar: 507
+3: impulseSV: 260
+4: Tango: 176
+5: iJevin: 144
+6: Docm77: 94
+7: xBCrafted: 78
+8: Etho: 69
+9: Grian: 51
+10: hypnotizd: 47
+11: iskall85: 41
+12: Renthedog: 35
+13: Welsknight: 35
+14: VintageBeef: 30
+15: joehillssays: 30
+16: PearlescentMoon: 25
+17: GeminiTay: 13
+18: ZombieCleo: 10
+19: Keralis1: 6
+20: BdoubleO100: 2
+21: falsesymmetry: 1
+Total 2625

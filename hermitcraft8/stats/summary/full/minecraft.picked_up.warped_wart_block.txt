@@ -1,0 +1,27 @@
+minecraft.picked_up.warped_wart_block
+1: BdoubleO100: 4876
+2: joehillssays: 3944
+3: Renthedog: 2723
+4: impulseSV: 2038
+5: Xisuma: 1348
+6: iskall85: 1024
+7: hypnotizd: 888
+8: Keralis1: 412
+9: ZombieCleo: 290
+10: GeminiTay: 203
+11: Grian: 146
+12: PearlescentMoon: 89
+13: Welsknight: 78
+14: cubfan135: 43
+15: Zedaph: 37
+16: GoodTimeWithScar: 35
+17: Stressmonster101: 14
+18: Etho: 8
+19: MumboJumbo: 8
+20: Docm77: 4
+21: Tango: 4
+22: xBCrafted: 2
+23: VintageBeef: 1
+24: iJevin: 1
+25: falsesymmetry: 1
+Total 18217

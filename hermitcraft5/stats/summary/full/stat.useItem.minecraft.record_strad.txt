@@ -1,0 +1,4 @@
+stat.useItem.minecraft.record_strad
+1: Xisuma: 3
+2: cubfan135: 2
+Total 5

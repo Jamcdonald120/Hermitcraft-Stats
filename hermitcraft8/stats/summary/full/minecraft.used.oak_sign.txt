@@ -1,0 +1,28 @@
+minecraft.used.oak_sign
+1: iJevin: 297
+2: joehillssays: 229
+3: cubfan135: 183
+4: falsesymmetry: 179
+5: MumboJumbo: 166
+6: GoodTimeWithScar: 162
+7: Xisuma: 126
+8: Grian: 110
+9: Zedaph: 59
+10: PearlescentMoon: 52
+11: Welsknight: 51
+12: iskall85: 35
+13: Keralis1: 35
+14: impulseSV: 35
+15: GeminiTay: 31
+16: BdoubleO100: 30
+17: Tango: 27
+18: Stressmonster101: 27
+19: Etho: 24
+20: hypnotizd: 20
+21: Docm77: 11
+22: xBCrafted: 9
+23: ZombieCleo: 6
+24: Renthedog: 4
+25: VintageBeef: 1
+26: pillbugnine: 1
+Total 1910

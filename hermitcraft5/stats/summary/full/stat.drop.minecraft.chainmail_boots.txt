@@ -1,0 +1,16 @@
+stat.drop.minecraft.chainmail_boots
+1: Renthedog: 56
+2: GoodTimeWithScar: 36
+3: iskall85: 30
+4: xBCrafted: 24
+5: Docm77: 17
+6: Tango: 15
+7: iJevin: 6
+8: Zedaph: 6
+9: falsesymmetry: 5
+10: MumboJumbo: 4
+11: impulseSV: 4
+12: cubfan135: 3
+13: BdoubleO100: 2
+14: Stressmonster101: 1
+Total 209

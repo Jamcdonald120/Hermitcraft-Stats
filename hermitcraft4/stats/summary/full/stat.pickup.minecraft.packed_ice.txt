@@ -1,0 +1,17 @@
+stat.pickup.minecraft.packed_ice
+1: Welsknight: 15810
+2: impulseSV: 10365
+3: Xisuma: 4670
+4: MumboJumbo: 4181
+5: falsesymmetry: 2349
+6: Tango: 1864
+7: cubfan135: 1590
+8: PythonGB: 567
+9: Etho: 558
+10: iskall85: 529
+11: xBCrafted: 235
+12: GoodTimeWithScar: 126
+13: Docm77: 97
+14: Renthedog: 3
+15: iJevin: 2
+Total 42946

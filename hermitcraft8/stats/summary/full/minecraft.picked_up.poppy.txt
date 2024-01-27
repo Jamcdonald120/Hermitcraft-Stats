@@ -1,0 +1,28 @@
+minecraft.picked_up.poppy
+1: Xisuma: 5108
+2: GoodTimeWithScar: 920
+3: joehillssays: 899
+4: hypnotizd: 630
+5: Docm77: 555
+6: Tango: 374
+7: Grian: 241
+8: Renthedog: 181
+9: Keralis1: 172
+10: impulseSV: 162
+11: PearlescentMoon: 155
+12: xBCrafted: 145
+13: iJevin: 125
+14: cubfan135: 113
+15: Zedaph: 113
+16: MumboJumbo: 90
+17: GeminiTay: 88
+18: BdoubleO100: 88
+19: falsesymmetry: 68
+20: Welsknight: 64
+21: ZombieCleo: 56
+22: VintageBeef: 28
+23: Etho: 13
+24: Stressmonster101: 11
+25: Tinfoilchef: 6
+26: iskall85: 4
+Total 10409

@@ -1,0 +1,23 @@
+minecraft.crafted.golden_helmet
+1: Keralis1: 24
+2: Xisuma: 20
+3: impulseSV: 18
+4: joehillssays: 17
+5: VintageBeef: 11
+6: ZombieCleo: 10
+7: iskall85: 7
+8: cubfan135: 6
+9: xBCrafted: 4
+10: Zedaph: 4
+11: BdoubleO100: 3
+12: Tango: 2
+13: falsesymmetry: 2
+14: Welsknight: 2
+15: Docm77: 1
+16: Renthedog: 1
+17: iJevin: 1
+18: Grian: 1
+19: MumboJumbo: 1
+20: GoodTimeWithScar: 1
+21: Stressmonster101: 1
+Total 137

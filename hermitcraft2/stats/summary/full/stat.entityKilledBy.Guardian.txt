@@ -1,0 +1,5 @@
+stat.entityKilledBy.Guardian
+1: sl1pg8r: 2
+2: Xisuma: 2
+3: KingDaddyDMAC: 1
+Total 5

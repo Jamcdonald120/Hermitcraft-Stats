@@ -1,0 +1,18 @@
+minecraft.picked_up.purple_wool
+1: Etho: 4179
+2: VintageBeef: 1672
+3: BdoubleO100: 624
+4: Zedaph: 594
+5: iskall85: 544
+6: Tango: 497
+7: GoodTimeWithScar: 493
+8: iJevin: 362
+9: cubfan135: 343
+10: Stressmonster101: 123
+11: ZombieCleo: 93
+12: Xisuma: 9
+13: joehillssays: 8
+14: impulseSV: 5
+15: Renthedog: 3
+16: Grian: 3
+Total 9552

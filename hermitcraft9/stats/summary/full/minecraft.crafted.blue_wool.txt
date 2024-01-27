@@ -1,0 +1,14 @@
+minecraft.crafted.blue_wool
+1: Etho: 448
+2: Tango: 217
+3: xBCrafted: 192
+4: Xisuma: 49
+5: Keralis1: 35
+6: hypnotizd: 18
+7: Zedaph: 13
+8: ZombieCleo: 12
+9: Renthedog: 9
+10: Welsknight: 9
+11: PearlescentMoon: 3
+12: Grian: 1
+Total 1006

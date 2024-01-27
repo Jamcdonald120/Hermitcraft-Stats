@@ -1,0 +1,29 @@
+minecraft.picked_up.oak_log
+1: MumboJumbo: 10410
+2: GoodTimeWithScar: 7579
+3: Grian: 7507
+4: cubfan135: 5673
+5: joehillssays: 5336
+6: iJevin: 4544
+7: xBCrafted: 4451
+8: PearlescentMoon: 4244
+9: Renthedog: 4212
+10: impulseSV: 3347
+11: ZombieCleo: 3136
+12: GeminiTay: 3134
+13: Xisuma: 3126
+14: BdoubleO100: 2812
+15: Zedaph: 2195
+16: Keralis1: 1871
+17: iskall85: 1838
+18: Stressmonster101: 1418
+19: falsesymmetry: 1410
+20: Tango: 1344
+21: Etho: 739
+22: Welsknight: 665
+23: hypnotizd: 545
+24: Tinfoilchef: 457
+25: Docm77: 314
+26: VintageBeef: 81
+27: pillbugnine: 4
+Total 82392

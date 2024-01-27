@@ -1,0 +1,4 @@
+minecraft.picked_up.birch_pressure_plate
+1: Renthedog: 1
+2: Keralis1: 1
+Total 2

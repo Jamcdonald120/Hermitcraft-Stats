@@ -1,0 +1,6 @@
+minecraft.killed_by.ender_dragon
+1: Xisuma: 4
+2: Zedaph: 4
+3: cubfan135: 2
+4: iJevin: 1
+Total 11

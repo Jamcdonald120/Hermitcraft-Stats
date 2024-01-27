@@ -1,0 +1,4 @@
+minecraft.dropped.yellow_carpet
+1: MumboJumbo: 3
+2: Renthedog: 1
+Total 4

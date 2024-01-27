@@ -1,0 +1,26 @@
+minecraft.picked_up.oak_log
+1: Renthedog: 49351
+2: GoodTimeWithScar: 24772
+3: joehillssays: 14151
+4: Grian: 13053
+5: iskall85: 10752
+6: falsesymmetry: 9103
+7: Keralis1: 8851
+8: Xisuma: 6137
+9: Etho: 6120
+10: MumboJumbo: 5874
+11: BdoubleO100: 5756
+12: Tango: 5631
+13: ZombieCleo: 4566
+14: Zedaph: 4545
+15: Tinfoilchef: 4068
+16: impulseSV: 3228
+17: Stressmonster101: 2835
+18: hypnotizd: 2361
+19: VintageBeef: 2069
+20: cubfan135: 1384
+21: Welsknight: 1297
+22: xBCrafted: 1088
+23: iJevin: 935
+24: Docm77: 560
+Total 188487

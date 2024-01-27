@@ -1,0 +1,24 @@
+minecraft.dropped.dandelion
+1: Docm77: 1288
+2: Grian: 563
+3: GoodTimeWithScar: 276
+4: impulseSV: 261
+5: falsesymmetry: 259
+6: Xisuma: 198
+7: Renthedog: 173
+8: iskall85: 112
+9: MumboJumbo: 99
+10: cubfan135: 93
+11: Stressmonster101: 59
+12: joehillssays: 34
+13: Keralis1: 24
+14: iJevin: 18
+15: Zedaph: 15
+16: BdoubleO100: 9
+17: Tango: 6
+18: PythonGB: 5
+19: xBCrafted: 2
+20: Welsknight: 1
+21: ZombieCleo: 1
+22: Cojomax99: 1
+Total 3497

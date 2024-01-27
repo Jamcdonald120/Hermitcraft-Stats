@@ -1,0 +1,22 @@
+minecraft.killed.trader_llama
+1: Xisuma: 89
+2: Tango: 61
+3: GoodTimeWithScar: 38
+4: Keralis1: 30
+5: hypnotizd: 28
+6: Grian: 24
+7: Etho: 23
+8: cubfan135: 22
+9: Zedaph: 22
+10: Renthedog: 16
+11: falsesymmetry: 16
+12: VintageBeef: 15
+13: iskall85: 15
+14: iJevin: 14
+15: xBCrafted: 13
+16: BdoubleO100: 8
+17: Docm77: 6
+18: impulseSV: 4
+19: ZombieCleo: 3
+20: MumboJumbo: 3
+Total 450

@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.iron_chestplate
+1: Renthedog: 59
+2: falsesymmetry: 40
+3: joehillssays: 39
+4: Tango: 28
+5: Welsknight: 18
+6: Zedaph: 13
+7: Xisuma: 9
+8: xBCrafted: 9
+9: cubfan135: 8
+10: iskall85: 6
+11: impulseSV: 5
+12: VintageBeef: 4
+13: Etho: 4
+14: GoodTimeWithScar: 3
+15: Biffa2001: 2
+16: ZombieCleo: 2
+17: Stressmonster101: 2
+18: PythonGB: 1
+19: iJevin: 1
+20: BdoubleO100: 1
+21: MumboJumbo: 1
+22: Tinfoilchef: 1
+Total 256

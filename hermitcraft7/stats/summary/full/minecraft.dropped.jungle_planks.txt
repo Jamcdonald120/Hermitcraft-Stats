@@ -1,0 +1,22 @@
+minecraft.dropped.jungle_planks
+1: Grian: 454
+2: GoodTimeWithScar: 400
+3: Tango: 274
+4: cubfan135: 268
+5: Etho: 255
+6: iskall85: 182
+7: MumboJumbo: 86
+8: xBCrafted: 68
+9: Stressmonster101: 56
+10: Zedaph: 51
+11: iJevin: 41
+12: Docm77: 33
+13: Renthedog: 21
+14: VintageBeef: 17
+15: Xisuma: 8
+16: BdoubleO100: 8
+17: hypnotizd: 6
+18: Keralis1: 4
+19: impulseSV: 4
+20: ZombieCleo: 1
+Total 2237

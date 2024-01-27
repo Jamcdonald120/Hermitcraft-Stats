@@ -1,0 +1,22 @@
+stat.pickup.minecraft.wooden_button
+1: cubfan135: 116
+2: Renthedog: 75
+3: Tango: 61
+4: iskall85: 58
+5: Zedaph: 36
+6: BdoubleO100: 30
+7: xBCrafted: 29
+8: Xisuma: 23
+9: impulseSV: 23
+10: falsesymmetry: 22
+11: MumboJumbo: 21
+12: PythonGB: 15
+13: Etho: 10
+14: GoodTimeWithScar: 10
+15: Welsknight: 8
+16: joehillssays: 5
+17: Biffa2001: 5
+18: VintageBeef: 4
+19: ZombieCleo: 3
+20: Stressmonster101: 3
+Total 557

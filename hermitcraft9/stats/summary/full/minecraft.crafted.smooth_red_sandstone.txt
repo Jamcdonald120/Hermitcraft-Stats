@@ -1,0 +1,8 @@
+minecraft.crafted.smooth_red_sandstone
+1: PearlescentMoon: 2693
+2: Etho: 581
+3: iJevin: 71
+4: GoodTimeWithScar: 64
+5: Xisuma: 20
+6: Zedaph: 3
+Total 3432

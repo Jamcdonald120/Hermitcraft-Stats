@@ -1,0 +1,25 @@
+minecraft.used.bookshelf
+1: PearlescentMoon: 1427
+2: Xisuma: 1017
+3: GoodTimeWithScar: 828
+4: Keralis1: 746
+5: Grian: 745
+6: iJevin: 467
+7: Welsknight: 331
+8: GeminiTay: 295
+9: Stressmonster101: 206
+10: Zedaph: 165
+11: cubfan135: 101
+12: xBCrafted: 74
+13: falsesymmetry: 73
+14: BdoubleO100: 47
+15: iskall85: 42
+16: Tango: 29
+17: joehillssays: 24
+18: hypnotizd: 17
+19: VintageBeef: 16
+20: Docm77: 15
+21: Etho: 15
+22: Renthedog: 10
+23: MumboJumbo: 3
+Total 6693

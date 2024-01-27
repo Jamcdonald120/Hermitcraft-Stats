@@ -1,0 +1,27 @@
+minecraft.mined.spruce_planks
+1: ZombieCleo: 1924
+2: PearlescentMoon: 1466
+3: GeminiTay: 1315
+4: Tango: 1264
+5: cubfan135: 1066
+6: BdoubleO100: 996
+7: GoodTimeWithScar: 699
+8: Grian: 692
+9: Xisuma: 688
+10: Keralis1: 443
+11: Etho: 365
+12: Docm77: 310
+13: Renthedog: 215
+14: impulseSV: 174
+15: joehillssays: 162
+16: Stressmonster101: 106
+17: iJevin: 105
+18: iskall85: 91
+19: Zedaph: 88
+20: VintageBeef: 57
+21: xBCrafted: 24
+22: Welsknight: 24
+23: falsesymmetry: 6
+24: MumboJumbo: 5
+25: EvilXisuma: 2
+Total 12287

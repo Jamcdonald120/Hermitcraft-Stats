@@ -1,0 +1,17 @@
+minecraft.picked_up.honey_bottle
+1: cubfan135: 648
+2: Xisuma: 520
+3: hypnotizd: 107
+4: Etho: 60
+5: Tango: 59
+6: Docm77: 39
+7: Keralis1: 16
+8: falsesymmetry: 13
+9: Grian: 12
+10: joehillssays: 9
+11: Zedaph: 8
+12: GoodTimeWithScar: 6
+13: iJevin: 5
+14: ZombieCleo: 4
+15: BdoubleO100: 1
+Total 1507

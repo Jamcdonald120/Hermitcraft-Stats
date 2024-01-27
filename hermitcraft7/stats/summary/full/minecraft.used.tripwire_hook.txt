@@ -1,0 +1,24 @@
+minecraft.used.tripwire_hook
+1: Keralis1: 203
+2: hypnotizd: 87
+3: Tango: 66
+4: xBCrafted: 56
+5: Xisuma: 44
+6: cubfan135: 41
+7: GoodTimeWithScar: 39
+8: Zedaph: 25
+9: VintageBeef: 22
+10: Renthedog: 15
+11: falsesymmetry: 15
+12: Etho: 14
+13: impulseSV: 14
+14: BdoubleO100: 12
+15: Docm77: 11
+16: iJevin: 10
+17: Stressmonster101: 7
+18: ZombieCleo: 5
+19: joehillssays: 4
+20: Welsknight: 4
+21: MumboJumbo: 4
+22: iskall85: 2
+Total 700

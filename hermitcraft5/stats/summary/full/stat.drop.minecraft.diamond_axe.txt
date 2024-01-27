@@ -1,0 +1,21 @@
+stat.drop.minecraft.diamond_axe
+1: cubfan135: 27
+2: Tango: 12
+3: MumboJumbo: 8
+4: impulseSV: 6
+5: Zedaph: 6
+6: iskall85: 5
+7: falsesymmetry: 5
+8: Renthedog: 4
+9: GoodTimeWithScar: 4
+10: Tinfoilchef: 4
+11: Stressmonster101: 4
+12: Xisuma: 3
+13: iJevin: 3
+14: xBCrafted: 2
+15: Welsknight: 2
+16: Biffa2001: 2
+17: VintageBeef: 1
+18: PythonGB: 1
+19: BdoubleO100: 1
+Total 100

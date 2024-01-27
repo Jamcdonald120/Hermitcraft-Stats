@@ -1,0 +1,26 @@
+stat.killEntity.Zombie
+1: Renthedog: 22221
+2: GoodTimeWithScar: 12715
+3: xBCrafted: 9521
+4: iskall85: 9470
+5: Stressmonster101: 7658
+6: PythonGB: 7213
+7: Tinfoilchef: 5600
+8: Tango: 4797
+9: falsesymmetry: 3668
+10: MumboJumbo: 3114
+11: cubfan135: 2892
+12: joehillssays: 2738
+13: ZombieCleo: 2563
+14: Zedaph: 1508
+15: iJevin: 1423
+16: impulseSV: 1315
+17: Welsknight: 716
+18: Xisuma: 660
+19: Biffa2001: 629
+20: Docm77: 529
+21: Etho: 306
+22: VintageBeef: 261
+23: BdoubleO100: 183
+24: xisumavoid: 7
+Total 101707

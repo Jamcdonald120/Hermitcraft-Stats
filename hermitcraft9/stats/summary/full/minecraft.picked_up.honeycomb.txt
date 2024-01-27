@@ -1,0 +1,25 @@
+minecraft.picked_up.honeycomb
+1: Grian: 2244
+2: Etho: 950
+3: RentheKing: 833
+4: iJevin: 749
+5: PearlescentMoon: 691
+6: Tango: 462
+7: Renthedog: 357
+8: Zedaph: 334
+9: Xisuma: 169
+10: ZombieCleo: 161
+11: joehillssays: 151
+12: falsesymmetry: 150
+13: GoodTimeWithScar: 99
+14: Pixlriffs: 63
+15: hypnotizd: 60
+16: iskall85: 59
+17: Keralis1: 54
+18: BdoubleO100: 49
+19: Docm77: 33
+20: impulseSV: 33
+21: xBCrafted: 30
+22: cubfan135: 12
+23: VintageBeef: 3
+Total 7746

@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.fence
+1: Xisuma: 1102
+2: GoodTimeWithScar: 752
+3: joehillssays: 625
+4: iskall85: 386
+5: Tango: 342
+6: Renthedog: 259
+7: impulseSV: 229
+8: falsesymmetry: 212
+9: cubfan135: 207
+10: iJevin: 197
+11: MumboJumbo: 126
+12: PythonGB: 103
+13: Tinfoilchef: 91
+14: Welsknight: 66
+15: ZombieCleo: 66
+16: VintageBeef: 29
+17: xBCrafted: 26
+18: Etho: 25
+19: zueljin: 6
+20: Biffa2001: 2
+21: Docm77: 1
+Total 4852

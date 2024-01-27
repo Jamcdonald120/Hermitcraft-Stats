@@ -1,0 +1,23 @@
+minecraft.picked_up.salmon
+1: Renthedog: 279
+2: Etho: 211
+3: impulseSV: 208
+4: Xisuma: 161
+5: hypnotizd: 105
+6: VintageBeef: 81
+7: Stressmonster101: 44
+8: BdoubleO100: 41
+9: Keralis1: 38
+10: Grian: 31
+11: falsesymmetry: 29
+12: Tango: 22
+13: GoodTimeWithScar: 21
+14: Zedaph: 20
+15: cubfan135: 18
+16: MumboJumbo: 13
+17: iJevin: 9
+18: joehillssays: 9
+19: xBCrafted: 9
+20: Docm77: 1
+21: iskall85: 1
+Total 1351

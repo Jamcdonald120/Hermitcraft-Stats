@@ -1,0 +1,20 @@
+minecraft.picked_up.lime_wool
+1: Xisuma: 5964
+2: ZombieCleo: 816
+3: iJevin: 314
+4: cubfan135: 288
+5: iskall85: 196
+6: falsesymmetry: 193
+7: Zedaph: 133
+8: Docm77: 97
+9: Biffa2001: 85
+10: MumboJumbo: 82
+11: Grian: 71
+12: GoodTimeWithScar: 46
+13: Tango: 43
+14: impulseSV: 30
+15: Welsknight: 26
+16: BdoubleO100: 14
+17: Renthedog: 13
+18: Keralis1: 3
+Total 8414

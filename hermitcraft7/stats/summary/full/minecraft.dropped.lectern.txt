@@ -1,0 +1,10 @@
+minecraft.dropped.lectern
+1: Zedaph: 208
+2: Stressmonster101: 10
+3: Grian: 9
+4: cubfan135: 4
+5: Keralis1: 3
+6: Etho: 2
+7: VintageBeef: 1
+8: GoodTimeWithScar: 1
+Total 238

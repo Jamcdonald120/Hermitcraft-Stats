@@ -1,0 +1,24 @@
+minecraft.picked_up.quartz_block
+1: PythonGB: 5300
+2: GoodTimeWithScar: 2784
+3: falsesymmetry: 2331
+4: Renthedog: 2196
+5: Grian: 1716
+6: iskall85: 1491
+7: iJevin: 1036
+8: Xisuma: 852
+9: cubfan135: 646
+10: Keralis1: 636
+11: Docm77: 373
+12: MumboJumbo: 359
+13: Tango: 186
+14: Stressmonster101: 131
+15: impulseSV: 131
+16: Welsknight: 91
+17: ZombieCleo: 43
+18: joehillssays: 36
+19: Zedaph: 19
+20: Tinfoilchef: 18
+21: Biffa2001: 9
+22: BdoubleO100: 2
+Total 20386

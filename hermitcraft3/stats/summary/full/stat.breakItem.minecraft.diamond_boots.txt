@@ -1,0 +1,7 @@
+stat.breakItem.minecraft.diamond_boots
+1: impulseSV: 3
+2: Tango: 2
+3: Xisuma: 1
+4: Biffa2001: 1
+5: Spumwackles: 1
+Total 8

@@ -1,0 +1,28 @@
+stat.damageDealt
+1: GoodTimeWithScar: 7186496
+2: cubfan135: 4508563
+3: Xisuma: 2750742
+4: iJevin: 2205239
+5: impulseSV: 2110822
+6: falsesymmetry: 1799137
+7: iskall85: 1778035
+8: PythonGB: 1542748
+9: Tango: 1473977
+10: MumboJumbo: 1201559
+11: Welsknight: 1113575
+12: Renthedog: 1107181
+13: joehillssays: 1067621
+14: Zedaph: 697908
+15: Tinfoilchef: 466145
+16: Stressmonster101: 425306
+17: Docm77: 389097
+18: Biffa2001: 385184
+19: Etho: 266178
+20: ZombieCleo: 256449
+21: xBCrafted: 225888
+22: BdoubleO100: 196856
+23: VintageBeef: 185223
+24: EvilXisuma: 5740
+25: xisumavoid: 4329
+26: TangoCam: 80
+Total 33350078

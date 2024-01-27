@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.quartz_block
+1: Xisuma: 596
+2: impulseSV: 407
+3: PythonGB: 355
+4: falsesymmetry: 344
+5: xBCrafted: 246
+6: Tango: 202
+7: ZombieCleo: 152
+8: sl1pg8r: 139
+9: joehillssays: 93
+10: zueljin: 91
+11: Mumbo: 81
+12: monkeyfarm: 19
+13: iJevin: 17
+14: topmass: 9
+15: Spumwackles: 7
+16: Biffa2001: 3
+Total 2761

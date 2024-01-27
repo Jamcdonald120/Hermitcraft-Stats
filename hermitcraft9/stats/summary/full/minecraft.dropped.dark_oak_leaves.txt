@@ -1,0 +1,19 @@
+minecraft.dropped.dark_oak_leaves
+1: falsesymmetry: 165
+2: cubfan135: 127
+3: GoodTimeWithScar: 94
+4: Grian: 91
+5: BdoubleO100: 81
+6: Renthedog: 60
+7: RentheKing: 36
+8: Docm77: 35
+9: Tango: 19
+10: impulseSV: 9
+11: Etho: 4
+12: Stressmonster101: 4
+13: joehillssays: 2
+14: Keralis1: 2
+15: Xisuma: 1
+16: VintageBeef: 1
+17: PearlescentMoon: 1
+Total 732

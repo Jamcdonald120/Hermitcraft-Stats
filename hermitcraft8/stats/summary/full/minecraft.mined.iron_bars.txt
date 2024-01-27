@@ -1,0 +1,25 @@
+minecraft.mined.iron_bars
+1: Renthedog: 190
+2: PearlescentMoon: 107
+3: Tango: 106
+4: Keralis1: 100
+5: Welsknight: 62
+6: Xisuma: 60
+7: xBCrafted: 57
+8: iJevin: 55
+9: Docm77: 44
+10: cubfan135: 37
+11: impulseSV: 33
+12: Grian: 21
+13: joehillssays: 13
+14: falsesymmetry: 10
+15: Tinfoilchef: 10
+16: GoodTimeWithScar: 9
+17: MumboJumbo: 8
+18: iskall85: 7
+19: Zedaph: 7
+20: BdoubleO100: 6
+21: EvilXisuma: 3
+22: Etho: 2
+23: VintageBeef: 1
+Total 948

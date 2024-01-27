@@ -1,0 +1,28 @@
+minecraft.mined.crimson_stem
+1: Keralis1: 11689
+2: Tango: 4054
+3: ZombieCleo: 2990
+4: PearlescentMoon: 2798
+5: VintageBeef: 1968
+6: Renthedog: 1757
+7: Xisuma: 1201
+8: iJevin: 553
+9: cubfan135: 524
+10: Stressmonster101: 514
+11: Docm77: 248
+12: Grian: 201
+13: Etho: 182
+14: falsesymmetry: 126
+15: hypnotizd: 76
+16: impulseSV: 53
+17: joehillssays: 51
+18: Zedaph: 36
+19: BdoubleO100: 26
+20: RentheKing: 10
+21: GoodTimeWithScar: 9
+22: GeminiTay: 6
+23: Pixlriffs: 6
+24: fWhip: 3
+25: Smajor1995: 2
+26: xBCrafted: 2
+Total 29085

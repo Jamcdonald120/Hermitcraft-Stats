@@ -1,0 +1,12 @@
+stat.useItem.minecraft.baked_potato
+1: Spumwackles: 402
+2: ZombieCleo: 195
+3: xBCrafted: 116
+4: Biffa2001: 83
+5: zueljin: 31
+6: Tinfoilchef: 29
+7: Tango: 22
+8: NameOfSamuel: 19
+9: joehillssays: 9
+10: monkeyfarm: 1
+Total 907

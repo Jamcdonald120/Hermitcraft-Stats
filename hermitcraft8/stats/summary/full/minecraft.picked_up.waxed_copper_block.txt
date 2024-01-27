@@ -1,0 +1,12 @@
+minecraft.picked_up.waxed_copper_block
+1: impulseSV: 66
+2: Renthedog: 38
+3: cubfan135: 23
+4: Etho: 21
+5: Xisuma: 17
+6: GoodTimeWithScar: 16
+7: joehillssays: 9
+8: Grian: 3
+9: PearlescentMoon: 3
+10: MumboJumbo: 2
+Total 198

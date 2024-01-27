@@ -1,0 +1,10 @@
+minecraft.picked_up.danger_pottery_sherd
+1: cubfan135: 9
+2: PearlescentMoon: 5
+3: iJevin: 3
+4: ZombieCleo: 3
+5: Zedaph: 2
+6: GeminiTay: 1
+7: falsesymmetry: 1
+8: Etho: 1
+Total 25

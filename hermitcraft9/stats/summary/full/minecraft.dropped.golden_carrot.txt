@@ -1,0 +1,37 @@
+minecraft.dropped.golden_carrot
+1: Grian: 2538
+2: GoodTimeWithScar: 1854
+3: cubfan135: 708
+4: Zedaph: 698
+5: impulseSV: 696
+6: PearlescentMoon: 630
+7: Keralis1: 475
+8: Docm77: 446
+9: GeminiTay: 329
+10: Etho: 285
+11: Renthedog: 257
+12: BdoubleO100: 246
+13: iskall85: 230
+14: Xisuma: 192
+15: Stressmonster101: 188
+16: iJevin: 153
+17: RentheKing: 113
+18: ZombieCleo: 112
+19: Firecracker1195: 111
+20: falsesymmetry: 93
+21: MythicalSausage: 68
+22: Smallishbeans: 65
+23: xBCrafted: 46
+24: Tango: 35
+25: joehillssays: 30
+26: Smajor1995: 26
+27: ShubbleYT: 19
+28: hypnotizd: 16
+29: OrionSound: 9
+30: fWhip: 4
+31: SolidarityGaming: 4
+32: Skizzleman: 3
+33: Mumbo: 3
+34: VintageBeef: 2
+35: Minerva246: 1
+Total 10685

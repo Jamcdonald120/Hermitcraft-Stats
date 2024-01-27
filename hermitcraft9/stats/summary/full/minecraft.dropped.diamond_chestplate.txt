@@ -1,0 +1,16 @@
+minecraft.dropped.diamond_chestplate
+1: Zedaph: 8
+2: Etho: 7
+3: iJevin: 6
+4: Grian: 5
+5: falsesymmetry: 5
+6: cubfan135: 4
+7: GoodTimeWithScar: 4
+8: impulseSV: 2
+9: Docm77: 1
+10: Tango: 1
+11: BdoubleO100: 1
+12: xBCrafted: 1
+13: ZombieCleo: 1
+14: Keralis1: 1
+Total 47

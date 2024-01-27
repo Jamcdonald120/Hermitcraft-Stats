@@ -1,0 +1,18 @@
+stat.useItem.minecraft.dirt
+1: ZombieCleo: 10842
+2: Tango: 7180
+3: falsesymmetry: 5242
+4: Xisuma: 4130
+5: zueljin: 2471
+6: xBCrafted: 1049
+7: sl1pg8r: 821
+8: iJevin: 771
+9: Mumbo: 606
+10: Biffa2001: 551
+11: Tinfoilchef: 495
+12: Spumwackles: 402
+13: KingDaddyDMAC: 146
+14: monkeyfarm: 137
+15: Collen: 5
+16: NameOfSamuel: 3
+Total 34851

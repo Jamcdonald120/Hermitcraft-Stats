@@ -1,0 +1,28 @@
+minecraft.picked_up.firework_rocket
+1: Grian: 24710
+2: GoodTimeWithScar: 17136
+3: Etho: 13830
+4: Tango: 10311
+5: Renthedog: 9927
+6: iJevin: 9061
+7: Keralis1: 4777
+8: falsesymmetry: 4426
+9: iskall85: 3963
+10: joehillssays: 3832
+11: cubfan135: 3578
+12: impulseSV: 3544
+13: BdoubleO100: 3439
+14: Zedaph: 2786
+15: MumboJumbo: 2664
+16: hypnotizd: 2568
+17: Xisuma: 2401
+18: VintageBeef: 1957
+19: ZombieCleo: 1722
+20: Stressmonster101: 1619
+21: xBCrafted: 1088
+22: Docm77: 968
+23: Tinfoilchef: 529
+24: BarryBoss1234: 499
+25: Welsknight: 162
+26: Mumbo: 44
+Total 131541

@@ -1,0 +1,8 @@
+minecraft.crafted.purple_bed
+1: falsesymmetry: 27
+2: cubfan135: 9
+3: Xisuma: 2
+4: ZombieCleo: 2
+5: Renthedog: 1
+6: PythonGB: 1
+Total 42

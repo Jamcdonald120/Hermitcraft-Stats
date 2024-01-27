@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.chorus_plant
+1: Xisuma: 1014
+2: Renthedog: 542
+3: Tinfoilchef: 278
+4: falsesymmetry: 153
+5: Tango: 55
+6: ZombieCleo: 44
+7: cubfan135: 42
+8: impulseSV: 23
+9: GoodTimeWithScar: 22
+10: PythonGB: 21
+11: iskall85: 5
+12: Welsknight: 1
+Total 2200

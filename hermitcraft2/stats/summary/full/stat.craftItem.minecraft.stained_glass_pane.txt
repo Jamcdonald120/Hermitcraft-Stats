@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.stained_glass_pane
+1: Tango: 608
+2: zueljin: 64
+3: falsesymmetry: 48
+Total 720

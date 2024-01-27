@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.birch_boat
+1: falsesymmetry: 152
+2: cubfan135: 105
+3: impulseSV: 31
+4: Tango: 30
+5: PythonGB: 20
+6: iJevin: 13
+7: GoodTimeWithScar: 13
+8: joehillssays: 8
+9: Welsknight: 8
+10: Xisuma: 5
+11: Docm77: 2
+12: zueljin: 1
+13: Etho: 1
+Total 389

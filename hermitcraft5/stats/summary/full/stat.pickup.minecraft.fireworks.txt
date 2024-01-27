@@ -1,0 +1,23 @@
+stat.pickup.minecraft.fireworks
+1: Tango: 17114
+2: GoodTimeWithScar: 6420
+3: Renthedog: 3865
+4: Zedaph: 3018
+5: impulseSV: 2576
+6: cubfan135: 2123
+7: iJevin: 1926
+8: iskall85: 1598
+9: Xisuma: 1544
+10: falsesymmetry: 1272
+11: MumboJumbo: 1216
+12: PythonGB: 1016
+13: joehillssays: 808
+14: Welsknight: 755
+15: Tinfoilchef: 677
+16: Stressmonster101: 605
+17: Etho: 530
+18: BdoubleO100: 193
+19: xBCrafted: 152
+20: Docm77: 128
+21: Biffa2001: 15
+Total 47551

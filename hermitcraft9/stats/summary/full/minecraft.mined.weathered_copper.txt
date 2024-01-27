@@ -1,0 +1,23 @@
+minecraft.mined.weathered_copper
+1: Docm77: 763
+2: Keralis1: 672
+3: GoodTimeWithScar: 450
+4: Zedaph: 290
+5: RentheKing: 246
+6: BdoubleO100: 220
+7: Tango: 215
+8: Grian: 101
+9: Xisuma: 95
+10: cubfan135: 62
+11: falsesymmetry: 58
+12: PearlescentMoon: 38
+13: impulseSV: 32
+14: Mumbo: 30
+15: Etho: 21
+16: Smallishbeans: 8
+17: VintageBeef: 5
+18: iskall85: 4
+19: joehillssays: 2
+20: MumboJumbo: 2
+21: xBCrafted: 1
+Total 3315

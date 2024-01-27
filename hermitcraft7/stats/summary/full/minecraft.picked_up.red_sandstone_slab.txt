@@ -1,0 +1,6 @@
+minecraft.picked_up.red_sandstone_slab
+1: Keralis1: 16
+2: impulseSV: 9
+3: joehillssays: 1
+4: Etho: 1
+Total 27

@@ -1,0 +1,18 @@
+minecraft.dropped.rose_bush
+1: impulseSV: 325
+2: MythicalSausage: 173
+3: Grian: 115
+4: GoodTimeWithScar: 87
+5: ZombieCleo: 64
+6: Zedaph: 57
+7: cubfan135: 55
+8: Keralis1: 39
+9: falsesymmetry: 29
+10: Docm77: 20
+11: Renthedog: 7
+12: Tango: 7
+13: Stressmonster101: 7
+14: Xisuma: 1
+15: joehillssays: 1
+16: Etho: 1
+Total 988

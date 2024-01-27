@@ -1,0 +1,23 @@
+minecraft.picked_up.birch_slab
+1: impulseSV: 2626
+2: Keralis1: 417
+3: xBCrafted: 371
+4: BdoubleO100: 212
+5: VintageBeef: 209
+6: Grian: 152
+7: Zedaph: 143
+8: joehillssays: 136
+9: Xisuma: 135
+10: Stressmonster101: 117
+11: Renthedog: 112
+12: cubfan135: 109
+13: falsesymmetry: 57
+14: Welsknight: 51
+15: iskall85: 23
+16: iJevin: 19
+17: Etho: 15
+18: GoodTimeWithScar: 8
+19: Tango: 7
+20: hypnotizd: 1
+21: MumboJumbo: 1
+Total 4921

@@ -1,0 +1,26 @@
+minecraft.dropped.flowering_azalea
+1: Docm77: 482
+2: Tango: 130
+3: RentheKing: 115
+4: Grian: 46
+5: Zedaph: 31
+6: falsesymmetry: 28
+7: xBCrafted: 19
+8: iJevin: 15
+9: Etho: 14
+10: Keralis1: 12
+11: joehillssays: 11
+12: Mumbo: 10
+13: ZombieCleo: 9
+14: impulseSV: 5
+15: Renthedog: 4
+16: cubfan135: 4
+17: GoodTimeWithScar: 4
+18: iskall85: 3
+19: PearlescentMoon: 2
+20: MumboJumbo: 2
+21: Xisuma: 1
+22: VintageBeef: 1
+23: hypnotizd: 1
+24: Stressmonster101: 1
+Total 950

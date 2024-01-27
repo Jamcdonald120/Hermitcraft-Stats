@@ -1,0 +1,22 @@
+minecraft.picked_up.blue_shulker_box
+1: falsesymmetry: 675
+2: Tango: 312
+3: cubfan135: 300
+4: Xisuma: 224
+5: GoodTimeWithScar: 213
+6: ZombieCleo: 198
+7: Stressmonster101: 183
+8: impulseSV: 142
+9: iJevin: 131
+10: Welsknight: 130
+11: iskall85: 102
+12: Docm77: 69
+13: Grian: 69
+14: joehillssays: 47
+15: Renthedog: 46
+16: HumanCleo: 31
+17: Biffa2001: 28
+18: Zedaph: 5
+19: PythonGB: 4
+20: Keralis1: 1
+Total 2910

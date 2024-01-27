@@ -1,0 +1,20 @@
+minecraft.dropped.redstone_ore
+1: iJevin: 1437
+2: PythonGB: 128
+3: falsesymmetry: 122
+4: iskall85: 110
+5: Tango: 101
+6: GoodTimeWithScar: 64
+7: xBCrafted: 51
+8: Renthedog: 27
+9: MumboJumbo: 17
+10: Zedaph: 14
+11: Xisuma: 12
+12: cubfan135: 8
+13: Biffa2001: 7
+14: Docm77: 4
+15: Grian: 4
+16: Keralis1: 4
+17: impulseSV: 3
+18: Stressmonster101: 2
+Total 2115

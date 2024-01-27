@@ -1,0 +1,19 @@
+stat.useItem.minecraft.iron_ore
+1: cubfan135: 232
+2: GoodTimeWithScar: 63
+3: falsesymmetry: 54
+4: joehillssays: 47
+5: Xisuma: 42
+6: xBCrafted: 18
+7: VintageBeef: 11
+8: Zedaph: 10
+9: iJevin: 8
+10: MumboJumbo: 8
+11: Docm77: 6
+12: Tango: 6
+13: PythonGB: 5
+14: iskall85: 4
+15: Biffa2001: 2
+16: Renthedog: 1
+17: Welsknight: 1
+Total 518

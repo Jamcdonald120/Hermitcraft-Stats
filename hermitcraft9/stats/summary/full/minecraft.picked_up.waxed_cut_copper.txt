@@ -1,0 +1,13 @@
+minecraft.picked_up.waxed_cut_copper
+1: Xisuma: 168
+2: impulseSV: 39
+3: Renthedog: 23
+4: MythicalSausage: 10
+5: Grian: 9
+6: Keralis1: 8
+7: GoodTimeWithScar: 5
+8: falsesymmetry: 3
+9: Docm77: 2
+10: Tango: 1
+11: Zedaph: 1
+Total 269

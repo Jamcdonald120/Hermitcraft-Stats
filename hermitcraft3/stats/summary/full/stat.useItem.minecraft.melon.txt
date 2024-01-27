@@ -1,0 +1,22 @@
+stat.useItem.minecraft.melon
+1: PythonGB: 606
+2: falsesymmetry: 366
+3: Docm77: 284
+4: Mumbo: 196
+5: Biffa2001: 141
+6: joehillssays: 127
+7: Keralis1: 118
+8: Etho: 86
+9: impulseSV: 76
+10: sl1pg8r: 60
+11: iJevin: 38
+12: Mrs_Keralis: 28
+13: topmass: 23
+14: zueljin: 17
+15: monkeyfarm: 15
+16: Tango: 14
+17: Xisuma: 10
+18: Tinfoilchef: 9
+19: ZombieCleo: 2
+20: Spumwackles: 1
+Total 2217

@@ -1,0 +1,28 @@
+minecraft.picked_up.smooth_quartz
+1: Zedaph: 1826
+2: PearlescentMoon: 1398
+3: GoodTimeWithScar: 1239
+4: Grian: 1231
+5: impulseSV: 785
+6: GeminiTay: 525
+7: iJevin: 521
+8: falsesymmetry: 457
+9: cubfan135: 430
+10: VintageBeef: 180
+11: xBCrafted: 178
+12: hypnotizd: 109
+13: Skizzleman: 99
+14: Keralis1: 60
+15: Renthedog: 43
+16: Xisuma: 22
+17: Tango: 22
+18: joehillssays: 20
+19: Etho: 16
+20: ZombieCleo: 16
+21: Smallishbeans: 10
+22: Docm77: 5
+23: iskall85: 3
+24: fWhip: 3
+25: Welsknight: 2
+26: SolidarityGaming: 1
+Total 9201

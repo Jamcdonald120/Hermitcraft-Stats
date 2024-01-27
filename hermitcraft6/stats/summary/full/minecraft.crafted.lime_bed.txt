@@ -1,0 +1,9 @@
+minecraft.crafted.lime_bed
+1: MumboJumbo: 30
+2: falsesymmetry: 11
+3: iskall85: 6
+4: Xisuma: 4
+5: Tango: 3
+6: cubfan135: 3
+7: impulseSV: 1
+Total 58

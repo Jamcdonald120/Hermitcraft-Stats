@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.stone
+1: Xisuma: 84146
+2: Tango: 41957
+3: falsesymmetry: 23262
+4: Biffa2001: 12541
+5: ZombieCleo: 8675
+6: Spumwackles: 6289
+7: xBCrafted: 5483
+8: zueljin: 2905
+9: Mumbo: 2606
+10: Tinfoilchef: 2591
+11: KingDaddyDMAC: 1311
+12: iJevin: 1136
+13: sl1pg8r: 953
+14: monkeyfarm: 841
+15: NameOfSamuel: 306
+16: Collen: 151
+Total 195153

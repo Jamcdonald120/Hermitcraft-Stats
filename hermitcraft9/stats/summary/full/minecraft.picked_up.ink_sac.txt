@@ -1,0 +1,32 @@
+minecraft.picked_up.ink_sac
+1: Grian: 16742
+2: ZombieCleo: 5703
+3: falsesymmetry: 4993
+4: GoodTimeWithScar: 3795
+5: Renthedog: 2724
+6: joehillssays: 2679
+7: Xisuma: 2499
+8: PearlescentMoon: 2158
+9: hypnotizd: 1954
+10: Etho: 1771
+11: Docm77: 1509
+12: Keralis1: 1217
+13: cubfan135: 1148
+14: iJevin: 1055
+15: xBCrafted: 652
+16: Zedaph: 461
+17: VintageBeef: 235
+18: Tango: 197
+19: impulseSV: 184
+20: iskall85: 151
+21: RentheKing: 110
+22: GeminiTay: 99
+23: BdoubleO100: 88
+24: Stressmonster101: 55
+25: Mumbo: 43
+26: Smallishbeans: 33
+27: SolidarityGaming: 5
+28: Tinfoilchef: 4
+29: Minerva246: 2
+30: Welsknight: 2
+Total 52268

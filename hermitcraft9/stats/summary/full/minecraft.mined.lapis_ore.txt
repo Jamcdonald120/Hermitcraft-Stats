@@ -1,0 +1,31 @@
+minecraft.mined.lapis_ore
+1: joehillssays: 876
+2: Tango: 698
+3: GoodTimeWithScar: 330
+4: Etho: 310
+5: PearlescentMoon: 261
+6: VintageBeef: 250
+7: impulseSV: 232
+8: Zedaph: 218
+9: Xisuma: 204
+10: Docm77: 196
+11: Renthedog: 170
+12: ZombieCleo: 143
+13: BdoubleO100: 124
+14: hypnotizd: 123
+15: Keralis1: 120
+16: xBCrafted: 113
+17: cubfan135: 103
+18: iJevin: 99
+19: Grian: 72
+20: iskall85: 61
+21: falsesymmetry: 60
+22: Stressmonster101: 41
+23: RentheKing: 37
+24: GeminiTay: 27
+25: Pixlriffs: 11
+26: Mumbo: 8
+27: Smallishbeans: 6
+28: Welsknight: 4
+29: Tinfoilchef: 4
+Total 4901

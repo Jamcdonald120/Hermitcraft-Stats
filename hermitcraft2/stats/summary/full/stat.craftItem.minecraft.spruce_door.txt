@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.spruce_door
+1: falsesymmetry: 9
+2: sl1pg8r: 3
+3: ZombieCleo: 3
+Total 15

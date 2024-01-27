@@ -1,0 +1,25 @@
+minecraft.picked_up.deepslate_gold_ore
+1: cubfan135: 820
+2: Zedaph: 756
+3: PearlescentMoon: 477
+4: impulseSV: 471
+5: xBCrafted: 415
+6: Xisuma: 407
+7: Renthedog: 275
+8: VintageBeef: 253
+9: hypnotizd: 251
+10: Docm77: 240
+11: joehillssays: 235
+12: Grian: 180
+13: Keralis1: 162
+14: ZombieCleo: 145
+15: Tango: 124
+16: falsesymmetry: 89
+17: RentheKing: 55
+18: BdoubleO100: 36
+19: Stressmonster101: 34
+20: Etho: 33
+21: iJevin: 32
+22: MythicalSausage: 21
+23: GoodTimeWithScar: 8
+Total 5519

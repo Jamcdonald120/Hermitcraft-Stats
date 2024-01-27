@@ -1,0 +1,17 @@
+minecraft.crafted.cut_copper
+1: cubfan135: 448
+2: Tango: 276
+3: Renthedog: 204
+4: PearlescentMoon: 132
+5: GoodTimeWithScar: 128
+6: Stressmonster101: 128
+7: Keralis1: 100
+8: falsesymmetry: 52
+9: joehillssays: 40
+10: Xisuma: 36
+11: iskall85: 16
+12: Zedaph: 8
+13: Docm77: 4
+14: VintageBeef: 4
+15: Grian: 4
+Total 1580

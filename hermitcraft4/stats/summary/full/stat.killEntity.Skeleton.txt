@@ -1,0 +1,26 @@
+stat.killEntity.Skeleton
+1: GoodTimeWithScar: 19304
+2: cubfan135: 9603
+3: Renthedog: 9081
+4: impulseSV: 7928
+5: falsesymmetry: 4895
+6: joehillssays: 3732
+7: Xisuma: 3728
+8: iskall85: 3479
+9: ZombieCleo: 3314
+10: Welsknight: 3156
+11: Tango: 2965
+12: iJevin: 1604
+13: Tinfoilchef: 1488
+14: PythonGB: 937
+15: MumboJumbo: 831
+16: Docm77: 616
+17: Etho: 350
+18: Jessassin: 279
+19: Mumbo: 262
+20: xBCrafted: 258
+21: Biffa2001: 159
+22: VintageBeef: 138
+23: zueljin: 13
+24: hypnotizd: 1
+Total 78121

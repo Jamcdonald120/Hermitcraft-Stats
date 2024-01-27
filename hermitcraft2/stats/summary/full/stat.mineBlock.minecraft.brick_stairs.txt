@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.brick_stairs
+1: zueljin: 23
+2: falsesymmetry: 1
+Total 24

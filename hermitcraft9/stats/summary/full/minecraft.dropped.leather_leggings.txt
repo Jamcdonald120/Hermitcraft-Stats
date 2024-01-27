@@ -1,0 +1,22 @@
+minecraft.dropped.leather_leggings
+1: cubfan135: 102
+2: Xisuma: 97
+3: Zedaph: 91
+4: GeminiTay: 21
+5: Tango: 15
+6: iJevin: 11
+7: Docm77: 7
+8: VintageBeef: 7
+9: Keralis1: 7
+10: PearlescentMoon: 6
+11: xBCrafted: 4
+12: impulseSV: 4
+13: Grian: 3
+14: Etho: 3
+15: GoodTimeWithScar: 3
+16: iskall85: 2
+17: falsesymmetry: 2
+18: hypnotizd: 2
+19: ZombieCleo: 1
+20: RentheKing: 1
+Total 389

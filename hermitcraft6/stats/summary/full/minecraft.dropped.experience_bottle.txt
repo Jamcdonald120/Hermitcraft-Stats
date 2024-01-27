@@ -1,0 +1,6 @@
+minecraft.dropped.experience_bottle
+1: GoodTimeWithScar: 368
+2: iskall85: 12
+3: falsesymmetry: 2
+4: MumboJumbo: 1
+Total 383

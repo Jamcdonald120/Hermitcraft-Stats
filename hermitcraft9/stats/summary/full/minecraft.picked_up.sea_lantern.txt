@@ -1,0 +1,27 @@
+minecraft.picked_up.sea_lantern
+1: falsesymmetry: 3020
+2: iJevin: 1275
+3: cubfan135: 898
+4: PearlescentMoon: 454
+5: GeminiTay: 417
+6: joehillssays: 347
+7: impulseSV: 300
+8: OrionSound: 286
+9: Smajor1995: 256
+10: Grian: 227
+11: Docm77: 164
+12: xBCrafted: 96
+13: Keralis1: 90
+14: VintageBeef: 67
+15: Smallishbeans: 64
+16: Xisuma: 44
+17: Renthedog: 37
+18: Stressmonster101: 31
+19: Tango: 28
+20: iskall85: 10
+21: Mumbo: 3
+22: hypnotizd: 3
+23: GoodTimeWithScar: 3
+24: ZombieCleo: 2
+25: Etho: 1
+Total 8123

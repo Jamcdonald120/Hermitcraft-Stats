@@ -1,0 +1,11 @@
+minecraft.dropped.light_blue_shulker_box
+1: Etho: 43
+2: Renthedog: 15
+3: impulseSV: 4
+4: Xisuma: 3
+5: Grian: 3
+6: VintageBeef: 1
+7: iJevin: 1
+8: BdoubleO100: 1
+9: cubfan135: 1
+Total 72

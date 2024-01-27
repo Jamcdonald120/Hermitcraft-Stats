@@ -1,0 +1,10 @@
+minecraft.dropped.light_blue_wool
+1: iJevin: 4359
+2: Tango: 419
+3: Renthedog: 299
+4: Grian: 129
+5: Stressmonster101: 64
+6: falsesymmetry: 56
+7: GoodTimeWithScar: 2
+8: Etho: 1
+Total 5329

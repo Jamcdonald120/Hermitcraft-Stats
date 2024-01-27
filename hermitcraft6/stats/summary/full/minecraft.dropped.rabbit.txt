@@ -1,0 +1,10 @@
+minecraft.dropped.rabbit
+1: Grian: 9
+2: Docm77: 6
+3: Xisuma: 5
+4: MumboJumbo: 5
+5: Tango: 2
+6: Welsknight: 2
+7: cubfan135: 1
+8: Zedaph: 1
+Total 31

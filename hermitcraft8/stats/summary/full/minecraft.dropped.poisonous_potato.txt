@@ -1,0 +1,16 @@
+minecraft.dropped.poisonous_potato
+1: Zedaph: 63
+2: Grian: 34
+3: GoodTimeWithScar: 14
+4: MumboJumbo: 9
+5: BdoubleO100: 4
+6: PearlescentMoon: 4
+7: iskall85: 4
+8: Welsknight: 4
+9: ZombieCleo: 3
+10: Xisuma: 2
+11: Renthedog: 2
+12: Tango: 1
+13: Etho: 1
+14: impulseSV: 1
+Total 146

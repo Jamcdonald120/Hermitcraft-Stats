@@ -1,0 +1,8 @@
+minecraft.dropped.diorite_slab
+1: Keralis1: 11
+2: MythicalSausage: 8
+3: BdoubleO100: 8
+4: Renthedog: 4
+5: Tango: 2
+6: Zedaph: 1
+Total 34

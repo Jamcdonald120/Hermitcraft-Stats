@@ -1,0 +1,26 @@
+minecraft.killed.witch
+1: Xisuma: 53945
+2: Docm77: 951
+3: cubfan135: 126
+4: Renthedog: 30
+5: Grian: 27
+6: iJevin: 25
+7: GoodTimeWithScar: 22
+8: iskall85: 19
+9: Tango: 14
+10: impulseSV: 10
+11: MumboJumbo: 6
+12: PythonGB: 5
+13: Stressmonster101: 5
+14: falsesymmetry: 4
+15: Welsknight: 4
+16: Biffa2001: 4
+17: Zedaph: 4
+18: Jessassin: 2
+19: joehillssays: 2
+20: BdoubleO100: 1
+21: xBCrafted: 1
+22: ZombieCleo: 1
+23: Tinfoilchef: 1
+24: Keralis1: 1
+Total 55210

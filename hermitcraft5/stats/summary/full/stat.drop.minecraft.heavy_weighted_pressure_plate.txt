@@ -1,0 +1,9 @@
+stat.drop.minecraft.heavy_weighted_pressure_plate
+1: Zedaph: 68
+2: MumboJumbo: 16
+3: ZombieCleo: 4
+4: Tango: 3
+5: Xisuma: 2
+6: cubfan135: 1
+7: impulseSV: 1
+Total 95

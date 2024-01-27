@@ -1,0 +1,16 @@
+minecraft.dropped.iron_trapdoor
+1: Tango: 232
+2: Zedaph: 176
+3: Xisuma: 47
+4: Grian: 36
+5: cubfan135: 23
+6: iskall85: 21
+7: Renthedog: 10
+8: Docm77: 7
+9: GoodTimeWithScar: 7
+10: impulseSV: 7
+11: Keralis1: 6
+12: falsesymmetry: 3
+13: MumboJumbo: 1
+14: Stressmonster101: 1
+Total 577

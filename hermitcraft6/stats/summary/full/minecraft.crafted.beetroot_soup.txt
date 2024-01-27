@@ -1,0 +1,4 @@
+minecraft.crafted.beetroot_soup
+1: Renthedog: 19
+2: Zedaph: 3
+Total 22

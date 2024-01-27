@@ -1,0 +1,17 @@
+minecraft.crafted.gray_wool
+1: cubfan135: 1356
+2: Tango: 1112
+3: Renthedog: 576
+4: Etho: 575
+5: Keralis1: 529
+6: GoodTimeWithScar: 496
+7: ZombieCleo: 240
+8: Xisuma: 220
+9: impulseSV: 130
+10: joehillssays: 61
+11: xBCrafted: 57
+12: MythicalSausage: 40
+13: Zedaph: 39
+14: RentheKing: 7
+15: Docm77: 2
+Total 5440

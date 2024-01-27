@@ -1,0 +1,25 @@
+minecraft.dropped.oak_planks
+1: iskall85: 723
+2: Grian: 675
+3: Tango: 611
+4: Keralis1: 595
+5: Zedaph: 306
+6: Stressmonster101: 266
+7: GoodTimeWithScar: 214
+8: joehillssays: 159
+9: falsesymmetry: 155
+10: impulseSV: 120
+11: MumboJumbo: 119
+12: Renthedog: 83
+13: cubfan135: 82
+14: xBCrafted: 75
+15: iJevin: 74
+16: Docm77: 34
+17: VintageBeef: 31
+18: Etho: 31
+19: ZombieCleo: 19
+20: BdoubleO100: 16
+21: Xisuma: 7
+22: Welsknight: 1
+23: Tinfoilchef: 1
+Total 4397

@@ -1,0 +1,10 @@
+minecraft.picked_up.pink_bed
+1: Stressmonster101: 50
+2: Xisuma: 28
+3: GoodTimeWithScar: 25
+4: Grian: 23
+5: iskall85: 9
+6: Renthedog: 4
+7: falsesymmetry: 3
+8: cubfan135: 2
+Total 144

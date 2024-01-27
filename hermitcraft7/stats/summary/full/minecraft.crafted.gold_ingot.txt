@@ -1,0 +1,26 @@
+minecraft.crafted.gold_ingot
+1: cubfan135: 240238
+2: Xisuma: 173143
+3: Tango: 154994
+4: iskall85: 105282
+5: hypnotizd: 88054
+6: Etho: 44858
+7: Grian: 29614
+8: impulseSV: 13768
+9: Keralis1: 12222
+10: MumboJumbo: 10343
+11: VintageBeef: 9812
+12: xBCrafted: 8554
+13: Renthedog: 3661
+14: iJevin: 3605
+15: GoodTimeWithScar: 2816
+16: joehillssays: 2766
+17: Stressmonster101: 2221
+18: ZombieCleo: 918
+19: Zedaph: 767
+20: Docm77: 717
+21: Tinfoilchef: 520
+22: BdoubleO100: 512
+23: falsesymmetry: 383
+24: Welsknight: 372
+Total 910140

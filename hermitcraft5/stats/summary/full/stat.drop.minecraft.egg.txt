@@ -1,0 +1,24 @@
+stat.drop.minecraft.egg
+1: Tango: 8670
+2: Zedaph: 2336
+3: Tinfoilchef: 1244
+4: MumboJumbo: 226
+5: impulseSV: 97
+6: ZombieCleo: 69
+7: GoodTimeWithScar: 55
+8: iskall85: 52
+9: falsesymmetry: 47
+10: Xisuma: 43
+11: cubfan135: 34
+12: joehillssays: 17
+13: xBCrafted: 12
+14: PythonGB: 11
+15: BdoubleO100: 11
+16: Renthedog: 6
+17: VintageBeef: 6
+18: iJevin: 2
+19: Welsknight: 2
+20: Docm77: 1
+21: Etho: 1
+22: Stressmonster101: 1
+Total 12943

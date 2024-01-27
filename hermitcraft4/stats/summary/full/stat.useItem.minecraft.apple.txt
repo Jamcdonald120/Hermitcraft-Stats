@@ -1,0 +1,23 @@
+stat.useItem.minecraft.apple
+1: Renthedog: 243
+2: cubfan135: 168
+3: GoodTimeWithScar: 112
+4: Xisuma: 53
+5: iskall85: 52
+6: Jessassin: 36
+7: Welsknight: 30
+8: hypnotizd: 16
+9: joehillssays: 13
+10: iJevin: 11
+11: PythonGB: 10
+12: ZombieCleo: 10
+13: VintageBeef: 9
+14: Tinfoilchef: 7
+15: Tango: 4
+16: xBCrafted: 3
+17: falsesymmetry: 3
+18: impulseSV: 3
+19: Docm77: 1
+20: Biffa2001: 1
+21: Etho: 1
+Total 786

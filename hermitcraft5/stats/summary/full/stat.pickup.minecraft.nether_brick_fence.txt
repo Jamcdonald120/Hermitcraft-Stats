@@ -1,0 +1,16 @@
+stat.pickup.minecraft.nether_brick_fence
+1: Tango: 1945
+2: cubfan135: 477
+3: impulseSV: 430
+4: Zedaph: 112
+5: xBCrafted: 103
+6: Xisuma: 60
+7: joehillssays: 44
+8: MumboJumbo: 34
+9: iskall85: 22
+10: Docm77: 17
+11: Welsknight: 17
+12: iJevin: 11
+13: VintageBeef: 1
+14: GoodTimeWithScar: 1
+Total 3274

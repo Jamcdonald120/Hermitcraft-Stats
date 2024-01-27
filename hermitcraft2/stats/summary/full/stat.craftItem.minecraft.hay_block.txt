@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.hay_block
+1: falsesymmetry: 14
+2: Spumwackles: 7
+Total 21

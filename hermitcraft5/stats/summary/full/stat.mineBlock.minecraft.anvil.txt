@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.anvil
+1: cubfan135: 206
+2: falsesymmetry: 130
+3: Xisuma: 69
+4: Tango: 42
+5: iskall85: 34
+6: impulseSV: 29
+7: Zedaph: 27
+8: GoodTimeWithScar: 25
+9: Welsknight: 21
+10: Stressmonster101: 20
+11: Renthedog: 17
+12: PythonGB: 9
+13: joehillssays: 9
+14: iJevin: 7
+15: xBCrafted: 7
+16: MumboJumbo: 6
+17: Tinfoilchef: 5
+18: VintageBeef: 4
+19: BdoubleO100: 3
+20: Biffa2001: 3
+21: Docm77: 1
+22: Etho: 1
+Total 675

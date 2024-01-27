@@ -1,0 +1,24 @@
+minecraft.crafted.bookshelf
+1: iskall85: 4845
+2: cubfan135: 2037
+3: Xisuma: 1034
+4: impulseSV: 618
+5: Stressmonster101: 493
+6: Grian: 343
+7: Welsknight: 338
+8: GoodTimeWithScar: 252
+9: joehillssays: 184
+10: iJevin: 139
+11: PythonGB: 117
+12: Biffa2001: 92
+13: MumboJumbo: 89
+14: ZombieCleo: 85
+15: Tinfoilchef: 77
+16: falsesymmetry: 62
+17: Renthedog: 58
+18: BdoubleO100: 53
+19: Tango: 39
+20: Docm77: 8
+21: Zedaph: 4
+22: HumanCleo: 1
+Total 10968

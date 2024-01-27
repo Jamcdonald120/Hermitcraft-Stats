@@ -1,0 +1,25 @@
+minecraft.crafted.deepslate_brick_stairs
+1: Tango: 501
+2: Mumbo: 323
+3: iJevin: 308
+4: cubfan135: 267
+5: xBCrafted: 97
+6: RentheKing: 81
+7: PearlescentMoon: 66
+8: GeminiTay: 59
+9: falsesymmetry: 58
+10: Grian: 40
+11: hypnotizd: 37
+12: Zedaph: 36
+13: impulseSV: 31
+14: ZombieCleo: 29
+15: Docm77: 18
+16: iskall85: 13
+17: MythicalSausage: 8
+18: Etho: 8
+19: GoodTimeWithScar: 8
+20: Keralis1: 5
+21: Renthedog: 4
+22: MumboJumbo: 4
+23: Xisuma: 1
+Total 2002

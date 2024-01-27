@@ -1,0 +1,23 @@
+minecraft.picked_up.dark_oak_door
+1: falsesymmetry: 87
+2: Keralis1: 52
+3: xBCrafted: 39
+4: impulseSV: 28
+5: PearlescentMoon: 22
+6: ZombieCleo: 20
+7: Renthedog: 15
+8: BdoubleO100: 12
+9: cubfan135: 11
+10: Tango: 8
+11: GeminiTay: 7
+12: VintageBeef: 6
+13: Pixlriffs: 5
+14: iskall85: 5
+15: GoodTimeWithScar: 5
+16: Stressmonster101: 5
+17: joehillssays: 4
+18: Xisuma: 2
+19: Zedaph: 2
+20: iJevin: 1
+21: MythicalSausage: 1
+Total 337

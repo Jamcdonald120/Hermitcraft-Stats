@@ -1,0 +1,20 @@
+minecraft.picked_up.prismarine_bricks
+1: iJevin: 17865
+2: impulseSV: 7962
+3: hypnotizd: 714
+4: VintageBeef: 644
+5: Zedaph: 366
+6: Etho: 228
+7: xBCrafted: 178
+8: falsesymmetry: 174
+9: joehillssays: 142
+10: GoodTimeWithScar: 73
+11: cubfan135: 60
+12: Xisuma: 58
+13: Tango: 47
+14: Grian: 45
+15: BdoubleO100: 19
+16: Keralis1: 9
+17: Renthedog: 6
+18: ZombieCleo: 2
+Total 28592

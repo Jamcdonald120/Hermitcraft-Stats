@@ -1,0 +1,24 @@
+minecraft.picked_up.shroomlight
+1: cubfan135: 1722
+2: Etho: 1408
+3: GoodTimeWithScar: 1133
+4: iskall85: 1099
+5: Renthedog: 990
+6: BdoubleO100: 893
+7: joehillssays: 762
+8: Grian: 568
+9: falsesymmetry: 400
+10: Xisuma: 343
+11: Tango: 247
+12: Stressmonster101: 243
+13: Keralis1: 240
+14: Zedaph: 231
+15: impulseSV: 204
+16: xBCrafted: 149
+17: VintageBeef: 126
+18: ZombieCleo: 119
+19: hypnotizd: 119
+20: Welsknight: 56
+21: iJevin: 49
+22: MumboJumbo: 5
+Total 11106

@@ -1,0 +1,15 @@
+minecraft.crafted.spruce_wood
+1: GeminiTay: 1362
+2: Keralis1: 765
+3: Grian: 591
+4: Tango: 432
+5: PearlescentMoon: 255
+6: Etho: 195
+7: hypnotizd: 111
+8: GoodTimeWithScar: 60
+9: BdoubleO100: 48
+10: cubfan135: 33
+11: Renthedog: 6
+12: impulseSV: 6
+13: iskall85: 3
+Total 3867

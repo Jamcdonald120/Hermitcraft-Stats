@@ -1,0 +1,10 @@
+minecraft.picked_up.granite_slab
+1: Xisuma: 57
+2: xBCrafted: 22
+3: cubfan135: 19
+4: iskall85: 7
+5: GoodTimeWithScar: 6
+6: BdoubleO100: 5
+7: joehillssays: 4
+8: Tango: 1
+Total 121

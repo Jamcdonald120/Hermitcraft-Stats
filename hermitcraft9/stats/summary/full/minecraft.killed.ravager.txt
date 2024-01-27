@@ -1,0 +1,12 @@
+minecraft.killed.ravager
+1: Tango: 45
+2: Etho: 10
+3: Docm77: 8
+4: iJevin: 6
+5: Xisuma: 3
+6: Grian: 1
+7: BdoubleO100: 1
+8: xBCrafted: 1
+9: cubfan135: 1
+10: impulseSV: 1
+Total 77

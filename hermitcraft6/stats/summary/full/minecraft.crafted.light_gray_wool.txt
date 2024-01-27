@@ -1,0 +1,17 @@
+minecraft.crafted.light_gray_wool
+1: Grian: 6123
+2: Tango: 1012
+3: GoodTimeWithScar: 546
+4: cubfan135: 471
+5: impulseSV: 465
+6: Xisuma: 344
+7: falsesymmetry: 243
+8: MumboJumbo: 95
+9: Renthedog: 36
+10: Docm77: 26
+11: PythonGB: 12
+12: iskall85: 10
+13: iJevin: 9
+14: joehillssays: 6
+15: Tinfoilchef: 1
+Total 9399

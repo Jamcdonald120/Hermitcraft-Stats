@@ -1,0 +1,5 @@
+minecraft.dropped.fermented_spider_eye
+1: iskall85: 37
+2: cubfan135: 25
+3: Xisuma: 3
+Total 65

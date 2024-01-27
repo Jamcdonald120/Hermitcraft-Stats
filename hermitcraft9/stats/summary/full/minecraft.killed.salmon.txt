@@ -1,0 +1,27 @@
+minecraft.killed.salmon
+1: Grian: 370
+2: Zedaph: 231
+3: Keralis1: 225
+4: GeminiTay: 121
+5: impulseSV: 103
+6: ZombieCleo: 102
+7: iJevin: 93
+8: Docm77: 83
+9: Renthedog: 67
+10: BdoubleO100: 61
+11: falsesymmetry: 44
+12: Etho: 36
+13: joehillssays: 31
+14: PearlescentMoon: 27
+15: cubfan135: 12
+16: Stressmonster101: 9
+17: Xisuma: 7
+18: hypnotizd: 4
+19: Tango: 3
+20: GoodTimeWithScar: 3
+21: iskall85: 1
+22: xBCrafted: 1
+23: Mumbo: 1
+24: RentheKing: 1
+25: MumboJumbo: 1
+Total 1637

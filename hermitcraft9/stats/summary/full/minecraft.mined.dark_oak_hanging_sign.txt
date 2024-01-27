@@ -1,0 +1,5 @@
+minecraft.mined.dark_oak_hanging_sign
+1: GoodTimeWithScar: 5
+2: ZombieCleo: 2
+3: cubfan135: 1
+Total 8

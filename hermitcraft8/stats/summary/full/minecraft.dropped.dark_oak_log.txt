@@ -1,0 +1,20 @@
+minecraft.dropped.dark_oak_log
+1: BdoubleO100: 410
+2: Xisuma: 134
+3: GeminiTay: 96
+4: Renthedog: 86
+5: PearlescentMoon: 86
+6: Grian: 84
+7: falsesymmetry: 65
+8: iskall85: 64
+9: Stressmonster101: 58
+10: VintageBeef: 18
+11: Tango: 16
+12: Keralis1: 11
+13: cubfan135: 10
+14: Welsknight: 10
+15: MumboJumbo: 8
+16: GoodTimeWithScar: 7
+17: xBCrafted: 2
+18: hypnotizd: 1
+Total 1166

@@ -1,0 +1,31 @@
+minecraft.picked_up.spruce_slab
+1: Stressmonster101: 2382
+2: falsesymmetry: 1210
+3: Renthedog: 1041
+4: Keralis1: 916
+5: impulseSV: 832
+6: PearlescentMoon: 790
+7: xBCrafted: 715
+8: GoodTimeWithScar: 693
+9: ZombieCleo: 681
+10: Tango: 595
+11: iJevin: 537
+12: GeminiTay: 417
+13: Grian: 386
+14: cubfan135: 370
+15: BdoubleO100: 349
+16: Xisuma: 337
+17: iskall85: 328
+18: Etho: 315
+19: RentheKing: 96
+20: Docm77: 93
+21: hypnotizd: 79
+22: VintageBeef: 68
+23: MythicalSausage: 49
+24: Welsknight: 44
+25: SolidarityGaming: 21
+26: joehillssays: 14
+27: Zedaph: 6
+28: OrionSound: 1
+29: Pixlriffs: 1
+Total 13366

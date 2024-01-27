@@ -1,0 +1,31 @@
+minecraft.used.flint_and_steel
+1: cubfan135: 9848
+2: Tango: 1825
+3: iJevin: 1673
+4: Renthedog: 852
+5: Xisuma: 626
+6: ZombieCleo: 578
+7: Docm77: 547
+8: Etho: 470
+9: joehillssays: 389
+10: BdoubleO100: 320
+11: impulseSV: 277
+12: falsesymmetry: 164
+13: RentheKing: 159
+14: Zedaph: 147
+15: Stressmonster101: 137
+16: Grian: 117
+17: iskall85: 106
+18: hypnotizd: 105
+19: GoodTimeWithScar: 94
+20: PearlescentMoon: 92
+21: xBCrafted: 74
+22: Keralis1: 69
+23: GeminiTay: 62
+24: fWhip: 23
+25: VintageBeef: 12
+26: MythicalSausage: 6
+27: OrionSound: 4
+28: Welsknight: 3
+29: Pixlriffs: 1
+Total 18780

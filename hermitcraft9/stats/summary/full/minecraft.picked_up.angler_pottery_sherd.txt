@@ -1,0 +1,10 @@
+minecraft.picked_up.angler_pottery_sherd
+1: cubfan135: 12
+2: PearlescentMoon: 7
+3: falsesymmetry: 7
+4: Mumbo: 4
+5: Zedaph: 4
+6: Xisuma: 2
+7: iJevin: 1
+8: Grian: 1
+Total 38

@@ -1,0 +1,6 @@
+minecraft.crafted.bamboo_fence_gate
+1: GoodTimeWithScar: 20
+2: cubfan135: 3
+3: Keralis1: 2
+4: Zedaph: 1
+Total 26

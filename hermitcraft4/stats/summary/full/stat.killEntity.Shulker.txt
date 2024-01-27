@@ -1,0 +1,14 @@
+stat.killEntity.Shulker
+1: Xisuma: 299
+2: cubfan135: 287
+3: Renthedog: 268
+4: PythonGB: 175
+5: impulseSV: 76
+6: iskall85: 68
+7: Tango: 42
+8: iJevin: 37
+9: falsesymmetry: 26
+10: Welsknight: 25
+11: MumboJumbo: 17
+12: GoodTimeWithScar: 6
+Total 1326

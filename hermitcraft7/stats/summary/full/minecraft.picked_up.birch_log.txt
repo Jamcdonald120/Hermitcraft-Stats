@@ -1,0 +1,26 @@
+minecraft.picked_up.birch_log
+1: Grian: 12610
+2: Etho: 10827
+3: Renthedog: 9823
+4: joehillssays: 7526
+5: cubfan135: 6910
+6: hypnotizd: 6806
+7: BdoubleO100: 5927
+8: Keralis1: 5524
+9: GoodTimeWithScar: 4354
+10: Xisuma: 4222
+11: impulseSV: 2218
+12: falsesymmetry: 1890
+13: Stressmonster101: 1557
+14: Tango: 1343
+15: ZombieCleo: 1158
+16: VintageBeef: 975
+17: MumboJumbo: 724
+18: iskall85: 710
+19: iJevin: 510
+20: xBCrafted: 423
+21: Welsknight: 350
+22: Docm77: 317
+23: Zedaph: 230
+24: Tinfoilchef: 104
+Total 87038

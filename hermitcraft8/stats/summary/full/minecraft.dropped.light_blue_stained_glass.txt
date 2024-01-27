@@ -1,0 +1,6 @@
+minecraft.dropped.light_blue_stained_glass
+1: Docm77: 128
+2: Zedaph: 72
+3: Etho: 1
+4: impulseSV: 1
+Total 202

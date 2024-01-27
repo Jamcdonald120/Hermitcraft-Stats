@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.wooden_pressure_plate
+1: Xisuma: 29
+2: zueljin: 21
+3: Tango: 14
+4: impulseSV: 14
+5: falsesymmetry: 11
+6: xBCrafted: 8
+7: monkeyfarm: 7
+8: topmass: 5
+9: iJevin: 5
+10: Mumbo: 3
+11: Biffa2001: 2
+12: sl1pg8r: 1
+13: Etho: 1
+14: Tinfoilchef: 1
+15: Keralis1: 1
+Total 123

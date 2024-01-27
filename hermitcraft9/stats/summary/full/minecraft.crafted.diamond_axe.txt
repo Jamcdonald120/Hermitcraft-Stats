@@ -1,0 +1,35 @@
+minecraft.crafted.diamond_axe
+1: iJevin: 50
+2: Grian: 15
+3: Etho: 15
+4: Keralis1: 14
+5: impulseSV: 11
+6: GoodTimeWithScar: 10
+7: Tango: 8
+8: Docm77: 6
+9: falsesymmetry: 6
+10: Zedaph: 6
+11: joehillssays: 5
+12: iskall85: 5
+13: Stressmonster101: 5
+14: Xisuma: 4
+15: VintageBeef: 4
+16: Renthedog: 3
+17: PearlescentMoon: 3
+18: ZombieCleo: 3
+19: RentheKing: 3
+20: Pixlriffs: 2
+21: xBCrafted: 2
+22: cubfan135: 2
+23: Mumbo: 2
+24: OrionSound: 1
+25: MythicalSausage: 1
+26: GeminiTay: 1
+27: Smallishbeans: 1
+28: BdoubleO100: 1
+29: Welsknight: 1
+30: hypnotizd: 1
+31: MumboJumbo: 1
+32: fWhip: 1
+33: SolidarityGaming: 1
+Total 194

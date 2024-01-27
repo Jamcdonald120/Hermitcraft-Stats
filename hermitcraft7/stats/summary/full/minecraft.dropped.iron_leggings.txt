@@ -1,0 +1,18 @@
+minecraft.dropped.iron_leggings
+1: iJevin: 21
+2: Tango: 21
+3: Etho: 21
+4: MumboJumbo: 21
+5: hypnotizd: 13
+6: Grian: 12
+7: Xisuma: 11
+8: xBCrafted: 6
+9: Zedaph: 6
+10: iskall85: 5
+11: impulseSV: 5
+12: VintageBeef: 4
+13: cubfan135: 4
+14: Keralis1: 4
+15: Renthedog: 1
+16: GoodTimeWithScar: 1
+Total 156

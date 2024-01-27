@@ -1,0 +1,26 @@
+minecraft.mined.dark_prismarine
+1: GeminiTay: 292
+2: PearlescentMoon: 205
+3: Pixlriffs: 162
+4: impulseSV: 141
+5: Stressmonster101: 127
+6: cubfan135: 94
+7: iJevin: 80
+8: Grian: 72
+9: Xisuma: 64
+10: ZombieCleo: 64
+11: Mumbo: 60
+12: Etho: 44
+13: iskall85: 29
+14: GoodTimeWithScar: 29
+15: joehillssays: 28
+16: hypnotizd: 18
+17: Docm77: 16
+18: xBCrafted: 13
+19: falsesymmetry: 10
+20: Keralis1: 7
+21: VintageBeef: 2
+22: fWhip: 2
+23: Zedaph: 2
+24: BdoubleO100: 1
+Total 1562

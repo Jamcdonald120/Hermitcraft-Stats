@@ -1,0 +1,25 @@
+minecraft.crafted.cooked_beef
+1: BdoubleO100: 1133
+2: VintageBeef: 999
+3: ZombieCleo: 837
+4: Etho: 771
+5: Xisuma: 371
+6: xBCrafted: 317
+7: Tango: 316
+8: iJevin: 311
+9: falsesymmetry: 163
+10: hypnotizd: 136
+11: Renthedog: 130
+12: Keralis1: 98
+13: joehillssays: 73
+14: cubfan135: 32
+15: Grian: 24
+16: iskall85: 24
+17: Zedaph: 20
+18: Docm77: 19
+19: Welsknight: 15
+20: Mumbo: 15
+21: MumboJumbo: 15
+22: Stressmonster101: 14
+23: GoodTimeWithScar: 1
+Total 5834

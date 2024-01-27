@@ -1,0 +1,8 @@
+minecraft.picked_up.map
+1: Grian: 771
+2: impulseSV: 31
+3: Renthedog: 9
+4: Keralis1: 2
+5: Xisuma: 1
+6: GoodTimeWithScar: 1
+Total 815

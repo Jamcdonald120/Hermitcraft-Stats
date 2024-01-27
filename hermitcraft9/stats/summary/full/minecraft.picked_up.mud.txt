@@ -1,0 +1,28 @@
+minecraft.picked_up.mud
+1: Renthedog: 31930
+2: Etho: 24853
+3: Keralis1: 12096
+4: Docm77: 7799
+5: GoodTimeWithScar: 4000
+6: ZombieCleo: 1938
+7: cubfan135: 1714
+8: Tango: 1584
+9: RentheKing: 1301
+10: impulseSV: 1295
+11: joehillssays: 785
+12: BdoubleO100: 744
+13: PearlescentMoon: 726
+14: Xisuma: 458
+15: iJevin: 316
+16: GeminiTay: 217
+17: VintageBeef: 115
+18: falsesymmetry: 82
+19: Zedaph: 76
+20: hypnotizd: 41
+21: MythicalSausage: 35
+22: Grian: 25
+23: xBCrafted: 17
+24: iskall85: 13
+25: Stressmonster101: 11
+26: OrionSound: 1
+Total 92172

@@ -1,0 +1,36 @@
+minecraft.used.potion
+1: joehillssays: 1858
+2: ZombieCleo: 1852
+3: cubfan135: 1836
+4: iJevin: 973
+5: Tango: 943
+6: impulseSV: 165
+7: Docm77: 132
+8: Xisuma: 131
+9: GeminiTay: 128
+10: falsesymmetry: 114
+11: PearlescentMoon: 106
+12: BdoubleO100: 100
+13: RentheKing: 89
+14: hypnotizd: 72
+15: Renthedog: 67
+16: Zedaph: 52
+17: GoodTimeWithScar: 49
+18: Etho: 46
+19: Stressmonster101: 29
+20: Keralis1: 24
+21: Grian: 20
+22: iskall85: 20
+23: VintageBeef: 18
+24: Mumbo: 10
+25: xBCrafted: 7
+26: Pixlriffs: 4
+27: MythicalSausage: 3
+28: ShubbleYT: 3
+29: SolidarityGaming: 3
+30: OrionSound: 2
+31: kingbdogz: 1
+32: slicedlime: 1
+33: Firecracker1195: 1
+34: HBomb94: 1
+Total 8860

@@ -1,0 +1,27 @@
+minecraft.mined.dead_bush
+1: Keralis1: 874
+2: Etho: 749
+3: joehillssays: 706
+4: iJevin: 363
+5: PearlescentMoon: 336
+6: ZombieCleo: 283
+7: Xisuma: 223
+8: impulseSV: 211
+9: hypnotizd: 203
+10: xBCrafted: 151
+11: cubfan135: 126
+12: Renthedog: 83
+13: Tango: 62
+14: Docm77: 56
+15: GoodTimeWithScar: 49
+16: falsesymmetry: 21
+17: GeminiTay: 20
+18: Grian: 20
+19: VintageBeef: 11
+20: BdoubleO100: 7
+21: iskall85: 6
+22: Stressmonster101: 4
+23: MythicalSausage: 2
+24: RentheKing: 1
+25: Zedaph: 1
+Total 4568

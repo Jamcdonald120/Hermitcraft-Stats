@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.ender_chest
+1: GoodTimeWithScar: 45
+2: cubfan135: 39
+3: Stressmonster101: 38
+4: MumboJumbo: 26
+5: falsesymmetry: 24
+6: Etho: 18
+7: Tinfoilchef: 17
+8: Xisuma: 15
+9: Welsknight: 15
+10: Tango: 14
+11: iskall85: 14
+12: Renthedog: 12
+13: Biffa2001: 12
+14: PythonGB: 11
+15: impulseSV: 11
+16: Zedaph: 9
+17: iJevin: 3
+18: xBCrafted: 3
+19: Docm77: 2
+Total 328

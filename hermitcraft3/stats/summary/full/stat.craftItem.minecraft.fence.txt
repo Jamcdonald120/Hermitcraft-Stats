@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.fence
+1: Mumbo: 2391
+2: Xisuma: 1188
+3: falsesymmetry: 912
+4: xBCrafted: 771
+5: monkeyfarm: 687
+6: topmass: 495
+7: impulseSV: 375
+8: ZombieCleo: 330
+9: sl1pg8r: 309
+10: Tango: 303
+11: PythonGB: 162
+12: Etho: 153
+13: hypnotizd: 96
+14: iJevin: 66
+15: zueljin: 60
+16: Spumwackles: 51
+17: joehillssays: 39
+18: skyzm: 30
+19: KingDaddyDMAC: 6
+20: Tinfoilchef: 3
+Total 8427

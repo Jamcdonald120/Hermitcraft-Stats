@@ -1,0 +1,25 @@
+stat.pickup.minecraft.grass
+1: cubfan135: 102185
+2: GoodTimeWithScar: 71947
+3: Welsknight: 37507
+4: Stressmonster101: 24302
+5: falsesymmetry: 23913
+6: MumboJumbo: 21401
+7: impulseSV: 18894
+8: Tango: 11452
+9: iskall85: 6587
+10: Xisuma: 5834
+11: PythonGB: 4987
+12: xBCrafted: 4292
+13: Zedaph: 3246
+14: joehillssays: 3092
+15: ZombieCleo: 1195
+16: Etho: 745
+17: Docm77: 636
+18: Biffa2001: 428
+19: iJevin: 361
+20: BdoubleO100: 284
+21: Renthedog: 179
+22: Tinfoilchef: 9
+23: VintageBeef: 4
+Total 343480

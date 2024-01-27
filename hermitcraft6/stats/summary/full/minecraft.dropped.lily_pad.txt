@@ -1,0 +1,12 @@
+minecraft.dropped.lily_pad
+1: MumboJumbo: 104
+2: Xisuma: 82
+3: GoodTimeWithScar: 67
+4: Stressmonster101: 53
+5: Grian: 15
+6: Tango: 8
+7: Renthedog: 7
+8: Docm77: 5
+9: cubfan135: 2
+10: iskall85: 1
+Total 344

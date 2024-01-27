@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.brick_block
+1: Welsknight: 3019
+2: Xisuma: 564
+3: Renthedog: 239
+4: Tinfoilchef: 161
+5: falsesymmetry: 131
+6: cubfan135: 66
+7: iJevin: 38
+8: iskall85: 3
+9: Tango: 1
+10: ZombieCleo: 1
+Total 4223

@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.shears
+1: Xisuma: 312
+2: falsesymmetry: 261
+3: Tango: 68
+4: sl1pg8r: 60
+5: zueljin: 38
+6: xBCrafted: 37
+7: Tinfoilchef: 35
+8: iJevin: 30
+9: ZombieCleo: 26
+10: Mumbo: 25
+11: Spumwackles: 18
+12: monkeyfarm: 17
+13: impulseSV: 17
+14: PythonGB: 14
+15: Biffa2001: 9
+16: KingDaddyDMAC: 5
+17: Etho: 5
+18: topmass: 4
+19: Docm77: 3
+20: skyzm: 2
+21: joehillssays: 1
+Total 987

@@ -1,0 +1,16 @@
+minecraft.killed.villager
+1: impulseSV: 1043
+2: iskall85: 201
+3: Biffa2001: 45
+4: iJevin: 28
+5: Grian: 26
+6: GoodTimeWithScar: 20
+7: Docm77: 16
+8: Welsknight: 11
+9: Tango: 9
+10: MumboJumbo: 8
+11: cubfan135: 3
+12: Renthedog: 2
+13: PythonGB: 2
+14: Xisuma: 1
+Total 1415

@@ -1,0 +1,11 @@
+minecraft.dropped.lava_bucket
+1: Zedaph: 52
+2: Keralis1: 20
+3: cubfan135: 7
+4: Renthedog: 3
+5: Tango: 3
+6: impulseSV: 3
+7: Docm77: 2
+8: Grian: 1
+9: ZombieCleo: 1
+Total 92

@@ -1,0 +1,23 @@
+minecraft.broken.iron_shovel
+1: GoodTimeWithScar: 15
+2: Keralis1: 15
+3: Docm77: 11
+4: BdoubleO100: 11
+5: impulseSV: 11
+6: joehillssays: 7
+7: cubfan135: 7
+8: Stressmonster101: 7
+9: Xisuma: 5
+10: Jessassin: 5
+11: falsesymmetry: 5
+12: Tinfoilchef: 5
+13: Zedaph: 4
+14: xBCrafted: 3
+15: Welsknight: 3
+16: iJevin: 2
+17: Grian: 2
+18: MumboJumbo: 2
+19: Renthedog: 1
+20: PythonGB: 1
+21: Tango: 1
+Total 123

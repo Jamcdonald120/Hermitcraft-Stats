@@ -1,0 +1,28 @@
+minecraft.mined.iron_ore
+1: cubfan135: 20246
+2: GoodTimeWithScar: 9283
+3: iJevin: 7347
+4: Renthedog: 6364
+5: PearlescentMoon: 4776
+6: falsesymmetry: 3114
+7: Grian: 2523
+8: Welsknight: 2518
+9: xBCrafted: 2440
+10: Xisuma: 2376
+11: joehillssays: 2245
+12: Tango: 2239
+13: MumboJumbo: 1970
+14: Etho: 1960
+15: BdoubleO100: 1927
+16: Docm77: 1820
+17: hypnotizd: 1758
+18: GeminiTay: 1385
+19: impulseSV: 1188
+20: ZombieCleo: 1066
+21: VintageBeef: 956
+22: Stressmonster101: 880
+23: Zedaph: 826
+24: iskall85: 565
+25: Tinfoilchef: 549
+26: Keralis1: 306
+Total 82627

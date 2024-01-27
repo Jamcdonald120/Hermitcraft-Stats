@@ -1,0 +1,22 @@
+minecraft.picked_up.bell
+1: Etho: 128
+2: iJevin: 112
+3: GoodTimeWithScar: 38
+4: cubfan135: 26
+5: ZombieCleo: 19
+6: Grian: 15
+7: Keralis1: 15
+8: Tango: 14
+9: xBCrafted: 14
+10: Zedaph: 7
+11: Docm77: 6
+12: Stressmonster101: 6
+13: RentheKing: 4
+14: falsesymmetry: 3
+15: Renthedog: 2
+16: BdoubleO100: 2
+17: PearlescentMoon: 2
+18: iskall85: 2
+19: joehillssays: 1
+20: hypnotizd: 1
+Total 417

@@ -1,0 +1,23 @@
+minecraft.picked_up.quartz_stairs
+1: PythonGB: 1554
+2: Renthedog: 1474
+3: Docm77: 1064
+4: GoodTimeWithScar: 945
+5: cubfan135: 905
+6: MumboJumbo: 892
+7: Grian: 843
+8: impulseSV: 771
+9: iskall85: 630
+10: Welsknight: 582
+11: falsesymmetry: 571
+12: iJevin: 480
+13: Xisuma: 390
+14: ZombieCleo: 161
+15: Tango: 153
+16: Stressmonster101: 54
+17: Zedaph: 24
+18: Tinfoilchef: 21
+19: Keralis1: 20
+20: HumanCleo: 16
+21: joehillssays: 14
+Total 11564

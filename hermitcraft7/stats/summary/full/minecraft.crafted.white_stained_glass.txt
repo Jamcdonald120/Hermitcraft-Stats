@@ -1,0 +1,23 @@
+minecraft.crafted.white_stained_glass
+1: joehillssays: 46008
+2: Stressmonster101: 7568
+3: Xisuma: 7208
+4: GoodTimeWithScar: 5568
+5: Renthedog: 3752
+6: impulseSV: 3288
+7: Keralis1: 2968
+8: iskall85: 2112
+9: falsesymmetry: 2040
+10: Grian: 1288
+11: xBCrafted: 992
+12: Welsknight: 768
+13: Etho: 704
+14: Zedaph: 624
+15: BdoubleO100: 520
+16: Tango: 312
+17: Docm77: 296
+18: VintageBeef: 280
+19: MumboJumbo: 168
+20: cubfan135: 112
+21: hypnotizd: 88
+Total 86664

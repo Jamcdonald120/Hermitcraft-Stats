@@ -1,0 +1,33 @@
+minecraft.mined.podzol
+1: hypnotizd: 13745
+2: Tango: 10322
+3: PearlescentMoon: 8124
+4: Keralis1: 3182
+5: falsesymmetry: 1187
+6: Etho: 850
+7: BdoubleO100: 729
+8: Renthedog: 682
+9: Xisuma: 659
+10: GeminiTay: 478
+11: Grian: 439
+12: xBCrafted: 390
+13: iskall85: 331
+14: iJevin: 312
+15: VintageBeef: 299
+16: ZombieCleo: 259
+17: Docm77: 237
+18: Stressmonster101: 195
+19: Zedaph: 158
+20: impulseSV: 129
+21: cubfan135: 124
+22: joehillssays: 122
+23: GoodTimeWithScar: 24
+24: Welsknight: 16
+25: Mumbo: 14
+26: MumboJumbo: 13
+27: MythicalSausage: 6
+28: RentheKing: 4
+29: Pixlriffs: 2
+30: OrionSound: 1
+31: Smallishbeans: 1
+Total 43034

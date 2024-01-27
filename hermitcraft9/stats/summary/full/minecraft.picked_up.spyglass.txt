@@ -1,0 +1,21 @@
+minecraft.picked_up.spyglass
+1: Zedaph: 30
+2: cubfan135: 28
+3: xBCrafted: 12
+4: joehillssays: 7
+5: ZombieCleo: 6
+6: Renthedog: 4
+7: PearlescentMoon: 4
+8: GoodTimeWithScar: 4
+9: iJevin: 3
+10: MythicalSausage: 3
+11: InTheLittleWood: 3
+12: Keralis1: 3
+13: Xisuma: 2
+14: Grian: 2
+15: Docm77: 1
+16: GeminiTay: 1
+17: Smallishbeans: 1
+18: iskall85: 1
+19: impulseSV: 1
+Total 116

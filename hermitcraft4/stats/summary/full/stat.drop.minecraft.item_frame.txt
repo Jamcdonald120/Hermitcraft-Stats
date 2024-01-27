@@ -1,0 +1,7 @@
+stat.drop.minecraft.item_frame
+1: Tango: 34
+2: GoodTimeWithScar: 30
+3: iskall85: 20
+4: impulseSV: 6
+5: falsesymmetry: 3
+Total 93

@@ -1,0 +1,17 @@
+minecraft.crafted.cooked_chicken
+1: Renthedog: 460
+2: Docm77: 124
+3: VintageBeef: 108
+4: Xisuma: 16
+5: Zedaph: 14
+6: cubfan135: 10
+7: Stressmonster101: 7
+8: impulseSV: 7
+9: Tango: 6
+10: iJevin: 5
+11: joehillssays: 4
+12: iskall85: 4
+13: Etho: 2
+14: BdoubleO100: 1
+15: PearlescentMoon: 1
+Total 769

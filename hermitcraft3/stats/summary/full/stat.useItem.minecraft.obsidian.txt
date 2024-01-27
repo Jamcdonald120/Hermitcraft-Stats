@@ -1,0 +1,24 @@
+stat.useItem.minecraft.obsidian
+1: Xisuma: 1432
+2: Tango: 1248
+3: falsesymmetry: 958
+4: impulseSV: 831
+5: Biffa2001: 828
+6: xBCrafted: 688
+7: ZombieCleo: 385
+8: Tinfoilchef: 161
+9: monkeyfarm: 155
+10: hypnotizd: 151
+11: sl1pg8r: 121
+12: Spumwackles: 108
+13: zueljin: 85
+14: Mumbo: 77
+15: PythonGB: 37
+16: iJevin: 37
+17: Etho: 36
+18: joehillssays: 12
+19: Keralis1: 11
+20: KingDaddyDMAC: 10
+21: Docm77: 8
+22: xisumavoid: 5
+Total 7384

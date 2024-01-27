@@ -1,0 +1,19 @@
+minecraft.dropped.warped_wart_block
+1: iJevin: 3094
+2: Keralis1: 2621
+3: ZombieCleo: 952
+4: falsesymmetry: 765
+5: Tango: 312
+6: PearlescentMoon: 98
+7: GoodTimeWithScar: 85
+8: Zedaph: 77
+9: cubfan135: 64
+10: impulseSV: 59
+11: Renthedog: 32
+12: Grian: 32
+13: Xisuma: 21
+14: hypnotizd: 19
+15: BdoubleO100: 18
+16: Docm77: 5
+17: Etho: 3
+Total 8257

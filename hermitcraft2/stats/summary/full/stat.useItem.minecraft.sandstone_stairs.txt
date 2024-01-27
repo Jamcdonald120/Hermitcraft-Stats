@@ -1,0 +1,7 @@
+stat.useItem.minecraft.sandstone_stairs
+1: ZombieCleo: 180
+2: Xisuma: 2
+3: falsesymmetry: 2
+4: Mumbo: 2
+5: Tango: 1
+Total 187

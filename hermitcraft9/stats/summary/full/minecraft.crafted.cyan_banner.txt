@@ -1,0 +1,12 @@
+minecraft.crafted.cyan_banner
+1: falsesymmetry: 116
+2: Keralis1: 18
+3: PearlescentMoon: 16
+4: Xisuma: 10
+5: cubfan135: 10
+6: impulseSV: 9
+7: GoodTimeWithScar: 4
+8: VintageBeef: 2
+9: xBCrafted: 1
+10: Zedaph: 1
+Total 187

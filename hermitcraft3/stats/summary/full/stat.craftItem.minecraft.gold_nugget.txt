@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.gold_nugget
+1: Xisuma: 44285
+2: impulseSV: 10830
+3: iJevin: 3251
+4: Tango: 2286
+5: falsesymmetry: 999
+6: xBCrafted: 846
+7: topmass: 718
+8: Tinfoilchef: 666
+9: monkeyfarm: 513
+10: zueljin: 384
+11: sl1pg8r: 324
+12: PythonGB: 162
+13: Biffa2001: 121
+14: Docm77: 63
+15: truesymmetry: 63
+16: KingDaddyDMAC: 36
+17: ZombieCleo: 18
+18: hypnotizd: 18
+19: Spumwackles: 9
+Total 65592

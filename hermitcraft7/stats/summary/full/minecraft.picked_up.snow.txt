@@ -1,0 +1,22 @@
+minecraft.picked_up.snow
+1: VintageBeef: 33961
+2: GoodTimeWithScar: 10941
+3: Etho: 10660
+4: cubfan135: 3668
+5: Grian: 2999
+6: Tango: 2264
+7: Zedaph: 1769
+8: iskall85: 553
+9: impulseSV: 375
+10: BdoubleO100: 349
+11: Keralis1: 167
+12: iJevin: 118
+13: Stressmonster101: 112
+14: falsesymmetry: 74
+15: Docm77: 62
+16: Renthedog: 26
+17: joehillssays: 26
+18: xBCrafted: 26
+19: hypnotizd: 5
+20: MumboJumbo: 2
+Total 68157

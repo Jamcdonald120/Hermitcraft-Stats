@@ -1,0 +1,6 @@
+stat.useItem.minecraft.potato
+1: xBCrafted: 122
+2: ZombieCleo: 80
+3: falsesymmetry: 31
+4: Spumwackles: 1
+Total 234

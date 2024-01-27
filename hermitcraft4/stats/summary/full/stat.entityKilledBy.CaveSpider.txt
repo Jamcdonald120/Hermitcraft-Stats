@@ -1,0 +1,5 @@
+stat.entityKilledBy.CaveSpider
+1: Renthedog: 3
+2: cubfan135: 3
+3: iskall85: 1
+Total 7

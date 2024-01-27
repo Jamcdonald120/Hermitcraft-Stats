@@ -1,0 +1,24 @@
+minecraft.picked_up.crimson_fungus
+1: Keralis1: 4050
+2: Etho: 2676
+3: Xisuma: 531
+4: PearlescentMoon: 447
+5: Docm77: 372
+6: ZombieCleo: 302
+7: hypnotizd: 130
+8: VintageBeef: 104
+9: Grian: 83
+10: GoodTimeWithScar: 74
+11: Stressmonster101: 70
+12: falsesymmetry: 60
+13: Tango: 56
+14: Mumbo: 28
+15: Renthedog: 25
+16: cubfan135: 20
+17: iJevin: 8
+18: BdoubleO100: 8
+19: iskall85: 8
+20: ShubbleYT: 6
+21: Zedaph: 6
+22: GeminiTay: 1
+Total 9065

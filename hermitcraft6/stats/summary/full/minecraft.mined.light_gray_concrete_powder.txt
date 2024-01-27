@@ -1,0 +1,22 @@
+minecraft.mined.light_gray_concrete_powder
+1: GoodTimeWithScar: 2281
+2: cubfan135: 949
+3: falsesymmetry: 735
+4: Grian: 331
+5: iskall85: 248
+6: Xisuma: 195
+7: Docm77: 118
+8: Keralis1: 103
+9: MumboJumbo: 98
+10: Welsknight: 69
+11: iJevin: 29
+12: ZombieCleo: 28
+13: BdoubleO100: 19
+14: impulseSV: 14
+15: Stressmonster101: 8
+16: Tinfoilchef: 6
+17: joehillssays: 4
+18: PythonGB: 3
+19: Tango: 3
+20: Renthedog: 1
+Total 5242

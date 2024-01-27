@@ -1,0 +1,26 @@
+minecraft.mined.spruce_trapdoor
+1: GoodTimeWithScar: 2519
+2: cubfan135: 762
+3: Xisuma: 720
+4: Renthedog: 709
+5: iskall85: 414
+6: Docm77: 355
+7: Grian: 344
+8: impulseSV: 327
+9: ZombieCleo: 317
+10: Keralis1: 312
+11: iJevin: 304
+12: Stressmonster101: 238
+13: falsesymmetry: 225
+14: BdoubleO100: 195
+15: Welsknight: 77
+16: joehillssays: 32
+17: PythonGB: 25
+18: Biffa2001: 21
+19: HumanCleo: 20
+20: Zedaph: 11
+21: Tango: 10
+22: Tinfoilchef: 10
+23: MumboJumbo: 8
+24: BadTimeWithScar: 8
+Total 7963

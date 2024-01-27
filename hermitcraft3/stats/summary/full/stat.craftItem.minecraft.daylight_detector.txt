@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.daylight_detector
+1: impulseSV: 92
+2: falsesymmetry: 72
+3: sl1pg8r: 62
+4: xBCrafted: 7
+5: Mumbo: 4
+6: Xisuma: 2
+7: iJevin: 2
+8: zueljin: 2
+9: Tango: 2
+Total 245

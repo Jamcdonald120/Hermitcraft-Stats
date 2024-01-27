@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.arrow
+1: monkeyfarm: 460
+2: Tinfoilchef: 436
+3: Biffa2001: 380
+4: falsesymmetry: 264
+5: PythonGB: 96
+6: hypnotizd: 80
+7: Xisuma: 36
+8: zueljin: 32
+9: xBCrafted: 12
+10: Tango: 4
+11: Pungence: 4
+Total 1804

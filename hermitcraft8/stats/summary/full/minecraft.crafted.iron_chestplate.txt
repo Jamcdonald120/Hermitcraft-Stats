@@ -1,0 +1,25 @@
+minecraft.crafted.iron_chestplate
+1: joehillssays: 18
+2: Xisuma: 8
+3: GoodTimeWithScar: 8
+4: ZombieCleo: 7
+5: Renthedog: 6
+6: iskall85: 5
+7: falsesymmetry: 5
+8: Etho: 5
+9: Zedaph: 4
+10: iJevin: 3
+11: GeminiTay: 2
+12: Tango: 2
+13: cubfan135: 2
+14: Docm77: 1
+15: VintageBeef: 1
+16: Grian: 1
+17: BdoubleO100: 1
+18: PearlescentMoon: 1
+19: xBCrafted: 1
+20: Welsknight: 1
+21: hypnotizd: 1
+22: MumboJumbo: 1
+23: impulseSV: 1
+Total 85

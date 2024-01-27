@@ -1,0 +1,24 @@
+minecraft.used.white_banner
+1: Renthedog: 447
+2: Xisuma: 256
+3: cubfan135: 158
+4: falsesymmetry: 118
+5: Keralis1: 102
+6: Stressmonster101: 43
+7: Tinfoilchef: 37
+8: iJevin: 28
+9: Tango: 25
+10: BdoubleO100: 24
+11: joehillssays: 22
+12: Grian: 21
+13: xBCrafted: 16
+14: Welsknight: 16
+15: Docm77: 15
+16: impulseSV: 13
+17: GoodTimeWithScar: 11
+18: HumanCleo: 6
+19: Zedaph: 4
+20: PythonGB: 1
+21: iskall85: 1
+22: ZombieCleo: 1
+Total 1365

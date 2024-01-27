@@ -1,0 +1,21 @@
+minecraft.picked_up.flower_pot
+1: PythonGB: 483
+2: Grian: 168
+3: cubfan135: 67
+4: Renthedog: 62
+5: falsesymmetry: 61
+6: Tango: 53
+7: iskall85: 53
+8: iJevin: 43
+9: Docm77: 23
+10: Xisuma: 16
+11: GoodTimeWithScar: 15
+12: Stressmonster101: 13
+13: BdoubleO100: 12
+14: Welsknight: 9
+15: Keralis1: 9
+16: joehillssays: 7
+17: Biffa2001: 3
+18: ZombieCleo: 2
+19: Zedaph: 1
+Total 1100

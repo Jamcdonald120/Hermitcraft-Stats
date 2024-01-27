@@ -1,0 +1,30 @@
+minecraft.picked_up.lectern
+1: impulseSV: 1734
+2: iJevin: 1624
+3: Stressmonster101: 1017
+4: xBCrafted: 942
+5: Grian: 903
+6: Docm77: 734
+7: Keralis1: 636
+8: PearlescentMoon: 321
+9: Etho: 293
+10: Zedaph: 252
+11: iskall85: 216
+12: GoodTimeWithScar: 183
+13: falsesymmetry: 61
+14: Tango: 60
+15: cubfan135: 51
+16: GeminiTay: 35
+17: ZombieCleo: 27
+18: BdoubleO100: 15
+19: Renthedog: 13
+20: Xisuma: 11
+21: joehillssays: 5
+22: VintageBeef: 3
+23: Smajor1995: 3
+24: ShubbleYT: 3
+25: MythicalSausage: 1
+26: Smallishbeans: 1
+27: RentheKing: 1
+28: hypnotizd: 1
+Total 9146

@@ -1,0 +1,24 @@
+minecraft.mined.green_carpet
+1: VintageBeef: 725
+2: joehillssays: 554
+3: cubfan135: 512
+4: Zedaph: 285
+5: GoodTimeWithScar: 267
+6: Stressmonster101: 110
+7: Tango: 79
+8: Etho: 78
+9: iskall85: 75
+10: xBCrafted: 60
+11: MumboJumbo: 32
+12: Keralis1: 26
+13: Xisuma: 18
+14: Grian: 12
+15: falsesymmetry: 11
+16: impulseSV: 11
+17: BdoubleO100: 10
+18: Docm77: 2
+19: Renthedog: 2
+20: iJevin: 1
+21: Welsknight: 1
+22: ZombieCleo: 1
+Total 2872

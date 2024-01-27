@@ -1,0 +1,24 @@
+minecraft.mined.dark_oak_leaves
+1: Welsknight: 3543
+2: Renthedog: 2652
+3: cubfan135: 1611
+4: BdoubleO100: 1454
+5: MumboJumbo: 1266
+6: GoodTimeWithScar: 1062
+7: Xisuma: 1016
+8: ZombieCleo: 786
+9: falsesymmetry: 645
+10: Grian: 255
+11: xBCrafted: 210
+12: joehillssays: 185
+13: iskall85: 136
+14: PythonGB: 92
+15: iJevin: 89
+16: Zedaph: 85
+17: Docm77: 52
+18: Biffa2001: 27
+19: impulseSV: 18
+20: Stressmonster101: 17
+21: Jessassin: 9
+22: Tinfoilchef: 5
+Total 15215

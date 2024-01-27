@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.birch_stairs
+1: Welsknight: 135
+2: cubfan135: 128
+3: Xisuma: 117
+4: Tinfoilchef: 57
+5: impulseSV: 56
+6: MumboJumbo: 34
+7: iskall85: 29
+8: Docm77: 25
+9: xBCrafted: 22
+10: Etho: 21
+11: GoodTimeWithScar: 19
+12: falsesymmetry: 16
+13: Mumbo: 9
+14: joehillssays: 6
+15: Renthedog: 5
+Total 679

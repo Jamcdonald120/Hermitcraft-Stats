@@ -1,0 +1,24 @@
+stat.pickup.minecraft.diamond_helmet
+1: GoodTimeWithScar: 140
+2: Renthedog: 62
+3: Tango: 51
+4: cubfan135: 43
+5: Zedaph: 36
+6: PythonGB: 31
+7: impulseSV: 31
+8: iJevin: 29
+9: iskall85: 27
+10: MumboJumbo: 26
+11: Xisuma: 17
+12: Welsknight: 15
+13: joehillssays: 13
+14: Tinfoilchef: 7
+15: xBCrafted: 5
+16: falsesymmetry: 5
+17: Stressmonster101: 4
+18: Biffa2001: 3
+19: BdoubleO100: 2
+20: ZombieCleo: 2
+21: VintageBeef: 1
+22: Etho: 1
+Total 551

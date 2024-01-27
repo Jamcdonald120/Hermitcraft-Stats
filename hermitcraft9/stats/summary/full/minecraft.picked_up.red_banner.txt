@@ -1,0 +1,22 @@
+minecraft.picked_up.red_banner
+1: Renthedog: 105
+2: cubfan135: 75
+3: Etho: 59
+4: ZombieCleo: 42
+5: BdoubleO100: 34
+6: PearlescentMoon: 34
+7: RentheKing: 28
+8: falsesymmetry: 9
+9: joehillssays: 7
+10: Docm77: 5
+11: iJevin: 5
+12: GoodTimeWithScar: 5
+13: Tango: 4
+14: xBCrafted: 4
+15: impulseSV: 4
+16: Keralis1: 3
+17: VintageBeef: 2
+18: GeminiTay: 2
+19: Zedaph: 2
+20: MythicalSausage: 1
+Total 430

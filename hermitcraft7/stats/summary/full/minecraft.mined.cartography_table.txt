@@ -1,0 +1,21 @@
+minecraft.mined.cartography_table
+1: Tango: 22
+2: falsesymmetry: 20
+3: cubfan135: 19
+4: GoodTimeWithScar: 19
+5: Xisuma: 14
+6: Grian: 13
+7: Etho: 13
+8: BdoubleO100: 6
+9: iskall85: 6
+10: hypnotizd: 5
+11: Keralis1: 5
+12: joehillssays: 3
+13: impulseSV: 3
+14: xBCrafted: 2
+15: ZombieCleo: 2
+16: Docm77: 1
+17: VintageBeef: 1
+18: iJevin: 1
+19: Zedaph: 1
+Total 156

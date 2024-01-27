@@ -1,0 +1,27 @@
+minecraft.mined.barrel
+1: PearlescentMoon: 174
+2: impulseSV: 158
+3: Xisuma: 152
+4: cubfan135: 127
+5: GoodTimeWithScar: 114
+6: ZombieCleo: 75
+7: Grian: 72
+8: Renthedog: 70
+9: Keralis1: 70
+10: MumboJumbo: 64
+11: joehillssays: 51
+12: xBCrafted: 46
+13: BdoubleO100: 43
+14: Tango: 38
+15: iskall85: 37
+16: hypnotizd: 28
+17: GeminiTay: 24
+18: iJevin: 20
+19: Etho: 18
+20: Stressmonster101: 15
+21: falsesymmetry: 10
+22: VintageBeef: 9
+23: Zedaph: 8
+24: Docm77: 6
+25: Welsknight: 1
+Total 1430

@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.cyan_glazed_terracotta
+1: Tango: 12
+2: impulseSV: 9
+3: iskall85: 8
+4: GoodTimeWithScar: 2
+5: joehillssays: 1
+Total 32

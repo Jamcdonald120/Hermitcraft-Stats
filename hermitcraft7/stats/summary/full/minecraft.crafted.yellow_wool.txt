@@ -1,0 +1,17 @@
+minecraft.crafted.yellow_wool
+1: Xisuma: 982
+2: Keralis1: 131
+3: Tango: 74
+4: joehillssays: 62
+5: VintageBeef: 30
+6: GoodTimeWithScar: 20
+7: impulseSV: 17
+8: cubfan135: 10
+9: MumboJumbo: 9
+10: ZombieCleo: 8
+11: BdoubleO100: 6
+12: Stressmonster101: 6
+13: Zedaph: 6
+14: Grian: 2
+15: hypnotizd: 1
+Total 1364

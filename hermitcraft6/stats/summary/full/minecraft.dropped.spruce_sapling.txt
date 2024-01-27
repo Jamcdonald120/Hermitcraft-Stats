@@ -1,0 +1,18 @@
+minecraft.dropped.spruce_sapling
+1: Renthedog: 649
+2: cubfan135: 270
+3: GoodTimeWithScar: 105
+4: iskall85: 98
+5: Xisuma: 77
+6: Grian: 76
+7: MumboJumbo: 64
+8: falsesymmetry: 40
+9: Docm77: 32
+10: BdoubleO100: 22
+11: ZombieCleo: 13
+12: Stressmonster101: 11
+13: iJevin: 10
+14: impulseSV: 10
+15: Keralis1: 1
+16: Zedaph: 1
+Total 1479

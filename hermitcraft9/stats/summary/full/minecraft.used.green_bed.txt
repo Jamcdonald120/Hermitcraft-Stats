@@ -1,0 +1,22 @@
+minecraft.used.green_bed
+1: Etho: 638
+2: Docm77: 181
+3: Xisuma: 168
+4: MythicalSausage: 33
+5: GoodTimeWithScar: 32
+6: iJevin: 23
+7: BdoubleO100: 18
+8: joehillssays: 10
+9: Grian: 8
+10: iskall85: 8
+11: Stressmonster101: 6
+12: falsesymmetry: 4
+13: ZombieCleo: 4
+14: VintageBeef: 3
+15: Renthedog: 2
+16: cubfan135: 2
+17: SolidarityGaming: 2
+18: PearlescentMoon: 1
+19: RentheKing: 1
+20: ShubbleYT: 1
+Total 1145

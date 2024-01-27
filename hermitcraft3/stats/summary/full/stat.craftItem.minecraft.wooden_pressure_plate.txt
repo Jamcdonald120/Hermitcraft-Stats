@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.wooden_pressure_plate
+1: falsesymmetry: 191
+2: Xisuma: 114
+3: Tango: 88
+4: Tinfoilchef: 76
+5: monkeyfarm: 28
+6: zueljin: 20
+7: xBCrafted: 16
+8: sl1pg8r: 12
+9: iJevin: 9
+10: Biffa2001: 9
+11: topmass: 8
+12: Mumbo: 6
+13: impulseSV: 6
+14: Etho: 3
+Total 586

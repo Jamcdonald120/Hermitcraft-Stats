@@ -1,0 +1,18 @@
+minecraft.picked_up.lime_dye
+1: Zedaph: 968
+2: Grian: 403
+3: iJevin: 197
+4: Stressmonster101: 175
+5: cubfan135: 162
+6: GoodTimeWithScar: 147
+7: Tango: 136
+8: BdoubleO100: 124
+9: Keralis1: 117
+10: falsesymmetry: 36
+11: VintageBeef: 2
+12: Renthedog: 1
+13: joehillssays: 1
+14: Etho: 1
+15: ZombieCleo: 1
+16: MumboJumbo: 1
+Total 2472

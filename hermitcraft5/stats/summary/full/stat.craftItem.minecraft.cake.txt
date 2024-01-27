@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.cake
+1: cubfan135: 30
+2: ZombieCleo: 25
+3: Tinfoilchef: 8
+4: GoodTimeWithScar: 7
+5: Tango: 3
+6: MumboJumbo: 2
+7: Zedaph: 2
+8: PythonGB: 1
+9: iJevin: 1
+10: falsesymmetry: 1
+11: Welsknight: 1
+12: impulseSV: 1
+Total 82

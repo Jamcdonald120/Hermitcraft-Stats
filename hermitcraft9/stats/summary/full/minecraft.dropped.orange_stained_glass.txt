@@ -1,0 +1,9 @@
+minecraft.dropped.orange_stained_glass
+1: falsesymmetry: 521
+2: Grian: 40
+3: Xisuma: 19
+4: hypnotizd: 6
+5: Etho: 4
+6: cubfan135: 2
+7: Keralis1: 1
+Total 593

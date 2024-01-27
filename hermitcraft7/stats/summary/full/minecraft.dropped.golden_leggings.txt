@@ -1,0 +1,23 @@
+minecraft.dropped.golden_leggings
+1: Xisuma: 129
+2: Grian: 53
+3: hypnotizd: 35
+4: Renthedog: 34
+5: Tango: 27
+6: iskall85: 20
+7: xBCrafted: 20
+8: Etho: 18
+9: VintageBeef: 15
+10: impulseSV: 14
+11: cubfan135: 13
+12: GoodTimeWithScar: 13
+13: Zedaph: 12
+14: Docm77: 7
+15: iJevin: 7
+16: Keralis1: 7
+17: BdoubleO100: 5
+18: MumboJumbo: 2
+19: joehillssays: 1
+20: falsesymmetry: 1
+21: Stressmonster101: 1
+Total 434

@@ -1,0 +1,14 @@
+minecraft.picked_up.acacia_leaves
+1: GoodTimeWithScar: 5185
+2: Welsknight: 3108
+3: cubfan135: 2895
+4: Xisuma: 1149
+5: falsesymmetry: 983
+6: iJevin: 592
+7: Docm77: 139
+8: Renthedog: 137
+9: Stressmonster101: 109
+10: iskall85: 79
+11: MumboJumbo: 42
+12: Tango: 3
+Total 14421

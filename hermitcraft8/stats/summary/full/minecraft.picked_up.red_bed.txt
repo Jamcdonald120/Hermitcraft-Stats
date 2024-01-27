@@ -1,0 +1,20 @@
+minecraft.picked_up.red_bed
+1: Welsknight: 303
+2: Xisuma: 275
+3: hypnotizd: 101
+4: impulseSV: 48
+5: ZombieCleo: 38
+6: Tango: 23
+7: Docm77: 12
+8: EvilXisuma: 9
+9: Grian: 7
+10: BdoubleO100: 6
+11: Renthedog: 5
+12: PearlescentMoon: 3
+13: falsesymmetry: 3
+14: VintageBeef: 2
+15: Keralis1: 2
+16: joehillssays: 1
+17: GeminiTay: 1
+18: iskall85: 1
+Total 840

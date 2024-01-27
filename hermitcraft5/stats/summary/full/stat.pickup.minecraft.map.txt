@@ -1,0 +1,8 @@
+stat.pickup.minecraft.map
+1: GoodTimeWithScar: 24
+2: falsesymmetry: 3
+3: Xisuma: 2
+4: iJevin: 1
+5: xBCrafted: 1
+6: cubfan135: 1
+Total 32

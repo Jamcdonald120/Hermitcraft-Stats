@@ -1,0 +1,17 @@
+minecraft.crafted.map
+1: Keralis1: 2702
+2: Grian: 755
+3: Docm77: 95
+4: Xisuma: 57
+5: xBCrafted: 47
+6: GoodTimeWithScar: 32
+7: PearlescentMoon: 20
+8: Renthedog: 12
+9: ZombieCleo: 11
+10: GeminiTay: 9
+11: VintageBeef: 6
+12: falsesymmetry: 6
+13: joehillssays: 4
+14: Welsknight: 4
+15: Etho: 1
+Total 3761

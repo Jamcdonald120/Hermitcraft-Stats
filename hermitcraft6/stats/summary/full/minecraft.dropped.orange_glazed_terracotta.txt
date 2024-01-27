@@ -1,0 +1,4 @@
+minecraft.dropped.orange_glazed_terracotta
+1: cubfan135: 64
+2: falsesymmetry: 4
+Total 68

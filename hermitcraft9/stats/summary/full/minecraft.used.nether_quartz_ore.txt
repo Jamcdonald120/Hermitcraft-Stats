@@ -1,0 +1,23 @@
+minecraft.used.nether_quartz_ore
+1: Docm77: 3903
+2: ZombieCleo: 2304
+3: Keralis1: 1666
+4: cubfan135: 1031
+5: GoodTimeWithScar: 967
+6: falsesymmetry: 802
+7: Zedaph: 725
+8: Etho: 554
+9: hypnotizd: 426
+10: xBCrafted: 333
+11: Xisuma: 225
+12: joehillssays: 183
+13: Tango: 138
+14: BdoubleO100: 113
+15: VintageBeef: 70
+16: Pixlriffs: 61
+17: Smallishbeans: 59
+18: impulseSV: 57
+19: PearlescentMoon: 44
+20: iJevin: 12
+21: RentheKing: 2
+Total 13675

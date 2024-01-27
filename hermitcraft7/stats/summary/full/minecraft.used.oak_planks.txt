@@ -1,0 +1,26 @@
+minecraft.used.oak_planks
+1: Keralis1: 4126
+2: iskall85: 3068
+3: Renthedog: 2671
+4: xBCrafted: 1394
+5: VintageBeef: 1122
+6: Grian: 674
+7: joehillssays: 557
+8: Welsknight: 495
+9: Tango: 468
+10: Etho: 368
+11: Stressmonster101: 368
+12: BdoubleO100: 330
+13: iJevin: 174
+14: Xisuma: 172
+15: Zedaph: 169
+16: ZombieCleo: 118
+17: impulseSV: 118
+18: MumboJumbo: 110
+19: cubfan135: 96
+20: Tinfoilchef: 85
+21: falsesymmetry: 56
+22: GoodTimeWithScar: 44
+23: Docm77: 27
+24: hypnotizd: 22
+Total 16832

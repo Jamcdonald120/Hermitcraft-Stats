@@ -1,0 +1,26 @@
+minecraft.crafted.sticky_piston
+1: impulseSV: 488
+2: Docm77: 451
+3: MumboJumbo: 354
+4: Grian: 259
+5: Xisuma: 220
+6: Etho: 142
+7: Zedaph: 140
+8: Renthedog: 111
+9: cubfan135: 82
+10: Tango: 79
+11: iJevin: 62
+12: VintageBeef: 44
+13: PearlescentMoon: 38
+14: Welsknight: 37
+15: Keralis1: 37
+16: xBCrafted: 33
+17: iskall85: 32
+18: GoodTimeWithScar: 31
+19: GeminiTay: 27
+20: BdoubleO100: 16
+21: hypnotizd: 14
+22: falsesymmetry: 6
+23: joehillssays: 3
+24: Stressmonster101: 1
+Total 2707

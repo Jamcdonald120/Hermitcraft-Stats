@@ -1,0 +1,17 @@
+minecraft.picked_up.bricks
+1: cubfan135: 2163
+2: Xisuma: 1103
+3: falsesymmetry: 972
+4: Welsknight: 850
+5: iJevin: 691
+6: Grian: 412
+7: GoodTimeWithScar: 286
+8: BdoubleO100: 98
+9: iskall85: 70
+10: MumboJumbo: 63
+11: impulseSV: 44
+12: Renthedog: 31
+13: ZombieCleo: 30
+14: Tango: 6
+15: Docm77: 1
+Total 6820

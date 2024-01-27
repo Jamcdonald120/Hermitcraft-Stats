@@ -1,0 +1,15 @@
+minecraft.dropped.soul_torch
+1: falsesymmetry: 64
+2: cubfan135: 33
+3: GoodTimeWithScar: 6
+4: iskall85: 4
+5: Xisuma: 3
+6: Grian: 3
+7: Tango: 3
+8: xBCrafted: 2
+9: Etho: 2
+10: Renthedog: 1
+11: joehillssays: 1
+12: Stressmonster101: 1
+13: Zedaph: 1
+Total 124

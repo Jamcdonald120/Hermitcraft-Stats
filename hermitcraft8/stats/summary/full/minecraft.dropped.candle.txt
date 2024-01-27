@@ -1,0 +1,6 @@
+minecraft.dropped.candle
+1: ZombieCleo: 64
+2: BdoubleO100: 11
+3: Tango: 1
+4: GoodTimeWithScar: 1
+Total 77

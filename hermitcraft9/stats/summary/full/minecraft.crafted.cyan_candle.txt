@@ -1,0 +1,10 @@
+minecraft.crafted.cyan_candle
+1: hypnotizd: 1668
+2: Tango: 566
+3: PearlescentMoon: 31
+4: Xisuma: 13
+5: impulseSV: 9
+6: GoodTimeWithScar: 5
+7: Keralis1: 4
+8: Zedaph: 1
+Total 2297

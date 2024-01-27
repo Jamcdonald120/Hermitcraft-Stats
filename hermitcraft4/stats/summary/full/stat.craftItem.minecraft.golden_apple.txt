@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.golden_apple
+1: Renthedog: 75
+2: MumboJumbo: 71
+3: GoodTimeWithScar: 46
+4: Xisuma: 37
+5: falsesymmetry: 24
+6: iskall85: 9
+7: impulseSV: 6
+8: VintageBeef: 5
+9: PythonGB: 4
+10: Welsknight: 2
+11: joehillssays: 1
+12: cubfan135: 1
+Total 281

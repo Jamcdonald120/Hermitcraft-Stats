@@ -1,0 +1,6 @@
+stat.useItem.minecraft.waterlily
+1: ZombieCleo: 25
+2: falsesymmetry: 10
+3: Tango: 4
+4: Biffa2001: 2
+Total 41

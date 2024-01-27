@@ -1,0 +1,29 @@
+minecraft.used.stone_slab
+1: falsesymmetry: 17958
+2: Docm77: 15749
+3: Xisuma: 11255
+4: GoodTimeWithScar: 8556
+5: Tango: 4869
+6: hypnotizd: 4073
+7: impulseSV: 2733
+8: BdoubleO100: 2690
+9: PearlescentMoon: 2312
+10: Keralis1: 1893
+11: Zedaph: 1886
+12: joehillssays: 1498
+13: Grian: 1354
+14: VintageBeef: 915
+15: cubfan135: 892
+16: GeminiTay: 660
+17: iJevin: 612
+18: Renthedog: 547
+19: iskall85: 430
+20: ZombieCleo: 406
+21: RentheKing: 118
+22: MythicalSausage: 103
+23: Etho: 82
+24: xBCrafted: 64
+25: Smallishbeans: 45
+26: Stressmonster101: 35
+27: Mumbo: 2
+Total 81737

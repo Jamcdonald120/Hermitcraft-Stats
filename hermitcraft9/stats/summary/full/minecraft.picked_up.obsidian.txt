@@ -1,0 +1,31 @@
+minecraft.picked_up.obsidian
+1: Docm77: 10130
+2: Xisuma: 9969
+3: iJevin: 8245
+4: ZombieCleo: 3971
+5: Tango: 2519
+6: cubfan135: 1556
+7: impulseSV: 1364
+8: joehillssays: 1280
+9: Zedaph: 1136
+10: Keralis1: 1082
+11: Grian: 1031
+12: EvilXisuma: 997
+13: PearlescentMoon: 794
+14: xBCrafted: 762
+15: Renthedog: 724
+16: hypnotizd: 603
+17: falsesymmetry: 579
+18: iskall85: 452
+19: Etho: 320
+20: GeminiTay: 225
+21: GoodTimeWithScar: 219
+22: Mumbo: 208
+23: VintageBeef: 198
+24: RentheKing: 142
+25: Pixlriffs: 113
+26: Stressmonster101: 111
+27: Welsknight: 81
+28: BdoubleO100: 56
+29: Smallishbeans: 8
+Total 48875

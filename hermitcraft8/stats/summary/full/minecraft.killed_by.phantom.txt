@@ -1,0 +1,8 @@
+minecraft.killed_by.phantom
+1: GoodTimeWithScar: 3
+2: Grian: 2
+3: Renthedog: 1
+4: iJevin: 1
+5: Tango: 1
+6: falsesymmetry: 1
+Total 9

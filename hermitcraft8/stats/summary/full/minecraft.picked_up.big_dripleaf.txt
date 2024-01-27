@@ -1,0 +1,18 @@
+minecraft.picked_up.big_dripleaf
+1: GeminiTay: 4389
+2: iJevin: 4356
+3: PearlescentMoon: 1333
+4: cubfan135: 1330
+5: xBCrafted: 452
+6: Grian: 403
+7: Etho: 126
+8: BdoubleO100: 100
+9: GoodTimeWithScar: 80
+10: falsesymmetry: 78
+11: hypnotizd: 72
+12: Stressmonster101: 62
+13: Keralis1: 18
+14: impulseSV: 3
+15: Renthedog: 1
+16: ZombieCleo: 1
+Total 12804

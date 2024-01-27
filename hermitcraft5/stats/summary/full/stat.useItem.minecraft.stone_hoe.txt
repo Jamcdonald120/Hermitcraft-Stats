@@ -1,0 +1,23 @@
+stat.useItem.minecraft.stone_hoe
+1: BdoubleO100: 602
+2: Tango: 546
+3: Xisuma: 355
+4: Tinfoilchef: 306
+5: Zedaph: 289
+6: ZombieCleo: 277
+7: cubfan135: 269
+8: impulseSV: 264
+9: GoodTimeWithScar: 209
+10: Biffa2001: 188
+11: PythonGB: 127
+12: MumboJumbo: 95
+13: iskall85: 53
+14: Welsknight: 53
+15: falsesymmetry: 40
+16: VintageBeef: 37
+17: Renthedog: 29
+18: iJevin: 25
+19: Etho: 22
+20: xBCrafted: 11
+21: joehillssays: 6
+Total 3803

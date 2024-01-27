@@ -1,0 +1,4 @@
+minecraft.crafted.stripped_oak_wood
+1: Keralis1: 297
+2: cubfan135: 9
+Total 306

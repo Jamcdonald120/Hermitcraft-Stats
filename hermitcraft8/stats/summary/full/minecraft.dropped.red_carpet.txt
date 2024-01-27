@@ -1,0 +1,5 @@
+minecraft.dropped.red_carpet
+1: falsesymmetry: 69
+2: Tango: 10
+3: Renthedog: 3
+Total 82

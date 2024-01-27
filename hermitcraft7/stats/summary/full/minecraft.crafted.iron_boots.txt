@@ -1,0 +1,25 @@
+minecraft.crafted.iron_boots
+1: MumboJumbo: 67
+2: impulseSV: 40
+3: iskall85: 16
+4: Tango: 13
+5: Grian: 12
+6: Welsknight: 9
+7: xBCrafted: 8
+8: Xisuma: 7
+9: Zedaph: 7
+10: ZombieCleo: 6
+11: cubfan135: 5
+12: joehillssays: 4
+13: falsesymmetry: 4
+14: GoodTimeWithScar: 4
+15: Renthedog: 3
+16: VintageBeef: 3
+17: Etho: 2
+18: iJevin: 1
+19: BdoubleO100: 1
+20: hypnotizd: 1
+21: Tinfoilchef: 1
+22: Stressmonster101: 1
+23: Keralis1: 1
+Total 216

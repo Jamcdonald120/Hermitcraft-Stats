@@ -1,0 +1,17 @@
+minecraft.picked_up.cracked_deepslate_bricks
+1: Tango: 1433
+2: iJevin: 1330
+3: cubfan135: 540
+4: Xisuma: 186
+5: Etho: 71
+6: Renthedog: 62
+7: impulseSV: 50
+8: RentheKing: 37
+9: Mumbo: 31
+10: GoodTimeWithScar: 8
+11: Docm77: 2
+12: falsesymmetry: 2
+13: GeminiTay: 1
+14: Grian: 1
+15: PearlescentMoon: 1
+Total 3755

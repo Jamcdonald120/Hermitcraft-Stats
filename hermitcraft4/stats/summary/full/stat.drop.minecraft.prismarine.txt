@@ -1,0 +1,4 @@
+stat.drop.minecraft.prismarine
+1: impulseSV: 25
+2: Xisuma: 10
+Total 35

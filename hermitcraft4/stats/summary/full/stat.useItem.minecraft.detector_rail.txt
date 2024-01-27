@@ -1,0 +1,14 @@
+stat.useItem.minecraft.detector_rail
+1: Xisuma: 426
+2: Renthedog: 310
+3: impulseSV: 104
+4: iskall85: 101
+5: VintageBeef: 66
+6: Tango: 57
+7: MumboJumbo: 56
+8: Biffa2001: 15
+9: falsesymmetry: 9
+10: cubfan135: 9
+11: GoodTimeWithScar: 4
+12: xisumavoid: 2
+Total 1159

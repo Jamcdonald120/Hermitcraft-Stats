@@ -1,0 +1,7 @@
+minecraft.dropped.jungle_fence_gate
+1: falsesymmetry: 48
+2: Etho: 15
+3: Grian: 14
+4: GoodTimeWithScar: 2
+5: BdoubleO100: 1
+Total 80

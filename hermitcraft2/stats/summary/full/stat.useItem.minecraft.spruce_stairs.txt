@@ -1,0 +1,8 @@
+stat.useItem.minecraft.spruce_stairs
+1: falsesymmetry: 362
+2: ZombieCleo: 236
+3: Mumbo: 57
+4: zueljin: 25
+5: xBCrafted: 24
+6: Spumwackles: 15
+Total 719

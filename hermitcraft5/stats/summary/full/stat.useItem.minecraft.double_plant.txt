@@ -1,0 +1,21 @@
+stat.useItem.minecraft.double_plant
+1: cubfan135: 410
+2: xBCrafted: 264
+3: joehillssays: 122
+4: falsesymmetry: 102
+5: MumboJumbo: 100
+6: iskall85: 84
+7: PythonGB: 82
+8: Xisuma: 27
+9: Renthedog: 23
+10: GoodTimeWithScar: 20
+11: Stressmonster101: 17
+12: Tinfoilchef: 14
+13: Welsknight: 13
+14: BdoubleO100: 8
+15: Zedaph: 8
+16: VintageBeef: 7
+17: impulseSV: 6
+18: ZombieCleo: 5
+19: Tango: 3
+Total 1315

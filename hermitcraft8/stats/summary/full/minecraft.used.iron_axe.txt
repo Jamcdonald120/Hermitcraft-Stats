@@ -1,0 +1,28 @@
+minecraft.used.iron_axe
+1: GoodTimeWithScar: 15853
+2: PearlescentMoon: 5560
+3: joehillssays: 4533
+4: ZombieCleo: 3544
+5: Xisuma: 3348
+6: falsesymmetry: 3177
+7: GeminiTay: 2441
+8: Zedaph: 1236
+9: iskall85: 1217
+10: Tango: 1164
+11: Grian: 912
+12: impulseSV: 883
+13: hypnotizd: 837
+14: Welsknight: 813
+15: Stressmonster101: 699
+16: Renthedog: 641
+17: BdoubleO100: 571
+18: iJevin: 553
+19: MumboJumbo: 410
+20: Tinfoilchef: 250
+21: VintageBeef: 245
+22: xBCrafted: 226
+23: cubfan135: 207
+24: Etho: 40
+25: Docm77: 5
+26: Keralis1: 3
+Total 49368

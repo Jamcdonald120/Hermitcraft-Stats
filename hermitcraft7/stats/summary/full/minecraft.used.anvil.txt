@@ -1,0 +1,28 @@
+minecraft.used.anvil
+1: Keralis1: 1246
+2: Grian: 1039
+3: Tango: 325
+4: Etho: 277
+5: cubfan135: 228
+6: GoodTimeWithScar: 146
+7: iskall85: 113
+8: Xisuma: 109
+9: Stressmonster101: 106
+10: iJevin: 79
+11: Renthedog: 74
+12: impulseSV: 73
+13: Zedaph: 67
+14: xBCrafted: 57
+15: VintageBeef: 46
+16: MumboJumbo: 46
+17: BdoubleO100: 44
+18: falsesymmetry: 35
+19: hypnotizd: 30
+20: joehillssays: 26
+21: ZombieCleo: 23
+22: Welsknight: 11
+23: Docm77: 9
+24: xisumavoid: 5
+25: Tinfoilchef: 3
+26: isGall85: 2
+Total 4219

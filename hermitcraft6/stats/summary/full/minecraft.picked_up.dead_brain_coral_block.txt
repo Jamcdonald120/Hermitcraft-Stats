@@ -1,0 +1,14 @@
+minecraft.picked_up.dead_brain_coral_block
+1: GoodTimeWithScar: 590
+2: iJevin: 454
+3: cubfan135: 231
+4: joehillssays: 66
+5: iskall85: 42
+6: Stressmonster101: 6
+7: Renthedog: 2
+8: falsesymmetry: 2
+9: Docm77: 1
+10: Xisuma: 1
+11: Biffa2001: 1
+12: ZombieCleo: 1
+Total 1397

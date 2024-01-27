@@ -1,0 +1,8 @@
+stat.drop.minecraft.piston
+1: MumboJumbo: 141
+2: Zedaph: 92
+3: cubfan135: 18
+4: Tango: 9
+5: impulseSV: 7
+6: iskall85: 3
+Total 270

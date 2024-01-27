@@ -1,0 +1,11 @@
+stat.useItem.minecraft.wooden_shovel
+1: Tango: 115
+2: joehillssays: 80
+3: Xisuma: 60
+4: Renthedog: 35
+5: impulseSV: 23
+6: falsesymmetry: 9
+7: Jessassin: 5
+8: iskall85: 1
+9: GoodTimeWithScar: 1
+Total 329

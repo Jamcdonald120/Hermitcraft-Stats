@@ -1,0 +1,26 @@
+minecraft.picked_up.mangrove_log
+1: Keralis1: 9913
+2: RentheKing: 4105
+3: joehillssays: 1735
+4: PearlescentMoon: 1588
+5: Xisuma: 1132
+6: GoodTimeWithScar: 1011
+7: impulseSV: 989
+8: cubfan135: 633
+9: Renthedog: 371
+10: iJevin: 296
+11: Grian: 292
+12: ShubbleYT: 277
+13: Docm77: 230
+14: BdoubleO100: 214
+15: MythicalSausage: 113
+16: falsesymmetry: 103
+17: Etho: 96
+18: OrionSound: 79
+19: Stressmonster101: 74
+20: Zedaph: 74
+21: ZombieCleo: 66
+22: VintageBeef: 34
+23: Tango: 29
+24: xBCrafted: 16
+Total 23470

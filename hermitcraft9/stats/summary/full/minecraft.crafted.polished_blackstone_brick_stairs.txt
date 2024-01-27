@@ -1,0 +1,14 @@
+minecraft.crafted.polished_blackstone_brick_stairs
+1: iJevin: 424
+2: Tango: 123
+3: ZombieCleo: 71
+4: falsesymmetry: 30
+5: xBCrafted: 15
+6: PearlescentMoon: 12
+7: Docm77: 8
+8: impulseSV: 7
+9: GeminiTay: 4
+10: Zedaph: 2
+11: Xisuma: 1
+12: GoodTimeWithScar: 1
+Total 698

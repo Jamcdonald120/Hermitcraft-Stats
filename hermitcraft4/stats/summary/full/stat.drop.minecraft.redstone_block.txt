@@ -1,0 +1,12 @@
+stat.drop.minecraft.redstone_block
+1: MumboJumbo: 244
+2: Xisuma: 220
+3: iskall85: 170
+4: Tango: 134
+5: Tinfoilchef: 64
+6: impulseSV: 60
+7: cubfan135: 52
+8: Renthedog: 33
+9: falsesymmetry: 21
+10: Welsknight: 21
+Total 1019

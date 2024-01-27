@@ -1,0 +1,24 @@
+stat.pickup.minecraft.cactus
+1: Renthedog: 4391
+2: iskall85: 1696
+3: falsesymmetry: 1647
+4: MumboJumbo: 678
+5: Welsknight: 524
+6: cubfan135: 387
+7: VintageBeef: 384
+8: Xisuma: 377
+9: Tango: 296
+10: joehillssays: 282
+11: Docm77: 175
+12: PythonGB: 148
+13: GoodTimeWithScar: 146
+14: impulseSV: 119
+15: Etho: 51
+16: Tinfoilchef: 46
+17: Jessassin: 28
+18: xBCrafted: 18
+19: Biffa2001: 13
+20: ZombieCleo: 12
+21: iJevin: 9
+22: zueljin: 6
+Total 11433

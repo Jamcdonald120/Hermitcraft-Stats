@@ -1,0 +1,26 @@
+stat.useItem.minecraft.egg
+1: ZombieCleo: 4639
+2: Tinfoilchef: 2984
+3: cubfan135: 2406
+4: PythonGB: 1676
+5: Tango: 1377
+6: Zedaph: 1081
+7: joehillssays: 784
+8: falsesymmetry: 297
+9: VintageBeef: 126
+10: impulseSV: 121
+11: GoodTimeWithScar: 62
+12: xBCrafted: 51
+13: Etho: 39
+14: Welsknight: 30
+15: Stressmonster101: 22
+16: Xisuma: 17
+17: iJevin: 16
+18: iskall85: 15
+19: BdoubleO100: 8
+20: Renthedog: 7
+21: MumboJumbo: 7
+22: Biffa2001: 2
+23: BadTimeWithScar: 2
+24: Docm77: 1
+Total 15770

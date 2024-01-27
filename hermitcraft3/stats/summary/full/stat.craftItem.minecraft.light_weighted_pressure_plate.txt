@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.light_weighted_pressure_plate
+1: Tinfoilchef: 64
+2: Tango: 18
+3: iJevin: 2
+4: falsesymmetry: 2
+5: Xisuma: 1
+Total 87

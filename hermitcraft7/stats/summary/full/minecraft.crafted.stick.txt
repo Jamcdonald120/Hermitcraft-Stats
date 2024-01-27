@@ -1,0 +1,27 @@
+minecraft.crafted.stick
+1: joehillssays: 197591
+2: Etho: 62132
+3: Grian: 58002
+4: impulseSV: 42170
+5: GoodTimeWithScar: 40154
+6: Tango: 36021
+7: Keralis1: 32002
+8: iskall85: 28626
+9: xBCrafted: 24440
+10: MumboJumbo: 20480
+11: Renthedog: 20292
+12: VintageBeef: 15635
+13: BdoubleO100: 11408
+14: Xisuma: 11077
+15: cubfan135: 10382
+16: iJevin: 10192
+17: Stressmonster101: 9025
+18: Zedaph: 8879
+19: ZombieCleo: 7839
+20: falsesymmetry: 7220
+21: hypnotizd: 6124
+22: Welsknight: 5316
+23: Docm77: 4952
+24: Tinfoilchef: 2380
+25: Helsknight_: 16
+Total 672355

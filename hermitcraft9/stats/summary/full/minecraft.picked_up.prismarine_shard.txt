@@ -1,0 +1,18 @@
+minecraft.picked_up.prismarine_shard
+1: GeminiTay: 5783
+2: falsesymmetry: 2230
+3: impulseSV: 799
+4: Xisuma: 544
+5: Etho: 461
+6: iJevin: 188
+7: Stressmonster101: 185
+8: cubfan135: 138
+9: Grian: 80
+10: Zedaph: 50
+11: joehillssays: 46
+12: hypnotizd: 26
+13: xBCrafted: 23
+14: iskall85: 9
+15: ZombieCleo: 6
+16: Keralis1: 5
+Total 10573

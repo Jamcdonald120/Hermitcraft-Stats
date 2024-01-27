@@ -1,0 +1,24 @@
+minecraft.used.chiseled_stone_bricks
+1: falsesymmetry: 2069
+2: Renthedog: 1576
+3: cubfan135: 1112
+4: GeminiTay: 733
+5: Etho: 535
+6: joehillssays: 468
+7: Tango: 364
+8: iJevin: 228
+9: PearlescentMoon: 103
+10: RentheKing: 103
+11: GoodTimeWithScar: 61
+12: hypnotizd: 47
+13: impulseSV: 40
+14: ZombieCleo: 23
+15: BdoubleO100: 22
+16: Xisuma: 21
+17: Docm77: 9
+18: Keralis1: 9
+19: VintageBeef: 6
+20: Pixlriffs: 4
+21: MythicalSausage: 3
+22: Zedaph: 1
+Total 7537

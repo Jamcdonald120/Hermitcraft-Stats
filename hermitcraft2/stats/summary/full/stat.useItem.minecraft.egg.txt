@@ -1,0 +1,17 @@
+stat.useItem.minecraft.egg
+1: ZombieCleo: 5024
+2: falsesymmetry: 202
+3: monkeyfarm: 64
+4: iJevin: 34
+5: sl1pg8r: 13
+6: Tinfoilchef: 5
+7: KingDaddyDMAC: 4
+8: xBCrafted: 4
+9: Spumwackles: 4
+10: Xisuma: 3
+11: zueljin: 2
+12: Pungence: 2
+13: Biffa2001: 2
+14: Collen: 2
+15: Tango: 1
+Total 5366

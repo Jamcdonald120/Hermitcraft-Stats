@@ -1,0 +1,6 @@
+minecraft.dropped.gray_banner
+1: iJevin: 24
+2: Renthedog: 2
+3: GoodTimeWithScar: 1
+4: impulseSV: 1
+Total 28

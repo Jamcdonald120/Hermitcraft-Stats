@@ -1,0 +1,35 @@
+minecraft.killed.zombie
+1: GoodTimeWithScar: 3198
+2: cubfan135: 3069
+3: Tango: 1905
+4: iJevin: 1683
+5: Grian: 1564
+6: iskall85: 1484
+7: Docm77: 1196
+8: impulseSV: 1176
+9: Xisuma: 1114
+10: MumboJumbo: 1034
+11: Zedaph: 554
+12: falsesymmetry: 515
+13: Renthedog: 492
+14: PythonGB: 394
+15: Welsknight: 315
+16: Biffa2001: 297
+17: Stressmonster101: 253
+18: joehillssays: 215
+19: ZombieCleo: 151
+20: Tinfoilchef: 143
+21: Keralis1: 141
+22: BdoubleO100: 140
+23: Cub_Cam: 57
+24: xBCrafted: 52
+25: Jessassin: 18
+26: HumanCleo: 13
+27: TangoCam: 4
+28: BadTimeWithScar: 4
+29: EvilXisuma: 3
+30: Cojomax99: 3
+31: PhoenixfireLune: 2
+32: Jura_Whitey: 1
+33: tterrag: 1
+Total 21191

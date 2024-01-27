@@ -1,0 +1,26 @@
+minecraft.picked_up.tropical_fish
+1: Xisuma: 1837
+2: impulseSV: 138
+3: iJevin: 118
+4: GoodTimeWithScar: 52
+5: Renthedog: 46
+6: Grian: 41
+7: hypnotizd: 38
+8: VintageBeef: 36
+9: falsesymmetry: 28
+10: HermitcraftAlt: 26
+11: BdoubleO100: 24
+12: cubfan135: 23
+13: Tango: 21
+14: joehillssays: 17
+15: Docm77: 12
+16: Stressmonster101: 12
+17: xisumavoid: 8
+18: Etho: 7
+19: Zedaph: 7
+20: iskall85: 6
+21: xBCrafted: 2
+22: ZombieCleo: 1
+23: MumboJumbo: 1
+24: Keralis1: 1
+Total 2502

@@ -1,0 +1,3 @@
+stat.drop.minecraft.totem_of_undying
+1: xBCrafted: 2
+Total 2

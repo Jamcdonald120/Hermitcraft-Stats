@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.boat
+1: xBCrafted: 133
+2: Renthedog: 76
+3: Zedaph: 33
+4: impulseSV: 26
+5: Xisuma: 20
+6: iskall85: 19
+7: falsesymmetry: 18
+8: ZombieCleo: 15
+9: GoodTimeWithScar: 14
+10: cubfan135: 13
+11: iJevin: 11
+12: joehillssays: 10
+13: Tango: 10
+14: Etho: 8
+15: PythonGB: 7
+16: Stressmonster101: 7
+17: MumboJumbo: 6
+18: BdoubleO100: 5
+19: Biffa2001: 4
+20: Tinfoilchef: 3
+21: Docm77: 2
+22: VintageBeef: 2
+23: Welsknight: 1
+Total 443

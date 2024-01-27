@@ -1,0 +1,9 @@
+minecraft.picked_up.diorite_stairs
+1: xBCrafted: 182
+2: Tango: 91
+3: VintageBeef: 22
+4: BdoubleO100: 22
+5: iskall85: 15
+6: Keralis1: 4
+7: impulseSV: 1
+Total 337

@@ -1,0 +1,27 @@
+minecraft.used.gold_block
+1: iJevin: 2218
+2: impulseSV: 1376
+3: Xisuma: 1156
+4: cubfan135: 673
+5: Docm77: 616
+6: Tango: 431
+7: RentheKing: 393
+8: Zedaph: 359
+9: Renthedog: 228
+10: hypnotizd: 132
+11: VintageBeef: 72
+12: GeminiTay: 58
+13: joehillssays: 57
+14: PearlescentMoon: 49
+15: GoodTimeWithScar: 32
+16: xBCrafted: 29
+17: BdoubleO100: 27
+18: Etho: 20
+19: Smallishbeans: 17
+20: Grian: 6
+21: MythicalSausage: 4
+22: ZombieCleo: 4
+23: Keralis1: 4
+24: falsesymmetry: 3
+25: Mumbo: 2
+Total 7966

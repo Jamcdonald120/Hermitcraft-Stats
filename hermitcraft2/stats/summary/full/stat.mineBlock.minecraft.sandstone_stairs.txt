@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.sandstone_stairs
+1: ZombieCleo: 10
+2: Tango: 3
+3: Mumbo: 3
+Total 16

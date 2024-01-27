@@ -1,0 +1,9 @@
+stat.useItem.minecraft.quartz_block
+1: zueljin: 15
+2: Tango: 13
+3: Xisuma: 10
+4: Collen: 3
+5: Spumwackles: 2
+6: xBCrafted: 1
+7: ZombieCleo: 1
+Total 45

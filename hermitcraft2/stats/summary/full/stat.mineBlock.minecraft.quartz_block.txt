@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.quartz_block
+1: Tango: 4
+2: Collen: 3
+3: Spumwackles: 2
+4: Xisuma: 1
+5: ZombieCleo: 1
+Total 11

@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.iron_leggings
+1: xBCrafted: 5
+2: falsesymmetry: 5
+3: zueljin: 1
+4: ZombieCleo: 1
+Total 12

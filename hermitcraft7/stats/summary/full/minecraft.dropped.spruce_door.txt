@@ -1,0 +1,16 @@
+minecraft.dropped.spruce_door
+1: GoodTimeWithScar: 55
+2: Grian: 34
+3: xBCrafted: 28
+4: Etho: 28
+5: cubfan135: 12
+6: Zedaph: 12
+7: Xisuma: 9
+8: MumboJumbo: 8
+9: Renthedog: 7
+10: iskall85: 6
+11: BarryBoss1234: 4
+12: Tango: 2
+13: Keralis1: 1
+14: impulseSV: 1
+Total 207

@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.lead
+1: Xisuma: 132
+2: xBCrafted: 50
+3: impulseSV: 30
+4: Mumbo: 24
+5: monkeyfarm: 24
+6: KingDaddyDMAC: 18
+7: falsesymmetry: 14
+8: zueljin: 12
+9: Biffa2001: 12
+10: sl1pg8r: 8
+11: ZombieCleo: 8
+12: Spumwackles: 6
+13: topmass: 4
+14: Tinfoilchef: 4
+15: iJevin: 2
+Total 348

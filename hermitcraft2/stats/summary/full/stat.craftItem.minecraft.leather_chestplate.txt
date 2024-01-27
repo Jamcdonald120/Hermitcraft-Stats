@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.leather_chestplate
+1: ZombieCleo: 9
+Total 9

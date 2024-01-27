@@ -1,0 +1,11 @@
+stat.useItem.minecraft.brick_block
+1: falsesymmetry: 1523
+2: joehillssays: 1118
+3: Tinfoilchef: 51
+4: Tango: 37
+5: Mumbo: 29
+6: Spumwackles: 15
+7: Xisuma: 4
+8: iJevin: 1
+9: xBCrafted: 1
+Total 2779

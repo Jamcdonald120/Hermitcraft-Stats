@@ -1,0 +1,6 @@
+stat.mineBlock.minecraft.cyan_glazed_terracotta
+1: ZombieCleo: 80
+2: Xisuma: 42
+3: cubfan135: 34
+4: MumboJumbo: 5
+Total 161

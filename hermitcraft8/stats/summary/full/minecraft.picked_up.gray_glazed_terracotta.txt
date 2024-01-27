@@ -1,0 +1,4 @@
+minecraft.picked_up.gray_glazed_terracotta
+1: impulseSV: 63
+2: Etho: 1
+Total 64

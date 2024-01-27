@@ -1,0 +1,13 @@
+minecraft.picked_up.honeycomb
+1: Xisuma: 21211
+2: Etho: 424
+3: Zedaph: 298
+4: joehillssays: 165
+5: Docm77: 102
+6: Grian: 84
+7: BdoubleO100: 81
+8: cubfan135: 42
+9: Tango: 36
+10: iskall85: 20
+11: GoodTimeWithScar: 3
+Total 22466

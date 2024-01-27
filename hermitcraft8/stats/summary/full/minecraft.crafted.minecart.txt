@@ -1,0 +1,27 @@
+minecraft.crafted.minecart
+1: impulseSV: 185
+2: Docm77: 174
+3: iJevin: 163
+4: Xisuma: 138
+5: Keralis1: 126
+6: Grian: 80
+7: GoodTimeWithScar: 76
+8: cubfan135: 43
+9: Welsknight: 43
+10: MumboJumbo: 36
+11: falsesymmetry: 23
+12: BdoubleO100: 19
+13: Zedaph: 16
+14: Tango: 15
+15: Stressmonster101: 11
+16: Renthedog: 9
+17: GeminiTay: 8
+18: Etho: 8
+19: hypnotizd: 8
+20: PearlescentMoon: 7
+21: iskall85: 6
+22: joehillssays: 5
+23: xBCrafted: 3
+24: Tinfoilchef: 3
+25: ZombieCleo: 1
+Total 1206

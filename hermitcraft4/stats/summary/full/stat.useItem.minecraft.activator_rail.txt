@@ -1,0 +1,11 @@
+stat.useItem.minecraft.activator_rail
+1: impulseSV: 14
+2: Tango: 9
+3: Docm77: 5
+4: Etho: 4
+5: GoodTimeWithScar: 4
+6: cubfan135: 2
+7: Xisuma: 1
+8: iskall85: 1
+9: falsesymmetry: 1
+Total 41

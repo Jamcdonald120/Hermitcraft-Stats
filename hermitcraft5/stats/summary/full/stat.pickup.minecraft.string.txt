@@ -1,0 +1,26 @@
+stat.pickup.minecraft.string
+1: Tango: 4368
+2: cubfan135: 3649
+3: Xisuma: 3559
+4: iskall85: 3166
+5: PythonGB: 2267
+6: MumboJumbo: 1555
+7: impulseSV: 1491
+8: Zedaph: 1406
+9: GoodTimeWithScar: 1222
+10: falsesymmetry: 949
+11: Welsknight: 898
+12: iJevin: 734
+13: Renthedog: 608
+14: Biffa2001: 440
+15: Stressmonster101: 435
+16: Tinfoilchef: 271
+17: TangoCam: 263
+18: Etho: 231
+19: xBCrafted: 212
+20: ZombieCleo: 202
+21: Docm77: 192
+22: VintageBeef: 127
+23: BdoubleO100: 101
+24: joehillssays: 44
+Total 28390

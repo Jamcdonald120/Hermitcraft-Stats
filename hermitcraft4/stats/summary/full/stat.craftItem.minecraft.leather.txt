@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.leather
+1: Tango: 96
+2: cubfan135: 15
+Total 111

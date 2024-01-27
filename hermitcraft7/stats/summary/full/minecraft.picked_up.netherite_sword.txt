@@ -1,0 +1,25 @@
+minecraft.picked_up.netherite_sword
+1: GoodTimeWithScar: 80
+2: Grian: 78
+3: Renthedog: 56
+4: iskall85: 43
+5: joehillssays: 38
+6: iJevin: 29
+7: impulseSV: 24
+8: Etho: 22
+9: cubfan135: 20
+10: MumboJumbo: 20
+11: Tango: 16
+12: Docm77: 15
+13: Keralis1: 14
+14: Zedaph: 12
+15: Xisuma: 11
+16: BdoubleO100: 11
+17: xBCrafted: 10
+18: ZombieCleo: 8
+19: hypnotizd: 7
+20: Welsknight: 5
+21: VintageBeef: 3
+22: falsesymmetry: 2
+23: Stressmonster101: 1
+Total 525

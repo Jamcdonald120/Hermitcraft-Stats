@@ -1,0 +1,19 @@
+minecraft.broken.diamond_pickaxe
+1: GoodTimeWithScar: 18
+2: Grian: 15
+3: MumboJumbo: 12
+4: iskall85: 9
+5: cubfan135: 6
+6: Tango: 5
+7: Stressmonster101: 5
+8: joehillssays: 4
+9: falsesymmetry: 4
+10: impulseSV: 3
+11: Keralis1: 2
+12: Docm77: 1
+13: Xisuma: 1
+14: PythonGB: 1
+15: iJevin: 1
+16: Biffa2001: 1
+17: Tinfoilchef: 1
+Total 89

@@ -1,0 +1,29 @@
+minecraft.killed.zombie
+1: Grian: 7598
+2: GoodTimeWithScar: 4606
+3: joehillssays: 3131
+4: VintageBeef: 2781
+5: cubfan135: 2585
+6: falsesymmetry: 1908
+7: Etho: 1650
+8: hypnotizd: 1628
+9: Docm77: 1527
+10: Tango: 1257
+11: iskall85: 1190
+12: MumboJumbo: 1153
+13: Keralis1: 1075
+14: impulseSV: 881
+15: iJevin: 861
+16: xBCrafted: 800
+17: BdoubleO100: 716
+18: Zedaph: 712
+19: Xisuma: 674
+20: Renthedog: 558
+21: HermitcraftAlt: 553
+22: Welsknight: 393
+23: Stressmonster101: 177
+24: ZombieCleo: 128
+25: Tinfoilchef: 47
+26: BarryBoss1234: 2
+27: isGall85: 1
+Total 38592

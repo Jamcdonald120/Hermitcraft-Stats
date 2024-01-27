@@ -1,0 +1,16 @@
+minecraft.picked_up.light_weighted_pressure_plate
+1: VintageBeef: 4982
+2: PearlescentMoon: 2226
+3: RentheKing: 309
+4: cubfan135: 283
+5: Renthedog: 128
+6: impulseSV: 28
+7: iskall85: 13
+8: joehillssays: 8
+9: GeminiTay: 8
+10: Tango: 3
+11: iJevin: 2
+12: ZombieCleo: 2
+13: xBCrafted: 1
+14: Zedaph: 1
+Total 7994

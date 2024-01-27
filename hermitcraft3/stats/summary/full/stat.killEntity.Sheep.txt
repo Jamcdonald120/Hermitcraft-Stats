@@ -1,0 +1,25 @@
+stat.killEntity.Sheep
+1: falsesymmetry: 389
+2: Xisuma: 151
+3: monkeyfarm: 136
+4: Tinfoilchef: 73
+5: hypnotizd: 47
+6: ZombieCleo: 37
+7: Biffa2001: 27
+8: Mumbo: 27
+9: Tango: 24
+10: xBCrafted: 23
+11: topmass: 22
+12: impulseSV: 22
+13: iJevin: 17
+14: zueljin: 11
+15: sl1pg8r: 8
+16: KingDaddyDMAC: 7
+17: Pungence: 7
+18: Spumwackles: 7
+19: Keralis1: 7
+20: skyzm: 6
+21: NameOfSamuel: 4
+22: Etho: 3
+23: Collen: 3
+Total 1058

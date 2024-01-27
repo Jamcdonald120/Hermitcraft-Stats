@@ -1,0 +1,31 @@
+minecraft.mined.oak_trapdoor
+1: GoodTimeWithScar: 266
+2: Keralis1: 140
+3: Etho: 137
+4: Docm77: 101
+5: Xisuma: 91
+6: iJevin: 81
+7: PearlescentMoon: 69
+8: cubfan135: 63
+9: Zedaph: 56
+10: BdoubleO100: 50
+11: xBCrafted: 41
+12: impulseSV: 31
+13: Tango: 29
+14: iskall85: 26
+15: Grian: 24
+16: Renthedog: 19
+17: VintageBeef: 15
+18: GeminiTay: 7
+19: ZombieCleo: 7
+20: Stressmonster101: 6
+21: MythicalSausage: 5
+22: hypnotizd: 5
+23: SolidarityGaming: 4
+24: falsesymmetry: 3
+25: OrionSound: 2
+26: ShubbleYT: 2
+27: Smajor1995: 1
+28: Mumbo: 1
+29: MumboJumbo: 1
+Total 1283

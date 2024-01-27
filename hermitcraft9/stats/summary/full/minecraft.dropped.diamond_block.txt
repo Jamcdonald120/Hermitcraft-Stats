@@ -1,0 +1,27 @@
+minecraft.dropped.diamond_block
+1: xBCrafted: 709
+2: cubfan135: 382
+3: impulseSV: 265
+4: Mumbo: 236
+5: iJevin: 176
+6: RentheKing: 153
+7: VintageBeef: 142
+8: PearlescentMoon: 78
+9: Renthedog: 71
+10: ZombieCleo: 70
+11: Keralis1: 48
+12: GoodTimeWithScar: 35
+13: Grian: 28
+14: GeminiTay: 19
+15: BdoubleO100: 19
+16: hypnotizd: 12
+17: falsesymmetry: 11
+18: Welsknight: 10
+19: Etho: 10
+20: joehillssays: 9
+21: Xisuma: 8
+22: Docm77: 5
+23: Tango: 5
+24: Zedaph: 2
+25: iskall85: 1
+Total 2504

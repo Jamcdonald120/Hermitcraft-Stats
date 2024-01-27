@@ -1,0 +1,35 @@
+minecraft.dropped.torch
+1: iJevin: 1814
+2: Tango: 1693
+3: Grian: 1373
+4: cubfan135: 895
+5: GoodTimeWithScar: 753
+6: Keralis1: 749
+7: falsesymmetry: 747
+8: joehillssays: 652
+9: RentheKing: 420
+10: Docm77: 377
+11: impulseSV: 300
+12: Xisuma: 293
+13: xBCrafted: 282
+14: PearlescentMoon: 262
+15: ZombieCleo: 237
+16: Renthedog: 205
+17: Zedaph: 179
+18: hypnotizd: 159
+19: iskall85: 133
+20: GeminiTay: 124
+21: Etho: 101
+22: BdoubleO100: 75
+23: Smallishbeans: 64
+24: Mumbo: 61
+25: Minerva246: 59
+26: MythicalSausage: 58
+27: VintageBeef: 57
+28: MumboJumbo: 43
+29: Stressmonster101: 39
+30: SolidarityGaming: 14
+31: Smajor1995: 4
+32: Welsknight: 3
+33: Pixlriffs: 1
+Total 12226

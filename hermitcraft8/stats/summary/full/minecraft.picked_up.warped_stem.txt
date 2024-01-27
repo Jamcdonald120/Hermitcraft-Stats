@@ -1,0 +1,23 @@
+minecraft.picked_up.warped_stem
+1: impulseSV: 3635
+2: GoodTimeWithScar: 3221
+3: Grian: 959
+4: Xisuma: 797
+5: joehillssays: 710
+6: Renthedog: 638
+7: PearlescentMoon: 424
+8: Docm77: 414
+9: hypnotizd: 294
+10: Tango: 245
+11: iJevin: 168
+12: Keralis1: 119
+13: Welsknight: 115
+14: cubfan135: 104
+15: BdoubleO100: 103
+16: Stressmonster101: 86
+17: GeminiTay: 65
+18: iskall85: 32
+19: MumboJumbo: 15
+20: EvilXisuma: 1
+21: Zedaph: 1
+Total 12146

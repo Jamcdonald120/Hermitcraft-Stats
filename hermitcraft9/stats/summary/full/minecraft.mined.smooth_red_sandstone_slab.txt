@@ -1,0 +1,5 @@
+minecraft.mined.smooth_red_sandstone_slab
+1: PearlescentMoon: 130
+2: Keralis1: 13
+3: iJevin: 1
+Total 144

@@ -1,0 +1,17 @@
+minecraft.picked_up.campfire
+1: Xisuma: 180
+2: falsesymmetry: 91
+3: GoodTimeWithScar: 81
+4: cubfan135: 53
+5: ZombieCleo: 47
+6: iskall85: 42
+7: Tinfoilchef: 36
+8: BdoubleO100: 32
+9: Keralis1: 29
+10: Renthedog: 23
+11: Docm77: 9
+12: Grian: 5
+13: Tango: 4
+14: Stressmonster101: 3
+15: HumanCleo: 1
+Total 636

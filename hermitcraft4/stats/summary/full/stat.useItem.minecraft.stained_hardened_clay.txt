@@ -1,0 +1,25 @@
+stat.useItem.minecraft.stained_hardened_clay
+1: Xisuma: 56847
+2: cubfan135: 55682
+3: falsesymmetry: 43834
+4: Renthedog: 43498
+5: iskall85: 36824
+6: GoodTimeWithScar: 30929
+7: MumboJumbo: 24887
+8: Tango: 19684
+9: impulseSV: 16881
+10: ZombieCleo: 10151
+11: joehillssays: 9514
+12: Welsknight: 7075
+13: Biffa2001: 5845
+14: Docm77: 4701
+15: VintageBeef: 4498
+16: Etho: 3806
+17: iJevin: 3079
+18: PythonGB: 2276
+19: Mumbo: 1873
+20: zueljin: 883
+21: Tinfoilchef: 667
+22: xBCrafted: 621
+23: Jessassin: 19
+Total 384074

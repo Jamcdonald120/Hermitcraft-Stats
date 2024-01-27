@@ -1,0 +1,25 @@
+minecraft.picked_up.red_bed
+1: hypnotizd: 639
+2: ZombieCleo: 193
+3: Docm77: 177
+4: Renthedog: 158
+5: Tango: 156
+6: cubfan135: 106
+7: iJevin: 99
+8: Grian: 18
+9: joehillssays: 17
+10: Etho: 11
+11: impulseSV: 8
+12: VintageBeef: 6
+13: MythicalSausage: 5
+14: RentheKing: 5
+15: Zedaph: 5
+16: GoodTimeWithScar: 4
+17: iskall85: 3
+18: xBCrafted: 3
+19: GeminiTay: 2
+20: PearlescentMoon: 2
+21: falsesymmetry: 2
+22: Xisuma: 1
+23: BdoubleO100: 1
+Total 1621

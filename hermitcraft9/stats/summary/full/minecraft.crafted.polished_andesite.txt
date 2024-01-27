@@ -1,0 +1,28 @@
+minecraft.crafted.polished_andesite
+1: GoodTimeWithScar: 18192
+2: Renthedog: 8192
+3: cubfan135: 4717
+4: hypnotizd: 3972
+5: impulseSV: 3324
+6: falsesymmetry: 3060
+7: joehillssays: 2113
+8: PearlescentMoon: 1984
+9: Keralis1: 1393
+10: Etho: 1344
+11: GeminiTay: 1024
+12: Xisuma: 897
+13: iskall85: 688
+14: Tango: 644
+15: BdoubleO100: 592
+16: MythicalSausage: 576
+17: Grian: 556
+18: Mumbo: 512
+19: Stressmonster101: 228
+20: iJevin: 104
+21: Pixlriffs: 100
+22: Zedaph: 97
+23: xBCrafted: 84
+24: RentheKing: 68
+25: ZombieCleo: 33
+26: Docm77: 6
+Total 54500

@@ -1,0 +1,22 @@
+stat.pickup.minecraft.vine
+1: falsesymmetry: 1287
+2: cubfan135: 1012
+3: VintageBeef: 921
+4: BdoubleO100: 699
+5: GoodTimeWithScar: 688
+6: Tinfoilchef: 629
+7: Stressmonster101: 613
+8: Xisuma: 597
+9: Docm77: 532
+10: MumboJumbo: 486
+11: impulseSV: 360
+12: PythonGB: 262
+13: joehillssays: 146
+14: Tango: 134
+15: Renthedog: 114
+16: Welsknight: 110
+17: xBCrafted: 89
+18: Zedaph: 79
+19: iskall85: 21
+20: iJevin: 2
+Total 8781

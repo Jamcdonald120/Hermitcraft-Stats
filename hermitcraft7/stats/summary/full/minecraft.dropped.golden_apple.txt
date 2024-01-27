@@ -1,0 +1,15 @@
+minecraft.dropped.golden_apple
+1: Tango: 173
+2: impulseSV: 91
+3: Keralis1: 30
+4: iskall85: 26
+5: GoodTimeWithScar: 20
+6: Grian: 12
+7: xBCrafted: 5
+8: Zedaph: 4
+9: Docm77: 2
+10: cubfan135: 2
+11: BdoubleO100: 1
+12: falsesymmetry: 1
+13: MumboJumbo: 1
+Total 368

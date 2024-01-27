@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.beacon
+1: impulseSV: 31
+2: cubfan135: 21
+3: iskall85: 13
+4: falsesymmetry: 13
+5: Tango: 11
+6: GoodTimeWithScar: 10
+7: Xisuma: 7
+8: PythonGB: 2
+9: iJevin: 2
+10: Welsknight: 2
+11: Tinfoilchef: 2
+12: Docm77: 1
+13: Etho: 1
+14: MumboJumbo: 1
+Total 117

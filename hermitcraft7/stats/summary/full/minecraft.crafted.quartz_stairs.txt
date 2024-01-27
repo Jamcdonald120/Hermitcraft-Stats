@@ -1,0 +1,19 @@
+minecraft.crafted.quartz_stairs
+1: impulseSV: 7196
+2: Keralis1: 5184
+3: Stressmonster101: 724
+4: falsesymmetry: 280
+5: Renthedog: 204
+6: ZombieCleo: 164
+7: Zedaph: 106
+8: Tango: 84
+9: joehillssays: 61
+10: Grian: 56
+11: iskall85: 48
+12: GoodTimeWithScar: 40
+13: MumboJumbo: 32
+14: Docm77: 24
+15: Xisuma: 6
+16: VintageBeef: 5
+17: cubfan135: 4
+Total 14218

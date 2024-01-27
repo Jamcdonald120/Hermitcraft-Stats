@@ -1,0 +1,23 @@
+minecraft.mined.flower_pot
+1: iJevin: 40
+2: GoodTimeWithScar: 31
+3: cubfan135: 18
+4: Keralis1: 17
+5: PearlescentMoon: 15
+6: ZombieCleo: 12
+7: Docm77: 9
+8: falsesymmetry: 9
+9: Renthedog: 8
+10: Grian: 7
+11: hypnotizd: 7
+12: VintageBeef: 6
+13: Etho: 6
+14: iskall85: 4
+15: MythicalSausage: 3
+16: GeminiTay: 3
+17: Tango: 3
+18: impulseSV: 3
+19: Smajor1995: 1
+20: xBCrafted: 1
+21: Stressmonster101: 1
+Total 204

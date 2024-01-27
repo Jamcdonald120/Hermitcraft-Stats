@@ -1,0 +1,5 @@
+minecraft.used.birch_hanging_sign
+1: GoodTimeWithScar: 35
+2: cubfan135: 20
+3: falsesymmetry: 2
+Total 57

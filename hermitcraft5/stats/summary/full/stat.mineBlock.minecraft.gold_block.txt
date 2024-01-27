@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.gold_block
+1: cubfan135: 412
+2: GoodTimeWithScar: 340
+3: falsesymmetry: 182
+4: Renthedog: 111
+5: Xisuma: 94
+6: Welsknight: 84
+7: iskall85: 78
+8: impulseSV: 61
+9: ZombieCleo: 48
+10: PythonGB: 27
+11: Biffa2001: 18
+12: Tango: 17
+13: MumboJumbo: 9
+14: iJevin: 8
+15: Zedaph: 4
+16: joehillssays: 3
+17: BdoubleO100: 1
+Total 1497

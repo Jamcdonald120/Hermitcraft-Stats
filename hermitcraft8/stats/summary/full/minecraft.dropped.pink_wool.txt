@@ -1,0 +1,7 @@
+minecraft.dropped.pink_wool
+1: Zedaph: 227
+2: GeminiTay: 192
+3: PearlescentMoon: 122
+4: Grian: 5
+5: BdoubleO100: 2
+Total 548

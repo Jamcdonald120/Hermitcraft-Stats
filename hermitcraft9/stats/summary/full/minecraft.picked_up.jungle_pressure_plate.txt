@@ -1,0 +1,5 @@
+minecraft.picked_up.jungle_pressure_plate
+1: VintageBeef: 10
+2: GoodTimeWithScar: 2
+3: Etho: 1
+Total 13

@@ -1,0 +1,9 @@
+minecraft.dropped.orange_dye
+1: GoodTimeWithScar: 70
+2: Stressmonster101: 29
+3: Renthedog: 8
+4: Zedaph: 4
+5: falsesymmetry: 2
+6: Xisuma: 1
+7: Grian: 1
+Total 115

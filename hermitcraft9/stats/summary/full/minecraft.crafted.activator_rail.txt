@@ -1,0 +1,11 @@
+minecraft.crafted.activator_rail
+1: Tango: 1266
+2: Docm77: 390
+3: impulseSV: 174
+4: Xisuma: 132
+5: xBCrafted: 24
+6: iJevin: 18
+7: Etho: 18
+8: cubfan135: 12
+9: GoodTimeWithScar: 12
+Total 2046

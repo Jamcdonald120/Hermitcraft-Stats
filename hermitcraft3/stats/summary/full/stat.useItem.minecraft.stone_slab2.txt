@@ -1,0 +1,8 @@
+stat.useItem.minecraft.stone_slab2
+1: Tango: 611
+2: zueljin: 195
+3: Xisuma: 194
+4: xBCrafted: 151
+5: KingDaddyDMAC: 17
+6: falsesymmetry: 1
+Total 1169

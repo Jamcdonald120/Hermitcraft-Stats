@@ -1,0 +1,9 @@
+stat.useItem.minecraft.cobblestone_wall
+1: Tango: 291
+2: falsesymmetry: 256
+3: Tinfoilchef: 100
+4: zueljin: 67
+5: xBCrafted: 64
+6: Biffa2001: 3
+7: ZombieCleo: 1
+Total 782

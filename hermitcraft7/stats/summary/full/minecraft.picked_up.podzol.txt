@@ -1,0 +1,23 @@
+minecraft.picked_up.podzol
+1: cubfan135: 41313
+2: Xisuma: 10233
+3: joehillssays: 4222
+4: GoodTimeWithScar: 4140
+5: VintageBeef: 3047
+6: xBCrafted: 2251
+7: Zedaph: 1911
+8: BdoubleO100: 952
+9: Etho: 945
+10: Grian: 912
+11: MumboJumbo: 473
+12: Renthedog: 390
+13: Keralis1: 168
+14: hypnotizd: 135
+15: iskall85: 134
+16: Tango: 133
+17: Stressmonster101: 42
+18: ZombieCleo: 30
+19: falsesymmetry: 22
+20: impulseSV: 6
+21: iJevin: 2
+Total 71461

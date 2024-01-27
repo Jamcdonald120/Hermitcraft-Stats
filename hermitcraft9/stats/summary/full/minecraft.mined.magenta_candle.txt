@@ -1,0 +1,4 @@
+minecraft.mined.magenta_candle
+1: hypnotizd: 3
+2: Tango: 1
+Total 4

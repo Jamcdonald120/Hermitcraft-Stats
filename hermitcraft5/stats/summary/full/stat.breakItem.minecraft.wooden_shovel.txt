@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.wooden_shovel
+1: Zedaph: 2
+2: Renthedog: 1
+Total 3

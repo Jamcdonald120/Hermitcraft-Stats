@@ -1,0 +1,23 @@
+minecraft.mined.end_stone_bricks
+1: PearlescentMoon: 417
+2: joehillssays: 338
+3: iJevin: 325
+4: Renthedog: 248
+5: impulseSV: 166
+6: cubfan135: 135
+7: Xisuma: 109
+8: xBCrafted: 91
+9: Etho: 83
+10: Tango: 82
+11: Zedaph: 61
+12: GoodTimeWithScar: 60
+13: Keralis1: 54
+14: Docm77: 53
+15: falsesymmetry: 52
+16: hypnotizd: 33
+17: iskall85: 26
+18: VintageBeef: 21
+19: GeminiTay: 12
+20: Grian: 7
+21: ZombieCleo: 7
+Total 2380

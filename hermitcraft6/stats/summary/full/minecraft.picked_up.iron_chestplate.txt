@@ -1,0 +1,29 @@
+minecraft.picked_up.iron_chestplate
+1: Tango: 29
+2: cubfan135: 28
+3: Grian: 27
+4: iskall85: 26
+5: GoodTimeWithScar: 21
+6: falsesymmetry: 20
+7: Tinfoilchef: 20
+8: Docm77: 12
+9: iJevin: 12
+10: joehillssays: 12
+11: Renthedog: 11
+12: PythonGB: 10
+13: ZombieCleo: 9
+14: Xisuma: 7
+15: Zedaph: 7
+16: MumboJumbo: 6
+17: Stressmonster101: 5
+18: Keralis1: 5
+19: Biffa2001: 3
+20: BdoubleO100: 2
+21: impulseSV: 2
+22: EvilXisuma: 1
+23: PokePugx: 1
+24: Cub_Cam: 1
+25: xBCrafted: 1
+26: Cojomax99: 1
+27: PhoenixfireLune: 1
+Total 280

@@ -1,0 +1,26 @@
+minecraft.crafted.gold_block
+1: Tango: 32494
+2: Xisuma: 6374
+3: Stressmonster101: 2963
+4: iJevin: 1704
+5: cubfan135: 1537
+6: iskall85: 1526
+7: Docm77: 1060
+8: impulseSV: 727
+9: Renthedog: 430
+10: Zedaph: 305
+11: Grian: 239
+12: GoodTimeWithScar: 191
+13: hypnotizd: 171
+14: RentheKing: 163
+15: VintageBeef: 86
+16: Etho: 84
+17: PearlescentMoon: 78
+18: xBCrafted: 50
+19: joehillssays: 41
+20: Keralis1: 39
+21: BdoubleO100: 35
+22: ZombieCleo: 14
+23: MythicalSausage: 7
+24: falsesymmetry: 7
+Total 50325

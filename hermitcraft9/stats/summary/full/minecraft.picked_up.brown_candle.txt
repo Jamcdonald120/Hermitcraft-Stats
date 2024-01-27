@@ -1,0 +1,13 @@
+minecraft.picked_up.brown_candle
+1: iJevin: 310
+2: GoodTimeWithScar: 15
+3: ZombieCleo: 6
+4: hypnotizd: 4
+5: PearlescentMoon: 3
+6: cubfan135: 3
+7: Grian: 2
+8: Mumbo: 2
+9: falsesymmetry: 1
+10: impulseSV: 1
+11: Zedaph: 1
+Total 348

@@ -1,0 +1,9 @@
+minecraft.dropped.smooth_quartz
+1: Renthedog: 70
+2: Grian: 66
+3: cubfan135: 47
+4: GoodTimeWithScar: 35
+5: Keralis1: 5
+6: Xisuma: 1
+7: iskall85: 1
+Total 225

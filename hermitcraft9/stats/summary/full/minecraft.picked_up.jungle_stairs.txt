@@ -1,0 +1,12 @@
+minecraft.picked_up.jungle_stairs
+1: GoodTimeWithScar: 750
+2: PearlescentMoon: 79
+3: impulseSV: 32
+4: Etho: 31
+5: Xisuma: 29
+6: cubfan135: 21
+7: Renthedog: 19
+8: Docm77: 3
+9: Keralis1: 3
+10: BdoubleO100: 2
+Total 969

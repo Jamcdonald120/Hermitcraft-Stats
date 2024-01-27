@@ -1,0 +1,7 @@
+minecraft.dropped.smooth_quartz_slab
+1: cubfan135: 206
+2: GoodTimeWithScar: 74
+3: Xisuma: 6
+4: BdoubleO100: 2
+5: PythonGB: 1
+Total 289

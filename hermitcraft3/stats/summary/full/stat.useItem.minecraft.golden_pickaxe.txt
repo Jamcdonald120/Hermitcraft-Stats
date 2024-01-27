@@ -1,0 +1,3 @@
+stat.useItem.minecraft.golden_pickaxe
+1: Tinfoilchef: 33
+Total 33

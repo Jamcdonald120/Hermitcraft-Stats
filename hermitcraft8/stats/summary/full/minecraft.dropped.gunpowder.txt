@@ -1,0 +1,26 @@
+minecraft.dropped.gunpowder
+1: Xisuma: 5085
+2: Tango: 4217
+3: iJevin: 368
+4: Grian: 365
+5: Zedaph: 198
+6: hypnotizd: 172
+7: Keralis1: 168
+8: GoodTimeWithScar: 157
+9: impulseSV: 152
+10: Docm77: 137
+11: xBCrafted: 112
+12: Renthedog: 100
+13: MumboJumbo: 87
+14: PearlescentMoon: 78
+15: BdoubleO100: 71
+16: iskall85: 42
+17: Etho: 33
+18: falsesymmetry: 31
+19: cubfan135: 31
+20: GeminiTay: 16
+21: Welsknight: 15
+22: VintageBeef: 4
+23: joehillssays: 2
+24: Stressmonster101: 2
+Total 11643

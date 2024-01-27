@@ -1,0 +1,10 @@
+minecraft.picked_up.tube_coral_fan
+1: GoodTimeWithScar: 1137
+2: cubfan135: 1103
+3: Grian: 287
+4: iJevin: 84
+5: Xisuma: 56
+6: Docm77: 34
+7: iskall85: 6
+8: Tango: 1
+Total 2708

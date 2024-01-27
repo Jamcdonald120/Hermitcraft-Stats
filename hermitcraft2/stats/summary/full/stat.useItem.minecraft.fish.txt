@@ -1,0 +1,5 @@
+stat.useItem.minecraft.fish
+1: sl1pg8r: 6
+2: Tango: 3
+3: Xisuma: 1
+Total 10

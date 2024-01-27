@@ -1,0 +1,27 @@
+minecraft.picked_up.cod
+1: impulseSV: 25845
+2: Grian: 2661
+3: Tango: 1917
+4: Etho: 1096
+5: GoodTimeWithScar: 1042
+6: falsesymmetry: 932
+7: MumboJumbo: 774
+8: Renthedog: 546
+9: Xisuma: 503
+10: Zedaph: 333
+11: iJevin: 292
+12: VintageBeef: 208
+13: cubfan135: 149
+14: xBCrafted: 110
+15: hypnotizd: 108
+16: BdoubleO100: 106
+17: Keralis1: 70
+18: Docm77: 58
+19: ZombieCleo: 58
+20: Stressmonster101: 48
+21: HermitcraftAlt: 20
+22: joehillssays: 14
+23: xisumavoid: 14
+24: iskall85: 5
+25: isGall85: 2
+Total 36911

@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.clock
+1: Tinfoilchef: 12
+2: falsesymmetry: 9
+3: Tango: 4
+4: iJevin: 2
+Total 27

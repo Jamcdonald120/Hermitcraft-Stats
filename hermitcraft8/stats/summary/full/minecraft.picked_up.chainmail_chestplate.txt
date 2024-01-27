@@ -1,0 +1,22 @@
+minecraft.picked_up.chainmail_chestplate
+1: Tango: 19
+2: Xisuma: 14
+3: Docm77: 7
+4: Grian: 7
+5: hypnotizd: 6
+6: GoodTimeWithScar: 5
+7: falsesymmetry: 4
+8: BdoubleO100: 2
+9: Etho: 2
+10: impulseSV: 2
+11: Renthedog: 1
+12: iJevin: 1
+13: joehillssays: 1
+14: PearlescentMoon: 1
+15: iskall85: 1
+16: xBCrafted: 1
+17: cubfan135: 1
+18: ZombieCleo: 1
+19: Stressmonster101: 1
+20: Keralis1: 1
+Total 78

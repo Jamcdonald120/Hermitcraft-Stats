@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.magma_cream
+1: impulseSV: 37
+2: zueljin: 14
+3: xBCrafted: 14
+4: Tinfoilchef: 14
+5: falsesymmetry: 11
+6: Xisuma: 8
+7: iJevin: 8
+8: KingDaddyDMAC: 3
+9: Etho: 2
+10: Biffa2001: 1
+11: Mumbo: 1
+Total 113

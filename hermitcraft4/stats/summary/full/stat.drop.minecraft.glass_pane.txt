@@ -1,0 +1,4 @@
+stat.drop.minecraft.glass_pane
+1: Tango: 64
+2: Tinfoilchef: 8
+Total 72

@@ -1,0 +1,20 @@
+minecraft.used.purpur_block
+1: falsesymmetry: 547
+2: impulseSV: 446
+3: GoodTimeWithScar: 409
+4: iskall85: 168
+5: joehillssays: 118
+6: MumboJumbo: 69
+7: Keralis1: 57
+8: Tango: 33
+9: cubfan135: 30
+10: Xisuma: 27
+11: VintageBeef: 27
+12: Etho: 27
+13: Renthedog: 11
+14: Zedaph: 9
+15: xBCrafted: 7
+16: iJevin: 3
+17: Grian: 3
+18: Docm77: 2
+Total 1993

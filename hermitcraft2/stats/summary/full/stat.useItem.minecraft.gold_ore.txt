@@ -1,0 +1,4 @@
+stat.useItem.minecraft.gold_ore
+1: Spumwackles: 86
+2: ZombieCleo: 1
+Total 87

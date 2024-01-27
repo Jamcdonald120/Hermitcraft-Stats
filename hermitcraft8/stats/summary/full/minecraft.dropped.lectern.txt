@@ -1,0 +1,4 @@
+minecraft.dropped.lectern
+1: PearlescentMoon: 1
+2: GoodTimeWithScar: 1
+Total 2

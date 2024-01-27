@@ -1,0 +1,16 @@
+minecraft.crafted.red_banner
+1: ZombieCleo: 211
+2: Xisuma: 128
+3: Keralis1: 37
+4: Tango: 15
+5: BdoubleO100: 14
+6: cubfan135: 14
+7: impulseSV: 13
+8: Renthedog: 10
+9: Docm77: 8
+10: Welsknight: 6
+11: GoodTimeWithScar: 5
+12: Grian: 3
+13: Zedaph: 2
+14: joehillssays: 1
+Total 467

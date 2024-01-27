@@ -1,0 +1,31 @@
+stat.deaths
+1: Renthedog: 347
+2: GoodTimeWithScar: 167
+3: iskall85: 148
+4: Tango: 98
+5: Xisuma: 93
+6: MumboJumbo: 79
+7: cubfan135: 74
+8: PythonGB: 62
+9: impulseSV: 59
+10: Tinfoilchef: 47
+11: Docm77: 45
+12: falsesymmetry: 42
+13: iJevin: 40
+14: joehillssays: 38
+15: Welsknight: 28
+16: Etho: 27
+17: ZombieCleo: 24
+18: Biffa2001: 19
+19: VintageBeef: 12
+20: Jessassin: 4
+21: EvilXisuma: 3
+22: xisumavoid: 3
+23: zueljin: 2
+24: xBCrafted: 2
+25: Mumbo: 2
+26: TangoCam: 2
+27: monkeyfarm: 2
+28: Cub_Cam: 1
+29: hypnotizd: 1
+Total 1471

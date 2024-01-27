@@ -1,0 +1,22 @@
+minecraft.picked_up.poisonous_potato
+1: Zedaph: 126
+2: Grian: 100
+3: PearlescentMoon: 43
+4: GoodTimeWithScar: 30
+5: MumboJumbo: 23
+6: xBCrafted: 16
+7: cubfan135: 15
+8: falsesymmetry: 11
+9: Welsknight: 9
+10: joehillssays: 8
+11: Xisuma: 7
+12: Etho: 7
+13: pillbugnine: 5
+14: BdoubleO100: 5
+15: iskall85: 4
+16: Tango: 3
+17: Renthedog: 2
+18: Docm77: 1
+19: ZombieCleo: 1
+20: impulseSV: 1
+Total 417

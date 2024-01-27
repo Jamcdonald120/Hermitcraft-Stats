@@ -1,0 +1,25 @@
+minecraft.picked_up.cooked_beef
+1: Tango: 3826
+2: GoodTimeWithScar: 3164
+3: impulseSV: 2553
+4: falsesymmetry: 2488
+5: Renthedog: 1792
+6: BdoubleO100: 1125
+7: Grian: 572
+8: Zedaph: 539
+9: ZombieCleo: 441
+10: Welsknight: 388
+11: Stressmonster101: 249
+12: cubfan135: 229
+13: Xisuma: 194
+14: iJevin: 188
+15: Keralis1: 187
+16: joehillssays: 165
+17: iskall85: 149
+18: PythonGB: 112
+19: Biffa2001: 23
+20: EvilXisuma: 21
+21: MumboJumbo: 13
+22: BadTimeWithScar: 13
+23: HumanCleo: 2
+Total 18433

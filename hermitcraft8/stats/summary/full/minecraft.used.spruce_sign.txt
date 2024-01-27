@@ -1,0 +1,25 @@
+minecraft.used.spruce_sign
+1: GoodTimeWithScar: 1248
+2: Xisuma: 461
+3: PearlescentMoon: 449
+4: Tango: 252
+5: Grian: 216
+6: GeminiTay: 188
+7: iJevin: 108
+8: BdoubleO100: 78
+9: Welsknight: 72
+10: joehillssays: 51
+11: xBCrafted: 29
+12: VintageBeef: 22
+13: falsesymmetry: 21
+14: hypnotizd: 18
+15: iskall85: 16
+16: cubfan135: 15
+17: Keralis1: 15
+18: Renthedog: 10
+19: Etho: 10
+20: impulseSV: 8
+21: Docm77: 7
+22: ZombieCleo: 5
+23: Stressmonster101: 5
+Total 3304

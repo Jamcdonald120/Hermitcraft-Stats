@@ -1,0 +1,12 @@
+minecraft.dropped.yellow_carpet
+1: VintageBeef: 197
+2: joehillssays: 37
+3: Tango: 31
+4: GoodTimeWithScar: 29
+5: Keralis1: 14
+6: iskall85: 10
+7: MumboJumbo: 7
+8: Zedaph: 6
+9: cubfan135: 2
+10: Etho: 1
+Total 334

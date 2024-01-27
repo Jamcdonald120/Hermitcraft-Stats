@@ -1,0 +1,7 @@
+minecraft.crafted.chiseled_quartz_block
+1: Keralis1: 40
+2: xBCrafted: 32
+3: VintageBeef: 21
+4: cubfan135: 1
+5: Welsknight: 1
+Total 95

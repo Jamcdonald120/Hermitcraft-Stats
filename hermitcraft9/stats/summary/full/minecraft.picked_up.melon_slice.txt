@@ -1,0 +1,24 @@
+minecraft.picked_up.melon_slice
+1: iJevin: 12429
+2: ZombieCleo: 3573
+3: cubfan135: 735
+4: Stressmonster101: 252
+5: joehillssays: 214
+6: Zedaph: 190
+7: BdoubleO100: 189
+8: falsesymmetry: 165
+9: Tango: 160
+10: Etho: 118
+11: VintageBeef: 66
+12: Renthedog: 64
+13: hypnotizd: 59
+14: iskall85: 48
+15: GeminiTay: 44
+16: Xisuma: 41
+17: impulseSV: 38
+18: Docm77: 23
+19: PearlescentMoon: 19
+20: Grian: 18
+21: GoodTimeWithScar: 16
+22: Keralis1: 3
+Total 18464

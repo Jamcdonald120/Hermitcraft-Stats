@@ -1,0 +1,24 @@
+stat.pickup.minecraft.cooked_beef
+1: GoodTimeWithScar: 4489
+2: Renthedog: 3254
+3: iJevin: 2709
+4: Xisuma: 1960
+5: Tango: 1809
+6: Zedaph: 1616
+7: cubfan135: 1039
+8: joehillssays: 954
+9: Tinfoilchef: 596
+10: impulseSV: 484
+11: falsesymmetry: 389
+12: iskall85: 382
+13: Docm77: 262
+14: Etho: 178
+15: Welsknight: 151
+16: Stressmonster101: 94
+17: VintageBeef: 81
+18: Biffa2001: 24
+19: MumboJumbo: 18
+20: PythonGB: 14
+21: xBCrafted: 11
+22: EvilXisuma: 1
+Total 20515

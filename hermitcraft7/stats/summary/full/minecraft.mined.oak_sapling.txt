@@ -1,0 +1,24 @@
+minecraft.mined.oak_sapling
+1: Renthedog: 235
+2: GoodTimeWithScar: 114
+3: joehillssays: 64
+4: BdoubleO100: 52
+5: iskall85: 46
+6: Zedaph: 29
+7: Grian: 28
+8: Keralis1: 28
+9: ZombieCleo: 24
+10: Docm77: 15
+11: Xisuma: 11
+12: VintageBeef: 9
+13: xBCrafted: 9
+14: Tinfoilchef: 8
+15: falsesymmetry: 7
+16: Etho: 6
+17: cubfan135: 4
+18: Tango: 3
+19: hypnotizd: 2
+20: MumboJumbo: 2
+21: Stressmonster101: 2
+22: impulseSV: 2
+Total 700

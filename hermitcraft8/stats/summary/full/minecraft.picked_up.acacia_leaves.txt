@@ -1,0 +1,13 @@
+minecraft.picked_up.acacia_leaves
+1: GoodTimeWithScar: 1589
+2: Keralis1: 301
+3: cubfan135: 200
+4: MumboJumbo: 177
+5: ZombieCleo: 167
+6: Etho: 74
+7: PearlescentMoon: 61
+8: Xisuma: 57
+9: iskall85: 6
+10: Docm77: 1
+11: joehillssays: 1
+Total 2634

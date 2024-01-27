@@ -1,0 +1,21 @@
+minecraft.dropped.flint_and_steel
+1: Zedaph: 66
+2: Etho: 30
+3: iskall85: 13
+4: Tango: 11
+5: cubfan135: 9
+6: iJevin: 7
+7: Grian: 6
+8: MumboJumbo: 6
+9: Keralis1: 6
+10: impulseSV: 6
+11: GoodTimeWithScar: 5
+12: Renthedog: 4
+13: Xisuma: 3
+14: Stressmonster101: 2
+15: Docm77: 1
+16: BdoubleO100: 1
+17: xBCrafted: 1
+18: ZombieCleo: 1
+19: hypnotizd: 1
+Total 179

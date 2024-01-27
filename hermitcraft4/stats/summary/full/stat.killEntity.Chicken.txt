@@ -1,0 +1,20 @@
+stat.killEntity.Chicken
+1: Tango: 790
+2: impulseSV: 726
+3: cubfan135: 538
+4: Renthedog: 419
+5: iskall85: 251
+6: GoodTimeWithScar: 250
+7: Mumbo: 118
+8: iJevin: 100
+9: Xisuma: 95
+10: ZombieCleo: 93
+11: Tinfoilchef: 90
+12: joehillssays: 80
+13: MumboJumbo: 55
+14: falsesymmetry: 48
+15: xBCrafted: 22
+16: Welsknight: 8
+17: Docm77: 6
+18: Biffa2001: 3
+Total 3692

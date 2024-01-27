@@ -1,0 +1,6 @@
+minecraft.crafted.pink_candle
+1: hypnotizd: 1796
+2: Tango: 5
+3: impulseSV: 1
+4: Zedaph: 1
+Total 1803

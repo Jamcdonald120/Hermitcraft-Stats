@@ -1,0 +1,22 @@
+minecraft.picked_up.nether_wart
+1: cubfan135: 28796
+2: impulseSV: 26527
+3: Zedaph: 11550
+4: Xisuma: 8758
+5: Renthedog: 2560
+6: Tango: 1226
+7: Biffa2001: 1158
+8: iJevin: 1066
+9: falsesymmetry: 731
+10: joehillssays: 701
+11: GoodTimeWithScar: 544
+12: Grian: 174
+13: iskall85: 164
+14: ZombieCleo: 112
+15: Stressmonster101: 90
+16: MumboJumbo: 29
+17: HumanCleo: 23
+18: BdoubleO100: 9
+19: Docm77: 1
+20: Keralis1: 1
+Total 84220

@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.sign
+1: cubfan135: 4327
+2: Renthedog: 1576
+3: falsesymmetry: 1192
+4: impulseSV: 1047
+5: MumboJumbo: 1026
+6: iskall85: 566
+7: joehillssays: 514
+8: GoodTimeWithScar: 495
+9: Tango: 399
+10: Xisuma: 315
+11: PythonGB: 306
+12: Zedaph: 240
+13: xBCrafted: 183
+14: Stressmonster101: 150
+15: Docm77: 132
+16: Welsknight: 99
+17: Tinfoilchef: 84
+18: BdoubleO100: 60
+19: Biffa2001: 51
+20: ZombieCleo: 48
+21: iJevin: 36
+22: Etho: 33
+23: VintageBeef: 15
+Total 12894

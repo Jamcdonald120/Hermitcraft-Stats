@@ -1,0 +1,10 @@
+stat.useItem.minecraft.acacia_stairs
+1: PythonGB: 459
+2: Xisuma: 385
+3: GoodTimeWithScar: 78
+4: VintageBeef: 59
+5: Mumbo: 53
+6: cubfan135: 13
+7: joehillssays: 12
+8: falsesymmetry: 6
+Total 1065

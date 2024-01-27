@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.iron_ingot
+1: GoodTimeWithScar: 33731
+2: Tango: 32529
+3: cubfan135: 27042
+4: Renthedog: 25706
+5: Xisuma: 21890
+6: impulseSV: 16139
+7: MumboJumbo: 13601
+8: iskall85: 11619
+9: Zedaph: 9582
+10: falsesymmetry: 7386
+11: Tinfoilchef: 6693
+12: Welsknight: 5160
+13: xBCrafted: 5103
+14: PythonGB: 3852
+15: Etho: 3605
+16: iJevin: 2612
+17: Stressmonster101: 2102
+18: joehillssays: 2042
+19: Biffa2001: 1766
+20: VintageBeef: 772
+21: Docm77: 762
+22: ZombieCleo: 736
+23: BdoubleO100: 597
+Total 235027

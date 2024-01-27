@@ -1,0 +1,15 @@
+stat.useItem.minecraft.iron_trapdoor
+1: falsesymmetry: 1094
+2: xBCrafted: 540
+3: Xisuma: 257
+4: impulseSV: 178
+5: Tango: 94
+6: sl1pg8r: 21
+7: topmass: 21
+8: ZombieCleo: 17
+9: zueljin: 5
+10: monkeyfarm: 3
+11: PythonGB: 2
+12: Biffa2001: 1
+13: Mumbo: 1
+Total 2234

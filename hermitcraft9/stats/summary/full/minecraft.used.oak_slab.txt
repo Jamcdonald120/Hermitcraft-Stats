@@ -1,0 +1,30 @@
+minecraft.used.oak_slab
+1: Keralis1: 2034
+2: Etho: 1685
+3: Docm77: 827
+4: cubfan135: 815
+5: PearlescentMoon: 650
+6: xBCrafted: 558
+7: ZombieCleo: 539
+8: VintageBeef: 451
+9: Tango: 281
+10: Renthedog: 267
+11: Xisuma: 250
+12: impulseSV: 217
+13: iskall85: 197
+14: BdoubleO100: 179
+15: iJevin: 154
+16: Grian: 137
+17: Pixlriffs: 107
+18: hypnotizd: 93
+19: GoodTimeWithScar: 85
+20: Stressmonster101: 79
+21: SolidarityGaming: 66
+22: GeminiTay: 40
+23: falsesymmetry: 30
+24: Mumbo: 30
+25: Welsknight: 29
+26: Zedaph: 28
+27: MumboJumbo: 3
+28: MythicalSausage: 2
+Total 9833

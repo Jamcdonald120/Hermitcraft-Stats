@@ -1,0 +1,19 @@
+stat.useItem.minecraft.lapis_ore
+1: falsesymmetry: 323
+2: PythonGB: 195
+3: Biffa2001: 66
+4: iJevin: 63
+5: Etho: 60
+6: Tango: 54
+7: MumboJumbo: 37
+8: ZombieCleo: 32
+9: Welsknight: 31
+10: cubfan135: 30
+11: impulseSV: 17
+12: Jessassin: 14
+13: Renthedog: 6
+14: VintageBeef: 4
+15: iskall85: 4
+16: Xisuma: 3
+17: joehillssays: 2
+Total 941

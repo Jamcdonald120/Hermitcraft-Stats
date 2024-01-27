@@ -1,0 +1,20 @@
+minecraft.picked_up.pink_terracotta
+1: VintageBeef: 501
+2: joehillssays: 469
+3: Grian: 318
+4: PearlescentMoon: 288
+5: ZombieCleo: 192
+6: Docm77: 147
+7: impulseSV: 129
+8: GeminiTay: 30
+9: cubfan135: 9
+10: Zedaph: 8
+11: falsesymmetry: 7
+12: GoodTimeWithScar: 7
+13: RentheKing: 5
+14: Etho: 4
+15: Tango: 2
+16: BdoubleO100: 2
+17: Xisuma: 1
+18: Stressmonster101: 1
+Total 2120

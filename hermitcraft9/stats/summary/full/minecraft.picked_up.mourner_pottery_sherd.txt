@@ -1,0 +1,9 @@
+minecraft.picked_up.mourner_pottery_sherd
+1: PearlescentMoon: 10
+2: cubfan135: 10
+3: Zedaph: 5
+4: Grian: 4
+5: falsesymmetry: 4
+6: Etho: 4
+7: Mumbo: 3
+Total 40

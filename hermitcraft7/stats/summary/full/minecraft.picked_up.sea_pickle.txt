@@ -1,0 +1,22 @@
+minecraft.picked_up.sea_pickle
+1: cubfan135: 1248
+2: hypnotizd: 651
+3: joehillssays: 607
+4: Etho: 513
+5: Xisuma: 270
+6: Keralis1: 174
+7: impulseSV: 164
+8: BdoubleO100: 150
+9: Tango: 145
+10: Zedaph: 139
+11: xBCrafted: 101
+12: Grian: 66
+13: VintageBeef: 60
+14: falsesymmetry: 49
+15: GoodTimeWithScar: 43
+16: Docm77: 26
+17: Stressmonster101: 20
+18: Renthedog: 15
+19: iskall85: 11
+20: MumboJumbo: 4
+Total 4456

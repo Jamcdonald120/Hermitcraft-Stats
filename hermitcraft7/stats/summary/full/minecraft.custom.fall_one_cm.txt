@@ -1,0 +1,31 @@
+minecraft.custom.fall_one_cm
+1: GoodTimeWithScar: 26379027
+2: Grian: 25168004
+3: cubfan135: 19870679
+4: iskall85: 15505762
+5: Keralis1: 15086952
+6: joehillssays: 14028426
+7: Tango: 13496585
+8: Xisuma: 12506041
+9: Renthedog: 11848389
+10: Etho: 11556307
+11: BdoubleO100: 9148593
+12: MumboJumbo: 8472889
+13: falsesymmetry: 8381299
+14: impulseSV: 7430487
+15: Zedaph: 6225232
+16: VintageBeef: 5946354
+17: Docm77: 5676509
+18: iJevin: 5505578
+19: xBCrafted: 3781304
+20: hypnotizd: 3490848
+21: Stressmonster101: 3091788
+22: Welsknight: 2125209
+23: ZombieCleo: 1310768
+24: Tinfoilchef: 167382
+25: BarryBoss1234: 97319
+26: TangoCam: 15904
+27: Helsknight_: 11454
+28: xisumavoid: 659
+29: ZedCam: 267
+Total 236326015

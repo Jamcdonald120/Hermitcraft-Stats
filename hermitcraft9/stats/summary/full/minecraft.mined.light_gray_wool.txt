@@ -1,0 +1,21 @@
+minecraft.mined.light_gray_wool
+1: ZombieCleo: 792
+2: GoodTimeWithScar: 531
+3: PearlescentMoon: 301
+4: Grian: 230
+5: Tango: 139
+6: Renthedog: 108
+7: VintageBeef: 53
+8: cubfan135: 42
+9: BdoubleO100: 38
+10: Docm77: 25
+11: impulseSV: 25
+12: falsesymmetry: 17
+13: GeminiTay: 7
+14: iJevin: 6
+15: Keralis1: 5
+16: Stressmonster101: 2
+17: Zedaph: 2
+18: Xisuma: 1
+19: MythicalSausage: 1
+Total 2325

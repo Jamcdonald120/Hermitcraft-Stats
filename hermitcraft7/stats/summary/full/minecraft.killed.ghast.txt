@@ -1,0 +1,25 @@
+minecraft.killed.ghast
+1: VintageBeef: 738
+2: GoodTimeWithScar: 342
+3: Renthedog: 276
+4: Grian: 275
+5: cubfan135: 273
+6: Etho: 199
+7: Xisuma: 171
+8: Tango: 142
+9: falsesymmetry: 136
+10: xBCrafted: 122
+11: Stressmonster101: 119
+12: impulseSV: 100
+13: iskall85: 99
+14: hypnotizd: 83
+15: MumboJumbo: 77
+16: joehillssays: 71
+17: Zedaph: 67
+18: iJevin: 55
+19: Keralis1: 21
+20: Welsknight: 15
+21: BdoubleO100: 14
+22: Docm77: 7
+23: Tinfoilchef: 1
+Total 3403

@@ -1,0 +1,6 @@
+minecraft.dropped.smooth_sandstone_slab
+1: Docm77: 20
+2: GoodTimeWithScar: 10
+3: PearlescentMoon: 1
+4: Zedaph: 1
+Total 32

@@ -1,0 +1,17 @@
+minecraft.picked_up.brick_stairs
+1: Etho: 334
+2: Keralis1: 148
+3: cubfan135: 125
+4: xBCrafted: 87
+5: iJevin: 54
+6: joehillssays: 31
+7: Zedaph: 25
+8: Xisuma: 24
+9: VintageBeef: 14
+10: Grian: 14
+11: GoodTimeWithScar: 14
+12: impulseSV: 14
+13: BdoubleO100: 11
+14: iskall85: 9
+15: Tango: 2
+Total 906

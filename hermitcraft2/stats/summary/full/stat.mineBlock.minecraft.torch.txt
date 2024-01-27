@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.torch
+1: Xisuma: 2132
+2: falsesymmetry: 925
+3: Tango: 616
+4: ZombieCleo: 293
+5: zueljin: 192
+6: Biffa2001: 162
+7: xBCrafted: 138
+8: sl1pg8r: 56
+9: iJevin: 43
+10: Tinfoilchef: 40
+11: Spumwackles: 28
+12: Mumbo: 24
+13: KingDaddyDMAC: 17
+14: monkeyfarm: 17
+15: NameOfSamuel: 13
+16: Collen: 10
+Total 4706

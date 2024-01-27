@@ -1,0 +1,22 @@
+stat.drop.minecraft.stonebrick
+1: Renthedog: 1430
+2: cubfan135: 1026
+3: iskall85: 878
+4: Zedaph: 822
+5: MumboJumbo: 799
+6: falsesymmetry: 781
+7: impulseSV: 299
+8: joehillssays: 256
+9: iJevin: 232
+10: Tango: 231
+11: GoodTimeWithScar: 226
+12: Xisuma: 102
+13: Welsknight: 85
+14: Biffa2001: 63
+15: PythonGB: 56
+16: Docm77: 41
+17: xBCrafted: 7
+18: BdoubleO100: 6
+19: Etho: 5
+20: Stressmonster101: 3
+Total 7348

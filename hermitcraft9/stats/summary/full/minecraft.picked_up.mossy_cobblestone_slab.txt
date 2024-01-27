@@ -1,0 +1,22 @@
+minecraft.picked_up.mossy_cobblestone_slab
+1: Tango: 275
+2: GoodTimeWithScar: 84
+3: MythicalSausage: 67
+4: iJevin: 51
+5: Grian: 51
+6: falsesymmetry: 36
+7: Docm77: 21
+8: iskall85: 16
+9: BdoubleO100: 11
+10: Renthedog: 10
+11: PearlescentMoon: 8
+12: cubfan135: 6
+13: Zedaph: 6
+14: Stressmonster101: 5
+15: Keralis1: 5
+16: Xisuma: 2
+17: joehillssays: 2
+18: GeminiTay: 1
+19: ZombieCleo: 1
+20: impulseSV: 1
+Total 659

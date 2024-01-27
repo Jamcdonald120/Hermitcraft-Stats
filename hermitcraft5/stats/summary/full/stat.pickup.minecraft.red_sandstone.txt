@@ -1,0 +1,10 @@
+stat.pickup.minecraft.red_sandstone
+1: cubfan135: 359
+2: VintageBeef: 68
+3: Xisuma: 38
+4: MumboJumbo: 34
+5: PythonGB: 27
+6: joehillssays: 17
+7: iJevin: 7
+8: Tango: 4
+Total 554

@@ -1,0 +1,20 @@
+minecraft.killed.iron_golem
+1: VintageBeef: 137
+2: Tango: 133
+3: Grian: 74
+4: Xisuma: 59
+5: Keralis1: 33
+6: iJevin: 29
+7: GoodTimeWithScar: 29
+8: impulseSV: 27
+9: cubfan135: 21
+10: hypnotizd: 18
+11: iskall85: 10
+12: Docm77: 9
+13: Etho: 8
+14: MumboJumbo: 2
+15: Renthedog: 1
+16: xBCrafted: 1
+17: falsesymmetry: 1
+18: Stressmonster101: 1
+Total 593

@@ -1,0 +1,24 @@
+minecraft.mined.ladder
+1: Xisuma: 781
+2: falsesymmetry: 752
+3: joehillssays: 583
+4: iJevin: 408
+5: cubfan135: 377
+6: Docm77: 307
+7: impulseSV: 292
+8: iskall85: 165
+9: Zedaph: 155
+10: Welsknight: 138
+11: Stressmonster101: 97
+12: GoodTimeWithScar: 96
+13: Renthedog: 94
+14: Grian: 76
+15: Tango: 53
+16: Biffa2001: 45
+17: Keralis1: 45
+18: Tinfoilchef: 32
+19: ZombieCleo: 30
+20: MumboJumbo: 24
+21: PythonGB: 8
+22: BdoubleO100: 3
+Total 4561

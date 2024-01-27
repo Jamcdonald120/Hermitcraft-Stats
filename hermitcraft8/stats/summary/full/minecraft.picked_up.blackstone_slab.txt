@@ -1,0 +1,12 @@
+minecraft.picked_up.blackstone_slab
+1: Grian: 212
+2: Renthedog: 58
+3: PearlescentMoon: 57
+4: Tango: 46
+5: Keralis1: 36
+6: Docm77: 25
+7: GoodTimeWithScar: 25
+8: BdoubleO100: 5
+9: xBCrafted: 4
+10: cubfan135: 2
+Total 470

@@ -1,0 +1,12 @@
+minecraft.picked_up.pufferfish_bucket
+1: Docm77: 8
+2: iskall85: 8
+3: Renthedog: 7
+4: GoodTimeWithScar: 6
+5: Grian: 5
+6: falsesymmetry: 3
+7: Tango: 2
+8: Stressmonster101: 2
+9: impulseSV: 2
+10: ZombieCleo: 1
+Total 44

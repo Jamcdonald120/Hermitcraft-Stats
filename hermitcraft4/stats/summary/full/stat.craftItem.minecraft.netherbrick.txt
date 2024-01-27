@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.netherbrick
+1: cubfan135: 7348
+2: Biffa2001: 3004
+3: ZombieCleo: 2851
+4: joehillssays: 1707
+5: Tango: 1551
+6: falsesymmetry: 1451
+7: impulseSV: 543
+8: Xisuma: 256
+9: PythonGB: 192
+10: Tinfoilchef: 126
+11: GoodTimeWithScar: 81
+12: xBCrafted: 80
+13: iskall85: 63
+14: Docm77: 32
+15: iJevin: 28
+Total 19313

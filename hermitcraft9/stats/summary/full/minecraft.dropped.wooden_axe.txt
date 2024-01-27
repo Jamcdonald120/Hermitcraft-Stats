@@ -1,0 +1,18 @@
+minecraft.dropped.wooden_axe
+1: Tango: 38
+2: GeminiTay: 9
+3: PearlescentMoon: 8
+4: iskall85: 3
+5: Pixlriffs: 2
+6: falsesymmetry: 2
+7: cubfan135: 2
+8: Zedaph: 2
+9: VintageBeef: 1
+10: Grian: 1
+11: Welsknight: 1
+12: Etho: 1
+13: ZombieCleo: 1
+14: Mumbo: 1
+15: MumboJumbo: 1
+16: Keralis1: 1
+Total 74

@@ -1,0 +1,15 @@
+minecraft.dropped.cobblestone_slab
+1: hypnotizd: 984
+2: iJevin: 199
+3: Zedaph: 140
+4: Docm77: 65
+5: Tango: 35
+6: Xisuma: 34
+7: BdoubleO100: 34
+8: Etho: 22
+9: iskall85: 9
+10: Tinfoilchef: 7
+11: VintageBeef: 6
+12: falsesymmetry: 1
+13: impulseSV: 1
+Total 1537

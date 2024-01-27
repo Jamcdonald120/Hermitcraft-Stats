@@ -1,0 +1,9 @@
+minecraft.picked_up.tipped_arrow
+1: Docm77: 462
+2: Etho: 134
+3: Renthedog: 52
+4: BdoubleO100: 30
+5: PearlescentMoon: 4
+6: cubfan135: 3
+7: Tango: 2
+Total 687

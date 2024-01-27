@@ -1,0 +1,15 @@
+minecraft.picked_up.rabbit_hide
+1: cubfan135: 60
+2: Grian: 22
+3: Tango: 11
+4: joehillssays: 8
+5: Docm77: 6
+6: GoodTimeWithScar: 6
+7: MumboJumbo: 5
+8: Xisuma: 4
+9: Biffa2001: 3
+10: Stressmonster101: 3
+11: iskall85: 2
+12: Welsknight: 2
+13: Zedaph: 2
+Total 134

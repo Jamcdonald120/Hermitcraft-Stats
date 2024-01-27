@@ -1,0 +1,24 @@
+stat.pickup.minecraft.shears
+1: Xisuma: 291
+2: GoodTimeWithScar: 36
+3: Docm77: 28
+4: cubfan135: 21
+5: Welsknight: 20
+6: PythonGB: 19
+7: falsesymmetry: 12
+8: iJevin: 11
+9: Zedaph: 9
+10: Renthedog: 8
+11: Tango: 7
+12: Stressmonster101: 6
+13: BdoubleO100: 5
+14: iskall85: 5
+15: joehillssays: 4
+16: xBCrafted: 4
+17: Tinfoilchef: 3
+18: Biffa2001: 2
+19: ZombieCleo: 2
+20: MumboJumbo: 2
+21: VintageBeef: 1
+22: impulseSV: 1
+Total 497

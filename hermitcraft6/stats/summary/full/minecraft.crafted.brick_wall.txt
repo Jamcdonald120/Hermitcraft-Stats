@@ -1,0 +1,5 @@
+minecraft.crafted.brick_wall
+1: cubfan135: 762
+2: Xisuma: 72
+3: iskall85: 24
+Total 858

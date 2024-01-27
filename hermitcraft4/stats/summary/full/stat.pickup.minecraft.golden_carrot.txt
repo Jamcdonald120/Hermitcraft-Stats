@@ -1,0 +1,15 @@
+stat.pickup.minecraft.golden_carrot
+1: Renthedog: 3430
+2: iskall85: 1250
+3: Xisuma: 908
+4: impulseSV: 815
+5: Tango: 742
+6: iJevin: 552
+7: falsesymmetry: 261
+8: GoodTimeWithScar: 184
+9: Welsknight: 166
+10: cubfan135: 138
+11: MumboJumbo: 122
+12: VintageBeef: 63
+13: WellsGlazes: 33
+Total 8664

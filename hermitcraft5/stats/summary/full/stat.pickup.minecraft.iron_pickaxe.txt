@@ -1,0 +1,23 @@
+stat.pickup.minecraft.iron_pickaxe
+1: Zedaph: 29
+2: PythonGB: 24
+3: GoodTimeWithScar: 22
+4: Etho: 12
+5: Welsknight: 10
+6: impulseSV: 10
+7: Xisuma: 9
+8: joehillssays: 9
+9: Tango: 9
+10: Renthedog: 8
+11: iJevin: 6
+12: iskall85: 6
+13: cubfan135: 6
+14: falsesymmetry: 5
+15: ZombieCleo: 5
+16: Tinfoilchef: 4
+17: VintageBeef: 3
+18: xBCrafted: 3
+19: MumboJumbo: 3
+20: Stressmonster101: 2
+21: Biffa2001: 1
+Total 186

@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.gold_nugget
+1: Xisuma: 22314
+2: Tango: 20850
+3: impulseSV: 7676
+4: MumboJumbo: 4608
+5: cubfan135: 2115
+6: iJevin: 1242
+7: iskall85: 970
+8: ZombieCleo: 738
+9: GoodTimeWithScar: 504
+10: Renthedog: 387
+11: Tinfoilchef: 288
+12: falsesymmetry: 261
+13: joehillssays: 198
+14: PythonGB: 36
+15: VintageBeef: 10
+Total 62197

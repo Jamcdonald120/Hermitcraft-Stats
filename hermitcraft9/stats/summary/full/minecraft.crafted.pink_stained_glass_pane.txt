@@ -1,0 +1,12 @@
+minecraft.crafted.pink_stained_glass_pane
+1: PearlescentMoon: 624
+2: ZombieCleo: 160
+3: RentheKing: 144
+4: GeminiTay: 64
+5: BdoubleO100: 24
+6: cubfan135: 24
+7: Xisuma: 16
+8: falsesymmetry: 16
+9: Keralis1: 16
+10: Zedaph: 16
+Total 1104

@@ -1,0 +1,21 @@
+minecraft.picked_up.magenta_stained_glass
+1: Grian: 879
+2: falsesymmetry: 664
+3: PearlescentMoon: 325
+4: Zedaph: 98
+5: Stressmonster101: 74
+6: Xisuma: 71
+7: iJevin: 48
+8: GoodTimeWithScar: 33
+9: xBCrafted: 22
+10: Keralis1: 15
+11: hypnotizd: 9
+12: Tango: 8
+13: impulseSV: 8
+14: cubfan135: 7
+15: Renthedog: 6
+16: Etho: 5
+17: Docm77: 2
+18: BdoubleO100: 2
+19: ZombieCleo: 1
+Total 2277

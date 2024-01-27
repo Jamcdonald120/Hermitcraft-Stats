@@ -1,0 +1,19 @@
+minecraft.picked_up.purple_bed
+1: Docm77: 373
+2: Xisuma: 351
+3: iJevin: 86
+4: xBCrafted: 35
+5: GoodTimeWithScar: 25
+6: GeminiTay: 16
+7: joehillssays: 11
+8: hypnotizd: 10
+9: Zedaph: 7
+10: Keralis1: 6
+11: PearlescentMoon: 4
+12: iskall85: 4
+13: falsesymmetry: 3
+14: Renthedog: 1
+15: ZombieCleo: 1
+16: Stressmonster101: 1
+17: impulseSV: 1
+Total 935

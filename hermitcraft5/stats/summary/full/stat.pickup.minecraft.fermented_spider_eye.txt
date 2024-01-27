@@ -1,0 +1,8 @@
+stat.pickup.minecraft.fermented_spider_eye
+1: cubfan135: 10
+2: Zedaph: 5
+3: impulseSV: 2
+4: Renthedog: 1
+5: xBCrafted: 1
+6: falsesymmetry: 1
+Total 20

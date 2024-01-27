@@ -1,0 +1,4 @@
+stat.entityKilledBy.Spider
+1: joehillssays: 2
+2: Tinfoilchef: 1
+Total 3

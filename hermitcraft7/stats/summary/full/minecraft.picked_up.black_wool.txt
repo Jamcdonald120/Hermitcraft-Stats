@@ -1,0 +1,24 @@
+minecraft.picked_up.black_wool
+1: BdoubleO100: 3832
+2: Etho: 3542
+3: Zedaph: 2778
+4: Tango: 1630
+5: joehillssays: 1104
+6: Xisuma: 804
+7: falsesymmetry: 716
+8: VintageBeef: 460
+9: ZombieCleo: 431
+10: cubfan135: 251
+11: GoodTimeWithScar: 233
+12: Keralis1: 140
+13: Renthedog: 94
+14: hypnotizd: 85
+15: iJevin: 82
+16: Grian: 63
+17: impulseSV: 43
+18: Stressmonster101: 22
+19: Docm77: 14
+20: MumboJumbo: 8
+21: Welsknight: 3
+22: xBCrafted: 2
+Total 16337

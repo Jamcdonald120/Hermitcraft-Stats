@@ -1,0 +1,25 @@
+minecraft.dropped.redstone
+1: Grian: 2151
+2: iskall85: 1614
+3: GoodTimeWithScar: 1222
+4: Renthedog: 1205
+5: ZombieCleo: 899
+6: cubfan135: 796
+7: Xisuma: 509
+8: MumboJumbo: 482
+9: Tango: 421
+10: iJevin: 248
+11: Zedaph: 247
+12: xBCrafted: 182
+13: joehillssays: 113
+14: impulseSV: 100
+15: Docm77: 90
+16: Tinfoilchef: 50
+17: Keralis1: 42
+18: Stressmonster101: 22
+19: Welsknight: 12
+20: falsesymmetry: 9
+21: Biffa2001: 8
+22: HumanCleo: 2
+23: PythonGB: 1
+Total 10425

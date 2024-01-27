@@ -1,0 +1,28 @@
+minecraft.dropped.bow
+1: Etho: 458
+2: Grian: 408
+3: Xisuma: 193
+4: iskall85: 136
+5: Docm77: 127
+6: impulseSV: 101
+7: falsesymmetry: 94
+8: iJevin: 58
+9: GoodTimeWithScar: 53
+10: hypnotizd: 44
+11: Stressmonster101: 43
+12: PearlescentMoon: 39
+13: cubfan135: 39
+14: Renthedog: 26
+15: Zedaph: 23
+16: Tango: 21
+17: xBCrafted: 15
+18: BdoubleO100: 7
+19: VintageBeef: 6
+20: GeminiTay: 4
+21: ZombieCleo: 4
+22: Welsknight: 2
+23: Keralis1: 2
+24: EvilXisuma: 1
+25: joehillssays: 1
+26: MumboJumbo: 1
+Total 1906

@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.fence_gate
+1: falsesymmetry: 6
+2: ZombieCleo: 6
+3: zueljin: 2
+4: Tango: 2
+5: Mumbo: 2
+Total 18

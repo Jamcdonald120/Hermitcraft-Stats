@@ -1,0 +1,5 @@
+minecraft.dropped.cyan_banner
+1: falsesymmetry: 8
+2: GoodTimeWithScar: 2
+3: impulseSV: 1
+Total 11

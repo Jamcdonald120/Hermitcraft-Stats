@@ -1,0 +1,10 @@
+minecraft.picked_up.dead_tube_coral_fan
+1: cubfan135: 333
+2: GoodTimeWithScar: 92
+3: joehillssays: 64
+4: MumboJumbo: 31
+5: Renthedog: 4
+6: iskall85: 2
+7: Docm77: 1
+8: falsesymmetry: 1
+Total 528

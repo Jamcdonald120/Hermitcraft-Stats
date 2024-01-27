@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.redstone_torch
+1: Tango: 675
+2: falsesymmetry: 346
+3: impulseSV: 220
+4: Xisuma: 207
+5: Mumbo: 176
+6: monkeyfarm: 176
+7: xBCrafted: 167
+8: zueljin: 134
+9: iJevin: 74
+10: KingDaddyDMAC: 69
+11: sl1pg8r: 67
+12: Etho: 61
+13: Biffa2001: 45
+14: Tinfoilchef: 32
+15: Docm77: 24
+16: topmass: 16
+17: ZombieCleo: 4
+18: skyzm: 2
+19: hypnotizd: 2
+20: PythonGB: 1
+Total 2498

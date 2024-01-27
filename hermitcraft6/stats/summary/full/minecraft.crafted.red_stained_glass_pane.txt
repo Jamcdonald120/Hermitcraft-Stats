@@ -1,0 +1,17 @@
+minecraft.crafted.red_stained_glass_pane
+1: Tango: 1456
+2: Renthedog: 1360
+3: PythonGB: 1040
+4: impulseSV: 912
+5: Xisuma: 576
+6: Grian: 416
+7: cubfan135: 368
+8: GoodTimeWithScar: 368
+9: joehillssays: 224
+10: iskall85: 192
+11: falsesymmetry: 64
+12: MumboJumbo: 32
+13: Docm77: 16
+14: Welsknight: 16
+15: ZombieCleo: 16
+Total 7056

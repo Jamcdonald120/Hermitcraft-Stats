@@ -1,0 +1,5 @@
+minecraft.crafted.leather_horse_armor
+1: Stressmonster101: 14
+2: cubfan135: 13
+3: GoodTimeWithScar: 1
+Total 28

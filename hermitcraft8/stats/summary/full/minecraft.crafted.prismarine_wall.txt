@@ -1,0 +1,5 @@
+minecraft.crafted.prismarine_wall
+1: MumboJumbo: 24
+2: GeminiTay: 7
+3: Xisuma: 6
+Total 37

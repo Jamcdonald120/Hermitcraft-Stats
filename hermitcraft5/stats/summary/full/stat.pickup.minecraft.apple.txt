@@ -1,0 +1,25 @@
+stat.pickup.minecraft.apple
+1: Renthedog: 531
+2: cubfan135: 431
+3: Welsknight: 430
+4: GoodTimeWithScar: 411
+5: falsesymmetry: 287
+6: Tinfoilchef: 256
+7: Stressmonster101: 225
+8: Xisuma: 208
+9: impulseSV: 192
+10: MumboJumbo: 187
+11: PythonGB: 129
+12: Tango: 120
+13: xBCrafted: 107
+14: Zedaph: 98
+15: BdoubleO100: 90
+16: iskall85: 85
+17: VintageBeef: 41
+18: joehillssays: 29
+19: iJevin: 28
+20: ZombieCleo: 25
+21: Biffa2001: 23
+22: Docm77: 14
+23: Etho: 11
+Total 3958

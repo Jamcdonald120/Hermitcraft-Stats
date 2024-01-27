@@ -1,0 +1,16 @@
+minecraft.dropped.end_rod
+1: cubfan135: 134
+2: Keralis1: 91
+3: iJevin: 72
+4: impulseSV: 60
+5: GoodTimeWithScar: 50
+6: Renthedog: 40
+7: Xisuma: 32
+8: xBCrafted: 18
+9: Zedaph: 17
+10: Tango: 13
+11: fWhip: 8
+12: Grian: 5
+13: falsesymmetry: 5
+14: BdoubleO100: 4
+Total 549

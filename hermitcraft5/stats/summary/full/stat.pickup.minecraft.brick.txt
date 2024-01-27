@@ -1,0 +1,12 @@
+stat.pickup.minecraft.brick
+1: falsesymmetry: 706
+2: PythonGB: 469
+3: cubfan135: 205
+4: Renthedog: 66
+5: Xisuma: 49
+6: iJevin: 27
+7: Stressmonster101: 26
+8: GoodTimeWithScar: 4
+9: iskall85: 2
+10: Zedaph: 1
+Total 1555

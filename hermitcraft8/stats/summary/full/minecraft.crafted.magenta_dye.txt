@@ -1,0 +1,25 @@
+minecraft.crafted.magenta_dye
+1: Etho: 756
+2: ZombieCleo: 262
+3: Docm77: 173
+4: Grian: 171
+5: Tango: 169
+6: Welsknight: 166
+7: GeminiTay: 131
+8: xBCrafted: 52
+9: cubfan135: 42
+10: Stressmonster101: 36
+11: falsesymmetry: 22
+12: Keralis1: 20
+13: GoodTimeWithScar: 15
+14: Renthedog: 14
+15: Xisuma: 11
+16: MumboJumbo: 10
+17: iJevin: 4
+18: impulseSV: 4
+19: joehillssays: 3
+20: BdoubleO100: 2
+21: PearlescentMoon: 2
+22: iskall85: 2
+23: Zedaph: 2
+Total 2069

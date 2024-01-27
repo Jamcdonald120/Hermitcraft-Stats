@@ -1,0 +1,21 @@
+minecraft.killed_by.ravager
+1: Etho: 17
+2: joehillssays: 10
+3: Keralis1: 10
+4: Grian: 9
+5: cubfan135: 9
+6: hypnotizd: 9
+7: impulseSV: 9
+8: VintageBeef: 8
+9: Xisuma: 7
+10: Zedaph: 7
+11: GoodTimeWithScar: 5
+12: iJevin: 4
+13: Welsknight: 3
+14: Stressmonster101: 3
+15: xBCrafted: 2
+16: Renthedog: 1
+17: iskall85: 1
+18: ZombieCleo: 1
+19: MumboJumbo: 1
+Total 116

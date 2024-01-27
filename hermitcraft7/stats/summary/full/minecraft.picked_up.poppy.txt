@@ -1,0 +1,27 @@
+minecraft.picked_up.poppy
+1: Tango: 12377
+2: Etho: 6680
+3: Keralis1: 6582
+4: xBCrafted: 5786
+5: falsesymmetry: 4077
+6: Stressmonster101: 3570
+7: MumboJumbo: 2332
+8: GoodTimeWithScar: 1742
+9: VintageBeef: 1204
+10: joehillssays: 1108
+11: hypnotizd: 1063
+12: Zedaph: 687
+13: Grian: 630
+14: BdoubleO100: 570
+15: iskall85: 502
+16: Xisuma: 411
+17: Docm77: 349
+18: cubfan135: 279
+19: impulseSV: 255
+20: iJevin: 191
+21: Renthedog: 151
+22: ZombieCleo: 58
+23: Welsknight: 37
+24: Tinfoilchef: 16
+25: xisumavoid: 2
+Total 50659

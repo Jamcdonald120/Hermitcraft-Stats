@@ -1,0 +1,25 @@
+stat.pickup.minecraft.sandstone
+1: ZombieCleo: 22723
+2: impulseSV: 18075
+3: Biffa2001: 10238
+4: Xisuma: 8044
+5: xBCrafted: 6412
+6: falsesymmetry: 4584
+7: Renthedog: 3581
+8: Tango: 2821
+9: Zedaph: 1929
+10: PythonGB: 1625
+11: Welsknight: 1455
+12: cubfan135: 1241
+13: joehillssays: 1011
+14: MumboJumbo: 754
+15: iskall85: 481
+16: GoodTimeWithScar: 428
+17: Tinfoilchef: 101
+18: Docm77: 92
+19: Etho: 28
+20: Stressmonster101: 22
+21: BdoubleO100: 18
+22: iJevin: 12
+23: VintageBeef: 2
+Total 85677

@@ -1,0 +1,22 @@
+minecraft.picked_up.oak_button
+1: Renthedog: 86
+2: iskall85: 47
+3: Keralis1: 35
+4: VintageBeef: 31
+5: Tango: 26
+6: BdoubleO100: 25
+7: Zedaph: 20
+8: Grian: 15
+9: Stressmonster101: 15
+10: MumboJumbo: 12
+11: impulseSV: 9
+12: joehillssays: 7
+13: Etho: 7
+14: Tinfoilchef: 6
+15: hypnotizd: 4
+16: GoodTimeWithScar: 4
+17: cubfan135: 3
+18: Xisuma: 2
+19: iJevin: 2
+20: ZombieCleo: 1
+Total 357

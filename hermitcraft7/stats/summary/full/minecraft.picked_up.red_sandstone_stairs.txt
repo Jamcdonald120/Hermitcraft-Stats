@@ -1,0 +1,7 @@
+minecraft.picked_up.red_sandstone_stairs
+1: VintageBeef: 83
+2: Keralis1: 63
+3: BdoubleO100: 31
+4: Renthedog: 20
+5: cubfan135: 1
+Total 198

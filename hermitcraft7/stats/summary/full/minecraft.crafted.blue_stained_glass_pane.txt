@@ -1,0 +1,11 @@
+minecraft.crafted.blue_stained_glass_pane
+1: cubfan135: 576
+2: Xisuma: 192
+3: xBCrafted: 128
+4: Tinfoilchef: 104
+5: Keralis1: 32
+6: impulseSV: 32
+7: VintageBeef: 16
+8: falsesymmetry: 16
+9: BdoubleO100: 8
+Total 1104

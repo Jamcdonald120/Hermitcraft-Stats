@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.stained_glass
+1: Xisuma: 6584
+2: ZombieCleo: 3328
+3: Tango: 788
+4: monkeyfarm: 424
+5: xBCrafted: 128
+6: zueljin: 24
+7: falsesymmetry: 24
+Total 11300

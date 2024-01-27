@@ -1,0 +1,25 @@
+minecraft.picked_up.tripwire_hook
+1: Zedaph: 384
+2: Tango: 196
+3: Etho: 118
+4: cubfan135: 72
+5: joehillssays: 69
+6: Xisuma: 63
+7: Keralis1: 53
+8: hypnotizd: 51
+9: impulseSV: 48
+10: GoodTimeWithScar: 43
+11: falsesymmetry: 31
+12: Renthedog: 28
+13: VintageBeef: 28
+14: iJevin: 13
+15: BdoubleO100: 12
+16: Docm77: 11
+17: xBCrafted: 11
+18: Stressmonster101: 7
+19: Grian: 6
+20: iskall85: 6
+21: Welsknight: 4
+22: ZombieCleo: 4
+23: MumboJumbo: 2
+Total 1260

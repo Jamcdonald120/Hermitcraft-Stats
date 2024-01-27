@@ -1,0 +1,5 @@
+minecraft.crafted.end_stone_brick_slab
+1: cubfan135: 48
+2: HumanCleo: 18
+3: Xisuma: 12
+Total 78

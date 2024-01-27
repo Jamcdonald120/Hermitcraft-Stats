@@ -1,0 +1,8 @@
+minecraft.dropped.birch_fence
+1: ZombieCleo: 7
+2: BdoubleO100: 5
+3: Grian: 2
+4: Xisuma: 1
+5: GeminiTay: 1
+6: GoodTimeWithScar: 1
+Total 17

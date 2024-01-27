@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.gravel
+1: Renthedog: 118031
+2: GoodTimeWithScar: 103264
+3: iskall85: 77684
+4: cubfan135: 59078
+5: falsesymmetry: 49822
+6: impulseSV: 21864
+7: MumboJumbo: 18397
+8: Xisuma: 17501
+9: Stressmonster101: 14168
+10: Welsknight: 11605
+11: joehillssays: 10080
+12: PythonGB: 9715
+13: Tango: 7910
+14: Tinfoilchef: 4712
+15: iJevin: 4506
+16: Zedaph: 3890
+17: xBCrafted: 2860
+18: ZombieCleo: 2332
+19: Biffa2001: 1480
+20: Etho: 1303
+21: Docm77: 1214
+22: BdoubleO100: 1038
+23: VintageBeef: 740
+Total 543194

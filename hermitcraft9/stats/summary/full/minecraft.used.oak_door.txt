@@ -1,0 +1,23 @@
+minecraft.used.oak_door
+1: hypnotizd: 22
+2: BdoubleO100: 17
+3: Xisuma: 16
+4: Keralis1: 16
+5: Tango: 13
+6: Etho: 12
+7: Pixlriffs: 10
+8: iJevin: 7
+9: PearlescentMoon: 7
+10: iskall85: 6
+11: xBCrafted: 6
+12: cubfan135: 6
+13: Docm77: 5
+14: VintageBeef: 5
+15: ZombieCleo: 4
+16: impulseSV: 3
+17: Grian: 2
+18: Mumbo: 2
+19: SolidarityGaming: 2
+20: GeminiTay: 1
+21: MumboJumbo: 1
+Total 163

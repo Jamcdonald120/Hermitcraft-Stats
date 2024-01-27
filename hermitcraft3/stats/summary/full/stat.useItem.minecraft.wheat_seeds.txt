@@ -1,0 +1,25 @@
+stat.useItem.minecraft.wheat_seeds
+1: Xisuma: 28470
+2: Tango: 10178
+3: falsesymmetry: 9796
+4: impulseSV: 8566
+5: sl1pg8r: 4037
+6: zueljin: 3841
+7: hypnotizd: 3038
+8: Biffa2001: 2702
+9: xBCrafted: 2524
+10: Tinfoilchef: 2242
+11: monkeyfarm: 1880
+12: Spumwackles: 1827
+13: topmass: 1658
+14: iJevin: 1512
+15: joehillssays: 1509
+16: ZombieCleo: 1445
+17: Mumbo: 1366
+18: PythonGB: 561
+19: KingDaddyDMAC: 492
+20: Docm77: 309
+21: skyzm: 214
+22: Pungence: 138
+23: NameOfSamuel: 6
+Total 88311

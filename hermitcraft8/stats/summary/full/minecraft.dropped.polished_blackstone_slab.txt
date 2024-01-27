@@ -1,0 +1,5 @@
+minecraft.dropped.polished_blackstone_slab
+1: Xisuma: 39
+2: EvilXisuma: 25
+3: Tango: 4
+Total 68

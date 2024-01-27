@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.stained_hardened_clay
+1: Xisuma: 22128
+2: falsesymmetry: 21120
+3: xBCrafted: 8376
+4: Tango: 3184
+5: impulseSV: 1880
+6: Mumbo: 1864
+7: monkeyfarm: 1264
+8: Tinfoilchef: 968
+9: zueljin: 912
+10: PythonGB: 768
+11: topmass: 152
+12: Docm77: 128
+13: iJevin: 72
+Total 62816

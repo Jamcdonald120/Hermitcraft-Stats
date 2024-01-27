@@ -1,0 +1,36 @@
+minecraft.crafted.birch_planks
+1: joehillssays: 166043
+2: impulseSV: 28584
+3: Docm77: 17805
+4: Grian: 14359
+5: GoodTimeWithScar: 11500
+6: GeminiTay: 8368
+7: cubfan135: 7269
+8: Keralis1: 6687
+9: iJevin: 6392
+10: VintageBeef: 6160
+11: hypnotizd: 5852
+12: Xisuma: 4780
+13: Stressmonster101: 4332
+14: Etho: 3792
+15: Mumbo: 3624
+16: BdoubleO100: 3176
+17: Renthedog: 2904
+18: Tango: 2888
+19: falsesymmetry: 2596
+20: ZombieCleo: 2496
+21: PearlescentMoon: 2316
+22: iskall85: 1968
+23: xBCrafted: 1304
+24: Zedaph: 916
+25: Welsknight: 416
+26: Tinfoilchef: 368
+27: MumboJumbo: 260
+28: MythicalSausage: 240
+29: RentheKing: 232
+30: Smallishbeans: 196
+31: ShubbleYT: 152
+32: Smajor1995: 148
+33: fWhip: 28
+34: SolidarityGaming: 24
+Total 318175

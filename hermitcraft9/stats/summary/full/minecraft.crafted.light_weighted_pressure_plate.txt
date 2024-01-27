@@ -1,0 +1,16 @@
+minecraft.crafted.light_weighted_pressure_plate
+1: cubfan135: 5236
+2: VintageBeef: 908
+3: Xisuma: 454
+4: RentheKing: 274
+5: Renthedog: 200
+6: impulseSV: 106
+7: Tango: 13
+8: iskall85: 11
+9: PearlescentMoon: 8
+10: ZombieCleo: 6
+11: xBCrafted: 3
+12: Docm77: 2
+13: iJevin: 1
+14: Zedaph: 1
+Total 7223

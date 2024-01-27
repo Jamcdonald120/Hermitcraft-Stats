@@ -1,0 +1,15 @@
+minecraft.picked_up.red_sand
+1: cubfan135: 79534
+2: Etho: 10007
+3: GoodTimeWithScar: 3536
+4: PearlescentMoon: 2105
+5: GeminiTay: 1928
+6: ZombieCleo: 1519
+7: MumboJumbo: 1393
+8: Xisuma: 1310
+9: BdoubleO100: 1297
+10: Keralis1: 282
+11: iJevin: 14
+12: Grian: 11
+13: Tango: 1
+Total 102937

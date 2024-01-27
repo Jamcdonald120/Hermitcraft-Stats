@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.birch_fence
+1: Xisuma: 282
+2: xBCrafted: 216
+3: Mumbo: 189
+4: monkeyfarm: 141
+5: falsesymmetry: 66
+6: zueljin: 39
+7: ZombieCleo: 27
+8: iJevin: 24
+Total 984

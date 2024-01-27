@@ -1,0 +1,3 @@
+stat.useItem.minecraft.golden_carrot
+1: Collen: 18
+Total 18

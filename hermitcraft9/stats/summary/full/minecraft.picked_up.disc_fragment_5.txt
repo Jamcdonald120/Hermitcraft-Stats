@@ -1,0 +1,9 @@
+minecraft.picked_up.disc_fragment_5
+1: iJevin: 109
+2: impulseSV: 44
+3: Grian: 24
+4: PearlescentMoon: 13
+5: Tango: 9
+6: Xisuma: 6
+7: falsesymmetry: 1
+Total 206

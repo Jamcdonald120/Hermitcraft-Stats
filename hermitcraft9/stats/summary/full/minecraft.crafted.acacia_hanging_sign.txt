@@ -1,0 +1,6 @@
+minecraft.crafted.acacia_hanging_sign
+1: cubfan135: 12
+2: GoodTimeWithScar: 12
+3: PearlescentMoon: 6
+4: Zedaph: 6
+Total 36

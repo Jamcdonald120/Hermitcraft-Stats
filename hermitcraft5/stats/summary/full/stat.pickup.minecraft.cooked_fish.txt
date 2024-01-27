@@ -1,0 +1,23 @@
+stat.pickup.minecraft.cooked_fish
+1: impulseSV: 2929
+2: Docm77: 1263
+3: iskall85: 1214
+4: falsesymmetry: 1082
+5: Renthedog: 951
+6: PythonGB: 941
+7: MumboJumbo: 697
+8: Tango: 581
+9: cubfan135: 526
+10: Tinfoilchef: 432
+11: Welsknight: 423
+12: GoodTimeWithScar: 422
+13: Stressmonster101: 204
+14: Zedaph: 203
+15: Biffa2001: 172
+16: Xisuma: 109
+17: iJevin: 64
+18: xBCrafted: 45
+19: VintageBeef: 12
+20: BdoubleO100: 3
+21: ImpulseCam: 1
+Total 12274

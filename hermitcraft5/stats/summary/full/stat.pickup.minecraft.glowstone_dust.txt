@@ -1,0 +1,24 @@
+stat.pickup.minecraft.glowstone_dust
+1: GoodTimeWithScar: 1535
+2: Tango: 1360
+3: Xisuma: 1183
+4: iskall85: 702
+5: impulseSV: 377
+6: Zedaph: 367
+7: Tinfoilchef: 280
+8: cubfan135: 239
+9: Docm77: 232
+10: MumboJumbo: 198
+11: falsesymmetry: 190
+12: iJevin: 86
+13: Renthedog: 43
+14: Stressmonster101: 43
+15: Welsknight: 41
+16: joehillssays: 15
+17: xBCrafted: 11
+18: PythonGB: 4
+19: Biffa2001: 4
+20: VintageBeef: 3
+21: ZombieCleo: 2
+22: BdoubleO100: 1
+Total 6916

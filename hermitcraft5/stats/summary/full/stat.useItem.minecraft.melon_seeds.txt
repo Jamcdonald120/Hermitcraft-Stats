@@ -1,0 +1,19 @@
+stat.useItem.minecraft.melon_seeds
+1: cubfan135: 296
+2: Tango: 161
+3: MumboJumbo: 120
+4: Docm77: 70
+5: Tinfoilchef: 61
+6: impulseSV: 49
+7: GoodTimeWithScar: 19
+8: Xisuma: 16
+9: falsesymmetry: 13
+10: Zedaph: 8
+11: PythonGB: 6
+12: joehillssays: 5
+13: Biffa2001: 5
+14: Stressmonster101: 5
+15: Renthedog: 4
+16: VintageBeef: 3
+17: xBCrafted: 3
+Total 844

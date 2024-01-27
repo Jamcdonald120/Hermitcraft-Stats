@@ -1,0 +1,12 @@
+minecraft.crafted.brick_wall
+1: GoodTimeWithScar: 870
+2: cubfan135: 306
+3: xBCrafted: 153
+4: Grian: 60
+5: iskall85: 54
+6: Tango: 48
+7: Etho: 46
+8: Zedaph: 12
+9: Xisuma: 10
+10: impulseSV: 6
+Total 1565

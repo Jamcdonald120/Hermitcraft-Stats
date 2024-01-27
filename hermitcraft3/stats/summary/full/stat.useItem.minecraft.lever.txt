@@ -1,0 +1,24 @@
+stat.useItem.minecraft.lever
+1: Tango: 792
+2: Xisuma: 600
+3: iJevin: 443
+4: falsesymmetry: 417
+5: sl1pg8r: 399
+6: impulseSV: 315
+7: Biffa2001: 281
+8: monkeyfarm: 211
+9: Tinfoilchef: 180
+10: Mumbo: 159
+11: xBCrafted: 137
+12: KingDaddyDMAC: 95
+13: zueljin: 80
+14: Etho: 50
+15: snipepager: 45
+16: hypnotizd: 37
+17: ZombieCleo: 26
+18: Spumwackles: 13
+19: topmass: 12
+20: Docm77: 9
+21: Keralis1: 8
+22: PythonGB: 2
+Total 4311

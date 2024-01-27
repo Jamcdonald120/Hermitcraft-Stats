@@ -1,0 +1,23 @@
+minecraft.crafted.deepslate_tile_slab
+1: cubfan135: 2086
+2: Grian: 2034
+3: Zedaph: 588
+4: Xisuma: 450
+5: GoodTimeWithScar: 280
+6: xBCrafted: 226
+7: Docm77: 216
+8: Keralis1: 198
+9: PearlescentMoon: 186
+10: iskall85: 164
+11: Stressmonster101: 156
+12: Tango: 140
+13: hypnotizd: 68
+14: Renthedog: 40
+15: GeminiTay: 24
+16: ZombieCleo: 24
+17: impulseSV: 18
+18: VintageBeef: 14
+19: iJevin: 12
+20: joehillssays: 6
+21: BdoubleO100: 2
+Total 6932

@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.lever
+1: cubfan135: 402
+2: impulseSV: 200
+3: MumboJumbo: 149
+4: Tango: 146
+5: Docm77: 126
+6: Zedaph: 114
+7: Xisuma: 77
+8: Tinfoilchef: 66
+9: xBCrafted: 55
+10: GoodTimeWithScar: 36
+11: Welsknight: 35
+12: iJevin: 34
+13: BdoubleO100: 28
+14: iskall85: 27
+15: Biffa2001: 24
+16: PythonGB: 23
+17: falsesymmetry: 20
+18: ZombieCleo: 19
+19: VintageBeef: 4
+20: joehillssays: 4
+21: Renthedog: 3
+22: Etho: 2
+23: Stressmonster101: 1
+Total 1595

@@ -1,0 +1,20 @@
+minecraft.crafted.cyan_carpet
+1: falsesymmetry: 1620
+2: Xisuma: 1542
+3: BdoubleO100: 1167
+4: joehillssays: 1005
+5: Welsknight: 966
+6: Etho: 903
+7: cubfan135: 492
+8: hypnotizd: 363
+9: VintageBeef: 285
+10: Tango: 222
+11: MumboJumbo: 165
+12: impulseSV: 156
+13: GoodTimeWithScar: 126
+14: xBCrafted: 81
+15: Keralis1: 69
+16: Zedaph: 42
+17: Stressmonster101: 15
+18: ZombieCleo: 3
+Total 9222

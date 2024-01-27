@@ -1,0 +1,6 @@
+minecraft.dropped.rabbit_foot
+1: Zedaph: 110
+2: Etho: 54
+3: hypnotizd: 2
+4: Renthedog: 1
+Total 167

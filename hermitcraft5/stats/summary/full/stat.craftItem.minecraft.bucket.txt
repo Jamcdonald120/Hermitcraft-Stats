@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.bucket
+1: Tango: 1203
+2: Renthedog: 965
+3: cubfan135: 596
+4: MumboJumbo: 493
+5: Xisuma: 383
+6: falsesymmetry: 248
+7: impulseSV: 231
+8: GoodTimeWithScar: 111
+9: Tinfoilchef: 80
+10: iskall85: 58
+11: joehillssays: 51
+12: iJevin: 46
+13: Zedaph: 30
+14: Welsknight: 22
+15: xBCrafted: 18
+16: ZombieCleo: 11
+17: PythonGB: 7
+18: Stressmonster101: 7
+19: Docm77: 6
+20: BdoubleO100: 5
+21: Etho: 5
+22: VintageBeef: 4
+23: Biffa2001: 4
+Total 4584

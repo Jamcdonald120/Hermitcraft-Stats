@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.diamond
+1: iJevin: 72
+2: falsesymmetry: 9
+Total 81

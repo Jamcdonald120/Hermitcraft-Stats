@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.stained_glass_pane
+1: monkeyfarm: 370
+2: Tango: 237
+3: zueljin: 65
+4: falsesymmetry: 28
+5: ZombieCleo: 12
+Total 712

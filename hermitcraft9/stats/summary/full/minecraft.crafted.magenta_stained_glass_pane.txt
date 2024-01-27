@@ -1,0 +1,11 @@
+minecraft.crafted.magenta_stained_glass_pane
+1: Tango: 208
+2: impulseSV: 176
+3: cubfan135: 32
+4: Xisuma: 16
+5: PearlescentMoon: 16
+6: falsesymmetry: 16
+7: GoodTimeWithScar: 16
+8: Keralis1: 16
+9: Zedaph: 16
+Total 512

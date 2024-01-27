@@ -1,0 +1,12 @@
+stat.drop.minecraft.emerald
+1: Tango: 1711
+2: impulseSV: 897
+3: MumboJumbo: 347
+4: cubfan135: 328
+5: falsesymmetry: 97
+6: iskall85: 68
+7: GoodTimeWithScar: 36
+8: Zedaph: 10
+9: xBCrafted: 4
+10: ZombieCleo: 1
+Total 3499

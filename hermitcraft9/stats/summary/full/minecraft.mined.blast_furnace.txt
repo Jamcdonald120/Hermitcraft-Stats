@@ -1,0 +1,23 @@
+minecraft.mined.blast_furnace
+1: PearlescentMoon: 95
+2: Tango: 59
+3: xBCrafted: 43
+4: iJevin: 38
+5: impulseSV: 24
+6: BdoubleO100: 23
+7: Docm77: 14
+8: Keralis1: 13
+9: Renthedog: 8
+10: Zedaph: 8
+11: joehillssays: 6
+12: ZombieCleo: 6
+13: Grian: 5
+14: Etho: 5
+15: iskall85: 4
+16: cubfan135: 3
+17: VintageBeef: 2
+18: GoodTimeWithScar: 2
+19: Stressmonster101: 2
+20: MythicalSausage: 1
+21: falsesymmetry: 1
+Total 362

@@ -1,0 +1,14 @@
+stat.drop.minecraft.name_tag
+1: MumboJumbo: 400
+2: impulseSV: 82
+3: cubfan135: 53
+4: Renthedog: 36
+5: Tango: 36
+6: GoodTimeWithScar: 16
+7: Zedaph: 7
+8: falsesymmetry: 4
+9: Xisuma: 3
+10: iskall85: 3
+11: BdoubleO100: 2
+12: Tinfoilchef: 2
+Total 644

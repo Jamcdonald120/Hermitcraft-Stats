@@ -1,0 +1,26 @@
+minecraft.picked_up.iron_shovel
+1: iskall85: 62
+2: GoodTimeWithScar: 54
+3: Tinfoilchef: 38
+4: cubfan135: 34
+5: MumboJumbo: 34
+6: Tango: 25
+7: Zedaph: 16
+8: PythonGB: 12
+9: joehillssays: 11
+10: Keralis1: 9
+11: impulseSV: 9
+12: falsesymmetry: 8
+13: Grian: 7
+14: Docm77: 5
+15: Renthedog: 5
+16: iJevin: 5
+17: BdoubleO100: 4
+18: Biffa2001: 4
+19: Xisuma: 2
+20: xBCrafted: 2
+21: ZombieCleo: 2
+22: EvilXisuma: 1
+23: Jessassin: 1
+24: Welsknight: 1
+Total 351

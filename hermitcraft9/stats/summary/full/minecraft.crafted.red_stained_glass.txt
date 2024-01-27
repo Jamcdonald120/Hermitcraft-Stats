@@ -1,0 +1,22 @@
+minecraft.crafted.red_stained_glass
+1: iJevin: 6200
+2: GoodTimeWithScar: 4264
+3: falsesymmetry: 3520
+4: Grian: 1736
+5: impulseSV: 1504
+6: Xisuma: 856
+7: Etho: 824
+8: Keralis1: 808
+9: Tango: 576
+10: Renthedog: 512
+11: cubfan135: 480
+12: joehillssays: 440
+13: GeminiTay: 256
+14: Zedaph: 152
+15: xBCrafted: 80
+16: MythicalSausage: 64
+17: VintageBeef: 32
+18: PearlescentMoon: 24
+19: iskall85: 16
+20: BdoubleO100: 8
+Total 22352

@@ -1,0 +1,25 @@
+minecraft.used.writable_book
+1: iJevin: 239
+2: Renthedog: 209
+3: cubfan135: 190
+4: joehillssays: 163
+5: Zedaph: 146
+6: impulseSV: 87
+7: Xisuma: 73
+8: MumboJumbo: 56
+9: Tango: 40
+10: Grian: 39
+11: PearlescentMoon: 39
+12: xBCrafted: 36
+13: Docm77: 29
+14: falsesymmetry: 23
+15: GeminiTay: 19
+16: ZombieCleo: 18
+17: hypnotizd: 15
+18: BdoubleO100: 14
+19: GoodTimeWithScar: 14
+20: Welsknight: 8
+21: Keralis1: 5
+22: iskall85: 3
+23: VintageBeef: 1
+Total 1466

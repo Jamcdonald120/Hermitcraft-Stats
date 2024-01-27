@@ -1,0 +1,25 @@
+minecraft.dropped.iron_ingot
+1: Xisuma: 3583
+2: Tango: 1939
+3: Grian: 655
+4: Docm77: 569
+5: GoodTimeWithScar: 230
+6: cubfan135: 216
+7: impulseSV: 127
+8: Welsknight: 121
+9: PearlescentMoon: 116
+10: GeminiTay: 106
+11: xBCrafted: 106
+12: Renthedog: 103
+13: MumboJumbo: 79
+14: Keralis1: 77
+15: Zedaph: 67
+16: BdoubleO100: 50
+17: iJevin: 40
+18: iskall85: 38
+19: falsesymmetry: 33
+20: Stressmonster101: 17
+21: Etho: 13
+22: hypnotizd: 2
+23: VintageBeef: 1
+Total 8288

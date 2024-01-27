@@ -1,0 +1,24 @@
+minecraft.picked_up.snowball
+1: ZombieCleo: 53202
+2: GoodTimeWithScar: 24543
+3: impulseSV: 22103
+4: Docm77: 21743
+5: PearlescentMoon: 3298
+6: Tango: 1737
+7: Grian: 1530
+8: cubfan135: 1121
+9: Renthedog: 847
+10: joehillssays: 384
+11: iJevin: 295
+12: Xisuma: 114
+13: Zedaph: 101
+14: HermitcraftAlt: 60
+15: BdoubleO100: 48
+16: GeminiTay: 44
+17: Keralis1: 41
+18: xBCrafted: 22
+19: Etho: 18
+20: MumboJumbo: 11
+21: VintageBeef: 4
+22: hypnotizd: 1
+Total 131267

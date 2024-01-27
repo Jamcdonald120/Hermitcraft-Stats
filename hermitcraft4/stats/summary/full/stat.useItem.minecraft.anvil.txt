@@ -1,0 +1,25 @@
+stat.useItem.minecraft.anvil
+1: Tango: 4443
+2: iskall85: 288
+3: Xisuma: 255
+4: cubfan135: 242
+5: Renthedog: 241
+6: GoodTimeWithScar: 113
+7: falsesymmetry: 67
+8: iJevin: 41
+9: impulseSV: 34
+10: joehillssays: 24
+11: Tinfoilchef: 24
+12: MumboJumbo: 22
+13: Biffa2001: 21
+14: PythonGB: 17
+15: VintageBeef: 15
+16: Welsknight: 15
+17: ZombieCleo: 11
+18: Docm77: 5
+19: xBCrafted: 5
+20: Etho: 4
+21: zueljin: 1
+22: xisumavoid: 1
+23: Mumbo: 1
+Total 5890

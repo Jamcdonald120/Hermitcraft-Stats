@@ -1,0 +1,3 @@
+stat.useItem.minecraft.stone_axe
+1: falsesymmetry: 3
+Total 3

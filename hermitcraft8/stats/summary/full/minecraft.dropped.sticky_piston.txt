@@ -1,0 +1,8 @@
+minecraft.dropped.sticky_piston
+1: Docm77: 32
+2: Etho: 19
+3: Tango: 10
+4: Zedaph: 8
+5: iJevin: 4
+6: xBCrafted: 2
+Total 75

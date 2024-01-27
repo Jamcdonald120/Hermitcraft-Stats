@@ -1,0 +1,21 @@
+minecraft.crafted.red_terracotta
+1: Renthedog: 30631
+2: Etho: 7239
+3: Keralis1: 3660
+4: impulseSV: 2088
+5: Grian: 1297
+6: ZombieCleo: 1200
+7: iJevin: 1144
+8: PearlescentMoon: 904
+9: falsesymmetry: 744
+10: Stressmonster101: 408
+11: Xisuma: 392
+12: Docm77: 336
+13: joehillssays: 184
+14: cubfan135: 152
+15: BdoubleO100: 112
+16: Tango: 82
+17: xBCrafted: 64
+18: GeminiTay: 24
+19: Zedaph: 1
+Total 50662

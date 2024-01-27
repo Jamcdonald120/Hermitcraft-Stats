@@ -1,0 +1,7 @@
+minecraft.crafted.smooth_red_sandstone_slab
+1: Keralis1: 156
+2: Renthedog: 84
+3: GoodTimeWithScar: 84
+4: Welsknight: 24
+5: Tango: 6
+Total 354

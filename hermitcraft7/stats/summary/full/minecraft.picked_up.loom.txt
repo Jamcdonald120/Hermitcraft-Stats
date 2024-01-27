@@ -1,0 +1,20 @@
+minecraft.picked_up.loom
+1: Keralis1: 82
+2: Zedaph: 82
+3: VintageBeef: 47
+4: cubfan135: 33
+5: Tango: 31
+6: Welsknight: 23
+7: Grian: 22
+8: Xisuma: 19
+9: GoodTimeWithScar: 18
+10: iJevin: 17
+11: Etho: 14
+12: BdoubleO100: 9
+13: impulseSV: 6
+14: hypnotizd: 5
+15: iskall85: 3
+16: Stressmonster101: 3
+17: joehillssays: 2
+18: falsesymmetry: 1
+Total 417

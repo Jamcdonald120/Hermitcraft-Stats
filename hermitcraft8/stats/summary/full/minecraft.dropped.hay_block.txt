@@ -1,0 +1,9 @@
+minecraft.dropped.hay_block
+1: Keralis1: 145
+2: Grian: 28
+3: GoodTimeWithScar: 28
+4: MumboJumbo: 13
+5: joehillssays: 8
+6: Tango: 3
+7: cubfan135: 1
+Total 226

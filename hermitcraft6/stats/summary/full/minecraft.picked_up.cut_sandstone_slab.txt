@@ -1,0 +1,8 @@
+minecraft.picked_up.cut_sandstone_slab
+1: GoodTimeWithScar: 63
+2: Xisuma: 27
+3: PythonGB: 6
+4: ZombieCleo: 6
+5: BdoubleO100: 5
+6: joehillssays: 4
+Total 111

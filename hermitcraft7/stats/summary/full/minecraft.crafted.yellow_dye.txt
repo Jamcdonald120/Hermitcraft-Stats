@@ -1,0 +1,25 @@
+minecraft.crafted.yellow_dye
+1: impulseSV: 4961
+2: Tango: 4114
+3: Xisuma: 3486
+4: Etho: 3311
+5: falsesymmetry: 1478
+6: GoodTimeWithScar: 1251
+7: cubfan135: 1087
+8: Grian: 821
+9: Keralis1: 625
+10: joehillssays: 586
+11: Stressmonster101: 513
+12: Renthedog: 330
+13: iskall85: 290
+14: MumboJumbo: 269
+15: VintageBeef: 191
+16: hypnotizd: 88
+17: iJevin: 85
+18: BdoubleO100: 59
+19: Zedaph: 51
+20: xBCrafted: 36
+21: ZombieCleo: 24
+22: Docm77: 3
+23: Welsknight: 2
+Total 23661

@@ -1,0 +1,14 @@
+stat.pickup.minecraft.brown_mushroom_block
+1: Xisuma: 10264
+2: cubfan135: 5057
+3: iskall85: 3338
+4: Welsknight: 362
+5: Zedaph: 304
+6: falsesymmetry: 133
+7: Tango: 110
+8: PythonGB: 96
+9: Renthedog: 72
+10: MumboJumbo: 37
+11: joehillssays: 16
+12: impulseSV: 2
+Total 19791

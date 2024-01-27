@@ -1,0 +1,18 @@
+minecraft.picked_up.sculk_catalyst
+1: cubfan135: 393
+2: PearlescentMoon: 151
+3: xBCrafted: 116
+4: Docm77: 96
+5: Keralis1: 65
+6: impulseSV: 43
+7: iJevin: 38
+8: Grian: 25
+9: Tango: 22
+10: joehillssays: 16
+11: VintageBeef: 11
+12: Xisuma: 3
+13: GeminiTay: 3
+14: BdoubleO100: 1
+15: GoodTimeWithScar: 1
+16: Zedaph: 1
+Total 985

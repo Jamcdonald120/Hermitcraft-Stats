@@ -1,0 +1,22 @@
+stat.pickup.minecraft.sticky_piston
+1: impulseSV: 907
+2: Xisuma: 775
+3: cubfan135: 764
+4: iskall85: 563
+5: falsesymmetry: 383
+6: MumboJumbo: 310
+7: Tango: 288
+8: iJevin: 185
+9: Etho: 150
+10: Docm77: 108
+11: Renthedog: 96
+12: GoodTimeWithScar: 47
+13: VintageBeef: 33
+14: Mumbo: 32
+15: joehillssays: 29
+16: Welsknight: 28
+17: Tinfoilchef: 14
+18: ZombieCleo: 11
+19: zueljin: 8
+20: xisumavoid: 1
+Total 4732

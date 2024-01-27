@@ -1,0 +1,8 @@
+minecraft.dropped.ghast_tear
+1: Zedaph: 132
+2: Docm77: 65
+3: Renthedog: 64
+4: PearlescentMoon: 15
+5: iJevin: 12
+6: GoodTimeWithScar: 3
+Total 291

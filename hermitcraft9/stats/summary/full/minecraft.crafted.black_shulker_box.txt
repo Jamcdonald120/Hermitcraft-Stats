@@ -1,0 +1,23 @@
+minecraft.crafted.black_shulker_box
+1: Tango: 151
+2: joehillssays: 58
+3: impulseSV: 31
+4: xBCrafted: 29
+5: Xisuma: 23
+6: GoodTimeWithScar: 13
+7: Docm77: 8
+8: VintageBeef: 6
+9: falsesymmetry: 6
+10: Grian: 5
+11: Zedaph: 5
+12: MythicalSausage: 3
+13: iskall85: 3
+14: Etho: 3
+15: Mumbo: 2
+16: Renthedog: 1
+17: GeminiTay: 1
+18: BdoubleO100: 1
+19: PearlescentMoon: 1
+20: ZombieCleo: 1
+21: hypnotizd: 1
+Total 352

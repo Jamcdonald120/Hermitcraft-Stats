@@ -1,0 +1,14 @@
+stat.useItem.minecraft.ice
+1: falsesymmetry: 1956
+2: Xisuma: 988
+3: iJevin: 378
+4: Tango: 286
+5: xBCrafted: 244
+6: Tinfoilchef: 103
+7: impulseSV: 68
+8: zueljin: 53
+9: Docm77: 51
+10: Biffa2001: 35
+11: Mumbo: 2
+12: topmass: 1
+Total 4165

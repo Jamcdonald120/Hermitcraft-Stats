@@ -1,0 +1,33 @@
+minecraft.custom.crouch_one_cm
+1: Docm77: 16570605
+2: impulseSV: 15968775
+3: PearlescentMoon: 12636787
+4: BdoubleO100: 10217037
+5: ZombieCleo: 8219870
+6: GoodTimeWithScar: 7705412
+7: xBCrafted: 7529627
+8: Tango: 7018357
+9: Xisuma: 6745829
+10: Renthedog: 6534644
+11: Grian: 6476493
+12: iJevin: 6135165
+13: hypnotizd: 5546981
+14: MumboJumbo: 5351142
+15: cubfan135: 4897886
+16: GeminiTay: 4889918
+17: Welsknight: 4842511
+18: falsesymmetry: 4494714
+19: Zedaph: 3394348
+20: joehillssays: 3069303
+21: Keralis1: 2351218
+22: VintageBeef: 1581691
+23: iskall85: 1359615
+24: Etho: 1342227
+25: Stressmonster101: 470577
+26: EvilXisuma: 311672
+27: Tinfoilchef: 127178
+28: pillbugnine: 9119
+29: HermitcraftAlt: 2988
+30: Helsknight_: 222
+31: CamM77: 40
+Total 155801951

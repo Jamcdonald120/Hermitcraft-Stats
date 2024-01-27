@@ -1,0 +1,22 @@
+minecraft.mined.stone_pressure_plate
+1: Tango: 166
+2: cubfan135: 72
+3: Zedaph: 66
+4: VintageBeef: 54
+5: BdoubleO100: 33
+6: MumboJumbo: 23
+7: impulseSV: 20
+8: iskall85: 17
+9: GoodTimeWithScar: 12
+10: xBCrafted: 11
+11: falsesymmetry: 11
+12: Docm77: 9
+13: Xisuma: 9
+14: Etho: 7
+15: Keralis1: 7
+16: Stressmonster101: 6
+17: Grian: 4
+18: hypnotizd: 4
+19: Renthedog: 2
+20: joehillssays: 2
+Total 535

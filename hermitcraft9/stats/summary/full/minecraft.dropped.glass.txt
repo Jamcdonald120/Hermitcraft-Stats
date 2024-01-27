@@ -1,0 +1,24 @@
+minecraft.dropped.glass
+1: Grian: 8364
+2: Etho: 3221
+3: GoodTimeWithScar: 2087
+4: falsesymmetry: 1958
+5: Tango: 1911
+6: iJevin: 1033
+7: BdoubleO100: 576
+8: Xisuma: 529
+9: Zedaph: 337
+10: Stressmonster101: 190
+11: RentheKing: 176
+12: cubfan135: 146
+13: iskall85: 125
+14: Keralis1: 96
+15: GeminiTay: 91
+16: Renthedog: 85
+17: Docm77: 81
+18: impulseSV: 70
+19: PearlescentMoon: 57
+20: hypnotizd: 14
+21: truesymmetry: 11
+22: ZombieCleo: 1
+Total 21159

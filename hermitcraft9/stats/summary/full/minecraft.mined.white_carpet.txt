@@ -1,0 +1,25 @@
+minecraft.mined.white_carpet
+1: VintageBeef: 6461
+2: impulseSV: 1532
+3: iJevin: 688
+4: joehillssays: 684
+5: Zedaph: 301
+6: ZombieCleo: 97
+7: cubfan135: 94
+8: Welsknight: 80
+9: Keralis1: 34
+10: Xisuma: 20
+11: GoodTimeWithScar: 16
+12: Tango: 13
+13: xBCrafted: 13
+14: Smajor1995: 11
+15: Renthedog: 7
+16: Grian: 6
+17: Etho: 4
+18: BdoubleO100: 3
+19: GeminiTay: 2
+20: PearlescentMoon: 2
+21: falsesymmetry: 2
+22: Docm77: 1
+23: iskall85: 1
+Total 10072

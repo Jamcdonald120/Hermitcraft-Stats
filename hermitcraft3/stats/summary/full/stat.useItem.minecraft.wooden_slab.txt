@@ -1,0 +1,24 @@
+stat.useItem.minecraft.wooden_slab
+1: Xisuma: 31211
+2: xBCrafted: 16034
+3: zueljin: 13394
+4: falsesymmetry: 11635
+5: Tango: 5159
+6: impulseSV: 4266
+7: Mumbo: 3714
+8: monkeyfarm: 1957
+9: iJevin: 1919
+10: topmass: 1725
+11: Biffa2001: 1565
+12: sl1pg8r: 746
+13: ZombieCleo: 549
+14: Etho: 371
+15: joehillssays: 310
+16: PythonGB: 257
+17: Tinfoilchef: 229
+18: Keralis1: 214
+19: Spumwackles: 163
+20: hypnotizd: 153
+21: Docm77: 64
+22: KingDaddyDMAC: 16
+Total 95651

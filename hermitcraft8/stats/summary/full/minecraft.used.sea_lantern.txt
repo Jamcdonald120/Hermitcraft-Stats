@@ -1,0 +1,22 @@
+minecraft.used.sea_lantern
+1: Welsknight: 2380
+2: impulseSV: 1154
+3: iskall85: 684
+4: cubfan135: 563
+5: Zedaph: 463
+6: Docm77: 445
+7: MumboJumbo: 370
+8: xBCrafted: 322
+9: Keralis1: 264
+10: Etho: 168
+11: Renthedog: 84
+12: PearlescentMoon: 84
+13: joehillssays: 73
+14: falsesymmetry: 58
+15: Xisuma: 38
+16: GeminiTay: 36
+17: Tango: 18
+18: VintageBeef: 6
+19: BdoubleO100: 4
+20: GoodTimeWithScar: 2
+Total 7216

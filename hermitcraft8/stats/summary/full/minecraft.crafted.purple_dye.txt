@@ -1,0 +1,21 @@
+minecraft.crafted.purple_dye
+1: iJevin: 1152
+2: Etho: 414
+3: ZombieCleo: 270
+4: Renthedog: 202
+5: Docm77: 128
+6: cubfan135: 100
+7: Welsknight: 66
+8: falsesymmetry: 62
+9: Stressmonster101: 42
+10: GoodTimeWithScar: 36
+11: Grian: 30
+12: Xisuma: 28
+13: Tango: 23
+14: impulseSV: 6
+15: xBCrafted: 4
+16: Zedaph: 4
+17: GeminiTay: 2
+18: BdoubleO100: 2
+19: PearlescentMoon: 2
+Total 2573

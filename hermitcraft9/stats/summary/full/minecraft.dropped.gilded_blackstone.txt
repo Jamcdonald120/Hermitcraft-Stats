@@ -1,0 +1,5 @@
+minecraft.dropped.gilded_blackstone
+1: iJevin: 91
+2: Zedaph: 10
+3: Keralis1: 4
+Total 105

@@ -1,0 +1,28 @@
+stat.useItem.minecraft.cooked_chicken
+1: falsesymmetry: 9534
+2: Mumbo: 3010
+3: xBCrafted: 1089
+4: Tango: 771
+5: hypnotizd: 669
+6: sl1pg8r: 618
+7: zueljin: 493
+8: impulseSV: 342
+9: Docm77: 338
+10: joehillssays: 294
+11: Tinfoilchef: 288
+12: Biffa2001: 267
+13: PythonGB: 245
+14: topmass: 199
+15: monkeyfarm: 164
+16: ZombieCleo: 117
+17: skyzm: 104
+18: Spumwackles: 102
+19: Keralis1: 76
+20: Xisuma: 67
+21: KingDaddyDMAC: 44
+22: Mrs_Keralis: 33
+23: iJevin: 21
+24: Collen: 3
+25: Pungence: 2
+26: Etho: 2
+Total 18892

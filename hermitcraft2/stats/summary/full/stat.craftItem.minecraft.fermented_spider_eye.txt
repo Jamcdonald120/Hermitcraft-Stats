@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.fermented_spider_eye
+1: Xisuma: 14
+2: falsesymmetry: 4
+Total 18

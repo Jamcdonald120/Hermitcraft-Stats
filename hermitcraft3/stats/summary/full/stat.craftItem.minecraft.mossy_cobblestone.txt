@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.mossy_cobblestone
+1: Tango: 104
+2: xBCrafted: 102
+3: falsesymmetry: 61
+4: Tinfoilchef: 55
+5: impulseSV: 26
+6: monkeyfarm: 5
+7: iJevin: 2
+Total 355

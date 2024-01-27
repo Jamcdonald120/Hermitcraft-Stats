@@ -1,0 +1,24 @@
+minecraft.used.iron_sword
+1: GoodTimeWithScar: 3308
+2: falsesymmetry: 3013
+3: joehillssays: 1758
+4: BdoubleO100: 1681
+5: Xisuma: 1045
+6: Tango: 998
+7: ZombieCleo: 995
+8: GeminiTay: 916
+9: Grian: 837
+10: Etho: 835
+11: impulseSV: 800
+12: Zedaph: 747
+13: Welsknight: 499
+14: Renthedog: 347
+15: PearlescentMoon: 248
+16: cubfan135: 235
+17: VintageBeef: 176
+18: Docm77: 152
+19: Stressmonster101: 119
+20: iJevin: 90
+21: xBCrafted: 45
+22: Tinfoilchef: 29
+Total 18873

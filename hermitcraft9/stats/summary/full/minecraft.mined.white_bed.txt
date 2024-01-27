@@ -1,0 +1,31 @@
+minecraft.mined.white_bed
+1: Xisuma: 322
+2: Docm77: 280
+3: Renthedog: 257
+4: Tango: 234
+5: BdoubleO100: 204
+6: Zedaph: 134
+7: iJevin: 122
+8: VintageBeef: 93
+9: Stressmonster101: 68
+10: Keralis1: 67
+11: Welsknight: 64
+12: impulseSV: 55
+13: Grian: 52
+14: cubfan135: 48
+15: ZombieCleo: 45
+16: Etho: 40
+17: xBCrafted: 38
+18: joehillssays: 36
+19: PearlescentMoon: 25
+20: GoodTimeWithScar: 21
+21: iskall85: 20
+22: RentheKing: 15
+23: Mumbo: 13
+24: falsesymmetry: 9
+25: MythicalSausage: 3
+26: Pixlriffs: 3
+27: MumboJumbo: 3
+28: Smajor1995: 1
+29: GeminiTay: 1
+Total 2273

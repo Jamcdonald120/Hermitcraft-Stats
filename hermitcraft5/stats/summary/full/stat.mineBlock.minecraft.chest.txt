@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.chest
+1: Zedaph: 1853
+2: cubfan135: 971
+3: MumboJumbo: 925
+4: Xisuma: 864
+5: iJevin: 845
+6: Tango: 787
+7: impulseSV: 658
+8: Renthedog: 534
+9: falsesymmetry: 532
+10: Welsknight: 507
+11: iskall85: 501
+12: GoodTimeWithScar: 404
+13: joehillssays: 340
+14: PythonGB: 336
+15: Stressmonster101: 274
+16: Tinfoilchef: 242
+17: xBCrafted: 233
+18: Biffa2001: 47
+19: Etho: 47
+20: BdoubleO100: 33
+21: Docm77: 32
+22: VintageBeef: 32
+23: ZombieCleo: 31
+Total 11028

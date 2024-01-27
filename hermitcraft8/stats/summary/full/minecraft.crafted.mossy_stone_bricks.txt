@@ -1,0 +1,16 @@
+minecraft.crafted.mossy_stone_bricks
+1: iJevin: 17342
+2: Keralis1: 1022
+3: Etho: 704
+4: cubfan135: 692
+5: PearlescentMoon: 313
+6: Tango: 236
+7: Docm77: 199
+8: ZombieCleo: 121
+9: impulseSV: 85
+10: iskall85: 64
+11: falsesymmetry: 64
+12: GeminiTay: 32
+13: Stressmonster101: 31
+14: BdoubleO100: 10
+Total 20915

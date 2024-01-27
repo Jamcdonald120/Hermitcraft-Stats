@@ -1,0 +1,5 @@
+stat.cauldronUsed
+1: zueljin: 10
+2: falsesymmetry: 8
+3: impulseSV: 3
+Total 21

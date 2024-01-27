@@ -1,0 +1,7 @@
+minecraft.dropped.mangrove_pressure_plate
+1: Renthedog: 106
+2: Tango: 2
+3: GoodTimeWithScar: 2
+4: Xisuma: 1
+5: Stressmonster101: 1
+Total 112

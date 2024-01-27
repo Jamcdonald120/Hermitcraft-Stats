@@ -1,0 +1,18 @@
+minecraft.picked_up.damaged_anvil
+1: Xisuma: 34
+2: cubfan135: 16
+3: BdoubleO100: 9
+4: impulseSV: 6
+5: iJevin: 5
+6: Docm77: 4
+7: Renthedog: 3
+8: joehillssays: 3
+9: xBCrafted: 3
+10: hypnotizd: 3
+11: Zedaph: 3
+12: falsesymmetry: 2
+13: Keralis1: 2
+14: Grian: 1
+15: Etho: 1
+16: GoodTimeWithScar: 1
+Total 96

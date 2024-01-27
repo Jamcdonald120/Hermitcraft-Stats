@@ -1,0 +1,19 @@
+minecraft.crafted.soul_torch
+1: Grian: 3628
+2: Etho: 1468
+3: joehillssays: 676
+4: xBCrafted: 576
+5: cubfan135: 570
+6: Tango: 508
+7: GoodTimeWithScar: 436
+8: falsesymmetry: 400
+9: Xisuma: 388
+10: hypnotizd: 256
+11: MumboJumbo: 108
+12: Zedaph: 80
+13: Stressmonster101: 60
+14: BdoubleO100: 48
+15: iskall85: 20
+16: VintageBeef: 16
+17: Docm77: 4
+Total 9242

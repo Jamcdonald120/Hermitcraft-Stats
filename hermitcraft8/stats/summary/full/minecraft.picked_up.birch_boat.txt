@@ -1,0 +1,19 @@
+minecraft.picked_up.birch_boat
+1: BdoubleO100: 98
+2: PearlescentMoon: 58
+3: iJevin: 28
+4: impulseSV: 26
+5: Docm77: 22
+6: cubfan135: 20
+7: Xisuma: 17
+8: GeminiTay: 11
+9: Renthedog: 9
+10: Tango: 8
+11: Grian: 7
+12: GoodTimeWithScar: 7
+13: falsesymmetry: 4
+14: Tinfoilchef: 2
+15: EvilXisuma: 1
+16: pillbugnine: 1
+17: joehillssays: 1
+Total 320

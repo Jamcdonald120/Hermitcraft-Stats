@@ -1,0 +1,26 @@
+stat.craftItem.minecraft.dye
+1: Xisuma: 130087
+2: impulseSV: 123086
+3: Renthedog: 106521
+4: Welsknight: 92351
+5: cubfan135: 86919
+6: GoodTimeWithScar: 63134
+7: falsesymmetry: 45080
+8: iskall85: 29739
+9: Etho: 19377
+10: Tango: 16774
+11: MumboJumbo: 13680
+12: Docm77: 8521
+13: joehillssays: 7452
+14: PythonGB: 5233
+15: ZombieCleo: 5040
+16: Tinfoilchef: 4734
+17: iJevin: 3944
+18: Mumbo: 2853
+19: Biffa2001: 2039
+20: VintageBeef: 822
+21: xBCrafted: 186
+22: zueljin: 99
+23: Jessassin: 45
+24: hypnotizd: 6
+Total 767722

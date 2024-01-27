@@ -1,0 +1,23 @@
+minecraft.picked_up.mossy_stone_bricks
+1: Renthedog: 549
+2: falsesymmetry: 543
+3: iJevin: 157
+4: Keralis1: 157
+5: Stressmonster101: 135
+6: Tango: 127
+7: Xisuma: 81
+8: cubfan135: 78
+9: iskall85: 44
+10: BdoubleO100: 41
+11: Docm77: 40
+12: Biffa2001: 16
+13: ZombieCleo: 16
+14: Grian: 12
+15: GoodTimeWithScar: 6
+16: PythonGB: 5
+17: impulseSV: 3
+18: joehillssays: 2
+19: MumboJumbo: 2
+20: Zedaph: 2
+21: Welsknight: 1
+Total 2017

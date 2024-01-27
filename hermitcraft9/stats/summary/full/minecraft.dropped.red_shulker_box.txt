@@ -1,0 +1,20 @@
+minecraft.dropped.red_shulker_box
+1: impulseSV: 36
+2: Tango: 23
+3: Docm77: 14
+4: joehillssays: 4
+5: Smallishbeans: 3
+6: PearlescentMoon: 3
+7: VintageBeef: 2
+8: iJevin: 2
+9: BdoubleO100: 2
+10: iskall85: 2
+11: GoodTimeWithScar: 2
+12: Keralis1: 2
+13: Skizzleman: 1
+14: xBCrafted: 1
+15: cubfan135: 1
+16: ZombieCleo: 1
+17: RentheKing: 1
+18: Stressmonster101: 1
+Total 101

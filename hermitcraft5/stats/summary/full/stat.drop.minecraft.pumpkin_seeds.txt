@@ -1,0 +1,15 @@
+stat.drop.minecraft.pumpkin_seeds
+1: MumboJumbo: 1024
+2: Zedaph: 119
+3: xBCrafted: 12
+4: Tango: 11
+5: iskall85: 10
+6: impulseSV: 8
+7: cubfan135: 7
+8: Stressmonster101: 6
+9: PythonGB: 5
+10: Xisuma: 4
+11: joehillssays: 2
+12: GoodTimeWithScar: 2
+13: Docm77: 1
+Total 1211

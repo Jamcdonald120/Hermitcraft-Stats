@@ -1,0 +1,19 @@
+minecraft.picked_up.orange_carpet
+1: cubfan135: 558
+2: joehillssays: 255
+3: iJevin: 227
+4: Tango: 211
+5: Xisuma: 195
+6: falsesymmetry: 95
+7: BdoubleO100: 80
+8: VintageBeef: 64
+9: Zedaph: 11
+10: MumboJumbo: 8
+11: impulseSV: 6
+12: GoodTimeWithScar: 5
+13: xBCrafted: 3
+14: Etho: 3
+15: Keralis1: 3
+16: Stressmonster101: 2
+17: Grian: 1
+Total 1727

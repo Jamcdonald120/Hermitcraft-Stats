@@ -1,0 +1,19 @@
+minecraft.picked_up.stone_pickaxe
+1: joehillssays: 8
+2: Tinfoilchef: 7
+3: iJevin: 4
+4: BdoubleO100: 4
+5: ZombieCleo: 4
+6: Tango: 3
+7: GoodTimeWithScar: 3
+8: Zedaph: 3
+9: PearlescentMoon: 2
+10: hypnotizd: 2
+11: MumboJumbo: 2
+12: GeminiTay: 1
+13: iskall85: 1
+14: cubfan135: 1
+15: Welsknight: 1
+16: Etho: 1
+17: impulseSV: 1
+Total 48

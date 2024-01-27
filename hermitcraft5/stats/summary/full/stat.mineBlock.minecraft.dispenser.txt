@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.dispenser
+1: cubfan135: 138
+2: Xisuma: 97
+3: impulseSV: 62
+4: MumboJumbo: 52
+5: Tango: 46
+6: iskall85: 37
+7: xBCrafted: 35
+8: falsesymmetry: 25
+9: Docm77: 24
+10: Welsknight: 23
+11: Zedaph: 23
+12: iJevin: 21
+13: GoodTimeWithScar: 20
+14: PythonGB: 13
+15: Stressmonster101: 12
+16: Renthedog: 8
+17: BdoubleO100: 8
+18: joehillssays: 5
+19: VintageBeef: 4
+20: Tinfoilchef: 4
+21: Etho: 2
+Total 659

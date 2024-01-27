@@ -1,0 +1,25 @@
+stat.pickup.minecraft.leather_boots
+1: GoodTimeWithScar: 141
+2: impulseSV: 121
+3: Renthedog: 101
+4: cubfan135: 88
+5: Xisuma: 72
+6: falsesymmetry: 68
+7: iskall85: 59
+8: Welsknight: 55
+9: joehillssays: 49
+10: MumboJumbo: 22
+11: ZombieCleo: 20
+12: Tango: 18
+13: PythonGB: 17
+14: Docm77: 14
+15: iJevin: 14
+16: Tinfoilchef: 11
+17: VintageBeef: 9
+18: Etho: 9
+19: Jessassin: 3
+20: Mumbo: 3
+21: Biffa2001: 2
+22: xBCrafted: 1
+23: xisumavoid: 1
+Total 898

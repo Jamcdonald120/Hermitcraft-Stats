@@ -1,0 +1,26 @@
+minecraft.mined.spruce_wall_sign
+1: impulseSV: 109
+2: iJevin: 90
+3: Tango: 60
+4: PearlescentMoon: 56
+5: xBCrafted: 56
+6: GoodTimeWithScar: 25
+7: falsesymmetry: 21
+8: hypnotizd: 20
+9: ZombieCleo: 19
+10: Keralis1: 18
+11: GeminiTay: 17
+12: cubfan135: 12
+13: Xisuma: 8
+14: Renthedog: 7
+15: BdoubleO100: 7
+16: Grian: 6
+17: Zedaph: 4
+18: VintageBeef: 3
+19: Docm77: 2
+20: Welsknight: 2
+21: MythicalSausage: 1
+22: joehillssays: 1
+23: RentheKing: 1
+24: Stressmonster101: 1
+Total 546

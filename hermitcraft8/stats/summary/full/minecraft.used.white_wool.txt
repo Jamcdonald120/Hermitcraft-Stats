@@ -1,0 +1,24 @@
+minecraft.used.white_wool
+1: impulseSV: 3415
+2: xBCrafted: 2179
+3: Tango: 1982
+4: hypnotizd: 1916
+5: GoodTimeWithScar: 1770
+6: BdoubleO100: 921
+7: PearlescentMoon: 570
+8: Xisuma: 372
+9: Grian: 351
+10: falsesymmetry: 339
+11: ZombieCleo: 314
+12: Zedaph: 179
+13: GeminiTay: 131
+14: cubfan135: 114
+15: Renthedog: 81
+16: MumboJumbo: 35
+17: Welsknight: 33
+18: Keralis1: 8
+19: Docm77: 7
+20: joehillssays: 4
+21: iJevin: 1
+22: iskall85: 1
+Total 14723

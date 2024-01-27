@@ -1,0 +1,3 @@
+minecraft.dropped.bubble_coral_fan
+1: cubfan135: 7
+Total 7

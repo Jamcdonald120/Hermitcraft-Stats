@@ -1,0 +1,12 @@
+minecraft.dropped.acacia_trapdoor
+1: Keralis1: 85
+2: falsesymmetry: 51
+3: GoodTimeWithScar: 51
+4: Grian: 42
+5: Renthedog: 41
+6: Zedaph: 31
+7: Tango: 26
+8: cubfan135: 24
+9: iJevin: 12
+10: Etho: 2
+Total 365

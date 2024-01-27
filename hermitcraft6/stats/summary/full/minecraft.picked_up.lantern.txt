@@ -1,0 +1,21 @@
+minecraft.picked_up.lantern
+1: cubfan135: 506
+2: GoodTimeWithScar: 488
+3: Renthedog: 368
+4: joehillssays: 364
+5: ZombieCleo: 340
+6: falsesymmetry: 296
+7: Xisuma: 266
+8: Grian: 217
+9: Keralis1: 142
+10: iskall85: 127
+11: Tango: 121
+12: BdoubleO100: 76
+13: PythonGB: 66
+14: Stressmonster101: 35
+15: Welsknight: 27
+16: HumanCleo: 16
+17: impulseSV: 16
+18: Docm77: 15
+19: iJevin: 1
+Total 3487

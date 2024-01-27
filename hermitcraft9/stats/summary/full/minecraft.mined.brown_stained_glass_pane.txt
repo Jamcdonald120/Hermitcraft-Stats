@@ -1,0 +1,5 @@
+minecraft.mined.brown_stained_glass_pane
+1: falsesymmetry: 6
+2: Xisuma: 2
+3: cubfan135: 2
+Total 10

@@ -1,0 +1,12 @@
+minecraft.picked_up.golden_horse_armor
+1: Grian: 5
+2: Tango: 5
+3: Docm77: 2
+4: falsesymmetry: 2
+5: Welsknight: 2
+6: iJevin: 1
+7: GeminiTay: 1
+8: PearlescentMoon: 1
+9: MumboJumbo: 1
+10: Zedaph: 1
+Total 21

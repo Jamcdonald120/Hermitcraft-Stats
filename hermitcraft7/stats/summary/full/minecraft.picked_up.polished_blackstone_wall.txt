@@ -1,0 +1,23 @@
+minecraft.picked_up.polished_blackstone_wall
+1: cubfan135: 945
+2: GoodTimeWithScar: 760
+3: impulseSV: 207
+4: xBCrafted: 196
+5: Tango: 131
+6: ZombieCleo: 75
+7: BdoubleO100: 74
+8: Xisuma: 68
+9: VintageBeef: 49
+10: joehillssays: 43
+11: hypnotizd: 38
+12: Etho: 21
+13: falsesymmetry: 20
+14: iJevin: 19
+15: Keralis1: 14
+16: MumboJumbo: 4
+17: Stressmonster101: 4
+18: Grian: 3
+19: Zedaph: 2
+20: Docm77: 1
+21: Welsknight: 1
+Total 2675

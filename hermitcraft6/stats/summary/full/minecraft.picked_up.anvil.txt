@@ -1,0 +1,25 @@
+minecraft.picked_up.anvil
+1: cubfan135: 283
+2: iskall85: 120
+3: Docm77: 96
+4: Xisuma: 96
+5: Renthedog: 93
+6: GoodTimeWithScar: 83
+7: Grian: 66
+8: falsesymmetry: 53
+9: impulseSV: 41
+10: Tango: 37
+11: BdoubleO100: 30
+12: iJevin: 28
+13: Stressmonster101: 21
+14: joehillssays: 19
+15: PythonGB: 15
+16: Welsknight: 15
+17: Zedaph: 14
+18: Biffa2001: 7
+19: ZombieCleo: 5
+20: MumboJumbo: 5
+21: xBCrafted: 2
+22: HumanCleo: 1
+23: Keralis1: 1
+Total 1131

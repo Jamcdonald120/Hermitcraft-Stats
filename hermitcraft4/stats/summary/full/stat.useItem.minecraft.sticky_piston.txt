@@ -1,0 +1,22 @@
+stat.useItem.minecraft.sticky_piston
+1: cubfan135: 1516
+2: MumboJumbo: 1051
+3: Xisuma: 1001
+4: iskall85: 804
+5: impulseSV: 784
+6: Tango: 483
+7: Renthedog: 444
+8: falsesymmetry: 320
+9: Etho: 240
+10: Docm77: 152
+11: Welsknight: 125
+12: GoodTimeWithScar: 49
+13: VintageBeef: 36
+14: Mumbo: 31
+15: iJevin: 25
+16: joehillssays: 21
+17: Tinfoilchef: 21
+18: ZombieCleo: 18
+19: zueljin: 8
+20: xisumavoid: 3
+Total 7132

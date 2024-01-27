@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.birch_door
+1: cubfan135: 258
+2: MumboJumbo: 255
+3: impulseSV: 18
+4: joehillssays: 9
+5: Tango: 6
+6: Tinfoilchef: 6
+7: Xisuma: 3
+8: VintageBeef: 3
+9: xBCrafted: 3
+10: Welsknight: 3
+11: Etho: 3
+Total 567

@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.emerald
+1: Xisuma: 2062
+2: iJevin: 158
+3: Tango: 134
+Total 2354

@@ -1,0 +1,22 @@
+minecraft.mined.quartz_block
+1: impulseSV: 3746
+2: GoodTimeWithScar: 908
+3: Keralis1: 767
+4: Zedaph: 544
+5: Etho: 440
+6: Tango: 274
+7: Grian: 208
+8: VintageBeef: 148
+9: falsesymmetry: 109
+10: joehillssays: 84
+11: ZombieCleo: 76
+12: Renthedog: 56
+13: Xisuma: 38
+14: MumboJumbo: 36
+15: Docm77: 34
+16: iskall85: 28
+17: Stressmonster101: 25
+18: BdoubleO100: 20
+19: cubfan135: 8
+20: xBCrafted: 5
+Total 7554

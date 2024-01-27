@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.stone_axe
+1: joehillssays: 7
+2: iskall85: 6
+3: Tinfoilchef: 6
+4: Renthedog: 5
+5: falsesymmetry: 4
+6: Welsknight: 4
+7: GoodTimeWithScar: 4
+8: PythonGB: 3
+9: cubfan135: 3
+10: Jessassin: 2
+11: hypnotizd: 2
+12: impulseSV: 2
+13: Docm77: 1
+14: Xisuma: 1
+15: VintageBeef: 1
+16: iJevin: 1
+17: zueljin: 1
+18: Tango: 1
+19: Etho: 1
+20: ZombieCleo: 1
+21: Mumbo: 1
+Total 57

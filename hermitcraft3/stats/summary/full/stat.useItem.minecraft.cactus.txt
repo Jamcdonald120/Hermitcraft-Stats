@@ -1,0 +1,19 @@
+stat.useItem.minecraft.cactus
+1: Xisuma: 575
+2: ZombieCleo: 187
+3: Tinfoilchef: 153
+4: Tango: 54
+5: monkeyfarm: 49
+6: falsesymmetry: 48
+7: KingDaddyDMAC: 45
+8: Mumbo: 40
+9: sl1pg8r: 25
+10: Biffa2001: 21
+11: xBCrafted: 19
+12: Spumwackles: 18
+13: impulseSV: 15
+14: snipepager: 7
+15: iJevin: 6
+16: hypnotizd: 3
+17: topmass: 2
+Total 1267

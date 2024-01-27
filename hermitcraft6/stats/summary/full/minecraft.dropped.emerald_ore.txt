@@ -1,0 +1,4 @@
+minecraft.dropped.emerald_ore
+1: iJevin: 10
+2: Tango: 6
+Total 16

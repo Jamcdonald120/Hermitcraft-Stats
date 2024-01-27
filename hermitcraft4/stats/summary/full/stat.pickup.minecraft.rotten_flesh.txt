@@ -1,0 +1,28 @@
+stat.pickup.minecraft.rotten_flesh
+1: GoodTimeWithScar: 18251
+2: Renthedog: 9101
+3: Xisuma: 8388
+4: iskall85: 7949
+5: cubfan135: 6756
+6: impulseSV: 6195
+7: Welsknight: 5335
+8: falsesymmetry: 5135
+9: Tango: 4742
+10: joehillssays: 4571
+11: MumboJumbo: 4250
+12: iJevin: 3978
+13: PythonGB: 1852
+14: Docm77: 1106
+15: Tinfoilchef: 1099
+16: xisumavoid: 820
+17: Biffa2001: 612
+18: Etho: 553
+19: VintageBeef: 464
+20: ZombieCleo: 404
+21: Jessassin: 376
+22: xBCrafted: 217
+23: Mumbo: 207
+24: zueljin: 48
+25: hypnotizd: 3
+26: WellsGlazes: 1
+Total 92413

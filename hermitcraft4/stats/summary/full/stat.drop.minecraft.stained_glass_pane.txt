@@ -1,0 +1,14 @@
+stat.drop.minecraft.stained_glass_pane
+1: falsesymmetry: 457
+2: Tango: 70
+3: PythonGB: 64
+4: GoodTimeWithScar: 40
+5: MumboJumbo: 28
+6: Renthedog: 26
+7: Welsknight: 26
+8: Xisuma: 12
+9: impulseSV: 11
+10: cubfan135: 5
+11: iskall85: 2
+12: xisumavoid: 2
+Total 743

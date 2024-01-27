@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.spruce_stairs
+1: iJevin: 208
+2: ZombieCleo: 66
+3: Mumbo: 32
+4: Xisuma: 26
+5: Tango: 26
+6: falsesymmetry: 26
+7: xBCrafted: 17
+8: zueljin: 11
+9: Spumwackles: 6
+Total 418

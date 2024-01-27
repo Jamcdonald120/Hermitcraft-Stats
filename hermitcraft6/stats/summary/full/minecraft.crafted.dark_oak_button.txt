@@ -1,0 +1,16 @@
+minecraft.crafted.dark_oak_button
+1: falsesymmetry: 650
+2: cubfan135: 186
+3: Grian: 46
+4: Welsknight: 44
+5: Tango: 33
+6: GoodTimeWithScar: 19
+7: Docm77: 15
+8: Xisuma: 15
+9: Renthedog: 10
+10: BdoubleO100: 6
+11: iskall85: 5
+12: Keralis1: 4
+13: MumboJumbo: 3
+14: Stressmonster101: 2
+Total 1038

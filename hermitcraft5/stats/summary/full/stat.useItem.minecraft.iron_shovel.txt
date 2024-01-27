@@ -1,0 +1,24 @@
+stat.useItem.minecraft.iron_shovel
+1: impulseSV: 17479
+2: GoodTimeWithScar: 3666
+3: Xisuma: 3391
+4: Zedaph: 3315
+5: VintageBeef: 2022
+6: joehillssays: 1482
+7: Biffa2001: 1467
+8: xBCrafted: 1408
+9: Tango: 1003
+10: Welsknight: 776
+11: Renthedog: 749
+12: ZombieCleo: 498
+13: Tinfoilchef: 482
+14: cubfan135: 448
+15: BdoubleO100: 252
+16: Stressmonster101: 250
+17: MumboJumbo: 237
+18: Etho: 209
+19: iskall85: 192
+20: falsesymmetry: 180
+21: iJevin: 24
+22: Docm77: 20
+Total 39550

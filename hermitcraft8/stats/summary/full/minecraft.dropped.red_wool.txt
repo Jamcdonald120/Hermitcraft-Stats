@@ -1,0 +1,13 @@
+minecraft.dropped.red_wool
+1: impulseSV: 258
+2: Zedaph: 118
+3: Grian: 107
+4: iJevin: 95
+5: GoodTimeWithScar: 70
+6: Tango: 55
+7: GeminiTay: 50
+8: PearlescentMoon: 11
+9: falsesymmetry: 1
+10: hypnotizd: 1
+11: Keralis1: 1
+Total 767

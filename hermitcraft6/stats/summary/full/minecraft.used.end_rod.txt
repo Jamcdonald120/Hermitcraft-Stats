@@ -1,0 +1,25 @@
+minecraft.used.end_rod
+1: GoodTimeWithScar: 4194
+2: MumboJumbo: 3130
+3: cubfan135: 2464
+4: iskall85: 2069
+5: Xisuma: 1265
+6: Grian: 1215
+7: Tinfoilchef: 1053
+8: Tango: 800
+9: Stressmonster101: 682
+10: Docm77: 462
+11: impulseSV: 273
+12: ZombieCleo: 256
+13: PythonGB: 245
+14: joehillssays: 225
+15: falsesymmetry: 191
+16: Keralis1: 175
+17: Zedaph: 150
+18: Renthedog: 141
+19: Welsknight: 94
+20: HumanCleo: 80
+21: BdoubleO100: 36
+22: iJevin: 14
+23: Jura_Whitey: 2
+Total 19216

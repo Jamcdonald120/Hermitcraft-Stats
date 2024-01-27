@@ -1,0 +1,24 @@
+minecraft.picked_up.stone_pressure_plate
+1: cubfan135: 795
+2: BdoubleO100: 540
+3: iskall85: 261
+4: iJevin: 192
+5: Keralis1: 133
+6: falsesymmetry: 127
+7: Renthedog: 116
+8: MumboJumbo: 113
+9: Tango: 109
+10: Xisuma: 107
+11: Docm77: 104
+12: impulseSV: 59
+13: Grian: 50
+14: GoodTimeWithScar: 46
+15: Zedaph: 23
+16: joehillssays: 18
+17: Stressmonster101: 11
+18: ZombieCleo: 10
+19: Tinfoilchef: 9
+20: Jura_Whitey: 1
+21: PythonGB: 1
+22: Welsknight: 1
+Total 2826

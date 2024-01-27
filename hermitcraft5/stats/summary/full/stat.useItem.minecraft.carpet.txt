@@ -1,0 +1,25 @@
+stat.useItem.minecraft.carpet
+1: GoodTimeWithScar: 27290
+2: cubfan135: 9946
+3: iskall85: 8509
+4: Welsknight: 6758
+5: joehillssays: 4875
+6: falsesymmetry: 3818
+7: xBCrafted: 3154
+8: Tango: 3123
+9: impulseSV: 2478
+10: Xisuma: 2023
+11: MumboJumbo: 875
+12: PythonGB: 723
+13: Renthedog: 621
+14: Zedaph: 495
+15: Stressmonster101: 285
+16: iJevin: 246
+17: ZombieCleo: 90
+18: BdoubleO100: 70
+19: Tinfoilchef: 37
+20: VintageBeef: 29
+21: Docm77: 21
+22: TangoCam: 6
+23: Biffa2001: 4
+Total 75476

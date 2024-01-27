@@ -1,0 +1,21 @@
+minecraft.picked_up.crossbow
+1: iJevin: 103
+2: Etho: 36
+3: Grian: 22
+4: Tango: 12
+5: PearlescentMoon: 8
+6: cubfan135: 7
+7: BdoubleO100: 5
+8: GeminiTay: 4
+9: Xisuma: 3
+10: VintageBeef: 3
+11: xBCrafted: 3
+12: GoodTimeWithScar: 2
+13: falsesymmetry: 1
+14: Welsknight: 1
+15: ZombieCleo: 1
+16: hypnotizd: 1
+17: Stressmonster101: 1
+18: Keralis1: 1
+19: impulseSV: 1
+Total 215

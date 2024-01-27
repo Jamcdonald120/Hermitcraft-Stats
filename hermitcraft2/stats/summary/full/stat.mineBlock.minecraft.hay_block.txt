@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.hay_block
+1: ZombieCleo: 102
+2: Cleophas: 1
+Total 103

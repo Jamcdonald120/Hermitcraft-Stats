@@ -1,0 +1,13 @@
+stat.drop.minecraft.poisonous_potato
+1: MumboJumbo: 123
+2: Tango: 58
+3: Tinfoilchef: 22
+4: ZombieCleo: 13
+5: Welsknight: 7
+6: falsesymmetry: 6
+7: iJevin: 4
+8: Zedaph: 4
+9: PythonGB: 3
+10: joehillssays: 3
+11: impulseSV: 1
+Total 244

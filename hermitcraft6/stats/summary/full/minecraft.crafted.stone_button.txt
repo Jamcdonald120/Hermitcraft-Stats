@@ -1,0 +1,25 @@
+minecraft.crafted.stone_button
+1: iskall85: 50039
+2: Grian: 3628
+3: GoodTimeWithScar: 2396
+4: Xisuma: 1069
+5: cubfan135: 960
+6: falsesymmetry: 838
+7: Docm77: 450
+8: Stressmonster101: 441
+9: iJevin: 268
+10: Tango: 266
+11: MumboJumbo: 236
+12: Zedaph: 203
+13: Biffa2001: 198
+14: Renthedog: 175
+15: joehillssays: 172
+16: impulseSV: 120
+17: Keralis1: 72
+18: ZombieCleo: 25
+19: PythonGB: 20
+20: Tinfoilchef: 20
+21: Welsknight: 16
+22: BdoubleO100: 2
+23: PhoenixfireLune: 1
+Total 61615

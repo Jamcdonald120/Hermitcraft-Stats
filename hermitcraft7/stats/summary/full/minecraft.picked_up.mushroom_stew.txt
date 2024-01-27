@@ -1,0 +1,9 @@
+minecraft.picked_up.mushroom_stew
+1: joehillssays: 117
+2: ZombieCleo: 5
+3: Grian: 3
+4: iJevin: 2
+5: Etho: 2
+6: VintageBeef: 1
+7: impulseSV: 1
+Total 131

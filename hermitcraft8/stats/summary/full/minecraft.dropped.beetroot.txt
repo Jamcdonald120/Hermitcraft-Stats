@@ -1,0 +1,11 @@
+minecraft.dropped.beetroot
+1: Zedaph: 983
+2: GeminiTay: 34
+3: Xisuma: 9
+4: Grian: 7
+5: Keralis1: 6
+6: Tango: 3
+7: BdoubleO100: 3
+8: impulseSV: 2
+9: PearlescentMoon: 1
+Total 1048

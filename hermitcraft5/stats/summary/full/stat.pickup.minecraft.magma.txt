@@ -1,0 +1,22 @@
+stat.pickup.minecraft.magma
+1: Renthedog: 15084
+2: cubfan135: 4831
+3: Tango: 2787
+4: Zedaph: 1294
+5: impulseSV: 1239
+6: MumboJumbo: 1234
+7: Welsknight: 751
+8: Xisuma: 656
+9: joehillssays: 651
+10: iskall85: 643
+11: Biffa2001: 589
+12: GoodTimeWithScar: 559
+13: Stressmonster101: 319
+14: xBCrafted: 287
+15: Tinfoilchef: 235
+16: PythonGB: 127
+17: Etho: 109
+18: Docm77: 91
+19: falsesymmetry: 44
+20: iJevin: 41
+Total 31571

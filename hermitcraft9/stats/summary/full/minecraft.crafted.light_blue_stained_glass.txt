@@ -1,0 +1,19 @@
+minecraft.crafted.light_blue_stained_glass
+1: Renthedog: 2440
+2: Grian: 1840
+3: falsesymmetry: 1696
+4: Etho: 1408
+5: Xisuma: 784
+6: Tango: 312
+7: GoodTimeWithScar: 256
+8: cubfan135: 200
+9: impulseSV: 128
+10: PearlescentMoon: 104
+11: joehillssays: 48
+12: RentheKing: 40
+13: BdoubleO100: 24
+14: GeminiTay: 16
+15: VintageBeef: 8
+16: Smallishbeans: 8
+17: Zedaph: 8
+Total 9320

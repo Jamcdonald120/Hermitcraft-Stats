@@ -1,0 +1,26 @@
+minecraft.crafted.stone_brick_slab
+1: iJevin: 14206
+2: falsesymmetry: 4428
+3: cubfan135: 2856
+4: Tango: 2110
+5: Keralis1: 1302
+6: Mumbo: 930
+7: GoodTimeWithScar: 474
+8: iskall85: 422
+9: Xisuma: 350
+10: hypnotizd: 300
+11: Grian: 202
+12: Stressmonster101: 186
+13: impulseSV: 178
+14: Etho: 138
+15: GeminiTay: 126
+16: MythicalSausage: 120
+17: ZombieCleo: 48
+18: BdoubleO100: 46
+19: Zedaph: 32
+20: Docm77: 24
+21: Pixlriffs: 16
+22: PearlescentMoon: 14
+23: Renthedog: 6
+24: xBCrafted: 2
+Total 28516

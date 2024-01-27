@@ -1,0 +1,19 @@
+minecraft.picked_up.andesite_wall
+1: GoodTimeWithScar: 1162
+2: Keralis1: 295
+3: Grian: 283
+4: ZombieCleo: 283
+5: xBCrafted: 269
+6: cubfan135: 224
+7: Zedaph: 154
+8: BdoubleO100: 123
+9: Tango: 121
+10: Docm77: 115
+11: joehillssays: 94
+12: VintageBeef: 86
+13: iskall85: 80
+14: Xisuma: 57
+15: Renthedog: 39
+16: falsesymmetry: 17
+17: Etho: 2
+Total 3404

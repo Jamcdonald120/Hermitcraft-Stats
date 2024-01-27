@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.light_weighted_pressure_plate
+1: cubfan135: 13
+2: Xisuma: 7
+3: Stressmonster101: 3
+4: iJevin: 1
+5: iskall85: 1
+6: impulseSV: 1
+Total 26

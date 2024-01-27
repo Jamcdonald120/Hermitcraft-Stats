@@ -1,0 +1,26 @@
+stat.mineBlock.minecraft.hopper
+1: cubfan135: 2137
+2: MumboJumbo: 1541
+3: Renthedog: 1080
+4: Xisuma: 1053
+5: impulseSV: 670
+6: Tango: 659
+7: iskall85: 509
+8: Zedaph: 427
+9: xBCrafted: 277
+10: Welsknight: 215
+11: GoodTimeWithScar: 205
+12: Stressmonster101: 204
+13: Tinfoilchef: 118
+14: Etho: 101
+15: falsesymmetry: 78
+16: iJevin: 69
+17: Docm77: 62
+18: PythonGB: 46
+19: joehillssays: 28
+20: BdoubleO100: 20
+21: isGall85: 11
+22: ZombieCleo: 10
+23: VintageBeef: 7
+24: Biffa2001: 4
+Total 9531

@@ -1,0 +1,25 @@
+minecraft.picked_up.tnt
+1: iJevin: 43920
+2: ZombieCleo: 7938
+3: impulseSV: 4113
+4: Xisuma: 1344
+5: RentheKing: 1265
+6: hypnotizd: 1255
+7: cubfan135: 1067
+8: Zedaph: 951
+9: Grian: 938
+10: joehillssays: 696
+11: Etho: 687
+12: Docm77: 533
+13: Renthedog: 526
+14: GoodTimeWithScar: 453
+15: Mumbo: 280
+16: Tango: 159
+17: PearlescentMoon: 67
+18: GeminiTay: 60
+19: Keralis1: 58
+20: falsesymmetry: 16
+21: BdoubleO100: 12
+22: InTheLittleWood: 2
+23: iskall85: 1
+Total 66341

@@ -1,0 +1,24 @@
+minecraft.mined.stone_brick_wall
+1: iJevin: 113
+2: PearlescentMoon: 105
+3: GoodTimeWithScar: 102
+4: cubfan135: 83
+5: Xisuma: 79
+6: Tango: 67
+7: Grian: 23
+8: ZombieCleo: 21
+9: falsesymmetry: 19
+10: VintageBeef: 18
+11: BdoubleO100: 16
+12: impulseSV: 15
+13: hypnotizd: 13
+14: Keralis1: 13
+15: Renthedog: 7
+16: Stressmonster101: 6
+17: GeminiTay: 3
+18: Mumbo: 2
+19: MumboJumbo: 2
+20: Docm77: 1
+21: xBCrafted: 1
+22: RentheKing: 1
+Total 710

@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.golden_carrot
+1: Xisuma: 5414
+2: impulseSV: 1663
+3: iJevin: 825
+4: falsesymmetry: 193
+5: xBCrafted: 89
+6: topmass: 64
+7: Tinfoilchef: 64
+8: monkeyfarm: 40
+9: zueljin: 39
+10: PythonGB: 27
+11: Biffa2001: 23
+12: Tango: 21
+13: sl1pg8r: 16
+14: truesymmetry: 8
+15: hypnotizd: 3
+16: ZombieCleo: 1
+Total 8490

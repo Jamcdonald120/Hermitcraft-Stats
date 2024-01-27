@@ -1,0 +1,30 @@
+minecraft.mined.grass_block
+1: cubfan135: 139486
+2: GoodTimeWithScar: 68035
+3: BdoubleO100: 44218
+4: xBCrafted: 40973
+5: Tango: 27153
+6: impulseSV: 24000
+7: Grian: 20630
+8: joehillssays: 18893
+9: Welsknight: 17949
+10: iJevin: 17452
+11: PearlescentMoon: 16485
+12: MumboJumbo: 14822
+13: Xisuma: 11589
+14: Renthedog: 11526
+15: GeminiTay: 10508
+16: falsesymmetry: 9832
+17: VintageBeef: 9430
+18: Docm77: 7982
+19: Stressmonster101: 6093
+20: Etho: 4665
+21: hypnotizd: 4489
+22: Keralis1: 3805
+23: ZombieCleo: 3049
+24: Zedaph: 2633
+25: Tinfoilchef: 1404
+26: iskall85: 1242
+27: EvilXisuma: 60
+28: pillbugnine: 2
+Total 538405

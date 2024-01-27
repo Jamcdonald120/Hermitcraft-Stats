@@ -1,0 +1,14 @@
+minecraft.picked_up.stripped_acacia_log
+1: BdoubleO100: 127
+2: Xisuma: 110
+3: PearlescentMoon: 49
+4: cubfan135: 46
+5: MumboJumbo: 25
+6: impulseSV: 9
+7: joehillssays: 5
+8: GeminiTay: 5
+9: falsesymmetry: 2
+10: GoodTimeWithScar: 2
+11: Renthedog: 1
+12: Keralis1: 1
+Total 382

@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.planks
+1: Renthedog: 157867
+2: MumboJumbo: 109814
+3: cubfan135: 93514
+4: Welsknight: 65560
+5: Tango: 62497
+6: GoodTimeWithScar: 56832
+7: Xisuma: 53663
+8: falsesymmetry: 48321
+9: impulseSV: 42248
+10: iskall85: 41029
+11: xBCrafted: 31624
+12: Stressmonster101: 25708
+13: Tinfoilchef: 22080
+14: joehillssays: 17992
+15: iJevin: 16264
+16: PythonGB: 16172
+17: Zedaph: 12195
+18: ZombieCleo: 7598
+19: VintageBeef: 7136
+20: Etho: 6852
+21: BdoubleO100: 6356
+22: Docm77: 6328
+23: Biffa2001: 5476
+Total 913126

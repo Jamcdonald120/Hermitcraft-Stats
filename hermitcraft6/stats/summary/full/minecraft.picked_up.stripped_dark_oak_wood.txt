@@ -1,0 +1,8 @@
+minecraft.picked_up.stripped_dark_oak_wood
+1: GoodTimeWithScar: 370
+2: cubfan135: 155
+3: BdoubleO100: 39
+4: Xisuma: 15
+5: falsesymmetry: 7
+6: Tango: 6
+Total 592

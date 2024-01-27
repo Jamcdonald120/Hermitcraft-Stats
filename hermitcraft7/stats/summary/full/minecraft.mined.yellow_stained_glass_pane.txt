@@ -1,0 +1,13 @@
+minecraft.mined.yellow_stained_glass_pane
+1: impulseSV: 1758
+2: Grian: 87
+3: Etho: 37
+4: GoodTimeWithScar: 30
+5: MumboJumbo: 16
+6: cubfan135: 15
+7: Xisuma: 4
+8: Stressmonster101: 4
+9: Zedaph: 4
+10: VintageBeef: 3
+11: Tango: 2
+Total 1960

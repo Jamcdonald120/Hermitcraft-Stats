@@ -1,0 +1,19 @@
+minecraft.crafted.gray_stained_glass_pane
+1: xBCrafted: 1120
+2: iJevin: 384
+3: impulseSV: 368
+4: Docm77: 320
+5: Keralis1: 248
+6: GoodTimeWithScar: 240
+7: RentheKing: 208
+8: cubfan135: 176
+9: PearlescentMoon: 144
+10: falsesymmetry: 96
+11: Grian: 64
+12: BdoubleO100: 40
+13: Zedaph: 32
+14: Xisuma: 24
+15: Renthedog: 16
+16: MythicalSausage: 16
+17: iskall85: 16
+Total 3512

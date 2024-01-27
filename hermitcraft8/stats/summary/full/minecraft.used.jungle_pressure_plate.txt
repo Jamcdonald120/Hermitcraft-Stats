@@ -1,0 +1,5 @@
+minecraft.used.jungle_pressure_plate
+1: GoodTimeWithScar: 6
+2: Xisuma: 4
+3: BdoubleO100: 1
+Total 11

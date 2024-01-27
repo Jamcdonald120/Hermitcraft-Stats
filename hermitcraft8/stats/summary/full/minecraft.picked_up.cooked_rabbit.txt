@@ -1,0 +1,4 @@
+minecraft.picked_up.cooked_rabbit
+1: Etho: 62
+2: Zedaph: 58
+Total 120

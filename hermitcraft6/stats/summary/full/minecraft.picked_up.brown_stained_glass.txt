@@ -1,0 +1,12 @@
+minecraft.picked_up.brown_stained_glass
+1: Renthedog: 2090
+2: Grian: 1888
+3: impulseSV: 806
+4: GoodTimeWithScar: 96
+5: iJevin: 64
+6: falsesymmetry: 10
+7: Xisuma: 8
+8: iskall85: 2
+9: cubfan135: 2
+10: Welsknight: 1
+Total 4967

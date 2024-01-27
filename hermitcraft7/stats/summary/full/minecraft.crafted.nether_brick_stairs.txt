@@ -1,0 +1,15 @@
+minecraft.crafted.nether_brick_stairs
+1: falsesymmetry: 1472
+2: Tango: 460
+3: joehillssays: 397
+4: Keralis1: 248
+5: GoodTimeWithScar: 156
+6: xBCrafted: 152
+7: cubfan135: 88
+8: impulseSV: 80
+9: iJevin: 72
+10: ZombieCleo: 52
+11: Docm77: 20
+12: Etho: 16
+13: hypnotizd: 3
+Total 3216

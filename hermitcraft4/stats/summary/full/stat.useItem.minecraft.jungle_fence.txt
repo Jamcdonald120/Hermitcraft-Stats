@@ -1,0 +1,14 @@
+stat.useItem.minecraft.jungle_fence
+1: Xisuma: 229
+2: PythonGB: 212
+3: Renthedog: 155
+4: cubfan135: 121
+5: ZombieCleo: 97
+6: iskall85: 77
+7: Welsknight: 63
+8: joehillssays: 17
+9: VintageBeef: 15
+10: Tango: 14
+11: falsesymmetry: 10
+12: MumboJumbo: 1
+Total 1011

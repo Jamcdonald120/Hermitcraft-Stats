@@ -1,0 +1,4 @@
+minecraft.used.waxed_cut_copper
+1: impulseSV: 631
+2: PearlescentMoon: 2
+Total 633

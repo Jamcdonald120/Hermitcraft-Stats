@@ -1,0 +1,17 @@
+stat.useItem.minecraft.waterlily
+1: falsesymmetry: 160
+2: Xisuma: 132
+3: xBCrafted: 115
+4: Tinfoilchef: 115
+5: impulseSV: 61
+6: sl1pg8r: 46
+7: Tango: 43
+8: zueljin: 32
+9: Spumwackles: 28
+10: PythonGB: 26
+11: ZombieCleo: 26
+12: Mumbo: 6
+13: Biffa2001: 5
+14: joehillssays: 4
+15: hypnotizd: 2
+Total 801

@@ -1,0 +1,4 @@
+minecraft.crafted.bubble_coral_block
+1: VintageBeef: 11
+2: Grian: 8
+Total 19

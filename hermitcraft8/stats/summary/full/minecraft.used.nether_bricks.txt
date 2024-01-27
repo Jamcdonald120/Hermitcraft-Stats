@@ -1,0 +1,22 @@
+minecraft.used.nether_bricks
+1: Keralis1: 934
+2: Xisuma: 927
+3: MumboJumbo: 445
+4: iJevin: 390
+5: VintageBeef: 380
+6: PearlescentMoon: 170
+7: xBCrafted: 141
+8: cubfan135: 135
+9: ZombieCleo: 132
+10: Grian: 91
+11: GoodTimeWithScar: 53
+12: impulseSV: 22
+13: Welsknight: 9
+14: iskall85: 5
+15: falsesymmetry: 5
+16: Renthedog: 4
+17: GeminiTay: 2
+18: joehillssays: 1
+19: Etho: 1
+20: hypnotizd: 1
+Total 3848

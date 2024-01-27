@@ -1,0 +1,18 @@
+minecraft.dropped.end_stone_bricks
+1: GoodTimeWithScar: 245
+2: iJevin: 165
+3: cubfan135: 133
+4: Tango: 86
+5: MumboJumbo: 68
+6: iskall85: 63
+7: Keralis1: 55
+8: Renthedog: 35
+9: hypnotizd: 25
+10: Zedaph: 20
+11: Grian: 17
+12: impulseSV: 17
+13: xBCrafted: 15
+14: Xisuma: 10
+15: falsesymmetry: 3
+16: VintageBeef: 2
+Total 959

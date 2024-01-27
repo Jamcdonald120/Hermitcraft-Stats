@@ -1,0 +1,7 @@
+minecraft.picked_up.red_candle
+1: Tango: 266
+2: GeminiTay: 43
+3: ZombieCleo: 17
+4: Renthedog: 10
+5: BdoubleO100: 8
+Total 344

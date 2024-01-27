@@ -1,0 +1,23 @@
+minecraft.picked_up.charcoal
+1: Renthedog: 207
+2: Grian: 192
+3: joehillssays: 177
+4: iskall85: 102
+5: falsesymmetry: 77
+6: Zedaph: 36
+7: xBCrafted: 24
+8: cubfan135: 15
+9: VintageBeef: 14
+10: iJevin: 14
+11: MumboJumbo: 14
+12: hypnotizd: 12
+13: Keralis1: 12
+14: Tango: 11
+15: GoodTimeWithScar: 10
+16: ZombieCleo: 8
+17: BdoubleO100: 6
+18: Xisuma: 5
+19: Tinfoilchef: 5
+20: Docm77: 2
+21: impulseSV: 2
+Total 945

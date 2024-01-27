@@ -1,0 +1,21 @@
+minecraft.picked_up.beetroot_seeds
+1: Renthedog: 597
+2: cubfan135: 555
+3: PythonGB: 500
+4: Jessassin: 414
+5: Tinfoilchef: 329
+6: Tango: 302
+7: joehillssays: 196
+8: Zedaph: 194
+9: Xisuma: 164
+10: Biffa2001: 156
+11: Grian: 133
+12: Stressmonster101: 71
+13: falsesymmetry: 54
+14: impulseSV: 34
+15: Docm77: 12
+16: iJevin: 12
+17: iskall85: 6
+18: Welsknight: 5
+19: MumboJumbo: 3
+Total 3737

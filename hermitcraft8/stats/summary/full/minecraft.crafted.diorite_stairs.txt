@@ -1,0 +1,6 @@
+minecraft.crafted.diorite_stairs
+1: impulseSV: 8
+2: Xisuma: 4
+3: BdoubleO100: 2
+4: iskall85: 1
+Total 15

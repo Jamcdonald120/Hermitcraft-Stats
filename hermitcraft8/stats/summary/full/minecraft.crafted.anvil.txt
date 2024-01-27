@@ -1,0 +1,28 @@
+minecraft.crafted.anvil
+1: Grian: 545
+2: PearlescentMoon: 197
+3: Xisuma: 92
+4: hypnotizd: 72
+5: GoodTimeWithScar: 71
+6: iJevin: 62
+7: impulseSV: 59
+8: Keralis1: 39
+9: Renthedog: 32
+10: Tango: 18
+11: Docm77: 17
+12: xBCrafted: 12
+13: falsesymmetry: 12
+14: Zedaph: 11
+15: VintageBeef: 9
+16: joehillssays: 8
+17: ZombieCleo: 8
+18: BdoubleO100: 7
+19: cubfan135: 7
+20: Welsknight: 6
+21: Etho: 6
+22: Stressmonster101: 5
+23: iskall85: 4
+24: GeminiTay: 2
+25: MumboJumbo: 2
+26: Tinfoilchef: 1
+Total 1304

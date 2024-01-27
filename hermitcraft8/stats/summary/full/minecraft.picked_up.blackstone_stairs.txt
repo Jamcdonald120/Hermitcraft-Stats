@@ -1,0 +1,9 @@
+minecraft.picked_up.blackstone_stairs
+1: Grian: 61
+2: Docm77: 12
+3: GoodTimeWithScar: 12
+4: impulseSV: 11
+5: PearlescentMoon: 6
+6: Tango: 2
+7: cubfan135: 1
+Total 105

@@ -1,0 +1,12 @@
+minecraft.picked_up.pumpkin_pie
+1: VintageBeef: 1872
+2: GoodTimeWithScar: 167
+3: Docm77: 68
+4: Grian: 49
+5: Renthedog: 13
+6: BdoubleO100: 5
+7: Xisuma: 4
+8: Welsknight: 2
+9: joehillssays: 1
+10: PearlescentMoon: 1
+Total 2182

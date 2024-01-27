@@ -1,0 +1,14 @@
+minecraft.crafted.cyan_bed
+1: Etho: 56
+2: GoodTimeWithScar: 10
+3: ZombieCleo: 9
+4: Keralis1: 6
+5: joehillssays: 5
+6: BdoubleO100: 5
+7: VintageBeef: 4
+8: Welsknight: 4
+9: Tango: 3
+10: Zedaph: 3
+11: xBCrafted: 2
+12: cubfan135: 2
+Total 109

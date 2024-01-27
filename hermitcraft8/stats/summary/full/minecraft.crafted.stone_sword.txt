@@ -1,0 +1,22 @@
+minecraft.crafted.stone_sword
+1: Xisuma: 18
+2: xBCrafted: 17
+3: Zedaph: 8
+4: Renthedog: 4
+5: iJevin: 3
+6: VintageBeef: 2
+7: joehillssays: 2
+8: PearlescentMoon: 2
+9: Docm77: 1
+10: GeminiTay: 1
+11: Grian: 1
+12: Tango: 1
+13: falsesymmetry: 1
+14: cubfan135: 1
+15: Welsknight: 1
+16: Etho: 1
+17: ZombieCleo: 1
+18: GoodTimeWithScar: 1
+19: Stressmonster101: 1
+20: impulseSV: 1
+Total 68

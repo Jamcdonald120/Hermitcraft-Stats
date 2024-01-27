@@ -1,0 +1,4 @@
+stat.drop.minecraft.red_sandstone
+1: PythonGB: 2
+2: MumboJumbo: 1
+Total 3

@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.diamond_ore
+1: Xisuma: 428
+2: Tango: 196
+3: xBCrafted: 59
+4: ZombieCleo: 46
+5: falsesymmetry: 33
+6: KingDaddyDMAC: 31
+7: zueljin: 16
+8: Spumwackles: 15
+9: Tinfoilchef: 14
+10: Mumbo: 12
+11: Collen: 11
+12: Biffa2001: 6
+13: iJevin: 4
+Total 871

@@ -1,0 +1,30 @@
+minecraft.picked_up.spruce_fence
+1: Docm77: 955
+2: Renthedog: 758
+3: cubfan135: 687
+4: iJevin: 615
+5: PearlescentMoon: 586
+6: Etho: 320
+7: GoodTimeWithScar: 301
+8: ZombieCleo: 298
+9: Keralis1: 291
+10: xBCrafted: 214
+11: Grian: 196
+12: impulseSV: 188
+13: Stressmonster101: 139
+14: GeminiTay: 112
+15: Tango: 111
+16: Xisuma: 71
+17: BdoubleO100: 54
+18: hypnotizd: 52
+19: iskall85: 46
+20: VintageBeef: 40
+21: RentheKing: 37
+22: MythicalSausage: 19
+23: Zedaph: 9
+24: joehillssays: 7
+25: Smallishbeans: 6
+26: Welsknight: 6
+27: falsesymmetry: 2
+28: SolidarityGaming: 2
+Total 6122

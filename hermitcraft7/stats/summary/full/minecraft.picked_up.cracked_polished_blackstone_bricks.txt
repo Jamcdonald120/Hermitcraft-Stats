@@ -1,0 +1,23 @@
+minecraft.picked_up.cracked_polished_blackstone_bricks
+1: Xisuma: 5204
+2: Etho: 2941
+3: Tango: 1669
+4: cubfan135: 1664
+5: hypnotizd: 1508
+6: impulseSV: 1408
+7: Renthedog: 457
+8: GoodTimeWithScar: 345
+9: VintageBeef: 331
+10: iskall85: 188
+11: falsesymmetry: 154
+12: BdoubleO100: 135
+13: iJevin: 128
+14: Keralis1: 90
+15: Zedaph: 55
+16: MumboJumbo: 44
+17: Docm77: 31
+18: Grian: 27
+19: joehillssays: 20
+20: xBCrafted: 15
+21: Welsknight: 2
+Total 16416

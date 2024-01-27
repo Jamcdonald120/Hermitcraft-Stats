@@ -1,0 +1,33 @@
+minecraft.mined.spruce_log
+1: Tango: 49736
+2: Keralis1: 32657
+3: PearlescentMoon: 32054
+4: hypnotizd: 22356
+5: Renthedog: 12790
+6: GeminiTay: 12752
+7: ZombieCleo: 12396
+8: falsesymmetry: 8173
+9: xBCrafted: 8127
+10: iJevin: 8044
+11: BdoubleO100: 4666
+12: Stressmonster101: 4403
+13: cubfan135: 4333
+14: GoodTimeWithScar: 3918
+15: impulseSV: 3614
+16: Grian: 3456
+17: Docm77: 1721
+18: VintageBeef: 1717
+19: Etho: 1541
+20: Xisuma: 1449
+21: iskall85: 1379
+22: Zedaph: 1023
+23: Welsknight: 941
+24: Smallishbeans: 760
+25: MythicalSausage: 756
+26: Pixlriffs: 715
+27: RentheKing: 628
+28: joehillssays: 235
+29: ShubbleYT: 30
+30: Mumbo: 1
+31: fWhip: 1
+Total 236372

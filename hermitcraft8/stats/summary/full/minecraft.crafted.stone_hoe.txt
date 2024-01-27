@@ -1,0 +1,21 @@
+minecraft.crafted.stone_hoe
+1: Grian: 12
+2: BdoubleO100: 12
+3: Xisuma: 10
+4: ZombieCleo: 7
+5: MumboJumbo: 7
+6: Renthedog: 5
+7: Zedaph: 4
+8: iskall85: 3
+9: Etho: 3
+10: xBCrafted: 2
+11: falsesymmetry: 2
+12: cubfan135: 2
+13: Tinfoilchef: 2
+14: VintageBeef: 1
+15: GeminiTay: 1
+16: Welsknight: 1
+17: hypnotizd: 1
+18: GoodTimeWithScar: 1
+19: Stressmonster101: 1
+Total 77

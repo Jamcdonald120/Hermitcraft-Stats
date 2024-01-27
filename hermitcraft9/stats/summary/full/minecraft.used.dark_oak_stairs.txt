@@ -1,0 +1,31 @@
+minecraft.used.dark_oak_stairs
+1: falsesymmetry: 4442
+2: xBCrafted: 1744
+3: GoodTimeWithScar: 1354
+4: impulseSV: 904
+5: Renthedog: 776
+6: Stressmonster101: 730
+7: GeminiTay: 725
+8: ZombieCleo: 556
+9: Xisuma: 459
+10: joehillssays: 322
+11: cubfan135: 269
+12: BdoubleO100: 232
+13: Keralis1: 206
+14: Welsknight: 140
+15: Tango: 126
+16: Grian: 118
+17: RentheKing: 66
+18: OrionSound: 56
+19: iskall85: 47
+20: Zedaph: 43
+21: PearlescentMoon: 24
+22: Mumbo: 23
+23: Pixlriffs: 21
+24: ShubbleYT: 19
+25: Smallishbeans: 17
+26: MumboJumbo: 16
+27: MythicalSausage: 12
+28: fWhip: 9
+29: VintageBeef: 4
+Total 13460

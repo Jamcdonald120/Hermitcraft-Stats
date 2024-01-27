@@ -1,0 +1,4 @@
+stat.drop.minecraft.cooked_rabbit
+1: cubfan135: 8
+2: Tango: 2
+Total 10

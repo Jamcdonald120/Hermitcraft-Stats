@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.golden_boots
+1: Renthedog: 55
+2: joehillssays: 2
+3: ZombieCleo: 1
+Total 58

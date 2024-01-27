@@ -1,0 +1,5 @@
+minecraft.dropped.mossy_cobblestone_stairs
+1: Renthedog: 65
+2: Keralis1: 5
+3: Xisuma: 2
+Total 72

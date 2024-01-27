@@ -1,0 +1,20 @@
+minecraft.dropped.glow_ink_sac
+1: xBCrafted: 488
+2: EvilXisuma: 256
+3: joehillssays: 209
+4: Keralis1: 120
+5: Tango: 110
+6: Docm77: 106
+7: iJevin: 44
+8: BdoubleO100: 43
+9: hypnotizd: 22
+10: Etho: 17
+11: Renthedog: 16
+12: cubfan135: 16
+13: Grian: 5
+14: Xisuma: 4
+15: GoodTimeWithScar: 3
+16: iskall85: 2
+17: GeminiTay: 1
+18: PearlescentMoon: 1
+Total 1463

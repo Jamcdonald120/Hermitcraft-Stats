@@ -1,0 +1,24 @@
+minecraft.picked_up.prismarine_crystals
+1: falsesymmetry: 2774
+2: GeminiTay: 1228
+3: impulseSV: 333
+4: Xisuma: 303
+5: Etho: 218
+6: cubfan135: 110
+7: joehillssays: 109
+8: iJevin: 99
+9: OrionSound: 95
+10: GoodTimeWithScar: 58
+11: Stressmonster101: 31
+12: Zedaph: 30
+13: Mumbo: 27
+14: Grian: 26
+15: PearlescentMoon: 23
+16: Keralis1: 19
+17: xBCrafted: 10
+18: ZombieCleo: 3
+19: VintageBeef: 2
+20: fWhip: 2
+21: iskall85: 1
+22: hypnotizd: 1
+Total 5502

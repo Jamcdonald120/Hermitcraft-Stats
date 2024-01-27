@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.fence
+1: ZombieCleo: 390
+2: Tango: 118
+3: falsesymmetry: 114
+4: Tinfoilchef: 106
+5: Xisuma: 60
+6: zueljin: 58
+7: xBCrafted: 27
+8: iJevin: 16
+Total 889

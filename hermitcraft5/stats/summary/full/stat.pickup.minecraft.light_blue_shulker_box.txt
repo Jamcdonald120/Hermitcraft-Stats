@@ -1,0 +1,17 @@
+stat.pickup.minecraft.light_blue_shulker_box
+1: GoodTimeWithScar: 628
+2: cubfan135: 518
+3: joehillssays: 164
+4: iskall85: 162
+5: Tango: 96
+6: Xisuma: 88
+7: falsesymmetry: 76
+8: MumboJumbo: 64
+9: iJevin: 37
+10: Renthedog: 29
+11: Stressmonster101: 26
+12: xBCrafted: 19
+13: Zedaph: 10
+14: Tinfoilchef: 6
+15: PythonGB: 2
+Total 1925

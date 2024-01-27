@@ -1,0 +1,23 @@
+minecraft.picked_up.ochre_froglight
+1: cubfan135: 864
+2: impulseSV: 616
+3: Docm77: 601
+4: GoodTimeWithScar: 383
+5: Xisuma: 124
+6: joehillssays: 80
+7: Grian: 72
+8: Etho: 69
+9: falsesymmetry: 64
+10: xBCrafted: 33
+11: Smajor1995: 22
+12: PearlescentMoon: 21
+13: hypnotizd: 17
+14: Keralis1: 16
+15: ZombieCleo: 10
+16: iskall85: 5
+17: Stressmonster101: 4
+18: Zedaph: 2
+19: iJevin: 1
+20: BdoubleO100: 1
+21: Pixlriffs: 1
+Total 3006

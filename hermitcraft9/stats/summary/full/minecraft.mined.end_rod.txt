@@ -1,0 +1,30 @@
+minecraft.mined.end_rod
+1: cubfan135: 578
+2: Tango: 336
+3: impulseSV: 250
+4: Etho: 229
+5: GoodTimeWithScar: 226
+6: Keralis1: 129
+7: Xisuma: 116
+8: GeminiTay: 109
+9: PearlescentMoon: 109
+10: Renthedog: 92
+11: iskall85: 52
+12: ZombieCleo: 51
+13: xBCrafted: 50
+14: hypnotizd: 49
+15: Grian: 39
+16: falsesymmetry: 38
+17: Zedaph: 38
+18: iJevin: 35
+19: Docm77: 26
+20: BdoubleO100: 18
+21: VintageBeef: 15
+22: fWhip: 14
+23: RentheKing: 11
+24: joehillssays: 5
+25: MythicalSausage: 4
+26: Smallishbeans: 2
+27: Smajor1995: 1
+28: Stressmonster101: 1
+Total 2623

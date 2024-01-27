@@ -1,0 +1,19 @@
+minecraft.picked_up.orange_stained_glass
+1: Etho: 1615
+2: joehillssays: 1137
+3: impulseSV: 802
+4: iJevin: 443
+5: Stressmonster101: 254
+6: xBCrafted: 212
+7: Tango: 154
+8: Xisuma: 121
+9: GoodTimeWithScar: 119
+10: Grian: 51
+11: Zedaph: 24
+12: falsesymmetry: 19
+13: MumboJumbo: 5
+14: Docm77: 2
+15: VintageBeef: 2
+16: cubfan135: 2
+17: Renthedog: 1
+Total 4963

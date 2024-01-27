@@ -1,0 +1,26 @@
+minecraft.picked_up.dark_oak_sign
+1: iJevin: 444
+2: Tango: 215
+3: joehillssays: 114
+4: cubfan135: 66
+5: xBCrafted: 61
+6: Xisuma: 49
+7: Grian: 49
+8: BdoubleO100: 38
+9: falsesymmetry: 36
+10: GoodTimeWithScar: 33
+11: ZombieCleo: 28
+12: hypnotizd: 25
+13: GeminiTay: 22
+14: Keralis1: 22
+15: Renthedog: 19
+16: Docm77: 15
+17: Welsknight: 10
+18: Etho: 10
+19: MumboJumbo: 4
+20: pillbugnine: 3
+21: iskall85: 2
+22: impulseSV: 2
+23: VintageBeef: 1
+24: PearlescentMoon: 1
+Total 1269

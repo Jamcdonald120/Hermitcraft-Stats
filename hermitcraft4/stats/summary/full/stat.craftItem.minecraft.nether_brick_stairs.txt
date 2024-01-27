@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.nether_brick_stairs
+1: cubfan135: 832
+2: Tango: 516
+3: Tinfoilchef: 420
+4: iskall85: 248
+5: impulseSV: 128
+6: GoodTimeWithScar: 120
+7: joehillssays: 92
+8: Renthedog: 84
+9: Xisuma: 80
+10: Welsknight: 40
+11: iJevin: 8
+Total 2568

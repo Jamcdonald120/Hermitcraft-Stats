@@ -1,0 +1,27 @@
+minecraft.killed.sheep
+1: GoodTimeWithScar: 929
+2: Welsknight: 246
+3: Xisuma: 159
+4: Stressmonster101: 119
+5: iJevin: 116
+6: Grian: 114
+7: Docm77: 70
+8: iskall85: 65
+9: Renthedog: 45
+10: cubfan135: 45
+11: Tinfoilchef: 29
+12: Biffa2001: 25
+13: ZombieCleo: 24
+14: Zedaph: 17
+15: Tango: 13
+16: MumboJumbo: 9
+17: BdoubleO100: 6
+18: falsesymmetry: 6
+19: joehillssays: 4
+20: PythonGB: 3
+21: EvilXisuma: 2
+22: Jessassin: 2
+23: Keralis1: 2
+24: BadTimeWithScar: 1
+25: impulseSV: 1
+Total 2052

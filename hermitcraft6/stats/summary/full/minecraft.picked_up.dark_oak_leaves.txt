@@ -1,0 +1,19 @@
+minecraft.picked_up.dark_oak_leaves
+1: Welsknight: 3439
+2: MumboJumbo: 1045
+3: iJevin: 998
+4: cubfan135: 983
+5: Renthedog: 754
+6: GoodTimeWithScar: 381
+7: BdoubleO100: 198
+8: Xisuma: 196
+9: falsesymmetry: 167
+10: Grian: 150
+11: PythonGB: 135
+12: ZombieCleo: 127
+13: iskall85: 46
+14: Docm77: 40
+15: Biffa2001: 14
+16: Stressmonster101: 12
+17: joehillssays: 6
+Total 8691

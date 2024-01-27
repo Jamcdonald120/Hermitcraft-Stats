@@ -1,0 +1,22 @@
+minecraft.dropped.stone_slab
+1: falsesymmetry: 1706
+2: Tango: 1468
+3: Zedaph: 996
+4: Keralis1: 538
+5: Docm77: 286
+6: iJevin: 243
+7: Grian: 234
+8: hypnotizd: 218
+9: Renthedog: 184
+10: GoodTimeWithScar: 137
+11: impulseSV: 131
+12: BdoubleO100: 121
+13: Etho: 68
+14: iskall85: 49
+15: Xisuma: 27
+16: xBCrafted: 18
+17: PearlescentMoon: 11
+18: cubfan135: 9
+19: ZombieCleo: 4
+20: Stressmonster101: 1
+Total 6449

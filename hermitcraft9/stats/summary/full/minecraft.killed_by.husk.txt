@@ -1,0 +1,4 @@
+minecraft.killed_by.husk
+1: Renthedog: 1
+2: Zedaph: 1
+Total 2

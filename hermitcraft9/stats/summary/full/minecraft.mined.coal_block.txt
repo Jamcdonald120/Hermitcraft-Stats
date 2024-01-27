@@ -1,0 +1,20 @@
+minecraft.mined.coal_block
+1: Xisuma: 128
+2: joehillssays: 78
+3: Zedaph: 72
+4: Docm77: 65
+5: Grian: 63
+6: xBCrafted: 47
+7: Keralis1: 31
+8: BdoubleO100: 22
+9: iJevin: 14
+10: cubfan135: 10
+11: PearlescentMoon: 7
+12: Renthedog: 6
+13: Tango: 5
+14: RentheKing: 3
+15: impulseSV: 3
+16: Etho: 2
+17: MythicalSausage: 1
+18: ZombieCleo: 1
+Total 558

@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.green_glazed_terracotta
+1: Xisuma: 144
+2: iJevin: 1
+Total 145

@@ -1,0 +1,22 @@
+minecraft.picked_up.writable_book
+1: cubfan135: 116
+2: iJevin: 63
+3: Docm77: 56
+4: Xisuma: 54
+5: GoodTimeWithScar: 38
+6: Grian: 33
+7: falsesymmetry: 33
+8: Renthedog: 32
+9: iskall85: 24
+10: Zedaph: 19
+11: joehillssays: 13
+12: MumboJumbo: 13
+13: ZombieCleo: 10
+14: impulseSV: 10
+15: Tango: 5
+16: Stressmonster101: 5
+17: PythonGB: 4
+18: Biffa2001: 4
+19: Welsknight: 3
+20: HumanCleo: 2
+Total 537

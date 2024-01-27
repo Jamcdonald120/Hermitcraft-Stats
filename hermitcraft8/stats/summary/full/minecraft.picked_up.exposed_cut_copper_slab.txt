@@ -1,0 +1,6 @@
+minecraft.picked_up.exposed_cut_copper_slab
+1: cubfan135: 50
+2: GoodTimeWithScar: 25
+3: Docm77: 17
+4: BdoubleO100: 3
+Total 95

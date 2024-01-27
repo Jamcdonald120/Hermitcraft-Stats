@@ -1,0 +1,14 @@
+minecraft.dropped.red_bed
+1: Tango: 10
+2: Etho: 8
+3: iJevin: 5
+4: Renthedog: 2
+5: xBCrafted: 2
+6: cubfan135: 2
+7: GoodTimeWithScar: 2
+8: Docm77: 1
+9: MythicalSausage: 1
+10: falsesymmetry: 1
+11: RentheKing: 1
+12: hypnotizd: 1
+Total 36

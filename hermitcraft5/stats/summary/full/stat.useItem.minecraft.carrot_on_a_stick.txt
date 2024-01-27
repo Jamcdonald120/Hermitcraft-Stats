@@ -1,0 +1,4 @@
+stat.useItem.minecraft.carrot_on_a_stick
+1: cubfan135: 2
+2: joehillssays: 1
+Total 3

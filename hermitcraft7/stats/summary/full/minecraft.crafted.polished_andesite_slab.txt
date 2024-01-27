@@ -1,0 +1,22 @@
+minecraft.crafted.polished_andesite_slab
+1: GoodTimeWithScar: 3204
+2: impulseSV: 2754
+3: Tinfoilchef: 2556
+4: cubfan135: 876
+5: iskall85: 788
+6: Tango: 784
+7: Etho: 686
+8: Grian: 675
+9: falsesymmetry: 396
+10: xBCrafted: 380
+11: Keralis1: 324
+12: Xisuma: 294
+13: Zedaph: 288
+14: joehillssays: 252
+15: BdoubleO100: 86
+16: ZombieCleo: 78
+17: VintageBeef: 42
+18: Welsknight: 24
+19: Renthedog: 18
+20: Docm77: 6
+Total 14511

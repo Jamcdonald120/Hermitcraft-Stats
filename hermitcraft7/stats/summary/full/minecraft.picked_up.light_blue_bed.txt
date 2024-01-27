@@ -1,0 +1,18 @@
+minecraft.picked_up.light_blue_bed
+1: BdoubleO100: 1812
+2: Etho: 1009
+3: ZombieCleo: 50
+4: Keralis1: 40
+5: GoodTimeWithScar: 33
+6: cubfan135: 16
+7: Grian: 12
+8: Xisuma: 10
+9: Tango: 9
+10: Stressmonster101: 5
+11: iJevin: 4
+12: impulseSV: 3
+13: MumboJumbo: 2
+14: VintageBeef: 1
+15: joehillssays: 1
+16: xBCrafted: 1
+Total 3008

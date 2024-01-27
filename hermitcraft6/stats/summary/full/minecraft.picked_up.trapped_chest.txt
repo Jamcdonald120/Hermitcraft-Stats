@@ -1,0 +1,12 @@
+minecraft.picked_up.trapped_chest
+1: Tinfoilchef: 44
+2: iJevin: 16
+3: GoodTimeWithScar: 12
+4: impulseSV: 10
+5: Renthedog: 8
+6: falsesymmetry: 6
+7: Welsknight: 3
+8: cubfan135: 2
+9: Tango: 1
+10: Keralis1: 1
+Total 103

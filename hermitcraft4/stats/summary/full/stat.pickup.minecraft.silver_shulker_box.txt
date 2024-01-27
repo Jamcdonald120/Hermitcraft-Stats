@@ -1,0 +1,12 @@
+stat.pickup.minecraft.silver_shulker_box
+1: falsesymmetry: 155
+2: GoodTimeWithScar: 66
+3: cubfan135: 64
+4: impulseSV: 57
+5: Renthedog: 42
+6: iskall85: 26
+7: Welsknight: 15
+8: Xisuma: 10
+9: Tango: 7
+10: MumboJumbo: 1
+Total 443

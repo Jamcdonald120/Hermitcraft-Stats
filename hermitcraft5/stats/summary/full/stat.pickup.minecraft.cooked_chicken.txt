@@ -1,0 +1,21 @@
+stat.pickup.minecraft.cooked_chicken
+1: cubfan135: 1060
+2: Tango: 795
+3: impulseSV: 502
+4: Zedaph: 416
+5: PythonGB: 380
+6: ZombieCleo: 255
+7: Xisuma: 153
+8: xBCrafted: 153
+9: Etho: 81
+10: GoodTimeWithScar: 70
+11: iskall85: 69
+12: MumboJumbo: 63
+13: Docm77: 28
+14: Renthedog: 24
+15: Welsknight: 24
+16: Stressmonster101: 21
+17: Tinfoilchef: 12
+18: joehillssays: 5
+19: BdoubleO100: 4
+Total 4115

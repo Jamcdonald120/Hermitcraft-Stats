@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.acacia_door
+1: Xisuma: 303
+2: xBCrafted: 51
+3: falsesymmetry: 36
+4: Keralis1: 9
+5: Tango: 6
+6: topmass: 3
+7: joehillssays: 3
+8: zueljin: 3
+9: ZombieCleo: 3
+Total 417

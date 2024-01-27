@@ -1,0 +1,18 @@
+minecraft.dropped.armor_stand
+1: GoodTimeWithScar: 63
+2: ZombieCleo: 37
+3: iskall85: 23
+4: Tango: 20
+5: Zedaph: 17
+6: Keralis1: 14
+7: Xisuma: 9
+8: falsesymmetry: 5
+9: cubfan135: 5
+10: Stressmonster101: 4
+11: Renthedog: 3
+12: MumboJumbo: 2
+13: Docm77: 1
+14: iJevin: 1
+15: joehillssays: 1
+16: Grian: 1
+Total 206

@@ -1,0 +1,20 @@
+stat.useItem.minecraft.noteblock
+1: cubfan135: 406
+2: Xisuma: 212
+3: falsesymmetry: 125
+4: Tango: 108
+5: Welsknight: 100
+6: ZombieCleo: 54
+7: iskall85: 51
+8: Zedaph: 32
+9: MumboJumbo: 23
+10: Docm77: 8
+11: Renthedog: 6
+12: joehillssays: 6
+13: Biffa2001: 4
+14: Tinfoilchef: 3
+15: PythonGB: 2
+16: impulseSV: 2
+17: xisumavoid: 1
+18: Stressmonster101: 1
+Total 1144

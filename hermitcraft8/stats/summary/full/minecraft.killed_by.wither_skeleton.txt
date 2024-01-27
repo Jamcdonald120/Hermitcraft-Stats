@@ -1,0 +1,6 @@
+minecraft.killed_by.wither_skeleton
+1: iJevin: 3
+2: Grian: 1
+3: impulseSV: 1
+4: Zedaph: 1
+Total 6

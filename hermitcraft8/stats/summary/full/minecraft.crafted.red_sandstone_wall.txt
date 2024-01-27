@@ -1,0 +1,6 @@
+minecraft.crafted.red_sandstone_wall
+1: GoodTimeWithScar: 432
+2: cubfan135: 162
+3: MumboJumbo: 54
+4: PearlescentMoon: 6
+Total 654

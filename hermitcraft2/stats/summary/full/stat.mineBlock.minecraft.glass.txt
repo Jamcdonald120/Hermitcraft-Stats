@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.glass
+1: falsesymmetry: 323
+2: Xisuma: 232
+3: Spumwackles: 173
+4: zueljin: 140
+5: Tango: 91
+6: monkeyfarm: 89
+7: ZombieCleo: 64
+8: sl1pg8r: 32
+9: KingDaddyDMAC: 18
+10: Tinfoilchef: 9
+11: Mumbo: 8
+12: iJevin: 3
+13: xBCrafted: 3
+14: NameOfSamuel: 2
+Total 1187

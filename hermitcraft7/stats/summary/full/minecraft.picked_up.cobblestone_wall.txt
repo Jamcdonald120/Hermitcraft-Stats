@@ -1,0 +1,25 @@
+minecraft.picked_up.cobblestone_wall
+1: Zedaph: 2126
+2: Tango: 577
+3: GoodTimeWithScar: 540
+4: Grian: 436
+5: cubfan135: 247
+6: impulseSV: 219
+7: ZombieCleo: 140
+8: Docm77: 128
+9: iJevin: 119
+10: xBCrafted: 104
+11: joehillssays: 102
+12: falsesymmetry: 100
+13: Xisuma: 77
+14: Renthedog: 32
+15: Keralis1: 31
+16: VintageBeef: 22
+17: MumboJumbo: 21
+18: BdoubleO100: 16
+19: hypnotizd: 15
+20: iskall85: 13
+21: Welsknight: 3
+22: Etho: 3
+23: Stressmonster101: 3
+Total 5074

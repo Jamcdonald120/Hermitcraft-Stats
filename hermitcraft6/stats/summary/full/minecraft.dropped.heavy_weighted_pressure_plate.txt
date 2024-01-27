@@ -1,0 +1,9 @@
+minecraft.dropped.heavy_weighted_pressure_plate
+1: MumboJumbo: 103
+2: cubfan135: 18
+3: iskall85: 13
+4: falsesymmetry: 8
+5: ZombieCleo: 4
+6: Xisuma: 3
+7: Grian: 2
+Total 151

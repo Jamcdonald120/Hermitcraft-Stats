@@ -1,0 +1,19 @@
+minecraft.picked_up.oak_door
+1: iJevin: 24
+2: joehillssays: 11
+3: cubfan135: 10
+4: MumboJumbo: 7
+5: Tango: 5
+6: Stressmonster101: 5
+7: Zedaph: 5
+8: Tinfoilchef: 4
+9: Renthedog: 3
+10: PearlescentMoon: 3
+11: iskall85: 3
+12: falsesymmetry: 3
+13: Etho: 3
+14: Docm77: 2
+15: Xisuma: 2
+16: Grian: 1
+17: Welsknight: 1
+Total 92

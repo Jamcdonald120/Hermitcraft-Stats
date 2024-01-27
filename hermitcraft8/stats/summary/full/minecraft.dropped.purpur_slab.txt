@@ -1,0 +1,9 @@
+minecraft.dropped.purpur_slab
+1: Keralis1: 46
+2: hypnotizd: 26
+3: GoodTimeWithScar: 5
+4: iJevin: 2
+5: Xisuma: 1
+6: Grian: 1
+7: Tango: 1
+Total 82

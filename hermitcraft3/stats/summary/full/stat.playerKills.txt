@@ -1,0 +1,23 @@
+stat.playerKills
+1: Xisuma: 38
+2: falsesymmetry: 34
+3: impulseSV: 26
+4: xBCrafted: 23
+5: Biffa2001: 22
+6: Tango: 19
+7: KingDaddyDMAC: 15
+8: sl1pg8r: 12
+9: truesymmetry: 12
+10: zueljin: 9
+11: Mumbo: 9
+12: PythonGB: 5
+13: topmass: 4
+14: hypnotizd: 4
+15: xisumavoid: 2
+16: Docm77: 1
+17: Tinfoilchef: 1
+18: Mrs_Keralis: 1
+19: monkeyfarm: 1
+20: Spumwackles: 1
+21: Keralis1: 1
+Total 240

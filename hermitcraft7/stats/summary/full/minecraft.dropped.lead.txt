@@ -1,0 +1,22 @@
+minecraft.dropped.lead
+1: Zedaph: 155
+2: Grian: 134
+3: Tango: 45
+4: Xisuma: 42
+5: GoodTimeWithScar: 38
+6: cubfan135: 35
+7: Keralis1: 21
+8: Renthedog: 20
+9: BdoubleO100: 17
+10: Etho: 9
+11: MumboJumbo: 7
+12: impulseSV: 7
+13: iskall85: 6
+14: joehillssays: 4
+15: VintageBeef: 3
+16: iJevin: 3
+17: Docm77: 2
+18: xBCrafted: 2
+19: falsesymmetry: 2
+20: hypnotizd: 1
+Total 553

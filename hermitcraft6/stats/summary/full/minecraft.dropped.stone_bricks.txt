@@ -1,0 +1,23 @@
+minecraft.dropped.stone_bricks
+1: cubfan135: 9045
+2: Renthedog: 5479
+3: iskall85: 4396
+4: iJevin: 805
+5: MumboJumbo: 542
+6: falsesymmetry: 468
+7: GoodTimeWithScar: 455
+8: Zedaph: 426
+9: Stressmonster101: 416
+10: Tango: 304
+11: Biffa2001: 275
+12: Xisuma: 265
+13: impulseSV: 222
+14: Docm77: 189
+15: Tinfoilchef: 90
+16: Grian: 53
+17: joehillssays: 45
+18: Welsknight: 17
+19: BdoubleO100: 6
+20: Keralis1: 2
+21: ZombieCleo: 1
+Total 23501

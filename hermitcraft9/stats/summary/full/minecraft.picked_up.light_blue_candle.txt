@@ -1,0 +1,7 @@
+minecraft.picked_up.light_blue_candle
+1: cubfan135: 110
+2: GoodTimeWithScar: 63
+3: Renthedog: 46
+4: hypnotizd: 12
+5: Zedaph: 12
+Total 243

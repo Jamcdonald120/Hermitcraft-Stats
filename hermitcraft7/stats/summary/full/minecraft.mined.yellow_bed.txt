@@ -1,0 +1,13 @@
+minecraft.mined.yellow_bed
+1: impulseSV: 213
+2: Xisuma: 92
+3: iJevin: 31
+4: GoodTimeWithScar: 23
+5: Stressmonster101: 16
+6: Keralis1: 5
+7: cubfan135: 3
+8: falsesymmetry: 2
+9: ZombieCleo: 2
+10: Grian: 1
+11: Etho: 1
+Total 389

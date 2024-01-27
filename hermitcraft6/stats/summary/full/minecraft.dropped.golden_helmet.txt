@@ -1,0 +1,19 @@
+minecraft.dropped.golden_helmet
+1: Xisuma: 83
+2: iskall85: 28
+3: GoodTimeWithScar: 22
+4: Zedaph: 19
+5: cubfan135: 16
+6: impulseSV: 16
+7: Stressmonster101: 15
+8: Tango: 13
+9: ZombieCleo: 13
+10: Grian: 12
+11: Renthedog: 8
+12: falsesymmetry: 5
+13: Docm77: 2
+14: Biffa2001: 2
+15: MumboJumbo: 2
+16: iJevin: 1
+17: xBCrafted: 1
+Total 258

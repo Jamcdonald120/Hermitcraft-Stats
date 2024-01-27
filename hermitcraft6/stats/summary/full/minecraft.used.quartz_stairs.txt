@@ -1,0 +1,24 @@
+minecraft.used.quartz_stairs
+1: Renthedog: 4099
+2: PythonGB: 3932
+3: impulseSV: 2302
+4: falsesymmetry: 2150
+5: Welsknight: 2070
+6: cubfan135: 1892
+7: GoodTimeWithScar: 1808
+8: Xisuma: 1619
+9: Docm77: 1482
+10: MumboJumbo: 1419
+11: Grian: 1273
+12: iskall85: 1091
+13: iJevin: 622
+14: Tango: 613
+15: ZombieCleo: 348
+16: Stressmonster101: 89
+17: Keralis1: 78
+18: joehillssays: 74
+19: Zedaph: 59
+20: HumanCleo: 34
+21: Tinfoilchef: 25
+22: xBCrafted: 7
+Total 27086

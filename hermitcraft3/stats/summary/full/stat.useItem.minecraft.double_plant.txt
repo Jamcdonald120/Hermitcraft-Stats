@@ -1,0 +1,13 @@
+stat.useItem.minecraft.double_plant
+1: falsesymmetry: 194
+2: xBCrafted: 85
+3: Xisuma: 83
+4: zueljin: 53
+5: Keralis1: 27
+6: Tinfoilchef: 15
+7: ZombieCleo: 5
+8: topmass: 3
+9: Tango: 3
+10: sl1pg8r: 2
+11: Biffa2001: 1
+Total 471

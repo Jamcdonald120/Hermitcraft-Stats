@@ -1,0 +1,18 @@
+minecraft.picked_up.crimson_trapdoor
+1: Zedaph: 636
+2: Etho: 297
+3: impulseSV: 199
+4: Tango: 110
+5: Grian: 103
+6: Renthedog: 81
+7: iJevin: 60
+8: cubfan135: 53
+9: Stressmonster101: 31
+10: VintageBeef: 28
+11: Xisuma: 21
+12: joehillssays: 11
+13: GoodTimeWithScar: 11
+14: iskall85: 6
+15: BdoubleO100: 2
+16: Keralis1: 2
+Total 1651

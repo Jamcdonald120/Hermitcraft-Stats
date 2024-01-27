@@ -1,0 +1,23 @@
+minecraft.dropped.azure_bluet
+1: falsesymmetry: 281
+2: iJevin: 235
+3: impulseSV: 52
+4: GoodTimeWithScar: 51
+5: Mumbo: 49
+6: Grian: 21
+7: Zedaph: 13
+8: hypnotizd: 8
+9: Tango: 7
+10: MumboJumbo: 7
+11: Docm77: 6
+12: BdoubleO100: 6
+13: Etho: 6
+14: Renthedog: 4
+15: cubfan135: 3
+16: RentheKing: 3
+17: Pixlriffs: 2
+18: Keralis1: 2
+19: PearlescentMoon: 1
+20: iskall85: 1
+21: ZombieCleo: 1
+Total 759

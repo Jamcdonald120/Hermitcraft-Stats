@@ -1,0 +1,8 @@
+minecraft.dropped.stripped_jungle_log
+1: falsesymmetry: 538
+2: GoodTimeWithScar: 5
+3: Grian: 2
+4: Etho: 2
+5: Keralis1: 2
+6: iJevin: 1
+Total 550

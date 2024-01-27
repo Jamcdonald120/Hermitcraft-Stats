@@ -1,0 +1,23 @@
+minecraft.used.smooth_quartz_stairs
+1: impulseSV: 4749
+2: cubfan135: 3009
+3: Keralis1: 2992
+4: GoodTimeWithScar: 2351
+5: xBCrafted: 1878
+6: Grian: 1075
+7: Xisuma: 1058
+8: Tango: 559
+9: VintageBeef: 454
+10: hypnotizd: 272
+11: joehillssays: 242
+12: BdoubleO100: 234
+13: Welsknight: 211
+14: falsesymmetry: 145
+15: MumboJumbo: 139
+16: Docm77: 93
+17: Etho: 35
+18: Zedaph: 15
+19: ZombieCleo: 6
+20: Renthedog: 1
+21: iJevin: 1
+Total 19519

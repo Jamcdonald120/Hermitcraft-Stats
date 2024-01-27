@@ -1,0 +1,12 @@
+minecraft.dropped.heavy_weighted_pressure_plate
+1: Tango: 113
+2: falsesymmetry: 45
+3: Docm77: 6
+4: VintageBeef: 4
+5: Zedaph: 4
+6: iJevin: 3
+7: Etho: 3
+8: iskall85: 1
+9: xBCrafted: 1
+10: GoodTimeWithScar: 1
+Total 181

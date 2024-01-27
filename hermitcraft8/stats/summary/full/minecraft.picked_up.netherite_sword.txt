@@ -1,0 +1,17 @@
+minecraft.picked_up.netherite_sword
+1: iJevin: 50
+2: PearlescentMoon: 28
+3: impulseSV: 17
+4: Docm77: 4
+5: cubfan135: 4
+6: Grian: 3
+7: Welsknight: 3
+8: hypnotizd: 3
+9: Xisuma: 2
+10: xBCrafted: 2
+11: pillbugnine: 1
+12: joehillssays: 1
+13: GeminiTay: 1
+14: Keralis1: 1
+15: Zedaph: 1
+Total 121

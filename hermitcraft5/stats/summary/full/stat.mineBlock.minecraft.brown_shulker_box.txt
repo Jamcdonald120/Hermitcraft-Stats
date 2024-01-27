@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.brown_shulker_box
+1: cubfan135: 760
+2: Xisuma: 383
+3: iskall85: 374
+4: Stressmonster101: 339
+5: xBCrafted: 137
+6: GoodTimeWithScar: 124
+7: Tango: 122
+8: falsesymmetry: 85
+9: MumboJumbo: 46
+10: PythonGB: 44
+11: Renthedog: 29
+12: Zedaph: 9
+Total 2452

@@ -1,0 +1,20 @@
+minecraft.picked_up.lime_terracotta
+1: Zedaph: 866
+2: GoodTimeWithScar: 693
+3: falsesymmetry: 513
+4: Xisuma: 325
+5: VintageBeef: 109
+6: iskall85: 93
+7: cubfan135: 56
+8: Keralis1: 55
+9: BdoubleO100: 41
+10: Grian: 25
+11: Stressmonster101: 21
+12: Etho: 17
+13: impulseSV: 10
+14: Tango: 8
+15: ZombieCleo: 3
+16: Docm77: 2
+17: joehillssays: 2
+18: MumboJumbo: 1
+Total 2840

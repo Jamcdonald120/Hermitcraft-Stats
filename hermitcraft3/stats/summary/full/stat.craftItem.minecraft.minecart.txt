@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.minecart
+1: Xisuma: 323
+2: impulseSV: 250
+3: Tango: 219
+4: falsesymmetry: 205
+5: sl1pg8r: 116
+6: xBCrafted: 100
+7: monkeyfarm: 97
+8: Biffa2001: 65
+9: PythonGB: 62
+10: Mumbo: 60
+11: hypnotizd: 60
+12: zueljin: 39
+13: Tinfoilchef: 38
+14: Etho: 34
+15: iJevin: 19
+16: KingDaddyDMAC: 18
+17: topmass: 15
+18: joehillssays: 9
+19: ZombieCleo: 9
+20: Docm77: 6
+21: skyzm: 1
+22: Pungence: 1
+Total 1746

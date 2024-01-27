@@ -1,0 +1,11 @@
+minecraft.dropped.gray_dye
+1: Grian: 303
+2: Zedaph: 114
+3: Keralis1: 106
+4: Xisuma: 64
+5: Renthedog: 63
+6: BdoubleO100: 32
+7: VintageBeef: 8
+8: falsesymmetry: 6
+9: hypnotizd: 1
+Total 697

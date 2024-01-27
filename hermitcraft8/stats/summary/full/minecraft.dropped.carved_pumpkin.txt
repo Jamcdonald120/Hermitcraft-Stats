@@ -1,0 +1,25 @@
+minecraft.dropped.carved_pumpkin
+1: Tango: 574
+2: impulseSV: 56
+3: GoodTimeWithScar: 54
+4: Grian: 43
+5: PearlescentMoon: 42
+6: joehillssays: 29
+7: Xisuma: 19
+8: cubfan135: 17
+9: iJevin: 15
+10: Keralis1: 14
+11: Zedaph: 14
+12: BdoubleO100: 9
+13: MumboJumbo: 9
+14: GeminiTay: 6
+15: Etho: 6
+16: Welsknight: 3
+17: Renthedog: 2
+18: iskall85: 2
+19: Docm77: 1
+20: VintageBeef: 1
+21: pillbugnine: 1
+22: xBCrafted: 1
+23: ZombieCleo: 1
+Total 919

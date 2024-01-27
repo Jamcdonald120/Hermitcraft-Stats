@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.web
+1: falsesymmetry: 499
+2: xBCrafted: 340
+3: topmass: 314
+4: Tinfoilchef: 285
+5: Biffa2001: 161
+6: Tango: 147
+7: impulseSV: 121
+8: zueljin: 85
+9: sl1pg8r: 61
+10: Pungence: 59
+11: Xisuma: 43
+12: PythonGB: 41
+13: Mumbo: 41
+14: KingDaddyDMAC: 26
+15: Keralis1: 22
+16: monkeyfarm: 16
+17: Etho: 14
+18: skyzm: 2
+Total 2277

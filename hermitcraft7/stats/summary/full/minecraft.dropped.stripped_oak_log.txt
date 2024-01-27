@@ -1,0 +1,14 @@
+minecraft.dropped.stripped_oak_log
+1: GoodTimeWithScar: 92
+2: Keralis1: 33
+3: iskall85: 25
+4: cubfan135: 12
+5: MumboJumbo: 6
+6: Grian: 4
+7: Docm77: 2
+8: Xisuma: 2
+9: Tango: 2
+10: hypnotizd: 2
+11: falsesymmetry: 1
+12: Tinfoilchef: 1
+Total 182

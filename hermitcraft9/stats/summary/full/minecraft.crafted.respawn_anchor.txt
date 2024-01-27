@@ -1,0 +1,13 @@
+minecraft.crafted.respawn_anchor
+1: cubfan135: 244
+2: Tango: 22
+3: RentheKing: 22
+4: GoodTimeWithScar: 20
+5: Xisuma: 4
+6: Grian: 4
+7: iJevin: 3
+8: PearlescentMoon: 3
+9: Zedaph: 3
+10: impulseSV: 2
+11: VintageBeef: 1
+Total 328

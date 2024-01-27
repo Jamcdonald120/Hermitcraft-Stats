@@ -1,0 +1,5 @@
+minecraft.dropped.polished_blackstone_pressure_plate
+1: iJevin: 2
+2: Zedaph: 2
+3: GoodTimeWithScar: 1
+Total 5

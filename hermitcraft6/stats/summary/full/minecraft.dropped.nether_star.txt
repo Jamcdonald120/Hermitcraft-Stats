@@ -1,0 +1,10 @@
+minecraft.dropped.nether_star
+1: Xisuma: 11
+2: iskall85: 6
+3: Grian: 5
+4: Tango: 5
+5: Zedaph: 5
+6: Docm77: 4
+7: GoodTimeWithScar: 3
+8: impulseSV: 1
+Total 40

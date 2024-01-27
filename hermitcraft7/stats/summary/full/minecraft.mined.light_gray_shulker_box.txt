@@ -1,0 +1,21 @@
+minecraft.mined.light_gray_shulker_box
+1: Keralis1: 576
+2: iskall85: 544
+3: Renthedog: 292
+4: Etho: 225
+5: GoodTimeWithScar: 208
+6: MumboJumbo: 179
+7: Stressmonster101: 93
+8: cubfan135: 67
+9: Xisuma: 60
+10: impulseSV: 58
+11: iJevin: 29
+12: BdoubleO100: 27
+13: Grian: 21
+14: joehillssays: 18
+15: Tango: 18
+16: falsesymmetry: 11
+17: VintageBeef: 9
+18: Zedaph: 5
+19: Docm77: 3
+Total 2443

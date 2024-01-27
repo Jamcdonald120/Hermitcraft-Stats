@@ -1,0 +1,4 @@
+stat.useItem.minecraft.spawn_egg
+1: Xisuma: 9
+2: xisumavoid: 2
+Total 11

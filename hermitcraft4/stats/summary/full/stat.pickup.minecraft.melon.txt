@@ -1,0 +1,22 @@
+stat.pickup.minecraft.melon
+1: MumboJumbo: 37279
+2: iskall85: 12510
+3: cubfan135: 1228
+4: Welsknight: 966
+5: Jessassin: 719
+6: impulseSV: 595
+7: Tango: 393
+8: Xisuma: 345
+9: PythonGB: 330
+10: Tinfoilchef: 330
+11: falsesymmetry: 305
+12: GoodTimeWithScar: 268
+13: Renthedog: 236
+14: iJevin: 191
+15: Biffa2001: 136
+16: Mumbo: 134
+17: joehillssays: 94
+18: Etho: 94
+19: Docm77: 4
+20: zueljin: 3
+Total 56160

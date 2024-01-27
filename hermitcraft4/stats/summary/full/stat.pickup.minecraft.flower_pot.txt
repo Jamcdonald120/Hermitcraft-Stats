@@ -1,0 +1,15 @@
+stat.pickup.minecraft.flower_pot
+1: falsesymmetry: 369
+2: Xisuma: 94
+3: cubfan135: 29
+4: Tango: 25
+5: GoodTimeWithScar: 14
+6: iskall85: 5
+7: Welsknight: 5
+8: MumboJumbo: 5
+9: Renthedog: 4
+10: ZombieCleo: 2
+11: joehillssays: 1
+12: Biffa2001: 1
+13: impulseSV: 1
+Total 555

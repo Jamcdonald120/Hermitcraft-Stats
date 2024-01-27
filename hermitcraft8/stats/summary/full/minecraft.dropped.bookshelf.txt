@@ -1,0 +1,5 @@
+minecraft.dropped.bookshelf
+1: Grian: 77
+2: GeminiTay: 8
+3: Renthedog: 1
+Total 86

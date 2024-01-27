@@ -1,0 +1,19 @@
+minecraft.used.birch_fence_gate
+1: impulseSV: 727
+2: Xisuma: 311
+3: VintageBeef: 254
+4: Stressmonster101: 214
+5: Welsknight: 164
+6: Keralis1: 149
+7: cubfan135: 143
+8: Etho: 33
+9: Grian: 26
+10: GoodTimeWithScar: 23
+11: BdoubleO100: 16
+12: iJevin: 14
+13: joehillssays: 14
+14: Tango: 6
+15: Docm77: 2
+16: iskall85: 2
+17: ZombieCleo: 2
+Total 2100

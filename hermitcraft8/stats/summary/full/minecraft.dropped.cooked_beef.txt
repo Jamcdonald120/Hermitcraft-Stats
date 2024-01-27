@@ -1,0 +1,21 @@
+minecraft.dropped.cooked_beef
+1: Grian: 313
+2: GoodTimeWithScar: 208
+3: GeminiTay: 135
+4: BdoubleO100: 110
+5: cubfan135: 81
+6: hypnotizd: 79
+7: impulseSV: 77
+8: Renthedog: 75
+9: Zedaph: 68
+10: Xisuma: 60
+11: joehillssays: 49
+12: Tango: 44
+13: Docm77: 42
+14: Etho: 41
+15: iJevin: 39
+16: Keralis1: 28
+17: xBCrafted: 9
+18: ZombieCleo: 3
+19: VintageBeef: 2
+Total 1463

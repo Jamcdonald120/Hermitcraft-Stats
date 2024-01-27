@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.ender_eye
+1: Spumwackles: 12
+2: Xisuma: 2
+3: Tango: 2
+4: Biffa2001: 2
+5: ZombieCleo: 2
+6: iJevin: 1
+Total 21

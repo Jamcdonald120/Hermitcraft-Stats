@@ -1,0 +1,21 @@
+minecraft.dropped.white_terracotta
+1: Tango: 422
+2: Zedaph: 382
+3: cubfan135: 209
+4: MumboJumbo: 143
+5: VintageBeef: 110
+6: Grian: 103
+7: GoodTimeWithScar: 67
+8: impulseSV: 64
+9: Stressmonster101: 50
+10: Renthedog: 47
+11: BdoubleO100: 42
+12: Etho: 41
+13: ZombieCleo: 7
+14: iJevin: 6
+15: Keralis1: 6
+16: Xisuma: 3
+17: iskall85: 2
+18: falsesymmetry: 2
+19: Docm77: 1
+Total 1707

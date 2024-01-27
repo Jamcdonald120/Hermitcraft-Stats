@@ -1,0 +1,25 @@
+minecraft.picked_up.mycelium
+1: impulseSV: 61246
+2: xBCrafted: 27178
+3: Grian: 23825
+4: cubfan135: 17519
+5: Etho: 13944
+6: Renthedog: 13225
+7: GoodTimeWithScar: 13022
+8: iJevin: 7378
+9: Xisuma: 7032
+10: Keralis1: 6951
+11: VintageBeef: 4252
+12: Tango: 3574
+13: falsesymmetry: 2437
+14: iskall85: 2075
+15: Zedaph: 1699
+16: Stressmonster101: 998
+17: joehillssays: 980
+18: Docm77: 693
+19: BdoubleO100: 521
+20: MumboJumbo: 337
+21: hypnotizd: 301
+22: Welsknight: 200
+23: ZombieCleo: 7
+Total 209394

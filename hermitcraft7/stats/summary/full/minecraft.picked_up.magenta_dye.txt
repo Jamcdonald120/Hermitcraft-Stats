@@ -1,0 +1,8 @@
+minecraft.picked_up.magenta_dye
+1: Stressmonster101: 242
+2: falsesymmetry: 175
+3: cubfan135: 92
+4: Zedaph: 20
+5: VintageBeef: 10
+6: Welsknight: 5
+Total 544

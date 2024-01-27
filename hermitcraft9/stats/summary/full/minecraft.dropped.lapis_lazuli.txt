@@ -1,0 +1,24 @@
+minecraft.dropped.lapis_lazuli
+1: Grian: 1158
+2: iJevin: 1065
+3: Zedaph: 704
+4: Tango: 518
+5: Docm77: 151
+6: Renthedog: 128
+7: cubfan135: 117
+8: Mumbo: 76
+9: Keralis1: 72
+10: Stressmonster101: 59
+11: iskall85: 55
+12: ZombieCleo: 54
+13: GoodTimeWithScar: 38
+14: xBCrafted: 36
+15: RentheKing: 34
+16: Smallishbeans: 31
+17: impulseSV: 29
+18: falsesymmetry: 28
+19: Xisuma: 18
+20: hypnotizd: 14
+21: VintageBeef: 10
+22: joehillssays: 1
+Total 4396

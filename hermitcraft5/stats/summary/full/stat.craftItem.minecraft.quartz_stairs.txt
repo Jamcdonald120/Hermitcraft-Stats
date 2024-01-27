@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.quartz_stairs
+1: cubfan135: 699
+2: GoodTimeWithScar: 668
+3: PythonGB: 512
+4: falsesymmetry: 424
+5: MumboJumbo: 292
+6: Xisuma: 200
+7: impulseSV: 200
+8: Welsknight: 144
+9: Tinfoilchef: 144
+10: VintageBeef: 112
+11: Zedaph: 112
+12: iskall85: 80
+13: xBCrafted: 24
+14: joehillssays: 20
+15: Docm77: 8
+16: iJevin: 4
+17: Tango: 4
+Total 3647

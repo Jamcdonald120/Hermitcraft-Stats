@@ -1,0 +1,3 @@
+stat.drop.minecraft.stone_slab2
+1: MumboJumbo: 7
+Total 7

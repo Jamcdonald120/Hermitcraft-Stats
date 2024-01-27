@@ -1,0 +1,12 @@
+stat.useItem.minecraft.wooden_hoe
+1: Zedaph: 368
+2: ZombieCleo: 113
+3: GoodTimeWithScar: 69
+4: impulseSV: 60
+5: Etho: 36
+6: cubfan135: 18
+7: Xisuma: 15
+8: iskall85: 11
+9: Docm77: 2
+10: xBCrafted: 2
+Total 694

@@ -1,0 +1,26 @@
+stat.craftItem.minecraft.ladder
+1: ZombieCleo: 3360
+2: Xisuma: 2970
+3: falsesymmetry: 2850
+4: Tango: 1766
+5: xBCrafted: 1236
+6: impulseSV: 1209
+7: monkeyfarm: 840
+8: KingDaddyDMAC: 777
+9: sl1pg8r: 771
+10: zueljin: 702
+11: Tinfoilchef: 663
+12: Biffa2001: 621
+13: topmass: 507
+14: Mumbo: 492
+15: joehillssays: 243
+16: Etho: 240
+17: hypnotizd: 219
+18: skyzm: 195
+19: iJevin: 171
+20: PythonGB: 120
+21: Docm77: 75
+22: Collen: 54
+23: Spumwackles: 6
+24: Keralis1: 6
+Total 20093

@@ -1,0 +1,25 @@
+minecraft.crafted.mossy_cobblestone
+1: Docm77: 11829
+2: Tango: 5044
+3: GoodTimeWithScar: 3292
+4: BdoubleO100: 2393
+5: Grian: 1278
+6: iJevin: 1110
+7: Renthedog: 772
+8: Etho: 753
+9: iskall85: 635
+10: PearlescentMoon: 513
+11: RentheKing: 512
+12: GeminiTay: 505
+13: cubfan135: 413
+14: joehillssays: 372
+15: impulseSV: 256
+16: MythicalSausage: 220
+17: Xisuma: 207
+18: falsesymmetry: 160
+19: Stressmonster101: 117
+20: Zedaph: 99
+21: Keralis1: 96
+22: ZombieCleo: 18
+23: VintageBeef: 8
+Total 30602

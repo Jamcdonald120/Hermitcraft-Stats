@@ -1,0 +1,24 @@
+minecraft.dropped.diamond
+1: cubfan135: 3163
+2: Xisuma: 1656
+3: iJevin: 1320
+4: MumboJumbo: 1235
+5: Keralis1: 1234
+6: BdoubleO100: 551
+7: Renthedog: 489
+8: Grian: 475
+9: iskall85: 444
+10: GoodTimeWithScar: 432
+11: Etho: 308
+12: Tango: 200
+13: falsesymmetry: 183
+14: impulseSV: 164
+15: Zedaph: 138
+16: VintageBeef: 95
+17: Docm77: 75
+18: Stressmonster101: 71
+19: hypnotizd: 64
+20: xBCrafted: 48
+21: ZombieCleo: 34
+22: joehillssays: 19
+Total 12398

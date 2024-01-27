@@ -1,0 +1,26 @@
+minecraft.picked_up.rose_bush
+1: Zedaph: 7268
+2: GoodTimeWithScar: 4555
+3: cubfan135: 3949
+4: Grian: 2507
+5: Renthedog: 2123
+6: Etho: 2067
+7: joehillssays: 1648
+8: iJevin: 1109
+9: Xisuma: 996
+10: Stressmonster101: 876
+11: falsesymmetry: 697
+12: MumboJumbo: 521
+13: iskall85: 320
+14: BdoubleO100: 312
+15: xBCrafted: 211
+16: Docm77: 142
+17: Welsknight: 131
+18: ZombieCleo: 99
+19: VintageBeef: 97
+20: hypnotizd: 90
+21: Tango: 65
+22: Keralis1: 28
+23: impulseSV: 8
+24: Tinfoilchef: 5
+Total 29824

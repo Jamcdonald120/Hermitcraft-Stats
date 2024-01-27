@@ -1,0 +1,21 @@
+stat.killEntity.Sheep
+1: Renthedog: 194
+2: iskall85: 154
+3: falsesymmetry: 118
+4: impulseSV: 118
+5: iJevin: 97
+6: GoodTimeWithScar: 79
+7: Xisuma: 76
+8: cubfan135: 67
+9: Docm77: 60
+10: Tango: 21
+11: MumboJumbo: 15
+12: Etho: 11
+13: ZombieCleo: 11
+14: Tinfoilchef: 10
+15: zueljin: 9
+16: xBCrafted: 9
+17: joehillssays: 8
+18: VintageBeef: 6
+19: Welsknight: 4
+Total 1067

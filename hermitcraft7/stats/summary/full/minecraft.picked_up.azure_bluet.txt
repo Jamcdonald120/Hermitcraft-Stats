@@ -1,0 +1,24 @@
+minecraft.picked_up.azure_bluet
+1: Etho: 10346
+2: falsesymmetry: 3185
+3: Tango: 3151
+4: impulseSV: 2287
+5: MumboJumbo: 1170
+6: cubfan135: 895
+7: GoodTimeWithScar: 701
+8: Zedaph: 633
+9: Stressmonster101: 598
+10: Grian: 234
+11: BdoubleO100: 231
+12: xBCrafted: 123
+13: Keralis1: 114
+14: Xisuma: 90
+15: joehillssays: 81
+16: ZombieCleo: 42
+17: iskall85: 24
+18: VintageBeef: 20
+19: hypnotizd: 16
+20: Welsknight: 11
+21: iJevin: 4
+22: Renthedog: 1
+Total 23957

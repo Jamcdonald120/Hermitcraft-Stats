@@ -1,0 +1,17 @@
+stat.drop.minecraft.iron_block
+1: Tango: 3221
+2: Zedaph: 1519
+3: impulseSV: 989
+4: cubfan135: 762
+5: MumboJumbo: 182
+6: iskall85: 169
+7: falsesymmetry: 168
+8: Xisuma: 143
+9: xBCrafted: 119
+10: Stressmonster101: 84
+11: BdoubleO100: 49
+12: GoodTimeWithScar: 36
+13: joehillssays: 16
+14: Renthedog: 2
+15: PythonGB: 1
+Total 7460

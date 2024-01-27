@@ -1,0 +1,17 @@
+stat.cauldronFilled
+1: MumboJumbo: 127
+2: cubfan135: 110
+3: Etho: 65
+4: Tango: 45
+5: falsesymmetry: 43
+6: Docm77: 37
+7: Tinfoilchef: 29
+8: GoodTimeWithScar: 8
+9: Welsknight: 4
+10: impulseSV: 4
+11: PythonGB: 3
+12: Xisuma: 2
+13: VintageBeef: 1
+14: zueljin: 1
+15: ZombieCleo: 1
+Total 480

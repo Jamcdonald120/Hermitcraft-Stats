@@ -1,0 +1,22 @@
+minecraft.mined.white_concrete
+1: impulseSV: 24538
+2: Zedaph: 8575
+3: PearlescentMoon: 3037
+4: Welsknight: 2910
+5: Docm77: 1747
+6: Renthedog: 1598
+7: hypnotizd: 1503
+8: falsesymmetry: 1455
+9: MumboJumbo: 1337
+10: Keralis1: 979
+11: cubfan135: 911
+12: Xisuma: 765
+13: Grian: 706
+14: Tango: 687
+15: ZombieCleo: 271
+16: xBCrafted: 212
+17: GeminiTay: 206
+18: iJevin: 34
+19: iskall85: 10
+20: BdoubleO100: 2
+Total 51483

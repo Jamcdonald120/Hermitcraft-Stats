@@ -1,0 +1,11 @@
+minecraft.custom.interact_with_campfire
+1: Renthedog: 76
+2: cubfan135: 35
+3: joehillssays: 14
+4: Docm77: 1
+5: xBCrafted: 1
+6: falsesymmetry: 1
+7: GoodTimeWithScar: 1
+8: impulseSV: 1
+9: Zedaph: 1
+Total 131

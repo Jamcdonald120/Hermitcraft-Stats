@@ -1,0 +1,19 @@
+minecraft.used.mangrove_sign
+1: Xisuma: 127
+2: impulseSV: 61
+3: cubfan135: 49
+4: BdoubleO100: 46
+5: PearlescentMoon: 44
+6: Keralis1: 27
+7: GoodTimeWithScar: 19
+8: iJevin: 17
+9: RentheKing: 17
+10: fWhip: 13
+11: Tango: 12
+12: MythicalSausage: 9
+13: Grian: 8
+14: OrionSound: 4
+15: joehillssays: 1
+16: Stressmonster101: 1
+17: SolidarityGaming: 1
+Total 456

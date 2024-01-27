@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.hay_block
+1: Tango: 203
+2: falsesymmetry: 142
+3: Xisuma: 123
+4: zueljin: 31
+5: xBCrafted: 19
+Total 518

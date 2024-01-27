@@ -1,0 +1,28 @@
+minecraft.picked_up.bone
+1: Etho: 33278
+2: Xisuma: 18224
+3: hypnotizd: 11050
+4: xBCrafted: 6030
+5: cubfan135: 6018
+6: iJevin: 5993
+7: iskall85: 5442
+8: impulseSV: 5117
+9: Tango: 4867
+10: Grian: 4308
+11: joehillssays: 4202
+12: Stressmonster101: 3623
+13: Renthedog: 3209
+14: falsesymmetry: 2188
+15: Zedaph: 1950
+16: GoodTimeWithScar: 1831
+17: Keralis1: 1437
+18: Welsknight: 1183
+19: VintageBeef: 1111
+20: MumboJumbo: 676
+21: Docm77: 516
+22: ZombieCleo: 505
+23: BdoubleO100: 457
+24: HermitcraftAlt: 259
+25: Tinfoilchef: 66
+26: BarryBoss1234: 8
+Total 123548

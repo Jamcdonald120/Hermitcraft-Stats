@@ -1,0 +1,25 @@
+minecraft.picked_up.amethyst_cluster
+1: cubfan135: 1954
+2: iJevin: 1259
+3: hypnotizd: 1132
+4: Etho: 424
+5: Xisuma: 358
+6: PearlescentMoon: 229
+7: Tango: 206
+8: xBCrafted: 180
+9: Renthedog: 162
+10: joehillssays: 149
+11: Stressmonster101: 132
+12: Docm77: 113
+13: RentheKing: 102
+14: impulseSV: 85
+15: ZombieCleo: 80
+16: falsesymmetry: 70
+17: Zedaph: 61
+18: GeminiTay: 48
+19: iskall85: 44
+20: GoodTimeWithScar: 19
+21: Keralis1: 6
+22: Grian: 2
+23: BdoubleO100: 1
+Total 6816

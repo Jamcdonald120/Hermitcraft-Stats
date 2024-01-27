@@ -1,0 +1,7 @@
+stat.useItem.minecraft.chicken
+1: impulseSV: 24
+2: cubfan135: 7
+3: iJevin: 4
+4: iskall85: 2
+5: PythonGB: 1
+Total 38

@@ -1,0 +1,24 @@
+minecraft.picked_up.clay_ball
+1: Welsknight: 18363
+2: cubfan135: 17496
+3: Xisuma: 5390
+4: iJevin: 4287
+5: falsesymmetry: 4058
+6: PythonGB: 2663
+7: joehillssays: 2121
+8: Stressmonster101: 1740
+9: iskall85: 1543
+10: Tango: 1110
+11: Renthedog: 967
+12: impulseSV: 680
+13: BdoubleO100: 565
+14: GoodTimeWithScar: 231
+15: Grian: 219
+16: xBCrafted: 170
+17: Docm77: 132
+18: Jessassin: 72
+19: Zedaph: 40
+20: ZombieCleo: 28
+21: Keralis1: 28
+22: MumboJumbo: 5
+Total 61908

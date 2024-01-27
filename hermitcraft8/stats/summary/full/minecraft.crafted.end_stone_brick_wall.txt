@@ -1,0 +1,3 @@
+minecraft.crafted.end_stone_brick_wall
+1: iJevin: 18
+Total 18

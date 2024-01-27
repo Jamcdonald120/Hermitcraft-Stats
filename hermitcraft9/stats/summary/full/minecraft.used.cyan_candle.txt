@@ -1,0 +1,10 @@
+minecraft.used.cyan_candle
+1: Tango: 524
+2: PearlescentMoon: 24
+3: Xisuma: 13
+4: GeminiTay: 13
+5: hypnotizd: 12
+6: impulseSV: 10
+7: GoodTimeWithScar: 5
+8: Keralis1: 4
+Total 605

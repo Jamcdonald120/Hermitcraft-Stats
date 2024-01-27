@@ -1,0 +1,25 @@
+minecraft.mined.smooth_stone
+1: impulseSV: 13099
+2: Xisuma: 4728
+3: Keralis1: 4612
+4: MumboJumbo: 2399
+5: cubfan135: 1150
+6: xBCrafted: 1070
+7: iskall85: 884
+8: joehillssays: 871
+9: Grian: 868
+10: VintageBeef: 665
+11: Renthedog: 508
+12: GoodTimeWithScar: 449
+13: hypnotizd: 282
+14: Docm77: 159
+15: Tango: 86
+16: iJevin: 83
+17: ZombieCleo: 71
+18: falsesymmetry: 60
+19: Etho: 54
+20: BdoubleO100: 44
+21: Stressmonster101: 8
+22: Zedaph: 3
+23: Welsknight: 1
+Total 32154

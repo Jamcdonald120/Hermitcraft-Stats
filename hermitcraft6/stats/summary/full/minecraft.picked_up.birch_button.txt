@@ -1,0 +1,15 @@
+minecraft.picked_up.birch_button
+1: falsesymmetry: 6562
+2: iJevin: 895
+3: Tango: 152
+4: Docm77: 137
+5: cubfan135: 131
+6: Grian: 95
+7: GoodTimeWithScar: 66
+8: iskall85: 43
+9: Xisuma: 20
+10: impulseSV: 12
+11: Renthedog: 9
+12: MumboJumbo: 5
+13: Welsknight: 1
+Total 8128

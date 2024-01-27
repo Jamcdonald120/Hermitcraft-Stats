@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.bookshelf
+1: Welsknight: 665
+2: iJevin: 511
+3: xBCrafted: 478
+4: cubfan135: 393
+5: Xisuma: 141
+6: PythonGB: 141
+7: impulseSV: 131
+8: Tango: 89
+9: Stressmonster101: 79
+10: Zedaph: 66
+11: iskall85: 61
+12: joehillssays: 50
+13: BdoubleO100: 44
+14: GoodTimeWithScar: 44
+15: Tinfoilchef: 22
+16: MumboJumbo: 20
+17: Docm77: 11
+18: falsesymmetry: 7
+19: VintageBeef: 4
+20: Biffa2001: 4
+21: Etho: 3
+22: ZombieCleo: 2
+Total 2966

@@ -1,0 +1,21 @@
+minecraft.crafted.spruce_button
+1: Xisuma: 866
+2: Grian: 170
+3: falsesymmetry: 64
+4: cubfan135: 36
+5: BdoubleO100: 32
+6: iskall85: 19
+7: GeminiTay: 15
+8: Welsknight: 8
+9: hypnotizd: 8
+10: impulseSV: 7
+11: Renthedog: 5
+12: Docm77: 3
+13: Etho: 3
+14: Tango: 2
+15: xBCrafted: 2
+16: joehillssays: 1
+17: MumboJumbo: 1
+18: GoodTimeWithScar: 1
+19: Keralis1: 1
+Total 1244

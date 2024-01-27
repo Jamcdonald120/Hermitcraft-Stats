@@ -1,0 +1,21 @@
+minecraft.picked_up.white_carpet
+1: iJevin: 293
+2: Xisuma: 114
+3: Welsknight: 102
+4: Tango: 98
+5: PearlescentMoon: 59
+6: GeminiTay: 41
+7: Zedaph: 39
+8: cubfan135: 37
+9: xBCrafted: 28
+10: hypnotizd: 28
+11: falsesymmetry: 26
+12: Stressmonster101: 23
+13: Grian: 15
+14: Renthedog: 13
+15: impulseSV: 13
+16: joehillssays: 12
+17: MumboJumbo: 6
+18: ZombieCleo: 5
+19: GoodTimeWithScar: 2
+Total 954

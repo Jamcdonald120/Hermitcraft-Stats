@@ -1,0 +1,22 @@
+minecraft.dropped.stone_bricks
+1: Zedaph: 4119
+2: Tango: 2302
+3: cubfan135: 1516
+4: MumboJumbo: 1201
+5: iJevin: 1158
+6: Grian: 1060
+7: GoodTimeWithScar: 829
+8: iskall85: 677
+9: impulseSV: 186
+10: Keralis1: 178
+11: falsesymmetry: 174
+12: Etho: 146
+13: Stressmonster101: 116
+14: hypnotizd: 74
+15: BdoubleO100: 19
+16: Xisuma: 14
+17: VintageBeef: 13
+18: joehillssays: 9
+19: xBCrafted: 5
+20: BarryBoss1234: 2
+Total 13798

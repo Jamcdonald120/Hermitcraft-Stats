@@ -1,0 +1,16 @@
+minecraft.picked_up.yellow_banner
+1: Xisuma: 432
+2: falsesymmetry: 54
+3: iskall85: 38
+4: joehillssays: 27
+5: cubfan135: 21
+6: iJevin: 11
+7: Docm77: 9
+8: impulseSV: 9
+9: Welsknight: 5
+10: GoodTimeWithScar: 5
+11: Renthedog: 4
+12: MumboJumbo: 3
+13: Grian: 1
+14: Duke_da_dog: 1
+Total 620

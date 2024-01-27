@@ -1,0 +1,25 @@
+minecraft.picked_up.ancient_debris
+1: cubfan135: 4011
+2: Grian: 710
+3: iskall85: 693
+4: GoodTimeWithScar: 429
+5: Tango: 289
+6: iJevin: 271
+7: Zedaph: 154
+8: Xisuma: 147
+9: Etho: 139
+10: hypnotizd: 126
+11: Welsknight: 99
+12: VintageBeef: 93
+13: xBCrafted: 91
+14: Renthedog: 80
+15: impulseSV: 74
+16: ZombieCleo: 69
+17: MumboJumbo: 65
+18: joehillssays: 60
+19: falsesymmetry: 42
+20: Docm77: 37
+21: Keralis1: 13
+22: Stressmonster101: 7
+23: BdoubleO100: 5
+Total 7704

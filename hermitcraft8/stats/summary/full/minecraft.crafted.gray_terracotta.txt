@@ -1,0 +1,12 @@
+minecraft.crafted.gray_terracotta
+1: Etho: 1328
+2: GoodTimeWithScar: 1224
+3: hypnotizd: 672
+4: falsesymmetry: 360
+5: impulseSV: 192
+6: BdoubleO100: 40
+7: Grian: 16
+8: PearlescentMoon: 8
+9: Welsknight: 8
+10: ZombieCleo: 8
+Total 3856

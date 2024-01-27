@@ -1,0 +1,27 @@
+minecraft.mined.moss_block
+1: GeminiTay: 7814
+2: PearlescentMoon: 7806
+3: cubfan135: 4850
+4: GoodTimeWithScar: 4515
+5: Grian: 3075
+6: MumboJumbo: 1803
+7: xBCrafted: 1771
+8: falsesymmetry: 1738
+9: Etho: 1630
+10: impulseSV: 1627
+11: BdoubleO100: 1208
+12: iJevin: 1169
+13: iskall85: 1136
+14: joehillssays: 965
+15: Docm77: 866
+16: Keralis1: 831
+17: ZombieCleo: 669
+18: Xisuma: 456
+19: Stressmonster101: 243
+20: Renthedog: 207
+21: Zedaph: 198
+22: Tango: 152
+23: hypnotizd: 141
+24: EvilXisuma: 32
+25: Welsknight: 1
+Total 44903

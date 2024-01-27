@@ -1,0 +1,23 @@
+minecraft.used.bell
+1: GoodTimeWithScar: 112
+2: Tango: 25
+3: Etho: 22
+4: iskall85: 21
+5: impulseSV: 18
+6: iJevin: 16
+7: Stressmonster101: 16
+8: Zedaph: 15
+9: Docm77: 14
+10: xBCrafted: 13
+11: cubfan135: 12
+12: Renthedog: 10
+13: Grian: 10
+14: falsesymmetry: 8
+15: Keralis1: 6
+16: Xisuma: 5
+17: hypnotizd: 3
+18: MumboJumbo: 3
+19: joehillssays: 2
+20: VintageBeef: 1
+21: BdoubleO100: 1
+Total 333

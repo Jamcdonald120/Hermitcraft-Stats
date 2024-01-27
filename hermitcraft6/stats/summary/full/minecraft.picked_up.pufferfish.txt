@@ -1,0 +1,26 @@
+minecraft.picked_up.pufferfish
+1: Biffa2001: 646
+2: iskall85: 373
+3: cubfan135: 299
+4: Xisuma: 236
+5: Docm77: 187
+6: GoodTimeWithScar: 139
+7: Stressmonster101: 117
+8: Renthedog: 90
+9: iJevin: 76
+10: Tango: 60
+11: falsesymmetry: 36
+12: MumboJumbo: 35
+13: Grian: 30
+14: Welsknight: 22
+15: PythonGB: 20
+16: Keralis1: 19
+17: ZombieCleo: 16
+18: BdoubleO100: 15
+19: impulseSV: 14
+20: Jessassin: 6
+21: joehillssays: 4
+22: HumanCleo: 2
+23: xBCrafted: 2
+24: Zedaph: 2
+Total 2446

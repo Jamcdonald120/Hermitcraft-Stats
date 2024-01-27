@@ -1,0 +1,25 @@
+minecraft.crafted.hopper
+1: MumboJumbo: 4176
+2: iskall85: 3139
+3: Xisuma: 2203
+4: cubfan135: 2041
+5: Grian: 1898
+6: Tango: 1724
+7: Renthedog: 1630
+8: impulseSV: 1629
+9: Welsknight: 1446
+10: iJevin: 831
+11: Tinfoilchef: 794
+12: Stressmonster101: 740
+13: Docm77: 409
+14: falsesymmetry: 348
+15: GoodTimeWithScar: 315
+16: Zedaph: 160
+17: Biffa2001: 99
+18: joehillssays: 70
+19: BdoubleO100: 53
+20: PythonGB: 17
+21: xBCrafted: 9
+22: Jessassin: 2
+23: ZombieCleo: 2
+Total 23735

@@ -1,0 +1,24 @@
+stat.pickup.minecraft.ender_pearl
+1: GoodTimeWithScar: 27688
+2: Welsknight: 19035
+3: Zedaph: 17951
+4: falsesymmetry: 15056
+5: cubfan135: 15056
+6: Tango: 10168
+7: iskall85: 8826
+8: iJevin: 8441
+9: impulseSV: 5182
+10: Xisuma: 4936
+11: Biffa2001: 2575
+12: Renthedog: 2433
+13: joehillssays: 2010
+14: PythonGB: 1739
+15: Etho: 1684
+16: Docm77: 1287
+17: Tinfoilchef: 1238
+18: xBCrafted: 1055
+19: MumboJumbo: 775
+20: Stressmonster101: 539
+21: VintageBeef: 18
+22: BdoubleO100: 16
+Total 147708

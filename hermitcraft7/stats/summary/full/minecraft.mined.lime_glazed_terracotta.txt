@@ -1,0 +1,6 @@
+minecraft.mined.lime_glazed_terracotta
+1: impulseSV: 30
+2: Xisuma: 28
+3: VintageBeef: 13
+4: falsesymmetry: 2
+Total 73

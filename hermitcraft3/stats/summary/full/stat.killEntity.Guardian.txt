@@ -1,0 +1,8 @@
+stat.killEntity.Guardian
+1: xBCrafted: 7189
+2: hypnotizd: 306
+3: falsesymmetry: 138
+4: impulseSV: 58
+5: monkeyfarm: 9
+6: Biffa2001: 4
+Total 7704

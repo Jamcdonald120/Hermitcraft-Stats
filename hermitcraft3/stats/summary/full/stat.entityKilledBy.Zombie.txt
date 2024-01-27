@@ -1,0 +1,15 @@
+stat.entityKilledBy.Zombie
+1: Xisuma: 5
+2: Tinfoilchef: 5
+3: falsesymmetry: 4
+4: sl1pg8r: 2
+5: zueljin: 2
+6: Biffa2001: 2
+7: Mrs_Keralis: 2
+8: Keralis1: 2
+9: skyzm: 1
+10: PythonGB: 1
+11: iJevin: 1
+12: joehillssays: 1
+13: hypnotizd: 1
+Total 29

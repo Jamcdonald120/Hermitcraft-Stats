@@ -1,0 +1,10 @@
+minecraft.crafted.cyan_wool
+1: Xisuma: 70
+2: BdoubleO100: 39
+3: Zedaph: 23
+4: cubfan135: 19
+5: GoodTimeWithScar: 17
+6: Grian: 3
+7: Tango: 1
+8: Tinfoilchef: 1
+Total 173

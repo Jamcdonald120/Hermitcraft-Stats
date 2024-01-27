@@ -1,0 +1,21 @@
+minecraft.picked_up.cyan_carpet
+1: cubfan135: 441
+2: falsesymmetry: 421
+3: Welsknight: 400
+4: Xisuma: 345
+5: VintageBeef: 199
+6: BdoubleO100: 78
+7: joehillssays: 76
+8: Etho: 75
+9: xBCrafted: 60
+10: hypnotizd: 44
+11: impulseSV: 33
+12: Zedaph: 23
+13: Keralis1: 18
+14: Tango: 4
+15: ZombieCleo: 4
+16: GoodTimeWithScar: 3
+17: MumboJumbo: 2
+18: iJevin: 1
+19: Grian: 1
+Total 2228

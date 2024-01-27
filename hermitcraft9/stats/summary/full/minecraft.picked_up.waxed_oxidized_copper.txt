@@ -1,0 +1,13 @@
+minecraft.picked_up.waxed_oxidized_copper
+1: Grian: 1036
+2: Etho: 40
+3: Keralis1: 39
+4: Docm77: 23
+5: GoodTimeWithScar: 6
+6: Zedaph: 5
+7: Xisuma: 2
+8: cubfan135: 2
+9: impulseSV: 2
+10: Renthedog: 1
+11: falsesymmetry: 1
+Total 1157

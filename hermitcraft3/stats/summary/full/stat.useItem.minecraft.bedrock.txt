@@ -1,0 +1,4 @@
+stat.useItem.minecraft.bedrock
+1: xisumavoid: 2
+2: Keralis1: 2
+Total 4

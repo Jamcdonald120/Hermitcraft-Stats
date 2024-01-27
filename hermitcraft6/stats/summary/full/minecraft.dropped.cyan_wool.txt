@@ -1,0 +1,12 @@
+minecraft.dropped.cyan_wool
+1: iskall85: 191
+2: Zedaph: 125
+3: GoodTimeWithScar: 120
+4: Xisuma: 64
+5: Stressmonster101: 64
+6: Keralis1: 45
+7: cubfan135: 4
+8: falsesymmetry: 2
+9: Grian: 1
+10: Tango: 1
+Total 617

@@ -1,0 +1,18 @@
+stat.pickup.minecraft.spruce_boat
+1: iskall85: 185
+2: falsesymmetry: 105
+3: Tango: 92
+4: Etho: 67
+5: impulseSV: 63
+6: cubfan135: 42
+7: Docm77: 38
+8: Xisuma: 20
+9: Welsknight: 10
+10: PythonGB: 8
+11: GoodTimeWithScar: 8
+12: Renthedog: 7
+13: MumboJumbo: 5
+14: iJevin: 3
+15: VintageBeef: 2
+16: Biffa2001: 2
+Total 657

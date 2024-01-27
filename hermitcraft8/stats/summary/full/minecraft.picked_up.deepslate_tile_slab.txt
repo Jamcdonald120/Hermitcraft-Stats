@@ -1,0 +1,26 @@
+minecraft.picked_up.deepslate_tile_slab
+1: Docm77: 1409
+2: xBCrafted: 866
+3: Grian: 744
+4: Renthedog: 635
+5: Xisuma: 472
+6: Zedaph: 266
+7: VintageBeef: 261
+8: hypnotizd: 207
+9: Tango: 191
+10: ZombieCleo: 139
+11: PearlescentMoon: 128
+12: iskall85: 121
+13: Welsknight: 109
+14: joehillssays: 106
+15: impulseSV: 104
+16: cubfan135: 56
+17: GoodTimeWithScar: 48
+18: EvilXisuma: 44
+19: iJevin: 40
+20: Keralis1: 22
+21: BdoubleO100: 18
+22: GeminiTay: 9
+23: MumboJumbo: 3
+24: Stressmonster101: 3
+Total 6001

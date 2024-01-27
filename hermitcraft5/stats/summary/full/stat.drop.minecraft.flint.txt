@@ -1,0 +1,24 @@
+stat.drop.minecraft.flint
+1: Renthedog: 5509
+2: GoodTimeWithScar: 2307
+3: iskall85: 1022
+4: falsesymmetry: 658
+5: impulseSV: 653
+6: cubfan135: 380
+7: Xisuma: 329
+8: Zedaph: 291
+9: MumboJumbo: 248
+10: iJevin: 150
+11: Tango: 125
+12: Tinfoilchef: 107
+13: BdoubleO100: 103
+14: PythonGB: 75
+15: xBCrafted: 54
+16: joehillssays: 36
+17: Etho: 23
+18: Biffa2001: 9
+19: VintageBeef: 8
+20: ZombieCleo: 3
+21: Docm77: 2
+22: Stressmonster101: 2
+Total 12094

@@ -1,0 +1,25 @@
+minecraft.mined.glass_pane
+1: xBCrafted: 287
+2: cubfan135: 129
+3: impulseSV: 112
+4: Keralis1: 105
+5: Xisuma: 62
+6: PearlescentMoon: 61
+7: Grian: 48
+8: GeminiTay: 39
+9: Tango: 38
+10: GoodTimeWithScar: 26
+11: iJevin: 21
+12: iskall85: 21
+13: Zedaph: 20
+14: Mumbo: 16
+15: Renthedog: 12
+16: VintageBeef: 11
+17: falsesymmetry: 11
+18: Docm77: 9
+19: hypnotizd: 5
+20: joehillssays: 4
+21: BdoubleO100: 3
+22: Smajor1995: 2
+23: Etho: 2
+Total 1044

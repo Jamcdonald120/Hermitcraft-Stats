@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.dropper
+1: iskall85: 433
+2: Xisuma: 166
+3: MumboJumbo: 143
+4: impulseSV: 118
+5: cubfan135: 116
+6: Tango: 87
+7: Etho: 55
+8: GoodTimeWithScar: 40
+9: Renthedog: 17
+10: ZombieCleo: 15
+11: falsesymmetry: 14
+12: Tinfoilchef: 11
+13: Biffa2001: 10
+14: Docm77: 8
+15: iJevin: 8
+16: joehillssays: 7
+17: Mumbo: 5
+18: Welsknight: 1
+Total 1254

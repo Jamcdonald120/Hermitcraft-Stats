@@ -1,0 +1,8 @@
+minecraft.dropped.purple_terracotta
+1: GoodTimeWithScar: 116
+2: Welsknight: 64
+3: Zedaph: 5
+4: Etho: 4
+5: cubfan135: 2
+6: MumboJumbo: 1
+Total 192

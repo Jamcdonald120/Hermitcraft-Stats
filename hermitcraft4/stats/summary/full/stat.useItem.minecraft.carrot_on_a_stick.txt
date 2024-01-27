@@ -1,0 +1,5 @@
+stat.useItem.minecraft.carrot_on_a_stick
+1: iskall85: 17
+2: Tango: 1
+3: impulseSV: 1
+Total 19

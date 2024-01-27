@@ -1,0 +1,21 @@
+minecraft.picked_up.gray_terracotta
+1: VintageBeef: 28881
+2: PearlescentMoon: 1795
+3: Grian: 599
+4: GoodTimeWithScar: 557
+5: Docm77: 363
+6: joehillssays: 230
+7: falsesymmetry: 71
+8: cubfan135: 67
+9: impulseSV: 53
+10: Etho: 31
+11: Tango: 26
+12: Skizzleman: 22
+13: Renthedog: 16
+14: Zedaph: 15
+15: InTheLittleWood: 6
+16: Keralis1: 6
+17: BdoubleO100: 5
+18: Smajor1995: 3
+19: SolidarityGaming: 3
+Total 32749

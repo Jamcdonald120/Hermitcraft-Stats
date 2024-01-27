@@ -1,0 +1,4 @@
+minecraft.dropped.bamboo_sign
+1: Keralis1: 7
+2: Zedaph: 4
+Total 11

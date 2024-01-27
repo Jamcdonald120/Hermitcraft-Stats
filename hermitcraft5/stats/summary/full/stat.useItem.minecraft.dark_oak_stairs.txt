@@ -1,0 +1,15 @@
+stat.useItem.minecraft.dark_oak_stairs
+1: Welsknight: 10853
+2: xBCrafted: 1870
+3: cubfan135: 1208
+4: GoodTimeWithScar: 1088
+5: falsesymmetry: 684
+6: joehillssays: 642
+7: Stressmonster101: 595
+8: Xisuma: 400
+9: MumboJumbo: 296
+10: BdoubleO100: 212
+11: PythonGB: 12
+12: iskall85: 10
+13: Etho: 1
+Total 17871

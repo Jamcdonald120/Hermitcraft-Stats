@@ -1,0 +1,19 @@
+minecraft.picked_up.chiseled_quartz_block
+1: Xisuma: 591
+2: cubfan135: 255
+3: Keralis1: 191
+4: impulseSV: 186
+5: VintageBeef: 66
+6: falsesymmetry: 61
+7: GoodTimeWithScar: 45
+8: Tango: 41
+9: Etho: 17
+10: Renthedog: 3
+11: Grian: 3
+12: joehillssays: 2
+13: BdoubleO100: 2
+14: xBCrafted: 2
+15: Docm77: 1
+16: MumboJumbo: 1
+17: Stressmonster101: 1
+Total 1468

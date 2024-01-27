@@ -1,0 +1,17 @@
+minecraft.mined.mud_brick_stairs
+1: xBCrafted: 148
+2: ZombieCleo: 128
+3: Keralis1: 107
+4: impulseSV: 89
+5: cubfan135: 42
+6: iJevin: 41
+7: PearlescentMoon: 26
+8: Xisuma: 23
+9: Zedaph: 22
+10: Etho: 10
+11: Grian: 6
+12: Docm77: 2
+13: joehillssays: 2
+14: GeminiTay: 2
+15: Mumbo: 1
+Total 649

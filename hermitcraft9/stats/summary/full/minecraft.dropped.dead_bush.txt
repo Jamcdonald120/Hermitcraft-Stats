@@ -1,0 +1,9 @@
+minecraft.dropped.dead_bush
+1: iJevin: 60
+2: Docm77: 19
+3: Keralis1: 10
+4: Etho: 5
+5: GoodTimeWithScar: 3
+6: Zedaph: 3
+7: Tango: 2
+Total 102

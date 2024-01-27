@@ -1,0 +1,3 @@
+minecraft.mined.gray_glazed_terracotta
+1: impulseSV: 75
+Total 75

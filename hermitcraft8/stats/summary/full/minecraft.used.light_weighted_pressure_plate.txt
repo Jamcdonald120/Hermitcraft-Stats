@@ -1,0 +1,5 @@
+minecraft.used.light_weighted_pressure_plate
+1: impulseSV: 142
+2: cubfan135: 10
+3: Keralis1: 2
+Total 154

@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.speckled_melon
+1: Spumwackles: 24
+2: Xisuma: 8
+Total 32

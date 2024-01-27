@@ -1,0 +1,32 @@
+minecraft.picked_up.calcite
+1: Grian: 7815
+2: ZombieCleo: 5384
+3: iJevin: 4781
+4: impulseSV: 4459
+5: Xisuma: 3092
+6: cubfan135: 3054
+7: Tango: 2953
+8: PearlescentMoon: 2720
+9: iskall85: 2552
+10: Docm77: 2175
+11: hypnotizd: 1753
+12: GeminiTay: 1691
+13: Renthedog: 1559
+14: Keralis1: 1155
+15: Etho: 1113
+16: BdoubleO100: 880
+17: Zedaph: 782
+18: falsesymmetry: 621
+19: xBCrafted: 554
+20: joehillssays: 360
+21: GoodTimeWithScar: 261
+22: Pixlriffs: 189
+23: Smajor1995: 80
+24: RentheKing: 78
+25: VintageBeef: 77
+26: OrionSound: 64
+27: MythicalSausage: 64
+28: Mumbo: 7
+29: MumboJumbo: 7
+30: Stressmonster101: 1
+Total 50281

@@ -1,0 +1,28 @@
+stat.craftItem.minecraft.bed
+1: falsesymmetry: 76
+2: Tango: 20
+3: xBCrafted: 16
+4: Xisuma: 14
+5: monkeyfarm: 14
+6: Mumbo: 13
+7: Biffa2001: 12
+8: sl1pg8r: 11
+9: ZombieCleo: 11
+10: joehillssays: 9
+11: Tinfoilchef: 9
+12: KingDaddyDMAC: 6
+13: zueljin: 6
+14: hypnotizd: 6
+15: topmass: 5
+16: impulseSV: 4
+17: Spumwackles: 3
+18: PythonGB: 2
+19: iJevin: 2
+20: Etho: 2
+21: Keralis1: 2
+22: Docm77: 1
+23: skyzm: 1
+24: Pungence: 1
+25: NameOfSamuel: 1
+26: Collen: 1
+Total 248

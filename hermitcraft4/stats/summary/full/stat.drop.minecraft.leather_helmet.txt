@@ -1,0 +1,10 @@
+stat.drop.minecraft.leather_helmet
+1: GoodTimeWithScar: 18
+2: Tango: 17
+3: impulseSV: 15
+4: Renthedog: 8
+5: falsesymmetry: 8
+6: iskall85: 6
+7: cubfan135: 3
+8: MumboJumbo: 3
+Total 78

@@ -1,0 +1,27 @@
+minecraft.dropped.stone_pickaxe
+1: Grian: 35
+2: VintageBeef: 9
+3: iJevin: 8
+4: Renthedog: 6
+5: Xisuma: 5
+6: falsesymmetry: 5
+7: Mumbo: 5
+8: MumboJumbo: 5
+9: GeminiTay: 4
+10: cubfan135: 4
+11: Docm77: 3
+12: Tango: 3
+13: iskall85: 3
+14: xBCrafted: 3
+15: Keralis1: 3
+16: joehillssays: 2
+17: Etho: 2
+18: hypnotizd: 2
+19: GoodTimeWithScar: 2
+20: impulseSV: 2
+21: Zedaph: 2
+22: MythicalSausage: 1
+23: PearlescentMoon: 1
+24: Stressmonster101: 1
+25: ShubbleYT: 1
+Total 117

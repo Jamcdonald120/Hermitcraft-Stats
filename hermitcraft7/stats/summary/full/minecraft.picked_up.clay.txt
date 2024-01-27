@@ -1,0 +1,24 @@
+minecraft.picked_up.clay
+1: Xisuma: 5474
+2: Grian: 3446
+3: VintageBeef: 2394
+4: Etho: 851
+5: hypnotizd: 726
+6: xBCrafted: 642
+7: BdoubleO100: 602
+8: GoodTimeWithScar: 564
+9: Zedaph: 418
+10: Stressmonster101: 280
+11: falsesymmetry: 182
+12: cubfan135: 150
+13: iJevin: 141
+14: Keralis1: 118
+15: Welsknight: 62
+16: joehillssays: 44
+17: Renthedog: 33
+18: iskall85: 31
+19: impulseSV: 18
+20: Tango: 3
+21: Docm77: 1
+22: Tinfoilchef: 1
+Total 16181

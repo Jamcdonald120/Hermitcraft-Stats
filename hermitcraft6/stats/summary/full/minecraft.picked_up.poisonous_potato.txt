@@ -1,0 +1,24 @@
+minecraft.picked_up.poisonous_potato
+1: Grian: 364
+2: PythonGB: 217
+3: Tinfoilchef: 173
+4: cubfan135: 73
+5: Renthedog: 40
+6: impulseSV: 40
+7: iskall85: 37
+8: falsesymmetry: 32
+9: iJevin: 31
+10: joehillssays: 31
+11: Biffa2001: 29
+12: GoodTimeWithScar: 27
+13: Tango: 14
+14: Xisuma: 10
+15: Keralis1: 10
+16: Zedaph: 10
+17: Stressmonster101: 6
+18: MumboJumbo: 5
+19: Docm77: 4
+20: Jessassin: 3
+21: Welsknight: 3
+22: xBCrafted: 2
+Total 1161

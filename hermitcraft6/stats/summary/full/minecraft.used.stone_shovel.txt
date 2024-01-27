@@ -1,0 +1,22 @@
+minecraft.used.stone_shovel
+1: GoodTimeWithScar: 15155
+2: ZombieCleo: 1985
+3: MumboJumbo: 1892
+4: joehillssays: 736
+5: Biffa2001: 706
+6: Tinfoilchef: 529
+7: PythonGB: 425
+8: BdoubleO100: 395
+9: Grian: 328
+10: Xisuma: 310
+11: iJevin: 289
+12: iskall85: 266
+13: Docm77: 235
+14: Tango: 172
+15: falsesymmetry: 146
+16: cubfan135: 138
+17: xBCrafted: 132
+18: impulseSV: 131
+19: Zedaph: 131
+20: Renthedog: 19
+Total 24120

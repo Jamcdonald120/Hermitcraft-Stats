@@ -1,0 +1,14 @@
+minecraft.picked_up.emerald_block
+1: MumboJumbo: 1691
+2: Grian: 1651
+3: GoodTimeWithScar: 183
+4: Xisuma: 135
+5: impulseSV: 108
+6: iJevin: 67
+7: Renthedog: 20
+8: cubfan135: 7
+9: Docm77: 3
+10: Zedaph: 2
+11: VintageBeef: 1
+12: Etho: 1
+Total 3869

@@ -1,0 +1,25 @@
+minecraft.used.light_blue_wool
+1: Renthedog: 5289
+2: Tango: 2616
+3: Grian: 1916
+4: PearlescentMoon: 470
+5: GoodTimeWithScar: 460
+6: Docm77: 390
+7: cubfan135: 351
+8: hypnotizd: 155
+9: iJevin: 104
+10: Xisuma: 55
+11: BdoubleO100: 55
+12: VintageBeef: 41
+13: iskall85: 33
+14: Keralis1: 19
+15: falsesymmetry: 18
+16: RentheKing: 17
+17: Stressmonster101: 9
+18: Zedaph: 6
+19: xBCrafted: 4
+20: Etho: 4
+21: GeminiTay: 3
+22: MythicalSausage: 2
+23: impulseSV: 2
+Total 12019

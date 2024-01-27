@@ -1,0 +1,22 @@
+minecraft.picked_up.light_gray_concrete_powder
+1: iskall85: 6596
+2: Grian: 4859
+3: GoodTimeWithScar: 4240
+4: iJevin: 2822
+5: cubfan135: 2611
+6: Renthedog: 1423
+7: Welsknight: 1317
+8: falsesymmetry: 922
+9: Xisuma: 886
+10: Stressmonster101: 880
+11: MumboJumbo: 417
+12: Docm77: 232
+13: Keralis1: 138
+14: PythonGB: 103
+15: Tango: 71
+16: ZombieCleo: 43
+17: impulseSV: 42
+18: BdoubleO100: 19
+19: Tinfoilchef: 6
+20: joehillssays: 4
+Total 27631

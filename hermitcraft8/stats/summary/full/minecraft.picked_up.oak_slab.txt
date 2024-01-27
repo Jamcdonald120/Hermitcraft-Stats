@@ -1,0 +1,26 @@
+minecraft.picked_up.oak_slab
+1: Grian: 432
+2: Xisuma: 302
+3: MumboJumbo: 236
+4: falsesymmetry: 180
+5: impulseSV: 165
+6: PearlescentMoon: 127
+7: iskall85: 115
+8: GoodTimeWithScar: 105
+9: Keralis1: 89
+10: iJevin: 78
+11: xBCrafted: 77
+12: Welsknight: 64
+13: ZombieCleo: 52
+14: Tango: 47
+15: Renthedog: 38
+16: Zedaph: 27
+17: Etho: 17
+18: hypnotizd: 13
+19: BdoubleO100: 12
+20: cubfan135: 9
+21: GeminiTay: 8
+22: Tinfoilchef: 8
+23: Docm77: 6
+24: Stressmonster101: 5
+Total 2212

@@ -1,0 +1,27 @@
+minecraft.mined.sandstone
+1: GoodTimeWithScar: 25066
+2: ZombieCleo: 17835
+3: joehillssays: 14772
+4: Docm77: 14763
+5: GeminiTay: 11044
+6: Xisuma: 10475
+7: PearlescentMoon: 7232
+8: hypnotizd: 5375
+9: xBCrafted: 4917
+10: Etho: 3288
+11: cubfan135: 2606
+12: impulseSV: 2150
+13: Renthedog: 1143
+14: MumboJumbo: 669
+15: iJevin: 555
+16: Welsknight: 407
+17: Grian: 243
+18: Tango: 207
+19: Keralis1: 90
+20: iskall85: 59
+21: Zedaph: 42
+22: falsesymmetry: 13
+23: Tinfoilchef: 7
+24: VintageBeef: 4
+25: BdoubleO100: 1
+Total 122963

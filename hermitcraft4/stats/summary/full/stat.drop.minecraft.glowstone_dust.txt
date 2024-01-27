@@ -1,0 +1,10 @@
+stat.drop.minecraft.glowstone_dust
+1: Tango: 292
+2: MumboJumbo: 27
+3: Xisuma: 9
+4: falsesymmetry: 8
+5: iskall85: 6
+6: GoodTimeWithScar: 6
+7: Renthedog: 4
+8: PythonGB: 2
+Total 354

@@ -1,0 +1,17 @@
+stat.breakItem.minecraft.iron_shovel
+1: impulseSV: 20
+2: GoodTimeWithScar: 12
+3: Zedaph: 11
+4: Xisuma: 10
+5: VintageBeef: 6
+6: Biffa2001: 5
+7: Renthedog: 3
+8: joehillssays: 2
+9: Tango: 2
+10: Welsknight: 2
+11: BdoubleO100: 1
+12: cubfan135: 1
+13: ZombieCleo: 1
+14: Tinfoilchef: 1
+15: Stressmonster101: 1
+Total 78

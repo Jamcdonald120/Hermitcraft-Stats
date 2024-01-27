@@ -1,0 +1,21 @@
+minecraft.picked_up.polished_andesite_stairs
+1: Zedaph: 2619
+2: xBCrafted: 909
+3: Keralis1: 783
+4: Grian: 747
+5: Tango: 402
+6: cubfan135: 341
+7: GoodTimeWithScar: 299
+8: Xisuma: 117
+9: joehillssays: 110
+10: Docm77: 105
+11: VintageBeef: 105
+12: iskall85: 101
+13: falsesymmetry: 85
+14: BdoubleO100: 76
+15: ZombieCleo: 39
+16: Etho: 16
+17: impulseSV: 12
+18: hypnotizd: 5
+19: MumboJumbo: 2
+Total 6873

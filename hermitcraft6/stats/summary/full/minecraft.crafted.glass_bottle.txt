@@ -1,0 +1,23 @@
+minecraft.crafted.glass_bottle
+1: cubfan135: 1155
+2: impulseSV: 792
+3: iJevin: 771
+4: Tango: 441
+5: falsesymmetry: 399
+6: GoodTimeWithScar: 378
+7: Docm77: 315
+8: Xisuma: 240
+9: iskall85: 183
+10: Zedaph: 174
+11: Stressmonster101: 150
+12: joehillssays: 141
+13: ZombieCleo: 78
+14: Tinfoilchef: 66
+15: MumboJumbo: 48
+16: Welsknight: 45
+17: BdoubleO100: 21
+18: Grian: 9
+19: Renthedog: 6
+20: PythonGB: 6
+21: HumanCleo: 3
+Total 5421

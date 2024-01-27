@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.tripwire_hook
+1: MumboJumbo: 1312
+2: iskall85: 896
+3: Tango: 576
+4: GoodTimeWithScar: 530
+5: Tinfoilchef: 418
+6: Xisuma: 380
+7: iJevin: 340
+8: impulseSV: 262
+9: Renthedog: 218
+10: cubfan135: 200
+11: Biffa2001: 194
+12: falsesymmetry: 170
+13: Welsknight: 170
+14: Docm77: 54
+15: joehillssays: 50
+16: PythonGB: 28
+17: ZombieCleo: 20
+18: zueljin: 10
+19: Etho: 8
+20: VintageBeef: 6
+21: Mumbo: 2
+Total 5844

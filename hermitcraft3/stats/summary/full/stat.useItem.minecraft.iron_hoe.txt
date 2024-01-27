@@ -1,0 +1,16 @@
+stat.useItem.minecraft.iron_hoe
+1: xBCrafted: 2210
+2: Xisuma: 761
+3: joehillssays: 740
+4: impulseSV: 738
+5: iJevin: 335
+6: PythonGB: 128
+7: Tinfoilchef: 124
+8: falsesymmetry: 122
+9: Mumbo: 105
+10: zueljin: 74
+11: monkeyfarm: 71
+12: ZombieCleo: 66
+13: skyzm: 13
+14: Tango: 3
+Total 5490

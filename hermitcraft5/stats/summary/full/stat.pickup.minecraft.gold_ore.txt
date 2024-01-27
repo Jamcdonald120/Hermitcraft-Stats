@@ -1,0 +1,25 @@
+stat.pickup.minecraft.gold_ore
+1: Renthedog: 1449
+2: cubfan135: 1285
+3: GoodTimeWithScar: 1175
+4: Xisuma: 919
+5: Tinfoilchef: 907
+6: MumboJumbo: 869
+7: iskall85: 818
+8: falsesymmetry: 789
+9: Welsknight: 767
+10: Zedaph: 720
+11: iJevin: 541
+12: Tango: 509
+13: VintageBeef: 444
+14: Stressmonster101: 352
+15: impulseSV: 339
+16: Etho: 334
+17: Biffa2001: 283
+18: PythonGB: 279
+19: ZombieCleo: 194
+20: xBCrafted: 178
+21: BdoubleO100: 172
+22: joehillssays: 122
+23: Docm77: 115
+Total 13560

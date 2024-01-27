@@ -1,0 +1,13 @@
+minecraft.crafted.pink_terracotta
+1: falsesymmetry: 2528
+2: Etho: 1792
+3: Grian: 556
+4: VintageBeef: 376
+5: BdoubleO100: 208
+6: Xisuma: 160
+7: GoodTimeWithScar: 128
+8: joehillssays: 88
+9: iskall85: 64
+10: Keralis1: 48
+11: cubfan135: 8
+Total 5956

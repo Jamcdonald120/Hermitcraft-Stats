@@ -1,0 +1,8 @@
+minecraft.picked_up.stripped_acacia_wood
+1: GoodTimeWithScar: 321
+2: Keralis1: 150
+3: Grian: 33
+4: BdoubleO100: 33
+5: cubfan135: 3
+6: impulseSV: 1
+Total 541

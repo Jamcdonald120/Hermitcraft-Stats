@@ -1,0 +1,4 @@
+minecraft.dropped.jungle_pressure_plate
+1: Etho: 2
+2: GoodTimeWithScar: 2
+Total 4

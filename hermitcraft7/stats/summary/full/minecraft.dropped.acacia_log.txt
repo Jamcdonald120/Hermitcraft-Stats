@@ -1,0 +1,19 @@
+minecraft.dropped.acacia_log
+1: Keralis1: 193
+2: iskall85: 160
+3: Renthedog: 130
+4: cubfan135: 129
+5: xBCrafted: 94
+6: Grian: 85
+7: BdoubleO100: 78
+8: MumboJumbo: 67
+9: Xisuma: 60
+10: Stressmonster101: 47
+11: Etho: 32
+12: GoodTimeWithScar: 19
+13: falsesymmetry: 18
+14: Tango: 16
+15: VintageBeef: 12
+16: Zedaph: 10
+17: iJevin: 2
+Total 1152

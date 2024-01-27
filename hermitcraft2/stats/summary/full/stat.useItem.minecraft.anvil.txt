@@ -1,0 +1,14 @@
+stat.useItem.minecraft.anvil
+1: Spumwackles: 31
+2: zueljin: 28
+3: ZombieCleo: 13
+4: falsesymmetry: 10
+5: Tango: 7
+6: iJevin: 4
+7: Xisuma: 3
+8: KingDaddyDMAC: 3
+9: Biffa2001: 3
+10: xBCrafted: 2
+11: Collen: 2
+12: monkeyfarm: 1
+Total 107

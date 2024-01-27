@@ -1,0 +1,20 @@
+minecraft.picked_up.cooked_mutton
+1: GoodTimeWithScar: 1142
+2: Stressmonster101: 201
+3: iskall85: 171
+4: Grian: 128
+5: Renthedog: 90
+6: Docm77: 76
+7: Biffa2001: 68
+8: cubfan135: 47
+9: iJevin: 34
+10: falsesymmetry: 24
+11: BdoubleO100: 20
+12: Zedaph: 19
+13: Welsknight: 12
+14: BadTimeWithScar: 4
+15: MumboJumbo: 3
+16: EvilXisuma: 2
+17: impulseSV: 2
+18: ZombieCleo: 1
+Total 2044

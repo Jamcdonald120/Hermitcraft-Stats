@@ -1,0 +1,17 @@
+stat.useItem.minecraft.bed
+1: falsesymmetry: 10
+2: ZombieCleo: 10
+3: sl1pg8r: 8
+4: xBCrafted: 8
+5: Xisuma: 6
+6: Tango: 5
+7: KingDaddyDMAC: 3
+8: Biffa2001: 3
+9: Mumbo: 3
+10: iJevin: 2
+11: zueljin: 2
+12: Tinfoilchef: 2
+13: monkeyfarm: 2
+14: Spumwackles: 2
+15: HttpsSecure: 1
+Total 67

@@ -1,0 +1,12 @@
+minecraft.dropped.emerald_block
+1: impulseSV: 7330
+2: BdoubleO100: 1111
+3: falsesymmetry: 464
+4: iJevin: 280
+5: Zedaph: 98
+6: Grian: 73
+7: GoodTimeWithScar: 6
+8: Renthedog: 1
+9: Tango: 1
+10: Keralis1: 1
+Total 9365

@@ -1,0 +1,8 @@
+minecraft.picked_up.jukebox
+1: GoodTimeWithScar: 5
+2: hypnotizd: 3
+3: Renthedog: 2
+4: impulseSV: 2
+5: Docm77: 1
+6: PearlescentMoon: 1
+Total 14

@@ -1,0 +1,21 @@
+stat.useItem.minecraft.dispenser
+1: hypnotizd: 2204
+2: Xisuma: 272
+3: Tango: 243
+4: xBCrafted: 237
+5: Mumbo: 234
+6: sl1pg8r: 99
+7: monkeyfarm: 92
+8: falsesymmetry: 79
+9: impulseSV: 71
+10: Tinfoilchef: 68
+11: iJevin: 20
+12: Docm77: 10
+13: Etho: 9
+14: zueljin: 8
+15: ZombieCleo: 8
+16: snipepager: 7
+17: topmass: 6
+18: Biffa2001: 5
+19: PythonGB: 2
+Total 3674

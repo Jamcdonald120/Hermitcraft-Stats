@@ -1,0 +1,15 @@
+minecraft.dropped.dark_oak_leaves
+1: PythonGB: 245
+2: Renthedog: 173
+3: MumboJumbo: 78
+4: iJevin: 64
+5: Keralis1: 64
+6: falsesymmetry: 31
+7: GoodTimeWithScar: 14
+8: Xisuma: 9
+9: Biffa2001: 4
+10: iskall85: 3
+11: cubfan135: 2
+12: Grian: 1
+13: BdoubleO100: 1
+Total 689

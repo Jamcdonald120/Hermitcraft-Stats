@@ -1,0 +1,19 @@
+minecraft.picked_up.acacia_planks
+1: Grian: 387
+2: iskall85: 315
+3: MumboJumbo: 254
+4: GoodTimeWithScar: 197
+5: Renthedog: 119
+6: cubfan135: 90
+7: falsesymmetry: 24
+8: joehillssays: 18
+9: Docm77: 15
+10: Zedaph: 15
+11: iJevin: 10
+12: Xisuma: 8
+13: Biffa2001: 3
+14: Tango: 2
+15: BdoubleO100: 2
+16: ZombieCleo: 2
+17: Stressmonster101: 2
+Total 1463

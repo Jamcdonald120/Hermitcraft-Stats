@@ -1,0 +1,12 @@
+stat.drop.minecraft.hopper
+1: MumboJumbo: 249
+2: Tango: 92
+3: GoodTimeWithScar: 38
+4: impulseSV: 21
+5: cubfan135: 17
+6: Zedaph: 13
+7: falsesymmetry: 8
+8: PythonGB: 4
+9: xBCrafted: 4
+10: Stressmonster101: 1
+Total 447

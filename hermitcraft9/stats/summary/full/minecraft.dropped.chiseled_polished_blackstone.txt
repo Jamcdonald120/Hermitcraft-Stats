@@ -1,0 +1,9 @@
+minecraft.dropped.chiseled_polished_blackstone
+1: Tango: 758
+2: falsesymmetry: 18
+3: iJevin: 11
+4: GoodTimeWithScar: 10
+5: RentheKing: 6
+6: Etho: 3
+7: cubfan135: 1
+Total 807

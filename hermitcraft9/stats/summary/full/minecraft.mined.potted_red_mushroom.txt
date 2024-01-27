@@ -1,0 +1,5 @@
+minecraft.mined.potted_red_mushroom
+1: RentheKing: 2
+2: Xisuma: 1
+3: Tango: 1
+Total 4

@@ -1,0 +1,5 @@
+minecraft.picked_up.end_stone_brick_wall
+1: iJevin: 39
+2: Tango: 11
+3: impulseSV: 6
+Total 56

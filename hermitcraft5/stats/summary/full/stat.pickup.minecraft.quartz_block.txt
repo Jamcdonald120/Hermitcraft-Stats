@@ -1,0 +1,19 @@
+stat.pickup.minecraft.quartz_block
+1: cubfan135: 2821
+2: Zedaph: 904
+3: MumboJumbo: 797
+4: impulseSV: 675
+5: PythonGB: 467
+6: iskall85: 331
+7: GoodTimeWithScar: 273
+8: falsesymmetry: 235
+9: VintageBeef: 222
+10: Welsknight: 180
+11: joehillssays: 133
+12: Xisuma: 99
+13: Tango: 88
+14: Tinfoilchef: 74
+15: Docm77: 11
+16: iJevin: 7
+17: xBCrafted: 3
+Total 7320

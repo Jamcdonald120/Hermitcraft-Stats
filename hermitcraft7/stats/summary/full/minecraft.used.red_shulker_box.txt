@@ -1,0 +1,27 @@
+minecraft.used.red_shulker_box
+1: BdoubleO100: 1154
+2: Tango: 1042
+3: Etho: 995
+4: cubfan135: 881
+5: Xisuma: 610
+6: iskall85: 455
+7: hypnotizd: 428
+8: impulseSV: 406
+9: MumboJumbo: 402
+10: Zedaph: 348
+11: ZombieCleo: 330
+12: Keralis1: 296
+13: Renthedog: 229
+14: Stressmonster101: 214
+15: GoodTimeWithScar: 147
+16: joehillssays: 132
+17: Docm77: 128
+18: falsesymmetry: 123
+19: VintageBeef: 108
+20: xBCrafted: 98
+21: Grian: 89
+22: iJevin: 65
+23: Welsknight: 37
+24: Helsknight_: 4
+25: Tinfoilchef: 1
+Total 8722

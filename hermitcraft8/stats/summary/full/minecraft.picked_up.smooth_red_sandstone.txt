@@ -1,0 +1,8 @@
+minecraft.picked_up.smooth_red_sandstone
+1: cubfan135: 1780
+2: BdoubleO100: 103
+3: Xisuma: 64
+4: PearlescentMoon: 25
+5: impulseSV: 25
+6: Etho: 1
+Total 1998

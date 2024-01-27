@@ -1,0 +1,16 @@
+stat.pickup.minecraft.flower_pot
+1: PythonGB: 184
+2: falsesymmetry: 99
+3: cubfan135: 83
+4: Welsknight: 50
+5: xBCrafted: 34
+6: GoodTimeWithScar: 8
+7: Stressmonster101: 7
+8: VintageBeef: 6
+9: Tango: 6
+10: BdoubleO100: 5
+11: Zedaph: 5
+12: Xisuma: 2
+13: iskall85: 1
+14: ZombieCleo: 1
+Total 491

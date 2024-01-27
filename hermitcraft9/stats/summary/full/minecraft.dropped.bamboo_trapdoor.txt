@@ -1,0 +1,5 @@
+minecraft.dropped.bamboo_trapdoor
+1: Zedaph: 2
+2: GoodTimeWithScar: 1
+3: Keralis1: 1
+Total 4

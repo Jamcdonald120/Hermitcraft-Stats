@@ -1,0 +1,14 @@
+minecraft.crafted.magenta_concrete_powder
+1: Grian: 3776
+2: falsesymmetry: 984
+3: Etho: 648
+4: PearlescentMoon: 384
+5: VintageBeef: 264
+6: Docm77: 224
+7: joehillssays: 144
+8: cubfan135: 72
+9: GoodTimeWithScar: 40
+10: Xisuma: 24
+11: xBCrafted: 8
+12: Zedaph: 8
+Total 6576

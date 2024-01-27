@@ -1,0 +1,20 @@
+minecraft.crafted.golden_apple
+1: Xisuma: 1728
+2: Etho: 920
+3: Grian: 148
+4: impulseSV: 144
+5: iJevin: 129
+6: Stressmonster101: 64
+7: Keralis1: 50
+8: iskall85: 48
+9: Zedaph: 37
+10: ZombieCleo: 17
+11: PearlescentMoon: 9
+12: falsesymmetry: 8
+13: GeminiTay: 6
+14: RentheKing: 6
+15: Docm77: 5
+16: joehillssays: 3
+17: Renthedog: 2
+18: cubfan135: 2
+Total 3326

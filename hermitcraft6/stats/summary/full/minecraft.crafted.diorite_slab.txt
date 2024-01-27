@@ -1,0 +1,7 @@
+minecraft.crafted.diorite_slab
+1: impulseSV: 94
+2: iskall85: 48
+3: Xisuma: 6
+4: Renthedog: 6
+5: Grian: 6
+Total 160

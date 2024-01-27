@@ -1,0 +1,9 @@
+stat.drop.minecraft.redstone_ore
+1: impulseSV: 22
+2: falsesymmetry: 17
+3: GoodTimeWithScar: 8
+4: MumboJumbo: 4
+5: Tango: 2
+6: Xisuma: 1
+7: iskall85: 1
+Total 55

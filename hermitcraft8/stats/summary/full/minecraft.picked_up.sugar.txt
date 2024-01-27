@@ -1,0 +1,15 @@
+minecraft.picked_up.sugar
+1: Xisuma: 112
+2: iJevin: 110
+3: Grian: 105
+4: Tango: 84
+5: Renthedog: 76
+6: Zedaph: 47
+7: Etho: 42
+8: PearlescentMoon: 30
+9: iskall85: 28
+10: VintageBeef: 12
+11: cubfan135: 5
+12: hypnotizd: 1
+13: impulseSV: 1
+Total 653

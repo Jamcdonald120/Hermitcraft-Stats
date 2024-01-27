@@ -1,0 +1,30 @@
+minecraft.dropped.emerald
+1: iJevin: 112258
+2: Tango: 5192
+3: Grian: 2620
+4: Keralis1: 1419
+5: GoodTimeWithScar: 1238
+6: impulseSV: 1014
+7: Docm77: 645
+8: iskall85: 623
+9: RentheKing: 583
+10: Zedaph: 225
+11: cubfan135: 208
+12: Etho: 197
+13: GeminiTay: 193
+14: falsesymmetry: 140
+15: xBCrafted: 124
+16: BdoubleO100: 118
+17: Xisuma: 99
+18: PearlescentMoon: 99
+19: Renthedog: 61
+20: joehillssays: 44
+21: ZombieCleo: 24
+22: Smajor1995: 21
+23: Smallishbeans: 18
+24: Mumbo: 8
+25: hypnotizd: 8
+26: MumboJumbo: 5
+27: MythicalSausage: 4
+28: OrionSound: 1
+Total 127189

@@ -1,0 +1,24 @@
+minecraft.crafted.blaze_powder
+1: Xisuma: 62094
+2: Tango: 1993
+3: Stressmonster101: 1048
+4: Etho: 724
+5: Grian: 520
+6: cubfan135: 470
+7: Zedaph: 358
+8: GoodTimeWithScar: 322
+9: impulseSV: 114
+10: Renthedog: 110
+11: iJevin: 88
+12: iskall85: 66
+13: falsesymmetry: 56
+14: hypnotizd: 56
+15: MumboJumbo: 52
+16: xBCrafted: 48
+17: Keralis1: 40
+18: VintageBeef: 24
+19: ZombieCleo: 24
+20: joehillssays: 22
+21: Docm77: 16
+22: Welsknight: 14
+Total 68259

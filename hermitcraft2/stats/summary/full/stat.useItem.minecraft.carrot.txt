@@ -1,0 +1,9 @@
+stat.useItem.minecraft.carrot
+1: iJevin: 55
+2: falsesymmetry: 31
+3: Biffa2001: 15
+4: Spumwackles: 12
+5: Cleophas: 7
+6: zueljin: 1
+7: Tinfoilchef: 1
+Total 122

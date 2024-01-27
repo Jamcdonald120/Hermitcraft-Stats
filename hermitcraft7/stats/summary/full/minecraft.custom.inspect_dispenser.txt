@@ -1,0 +1,25 @@
+minecraft.custom.inspect_dispenser
+1: Etho: 2325
+2: cubfan135: 1852
+3: Renthedog: 1327
+4: Tango: 1323
+5: impulseSV: 1306
+6: iskall85: 1138
+7: Xisuma: 1129
+8: Grian: 898
+9: joehillssays: 888
+10: MumboJumbo: 870
+11: BdoubleO100: 713
+12: Zedaph: 603
+13: GoodTimeWithScar: 515
+14: VintageBeef: 510
+15: Keralis1: 244
+16: xBCrafted: 233
+17: falsesymmetry: 216
+18: Stressmonster101: 191
+19: Docm77: 169
+20: hypnotizd: 151
+21: iJevin: 111
+22: Welsknight: 106
+23: ZombieCleo: 22
+Total 16840

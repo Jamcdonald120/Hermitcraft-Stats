@@ -1,0 +1,27 @@
+minecraft.crafted.anvil
+1: cubfan135: 202
+2: Grian: 191
+3: iskall85: 116
+4: Renthedog: 105
+5: Tango: 86
+6: GoodTimeWithScar: 77
+7: Xisuma: 70
+8: falsesymmetry: 51
+9: Docm77: 50
+10: iJevin: 50
+11: impulseSV: 42
+12: Stressmonster101: 36
+13: MumboJumbo: 22
+14: joehillssays: 20
+15: PythonGB: 18
+16: Tinfoilchef: 15
+17: Zedaph: 15
+18: Biffa2001: 10
+19: BdoubleO100: 8
+20: Welsknight: 7
+21: ZombieCleo: 6
+22: Keralis1: 6
+23: xBCrafted: 4
+24: HumanCleo: 1
+25: Jessassin: 1
+Total 1209

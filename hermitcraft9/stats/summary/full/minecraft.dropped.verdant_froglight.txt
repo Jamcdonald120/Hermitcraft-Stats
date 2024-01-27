@@ -1,0 +1,9 @@
+minecraft.dropped.verdant_froglight
+1: impulseSV: 64
+2: Keralis1: 42
+3: Mumbo: 15
+4: Xisuma: 8
+5: cubfan135: 2
+6: xBCrafted: 1
+7: Etho: 1
+Total 133

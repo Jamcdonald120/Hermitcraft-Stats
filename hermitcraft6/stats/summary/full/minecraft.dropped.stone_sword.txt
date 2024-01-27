@@ -1,0 +1,23 @@
+minecraft.dropped.stone_sword
+1: iskall85: 718
+2: Tango: 143
+3: cubfan135: 102
+4: iJevin: 93
+5: falsesymmetry: 59
+6: MumboJumbo: 43
+7: Xisuma: 38
+8: Renthedog: 28
+9: GoodTimeWithScar: 28
+10: ZombieCleo: 22
+11: PythonGB: 16
+12: Biffa2001: 12
+13: impulseSV: 12
+14: Grian: 10
+15: Welsknight: 10
+16: Stressmonster101: 10
+17: Docm77: 3
+18: Tinfoilchef: 3
+19: EvilXisuma: 2
+20: xBCrafted: 1
+21: Zedaph: 1
+Total 1354

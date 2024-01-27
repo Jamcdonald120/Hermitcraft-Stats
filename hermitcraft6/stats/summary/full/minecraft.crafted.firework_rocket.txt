@@ -1,0 +1,20 @@
+minecraft.crafted.firework_rocket
+1: Tango: 253292
+2: cubfan135: 157838
+3: GoodTimeWithScar: 104512
+4: Grian: 85670
+5: MumboJumbo: 39708
+6: iskall85: 37500
+7: falsesymmetry: 24823
+8: Xisuma: 14034
+9: Stressmonster101: 8148
+10: impulseSV: 3558
+11: iJevin: 3027
+12: Keralis1: 2346
+13: Welsknight: 1998
+14: Renthedog: 1728
+15: Docm77: 1548
+16: joehillssays: 891
+17: PythonGB: 312
+18: Zedaph: 159
+Total 741092

@@ -1,0 +1,5 @@
+minecraft.dropped.stripped_dark_oak_wood
+1: GoodTimeWithScar: 12
+2: falsesymmetry: 7
+3: cubfan135: 4
+Total 23

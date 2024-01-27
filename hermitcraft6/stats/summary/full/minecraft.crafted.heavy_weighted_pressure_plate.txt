@@ -1,0 +1,18 @@
+minecraft.crafted.heavy_weighted_pressure_plate
+1: cubfan135: 213
+2: MumboJumbo: 181
+3: iskall85: 75
+4: GoodTimeWithScar: 53
+5: Renthedog: 19
+6: Stressmonster101: 16
+7: ZombieCleo: 11
+8: Welsknight: 9
+9: falsesymmetry: 7
+10: BdoubleO100: 6
+11: Tinfoilchef: 5
+12: Xisuma: 4
+13: Grian: 2
+14: Docm77: 1
+15: PythonGB: 1
+16: xBCrafted: 1
+Total 604

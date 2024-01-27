@@ -1,0 +1,15 @@
+minecraft.dropped.flower_pot
+1: falsesymmetry: 74
+2: GoodTimeWithScar: 66
+3: joehillssays: 65
+4: Renthedog: 45
+5: BdoubleO100: 22
+6: iJevin: 21
+7: Keralis1: 19
+8: Tango: 6
+9: GeminiTay: 5
+10: Etho: 5
+11: PearlescentMoon: 3
+12: xBCrafted: 1
+13: Zedaph: 1
+Total 333

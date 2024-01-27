@@ -1,0 +1,16 @@
+minecraft.crafted.experience_bottle
+1: Keralis1: 27663
+2: GoodTimeWithScar: 16350
+3: Grian: 11840
+4: Zedaph: 4603
+5: iJevin: 3827
+6: Docm77: 3584
+7: Stressmonster101: 2012
+8: Xisuma: 720
+9: Etho: 472
+10: cubfan135: 132
+11: impulseSV: 96
+12: Tango: 70
+13: iskall85: 12
+14: falsesymmetry: 12
+Total 71393

@@ -1,0 +1,11 @@
+stat.pickup.minecraft.brick_block
+1: Welsknight: 825
+2: falsesymmetry: 259
+3: Renthedog: 245
+4: Xisuma: 159
+5: GoodTimeWithScar: 102
+6: Tinfoilchef: 87
+7: cubfan135: 73
+8: iJevin: 60
+9: impulseSV: 1
+Total 1811

@@ -1,0 +1,5 @@
+minecraft.dropped.chorus_flower
+1: falsesymmetry: 12
+2: impulseSV: 4
+3: Renthedog: 2
+Total 18

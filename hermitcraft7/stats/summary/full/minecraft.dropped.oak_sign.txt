@@ -1,0 +1,21 @@
+minecraft.dropped.oak_sign
+1: Zedaph: 229
+2: Tango: 120
+3: Grian: 109
+4: Keralis1: 93
+5: cubfan135: 89
+6: iskall85: 78
+7: GoodTimeWithScar: 62
+8: iJevin: 46
+9: MumboJumbo: 44
+10: Stressmonster101: 40
+11: falsesymmetry: 31
+12: Renthedog: 30
+13: Etho: 26
+14: xBCrafted: 9
+15: impulseSV: 9
+16: Xisuma: 7
+17: BdoubleO100: 5
+18: ZombieCleo: 3
+19: VintageBeef: 1
+Total 1031

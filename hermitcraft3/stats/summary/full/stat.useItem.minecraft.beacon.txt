@@ -1,0 +1,18 @@
+stat.useItem.minecraft.beacon
+1: Xisuma: 178
+2: falsesymmetry: 65
+3: xBCrafted: 46
+4: Tango: 31
+5: impulseSV: 26
+6: Biffa2001: 11
+7: iJevin: 9
+8: Mumbo: 8
+9: zueljin: 7
+10: hypnotizd: 5
+11: sl1pg8r: 4
+12: Etho: 3
+13: topmass: 2
+14: PythonGB: 2
+15: KingDaddyDMAC: 2
+16: Spumwackles: 1
+Total 400

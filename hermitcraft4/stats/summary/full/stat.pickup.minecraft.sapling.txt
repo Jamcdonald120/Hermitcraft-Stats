@@ -1,0 +1,28 @@
+stat.pickup.minecraft.sapling
+1: Xisuma: 25047
+2: Renthedog: 16552
+3: cubfan135: 12301
+4: GoodTimeWithScar: 7921
+5: falsesymmetry: 3088
+6: Tinfoilchef: 2171
+7: PythonGB: 1793
+8: ZombieCleo: 1199
+9: Welsknight: 1136
+10: iskall85: 1086
+11: Tango: 1047
+12: Jessassin: 772
+13: joehillssays: 731
+14: Etho: 373
+15: iJevin: 332
+16: VintageBeef: 274
+17: Biffa2001: 255
+18: MumboJumbo: 230
+19: zueljin: 215
+20: impulseSV: 180
+21: Docm77: 153
+22: hypnotizd: 152
+23: Mumbo: 107
+24: xBCrafted: 61
+25: monkeyfarm: 4
+26: xisumavoid: 1
+Total 77181

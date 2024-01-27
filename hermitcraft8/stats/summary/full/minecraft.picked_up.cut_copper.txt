@@ -1,0 +1,13 @@
+minecraft.picked_up.cut_copper
+1: cubfan135: 205
+2: Xisuma: 34
+3: PearlescentMoon: 18
+4: Renthedog: 14
+5: Grian: 4
+6: GoodTimeWithScar: 3
+7: BdoubleO100: 2
+8: xBCrafted: 2
+9: GeminiTay: 1
+10: Welsknight: 1
+11: impulseSV: 1
+Total 285

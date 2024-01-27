@@ -1,0 +1,26 @@
+minecraft.dropped.wheat_seeds
+1: VintageBeef: 29281
+2: Tango: 13690
+3: Keralis1: 10447
+4: GoodTimeWithScar: 9315
+5: MumboJumbo: 6550
+6: impulseSV: 5960
+7: falsesymmetry: 5696
+8: hypnotizd: 5221
+9: Grian: 3989
+10: Zedaph: 3034
+11: BdoubleO100: 2961
+12: xBCrafted: 2236
+13: joehillssays: 2084
+14: cubfan135: 1780
+15: Etho: 1715
+16: Xisuma: 1387
+17: Docm77: 1279
+18: iskall85: 1002
+19: iJevin: 733
+20: Renthedog: 670
+21: ZombieCleo: 374
+22: Stressmonster101: 114
+23: Welsknight: 4
+24: Tinfoilchef: 1
+Total 109523

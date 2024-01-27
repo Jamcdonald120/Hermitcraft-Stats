@@ -1,0 +1,25 @@
+stat.pickup.minecraft.sign
+1: cubfan135: 1674
+2: falsesymmetry: 597
+3: Renthedog: 568
+4: joehillssays: 514
+5: impulseSV: 452
+6: PythonGB: 412
+7: Tango: 385
+8: MumboJumbo: 334
+9: Zedaph: 236
+10: iskall85: 204
+11: GoodTimeWithScar: 169
+12: Xisuma: 166
+13: Welsknight: 160
+14: Stressmonster101: 101
+15: Tinfoilchef: 82
+16: BdoubleO100: 81
+17: xBCrafted: 74
+18: Docm77: 64
+19: iJevin: 47
+20: Biffa2001: 39
+21: VintageBeef: 38
+22: Etho: 17
+23: ZombieCleo: 7
+Total 6421

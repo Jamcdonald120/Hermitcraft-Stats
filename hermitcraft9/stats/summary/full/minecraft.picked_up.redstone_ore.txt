@@ -1,0 +1,24 @@
+minecraft.picked_up.redstone_ore
+1: Grian: 104
+2: joehillssays: 68
+3: Docm77: 63
+4: Renthedog: 60
+5: Xisuma: 57
+6: Zedaph: 40
+7: GoodTimeWithScar: 38
+8: Keralis1: 38
+9: hypnotizd: 32
+10: VintageBeef: 29
+11: Tango: 29
+12: PearlescentMoon: 22
+13: iJevin: 20
+14: BdoubleO100: 20
+15: iskall85: 18
+16: Etho: 14
+17: xBCrafted: 13
+18: impulseSV: 11
+19: falsesymmetry: 6
+20: ZombieCleo: 6
+21: Stressmonster101: 3
+22: cubfan135: 1
+Total 692

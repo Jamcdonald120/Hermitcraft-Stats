@@ -1,0 +1,15 @@
+minecraft.crafted.sandstone_slab
+1: cubfan135: 450
+2: hypnotizd: 384
+3: joehillssays: 380
+4: GoodTimeWithScar: 366
+5: Welsknight: 324
+6: MumboJumbo: 216
+7: ZombieCleo: 28
+8: GeminiTay: 24
+9: iJevin: 18
+10: xBCrafted: 18
+11: Tango: 12
+12: Zedaph: 12
+13: Etho: 6
+Total 2238

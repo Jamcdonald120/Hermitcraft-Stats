@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.bread
+1: Xisuma: 1280
+2: joehillssays: 151
+3: Mumbo: 132
+4: xBCrafted: 108
+5: topmass: 87
+6: Tango: 64
+7: skyzm: 51
+8: ZombieCleo: 50
+9: Pungence: 29
+10: monkeyfarm: 29
+11: Tinfoilchef: 24
+12: sl1pg8r: 23
+13: falsesymmetry: 23
+14: zueljin: 22
+15: Docm77: 20
+16: iJevin: 20
+17: Biffa2001: 9
+18: impulseSV: 3
+Total 2125

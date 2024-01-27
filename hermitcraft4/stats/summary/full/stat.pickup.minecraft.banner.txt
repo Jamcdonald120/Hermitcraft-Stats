@@ -1,0 +1,20 @@
+stat.pickup.minecraft.banner
+1: Xisuma: 929
+2: cubfan135: 736
+3: Renthedog: 327
+4: falsesymmetry: 155
+5: Tango: 153
+6: Welsknight: 75
+7: iskall85: 67
+8: GoodTimeWithScar: 66
+9: VintageBeef: 58
+10: impulseSV: 56
+11: PythonGB: 48
+12: Tinfoilchef: 46
+13: ZombieCleo: 23
+14: joehillssays: 14
+15: MumboJumbo: 9
+16: iJevin: 7
+17: zueljin: 3
+18: Etho: 1
+Total 2773

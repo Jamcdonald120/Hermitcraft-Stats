@@ -1,0 +1,14 @@
+minecraft.picked_up.jungle_door
+1: Xisuma: 66
+2: MumboJumbo: 51
+3: Grian: 30
+4: VintageBeef: 29
+5: iJevin: 28
+6: Tango: 18
+7: Zedaph: 14
+8: impulseSV: 3
+9: Docm77: 1
+10: Renthedog: 1
+11: cubfan135: 1
+12: ZombieCleo: 1
+Total 243

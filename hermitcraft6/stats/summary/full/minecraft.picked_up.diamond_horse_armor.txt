@@ -1,0 +1,11 @@
+minecraft.picked_up.diamond_horse_armor
+1: PythonGB: 6
+2: Tango: 3
+3: iJevin: 1
+4: Grian: 1
+5: iskall85: 1
+6: cubfan135: 1
+7: GoodTimeWithScar: 1
+8: Stressmonster101: 1
+9: Zedaph: 1
+Total 16

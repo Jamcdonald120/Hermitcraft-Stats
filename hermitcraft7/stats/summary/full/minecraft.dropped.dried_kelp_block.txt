@@ -1,0 +1,5 @@
+minecraft.dropped.dried_kelp_block
+1: Xisuma: 960
+2: cubfan135: 497
+3: falsesymmetry: 1
+Total 1458

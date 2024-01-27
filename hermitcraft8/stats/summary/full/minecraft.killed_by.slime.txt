@@ -1,0 +1,6 @@
+minecraft.killed_by.slime
+1: iJevin: 2
+2: Renthedog: 1
+3: Tango: 1
+4: GoodTimeWithScar: 1
+Total 5

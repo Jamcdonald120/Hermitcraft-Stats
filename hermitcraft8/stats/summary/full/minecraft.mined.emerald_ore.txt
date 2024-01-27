@@ -1,0 +1,18 @@
+minecraft.mined.emerald_ore
+1: Welsknight: 142
+2: Xisuma: 69
+3: VintageBeef: 65
+4: GoodTimeWithScar: 53
+5: PearlescentMoon: 41
+6: Zedaph: 19
+7: Grian: 18
+8: BdoubleO100: 17
+9: Tango: 13
+10: MumboJumbo: 10
+11: Renthedog: 8
+12: Keralis1: 4
+13: iJevin: 3
+14: cubfan135: 2
+15: Etho: 1
+16: impulseSV: 1
+Total 466

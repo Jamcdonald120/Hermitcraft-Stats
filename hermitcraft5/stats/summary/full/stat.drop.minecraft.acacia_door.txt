@@ -1,0 +1,4 @@
+stat.drop.minecraft.acacia_door
+1: iJevin: 2
+2: xBCrafted: 2
+Total 4

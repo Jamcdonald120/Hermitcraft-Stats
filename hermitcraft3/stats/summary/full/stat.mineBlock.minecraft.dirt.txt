@@ -1,0 +1,30 @@
+stat.mineBlock.minecraft.dirt
+1: falsesymmetry: 121437
+2: Xisuma: 119703
+3: Tango: 84458
+4: xBCrafted: 46859
+5: impulseSV: 39703
+6: sl1pg8r: 31699
+7: zueljin: 29831
+8: Mumbo: 27433
+9: Biffa2001: 21040
+10: Tinfoilchef: 19204
+11: Spumwackles: 17642
+12: monkeyfarm: 17458
+13: hypnotizd: 14337
+14: ZombieCleo: 13770
+15: topmass: 13170
+16: PythonGB: 7558
+17: iJevin: 4711
+18: joehillssays: 4610
+19: KingDaddyDMAC: 3893
+20: Etho: 3004
+21: NameOfSamuel: 1901
+22: Docm77: 1732
+23: skyzm: 1456
+24: Keralis1: 687
+25: Pungence: 380
+26: Collen: 147
+27: truesymmetry: 1
+28: xisumavoid: 1
+Total 647825

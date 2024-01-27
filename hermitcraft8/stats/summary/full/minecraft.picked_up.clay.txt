@@ -1,0 +1,19 @@
+minecraft.picked_up.clay
+1: cubfan135: 793
+2: Etho: 786
+3: MumboJumbo: 604
+4: BdoubleO100: 424
+5: PearlescentMoon: 257
+6: impulseSV: 246
+7: Xisuma: 195
+8: iJevin: 143
+9: Grian: 121
+10: hypnotizd: 102
+11: Renthedog: 77
+12: Welsknight: 16
+13: VintageBeef: 12
+14: Docm77: 10
+15: xBCrafted: 4
+16: ZombieCleo: 2
+17: joehillssays: 1
+Total 3793

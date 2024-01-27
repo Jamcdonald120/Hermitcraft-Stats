@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.redstone_lamp
+1: iskall85: 231
+2: Xisuma: 126
+3: cubfan135: 114
+4: falsesymmetry: 107
+5: iJevin: 92
+6: MumboJumbo: 65
+7: Etho: 60
+8: Tango: 53
+9: Biffa2001: 44
+10: impulseSV: 36
+11: Docm77: 29
+12: VintageBeef: 18
+13: GoodTimeWithScar: 13
+14: Welsknight: 12
+15: Renthedog: 8
+16: PythonGB: 4
+17: ZombieCleo: 1
+Total 1013

@@ -1,0 +1,7 @@
+minecraft.crafted.light_blue_banner
+1: Renthedog: 16
+2: Zedaph: 4
+3: Xisuma: 3
+4: PearlescentMoon: 1
+5: cubfan135: 1
+Total 25

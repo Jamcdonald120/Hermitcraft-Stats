@@ -1,0 +1,23 @@
+minecraft.picked_up.pumpkin_seeds
+1: cubfan135: 8245
+2: Tango: 7885
+3: joehillssays: 7502
+4: iJevin: 2747
+5: iskall85: 2374
+6: Xisuma: 1130
+7: Grian: 927
+8: Stressmonster101: 926
+9: impulseSV: 751
+10: falsesymmetry: 744
+11: GoodTimeWithScar: 629
+12: ZombieCleo: 600
+13: MumboJumbo: 364
+14: Zedaph: 259
+15: Docm77: 103
+16: Renthedog: 57
+17: Biffa2001: 28
+18: Jessassin: 27
+19: Welsknight: 14
+20: BdoubleO100: 4
+21: PythonGB: 2
+Total 35318

@@ -1,0 +1,23 @@
+minecraft.picked_up.crimson_fungus
+1: Etho: 1487
+2: cubfan135: 1210
+3: Renthedog: 368
+4: Stressmonster101: 350
+5: xBCrafted: 198
+6: Tango: 130
+7: iskall85: 126
+8: iJevin: 103
+9: GoodTimeWithScar: 102
+10: Docm77: 76
+11: falsesymmetry: 75
+12: Xisuma: 70
+13: BdoubleO100: 64
+14: Zedaph: 44
+15: joehillssays: 37
+16: Grian: 37
+17: impulseSV: 26
+18: VintageBeef: 23
+19: ZombieCleo: 19
+20: Welsknight: 13
+21: hypnotizd: 8
+Total 4566

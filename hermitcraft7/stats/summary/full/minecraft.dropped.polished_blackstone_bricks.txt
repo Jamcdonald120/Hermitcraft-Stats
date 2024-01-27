@@ -1,0 +1,15 @@
+minecraft.dropped.polished_blackstone_bricks
+1: Tango: 388
+2: Renthedog: 322
+3: Zedaph: 291
+4: VintageBeef: 166
+5: cubfan135: 137
+6: iskall85: 102
+7: Grian: 88
+8: hypnotizd: 79
+9: Etho: 71
+10: Xisuma: 64
+11: iJevin: 20
+12: GoodTimeWithScar: 1
+13: Keralis1: 1
+Total 1730

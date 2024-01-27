@@ -1,0 +1,15 @@
+minecraft.dropped.mangrove_log
+1: MythicalSausage: 175
+2: Keralis1: 123
+3: falsesymmetry: 68
+4: Grian: 52
+5: PearlescentMoon: 16
+6: joehillssays: 15
+7: GoodTimeWithScar: 5
+8: Etho: 4
+9: cubfan135: 2
+10: RentheKing: 2
+11: Stressmonster101: 2
+12: iJevin: 1
+13: Zedaph: 1
+Total 466

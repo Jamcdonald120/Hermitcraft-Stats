@@ -1,0 +1,13 @@
+stat.useItem.minecraft.water_bucket
+1: Xisuma: 820
+2: falsesymmetry: 263
+3: monkeyfarm: 206
+4: ZombieCleo: 202
+5: Tango: 162
+6: zueljin: 105
+7: iJevin: 95
+8: xBCrafted: 62
+9: Spumwackles: 56
+10: sl1pg8r: 11
+11: Biffa2001: 3
+Total 1985

@@ -1,0 +1,28 @@
+minecraft.killed.skeleton
+1: Grian: 5221
+2: impulseSV: 3482
+3: Etho: 3372
+4: falsesymmetry: 2994
+5: GoodTimeWithScar: 2554
+6: hypnotizd: 2045
+7: Docm77: 2016
+8: Xisuma: 1549
+9: iskall85: 1351
+10: cubfan135: 1324
+11: xBCrafted: 1044
+12: PearlescentMoon: 607
+13: iJevin: 599
+14: Renthedog: 577
+15: Stressmonster101: 327
+16: GeminiTay: 302
+17: Tango: 298
+18: Welsknight: 172
+19: joehillssays: 154
+20: VintageBeef: 124
+21: BdoubleO100: 83
+22: Zedaph: 60
+23: Keralis1: 44
+24: ZombieCleo: 41
+25: Tinfoilchef: 4
+26: pillbugnine: 1
+Total 30345

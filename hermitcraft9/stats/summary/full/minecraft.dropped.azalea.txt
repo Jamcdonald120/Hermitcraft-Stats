@@ -1,0 +1,24 @@
+minecraft.dropped.azalea
+1: Docm77: 1044
+2: RentheKing: 195
+3: Tango: 120
+4: iJevin: 86
+5: Zedaph: 75
+6: falsesymmetry: 67
+7: Grian: 63
+8: GoodTimeWithScar: 56
+9: cubfan135: 51
+10: xBCrafted: 39
+11: Etho: 21
+12: iskall85: 19
+13: Keralis1: 18
+14: PearlescentMoon: 10
+15: ShubbleYT: 8
+16: impulseSV: 8
+17: Xisuma: 5
+18: BdoubleO100: 3
+19: Renthedog: 2
+20: MythicalSausage: 1
+21: GeminiTay: 1
+22: Stressmonster101: 1
+Total 1893

@@ -1,0 +1,24 @@
+minecraft.dropped.potato
+1: Tango: 2741
+2: xBCrafted: 441
+3: RentheKing: 201
+4: Zedaph: 157
+5: iJevin: 95
+6: cubfan135: 49
+7: iskall85: 42
+8: GeminiTay: 16
+9: Xisuma: 14
+10: impulseSV: 9
+11: Keralis1: 8
+12: Etho: 3
+13: GoodTimeWithScar: 3
+14: Docm77: 2
+15: Renthedog: 1
+16: VintageBeef: 1
+17: Grian: 1
+18: falsesymmetry: 1
+19: ZombieCleo: 1
+20: Mumbo: 1
+21: hypnotizd: 1
+22: MumboJumbo: 1
+Total 3789

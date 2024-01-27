@@ -1,0 +1,27 @@
+minecraft.picked_up.spruce_slab
+1: Xisuma: 816
+2: PearlescentMoon: 816
+3: impulseSV: 669
+4: Grian: 602
+5: GeminiTay: 544
+6: GoodTimeWithScar: 537
+7: BdoubleO100: 409
+8: Keralis1: 333
+9: Tango: 289
+10: Etho: 200
+11: joehillssays: 196
+12: falsesymmetry: 160
+13: ZombieCleo: 142
+14: iskall85: 135
+15: Renthedog: 134
+16: Welsknight: 95
+17: Stressmonster101: 94
+18: Docm77: 82
+19: cubfan135: 65
+20: Zedaph: 51
+21: hypnotizd: 24
+22: iJevin: 12
+23: MumboJumbo: 12
+24: xBCrafted: 6
+25: VintageBeef: 1
+Total 6424

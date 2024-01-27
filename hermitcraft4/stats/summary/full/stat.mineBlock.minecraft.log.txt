@@ -1,0 +1,27 @@
+stat.mineBlock.minecraft.log
+1: Renthedog: 73187
+2: GoodTimeWithScar: 46101
+3: cubfan135: 44551
+4: Xisuma: 19773
+5: falsesymmetry: 7918
+6: iskall85: 7738
+7: Tinfoilchef: 5309
+8: PythonGB: 5281
+9: Tango: 4737
+10: joehillssays: 4077
+11: Welsknight: 3592
+12: MumboJumbo: 3291
+13: ZombieCleo: 2877
+14: iJevin: 2591
+15: Etho: 2193
+16: VintageBeef: 1694
+17: Jessassin: 1578
+18: Docm77: 1425
+19: Mumbo: 1148
+20: impulseSV: 781
+21: Biffa2001: 674
+22: zueljin: 310
+23: hypnotizd: 243
+24: xBCrafted: 222
+25: monkeyfarm: 14
+Total 241305

@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.compass
+1: falsesymmetry: 101
+2: zueljin: 73
+3: monkeyfarm: 46
+4: Tango: 17
+5: PythonGB: 6
+6: ZombieCleo: 6
+7: iJevin: 1
+8: xBCrafted: 1
+9: Tinfoilchef: 1
+Total 252

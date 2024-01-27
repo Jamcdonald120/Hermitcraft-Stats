@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.netherrack
+1: falsesymmetry: 152374
+2: Xisuma: 72584
+3: Tango: 29292
+4: ZombieCleo: 26119
+5: impulseSV: 25439
+6: xBCrafted: 24300
+7: Mumbo: 16022
+8: zueljin: 12682
+9: sl1pg8r: 11488
+10: monkeyfarm: 7114
+11: Tinfoilchef: 6320
+12: Biffa2001: 5307
+13: Spumwackles: 4312
+14: hypnotizd: 4173
+15: joehillssays: 3294
+16: KingDaddyDMAC: 1593
+17: topmass: 1525
+18: Etho: 1105
+19: iJevin: 1051
+20: PythonGB: 939
+21: Docm77: 440
+22: Mrs_Keralis: 16
+Total 407489

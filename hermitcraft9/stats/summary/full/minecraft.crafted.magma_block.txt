@@ -1,0 +1,3 @@
+minecraft.crafted.magma_block
+1: Xisuma: 465
+Total 465

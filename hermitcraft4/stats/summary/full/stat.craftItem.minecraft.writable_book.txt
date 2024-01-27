@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.writable_book
+1: iskall85: 103
+2: impulseSV: 80
+3: cubfan135: 75
+4: Renthedog: 68
+5: ZombieCleo: 56
+6: joehillssays: 36
+7: Tango: 33
+8: falsesymmetry: 32
+9: GoodTimeWithScar: 28
+10: Tinfoilchef: 20
+11: Welsknight: 10
+12: iJevin: 9
+13: Xisuma: 5
+14: VintageBeef: 1
+15: Biffa2001: 1
+Total 557

@@ -1,0 +1,17 @@
+minecraft.used.nether_brick_fence
+1: falsesymmetry: 811
+2: GoodTimeWithScar: 399
+3: Keralis1: 308
+4: Stressmonster101: 67
+5: Tango: 66
+6: Docm77: 58
+7: Xisuma: 55
+8: VintageBeef: 54
+9: BdoubleO100: 42
+10: impulseSV: 28
+11: cubfan135: 17
+12: iJevin: 15
+13: Zedaph: 7
+14: Etho: 3
+15: xBCrafted: 1
+Total 1931

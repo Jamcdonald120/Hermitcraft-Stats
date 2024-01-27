@@ -1,0 +1,27 @@
+minecraft.mined.granite
+1: GoodTimeWithScar: 36736
+2: Renthedog: 25262
+3: falsesymmetry: 23504
+4: iskall85: 21483
+5: cubfan135: 19380
+6: Xisuma: 17538
+7: Grian: 16545
+8: Tango: 14903
+9: iJevin: 14335
+10: Tinfoilchef: 14028
+11: impulseSV: 12935
+12: MumboJumbo: 9240
+13: Docm77: 8083
+14: Stressmonster101: 7968
+15: Welsknight: 7740
+16: joehillssays: 5597
+17: ZombieCleo: 4468
+18: BdoubleO100: 4369
+19: Keralis1: 2186
+20: Biffa2001: 1967
+21: Zedaph: 1725
+22: xBCrafted: 1072
+23: PythonGB: 430
+24: HumanCleo: 315
+25: Jessassin: 42
+Total 271851

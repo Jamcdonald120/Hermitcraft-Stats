@@ -1,0 +1,27 @@
+minecraft.picked_up.firework_rocket
+1: GoodTimeWithScar: 8072
+2: Grian: 6178
+3: iJevin: 4916
+4: PearlescentMoon: 4560
+5: Docm77: 3071
+6: impulseSV: 2832
+7: Renthedog: 2615
+8: Keralis1: 1716
+9: Tango: 1412
+10: Xisuma: 1343
+11: ZombieCleo: 1271
+12: GeminiTay: 970
+13: BdoubleO100: 938
+14: cubfan135: 814
+15: MumboJumbo: 742
+16: joehillssays: 455
+17: Zedaph: 398
+18: hypnotizd: 309
+19: pillbugnine: 239
+20: falsesymmetry: 230
+21: VintageBeef: 193
+22: xBCrafted: 95
+23: Etho: 45
+24: Welsknight: 40
+25: iskall85: 10
+Total 43464

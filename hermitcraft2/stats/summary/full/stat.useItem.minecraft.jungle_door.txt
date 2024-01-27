@@ -1,0 +1,3 @@
+stat.useItem.minecraft.jungle_door
+1: falsesymmetry: 8
+Total 8

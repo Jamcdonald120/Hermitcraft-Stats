@@ -1,0 +1,21 @@
+minecraft.mined.jungle_sign
+1: Xisuma: 17
+2: iskall85: 16
+3: Tango: 12
+4: MumboJumbo: 11
+5: Grian: 8
+6: Renthedog: 6
+7: VintageBeef: 5
+8: Stressmonster101: 5
+9: cubfan135: 4
+10: Welsknight: 3
+11: GoodTimeWithScar: 3
+12: iJevin: 2
+13: BdoubleO100: 2
+14: Keralis1: 2
+15: joehillssays: 1
+16: Etho: 1
+17: ZombieCleo: 1
+18: impulseSV: 1
+19: Zedaph: 1
+Total 101

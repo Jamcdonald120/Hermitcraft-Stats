@@ -1,0 +1,23 @@
+minecraft.used.smooth_quartz
+1: Keralis1: 12157
+2: impulseSV: 5736
+3: GoodTimeWithScar: 4812
+4: falsesymmetry: 2812
+5: cubfan135: 2312
+6: Tango: 2246
+7: Grian: 1249
+8: Xisuma: 1041
+9: VintageBeef: 622
+10: Etho: 522
+11: Welsknight: 488
+12: BdoubleO100: 475
+13: ZombieCleo: 343
+14: joehillssays: 233
+15: Docm77: 219
+16: xBCrafted: 208
+17: iJevin: 71
+18: hypnotizd: 65
+19: Zedaph: 33
+20: MumboJumbo: 10
+21: Renthedog: 1
+Total 35655

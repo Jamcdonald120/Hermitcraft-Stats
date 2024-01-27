@@ -1,0 +1,15 @@
+stat.pickup.minecraft.nether_wart_block
+1: Biffa2001: 424
+2: Tango: 402
+3: impulseSV: 280
+4: iskall85: 201
+5: falsesymmetry: 200
+6: ZombieCleo: 138
+7: cubfan135: 99
+8: Xisuma: 79
+9: joehillssays: 46
+10: Renthedog: 43
+11: PythonGB: 8
+12: iJevin: 2
+13: GoodTimeWithScar: 1
+Total 1923

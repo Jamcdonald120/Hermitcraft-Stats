@@ -1,0 +1,27 @@
+stat.useItem.minecraft.crafting_table
+1: cubfan135: 934
+2: falsesymmetry: 717
+3: Welsknight: 413
+4: Xisuma: 331
+5: xBCrafted: 275
+6: Zedaph: 269
+7: iskall85: 268
+8: Stressmonster101: 248
+9: BdoubleO100: 237
+10: Tango: 197
+11: GoodTimeWithScar: 189
+12: MumboJumbo: 158
+13: impulseSV: 136
+14: joehillssays: 130
+15: Renthedog: 123
+16: VintageBeef: 107
+17: iJevin: 105
+18: PythonGB: 89
+19: Tinfoilchef: 62
+20: Biffa2001: 54
+21: Etho: 45
+22: ZombieCleo: 39
+23: Docm77: 37
+24: xisumavoid: 3
+25: ImpulseCam: 1
+Total 5167

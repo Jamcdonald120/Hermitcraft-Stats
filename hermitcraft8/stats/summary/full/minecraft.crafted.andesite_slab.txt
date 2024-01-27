@@ -1,0 +1,18 @@
+minecraft.crafted.andesite_slab
+1: Keralis1: 612
+2: iJevin: 570
+3: GoodTimeWithScar: 300
+4: impulseSV: 144
+5: Xisuma: 126
+6: Stressmonster101: 78
+7: PearlescentMoon: 72
+8: Docm77: 32
+9: GeminiTay: 24
+10: Tango: 24
+11: Renthedog: 18
+12: iskall85: 18
+13: Grian: 12
+14: falsesymmetry: 12
+15: Etho: 8
+16: VintageBeef: 6
+Total 2056

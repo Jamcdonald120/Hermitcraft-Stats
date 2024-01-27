@@ -1,0 +1,29 @@
+minecraft.picked_up.bow
+1: Grian: 1529
+2: Xisuma: 586
+3: iskall85: 362
+4: impulseSV: 307
+5: Biffa2001: 222
+6: cubfan135: 218
+7: Zedaph: 208
+8: Docm77: 185
+9: iJevin: 179
+10: joehillssays: 168
+11: Renthedog: 154
+12: GoodTimeWithScar: 119
+13: ZombieCleo: 108
+14: Tango: 103
+15: PythonGB: 95
+16: Welsknight: 90
+17: MumboJumbo: 74
+18: falsesymmetry: 56
+19: Stressmonster101: 56
+20: Tinfoilchef: 52
+21: BdoubleO100: 14
+22: xBCrafted: 14
+23: HumanCleo: 4
+24: Jessassin: 3
+25: Keralis1: 2
+26: EvilXisuma: 1
+27: Duke_da_dog: 1
+Total 4910

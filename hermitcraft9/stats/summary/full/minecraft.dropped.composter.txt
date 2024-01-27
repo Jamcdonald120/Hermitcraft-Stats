@@ -1,0 +1,16 @@
+minecraft.dropped.composter
+1: GeminiTay: 32
+2: Etho: 22
+3: Xisuma: 11
+4: xBCrafted: 9
+5: Tango: 6
+6: iJevin: 3
+7: RentheKing: 3
+8: GoodTimeWithScar: 2
+9: Renthedog: 1
+10: BdoubleO100: 1
+11: ZombieCleo: 1
+12: Mumbo: 1
+13: Keralis1: 1
+14: impulseSV: 1
+Total 94

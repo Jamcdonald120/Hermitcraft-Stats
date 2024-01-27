@@ -1,0 +1,33 @@
+minecraft.picked_up.oak_sapling
+1: GoodTimeWithScar: 11162
+2: cubfan135: 4963
+3: Renthedog: 4578
+4: impulseSV: 4020
+5: Xisuma: 2431
+6: Tinfoilchef: 1634
+7: falsesymmetry: 1510
+8: Grian: 1490
+9: iJevin: 1080
+10: Welsknight: 864
+11: ZombieCleo: 817
+12: joehillssays: 723
+13: MumboJumbo: 656
+14: iskall85: 609
+15: Docm77: 595
+16: BdoubleO100: 459
+17: Tango: 343
+18: Stressmonster101: 338
+19: Biffa2001: 315
+20: Zedaph: 314
+21: Jessassin: 178
+22: PythonGB: 136
+23: Keralis1: 96
+24: EvilXisuma: 69
+25: xBCrafted: 69
+26: Jura_Whitey: 42
+27: PokePugx: 21
+28: tterrag: 18
+29: Cojomax99: 10
+30: PhoenixfireLune: 9
+31: HumanCleo: 4
+Total 39553

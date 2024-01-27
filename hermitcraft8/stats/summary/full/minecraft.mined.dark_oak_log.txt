@@ -1,0 +1,27 @@
+minecraft.mined.dark_oak_log
+1: GoodTimeWithScar: 9718
+2: joehillssays: 9003
+3: PearlescentMoon: 6685
+4: falsesymmetry: 6032
+5: Xisuma: 4373
+6: BdoubleO100: 3937
+7: GeminiTay: 2837
+8: Tango: 2723
+9: Renthedog: 2678
+10: Keralis1: 1953
+11: Welsknight: 1778
+12: xBCrafted: 1730
+13: iJevin: 1565
+14: ZombieCleo: 1324
+15: Grian: 1308
+16: Etho: 962
+17: cubfan135: 533
+18: impulseSV: 524
+19: iskall85: 446
+20: Stressmonster101: 325
+21: Docm77: 304
+22: hypnotizd: 208
+23: VintageBeef: 82
+24: MumboJumbo: 42
+25: Zedaph: 1
+Total 61071

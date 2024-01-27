@@ -1,0 +1,6 @@
+minecraft.crafted.cherry_fence_gate
+1: GoodTimeWithScar: 6
+2: GeminiTay: 2
+3: Keralis1: 1
+4: Zedaph: 1
+Total 10

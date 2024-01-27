@@ -1,0 +1,24 @@
+minecraft.picked_up.soul_lantern
+1: Tango: 266
+2: falsesymmetry: 175
+3: cubfan135: 147
+4: Etho: 83
+5: PearlescentMoon: 66
+6: Xisuma: 64
+7: GoodTimeWithScar: 57
+8: Renthedog: 53
+9: xBCrafted: 50
+10: RentheKing: 42
+11: impulseSV: 30
+12: Grian: 27
+13: GeminiTay: 25
+14: VintageBeef: 10
+15: Mumbo: 9
+16: MythicalSausage: 4
+17: iJevin: 1
+18: Skizzleman: 1
+19: Smallishbeans: 1
+20: BdoubleO100: 1
+21: hypnotizd: 1
+22: Zedaph: 1
+Total 1114

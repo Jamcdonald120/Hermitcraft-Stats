@@ -1,0 +1,7 @@
+stat.pickup.minecraft.netherbrick
+1: Xisuma: 256
+2: impulseSV: 204
+3: falsesymmetry: 1
+4: cubfan135: 1
+5: GoodTimeWithScar: 1
+Total 463

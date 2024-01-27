@@ -1,0 +1,10 @@
+minecraft.crafted.crimson_pressure_plate
+1: GoodTimeWithScar: 77
+2: Tango: 28
+3: Renthedog: 24
+4: Etho: 17
+5: Xisuma: 4
+6: cubfan135: 3
+7: ZombieCleo: 1
+8: Stressmonster101: 1
+Total 155

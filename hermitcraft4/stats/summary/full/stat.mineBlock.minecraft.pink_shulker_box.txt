@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.pink_shulker_box
+1: cubfan135: 100
+2: falsesymmetry: 84
+3: iskall85: 36
+4: Xisuma: 28
+5: Renthedog: 27
+6: Welsknight: 11
+7: impulseSV: 6
+8: Tango: 3
+9: MumboJumbo: 2
+Total 297

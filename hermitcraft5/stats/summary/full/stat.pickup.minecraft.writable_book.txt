@@ -1,0 +1,15 @@
+stat.pickup.minecraft.writable_book
+1: Zedaph: 47
+2: cubfan135: 32
+3: Tango: 13
+4: Xisuma: 10
+5: impulseSV: 8
+6: Renthedog: 7
+7: falsesymmetry: 6
+8: MumboJumbo: 4
+9: joehillssays: 2
+10: ZombieCleo: 2
+11: iJevin: 1
+12: iskall85: 1
+13: GoodTimeWithScar: 1
+Total 134

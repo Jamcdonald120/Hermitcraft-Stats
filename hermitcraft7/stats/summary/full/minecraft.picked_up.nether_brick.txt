@@ -1,0 +1,19 @@
+minecraft.picked_up.nether_brick
+1: Xisuma: 2962
+2: Zedaph: 1739
+3: Renthedog: 946
+4: cubfan135: 865
+5: iskall85: 771
+6: Etho: 244
+7: MumboJumbo: 233
+8: GoodTimeWithScar: 227
+9: joehillssays: 202
+10: Grian: 192
+11: BdoubleO100: 148
+12: Tango: 75
+13: iJevin: 40
+14: VintageBeef: 34
+15: Stressmonster101: 27
+16: falsesymmetry: 4
+17: hypnotizd: 1
+Total 8710

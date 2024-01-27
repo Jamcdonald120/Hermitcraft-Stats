@@ -1,0 +1,21 @@
+minecraft.picked_up.prismarine
+1: iJevin: 19856
+2: impulseSV: 4785
+3: cubfan135: 2193
+4: hypnotizd: 900
+5: Etho: 694
+6: falsesymmetry: 197
+7: xBCrafted: 189
+8: Xisuma: 93
+9: MumboJumbo: 64
+10: Tango: 60
+11: GoodTimeWithScar: 55
+12: joehillssays: 47
+13: ZombieCleo: 40
+14: iskall85: 28
+15: Renthedog: 14
+16: Keralis1: 11
+17: Grian: 2
+18: Docm77: 1
+19: VintageBeef: 1
+Total 29230

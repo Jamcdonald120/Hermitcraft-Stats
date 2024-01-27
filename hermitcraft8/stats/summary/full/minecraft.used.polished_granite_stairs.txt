@@ -1,0 +1,8 @@
+minecraft.used.polished_granite_stairs
+1: impulseSV: 208
+2: Tinfoilchef: 109
+3: Xisuma: 63
+4: BdoubleO100: 12
+5: Keralis1: 8
+6: PearlescentMoon: 5
+Total 405

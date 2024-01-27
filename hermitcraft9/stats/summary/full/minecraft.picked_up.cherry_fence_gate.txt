@@ -1,0 +1,3 @@
+minecraft.picked_up.cherry_fence_gate
+1: GeminiTay: 3
+Total 3

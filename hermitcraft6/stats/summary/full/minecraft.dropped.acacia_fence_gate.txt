@@ -1,0 +1,5 @@
+minecraft.dropped.acacia_fence_gate
+1: iskall85: 17
+2: falsesymmetry: 2
+3: Renthedog: 1
+Total 20

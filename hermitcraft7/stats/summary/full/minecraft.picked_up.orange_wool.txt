@@ -1,0 +1,17 @@
+minecraft.picked_up.orange_wool
+1: Etho: 3881
+2: BdoubleO100: 3873
+3: iJevin: 1681
+4: cubfan135: 991
+5: VintageBeef: 776
+6: GoodTimeWithScar: 497
+7: Tango: 291
+8: joehillssays: 118
+9: Keralis1: 34
+10: ZombieCleo: 31
+11: Stressmonster101: 20
+12: Xisuma: 18
+13: iskall85: 9
+14: xBCrafted: 6
+15: impulseSV: 3
+Total 12229

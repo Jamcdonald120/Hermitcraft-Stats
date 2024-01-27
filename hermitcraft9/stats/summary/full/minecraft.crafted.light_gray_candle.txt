@@ -1,0 +1,8 @@
+minecraft.crafted.light_gray_candle
+1: hypnotizd: 1860
+2: Tango: 32
+3: BdoubleO100: 18
+4: PearlescentMoon: 9
+5: Xisuma: 1
+6: Zedaph: 1
+Total 1921

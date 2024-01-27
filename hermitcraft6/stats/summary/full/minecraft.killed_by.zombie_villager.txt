@@ -1,0 +1,4 @@
+minecraft.killed_by.zombie_villager
+1: cubfan135: 1
+2: GoodTimeWithScar: 1
+Total 2

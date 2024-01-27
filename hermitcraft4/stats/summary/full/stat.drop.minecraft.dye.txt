@@ -1,0 +1,19 @@
+stat.drop.minecraft.dye
+1: MumboJumbo: 2173
+2: falsesymmetry: 1092
+3: iskall85: 978
+4: impulseSV: 524
+5: Xisuma: 454
+6: Tango: 293
+7: Renthedog: 204
+8: Tinfoilchef: 116
+9: Etho: 109
+10: GoodTimeWithScar: 55
+11: cubfan135: 16
+12: Welsknight: 16
+13: ZombieCleo: 9
+14: PythonGB: 8
+15: xisumavoid: 3
+16: VintageBeef: 1
+17: iJevin: 1
+Total 6052

@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.stained_hardened_clay
+1: falsesymmetry: 22471
+2: impulseSV: 16799
+3: xBCrafted: 14859
+4: Xisuma: 10433
+5: Mumbo: 8736
+6: Tango: 8057
+7: Biffa2001: 3600
+8: ZombieCleo: 3378
+9: topmass: 2769
+10: PythonGB: 1698
+11: Docm77: 1508
+12: monkeyfarm: 1356
+13: zueljin: 1077
+14: joehillssays: 991
+15: sl1pg8r: 400
+16: KingDaddyDMAC: 270
+17: Tinfoilchef: 146
+18: Spumwackles: 13
+19: hypnotizd: 12
+20: iJevin: 6
+21: Etho: 3
+22: Keralis1: 1
+Total 98583

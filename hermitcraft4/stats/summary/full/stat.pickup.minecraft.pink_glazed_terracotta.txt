@@ -1,0 +1,4 @@
+stat.pickup.minecraft.pink_glazed_terracotta
+1: falsesymmetry: 128
+2: joehillssays: 2
+Total 130

@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.stone_pressure_plate
+1: impulseSV: 49
+2: falsesymmetry: 45
+3: xBCrafted: 34
+4: Mumbo: 26
+5: Tango: 22
+6: Xisuma: 20
+7: sl1pg8r: 9
+8: KingDaddyDMAC: 9
+9: Biffa2001: 8
+10: iJevin: 5
+11: monkeyfarm: 5
+12: Docm77: 4
+13: topmass: 3
+14: Etho: 3
+15: zueljin: 2
+16: Tinfoilchef: 2
+Total 246

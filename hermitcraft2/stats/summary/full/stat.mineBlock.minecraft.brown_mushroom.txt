@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.brown_mushroom
+1: falsesymmetry: 23
+2: sl1pg8r: 8
+3: Xisuma: 8
+4: Tango: 8
+5: zueljin: 5
+6: Collen: 1
+Total 53

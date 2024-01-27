@@ -1,0 +1,22 @@
+minecraft.dropped.white_concrete
+1: Xisuma: 554
+2: iskall85: 373
+3: cubfan135: 321
+4: Grian: 267
+5: Stressmonster101: 244
+6: xBCrafted: 228
+7: Keralis1: 228
+8: MumboJumbo: 201
+9: Zedaph: 184
+10: Tango: 165
+11: GoodTimeWithScar: 64
+12: impulseSV: 63
+13: Renthedog: 59
+14: BdoubleO100: 45
+15: hypnotizd: 39
+16: Docm77: 27
+17: falsesymmetry: 9
+18: Etho: 3
+19: ZombieCleo: 2
+20: Welsknight: 1
+Total 3077

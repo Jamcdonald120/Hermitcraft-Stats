@@ -1,0 +1,31 @@
+minecraft.used.coarse_dirt
+1: Keralis1: 15527
+2: PearlescentMoon: 10701
+3: Docm77: 6242
+4: GoodTimeWithScar: 4050
+5: BdoubleO100: 1627
+6: iskall85: 1574
+7: Xisuma: 1321
+8: hypnotizd: 879
+9: GeminiTay: 768
+10: MythicalSausage: 724
+11: ZombieCleo: 591
+12: Etho: 581
+13: Renthedog: 512
+14: Tango: 462
+15: Grian: 412
+16: xBCrafted: 334
+17: Stressmonster101: 321
+18: cubfan135: 244
+19: impulseSV: 231
+20: VintageBeef: 217
+21: falsesymmetry: 172
+22: iJevin: 166
+23: joehillssays: 166
+24: Welsknight: 157
+25: RentheKing: 87
+26: Smallishbeans: 43
+27: Zedaph: 17
+28: Mumbo: 4
+29: HBomb94: 1
+Total 48131

@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.spruce_fence_gate
+1: hypnotizd: 2240
+2: xBCrafted: 260
+3: falsesymmetry: 131
+4: Xisuma: 76
+5: iJevin: 27
+6: Biffa2001: 18
+7: sl1pg8r: 17
+8: Mumbo: 13
+9: topmass: 5
+10: zueljin: 4
+11: Tinfoilchef: 2
+12: Tango: 1
+Total 2794

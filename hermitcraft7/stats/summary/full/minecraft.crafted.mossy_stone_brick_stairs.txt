@@ -1,0 +1,6 @@
+minecraft.crafted.mossy_stone_brick_stairs
+1: Keralis1: 16
+2: GoodTimeWithScar: 12
+3: MumboJumbo: 4
+4: BdoubleO100: 1
+Total 33

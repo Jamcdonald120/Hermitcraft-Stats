@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.diamond_pickaxe
+1: Xisuma: 24
+2: Tango: 12
+3: iJevin: 10
+4: xBCrafted: 3
+5: ZombieCleo: 3
+6: Mumbo: 3
+7: KingDaddyDMAC: 2
+8: falsesymmetry: 1
+9: Biffa2001: 1
+Total 59

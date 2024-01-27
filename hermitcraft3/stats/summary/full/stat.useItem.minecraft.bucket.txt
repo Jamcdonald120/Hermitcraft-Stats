@@ -1,0 +1,28 @@
+stat.useItem.minecraft.bucket
+1: falsesymmetry: 4776
+2: xBCrafted: 4388
+3: Xisuma: 4286
+4: hypnotizd: 2609
+5: Tango: 1821
+6: Tinfoilchef: 1562
+7: monkeyfarm: 1339
+8: KingDaddyDMAC: 992
+9: sl1pg8r: 932
+10: impulseSV: 856
+11: Mumbo: 814
+12: zueljin: 783
+13: iJevin: 743
+14: Biffa2001: 635
+15: ZombieCleo: 586
+16: topmass: 445
+17: Spumwackles: 443
+18: PythonGB: 162
+19: Etho: 142
+20: Docm77: 137
+21: joehillssays: 124
+22: NameOfSamuel: 80
+23: Pungence: 45
+24: Keralis1: 14
+25: skyzm: 4
+26: Collen: 3
+Total 28721

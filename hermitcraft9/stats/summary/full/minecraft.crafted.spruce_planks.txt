@@ -1,0 +1,36 @@
+minecraft.crafted.spruce_planks
+1: Tango: 74802
+2: hypnotizd: 62118
+3: iJevin: 58097
+4: PearlescentMoon: 49322
+5: Keralis1: 38816
+6: impulseSV: 38432
+7: GoodTimeWithScar: 34806
+8: xBCrafted: 31076
+9: Renthedog: 29324
+10: ZombieCleo: 23538
+11: Etho: 20562
+12: Docm77: 19452
+13: Stressmonster101: 18832
+14: GeminiTay: 18831
+15: BdoubleO100: 13992
+16: falsesymmetry: 13664
+17: iskall85: 7320
+18: Grian: 6817
+19: cubfan135: 6052
+20: Xisuma: 4240
+21: Zedaph: 3944
+22: MythicalSausage: 3092
+23: Pixlriffs: 2847
+24: VintageBeef: 2520
+25: RentheKing: 2080
+26: Welsknight: 1920
+27: joehillssays: 772
+28: Smallishbeans: 584
+29: SolidarityGaming: 408
+30: fWhip: 212
+31: OrionSound: 156
+32: ShubbleYT: 108
+33: Mumbo: 28
+34: HBomb94: 4
+Total 588768

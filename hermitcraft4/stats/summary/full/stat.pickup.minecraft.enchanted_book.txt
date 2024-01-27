@@ -1,0 +1,22 @@
+stat.pickup.minecraft.enchanted_book
+1: impulseSV: 186
+2: Xisuma: 180
+3: GoodTimeWithScar: 176
+4: iskall85: 128
+5: cubfan135: 78
+6: falsesymmetry: 71
+7: Renthedog: 50
+8: iJevin: 36
+9: Biffa2001: 31
+10: Welsknight: 30
+11: joehillssays: 18
+12: Tango: 17
+13: Tinfoilchef: 17
+14: MumboJumbo: 14
+15: zueljin: 10
+16: PythonGB: 9
+17: Docm77: 6
+18: ZombieCleo: 6
+19: Etho: 5
+20: VintageBeef: 4
+Total 1072

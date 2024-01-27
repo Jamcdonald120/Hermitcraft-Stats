@@ -1,0 +1,30 @@
+minecraft.mined.glass
+1: Zedaph: 2730
+2: Tango: 2148
+3: iJevin: 2052
+4: cubfan135: 2029
+5: Grian: 1440
+6: xBCrafted: 1342
+7: Docm77: 1237
+8: impulseSV: 1218
+9: Renthedog: 1024
+10: iskall85: 994
+11: hypnotizd: 839
+12: Keralis1: 474
+13: Xisuma: 372
+14: joehillssays: 232
+15: Stressmonster101: 171
+16: GoodTimeWithScar: 137
+17: Etho: 130
+18: falsesymmetry: 110
+19: VintageBeef: 109
+20: RentheKing: 90
+21: Mumbo: 74
+22: GeminiTay: 57
+23: PearlescentMoon: 56
+24: BdoubleO100: 44
+25: Pixlriffs: 21
+26: Welsknight: 9
+27: OrionSound: 7
+28: ZombieCleo: 3
+Total 19149

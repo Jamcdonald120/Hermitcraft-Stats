@@ -1,0 +1,25 @@
+minecraft.crafted.cobbled_deepslate_slab
+1: xBCrafted: 3880
+2: iJevin: 1782
+3: Tango: 1410
+4: Docm77: 866
+5: cubfan135: 570
+6: Grian: 398
+7: Keralis1: 378
+8: VintageBeef: 312
+9: GoodTimeWithScar: 304
+10: Xisuma: 260
+11: falsesymmetry: 258
+12: Etho: 138
+13: ZombieCleo: 110
+14: RentheKing: 104
+15: Mumbo: 42
+16: Renthedog: 36
+17: Zedaph: 34
+18: GeminiTay: 18
+19: MumboJumbo: 18
+20: hypnotizd: 16
+21: MythicalSausage: 6
+22: PearlescentMoon: 6
+23: Welsknight: 6
+Total 10952

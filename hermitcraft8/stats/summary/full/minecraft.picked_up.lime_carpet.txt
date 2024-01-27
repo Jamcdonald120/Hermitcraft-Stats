@@ -1,0 +1,6 @@
+minecraft.picked_up.lime_carpet
+1: iJevin: 140
+2: BdoubleO100: 13
+3: cubfan135: 12
+4: impulseSV: 10
+Total 175

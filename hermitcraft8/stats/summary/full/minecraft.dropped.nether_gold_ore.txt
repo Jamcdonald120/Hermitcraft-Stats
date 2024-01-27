@@ -1,0 +1,12 @@
+minecraft.dropped.nether_gold_ore
+1: iJevin: 56
+2: xBCrafted: 38
+3: GoodTimeWithScar: 16
+4: Renthedog: 10
+5: Xisuma: 6
+6: Docm77: 3
+7: joehillssays: 1
+8: cubfan135: 1
+9: ZombieCleo: 1
+10: hypnotizd: 1
+Total 133

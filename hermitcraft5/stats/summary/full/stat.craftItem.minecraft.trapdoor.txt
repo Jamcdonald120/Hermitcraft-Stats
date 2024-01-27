@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.trapdoor
+1: Renthedog: 4369
+2: Xisuma: 2368
+3: cubfan135: 2118
+4: iskall85: 1576
+5: MumboJumbo: 1092
+6: falsesymmetry: 836
+7: PythonGB: 808
+8: Welsknight: 764
+9: xBCrafted: 318
+10: Tinfoilchef: 236
+11: impulseSV: 218
+12: Tango: 182
+13: BdoubleO100: 172
+14: GoodTimeWithScar: 152
+15: iJevin: 144
+16: VintageBeef: 104
+17: Docm77: 102
+18: Zedaph: 90
+19: joehillssays: 28
+20: Stressmonster101: 28
+21: ZombieCleo: 24
+22: Biffa2001: 20
+23: Etho: 6
+Total 15755

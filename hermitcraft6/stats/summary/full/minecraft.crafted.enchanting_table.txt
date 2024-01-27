@@ -1,0 +1,20 @@
+minecraft.crafted.enchanting_table
+1: cubfan135: 19
+2: GoodTimeWithScar: 5
+3: PythonGB: 4
+4: iskall85: 3
+5: Xisuma: 2
+6: iJevin: 2
+7: Tango: 2
+8: falsesymmetry: 2
+9: Stressmonster101: 2
+10: Renthedog: 1
+11: joehillssays: 1
+12: Grian: 1
+13: BdoubleO100: 1
+14: Welsknight: 1
+15: Biffa2001: 1
+16: MumboJumbo: 1
+17: Keralis1: 1
+18: impulseSV: 1
+Total 50

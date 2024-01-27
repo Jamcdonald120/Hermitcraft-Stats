@@ -1,0 +1,16 @@
+stat.pickup.minecraft.detector_rail
+1: Docm77: 301
+2: cubfan135: 160
+3: iskall85: 90
+4: MumboJumbo: 47
+5: Welsknight: 42
+6: Zedaph: 33
+7: Tango: 24
+8: iJevin: 14
+9: Xisuma: 9
+10: impulseSV: 6
+11: GoodTimeWithScar: 5
+12: Tinfoilchef: 3
+13: Stressmonster101: 3
+14: ZombieCleo: 2
+Total 739

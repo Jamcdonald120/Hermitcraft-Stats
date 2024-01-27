@@ -1,0 +1,25 @@
+minecraft.mined.budding_amethyst
+1: impulseSV: 70
+2: iJevin: 63
+3: Docm77: 37
+4: Grian: 30
+5: Keralis1: 27
+6: xBCrafted: 26
+7: Xisuma: 21
+8: PearlescentMoon: 20
+9: Tango: 15
+10: joehillssays: 14
+11: Renthedog: 13
+12: cubfan135: 12
+13: falsesymmetry: 10
+14: Etho: 8
+15: BdoubleO100: 7
+16: iskall85: 6
+17: GoodTimeWithScar: 5
+18: ZombieCleo: 4
+19: RentheKing: 4
+20: hypnotizd: 4
+21: Zedaph: 4
+22: VintageBeef: 2
+23: GeminiTay: 1
+Total 403

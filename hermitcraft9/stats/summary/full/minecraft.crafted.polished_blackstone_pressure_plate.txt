@@ -1,0 +1,15 @@
+minecraft.crafted.polished_blackstone_pressure_plate
+1: Tango: 685
+2: cubfan135: 203
+3: iJevin: 99
+4: xBCrafted: 64
+5: impulseSV: 39
+6: GoodTimeWithScar: 26
+7: Xisuma: 23
+8: Zedaph: 11
+9: Etho: 4
+10: Docm77: 2
+11: PearlescentMoon: 2
+12: MythicalSausage: 1
+13: falsesymmetry: 1
+Total 1160

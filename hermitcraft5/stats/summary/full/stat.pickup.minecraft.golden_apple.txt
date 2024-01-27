@@ -1,0 +1,20 @@
+stat.pickup.minecraft.golden_apple
+1: Zedaph: 47
+2: cubfan135: 43
+3: Renthedog: 42
+4: Tango: 28
+5: xBCrafted: 25
+6: falsesymmetry: 21
+7: iJevin: 18
+8: iskall85: 16
+9: Xisuma: 14
+10: PythonGB: 12
+11: GoodTimeWithScar: 12
+12: impulseSV: 8
+13: Tinfoilchef: 6
+14: Stressmonster101: 5
+15: Biffa2001: 4
+16: Welsknight: 3
+17: Etho: 2
+18: MumboJumbo: 2
+Total 308

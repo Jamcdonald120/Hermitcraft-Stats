@@ -1,0 +1,8 @@
+stat.mineBlock.minecraft.acacia_fence
+1: xBCrafted: 53
+2: Tango: 47
+3: zueljin: 26
+4: Xisuma: 10
+5: falsesymmetry: 3
+6: topmass: 1
+Total 140

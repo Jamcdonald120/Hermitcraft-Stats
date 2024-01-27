@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.cake
+1: Spumwackles: 1
+Total 1

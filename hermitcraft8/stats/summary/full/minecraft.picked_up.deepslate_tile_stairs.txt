@@ -1,0 +1,24 @@
+minecraft.picked_up.deepslate_tile_stairs
+1: joehillssays: 1526
+2: Renthedog: 400
+3: xBCrafted: 334
+4: impulseSV: 296
+5: Docm77: 280
+6: ZombieCleo: 259
+7: Grian: 149
+8: VintageBeef: 120
+9: Keralis1: 115
+10: Xisuma: 105
+11: iskall85: 59
+12: Welsknight: 53
+13: Stressmonster101: 52
+14: GoodTimeWithScar: 38
+15: hypnotizd: 35
+16: iJevin: 19
+17: cubfan135: 18
+18: EvilXisuma: 9
+19: Etho: 2
+20: Tango: 1
+21: BdoubleO100: 1
+22: Zedaph: 1
+Total 3872

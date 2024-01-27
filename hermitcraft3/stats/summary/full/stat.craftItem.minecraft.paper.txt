@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.paper
+1: Tango: 11041
+2: Xisuma: 10164
+3: falsesymmetry: 6621
+4: impulseSV: 5250
+5: Tinfoilchef: 3912
+6: zueljin: 3864
+7: xBCrafted: 1599
+8: iJevin: 1491
+9: topmass: 1203
+10: KingDaddyDMAC: 984
+11: Spumwackles: 874
+12: Mumbo: 790
+13: PythonGB: 768
+14: monkeyfarm: 700
+15: sl1pg8r: 615
+16: Biffa2001: 606
+17: Docm77: 384
+18: hypnotizd: 327
+19: ZombieCleo: 153
+20: joehillssays: 12
+Total 51358

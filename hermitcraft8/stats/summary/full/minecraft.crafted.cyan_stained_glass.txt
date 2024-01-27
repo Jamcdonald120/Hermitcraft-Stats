@@ -1,0 +1,16 @@
+minecraft.crafted.cyan_stained_glass
+1: Etho: 1640
+2: PearlescentMoon: 200
+3: Zedaph: 176
+4: Keralis1: 96
+5: impulseSV: 64
+6: BdoubleO100: 48
+7: cubfan135: 32
+8: Stressmonster101: 32
+9: Grian: 24
+10: GoodTimeWithScar: 24
+11: Xisuma: 16
+12: iJevin: 8
+13: GeminiTay: 8
+14: Welsknight: 8
+Total 2376

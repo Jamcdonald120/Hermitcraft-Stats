@@ -1,0 +1,12 @@
+minecraft.broken.stone_sword
+1: ZombieCleo: 10
+2: Etho: 7
+3: Xisuma: 2
+4: GeminiTay: 2
+5: Renthedog: 1
+6: iJevin: 1
+7: BdoubleO100: 1
+8: falsesymmetry: 1
+9: impulseSV: 1
+10: Zedaph: 1
+Total 27

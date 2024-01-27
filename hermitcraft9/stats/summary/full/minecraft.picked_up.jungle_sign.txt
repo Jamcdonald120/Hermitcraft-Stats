@@ -1,0 +1,12 @@
+minecraft.picked_up.jungle_sign
+1: PearlescentMoon: 179
+2: iJevin: 33
+3: GoodTimeWithScar: 25
+4: cubfan135: 10
+5: Xisuma: 9
+6: impulseSV: 9
+7: Renthedog: 7
+8: Keralis1: 6
+9: Grian: 5
+10: Zedaph: 3
+Total 286

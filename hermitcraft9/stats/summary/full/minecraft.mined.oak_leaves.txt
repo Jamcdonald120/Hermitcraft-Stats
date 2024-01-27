@@ -1,0 +1,36 @@
+minecraft.mined.oak_leaves
+1: Docm77: 45166
+2: GoodTimeWithScar: 43881
+3: Renthedog: 7506
+4: cubfan135: 4724
+5: iskall85: 4510
+6: ZombieCleo: 3844
+7: Xisuma: 3738
+8: Grian: 3598
+9: PearlescentMoon: 3162
+10: Stressmonster101: 3092
+11: Keralis1: 2630
+12: BdoubleO100: 2347
+13: Zedaph: 2285
+14: GeminiTay: 2111
+15: iJevin: 1737
+16: Etho: 1510
+17: falsesymmetry: 1500
+18: joehillssays: 1259
+19: impulseSV: 1213
+20: Tango: 1170
+21: Mumbo: 1138
+22: VintageBeef: 1063
+23: hypnotizd: 821
+24: xBCrafted: 486
+25: RentheKing: 365
+26: MythicalSausage: 191
+27: MumboJumbo: 126
+28: Tinfoilchef: 97
+29: Smallishbeans: 71
+30: Welsknight: 64
+31: Pixlriffs: 42
+32: SolidarityGaming: 23
+33: Smajor1995: 3
+34: Firecracker1195: 3
+Total 145476

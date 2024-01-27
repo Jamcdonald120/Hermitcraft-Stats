@@ -1,0 +1,21 @@
+minecraft.mined.gold_block
+1: GeminiTay: 341
+2: impulseSV: 251
+3: hypnotizd: 223
+4: PearlescentMoon: 221
+5: cubfan135: 205
+6: joehillssays: 78
+7: GoodTimeWithScar: 59
+8: Xisuma: 54
+9: Renthedog: 35
+10: Grian: 27
+11: iJevin: 24
+12: Welsknight: 17
+13: iskall85: 14
+14: Zedaph: 13
+15: Keralis1: 10
+16: Etho: 4
+17: xBCrafted: 2
+18: Docm77: 1
+19: ZombieCleo: 1
+Total 1580

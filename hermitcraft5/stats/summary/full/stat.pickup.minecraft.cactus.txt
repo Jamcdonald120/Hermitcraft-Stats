@@ -1,0 +1,25 @@
+stat.pickup.minecraft.cactus
+1: Tinfoilchef: 4923
+2: iskall85: 3619
+3: falsesymmetry: 3207
+4: GoodTimeWithScar: 2152
+5: Xisuma: 1585
+6: Renthedog: 1483
+7: MumboJumbo: 683
+8: impulseSV: 651
+9: Welsknight: 643
+10: cubfan135: 636
+11: Zedaph: 338
+12: Tango: 327
+13: ZombieCleo: 274
+14: xBCrafted: 157
+15: Stressmonster101: 133
+16: BdoubleO100: 114
+17: joehillssays: 86
+18: PythonGB: 80
+19: VintageBeef: 47
+20: Biffa2001: 21
+21: Etho: 7
+22: Docm77: 3
+23: iJevin: 3
+Total 21172

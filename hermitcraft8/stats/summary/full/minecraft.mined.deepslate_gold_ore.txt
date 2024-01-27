@@ -1,0 +1,28 @@
+minecraft.mined.deepslate_gold_ore
+1: GoodTimeWithScar: 436
+2: PearlescentMoon: 398
+3: cubfan135: 378
+4: Renthedog: 316
+5: GeminiTay: 177
+6: BdoubleO100: 160
+7: impulseSV: 156
+8: Etho: 124
+9: MumboJumbo: 115
+10: Xisuma: 113
+11: iJevin: 97
+12: xBCrafted: 94
+13: Welsknight: 89
+14: ZombieCleo: 76
+15: joehillssays: 71
+16: Tinfoilchef: 70
+17: Docm77: 52
+18: Grian: 51
+19: Zedaph: 50
+20: VintageBeef: 49
+21: hypnotizd: 46
+22: Tango: 36
+23: iskall85: 33
+24: falsesymmetry: 27
+25: Keralis1: 26
+26: Stressmonster101: 25
+Total 3265

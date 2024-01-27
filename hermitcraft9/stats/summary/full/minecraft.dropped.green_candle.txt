@@ -1,0 +1,8 @@
+minecraft.dropped.green_candle
+1: Zedaph: 5
+2: ZombieCleo: 3
+3: Grian: 2
+4: Etho: 2
+5: iJevin: 1
+6: falsesymmetry: 1
+Total 14

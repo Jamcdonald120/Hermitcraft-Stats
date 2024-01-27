@@ -1,0 +1,14 @@
+minecraft.crafted.soul_campfire
+1: impulseSV: 576
+2: Etho: 121
+3: Xisuma: 113
+4: xBCrafted: 102
+5: Renthedog: 60
+6: iJevin: 51
+7: cubfan135: 51
+8: GeminiTay: 21
+9: falsesymmetry: 20
+10: BdoubleO100: 14
+11: Tango: 10
+12: Zedaph: 1
+Total 1140

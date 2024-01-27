@@ -1,0 +1,19 @@
+minecraft.picked_up.andesite_slab
+1: Keralis1: 185
+2: PearlescentMoon: 135
+3: joehillssays: 119
+4: impulseSV: 117
+5: GoodTimeWithScar: 104
+6: Docm77: 27
+7: Stressmonster101: 17
+8: BdoubleO100: 14
+9: Renthedog: 13
+10: iJevin: 13
+11: Grian: 12
+12: VintageBeef: 11
+13: Xisuma: 10
+14: Tango: 9
+15: iskall85: 6
+16: Etho: 2
+17: falsesymmetry: 1
+Total 795

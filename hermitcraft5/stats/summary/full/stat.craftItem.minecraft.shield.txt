@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.shield
+1: Renthedog: 66
+2: cubfan135: 19
+3: iskall85: 17
+4: Stressmonster101: 15
+5: falsesymmetry: 13
+6: Xisuma: 11
+7: GoodTimeWithScar: 9
+8: xBCrafted: 7
+9: impulseSV: 7
+10: joehillssays: 4
+11: Tango: 4
+12: BdoubleO100: 4
+13: Docm77: 3
+14: Welsknight: 2
+15: MumboJumbo: 2
+16: VintageBeef: 1
+17: iJevin: 1
+18: Tinfoilchef: 1
+19: Zedaph: 1
+Total 187

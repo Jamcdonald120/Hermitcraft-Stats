@@ -1,0 +1,19 @@
+minecraft.dropped.cookie
+1: Keralis1: 1504
+2: MythicalSausage: 96
+3: cubfan135: 86
+4: Grian: 64
+5: Renthedog: 63
+6: impulseSV: 54
+7: iJevin: 35
+8: xBCrafted: 32
+9: BdoubleO100: 18
+10: Zedaph: 18
+11: GoodTimeWithScar: 13
+12: hypnotizd: 11
+13: PearlescentMoon: 10
+14: Docm77: 9
+15: Xisuma: 6
+16: joehillssays: 4
+17: falsesymmetry: 2
+Total 2025

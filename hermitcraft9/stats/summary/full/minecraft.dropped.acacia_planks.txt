@@ -1,0 +1,18 @@
+minecraft.dropped.acacia_planks
+1: iJevin: 181
+2: Grian: 138
+3: impulseSV: 65
+4: GoodTimeWithScar: 39
+5: MythicalSausage: 24
+6: GeminiTay: 24
+7: Keralis1: 18
+8: falsesymmetry: 15
+9: Renthedog: 6
+10: cubfan135: 6
+11: Tango: 5
+12: Docm77: 4
+13: PearlescentMoon: 4
+14: Etho: 4
+15: Xisuma: 2
+16: Zedaph: 2
+Total 537

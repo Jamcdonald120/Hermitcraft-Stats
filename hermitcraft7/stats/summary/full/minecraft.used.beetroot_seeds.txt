@@ -1,0 +1,15 @@
+minecraft.used.beetroot_seeds
+1: xBCrafted: 2182
+2: Etho: 966
+3: joehillssays: 661
+4: Zedaph: 206
+5: ZombieCleo: 107
+6: Keralis1: 66
+7: Xisuma: 18
+8: VintageBeef: 15
+9: Welsknight: 12
+10: falsesymmetry: 10
+11: Stressmonster101: 6
+12: impulseSV: 6
+13: BdoubleO100: 1
+Total 4256

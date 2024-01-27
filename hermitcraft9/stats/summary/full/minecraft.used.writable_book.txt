@@ -1,0 +1,35 @@
+minecraft.used.writable_book
+1: cubfan135: 1652
+2: iJevin: 965
+3: falsesymmetry: 779
+4: RentheKing: 376
+5: Zedaph: 300
+6: ZombieCleo: 282
+7: Renthedog: 222
+8: Xisuma: 210
+9: Tango: 202
+10: PearlescentMoon: 198
+11: xBCrafted: 180
+12: joehillssays: 152
+13: impulseSV: 146
+14: VintageBeef: 132
+15: iskall85: 123
+16: Grian: 121
+17: BdoubleO100: 104
+18: hypnotizd: 88
+19: GoodTimeWithScar: 75
+20: Etho: 72
+21: Keralis1: 65
+22: Docm77: 61
+23: Welsknight: 47
+24: Stressmonster101: 33
+25: GeminiTay: 32
+26: Mumbo: 29
+27: SolidarityGaming: 15
+28: Smajor1995: 11
+29: MythicalSausage: 3
+30: MumboJumbo: 3
+31: OrionSound: 1
+32: xisumavoid: 1
+33: fWhip: 1
+Total 6681

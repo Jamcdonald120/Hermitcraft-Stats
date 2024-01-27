@@ -1,0 +1,37 @@
+minecraft.picked_up.coal
+1: iJevin: 16596
+2: Grian: 15897
+3: joehillssays: 15755
+4: Xisuma: 14258
+5: PearlescentMoon: 12286
+6: Docm77: 11867
+7: Tango: 11532
+8: xBCrafted: 8164
+9: GoodTimeWithScar: 7166
+10: impulseSV: 6885
+11: Renthedog: 6233
+12: falsesymmetry: 5681
+13: Zedaph: 5336
+14: VintageBeef: 5145
+15: Etho: 4792
+16: iskall85: 3630
+17: cubfan135: 3566
+18: hypnotizd: 3508
+19: Keralis1: 3447
+20: BdoubleO100: 2962
+21: Pixlriffs: 2230
+22: Mumbo: 2180
+23: ZombieCleo: 1990
+24: GeminiTay: 1861
+25: MumboJumbo: 1536
+26: RentheKing: 1316
+27: Stressmonster101: 946
+28: Welsknight: 863
+29: MythicalSausage: 721
+30: Smallishbeans: 345
+31: Tinfoilchef: 235
+32: OrionSound: 84
+33: ShubbleYT: 64
+34: Smajor1995: 37
+35: STEAKFG: 3
+Total 179117

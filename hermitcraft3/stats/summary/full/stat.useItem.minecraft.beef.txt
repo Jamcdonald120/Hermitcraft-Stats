@@ -1,0 +1,11 @@
+stat.useItem.minecraft.beef
+1: impulseSV: 63
+2: topmass: 10
+3: zueljin: 8
+4: sl1pg8r: 6
+5: Mumbo: 6
+6: Docm77: 4
+7: skyzm: 2
+8: xBCrafted: 2
+9: Pungence: 2
+Total 103

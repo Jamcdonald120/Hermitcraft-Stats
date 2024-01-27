@@ -1,0 +1,23 @@
+minecraft.mined.dark_oak_slab
+1: GoodTimeWithScar: 1801
+2: Renthedog: 1749
+3: falsesymmetry: 930
+4: BdoubleO100: 698
+5: Docm77: 661
+6: Grian: 595
+7: Xisuma: 574
+8: iskall85: 520
+9: cubfan135: 488
+10: Welsknight: 388
+11: Tango: 217
+12: xBCrafted: 216
+13: ZombieCleo: 133
+14: Stressmonster101: 115
+15: impulseSV: 23
+16: PythonGB: 16
+17: Keralis1: 15
+18: joehillssays: 10
+19: Jessassin: 9
+20: MumboJumbo: 4
+21: Biffa2001: 2
+Total 9164

@@ -1,0 +1,7 @@
+minecraft.dropped.brown_wool
+1: Zedaph: 224
+2: PearlescentMoon: 64
+3: Grian: 61
+4: iJevin: 1
+5: Tango: 1
+Total 351

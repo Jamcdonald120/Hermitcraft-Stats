@@ -1,0 +1,6 @@
+stat.useItem.minecraft.experience_bottle
+1: cubfan135: 32
+2: ZombieCleo: 31
+3: PythonGB: 12
+4: Tango: 1
+Total 76

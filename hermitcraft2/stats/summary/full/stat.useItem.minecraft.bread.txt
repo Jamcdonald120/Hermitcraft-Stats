@@ -1,0 +1,10 @@
+stat.useItem.minecraft.bread
+1: Biffa2001: 110
+2: zueljin: 57
+3: xBCrafted: 36
+4: falsesymmetry: 17
+5: Spumwackles: 13
+6: Collen: 10
+7: iJevin: 3
+8: Xisuma: 1
+Total 247

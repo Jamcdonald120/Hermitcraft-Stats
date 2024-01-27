@@ -1,0 +1,25 @@
+minecraft.picked_up.oak_trapdoor
+1: iJevin: 1359
+2: Renthedog: 586
+3: GoodTimeWithScar: 238
+4: cubfan135: 211
+5: Grian: 196
+6: impulseSV: 178
+7: BdoubleO100: 169
+8: iskall85: 136
+9: falsesymmetry: 122
+10: Xisuma: 120
+11: Docm77: 119
+12: Keralis1: 97
+13: Tango: 72
+14: Welsknight: 59
+15: Stressmonster101: 17
+16: Zedaph: 13
+17: xBCrafted: 12
+18: MumboJumbo: 12
+19: PythonGB: 11
+20: joehillssays: 9
+21: Biffa2001: 7
+22: Tinfoilchef: 4
+23: ZombieCleo: 2
+Total 3749

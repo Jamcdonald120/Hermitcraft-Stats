@@ -1,0 +1,23 @@
+minecraft.used.glow_item_frame
+1: xBCrafted: 110
+2: hypnotizd: 61
+3: cubfan135: 53
+4: Renthedog: 52
+5: impulseSV: 48
+6: Zedaph: 43
+7: Keralis1: 37
+8: Tango: 27
+9: iJevin: 22
+10: Grian: 22
+11: BdoubleO100: 20
+12: Docm77: 13
+13: iskall85: 12
+14: falsesymmetry: 12
+15: joehillssays: 7
+16: Welsknight: 6
+17: GeminiTay: 5
+18: VintageBeef: 4
+19: Etho: 3
+20: MumboJumbo: 2
+21: PearlescentMoon: 1
+Total 560

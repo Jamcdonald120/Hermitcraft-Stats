@@ -1,0 +1,20 @@
+minecraft.crafted.lime_stained_glass_pane
+1: impulseSV: 2480
+2: Docm77: 1200
+3: Tango: 880
+4: Renthedog: 512
+5: Keralis1: 480
+6: joehillssays: 264
+7: iskall85: 256
+8: cubfan135: 208
+9: GoodTimeWithScar: 208
+10: Xisuma: 128
+11: BdoubleO100: 56
+12: Grian: 32
+13: Zedaph: 24
+14: VintageBeef: 16
+15: falsesymmetry: 16
+16: ZombieCleo: 16
+17: MumboJumbo: 16
+18: Stressmonster101: 16
+Total 6808

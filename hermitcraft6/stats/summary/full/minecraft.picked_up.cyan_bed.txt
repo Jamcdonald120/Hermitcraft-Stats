@@ -1,0 +1,14 @@
+minecraft.picked_up.cyan_bed
+1: BdoubleO100: 255
+2: Xisuma: 109
+3: cubfan135: 80
+4: GoodTimeWithScar: 20
+5: Grian: 8
+6: joehillssays: 5
+7: Zedaph: 5
+8: Stressmonster101: 4
+9: ZombieCleo: 2
+10: Docm77: 1
+11: PythonGB: 1
+12: iJevin: 1
+Total 491

@@ -1,0 +1,23 @@
+minecraft.picked_up.stone_button
+1: iskall85: 4275
+2: falsesymmetry: 592
+3: cubfan135: 588
+4: Docm77: 561
+5: iJevin: 359
+6: GoodTimeWithScar: 263
+7: Renthedog: 257
+8: Grian: 249
+9: joehillssays: 238
+10: Stressmonster101: 201
+11: impulseSV: 176
+12: MumboJumbo: 141
+13: Xisuma: 135
+14: Tango: 127
+15: Tinfoilchef: 64
+16: Zedaph: 56
+17: ZombieCleo: 15
+18: Keralis1: 10
+19: Biffa2001: 6
+20: Welsknight: 4
+21: PythonGB: 3
+Total 8320

@@ -1,0 +1,14 @@
+minecraft.dropped.chiseled_stone_bricks
+1: falsesymmetry: 2433
+2: Grian: 444
+3: Tango: 381
+4: Zedaph: 146
+5: cubfan135: 65
+6: GeminiTay: 62
+7: iJevin: 58
+8: Keralis1: 52
+9: Renthedog: 14
+10: GoodTimeWithScar: 10
+11: Etho: 3
+12: impulseSV: 2
+Total 3670

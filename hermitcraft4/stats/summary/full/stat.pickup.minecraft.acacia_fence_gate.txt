@@ -1,0 +1,8 @@
+stat.pickup.minecraft.acacia_fence_gate
+1: cubfan135: 130
+2: falsesymmetry: 18
+3: Renthedog: 6
+4: Docm77: 1
+5: VintageBeef: 1
+6: impulseSV: 1
+Total 157

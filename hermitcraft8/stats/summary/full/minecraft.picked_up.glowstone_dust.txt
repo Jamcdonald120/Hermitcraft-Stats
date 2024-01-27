@@ -1,0 +1,25 @@
+minecraft.picked_up.glowstone_dust
+1: iJevin: 1253
+2: cubfan135: 715
+3: Renthedog: 500
+4: falsesymmetry: 222
+5: PearlescentMoon: 206
+6: VintageBeef: 185
+7: Welsknight: 165
+8: iskall85: 158
+9: Zedaph: 135
+10: impulseSV: 130
+11: MumboJumbo: 93
+12: joehillssays: 67
+13: Keralis1: 65
+14: hypnotizd: 61
+15: Tango: 51
+16: Xisuma: 48
+17: Docm77: 43
+18: GeminiTay: 33
+19: GoodTimeWithScar: 30
+20: Grian: 26
+21: Etho: 20
+22: BdoubleO100: 7
+23: ZombieCleo: 1
+Total 4214

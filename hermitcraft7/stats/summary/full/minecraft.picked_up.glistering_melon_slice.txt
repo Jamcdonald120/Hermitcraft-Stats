@@ -1,0 +1,7 @@
+minecraft.picked_up.glistering_melon_slice
+1: Stressmonster101: 64
+2: iJevin: 9
+3: Etho: 8
+4: Xisuma: 2
+5: Keralis1: 1
+Total 84

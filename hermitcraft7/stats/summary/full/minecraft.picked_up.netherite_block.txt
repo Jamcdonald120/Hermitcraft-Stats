@@ -1,0 +1,9 @@
+minecraft.picked_up.netherite_block
+1: iskall85: 48
+2: cubfan135: 48
+3: Grian: 29
+4: Renthedog: 10
+5: GoodTimeWithScar: 6
+6: Xisuma: 1
+7: Keralis1: 1
+Total 143

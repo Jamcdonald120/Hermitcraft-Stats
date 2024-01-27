@@ -1,0 +1,16 @@
+minecraft.picked_up.diorite_wall
+1: GoodTimeWithScar: 316
+2: Grian: 252
+3: falsesymmetry: 243
+4: Zedaph: 118
+5: PearlescentMoon: 101
+6: BdoubleO100: 97
+7: Tango: 82
+8: cubfan135: 11
+9: Smajor1995: 4
+10: GeminiTay: 3
+11: Docm77: 2
+12: Xisuma: 2
+13: Smallishbeans: 1
+14: iskall85: 1
+Total 1233

@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.diamond_hoe
+1: cubfan135: 3
+2: Zedaph: 1
+Total 4

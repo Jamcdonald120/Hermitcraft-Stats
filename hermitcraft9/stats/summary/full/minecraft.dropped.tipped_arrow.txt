@@ -1,0 +1,6 @@
+minecraft.dropped.tipped_arrow
+1: GoodTimeWithScar: 75
+2: iJevin: 6
+3: Renthedog: 2
+4: cubfan135: 1
+Total 84

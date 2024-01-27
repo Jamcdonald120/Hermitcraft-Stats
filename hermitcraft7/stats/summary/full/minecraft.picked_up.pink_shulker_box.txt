@@ -1,0 +1,22 @@
+minecraft.picked_up.pink_shulker_box
+1: cubfan135: 282
+2: Xisuma: 262
+3: BdoubleO100: 233
+4: Tango: 152
+5: Etho: 132
+6: iskall85: 96
+7: GoodTimeWithScar: 89
+8: Renthedog: 74
+9: hypnotizd: 65
+10: Stressmonster101: 59
+11: falsesymmetry: 48
+12: impulseSV: 46
+13: joehillssays: 38
+14: Docm77: 34
+15: MumboJumbo: 34
+16: VintageBeef: 24
+17: Zedaph: 14
+18: iJevin: 2
+19: xBCrafted: 2
+20: Grian: 1
+Total 1687

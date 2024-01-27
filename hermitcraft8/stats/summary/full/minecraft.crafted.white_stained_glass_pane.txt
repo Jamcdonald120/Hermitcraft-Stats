@@ -1,0 +1,18 @@
+minecraft.crafted.white_stained_glass_pane
+1: Welsknight: 1136
+2: xBCrafted: 608
+3: impulseSV: 304
+4: Tango: 288
+5: Xisuma: 272
+6: Grian: 240
+7: Docm77: 192
+8: falsesymmetry: 128
+9: Keralis1: 96
+10: PearlescentMoon: 80
+11: joehillssays: 64
+12: BdoubleO100: 64
+13: cubfan135: 64
+14: GoodTimeWithScar: 64
+15: Renthedog: 16
+16: MumboJumbo: 16
+Total 3632

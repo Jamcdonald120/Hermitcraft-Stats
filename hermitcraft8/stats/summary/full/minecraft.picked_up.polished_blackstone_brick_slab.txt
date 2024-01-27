@@ -1,0 +1,15 @@
+minecraft.picked_up.polished_blackstone_brick_slab
+1: impulseSV: 1398
+2: iJevin: 490
+3: Renthedog: 31
+4: Welsknight: 30
+5: Xisuma: 27
+6: GoodTimeWithScar: 19
+7: VintageBeef: 17
+8: Docm77: 12
+9: joehillssays: 10
+10: Keralis1: 5
+11: xBCrafted: 4
+12: PearlescentMoon: 2
+13: EvilXisuma: 1
+Total 2046

@@ -1,0 +1,3 @@
+minecraft.picked_up.hopper_minecart
+1: Tango: 1
+Total 1

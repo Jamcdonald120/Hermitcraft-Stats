@@ -1,0 +1,14 @@
+minecraft.crafted.acacia_button
+1: iJevin: 80
+2: Keralis1: 78
+3: VintageBeef: 38
+4: Xisuma: 24
+5: BdoubleO100: 12
+6: Tango: 6
+7: Etho: 6
+8: cubfan135: 5
+9: GoodTimeWithScar: 4
+10: impulseSV: 4
+11: xBCrafted: 2
+12: Grian: 1
+Total 260

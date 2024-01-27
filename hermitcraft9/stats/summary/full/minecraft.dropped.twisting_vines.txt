@@ -1,0 +1,13 @@
+minecraft.dropped.twisting_vines
+1: Etho: 42
+2: GoodTimeWithScar: 38
+3: Grian: 32
+4: PearlescentMoon: 17
+5: cubfan135: 17
+6: Tango: 14
+7: Keralis1: 8
+8: Xisuma: 6
+9: impulseSV: 6
+10: VintageBeef: 1
+11: Mumbo: 1
+Total 182

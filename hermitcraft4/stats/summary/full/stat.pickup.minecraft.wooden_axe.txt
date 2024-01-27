@@ -1,0 +1,6 @@
+stat.pickup.minecraft.wooden_axe
+1: Renthedog: 2
+2: Tango: 1
+3: GoodTimeWithScar: 1
+4: Tinfoilchef: 1
+Total 5

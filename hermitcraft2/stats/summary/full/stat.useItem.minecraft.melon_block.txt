@@ -1,0 +1,4 @@
+stat.useItem.minecraft.melon_block
+1: Mumbo: 61
+2: falsesymmetry: 4
+Total 65

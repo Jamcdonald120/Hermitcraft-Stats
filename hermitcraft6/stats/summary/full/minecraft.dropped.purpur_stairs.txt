@@ -1,0 +1,13 @@
+minecraft.dropped.purpur_stairs
+1: PythonGB: 49
+2: Renthedog: 42
+3: iskall85: 40
+4: MumboJumbo: 16
+5: Tango: 14
+6: Grian: 11
+7: GoodTimeWithScar: 11
+8: Zedaph: 5
+9: iJevin: 2
+10: cubfan135: 2
+11: falsesymmetry: 1
+Total 193

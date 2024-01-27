@@ -1,0 +1,19 @@
+stat.pickup.minecraft.gold_block
+1: falsesymmetry: 617
+2: Xisuma: 489
+3: cubfan135: 385
+4: iskall85: 364
+5: Renthedog: 188
+6: iJevin: 178
+7: Welsknight: 156
+8: impulseSV: 88
+9: Tinfoilchef: 77
+10: MumboJumbo: 58
+11: Tango: 39
+12: Mumbo: 20
+13: Biffa2001: 17
+14: ZombieCleo: 8
+15: GoodTimeWithScar: 6
+16: PythonGB: 5
+17: Docm77: 1
+Total 2696

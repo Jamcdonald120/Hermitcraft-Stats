@@ -1,0 +1,28 @@
+minecraft.picked_up.moss_block
+1: Etho: 18672
+2: PearlescentMoon: 8862
+3: GeminiTay: 8592
+4: impulseSV: 6635
+5: iskall85: 6315
+6: GoodTimeWithScar: 5411
+7: Grian: 5099
+8: cubfan135: 4356
+9: Xisuma: 3416
+10: xBCrafted: 2179
+11: falsesymmetry: 1881
+12: BdoubleO100: 1608
+13: iJevin: 1433
+14: MumboJumbo: 1403
+15: Keralis1: 1217
+16: joehillssays: 982
+17: Docm77: 972
+18: hypnotizd: 867
+19: ZombieCleo: 667
+20: Renthedog: 261
+21: Stressmonster101: 248
+22: Zedaph: 204
+23: Tango: 185
+24: EvilXisuma: 32
+25: pillbugnine: 8
+26: Welsknight: 2
+Total 81507

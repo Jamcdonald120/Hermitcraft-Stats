@@ -1,0 +1,17 @@
+minecraft.used.quartz_bricks
+1: impulseSV: 6274
+2: cubfan135: 2047
+3: Grian: 1120
+4: Xisuma: 1019
+5: Keralis1: 983
+6: ZombieCleo: 264
+7: BdoubleO100: 218
+8: Tango: 95
+9: iskall85: 84
+10: GoodTimeWithScar: 52
+11: Etho: 25
+12: Zedaph: 4
+13: Renthedog: 1
+14: iJevin: 1
+15: xBCrafted: 1
+Total 12188

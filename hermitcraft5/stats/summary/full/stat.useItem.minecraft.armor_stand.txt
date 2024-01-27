@@ -1,0 +1,22 @@
+stat.useItem.minecraft.armor_stand
+1: iskall85: 113
+2: joehillssays: 107
+3: falsesymmetry: 102
+4: cubfan135: 91
+5: Welsknight: 61
+6: Xisuma: 56
+7: xBCrafted: 52
+8: PythonGB: 47
+9: Tango: 44
+10: GoodTimeWithScar: 42
+11: Zedaph: 32
+12: ZombieCleo: 28
+13: VintageBeef: 21
+14: BdoubleO100: 17
+15: Stressmonster101: 9
+16: Renthedog: 8
+17: iJevin: 4
+18: impulseSV: 4
+19: Biffa2001: 2
+20: MumboJumbo: 1
+Total 841

@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.red_mushroom
+1: sl1pg8r: 87
+2: Xisuma: 71
+3: falsesymmetry: 61
+4: monkeyfarm: 46
+5: Tango: 29
+6: Tinfoilchef: 27
+7: Biffa2001: 26
+8: zueljin: 13
+9: ZombieCleo: 11
+10: KingDaddyDMAC: 9
+11: iJevin: 7
+12: Etho: 7
+13: Spumwackles: 7
+14: topmass: 6
+15: xBCrafted: 4
+16: hypnotizd: 4
+17: Pungence: 3
+18: Mumbo: 2
+19: joehillssays: 1
+20: Collen: 1
+Total 422

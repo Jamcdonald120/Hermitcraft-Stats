@@ -1,0 +1,4 @@
+stat.killEntity.EntityHorse
+1: Docm77: 1
+2: zueljin: 1
+Total 2

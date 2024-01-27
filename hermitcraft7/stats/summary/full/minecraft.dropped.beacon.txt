@@ -1,0 +1,11 @@
+minecraft.dropped.beacon
+1: Tango: 39
+2: iskall85: 34
+3: impulseSV: 8
+4: Keralis1: 5
+5: Etho: 2
+6: Renthedog: 1
+7: cubfan135: 1
+8: ZombieCleo: 1
+9: Stressmonster101: 1
+Total 92

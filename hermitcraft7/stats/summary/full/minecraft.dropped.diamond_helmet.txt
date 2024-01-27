@@ -1,0 +1,20 @@
+minecraft.dropped.diamond_helmet
+1: iJevin: 30
+2: Keralis1: 18
+3: iskall85: 9
+4: Zedaph: 9
+5: Tango: 8
+6: cubfan135: 8
+7: Grian: 6
+8: BdoubleO100: 5
+9: Renthedog: 4
+10: VintageBeef: 3
+11: MumboJumbo: 3
+12: GoodTimeWithScar: 3
+13: xBCrafted: 2
+14: Etho: 2
+15: hypnotizd: 2
+16: Docm77: 1
+17: falsesymmetry: 1
+18: BarryBoss1234: 1
+Total 115

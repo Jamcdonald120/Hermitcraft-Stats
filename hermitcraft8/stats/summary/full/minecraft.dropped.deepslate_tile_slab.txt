@@ -1,0 +1,17 @@
+minecraft.dropped.deepslate_tile_slab
+1: hypnotizd: 170
+2: iJevin: 128
+3: Grian: 81
+4: Zedaph: 68
+5: Docm77: 40
+6: impulseSV: 20
+7: Xisuma: 14
+8: EvilXisuma: 11
+9: iskall85: 6
+10: ZombieCleo: 5
+11: GoodTimeWithScar: 4
+12: BdoubleO100: 2
+13: Renthedog: 1
+14: Tango: 1
+15: Keralis1: 1
+Total 552

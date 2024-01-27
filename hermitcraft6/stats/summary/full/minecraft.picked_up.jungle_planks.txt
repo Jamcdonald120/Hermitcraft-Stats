@@ -1,0 +1,21 @@
+minecraft.picked_up.jungle_planks
+1: Renthedog: 626
+2: cubfan135: 525
+3: impulseSV: 364
+4: iskall85: 285
+5: Zedaph: 167
+6: Docm77: 149
+7: iJevin: 71
+8: Xisuma: 64
+9: falsesymmetry: 46
+10: Grian: 42
+11: BdoubleO100: 32
+12: GoodTimeWithScar: 30
+13: Tango: 26
+14: Biffa2001: 13
+15: joehillssays: 7
+16: Stressmonster101: 2
+17: Jura_Whitey: 1
+18: ZombieCleo: 1
+19: MumboJumbo: 1
+Total 2452

@@ -1,0 +1,21 @@
+minecraft.crafted.quartz_pillar
+1: Grian: 6325
+2: Renthedog: 5011
+3: GeminiTay: 4879
+4: impulseSV: 3384
+5: GoodTimeWithScar: 1287
+6: Etho: 767
+7: Tango: 728
+8: ZombieCleo: 504
+9: cubfan135: 230
+10: Keralis1: 208
+11: Pixlriffs: 204
+12: joehillssays: 128
+13: BdoubleO100: 96
+14: falsesymmetry: 48
+15: VintageBeef: 24
+16: RentheKing: 12
+17: Docm77: 3
+18: Xisuma: 1
+19: Zedaph: 1
+Total 23840

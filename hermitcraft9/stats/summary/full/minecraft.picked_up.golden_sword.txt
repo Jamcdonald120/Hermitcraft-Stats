@@ -1,0 +1,25 @@
+minecraft.picked_up.golden_sword
+1: Tango: 761
+2: cubfan135: 240
+3: Xisuma: 159
+4: Renthedog: 48
+5: Docm77: 47
+6: impulseSV: 40
+7: iJevin: 37
+8: iskall85: 21
+9: BdoubleO100: 10
+10: hypnotizd: 9
+11: PearlescentMoon: 7
+12: Grian: 5
+13: MythicalSausage: 4
+14: falsesymmetry: 4
+15: joehillssays: 3
+16: GeminiTay: 3
+17: xBCrafted: 3
+18: Etho: 3
+19: Stressmonster101: 3
+20: Keralis1: 3
+21: RentheKing: 2
+22: Zedaph: 2
+23: Pixlriffs: 1
+Total 1415

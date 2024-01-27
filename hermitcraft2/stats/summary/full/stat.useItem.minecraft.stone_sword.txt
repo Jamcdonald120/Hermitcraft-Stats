@@ -1,0 +1,6 @@
+stat.useItem.minecraft.stone_sword
+1: falsesymmetry: 140
+2: xBCrafted: 45
+3: Tango: 7
+4: monkeyfarm: 1
+Total 193

@@ -1,0 +1,17 @@
+minecraft.dropped.iron_bars
+1: Tango: 2333
+2: GoodTimeWithScar: 441
+3: cubfan135: 397
+4: iskall85: 320
+5: Xisuma: 260
+6: Docm77: 214
+7: impulseSV: 158
+8: iJevin: 130
+9: Zedaph: 118
+10: PythonGB: 42
+11: falsesymmetry: 39
+12: Grian: 32
+13: MumboJumbo: 20
+14: joehillssays: 8
+15: Renthedog: 6
+Total 4518

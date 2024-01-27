@@ -1,0 +1,30 @@
+minecraft.dropped.string
+1: Xisuma: 20165
+2: Keralis1: 17177
+3: iJevin: 14274
+4: falsesymmetry: 7011
+5: Zedaph: 5258
+6: Tango: 4179
+7: Docm77: 1118
+8: Renthedog: 923
+9: hypnotizd: 850
+10: Grian: 379
+11: GoodTimeWithScar: 322
+12: BdoubleO100: 274
+13: ZombieCleo: 230
+14: xBCrafted: 185
+15: Etho: 177
+16: impulseSV: 150
+17: cubfan135: 135
+18: VintageBeef: 129
+19: PearlescentMoon: 115
+20: iskall85: 85
+21: Mumbo: 57
+22: GeminiTay: 45
+23: joehillssays: 44
+24: RentheKing: 13
+25: MythicalSausage: 6
+26: Smallishbeans: 4
+27: Pixlriffs: 4
+28: Stressmonster101: 4
+Total 73313

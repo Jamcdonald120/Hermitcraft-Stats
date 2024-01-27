@@ -1,0 +1,11 @@
+minecraft.dropped.blue_wool
+1: PearlescentMoon: 569
+2: iJevin: 536
+3: falsesymmetry: 37
+4: Renthedog: 35
+5: GoodTimeWithScar: 17
+6: Docm77: 13
+7: Grian: 8
+8: Keralis1: 6
+9: Tango: 1
+Total 1222

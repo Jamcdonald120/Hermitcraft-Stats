@@ -1,0 +1,26 @@
+minecraft.mined.soul_soil
+1: Etho: 11464
+2: Grian: 5288
+3: Tango: 5144
+4: impulseSV: 1956
+5: iJevin: 1896
+6: GoodTimeWithScar: 1155
+7: PearlescentMoon: 809
+8: Docm77: 807
+9: Xisuma: 735
+10: GeminiTay: 649
+11: xBCrafted: 549
+12: joehillssays: 432
+13: Keralis1: 377
+14: hypnotizd: 275
+15: cubfan135: 238
+16: falsesymmetry: 199
+17: RentheKing: 181
+18: VintageBeef: 154
+19: ZombieCleo: 106
+20: Mumbo: 104
+21: Zedaph: 70
+22: Smallishbeans: 39
+23: Renthedog: 29
+24: BdoubleO100: 21
+Total 32677

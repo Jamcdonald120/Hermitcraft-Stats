@@ -1,0 +1,22 @@
+minecraft.crafted.cyan_terracotta
+1: Xisuma: 43632
+2: Grian: 34696
+3: falsesymmetry: 30584
+4: GoodTimeWithScar: 30016
+5: impulseSV: 28020
+6: joehillssays: 19088
+7: Keralis1: 11386
+8: iskall85: 7680
+9: Docm77: 3264
+10: Stressmonster101: 3152
+11: Renthedog: 2536
+12: Etho: 2360
+13: Tango: 1636
+14: MumboJumbo: 1272
+15: BdoubleO100: 1204
+16: VintageBeef: 360
+17: xBCrafted: 168
+18: iJevin: 152
+19: cubfan135: 88
+20: Zedaph: 16
+Total 221310

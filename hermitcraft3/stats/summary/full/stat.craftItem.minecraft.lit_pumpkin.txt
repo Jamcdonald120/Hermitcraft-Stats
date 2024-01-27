@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.lit_pumpkin
+1: falsesymmetry: 2462
+2: Xisuma: 374
+3: Tinfoilchef: 251
+4: zueljin: 236
+5: impulseSV: 158
+6: Mumbo: 123
+7: ZombieCleo: 87
+8: Tango: 75
+9: KingDaddyDMAC: 48
+10: xBCrafted: 17
+11: sl1pg8r: 13
+12: hypnotizd: 1
+Total 3845

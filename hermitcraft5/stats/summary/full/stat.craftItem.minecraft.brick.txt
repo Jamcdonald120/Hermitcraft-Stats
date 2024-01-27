@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.brick
+1: falsesymmetry: 8690
+2: PythonGB: 436
+3: Stressmonster101: 148
+4: GoodTimeWithScar: 142
+5: Xisuma: 104
+6: cubfan135: 64
+7: iJevin: 61
+8: VintageBeef: 52
+9: ZombieCleo: 44
+10: BdoubleO100: 39
+11: Docm77: 6
+12: Zedaph: 5
+13: Tango: 3
+Total 9794

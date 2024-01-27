@@ -1,0 +1,8 @@
+minecraft.crafted.netherite_block
+1: cubfan135: 36
+2: iskall85: 10
+3: Grian: 9
+4: GoodTimeWithScar: 6
+5: Xisuma: 1
+6: VintageBeef: 1
+Total 63

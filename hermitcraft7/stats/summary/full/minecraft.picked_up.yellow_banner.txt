@@ -1,0 +1,14 @@
+minecraft.picked_up.yellow_banner
+1: cubfan135: 76
+2: VintageBeef: 11
+3: Keralis1: 7
+4: joehillssays: 3
+5: Xisuma: 1
+6: Renthedog: 1
+7: Tango: 1
+8: xBCrafted: 1
+9: Welsknight: 1
+10: GoodTimeWithScar: 1
+11: Stressmonster101: 1
+12: impulseSV: 1
+Total 105

@@ -1,0 +1,25 @@
+minecraft.mined.oak_stairs
+1: xBCrafted: 486
+2: Keralis1: 239
+3: Renthedog: 232
+4: Xisuma: 202
+5: MumboJumbo: 158
+6: joehillssays: 153
+7: Stressmonster101: 67
+8: Etho: 63
+9: iskall85: 57
+10: Tango: 56
+11: iJevin: 52
+12: impulseSV: 36
+13: VintageBeef: 25
+14: BdoubleO100: 23
+15: cubfan135: 22
+16: Welsknight: 19
+17: GoodTimeWithScar: 18
+18: Grian: 10
+19: falsesymmetry: 10
+20: hypnotizd: 9
+21: Zedaph: 7
+22: BarryBoss1234: 2
+23: ZombieCleo: 1
+Total 1947

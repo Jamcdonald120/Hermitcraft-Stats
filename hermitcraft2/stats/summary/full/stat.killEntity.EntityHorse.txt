@@ -1,0 +1,10 @@
+stat.killEntity.EntityHorse
+1: ZombieCleo: 40
+2: Xisuma: 33
+3: hypnotizd: 7
+4: Keralis1: 3
+5: Spumwackles: 2
+6: KingDaddyDMAC: 1
+7: Pungence: 1
+8: Tinfoilchef: 1
+Total 88

@@ -1,0 +1,25 @@
+stat.useItem.minecraft.carrot
+1: ZombieCleo: 7562
+2: Docm77: 5035
+3: impulseSV: 4658
+4: Tinfoilchef: 3488
+5: cubfan135: 1986
+6: xBCrafted: 1367
+7: Stressmonster101: 1291
+8: PythonGB: 1035
+9: falsesymmetry: 961
+10: Xisuma: 848
+11: GoodTimeWithScar: 846
+12: joehillssays: 642
+13: Tango: 594
+14: Renthedog: 585
+15: iJevin: 539
+16: MumboJumbo: 391
+17: iskall85: 295
+18: Biffa2001: 138
+19: Zedaph: 133
+20: Welsknight: 112
+21: Etho: 19
+22: BdoubleO100: 5
+23: VintageBeef: 2
+Total 32532

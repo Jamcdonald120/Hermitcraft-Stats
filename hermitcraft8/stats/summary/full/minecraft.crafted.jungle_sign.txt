@@ -1,0 +1,14 @@
+minecraft.crafted.jungle_sign
+1: iJevin: 147
+2: PearlescentMoon: 51
+3: Grian: 33
+4: GoodTimeWithScar: 30
+5: BdoubleO100: 21
+6: hypnotizd: 21
+7: Renthedog: 6
+8: Docm77: 3
+9: GeminiTay: 3
+10: iskall85: 3
+11: cubfan135: 3
+12: impulseSV: 3
+Total 324

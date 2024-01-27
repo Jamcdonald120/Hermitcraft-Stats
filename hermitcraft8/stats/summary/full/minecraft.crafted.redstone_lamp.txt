@@ -1,0 +1,22 @@
+minecraft.crafted.redstone_lamp
+1: Grian: 772
+2: impulseSV: 716
+3: Etho: 260
+4: PearlescentMoon: 205
+5: Renthedog: 180
+6: falsesymmetry: 169
+7: Docm77: 153
+8: Xisuma: 122
+9: MumboJumbo: 112
+10: Welsknight: 60
+11: xBCrafted: 54
+12: Zedaph: 45
+13: iJevin: 38
+14: VintageBeef: 34
+15: BdoubleO100: 34
+16: Tango: 25
+17: cubfan135: 22
+18: ZombieCleo: 12
+19: joehillssays: 9
+20: hypnotizd: 8
+Total 3030

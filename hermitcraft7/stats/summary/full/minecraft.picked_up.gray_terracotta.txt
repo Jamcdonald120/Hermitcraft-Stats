@@ -1,0 +1,14 @@
+minecraft.picked_up.gray_terracotta
+1: VintageBeef: 1240
+2: Zedaph: 1210
+3: GoodTimeWithScar: 1149
+4: Renthedog: 849
+5: cubfan135: 544
+6: falsesymmetry: 359
+7: Etho: 276
+8: Grian: 269
+9: Tango: 37
+10: BdoubleO100: 27
+11: Xisuma: 12
+12: joehillssays: 5
+Total 5977

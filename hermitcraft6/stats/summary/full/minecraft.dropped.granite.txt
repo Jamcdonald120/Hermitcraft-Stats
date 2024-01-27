@@ -1,0 +1,27 @@
+minecraft.dropped.granite
+1: iskall85: 18724
+2: GoodTimeWithScar: 10732
+3: Tango: 8951
+4: iJevin: 5929
+5: falsesymmetry: 4548
+6: MumboJumbo: 4029
+7: Welsknight: 3953
+8: Renthedog: 3316
+9: impulseSV: 2744
+10: cubfan135: 2210
+11: Xisuma: 1981
+12: Docm77: 1914
+13: Grian: 1731
+14: Tinfoilchef: 1500
+15: Stressmonster101: 1179
+16: ZombieCleo: 1003
+17: Keralis1: 803
+18: Zedaph: 744
+19: xBCrafted: 583
+20: joehillssays: 454
+21: BdoubleO100: 448
+22: Biffa2001: 113
+23: PythonGB: 72
+24: Jessassin: 27
+25: HumanCleo: 16
+Total 77704

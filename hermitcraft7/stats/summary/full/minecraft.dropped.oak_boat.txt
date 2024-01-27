@@ -1,0 +1,20 @@
+minecraft.dropped.oak_boat
+1: Renthedog: 37
+2: Tango: 14
+3: Xisuma: 12
+4: Zedaph: 12
+5: joehillssays: 10
+6: falsesymmetry: 8
+7: cubfan135: 8
+8: iskall85: 6
+9: Grian: 5
+10: Etho: 4
+11: iJevin: 3
+12: ZombieCleo: 2
+13: impulseSV: 2
+14: BdoubleO100: 1
+15: Welsknight: 1
+16: GoodTimeWithScar: 1
+17: Stressmonster101: 1
+18: Keralis1: 1
+Total 128

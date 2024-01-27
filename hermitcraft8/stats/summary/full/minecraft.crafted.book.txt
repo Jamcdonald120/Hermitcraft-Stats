@@ -1,0 +1,26 @@
+minecraft.crafted.book
+1: Grian: 1086
+2: BdoubleO100: 561
+3: GoodTimeWithScar: 539
+4: GeminiTay: 335
+5: hypnotizd: 257
+6: Xisuma: 245
+7: Welsknight: 161
+8: Renthedog: 134
+9: VintageBeef: 119
+10: Etho: 119
+11: joehillssays: 105
+12: xBCrafted: 105
+13: cubfan135: 103
+14: falsesymmetry: 100
+15: Docm77: 92
+16: impulseSV: 76
+17: Zedaph: 74
+18: iJevin: 64
+19: iskall85: 37
+20: Stressmonster101: 35
+21: Tango: 15
+22: ZombieCleo: 9
+23: PearlescentMoon: 7
+24: MumboJumbo: 6
+Total 4384

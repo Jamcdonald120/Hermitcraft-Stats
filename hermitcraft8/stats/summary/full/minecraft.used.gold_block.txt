@@ -1,0 +1,18 @@
+minecraft.used.gold_block
+1: impulseSV: 1870
+2: hypnotizd: 1139
+3: GeminiTay: 509
+4: PearlescentMoon: 239
+5: cubfan135: 230
+6: Renthedog: 147
+7: Grian: 75
+8: joehillssays: 71
+9: GoodTimeWithScar: 42
+10: Xisuma: 33
+11: MumboJumbo: 29
+12: Zedaph: 13
+13: iskall85: 8
+14: Keralis1: 4
+15: iJevin: 1
+16: Welsknight: 1
+Total 4411

@@ -1,0 +1,18 @@
+minecraft.killed.hoglin
+1: PearlescentMoon: 43
+2: iJevin: 19
+3: GoodTimeWithScar: 19
+4: cubfan135: 14
+5: VintageBeef: 6
+6: Etho: 5
+7: Docm77: 4
+8: GeminiTay: 3
+9: xBCrafted: 3
+10: hypnotizd: 3
+11: Stressmonster101: 3
+12: Grian: 2
+13: Renthedog: 1
+14: Tango: 1
+15: falsesymmetry: 1
+16: ZombieCleo: 1
+Total 128

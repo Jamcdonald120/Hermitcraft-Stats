@@ -1,0 +1,10 @@
+minecraft.dropped.soul_torch
+1: iJevin: 287
+2: cubfan135: 72
+3: falsesymmetry: 64
+4: Zedaph: 12
+5: Tango: 7
+6: impulseSV: 6
+7: GoodTimeWithScar: 5
+8: joehillssays: 1
+Total 454

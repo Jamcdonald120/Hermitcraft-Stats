@@ -1,0 +1,12 @@
+minecraft.dropped.bone_block
+1: Grian: 782
+2: Etho: 128
+3: Tango: 105
+4: Renthedog: 102
+5: Docm77: 75
+6: iJevin: 65
+7: BdoubleO100: 48
+8: Zedaph: 20
+9: iskall85: 11
+10: VintageBeef: 5
+Total 1341

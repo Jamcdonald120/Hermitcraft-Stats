@@ -1,0 +1,8 @@
+minecraft.used.smooth_red_sandstone_slab
+1: PearlescentMoon: 2141
+2: Keralis1: 252
+3: impulseSV: 24
+4: Xisuma: 5
+5: GoodTimeWithScar: 5
+6: iJevin: 3
+Total 2430

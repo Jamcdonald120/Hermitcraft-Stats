@@ -1,0 +1,5 @@
+stat.drop.minecraft.clay
+1: MumboJumbo: 71
+2: GoodTimeWithScar: 18
+3: falsesymmetry: 1
+Total 90

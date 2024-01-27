@@ -1,0 +1,23 @@
+stat.pickup.minecraft.repeater
+1: cubfan135: 1725
+2: impulseSV: 850
+3: MumboJumbo: 805
+4: Tango: 729
+5: Xisuma: 430
+6: iskall85: 428
+7: Zedaph: 295
+8: Docm77: 254
+9: Tinfoilchef: 222
+10: GoodTimeWithScar: 201
+11: Renthedog: 150
+12: xBCrafted: 147
+13: Etho: 116
+14: Welsknight: 100
+15: iJevin: 83
+16: falsesymmetry: 69
+17: PythonGB: 29
+18: joehillssays: 21
+19: Stressmonster101: 17
+20: ZombieCleo: 8
+21: BdoubleO100: 2
+Total 6681

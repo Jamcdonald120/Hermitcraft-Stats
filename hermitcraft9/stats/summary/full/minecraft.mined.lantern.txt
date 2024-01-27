@@ -1,0 +1,32 @@
+minecraft.mined.lantern
+1: cubfan135: 209
+2: falsesymmetry: 147
+3: Renthedog: 105
+4: ZombieCleo: 93
+5: GoodTimeWithScar: 85
+6: Grian: 69
+7: iJevin: 66
+8: xBCrafted: 53
+9: Keralis1: 50
+10: RentheKing: 47
+11: Stressmonster101: 39
+12: impulseSV: 32
+13: iskall85: 30
+14: Xisuma: 27
+15: GeminiTay: 16
+16: Tango: 16
+17: Etho: 16
+18: VintageBeef: 12
+19: PearlescentMoon: 12
+20: OrionSound: 11
+21: MythicalSausage: 8
+22: hypnotizd: 6
+23: Zedaph: 6
+24: Docm77: 4
+25: Smallishbeans: 3
+26: BdoubleO100: 3
+27: Pixlriffs: 3
+28: fWhip: 2
+29: SolidarityGaming: 2
+30: ShubbleYT: 1
+Total 1173

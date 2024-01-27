@@ -1,0 +1,25 @@
+minecraft.picked_up.iron_leggings
+1: Zedaph: 32
+2: Tango: 28
+3: xBCrafted: 17
+4: VintageBeef: 15
+5: falsesymmetry: 15
+6: Etho: 14
+7: GoodTimeWithScar: 14
+8: Grian: 11
+9: MumboJumbo: 10
+10: iskall85: 7
+11: Xisuma: 6
+12: iJevin: 6
+13: Keralis1: 6
+14: cubfan135: 5
+15: hypnotizd: 5
+16: BdoubleO100: 4
+17: joehillssays: 3
+18: Welsknight: 3
+19: Tinfoilchef: 3
+20: impulseSV: 3
+21: ZombieCleo: 2
+22: Docm77: 1
+23: Stressmonster101: 1
+Total 211

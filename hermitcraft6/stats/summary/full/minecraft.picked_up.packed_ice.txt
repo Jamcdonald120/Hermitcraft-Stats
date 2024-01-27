@@ -1,0 +1,23 @@
+minecraft.picked_up.packed_ice
+1: Stressmonster101: 93434
+2: iskall85: 77509
+3: Renthedog: 52063
+4: cubfan135: 24667
+5: Docm77: 10354
+6: Xisuma: 7919
+7: Biffa2001: 5698
+8: Tango: 4693
+9: MumboJumbo: 4356
+10: Grian: 4190
+11: impulseSV: 3330
+12: Zedaph: 2637
+13: falsesymmetry: 1691
+14: GoodTimeWithScar: 1095
+15: iJevin: 803
+16: Welsknight: 258
+17: Keralis1: 126
+18: BdoubleO100: 12
+19: ZombieCleo: 9
+20: joehillssays: 4
+21: Tinfoilchef: 2
+Total 294850

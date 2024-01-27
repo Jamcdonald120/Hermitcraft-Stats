@@ -1,0 +1,22 @@
+stat.fishCaught
+1: MumboJumbo: 53143
+2: Xisuma: 52719
+3: Welsknight: 23543
+4: Biffa2001: 16183
+5: impulseSV: 13733
+6: Stressmonster101: 11123
+7: iskall85: 10545
+8: Renthedog: 9653
+9: Tinfoilchef: 4136
+10: cubfan135: 3223
+11: falsesymmetry: 2692
+12: xBCrafted: 497
+13: ZombieCleo: 197
+14: BdoubleO100: 184
+15: PythonGB: 55
+16: joehillssays: 25
+17: VintageBeef: 21
+18: iJevin: 8
+19: GoodTimeWithScar: 2
+20: Zedaph: 1
+Total 201683

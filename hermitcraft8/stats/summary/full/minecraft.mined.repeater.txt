@@ -1,0 +1,25 @@
+minecraft.mined.repeater
+1: impulseSV: 356
+2: Docm77: 319
+3: iJevin: 216
+4: cubfan135: 214
+5: Tango: 150
+6: Zedaph: 132
+7: MumboJumbo: 121
+8: iskall85: 108
+9: Xisuma: 93
+10: Etho: 78
+11: Welsknight: 49
+12: xBCrafted: 38
+13: joehillssays: 27
+14: GeminiTay: 23
+15: GoodTimeWithScar: 22
+16: BdoubleO100: 20
+17: VintageBeef: 18
+18: hypnotizd: 18
+19: PearlescentMoon: 15
+20: Tinfoilchef: 14
+21: Renthedog: 13
+22: Grian: 9
+23: Keralis1: 9
+Total 2062

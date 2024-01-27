@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.tripwire_hook
+1: ZombieCleo: 3
+2: Xisuma: 2
+3: Tango: 2
+Total 7

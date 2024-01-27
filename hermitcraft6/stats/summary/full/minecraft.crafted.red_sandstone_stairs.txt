@@ -1,0 +1,6 @@
+minecraft.crafted.red_sandstone_stairs
+1: GoodTimeWithScar: 184
+2: cubfan135: 48
+3: Xisuma: 32
+4: joehillssays: 8
+Total 272

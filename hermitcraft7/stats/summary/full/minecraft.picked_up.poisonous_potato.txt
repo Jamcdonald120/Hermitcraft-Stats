@@ -1,0 +1,19 @@
+minecraft.picked_up.poisonous_potato
+1: joehillssays: 42
+2: iskall85: 28
+3: GoodTimeWithScar: 27
+4: impulseSV: 27
+5: iJevin: 22
+6: xBCrafted: 21
+7: Xisuma: 20
+8: cubfan135: 20
+9: Zedaph: 18
+10: Etho: 11
+11: Tango: 5
+12: MumboJumbo: 3
+13: Renthedog: 2
+14: Grian: 2
+15: BdoubleO100: 2
+16: Welsknight: 1
+17: Keralis1: 1
+Total 252

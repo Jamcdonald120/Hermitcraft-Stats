@@ -1,0 +1,27 @@
+minecraft.mined.deepslate_lapis_ore
+1: cubfan135: 192
+2: GoodTimeWithScar: 110
+3: PearlescentMoon: 102
+4: Renthedog: 93
+5: Xisuma: 83
+6: iJevin: 75
+7: BdoubleO100: 72
+8: xBCrafted: 57
+9: Docm77: 50
+10: joehillssays: 45
+11: Tinfoilchef: 45
+12: MumboJumbo: 43
+13: impulseSV: 42
+14: Grian: 39
+15: GeminiTay: 38
+16: Welsknight: 38
+17: Etho: 36
+18: falsesymmetry: 33
+19: ZombieCleo: 29
+20: Zedaph: 20
+21: Tango: 19
+22: VintageBeef: 16
+23: hypnotizd: 15
+24: iskall85: 11
+25: Stressmonster101: 11
+Total 1314

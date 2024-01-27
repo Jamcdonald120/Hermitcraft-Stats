@@ -1,0 +1,11 @@
+minecraft.crafted.deepslate
+1: BdoubleO100: 1010
+2: falsesymmetry: 361
+3: Renthedog: 256
+4: Tango: 192
+5: Stressmonster101: 120
+6: RentheKing: 72
+7: VintageBeef: 64
+8: Zedaph: 12
+9: iJevin: 1
+Total 2088

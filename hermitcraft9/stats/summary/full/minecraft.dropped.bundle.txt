@@ -1,0 +1,26 @@
+minecraft.dropped.bundle
+1: Renthedog: 170
+2: cubfan135: 126
+3: Docm77: 62
+4: GoodTimeWithScar: 60
+5: joehillssays: 59
+6: iJevin: 28
+7: VintageBeef: 26
+8: GeminiTay: 14
+9: Etho: 14
+10: ZombieCleo: 14
+11: PearlescentMoon: 13
+12: falsesymmetry: 13
+13: Xisuma: 6
+14: xBCrafted: 6
+15: impulseSV: 6
+16: Grian: 4
+17: Welsknight: 3
+18: Tango: 2
+19: BdoubleO100: 2
+20: HBomb94: 2
+21: Zedaph: 2
+22: Smallishbeans: 1
+23: hypnotizd: 1
+24: Firecracker1195: 1
+Total 635

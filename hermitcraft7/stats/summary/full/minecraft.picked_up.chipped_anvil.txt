@@ -1,0 +1,25 @@
+minecraft.picked_up.chipped_anvil
+1: Tango: 93
+2: Zedaph: 56
+3: cubfan135: 43
+4: Xisuma: 37
+5: joehillssays: 35
+6: iJevin: 31
+7: GoodTimeWithScar: 30
+8: falsesymmetry: 28
+9: Renthedog: 25
+10: iskall85: 20
+11: VintageBeef: 19
+12: Grian: 19
+13: impulseSV: 17
+14: Etho: 16
+15: Keralis1: 14
+16: xBCrafted: 13
+17: MumboJumbo: 7
+18: Stressmonster101: 7
+19: BdoubleO100: 6
+20: ZombieCleo: 6
+21: Docm77: 2
+22: hypnotizd: 2
+23: Tinfoilchef: 1
+Total 527

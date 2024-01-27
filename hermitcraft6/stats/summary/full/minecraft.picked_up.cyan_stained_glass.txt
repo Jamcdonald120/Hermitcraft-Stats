@@ -1,0 +1,19 @@
+minecraft.picked_up.cyan_stained_glass
+1: Grian: 11075
+2: iskall85: 1894
+3: iJevin: 815
+4: Zedaph: 467
+5: Stressmonster101: 464
+6: GoodTimeWithScar: 181
+7: MumboJumbo: 67
+8: Duke_da_dog: 63
+9: falsesymmetry: 62
+10: Xisuma: 58
+11: cubfan135: 37
+12: Tango: 22
+13: Renthedog: 20
+14: Biffa2001: 3
+15: Docm77: 2
+16: xBCrafted: 2
+17: Welsknight: 1
+Total 15233

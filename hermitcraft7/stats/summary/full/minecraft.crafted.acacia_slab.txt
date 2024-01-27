@@ -1,0 +1,18 @@
+minecraft.crafted.acacia_slab
+1: impulseSV: 2685
+2: Keralis1: 960
+3: xBCrafted: 636
+4: joehillssays: 582
+5: GoodTimeWithScar: 336
+6: VintageBeef: 192
+7: Tango: 114
+8: Renthedog: 96
+9: Etho: 84
+10: BdoubleO100: 78
+11: Xisuma: 36
+12: falsesymmetry: 24
+13: iskall85: 12
+14: cubfan135: 12
+15: Welsknight: 6
+16: MumboJumbo: 6
+Total 5859

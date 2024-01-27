@@ -1,0 +1,9 @@
+minecraft.killed_by.iron_golem
+1: Grian: 9
+2: iJevin: 6
+3: Renthedog: 4
+4: Zedaph: 2
+5: xBCrafted: 1
+6: cubfan135: 1
+7: Etho: 1
+Total 24

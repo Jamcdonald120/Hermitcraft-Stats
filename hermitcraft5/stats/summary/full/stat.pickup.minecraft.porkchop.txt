@@ -1,0 +1,26 @@
+stat.pickup.minecraft.porkchop
+1: Tinfoilchef: 1073
+2: xBCrafted: 429
+3: Zedaph: 426
+4: Welsknight: 381
+5: MumboJumbo: 285
+6: iskall85: 260
+7: cubfan135: 247
+8: Stressmonster101: 240
+9: Tango: 235
+10: iJevin: 219
+11: GoodTimeWithScar: 160
+12: ZombieCleo: 113
+13: BdoubleO100: 108
+14: falsesymmetry: 108
+15: impulseSV: 107
+16: Renthedog: 100
+17: Xisuma: 88
+18: VintageBeef: 53
+19: PythonGB: 46
+20: Biffa2001: 39
+21: Etho: 21
+22: Docm77: 18
+23: joehillssays: 11
+24: xisumavoid: 8
+Total 4775

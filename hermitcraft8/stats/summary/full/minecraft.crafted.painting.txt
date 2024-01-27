@@ -1,0 +1,21 @@
+minecraft.crafted.painting
+1: iJevin: 494
+2: Tango: 267
+3: GoodTimeWithScar: 76
+4: PearlescentMoon: 64
+5: cubfan135: 64
+6: GeminiTay: 23
+7: Renthedog: 15
+8: falsesymmetry: 14
+9: BdoubleO100: 12
+10: ZombieCleo: 8
+11: iskall85: 7
+12: Grian: 5
+13: xBCrafted: 4
+14: Xisuma: 3
+15: joehillssays: 3
+16: Welsknight: 3
+17: Keralis1: 3
+18: VintageBeef: 1
+19: Etho: 1
+Total 1067

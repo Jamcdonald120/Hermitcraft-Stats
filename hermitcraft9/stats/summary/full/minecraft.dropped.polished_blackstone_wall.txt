@@ -1,0 +1,8 @@
+minecraft.dropped.polished_blackstone_wall
+1: Tango: 283
+2: falsesymmetry: 76
+3: GoodTimeWithScar: 23
+4: Xisuma: 15
+5: RentheKing: 2
+6: cubfan135: 1
+Total 400

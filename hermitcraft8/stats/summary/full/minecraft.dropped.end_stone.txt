@@ -1,0 +1,14 @@
+minecraft.dropped.end_stone
+1: Xisuma: 97
+2: Docm77: 62
+3: iJevin: 44
+4: Keralis1: 38
+5: Grian: 22
+6: impulseSV: 12
+7: Tango: 4
+8: GoodTimeWithScar: 4
+9: falsesymmetry: 3
+10: ZombieCleo: 2
+11: MumboJumbo: 2
+12: Zedaph: 2
+Total 292

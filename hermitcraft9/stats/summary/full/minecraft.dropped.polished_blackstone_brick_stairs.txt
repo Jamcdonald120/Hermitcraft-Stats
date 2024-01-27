@@ -1,0 +1,9 @@
+minecraft.dropped.polished_blackstone_brick_stairs
+1: Tango: 1045
+2: iJevin: 36
+3: impulseSV: 8
+4: Renthedog: 6
+5: Keralis1: 6
+6: iskall85: 1
+7: cubfan135: 1
+Total 1103

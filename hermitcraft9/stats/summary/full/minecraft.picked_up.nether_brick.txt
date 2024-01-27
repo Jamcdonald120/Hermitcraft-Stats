@@ -1,0 +1,17 @@
+minecraft.picked_up.nether_brick
+1: Tango: 6320
+2: iJevin: 2979
+3: iskall85: 718
+4: Renthedog: 712
+5: Docm77: 583
+6: Xisuma: 339
+7: Etho: 316
+8: PearlescentMoon: 207
+9: cubfan135: 172
+10: impulseSV: 121
+11: Grian: 58
+12: Zedaph: 30
+13: RentheKing: 20
+14: joehillssays: 16
+15: GeminiTay: 12
+Total 12603

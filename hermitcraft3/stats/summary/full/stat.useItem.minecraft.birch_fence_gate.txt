@@ -1,0 +1,8 @@
+stat.useItem.minecraft.birch_fence_gate
+1: ZombieCleo: 12
+2: iJevin: 2
+3: falsesymmetry: 2
+4: Xisuma: 1
+5: Tango: 1
+6: snipepager: 1
+Total 19

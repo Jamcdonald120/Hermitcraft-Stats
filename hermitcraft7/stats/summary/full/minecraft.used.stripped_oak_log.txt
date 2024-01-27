@@ -1,0 +1,21 @@
+minecraft.used.stripped_oak_log
+1: Keralis1: 971
+2: Xisuma: 890
+3: iskall85: 449
+4: GoodTimeWithScar: 437
+5: BdoubleO100: 270
+6: cubfan135: 99
+7: ZombieCleo: 85
+8: VintageBeef: 84
+9: Etho: 71
+10: hypnotizd: 55
+11: Tango: 27
+12: Renthedog: 18
+13: Grian: 15
+14: xBCrafted: 14
+15: impulseSV: 11
+16: Stressmonster101: 7
+17: Zedaph: 2
+18: Docm77: 1
+19: MumboJumbo: 1
+Total 3507

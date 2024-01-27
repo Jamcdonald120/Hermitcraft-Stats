@@ -1,0 +1,22 @@
+minecraft.dropped.oak_slab
+1: GoodTimeWithScar: 88
+2: Zedaph: 56
+3: iJevin: 49
+4: cubfan135: 49
+5: Tango: 41
+6: iskall85: 31
+7: Docm77: 29
+8: Etho: 19
+9: Keralis1: 18
+10: ZombieCleo: 10
+11: Xisuma: 6
+12: Grian: 6
+13: GeminiTay: 5
+14: Pixlriffs: 5
+15: Mumbo: 4
+16: hypnotizd: 3
+17: MumboJumbo: 3
+18: BdoubleO100: 1
+19: PearlescentMoon: 1
+20: xBCrafted: 1
+Total 425

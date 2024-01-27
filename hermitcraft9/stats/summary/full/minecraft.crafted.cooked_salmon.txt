@@ -1,0 +1,15 @@
+minecraft.crafted.cooked_salmon
+1: Grian: 382
+2: Zedaph: 201
+3: GeminiTay: 129
+4: impulseSV: 39
+5: falsesymmetry: 24
+6: ZombieCleo: 18
+7: joehillssays: 17
+8: BdoubleO100: 11
+9: Stressmonster101: 9
+10: Keralis1: 6
+11: Mumbo: 3
+12: MumboJumbo: 3
+13: Xisuma: 2
+Total 844

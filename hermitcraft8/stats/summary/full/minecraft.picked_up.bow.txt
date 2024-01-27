@@ -1,0 +1,28 @@
+minecraft.picked_up.bow
+1: Etho: 288
+2: falsesymmetry: 220
+3: hypnotizd: 216
+4: Grian: 202
+5: impulseSV: 182
+6: Xisuma: 181
+7: GoodTimeWithScar: 167
+8: Docm77: 158
+9: iskall85: 156
+10: iJevin: 101
+11: cubfan135: 96
+12: xBCrafted: 89
+13: PearlescentMoon: 81
+14: Renthedog: 56
+15: Tango: 43
+16: Zedaph: 38
+17: joehillssays: 30
+18: Stressmonster101: 29
+19: ZombieCleo: 27
+20: Keralis1: 27
+21: Welsknight: 21
+22: BdoubleO100: 18
+23: GeminiTay: 12
+24: VintageBeef: 11
+25: MumboJumbo: 3
+26: EvilXisuma: 1
+Total 2453

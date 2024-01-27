@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.anvil
+1: Tango: 4626
+2: iskall85: 253
+3: Renthedog: 184
+4: cubfan135: 173
+5: Tinfoilchef: 137
+6: Xisuma: 134
+7: GoodTimeWithScar: 61
+8: falsesymmetry: 48
+9: iJevin: 16
+10: impulseSV: 15
+11: MumboJumbo: 11
+12: PythonGB: 10
+13: joehillssays: 10
+14: Welsknight: 10
+15: VintageBeef: 9
+16: ZombieCleo: 9
+17: Docm77: 3
+18: xBCrafted: 2
+19: Biffa2001: 2
+20: Mumbo: 1
+Total 5714

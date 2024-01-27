@@ -1,0 +1,21 @@
+minecraft.picked_up.pink_petals
+1: GoodTimeWithScar: 4018
+2: cubfan135: 529
+3: ZombieCleo: 519
+4: Grian: 514
+5: GeminiTay: 484
+6: falsesymmetry: 352
+7: PearlescentMoon: 338
+8: joehillssays: 303
+9: Renthedog: 247
+10: impulseSV: 219
+11: iJevin: 106
+12: Etho: 100
+13: VintageBeef: 99
+14: Tango: 81
+15: Xisuma: 76
+16: Keralis1: 65
+17: Zedaph: 11
+18: Mumbo: 10
+19: Docm77: 4
+Total 8075

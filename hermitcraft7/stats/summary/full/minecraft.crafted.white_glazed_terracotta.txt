@@ -1,0 +1,8 @@
+minecraft.crafted.white_glazed_terracotta
+1: falsesymmetry: 192
+2: VintageBeef: 128
+3: joehillssays: 32
+4: Keralis1: 12
+5: impulseSV: 12
+6: ZombieCleo: 8
+Total 384

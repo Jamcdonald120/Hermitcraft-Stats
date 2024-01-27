@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.sandstone_stairs
+1: ZombieCleo: 2008
+2: Biffa2001: 1900
+3: impulseSV: 892
+4: Xisuma: 616
+5: xBCrafted: 560
+6: cubfan135: 296
+7: Welsknight: 228
+8: falsesymmetry: 120
+9: GoodTimeWithScar: 92
+10: PythonGB: 48
+11: MumboJumbo: 44
+12: Zedaph: 36
+13: Tango: 32
+14: VintageBeef: 4
+15: iJevin: 4
+Total 6880

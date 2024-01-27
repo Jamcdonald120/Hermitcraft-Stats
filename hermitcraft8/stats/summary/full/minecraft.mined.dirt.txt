@@ -1,0 +1,30 @@
+minecraft.mined.dirt
+1: cubfan135: 73214
+2: xBCrafted: 48970
+3: iJevin: 38361
+4: Tango: 30902
+5: GoodTimeWithScar: 30460
+6: falsesymmetry: 21522
+7: impulseSV: 20139
+8: Renthedog: 19504
+9: hypnotizd: 18885
+10: Grian: 16731
+11: PearlescentMoon: 15105
+12: joehillssays: 13945
+13: Docm77: 13191
+14: Xisuma: 11471
+15: MumboJumbo: 11073
+16: Etho: 8736
+17: BdoubleO100: 8580
+18: Stressmonster101: 7976
+19: Welsknight: 7957
+20: GeminiTay: 6139
+21: iskall85: 5375
+22: Zedaph: 4657
+23: Keralis1: 4432
+24: ZombieCleo: 2834
+25: VintageBeef: 2338
+26: Tinfoilchef: 2204
+27: pillbugnine: 28
+28: EvilXisuma: 7
+Total 444736

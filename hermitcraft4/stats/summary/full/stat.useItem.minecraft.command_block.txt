@@ -1,0 +1,3 @@
+stat.useItem.minecraft.command_block
+1: Xisuma: 1
+Total 1

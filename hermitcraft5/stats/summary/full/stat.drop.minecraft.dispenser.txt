@@ -1,0 +1,9 @@
+stat.drop.minecraft.dispenser
+1: iskall85: 13
+2: MumboJumbo: 4
+3: Xisuma: 3
+4: Tango: 3
+5: Zedaph: 2
+6: falsesymmetry: 1
+7: impulseSV: 1
+Total 27

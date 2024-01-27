@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.bowl
+1: joehillssays: 16
+2: PythonGB: 4
+3: iJevin: 4
+4: xBCrafted: 4
+5: cubfan135: 4
+Total 32

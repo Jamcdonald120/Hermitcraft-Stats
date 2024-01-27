@@ -1,0 +1,14 @@
+minecraft.dropped.wooden_hoe
+1: PearlescentMoon: 14
+2: Mumbo: 11
+3: GeminiTay: 7
+4: cubfan135: 6
+5: impulseSV: 6
+6: Zedaph: 6
+7: Etho: 5
+8: Xisuma: 2
+9: Renthedog: 2
+10: ZombieCleo: 2
+11: Grian: 1
+12: GoodTimeWithScar: 1
+Total 63

@@ -1,0 +1,23 @@
+stat.pickup.minecraft.leather_chestplate
+1: GoodTimeWithScar: 128
+2: Renthedog: 100
+3: falsesymmetry: 76
+4: cubfan135: 56
+5: impulseSV: 45
+6: joehillssays: 41
+7: Tango: 39
+8: Xisuma: 38
+9: iskall85: 32
+10: Welsknight: 32
+11: PythonGB: 18
+12: MumboJumbo: 13
+13: Etho: 9
+14: iJevin: 8
+15: ZombieCleo: 7
+16: Docm77: 6
+17: Mumbo: 6
+18: Tinfoilchef: 5
+19: VintageBeef: 3
+20: zueljin: 2
+21: Jessassin: 1
+Total 665

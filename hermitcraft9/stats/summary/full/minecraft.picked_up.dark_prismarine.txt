@@ -1,0 +1,26 @@
+minecraft.picked_up.dark_prismarine
+1: cubfan135: 1500
+2: PearlescentMoon: 748
+3: Grian: 482
+4: GeminiTay: 314
+5: iskall85: 231
+6: impulseSV: 209
+7: Stressmonster101: 174
+8: Pixlriffs: 162
+9: Docm77: 138
+10: Keralis1: 134
+11: iJevin: 123
+12: Mumbo: 105
+13: falsesymmetry: 75
+14: Xisuma: 63
+15: ZombieCleo: 62
+16: Etho: 51
+17: MythicalSausage: 35
+18: joehillssays: 28
+19: GoodTimeWithScar: 28
+20: xBCrafted: 14
+21: VintageBeef: 2
+22: fWhip: 2
+23: Zedaph: 2
+24: BdoubleO100: 1
+Total 4683

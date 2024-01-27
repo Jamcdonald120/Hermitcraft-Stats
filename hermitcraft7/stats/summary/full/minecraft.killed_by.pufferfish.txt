@@ -1,0 +1,4 @@
+minecraft.killed_by.pufferfish
+1: cubfan135: 2
+2: Zedaph: 2
+Total 4

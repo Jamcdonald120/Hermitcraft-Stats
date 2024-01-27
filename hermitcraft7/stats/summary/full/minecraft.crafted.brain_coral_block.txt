@@ -1,0 +1,3 @@
+minecraft.crafted.brain_coral_block
+1: VintageBeef: 2
+Total 2

@@ -1,0 +1,18 @@
+stat.useItem.minecraft.end_rod
+1: Renthedog: 3932
+2: cubfan135: 1377
+3: Tango: 1078
+4: Tinfoilchef: 992
+5: Xisuma: 964
+6: impulseSV: 584
+7: GoodTimeWithScar: 349
+8: iskall85: 262
+9: falsesymmetry: 218
+10: joehillssays: 175
+11: VintageBeef: 125
+12: ZombieCleo: 119
+13: PythonGB: 21
+14: Welsknight: 14
+15: Biffa2001: 14
+16: Docm77: 1
+Total 10225

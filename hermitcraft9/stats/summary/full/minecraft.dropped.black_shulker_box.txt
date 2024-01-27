@@ -1,0 +1,15 @@
+minecraft.dropped.black_shulker_box
+1: Tango: 28
+2: PearlescentMoon: 3
+3: cubfan135: 3
+4: RentheKing: 2
+5: impulseSV: 2
+6: iJevin: 1
+7: GeminiTay: 1
+8: Grian: 1
+9: BdoubleO100: 1
+10: xBCrafted: 1
+11: ZombieCleo: 1
+12: GoodTimeWithScar: 1
+13: Keralis1: 1
+Total 46

@@ -1,0 +1,23 @@
+minecraft.picked_up.iron_trapdoor
+1: GoodTimeWithScar: 436
+2: Keralis1: 309
+3: Docm77: 206
+4: Grian: 146
+5: cubfan135: 108
+6: Renthedog: 72
+7: falsesymmetry: 66
+8: impulseSV: 64
+9: VintageBeef: 62
+10: PearlescentMoon: 50
+11: Etho: 32
+12: BdoubleO100: 25
+13: GeminiTay: 16
+14: Xisuma: 12
+15: Zedaph: 10
+16: iJevin: 9
+17: iskall85: 9
+18: joehillssays: 7
+19: Tango: 5
+20: xBCrafted: 1
+21: RentheKing: 1
+Total 1646

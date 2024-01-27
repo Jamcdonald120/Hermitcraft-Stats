@@ -1,0 +1,12 @@
+minecraft.crafted.brick_stairs
+1: cubfan135: 1209
+2: Xisuma: 704
+3: MumboJumbo: 560
+4: falsesymmetry: 344
+5: Welsknight: 256
+6: GoodTimeWithScar: 184
+7: Renthedog: 88
+8: iJevin: 80
+9: Grian: 48
+10: iskall85: 8
+Total 3481

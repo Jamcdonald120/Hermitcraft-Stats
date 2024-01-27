@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.acacia_stairs
+1: Xisuma: 132
+2: PythonGB: 109
+3: VintageBeef: 37
+4: GoodTimeWithScar: 21
+5: cubfan135: 13
+6: MumboJumbo: 4
+7: falsesymmetry: 2
+8: Welsknight: 2
+9: Mumbo: 1
+Total 321

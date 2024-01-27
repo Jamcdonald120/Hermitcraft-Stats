@@ -1,0 +1,4 @@
+stat.drop.minecraft.jungle_fence_gate
+1: Zedaph: 5
+2: xBCrafted: 1
+Total 6

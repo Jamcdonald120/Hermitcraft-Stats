@@ -1,0 +1,29 @@
+minecraft.mined.iron_block
+1: iJevin: 4479
+2: Tango: 3792
+3: Renthedog: 2814
+4: joehillssays: 2223
+5: falsesymmetry: 1850
+6: Xisuma: 1603
+7: PearlescentMoon: 1574
+8: GoodTimeWithScar: 1407
+9: Grian: 1279
+10: cubfan135: 1131
+11: Etho: 902
+12: xBCrafted: 765
+13: impulseSV: 744
+14: BdoubleO100: 680
+15: Mumbo: 675
+16: Keralis1: 591
+17: Docm77: 442
+18: RentheKing: 411
+19: Zedaph: 394
+20: hypnotizd: 388
+21: Stressmonster101: 346
+22: iskall85: 171
+23: ZombieCleo: 110
+24: GeminiTay: 11
+25: Pixlriffs: 4
+26: Smajor1995: 2
+27: fWhip: 2
+Total 28790

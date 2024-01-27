@@ -1,0 +1,26 @@
+stat.craftItem.minecraft.stick
+1: Renthedog: 54556
+2: MumboJumbo: 22608
+3: GoodTimeWithScar: 19460
+4: falsesymmetry: 18036
+5: Xisuma: 17344
+6: cubfan135: 12874
+7: iskall85: 9919
+8: Welsknight: 9384
+9: impulseSV: 9027
+10: Tinfoilchef: 7635
+11: xBCrafted: 6916
+12: joehillssays: 6844
+13: Tango: 6678
+14: iJevin: 6450
+15: PythonGB: 5356
+16: Zedaph: 4812
+17: Stressmonster101: 4488
+18: Docm77: 3539
+19: Biffa2001: 2904
+20: ZombieCleo: 2176
+21: VintageBeef: 2152
+22: Etho: 2112
+23: BdoubleO100: 1056
+24: ImpulseCam: 8
+Total 236334

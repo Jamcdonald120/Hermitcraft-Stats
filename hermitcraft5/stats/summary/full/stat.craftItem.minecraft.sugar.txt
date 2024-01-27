@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.sugar
+1: Renthedog: 3538
+2: cubfan135: 666
+3: Tango: 544
+4: Tinfoilchef: 456
+5: Zedaph: 333
+6: GoodTimeWithScar: 236
+7: MumboJumbo: 192
+8: iJevin: 92
+9: falsesymmetry: 51
+10: joehillssays: 28
+11: Biffa2001: 26
+12: xBCrafted: 16
+13: impulseSV: 9
+14: Docm77: 8
+15: Xisuma: 3
+16: PythonGB: 3
+17: VintageBeef: 1
+18: BdoubleO100: 1
+19: iskall85: 1
+Total 6204

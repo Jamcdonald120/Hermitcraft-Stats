@@ -1,0 +1,13 @@
+minecraft.picked_up.andesite_stairs
+1: Keralis1: 87
+2: impulseSV: 61
+3: PearlescentMoon: 32
+4: Docm77: 19
+5: Tango: 17
+6: GoodTimeWithScar: 10
+7: joehillssays: 9
+8: Etho: 7
+9: Xisuma: 4
+10: Renthedog: 4
+11: BdoubleO100: 3
+Total 253

@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.golden_apple
+1: Xisuma: 21
+2: falsesymmetry: 3
+Total 24

@@ -1,0 +1,29 @@
+minecraft.custom.interact_with_brewingstand
+1: cubfan135: 5234
+2: joehillssays: 1383
+3: iJevin: 1103
+4: Zedaph: 375
+5: Tango: 343
+6: PearlescentMoon: 250
+7: Docm77: 237
+8: GeminiTay: 192
+9: Keralis1: 179
+10: iskall85: 168
+11: BdoubleO100: 154
+12: impulseSV: 149
+13: Grian: 130
+14: falsesymmetry: 120
+15: Etho: 95
+16: Xisuma: 88
+17: xBCrafted: 88
+18: Stressmonster101: 72
+19: ZombieCleo: 62
+20: hypnotizd: 41
+21: GoodTimeWithScar: 30
+22: VintageBeef: 25
+23: Renthedog: 15
+24: RentheKing: 10
+25: OrionSound: 1
+26: Pixlriffs: 1
+27: SolidarityGaming: 1
+Total 10546

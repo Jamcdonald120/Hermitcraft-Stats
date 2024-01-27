@@ -1,0 +1,8 @@
+minecraft.dropped.wooden_axe
+1: joehillssays: 3
+2: ZombieCleo: 2
+3: GoodTimeWithScar: 2
+4: Xisuma: 1
+5: Jessassin: 1
+6: iJevin: 1
+Total 10

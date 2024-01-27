@@ -1,0 +1,29 @@
+minecraft.picked_up.anvil
+1: falsesymmetry: 484
+2: cubfan135: 341
+3: Stressmonster101: 216
+4: Docm77: 211
+5: Renthedog: 140
+6: Grian: 122
+7: Xisuma: 103
+8: RentheKing: 98
+9: iJevin: 77
+10: GoodTimeWithScar: 56
+11: Keralis1: 44
+12: Tango: 42
+13: PearlescentMoon: 41
+14: impulseSV: 41
+15: Etho: 38
+16: joehillssays: 34
+17: Zedaph: 24
+18: BdoubleO100: 23
+19: ZombieCleo: 13
+20: xBCrafted: 12
+21: GeminiTay: 11
+22: SolidarityGaming: 9
+23: VintageBeef: 8
+24: iskall85: 8
+25: hypnotizd: 8
+26: MythicalSausage: 3
+27: Smajor1995: 2
+Total 2209

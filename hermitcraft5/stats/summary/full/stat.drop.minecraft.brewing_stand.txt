@@ -1,0 +1,4 @@
+stat.drop.minecraft.brewing_stand
+1: cubfan135: 3
+2: Xisuma: 2
+Total 5

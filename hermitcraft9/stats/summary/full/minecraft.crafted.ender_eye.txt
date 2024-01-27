@@ -1,0 +1,29 @@
+minecraft.crafted.ender_eye
+1: Xisuma: 351
+2: iJevin: 201
+3: Tango: 192
+4: Docm77: 136
+5: cubfan135: 114
+6: impulseSV: 91
+7: Grian: 63
+8: joehillssays: 57
+9: falsesymmetry: 47
+10: PearlescentMoon: 36
+11: Keralis1: 32
+12: xBCrafted: 26
+13: hypnotizd: 21
+14: Zedaph: 19
+15: VintageBeef: 16
+16: RentheKing: 16
+17: GoodTimeWithScar: 16
+18: Renthedog: 15
+19: ZombieCleo: 13
+20: Smallishbeans: 10
+21: Mumbo: 10
+22: Stressmonster101: 8
+23: BdoubleO100: 7
+24: iskall85: 6
+25: Pixlriffs: 5
+26: Welsknight: 4
+27: Etho: 4
+Total 1516

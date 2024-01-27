@@ -1,0 +1,27 @@
+minecraft.dropped.diorite
+1: iskall85: 25019
+2: GoodTimeWithScar: 11194
+3: Tango: 9628
+4: iJevin: 5717
+5: Welsknight: 5609
+6: MumboJumbo: 5010
+7: Renthedog: 4142
+8: impulseSV: 2664
+9: falsesymmetry: 2625
+10: cubfan135: 2547
+11: Xisuma: 2329
+12: Stressmonster101: 1830
+13: Docm77: 1779
+14: Grian: 1507
+15: Zedaph: 1272
+16: Keralis1: 962
+17: ZombieCleo: 692
+18: joehillssays: 541
+19: xBCrafted: 358
+20: BdoubleO100: 282
+21: Tinfoilchef: 235
+22: PythonGB: 99
+23: Biffa2001: 75
+24: Jessassin: 46
+25: HumanCleo: 39
+Total 86201

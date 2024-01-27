@@ -1,0 +1,16 @@
+minecraft.picked_up.smooth_sandstone_slab
+1: iskall85: 303
+2: falsesymmetry: 156
+3: Grian: 74
+4: ZombieCleo: 50
+5: impulseSV: 50
+6: Xisuma: 29
+7: GoodTimeWithScar: 26
+8: Docm77: 5
+9: BdoubleO100: 5
+10: Stressmonster101: 2
+11: HumanCleo: 1
+12: Renthedog: 1
+13: cubfan135: 1
+14: MumboJumbo: 1
+Total 704

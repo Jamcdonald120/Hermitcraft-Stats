@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.flint_and_steel
+1: Renthedog: 72
+2: Tango: 51
+3: Zedaph: 37
+4: Xisuma: 29
+5: iskall85: 20
+6: cubfan135: 16
+7: GoodTimeWithScar: 12
+8: falsesymmetry: 11
+9: MumboJumbo: 11
+10: impulseSV: 11
+11: xBCrafted: 7
+12: iJevin: 5
+13: Docm77: 4
+14: joehillssays: 4
+15: Welsknight: 4
+16: PythonGB: 3
+17: ZombieCleo: 3
+18: Tinfoilchef: 3
+19: VintageBeef: 2
+20: BdoubleO100: 2
+21: Biffa2001: 2
+22: Stressmonster101: 2
+23: Etho: 1
+Total 312

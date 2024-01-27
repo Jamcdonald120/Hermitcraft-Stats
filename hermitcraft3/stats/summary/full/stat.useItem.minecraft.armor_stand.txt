@@ -1,0 +1,20 @@
+stat.useItem.minecraft.armor_stand
+1: Biffa2001: 176
+2: falsesymmetry: 156
+3: Mumbo: 125
+4: impulseSV: 67
+5: zueljin: 66
+6: xBCrafted: 31
+7: Xisuma: 28
+8: Spumwackles: 28
+9: Tango: 26
+10: PythonGB: 14
+11: iJevin: 9
+12: sl1pg8r: 7
+13: KingDaddyDMAC: 6
+14: monkeyfarm: 4
+15: ZombieCleo: 3
+16: Docm77: 1
+17: topmass: 1
+18: Tinfoilchef: 1
+Total 749

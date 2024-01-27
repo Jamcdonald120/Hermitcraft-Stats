@@ -1,0 +1,28 @@
+minecraft.used.smooth_stone_slab
+1: GoodTimeWithScar: 6179
+2: Xisuma: 4907
+3: impulseSV: 3923
+4: PearlescentMoon: 1808
+5: Mumbo: 1757
+6: cubfan135: 1525
+7: Docm77: 782
+8: Keralis1: 627
+9: BdoubleO100: 561
+10: Tango: 536
+11: Zedaph: 425
+12: VintageBeef: 360
+13: falsesymmetry: 358
+14: iskall85: 245
+15: GeminiTay: 230
+16: iJevin: 199
+17: Renthedog: 130
+18: Grian: 129
+19: MythicalSausage: 76
+20: xBCrafted: 70
+21: Etho: 66
+22: ZombieCleo: 57
+23: hypnotizd: 44
+24: RentheKing: 9
+25: joehillssays: 7
+26: fWhip: 6
+Total 25016

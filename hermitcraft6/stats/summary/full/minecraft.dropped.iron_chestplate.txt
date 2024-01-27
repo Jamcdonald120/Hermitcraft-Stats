@@ -1,0 +1,20 @@
+minecraft.dropped.iron_chestplate
+1: cubfan135: 40
+2: Xisuma: 34
+3: Tango: 22
+4: Grian: 9
+5: iskall85: 7
+6: Zedaph: 7
+7: Renthedog: 5
+8: Jura_Whitey: 3
+9: iJevin: 3
+10: GoodTimeWithScar: 3
+11: falsesymmetry: 2
+12: Biffa2001: 2
+13: Docm77: 1
+14: joehillssays: 1
+15: MumboJumbo: 1
+16: Stressmonster101: 1
+17: Keralis1: 1
+18: impulseSV: 1
+Total 143

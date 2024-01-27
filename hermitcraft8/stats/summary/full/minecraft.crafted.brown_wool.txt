@@ -1,0 +1,11 @@
+minecraft.crafted.brown_wool
+1: impulseSV: 1248
+2: iJevin: 65
+3: falsesymmetry: 64
+4: BdoubleO100: 34
+5: PearlescentMoon: 29
+6: ZombieCleo: 12
+7: Xisuma: 10
+8: Renthedog: 8
+9: Welsknight: 1
+Total 1471

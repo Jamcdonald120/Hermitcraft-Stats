@@ -1,0 +1,23 @@
+stat.pickup.minecraft.magma_cream
+1: impulseSV: 472
+2: Tango: 377
+3: iskall85: 205
+4: Xisuma: 182
+5: falsesymmetry: 165
+6: cubfan135: 163
+7: Welsknight: 138
+8: GoodTimeWithScar: 135
+9: Renthedog: 133
+10: MumboJumbo: 88
+11: PythonGB: 72
+12: Stressmonster101: 37
+13: iJevin: 29
+14: Zedaph: 23
+15: Biffa2001: 13
+16: Docm77: 10
+17: xBCrafted: 10
+18: joehillssays: 6
+19: VintageBeef: 4
+20: xisumavoid: 2
+21: Etho: 1
+Total 2265

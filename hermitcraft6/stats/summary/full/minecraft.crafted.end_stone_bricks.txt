@@ -1,0 +1,9 @@
+minecraft.crafted.end_stone_bricks
+1: cubfan135: 5064
+2: Zedaph: 768
+3: Xisuma: 640
+4: Tango: 228
+5: joehillssays: 176
+6: PythonGB: 96
+7: Docm77: 64
+Total 7036

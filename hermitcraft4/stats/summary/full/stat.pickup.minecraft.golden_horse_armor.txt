@@ -1,0 +1,10 @@
+stat.pickup.minecraft.golden_horse_armor
+1: iJevin: 10
+2: Renthedog: 6
+3: Xisuma: 3
+4: Biffa2001: 3
+5: GoodTimeWithScar: 3
+6: Welsknight: 2
+7: VintageBeef: 1
+8: cubfan135: 1
+Total 29

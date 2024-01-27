@@ -1,0 +1,14 @@
+minecraft.crafted.jungle_door
+1: GoodTimeWithScar: 48
+2: PearlescentMoon: 12
+3: Keralis1: 12
+4: BdoubleO100: 6
+5: iskall85: 6
+6: xBCrafted: 6
+7: Docm77: 3
+8: Xisuma: 3
+9: VintageBeef: 3
+10: Etho: 3
+11: impulseSV: 3
+12: Zedaph: 3
+Total 108

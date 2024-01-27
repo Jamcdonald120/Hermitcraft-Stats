@@ -1,0 +1,18 @@
+stat.pickup.minecraft.fence_gate
+1: GoodTimeWithScar: 202
+2: falsesymmetry: 135
+3: joehillssays: 106
+4: Tango: 22
+5: iJevin: 20
+6: Xisuma: 17
+7: iskall85: 10
+8: cubfan135: 8
+9: impulseSV: 8
+10: Renthedog: 6
+11: Tinfoilchef: 5
+12: Welsknight: 3
+13: VintageBeef: 2
+14: PythonGB: 2
+15: Jessassin: 1
+16: ZombieCleo: 1
+Total 548

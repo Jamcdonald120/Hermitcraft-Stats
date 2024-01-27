@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.glass
+1: Xisuma: 2233
+2: impulseSV: 1987
+3: MumboJumbo: 1713
+4: Tango: 1538
+5: Tinfoilchef: 630
+6: cubfan135: 471
+7: joehillssays: 327
+8: iskall85: 219
+9: falsesymmetry: 152
+10: Welsknight: 71
+11: Biffa2001: 67
+12: Docm77: 39
+13: Etho: 37
+14: GoodTimeWithScar: 34
+15: Renthedog: 24
+16: ZombieCleo: 14
+17: PythonGB: 12
+18: iJevin: 8
+19: Mumbo: 3
+20: xBCrafted: 2
+Total 9581

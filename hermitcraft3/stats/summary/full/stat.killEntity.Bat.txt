@@ -1,0 +1,25 @@
+stat.killEntity.Bat
+1: xBCrafted: 98
+2: hypnotizd: 64
+3: impulseSV: 52
+4: Xisuma: 47
+5: falsesymmetry: 38
+6: Biffa2001: 24
+7: Tango: 23
+8: Tinfoilchef: 20
+9: Etho: 13
+10: zueljin: 12
+11: topmass: 8
+12: monkeyfarm: 7
+13: Keralis1: 6
+14: Mumbo: 5
+15: skyzm: 4
+16: sl1pg8r: 3
+17: Collen: 3
+18: PythonGB: 2
+19: iJevin: 2
+20: KingDaddyDMAC: 2
+21: ZombieCleo: 1
+22: Mrs_Keralis: 1
+23: Spumwackles: 1
+Total 436

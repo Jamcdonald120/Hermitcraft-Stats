@@ -1,0 +1,22 @@
+stat.pickup.minecraft.golden_rail
+1: Docm77: 6021
+2: iskall85: 5393
+3: impulseSV: 2585
+4: cubfan135: 1933
+5: xBCrafted: 1284
+6: Tango: 1017
+7: MumboJumbo: 931
+8: GoodTimeWithScar: 649
+9: BdoubleO100: 540
+10: Xisuma: 534
+11: Zedaph: 397
+12: Renthedog: 290
+13: iJevin: 191
+14: Welsknight: 153
+15: Tinfoilchef: 137
+16: PythonGB: 98
+17: Stressmonster101: 82
+18: Biffa2001: 25
+19: VintageBeef: 24
+20: falsesymmetry: 10
+Total 22294

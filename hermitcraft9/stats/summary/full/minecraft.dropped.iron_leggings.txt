@@ -1,0 +1,22 @@
+minecraft.dropped.iron_leggings
+1: Etho: 355
+2: iJevin: 23
+3: cubfan135: 13
+4: hypnotizd: 11
+5: Zedaph: 9
+6: PearlescentMoon: 8
+7: Xisuma: 6
+8: Grian: 6
+9: Docm77: 3
+10: Tango: 3
+11: xBCrafted: 3
+12: Keralis1: 3
+13: impulseSV: 3
+14: Renthedog: 2
+15: iskall85: 2
+16: falsesymmetry: 2
+17: MythicalSausage: 1
+18: Pixlriffs: 1
+19: ZombieCleo: 1
+20: ShubbleYT: 1
+Total 456

@@ -1,0 +1,9 @@
+minecraft.picked_up.dark_prismarine_stairs
+1: impulseSV: 176
+2: ZombieCleo: 144
+3: cubfan135: 113
+4: PearlescentMoon: 69
+5: GoodTimeWithScar: 31
+6: Grian: 17
+7: Docm77: 3
+Total 553

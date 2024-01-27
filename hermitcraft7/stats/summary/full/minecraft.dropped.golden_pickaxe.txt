@@ -1,0 +1,4 @@
+minecraft.dropped.golden_pickaxe
+1: BdoubleO100: 2
+2: joehillssays: 1
+Total 3

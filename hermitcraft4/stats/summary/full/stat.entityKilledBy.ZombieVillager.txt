@@ -1,0 +1,3 @@
+stat.entityKilledBy.ZombieVillager
+1: VintageBeef: 1
+Total 1

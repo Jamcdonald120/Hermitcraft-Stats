@@ -1,0 +1,22 @@
+minecraft.mined.light_gray_carpet
+1: Docm77: 673
+2: impulseSV: 405
+3: falsesymmetry: 363
+4: cubfan135: 299
+5: Tango: 152
+6: GoodTimeWithScar: 107
+7: Xisuma: 93
+8: iJevin: 63
+9: Renthedog: 47
+10: iskall85: 41
+11: MumboJumbo: 36
+12: Grian: 32
+13: PythonGB: 25
+14: BdoubleO100: 19
+15: Welsknight: 16
+16: Stressmonster101: 8
+17: Keralis1: 8
+18: ZombieCleo: 4
+19: joehillssays: 2
+20: Zedaph: 1
+Total 2394

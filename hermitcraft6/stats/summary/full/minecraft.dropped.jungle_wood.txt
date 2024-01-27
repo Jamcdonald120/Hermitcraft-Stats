@@ -1,0 +1,5 @@
+minecraft.dropped.jungle_wood
+1: Zedaph: 20
+2: Tango: 18
+3: Renthedog: 1
+Total 39

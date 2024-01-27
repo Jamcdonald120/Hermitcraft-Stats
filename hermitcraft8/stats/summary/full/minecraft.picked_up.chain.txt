@@ -1,0 +1,24 @@
+minecraft.picked_up.chain
+1: GoodTimeWithScar: 769
+2: Grian: 211
+3: Tango: 180
+4: PearlescentMoon: 149
+5: impulseSV: 131
+6: iJevin: 125
+7: iskall85: 120
+8: Docm77: 108
+9: Xisuma: 106
+10: Renthedog: 105
+11: cubfan135: 97
+12: falsesymmetry: 74
+13: Stressmonster101: 46
+14: joehillssays: 44
+15: Welsknight: 35
+16: xBCrafted: 23
+17: ZombieCleo: 22
+18: Keralis1: 22
+19: VintageBeef: 12
+20: GeminiTay: 9
+21: BdoubleO100: 9
+22: Etho: 4
+Total 2401

@@ -1,0 +1,3 @@
+minecraft.dropped.green_shulker_box
+1: Etho: 1
+Total 1

@@ -1,0 +1,34 @@
+minecraft.custom.open_chest
+1: cubfan135: 70004
+2: GoodTimeWithScar: 62282
+3: Grian: 59182
+4: Tango: 58447
+5: impulseSV: 53264
+6: falsesymmetry: 52383
+7: Keralis1: 48362
+8: Etho: 44610
+9: MumboJumbo: 38222
+10: joehillssays: 34037
+11: Xisuma: 33582
+12: VintageBeef: 32136
+13: iskall85: 30685
+14: Renthedog: 29895
+15: xBCrafted: 29166
+16: iJevin: 29105
+17: Stressmonster101: 23751
+18: Zedaph: 20763
+19: hypnotizd: 18855
+20: BdoubleO100: 13339
+21: ZombieCleo: 9335
+22: Welsknight: 8491
+23: Docm77: 8007
+24: Tinfoilchef: 3247
+25: Helsknight_: 63
+26: xisumavoid: 60
+27: BarryBoss1234: 58
+28: WelsCam: 3
+29: xBCam: 1
+30: Mumbo: 1
+31: Jevination: 1
+32: TangoCam: 1
+Total 811338

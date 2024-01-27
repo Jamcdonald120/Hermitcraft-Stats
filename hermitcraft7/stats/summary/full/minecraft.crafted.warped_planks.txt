@@ -1,0 +1,23 @@
+minecraft.crafted.warped_planks
+1: GoodTimeWithScar: 9236
+2: Tango: 5368
+3: Grian: 3851
+4: falsesymmetry: 3036
+5: Etho: 2908
+6: cubfan135: 2892
+7: Xisuma: 2112
+8: joehillssays: 1748
+9: xBCrafted: 1516
+10: BdoubleO100: 1444
+11: VintageBeef: 1308
+12: iJevin: 1200
+13: Keralis1: 1052
+14: Renthedog: 872
+15: ZombieCleo: 772
+16: impulseSV: 660
+17: Stressmonster101: 316
+18: MumboJumbo: 276
+19: iskall85: 64
+20: Welsknight: 16
+21: Zedaph: 8
+Total 40655

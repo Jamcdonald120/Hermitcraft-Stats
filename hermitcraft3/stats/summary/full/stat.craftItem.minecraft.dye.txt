@@ -1,0 +1,28 @@
+stat.craftItem.minecraft.dye
+1: impulseSV: 78184
+2: Tinfoilchef: 43068
+3: Xisuma: 42950
+4: falsesymmetry: 38382
+5: Tango: 36295
+6: Mumbo: 30433
+7: xBCrafted: 11342
+8: zueljin: 8804
+9: hypnotizd: 6342
+10: sl1pg8r: 6133
+11: Biffa2001: 4694
+12: monkeyfarm: 3974
+13: ZombieCleo: 3556
+14: KingDaddyDMAC: 2320
+15: PythonGB: 2140
+16: topmass: 1836
+17: iJevin: 1159
+18: Spumwackles: 631
+19: Docm77: 437
+20: Etho: 270
+21: skyzm: 147
+22: Keralis1: 75
+23: joehillssays: 51
+24: NameOfSamuel: 30
+25: Pungence: 6
+26: Collen: 3
+Total 323262

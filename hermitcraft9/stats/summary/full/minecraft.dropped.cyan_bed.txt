@@ -1,0 +1,7 @@
+minecraft.dropped.cyan_bed
+1: iJevin: 4
+2: Etho: 3
+3: falsesymmetry: 2
+4: VintageBeef: 1
+5: GeminiTay: 1
+Total 11

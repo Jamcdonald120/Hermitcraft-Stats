@@ -1,0 +1,18 @@
+stat.useItem.minecraft.stone_axe
+1: topmass: 665
+2: Tinfoilchef: 487
+3: zueljin: 403
+4: joehillssays: 313
+5: hypnotizd: 160
+6: falsesymmetry: 154
+7: xBCrafted: 132
+8: sl1pg8r: 122
+9: Biffa2001: 101
+10: Tango: 99
+11: Pungence: 92
+12: Xisuma: 90
+13: KingDaddyDMAC: 87
+14: Spumwackles: 70
+15: Collen: 56
+16: skyzm: 25
+Total 3056

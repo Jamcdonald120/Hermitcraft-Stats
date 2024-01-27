@@ -1,0 +1,24 @@
+minecraft.crafted.white_shulker_box
+1: Tango: 88
+2: Keralis1: 35
+3: MumboJumbo: 19
+4: GoodTimeWithScar: 19
+5: Grian: 15
+6: Etho: 14
+7: Renthedog: 13
+8: Xisuma: 12
+9: impulseSV: 11
+10: iskall85: 7
+11: Docm77: 5
+12: cubfan135: 5
+13: Zedaph: 4
+14: VintageBeef: 3
+15: BdoubleO100: 3
+16: hypnotizd: 3
+17: xBCrafted: 2
+18: Stressmonster101: 2
+19: iJevin: 1
+20: joehillssays: 1
+21: falsesymmetry: 1
+22: Welsknight: 1
+Total 264

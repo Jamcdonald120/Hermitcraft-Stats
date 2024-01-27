@@ -1,0 +1,21 @@
+minecraft.picked_up.lectern
+1: iJevin: 1197
+2: Grian: 1009
+3: PearlescentMoon: 814
+4: Stressmonster101: 799
+5: Xisuma: 486
+6: cubfan135: 283
+7: GoodTimeWithScar: 246
+8: hypnotizd: 197
+9: Zedaph: 94
+10: Keralis1: 26
+11: iskall85: 14
+12: ZombieCleo: 13
+13: impulseSV: 11
+14: xBCrafted: 8
+15: Tango: 5
+16: Renthedog: 4
+17: Docm77: 3
+18: Welsknight: 3
+19: BdoubleO100: 2
+Total 5214

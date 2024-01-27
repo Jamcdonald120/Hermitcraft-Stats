@@ -1,0 +1,20 @@
+minecraft.dropped.cobblestone_slab
+1: GoodTimeWithScar: 584
+2: iJevin: 517
+3: Grian: 257
+4: cubfan135: 191
+5: Keralis1: 157
+6: Tango: 148
+7: PearlescentMoon: 128
+8: falsesymmetry: 62
+9: xBCrafted: 24
+10: Etho: 16
+11: Renthedog: 12
+12: Zedaph: 10
+13: iskall85: 9
+14: Xisuma: 4
+15: BdoubleO100: 2
+16: RentheKing: 2
+17: VintageBeef: 1
+18: Pixlriffs: 1
+Total 2125

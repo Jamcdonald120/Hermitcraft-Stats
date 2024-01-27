@@ -1,0 +1,35 @@
+minecraft.mined.coal_ore
+1: impulseSV: 10184
+2: joehillssays: 9777
+3: Xisuma: 9614
+4: iJevin: 9163
+5: Grian: 9092
+6: Tango: 8471
+7: Docm77: 8035
+8: hypnotizd: 7878
+9: PearlescentMoon: 6087
+10: falsesymmetry: 5443
+11: GoodTimeWithScar: 4259
+12: xBCrafted: 4180
+13: Zedaph: 3985
+14: Renthedog: 3424
+15: Keralis1: 3076
+16: Etho: 2742
+17: VintageBeef: 2560
+18: BdoubleO100: 2302
+19: cubfan135: 2124
+20: Pixlriffs: 2002
+21: iskall85: 1997
+22: Mumbo: 1736
+23: ZombieCleo: 1574
+24: RentheKing: 1486
+25: MumboJumbo: 1389
+26: GeminiTay: 993
+27: Stressmonster101: 939
+28: Welsknight: 568
+29: MythicalSausage: 235
+30: Tinfoilchef: 193
+31: Smallishbeans: 174
+32: ShubbleYT: 22
+33: STEAKFG: 3
+Total 125707

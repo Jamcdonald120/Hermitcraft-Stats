@@ -1,0 +1,23 @@
+stat.drop.minecraft.sign
+1: GoodTimeWithScar: 186
+2: iskall85: 121
+3: MumboJumbo: 118
+4: Tango: 89
+5: cubfan135: 67
+6: Zedaph: 67
+7: Stressmonster101: 55
+8: Renthedog: 49
+9: BdoubleO100: 39
+10: impulseSV: 39
+11: falsesymmetry: 35
+12: Xisuma: 25
+13: Welsknight: 8
+14: Etho: 8
+15: Biffa2001: 7
+16: Docm77: 5
+17: VintageBeef: 5
+18: xBCrafted: 4
+19: PythonGB: 2
+20: ZombieCleo: 2
+21: iJevin: 1
+Total 932

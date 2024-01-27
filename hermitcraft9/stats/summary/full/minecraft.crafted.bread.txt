@@ -1,0 +1,24 @@
+minecraft.crafted.bread
+1: Tango: 15628
+2: Xisuma: 3678
+3: impulseSV: 2613
+4: iJevin: 2333
+5: Zedaph: 2279
+6: Grian: 1900
+7: Keralis1: 1628
+8: RentheKing: 1152
+9: Docm77: 1026
+10: xBCrafted: 924
+11: cubfan135: 445
+12: PearlescentMoon: 393
+13: VintageBeef: 280
+14: Etho: 257
+15: Renthedog: 233
+16: joehillssays: 233
+17: Stressmonster101: 126
+18: hypnotizd: 81
+19: GeminiTay: 69
+20: ZombieCleo: 55
+21: iskall85: 11
+22: GoodTimeWithScar: 1
+Total 35345

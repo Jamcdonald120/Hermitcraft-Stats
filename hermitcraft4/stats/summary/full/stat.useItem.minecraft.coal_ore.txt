@@ -1,0 +1,22 @@
+stat.useItem.minecraft.coal_ore
+1: falsesymmetry: 3093
+2: GoodTimeWithScar: 2149
+3: Xisuma: 1294
+4: PythonGB: 1039
+5: Welsknight: 721
+6: MumboJumbo: 664
+7: Biffa2001: 609
+8: joehillssays: 528
+9: Tango: 426
+10: impulseSV: 327
+11: ZombieCleo: 237
+12: cubfan135: 205
+13: iJevin: 189
+14: iskall85: 145
+15: Tinfoilchef: 143
+16: Renthedog: 106
+17: VintageBeef: 73
+18: Jessassin: 59
+19: Docm77: 57
+20: Etho: 28
+Total 12092

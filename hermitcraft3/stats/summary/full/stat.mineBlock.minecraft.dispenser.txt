@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.dispenser
+1: Mumbo: 107
+2: Xisuma: 104
+3: sl1pg8r: 79
+4: Tango: 63
+5: monkeyfarm: 54
+6: falsesymmetry: 52
+7: xBCrafted: 41
+8: impulseSV: 28
+9: iJevin: 10
+10: ZombieCleo: 8
+11: zueljin: 5
+12: Etho: 4
+13: Biffa2001: 3
+14: topmass: 2
+15: Docm77: 1
+16: KingDaddyDMAC: 1
+17: Tinfoilchef: 1
+Total 563

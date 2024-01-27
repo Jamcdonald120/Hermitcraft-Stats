@@ -1,0 +1,5 @@
+stat.killEntity.Stray
+1: Tango: 3
+2: cubfan135: 3
+3: falsesymmetry: 1
+Total 7

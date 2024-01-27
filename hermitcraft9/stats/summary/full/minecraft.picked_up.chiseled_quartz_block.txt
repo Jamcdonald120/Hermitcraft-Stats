@@ -1,0 +1,16 @@
+minecraft.picked_up.chiseled_quartz_block
+1: impulseSV: 65
+2: VintageBeef: 58
+3: Grian: 57
+4: PearlescentMoon: 38
+5: Xisuma: 10
+6: iJevin: 9
+7: Keralis1: 8
+8: Etho: 3
+9: Docm77: 2
+10: Renthedog: 2
+11: xBCrafted: 1
+12: cubfan135: 1
+13: ZombieCleo: 1
+14: GoodTimeWithScar: 1
+Total 256

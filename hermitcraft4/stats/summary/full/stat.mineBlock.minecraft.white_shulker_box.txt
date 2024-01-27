@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.white_shulker_box
+1: Renthedog: 257
+2: cubfan135: 154
+3: falsesymmetry: 150
+4: iskall85: 132
+5: GoodTimeWithScar: 102
+6: Xisuma: 53
+7: Tango: 49
+8: joehillssays: 38
+9: Welsknight: 30
+10: Tinfoilchef: 16
+11: impulseSV: 15
+12: MumboJumbo: 2
+Total 998

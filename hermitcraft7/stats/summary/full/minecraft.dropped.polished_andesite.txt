@@ -1,0 +1,21 @@
+minecraft.dropped.polished_andesite
+1: Etho: 2898
+2: Zedaph: 1214
+3: cubfan135: 1033
+4: GoodTimeWithScar: 840
+5: Grian: 465
+6: Tango: 327
+7: Keralis1: 230
+8: falsesymmetry: 155
+9: iJevin: 65
+10: iskall85: 55
+11: MumboJumbo: 17
+12: impulseSV: 16
+13: joehillssays: 12
+14: xBCrafted: 12
+15: Xisuma: 10
+16: Renthedog: 3
+17: BdoubleO100: 3
+18: VintageBeef: 2
+19: Docm77: 1
+Total 7358

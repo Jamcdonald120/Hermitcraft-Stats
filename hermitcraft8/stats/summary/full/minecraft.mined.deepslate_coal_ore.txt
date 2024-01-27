@@ -1,0 +1,28 @@
+minecraft.mined.deepslate_coal_ore
+1: Renthedog: 1581
+2: GoodTimeWithScar: 1448
+3: PearlescentMoon: 1259
+4: BdoubleO100: 984
+5: Docm77: 917
+6: xBCrafted: 735
+7: cubfan135: 731
+8: MumboJumbo: 645
+9: impulseSV: 608
+10: iJevin: 516
+11: Xisuma: 472
+12: ZombieCleo: 428
+13: Welsknight: 420
+14: Grian: 336
+15: Tinfoilchef: 297
+16: GeminiTay: 273
+17: Tango: 266
+18: VintageBeef: 222
+19: hypnotizd: 200
+20: joehillssays: 188
+21: iskall85: 159
+22: Etho: 142
+23: Stressmonster101: 141
+24: falsesymmetry: 104
+25: Zedaph: 20
+26: Keralis1: 9
+Total 13101

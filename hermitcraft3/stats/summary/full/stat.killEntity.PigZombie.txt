@@ -1,0 +1,22 @@
+stat.killEntity.PigZombie
+1: impulseSV: 895
+2: Tango: 824
+3: Xisuma: 367
+4: Biffa2001: 137
+5: ZombieCleo: 132
+6: Spumwackles: 104
+7: zueljin: 87
+8: xBCrafted: 87
+9: falsesymmetry: 66
+10: sl1pg8r: 57
+11: Tinfoilchef: 33
+12: monkeyfarm: 33
+13: hypnotizd: 29
+14: iJevin: 7
+15: Mumbo: 7
+16: topmass: 4
+17: PythonGB: 4
+18: KingDaddyDMAC: 3
+19: Pungence: 1
+20: Keralis1: 1
+Total 2878

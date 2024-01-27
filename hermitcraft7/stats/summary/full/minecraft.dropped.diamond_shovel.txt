@@ -1,0 +1,22 @@
+minecraft.dropped.diamond_shovel
+1: GoodTimeWithScar: 52
+2: Zedaph: 30
+3: iJevin: 29
+4: cubfan135: 24
+5: Grian: 20
+6: Tango: 17
+7: impulseSV: 14
+8: BdoubleO100: 9
+9: hypnotizd: 9
+10: iskall85: 7
+11: Renthedog: 6
+12: Keralis1: 6
+13: falsesymmetry: 5
+14: Etho: 4
+15: Xisuma: 3
+16: joehillssays: 2
+17: MumboJumbo: 2
+18: Docm77: 1
+19: VintageBeef: 1
+20: Stressmonster101: 1
+Total 242

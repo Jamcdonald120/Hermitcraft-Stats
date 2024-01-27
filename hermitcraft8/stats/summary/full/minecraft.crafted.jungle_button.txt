@@ -1,0 +1,9 @@
+minecraft.crafted.jungle_button
+1: GeminiTay: 22
+2: Grian: 12
+3: iJevin: 8
+4: MumboJumbo: 4
+5: hypnotizd: 3
+6: impulseSV: 3
+7: BdoubleO100: 1
+Total 53

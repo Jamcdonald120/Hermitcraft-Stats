@@ -1,0 +1,4 @@
+stat.pickup.minecraft.jukebox
+1: falsesymmetry: 7
+2: VintageBeef: 1
+Total 8

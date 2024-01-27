@@ -1,0 +1,22 @@
+minecraft.picked_up.mangrove_propagule
+1: Keralis1: 5007
+2: Docm77: 1507
+3: cubfan135: 1104
+4: Etho: 809
+5: joehillssays: 385
+6: PearlescentMoon: 302
+7: RentheKing: 271
+8: GoodTimeWithScar: 183
+9: impulseSV: 137
+10: Xisuma: 130
+11: xBCrafted: 55
+12: ZombieCleo: 49
+13: BdoubleO100: 34
+14: iJevin: 21
+15: Renthedog: 20
+16: Zedaph: 20
+17: Stressmonster101: 15
+18: VintageBeef: 8
+19: Tango: 4
+20: falsesymmetry: 1
+Total 10062

@@ -1,0 +1,21 @@
+stat.drop.minecraft.iron_ingot
+1: falsesymmetry: 7119
+2: Tango: 4620
+3: Xisuma: 3954
+4: Zedaph: 3836
+5: MumboJumbo: 1820
+6: Renthedog: 1112
+7: cubfan135: 470
+8: PythonGB: 316
+9: GoodTimeWithScar: 152
+10: impulseSV: 138
+11: iskall85: 97
+12: Docm77: 42
+13: xBCrafted: 21
+14: Biffa2001: 19
+15: Welsknight: 16
+16: BdoubleO100: 11
+17: Tinfoilchef: 8
+18: joehillssays: 6
+19: Stressmonster101: 6
+Total 23763

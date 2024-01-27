@@ -1,0 +1,22 @@
+minecraft.mined.spruce_sapling
+1: Renthedog: 492
+2: cubfan135: 98
+3: GoodTimeWithScar: 76
+4: falsesymmetry: 68
+5: joehillssays: 63
+6: Xisuma: 51
+7: Welsknight: 18
+8: BdoubleO100: 12
+9: Grian: 10
+10: iJevin: 8
+11: ZombieCleo: 7
+12: iskall85: 6
+13: Docm77: 5
+14: HumanCleo: 4
+15: Biffa2001: 4
+16: impulseSV: 4
+17: MumboJumbo: 3
+18: PythonGB: 2
+19: Keralis1: 2
+20: Zedaph: 1
+Total 934

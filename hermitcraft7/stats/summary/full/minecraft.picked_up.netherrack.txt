@@ -1,0 +1,27 @@
+minecraft.picked_up.netherrack
+1: cubfan135: 225547
+2: GoodTimeWithScar: 120378
+3: falsesymmetry: 96562
+4: Xisuma: 83567
+5: Etho: 69136
+6: Grian: 67162
+7: xBCrafted: 66748
+8: Renthedog: 55929
+9: iJevin: 52112
+10: impulseSV: 44690
+11: iskall85: 44475
+12: VintageBeef: 43663
+13: hypnotizd: 37767
+14: Tango: 26693
+15: Welsknight: 24381
+16: joehillssays: 24303
+17: Zedaph: 18769
+18: MumboJumbo: 16426
+19: Stressmonster101: 10998
+20: ZombieCleo: 8761
+21: Docm77: 8040
+22: BdoubleO100: 6307
+23: Keralis1: 3985
+24: Tinfoilchef: 12
+25: xisumavoid: 1
+Total 1156412

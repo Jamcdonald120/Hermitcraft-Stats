@@ -1,0 +1,18 @@
+minecraft.picked_up.birch_fence_gate
+1: impulseSV: 72
+2: Xisuma: 54
+3: iJevin: 46
+4: VintageBeef: 38
+5: Welsknight: 31
+6: cubfan135: 26
+7: Stressmonster101: 22
+8: joehillssays: 14
+9: Keralis1: 14
+10: Grian: 13
+11: Etho: 11
+12: GoodTimeWithScar: 8
+13: iskall85: 4
+14: Tango: 2
+15: Docm77: 1
+16: BdoubleO100: 1
+Total 357

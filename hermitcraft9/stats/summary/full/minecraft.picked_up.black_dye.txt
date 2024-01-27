@@ -1,0 +1,22 @@
+minecraft.picked_up.black_dye
+1: falsesymmetry: 1030
+2: iJevin: 882
+3: PearlescentMoon: 494
+4: Grian: 493
+5: GeminiTay: 304
+6: Tango: 90
+7: impulseSV: 55
+8: Keralis1: 40
+9: Renthedog: 35
+10: GoodTimeWithScar: 34
+11: ShubbleYT: 26
+12: OrionSound: 16
+13: MythicalSausage: 16
+14: ZombieCleo: 16
+15: cubfan135: 14
+16: Zedaph: 10
+17: joehillssays: 6
+18: BdoubleO100: 6
+19: Etho: 4
+20: iskall85: 1
+Total 3572

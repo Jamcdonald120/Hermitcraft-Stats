@@ -1,0 +1,5 @@
+minecraft.broken.iron_chestplate
+1: Etho: 1
+2: Mumbo: 1
+3: MumboJumbo: 1
+Total 3

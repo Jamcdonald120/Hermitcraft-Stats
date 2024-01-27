@@ -1,0 +1,18 @@
+minecraft.dropped.melon_seeds
+1: MumboJumbo: 83
+2: GoodTimeWithScar: 77
+3: xBCrafted: 47
+4: Grian: 39
+5: Keralis1: 30
+6: Renthedog: 25
+7: impulseSV: 25
+8: Etho: 16
+9: cubfan135: 11
+10: Docm77: 10
+11: falsesymmetry: 8
+12: Zedaph: 5
+13: Tango: 3
+14: joehillssays: 1
+15: BdoubleO100: 1
+16: ZombieCleo: 1
+Total 382

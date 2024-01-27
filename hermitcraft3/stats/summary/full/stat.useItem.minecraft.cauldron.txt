@@ -1,0 +1,13 @@
+stat.useItem.minecraft.cauldron
+1: Xisuma: 783
+2: falsesymmetry: 144
+3: impulseSV: 91
+4: Tango: 61
+5: Mumbo: 50
+6: xBCrafted: 25
+7: zueljin: 15
+8: Etho: 13
+9: Spumwackles: 5
+10: ZombieCleo: 3
+11: Docm77: 2
+Total 1192

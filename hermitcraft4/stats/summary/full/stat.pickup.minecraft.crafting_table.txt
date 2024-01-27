@@ -1,0 +1,26 @@
+stat.pickup.minecraft.crafting_table
+1: falsesymmetry: 1117
+2: cubfan135: 513
+3: Xisuma: 378
+4: Renthedog: 335
+5: iskall85: 277
+6: GoodTimeWithScar: 261
+7: Welsknight: 231
+8: Tango: 147
+9: iJevin: 132
+10: impulseSV: 127
+11: VintageBeef: 83
+12: Docm77: 68
+13: joehillssays: 67
+14: PythonGB: 65
+15: ZombieCleo: 58
+16: Etho: 48
+17: MumboJumbo: 43
+18: Tinfoilchef: 43
+19: Biffa2001: 42
+20: xBCrafted: 28
+21: zueljin: 19
+22: Jessassin: 18
+23: Mumbo: 16
+24: hypnotizd: 1
+Total 4117

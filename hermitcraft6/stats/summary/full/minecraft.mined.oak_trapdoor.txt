@@ -1,0 +1,25 @@
+minecraft.mined.oak_trapdoor
+1: iJevin: 975
+2: Renthedog: 641
+3: GoodTimeWithScar: 248
+4: cubfan135: 218
+5: impulseSV: 188
+6: BdoubleO100: 153
+7: Grian: 137
+8: Xisuma: 121
+9: Docm77: 81
+10: Keralis1: 76
+11: iskall85: 62
+12: Tango: 61
+13: Welsknight: 47
+14: falsesymmetry: 43
+15: MumboJumbo: 17
+16: Stressmonster101: 14
+17: xBCrafted: 12
+18: Zedaph: 12
+19: joehillssays: 9
+20: PythonGB: 5
+21: Biffa2001: 4
+22: Tinfoilchef: 4
+23: ZombieCleo: 2
+Total 3130

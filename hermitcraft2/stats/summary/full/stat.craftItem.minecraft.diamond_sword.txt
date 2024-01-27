@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.diamond_sword
+1: xBCrafted: 3
+2: Xisuma: 2
+3: Tango: 2
+4: ZombieCleo: 2
+5: falsesymmetry: 1
+Total 10

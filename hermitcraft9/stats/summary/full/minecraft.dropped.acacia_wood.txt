@@ -1,0 +1,10 @@
+minecraft.dropped.acacia_wood
+1: PearlescentMoon: 62
+2: Grian: 50
+3: Docm77: 33
+4: GoodTimeWithScar: 9
+5: Renthedog: 2
+6: iJevin: 2
+7: Etho: 2
+8: xBCrafted: 1
+Total 161

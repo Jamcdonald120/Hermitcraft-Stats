@@ -1,0 +1,15 @@
+minecraft.picked_up.bubble_coral_block
+1: GoodTimeWithScar: 1866
+2: cubfan135: 1747
+3: Xisuma: 386
+4: Grian: 382
+5: iJevin: 75
+6: PythonGB: 48
+7: iskall85: 30
+8: Tango: 28
+9: Docm77: 17
+10: MumboJumbo: 13
+11: Renthedog: 4
+12: impulseSV: 2
+13: ZombieCleo: 1
+Total 4599

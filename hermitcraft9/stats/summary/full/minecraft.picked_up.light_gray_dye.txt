@@ -1,0 +1,16 @@
+minecraft.picked_up.light_gray_dye
+1: Grian: 455
+2: falsesymmetry: 399
+3: PearlescentMoon: 237
+4: GoodTimeWithScar: 224
+5: Tango: 197
+6: ZombieCleo: 90
+7: iJevin: 80
+8: Renthedog: 78
+9: iskall85: 8
+10: BdoubleO100: 6
+11: Zedaph: 5
+12: Keralis1: 3
+13: Etho: 1
+14: impulseSV: 1
+Total 1784

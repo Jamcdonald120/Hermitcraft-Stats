@@ -1,0 +1,14 @@
+minecraft.dropped.birch_fence
+1: Zedaph: 145
+2: Grian: 39
+3: GoodTimeWithScar: 28
+4: VintageBeef: 25
+5: Renthedog: 19
+6: Keralis1: 15
+7: Etho: 11
+8: Welsknight: 10
+9: Xisuma: 7
+10: cubfan135: 5
+11: BdoubleO100: 4
+12: Tango: 2
+Total 310

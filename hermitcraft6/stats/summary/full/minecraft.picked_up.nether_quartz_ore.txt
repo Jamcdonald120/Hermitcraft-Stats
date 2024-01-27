@@ -1,0 +1,21 @@
+minecraft.picked_up.nether_quartz_ore
+1: falsesymmetry: 11864
+2: cubfan135: 10654
+3: GoodTimeWithScar: 10148
+4: Renthedog: 6473
+5: Docm77: 4575
+6: iJevin: 4228
+7: Tango: 2814
+8: Zedaph: 1756
+9: Grian: 1500
+10: Xisuma: 1319
+11: PythonGB: 829
+12: iskall85: 730
+13: Stressmonster101: 560
+14: impulseSV: 499
+15: Biffa2001: 206
+16: joehillssays: 111
+17: MumboJumbo: 25
+18: Welsknight: 19
+19: Tinfoilchef: 2
+Total 58312

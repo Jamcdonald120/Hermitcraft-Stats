@@ -1,0 +1,10 @@
+minecraft.dropped.yellow_dye
+1: GoodTimeWithScar: 187
+2: iskall85: 99
+3: Renthedog: 76
+4: Grian: 64
+5: Xisuma: 60
+6: MumboJumbo: 12
+7: iJevin: 1
+8: Zedaph: 1
+Total 500

@@ -1,0 +1,9 @@
+stat.pickup.minecraft.fire_charge
+1: Tango: 66
+2: cubfan135: 61
+3: GoodTimeWithScar: 36
+4: Renthedog: 5
+5: Tinfoilchef: 2
+6: Xisuma: 1
+7: iskall85: 1
+Total 172

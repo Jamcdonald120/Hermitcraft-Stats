@@ -1,0 +1,19 @@
+minecraft.crafted.acacia_wood
+1: GoodTimeWithScar: 2664
+2: Grian: 1224
+3: Keralis1: 876
+4: Etho: 759
+5: Tango: 594
+6: Docm77: 549
+7: PearlescentMoon: 447
+8: impulseSV: 276
+9: BdoubleO100: 63
+10: MythicalSausage: 57
+11: Xisuma: 21
+12: falsesymmetry: 15
+13: xBCrafted: 12
+14: joehillssays: 9
+15: cubfan135: 9
+16: Renthedog: 6
+17: Zedaph: 6
+Total 7587

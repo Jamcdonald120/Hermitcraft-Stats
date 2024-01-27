@@ -1,0 +1,23 @@
+stat.useItem.minecraft.red_flower
+1: cubfan135: 1520
+2: GoodTimeWithScar: 461
+3: Xisuma: 265
+4: falsesymmetry: 241
+5: Stressmonster101: 206
+6: MumboJumbo: 71
+7: PythonGB: 58
+8: xBCrafted: 45
+9: Welsknight: 38
+10: BdoubleO100: 33
+11: VintageBeef: 27
+12: Renthedog: 18
+13: Zedaph: 13
+14: iJevin: 9
+15: joehillssays: 7
+16: iskall85: 5
+17: Etho: 3
+18: Docm77: 2
+19: Tango: 2
+20: Tinfoilchef: 2
+21: impulseSV: 1
+Total 3027

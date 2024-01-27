@@ -1,0 +1,21 @@
+minecraft.dropped.minecart
+1: Zedaph: 293
+2: Xisuma: 106
+3: Tango: 65
+4: MumboJumbo: 54
+5: iskall85: 44
+6: hypnotizd: 44
+7: Etho: 39
+8: Grian: 38
+9: xBCrafted: 26
+10: cubfan135: 25
+11: GoodTimeWithScar: 19
+12: BdoubleO100: 11
+13: Keralis1: 11
+14: impulseSV: 10
+15: Docm77: 5
+16: falsesymmetry: 5
+17: VintageBeef: 3
+18: Stressmonster101: 3
+19: joehillssays: 1
+Total 802

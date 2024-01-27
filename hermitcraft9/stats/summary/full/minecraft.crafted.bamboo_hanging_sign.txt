@@ -1,0 +1,7 @@
+minecraft.crafted.bamboo_hanging_sign
+1: cubfan135: 24
+2: Xisuma: 12
+3: Tango: 6
+4: PearlescentMoon: 6
+5: Zedaph: 6
+Total 54

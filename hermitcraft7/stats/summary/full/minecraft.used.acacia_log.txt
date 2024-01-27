@@ -1,0 +1,23 @@
+minecraft.used.acacia_log
+1: xBCrafted: 3458
+2: Etho: 1896
+3: BdoubleO100: 1667
+4: GoodTimeWithScar: 1531
+5: cubfan135: 1148
+6: Renthedog: 446
+7: Xisuma: 430
+8: joehillssays: 193
+9: hypnotizd: 170
+10: Tango: 151
+11: Grian: 129
+12: Keralis1: 69
+13: falsesymmetry: 66
+14: Docm77: 65
+15: impulseSV: 55
+16: VintageBeef: 50
+17: iskall85: 23
+18: Welsknight: 20
+19: iJevin: 8
+20: MumboJumbo: 6
+21: ZombieCleo: 3
+Total 11584

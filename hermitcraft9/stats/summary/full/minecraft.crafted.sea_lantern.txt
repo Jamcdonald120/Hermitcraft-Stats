@@ -1,0 +1,12 @@
+minecraft.crafted.sea_lantern
+1: GeminiTay: 8131
+2: Xisuma: 3520
+3: Stressmonster101: 2054
+4: impulseSV: 1344
+5: falsesymmetry: 1244
+6: Etho: 576
+7: Tango: 38
+8: Mumbo: 13
+9: joehillssays: 7
+10: Zedaph: 1
+Total 16928

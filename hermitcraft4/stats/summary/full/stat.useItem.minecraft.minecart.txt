@@ -1,0 +1,22 @@
+stat.useItem.minecraft.minecart
+1: impulseSV: 999
+2: iskall85: 378
+3: Xisuma: 259
+4: Tango: 179
+5: falsesymmetry: 171
+6: Renthedog: 140
+7: MumboJumbo: 88
+8: VintageBeef: 75
+9: cubfan135: 54
+10: iJevin: 52
+11: Biffa2001: 44
+12: xisumavoid: 18
+13: Docm77: 17
+14: GoodTimeWithScar: 14
+15: Etho: 12
+16: PythonGB: 11
+17: Welsknight: 10
+18: joehillssays: 5
+19: ZombieCleo: 2
+20: Tinfoilchef: 2
+Total 2530

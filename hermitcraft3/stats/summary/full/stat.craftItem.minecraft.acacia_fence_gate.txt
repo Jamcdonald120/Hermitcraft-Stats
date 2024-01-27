@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.acacia_fence_gate
+1: Xisuma: 17
+2: topmass: 16
+3: xBCrafted: 6
+Total 39

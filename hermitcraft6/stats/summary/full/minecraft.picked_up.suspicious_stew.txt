@@ -1,0 +1,10 @@
+minecraft.picked_up.suspicious_stew
+1: iJevin: 261
+2: cubfan135: 14
+3: iskall85: 9
+4: Tango: 4
+5: falsesymmetry: 3
+6: Xisuma: 2
+7: GoodTimeWithScar: 2
+8: joehillssays: 1
+Total 296

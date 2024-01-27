@@ -1,0 +1,25 @@
+minecraft.dropped.spruce_sign
+1: xBCrafted: 36
+2: iJevin: 33
+3: hypnotizd: 33
+4: Renthedog: 28
+5: Grian: 28
+6: falsesymmetry: 26
+7: PearlescentMoon: 25
+8: GoodTimeWithScar: 21
+9: Keralis1: 19
+10: ZombieCleo: 14
+11: Etho: 10
+12: GeminiTay: 9
+13: Tango: 9
+14: MythicalSausage: 7
+15: Zedaph: 6
+16: Welsknight: 3
+17: Docm77: 2
+18: cubfan135: 2
+19: Stressmonster101: 2
+20: impulseSV: 2
+21: Xisuma: 1
+22: OrionSound: 1
+23: Mumbo: 1
+Total 318

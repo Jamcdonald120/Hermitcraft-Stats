@@ -1,0 +1,23 @@
+minecraft.used.birch_slab
+1: impulseSV: 4336
+2: Keralis1: 1597
+3: xBCrafted: 1125
+4: Renthedog: 1026
+5: joehillssays: 520
+6: Stressmonster101: 519
+7: Xisuma: 387
+8: VintageBeef: 324
+9: Grian: 323
+10: iskall85: 199
+11: falsesymmetry: 168
+12: Welsknight: 157
+13: GoodTimeWithScar: 137
+14: Zedaph: 83
+15: Etho: 72
+16: cubfan135: 60
+17: BdoubleO100: 51
+18: hypnotizd: 15
+19: iJevin: 6
+20: ZombieCleo: 2
+21: MumboJumbo: 1
+Total 11108

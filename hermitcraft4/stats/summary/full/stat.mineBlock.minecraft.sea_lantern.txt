@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.sea_lantern
+1: Xisuma: 510
+2: falsesymmetry: 245
+3: iskall85: 199
+4: impulseSV: 163
+5: Renthedog: 144
+6: ZombieCleo: 135
+7: cubfan135: 74
+8: PythonGB: 72
+9: Tango: 67
+10: VintageBeef: 62
+11: joehillssays: 61
+12: MumboJumbo: 51
+13: Welsknight: 29
+14: GoodTimeWithScar: 13
+15: iJevin: 10
+16: Etho: 10
+17: Docm77: 9
+18: zueljin: 9
+19: Tinfoilchef: 1
+Total 1864

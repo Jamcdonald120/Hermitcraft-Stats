@@ -1,0 +1,20 @@
+minecraft.crafted.filled_map
+1: GoodTimeWithScar: 911
+2: iskall85: 654
+3: Grian: 456
+4: VintageBeef: 422
+5: cubfan135: 78
+6: Xisuma: 68
+7: ZombieCleo: 62
+8: MumboJumbo: 55
+9: falsesymmetry: 52
+10: Keralis1: 49
+11: xBCrafted: 44
+12: Renthedog: 36
+13: Stressmonster101: 24
+14: Tango: 21
+15: Etho: 19
+16: hypnotizd: 14
+17: joehillssays: 3
+18: BdoubleO100: 2
+Total 2970

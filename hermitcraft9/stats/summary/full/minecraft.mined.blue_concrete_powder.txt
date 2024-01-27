@@ -1,0 +1,10 @@
+minecraft.mined.blue_concrete_powder
+1: VintageBeef: 10
+2: xBCrafted: 5
+3: RentheKing: 3
+4: Docm77: 2
+5: joehillssays: 1
+6: Tango: 1
+7: GoodTimeWithScar: 1
+8: Keralis1: 1
+Total 24

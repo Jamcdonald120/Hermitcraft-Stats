@@ -1,0 +1,28 @@
+minecraft.mined.deepslate_diamond_ore
+1: Docm77: 488
+2: PearlescentMoon: 293
+3: cubfan135: 278
+4: Renthedog: 247
+5: GoodTimeWithScar: 172
+6: Grian: 109
+7: falsesymmetry: 103
+8: iJevin: 99
+9: Xisuma: 89
+10: xBCrafted: 88
+11: GeminiTay: 81
+12: Welsknight: 77
+13: BdoubleO100: 59
+14: impulseSV: 45
+15: Etho: 44
+16: MumboJumbo: 41
+17: VintageBeef: 35
+18: ZombieCleo: 34
+19: joehillssays: 33
+20: Zedaph: 33
+21: Tinfoilchef: 30
+22: Stressmonster101: 27
+23: Tango: 24
+24: hypnotizd: 20
+25: Keralis1: 18
+26: iskall85: 16
+Total 2583

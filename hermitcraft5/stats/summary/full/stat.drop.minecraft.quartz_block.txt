@@ -1,0 +1,12 @@
+stat.drop.minecraft.quartz_block
+1: MumboJumbo: 781
+2: Zedaph: 429
+3: cubfan135: 103
+4: Xisuma: 98
+5: Tango: 26
+6: VintageBeef: 12
+7: impulseSV: 7
+8: GoodTimeWithScar: 3
+9: Renthedog: 2
+10: iJevin: 1
+Total 1462

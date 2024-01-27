@@ -1,0 +1,25 @@
+minecraft.picked_up.jungle_leaves
+1: GoodTimeWithScar: 34030
+2: Xisuma: 7662
+3: Grian: 3398
+4: Etho: 2858
+5: joehillssays: 2570
+6: VintageBeef: 1780
+7: MumboJumbo: 1723
+8: Zedaph: 1001
+9: hypnotizd: 928
+10: Keralis1: 851
+11: cubfan135: 813
+12: Renthedog: 790
+13: Stressmonster101: 638
+14: Tango: 483
+15: impulseSV: 420
+16: iskall85: 392
+17: falsesymmetry: 387
+18: BdoubleO100: 380
+19: Welsknight: 161
+20: Docm77: 120
+21: ZombieCleo: 64
+22: xBCrafted: 50
+23: iJevin: 1
+Total 61500

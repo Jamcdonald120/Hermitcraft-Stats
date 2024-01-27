@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.stained_hardened_clay
+1: iJevin: 512
+2: Xisuma: 320
+3: zueljin: 152
+4: NameOfSamuel: 152
+5: falsesymmetry: 72
+6: Collen: 64
+Total 1272

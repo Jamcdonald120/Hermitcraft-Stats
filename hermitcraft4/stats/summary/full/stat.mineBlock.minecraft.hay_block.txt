@@ -1,0 +1,13 @@
+stat.mineBlock.minecraft.hay_block
+1: cubfan135: 100
+2: Renthedog: 23
+3: Biffa2001: 13
+4: joehillssays: 12
+5: falsesymmetry: 7
+6: Tango: 5
+7: iskall85: 4
+8: impulseSV: 4
+9: Xisuma: 3
+10: GoodTimeWithScar: 2
+11: VintageBeef: 1
+Total 174

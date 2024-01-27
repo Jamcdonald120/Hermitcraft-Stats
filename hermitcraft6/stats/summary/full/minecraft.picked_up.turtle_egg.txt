@@ -1,0 +1,8 @@
+minecraft.picked_up.turtle_egg
+1: Docm77: 569
+2: Xisuma: 86
+3: falsesymmetry: 63
+4: cubfan135: 48
+5: Grian: 32
+6: iskall85: 24
+Total 822

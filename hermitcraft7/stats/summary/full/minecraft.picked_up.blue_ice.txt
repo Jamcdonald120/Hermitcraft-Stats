@@ -1,0 +1,16 @@
+minecraft.picked_up.blue_ice
+1: Etho: 5255
+2: cubfan135: 657
+3: Zedaph: 427
+4: iJevin: 368
+5: Grian: 42
+6: Tango: 28
+7: Keralis1: 13
+8: iskall85: 4
+9: impulseSV: 4
+10: Xisuma: 3
+11: GoodTimeWithScar: 3
+12: BdoubleO100: 2
+13: MumboJumbo: 2
+14: xBCrafted: 1
+Total 6809

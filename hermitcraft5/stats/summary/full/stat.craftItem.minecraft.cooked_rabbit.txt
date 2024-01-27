@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.cooked_rabbit
+1: cubfan135: 35
+2: iJevin: 8
+3: falsesymmetry: 3
+4: Zedaph: 1
+Total 47

@@ -1,0 +1,35 @@
+minecraft.mined.gravel
+1: ZombieCleo: 48651
+2: Grian: 46028
+3: joehillssays: 45417
+4: iJevin: 36632
+5: PearlescentMoon: 32423
+6: Zedaph: 26712
+7: impulseSV: 22791
+8: Xisuma: 21246
+9: Tango: 20894
+10: Keralis1: 20810
+11: cubfan135: 19651
+12: Docm77: 18356
+13: xBCrafted: 17323
+14: falsesymmetry: 16117
+15: Etho: 12975
+16: VintageBeef: 10587
+17: hypnotizd: 10111
+18: iskall85: 8779
+19: GoodTimeWithScar: 8511
+20: Renthedog: 7754
+21: Stressmonster101: 6438
+22: BdoubleO100: 6296
+23: RentheKing: 2837
+24: Pixlriffs: 2668
+25: GeminiTay: 1213
+26: Mumbo: 969
+27: Welsknight: 805
+28: MythicalSausage: 435
+29: MumboJumbo: 231
+30: Tinfoilchef: 185
+31: Smallishbeans: 35
+32: OrionSound: 22
+33: fWhip: 6
+Total 473908

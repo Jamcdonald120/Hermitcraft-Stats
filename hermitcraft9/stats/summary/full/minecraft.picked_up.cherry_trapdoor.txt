@@ -1,0 +1,8 @@
+minecraft.picked_up.cherry_trapdoor
+1: ZombieCleo: 29
+2: GeminiTay: 26
+3: cubfan135: 14
+4: GoodTimeWithScar: 11
+5: Zedaph: 3
+6: Mumbo: 2
+Total 85

@@ -1,0 +1,14 @@
+minecraft.picked_up.polished_granite_slab
+1: Zedaph: 406
+2: Grian: 104
+3: Xisuma: 47
+4: xBCrafted: 31
+5: GoodTimeWithScar: 25
+6: BdoubleO100: 11
+7: VintageBeef: 4
+8: cubfan135: 4
+9: Welsknight: 4
+10: Tango: 3
+11: impulseSV: 3
+12: iskall85: 2
+Total 644

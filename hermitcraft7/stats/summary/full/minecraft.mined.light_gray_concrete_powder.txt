@@ -1,0 +1,21 @@
+minecraft.mined.light_gray_concrete_powder
+1: Xisuma: 941
+2: GoodTimeWithScar: 658
+3: Stressmonster101: 543
+4: Keralis1: 237
+5: Renthedog: 188
+6: xBCrafted: 163
+7: VintageBeef: 112
+8: cubfan135: 96
+9: Welsknight: 68
+10: falsesymmetry: 51
+11: Tango: 26
+12: Grian: 20
+13: impulseSV: 19
+14: MumboJumbo: 10
+15: iskall85: 9
+16: BdoubleO100: 5
+17: Docm77: 2
+18: Etho: 2
+19: Zedaph: 1
+Total 3151

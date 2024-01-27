@@ -1,0 +1,14 @@
+minecraft.dropped.cocoa_beans
+1: Xisuma: 295
+2: Grian: 47
+3: impulseSV: 39
+4: Zedaph: 29
+5: GoodTimeWithScar: 17
+6: Docm77: 13
+7: Renthedog: 11
+8: cubfan135: 9
+9: Welsknight: 9
+10: ZombieCleo: 9
+11: iskall85: 6
+12: falsesymmetry: 3
+Total 487

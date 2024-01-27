@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.iron_pickaxe
+1: xBCrafted: 2
+2: NameOfSamuel: 2
+Total 4

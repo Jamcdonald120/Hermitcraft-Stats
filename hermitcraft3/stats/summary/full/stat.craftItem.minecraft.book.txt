@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.book
+1: Tinfoilchef: 1009
+2: Xisuma: 956
+3: falsesymmetry: 776
+4: zueljin: 658
+5: KingDaddyDMAC: 328
+6: Tango: 321
+7: topmass: 310
+8: xBCrafted: 300
+9: Spumwackles: 291
+10: PythonGB: 258
+11: iJevin: 229
+12: Mumbo: 207
+13: sl1pg8r: 205
+14: Biffa2001: 202
+15: impulseSV: 135
+16: hypnotizd: 93
+17: monkeyfarm: 71
+18: Docm77: 60
+19: joehillssays: 4
+20: ZombieCleo: 2
+Total 6415

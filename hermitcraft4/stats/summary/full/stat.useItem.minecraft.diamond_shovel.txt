@@ -1,0 +1,24 @@
+stat.useItem.minecraft.diamond_shovel
+1: Renthedog: 252422
+2: cubfan135: 175465
+3: GoodTimeWithScar: 159543
+4: falsesymmetry: 154541
+5: iskall85: 134072
+6: Xisuma: 117412
+7: MumboJumbo: 94052
+8: joehillssays: 88285
+9: Tango: 62548
+10: Welsknight: 48901
+11: impulseSV: 43051
+12: Etho: 23713
+13: Tinfoilchef: 22388
+14: iJevin: 11997
+15: Docm77: 9326
+16: PythonGB: 5584
+17: VintageBeef: 3860
+18: ZombieCleo: 3792
+19: Biffa2001: 3159
+20: Mumbo: 1386
+21: zueljin: 641
+22: xBCrafted: 626
+Total 1416764

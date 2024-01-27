@@ -1,0 +1,25 @@
+stat.useItem.minecraft.netherrack
+1: Tango: 62873
+2: cubfan135: 35117
+3: impulseSV: 26543
+4: falsesymmetry: 21100
+5: iskall85: 9584
+6: GoodTimeWithScar: 7558
+7: Xisuma: 6168
+8: Welsknight: 5903
+9: MumboJumbo: 4484
+10: Zedaph: 3895
+11: joehillssays: 3408
+12: xBCrafted: 3174
+13: Renthedog: 1805
+14: Stressmonster101: 1571
+15: iJevin: 1380
+16: Docm77: 1363
+17: VintageBeef: 1166
+18: Biffa2001: 1075
+19: Tinfoilchef: 929
+20: PythonGB: 648
+21: BdoubleO100: 400
+22: Etho: 220
+23: ZombieCleo: 6
+Total 200370

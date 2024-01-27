@@ -1,0 +1,20 @@
+minecraft.crafted.composter
+1: GoodTimeWithScar: 542
+2: Xisuma: 255
+3: cubfan135: 247
+4: Grian: 119
+5: MumboJumbo: 32
+6: ZombieCleo: 25
+7: impulseSV: 20
+8: iskall85: 18
+9: BdoubleO100: 13
+10: Stressmonster101: 13
+11: Docm77: 12
+12: Keralis1: 6
+13: falsesymmetry: 2
+14: Renthedog: 1
+15: PythonGB: 1
+16: joehillssays: 1
+17: Tinfoilchef: 1
+18: Zedaph: 1
+Total 1309

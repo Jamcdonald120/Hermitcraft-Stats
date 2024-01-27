@@ -1,0 +1,11 @@
+stat.craftItem.minecraft.diamond_hoe
+1: Mumbo: 4
+2: Xisuma: 3
+3: Tango: 3
+4: Tinfoilchef: 2
+5: KingDaddyDMAC: 1
+6: zueljin: 1
+7: xBCrafted: 1
+8: falsesymmetry: 1
+9: Spumwackles: 1
+Total 17

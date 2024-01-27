@@ -1,0 +1,23 @@
+minecraft.picked_up.birch_trapdoor
+1: Tango: 237
+2: cubfan135: 172
+3: Keralis1: 145
+4: Grian: 126
+5: VintageBeef: 124
+6: iJevin: 110
+7: hypnotizd: 99
+8: impulseSV: 89
+9: BdoubleO100: 65
+10: Xisuma: 61
+11: Zedaph: 60
+12: Stressmonster101: 57
+13: xBCrafted: 53
+14: Etho: 34
+15: GoodTimeWithScar: 23
+16: falsesymmetry: 8
+17: Renthedog: 6
+18: iskall85: 6
+19: Welsknight: 6
+20: MumboJumbo: 3
+21: ZombieCleo: 2
+Total 1486

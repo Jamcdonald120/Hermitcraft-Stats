@@ -1,0 +1,22 @@
+minecraft.picked_up.oak_button
+1: Docm77: 67
+2: cubfan135: 48
+3: VintageBeef: 26
+4: iskall85: 13
+5: impulseSV: 8
+6: PearlescentMoon: 7
+7: GoodTimeWithScar: 7
+8: Tango: 5
+9: BdoubleO100: 4
+10: Xisuma: 3
+11: Stressmonster101: 2
+12: Renthedog: 1
+13: iJevin: 1
+14: Grian: 1
+15: Etho: 1
+16: ZombieCleo: 1
+17: Mumbo: 1
+18: RentheKing: 1
+19: Keralis1: 1
+20: Zedaph: 1
+Total 199

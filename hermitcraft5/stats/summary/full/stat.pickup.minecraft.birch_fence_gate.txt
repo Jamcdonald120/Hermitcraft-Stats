@@ -1,0 +1,11 @@
+stat.pickup.minecraft.birch_fence_gate
+1: Renthedog: 64
+2: Welsknight: 42
+3: MumboJumbo: 9
+4: joehillssays: 6
+5: cubfan135: 6
+6: PythonGB: 4
+7: xBCrafted: 3
+8: impulseSV: 2
+9: falsesymmetry: 1
+Total 137

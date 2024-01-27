@@ -1,0 +1,22 @@
+minecraft.crafted.minecart
+1: MumboJumbo: 464
+2: impulseSV: 386
+3: iskall85: 330
+4: cubfan135: 289
+5: Docm77: 276
+6: Tango: 239
+7: Xisuma: 152
+8: GoodTimeWithScar: 127
+9: Grian: 97
+10: Renthedog: 95
+11: iJevin: 90
+12: falsesymmetry: 66
+13: Stressmonster101: 66
+14: joehillssays: 40
+15: Welsknight: 37
+16: Tinfoilchef: 25
+17: Biffa2001: 10
+18: ZombieCleo: 8
+19: PythonGB: 6
+20: BdoubleO100: 1
+Total 2804

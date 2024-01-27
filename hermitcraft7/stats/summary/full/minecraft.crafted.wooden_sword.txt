@@ -1,0 +1,20 @@
+minecraft.crafted.wooden_sword
+1: Etho: 175
+2: Renthedog: 12
+3: ZombieCleo: 10
+4: Tango: 9
+5: cubfan135: 7
+6: Zedaph: 5
+7: BdoubleO100: 2
+8: xBCrafted: 2
+9: GoodTimeWithScar: 2
+10: Keralis1: 2
+11: impulseSV: 2
+12: Docm77: 1
+13: Xisuma: 1
+14: joehillssays: 1
+15: Grian: 1
+16: iskall85: 1
+17: hypnotizd: 1
+18: MumboJumbo: 1
+Total 235

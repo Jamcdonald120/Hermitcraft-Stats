@@ -1,0 +1,3 @@
+stat.drop.minecraft.clock
+1: BdoubleO100: 1
+Total 1

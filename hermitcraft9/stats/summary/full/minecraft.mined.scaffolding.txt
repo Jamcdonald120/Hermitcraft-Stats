@@ -1,0 +1,27 @@
+minecraft.mined.scaffolding
+1: Tango: 21406
+2: Docm77: 13362
+3: impulseSV: 11150
+4: joehillssays: 8765
+5: Xisuma: 6685
+6: BdoubleO100: 6410
+7: GeminiTay: 4548
+8: Renthedog: 4061
+9: iJevin: 3886
+10: cubfan135: 3422
+11: falsesymmetry: 2847
+12: hypnotizd: 2736
+13: Keralis1: 2019
+14: RentheKing: 1453
+15: Zedaph: 1381
+16: ZombieCleo: 1056
+17: xBCrafted: 660
+18: PearlescentMoon: 584
+19: Grian: 489
+20: Pixlriffs: 324
+21: iskall85: 279
+22: Stressmonster101: 94
+23: Etho: 88
+24: GoodTimeWithScar: 34
+25: VintageBeef: 12
+Total 97751

@@ -1,0 +1,21 @@
+minecraft.dropped.nether_wart_block
+1: Zedaph: 4839
+2: Renthedog: 1561
+3: Etho: 421
+4: cubfan135: 378
+5: GoodTimeWithScar: 264
+6: Grian: 161
+7: impulseSV: 130
+8: iskall85: 94
+9: Tango: 88
+10: VintageBeef: 76
+11: BdoubleO100: 69
+12: MumboJumbo: 63
+13: joehillssays: 31
+14: Keralis1: 12
+15: Docm77: 3
+16: hypnotizd: 3
+17: Stressmonster101: 2
+18: iJevin: 1
+19: falsesymmetry: 1
+Total 8197

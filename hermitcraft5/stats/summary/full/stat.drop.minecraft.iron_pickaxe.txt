@@ -1,0 +1,21 @@
+stat.drop.minecraft.iron_pickaxe
+1: Zedaph: 22
+2: Tango: 14
+3: Renthedog: 10
+4: MumboJumbo: 8
+5: impulseSV: 8
+6: PythonGB: 7
+7: iskall85: 7
+8: falsesymmetry: 5
+9: joehillssays: 4
+10: iJevin: 3
+11: xBCrafted: 3
+12: Xisuma: 2
+13: VintageBeef: 2
+14: Etho: 2
+15: GoodTimeWithScar: 2
+16: Tinfoilchef: 2
+17: cubfan135: 1
+18: Welsknight: 1
+19: ZombieCleo: 1
+Total 104

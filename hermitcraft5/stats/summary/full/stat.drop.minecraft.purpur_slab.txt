@@ -1,0 +1,13 @@
+stat.drop.minecraft.purpur_slab
+1: Zedaph: 23
+2: PythonGB: 16
+3: MumboJumbo: 15
+4: GoodTimeWithScar: 13
+5: Tango: 9
+6: iskall85: 9
+7: Renthedog: 7
+8: cubfan135: 4
+9: Tinfoilchef: 4
+10: impulseSV: 4
+11: xBCrafted: 1
+Total 105

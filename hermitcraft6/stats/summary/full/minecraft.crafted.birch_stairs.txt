@@ -1,0 +1,19 @@
+minecraft.crafted.birch_stairs
+1: cubfan135: 4064
+2: falsesymmetry: 2912
+3: Xisuma: 1504
+4: impulseSV: 992
+5: Grian: 944
+6: MumboJumbo: 408
+7: GoodTimeWithScar: 248
+8: Keralis1: 200
+9: Stressmonster101: 176
+10: ZombieCleo: 112
+11: Renthedog: 96
+12: iskall85: 88
+13: Tango: 40
+14: BdoubleO100: 32
+15: xBCrafted: 32
+16: Welsknight: 8
+17: Tinfoilchef: 8
+Total 11864

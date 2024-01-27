@@ -1,0 +1,8 @@
+minecraft.picked_up.acacia_wood
+1: GoodTimeWithScar: 294
+2: Keralis1: 60
+3: Grian: 58
+4: ZombieCleo: 9
+5: cubfan135: 7
+6: PearlescentMoon: 1
+Total 429

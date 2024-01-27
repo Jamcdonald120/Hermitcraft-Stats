@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.diamond_axe
+1: Renthedog: 57
+2: Tango: 30
+3: cubfan135: 19
+4: iskall85: 16
+5: GoodTimeWithScar: 12
+6: falsesymmetry: 11
+7: iJevin: 9
+8: impulseSV: 9
+9: ZombieCleo: 7
+10: MumboJumbo: 7
+11: joehillssays: 5
+12: Tinfoilchef: 5
+13: Stressmonster101: 5
+14: Docm77: 4
+15: Welsknight: 4
+16: VintageBeef: 2
+17: PythonGB: 2
+18: BdoubleO100: 2
+19: xBCrafted: 2
+20: Etho: 2
+21: Zedaph: 2
+22: Xisuma: 1
+23: Biffa2001: 1
+Total 214

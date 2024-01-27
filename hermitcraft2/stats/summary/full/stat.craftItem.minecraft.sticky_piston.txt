@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.sticky_piston
+1: Tango: 100
+2: Mumbo: 86
+3: Xisuma: 55
+4: xBCrafted: 4
+5: KingDaddyDMAC: 1
+6: zueljin: 1
+Total 247

@@ -1,0 +1,12 @@
+minecraft.mined.waxed_copper_block
+1: Renthedog: 38
+2: Etho: 21
+3: cubfan135: 20
+4: GoodTimeWithScar: 18
+5: Xisuma: 17
+6: joehillssays: 9
+7: impulseSV: 5
+8: PearlescentMoon: 3
+9: Grian: 2
+10: MumboJumbo: 2
+Total 135

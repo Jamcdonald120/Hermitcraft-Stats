@@ -1,0 +1,9 @@
+minecraft.picked_up.tall_grass
+1: cubfan135: 4
+2: Etho: 2
+3: impulseSV: 2
+4: Renthedog: 1
+5: iJevin: 1
+6: Grian: 1
+7: Zedaph: 1
+Total 12

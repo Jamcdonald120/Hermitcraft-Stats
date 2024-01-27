@@ -1,0 +1,12 @@
+stat.useItem.minecraft.black_shulker_box
+1: Xisuma: 115
+2: falsesymmetry: 81
+3: iskall85: 56
+4: Renthedog: 36
+5: Tango: 26
+6: Tinfoilchef: 24
+7: GoodTimeWithScar: 15
+8: MumboJumbo: 9
+9: impulseSV: 9
+10: cubfan135: 6
+Total 377

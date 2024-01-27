@@ -1,0 +1,19 @@
+stat.killEntity.PigZombie
+1: cubfan135: 493
+2: impulseSV: 419
+3: Xisuma: 301
+4: iskall85: 208
+5: GoodTimeWithScar: 56
+6: iJevin: 53
+7: Welsknight: 49
+8: Tango: 40
+9: falsesymmetry: 12
+10: Biffa2001: 10
+11: Etho: 10
+12: Tinfoilchef: 6
+13: Renthedog: 3
+14: Jessassin: 2
+15: VintageBeef: 1
+16: joehillssays: 1
+17: ZombieCleo: 1
+Total 1665

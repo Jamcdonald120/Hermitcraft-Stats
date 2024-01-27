@@ -1,0 +1,13 @@
+minecraft.picked_up.rabbit_foot
+1: Zedaph: 18
+2: cubfan135: 6
+3: impulseSV: 6
+4: joehillssays: 4
+5: hypnotizd: 3
+6: Keralis1: 3
+7: Xisuma: 2
+8: Renthedog: 2
+9: VintageBeef: 1
+10: PearlescentMoon: 1
+11: GoodTimeWithScar: 1
+Total 47

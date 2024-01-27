@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.gold_block
+1: impulseSV: 4118
+2: Renthedog: 681
+3: Tango: 571
+4: cubfan135: 445
+5: iskall85: 189
+6: Xisuma: 95
+7: Tinfoilchef: 91
+8: Zedaph: 75
+9: Welsknight: 69
+10: PythonGB: 60
+11: falsesymmetry: 45
+12: Etho: 44
+13: GoodTimeWithScar: 40
+14: VintageBeef: 35
+15: MumboJumbo: 29
+16: Biffa2001: 27
+17: ZombieCleo: 21
+18: iJevin: 16
+19: joehillssays: 9
+20: BdoubleO100: 9
+21: xBCrafted: 9
+Total 6678

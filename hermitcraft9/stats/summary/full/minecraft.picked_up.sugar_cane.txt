@@ -1,0 +1,31 @@
+minecraft.picked_up.sugar_cane
+1: iJevin: 93346
+2: cubfan135: 33892
+3: impulseSV: 12787
+4: Grian: 7707
+5: Tango: 5507
+6: Renthedog: 4564
+7: Zedaph: 4381
+8: Keralis1: 4178
+9: VintageBeef: 3169
+10: Xisuma: 3078
+11: hypnotizd: 2413
+12: Etho: 2300
+13: xBCrafted: 1937
+14: joehillssays: 1913
+15: falsesymmetry: 1776
+16: BdoubleO100: 1639
+17: PearlescentMoon: 1308
+18: GeminiTay: 1298
+19: GoodTimeWithScar: 941
+20: Docm77: 905
+21: Welsknight: 519
+22: Stressmonster101: 239
+23: ZombieCleo: 205
+24: MythicalSausage: 173
+25: RentheKing: 167
+26: Mumbo: 152
+27: iskall85: 117
+28: Smajor1995: 65
+29: Pixlriffs: 6
+Total 190682

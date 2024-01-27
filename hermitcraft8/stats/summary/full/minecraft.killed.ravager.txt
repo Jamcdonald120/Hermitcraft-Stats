@@ -1,0 +1,10 @@
+minecraft.killed.ravager
+1: PearlescentMoon: 27
+2: impulseSV: 20
+3: Etho: 5
+4: iJevin: 2
+5: Grian: 2
+6: Tango: 1
+7: BdoubleO100: 1
+8: GoodTimeWithScar: 1
+Total 59

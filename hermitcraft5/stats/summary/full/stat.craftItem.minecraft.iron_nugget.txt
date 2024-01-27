@@ -1,0 +1,15 @@
+stat.craftItem.minecraft.iron_nugget
+1: Tango: 7618
+2: Renthedog: 5276
+3: PythonGB: 428
+4: cubfan135: 125
+5: Tinfoilchef: 85
+6: Zedaph: 44
+7: BdoubleO100: 21
+8: Xisuma: 9
+9: joehillssays: 9
+10: iskall85: 9
+11: xBCrafted: 9
+12: GoodTimeWithScar: 9
+13: VintageBeef: 4
+Total 13646

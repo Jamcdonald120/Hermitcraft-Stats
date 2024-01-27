@@ -1,0 +1,17 @@
+minecraft.picked_up.acacia_leaves
+1: PearlescentMoon: 4214
+2: cubfan135: 3354
+3: Grian: 2896
+4: GoodTimeWithScar: 873
+5: Etho: 544
+6: Tango: 150
+7: joehillssays: 122
+8: falsesymmetry: 106
+9: Keralis1: 105
+10: Renthedog: 79
+11: BdoubleO100: 71
+12: Docm77: 51
+13: Zedaph: 7
+14: RentheKing: 3
+15: iskall85: 1
+Total 12576

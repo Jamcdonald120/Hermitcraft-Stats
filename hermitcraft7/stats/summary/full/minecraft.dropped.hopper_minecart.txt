@@ -1,0 +1,5 @@
+minecraft.dropped.hopper_minecart
+1: Etho: 12
+2: MumboJumbo: 10
+3: GoodTimeWithScar: 8
+Total 30

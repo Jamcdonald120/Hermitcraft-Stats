@@ -1,0 +1,18 @@
+minecraft.mined.infested_stone
+1: Xisuma: 94
+2: Welsknight: 75
+3: Grian: 73
+4: joehillssays: 33
+5: GoodTimeWithScar: 32
+6: hypnotizd: 28
+7: VintageBeef: 20
+8: BdoubleO100: 15
+9: cubfan135: 13
+10: Keralis1: 10
+11: Zedaph: 10
+12: PearlescentMoon: 7
+13: Tango: 6
+14: iJevin: 1
+15: ZombieCleo: 1
+16: MumboJumbo: 1
+Total 419

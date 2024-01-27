@@ -1,0 +1,22 @@
+minecraft.mined.birch_trapdoor
+1: Keralis1: 184
+2: cubfan135: 167
+3: VintageBeef: 123
+4: hypnotizd: 103
+5: Xisuma: 77
+6: impulseSV: 62
+7: Grian: 60
+8: Stressmonster101: 55
+9: BdoubleO100: 54
+10: xBCrafted: 53
+11: iJevin: 46
+12: Etho: 28
+13: GoodTimeWithScar: 22
+14: MumboJumbo: 9
+15: Tango: 8
+16: Renthedog: 7
+17: iskall85: 7
+18: falsesymmetry: 7
+19: Welsknight: 6
+20: ZombieCleo: 2
+Total 1080

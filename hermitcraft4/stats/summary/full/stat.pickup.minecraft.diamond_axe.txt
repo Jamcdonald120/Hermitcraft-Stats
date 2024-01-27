@@ -1,0 +1,23 @@
+stat.pickup.minecraft.diamond_axe
+1: Renthedog: 159
+2: iskall85: 109
+3: impulseSV: 55
+4: Tango: 49
+5: Xisuma: 46
+6: GoodTimeWithScar: 43
+7: cubfan135: 42
+8: MumboJumbo: 37
+9: iJevin: 29
+10: falsesymmetry: 25
+11: Welsknight: 25
+12: Docm77: 24
+13: PythonGB: 21
+14: Etho: 16
+15: Tinfoilchef: 11
+16: VintageBeef: 9
+17: ZombieCleo: 8
+18: joehillssays: 3
+19: Mumbo: 2
+20: xisumavoid: 1
+21: Biffa2001: 1
+Total 715

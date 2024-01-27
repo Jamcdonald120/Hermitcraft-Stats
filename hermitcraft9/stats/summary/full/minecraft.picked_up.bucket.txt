@@ -1,0 +1,30 @@
+minecraft.picked_up.bucket
+1: Zedaph: 362
+2: ZombieCleo: 251
+3: Grian: 207
+4: joehillssays: 193
+5: Tango: 142
+6: Renthedog: 136
+7: iJevin: 93
+8: GoodTimeWithScar: 72
+9: Etho: 67
+10: PearlescentMoon: 62
+11: cubfan135: 56
+12: Keralis1: 45
+13: Docm77: 30
+14: falsesymmetry: 28
+15: Xisuma: 19
+16: Stressmonster101: 13
+17: GeminiTay: 11
+18: impulseSV: 11
+19: RentheKing: 9
+20: BdoubleO100: 7
+21: xBCrafted: 6
+22: Pixlriffs: 5
+23: STEAKFG: 4
+24: iskall85: 3
+25: hypnotizd: 2
+26: OrionSound: 1
+27: VintageBeef: 1
+28: Welsknight: 1
+Total 1837

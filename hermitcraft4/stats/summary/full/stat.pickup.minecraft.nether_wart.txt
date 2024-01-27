@@ -1,0 +1,21 @@
+stat.pickup.minecraft.nether_wart
+1: Tango: 26295
+2: cubfan135: 24321
+3: ZombieCleo: 23084
+4: Xisuma: 14454
+5: iJevin: 8405
+6: MumboJumbo: 8311
+7: falsesymmetry: 5803
+8: iskall85: 5730
+9: joehillssays: 4797
+10: Welsknight: 2236
+11: PythonGB: 2106
+12: Tinfoilchef: 1779
+13: Biffa2001: 545
+14: impulseSV: 406
+15: Etho: 180
+16: Renthedog: 88
+17: Docm77: 31
+18: GoodTimeWithScar: 24
+19: VintageBeef: 9
+Total 128604

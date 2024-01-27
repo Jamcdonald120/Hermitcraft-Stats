@@ -1,0 +1,5 @@
+stat.useItem.minecraft.skull
+1: Tango: 13
+2: iJevin: 3
+3: Spumwackles: 3
+Total 19

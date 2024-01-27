@@ -1,0 +1,20 @@
+minecraft.picked_up.red_mushroom_block
+1: Etho: 12813
+2: GoodTimeWithScar: 7527
+3: cubfan135: 2942
+4: Zedaph: 2640
+5: xBCrafted: 2479
+6: Renthedog: 2161
+7: Grian: 1469
+8: Xisuma: 477
+9: BdoubleO100: 362
+10: Tango: 279
+11: Keralis1: 183
+12: impulseSV: 119
+13: Welsknight: 92
+14: falsesymmetry: 90
+15: Docm77: 63
+16: iskall85: 49
+17: VintageBeef: 46
+18: hypnotizd: 45
+Total 33836

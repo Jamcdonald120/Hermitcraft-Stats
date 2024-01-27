@@ -1,0 +1,7 @@
+minecraft.picked_up.polished_diorite_stairs
+1: xBCrafted: 136
+2: impulseSV: 95
+3: Xisuma: 22
+4: PearlescentMoon: 2
+5: BdoubleO100: 1
+Total 256

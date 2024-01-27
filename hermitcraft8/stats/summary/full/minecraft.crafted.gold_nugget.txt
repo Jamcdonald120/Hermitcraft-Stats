@@ -1,0 +1,19 @@
+minecraft.crafted.gold_nugget
+1: iJevin: 28690
+2: impulseSV: 18212
+3: BdoubleO100: 2671
+4: cubfan135: 1556
+5: Docm77: 1529
+6: GoodTimeWithScar: 981
+7: PearlescentMoon: 576
+8: Tango: 414
+9: Xisuma: 90
+10: Renthedog: 81
+11: joehillssays: 63
+12: VintageBeef: 54
+13: GeminiTay: 45
+14: falsesymmetry: 45
+15: Welsknight: 45
+16: iskall85: 9
+17: Tinfoilchef: 9
+Total 55070

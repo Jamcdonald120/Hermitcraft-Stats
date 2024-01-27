@@ -1,0 +1,15 @@
+minecraft.crafted.red_terracotta
+1: Etho: 1344
+2: GoodTimeWithScar: 416
+3: MumboJumbo: 344
+4: Grian: 268
+5: falsesymmetry: 192
+6: Docm77: 128
+7: Renthedog: 96
+8: Xisuma: 72
+9: Tango: 64
+10: BdoubleO100: 24
+11: GeminiTay: 8
+12: Welsknight: 8
+13: ZombieCleo: 8
+Total 2972

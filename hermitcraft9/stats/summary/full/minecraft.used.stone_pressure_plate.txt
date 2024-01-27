@@ -1,0 +1,24 @@
+minecraft.used.stone_pressure_plate
+1: Tango: 351
+2: impulseSV: 151
+3: cubfan135: 120
+4: PearlescentMoon: 65
+5: iJevin: 40
+6: joehillssays: 38
+7: falsesymmetry: 34
+8: Etho: 30
+9: Zedaph: 28
+10: GoodTimeWithScar: 25
+11: Xisuma: 23
+12: MythicalSausage: 22
+13: BdoubleO100: 22
+14: iskall85: 12
+15: VintageBeef: 11
+16: Grian: 9
+17: ZombieCleo: 8
+18: Docm77: 6
+19: xBCrafted: 5
+20: Renthedog: 3
+21: HBomb94: 1
+22: Keralis1: 1
+Total 1005

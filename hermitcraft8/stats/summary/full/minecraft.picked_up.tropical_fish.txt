@@ -1,0 +1,16 @@
+minecraft.picked_up.tropical_fish
+1: PearlescentMoon: 57
+2: xBCrafted: 24
+3: joehillssays: 22
+4: Tango: 20
+5: cubfan135: 12
+6: BdoubleO100: 10
+7: hypnotizd: 7
+8: ZombieCleo: 5
+9: iJevin: 3
+10: Grian: 3
+11: GoodTimeWithScar: 3
+12: iskall85: 1
+13: falsesymmetry: 1
+14: Etho: 1
+Total 169

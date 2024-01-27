@@ -1,0 +1,23 @@
+stat.entityKilledBy.Creeper
+1: Renthedog: 38
+2: GoodTimeWithScar: 14
+3: Xisuma: 13
+4: iJevin: 12
+5: iskall85: 11
+6: Tinfoilchef: 9
+7: impulseSV: 8
+8: MumboJumbo: 6
+9: Docm77: 5
+10: cubfan135: 5
+11: ZombieCleo: 3
+12: PythonGB: 2
+13: joehillssays: 2
+14: Etho: 2
+15: VintageBeef: 1
+16: zueljin: 1
+17: Tango: 1
+18: xBCrafted: 1
+19: falsesymmetry: 1
+20: Welsknight: 1
+21: monkeyfarm: 1
+Total 137

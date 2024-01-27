@@ -1,0 +1,6 @@
+minecraft.crafted.chainmail_leggings
+1: Etho: 3
+2: hypnotizd: 2
+3: xBCrafted: 1
+4: falsesymmetry: 1
+Total 7

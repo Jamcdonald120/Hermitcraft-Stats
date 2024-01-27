@@ -1,0 +1,5 @@
+stat.useItem.minecraft.daylight_detector
+1: Xisuma: 3
+2: sl1pg8r: 2
+3: Mumbo: 1
+Total 6

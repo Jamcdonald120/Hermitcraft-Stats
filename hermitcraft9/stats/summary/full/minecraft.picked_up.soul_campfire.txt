@@ -1,0 +1,10 @@
+minecraft.picked_up.soul_campfire
+1: iJevin: 22
+2: cubfan135: 17
+3: falsesymmetry: 6
+4: xBCrafted: 5
+5: Tango: 2
+6: impulseSV: 2
+7: Renthedog: 1
+8: Grian: 1
+Total 56

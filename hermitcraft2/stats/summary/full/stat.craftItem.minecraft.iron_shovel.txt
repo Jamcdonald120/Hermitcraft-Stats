@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.iron_shovel
+1: Tango: 23
+2: Xisuma: 4
+3: xBCrafted: 3
+4: falsesymmetry: 3
+5: joehillssays: 2
+6: ZombieCleo: 1
+7: Spumwackles: 1
+8: NameOfSamuel: 1
+Total 38

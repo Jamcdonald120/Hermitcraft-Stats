@@ -1,0 +1,6 @@
+minecraft.crafted.magenta_candle
+1: hypnotizd: 1732
+2: Tango: 27
+3: impulseSV: 1
+4: Zedaph: 1
+Total 1761

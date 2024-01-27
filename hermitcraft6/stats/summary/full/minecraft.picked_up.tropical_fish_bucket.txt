@@ -1,0 +1,6 @@
+minecraft.picked_up.tropical_fish_bucket
+1: iskall85: 49
+2: Tango: 4
+3: falsesymmetry: 3
+4: impulseSV: 2
+Total 58

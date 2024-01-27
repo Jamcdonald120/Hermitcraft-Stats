@@ -1,0 +1,24 @@
+minecraft.custom.interact_with_loom
+1: Keralis1: 235
+2: Xisuma: 116
+3: cubfan135: 87
+4: GoodTimeWithScar: 77
+5: falsesymmetry: 67
+6: joehillssays: 53
+7: VintageBeef: 52
+8: BdoubleO100: 42
+9: impulseSV: 36
+10: Etho: 35
+11: Tango: 25
+12: hypnotizd: 19
+13: Grian: 18
+14: iJevin: 12
+15: Docm77: 9
+16: Welsknight: 7
+17: ZombieCleo: 7
+18: Zedaph: 7
+19: iskall85: 6
+20: Stressmonster101: 5
+21: Renthedog: 3
+22: xBCrafted: 1
+Total 919

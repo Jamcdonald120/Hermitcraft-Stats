@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.spruce_fence_gate
+1: GoodTimeWithScar: 426
+2: cubfan135: 205
+3: VintageBeef: 43
+4: iskall85: 41
+5: falsesymmetry: 16
+6: Tango: 10
+7: Etho: 10
+8: PythonGB: 8
+9: iJevin: 8
+10: Welsknight: 7
+11: Xisuma: 6
+12: joehillssays: 6
+13: Renthedog: 4
+14: zueljin: 3
+15: impulseSV: 2
+16: Docm77: 1
+17: MumboJumbo: 1
+Total 797

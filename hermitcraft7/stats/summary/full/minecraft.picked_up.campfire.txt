@@ -1,0 +1,25 @@
+minecraft.picked_up.campfire
+1: Grian: 1018
+2: Zedaph: 842
+3: xBCrafted: 257
+4: cubfan135: 153
+5: Tango: 107
+6: Etho: 79
+7: iskall85: 63
+8: iJevin: 59
+9: GoodTimeWithScar: 58
+10: MumboJumbo: 52
+11: VintageBeef: 50
+12: ZombieCleo: 48
+13: Renthedog: 44
+14: joehillssays: 36
+15: Xisuma: 27
+16: Stressmonster101: 17
+17: Welsknight: 15
+18: BdoubleO100: 10
+19: Docm77: 5
+20: impulseSV: 5
+21: BarryBoss1234: 3
+22: hypnotizd: 2
+23: Keralis1: 2
+Total 2952

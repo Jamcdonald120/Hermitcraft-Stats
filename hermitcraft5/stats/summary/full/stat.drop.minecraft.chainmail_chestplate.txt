@@ -1,0 +1,19 @@
+stat.drop.minecraft.chainmail_chestplate
+1: Renthedog: 38
+2: GoodTimeWithScar: 28
+3: iskall85: 23
+4: xBCrafted: 17
+5: Tango: 11
+6: Docm77: 9
+7: iJevin: 6
+8: MumboJumbo: 5
+9: falsesymmetry: 4
+10: impulseSV: 4
+11: Stressmonster101: 3
+12: PythonGB: 2
+13: cubfan135: 2
+14: Biffa2001: 2
+15: Xisuma: 1
+16: BdoubleO100: 1
+17: Zedaph: 1
+Total 157

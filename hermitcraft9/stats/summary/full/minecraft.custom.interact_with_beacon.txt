@@ -1,0 +1,29 @@
+minecraft.custom.interact_with_beacon
+1: Tango: 261
+2: iJevin: 117
+3: joehillssays: 99
+4: Xisuma: 88
+5: impulseSV: 86
+6: Renthedog: 56
+7: Zedaph: 50
+8: Docm77: 42
+9: VintageBeef: 40
+10: cubfan135: 37
+11: falsesymmetry: 33
+12: PearlescentMoon: 30
+13: Etho: 28
+14: hypnotizd: 24
+15: iskall85: 21
+16: BdoubleO100: 18
+17: Grian: 16
+18: GoodTimeWithScar: 15
+19: Keralis1: 15
+20: Stressmonster101: 11
+21: ZombieCleo: 10
+22: Mumbo: 7
+23: xBCrafted: 6
+24: RentheKing: 4
+25: GeminiTay: 2
+26: Pixlriffs: 1
+27: SolidarityGaming: 1
+Total 1118

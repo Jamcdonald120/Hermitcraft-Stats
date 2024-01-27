@@ -1,0 +1,15 @@
+minecraft.picked_up.polished_andesite_stairs
+1: GoodTimeWithScar: 670
+2: cubfan135: 421
+3: Grian: 261
+4: Xisuma: 84
+5: iskall85: 75
+6: falsesymmetry: 65
+7: Renthedog: 58
+8: Docm77: 49
+9: Tango: 40
+10: BdoubleO100: 3
+11: impulseSV: 3
+12: PythonGB: 1
+13: Zedaph: 1
+Total 1731

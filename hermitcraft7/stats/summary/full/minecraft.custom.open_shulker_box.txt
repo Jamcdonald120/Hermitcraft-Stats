@@ -1,0 +1,31 @@
+minecraft.custom.open_shulker_box
+1: GoodTimeWithScar: 103270
+2: Etho: 93150
+3: Xisuma: 86535
+4: Keralis1: 79614
+5: Grian: 74778
+6: cubfan135: 54044
+7: Tango: 52338
+8: impulseSV: 50451
+9: Renthedog: 48892
+10: iJevin: 45841
+11: BdoubleO100: 33817
+12: VintageBeef: 29609
+13: falsesymmetry: 29473
+14: iskall85: 26888
+15: joehillssays: 25618
+16: xBCrafted: 25049
+17: MumboJumbo: 24178
+18: Stressmonster101: 17921
+19: hypnotizd: 12760
+20: ZombieCleo: 12748
+21: Zedaph: 9346
+22: Docm77: 9172
+23: Welsknight: 6450
+24: Tinfoilchef: 1680
+25: BarryBoss1234: 61
+26: xisumavoid: 11
+27: isGall85: 8
+28: Helsknight_: 4
+29: TangoCam: 1
+Total 953707

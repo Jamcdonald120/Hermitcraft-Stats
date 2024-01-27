@@ -1,0 +1,30 @@
+minecraft.used.deepslate_bricks
+1: Tango: 30555
+2: RentheKing: 11738
+3: iJevin: 11718
+4: cubfan135: 11186
+5: xBCrafted: 8049
+6: hypnotizd: 6224
+7: PearlescentMoon: 5845
+8: impulseSV: 5784
+9: GeminiTay: 3088
+10: Renthedog: 2211
+11: BdoubleO100: 2173
+12: GoodTimeWithScar: 1243
+13: Mumbo: 1237
+14: Etho: 1158
+15: Grian: 852
+16: Xisuma: 395
+17: Zedaph: 390
+18: falsesymmetry: 389
+19: joehillssays: 332
+20: iskall85: 311
+21: Keralis1: 279
+22: ZombieCleo: 211
+23: Docm77: 78
+24: VintageBeef: 67
+25: MythicalSausage: 21
+26: Stressmonster101: 19
+27: Pixlriffs: 12
+28: MumboJumbo: 6
+Total 105571

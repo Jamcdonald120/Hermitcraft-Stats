@@ -1,0 +1,16 @@
+minecraft.dropped.clay_ball
+1: GoodTimeWithScar: 260
+2: MumboJumbo: 84
+3: falsesymmetry: 72
+4: Zedaph: 72
+5: Renthedog: 62
+6: iskall85: 54
+7: Keralis1: 34
+8: Grian: 12
+9: Tango: 12
+10: cubfan135: 11
+11: Xisuma: 8
+12: BdoubleO100: 4
+13: Stressmonster101: 4
+14: impulseSV: 4
+Total 693

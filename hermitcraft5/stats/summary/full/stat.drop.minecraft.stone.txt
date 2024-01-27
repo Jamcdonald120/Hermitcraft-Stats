@@ -1,0 +1,26 @@
+stat.drop.minecraft.stone
+1: Zedaph: 54295
+2: iskall85: 43890
+3: GoodTimeWithScar: 37025
+4: Xisuma: 33391
+5: MumboJumbo: 30543
+6: cubfan135: 29275
+7: falsesymmetry: 23476
+8: Tango: 16823
+9: Renthedog: 15994
+10: iJevin: 10688
+11: xBCrafted: 7105
+12: impulseSV: 6074
+13: Welsknight: 4670
+14: PythonGB: 2959
+15: Stressmonster101: 2613
+16: Docm77: 2275
+17: Tinfoilchef: 1657
+18: Biffa2001: 1507
+19: joehillssays: 630
+20: xisumavoid: 556
+21: BdoubleO100: 332
+22: ZombieCleo: 275
+23: VintageBeef: 235
+24: Etho: 179
+Total 326467

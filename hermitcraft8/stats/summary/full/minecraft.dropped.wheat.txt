@@ -1,0 +1,22 @@
+minecraft.dropped.wheat
+1: Zedaph: 7878
+2: Renthedog: 316
+3: GoodTimeWithScar: 139
+4: Docm77: 124
+5: BdoubleO100: 77
+6: Xisuma: 56
+7: GeminiTay: 54
+8: iJevin: 53
+9: Grian: 46
+10: Tango: 39
+11: iskall85: 30
+12: cubfan135: 27
+13: Keralis1: 20
+14: joehillssays: 8
+15: hypnotizd: 4
+16: Etho: 3
+17: PearlescentMoon: 2
+18: falsesymmetry: 2
+19: MumboJumbo: 2
+20: impulseSV: 1
+Total 8881

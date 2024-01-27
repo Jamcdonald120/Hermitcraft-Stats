@@ -1,0 +1,24 @@
+minecraft.picked_up.slime_block
+1: iskall85: 4364
+2: joehillssays: 1320
+3: cubfan135: 1253
+4: MumboJumbo: 1081
+5: Docm77: 923
+6: GoodTimeWithScar: 786
+7: Xisuma: 668
+8: iJevin: 532
+9: impulseSV: 463
+10: Zedaph: 458
+11: falsesymmetry: 420
+12: Tango: 364
+13: xBCrafted: 361
+14: Etho: 339
+15: Grian: 185
+16: BdoubleO100: 137
+17: Keralis1: 107
+18: Stressmonster101: 71
+19: Renthedog: 61
+20: hypnotizd: 22
+21: VintageBeef: 19
+22: BarryBoss1234: 1
+Total 13935

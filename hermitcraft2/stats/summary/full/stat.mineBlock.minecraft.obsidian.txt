@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.obsidian
+1: Tango: 253
+2: iJevin: 175
+3: ZombieCleo: 157
+4: Xisuma: 63
+5: falsesymmetry: 41
+6: Spumwackles: 33
+7: sl1pg8r: 32
+8: zueljin: 15
+9: Biffa2001: 6
+10: Mumbo: 3
+Total 778

@@ -1,0 +1,24 @@
+minecraft.dropped.iron_ingot
+1: Tango: 5070
+2: iskall85: 4041
+3: MumboJumbo: 1331
+4: Grian: 1316
+5: Xisuma: 1130
+6: iJevin: 762
+7: GoodTimeWithScar: 682
+8: Renthedog: 256
+9: Zedaph: 253
+10: cubfan135: 251
+11: PythonGB: 240
+12: impulseSV: 223
+13: Tinfoilchef: 169
+14: Keralis1: 145
+15: Docm77: 142
+16: falsesymmetry: 114
+17: BdoubleO100: 75
+18: Stressmonster101: 75
+19: Welsknight: 30
+20: joehillssays: 6
+21: ZombieCleo: 2
+22: Biffa2001: 1
+Total 16314

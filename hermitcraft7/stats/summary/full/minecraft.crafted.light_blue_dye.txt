@@ -1,0 +1,25 @@
+minecraft.crafted.light_blue_dye
+1: impulseSV: 8506
+2: Etho: 2939
+3: Tango: 2728
+4: MumboJumbo: 1389
+5: Xisuma: 1340
+6: GoodTimeWithScar: 1013
+7: Stressmonster101: 710
+8: Keralis1: 642
+9: falsesymmetry: 620
+10: Renthedog: 542
+11: cubfan135: 521
+12: Tinfoilchef: 294
+13: Zedaph: 202
+14: hypnotizd: 192
+15: joehillssays: 161
+16: iskall85: 114
+17: VintageBeef: 86
+18: xBCrafted: 59
+19: BdoubleO100: 39
+20: Docm77: 2
+21: iJevin: 2
+22: Grian: 2
+23: ZombieCleo: 2
+Total 22105

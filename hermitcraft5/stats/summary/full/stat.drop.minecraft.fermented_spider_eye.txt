@@ -1,0 +1,4 @@
+stat.drop.minecraft.fermented_spider_eye
+1: Tango: 3
+2: Renthedog: 1
+Total 4

@@ -1,0 +1,23 @@
+stat.pickup.minecraft.stone_button
+1: cubfan135: 457
+2: iskall85: 361
+3: Renthedog: 235
+4: GoodTimeWithScar: 200
+5: impulseSV: 194
+6: Zedaph: 152
+7: falsesymmetry: 102
+8: MumboJumbo: 93
+9: Docm77: 84
+10: Welsknight: 70
+11: Tango: 51
+12: Xisuma: 47
+13: xBCrafted: 36
+14: iJevin: 17
+15: ZombieCleo: 16
+16: Stressmonster101: 14
+17: BdoubleO100: 10
+18: joehillssays: 8
+19: VintageBeef: 7
+20: PythonGB: 4
+21: Tinfoilchef: 1
+Total 2159

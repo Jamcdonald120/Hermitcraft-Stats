@@ -1,0 +1,14 @@
+minecraft.picked_up.light_blue_terracotta
+1: GoodTimeWithScar: 465
+2: VintageBeef: 413
+3: Zedaph: 172
+4: iskall85: 142
+5: Tango: 138
+6: Grian: 105
+7: Stressmonster101: 52
+8: Etho: 37
+9: BdoubleO100: 36
+10: Keralis1: 21
+11: impulseSV: 13
+12: Xisuma: 4
+Total 1598

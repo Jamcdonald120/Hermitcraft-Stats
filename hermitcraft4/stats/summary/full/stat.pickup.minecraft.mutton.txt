@@ -1,0 +1,21 @@
+stat.pickup.minecraft.mutton
+1: impulseSV: 443
+2: iJevin: 440
+3: iskall85: 199
+4: GoodTimeWithScar: 119
+5: falsesymmetry: 115
+6: cubfan135: 85
+7: Docm77: 79
+8: Renthedog: 37
+9: Xisuma: 36
+10: zueljin: 17
+11: xBCrafted: 16
+12: Tango: 15
+13: ZombieCleo: 14
+14: Welsknight: 12
+15: VintageBeef: 11
+16: Etho: 11
+17: Tinfoilchef: 11
+18: joehillssays: 9
+19: MumboJumbo: 3
+Total 1672

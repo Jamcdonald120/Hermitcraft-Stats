@@ -1,0 +1,13 @@
+stat.useItem.minecraft.diamond_block
+1: Renthedog: 533
+2: Tinfoilchef: 508
+3: cubfan135: 327
+4: impulseSV: 277
+5: Xisuma: 56
+6: Tango: 40
+7: MumboJumbo: 32
+8: iskall85: 16
+9: PythonGB: 11
+10: VintageBeef: 1
+11: ZombieCleo: 1
+Total 1802

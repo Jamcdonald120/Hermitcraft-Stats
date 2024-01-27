@@ -1,0 +1,5 @@
+minecraft.dropped.ancient_debris
+1: Xisuma: 5
+2: joehillssays: 4
+3: Docm77: 1
+Total 10

@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.slime
+1: MumboJumbo: 8366
+2: Xisuma: 3018
+3: iskall85: 2799
+4: impulseSV: 2729
+5: Renthedog: 1059
+6: falsesymmetry: 951
+7: Tango: 576
+8: cubfan135: 358
+9: GoodTimeWithScar: 235
+10: Docm77: 175
+11: Tinfoilchef: 153
+Total 20419

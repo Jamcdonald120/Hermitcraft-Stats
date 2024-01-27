@@ -1,0 +1,15 @@
+stat.useItem.minecraft.clay
+1: Welsknight: 3050
+2: Xisuma: 2932
+3: cubfan135: 582
+4: GoodTimeWithScar: 365
+5: Renthedog: 256
+6: Tinfoilchef: 197
+7: Tango: 96
+8: zueljin: 26
+9: iskall85: 22
+10: VintageBeef: 7
+11: PythonGB: 7
+12: Etho: 6
+13: iJevin: 2
+Total 7548

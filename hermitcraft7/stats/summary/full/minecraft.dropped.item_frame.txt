@@ -1,0 +1,21 @@
+minecraft.dropped.item_frame
+1: Keralis1: 186
+2: BdoubleO100: 125
+3: cubfan135: 122
+4: Zedaph: 112
+5: Etho: 67
+6: Tango: 59
+7: Grian: 41
+8: iJevin: 36
+9: GoodTimeWithScar: 31
+10: falsesymmetry: 27
+11: iskall85: 20
+12: Xisuma: 14
+13: MumboJumbo: 2
+14: Stressmonster101: 2
+15: impulseSV: 2
+16: Renthedog: 1
+17: VintageBeef: 1
+18: joehillssays: 1
+19: ZombieCleo: 1
+Total 850

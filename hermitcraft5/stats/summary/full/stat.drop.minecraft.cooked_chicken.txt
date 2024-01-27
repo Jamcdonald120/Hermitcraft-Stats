@@ -1,0 +1,13 @@
+stat.drop.minecraft.cooked_chicken
+1: cubfan135: 259
+2: Tango: 224
+3: Zedaph: 218
+4: impulseSV: 43
+5: xBCrafted: 29
+6: Welsknight: 23
+7: MumboJumbo: 18
+8: GoodTimeWithScar: 7
+9: PythonGB: 3
+10: ZombieCleo: 1
+11: Tinfoilchef: 1
+Total 826

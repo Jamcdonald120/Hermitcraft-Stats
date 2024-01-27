@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.golden_axe
+1: iskall85: 1
+2: xBCrafted: 1
+Total 2

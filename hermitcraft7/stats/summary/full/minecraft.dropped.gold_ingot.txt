@@ -1,0 +1,25 @@
+minecraft.dropped.gold_ingot
+1: Renthedog: 1685
+2: cubfan135: 701
+3: Keralis1: 515
+4: iskall85: 325
+5: Etho: 325
+6: Tango: 275
+7: VintageBeef: 212
+8: joehillssays: 207
+9: ZombieCleo: 192
+10: Xisuma: 154
+11: hypnotizd: 126
+12: Zedaph: 113
+13: Grian: 103
+14: MumboJumbo: 61
+15: GoodTimeWithScar: 60
+16: Docm77: 50
+17: iJevin: 35
+18: xBCrafted: 25
+19: impulseSV: 11
+20: Welsknight: 5
+21: Stressmonster101: 4
+22: BdoubleO100: 3
+23: falsesymmetry: 3
+Total 5190

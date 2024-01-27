@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.green_glazed_terracotta
+1: falsesymmetry: 128
+2: joehillssays: 64
+Total 192

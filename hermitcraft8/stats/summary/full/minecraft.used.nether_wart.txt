@@ -1,0 +1,24 @@
+minecraft.used.nether_wart
+1: PearlescentMoon: 1464
+2: Etho: 988
+3: Xisuma: 964
+4: Docm77: 823
+5: BdoubleO100: 764
+6: Tango: 440
+7: Zedaph: 362
+8: cubfan135: 226
+9: GoodTimeWithScar: 222
+10: joehillssays: 175
+11: Grian: 101
+12: hypnotizd: 95
+13: iJevin: 83
+14: falsesymmetry: 56
+15: Renthedog: 40
+16: GeminiTay: 29
+17: ZombieCleo: 27
+18: impulseSV: 25
+19: VintageBeef: 12
+20: Welsknight: 12
+21: iskall85: 8
+22: Keralis1: 2
+Total 6918

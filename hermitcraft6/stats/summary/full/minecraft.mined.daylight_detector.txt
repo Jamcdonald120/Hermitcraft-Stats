@@ -1,0 +1,12 @@
+minecraft.mined.daylight_detector
+1: cubfan135: 185
+2: PythonGB: 16
+3: falsesymmetry: 15
+4: GoodTimeWithScar: 10
+5: Grian: 7
+6: iskall85: 7
+7: Docm77: 5
+8: iJevin: 4
+9: Zedaph: 4
+10: Xisuma: 2
+Total 255

@@ -1,0 +1,15 @@
+minecraft.dropped.oak_stairs
+1: Keralis1: 23
+2: Etho: 16
+3: GoodTimeWithScar: 16
+4: iskall85: 15
+5: Zedaph: 14
+6: Tango: 6
+7: Stressmonster101: 6
+8: Xisuma: 5
+9: xBCrafted: 4
+10: cubfan135: 4
+11: iJevin: 3
+12: BdoubleO100: 2
+13: VintageBeef: 1
+Total 115

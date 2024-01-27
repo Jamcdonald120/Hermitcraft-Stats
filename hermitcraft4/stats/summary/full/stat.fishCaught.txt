@@ -1,0 +1,6 @@
+stat.fishCaught
+1: MumboJumbo: 16322
+2: impulseSV: 1532
+3: Renthedog: 16
+4: falsesymmetry: 1
+Total 17871

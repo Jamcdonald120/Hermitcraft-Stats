@@ -1,0 +1,6 @@
+stat.useItem.minecraft.golden_sword
+1: impulseSV: 173
+2: Renthedog: 27
+3: iskall85: 7
+4: Tango: 5
+Total 212

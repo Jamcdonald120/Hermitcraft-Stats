@@ -1,0 +1,12 @@
+minecraft.dropped.clock
+1: Keralis1: 101
+2: BdoubleO100: 70
+3: PearlescentMoon: 36
+4: Zedaph: 36
+5: GoodTimeWithScar: 28
+6: Tango: 16
+7: impulseSV: 8
+8: xBCrafted: 1
+9: Etho: 1
+10: hypnotizd: 1
+Total 298

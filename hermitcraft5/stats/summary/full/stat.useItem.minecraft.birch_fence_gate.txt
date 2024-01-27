@@ -1,0 +1,12 @@
+stat.useItem.minecraft.birch_fence_gate
+1: MumboJumbo: 58
+2: impulseSV: 8
+3: xBCrafted: 5
+4: PythonGB: 4
+5: joehillssays: 4
+6: cubfan135: 4
+7: Biffa2001: 2
+8: ZombieCleo: 2
+9: VintageBeef: 1
+10: falsesymmetry: 1
+Total 89

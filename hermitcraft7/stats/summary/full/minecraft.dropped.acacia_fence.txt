@@ -1,0 +1,7 @@
+minecraft.dropped.acacia_fence
+1: GoodTimeWithScar: 83
+2: Renthedog: 16
+3: Tango: 4
+4: Xisuma: 1
+5: Etho: 1
+Total 105

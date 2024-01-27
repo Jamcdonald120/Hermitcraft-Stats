@@ -1,0 +1,7 @@
+stat.useItem.minecraft.beef
+1: iJevin: 56
+2: Renthedog: 15
+3: VintageBeef: 2
+4: Xisuma: 1
+5: Tinfoilchef: 1
+Total 75

@@ -1,0 +1,24 @@
+minecraft.used.loom
+1: PearlescentMoon: 296
+2: Tango: 166
+3: ZombieCleo: 96
+4: RentheKing: 48
+5: GoodTimeWithScar: 46
+6: iJevin: 31
+7: Keralis1: 27
+8: BdoubleO100: 24
+9: falsesymmetry: 22
+10: Docm77: 21
+11: xBCrafted: 13
+12: Xisuma: 10
+13: Renthedog: 10
+14: MythicalSausage: 7
+15: Etho: 7
+16: GeminiTay: 6
+17: impulseSV: 6
+18: VintageBeef: 4
+19: cubfan135: 4
+20: Zedaph: 4
+21: Smajor1995: 1
+22: Grian: 1
+Total 850

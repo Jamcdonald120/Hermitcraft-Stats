@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.red_glazed_terracotta
+1: joehillssays: 192
+2: falsesymmetry: 128
+3: Tango: 43
+Total 363

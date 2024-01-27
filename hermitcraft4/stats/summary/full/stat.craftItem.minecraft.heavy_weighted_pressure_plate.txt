@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.heavy_weighted_pressure_plate
+1: falsesymmetry: 166
+2: cubfan135: 117
+3: iskall85: 15
+4: GoodTimeWithScar: 13
+5: VintageBeef: 11
+6: Renthedog: 9
+7: Tango: 9
+8: ZombieCleo: 4
+9: PythonGB: 3
+10: Mumbo: 3
+11: impulseSV: 3
+12: zueljin: 1
+Total 354

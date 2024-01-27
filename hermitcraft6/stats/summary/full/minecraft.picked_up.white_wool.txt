@@ -1,0 +1,30 @@
+minecraft.picked_up.white_wool
+1: GoodTimeWithScar: 3226
+2: Xisuma: 1826
+3: Tango: 1210
+4: cubfan135: 945
+5: ZombieCleo: 780
+6: Welsknight: 688
+7: impulseSV: 657
+8: falsesymmetry: 636
+9: Renthedog: 591
+10: Biffa2001: 579
+11: iJevin: 563
+12: Docm77: 439
+13: iskall85: 411
+14: Grian: 329
+15: joehillssays: 282
+16: Zedaph: 272
+17: Tinfoilchef: 254
+18: BdoubleO100: 194
+19: Stressmonster101: 151
+20: xBCrafted: 132
+21: MumboJumbo: 101
+22: PythonGB: 60
+23: Jessassin: 15
+24: Keralis1: 11
+25: EvilXisuma: 6
+26: HumanCleo: 2
+27: PythonCam: 1
+28: BadTimeWithScar: 1
+Total 14362

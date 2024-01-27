@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.stone_slab2
+1: Tango: 777
+2: zueljin: 234
+3: Xisuma: 162
+4: xBCrafted: 132
+5: topmass: 18
+6: KingDaddyDMAC: 18
+7: iJevin: 6
+Total 1347

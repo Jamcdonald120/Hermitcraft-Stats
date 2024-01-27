@@ -1,0 +1,20 @@
+stat.pickup.minecraft.oak_stairs
+1: xBCrafted: 987
+2: Tinfoilchef: 369
+3: MumboJumbo: 233
+4: Welsknight: 223
+5: Stressmonster101: 222
+6: VintageBeef: 179
+7: cubfan135: 85
+8: iskall85: 66
+9: GoodTimeWithScar: 66
+10: falsesymmetry: 65
+11: impulseSV: 47
+12: Biffa2001: 39
+13: iJevin: 23
+14: Xisuma: 19
+15: Tango: 19
+16: PythonGB: 13
+17: Zedaph: 9
+18: joehillssays: 5
+Total 2669

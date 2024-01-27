@@ -1,0 +1,21 @@
+stat.pickup.minecraft.cobblestone_wall
+1: Xisuma: 1939
+2: falsesymmetry: 1310
+3: Welsknight: 1073
+4: cubfan135: 944
+5: iskall85: 887
+6: Tango: 828
+7: impulseSV: 420
+8: joehillssays: 327
+9: GoodTimeWithScar: 319
+10: Renthedog: 258
+11: iJevin: 221
+12: VintageBeef: 124
+13: ZombieCleo: 36
+14: MumboJumbo: 24
+15: Tinfoilchef: 23
+16: zueljin: 21
+17: PythonGB: 20
+18: Docm77: 16
+19: Etho: 1
+Total 8791

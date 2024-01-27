@@ -1,0 +1,27 @@
+minecraft.picked_up.paper
+1: Grian: 1297
+2: Tango: 1091
+3: iJevin: 672
+4: Renthedog: 551
+5: PearlescentMoon: 518
+6: GoodTimeWithScar: 273
+7: Etho: 218
+8: cubfan135: 190
+9: joehillssays: 128
+10: impulseSV: 98
+11: MumboJumbo: 86
+12: Keralis1: 85
+13: BdoubleO100: 81
+14: Zedaph: 72
+15: Xisuma: 69
+16: EvilXisuma: 64
+17: Docm77: 43
+18: iskall85: 43
+19: pillbugnine: 18
+20: xBCrafted: 12
+21: ZombieCleo: 11
+22: falsesymmetry: 9
+23: GeminiTay: 4
+24: VintageBeef: 3
+25: hypnotizd: 3
+Total 5639

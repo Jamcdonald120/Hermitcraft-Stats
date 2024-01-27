@@ -1,0 +1,4 @@
+stat.useItem.minecraft.golden_sword
+1: Renthedog: 28
+2: iskall85: 4
+Total 32

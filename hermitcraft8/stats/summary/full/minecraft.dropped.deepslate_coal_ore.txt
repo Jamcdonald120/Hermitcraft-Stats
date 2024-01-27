@@ -1,0 +1,14 @@
+minecraft.dropped.deepslate_coal_ore
+1: iJevin: 56
+2: MumboJumbo: 17
+3: Docm77: 5
+4: Xisuma: 3
+5: Grian: 3
+6: xBCrafted: 3
+7: hypnotizd: 3
+8: falsesymmetry: 1
+9: cubfan135: 1
+10: ZombieCleo: 1
+11: GoodTimeWithScar: 1
+12: Keralis1: 1
+Total 95

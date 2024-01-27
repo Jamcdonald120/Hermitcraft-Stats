@@ -1,0 +1,21 @@
+stat.pickup.minecraft.shulker_shell
+1: cubfan135: 1846
+2: iskall85: 1168
+3: GoodTimeWithScar: 826
+4: Tango: 562
+5: Xisuma: 528
+6: Renthedog: 378
+7: MumboJumbo: 283
+8: Zedaph: 280
+9: Welsknight: 273
+10: PythonGB: 226
+11: iJevin: 220
+12: impulseSV: 208
+13: falsesymmetry: 161
+14: Tinfoilchef: 132
+15: xBCrafted: 100
+16: Biffa2001: 86
+17: Docm77: 70
+18: Etho: 36
+19: Stressmonster101: 12
+Total 7395

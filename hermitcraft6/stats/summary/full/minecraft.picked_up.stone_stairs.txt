@@ -1,0 +1,20 @@
+minecraft.picked_up.stone_stairs
+1: GoodTimeWithScar: 431
+2: Renthedog: 409
+3: Grian: 243
+4: iskall85: 146
+5: Xisuma: 123
+6: Docm77: 114
+7: cubfan135: 100
+8: Tango: 97
+9: Keralis1: 95
+10: BdoubleO100: 34
+11: Stressmonster101: 28
+12: falsesymmetry: 27
+13: Welsknight: 21
+14: MumboJumbo: 4
+15: impulseSV: 2
+16: Zedaph: 2
+17: HumanCleo: 1
+18: joehillssays: 1
+Total 1878

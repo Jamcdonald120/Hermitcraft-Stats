@@ -1,0 +1,21 @@
+stat.useItem.minecraft.cobblestone_wall
+1: Xisuma: 2535
+2: Tango: 1659
+3: iskall85: 1436
+4: Welsknight: 1379
+5: falsesymmetry: 1192
+6: cubfan135: 784
+7: impulseSV: 660
+8: Renthedog: 650
+9: GoodTimeWithScar: 444
+10: joehillssays: 372
+11: VintageBeef: 325
+12: MumboJumbo: 227
+13: PythonGB: 80
+14: Tinfoilchef: 62
+15: Mumbo: 60
+16: iJevin: 55
+17: Docm77: 47
+18: ZombieCleo: 24
+19: zueljin: 9
+Total 12000

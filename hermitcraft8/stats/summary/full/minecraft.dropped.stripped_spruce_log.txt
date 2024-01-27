@@ -1,0 +1,8 @@
+minecraft.dropped.stripped_spruce_log
+1: Tango: 12
+2: GoodTimeWithScar: 7
+3: falsesymmetry: 4
+4: PearlescentMoon: 3
+5: Grian: 1
+6: iskall85: 1
+Total 28

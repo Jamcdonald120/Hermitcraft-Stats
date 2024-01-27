@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.brown_mushroom
+1: Renthedog: 1291
+2: Zedaph: 448
+3: iskall85: 295
+4: cubfan135: 267
+5: falsesymmetry: 148
+6: Xisuma: 98
+7: GoodTimeWithScar: 66
+8: Stressmonster101: 34
+9: Tango: 32
+10: xBCrafted: 32
+11: Tinfoilchef: 24
+12: iJevin: 18
+13: impulseSV: 14
+14: Etho: 12
+15: PythonGB: 11
+16: joehillssays: 11
+17: MumboJumbo: 5
+18: VintageBeef: 4
+19: Welsknight: 3
+20: Docm77: 2
+21: ZombieCleo: 1
+Total 2816

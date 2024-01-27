@@ -1,0 +1,26 @@
+minecraft.crafted.iron_shovel
+1: joehillssays: 250
+2: impulseSV: 233
+3: MumboJumbo: 89
+4: GoodTimeWithScar: 35
+5: Zedaph: 28
+6: Grian: 22
+7: Renthedog: 19
+8: falsesymmetry: 15
+9: Tango: 13
+10: Etho: 13
+11: iskall85: 12
+12: cubfan135: 12
+13: VintageBeef: 11
+14: BdoubleO100: 9
+15: ZombieCleo: 8
+16: hypnotizd: 7
+17: Xisuma: 6
+18: Docm77: 4
+19: xBCrafted: 4
+20: Welsknight: 2
+21: Tinfoilchef: 2
+22: Stressmonster101: 2
+23: Keralis1: 2
+24: iJevin: 1
+Total 799

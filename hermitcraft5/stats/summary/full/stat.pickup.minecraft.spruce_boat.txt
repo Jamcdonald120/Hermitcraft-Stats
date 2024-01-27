@@ -1,0 +1,20 @@
+stat.pickup.minecraft.spruce_boat
+1: Renthedog: 148
+2: cubfan135: 131
+3: joehillssays: 75
+4: Xisuma: 48
+5: Tinfoilchef: 36
+6: iskall85: 33
+7: xBCrafted: 32
+8: falsesymmetry: 30
+9: GoodTimeWithScar: 24
+10: Zedaph: 22
+11: Welsknight: 20
+12: Stressmonster101: 18
+13: ZombieCleo: 6
+14: PythonGB: 5
+15: Biffa2001: 4
+16: MumboJumbo: 4
+17: iJevin: 3
+18: Tango: 2
+Total 641

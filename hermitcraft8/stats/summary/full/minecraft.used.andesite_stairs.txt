@@ -1,0 +1,16 @@
+minecraft.used.andesite_stairs
+1: impulseSV: 433
+2: Renthedog: 145
+3: Docm77: 131
+4: joehillssays: 116
+5: Xisuma: 44
+6: Tango: 39
+7: PearlescentMoon: 31
+8: BdoubleO100: 19
+9: Keralis1: 17
+10: Etho: 13
+11: xBCrafted: 6
+12: GoodTimeWithScar: 6
+13: iJevin: 4
+14: falsesymmetry: 1
+Total 1005

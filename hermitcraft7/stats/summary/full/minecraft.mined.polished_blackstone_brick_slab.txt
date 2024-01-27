@@ -1,0 +1,22 @@
+minecraft.mined.polished_blackstone_brick_slab
+1: Tango: 1622
+2: Renthedog: 1285
+3: iJevin: 961
+4: cubfan135: 297
+5: Etho: 220
+6: Xisuma: 193
+7: iskall85: 122
+8: falsesymmetry: 102
+9: hypnotizd: 92
+10: xBCrafted: 38
+11: Docm77: 25
+12: VintageBeef: 23
+13: ZombieCleo: 17
+14: MumboJumbo: 17
+15: Grian: 14
+16: Zedaph: 14
+17: joehillssays: 9
+18: impulseSV: 7
+19: Stressmonster101: 5
+20: GoodTimeWithScar: 3
+Total 5066

@@ -1,0 +1,3 @@
+stat.useItem.minecraft.wooden_hoe
+1: ZombieCleo: 18
+Total 18

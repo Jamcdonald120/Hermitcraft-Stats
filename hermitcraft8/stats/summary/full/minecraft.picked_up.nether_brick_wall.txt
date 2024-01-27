@@ -1,0 +1,6 @@
+minecraft.picked_up.nether_brick_wall
+1: GoodTimeWithScar: 29
+2: iJevin: 21
+3: Xisuma: 5
+4: VintageBeef: 1
+Total 56

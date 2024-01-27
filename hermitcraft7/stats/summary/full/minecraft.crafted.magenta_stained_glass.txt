@@ -1,0 +1,15 @@
+minecraft.crafted.magenta_stained_glass
+1: Stressmonster101: 1688
+2: Etho: 640
+3: Docm77: 200
+4: VintageBeef: 136
+5: Tango: 64
+6: iskall85: 64
+7: Xisuma: 40
+8: joehillssays: 32
+9: Renthedog: 16
+10: cubfan135: 16
+11: MumboJumbo: 16
+12: GoodTimeWithScar: 16
+13: impulseSV: 16
+Total 2944

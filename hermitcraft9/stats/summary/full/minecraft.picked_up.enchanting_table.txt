@@ -1,0 +1,16 @@
+minecraft.picked_up.enchanting_table
+1: Etho: 15
+2: iJevin: 6
+3: Zedaph: 6
+4: Xisuma: 5
+5: cubfan135: 5
+6: RentheKing: 3
+7: VintageBeef: 2
+8: joehillssays: 2
+9: PearlescentMoon: 2
+10: Renthedog: 1
+11: GeminiTay: 1
+12: Tango: 1
+13: hypnotizd: 1
+14: impulseSV: 1
+Total 51

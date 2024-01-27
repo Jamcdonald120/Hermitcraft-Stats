@@ -1,0 +1,4 @@
+stat.mineBlock.80
+1: Keralis1: 100
+2: red3yz: 12
+Total 112

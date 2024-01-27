@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.golden_leggings
+1: falsesymmetry: 12
+2: MumboJumbo: 10
+3: iskall85: 9
+4: Renthedog: 7
+5: joehillssays: 4
+6: cubfan135: 3
+7: Xisuma: 1
+Total 46

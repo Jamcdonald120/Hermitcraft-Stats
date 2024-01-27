@@ -1,0 +1,18 @@
+minecraft.crafted.light_blue_stained_glass_pane
+1: impulseSV: 2585
+2: Tinfoilchef: 1408
+3: GoodTimeWithScar: 1024
+4: Xisuma: 656
+5: Etho: 464
+6: Keralis1: 144
+7: iskall85: 128
+8: joehillssays: 64
+9: VintageBeef: 48
+10: Tango: 48
+11: falsesymmetry: 48
+12: cubfan135: 48
+13: BdoubleO100: 32
+14: Grian: 16
+15: MumboJumbo: 16
+16: Zedaph: 16
+Total 6745

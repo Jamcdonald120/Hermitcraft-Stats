@@ -1,0 +1,27 @@
+minecraft.crafted.iron_shovel
+1: iskall85: 200
+2: Tinfoilchef: 43
+3: MumboJumbo: 32
+4: Zedaph: 27
+5: GoodTimeWithScar: 25
+6: cubfan135: 23
+7: Keralis1: 22
+8: joehillssays: 20
+9: Docm77: 18
+10: impulseSV: 16
+11: falsesymmetry: 12
+12: BdoubleO100: 11
+13: Xisuma: 8
+14: xBCrafted: 8
+15: Stressmonster101: 7
+16: Jessassin: 6
+17: Welsknight: 6
+18: Renthedog: 5
+19: iJevin: 5
+20: PythonGB: 4
+21: Tango: 3
+22: Biffa2001: 2
+23: ZombieCleo: 2
+24: EvilXisuma: 1
+25: Grian: 1
+Total 507

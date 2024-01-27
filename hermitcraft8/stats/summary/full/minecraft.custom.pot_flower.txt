@@ -1,0 +1,24 @@
+minecraft.custom.pot_flower
+1: PearlescentMoon: 130
+2: MumboJumbo: 61
+3: cubfan135: 60
+4: GeminiTay: 58
+5: joehillssays: 34
+6: BdoubleO100: 32
+7: GoodTimeWithScar: 30
+8: Keralis1: 27
+9: Xisuma: 20
+10: Etho: 20
+11: Grian: 19
+12: falsesymmetry: 19
+13: impulseSV: 18
+14: iJevin: 16
+15: Renthedog: 10
+16: iskall85: 9
+17: Tango: 8
+18: Welsknight: 6
+19: VintageBeef: 4
+20: Docm77: 1
+21: ZombieCleo: 1
+22: Stressmonster101: 1
+Total 584

@@ -1,0 +1,10 @@
+stat.drop.minecraft.ender_eye
+1: Tango: 60
+2: Welsknight: 16
+3: MumboJumbo: 8
+4: Zedaph: 4
+5: Docm77: 2
+6: BdoubleO100: 2
+7: iskall85: 1
+8: cubfan135: 1
+Total 94

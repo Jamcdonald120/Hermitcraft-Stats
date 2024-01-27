@@ -1,0 +1,34 @@
+minecraft.used.sweet_berries
+1: PearlescentMoon: 2640
+2: Etho: 2239
+3: cubfan135: 2139
+4: GoodTimeWithScar: 1964
+5: Docm77: 1913
+6: GeminiTay: 1578
+7: Keralis1: 1503
+8: hypnotizd: 1441
+9: iJevin: 1095
+10: joehillssays: 558
+11: Grian: 527
+12: Tango: 427
+13: falsesymmetry: 405
+14: BdoubleO100: 331
+15: Renthedog: 264
+16: Xisuma: 254
+17: Zedaph: 215
+18: iskall85: 191
+19: impulseSV: 184
+20: ZombieCleo: 149
+21: xBCrafted: 67
+22: MythicalSausage: 35
+23: InTheLittleWood: 32
+24: Smallishbeans: 30
+25: SolidarityGaming: 29
+26: HBomb94: 26
+27: OrionSound: 24
+28: VintageBeef: 20
+29: Stressmonster101: 20
+30: Skizzleman: 8
+31: Pixlriffs: 6
+32: LDShadowLady: 1
+Total 20315

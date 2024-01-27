@@ -1,0 +1,26 @@
+minecraft.picked_up.baked_potato
+1: Grian: 2412
+2: MumboJumbo: 1967
+3: PearlescentMoon: 1344
+4: Renthedog: 1139
+5: GoodTimeWithScar: 1106
+6: impulseSV: 828
+7: joehillssays: 627
+8: cubfan135: 460
+9: iJevin: 410
+10: Tango: 386
+11: iskall85: 373
+12: ZombieCleo: 202
+13: Etho: 150
+14: pillbugnine: 136
+15: Welsknight: 65
+16: Keralis1: 64
+17: xBCrafted: 55
+18: Stressmonster101: 48
+19: falsesymmetry: 15
+20: GeminiTay: 9
+21: Xisuma: 8
+22: hypnotizd: 5
+23: Docm77: 4
+24: VintageBeef: 2
+Total 11815

@@ -1,0 +1,23 @@
+stat.useItem.minecraft.boat
+1: monkeyfarm: 115
+2: falsesymmetry: 74
+3: Biffa2001: 59
+4: zueljin: 39
+5: xBCrafted: 39
+6: hypnotizd: 27
+7: Xisuma: 15
+8: Tinfoilchef: 8
+9: ZombieCleo: 7
+10: impulseSV: 7
+11: Tango: 6
+12: Etho: 6
+13: Keralis1: 6
+14: KingDaddyDMAC: 5
+15: Spumwackles: 5
+16: sl1pg8r: 4
+17: skyzm: 3
+18: Docm77: 2
+19: Pungence: 2
+20: Mumbo: 2
+21: PythonGB: 1
+Total 432

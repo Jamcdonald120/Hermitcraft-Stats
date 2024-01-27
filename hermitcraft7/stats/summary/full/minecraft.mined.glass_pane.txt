@@ -1,0 +1,23 @@
+minecraft.mined.glass_pane
+1: VintageBeef: 302
+2: xBCrafted: 285
+3: cubfan135: 268
+4: iJevin: 106
+5: Etho: 76
+6: Xisuma: 75
+7: joehillssays: 68
+8: MumboJumbo: 65
+9: Keralis1: 64
+10: Grian: 47
+11: ZombieCleo: 42
+12: Tinfoilchef: 34
+13: iskall85: 33
+14: falsesymmetry: 26
+15: Renthedog: 10
+16: Tango: 9
+17: hypnotizd: 9
+18: Zedaph: 6
+19: Docm77: 4
+20: BdoubleO100: 2
+21: GoodTimeWithScar: 2
+Total 1533

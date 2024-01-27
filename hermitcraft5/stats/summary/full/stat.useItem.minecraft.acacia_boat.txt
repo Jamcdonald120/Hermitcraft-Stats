@@ -1,0 +1,12 @@
+stat.useItem.minecraft.acacia_boat
+1: GoodTimeWithScar: 19
+2: cubfan135: 8
+3: iskall85: 7
+4: joehillssays: 5
+5: Xisuma: 2
+6: Renthedog: 2
+7: PythonGB: 2
+8: falsesymmetry: 2
+9: Welsknight: 2
+10: MumboJumbo: 1
+Total 50

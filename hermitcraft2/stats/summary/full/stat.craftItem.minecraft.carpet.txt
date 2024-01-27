@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.carpet
+1: Xisuma: 285
+2: zueljin: 114
+3: ZombieCleo: 33
+4: falsesymmetry: 15
+5: xBCrafted: 12
+Total 459

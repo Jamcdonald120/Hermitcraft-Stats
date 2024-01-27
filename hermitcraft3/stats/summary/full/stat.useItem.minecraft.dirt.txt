@@ -1,0 +1,32 @@
+stat.useItem.minecraft.dirt
+1: falsesymmetry: 93521
+2: Xisuma: 44571
+3: Tango: 28653
+4: xBCrafted: 25765
+5: sl1pg8r: 20380
+6: zueljin: 19751
+7: monkeyfarm: 12070
+8: Tinfoilchef: 11353
+9: impulseSV: 10857
+10: hypnotizd: 7313
+11: Spumwackles: 7104
+12: Mumbo: 6659
+13: topmass: 6248
+14: Biffa2001: 6066
+15: ZombieCleo: 5774
+16: PythonGB: 3672
+17: Keralis1: 2471
+18: iJevin: 2390
+19: KingDaddyDMAC: 2239
+20: joehillssays: 1878
+21: NameOfSamuel: 1856
+22: Etho: 1696
+23: Docm77: 1282
+24: skyzm: 767
+25: Pungence: 288
+26: snipepager: 264
+27: Collen: 147
+28: Mrs_Keralis: 18
+29: xisumavoid: 7
+30: truesymmetry: 1
+Total 325061

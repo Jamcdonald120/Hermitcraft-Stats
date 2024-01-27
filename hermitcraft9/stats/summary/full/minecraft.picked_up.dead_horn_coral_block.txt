@@ -1,0 +1,10 @@
+minecraft.picked_up.dead_horn_coral_block
+1: GoodTimeWithScar: 1841
+2: joehillssays: 655
+3: impulseSV: 451
+4: Keralis1: 33
+5: Docm77: 3
+6: Xisuma: 1
+7: RentheKing: 1
+8: Zedaph: 1
+Total 2986

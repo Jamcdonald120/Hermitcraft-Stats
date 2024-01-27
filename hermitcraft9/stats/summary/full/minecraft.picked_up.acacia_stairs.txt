@@ -1,0 +1,11 @@
+minecraft.picked_up.acacia_stairs
+1: falsesymmetry: 40
+2: impulseSV: 36
+3: Keralis1: 13
+4: GoodTimeWithScar: 10
+5: Xisuma: 9
+6: PearlescentMoon: 6
+7: Renthedog: 2
+8: cubfan135: 2
+9: Etho: 2
+Total 120

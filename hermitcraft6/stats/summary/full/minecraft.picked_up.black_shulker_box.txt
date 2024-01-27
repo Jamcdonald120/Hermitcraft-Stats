@@ -1,0 +1,19 @@
+minecraft.picked_up.black_shulker_box
+1: iskall85: 658
+2: Xisuma: 599
+3: ZombieCleo: 460
+4: Docm77: 290
+5: iJevin: 264
+6: cubfan135: 147
+7: PythonGB: 131
+8: falsesymmetry: 122
+9: GoodTimeWithScar: 98
+10: Tango: 97
+11: Renthedog: 95
+12: HumanCleo: 90
+13: Stressmonster101: 79
+14: impulseSV: 59
+15: Biffa2001: 27
+16: Grian: 16
+17: Zedaph: 6
+Total 3238

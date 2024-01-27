@@ -1,0 +1,26 @@
+minecraft.picked_up.brown_terracotta
+1: impulseSV: 30705
+2: Renthedog: 16423
+3: PearlescentMoon: 15443
+4: VintageBeef: 12027
+5: Docm77: 11591
+6: Etho: 4246
+7: joehillssays: 3889
+8: Keralis1: 2648
+9: falsesymmetry: 2025
+10: cubfan135: 1345
+11: Tango: 1112
+12: Xisuma: 448
+13: MythicalSausage: 430
+14: iskall85: 410
+15: GoodTimeWithScar: 406
+16: RentheKing: 246
+17: Grian: 135
+18: iJevin: 83
+19: xBCrafted: 26
+20: Stressmonster101: 24
+21: Zedaph: 6
+22: BdoubleO100: 3
+23: hypnotizd: 2
+24: GeminiTay: 1
+Total 103674

@@ -1,0 +1,29 @@
+minecraft.used.anvil
+1: cubfan135: 423
+2: iskall85: 182
+3: Xisuma: 171
+4: Renthedog: 157
+5: GoodTimeWithScar: 125
+6: Grian: 123
+7: Tango: 102
+8: Docm77: 98
+9: falsesymmetry: 89
+10: impulseSV: 67
+11: iJevin: 60
+12: Stressmonster101: 53
+13: joehillssays: 39
+14: PythonGB: 31
+15: Zedaph: 27
+16: MumboJumbo: 26
+17: Welsknight: 22
+18: BdoubleO100: 18
+19: Biffa2001: 17
+20: Tinfoilchef: 12
+21: ZombieCleo: 10
+22: Keralis1: 7
+23: xBCrafted: 5
+24: HumanCleo: 3
+25: Jessassin: 1
+26: PythonCam: 1
+27: Mumbo: 1
+Total 1870

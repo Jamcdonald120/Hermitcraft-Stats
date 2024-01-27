@@ -1,0 +1,20 @@
+minecraft.crafted.cyan_concrete_powder
+1: Stressmonster101: 10496
+2: falsesymmetry: 9544
+3: Xisuma: 6664
+4: Tango: 4376
+5: GoodTimeWithScar: 3920
+6: impulseSV: 2760
+7: iJevin: 2456
+8: VintageBeef: 2424
+9: MumboJumbo: 1056
+10: hypnotizd: 840
+11: Etho: 768
+12: BdoubleO100: 440
+13: cubfan135: 272
+14: Keralis1: 272
+15: xBCrafted: 128
+16: iskall85: 96
+17: Renthedog: 72
+18: Docm77: 32
+Total 46616

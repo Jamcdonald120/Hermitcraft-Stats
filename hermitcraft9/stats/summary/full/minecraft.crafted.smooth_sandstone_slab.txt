@@ -1,0 +1,13 @@
+minecraft.crafted.smooth_sandstone_slab
+1: GoodTimeWithScar: 732
+2: ZombieCleo: 714
+3: Xisuma: 232
+4: Docm77: 126
+5: cubfan135: 100
+6: PearlescentMoon: 62
+7: hypnotizd: 50
+8: Keralis1: 42
+9: VintageBeef: 24
+10: xBCrafted: 2
+11: Zedaph: 2
+Total 2086

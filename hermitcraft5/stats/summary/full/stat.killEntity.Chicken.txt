@@ -1,0 +1,25 @@
+stat.killEntity.Chicken
+1: Tinfoilchef: 1485
+2: ZombieCleo: 766
+3: cubfan135: 602
+4: Tango: 266
+5: Zedaph: 147
+6: falsesymmetry: 87
+7: Etho: 82
+8: PythonGB: 75
+9: iskall85: 66
+10: joehillssays: 59
+11: MumboJumbo: 53
+12: BdoubleO100: 52
+13: Xisuma: 48
+14: Stressmonster101: 43
+15: xBCrafted: 40
+16: impulseSV: 34
+17: GoodTimeWithScar: 32
+18: Welsknight: 20
+19: Renthedog: 18
+20: VintageBeef: 15
+21: iJevin: 4
+22: Docm77: 3
+23: Biffa2001: 2
+Total 3999

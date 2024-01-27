@@ -1,0 +1,12 @@
+minecraft.picked_up.fletching_table
+1: iJevin: 50
+2: impulseSV: 28
+3: Stressmonster101: 24
+4: GoodTimeWithScar: 10
+5: Docm77: 9
+6: iskall85: 5
+7: Renthedog: 2
+8: Tango: 2
+9: xBCrafted: 2
+10: GeminiTay: 1
+Total 133

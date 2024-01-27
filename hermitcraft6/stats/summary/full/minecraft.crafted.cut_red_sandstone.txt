@@ -1,0 +1,5 @@
+minecraft.crafted.cut_red_sandstone
+1: cubfan135: 892
+2: Xisuma: 88
+3: iJevin: 4
+Total 984

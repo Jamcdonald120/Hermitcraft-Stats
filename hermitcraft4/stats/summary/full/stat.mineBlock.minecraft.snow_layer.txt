@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.snow_layer
+1: GoodTimeWithScar: 14045
+2: falsesymmetry: 10428
+3: Xisuma: 5505
+4: iskall85: 4629
+5: cubfan135: 4294
+6: impulseSV: 2356
+7: Renthedog: 1949
+8: Welsknight: 1174
+9: Tinfoilchef: 737
+10: MumboJumbo: 696
+11: Docm77: 475
+12: Etho: 466
+13: PythonGB: 302
+14: Tango: 194
+15: VintageBeef: 86
+16: joehillssays: 84
+17: iJevin: 7
+18: xBCrafted: 1
+Total 47428

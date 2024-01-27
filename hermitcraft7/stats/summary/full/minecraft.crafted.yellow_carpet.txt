@@ -1,0 +1,18 @@
+minecraft.crafted.yellow_carpet
+1: VintageBeef: 14463
+2: Xisuma: 1737
+3: BdoubleO100: 708
+4: Tango: 695
+5: Keralis1: 660
+6: cubfan135: 583
+7: MumboJumbo: 576
+8: joehillssays: 534
+9: Zedaph: 231
+10: Etho: 120
+11: iskall85: 117
+12: GoodTimeWithScar: 111
+13: Stressmonster101: 30
+14: ZombieCleo: 24
+15: impulseSV: 9
+16: Grian: 3
+Total 20601

@@ -1,0 +1,7 @@
+minecraft.dropped.stripped_dark_oak_wood
+1: Renthedog: 64
+2: Grian: 32
+3: GoodTimeWithScar: 9
+4: Xisuma: 1
+5: Keralis1: 1
+Total 107

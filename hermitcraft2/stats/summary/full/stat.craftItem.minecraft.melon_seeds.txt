@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.melon_seeds
+1: falsesymmetry: 19
+Total 19

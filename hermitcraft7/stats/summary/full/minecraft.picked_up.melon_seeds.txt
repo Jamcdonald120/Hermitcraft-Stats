@@ -1,0 +1,23 @@
+minecraft.picked_up.melon_seeds
+1: Stressmonster101: 135
+2: cubfan135: 130
+3: Keralis1: 130
+4: Renthedog: 85
+5: Docm77: 81
+6: xBCrafted: 74
+7: GoodTimeWithScar: 70
+8: Grian: 41
+9: joehillssays: 27
+10: impulseSV: 27
+11: Zedaph: 27
+12: Xisuma: 17
+13: Etho: 17
+14: iJevin: 14
+15: falsesymmetry: 12
+16: Tango: 8
+17: Welsknight: 3
+18: MumboJumbo: 3
+19: BdoubleO100: 2
+20: hypnotizd: 2
+21: ZombieCleo: 1
+Total 906

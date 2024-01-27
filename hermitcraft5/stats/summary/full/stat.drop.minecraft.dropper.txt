@@ -1,0 +1,10 @@
+stat.drop.minecraft.dropper
+1: Tango: 69
+2: impulseSV: 37
+3: MumboJumbo: 22
+4: Xisuma: 13
+5: iskall85: 10
+6: Welsknight: 5
+7: xBCrafted: 2
+8: GoodTimeWithScar: 1
+Total 159

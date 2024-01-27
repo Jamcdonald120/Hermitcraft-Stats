@@ -1,0 +1,17 @@
+minecraft.crafted.birch_fence
+1: MumboJumbo: 246
+2: GeminiTay: 159
+3: Docm77: 129
+4: Grian: 126
+5: Renthedog: 84
+6: cubfan135: 78
+7: joehillssays: 57
+8: impulseSV: 48
+9: PearlescentMoon: 30
+10: Xisuma: 27
+11: ZombieCleo: 9
+12: BdoubleO100: 3
+13: Welsknight: 3
+14: Keralis1: 3
+15: Zedaph: 3
+Total 1005

@@ -1,0 +1,5 @@
+minecraft.dropped.green_stained_glass_pane
+1: falsesymmetry: 45
+2: Zedaph: 23
+3: Grian: 1
+Total 69

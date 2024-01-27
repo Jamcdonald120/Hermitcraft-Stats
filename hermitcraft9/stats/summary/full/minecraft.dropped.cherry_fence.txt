@@ -1,0 +1,5 @@
+minecraft.dropped.cherry_fence
+1: Zedaph: 4
+2: Grian: 3
+3: GoodTimeWithScar: 3
+Total 10

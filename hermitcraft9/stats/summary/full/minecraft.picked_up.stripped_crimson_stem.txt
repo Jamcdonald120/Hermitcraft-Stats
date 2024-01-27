@@ -1,0 +1,28 @@
+minecraft.picked_up.stripped_crimson_stem
+1: ZombieCleo: 863
+2: Xisuma: 627
+3: VintageBeef: 478
+4: cubfan135: 308
+5: Zedaph: 187
+6: PearlescentMoon: 170
+7: impulseSV: 153
+8: hypnotizd: 150
+9: GoodTimeWithScar: 105
+10: falsesymmetry: 97
+11: xBCrafted: 81
+12: Keralis1: 80
+13: Stressmonster101: 69
+14: iJevin: 57
+15: Tango: 49
+16: joehillssays: 36
+17: fWhip: 36
+18: Smajor1995: 31
+19: Renthedog: 27
+20: Docm77: 14
+21: Etho: 14
+22: Grian: 5
+23: GeminiTay: 2
+24: OrionSound: 1
+25: Welsknight: 1
+26: ShubbleYT: 1
+Total 3642

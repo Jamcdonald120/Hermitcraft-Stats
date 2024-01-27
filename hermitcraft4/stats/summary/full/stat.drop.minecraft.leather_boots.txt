@@ -1,0 +1,15 @@
+stat.drop.minecraft.leather_boots
+1: MumboJumbo: 169
+2: falsesymmetry: 22
+3: impulseSV: 13
+4: GoodTimeWithScar: 11
+5: Tango: 8
+6: cubfan135: 7
+7: Renthedog: 5
+8: iskall85: 4
+9: Etho: 4
+10: Docm77: 2
+11: Xisuma: 2
+12: PythonGB: 2
+13: Welsknight: 2
+Total 251

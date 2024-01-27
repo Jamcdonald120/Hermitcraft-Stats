@@ -1,0 +1,17 @@
+minecraft.picked_up.lapis_block
+1: cubfan135: 336
+2: GoodTimeWithScar: 152
+3: Grian: 114
+4: Etho: 88
+5: Zedaph: 58
+6: iJevin: 47
+7: xBCrafted: 29
+8: VintageBeef: 23
+9: Docm77: 16
+10: BdoubleO100: 12
+11: Renthedog: 6
+12: GeminiTay: 5
+13: Stressmonster101: 2
+14: Xisuma: 1
+15: falsesymmetry: 1
+Total 890

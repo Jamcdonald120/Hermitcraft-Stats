@@ -1,0 +1,13 @@
+minecraft.picked_up.brown_wool
+1: Zedaph: 555
+2: Tango: 526
+3: Grian: 196
+4: GoodTimeWithScar: 166
+5: PearlescentMoon: 156
+6: Welsknight: 117
+7: iJevin: 7
+8: VintageBeef: 6
+9: impulseSV: 4
+10: joehillssays: 3
+11: ZombieCleo: 1
+Total 1737

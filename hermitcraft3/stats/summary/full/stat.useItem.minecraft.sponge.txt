@@ -1,0 +1,9 @@
+stat.useItem.minecraft.sponge
+1: hypnotizd: 3497
+2: xBCrafted: 3220
+3: falsesymmetry: 960
+4: Mumbo: 585
+5: Biffa2001: 344
+6: monkeyfarm: 308
+7: iJevin: 2
+Total 8916

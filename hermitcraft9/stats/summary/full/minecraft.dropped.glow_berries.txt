@@ -1,0 +1,21 @@
+minecraft.dropped.glow_berries
+1: iJevin: 203
+2: Tango: 155
+3: cubfan135: 142
+4: Zedaph: 50
+5: hypnotizd: 30
+6: Grian: 24
+7: falsesymmetry: 16
+8: impulseSV: 12
+9: Etho: 9
+10: Renthedog: 7
+11: iskall85: 6
+12: ZombieCleo: 6
+13: Docm77: 5
+14: PearlescentMoon: 4
+15: xBCrafted: 4
+16: joehillssays: 1
+17: GoodTimeWithScar: 1
+18: Stressmonster101: 1
+19: Keralis1: 1
+Total 677

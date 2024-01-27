@@ -1,0 +1,31 @@
+minecraft.dropped.water_bucket
+1: ZombieCleo: 234
+2: GoodTimeWithScar: 27
+3: iJevin: 23
+4: Tango: 19
+5: Keralis1: 19
+6: Zedaph: 19
+7: falsesymmetry: 16
+8: impulseSV: 15
+9: Renthedog: 14
+10: Grian: 13
+11: PearlescentMoon: 10
+12: GeminiTay: 8
+13: cubfan135: 8
+14: joehillssays: 5
+15: Etho: 5
+16: Xisuma: 4
+17: BdoubleO100: 4
+18: VintageBeef: 3
+19: RentheKing: 2
+20: hypnotizd: 2
+21: Stressmonster101: 2
+22: OrionSound: 1
+23: Smajor1995: 1
+24: MythicalSausage: 1
+25: Smallishbeans: 1
+26: iskall85: 1
+27: xBCrafted: 1
+28: Mumbo: 1
+29: MumboJumbo: 1
+Total 460

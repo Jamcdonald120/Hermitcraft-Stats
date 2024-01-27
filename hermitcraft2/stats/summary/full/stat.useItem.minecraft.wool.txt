@@ -1,0 +1,13 @@
+stat.useItem.minecraft.wool
+1: ZombieCleo: 9603
+2: Spumwackles: 4624
+3: falsesymmetry: 820
+4: Xisuma: 544
+5: iJevin: 398
+6: HttpsSecure: 119
+7: KingDaddyDMAC: 14
+8: zueljin: 13
+9: Tango: 5
+10: Collen: 5
+11: Biffa2001: 3
+Total 16148

@@ -1,0 +1,4 @@
+minecraft.crafted.brown_banner
+1: GoodTimeWithScar: 27
+2: cubfan135: 19
+Total 46

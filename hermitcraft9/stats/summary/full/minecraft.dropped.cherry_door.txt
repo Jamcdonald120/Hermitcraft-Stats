@@ -1,0 +1,6 @@
+minecraft.dropped.cherry_door
+1: falsesymmetry: 4
+2: Zedaph: 4
+3: Grian: 1
+4: GoodTimeWithScar: 1
+Total 10

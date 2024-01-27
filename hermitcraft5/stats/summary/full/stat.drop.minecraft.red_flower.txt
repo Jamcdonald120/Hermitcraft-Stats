@@ -1,0 +1,24 @@
+stat.drop.minecraft.red_flower
+1: Tango: 36472
+2: cubfan135: 15778
+3: MumboJumbo: 6164
+4: xBCrafted: 1355
+5: impulseSV: 1064
+6: GoodTimeWithScar: 551
+7: Xisuma: 450
+8: Zedaph: 422
+9: falsesymmetry: 281
+10: Stressmonster101: 59
+11: Renthedog: 54
+12: iskall85: 48
+13: BdoubleO100: 19
+14: joehillssays: 11
+15: Docm77: 10
+16: iJevin: 7
+17: ZombieCleo: 5
+18: Welsknight: 4
+19: VintageBeef: 3
+20: PythonGB: 2
+21: Biffa2001: 2
+22: Tinfoilchef: 2
+Total 62763

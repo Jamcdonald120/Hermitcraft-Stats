@@ -1,0 +1,24 @@
+minecraft.picked_up.beetroot_seeds
+1: Zedaph: 5614
+2: cubfan135: 470
+3: PearlescentMoon: 411
+4: Xisuma: 348
+5: joehillssays: 334
+6: GeminiTay: 269
+7: ZombieCleo: 258
+8: Tango: 65
+9: Welsknight: 27
+10: Grian: 25
+11: BdoubleO100: 23
+12: VintageBeef: 18
+13: Keralis1: 16
+14: hypnotizd: 11
+15: Etho: 6
+16: iJevin: 5
+17: Renthedog: 4
+18: impulseSV: 4
+19: MumboJumbo: 3
+20: GoodTimeWithScar: 3
+21: falsesymmetry: 1
+22: Stressmonster101: 1
+Total 7916

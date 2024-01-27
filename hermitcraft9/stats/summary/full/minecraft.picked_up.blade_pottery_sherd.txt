@@ -1,0 +1,8 @@
+minecraft.picked_up.blade_pottery_sherd
+1: cubfan135: 48
+2: PearlescentMoon: 6
+3: falsesymmetry: 6
+4: Zedaph: 3
+5: Grian: 2
+6: Mumbo: 2
+Total 67

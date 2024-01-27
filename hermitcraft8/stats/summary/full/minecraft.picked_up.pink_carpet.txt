@@ -1,0 +1,5 @@
+minecraft.picked_up.pink_carpet
+1: falsesymmetry: 7
+2: Renthedog: 5
+3: Keralis1: 4
+Total 16

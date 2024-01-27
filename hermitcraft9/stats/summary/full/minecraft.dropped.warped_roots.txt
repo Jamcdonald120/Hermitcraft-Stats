@@ -1,0 +1,20 @@
+minecraft.dropped.warped_roots
+1: Keralis1: 4684
+2: BdoubleO100: 295
+3: Tango: 214
+4: Xisuma: 141
+5: ZombieCleo: 86
+6: iJevin: 61
+7: Mumbo: 40
+8: falsesymmetry: 39
+9: VintageBeef: 38
+10: Grian: 30
+11: hypnotizd: 27
+12: RentheKing: 7
+13: Renthedog: 6
+14: impulseSV: 5
+15: PearlescentMoon: 4
+16: Etho: 2
+17: iskall85: 1
+18: Stressmonster101: 1
+Total 5681

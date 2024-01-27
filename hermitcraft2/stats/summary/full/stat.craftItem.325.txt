@@ -1,0 +1,8 @@
+stat.craftItem.325
+1: Keralis1: 18
+2: red3yz: 16
+3: skyzm: 5
+4: topmass: 2
+5: Unhost: 2
+6: Marriland: 2
+Total 45

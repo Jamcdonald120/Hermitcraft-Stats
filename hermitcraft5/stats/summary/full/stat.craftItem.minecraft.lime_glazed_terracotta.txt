@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.lime_glazed_terracotta
+1: MumboJumbo: 64
+2: Xisuma: 21
+3: iJevin: 1
+4: GoodTimeWithScar: 1
+Total 87

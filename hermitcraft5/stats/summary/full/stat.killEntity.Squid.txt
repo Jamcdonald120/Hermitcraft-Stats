@@ -1,0 +1,24 @@
+stat.killEntity.Squid
+1: GoodTimeWithScar: 1722
+2: Renthedog: 1488
+3: falsesymmetry: 1051
+4: iskall85: 337
+5: impulseSV: 316
+6: joehillssays: 308
+7: Welsknight: 271
+8: PythonGB: 270
+9: Stressmonster101: 171
+10: cubfan135: 169
+11: MumboJumbo: 122
+12: ZombieCleo: 119
+13: Zedaph: 113
+14: Tango: 72
+15: Tinfoilchef: 55
+16: Xisuma: 49
+17: iJevin: 39
+18: BdoubleO100: 35
+19: VintageBeef: 8
+20: Biffa2001: 6
+21: xBCrafted: 4
+22: Etho: 4
+Total 6729

@@ -1,0 +1,3 @@
+stat.drop.minecraft.acacia_fence
+1: falsesymmetry: 132
+Total 132

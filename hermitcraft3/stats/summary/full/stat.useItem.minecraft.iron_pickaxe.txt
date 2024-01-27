@@ -1,0 +1,29 @@
+stat.useItem.minecraft.iron_pickaxe
+1: joehillssays: 18776
+2: KingDaddyDMAC: 11364
+3: Spumwackles: 9411
+4: PythonGB: 9229
+5: zueljin: 8601
+6: falsesymmetry: 8470
+7: Tango: 5181
+8: Biffa2001: 4747
+9: iJevin: 4536
+10: Tinfoilchef: 4479
+11: topmass: 3957
+12: monkeyfarm: 3494
+13: skyzm: 3083
+14: sl1pg8r: 3069
+15: Pungence: 2550
+16: ZombieCleo: 2045
+17: impulseSV: 1817
+18: Xisuma: 1771
+19: xBCrafted: 1255
+20: NameOfSamuel: 833
+21: Etho: 756
+22: hypnotizd: 602
+23: Collen: 601
+24: Docm77: 487
+25: Keralis1: 218
+26: Mrs_Keralis: 102
+27: Mumbo: 18
+Total 111452

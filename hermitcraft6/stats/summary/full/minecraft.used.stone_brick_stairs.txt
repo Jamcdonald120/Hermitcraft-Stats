@@ -1,0 +1,25 @@
+minecraft.used.stone_brick_stairs
+1: falsesymmetry: 13450
+2: Xisuma: 10307
+3: Renthedog: 8311
+4: impulseSV: 4100
+5: Tinfoilchef: 3953
+6: GoodTimeWithScar: 3793
+7: Welsknight: 3445
+8: cubfan135: 3046
+9: Stressmonster101: 2166
+10: iJevin: 2011
+11: Tango: 1856
+12: iskall85: 1504
+13: Docm77: 869
+14: Grian: 579
+15: Keralis1: 428
+16: Zedaph: 403
+17: MumboJumbo: 295
+18: ZombieCleo: 294
+19: joehillssays: 247
+20: Biffa2001: 165
+21: xBCrafted: 157
+22: BdoubleO100: 110
+23: Jessassin: 15
+Total 61504

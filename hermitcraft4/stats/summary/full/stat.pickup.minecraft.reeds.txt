@@ -1,0 +1,23 @@
+stat.pickup.minecraft.reeds
+1: MumboJumbo: 13415
+2: cubfan135: 6471
+3: Renthedog: 5805
+4: GoodTimeWithScar: 2808
+5: falsesymmetry: 2322
+6: impulseSV: 1936
+7: Tango: 1555
+8: joehillssays: 1390
+9: iskall85: 651
+10: Welsknight: 632
+11: PythonGB: 606
+12: Xisuma: 528
+13: Biffa2001: 450
+14: Tinfoilchef: 347
+15: Jessassin: 298
+16: ZombieCleo: 242
+17: Docm77: 218
+18: iJevin: 170
+19: VintageBeef: 168
+20: Etho: 142
+21: zueljin: 20
+Total 40174

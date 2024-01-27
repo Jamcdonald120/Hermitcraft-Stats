@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.purpur_stairs
+1: Renthedog: 4238
+2: cubfan135: 752
+3: Xisuma: 308
+4: PythonGB: 136
+5: iskall85: 108
+6: Tango: 88
+7: Welsknight: 16
+8: falsesymmetry: 4
+Total 5650

@@ -1,0 +1,22 @@
+minecraft.mined.end_stone
+1: iJevin: 35370
+2: impulseSV: 5189
+3: Zedaph: 3952
+4: cubfan135: 3855
+5: falsesymmetry: 3826
+6: Keralis1: 2569
+7: Tango: 1839
+8: Xisuma: 873
+9: Etho: 712
+10: VintageBeef: 482
+11: Docm77: 363
+12: joehillssays: 261
+13: iskall85: 197
+14: GoodTimeWithScar: 182
+15: Grian: 147
+16: xBCrafted: 66
+17: MumboJumbo: 44
+18: hypnotizd: 28
+19: Stressmonster101: 5
+20: Renthedog: 2
+Total 59962

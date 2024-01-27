@@ -1,0 +1,30 @@
+minecraft.crafted.iron_leggings
+1: Etho: 401
+2: iJevin: 113
+3: cubfan135: 35
+4: Renthedog: 7
+5: ZombieCleo: 6
+6: RentheKing: 6
+7: Docm77: 5
+8: VintageBeef: 5
+9: joehillssays: 4
+10: Tango: 4
+11: falsesymmetry: 4
+12: Welsknight: 4
+13: hypnotizd: 4
+14: Zedaph: 4
+15: Xisuma: 3
+16: Grian: 3
+17: PearlescentMoon: 3
+18: GeminiTay: 2
+19: iskall85: 2
+20: xBCrafted: 2
+21: Keralis1: 2
+22: impulseSV: 2
+23: Smajor1995: 1
+24: MythicalSausage: 1
+25: BdoubleO100: 1
+26: Pixlriffs: 1
+27: Mumbo: 1
+28: ShubbleYT: 1
+Total 627

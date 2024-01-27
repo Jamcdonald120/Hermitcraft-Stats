@@ -1,0 +1,19 @@
+minecraft.picked_up.bamboo_raft
+1: Xisuma: 63
+2: Renthedog: 35
+3: hypnotizd: 34
+4: impulseSV: 29
+5: iskall85: 20
+6: falsesymmetry: 15
+7: Etho: 11
+8: Docm77: 8
+9: cubfan135: 8
+10: GoodTimeWithScar: 6
+11: ZombieCleo: 4
+12: Grian: 2
+13: iJevin: 1
+14: InTheLittleWood: 1
+15: HBomb94: 1
+16: Keralis1: 1
+17: Zedaph: 1
+Total 240

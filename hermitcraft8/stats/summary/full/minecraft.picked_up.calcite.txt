@@ -1,0 +1,27 @@
+minecraft.picked_up.calcite
+1: GoodTimeWithScar: 9446
+2: PearlescentMoon: 3417
+3: cubfan135: 2985
+4: iJevin: 2760
+5: impulseSV: 2640
+6: Xisuma: 2474
+7: Docm77: 2166
+8: Grian: 1880
+9: Renthedog: 1519
+10: Tango: 1504
+11: joehillssays: 1443
+12: xBCrafted: 1028
+13: falsesymmetry: 650
+14: Etho: 615
+15: Welsknight: 485
+16: hypnotizd: 368
+17: Zedaph: 294
+18: iskall85: 146
+19: GeminiTay: 132
+20: BdoubleO100: 71
+21: ZombieCleo: 53
+22: MumboJumbo: 32
+23: VintageBeef: 8
+24: Stressmonster101: 6
+25: Keralis1: 6
+Total 36128

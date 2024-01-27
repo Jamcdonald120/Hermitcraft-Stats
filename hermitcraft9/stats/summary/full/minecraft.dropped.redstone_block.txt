@@ -1,0 +1,26 @@
+minecraft.dropped.redstone_block
+1: Docm77: 530
+2: joehillssays: 286
+3: Tango: 188
+4: xBCrafted: 145
+5: BdoubleO100: 125
+6: VintageBeef: 121
+7: cubfan135: 108
+8: Grian: 95
+9: iJevin: 89
+10: Pixlriffs: 85
+11: PearlescentMoon: 80
+12: impulseSV: 79
+13: GoodTimeWithScar: 78
+14: Keralis1: 57
+15: Stressmonster101: 56
+16: Zedaph: 54
+17: iskall85: 47
+18: Etho: 35
+19: RentheKing: 35
+20: GeminiTay: 26
+21: Renthedog: 23
+22: Xisuma: 21
+23: falsesymmetry: 11
+24: hypnotizd: 1
+Total 2375

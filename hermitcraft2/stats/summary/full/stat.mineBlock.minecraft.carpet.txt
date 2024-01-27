@@ -1,0 +1,11 @@
+stat.mineBlock.minecraft.carpet
+1: iJevin: 228
+2: zueljin: 71
+3: xBCrafted: 21
+4: ZombieCleo: 9
+5: falsesymmetry: 7
+6: Tinfoilchef: 7
+7: Xisuma: 2
+8: Tango: 2
+9: Spumwackles: 2
+Total 349

@@ -1,0 +1,16 @@
+stat.drop.minecraft.glass_pane
+1: MumboJumbo: 106
+2: GoodTimeWithScar: 95
+3: Docm77: 64
+4: BdoubleO100: 64
+5: impulseSV: 32
+6: Zedaph: 23
+7: Welsknight: 16
+8: Tango: 15
+9: xBCrafted: 11
+10: PythonGB: 4
+11: Biffa2001: 3
+12: iskall85: 2
+13: Xisuma: 1
+14: cubfan135: 1
+Total 437

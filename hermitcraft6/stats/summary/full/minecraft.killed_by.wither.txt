@@ -1,0 +1,6 @@
+minecraft.killed_by.wither
+1: GoodTimeWithScar: 4
+2: joehillssays: 3
+3: Docm77: 1
+4: Xisuma: 1
+Total 9

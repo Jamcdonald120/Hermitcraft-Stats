@@ -1,0 +1,27 @@
+minecraft.picked_up.polished_blackstone_bricks
+1: iJevin: 36367
+2: impulseSV: 11735
+3: Tango: 3392
+4: joehillssays: 2353
+5: cubfan135: 1780
+6: Grian: 721
+7: Renthedog: 600
+8: Keralis1: 526
+9: falsesymmetry: 500
+10: ZombieCleo: 473
+11: PearlescentMoon: 396
+12: xBCrafted: 348
+13: GoodTimeWithScar: 275
+14: Zedaph: 273
+15: Docm77: 157
+16: Etho: 118
+17: GeminiTay: 109
+18: BdoubleO100: 103
+19: hypnotizd: 98
+20: Xisuma: 78
+21: Mumbo: 65
+22: VintageBeef: 64
+23: Stressmonster101: 21
+24: MumboJumbo: 3
+25: iskall85: 2
+Total 60557

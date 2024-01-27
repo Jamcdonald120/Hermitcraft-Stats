@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.golden_leggings
+1: Xisuma: 1
+2: falsesymmetry: 1
+Total 2

@@ -1,0 +1,24 @@
+minecraft.picked_up.fern
+1: GoodTimeWithScar: 1787
+2: joehillssays: 1666
+3: VintageBeef: 1011
+4: Etho: 865
+5: Xisuma: 806
+6: Keralis1: 793
+7: cubfan135: 760
+8: BdoubleO100: 511
+9: ZombieCleo: 182
+10: Grian: 148
+11: Zedaph: 70
+12: MumboJumbo: 53
+13: Renthedog: 41
+14: falsesymmetry: 26
+15: Stressmonster101: 25
+16: Tango: 19
+17: hypnotizd: 16
+18: Docm77: 12
+19: iJevin: 4
+20: impulseSV: 4
+21: iskall85: 2
+22: Welsknight: 1
+Total 8802

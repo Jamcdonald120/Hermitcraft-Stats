@@ -1,0 +1,14 @@
+stat.drop.minecraft.crafting_table
+1: falsesymmetry: 20
+2: Xisuma: 18
+3: iskall85: 11
+4: Renthedog: 9
+5: GoodTimeWithScar: 9
+6: Tango: 7
+7: cubfan135: 6
+8: impulseSV: 5
+9: VintageBeef: 2
+10: xBCrafted: 2
+11: MumboJumbo: 2
+12: PythonGB: 1
+Total 92

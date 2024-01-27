@@ -1,0 +1,16 @@
+minecraft.picked_up.purple_bed
+1: Etho: 83
+2: GoodTimeWithScar: 57
+3: Keralis1: 54
+4: Stressmonster101: 42
+5: ZombieCleo: 30
+6: joehillssays: 18
+7: Xisuma: 14
+8: iJevin: 8
+9: Grian: 6
+10: cubfan135: 6
+11: Tango: 3
+12: iskall85: 3
+13: impulseSV: 2
+14: falsesymmetry: 1
+Total 327

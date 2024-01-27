@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.golden_sword
+1: Xisuma: 1
+2: xBCrafted: 1
+Total 2

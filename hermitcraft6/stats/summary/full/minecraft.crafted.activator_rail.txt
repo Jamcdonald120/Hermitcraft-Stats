@@ -1,0 +1,15 @@
+minecraft.crafted.activator_rail
+1: falsesymmetry: 294
+2: Grian: 124
+3: MumboJumbo: 78
+4: Xisuma: 48
+5: iJevin: 36
+6: iskall85: 24
+7: Docm77: 12
+8: impulseSV: 12
+9: Zedaph: 12
+10: Renthedog: 6
+11: Tango: 6
+12: cubfan135: 6
+13: GoodTimeWithScar: 6
+Total 664

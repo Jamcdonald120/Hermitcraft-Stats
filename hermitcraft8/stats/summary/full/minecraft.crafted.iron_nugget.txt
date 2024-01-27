@@ -1,0 +1,26 @@
+minecraft.crafted.iron_nugget
+1: Xisuma: 31642
+2: Docm77: 10341
+3: Renthedog: 7394
+4: GoodTimeWithScar: 6975
+5: Keralis1: 3469
+6: cubfan135: 3119
+7: xBCrafted: 2960
+8: Grian: 2884
+9: falsesymmetry: 1986
+10: iJevin: 1921
+11: joehillssays: 1815
+12: Tango: 1710
+13: impulseSV: 1702
+14: iskall85: 1700
+15: PearlescentMoon: 1017
+16: BdoubleO100: 954
+17: Stressmonster101: 756
+18: GeminiTay: 639
+19: Etho: 614
+20: Welsknight: 459
+21: ZombieCleo: 296
+22: VintageBeef: 288
+23: MumboJumbo: 288
+24: hypnotizd: 72
+Total 85001

@@ -1,0 +1,19 @@
+minecraft.crafted.golden_apple
+1: Tango: 948
+2: impulseSV: 844
+3: hypnotizd: 688
+4: Keralis1: 659
+5: Etho: 151
+6: iskall85: 141
+7: cubfan135: 105
+8: Grian: 102
+9: GoodTimeWithScar: 97
+10: Stressmonster101: 63
+11: MumboJumbo: 58
+12: joehillssays: 47
+13: Docm77: 24
+14: xBCrafted: 20
+15: falsesymmetry: 4
+16: VintageBeef: 2
+17: Zedaph: 1
+Total 3954

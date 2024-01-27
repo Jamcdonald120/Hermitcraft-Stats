@@ -1,0 +1,20 @@
+minecraft.crafted.polished_granite
+1: Etho: 708
+2: GoodTimeWithScar: 696
+3: PearlescentMoon: 544
+4: cubfan135: 540
+5: Grian: 480
+6: Xisuma: 420
+7: impulseSV: 412
+8: Tinfoilchef: 220
+9: Tango: 144
+10: iskall85: 64
+11: Zedaph: 64
+12: Stressmonster101: 52
+13: Keralis1: 48
+14: GeminiTay: 36
+15: ZombieCleo: 36
+16: BdoubleO100: 20
+17: Welsknight: 12
+18: iJevin: 4
+Total 4500

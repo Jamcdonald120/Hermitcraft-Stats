@@ -1,0 +1,23 @@
+minecraft.mined.loom
+1: PearlescentMoon: 49
+2: ZombieCleo: 41
+3: iJevin: 28
+4: Keralis1: 25
+5: GoodTimeWithScar: 14
+6: BdoubleO100: 13
+7: Tango: 9
+8: falsesymmetry: 9
+9: Xisuma: 7
+10: RentheKing: 6
+11: GeminiTay: 5
+12: Etho: 5
+13: impulseSV: 5
+14: xBCrafted: 4
+15: Zedaph: 4
+16: Docm77: 3
+17: Renthedog: 3
+18: cubfan135: 3
+19: VintageBeef: 2
+20: MythicalSausage: 1
+21: Grian: 1
+Total 237

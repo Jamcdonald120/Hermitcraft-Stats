@@ -1,0 +1,26 @@
+minecraft.used.dark_oak_log
+1: GoodTimeWithScar: 12728
+2: Renthedog: 10361
+3: Xisuma: 6615
+4: Stressmonster101: 6243
+5: falsesymmetry: 4972
+6: cubfan135: 4586
+7: BdoubleO100: 3459
+8: iskall85: 1000
+9: Keralis1: 711
+10: PythonGB: 559
+11: Tango: 510
+12: Welsknight: 456
+13: iJevin: 336
+14: Docm77: 332
+15: ZombieCleo: 265
+16: joehillssays: 176
+17: MumboJumbo: 175
+18: Grian: 141
+19: impulseSV: 133
+20: Tinfoilchef: 84
+21: Jessassin: 75
+22: HumanCleo: 35
+23: Zedaph: 8
+24: Biffa2001: 6
+Total 53966

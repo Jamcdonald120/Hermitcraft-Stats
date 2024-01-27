@@ -1,0 +1,19 @@
+minecraft.picked_up.lime_carpet
+1: Tango: 785
+2: cubfan135: 767
+3: Zedaph: 394
+4: BdoubleO100: 188
+5: joehillssays: 166
+6: Xisuma: 153
+7: VintageBeef: 143
+8: Etho: 108
+9: Keralis1: 91
+10: iJevin: 90
+11: iskall85: 54
+12: Grian: 17
+13: falsesymmetry: 15
+14: impulseSV: 13
+15: MumboJumbo: 12
+16: GoodTimeWithScar: 8
+17: ZombieCleo: 2
+Total 3006

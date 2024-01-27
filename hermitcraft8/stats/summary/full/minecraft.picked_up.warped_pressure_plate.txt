@@ -1,0 +1,5 @@
+minecraft.picked_up.warped_pressure_plate
+1: Renthedog: 4
+2: GoodTimeWithScar: 3
+3: BdoubleO100: 1
+Total 8

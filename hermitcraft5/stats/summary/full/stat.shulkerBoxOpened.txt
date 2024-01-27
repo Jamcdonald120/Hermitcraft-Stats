@@ -1,0 +1,28 @@
+stat.shulkerBoxOpened
+1: GoodTimeWithScar: 55073
+2: cubfan135: 52561
+3: iskall85: 29820
+4: Xisuma: 29038
+5: falsesymmetry: 28557
+6: impulseSV: 22992
+7: Renthedog: 19940
+8: Tango: 18672
+9: Welsknight: 13530
+10: Zedaph: 8882
+11: Stressmonster101: 7170
+12: MumboJumbo: 6489
+13: iJevin: 5609
+14: xBCrafted: 4209
+15: Docm77: 2702
+16: PythonGB: 2637
+17: joehillssays: 2422
+18: Tinfoilchef: 1178
+19: BdoubleO100: 759
+20: Biffa2001: 288
+21: Etho: 218
+22: ZombieCleo: 152
+23: VintageBeef: 123
+24: xisumavoid: 22
+25: ImpulseCam: 10
+26: isGall85: 4
+Total 313057

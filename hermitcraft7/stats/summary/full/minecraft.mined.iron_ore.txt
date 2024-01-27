@@ -1,0 +1,26 @@
+minecraft.mined.iron_ore
+1: GoodTimeWithScar: 13134
+2: Etho: 7889
+3: falsesymmetry: 6847
+4: Grian: 6378
+5: Tango: 5890
+6: cubfan135: 5789
+7: iJevin: 5511
+8: impulseSV: 4787
+9: MumboJumbo: 4774
+10: iskall85: 3689
+11: Xisuma: 3680
+12: Keralis1: 3558
+13: Welsknight: 3505
+14: Renthedog: 3253
+15: ZombieCleo: 3229
+16: VintageBeef: 2724
+17: Tinfoilchef: 2674
+18: joehillssays: 2437
+19: hypnotizd: 2418
+20: BdoubleO100: 2168
+21: Stressmonster101: 2042
+22: Zedaph: 1932
+23: xBCrafted: 1530
+24: Docm77: 593
+Total 100431

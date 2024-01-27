@@ -1,0 +1,22 @@
+minecraft.mined.red_wool
+1: Xisuma: 688
+2: Tango: 520
+3: iJevin: 312
+4: BdoubleO100: 296
+5: impulseSV: 171
+6: VintageBeef: 146
+7: GoodTimeWithScar: 113
+8: Keralis1: 90
+9: cubfan135: 72
+10: Renthedog: 71
+11: iskall85: 47
+12: MumboJumbo: 47
+13: Etho: 40
+14: joehillssays: 19
+15: Docm77: 17
+16: falsesymmetry: 16
+17: Zedaph: 11
+18: Grian: 10
+19: ZombieCleo: 7
+20: xBCrafted: 2
+Total 2695

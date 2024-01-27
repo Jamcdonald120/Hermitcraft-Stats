@@ -1,0 +1,9 @@
+stat.mineBlock.minecraft.stone_button
+1: falsesymmetry: 13
+2: xBCrafted: 7
+3: Mumbo: 4
+4: zueljin: 3
+5: Xisuma: 2
+6: iJevin: 2
+7: Tango: 1
+Total 32

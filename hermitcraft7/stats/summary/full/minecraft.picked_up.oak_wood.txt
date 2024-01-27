@@ -1,0 +1,16 @@
+minecraft.picked_up.oak_wood
+1: Keralis1: 1340
+2: iskall85: 808
+3: joehillssays: 313
+4: BdoubleO100: 142
+5: hypnotizd: 141
+6: GoodTimeWithScar: 109
+7: Etho: 108
+8: VintageBeef: 51
+9: Renthedog: 36
+10: cubfan135: 18
+11: impulseSV: 15
+12: Grian: 6
+13: Xisuma: 4
+14: Stressmonster101: 3
+Total 3094

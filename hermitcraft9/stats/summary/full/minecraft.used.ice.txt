@@ -1,0 +1,26 @@
+minecraft.used.ice
+1: Tango: 14645
+2: Renthedog: 7540
+3: Etho: 6465
+4: ZombieCleo: 3231
+5: Xisuma: 2687
+6: falsesymmetry: 2560
+7: Docm77: 1295
+8: GoodTimeWithScar: 1047
+9: Zedaph: 381
+10: Pixlriffs: 378
+11: impulseSV: 361
+12: Grian: 342
+13: hypnotizd: 245
+14: PearlescentMoon: 181
+15: MythicalSausage: 83
+16: iskall85: 81
+17: cubfan135: 74
+18: iJevin: 53
+19: VintageBeef: 47
+20: Keralis1: 19
+21: truesymmetry: 5
+22: GeminiTay: 5
+23: joehillssays: 3
+24: xBCrafted: 2
+Total 41730

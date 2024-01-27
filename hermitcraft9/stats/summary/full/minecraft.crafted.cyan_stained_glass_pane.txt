@@ -1,0 +1,17 @@
+minecraft.crafted.cyan_stained_glass_pane
+1: joehillssays: 512
+2: PearlescentMoon: 112
+3: falsesymmetry: 112
+4: GeminiTay: 64
+5: cubfan135: 64
+6: GoodTimeWithScar: 64
+7: impulseSV: 64
+8: BdoubleO100: 56
+9: Tango: 48
+10: Docm77: 32
+11: Xisuma: 32
+12: Renthedog: 32
+13: Keralis1: 32
+14: xBCrafted: 16
+15: Zedaph: 8
+Total 1248

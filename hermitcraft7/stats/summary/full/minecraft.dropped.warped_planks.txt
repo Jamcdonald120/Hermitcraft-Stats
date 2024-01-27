@@ -1,0 +1,15 @@
+minecraft.dropped.warped_planks
+1: cubfan135: 100
+2: Zedaph: 32
+3: GoodTimeWithScar: 18
+4: Tango: 15
+5: Etho: 10
+6: Grian: 9
+7: iJevin: 7
+8: falsesymmetry: 7
+9: BdoubleO100: 6
+10: iskall85: 6
+11: MumboJumbo: 4
+12: xBCrafted: 3
+13: Keralis1: 2
+Total 219

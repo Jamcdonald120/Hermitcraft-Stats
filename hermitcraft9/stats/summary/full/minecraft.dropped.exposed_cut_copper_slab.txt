@@ -1,0 +1,4 @@
+minecraft.dropped.exposed_cut_copper_slab
+1: cubfan135: 13
+2: GoodTimeWithScar: 1
+Total 14

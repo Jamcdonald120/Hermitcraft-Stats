@@ -1,0 +1,12 @@
+minecraft.picked_up.mushroom_stem
+1: falsesymmetry: 1688
+2: Docm77: 1404
+3: cubfan135: 1189
+4: Renthedog: 924
+5: Xisuma: 723
+6: iskall85: 468
+7: iJevin: 124
+8: GoodTimeWithScar: 12
+9: Grian: 8
+10: Tango: 4
+Total 6544

@@ -1,0 +1,17 @@
+stat.pickup.minecraft.lapis_block
+1: falsesymmetry: 587
+2: Xisuma: 274
+3: Biffa2001: 192
+4: Renthedog: 179
+5: Tinfoilchef: 154
+6: iskall85: 105
+7: ZombieCleo: 97
+8: Welsknight: 78
+9: joehillssays: 62
+10: cubfan135: 43
+11: Tango: 28
+12: Etho: 28
+13: GoodTimeWithScar: 27
+14: PythonGB: 10
+15: MumboJumbo: 1
+Total 1865

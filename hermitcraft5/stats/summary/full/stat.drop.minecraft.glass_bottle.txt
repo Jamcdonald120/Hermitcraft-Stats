@@ -1,0 +1,18 @@
+stat.drop.minecraft.glass_bottle
+1: Xisuma: 12496
+2: Tango: 7757
+3: cubfan135: 5389
+4: MumboJumbo: 151
+5: Zedaph: 125
+6: iskall85: 72
+7: Renthedog: 67
+8: Tinfoilchef: 65
+9: GoodTimeWithScar: 51
+10: falsesymmetry: 39
+11: impulseSV: 35
+12: xBCrafted: 10
+13: joehillssays: 3
+14: PythonGB: 2
+15: iJevin: 2
+16: BdoubleO100: 1
+Total 26265

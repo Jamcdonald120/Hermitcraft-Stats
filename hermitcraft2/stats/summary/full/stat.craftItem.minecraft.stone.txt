@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.stone
+1: Xisuma: 10586
+2: ZombieCleo: 1468
+3: Biffa2001: 1033
+4: xBCrafted: 768
+5: Tango: 699
+6: Mumbo: 610
+7: Spumwackles: 512
+8: KingDaddyDMAC: 444
+9: Tinfoilchef: 302
+10: zueljin: 232
+11: sl1pg8r: 4
+Total 16658

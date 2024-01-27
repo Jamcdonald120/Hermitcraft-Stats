@@ -1,0 +1,23 @@
+minecraft.dropped.golden_chestplate
+1: Xisuma: 70
+2: iskall85: 25
+3: Zedaph: 23
+4: cubfan135: 21
+5: Grian: 19
+6: GoodTimeWithScar: 19
+7: Tango: 16
+8: impulseSV: 15
+9: Renthedog: 14
+10: falsesymmetry: 10
+11: ZombieCleo: 10
+12: PythonGB: 6
+13: iJevin: 6
+14: MumboJumbo: 6
+15: Docm77: 5
+16: xBCrafted: 4
+17: Stressmonster101: 4
+18: Tinfoilchef: 3
+19: Keralis1: 2
+20: BdoubleO100: 1
+21: Duke_da_dog: 1
+Total 280

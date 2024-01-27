@@ -1,0 +1,19 @@
+minecraft.picked_up.brick
+1: Zedaph: 479
+2: BdoubleO100: 453
+3: iJevin: 414
+4: Renthedog: 144
+5: iskall85: 137
+6: VintageBeef: 133
+7: Etho: 132
+8: Docm77: 100
+9: Grian: 68
+10: Welsknight: 64
+11: impulseSV: 64
+12: Tango: 49
+13: cubfan135: 37
+14: GoodTimeWithScar: 12
+15: Stressmonster101: 4
+16: Keralis1: 3
+17: joehillssays: 2
+Total 2295

@@ -1,0 +1,11 @@
+minecraft.picked_up.daylight_detector
+1: MumboJumbo: 35
+2: PearlescentMoon: 7
+3: Etho: 7
+4: impulseSV: 5
+5: cubfan135: 4
+6: GeminiTay: 2
+7: Zedaph: 2
+8: Xisuma: 1
+9: Keralis1: 1
+Total 64

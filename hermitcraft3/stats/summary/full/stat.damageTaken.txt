@@ -1,0 +1,36 @@
+stat.damageTaken
+1: Mumbo: 2321059
+2: Xisuma: 1918418
+3: falsesymmetry: 399517
+4: Tango: 283880
+5: impulseSV: 176595
+6: xBCrafted: 131581
+7: zueljin: 123854
+8: sl1pg8r: 121127
+9: Biffa2001: 87509
+10: hypnotizd: 68391
+11: ZombieCleo: 57036
+12: Tinfoilchef: 52396
+13: Spumwackles: 40022
+14: PythonGB: 38504
+15: topmass: 31778
+16: Etho: 30469
+17: Docm77: 27886
+18: monkeyfarm: 27374
+19: KingDaddyDMAC: 27035
+20: joehillssays: 23207
+21: iJevin: 21878
+22: skyzm: 11985
+23: Keralis1: 6434
+24: NameOfSamuel: 4168
+25: Mrs_Keralis: 4140
+26: Pungence: 3542
+27: truesymmetry: 2660
+28: Collen: 1467
+29: xisumavoid: 374
+30: snipepager: 190
+31: TangoCam: 90
+32: D_A_I_N_A: 40
+33: MumboJumbo: 30
+34: WFRTNews: 10
+Total 6044646

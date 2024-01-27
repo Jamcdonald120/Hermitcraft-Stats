@@ -1,0 +1,10 @@
+stat.drop.minecraft.gold_nugget
+1: Tango: 2277
+2: MumboJumbo: 982
+3: impulseSV: 676
+4: Xisuma: 190
+5: falsesymmetry: 13
+6: iskall85: 6
+7: Welsknight: 2
+8: ZombieCleo: 2
+Total 4148

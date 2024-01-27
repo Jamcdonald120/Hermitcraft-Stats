@@ -1,0 +1,27 @@
+minecraft.used.cooked_beef
+1: GoodTimeWithScar: 1384
+2: GeminiTay: 1221
+3: Grian: 1213
+4: Etho: 1063
+5: hypnotizd: 1034
+6: joehillssays: 1029
+7: Docm77: 980
+8: falsesymmetry: 818
+9: ZombieCleo: 805
+10: iskall85: 787
+11: xBCrafted: 559
+12: Welsknight: 458
+13: VintageBeef: 449
+14: BdoubleO100: 439
+15: Xisuma: 353
+16: Renthedog: 256
+17: cubfan135: 193
+18: Stressmonster101: 137
+19: Zedaph: 108
+20: Tango: 82
+21: PearlescentMoon: 71
+22: iJevin: 52
+23: impulseSV: 50
+24: Keralis1: 2
+25: Helsknight_: 1
+Total 13544

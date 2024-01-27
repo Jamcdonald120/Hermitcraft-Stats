@@ -1,0 +1,16 @@
+stat.pickup.minecraft.prismarine_shard
+1: impulseSV: 41062
+2: MumboJumbo: 8372
+3: cubfan135: 5345
+4: falsesymmetry: 3199
+5: Tango: 748
+6: PythonGB: 648
+7: Renthedog: 507
+8: iJevin: 496
+9: iskall85: 324
+10: Zedaph: 166
+11: Xisuma: 137
+12: xBCrafted: 5
+13: joehillssays: 3
+14: GoodTimeWithScar: 3
+Total 61015

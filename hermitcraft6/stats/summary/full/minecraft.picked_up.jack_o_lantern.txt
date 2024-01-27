@@ -1,0 +1,18 @@
+minecraft.picked_up.jack_o_lantern
+1: iJevin: 283
+2: joehillssays: 205
+3: cubfan135: 88
+4: impulseSV: 78
+5: iskall85: 69
+6: falsesymmetry: 44
+7: Docm77: 35
+8: Xisuma: 16
+9: MumboJumbo: 16
+10: Stressmonster101: 13
+11: Tango: 11
+12: Zedaph: 6
+13: Grian: 4
+14: Renthedog: 3
+15: ZombieCleo: 3
+16: GoodTimeWithScar: 2
+Total 876

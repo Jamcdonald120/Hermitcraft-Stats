@@ -1,0 +1,15 @@
+minecraft.killed_by.piglin
+1: iJevin: 8
+2: Grian: 3
+3: Renthedog: 2
+4: RentheKing: 2
+5: Zedaph: 2
+6: Docm77: 1
+7: Xisuma: 1
+8: VintageBeef: 1
+9: MythicalSausage: 1
+10: GeminiTay: 1
+11: iskall85: 1
+12: xBCrafted: 1
+13: impulseSV: 1
+Total 25

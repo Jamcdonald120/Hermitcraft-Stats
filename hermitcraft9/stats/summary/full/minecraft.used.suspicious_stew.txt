@@ -1,0 +1,22 @@
+minecraft.used.suspicious_stew
+1: impulseSV: 32
+2: PearlescentMoon: 28
+3: cubfan135: 28
+4: GoodTimeWithScar: 26
+5: Grian: 25
+6: GeminiTay: 12
+7: Xisuma: 6
+8: BdoubleO100: 6
+9: RentheKing: 6
+10: iskall85: 4
+11: Etho: 4
+12: Keralis1: 4
+13: iJevin: 3
+14: joehillssays: 2
+15: ZombieCleo: 2
+16: OrionSound: 1
+17: VintageBeef: 1
+18: Tango: 1
+19: hypnotizd: 1
+20: Firecracker1195: 1
+Total 193

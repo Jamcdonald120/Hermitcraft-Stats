@@ -1,0 +1,29 @@
+minecraft.crafted.minecart
+1: GoodTimeWithScar: 2498
+2: Docm77: 769
+3: Tango: 683
+4: Xisuma: 389
+5: hypnotizd: 325
+6: cubfan135: 324
+7: impulseSV: 306
+8: xBCrafted: 272
+9: Keralis1: 215
+10: iJevin: 129
+11: VintageBeef: 113
+12: Grian: 99
+13: BdoubleO100: 72
+14: Stressmonster101: 58
+15: falsesymmetry: 55
+16: Etho: 50
+17: Renthedog: 44
+18: Zedaph: 36
+19: Mumbo: 35
+20: iskall85: 30
+21: ZombieCleo: 27
+22: PearlescentMoon: 22
+23: GeminiTay: 14
+24: MumboJumbo: 10
+25: joehillssays: 6
+26: Welsknight: 1
+27: RentheKing: 1
+Total 6583

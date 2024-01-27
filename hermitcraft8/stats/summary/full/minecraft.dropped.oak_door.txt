@@ -1,0 +1,9 @@
+minecraft.dropped.oak_door
+1: Grian: 3
+2: Xisuma: 2
+3: VintageBeef: 2
+4: Tango: 2
+5: hypnotizd: 2
+6: Zedaph: 2
+7: iskall85: 1
+Total 14

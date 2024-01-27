@@ -1,0 +1,10 @@
+stat.useItem.minecraft.jungle_fence_gate
+1: xBCrafted: 71
+2: Docm77: 42
+3: VintageBeef: 32
+4: Zedaph: 6
+5: Xisuma: 3
+6: BdoubleO100: 3
+7: cubfan135: 2
+8: Etho: 1
+Total 160

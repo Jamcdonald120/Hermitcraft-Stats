@@ -1,0 +1,23 @@
+minecraft.dropped.chest
+1: cubfan135: 308
+2: hypnotizd: 301
+3: Zedaph: 236
+4: Grian: 202
+5: MumboJumbo: 110
+6: iJevin: 76
+7: Tango: 65
+8: GoodTimeWithScar: 52
+9: Keralis1: 48
+10: Etho: 44
+11: falsesymmetry: 38
+12: joehillssays: 26
+13: VintageBeef: 17
+14: Stressmonster101: 17
+15: xBCrafted: 12
+16: iskall85: 9
+17: Renthedog: 7
+18: ZombieCleo: 2
+19: impulseSV: 2
+20: Xisuma: 1
+21: BdoubleO100: 1
+Total 1574

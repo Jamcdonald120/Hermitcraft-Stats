@@ -1,0 +1,27 @@
+minecraft.crafted.polished_deepslate
+1: Xisuma: 8106
+2: GoodTimeWithScar: 6932
+3: Tango: 4072
+4: Stressmonster101: 3780
+5: Renthedog: 3724
+6: cubfan135: 3620
+7: Grian: 2780
+8: PearlescentMoon: 2412
+9: MumboJumbo: 1648
+10: Welsknight: 953
+11: iJevin: 936
+12: impulseSV: 772
+13: GeminiTay: 712
+14: EvilXisuma: 458
+15: Keralis1: 428
+16: joehillssays: 332
+17: Etho: 132
+18: falsesymmetry: 112
+19: hypnotizd: 76
+20: Docm77: 31
+21: VintageBeef: 31
+22: xBCrafted: 26
+23: ZombieCleo: 20
+24: BdoubleO100: 5
+25: iskall85: 5
+Total 42103

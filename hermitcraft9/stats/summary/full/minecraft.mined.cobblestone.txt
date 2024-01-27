@@ -1,0 +1,37 @@
+minecraft.mined.cobblestone
+1: iJevin: 15354
+2: VintageBeef: 6501
+3: GeminiTay: 5230
+4: cubfan135: 2847
+5: Grian: 2435
+6: Tango: 2425
+7: Docm77: 2242
+8: impulseSV: 1860
+9: ZombieCleo: 1665
+10: Xisuma: 1499
+11: PearlescentMoon: 1483
+12: iskall85: 1434
+13: Keralis1: 1423
+14: xBCrafted: 1391
+15: Stressmonster101: 1324
+16: BdoubleO100: 967
+17: joehillssays: 890
+18: Mumbo: 758
+19: Etho: 747
+20: falsesymmetry: 665
+21: hypnotizd: 590
+22: RentheKing: 480
+23: Renthedog: 464
+24: Zedaph: 330
+25: Tinfoilchef: 241
+26: GoodTimeWithScar: 158
+27: Pixlriffs: 153
+28: ShubbleYT: 97
+29: MumboJumbo: 72
+30: Welsknight: 32
+31: OrionSound: 21
+32: fWhip: 21
+33: LDShadowLady: 20
+34: MythicalSausage: 18
+35: Smallishbeans: 4
+Total 55841

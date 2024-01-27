@@ -1,0 +1,10 @@
+stat.drop.minecraft.iron_axe
+1: impulseSV: 9
+2: iskall85: 4
+3: PythonGB: 3
+4: falsesymmetry: 2
+5: Etho: 2
+6: GoodTimeWithScar: 2
+7: Xisuma: 1
+8: cubfan135: 1
+Total 24

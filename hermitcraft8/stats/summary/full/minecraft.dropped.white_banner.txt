@@ -1,0 +1,9 @@
+minecraft.dropped.white_banner
+1: iJevin: 65
+2: Tango: 57
+3: MumboJumbo: 3
+4: Zedaph: 2
+5: GeminiTay: 1
+6: Grian: 1
+7: impulseSV: 1
+Total 130

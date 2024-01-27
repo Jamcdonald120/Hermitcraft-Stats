@@ -1,0 +1,27 @@
+minecraft.mined.spruce_log
+1: GoodTimeWithScar: 54466
+2: Renthedog: 37583
+3: cubfan135: 29502
+4: Xisuma: 14020
+5: falsesymmetry: 10667
+6: Welsknight: 7716
+7: Grian: 6941
+8: joehillssays: 4064
+9: BdoubleO100: 3914
+10: iskall85: 3655
+11: iJevin: 3383
+12: MumboJumbo: 2906
+13: ZombieCleo: 2255
+14: HumanCleo: 1587
+15: PythonGB: 1482
+16: Stressmonster101: 1217
+17: impulseSV: 1115
+18: Biffa2001: 1022
+19: Docm77: 854
+20: Keralis1: 582
+21: xBCrafted: 477
+22: Tinfoilchef: 250
+23: Zedaph: 217
+24: Tango: 157
+25: Jessassin: 77
+Total 190109

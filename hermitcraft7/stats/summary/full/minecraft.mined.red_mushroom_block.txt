@@ -1,0 +1,24 @@
+minecraft.mined.red_mushroom_block
+1: Etho: 12747
+2: GoodTimeWithScar: 8042
+3: Renthedog: 2948
+4: xBCrafted: 2524
+5: impulseSV: 2401
+6: cubfan135: 2145
+7: Grian: 1263
+8: Xisuma: 841
+9: falsesymmetry: 648
+10: iskall85: 555
+11: Tango: 496
+12: hypnotizd: 403
+13: BdoubleO100: 377
+14: Keralis1: 330
+15: Docm77: 199
+16: ZombieCleo: 180
+17: Stressmonster101: 180
+18: VintageBeef: 136
+19: Welsknight: 92
+20: joehillssays: 90
+21: MumboJumbo: 68
+22: iJevin: 24
+Total 36689

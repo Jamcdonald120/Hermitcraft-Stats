@@ -1,0 +1,11 @@
+minecraft.killed.iron_golem
+1: Tango: 45
+2: hypnotizd: 32
+3: Grian: 25
+4: Xisuma: 17
+5: impulseSV: 13
+6: iJevin: 9
+7: GoodTimeWithScar: 4
+8: PearlescentMoon: 3
+9: xBCrafted: 2
+Total 150

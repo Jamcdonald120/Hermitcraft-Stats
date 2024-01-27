@@ -1,0 +1,13 @@
+minecraft.dropped.armor_stand
+1: Tango: 36
+2: Renthedog: 28
+3: iJevin: 24
+4: Zedaph: 22
+5: GoodTimeWithScar: 18
+6: falsesymmetry: 16
+7: Etho: 4
+8: MythicalSausage: 2
+9: Grian: 2
+10: Keralis1: 2
+11: ZombieCleo: 1
+Total 155

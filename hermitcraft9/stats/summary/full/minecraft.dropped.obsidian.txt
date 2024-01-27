@@ -1,0 +1,24 @@
+minecraft.dropped.obsidian
+1: Xisuma: 6599
+2: Tango: 477
+3: ZombieCleo: 391
+4: cubfan135: 356
+5: iJevin: 282
+6: GeminiTay: 94
+7: Keralis1: 88
+8: EvilXisuma: 69
+9: GoodTimeWithScar: 66
+10: Zedaph: 57
+11: joehillssays: 42
+12: Docm77: 35
+13: PearlescentMoon: 32
+14: Renthedog: 24
+15: falsesymmetry: 19
+16: impulseSV: 8
+17: Grian: 3
+18: Etho: 3
+19: VintageBeef: 1
+20: BdoubleO100: 1
+21: iskall85: 1
+22: xBCrafted: 1
+Total 8649

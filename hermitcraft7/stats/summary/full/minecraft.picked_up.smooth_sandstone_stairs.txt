@@ -1,0 +1,22 @@
+minecraft.picked_up.smooth_sandstone_stairs
+1: cubfan135: 6691
+2: Renthedog: 838
+3: VintageBeef: 683
+4: Welsknight: 468
+5: ZombieCleo: 389
+6: Zedaph: 356
+7: Xisuma: 272
+8: Grian: 270
+9: BdoubleO100: 121
+10: Etho: 119
+11: Keralis1: 50
+12: joehillssays: 36
+13: impulseSV: 21
+14: hypnotizd: 20
+15: GoodTimeWithScar: 14
+16: xBCrafted: 8
+17: Tango: 2
+18: iJevin: 1
+19: falsesymmetry: 1
+20: Stressmonster101: 1
+Total 10361

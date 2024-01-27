@@ -1,0 +1,31 @@
+minecraft.picked_up.stripped_birch_log
+1: Docm77: 5238
+2: GoodTimeWithScar: 2105
+3: Renthedog: 551
+4: joehillssays: 385
+5: BdoubleO100: 200
+6: fWhip: 85
+7: impulseSV: 72
+8: RentheKing: 64
+9: cubfan135: 58
+10: Xisuma: 49
+11: Tango: 46
+12: xBCrafted: 29
+13: falsesymmetry: 27
+14: Zedaph: 27
+15: GeminiTay: 24
+16: PearlescentMoon: 21
+17: iskall85: 17
+18: Stressmonster101: 11
+19: Keralis1: 10
+20: Smajor1995: 9
+21: Grian: 9
+22: Etho: 8
+23: iJevin: 7
+24: ShubbleYT: 7
+25: VintageBeef: 6
+26: hypnotizd: 3
+27: Smallishbeans: 1
+28: ZombieCleo: 1
+29: Mumbo: 1
+Total 9071

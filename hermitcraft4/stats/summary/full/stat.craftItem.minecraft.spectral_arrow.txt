@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.spectral_arrow
+1: cubfan135: 278
+Total 278

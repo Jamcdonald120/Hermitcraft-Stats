@@ -1,0 +1,13 @@
+minecraft.picked_up.yellow_candle
+1: joehillssays: 203
+2: cubfan135: 53
+3: falsesymmetry: 13
+4: Xisuma: 12
+5: iJevin: 9
+6: hypnotizd: 8
+7: Tango: 4
+8: PearlescentMoon: 4
+9: ZombieCleo: 4
+10: GeminiTay: 1
+11: Zedaph: 1
+Total 312

@@ -1,0 +1,7 @@
+stat.drop.minecraft.writable_book
+1: ZombieCleo: 5
+2: iskall85: 4
+3: Renthedog: 2
+4: Tango: 2
+5: Xisuma: 1
+Total 14

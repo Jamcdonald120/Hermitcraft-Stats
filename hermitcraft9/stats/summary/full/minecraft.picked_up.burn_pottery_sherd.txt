@@ -1,0 +1,8 @@
+minecraft.picked_up.burn_pottery_sherd
+1: cubfan135: 9
+2: PearlescentMoon: 6
+3: Zedaph: 4
+4: impulseSV: 2
+5: ZombieCleo: 1
+6: Mumbo: 1
+Total 23

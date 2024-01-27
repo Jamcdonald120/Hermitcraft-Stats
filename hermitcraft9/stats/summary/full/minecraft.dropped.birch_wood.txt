@@ -1,0 +1,11 @@
+minecraft.dropped.birch_wood
+1: MythicalSausage: 54
+2: Renthedog: 50
+3: Grian: 43
+4: GoodTimeWithScar: 7
+5: PearlescentMoon: 3
+6: GeminiTay: 2
+7: Etho: 2
+8: VintageBeef: 1
+9: Zedaph: 1
+Total 163

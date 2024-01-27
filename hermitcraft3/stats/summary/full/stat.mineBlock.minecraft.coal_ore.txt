@@ -1,0 +1,29 @@
+stat.mineBlock.minecraft.coal_ore
+1: falsesymmetry: 9995
+2: xBCrafted: 9050
+3: Biffa2001: 7400
+4: sl1pg8r: 7217
+5: Xisuma: 7137
+6: topmass: 6728
+7: Tinfoilchef: 5956
+8: Tango: 5657
+9: impulseSV: 5514
+10: Mumbo: 4558
+11: hypnotizd: 3261
+12: Spumwackles: 2992
+13: ZombieCleo: 2829
+14: zueljin: 2171
+15: KingDaddyDMAC: 1923
+16: PythonGB: 1732
+17: monkeyfarm: 1371
+18: iJevin: 1264
+19: Etho: 1021
+20: joehillssays: 600
+21: NameOfSamuel: 514
+22: skyzm: 459
+23: Keralis1: 347
+24: Pungence: 317
+25: Docm77: 232
+26: Collen: 176
+27: Mrs_Keralis: 9
+Total 90430

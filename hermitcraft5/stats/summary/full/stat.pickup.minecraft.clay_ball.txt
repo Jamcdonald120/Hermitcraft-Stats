@@ -1,0 +1,22 @@
+stat.pickup.minecraft.clay_ball
+1: cubfan135: 16134
+2: falsesymmetry: 11581
+3: PythonGB: 8992
+4: ZombieCleo: 4797
+5: MumboJumbo: 4309
+6: Tinfoilchef: 1016
+7: Zedaph: 947
+8: BdoubleO100: 896
+9: Renthedog: 481
+10: Xisuma: 446
+11: iJevin: 281
+12: Stressmonster101: 222
+13: Welsknight: 180
+14: iskall85: 174
+15: GoodTimeWithScar: 171
+16: joehillssays: 140
+17: xBCrafted: 100
+18: Tango: 84
+19: VintageBeef: 52
+20: impulseSV: 4
+Total 51007

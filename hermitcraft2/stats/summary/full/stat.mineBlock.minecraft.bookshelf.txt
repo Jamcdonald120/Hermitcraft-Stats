@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.bookshelf
+1: Tango: 33
+2: iJevin: 18
+3: Mumbo: 4
+4: zueljin: 2
+5: ZombieCleo: 1
+Total 58

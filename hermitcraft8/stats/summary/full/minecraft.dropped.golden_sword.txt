@@ -1,0 +1,17 @@
+minecraft.dropped.golden_sword
+1: impulseSV: 52
+2: iJevin: 31
+3: Docm77: 18
+4: Grian: 5
+5: Zedaph: 4
+6: Renthedog: 2
+7: Tango: 2
+8: hypnotizd: 2
+9: Xisuma: 1
+10: iskall85: 1
+11: xBCrafted: 1
+12: falsesymmetry: 1
+13: cubfan135: 1
+14: Welsknight: 1
+15: ZombieCleo: 1
+Total 123

@@ -1,0 +1,26 @@
+minecraft.picked_up.spruce_sign
+1: Zedaph: 1311
+2: Grian: 522
+3: GoodTimeWithScar: 234
+4: VintageBeef: 98
+5: Xisuma: 96
+6: cubfan135: 96
+7: ZombieCleo: 91
+8: iJevin: 70
+9: Etho: 69
+10: Renthedog: 64
+11: Keralis1: 47
+12: MumboJumbo: 41
+13: Tango: 40
+14: iskall85: 40
+15: joehillssays: 39
+16: xBCrafted: 35
+17: impulseSV: 29
+18: falsesymmetry: 25
+19: Stressmonster101: 19
+20: BdoubleO100: 18
+21: Docm77: 11
+22: BarryBoss1234: 5
+23: hypnotizd: 2
+24: Welsknight: 1
+Total 3003

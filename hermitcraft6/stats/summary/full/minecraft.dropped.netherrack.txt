@@ -1,0 +1,23 @@
+minecraft.dropped.netherrack
+1: falsesymmetry: 77490
+2: cubfan135: 52685
+3: Xisuma: 44444
+4: iskall85: 33093
+5: Renthedog: 18836
+6: Docm77: 15603
+7: GoodTimeWithScar: 13898
+8: iJevin: 7567
+9: Grian: 7024
+10: Zedaph: 6193
+11: Tango: 5337
+12: impulseSV: 3860
+13: MumboJumbo: 3698
+14: Stressmonster101: 3088
+15: joehillssays: 2302
+16: PythonGB: 1609
+17: Tinfoilchef: 278
+18: Biffa2001: 76
+19: Welsknight: 55
+20: ZombieCleo: 51
+21: EvilXisuma: 1
+Total 297188

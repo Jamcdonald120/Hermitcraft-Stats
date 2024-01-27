@@ -1,0 +1,26 @@
+minecraft.picked_up.beacon
+1: impulseSV: 219
+2: iskall85: 126
+3: Xisuma: 123
+4: Etho: 120
+5: Tango: 89
+6: cubfan135: 86
+7: xBCrafted: 84
+8: falsesymmetry: 59
+9: GoodTimeWithScar: 54
+10: iJevin: 47
+11: Renthedog: 46
+12: BdoubleO100: 41
+13: Keralis1: 39
+14: Grian: 37
+15: MumboJumbo: 35
+16: Stressmonster101: 24
+17: joehillssays: 18
+18: hypnotizd: 14
+19: Welsknight: 8
+20: VintageBeef: 6
+21: Docm77: 4
+22: Tinfoilchef: 4
+23: Zedaph: 2
+24: ZombieCleo: 1
+Total 1286

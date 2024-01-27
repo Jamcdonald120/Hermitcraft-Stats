@@ -1,0 +1,22 @@
+minecraft.crafted.fishing_rod
+1: Tango: 86
+2: cubfan135: 53
+3: Etho: 34
+4: xBCrafted: 21
+5: iJevin: 18
+6: Zedaph: 13
+7: Renthedog: 11
+8: VintageBeef: 11
+9: Docm77: 5
+10: GoodTimeWithScar: 5
+11: Keralis1: 5
+12: Xisuma: 4
+13: BdoubleO100: 4
+14: iskall85: 4
+15: hypnotizd: 4
+16: Grian: 3
+17: falsesymmetry: 2
+18: impulseSV: 2
+19: MumboJumbo: 1
+20: Stressmonster101: 1
+Total 287

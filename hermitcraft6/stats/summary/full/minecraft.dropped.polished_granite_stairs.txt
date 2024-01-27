@@ -1,0 +1,5 @@
+minecraft.dropped.polished_granite_stairs
+1: cubfan135: 38
+2: BdoubleO100: 5
+3: Xisuma: 2
+Total 45

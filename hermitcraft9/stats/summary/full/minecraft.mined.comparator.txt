@@ -1,0 +1,28 @@
+minecraft.mined.comparator
+1: Tango: 962
+2: impulseSV: 287
+3: cubfan135: 271
+4: GoodTimeWithScar: 268
+5: Xisuma: 212
+6: Docm77: 84
+7: iJevin: 65
+8: Renthedog: 35
+9: Etho: 28
+10: Keralis1: 28
+11: hypnotizd: 27
+12: Zedaph: 25
+13: iskall85: 24
+14: Grian: 20
+15: GeminiTay: 14
+16: BdoubleO100: 14
+17: xBCrafted: 12
+18: PearlescentMoon: 7
+19: Pixlriffs: 6
+20: RentheKing: 5
+21: OrionSound: 4
+22: Mumbo: 4
+23: falsesymmetry: 3
+24: joehillssays: 2
+25: ZombieCleo: 2
+26: Stressmonster101: 2
+Total 2411

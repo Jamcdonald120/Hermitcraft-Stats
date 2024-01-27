@@ -1,0 +1,4 @@
+minecraft.dropped.light_gray_banner
+1: Xisuma: 1
+2: GoodTimeWithScar: 1
+Total 2

@@ -1,0 +1,14 @@
+minecraft.dropped.netherite_helmet
+1: cubfan135: 9
+2: Xisuma: 5
+3: Renthedog: 5
+4: BdoubleO100: 5
+5: Grian: 4
+6: GoodTimeWithScar: 3
+7: Keralis1: 3
+8: Tango: 2
+9: falsesymmetry: 2
+10: Zedaph: 2
+11: ZombieCleo: 1
+12: MumboJumbo: 1
+Total 42

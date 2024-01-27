@@ -1,0 +1,28 @@
+stat.drop
+1: GoodTimeWithScar: 14077
+2: MumboJumbo: 12358
+3: cubfan135: 12000
+4: Tango: 11416
+5: Welsknight: 11221
+6: Zedaph: 10783
+7: iskall85: 10574
+8: Xisuma: 10471
+9: Renthedog: 8621
+10: falsesymmetry: 6527
+11: impulseSV: 5467
+12: xBCrafted: 3387
+13: Tinfoilchef: 2932
+14: Docm77: 2697
+15: Stressmonster101: 2691
+16: iJevin: 2305
+17: PythonGB: 1676
+18: BdoubleO100: 1585
+19: Biffa2001: 736
+20: ZombieCleo: 647
+21: VintageBeef: 505
+22: joehillssays: 473
+23: Etho: 421
+24: xisumavoid: 52
+25: Mumbo: 2
+26: EvilXisuma: 1
+Total 133625

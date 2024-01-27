@@ -1,0 +1,10 @@
+stat.drop.minecraft.sea_lantern
+1: MumboJumbo: 1891
+2: impulseSV: 860
+3: falsesymmetry: 281
+4: Zedaph: 191
+5: PythonGB: 64
+6: xBCrafted: 51
+7: cubfan135: 36
+8: Tango: 28
+Total 3402

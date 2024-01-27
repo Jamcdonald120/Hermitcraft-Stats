@@ -1,0 +1,30 @@
+minecraft.picked_up.green_shulker_box
+1: PearlescentMoon: 1366
+2: cubfan135: 365
+3: Renthedog: 147
+4: Xisuma: 133
+5: BdoubleO100: 131
+6: joehillssays: 130
+7: Zedaph: 100
+8: Etho: 99
+9: RentheKing: 75
+10: VintageBeef: 62
+11: ZombieCleo: 55
+12: MythicalSausage: 44
+13: iJevin: 41
+14: Tango: 31
+15: GoodTimeWithScar: 26
+16: xBCrafted: 25
+17: Grian: 23
+18: falsesymmetry: 21
+19: Keralis1: 19
+20: impulseSV: 16
+21: iskall85: 15
+22: ShubbleYT: 11
+23: Docm77: 7
+24: GeminiTay: 4
+25: Smallishbeans: 2
+26: hypnotizd: 2
+27: Stressmonster101: 2
+28: OrionSound: 1
+Total 2953

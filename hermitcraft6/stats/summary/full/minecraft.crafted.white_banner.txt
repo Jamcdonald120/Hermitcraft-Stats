@@ -1,0 +1,23 @@
+minecraft.crafted.white_banner
+1: Renthedog: 590
+2: cubfan135: 171
+3: falsesymmetry: 129
+4: impulseSV: 77
+5: Keralis1: 70
+6: Xisuma: 61
+7: Stressmonster101: 54
+8: joehillssays: 35
+9: Tinfoilchef: 26
+10: BdoubleO100: 22
+11: iJevin: 21
+12: Tango: 18
+13: Grian: 16
+14: xBCrafted: 8
+15: HumanCleo: 7
+16: PythonGB: 6
+17: Welsknight: 6
+18: Docm77: 3
+19: ZombieCleo: 3
+20: GoodTimeWithScar: 3
+21: Zedaph: 1
+Total 1327

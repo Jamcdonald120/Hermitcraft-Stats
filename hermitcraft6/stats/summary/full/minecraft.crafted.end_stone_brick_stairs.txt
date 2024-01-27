@@ -1,0 +1,5 @@
+minecraft.crafted.end_stone_brick_stairs
+1: Xisuma: 240
+2: cubfan135: 48
+3: Tinfoilchef: 8
+Total 296

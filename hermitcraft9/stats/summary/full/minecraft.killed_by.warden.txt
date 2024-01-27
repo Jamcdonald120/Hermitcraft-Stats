@@ -1,0 +1,25 @@
+minecraft.killed_by.warden
+1: GoodTimeWithScar: 34
+2: Docm77: 33
+3: PearlescentMoon: 31
+4: iJevin: 29
+5: cubfan135: 26
+6: Tango: 19
+7: hypnotizd: 16
+8: Grian: 12
+9: GeminiTay: 11
+10: Keralis1: 11
+11: Etho: 10
+12: joehillssays: 5
+13: Xisuma: 3
+14: BdoubleO100: 3
+15: Zedaph: 3
+16: falsesymmetry: 2
+17: ZombieCleo: 2
+18: impulseSV: 2
+19: Renthedog: 1
+20: VintageBeef: 1
+21: Skizzleman: 1
+22: LDShadowLady: 1
+23: xBCrafted: 1
+Total 257

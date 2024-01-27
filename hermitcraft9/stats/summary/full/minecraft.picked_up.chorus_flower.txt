@@ -1,0 +1,18 @@
+minecraft.picked_up.chorus_flower
+1: impulseSV: 585
+2: iJevin: 233
+3: Keralis1: 189
+4: ZombieCleo: 57
+5: falsesymmetry: 53
+6: PearlescentMoon: 45
+7: joehillssays: 15
+8: cubfan135: 9
+9: Etho: 8
+10: Docm77: 7
+11: Xisuma: 7
+12: Tango: 4
+13: GoodTimeWithScar: 4
+14: Renthedog: 2
+15: GeminiTay: 2
+16: Zedaph: 1
+Total 1221

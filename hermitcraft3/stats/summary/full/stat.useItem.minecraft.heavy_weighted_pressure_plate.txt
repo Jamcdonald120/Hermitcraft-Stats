@@ -1,0 +1,14 @@
+stat.useItem.minecraft.heavy_weighted_pressure_plate
+1: Mumbo: 88
+2: xBCrafted: 65
+3: falsesymmetry: 57
+4: Tango: 49
+5: Xisuma: 29
+6: ZombieCleo: 22
+7: zueljin: 19
+8: sl1pg8r: 17
+9: impulseSV: 9
+10: Etho: 7
+11: PythonGB: 6
+12: Docm77: 1
+Total 369

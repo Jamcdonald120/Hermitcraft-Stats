@@ -1,0 +1,15 @@
+minecraft.picked_up.carrot_on_a_stick
+1: Keralis1: 17
+2: OrionSound: 8
+3: joehillssays: 8
+4: falsesymmetry: 3
+5: cubfan135: 2
+6: iJevin: 1
+7: MythicalSausage: 1
+8: BdoubleO100: 1
+9: ZombieCleo: 1
+10: Mumbo: 1
+11: fWhip: 1
+12: ShubbleYT: 1
+13: Zedaph: 1
+Total 46

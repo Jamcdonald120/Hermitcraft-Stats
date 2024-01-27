@@ -1,0 +1,10 @@
+minecraft.crafted.green_candle
+1: hypnotizd: 1348
+2: Etho: 576
+3: Tango: 140
+4: joehillssays: 128
+5: Xisuma: 19
+6: Docm77: 17
+7: GoodTimeWithScar: 1
+8: Zedaph: 1
+Total 2230

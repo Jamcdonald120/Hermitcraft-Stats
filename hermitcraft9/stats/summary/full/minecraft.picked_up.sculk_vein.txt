@@ -1,0 +1,19 @@
+minecraft.picked_up.sculk_vein
+1: Xisuma: 4850
+2: Tango: 4314
+3: cubfan135: 1789
+4: PearlescentMoon: 1610
+5: impulseSV: 870
+6: xBCrafted: 715
+7: Grian: 348
+8: iJevin: 138
+9: GoodTimeWithScar: 132
+10: GeminiTay: 60
+11: BdoubleO100: 56
+12: Docm77: 40
+13: Etho: 16
+14: Mumbo: 16
+15: iskall85: 2
+16: hypnotizd: 2
+17: Zedaph: 2
+Total 14960

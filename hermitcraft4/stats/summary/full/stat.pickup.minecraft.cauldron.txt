@@ -1,0 +1,16 @@
+stat.pickup.minecraft.cauldron
+1: falsesymmetry: 134
+2: Tango: 125
+3: iskall85: 91
+4: Etho: 56
+5: Docm77: 44
+6: MumboJumbo: 42
+7: cubfan135: 32
+8: impulseSV: 22
+9: Tinfoilchef: 17
+10: Xisuma: 10
+11: iJevin: 9
+12: GoodTimeWithScar: 7
+13: Welsknight: 6
+14: PythonGB: 1
+Total 596

@@ -1,0 +1,8 @@
+minecraft.crafted.pink_wool
+1: Renthedog: 22
+2: ZombieCleo: 12
+3: Xisuma: 6
+4: Zedaph: 5
+5: iJevin: 1
+6: Welsknight: 1
+Total 47

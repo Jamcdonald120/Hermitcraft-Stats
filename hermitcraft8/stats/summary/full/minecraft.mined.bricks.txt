@@ -1,0 +1,14 @@
+minecraft.mined.bricks
+1: Grian: 209
+2: Xisuma: 82
+3: Renthedog: 42
+4: GoodTimeWithScar: 32
+5: PearlescentMoon: 28
+6: Etho: 18
+7: impulseSV: 16
+8: Tango: 10
+9: joehillssays: 6
+10: BdoubleO100: 6
+11: falsesymmetry: 5
+12: Keralis1: 3
+Total 457

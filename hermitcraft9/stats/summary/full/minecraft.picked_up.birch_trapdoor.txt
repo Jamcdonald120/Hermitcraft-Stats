@@ -1,0 +1,24 @@
+minecraft.picked_up.birch_trapdoor
+1: iJevin: 441
+2: Docm77: 129
+3: PearlescentMoon: 106
+4: GoodTimeWithScar: 98
+5: cubfan135: 71
+6: VintageBeef: 60
+7: Grian: 46
+8: joehillssays: 43
+9: ZombieCleo: 36
+10: hypnotizd: 33
+11: Xisuma: 25
+12: impulseSV: 23
+13: Keralis1: 18
+14: Stressmonster101: 10
+15: GeminiTay: 6
+16: BdoubleO100: 4
+17: Renthedog: 3
+18: Tango: 2
+19: falsesymmetry: 2
+20: iskall85: 1
+21: Etho: 1
+22: Zedaph: 1
+Total 1159

@@ -1,0 +1,28 @@
+minecraft.crafted.iron_axe
+1: iskall85: 57
+2: Stressmonster101: 38
+3: cubfan135: 36
+4: GoodTimeWithScar: 25
+5: Keralis1: 18
+6: MumboJumbo: 16
+7: joehillssays: 12
+8: ZombieCleo: 11
+9: Welsknight: 10
+10: falsesymmetry: 8
+11: PythonGB: 7
+12: Jessassin: 7
+13: impulseSV: 7
+14: iJevin: 6
+15: Tango: 6
+16: Tinfoilchef: 6
+17: BdoubleO100: 5
+18: Docm77: 4
+19: Xisuma: 4
+20: Renthedog: 4
+21: Zedaph: 4
+22: Grian: 2
+23: Biffa2001: 2
+24: EvilXisuma: 1
+25: HumanCleo: 1
+26: xBCrafted: 1
+Total 298

@@ -1,0 +1,29 @@
+minecraft.picked_up.iron_boots
+1: Tango: 326
+2: iJevin: 83
+3: iskall85: 73
+4: Xisuma: 45
+5: cubfan135: 33
+6: impulseSV: 24
+7: Etho: 22
+8: Grian: 13
+9: PearlescentMoon: 11
+10: Zedaph: 11
+11: Docm77: 9
+12: falsesymmetry: 8
+13: joehillssays: 7
+14: Keralis1: 6
+15: Renthedog: 5
+16: ZombieCleo: 5
+17: hypnotizd: 5
+18: VintageBeef: 4
+19: OrionSound: 2
+20: GeminiTay: 2
+21: xBCrafted: 2
+22: GoodTimeWithScar: 2
+23: Stressmonster101: 2
+24: MythicalSausage: 1
+25: Welsknight: 1
+26: Mumbo: 1
+27: ShubbleYT: 1
+Total 704

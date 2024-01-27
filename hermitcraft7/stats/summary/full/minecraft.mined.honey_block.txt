@@ -1,0 +1,23 @@
+minecraft.mined.honey_block
+1: Xisuma: 1544
+2: cubfan135: 947
+3: iskall85: 772
+4: Zedaph: 394
+5: MumboJumbo: 298
+6: Tango: 238
+7: Etho: 135
+8: Grian: 125
+9: impulseSV: 82
+10: ZombieCleo: 68
+11: GoodTimeWithScar: 59
+12: Docm77: 37
+13: VintageBeef: 36
+14: BdoubleO100: 35
+15: joehillssays: 33
+16: Keralis1: 30
+17: falsesymmetry: 15
+18: iJevin: 7
+19: xBCrafted: 6
+20: Stressmonster101: 4
+21: hypnotizd: 2
+Total 4867

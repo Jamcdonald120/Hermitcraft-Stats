@@ -1,0 +1,15 @@
+minecraft.killed.evoker
+1: impulseSV: 350023
+2: Docm77: 68642
+3: Keralis1: 65819
+4: Tango: 30312
+5: iJevin: 18651
+6: Etho: 11
+7: Xisuma: 6
+8: cubfan135: 6
+9: PearlescentMoon: 5
+10: GeminiTay: 1
+11: Grian: 1
+12: xBCrafted: 1
+13: ZombieCleo: 1
+Total 533479

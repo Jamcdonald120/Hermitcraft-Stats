@@ -1,0 +1,22 @@
+minecraft.crafted.oak_button
+1: Grian: 432
+2: Renthedog: 330
+3: Keralis1: 191
+4: BdoubleO100: 72
+5: Xisuma: 71
+6: MumboJumbo: 53
+7: iskall85: 42
+8: Tango: 32
+9: VintageBeef: 20
+10: impulseSV: 11
+11: Stressmonster101: 7
+12: joehillssays: 4
+13: hypnotizd: 4
+14: GoodTimeWithScar: 4
+15: cubfan135: 3
+16: Etho: 3
+17: xBCrafted: 2
+18: Tinfoilchef: 2
+19: Zedaph: 2
+20: ZombieCleo: 1
+Total 1286

@@ -1,0 +1,12 @@
+minecraft.dropped.chiseled_deepslate
+1: Tango: 175
+2: falsesymmetry: 138
+3: GoodTimeWithScar: 4
+4: cubfan135: 3
+5: Renthedog: 1
+6: BdoubleO100: 1
+7: PearlescentMoon: 1
+8: Etho: 1
+9: Mumbo: 1
+10: RentheKing: 1
+Total 326

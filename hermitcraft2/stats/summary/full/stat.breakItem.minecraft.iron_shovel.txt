@@ -1,0 +1,4 @@
+stat.breakItem.minecraft.iron_shovel
+1: xBCrafted: 3
+2: NameOfSamuel: 2
+Total 5

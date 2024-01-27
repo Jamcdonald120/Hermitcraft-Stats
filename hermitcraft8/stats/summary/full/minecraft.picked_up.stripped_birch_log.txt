@@ -1,0 +1,19 @@
+minecraft.picked_up.stripped_birch_log
+1: joehillssays: 1823
+2: ZombieCleo: 445
+3: cubfan135: 263
+4: MumboJumbo: 118
+5: GeminiTay: 115
+6: GoodTimeWithScar: 88
+7: Xisuma: 48
+8: BdoubleO100: 20
+9: Etho: 16
+10: xBCrafted: 4
+11: Docm77: 3
+12: Grian: 3
+13: Tango: 2
+14: impulseSV: 2
+15: PearlescentMoon: 1
+16: falsesymmetry: 1
+17: hypnotizd: 1
+Total 2953

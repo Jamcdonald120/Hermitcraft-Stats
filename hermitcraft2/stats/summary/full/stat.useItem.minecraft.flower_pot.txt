@@ -1,0 +1,5 @@
+stat.useItem.minecraft.flower_pot
+1: ZombieCleo: 52
+2: zueljin: 36
+3: falsesymmetry: 10
+Total 98

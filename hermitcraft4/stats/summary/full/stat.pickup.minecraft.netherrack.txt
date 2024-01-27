@@ -1,0 +1,25 @@
+stat.pickup.minecraft.netherrack
+1: Xisuma: 55834
+2: Tango: 43848
+3: Renthedog: 42907
+4: falsesymmetry: 41796
+5: impulseSV: 32428
+6: GoodTimeWithScar: 24915
+7: cubfan135: 21639
+8: iskall85: 18384
+9: Tinfoilchef: 15567
+10: Welsknight: 15227
+11: Biffa2001: 15145
+12: VintageBeef: 10736
+13: ZombieCleo: 6820
+14: MumboJumbo: 5167
+15: joehillssays: 4726
+16: Mumbo: 2416
+17: iJevin: 2377
+18: Docm77: 1858
+19: PythonGB: 1587
+20: Etho: 553
+21: Jessassin: 511
+22: zueljin: 153
+23: xBCrafted: 144
+Total 364738

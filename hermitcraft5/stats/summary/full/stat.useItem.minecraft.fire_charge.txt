@@ -1,0 +1,5 @@
+stat.useItem.minecraft.fire_charge
+1: Tango: 7
+2: cubfan135: 3
+3: falsesymmetry: 1
+Total 11

@@ -1,0 +1,29 @@
+minecraft.picked_up.glow_ink_sac
+1: xBCrafted: 707
+2: cubfan135: 561
+3: joehillssays: 486
+4: iJevin: 384
+5: Tango: 330
+6: Xisuma: 329
+7: Grian: 329
+8: PearlescentMoon: 314
+9: Docm77: 195
+10: Keralis1: 184
+11: VintageBeef: 151
+12: iskall85: 137
+13: GoodTimeWithScar: 135
+14: BdoubleO100: 108
+15: Etho: 107
+16: Renthedog: 103
+17: impulseSV: 94
+18: hypnotizd: 59
+19: falsesymmetry: 37
+20: Welsknight: 31
+21: ZombieCleo: 19
+22: Stressmonster101: 18
+23: GeminiTay: 13
+24: Zedaph: 11
+25: MumboJumbo: 8
+26: Tinfoilchef: 8
+27: pillbugnine: 4
+Total 4862

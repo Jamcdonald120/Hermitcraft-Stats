@@ -1,0 +1,24 @@
+minecraft.picked_up.yellow_concrete
+1: cubfan135: 3619
+2: Tango: 2389
+3: impulseSV: 2388
+4: GoodTimeWithScar: 2104
+5: MumboJumbo: 2018
+6: Keralis1: 1620
+7: falsesymmetry: 903
+8: Zedaph: 809
+9: Stressmonster101: 503
+10: ZombieCleo: 487
+11: Etho: 402
+12: Xisuma: 346
+13: VintageBeef: 209
+14: Renthedog: 176
+15: iskall85: 148
+16: Grian: 122
+17: BdoubleO100: 34
+18: xBCrafted: 8
+19: iJevin: 3
+20: BarryBoss1234: 2
+21: Docm77: 1
+22: hypnotizd: 1
+Total 18292

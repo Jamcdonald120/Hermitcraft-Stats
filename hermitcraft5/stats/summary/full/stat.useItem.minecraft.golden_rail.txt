@@ -1,0 +1,23 @@
+stat.useItem.minecraft.golden_rail
+1: Docm77: 4582
+2: iskall85: 3669
+3: impulseSV: 2875
+4: cubfan135: 2864
+5: MumboJumbo: 2020
+6: Tango: 1699
+7: Xisuma: 1000
+8: Zedaph: 596
+9: GoodTimeWithScar: 533
+10: Renthedog: 442
+11: BdoubleO100: 293
+12: xBCrafted: 293
+13: Tinfoilchef: 190
+14: Welsknight: 162
+15: Stressmonster101: 142
+16: iJevin: 132
+17: falsesymmetry: 89
+18: PythonGB: 84
+19: VintageBeef: 29
+20: Biffa2001: 25
+21: ZombieCleo: 7
+Total 21726

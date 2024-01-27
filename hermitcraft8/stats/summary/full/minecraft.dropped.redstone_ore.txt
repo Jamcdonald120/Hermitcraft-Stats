@@ -1,0 +1,12 @@
+minecraft.dropped.redstone_ore
+1: PearlescentMoon: 42
+2: MumboJumbo: 27
+3: GeminiTay: 20
+4: iJevin: 14
+5: Tango: 7
+6: xBCrafted: 4
+7: Docm77: 2
+8: Renthedog: 2
+9: GoodTimeWithScar: 2
+10: hypnotizd: 1
+Total 121

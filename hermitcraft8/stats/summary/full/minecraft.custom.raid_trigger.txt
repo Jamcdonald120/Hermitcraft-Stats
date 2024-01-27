@@ -1,0 +1,7 @@
+minecraft.custom.raid_trigger
+1: iJevin: 58
+2: Tango: 42
+3: Etho: 2
+4: GeminiTay: 1
+5: cubfan135: 1
+Total 104

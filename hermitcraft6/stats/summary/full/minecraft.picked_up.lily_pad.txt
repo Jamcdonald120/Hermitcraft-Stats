@@ -1,0 +1,20 @@
+minecraft.picked_up.lily_pad
+1: falsesymmetry: 372
+2: joehillssays: 297
+3: Biffa2001: 203
+4: Xisuma: 119
+5: MumboJumbo: 114
+6: iJevin: 111
+7: Welsknight: 91
+8: GoodTimeWithScar: 87
+9: cubfan135: 53
+10: iskall85: 50
+11: Grian: 31
+12: Renthedog: 27
+13: Docm77: 14
+14: Tango: 10
+15: Jessassin: 3
+16: Tinfoilchef: 3
+17: ZombieCleo: 2
+18: Stressmonster101: 1
+Total 1588

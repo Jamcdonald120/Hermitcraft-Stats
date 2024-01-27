@@ -1,0 +1,15 @@
+stat.pickup.minecraft.red_nether_brick
+1: Tango: 5742
+2: iskall85: 406
+3: cubfan135: 289
+4: Xisuma: 198
+5: joehillssays: 147
+6: Stressmonster101: 129
+7: GoodTimeWithScar: 102
+8: Zedaph: 67
+9: falsesymmetry: 28
+10: Welsknight: 18
+11: MumboJumbo: 16
+12: impulseSV: 2
+13: iJevin: 1
+Total 7145

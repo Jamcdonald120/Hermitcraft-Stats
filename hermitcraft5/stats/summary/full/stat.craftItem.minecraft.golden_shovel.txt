@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.golden_shovel
+1: Renthedog: 55
+2: joehillssays: 1
+Total 56

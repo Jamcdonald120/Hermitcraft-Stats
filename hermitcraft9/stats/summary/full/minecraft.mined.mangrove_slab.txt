@@ -1,0 +1,23 @@
+minecraft.mined.mangrove_slab
+1: GoodTimeWithScar: 300
+2: joehillssays: 177
+3: Renthedog: 118
+4: OrionSound: 77
+5: Grian: 71
+6: Keralis1: 56
+7: Xisuma: 50
+8: iJevin: 50
+9: cubfan135: 38
+10: RentheKing: 34
+11: BdoubleO100: 15
+12: MythicalSausage: 13
+13: impulseSV: 11
+14: PearlescentMoon: 8
+15: Pixlriffs: 8
+16: ZombieCleo: 8
+17: Smallishbeans: 5
+18: falsesymmetry: 5
+19: Docm77: 3
+20: Tango: 2
+21: Stressmonster101: 1
+Total 1050

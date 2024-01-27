@@ -1,0 +1,24 @@
+minecraft.mined.white_stained_glass
+1: MumboJumbo: 8620
+2: impulseSV: 2267
+3: iskall85: 1958
+4: GoodTimeWithScar: 1851
+5: Renthedog: 1628
+6: falsesymmetry: 1347
+7: iJevin: 972
+8: Grian: 796
+9: Docm77: 664
+10: joehillssays: 406
+11: Xisuma: 401
+12: cubfan135: 193
+13: PythonGB: 160
+14: Stressmonster101: 149
+15: Welsknight: 124
+16: ZombieCleo: 53
+17: BdoubleO100: 47
+18: HumanCleo: 43
+19: Zedaph: 23
+20: Keralis1: 12
+21: Tango: 6
+22: Biffa2001: 3
+Total 21723

@@ -1,0 +1,11 @@
+minecraft.picked_up.gray_bed
+1: Renthedog: 22
+2: Etho: 16
+3: impulseSV: 11
+4: falsesymmetry: 10
+5: ZombieCleo: 7
+6: GeminiTay: 5
+7: BdoubleO100: 2
+8: Keralis1: 1
+9: Zedaph: 1
+Total 75

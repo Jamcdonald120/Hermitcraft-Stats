@@ -1,0 +1,19 @@
+minecraft.picked_up.lava_bucket
+1: RentheKing: 547
+2: Zedaph: 60
+3: Docm77: 45
+4: Grian: 44
+5: cubfan135: 40
+6: joehillssays: 36
+7: Tango: 35
+8: iJevin: 31
+9: Etho: 30
+10: GoodTimeWithScar: 20
+11: Xisuma: 9
+12: PearlescentMoon: 7
+13: falsesymmetry: 4
+14: hypnotizd: 4
+15: VintageBeef: 3
+16: ZombieCleo: 1
+17: Keralis1: 1
+Total 917

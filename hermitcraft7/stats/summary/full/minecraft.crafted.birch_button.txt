@@ -1,0 +1,16 @@
+minecraft.crafted.birch_button
+1: xBCrafted: 256
+2: Xisuma: 109
+3: cubfan135: 56
+4: iskall85: 44
+5: Keralis1: 38
+6: BdoubleO100: 35
+7: Renthedog: 30
+8: Grian: 20
+9: impulseSV: 20
+10: VintageBeef: 14
+11: Tango: 8
+12: Etho: 7
+13: MumboJumbo: 2
+14: iJevin: 1
+Total 640

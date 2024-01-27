@@ -1,0 +1,16 @@
+minecraft.picked_up.lava_bucket
+1: cubfan135: 271
+2: MumboJumbo: 18
+3: Etho: 15
+4: Docm77: 7
+5: PearlescentMoon: 5
+6: Renthedog: 4
+7: iJevin: 4
+8: Tango: 4
+9: falsesymmetry: 4
+10: Xisuma: 1
+11: Grian: 1
+12: hypnotizd: 1
+13: GoodTimeWithScar: 1
+14: Zedaph: 1
+Total 337

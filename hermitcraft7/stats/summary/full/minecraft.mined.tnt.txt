@@ -1,0 +1,24 @@
+minecraft.mined.tnt
+1: impulseSV: 7355
+2: Grian: 327
+3: GoodTimeWithScar: 172
+4: cubfan135: 125
+5: Etho: 88
+6: Tango: 69
+7: hypnotizd: 65
+8: falsesymmetry: 58
+9: Zedaph: 56
+10: iJevin: 54
+11: iskall85: 51
+12: BdoubleO100: 45
+13: Xisuma: 34
+14: Keralis1: 28
+15: Docm77: 27
+16: VintageBeef: 25
+17: MumboJumbo: 21
+18: Renthedog: 17
+19: xBCrafted: 14
+20: Stressmonster101: 12
+21: ZombieCleo: 5
+22: joehillssays: 4
+Total 8652

@@ -1,0 +1,27 @@
+minecraft.dropped.poppy
+1: Xisuma: 17343
+2: Tango: 14616
+3: Grian: 3954
+4: Docm77: 1882
+5: xBCrafted: 1814
+6: impulseSV: 1003
+7: Welsknight: 883
+8: hypnotizd: 644
+9: GoodTimeWithScar: 303
+10: Keralis1: 153
+11: Renthedog: 63
+12: MumboJumbo: 59
+13: PearlescentMoon: 58
+14: BdoubleO100: 22
+15: iJevin: 18
+16: falsesymmetry: 12
+17: joehillssays: 9
+18: cubfan135: 8
+19: Stressmonster101: 4
+20: iskall85: 3
+21: GeminiTay: 2
+22: ZombieCleo: 2
+23: Tinfoilchef: 2
+24: Zedaph: 2
+25: Etho: 1
+Total 42860

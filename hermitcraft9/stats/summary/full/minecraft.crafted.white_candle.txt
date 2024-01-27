@@ -1,0 +1,10 @@
+minecraft.crafted.white_candle
+1: hypnotizd: 1860
+2: falsesymmetry: 28
+3: BdoubleO100: 23
+4: Tango: 8
+5: impulseSV: 6
+6: Grian: 1
+7: ZombieCleo: 1
+8: Zedaph: 1
+Total 1928

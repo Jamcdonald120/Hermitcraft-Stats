@@ -1,0 +1,9 @@
+minecraft.dropped.lime_terracotta
+1: Zedaph: 672
+2: Xisuma: 149
+3: GoodTimeWithScar: 66
+4: Tango: 20
+5: Grian: 12
+6: Keralis1: 4
+7: Etho: 3
+Total 926

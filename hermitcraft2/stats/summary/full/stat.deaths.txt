@@ -1,0 +1,30 @@
+stat.deaths
+1: red3yz: 67
+2: Spumwackles: 52
+3: Xisuma: 42
+4: Keralis1: 41
+5: KingDaddyDMAC: 38
+6: sl1pg8r: 35
+7: iJevin: 32
+8: Mumbo: 20
+9: ZombieCleo: 18
+10: Pungence: 15
+11: skyzm: 13
+12: topmass: 9
+13: Biffa2001: 9
+14: monkeyfarm: 9
+15: HttpsSecure: 8
+16: zueljin: 8
+17: Tinfoilchef: 6
+18: falsesymmetry: 5
+19: xisumavoid: 5
+20: hypnotizd: 4
+21: NameOfSamuel: 4
+22: Tango: 3
+23: Jessassin: 2
+24: xBCrafted: 2
+25: Unhost: 2
+26: Cleophas: 2
+27: MumboJumbo: 1
+28: Collen: 1
+Total 453

@@ -1,0 +1,29 @@
+minecraft.picked_up.pumpkin_seeds
+1: Renthedog: 29654
+2: cubfan135: 15626
+3: GoodTimeWithScar: 10133
+4: iJevin: 4285
+5: Etho: 2754
+6: Tango: 1743
+7: Zedaph: 1286
+8: iskall85: 878
+9: Docm77: 851
+10: MythicalSausage: 678
+11: RentheKing: 505
+12: Grian: 430
+13: falsesymmetry: 363
+14: joehillssays: 342
+15: xBCrafted: 305
+16: Stressmonster101: 236
+17: Xisuma: 168
+18: PearlescentMoon: 143
+19: impulseSV: 93
+20: GeminiTay: 44
+21: hypnotizd: 44
+22: BdoubleO100: 38
+23: Smajor1995: 32
+24: VintageBeef: 26
+25: Keralis1: 9
+26: Smallishbeans: 8
+27: ZombieCleo: 4
+Total 70678

@@ -1,0 +1,15 @@
+minecraft.crafted.light_blue_wool
+1: MumboJumbo: 1194
+2: Tango: 320
+3: Keralis1: 279
+4: Xisuma: 174
+5: joehillssays: 129
+6: GoodTimeWithScar: 120
+7: Grian: 58
+8: Renthedog: 40
+9: iskall85: 16
+10: cubfan135: 16
+11: BdoubleO100: 9
+12: Etho: 3
+13: ZombieCleo: 2
+Total 2360

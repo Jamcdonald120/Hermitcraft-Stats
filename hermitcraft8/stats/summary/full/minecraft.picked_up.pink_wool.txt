@@ -1,0 +1,14 @@
+minecraft.picked_up.pink_wool
+1: Zedaph: 437
+2: Tango: 391
+3: PearlescentMoon: 195
+4: GeminiTay: 142
+5: Grian: 64
+6: cubfan135: 34
+7: Welsknight: 29
+8: BdoubleO100: 10
+9: Xisuma: 4
+10: falsesymmetry: 3
+11: Keralis1: 3
+12: iJevin: 1
+Total 1313

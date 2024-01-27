@@ -1,0 +1,14 @@
+stat.drop.minecraft.carpet
+1: Tango: 239
+2: Xisuma: 191
+3: iskall85: 118
+4: falsesymmetry: 115
+5: GoodTimeWithScar: 109
+6: impulseSV: 105
+7: cubfan135: 41
+8: Docm77: 15
+9: Renthedog: 11
+10: Tinfoilchef: 3
+11: ZombieCleo: 2
+12: PythonGB: 1
+Total 950

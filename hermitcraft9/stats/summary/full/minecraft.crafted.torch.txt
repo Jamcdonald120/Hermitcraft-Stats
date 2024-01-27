@@ -1,0 +1,35 @@
+minecraft.crafted.torch
+1: joehillssays: 18772
+2: Renthedog: 14240
+3: GoodTimeWithScar: 13088
+4: cubfan135: 10520
+5: xBCrafted: 9016
+6: Tango: 8981
+7: Etho: 8502
+8: Grian: 7592
+9: PearlescentMoon: 7448
+10: RentheKing: 7314
+11: Xisuma: 6952
+12: impulseSV: 6932
+13: iJevin: 6880
+14: VintageBeef: 6864
+15: falsesymmetry: 6580
+16: iskall85: 5595
+17: Docm77: 5252
+18: hypnotizd: 3732
+19: ZombieCleo: 3284
+20: Zedaph: 2704
+21: Keralis1: 2596
+22: Mumbo: 2156
+23: Stressmonster101: 2060
+24: GeminiTay: 1984
+25: BdoubleO100: 1724
+26: Welsknight: 840
+27: MumboJumbo: 728
+28: Tinfoilchef: 616
+29: Pixlriffs: 440
+30: MythicalSausage: 364
+31: Smallishbeans: 200
+32: SolidarityGaming: 48
+33: ShubbleYT: 8
+Total 174012

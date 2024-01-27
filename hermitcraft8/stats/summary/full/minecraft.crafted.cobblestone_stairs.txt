@@ -1,0 +1,23 @@
+minecraft.crafted.cobblestone_stairs
+1: MumboJumbo: 1032
+2: Grian: 216
+3: Tango: 186
+4: Keralis1: 176
+5: GeminiTay: 148
+6: Tinfoilchef: 144
+7: PearlescentMoon: 109
+8: Zedaph: 89
+9: Docm77: 60
+10: Renthedog: 52
+11: Xisuma: 40
+12: hypnotizd: 40
+13: BdoubleO100: 31
+14: iJevin: 28
+15: xBCrafted: 28
+16: GoodTimeWithScar: 20
+17: Welsknight: 19
+18: falsesymmetry: 16
+19: impulseSV: 16
+20: joehillssays: 4
+21: iskall85: 1
+Total 2455

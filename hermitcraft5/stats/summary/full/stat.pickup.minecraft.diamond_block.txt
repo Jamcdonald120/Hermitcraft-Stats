@@ -1,0 +1,14 @@
+stat.pickup.minecraft.diamond_block
+1: Renthedog: 218
+2: falsesymmetry: 30
+3: PythonGB: 25
+4: cubfan135: 24
+5: GoodTimeWithScar: 14
+6: Zedaph: 14
+7: impulseSV: 13
+8: Welsknight: 9
+9: iskall85: 4
+10: ZombieCleo: 2
+11: Xisuma: 1
+12: MumboJumbo: 1
+Total 355

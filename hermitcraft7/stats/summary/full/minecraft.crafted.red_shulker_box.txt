@@ -1,0 +1,24 @@
+minecraft.crafted.red_shulker_box
+1: Keralis1: 63
+2: Tango: 56
+3: GoodTimeWithScar: 45
+4: iskall85: 17
+5: Etho: 17
+6: cubfan135: 9
+7: joehillssays: 8
+8: xBCrafted: 8
+9: Xisuma: 7
+10: Docm77: 6
+11: Renthedog: 5
+12: VintageBeef: 5
+13: ZombieCleo: 5
+14: hypnotizd: 3
+15: Stressmonster101: 3
+16: BdoubleO100: 2
+17: MumboJumbo: 2
+18: impulseSV: 2
+19: Zedaph: 2
+20: iJevin: 1
+21: falsesymmetry: 1
+22: Welsknight: 1
+Total 268

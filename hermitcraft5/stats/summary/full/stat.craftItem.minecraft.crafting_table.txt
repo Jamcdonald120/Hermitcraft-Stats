@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.crafting_table
+1: Renthedog: 3576
+2: cubfan135: 216
+3: iskall85: 197
+4: falsesymmetry: 180
+5: Xisuma: 127
+6: GoodTimeWithScar: 119
+7: xBCrafted: 111
+8: MumboJumbo: 107
+9: Tango: 90
+10: joehillssays: 79
+11: Stressmonster101: 75
+12: Welsknight: 69
+13: impulseSV: 55
+14: PythonGB: 52
+15: Zedaph: 51
+16: iJevin: 39
+17: Biffa2001: 32
+18: VintageBeef: 30
+19: ZombieCleo: 28
+20: BdoubleO100: 27
+21: Etho: 24
+22: Tinfoilchef: 24
+23: Docm77: 20
+Total 5328

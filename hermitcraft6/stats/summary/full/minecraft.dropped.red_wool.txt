@@ -1,0 +1,17 @@
+minecraft.dropped.red_wool
+1: Zedaph: 160
+2: Renthedog: 133
+3: falsesymmetry: 72
+4: PythonGB: 57
+5: Tango: 49
+6: cubfan135: 47
+7: GoodTimeWithScar: 16
+8: iskall85: 10
+9: BdoubleO100: 9
+10: impulseSV: 7
+11: Docm77: 6
+12: Grian: 6
+13: Xisuma: 2
+14: MumboJumbo: 2
+15: Stressmonster101: 1
+Total 577

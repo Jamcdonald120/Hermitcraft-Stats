@@ -1,0 +1,25 @@
+stat.killEntity.Sheep
+1: Tinfoilchef: 359
+2: Xisuma: 324
+3: Spumwackles: 244
+4: ZombieCleo: 155
+5: sl1pg8r: 96
+6: Keralis1: 52
+7: xisumavoid: 35
+8: Pungence: 30
+9: KingDaddyDMAC: 13
+10: Collen: 13
+11: joehillssays: 10
+12: Biffa2001: 10
+13: hypnotizd: 10
+14: skyzm: 9
+15: iJevin: 8
+16: red3yz: 5
+17: Tango: 5
+18: monkeyfarm: 4
+19: Marriland: 3
+20: falsesymmetry: 2
+21: HttpsSecure: 1
+22: zueljin: 1
+23: Mumbo: 1
+Total 1390

@@ -1,0 +1,10 @@
+stat.drop.minecraft.wooden_pressure_plate
+1: falsesymmetry: 7
+2: Xisuma: 6
+3: joehillssays: 3
+4: Etho: 3
+5: iskall85: 2
+6: PythonGB: 1
+7: MumboJumbo: 1
+8: GoodTimeWithScar: 1
+Total 24

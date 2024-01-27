@@ -1,0 +1,24 @@
+minecraft.picked_up.lightning_rod
+1: impulseSV: 216
+2: Keralis1: 156
+3: falsesymmetry: 144
+4: cubfan135: 142
+5: GoodTimeWithScar: 136
+6: Renthedog: 117
+7: Grian: 85
+8: Docm77: 72
+9: BdoubleO100: 65
+10: PearlescentMoon: 48
+11: Tango: 47
+12: ZombieCleo: 43
+13: Zedaph: 30
+14: Xisuma: 27
+15: RentheKing: 20
+16: joehillssays: 17
+17: Mumbo: 11
+18: Stressmonster101: 5
+19: hypnotizd: 4
+20: MythicalSausage: 3
+21: VintageBeef: 1
+22: iJevin: 1
+Total 1390

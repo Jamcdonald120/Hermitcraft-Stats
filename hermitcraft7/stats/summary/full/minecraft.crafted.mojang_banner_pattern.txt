@@ -1,0 +1,4 @@
+minecraft.crafted.mojang_banner_pattern
+1: Xisuma: 1
+2: Keralis1: 1
+Total 2

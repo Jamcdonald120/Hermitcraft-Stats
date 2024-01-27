@@ -1,0 +1,6 @@
+minecraft.picked_up.flower_banner_pattern
+1: falsesymmetry: 2
+2: Tango: 1
+3: ZombieCleo: 1
+4: Keralis1: 1
+Total 5

@@ -1,0 +1,17 @@
+minecraft.crafted.leather_helmet
+1: cubfan135: 40
+2: Tango: 32
+3: GoodTimeWithScar: 18
+4: joehillssays: 16
+5: BdoubleO100: 16
+6: ZombieCleo: 12
+7: Stressmonster101: 9
+8: falsesymmetry: 5
+9: MumboJumbo: 4
+10: Docm77: 3
+11: PythonGB: 3
+12: Grian: 3
+13: Xisuma: 2
+14: Renthedog: 2
+15: impulseSV: 2
+Total 167

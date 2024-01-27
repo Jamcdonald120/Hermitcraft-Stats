@@ -1,0 +1,25 @@
+minecraft.mined.red_bed
+1: hypnotizd: 627
+2: ZombieCleo: 173
+3: Docm77: 172
+4: Renthedog: 156
+5: Tango: 140
+6: cubfan135: 105
+7: iJevin: 95
+8: joehillssays: 16
+9: Grian: 16
+10: impulseSV: 8
+11: VintageBeef: 6
+12: RentheKing: 5
+13: Keralis1: 5
+14: MythicalSausage: 4
+15: Zedaph: 4
+16: iskall85: 3
+17: xBCrafted: 3
+18: PearlescentMoon: 2
+19: Etho: 2
+20: GoodTimeWithScar: 2
+21: Xisuma: 1
+22: GeminiTay: 1
+23: falsesymmetry: 1
+Total 1547

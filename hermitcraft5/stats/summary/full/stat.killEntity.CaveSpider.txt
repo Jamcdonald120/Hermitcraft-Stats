@@ -1,0 +1,21 @@
+stat.killEntity.CaveSpider
+1: cubfan135: 918
+2: Xisuma: 117
+3: Biffa2001: 47
+4: Etho: 44
+5: iskall85: 31
+6: iJevin: 29
+7: falsesymmetry: 19
+8: joehillssays: 16
+9: PythonGB: 14
+10: Renthedog: 13
+11: GoodTimeWithScar: 12
+12: Welsknight: 9
+13: MumboJumbo: 8
+14: Zedaph: 8
+15: Tango: 6
+16: xBCrafted: 5
+17: VintageBeef: 2
+18: Docm77: 1
+19: ZombieCleo: 1
+Total 1300

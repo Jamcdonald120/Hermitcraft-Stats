@@ -1,0 +1,22 @@
+minecraft.picked_up.red_wool
+1: Xisuma: 3430
+2: ZombieCleo: 825
+3: cubfan135: 518
+4: Zedaph: 333
+5: Grian: 327
+6: GoodTimeWithScar: 295
+7: falsesymmetry: 254
+8: BdoubleO100: 253
+9: Renthedog: 225
+10: iskall85: 183
+11: Tango: 102
+12: Welsknight: 85
+13: Docm77: 70
+14: Biffa2001: 70
+15: iJevin: 66
+16: PythonGB: 65
+17: impulseSV: 55
+18: MumboJumbo: 14
+19: Keralis1: 9
+20: Stressmonster101: 8
+Total 7187

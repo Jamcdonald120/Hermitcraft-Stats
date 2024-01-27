@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.wooden_pickaxe
+1: Renthedog: 63
+2: Zedaph: 10
+3: Tinfoilchef: 8
+4: Tango: 5
+5: iskall85: 3
+6: falsesymmetry: 3
+7: Etho: 3
+8: iJevin: 2
+9: cubfan135: 2
+10: impulseSV: 2
+11: Docm77: 1
+12: Xisuma: 1
+13: VintageBeef: 1
+14: PythonGB: 1
+15: joehillssays: 1
+16: BdoubleO100: 1
+17: xBCrafted: 1
+18: Welsknight: 1
+19: Biffa2001: 1
+20: ZombieCleo: 1
+21: GoodTimeWithScar: 1
+22: Stressmonster101: 1
+Total 113

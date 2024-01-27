@@ -1,0 +1,23 @@
+minecraft.picked_up.acacia_planks
+1: PearlescentMoon: 1705
+2: cubfan135: 199
+3: iJevin: 189
+4: falsesymmetry: 182
+5: impulseSV: 155
+6: Grian: 108
+7: Smajor1995: 96
+8: GeminiTay: 74
+9: Stressmonster101: 62
+10: GoodTimeWithScar: 33
+11: iskall85: 30
+12: Renthedog: 15
+13: MythicalSausage: 12
+14: Keralis1: 12
+15: Docm77: 10
+16: Zedaph: 10
+17: Xisuma: 4
+18: Tango: 4
+19: Smallishbeans: 4
+20: Etho: 4
+21: ZombieCleo: 4
+Total 2912

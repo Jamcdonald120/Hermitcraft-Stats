@@ -1,0 +1,26 @@
+minecraft.picked_up.spruce_planks
+1: Grian: 6436
+2: GoodTimeWithScar: 2949
+3: cubfan135: 2866
+4: Keralis1: 2017
+5: impulseSV: 1787
+6: Stressmonster101: 1404
+7: Etho: 1388
+8: BdoubleO100: 1240
+9: Renthedog: 1229
+10: iskall85: 1013
+11: xBCrafted: 893
+12: iJevin: 776
+13: Tango: 754
+14: Zedaph: 694
+15: hypnotizd: 643
+16: ZombieCleo: 614
+17: VintageBeef: 472
+18: Docm77: 430
+19: MumboJumbo: 286
+20: joehillssays: 169
+21: Xisuma: 143
+22: Welsknight: 120
+23: falsesymmetry: 67
+24: BarryBoss1234: 23
+Total 28413

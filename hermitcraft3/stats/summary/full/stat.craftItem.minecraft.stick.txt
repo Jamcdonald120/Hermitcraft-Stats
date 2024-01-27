@@ -1,0 +1,29 @@
+stat.craftItem.minecraft.stick
+1: falsesymmetry: 23886
+2: Xisuma: 20230
+3: hypnotizd: 19200
+4: Biffa2001: 13260
+5: xBCrafted: 13234
+6: Mumbo: 12281
+7: ZombieCleo: 10062
+8: Tango: 8479
+9: Tinfoilchef: 7356
+10: monkeyfarm: 7309
+11: impulseSV: 6737
+12: sl1pg8r: 6184
+13: zueljin: 5856
+14: iJevin: 5316
+15: topmass: 5064
+16: PythonGB: 2176
+17: Etho: 2080
+18: KingDaddyDMAC: 1684
+19: Spumwackles: 1276
+20: Docm77: 1196
+21: joehillssays: 1152
+22: skyzm: 1004
+23: Collen: 228
+24: Pungence: 190
+25: Keralis1: 172
+26: NameOfSamuel: 100
+27: Mrs_Keralis: 64
+Total 175776

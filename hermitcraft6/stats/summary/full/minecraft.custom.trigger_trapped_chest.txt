@@ -1,0 +1,24 @@
+minecraft.custom.trigger_trapped_chest
+1: Tinfoilchef: 681
+2: GoodTimeWithScar: 563
+3: cubfan135: 553
+4: impulseSV: 328
+5: falsesymmetry: 183
+6: iJevin: 175
+7: Renthedog: 132
+8: Tango: 82
+9: Grian: 75
+10: Welsknight: 66
+11: joehillssays: 30
+12: Keralis1: 30
+13: Docm77: 28
+14: Xisuma: 28
+15: MumboJumbo: 26
+16: iskall85: 22
+17: PythonGB: 17
+18: Stressmonster101: 14
+19: HumanCleo: 13
+20: BdoubleO100: 13
+21: ZombieCleo: 6
+22: Jessassin: 2
+Total 3067

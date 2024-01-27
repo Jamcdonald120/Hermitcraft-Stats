@@ -1,0 +1,26 @@
+minecraft.used.hopper
+1: MumboJumbo: 5221
+2: Xisuma: 4906
+3: Tango: 4513
+4: Etho: 3103
+5: iJevin: 2965
+6: impulseSV: 2874
+7: Renthedog: 2776
+8: cubfan135: 2714
+9: iskall85: 2182
+10: Keralis1: 1389
+11: joehillssays: 1253
+12: Grian: 1229
+13: hypnotizd: 940
+14: Zedaph: 907
+15: GoodTimeWithScar: 844
+16: xBCrafted: 723
+17: Stressmonster101: 641
+18: Tinfoilchef: 374
+19: falsesymmetry: 343
+20: BdoubleO100: 328
+21: Welsknight: 296
+22: Docm77: 249
+23: ZombieCleo: 208
+24: VintageBeef: 129
+Total 41107

@@ -1,0 +1,28 @@
+minecraft.dropped.cobblestone
+1: iskall85: 86966
+2: Tango: 69083
+3: Welsknight: 50024
+4: Xisuma: 24703
+5: iJevin: 21577
+6: cubfan135: 20021
+7: Tinfoilchef: 15810
+8: GoodTimeWithScar: 15145
+9: Grian: 12604
+10: ZombieCleo: 11159
+11: impulseSV: 10527
+12: Renthedog: 9940
+13: Docm77: 7891
+14: MumboJumbo: 7012
+15: Keralis1: 6590
+16: joehillssays: 6157
+17: Stressmonster101: 4357
+18: xBCrafted: 4061
+19: falsesymmetry: 3933
+20: Zedaph: 2566
+21: BdoubleO100: 1944
+22: Biffa2001: 1086
+23: HumanCleo: 686
+24: Jessassin: 322
+25: PythonGB: 123
+26: Jura_Whitey: 1
+Total 394288

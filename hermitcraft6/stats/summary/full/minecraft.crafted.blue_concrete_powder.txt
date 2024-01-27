@@ -1,0 +1,17 @@
+minecraft.crafted.blue_concrete_powder
+1: Tango: 3336
+2: GoodTimeWithScar: 2088
+3: cubfan135: 1704
+4: BdoubleO100: 1320
+5: falsesymmetry: 552
+6: Xisuma: 440
+7: iskall85: 416
+8: Grian: 369
+9: PythonGB: 256
+10: impulseSV: 128
+11: Welsknight: 64
+12: Zedaph: 64
+13: Renthedog: 8
+14: iJevin: 8
+15: MumboJumbo: 8
+Total 10761

@@ -1,0 +1,14 @@
+stat.useItem.minecraft.flint_and_steel
+1: iJevin: 57
+2: Spumwackles: 33
+3: Tango: 23
+4: falsesymmetry: 17
+5: monkeyfarm: 12
+6: Xisuma: 11
+7: KingDaddyDMAC: 11
+8: zueljin: 8
+9: Biffa2001: 7
+10: sl1pg8r: 5
+11: ZombieCleo: 3
+12: Tinfoilchef: 1
+Total 188

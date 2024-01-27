@@ -1,0 +1,10 @@
+stat.killEntity.Parrot
+1: Xisuma: 70
+2: xisumavoid: 11
+3: cubfan135: 7
+4: MumboJumbo: 5
+5: falsesymmetry: 3
+6: Tango: 2
+7: iskall85: 1
+8: xBCrafted: 1
+Total 100

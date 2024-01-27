@@ -1,0 +1,6 @@
+minecraft.used.black_dye
+1: xBCrafted: 3
+2: Tango: 2
+3: cubfan135: 2
+4: PearlescentMoon: 1
+Total 8

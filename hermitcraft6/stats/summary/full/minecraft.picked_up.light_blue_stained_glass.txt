@@ -1,0 +1,19 @@
+minecraft.picked_up.light_blue_stained_glass
+1: iJevin: 6129
+2: iskall85: 2330
+3: cubfan135: 2312
+4: Xisuma: 1721
+5: MumboJumbo: 903
+6: impulseSV: 482
+7: Renthedog: 470
+8: Tango: 385
+9: PythonGB: 260
+10: Docm77: 225
+11: GoodTimeWithScar: 165
+12: falsesymmetry: 117
+13: Stressmonster101: 112
+14: Grian: 30
+15: Biffa2001: 11
+16: Zedaph: 8
+17: Welsknight: 1
+Total 15661

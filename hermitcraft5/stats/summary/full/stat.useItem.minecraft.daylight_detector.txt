@@ -1,0 +1,14 @@
+stat.useItem.minecraft.daylight_detector
+1: GoodTimeWithScar: 508
+2: cubfan135: 150
+3: impulseSV: 141
+4: Tango: 70
+5: MumboJumbo: 70
+6: xBCrafted: 64
+7: VintageBeef: 17
+8: Welsknight: 10
+9: Biffa2001: 10
+10: Xisuma: 9
+11: falsesymmetry: 5
+12: iskall85: 4
+Total 1058

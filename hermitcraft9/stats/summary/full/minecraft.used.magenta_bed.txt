@@ -1,0 +1,8 @@
+minecraft.used.magenta_bed
+1: ZombieCleo: 36
+2: MythicalSausage: 28
+3: PearlescentMoon: 6
+4: OrionSound: 1
+5: iJevin: 1
+6: cubfan135: 1
+Total 73

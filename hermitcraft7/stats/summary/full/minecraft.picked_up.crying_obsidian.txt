@@ -1,0 +1,25 @@
+minecraft.picked_up.crying_obsidian
+1: cubfan135: 557
+2: Zedaph: 348
+3: joehillssays: 232
+4: Etho: 207
+5: Renthedog: 172
+6: iskall85: 170
+7: Tango: 165
+8: BdoubleO100: 128
+9: Xisuma: 101
+10: MumboJumbo: 84
+11: iJevin: 81
+12: hypnotizd: 58
+13: xBCrafted: 42
+14: Grian: 41
+15: Docm77: 38
+16: Stressmonster101: 29
+17: impulseSV: 29
+18: VintageBeef: 23
+19: Tinfoilchef: 13
+20: Keralis1: 5
+21: falsesymmetry: 2
+22: Welsknight: 2
+23: GoodTimeWithScar: 2
+Total 2529

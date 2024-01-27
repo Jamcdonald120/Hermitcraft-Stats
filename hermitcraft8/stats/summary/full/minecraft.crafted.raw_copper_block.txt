@@ -1,0 +1,20 @@
+minecraft.crafted.raw_copper_block
+1: cubfan135: 3677
+2: GoodTimeWithScar: 432
+3: iJevin: 285
+4: Etho: 150
+5: hypnotizd: 133
+6: GeminiTay: 118
+7: impulseSV: 109
+8: ZombieCleo: 97
+9: BdoubleO100: 92
+10: Welsknight: 83
+11: Tango: 77
+12: PearlescentMoon: 47
+13: xBCrafted: 44
+14: iskall85: 33
+15: joehillssays: 21
+16: Grian: 14
+17: Tinfoilchef: 5
+18: MumboJumbo: 1
+Total 5418

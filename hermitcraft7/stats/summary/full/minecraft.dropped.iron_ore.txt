@@ -1,0 +1,23 @@
+minecraft.dropped.iron_ore
+1: Zedaph: 2926
+2: Tango: 1630
+3: iskall85: 788
+4: MumboJumbo: 719
+5: GoodTimeWithScar: 450
+6: iJevin: 431
+7: Grian: 413
+8: falsesymmetry: 413
+9: Keralis1: 328
+10: xBCrafted: 282
+11: cubfan135: 233
+12: Docm77: 167
+13: Etho: 82
+14: impulseSV: 80
+15: Stressmonster101: 77
+16: Xisuma: 52
+17: BdoubleO100: 33
+18: hypnotizd: 21
+19: Renthedog: 18
+20: VintageBeef: 5
+21: joehillssays: 2
+Total 9150

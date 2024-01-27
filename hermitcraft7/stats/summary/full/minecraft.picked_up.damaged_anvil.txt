@@ -1,0 +1,22 @@
+minecraft.picked_up.damaged_anvil
+1: Tango: 48
+2: iJevin: 26
+3: Zedaph: 20
+4: Grian: 16
+5: Etho: 14
+6: VintageBeef: 13
+7: iskall85: 13
+8: cubfan135: 13
+9: impulseSV: 13
+10: GoodTimeWithScar: 12
+11: Xisuma: 10
+12: joehillssays: 10
+13: MumboJumbo: 10
+14: Renthedog: 6
+15: Keralis1: 6
+16: Stressmonster101: 5
+17: BdoubleO100: 2
+18: ZombieCleo: 2
+19: Docm77: 1
+20: falsesymmetry: 1
+Total 241

@@ -1,0 +1,5 @@
+minecraft.mined.orange_candle
+1: iJevin: 60
+2: Renthedog: 5
+3: hypnotizd: 2
+Total 67

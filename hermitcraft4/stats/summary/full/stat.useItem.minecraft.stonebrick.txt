@@ -1,0 +1,23 @@
+stat.useItem.minecraft.stonebrick
+1: falsesymmetry: 44811
+2: iJevin: 18900
+3: Renthedog: 18848
+4: Welsknight: 16128
+5: Xisuma: 15931
+6: iskall85: 14570
+7: MumboJumbo: 12652
+8: cubfan135: 10945
+9: ZombieCleo: 9619
+10: Tinfoilchef: 6846
+11: Etho: 6015
+12: Tango: 4388
+13: joehillssays: 2608
+14: impulseSV: 2570
+15: Docm77: 1509
+16: GoodTimeWithScar: 1248
+17: Biffa2001: 1223
+18: VintageBeef: 768
+19: zueljin: 557
+20: PythonGB: 184
+21: Mumbo: 120
+Total 190440

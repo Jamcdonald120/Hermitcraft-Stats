@@ -1,0 +1,4 @@
+minecraft.dropped.cyan_carpet
+1: BdoubleO100: 2
+2: Grian: 1
+Total 3

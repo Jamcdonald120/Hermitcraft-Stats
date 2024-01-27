@@ -1,0 +1,15 @@
+minecraft.crafted.blue_carpet
+1: VintageBeef: 1080
+2: xBCrafted: 288
+3: cubfan135: 198
+4: Zedaph: 67
+5: impulseSV: 24
+6: Xisuma: 21
+7: Keralis1: 15
+8: Renthedog: 12
+9: falsesymmetry: 12
+10: ZombieCleo: 12
+11: GoodTimeWithScar: 6
+12: Docm77: 3
+13: Tango: 3
+Total 1741

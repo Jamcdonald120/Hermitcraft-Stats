@@ -1,0 +1,21 @@
+stat.dropperInspected
+1: Xisuma: 1768
+2: Mumbo: 740
+3: Tango: 708
+4: impulseSV: 510
+5: ZombieCleo: 383
+6: PythonGB: 327
+7: falsesymmetry: 291
+8: xBCrafted: 254
+9: iJevin: 181
+10: Etho: 154
+11: Docm77: 127
+12: Tinfoilchef: 107
+13: topmass: 72
+14: monkeyfarm: 68
+15: sl1pg8r: 67
+16: Biffa2001: 41
+17: zueljin: 40
+18: xisumavoid: 3
+19: joehillssays: 1
+Total 5842

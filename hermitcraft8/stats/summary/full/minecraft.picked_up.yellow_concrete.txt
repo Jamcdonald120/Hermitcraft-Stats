@@ -1,0 +1,19 @@
+minecraft.picked_up.yellow_concrete
+1: impulseSV: 1050
+2: MumboJumbo: 548
+3: PearlescentMoon: 528
+4: BdoubleO100: 213
+5: falsesymmetry: 163
+6: Renthedog: 80
+7: GeminiTay: 74
+8: Keralis1: 63
+9: Zedaph: 43
+10: iJevin: 34
+11: Docm77: 18
+12: Tango: 18
+13: cubfan135: 18
+14: Etho: 18
+15: iskall85: 13
+16: ZombieCleo: 8
+17: Welsknight: 1
+Total 2890

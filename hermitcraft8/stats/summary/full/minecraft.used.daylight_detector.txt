@@ -1,0 +1,14 @@
+minecraft.used.daylight_detector
+1: Keralis1: 1380
+2: cubfan135: 1229
+3: MumboJumbo: 53
+4: Xisuma: 11
+5: Etho: 11
+6: PearlescentMoon: 9
+7: impulseSV: 6
+8: GeminiTay: 4
+9: Zedaph: 3
+10: Tango: 2
+11: BdoubleO100: 1
+12: falsesymmetry: 1
+Total 2710

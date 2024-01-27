@@ -1,0 +1,17 @@
+minecraft.dropped.iron_pickaxe
+1: Tango: 27
+2: Etho: 16
+3: Grian: 10
+4: Zedaph: 8
+5: hypnotizd: 7
+6: impulseSV: 7
+7: iskall85: 4
+8: GoodTimeWithScar: 4
+9: Keralis1: 4
+10: Xisuma: 3
+11: iJevin: 2
+12: falsesymmetry: 2
+13: cubfan135: 2
+14: BdoubleO100: 1
+15: MumboJumbo: 1
+Total 98

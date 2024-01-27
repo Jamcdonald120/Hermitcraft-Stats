@@ -1,0 +1,22 @@
+minecraft.picked_up.warped_fungus
+1: Etho: 115
+2: Xisuma: 100
+3: BdoubleO100: 93
+4: xBCrafted: 93
+5: impulseSV: 75
+6: Renthedog: 56
+7: joehillssays: 55
+8: cubfan135: 41
+9: GeminiTay: 38
+10: Stressmonster101: 35
+11: Tango: 32
+12: GoodTimeWithScar: 21
+13: ZombieCleo: 19
+14: PearlescentMoon: 18
+15: Zedaph: 18
+16: Keralis1: 17
+17: Grian: 9
+18: Welsknight: 6
+19: falsesymmetry: 3
+20: hypnotizd: 1
+Total 845

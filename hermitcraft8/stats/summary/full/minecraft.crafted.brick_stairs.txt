@@ -1,0 +1,9 @@
+minecraft.crafted.brick_stairs
+1: Grian: 92
+2: GoodTimeWithScar: 36
+3: Xisuma: 28
+4: Keralis1: 24
+5: Renthedog: 12
+6: joehillssays: 4
+7: falsesymmetry: 4
+Total 200

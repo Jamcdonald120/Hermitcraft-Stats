@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.dark_oak_stairs
+1: zueljin: 297
+2: xBCrafted: 288
+3: Xisuma: 234
+4: falsesymmetry: 195
+5: monkeyfarm: 115
+6: Docm77: 100
+7: Tango: 76
+8: ZombieCleo: 47
+9: impulseSV: 29
+10: topmass: 27
+11: hypnotizd: 16
+12: Etho: 2
+Total 1426

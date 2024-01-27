@@ -1,0 +1,15 @@
+minecraft.dropped.anvil
+1: falsesymmetry: 188
+2: GoodTimeWithScar: 18
+3: Renthedog: 17
+4: iJevin: 9
+5: Keralis1: 6
+6: Tango: 5
+7: cubfan135: 5
+8: Grian: 2
+9: Zedaph: 2
+10: Docm77: 1
+11: Smajor1995: 1
+12: BdoubleO100: 1
+13: impulseSV: 1
+Total 256

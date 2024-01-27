@@ -1,0 +1,12 @@
+minecraft.mined.soul_campfire
+1: impulseSV: 25
+2: Etho: 13
+3: Renthedog: 12
+4: joehillssays: 8
+5: Grian: 7
+6: Tango: 5
+7: falsesymmetry: 2
+8: VintageBeef: 1
+9: iskall85: 1
+10: GoodTimeWithScar: 1
+Total 75

@@ -1,0 +1,25 @@
+stat.pickup.minecraft.planks
+1: xBCrafted: 13975
+2: cubfan135: 6026
+3: Stressmonster101: 6004
+4: Renthedog: 5193
+5: Welsknight: 4988
+6: falsesymmetry: 4770
+7: GoodTimeWithScar: 3664
+8: joehillssays: 3215
+9: Xisuma: 2682
+10: iskall85: 2615
+11: Tinfoilchef: 2389
+12: Zedaph: 1771
+13: iJevin: 1559
+14: MumboJumbo: 1391
+15: Tango: 1382
+16: impulseSV: 1041
+17: ZombieCleo: 1018
+18: BdoubleO100: 973
+19: VintageBeef: 672
+20: Docm77: 624
+21: Biffa2001: 460
+22: PythonGB: 432
+23: Etho: 141
+Total 66985

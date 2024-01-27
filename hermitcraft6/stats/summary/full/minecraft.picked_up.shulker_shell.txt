@@ -1,0 +1,17 @@
+minecraft.picked_up.shulker_shell
+1: iskall85: 3623
+2: PythonGB: 2824
+3: impulseSV: 1677
+4: cubfan135: 1497
+5: GoodTimeWithScar: 1155
+6: Tango: 932
+7: Xisuma: 812
+8: falsesymmetry: 744
+9: Grian: 686
+10: MumboJumbo: 600
+11: Zedaph: 477
+12: Renthedog: 330
+13: iJevin: 184
+14: Stressmonster101: 32
+15: Welsknight: 8
+Total 15581

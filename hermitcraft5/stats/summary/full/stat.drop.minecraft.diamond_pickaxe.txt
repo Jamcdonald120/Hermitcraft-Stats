@@ -1,0 +1,24 @@
+stat.drop.minecraft.diamond_pickaxe
+1: cubfan135: 27
+2: Tango: 25
+3: MumboJumbo: 20
+4: Zedaph: 20
+5: iskall85: 16
+6: Xisuma: 15
+7: impulseSV: 13
+8: iJevin: 10
+9: GoodTimeWithScar: 9
+10: Renthedog: 8
+11: PythonGB: 8
+12: Stressmonster101: 7
+13: falsesymmetry: 6
+14: Welsknight: 5
+15: ZombieCleo: 3
+16: Tinfoilchef: 3
+17: joehillssays: 2
+18: Docm77: 1
+19: VintageBeef: 1
+20: BdoubleO100: 1
+21: xBCrafted: 1
+22: Biffa2001: 1
+Total 202

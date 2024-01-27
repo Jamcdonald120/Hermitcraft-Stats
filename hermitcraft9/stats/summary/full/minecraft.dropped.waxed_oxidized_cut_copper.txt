@@ -1,0 +1,5 @@
+minecraft.dropped.waxed_oxidized_cut_copper
+1: Grian: 4
+2: Keralis1: 2
+3: Docm77: 1
+Total 7

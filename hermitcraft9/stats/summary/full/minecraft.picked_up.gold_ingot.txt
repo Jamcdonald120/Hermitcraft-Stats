@@ -1,0 +1,27 @@
+minecraft.picked_up.gold_ingot
+1: Tango: 20023
+2: Docm77: 5862
+3: iJevin: 2567
+4: Xisuma: 1229
+5: PearlescentMoon: 608
+6: Zedaph: 500
+7: Etho: 304
+8: Renthedog: 275
+9: BdoubleO100: 272
+10: Grian: 269
+11: RentheKing: 266
+12: cubfan135: 253
+13: Stressmonster101: 210
+14: falsesymmetry: 111
+15: hypnotizd: 111
+16: Keralis1: 100
+17: impulseSV: 81
+18: iskall85: 70
+19: xBCrafted: 27
+20: GoodTimeWithScar: 23
+21: GeminiTay: 22
+22: joehillssays: 15
+23: Mumbo: 5
+24: VintageBeef: 4
+25: ZombieCleo: 3
+Total 33210

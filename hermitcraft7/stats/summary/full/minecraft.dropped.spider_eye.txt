@@ -1,0 +1,23 @@
+minecraft.dropped.spider_eye
+1: cubfan135: 6103
+2: Keralis1: 4686
+3: Xisuma: 4374
+4: Etho: 350
+5: impulseSV: 333
+6: iskall85: 226
+7: joehillssays: 162
+8: GoodTimeWithScar: 153
+9: iJevin: 126
+10: Grian: 125
+11: Renthedog: 80
+12: Tango: 65
+13: hypnotizd: 57
+14: VintageBeef: 44
+15: falsesymmetry: 34
+16: MumboJumbo: 33
+17: BdoubleO100: 28
+18: xBCrafted: 28
+19: Zedaph: 27
+20: Docm77: 18
+21: Stressmonster101: 2
+Total 17054

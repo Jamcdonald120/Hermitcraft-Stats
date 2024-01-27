@@ -1,0 +1,11 @@
+minecraft.crafted.acacia_fence_gate
+1: Keralis1: 27
+2: PearlescentMoon: 26
+3: GoodTimeWithScar: 20
+4: BdoubleO100: 13
+5: Xisuma: 8
+6: iJevin: 4
+7: impulseSV: 3
+8: Docm77: 2
+9: Zedaph: 1
+Total 104

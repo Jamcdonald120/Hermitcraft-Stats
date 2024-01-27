@@ -1,0 +1,15 @@
+stat.useItem.minecraft.planks
+1: zueljin: 1133
+2: sl1pg8r: 1017
+3: falsesymmetry: 583
+4: ZombieCleo: 433
+5: Mumbo: 332
+6: xBCrafted: 270
+7: Spumwackles: 243
+8: KingDaddyDMAC: 109
+9: monkeyfarm: 107
+10: iJevin: 60
+11: Tango: 25
+12: Xisuma: 14
+13: Biffa2001: 14
+Total 4340

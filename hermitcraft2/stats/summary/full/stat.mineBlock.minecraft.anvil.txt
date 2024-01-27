@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.anvil
+1: zueljin: 15
+2: Spumwackles: 12
+3: Mumbo: 6
+4: Xisuma: 5
+5: falsesymmetry: 5
+6: Tango: 3
+7: Biffa2001: 2
+8: Collen: 2
+9: iJevin: 1
+10: monkeyfarm: 1
+Total 52

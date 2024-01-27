@@ -1,0 +1,20 @@
+minecraft.used.lapis_ore
+1: GoodTimeWithScar: 129
+2: Zedaph: 90
+3: joehillssays: 81
+4: PearlescentMoon: 79
+5: Xisuma: 75
+6: hypnotizd: 60
+7: Etho: 49
+8: impulseSV: 48
+9: Tango: 33
+10: RentheKing: 26
+11: Renthedog: 25
+12: xBCrafted: 23
+13: Keralis1: 22
+14: falsesymmetry: 14
+15: Grian: 6
+16: VintageBeef: 4
+17: Docm77: 1
+18: cubfan135: 1
+Total 766

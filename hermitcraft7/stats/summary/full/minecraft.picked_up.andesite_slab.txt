@@ -1,0 +1,22 @@
+minecraft.picked_up.andesite_slab
+1: Zedaph: 6711
+2: GoodTimeWithScar: 3062
+3: iskall85: 572
+4: impulseSV: 566
+5: BdoubleO100: 441
+6: Grian: 331
+7: VintageBeef: 299
+8: Keralis1: 279
+9: Tango: 238
+10: xBCrafted: 124
+11: Xisuma: 97
+12: Docm77: 77
+13: joehillssays: 76
+14: ZombieCleo: 61
+15: cubfan135: 56
+16: falsesymmetry: 48
+17: MumboJumbo: 16
+18: Etho: 7
+19: Renthedog: 2
+20: Welsknight: 1
+Total 13064

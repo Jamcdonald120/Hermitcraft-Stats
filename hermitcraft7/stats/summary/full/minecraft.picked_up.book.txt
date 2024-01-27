@@ -1,0 +1,24 @@
+minecraft.picked_up.book
+1: Keralis1: 21526
+2: Etho: 16983
+3: iJevin: 3241
+4: Tango: 2212
+5: GoodTimeWithScar: 1723
+6: Stressmonster101: 1221
+7: iskall85: 682
+8: Grian: 581
+9: cubfan135: 548
+10: Zedaph: 361
+11: Xisuma: 284
+12: xBCrafted: 219
+13: MumboJumbo: 192
+14: hypnotizd: 177
+15: joehillssays: 170
+16: impulseSV: 149
+17: VintageBeef: 143
+18: ZombieCleo: 83
+19: Docm77: 63
+20: falsesymmetry: 25
+21: Renthedog: 10
+22: Welsknight: 9
+Total 50602

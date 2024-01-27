@@ -1,0 +1,5 @@
+minecraft.mined.brown_candle
+1: GeminiTay: 5
+2: Keralis1: 5
+3: PearlescentMoon: 2
+Total 12

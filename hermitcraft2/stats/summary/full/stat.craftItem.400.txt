@@ -1,0 +1,3 @@
+stat.craftItem.400
+1: topmass: 32
+Total 32

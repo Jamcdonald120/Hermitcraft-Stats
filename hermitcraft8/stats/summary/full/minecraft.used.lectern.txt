@@ -1,0 +1,24 @@
+minecraft.used.lectern
+1: iJevin: 1235
+2: Grian: 1010
+3: Xisuma: 864
+4: PearlescentMoon: 823
+5: Stressmonster101: 814
+6: cubfan135: 303
+7: GoodTimeWithScar: 224
+8: hypnotizd: 205
+9: Zedaph: 81
+10: Keralis1: 23
+11: impulseSV: 17
+12: iskall85: 16
+13: ZombieCleo: 13
+14: Renthedog: 12
+15: GeminiTay: 12
+16: BdoubleO100: 9
+17: xBCrafted: 6
+18: Docm77: 4
+19: Tango: 4
+20: Welsknight: 4
+21: MumboJumbo: 2
+22: falsesymmetry: 1
+Total 5682

@@ -1,0 +1,5 @@
+minecraft.picked_up.coast_armor_trim_smithing_template
+1: Zedaph: 7
+2: cubfan135: 2
+3: ZombieCleo: 1
+Total 10

@@ -1,0 +1,28 @@
+minecraft.crafted.campfire
+1: Keralis1: 830
+2: iJevin: 502
+3: xBCrafted: 449
+4: PearlescentMoon: 211
+5: impulseSV: 186
+6: GoodTimeWithScar: 158
+7: BdoubleO100: 149
+8: Grian: 123
+9: RentheKing: 111
+10: ZombieCleo: 105
+11: Tango: 103
+12: Docm77: 81
+13: Renthedog: 59
+14: falsesymmetry: 47
+15: GeminiTay: 44
+16: Xisuma: 38
+17: VintageBeef: 30
+18: MythicalSausage: 24
+19: Etho: 18
+20: joehillssays: 15
+21: cubfan135: 11
+22: Zedaph: 9
+23: Pixlriffs: 6
+24: Smajor1995: 3
+25: Stressmonster101: 3
+26: iskall85: 2
+Total 3317

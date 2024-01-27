@@ -1,0 +1,19 @@
+minecraft.crafted.wooden_shovel
+1: Renthedog: 371
+2: Xisuma: 127
+3: iskall85: 47
+4: iJevin: 21
+5: Zedaph: 17
+6: Welsknight: 9
+7: ZombieCleo: 9
+8: PythonGB: 7
+9: impulseSV: 6
+10: MumboJumbo: 4
+11: BdoubleO100: 3
+12: falsesymmetry: 3
+13: Grian: 2
+14: cubfan135: 2
+15: xBCrafted: 1
+16: Biffa2001: 1
+17: Stressmonster101: 1
+Total 631

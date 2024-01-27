@@ -1,0 +1,17 @@
+minecraft.dropped.hopper
+1: Tango: 57
+2: Etho: 37
+3: Zedaph: 28
+4: hypnotizd: 8
+5: Welsknight: 6
+6: iJevin: 3
+7: Xisuma: 2
+8: xBCrafted: 2
+9: GoodTimeWithScar: 2
+10: Renthedog: 1
+11: BdoubleO100: 1
+12: PearlescentMoon: 1
+13: cubfan135: 1
+14: MumboJumbo: 1
+15: Keralis1: 1
+Total 151

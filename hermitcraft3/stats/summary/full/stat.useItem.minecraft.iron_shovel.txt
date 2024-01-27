@@ -1,0 +1,28 @@
+stat.useItem.minecraft.iron_shovel
+1: Spumwackles: 13742
+2: impulseSV: 6270
+3: Tango: 5387
+4: joehillssays: 5213
+5: PythonGB: 3415
+6: ZombieCleo: 2990
+7: Biffa2001: 2971
+8: Mumbo: 2747
+9: NameOfSamuel: 2682
+10: Tinfoilchef: 2411
+11: monkeyfarm: 2267
+12: zueljin: 1699
+13: Xisuma: 1410
+14: xBCrafted: 1381
+15: falsesymmetry: 1057
+16: skyzm: 905
+17: KingDaddyDMAC: 636
+18: Keralis1: 608
+19: Pungence: 336
+20: Docm77: 209
+21: Etho: 195
+22: hypnotizd: 101
+23: Mrs_Keralis: 22
+24: iJevin: 16
+25: Collen: 3
+26: sl1pg8r: 2
+Total 58675

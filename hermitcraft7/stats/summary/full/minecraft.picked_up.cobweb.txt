@@ -1,0 +1,20 @@
+minecraft.picked_up.cobweb
+1: Keralis1: 2076
+2: Etho: 592
+3: iJevin: 550
+4: cubfan135: 288
+5: Xisuma: 188
+6: iskall85: 181
+7: Tango: 148
+8: joehillssays: 122
+9: Docm77: 87
+10: ZombieCleo: 82
+11: Zedaph: 82
+12: impulseSV: 76
+13: GoodTimeWithScar: 75
+14: Grian: 68
+15: xBCrafted: 57
+16: Stressmonster101: 49
+17: VintageBeef: 32
+18: hypnotizd: 31
+Total 4784

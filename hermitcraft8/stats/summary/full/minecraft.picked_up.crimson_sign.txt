@@ -1,0 +1,7 @@
+minecraft.picked_up.crimson_sign
+1: BdoubleO100: 9
+2: MumboJumbo: 5
+3: Grian: 2
+4: VintageBeef: 1
+5: Zedaph: 1
+Total 18

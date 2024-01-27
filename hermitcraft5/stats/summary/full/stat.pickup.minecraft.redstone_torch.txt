@@ -1,0 +1,24 @@
+stat.pickup.minecraft.redstone_torch
+1: cubfan135: 1194
+2: impulseSV: 943
+3: Tango: 849
+4: MumboJumbo: 757
+5: Xisuma: 644
+6: iskall85: 612
+7: GoodTimeWithScar: 426
+8: Tinfoilchef: 424
+9: Renthedog: 420
+10: Zedaph: 282
+11: Welsknight: 224
+12: xBCrafted: 220
+13: iJevin: 107
+14: Etho: 103
+15: falsesymmetry: 100
+16: Docm77: 94
+17: PythonGB: 53
+18: Stressmonster101: 51
+19: ZombieCleo: 44
+20: joehillssays: 30
+21: BdoubleO100: 14
+22: VintageBeef: 8
+Total 7599

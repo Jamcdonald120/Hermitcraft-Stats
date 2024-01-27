@@ -1,0 +1,30 @@
+minecraft.used.deepslate
+1: Tango: 38563
+2: Docm77: 28587
+3: Xisuma: 15209
+4: falsesymmetry: 11949
+5: BdoubleO100: 10458
+6: xBCrafted: 6728
+7: Renthedog: 6530
+8: cubfan135: 6272
+9: Zedaph: 5529
+10: iJevin: 4925
+11: ZombieCleo: 4626
+12: GoodTimeWithScar: 4280
+13: PearlescentMoon: 3313
+14: hypnotizd: 3026
+15: Keralis1: 2849
+16: RentheKing: 2641
+17: impulseSV: 2432
+18: Grian: 1451
+19: joehillssays: 1243
+20: iskall85: 638
+21: Welsknight: 550
+22: MythicalSausage: 512
+23: VintageBeef: 455
+24: Mumbo: 169
+25: Stressmonster101: 119
+26: Pixlriffs: 118
+27: Etho: 76
+28: GeminiTay: 55
+Total 163303

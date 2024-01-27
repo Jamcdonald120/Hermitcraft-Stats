@@ -1,0 +1,28 @@
+minecraft.mined.mossy_cobblestone
+1: PearlescentMoon: 2648
+2: hypnotizd: 1302
+3: Tango: 1181
+4: iJevin: 256
+5: Grian: 250
+6: cubfan135: 230
+7: joehillssays: 188
+8: BdoubleO100: 172
+9: Xisuma: 166
+10: GeminiTay: 146
+11: xBCrafted: 142
+12: Docm77: 136
+13: falsesymmetry: 126
+14: iskall85: 104
+15: Renthedog: 48
+16: Zedaph: 39
+17: Etho: 38
+18: impulseSV: 38
+19: VintageBeef: 36
+20: Keralis1: 20
+21: GoodTimeWithScar: 19
+22: MythicalSausage: 7
+23: ZombieCleo: 5
+24: Mumbo: 3
+25: STEAKFG: 1
+26: Stressmonster101: 1
+Total 7302

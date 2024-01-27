@@ -1,0 +1,18 @@
+minecraft.picked_up.polished_blackstone_brick_wall
+1: xBCrafted: 130
+2: Tango: 96
+3: iJevin: 78
+4: cubfan135: 68
+5: Etho: 39
+6: iskall85: 30
+7: VintageBeef: 26
+8: Xisuma: 10
+9: GoodTimeWithScar: 5
+10: Docm77: 4
+11: joehillssays: 4
+12: falsesymmetry: 3
+13: Welsknight: 3
+14: hypnotizd: 2
+15: ZombieCleo: 1
+16: Zedaph: 1
+Total 500

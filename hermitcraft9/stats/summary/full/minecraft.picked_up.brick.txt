@@ -1,0 +1,20 @@
+minecraft.picked_up.brick
+1: Renthedog: 1324
+2: Grian: 926
+3: GoodTimeWithScar: 355
+4: falsesymmetry: 292
+5: Tango: 273
+6: GeminiTay: 169
+7: cubfan135: 155
+8: Zedaph: 134
+9: Keralis1: 120
+10: xBCrafted: 116
+11: ZombieCleo: 34
+12: BdoubleO100: 28
+13: iJevin: 26
+14: PearlescentMoon: 17
+15: Xisuma: 11
+16: Pixlriffs: 2
+17: impulseSV: 2
+18: Etho: 1
+Total 3985

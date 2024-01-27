@@ -1,0 +1,20 @@
+minecraft.picked_up.brown_shulker_box
+1: Xisuma: 2085
+2: Renthedog: 690
+3: cubfan135: 637
+4: Stressmonster101: 637
+5: iskall85: 592
+6: Tango: 226
+7: impulseSV: 193
+8: falsesymmetry: 181
+9: Docm77: 117
+10: Biffa2001: 44
+11: ZombieCleo: 33
+12: GoodTimeWithScar: 27
+13: Grian: 21
+14: Keralis1: 19
+15: MumboJumbo: 11
+16: HumanCleo: 6
+17: Zedaph: 6
+18: Welsknight: 2
+Total 5527

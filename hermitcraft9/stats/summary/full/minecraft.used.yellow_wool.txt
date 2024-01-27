@@ -1,0 +1,26 @@
+minecraft.used.yellow_wool
+1: PearlescentMoon: 2521
+2: Grian: 2348
+3: Renthedog: 2246
+4: ZombieCleo: 1237
+5: Tango: 1109
+6: joehillssays: 1095
+7: GeminiTay: 616
+8: Docm77: 350
+9: iskall85: 243
+10: RentheKing: 193
+11: GoodTimeWithScar: 180
+12: BdoubleO100: 160
+13: Stressmonster101: 158
+14: cubfan135: 111
+15: Mumbo: 91
+16: VintageBeef: 54
+17: Xisuma: 46
+18: falsesymmetry: 20
+19: Keralis1: 15
+20: Smajor1995: 11
+21: hypnotizd: 9
+22: Welsknight: 5
+23: impulseSV: 5
+24: Zedaph: 4
+Total 12827

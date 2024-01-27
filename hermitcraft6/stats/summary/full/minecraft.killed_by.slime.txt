@@ -1,0 +1,7 @@
+minecraft.killed_by.slime
+1: GoodTimeWithScar: 5
+2: Renthedog: 4
+3: joehillssays: 2
+4: Grian: 1
+5: Zedaph: 1
+Total 13

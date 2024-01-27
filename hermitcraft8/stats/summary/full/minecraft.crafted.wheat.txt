@@ -1,0 +1,21 @@
+minecraft.crafted.wheat
+1: joehillssays: 3890
+2: hypnotizd: 1854
+3: GoodTimeWithScar: 882
+4: Xisuma: 828
+5: iJevin: 603
+6: Grian: 594
+7: Etho: 594
+8: ZombieCleo: 441
+9: Renthedog: 378
+10: Docm77: 189
+11: falsesymmetry: 180
+12: iskall85: 171
+13: Stressmonster101: 135
+14: xBCrafted: 117
+15: MumboJumbo: 54
+16: Keralis1: 36
+17: GeminiTay: 27
+18: PearlescentMoon: 18
+19: Zedaph: 9
+Total 11000

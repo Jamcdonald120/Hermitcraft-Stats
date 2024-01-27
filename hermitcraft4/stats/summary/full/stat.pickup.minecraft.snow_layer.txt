@@ -1,0 +1,8 @@
+stat.pickup.minecraft.snow_layer
+1: falsesymmetry: 214
+2: Welsknight: 128
+3: Xisuma: 15
+4: GoodTimeWithScar: 8
+5: Tango: 4
+6: cubfan135: 2
+Total 371

@@ -1,0 +1,4 @@
+minecraft.mined.light_blue_banner
+1: cubfan135: 20
+2: VintageBeef: 1
+Total 21

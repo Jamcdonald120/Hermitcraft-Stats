@@ -1,0 +1,7 @@
+minecraft.dropped.polished_diorite_stairs
+1: falsesymmetry: 44
+2: GoodTimeWithScar: 9
+3: Renthedog: 7
+4: cubfan135: 7
+5: BdoubleO100: 4
+Total 71

@@ -1,0 +1,11 @@
+stat.breakItem.minecraft.flint_and_steel
+1: Xisuma: 3
+2: xBCrafted: 3
+3: iJevin: 2
+4: Tango: 2
+5: falsesymmetry: 2
+6: sl1pg8r: 1
+7: Etho: 1
+8: monkeyfarm: 1
+9: impulseSV: 1
+Total 16

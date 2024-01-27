@@ -1,0 +1,21 @@
+stat.pickup.minecraft.coal_block
+1: Renthedog: 3321
+2: cubfan135: 2008
+3: iskall85: 998
+4: GoodTimeWithScar: 572
+5: ZombieCleo: 501
+6: falsesymmetry: 467
+7: Welsknight: 449
+8: joehillssays: 388
+9: Tango: 376
+10: zueljin: 192
+11: Xisuma: 182
+12: Tinfoilchef: 56
+13: PythonGB: 48
+14: impulseSV: 18
+15: VintageBeef: 7
+16: Etho: 6
+17: Docm77: 3
+18: Mumbo: 3
+19: MumboJumbo: 2
+Total 9597

@@ -1,0 +1,4 @@
+stat.useItem.minecraft.beetroot_soup
+1: cubfan135: 31
+2: PythonGB: 4
+Total 35

@@ -1,0 +1,14 @@
+minecraft.mined.smoker
+1: PearlescentMoon: 26
+2: impulseSV: 8
+3: xBCrafted: 7
+4: Xisuma: 4
+5: MumboJumbo: 3
+6: BdoubleO100: 2
+7: hypnotizd: 2
+8: Zedaph: 2
+9: VintageBeef: 1
+10: iJevin: 1
+11: Grian: 1
+12: Etho: 1
+Total 58

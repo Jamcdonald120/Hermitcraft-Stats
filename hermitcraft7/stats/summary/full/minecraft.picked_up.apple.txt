@@ -1,0 +1,26 @@
+minecraft.picked_up.apple
+1: iskall85: 2899
+2: Renthedog: 1344
+3: GoodTimeWithScar: 797
+4: Zedaph: 471
+5: Grian: 382
+6: Etho: 253
+7: BdoubleO100: 246
+8: falsesymmetry: 233
+9: joehillssays: 195
+10: Xisuma: 176
+11: Tinfoilchef: 174
+12: hypnotizd: 159
+13: Keralis1: 157
+14: Stressmonster101: 140
+15: MumboJumbo: 106
+16: VintageBeef: 103
+17: Tango: 82
+18: ZombieCleo: 74
+19: impulseSV: 64
+20: Welsknight: 46
+21: iJevin: 32
+22: cubfan135: 26
+23: xBCrafted: 19
+24: Docm77: 12
+Total 8190

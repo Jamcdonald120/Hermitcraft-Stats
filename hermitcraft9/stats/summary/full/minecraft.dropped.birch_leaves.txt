@@ -1,0 +1,20 @@
+minecraft.dropped.birch_leaves
+1: falsesymmetry: 938
+2: iJevin: 322
+3: BdoubleO100: 316
+4: Docm77: 253
+5: Grian: 212
+6: Keralis1: 181
+7: GoodTimeWithScar: 146
+8: joehillssays: 118
+9: cubfan135: 73
+10: Stressmonster101: 65
+11: Renthedog: 53
+12: VintageBeef: 43
+13: GeminiTay: 32
+14: impulseSV: 22
+15: Etho: 5
+16: PearlescentMoon: 3
+17: ZombieCleo: 2
+18: iskall85: 1
+Total 2785

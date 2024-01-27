@@ -1,0 +1,27 @@
+minecraft.used.oak_trapdoor
+1: PearlescentMoon: 630
+2: BdoubleO100: 580
+3: Xisuma: 449
+4: GoodTimeWithScar: 369
+5: Docm77: 352
+6: xBCrafted: 228
+7: Grian: 227
+8: Keralis1: 213
+9: joehillssays: 175
+10: MumboJumbo: 150
+11: impulseSV: 107
+12: iJevin: 78
+13: Zedaph: 77
+14: iskall85: 58
+15: Etho: 50
+16: GeminiTay: 41
+17: Tango: 29
+18: Welsknight: 24
+19: Renthedog: 22
+20: ZombieCleo: 13
+21: Tinfoilchef: 12
+22: VintageBeef: 8
+23: cubfan135: 7
+24: hypnotizd: 4
+25: Stressmonster101: 3
+Total 3906

@@ -1,0 +1,10 @@
+minecraft.dropped.ice
+1: cubfan135: 244
+2: iJevin: 64
+3: Tango: 64
+4: Etho: 33
+5: Zedaph: 23
+6: MumboJumbo: 22
+7: impulseSV: 5
+8: GoodTimeWithScar: 2
+Total 457

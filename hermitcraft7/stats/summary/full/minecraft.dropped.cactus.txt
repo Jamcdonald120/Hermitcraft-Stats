@@ -1,0 +1,25 @@
+minecraft.dropped.cactus
+1: Tango: 4852
+2: impulseSV: 2391
+3: iskall85: 790
+4: Grian: 655
+5: MumboJumbo: 336
+6: GoodTimeWithScar: 196
+7: Xisuma: 195
+8: cubfan135: 188
+9: Zedaph: 161
+10: falsesymmetry: 112
+11: Renthedog: 97
+12: BdoubleO100: 78
+13: Etho: 57
+14: Stressmonster101: 22
+15: xBCrafted: 18
+16: Keralis1: 17
+17: VintageBeef: 12
+18: Docm77: 9
+19: joehillssays: 8
+20: iJevin: 5
+21: hypnotizd: 3
+22: ZombieCleo: 1
+23: Helsknight_: 1
+Total 10204

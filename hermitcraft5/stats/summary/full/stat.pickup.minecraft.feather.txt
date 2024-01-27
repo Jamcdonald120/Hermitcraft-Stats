@@ -1,0 +1,25 @@
+stat.pickup.minecraft.feather
+1: Tinfoilchef: 1607
+2: cubfan135: 1368
+3: ZombieCleo: 1105
+4: Tango: 571
+5: Zedaph: 451
+6: PythonGB: 363
+7: falsesymmetry: 264
+8: MumboJumbo: 232
+9: iskall85: 231
+10: Xisuma: 125
+11: Biffa2001: 116
+12: BdoubleO100: 105
+13: Etho: 98
+14: impulseSV: 94
+15: joehillssays: 86
+16: Stressmonster101: 79
+17: GoodTimeWithScar: 76
+18: xBCrafted: 54
+19: Welsknight: 51
+20: Renthedog: 31
+21: VintageBeef: 26
+22: iJevin: 16
+23: Docm77: 6
+Total 7155

@@ -1,0 +1,26 @@
+minecraft.picked_up.smooth_stone
+1: impulseSV: 12289
+2: joehillssays: 5045
+3: Xisuma: 4926
+4: Keralis1: 4602
+5: MumboJumbo: 3544
+6: Tango: 2078
+7: Grian: 1766
+8: cubfan135: 1634
+9: Renthedog: 1544
+10: iskall85: 1505
+11: xBCrafted: 1456
+12: VintageBeef: 967
+13: GoodTimeWithScar: 756
+14: Etho: 536
+15: iJevin: 448
+16: Zedaph: 405
+17: ZombieCleo: 330
+18: hypnotizd: 282
+19: BdoubleO100: 255
+20: falsesymmetry: 234
+21: Docm77: 186
+22: Stressmonster101: 7
+23: Welsknight: 4
+24: Tinfoilchef: 1
+Total 44800

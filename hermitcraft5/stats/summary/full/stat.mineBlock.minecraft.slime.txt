@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.slime
+1: impulseSV: 18248
+2: cubfan135: 3107
+3: Renthedog: 1021
+4: iskall85: 647
+5: MumboJumbo: 639
+6: iJevin: 621
+7: Xisuma: 504
+8: Tango: 398
+9: GoodTimeWithScar: 338
+10: falsesymmetry: 105
+11: Docm77: 94
+12: xBCrafted: 38
+13: Tinfoilchef: 34
+14: Zedaph: 27
+15: Welsknight: 18
+16: ZombieCleo: 17
+17: PythonGB: 1
+Total 25857

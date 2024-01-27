@@ -1,0 +1,26 @@
+minecraft.picked_up.diamond_leggings
+1: GoodTimeWithScar: 77
+2: Grian: 46
+3: Docm77: 41
+4: Tango: 29
+5: Keralis1: 22
+6: Xisuma: 21
+7: PearlescentMoon: 20
+8: ZombieCleo: 19
+9: iJevin: 15
+10: Zedaph: 15
+11: MumboJumbo: 14
+12: impulseSV: 14
+13: Renthedog: 10
+14: joehillssays: 8
+15: cubfan135: 7
+16: iskall85: 6
+17: falsesymmetry: 5
+18: GeminiTay: 4
+19: pillbugnine: 3
+20: VintageBeef: 2
+21: xBCrafted: 2
+22: Etho: 2
+23: hypnotizd: 2
+24: BdoubleO100: 1
+Total 385

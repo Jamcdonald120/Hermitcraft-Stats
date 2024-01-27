@@ -1,0 +1,9 @@
+stat.useItem.minecraft.stone_pressure_plate
+1: sl1pg8r: 22
+2: Tango: 16
+3: monkeyfarm: 14
+4: zueljin: 4
+5: Spumwackles: 2
+6: ZombieCleo: 1
+7: Tinfoilchef: 1
+Total 60

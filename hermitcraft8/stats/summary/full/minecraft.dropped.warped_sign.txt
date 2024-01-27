@@ -1,0 +1,12 @@
+minecraft.dropped.warped_sign
+1: impulseSV: 8
+2: BdoubleO100: 7
+3: GoodTimeWithScar: 7
+4: Grian: 6
+5: Renthedog: 5
+6: PearlescentMoon: 3
+7: cubfan135: 2
+8: Docm77: 1
+9: Xisuma: 1
+10: Zedaph: 1
+Total 41

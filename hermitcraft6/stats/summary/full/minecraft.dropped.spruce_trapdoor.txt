@@ -1,0 +1,21 @@
+minecraft.dropped.spruce_trapdoor
+1: GoodTimeWithScar: 206
+2: cubfan135: 92
+3: Renthedog: 81
+4: iskall85: 71
+5: Grian: 43
+6: Keralis1: 39
+7: falsesymmetry: 32
+8: Stressmonster101: 28
+9: Tango: 13
+10: Tinfoilchef: 10
+11: Biffa2001: 8
+12: joehillssays: 7
+13: impulseSV: 7
+14: BadTimeWithScar: 6
+15: Docm77: 5
+16: Xisuma: 4
+17: iJevin: 4
+18: BdoubleO100: 2
+19: ZombieCleo: 1
+Total 659

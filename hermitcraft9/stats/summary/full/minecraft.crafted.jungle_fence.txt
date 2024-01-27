@@ -1,0 +1,13 @@
+minecraft.crafted.jungle_fence
+1: GoodTimeWithScar: 639
+2: PearlescentMoon: 231
+3: Etho: 192
+4: Keralis1: 180
+5: BdoubleO100: 114
+6: Stressmonster101: 102
+7: Zedaph: 39
+8: cubfan135: 36
+9: Xisuma: 33
+10: Docm77: 3
+11: impulseSV: 3
+Total 1572

@@ -1,0 +1,3 @@
+minecraft.dropped.zombie_spawn_egg
+1: iskall85: 1
+Total 1

@@ -1,0 +1,18 @@
+stat.drop.minecraft.bucket
+1: MumboJumbo: 100
+2: Tango: 52
+3: Zedaph: 29
+4: cubfan135: 28
+5: GoodTimeWithScar: 24
+6: Xisuma: 10
+7: iskall85: 9
+8: Renthedog: 6
+9: impulseSV: 6
+10: falsesymmetry: 5
+11: Stressmonster101: 3
+12: PythonGB: 1
+13: BdoubleO100: 1
+14: xBCrafted: 1
+15: Welsknight: 1
+16: Biffa2001: 1
+Total 277

@@ -1,0 +1,7 @@
+stat.pickup.minecraft.jungle_fence_gate
+1: VintageBeef: 56
+2: Docm77: 22
+3: xBCrafted: 8
+4: Xisuma: 2
+5: cubfan135: 2
+Total 90

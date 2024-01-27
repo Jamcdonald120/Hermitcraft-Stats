@@ -1,0 +1,13 @@
+minecraft.picked_up.smoker
+1: iJevin: 30
+2: Keralis1: 16
+3: BdoubleO100: 12
+4: xBCrafted: 9
+5: cubfan135: 7
+6: impulseSV: 5
+7: Tango: 2
+8: GeminiTay: 1
+9: ZombieCleo: 1
+10: RentheKing: 1
+11: Stressmonster101: 1
+Total 85

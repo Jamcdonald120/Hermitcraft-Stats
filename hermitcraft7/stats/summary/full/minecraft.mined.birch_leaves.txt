@@ -1,0 +1,26 @@
+minecraft.mined.birch_leaves
+1: GoodTimeWithScar: 48438
+2: Renthedog: 32926
+3: Keralis1: 11219
+4: Stressmonster101: 8781
+5: Etho: 5159
+6: Grian: 4715
+7: joehillssays: 4391
+8: BdoubleO100: 3566
+9: cubfan135: 3444
+10: Xisuma: 2295
+11: falsesymmetry: 2133
+12: Docm77: 881
+13: ZombieCleo: 856
+14: VintageBeef: 769
+15: hypnotizd: 699
+16: Welsknight: 686
+17: iskall85: 643
+18: Tango: 596
+19: impulseSV: 507
+20: Zedaph: 425
+21: MumboJumbo: 300
+22: xBCrafted: 97
+23: Tinfoilchef: 32
+24: iJevin: 21
+Total 133579

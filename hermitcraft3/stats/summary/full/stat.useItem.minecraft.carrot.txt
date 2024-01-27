@@ -1,0 +1,27 @@
+stat.useItem.minecraft.carrot
+1: Xisuma: 12562
+2: Tinfoilchef: 8548
+3: Tango: 2879
+4: iJevin: 1993
+5: xBCrafted: 1731
+6: falsesymmetry: 1581
+7: impulseSV: 949
+8: Mumbo: 535
+9: sl1pg8r: 508
+10: joehillssays: 457
+11: Biffa2001: 355
+12: Spumwackles: 321
+13: zueljin: 319
+14: NameOfSamuel: 262
+15: KingDaddyDMAC: 225
+16: topmass: 184
+17: PythonGB: 177
+18: skyzm: 112
+19: Pungence: 96
+20: hypnotizd: 95
+21: monkeyfarm: 90
+22: Docm77: 64
+23: Collen: 26
+24: ZombieCleo: 17
+25: Etho: 1
+Total 34087

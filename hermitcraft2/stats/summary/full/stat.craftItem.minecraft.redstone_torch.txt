@@ -1,0 +1,14 @@
+stat.craftItem.minecraft.redstone_torch
+1: Xisuma: 1512
+2: Tango: 1163
+3: Spumwackles: 716
+4: Tinfoilchef: 320
+5: Mumbo: 275
+6: Biffa2001: 61
+7: sl1pg8r: 19
+8: falsesymmetry: 19
+9: xBCrafted: 13
+10: zueljin: 8
+11: ZombieCleo: 6
+12: monkeyfarm: 1
+Total 4113

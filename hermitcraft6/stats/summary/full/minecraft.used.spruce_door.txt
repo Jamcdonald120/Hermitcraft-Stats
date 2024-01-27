@@ -1,0 +1,24 @@
+minecraft.used.spruce_door
+1: iJevin: 622
+2: Xisuma: 109
+3: BdoubleO100: 99
+4: Renthedog: 89
+5: Stressmonster101: 72
+6: iskall85: 63
+7: cubfan135: 59
+8: falsesymmetry: 52
+9: joehillssays: 46
+10: Keralis1: 46
+11: Grian: 45
+12: GoodTimeWithScar: 30
+13: Docm77: 27
+14: ZombieCleo: 27
+15: Tango: 23
+16: Welsknight: 18
+17: impulseSV: 17
+18: PythonGB: 15
+19: Biffa2001: 8
+20: HumanCleo: 4
+21: Tinfoilchef: 3
+22: xBCrafted: 1
+Total 1475

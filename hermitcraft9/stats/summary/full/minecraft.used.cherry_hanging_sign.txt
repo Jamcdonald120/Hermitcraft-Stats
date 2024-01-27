@@ -1,0 +1,5 @@
+minecraft.used.cherry_hanging_sign
+1: GoodTimeWithScar: 12
+2: Grian: 3
+3: Mumbo: 2
+Total 17

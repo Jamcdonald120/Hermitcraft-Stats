@@ -1,0 +1,17 @@
+minecraft.dropped.clay_ball
+1: Tango: 20887
+2: Zedaph: 3217
+3: iJevin: 267
+4: GoodTimeWithScar: 207
+5: Keralis1: 153
+6: xBCrafted: 115
+7: Renthedog: 107
+8: Docm77: 68
+9: Etho: 38
+10: iskall85: 31
+11: cubfan135: 24
+12: RentheKing: 16
+13: Grian: 15
+14: VintageBeef: 8
+15: falsesymmetry: 8
+Total 25161

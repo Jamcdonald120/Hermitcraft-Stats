@@ -1,0 +1,7 @@
+minecraft.dropped.red_nether_bricks
+1: Zedaph: 1097
+2: Tango: 459
+3: Grian: 168
+4: cubfan135: 148
+5: Etho: 13
+Total 1885

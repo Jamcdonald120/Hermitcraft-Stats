@@ -1,0 +1,7 @@
+minecraft.crafted.light_blue_concrete
+1: RentheKing: 128
+2: cubfan135: 120
+3: Keralis1: 112
+4: iJevin: 8
+5: impulseSV: 8
+Total 376

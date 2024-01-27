@@ -1,0 +1,18 @@
+minecraft.picked_up.clay
+1: Xisuma: 2759
+2: cubfan135: 1374
+3: falsesymmetry: 789
+4: GoodTimeWithScar: 414
+5: iskall85: 283
+6: Renthedog: 220
+7: Grian: 183
+8: Welsknight: 167
+9: BdoubleO100: 105
+10: Stressmonster101: 50
+11: Zedaph: 46
+12: iJevin: 21
+13: Keralis1: 11
+14: MumboJumbo: 10
+15: joehillssays: 7
+16: PythonGB: 1
+Total 6440

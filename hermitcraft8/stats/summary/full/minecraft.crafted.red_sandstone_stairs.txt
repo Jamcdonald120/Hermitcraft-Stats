@@ -1,0 +1,5 @@
+minecraft.crafted.red_sandstone_stairs
+1: cubfan135: 620
+2: MumboJumbo: 32
+3: BdoubleO100: 8
+Total 660

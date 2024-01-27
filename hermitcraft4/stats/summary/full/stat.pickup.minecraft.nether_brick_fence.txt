@@ -1,0 +1,18 @@
+stat.pickup.minecraft.nether_brick_fence
+1: impulseSV: 905
+2: Tango: 460
+3: cubfan135: 231
+4: iskall85: 165
+5: joehillssays: 134
+6: Xisuma: 98
+7: Tinfoilchef: 95
+8: GoodTimeWithScar: 78
+9: Renthedog: 57
+10: Welsknight: 18
+11: VintageBeef: 5
+12: Biffa2001: 3
+13: xBCrafted: 2
+14: falsesymmetry: 2
+15: PythonGB: 1
+16: MumboJumbo: 1
+Total 2255

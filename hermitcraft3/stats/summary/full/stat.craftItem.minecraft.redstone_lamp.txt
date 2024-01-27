@@ -1,0 +1,19 @@
+stat.craftItem.minecraft.redstone_lamp
+1: impulseSV: 1240
+2: hypnotizd: 960
+3: Xisuma: 774
+4: iJevin: 571
+5: falsesymmetry: 482
+6: Mumbo: 360
+7: sl1pg8r: 219
+8: Biffa2001: 215
+9: Tango: 188
+10: zueljin: 117
+11: topmass: 44
+12: Etho: 32
+13: xBCrafted: 26
+14: Tinfoilchef: 25
+15: Docm77: 23
+16: monkeyfarm: 18
+17: KingDaddyDMAC: 14
+Total 5308

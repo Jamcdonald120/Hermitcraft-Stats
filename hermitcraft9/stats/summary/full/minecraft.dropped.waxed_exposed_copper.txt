@@ -1,0 +1,4 @@
+minecraft.dropped.waxed_exposed_copper
+1: Keralis1: 31
+2: Grian: 19
+Total 50

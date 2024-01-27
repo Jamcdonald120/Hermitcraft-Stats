@@ -1,0 +1,28 @@
+minecraft.mined.gravel
+1: GoodTimeWithScar: 78814
+2: Welsknight: 31561
+3: Renthedog: 30149
+4: iJevin: 14308
+5: PearlescentMoon: 11239
+6: xBCrafted: 8283
+7: Grian: 7027
+8: Docm77: 6558
+9: cubfan135: 5541
+10: Xisuma: 5405
+11: hypnotizd: 5188
+12: impulseSV: 5097
+13: falsesymmetry: 4273
+14: Tango: 3702
+15: MumboJumbo: 3512
+16: Zedaph: 3496
+17: joehillssays: 3267
+18: VintageBeef: 2516
+19: ZombieCleo: 2270
+20: Etho: 1928
+21: iskall85: 1775
+22: GeminiTay: 1726
+23: BdoubleO100: 1598
+24: Stressmonster101: 829
+25: Keralis1: 699
+26: Tinfoilchef: 355
+Total 241116

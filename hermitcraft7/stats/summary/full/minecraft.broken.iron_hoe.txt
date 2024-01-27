@@ -1,0 +1,10 @@
+minecraft.broken.iron_hoe
+1: impulseSV: 10
+2: VintageBeef: 6
+3: GoodTimeWithScar: 3
+4: joehillssays: 2
+5: Zedaph: 2
+6: Renthedog: 1
+7: xBCrafted: 1
+8: Welsknight: 1
+Total 26

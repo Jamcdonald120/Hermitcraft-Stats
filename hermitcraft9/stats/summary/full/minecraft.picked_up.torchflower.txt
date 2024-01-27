@@ -1,0 +1,15 @@
+minecraft.picked_up.torchflower
+1: ZombieCleo: 178
+2: Renthedog: 85
+3: GoodTimeWithScar: 27
+4: PearlescentMoon: 19
+5: cubfan135: 16
+6: Grian: 10
+7: Keralis1: 6
+8: GeminiTay: 5
+9: falsesymmetry: 5
+10: Etho: 3
+11: Docm77: 1
+12: impulseSV: 1
+13: Zedaph: 1
+Total 357

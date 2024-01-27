@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.arrow
+1: sl1pg8r: 204
+Total 204

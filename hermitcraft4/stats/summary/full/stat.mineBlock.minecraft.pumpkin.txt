@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.pumpkin
+1: Xisuma: 2359
+2: joehillssays: 1706
+3: falsesymmetry: 566
+4: MumboJumbo: 524
+5: iskall85: 236
+6: impulseSV: 140
+7: cubfan135: 133
+8: Renthedog: 52
+9: GoodTimeWithScar: 49
+10: Tango: 35
+11: Tinfoilchef: 30
+12: PythonGB: 27
+13: Welsknight: 26
+14: ZombieCleo: 10
+15: VintageBeef: 8
+16: iJevin: 6
+17: Docm77: 3
+18: Jessassin: 2
+19: Biffa2001: 2
+20: Mumbo: 1
+Total 5915

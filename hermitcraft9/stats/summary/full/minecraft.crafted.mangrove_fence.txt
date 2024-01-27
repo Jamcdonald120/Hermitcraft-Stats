@@ -1,0 +1,21 @@
+minecraft.crafted.mangrove_fence
+1: Renthedog: 705
+2: Xisuma: 402
+3: GoodTimeWithScar: 243
+4: RentheKing: 165
+5: PearlescentMoon: 135
+6: MythicalSausage: 90
+7: cubfan135: 72
+8: impulseSV: 45
+9: OrionSound: 36
+10: Grian: 33
+11: Tango: 15
+12: ZombieCleo: 15
+13: BdoubleO100: 12
+14: Docm77: 3
+15: joehillssays: 3
+16: falsesymmetry: 3
+17: Stressmonster101: 3
+18: Keralis1: 3
+19: Zedaph: 3
+Total 1986

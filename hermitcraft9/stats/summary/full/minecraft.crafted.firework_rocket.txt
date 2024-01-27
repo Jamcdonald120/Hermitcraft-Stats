@@ -1,0 +1,29 @@
+minecraft.crafted.firework_rocket
+1: iJevin: 550640
+2: cubfan135: 227907
+3: impulseSV: 187829
+4: Tango: 58060
+5: Keralis1: 48121
+6: Docm77: 45504
+7: Grian: 30218
+8: Renthedog: 21362
+9: xBCrafted: 13512
+10: Xisuma: 11112
+11: hypnotizd: 8879
+12: VintageBeef: 7125
+13: Zedaph: 5970
+14: Etho: 4227
+15: falsesymmetry: 3783
+16: RentheKing: 3072
+17: GeminiTay: 2537
+18: Mumbo: 846
+19: BdoubleO100: 468
+20: Smajor1995: 378
+21: MythicalSausage: 192
+22: GoodTimeWithScar: 192
+23: joehillssays: 189
+24: Pixlriffs: 189
+25: PearlescentMoon: 183
+26: fWhip: 165
+27: iskall85: 27
+Total 1232687

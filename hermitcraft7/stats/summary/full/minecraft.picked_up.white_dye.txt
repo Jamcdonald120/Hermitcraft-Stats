@@ -1,0 +1,22 @@
+minecraft.picked_up.white_dye
+1: Zedaph: 5017
+2: iJevin: 743
+3: GoodTimeWithScar: 612
+4: Grian: 539
+5: falsesymmetry: 391
+6: joehillssays: 316
+7: Renthedog: 284
+8: Stressmonster101: 277
+9: Keralis1: 228
+10: cubfan135: 183
+11: iskall85: 144
+12: BdoubleO100: 109
+13: Tango: 97
+14: MumboJumbo: 76
+15: Xisuma: 64
+16: impulseSV: 56
+17: VintageBeef: 31
+18: Etho: 11
+19: Docm77: 5
+20: ZombieCleo: 3
+Total 9186

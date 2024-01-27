@@ -1,0 +1,23 @@
+minecraft.picked_up.stone_brick_stairs
+1: iJevin: 527
+2: xBCrafted: 434
+3: ZombieCleo: 188
+4: Keralis1: 119
+5: Xisuma: 112
+6: Grian: 91
+7: Welsknight: 87
+8: MumboJumbo: 79
+9: pillbugnine: 73
+10: PearlescentMoon: 61
+11: impulseSV: 51
+12: iskall85: 48
+13: Renthedog: 37
+14: Tango: 27
+15: cubfan135: 27
+16: hypnotizd: 27
+17: BdoubleO100: 12
+18: joehillssays: 10
+19: GoodTimeWithScar: 9
+20: Docm77: 5
+21: falsesymmetry: 5
+Total 2029

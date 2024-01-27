@@ -1,0 +1,10 @@
+minecraft.picked_up.nether_brick_slab
+1: falsesymmetry: 192
+2: Tango: 178
+3: Xisuma: 68
+4: cubfan135: 33
+5: BdoubleO100: 15
+6: Keralis1: 13
+7: impulseSV: 11
+8: ZombieCleo: 2
+Total 512

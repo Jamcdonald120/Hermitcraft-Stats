@@ -1,0 +1,23 @@
+minecraft.crafted.red_wool
+1: RentheKing: 4124
+2: cubfan135: 1132
+3: Xisuma: 730
+4: Etho: 474
+5: Tango: 384
+6: ZombieCleo: 323
+7: Renthedog: 304
+8: impulseSV: 249
+9: Keralis1: 209
+10: Docm77: 160
+11: falsesymmetry: 85
+12: Grian: 56
+13: iJevin: 40
+14: Zedaph: 34
+15: BdoubleO100: 23
+16: hypnotizd: 16
+17: xBCrafted: 6
+18: PearlescentMoon: 5
+19: VintageBeef: 3
+20: Welsknight: 3
+21: GoodTimeWithScar: 1
+Total 8361

@@ -1,0 +1,16 @@
+minecraft.picked_up.nether_brick_fence
+1: Tango: 873
+2: GoodTimeWithScar: 322
+3: impulseSV: 251
+4: iJevin: 193
+5: Xisuma: 76
+6: BdoubleO100: 56
+7: Keralis1: 51
+8: PearlescentMoon: 46
+9: cubfan135: 37
+10: Zedaph: 15
+11: Docm77: 10
+12: Renthedog: 4
+13: Etho: 3
+14: iskall85: 2
+Total 1939

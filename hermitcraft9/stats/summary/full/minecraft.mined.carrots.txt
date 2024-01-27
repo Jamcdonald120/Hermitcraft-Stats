@@ -1,0 +1,32 @@
+minecraft.mined.carrots
+1: iskall85: 5092
+2: Stressmonster101: 3578
+3: Renthedog: 1526
+4: joehillssays: 1242
+5: impulseSV: 441
+6: Zedaph: 416
+7: Keralis1: 351
+8: iJevin: 329
+9: hypnotizd: 317
+10: Docm77: 280
+11: Tango: 241
+12: GeminiTay: 205
+13: PearlescentMoon: 168
+14: xBCrafted: 152
+15: RentheKing: 117
+16: Grian: 92
+17: Mumbo: 76
+18: MumboJumbo: 75
+19: Etho: 70
+20: falsesymmetry: 68
+21: VintageBeef: 61
+22: BdoubleO100: 41
+23: OrionSound: 40
+24: ZombieCleo: 39
+25: cubfan135: 15
+26: STEAKFG: 3
+27: Xisuma: 1
+28: MythicalSausage: 1
+29: Pixlriffs: 1
+30: Welsknight: 1
+Total 15039

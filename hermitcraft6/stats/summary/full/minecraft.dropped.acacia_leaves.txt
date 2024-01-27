@@ -1,0 +1,12 @@
+minecraft.dropped.acacia_leaves
+1: Renthedog: 127
+2: Xisuma: 93
+3: GoodTimeWithScar: 66
+4: Keralis1: 64
+5: iskall85: 62
+6: MumboJumbo: 24
+7: cubfan135: 9
+8: Tango: 3
+9: falsesymmetry: 1
+10: Stressmonster101: 1
+Total 450

@@ -1,0 +1,21 @@
+minecraft.picked_up.andesite_slab
+1: Tango: 353
+2: GoodTimeWithScar: 243
+3: PearlescentMoon: 231
+4: ZombieCleo: 74
+5: Grian: 66
+6: Keralis1: 55
+7: VintageBeef: 51
+8: Docm77: 47
+9: Xisuma: 41
+10: xBCrafted: 29
+11: falsesymmetry: 25
+12: impulseSV: 21
+13: iskall85: 20
+14: cubfan135: 20
+15: iJevin: 6
+16: GeminiTay: 6
+17: BdoubleO100: 6
+18: joehillssays: 5
+19: MythicalSausage: 2
+Total 1301

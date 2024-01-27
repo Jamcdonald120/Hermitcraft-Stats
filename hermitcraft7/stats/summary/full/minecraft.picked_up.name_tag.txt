@@ -1,0 +1,25 @@
+minecraft.picked_up.name_tag
+1: BdoubleO100: 168
+2: Zedaph: 141
+3: GoodTimeWithScar: 130
+4: Grian: 116
+5: Renthedog: 95
+6: Tango: 45
+7: Keralis1: 43
+8: falsesymmetry: 38
+9: cubfan135: 33
+10: Docm77: 28
+11: MumboJumbo: 27
+12: VintageBeef: 26
+13: impulseSV: 24
+14: iskall85: 20
+15: Etho: 19
+16: Xisuma: 15
+17: iJevin: 13
+18: hypnotizd: 11
+19: Stressmonster101: 7
+20: joehillssays: 6
+21: isGall85: 1
+22: Welsknight: 1
+23: ZombieCleo: 1
+Total 1008

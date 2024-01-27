@@ -1,0 +1,18 @@
+stat.pickup.minecraft.dark_oak_door
+1: PythonGB: 96
+2: BdoubleO100: 51
+3: falsesymmetry: 35
+4: joehillssays: 20
+5: Stressmonster101: 20
+6: Tango: 19
+7: cubfan135: 16
+8: iJevin: 13
+9: xBCrafted: 8
+10: GoodTimeWithScar: 6
+11: Welsknight: 5
+12: MumboJumbo: 5
+13: VintageBeef: 3
+14: Xisuma: 2
+15: iskall85: 2
+16: Zedaph: 2
+Total 303

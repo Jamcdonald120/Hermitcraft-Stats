@@ -1,0 +1,24 @@
+stat.pickup.minecraft.pumpkin
+1: Tango: 2401
+2: Zedaph: 2079
+3: MumboJumbo: 2022
+4: cubfan135: 1349
+5: Tinfoilchef: 1182
+6: Renthedog: 677
+7: impulseSV: 386
+8: falsesymmetry: 303
+9: iskall85: 267
+10: GoodTimeWithScar: 203
+11: ZombieCleo: 146
+12: Docm77: 110
+13: iJevin: 107
+14: Xisuma: 106
+15: joehillssays: 78
+16: Biffa2001: 27
+17: Welsknight: 25
+18: PythonGB: 20
+19: xBCrafted: 15
+20: Stressmonster101: 14
+21: VintageBeef: 7
+22: BdoubleO100: 4
+Total 11528

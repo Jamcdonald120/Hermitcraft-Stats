@@ -1,0 +1,22 @@
+minecraft.dropped.potato
+1: GoodTimeWithScar: 4150
+2: Grian: 2507
+3: Keralis1: 1927
+4: iskall85: 521
+5: xBCrafted: 454
+6: MumboJumbo: 447
+7: iJevin: 321
+8: Zedaph: 171
+9: cubfan135: 155
+10: BdoubleO100: 48
+11: Renthedog: 23
+12: Etho: 16
+13: Xisuma: 13
+14: hypnotizd: 11
+15: VintageBeef: 9
+16: Tango: 9
+17: Docm77: 7
+18: impulseSV: 6
+19: falsesymmetry: 5
+20: Stressmonster101: 1
+Total 10801

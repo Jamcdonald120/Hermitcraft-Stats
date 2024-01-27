@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.cooked_fish
+1: impulseSV: 3039
+2: Xisuma: 2428
+3: PythonGB: 1027
+4: GoodTimeWithScar: 386
+5: cubfan135: 194
+6: iskall85: 119
+7: joehillssays: 64
+8: Tango: 64
+9: Welsknight: 7
+10: Etho: 5
+11: falsesymmetry: 1
+Total 7334

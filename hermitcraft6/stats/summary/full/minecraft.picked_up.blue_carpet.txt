@@ -1,0 +1,20 @@
+minecraft.picked_up.blue_carpet
+1: Xisuma: 623
+2: impulseSV: 230
+3: cubfan135: 90
+4: Docm77: 83
+5: Tinfoilchef: 83
+6: iJevin: 67
+7: ZombieCleo: 42
+8: Tango: 25
+9: iskall85: 23
+10: Renthedog: 18
+11: HumanCleo: 12
+12: BdoubleO100: 11
+13: GoodTimeWithScar: 11
+14: Grian: 10
+15: Welsknight: 7
+16: joehillssays: 3
+17: Keralis1: 3
+18: falsesymmetry: 1
+Total 1342

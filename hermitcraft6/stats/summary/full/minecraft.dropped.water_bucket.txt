@@ -1,0 +1,19 @@
+minecraft.dropped.water_bucket
+1: Grian: 46
+2: iskall85: 36
+3: GoodTimeWithScar: 18
+4: Zedaph: 18
+5: MumboJumbo: 15
+6: Tango: 13
+7: falsesymmetry: 12
+8: impulseSV: 11
+9: Renthedog: 8
+10: Stressmonster101: 6
+11: Xisuma: 4
+12: iJevin: 4
+13: cubfan135: 4
+14: Docm77: 3
+15: Keralis1: 3
+16: BdoubleO100: 1
+17: ZombieCleo: 1
+Total 203

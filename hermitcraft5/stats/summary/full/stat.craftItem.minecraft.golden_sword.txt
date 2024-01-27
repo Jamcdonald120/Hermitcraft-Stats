@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.golden_sword
+1: Renthedog: 61
+2: cubfan135: 5
+3: iskall85: 2
+4: PythonGB: 1
+Total 69

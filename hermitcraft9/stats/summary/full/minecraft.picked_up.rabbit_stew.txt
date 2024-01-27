@@ -1,0 +1,8 @@
+minecraft.picked_up.rabbit_stew
+1: joehillssays: 37
+2: PearlescentMoon: 14
+3: Xisuma: 4
+4: Grian: 1
+5: xBCrafted: 1
+6: Zedaph: 1
+Total 58

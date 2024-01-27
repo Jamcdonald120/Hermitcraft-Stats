@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.bow
+1: Xisuma: 250
+2: Spumwackles: 67
+3: sl1pg8r: 22
+4: Mumbo: 13
+5: iJevin: 9
+6: ZombieCleo: 5
+7: Tango: 4
+8: KingDaddyDMAC: 1
+Total 371

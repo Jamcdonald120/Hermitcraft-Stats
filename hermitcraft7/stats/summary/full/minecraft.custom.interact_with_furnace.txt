@@ -1,0 +1,28 @@
+minecraft.custom.interact_with_furnace
+1: Etho: 5112
+2: joehillssays: 4798
+3: BdoubleO100: 4665
+4: falsesymmetry: 4145
+5: Renthedog: 4081
+6: VintageBeef: 4044
+7: GoodTimeWithScar: 3711
+8: Grian: 3381
+9: Xisuma: 3357
+10: impulseSV: 3241
+11: Zedaph: 3195
+12: iJevin: 2787
+13: Tango: 2779
+14: cubfan135: 2517
+15: MumboJumbo: 1849
+16: iskall85: 1249
+17: Keralis1: 1185
+18: Stressmonster101: 1016
+19: hypnotizd: 880
+20: ZombieCleo: 776
+21: Docm77: 740
+22: xBCrafted: 511
+23: Tinfoilchef: 370
+24: Welsknight: 345
+25: Helsknight_: 5
+26: BarryBoss1234: 3
+Total 60742

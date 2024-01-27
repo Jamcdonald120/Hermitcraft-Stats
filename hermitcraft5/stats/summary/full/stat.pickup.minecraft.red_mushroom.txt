@@ -1,0 +1,25 @@
+stat.pickup.minecraft.red_mushroom
+1: Renthedog: 4747
+2: falsesymmetry: 2328
+3: cubfan135: 1313
+4: iskall85: 527
+5: Tango: 469
+6: Zedaph: 439
+7: joehillssays: 167
+8: Xisuma: 154
+9: Welsknight: 153
+10: xBCrafted: 120
+11: Tinfoilchef: 53
+12: impulseSV: 30
+13: PythonGB: 29
+14: Docm77: 26
+15: GoodTimeWithScar: 24
+16: MumboJumbo: 22
+17: Stressmonster101: 14
+18: ZombieCleo: 8
+19: VintageBeef: 4
+20: Etho: 3
+21: iJevin: 2
+22: BdoubleO100: 1
+23: Biffa2001: 1
+Total 10634

@@ -1,0 +1,15 @@
+minecraft.picked_up.acacia_fence
+1: cubfan135: 806
+2: Xisuma: 305
+3: MumboJumbo: 199
+4: Grian: 39
+5: PythonGB: 22
+6: iskall85: 19
+7: Renthedog: 11
+8: BdoubleO100: 9
+9: GoodTimeWithScar: 8
+10: falsesymmetry: 4
+11: Tinfoilchef: 3
+12: impulseSV: 3
+13: Stressmonster101: 2
+Total 1430

@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.glowstone
+1: Xisuma: 1296
+2: Tango: 955
+3: Biffa2001: 138
+4: Mumbo: 3
+5: ZombieCleo: 1
+Total 2393

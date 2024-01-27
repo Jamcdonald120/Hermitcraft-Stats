@@ -1,0 +1,32 @@
+minecraft.mined.cyan_shulker_box
+1: cubfan135: 1340
+2: PearlescentMoon: 847
+3: ZombieCleo: 765
+4: joehillssays: 641
+5: falsesymmetry: 415
+6: GoodTimeWithScar: 406
+7: Etho: 282
+8: Tango: 278
+9: GeminiTay: 270
+10: xBCrafted: 240
+11: BdoubleO100: 194
+12: Keralis1: 179
+13: Docm77: 176
+14: iJevin: 173
+15: VintageBeef: 170
+16: Xisuma: 142
+17: hypnotizd: 132
+18: Grian: 129
+19: Renthedog: 127
+20: iskall85: 94
+21: impulseSV: 83
+22: Zedaph: 71
+23: Mumbo: 54
+24: RentheKing: 41
+25: Pixlriffs: 6
+26: Skizzleman: 4
+27: Smallishbeans: 4
+28: HBomb94: 4
+29: Stressmonster101: 3
+30: Minerva246: 1
+Total 7271

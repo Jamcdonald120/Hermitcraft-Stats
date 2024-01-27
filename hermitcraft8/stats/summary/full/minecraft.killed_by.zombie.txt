@@ -1,0 +1,21 @@
+minecraft.killed_by.zombie
+1: Keralis1: 24
+2: xBCrafted: 13
+3: GoodTimeWithScar: 10
+4: Tango: 8
+5: impulseSV: 8
+6: iJevin: 6
+7: PearlescentMoon: 6
+8: Renthedog: 5
+9: Grian: 5
+10: Docm77: 2
+11: Xisuma: 2
+12: cubfan135: 2
+13: Tinfoilchef: 2
+14: joehillssays: 1
+15: GeminiTay: 1
+16: BdoubleO100: 1
+17: Etho: 1
+18: ZombieCleo: 1
+19: Stressmonster101: 1
+Total 99

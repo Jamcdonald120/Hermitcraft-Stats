@@ -1,0 +1,10 @@
+minecraft.picked_up.fermented_spider_eye
+1: iJevin: 32
+2: GoodTimeWithScar: 10
+3: impulseSV: 4
+4: PythonGB: 3
+5: cubfan135: 3
+6: MumboJumbo: 2
+7: Renthedog: 1
+8: iskall85: 1
+Total 56

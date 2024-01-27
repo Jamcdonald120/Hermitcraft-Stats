@@ -1,0 +1,10 @@
+minecraft.crafted.green_stained_glass_pane
+1: Tango: 624
+2: GoodTimeWithScar: 528
+3: Xisuma: 272
+4: Renthedog: 176
+5: cubfan135: 64
+6: Welsknight: 16
+7: MumboJumbo: 16
+8: impulseSV: 16
+Total 1712

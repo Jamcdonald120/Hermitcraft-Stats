@@ -1,0 +1,15 @@
+stat.useItem.minecraft.detector_rail
+1: falsesymmetry: 833
+2: Xisuma: 170
+3: sl1pg8r: 40
+4: Etho: 34
+5: impulseSV: 33
+6: Mumbo: 28
+7: Tango: 12
+8: monkeyfarm: 11
+9: Tinfoilchef: 5
+10: xBCrafted: 4
+11: KingDaddyDMAC: 2
+12: topmass: 1
+13: zueljin: 1
+Total 1174

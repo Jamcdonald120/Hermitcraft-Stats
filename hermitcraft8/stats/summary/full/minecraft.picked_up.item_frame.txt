@@ -1,0 +1,27 @@
+minecraft.picked_up.item_frame
+1: PearlescentMoon: 605
+2: iJevin: 330
+3: GoodTimeWithScar: 307
+4: Tango: 265
+5: Xisuma: 179
+6: impulseSV: 137
+7: Grian: 120
+8: xBCrafted: 114
+9: iskall85: 106
+10: cubfan135: 69
+11: Renthedog: 65
+12: Welsknight: 62
+13: hypnotizd: 59
+14: falsesymmetry: 52
+15: Etho: 49
+16: Zedaph: 44
+17: BdoubleO100: 38
+18: Docm77: 37
+19: GeminiTay: 37
+20: Keralis1: 33
+21: joehillssays: 28
+22: MumboJumbo: 21
+23: ZombieCleo: 20
+24: VintageBeef: 9
+25: Stressmonster101: 1
+Total 2787

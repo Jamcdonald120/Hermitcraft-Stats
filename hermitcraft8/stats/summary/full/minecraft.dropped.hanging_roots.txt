@@ -1,0 +1,4 @@
+minecraft.dropped.hanging_roots
+1: falsesymmetry: 26
+2: Etho: 23
+Total 49

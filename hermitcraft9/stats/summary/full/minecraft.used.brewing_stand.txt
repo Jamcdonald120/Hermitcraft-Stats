@@ -1,0 +1,28 @@
+minecraft.used.brewing_stand
+1: iJevin: 134
+2: cubfan135: 73
+3: Grian: 32
+4: Tango: 31
+5: Keralis1: 29
+6: Zedaph: 22
+7: GeminiTay: 20
+8: PearlescentMoon: 19
+9: falsesymmetry: 19
+10: Stressmonster101: 19
+11: Xisuma: 17
+12: Etho: 15
+13: joehillssays: 11
+14: BdoubleO100: 11
+15: impulseSV: 11
+16: Docm77: 10
+17: RentheKing: 8
+18: ZombieCleo: 7
+19: Renthedog: 6
+20: iskall85: 5
+21: hypnotizd: 4
+22: VintageBeef: 3
+23: GoodTimeWithScar: 3
+24: xBCrafted: 2
+25: fWhip: 2
+26: Welsknight: 1
+Total 514

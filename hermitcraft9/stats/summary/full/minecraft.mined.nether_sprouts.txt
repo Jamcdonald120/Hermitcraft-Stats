@@ -1,0 +1,23 @@
+minecraft.mined.nether_sprouts
+1: ZombieCleo: 1327
+2: PearlescentMoon: 751
+3: falsesymmetry: 653
+4: Etho: 536
+5: BdoubleO100: 265
+6: Keralis1: 76
+7: Xisuma: 72
+8: Grian: 56
+9: Tango: 48
+10: GeminiTay: 41
+11: Mumbo: 35
+12: VintageBeef: 19
+13: cubfan135: 18
+14: Renthedog: 12
+15: GoodTimeWithScar: 12
+16: iJevin: 10
+17: impulseSV: 5
+18: Zedaph: 4
+19: xBCrafted: 3
+20: RentheKing: 2
+21: iskall85: 1
+Total 3946

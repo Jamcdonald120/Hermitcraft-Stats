@@ -1,0 +1,18 @@
+minecraft.mined.deepslate_brick_slab
+1: xBCrafted: 464
+2: iJevin: 201
+3: Renthedog: 130
+4: Docm77: 80
+5: hypnotizd: 80
+6: impulseSV: 75
+7: Xisuma: 48
+8: Zedaph: 24
+9: Tango: 14
+10: MumboJumbo: 10
+11: GoodTimeWithScar: 10
+12: PearlescentMoon: 9
+13: ZombieCleo: 7
+14: cubfan135: 5
+15: Stressmonster101: 4
+16: VintageBeef: 2
+Total 1163

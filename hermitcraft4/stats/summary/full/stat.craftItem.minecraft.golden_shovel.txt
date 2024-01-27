@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.golden_shovel
+1: Xisuma: 1
+2: Tango: 1
+Total 2

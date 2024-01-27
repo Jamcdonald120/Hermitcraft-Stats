@@ -1,0 +1,29 @@
+minecraft.picked_up.cobblestone
+1: Grian: 72305
+2: Renthedog: 70459
+3: MumboJumbo: 61482
+4: Tango: 57329
+5: cubfan135: 56250
+6: GoodTimeWithScar: 48865
+7: iJevin: 47986
+8: VintageBeef: 39580
+9: Etho: 36562
+10: joehillssays: 31965
+11: impulseSV: 31965
+12: Docm77: 31087
+13: falsesymmetry: 28497
+14: Welsknight: 23322
+15: Xisuma: 22377
+16: Zedaph: 16815
+17: xBCrafted: 16802
+18: PearlescentMoon: 14715
+19: Tinfoilchef: 11479
+20: ZombieCleo: 10930
+21: hypnotizd: 7651
+22: GeminiTay: 7617
+23: Keralis1: 7574
+24: iskall85: 7479
+25: BdoubleO100: 7186
+26: Stressmonster101: 6052
+27: EvilXisuma: 101
+Total 774432

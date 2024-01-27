@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.gray_shulker_box
+1: cubfan135: 223
+2: GoodTimeWithScar: 120
+3: Tango: 71
+4: falsesymmetry: 62
+5: impulseSV: 36
+6: Welsknight: 26
+7: iskall85: 20
+8: Tinfoilchef: 16
+9: Xisuma: 6
+10: Renthedog: 5
+Total 585

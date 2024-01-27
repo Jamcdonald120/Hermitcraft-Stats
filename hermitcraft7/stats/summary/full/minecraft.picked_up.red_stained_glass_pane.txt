@@ -1,0 +1,14 @@
+minecraft.picked_up.red_stained_glass_pane
+1: cubfan135: 320
+2: Grian: 211
+3: GoodTimeWithScar: 71
+4: joehillssays: 31
+5: VintageBeef: 23
+6: xBCrafted: 23
+7: MumboJumbo: 12
+8: Renthedog: 9
+9: Xisuma: 6
+10: falsesymmetry: 4
+11: impulseSV: 4
+12: Keralis1: 1
+Total 715

@@ -1,0 +1,20 @@
+stat.useItem.minecraft.banner
+1: Xisuma: 859
+2: cubfan135: 759
+3: falsesymmetry: 205
+4: Tango: 145
+5: Welsknight: 134
+6: Renthedog: 123
+7: Tinfoilchef: 79
+8: GoodTimeWithScar: 78
+9: iskall85: 70
+10: VintageBeef: 62
+11: PythonGB: 35
+12: ZombieCleo: 30
+13: impulseSV: 29
+14: joehillssays: 26
+15: iJevin: 11
+16: Etho: 9
+17: MumboJumbo: 9
+18: zueljin: 4
+Total 2667

@@ -1,0 +1,24 @@
+stat.pickup.minecraft.concrete_powder
+1: cubfan135: 72900
+2: GoodTimeWithScar: 39737
+3: iskall85: 38068
+4: Renthedog: 28482
+5: PythonGB: 10036
+6: Xisuma: 8930
+7: falsesymmetry: 5793
+8: joehillssays: 2725
+9: Stressmonster101: 2443
+10: Welsknight: 1896
+11: Tango: 1775
+12: Zedaph: 1327
+13: impulseSV: 1153
+14: xBCrafted: 839
+15: Docm77: 447
+16: MumboJumbo: 369
+17: Tinfoilchef: 366
+18: Biffa2001: 323
+19: ZombieCleo: 237
+20: iJevin: 130
+21: VintageBeef: 129
+22: BdoubleO100: 29
+Total 218134

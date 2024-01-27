@@ -1,0 +1,20 @@
+minecraft.picked_up.polished_blackstone_stairs
+1: Tango: 1759
+2: GoodTimeWithScar: 395
+3: impulseSV: 306
+4: cubfan135: 213
+5: PearlescentMoon: 170
+6: falsesymmetry: 96
+7: Xisuma: 41
+8: RentheKing: 38
+9: xBCrafted: 12
+10: Grian: 9
+11: iJevin: 6
+12: Docm77: 5
+13: Zedaph: 5
+14: BdoubleO100: 4
+15: ZombieCleo: 4
+16: hypnotizd: 3
+17: VintageBeef: 2
+18: joehillssays: 1
+Total 3069

@@ -1,0 +1,28 @@
+minecraft.crafted.iron_axe
+1: GoodTimeWithScar: 152
+2: Grian: 64
+3: falsesymmetry: 33
+4: joehillssays: 29
+5: PearlescentMoon: 29
+6: ZombieCleo: 15
+7: Xisuma: 13
+8: GeminiTay: 11
+9: Zedaph: 11
+10: iskall85: 8
+11: Tango: 6
+12: hypnotizd: 6
+13: Stressmonster101: 6
+14: iJevin: 5
+15: BdoubleO100: 4
+16: Welsknight: 4
+17: impulseSV: 4
+18: Renthedog: 3
+19: MumboJumbo: 3
+20: Docm77: 1
+21: VintageBeef: 1
+22: xBCrafted: 1
+23: cubfan135: 1
+24: Etho: 1
+25: Tinfoilchef: 1
+26: Keralis1: 1
+Total 413

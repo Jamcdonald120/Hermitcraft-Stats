@@ -1,0 +1,6 @@
+minecraft.dropped.stripped_warped_hyphae
+1: Renthedog: 48
+2: falsesymmetry: 16
+3: Grian: 6
+4: Tango: 1
+Total 71

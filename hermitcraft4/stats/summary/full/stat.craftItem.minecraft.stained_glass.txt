@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.stained_glass
+1: Renthedog: 89840
+2: Xisuma: 27832
+3: impulseSV: 26336
+4: falsesymmetry: 21328
+5: Tango: 11544
+6: joehillssays: 4192
+7: cubfan135: 2536
+8: iskall85: 2288
+9: Welsknight: 2248
+10: MumboJumbo: 2136
+11: Tinfoilchef: 1792
+12: Etho: 1096
+13: GoodTimeWithScar: 1024
+14: ZombieCleo: 952
+15: Biffa2001: 880
+16: Docm77: 744
+17: VintageBeef: 656
+18: PythonGB: 208
+19: iJevin: 176
+20: zueljin: 72
+Total 197880

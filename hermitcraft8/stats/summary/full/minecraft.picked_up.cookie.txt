@@ -1,0 +1,16 @@
+minecraft.picked_up.cookie
+1: VintageBeef: 2132
+2: cubfan135: 92
+3: impulseSV: 65
+4: BdoubleO100: 64
+5: joehillssays: 18
+6: PearlescentMoon: 18
+7: GoodTimeWithScar: 9
+8: xBCrafted: 5
+9: iJevin: 4
+10: Xisuma: 3
+11: Welsknight: 2
+12: Keralis1: 2
+13: Grian: 1
+14: ZombieCleo: 1
+Total 2416

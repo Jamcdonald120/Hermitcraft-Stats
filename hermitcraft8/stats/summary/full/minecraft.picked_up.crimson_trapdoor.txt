@@ -1,0 +1,13 @@
+minecraft.picked_up.crimson_trapdoor
+1: iJevin: 90
+2: cubfan135: 14
+3: Xisuma: 10
+4: impulseSV: 7
+5: Grian: 6
+6: Renthedog: 5
+7: MumboJumbo: 4
+8: GoodTimeWithScar: 4
+9: Keralis1: 4
+10: BdoubleO100: 3
+11: EvilXisuma: 1
+Total 148

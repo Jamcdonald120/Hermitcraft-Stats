@@ -1,0 +1,23 @@
+minecraft.custom.target_hit
+1: cubfan135: 5648
+2: xBCrafted: 2123
+3: joehillssays: 1465
+4: VintageBeef: 689
+5: iJevin: 605
+6: Renthedog: 546
+7: Keralis1: 406
+8: GoodTimeWithScar: 377
+9: Xisuma: 327
+10: Zedaph: 279
+11: Etho: 264
+12: Tango: 259
+13: falsesymmetry: 177
+14: hypnotizd: 110
+15: Grian: 97
+16: impulseSV: 79
+17: Welsknight: 64
+18: ZombieCleo: 39
+19: BdoubleO100: 24
+20: iskall85: 8
+21: MumboJumbo: 1
+Total 13587

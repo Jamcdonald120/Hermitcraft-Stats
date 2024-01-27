@@ -1,0 +1,9 @@
+minecraft.picked_up.birch_button
+1: Xisuma: 20
+2: joehillssays: 14
+3: MumboJumbo: 6
+4: xBCrafted: 4
+5: falsesymmetry: 4
+6: cubfan135: 4
+7: impulseSV: 2
+Total 54

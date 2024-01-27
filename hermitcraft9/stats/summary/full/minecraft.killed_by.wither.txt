@@ -1,0 +1,10 @@
+minecraft.killed_by.wither
+1: Xisuma: 20
+2: Tango: 10
+3: iJevin: 7
+4: cubfan135: 6
+5: Etho: 6
+6: Mumbo: 3
+7: Docm77: 1
+8: Zedaph: 1
+Total 54

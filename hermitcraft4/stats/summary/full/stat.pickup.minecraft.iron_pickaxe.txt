@@ -1,0 +1,21 @@
+stat.pickup.minecraft.iron_pickaxe
+1: GoodTimeWithScar: 25
+2: Renthedog: 18
+3: joehillssays: 11
+4: Welsknight: 11
+5: Tango: 9
+6: Xisuma: 8
+7: falsesymmetry: 8
+8: cubfan135: 7
+9: ZombieCleo: 7
+10: iskall85: 6
+11: Biffa2001: 5
+12: PythonGB: 4
+13: Jessassin: 4
+14: impulseSV: 4
+15: Etho: 3
+16: iJevin: 1
+17: zueljin: 1
+18: WellsGlazes: 1
+19: Mumbo: 1
+Total 134

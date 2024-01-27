@@ -1,0 +1,8 @@
+minecraft.picked_up.prize_pottery_sherd
+1: cubfan135: 16
+2: Zedaph: 3
+3: xBCrafted: 2
+4: Renthedog: 1
+5: iJevin: 1
+6: impulseSV: 1
+Total 24

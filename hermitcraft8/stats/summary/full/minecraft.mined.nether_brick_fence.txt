@@ -1,0 +1,21 @@
+minecraft.mined.nether_brick_fence
+1: Xisuma: 139
+2: cubfan135: 103
+3: xBCrafted: 67
+4: iJevin: 48
+5: PearlescentMoon: 30
+6: MumboJumbo: 29
+7: VintageBeef: 27
+8: Grian: 13
+9: impulseSV: 11
+10: Keralis1: 8
+11: joehillssays: 6
+12: Renthedog: 5
+13: iskall85: 5
+14: Docm77: 3
+15: falsesymmetry: 3
+16: EvilXisuma: 2
+17: Tango: 1
+18: Welsknight: 1
+19: Etho: 1
+Total 502

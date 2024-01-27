@@ -1,0 +1,20 @@
+minecraft.crafted.lime_shulker_box
+1: Etho: 61
+2: GoodTimeWithScar: 45
+3: iskall85: 29
+4: Keralis1: 22
+5: impulseSV: 21
+6: Tango: 13
+7: Xisuma: 11
+8: cubfan135: 8
+9: MumboJumbo: 3
+10: iJevin: 2
+11: Stressmonster101: 2
+12: Zedaph: 2
+13: Docm77: 1
+14: Renthedog: 1
+15: joehillssays: 1
+16: Grian: 1
+17: BdoubleO100: 1
+18: ZombieCleo: 1
+Total 225

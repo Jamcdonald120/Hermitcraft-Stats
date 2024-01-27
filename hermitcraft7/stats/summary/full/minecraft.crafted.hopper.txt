@@ -1,0 +1,26 @@
+minecraft.crafted.hopper
+1: Tango: 4560
+2: MumboJumbo: 4320
+3: Xisuma: 3640
+4: xBCrafted: 3076
+5: Etho: 2854
+6: Renthedog: 2256
+7: impulseSV: 1777
+8: Grian: 1671
+9: cubfan135: 1384
+10: Keralis1: 941
+11: GoodTimeWithScar: 811
+12: joehillssays: 778
+13: Stressmonster101: 665
+14: Zedaph: 617
+15: iskall85: 594
+16: hypnotizd: 572
+17: iJevin: 547
+18: Tinfoilchef: 365
+19: BdoubleO100: 285
+20: falsesymmetry: 238
+21: ZombieCleo: 176
+22: Docm77: 166
+23: Welsknight: 118
+24: VintageBeef: 113
+Total 32524

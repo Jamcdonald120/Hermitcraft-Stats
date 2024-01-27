@@ -1,0 +1,25 @@
+stat.useItem.minecraft.stone_pickaxe
+1: joehillssays: 5785
+2: zueljin: 2763
+3: Tinfoilchef: 2630
+4: Spumwackles: 647
+5: Mumbo: 640
+6: Collen: 530
+7: skyzm: 514
+8: KingDaddyDMAC: 481
+9: xBCrafted: 434
+10: NameOfSamuel: 396
+11: ZombieCleo: 345
+12: sl1pg8r: 331
+13: falsesymmetry: 324
+14: Xisuma: 276
+15: Keralis1: 260
+16: iJevin: 259
+17: monkeyfarm: 259
+18: Tango: 243
+19: topmass: 242
+20: Pungence: 165
+21: hypnotizd: 146
+22: Biffa2001: 132
+23: Etho: 4
+Total 17806

@@ -1,0 +1,15 @@
+stat.useItem.minecraft.snow
+1: Xisuma: 3151
+2: GoodTimeWithScar: 3013
+3: falsesymmetry: 2482
+4: cubfan135: 1115
+5: impulseSV: 857
+6: Welsknight: 594
+7: iskall85: 497
+8: Tango: 345
+9: Tinfoilchef: 315
+10: MumboJumbo: 137
+11: Docm77: 14
+12: Etho: 10
+13: PythonGB: 2
+Total 12532

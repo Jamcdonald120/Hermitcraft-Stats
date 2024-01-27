@@ -1,0 +1,13 @@
+minecraft.dropped.mud_bricks
+1: Zedaph: 339
+2: iJevin: 145
+3: Grian: 72
+4: cubfan135: 60
+5: Keralis1: 32
+6: falsesymmetry: 27
+7: Etho: 11
+8: impulseSV: 8
+9: PearlescentMoon: 5
+10: Stressmonster101: 2
+11: GoodTimeWithScar: 1
+Total 702

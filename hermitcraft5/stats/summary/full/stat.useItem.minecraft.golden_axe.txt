@@ -1,0 +1,5 @@
+stat.useItem.minecraft.golden_axe
+1: iskall85: 60
+2: xBCrafted: 33
+3: Renthedog: 13
+Total 106

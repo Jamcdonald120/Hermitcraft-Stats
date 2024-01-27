@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.gold_block
+1: Spumwackles: 75
+2: Xisuma: 7
+3: Biffa2001: 2
+4: Mumbo: 2
+Total 86

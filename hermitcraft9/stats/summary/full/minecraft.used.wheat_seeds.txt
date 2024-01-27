@@ -1,0 +1,30 @@
+minecraft.used.wheat_seeds
+1: Etho: 11422
+2: VintageBeef: 6554
+3: GoodTimeWithScar: 6060
+4: ZombieCleo: 5775
+5: xBCrafted: 5507
+6: joehillssays: 4523
+7: cubfan135: 2215
+8: Renthedog: 2124
+9: PearlescentMoon: 1693
+10: Tango: 1553
+11: impulseSV: 1333
+12: falsesymmetry: 1167
+13: BdoubleO100: 1159
+14: Zedaph: 958
+15: Grian: 884
+16: Stressmonster101: 694
+17: RentheKing: 556
+18: Xisuma: 531
+19: hypnotizd: 375
+20: Keralis1: 321
+21: iskall85: 302
+22: GeminiTay: 239
+23: MythicalSausage: 233
+24: Docm77: 188
+25: Mumbo: 57
+26: Tinfoilchef: 29
+27: Pixlriffs: 3
+28: Welsknight: 1
+Total 56456

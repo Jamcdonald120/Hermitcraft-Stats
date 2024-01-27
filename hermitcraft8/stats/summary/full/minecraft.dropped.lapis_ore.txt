@@ -1,0 +1,8 @@
+minecraft.dropped.lapis_ore
+1: iJevin: 9
+2: xBCrafted: 5
+3: Grian: 4
+4: Docm77: 3
+5: Renthedog: 1
+6: GoodTimeWithScar: 1
+Total 23

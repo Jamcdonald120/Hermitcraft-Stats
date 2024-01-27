@@ -1,0 +1,23 @@
+minecraft.crafted.quartz_slab
+1: Renthedog: 8466
+2: MumboJumbo: 7739
+3: falsesymmetry: 5760
+4: Grian: 5710
+5: iskall85: 5368
+6: PythonGB: 3674
+7: GoodTimeWithScar: 3302
+8: impulseSV: 2034
+9: Welsknight: 1686
+10: cubfan135: 1394
+11: Xisuma: 1202
+12: Keralis1: 1184
+13: iJevin: 810
+14: Tango: 656
+15: Docm77: 636
+16: ZombieCleo: 396
+17: Stressmonster101: 360
+18: Zedaph: 94
+19: joehillssays: 36
+20: xBCrafted: 6
+21: BdoubleO100: 2
+Total 50515

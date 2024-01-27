@@ -1,0 +1,7 @@
+minecraft.crafted.jungle_door
+1: BdoubleO100: 21
+2: Keralis1: 18
+3: MumboJumbo: 12
+4: PearlescentMoon: 6
+5: iskall85: 3
+Total 60

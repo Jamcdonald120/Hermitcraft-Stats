@@ -1,0 +1,27 @@
+minecraft.crafted.oak_trapdoor
+1: GoodTimeWithScar: 518
+2: PearlescentMoon: 438
+3: BdoubleO100: 390
+4: Xisuma: 308
+5: Grian: 296
+6: Keralis1: 282
+7: Docm77: 228
+8: joehillssays: 224
+9: xBCrafted: 222
+10: MumboJumbo: 144
+11: Etho: 86
+12: iJevin: 66
+13: GeminiTay: 56
+14: impulseSV: 56
+15: Zedaph: 49
+16: Renthedog: 32
+17: Tango: 30
+18: iskall85: 26
+19: Welsknight: 24
+20: Tinfoilchef: 16
+21: ZombieCleo: 10
+22: VintageBeef: 6
+23: cubfan135: 4
+24: hypnotizd: 2
+25: Stressmonster101: 2
+Total 3515

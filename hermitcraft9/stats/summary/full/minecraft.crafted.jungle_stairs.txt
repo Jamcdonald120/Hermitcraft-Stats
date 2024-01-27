@@ -1,0 +1,13 @@
+minecraft.crafted.jungle_stairs
+1: GoodTimeWithScar: 496
+2: PearlescentMoon: 452
+3: Keralis1: 240
+4: Etho: 92
+5: Xisuma: 40
+6: cubfan135: 36
+7: impulseSV: 36
+8: Docm77: 24
+9: BdoubleO100: 16
+10: Renthedog: 8
+11: Zedaph: 4
+Total 1444

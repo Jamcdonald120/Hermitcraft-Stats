@@ -1,0 +1,31 @@
+minecraft.used.oak_planks
+1: VintageBeef: 7747
+2: ZombieCleo: 2557
+3: Xisuma: 2371
+4: Etho: 1523
+5: Docm77: 1516
+6: PearlescentMoon: 1457
+7: Grian: 859
+8: Keralis1: 828
+9: cubfan135: 430
+10: iskall85: 413
+11: impulseSV: 401
+12: Renthedog: 352
+13: falsesymmetry: 310
+14: BdoubleO100: 254
+15: Tango: 182
+16: iJevin: 177
+17: Stressmonster101: 120
+18: xBCrafted: 93
+19: GoodTimeWithScar: 72
+20: Zedaph: 62
+21: Mumbo: 55
+22: MythicalSausage: 36
+23: MumboJumbo: 36
+24: joehillssays: 28
+25: GeminiTay: 26
+26: hypnotizd: 7
+27: Pixlriffs: 6
+28: Smajor1995: 2
+29: SolidarityGaming: 1
+Total 21921

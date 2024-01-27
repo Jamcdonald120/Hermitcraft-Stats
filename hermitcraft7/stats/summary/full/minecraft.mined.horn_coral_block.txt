@@ -1,0 +1,14 @@
+minecraft.mined.horn_coral_block
+1: Etho: 640
+2: Xisuma: 435
+3: Zedaph: 109
+4: hypnotizd: 90
+5: impulseSV: 67
+6: cubfan135: 57
+7: xBCrafted: 30
+8: Renthedog: 13
+9: VintageBeef: 12
+10: GoodTimeWithScar: 7
+11: iskall85: 6
+12: Docm77: 1
+Total 1467

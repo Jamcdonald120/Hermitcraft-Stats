@@ -1,0 +1,8 @@
+minecraft.crafted.red_nether_brick_stairs
+1: Tango: 192
+2: Keralis1: 72
+3: GoodTimeWithScar: 64
+4: impulseSV: 44
+5: cubfan135: 12
+6: hypnotizd: 1
+Total 385

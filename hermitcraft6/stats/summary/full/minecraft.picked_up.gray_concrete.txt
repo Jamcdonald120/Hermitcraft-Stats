@@ -1,0 +1,22 @@
+minecraft.picked_up.gray_concrete
+1: GoodTimeWithScar: 27017
+2: iskall85: 16264
+3: Renthedog: 9081
+4: Xisuma: 8629
+5: Grian: 8526
+6: cubfan135: 7099
+7: Stressmonster101: 4969
+8: impulseSV: 2109
+9: falsesymmetry: 1959
+10: Docm77: 1115
+11: ZombieCleo: 689
+12: MumboJumbo: 638
+13: iJevin: 545
+14: PythonGB: 332
+15: Welsknight: 322
+16: Duke_da_dog: 215
+17: Tango: 150
+18: BdoubleO100: 144
+19: Zedaph: 10
+20: Keralis1: 9
+Total 89822

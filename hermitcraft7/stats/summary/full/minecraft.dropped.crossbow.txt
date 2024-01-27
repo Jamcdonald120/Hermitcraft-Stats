@@ -1,0 +1,25 @@
+minecraft.dropped.crossbow
+1: iskall85: 1237
+2: Etho: 398
+3: impulseSV: 254
+4: Welsknight: 128
+5: Tango: 48
+6: Grian: 23
+7: hypnotizd: 19
+8: BdoubleO100: 14
+9: cubfan135: 13
+10: Zedaph: 10
+11: Xisuma: 9
+12: GoodTimeWithScar: 8
+13: Keralis1: 8
+14: VintageBeef: 7
+15: xBCrafted: 5
+16: MumboJumbo: 5
+17: iJevin: 3
+18: joehillssays: 3
+19: Renthedog: 2
+20: falsesymmetry: 2
+21: Docm77: 1
+22: BarryBoss1234: 1
+23: ZombieCleo: 1
+Total 2199

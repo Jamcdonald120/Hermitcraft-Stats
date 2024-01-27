@@ -1,0 +1,26 @@
+stat.killEntity.Creeper
+1: GoodTimeWithScar: 931
+2: cubfan135: 812
+3: Renthedog: 632
+4: impulseSV: 454
+5: Tango: 451
+6: MumboJumbo: 355
+7: Welsknight: 347
+8: PythonGB: 326
+9: iskall85: 267
+10: iJevin: 230
+11: Zedaph: 220
+12: xBCrafted: 206
+13: Xisuma: 187
+14: falsesymmetry: 175
+15: Biffa2001: 143
+16: Docm77: 109
+17: Stressmonster101: 104
+18: Tinfoilchef: 98
+19: VintageBeef: 93
+20: BdoubleO100: 74
+21: Etho: 69
+22: ZombieCleo: 58
+23: joehillssays: 43
+24: xisumavoid: 3
+Total 6387

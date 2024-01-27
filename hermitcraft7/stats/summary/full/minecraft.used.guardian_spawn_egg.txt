@@ -1,0 +1,3 @@
+minecraft.used.guardian_spawn_egg
+1: isGall85: 9
+Total 9

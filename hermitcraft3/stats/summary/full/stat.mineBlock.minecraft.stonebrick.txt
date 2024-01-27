@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.stonebrick
+1: falsesymmetry: 6112
+2: monkeyfarm: 5143
+3: xBCrafted: 4828
+4: Xisuma: 3119
+5: Tango: 2869
+6: impulseSV: 2063
+7: KingDaddyDMAC: 2022
+8: iJevin: 1462
+9: Mumbo: 1455
+10: Etho: 1171
+11: Biffa2001: 682
+12: topmass: 341
+13: zueljin: 269
+14: PythonGB: 251
+15: sl1pg8r: 249
+16: Tinfoilchef: 200
+17: ZombieCleo: 179
+18: Docm77: 134
+19: skyzm: 96
+20: Spumwackles: 76
+21: joehillssays: 45
+22: Keralis1: 9
+23: hypnotizd: 7
+Total 32782

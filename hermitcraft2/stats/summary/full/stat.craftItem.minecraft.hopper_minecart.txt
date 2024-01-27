@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.hopper_minecart
+1: Xisuma: 79
+Total 79

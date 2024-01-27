@@ -1,0 +1,10 @@
+minecraft.dropped.blue_dye
+1: falsesymmetry: 143
+2: GoodTimeWithScar: 85
+3: iJevin: 27
+4: Zedaph: 10
+5: Renthedog: 6
+6: cubfan135: 5
+7: ZombieCleo: 2
+8: hypnotizd: 2
+Total 280

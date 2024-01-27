@@ -1,0 +1,25 @@
+minecraft.dropped.stone_axe
+1: Docm77: 22
+2: Stressmonster101: 20
+3: Grian: 18
+4: iJevin: 14
+5: falsesymmetry: 6
+6: Renthedog: 4
+7: GoodTimeWithScar: 4
+8: Zedaph: 4
+9: Tango: 3
+10: cubfan135: 3
+11: Etho: 3
+12: Mumbo: 3
+13: hypnotizd: 3
+14: impulseSV: 3
+15: joehillssays: 2
+16: GeminiTay: 2
+17: PearlescentMoon: 2
+18: iskall85: 2
+19: MumboJumbo: 2
+20: Keralis1: 2
+21: Xisuma: 1
+22: VintageBeef: 1
+23: xBCrafted: 1
+Total 125

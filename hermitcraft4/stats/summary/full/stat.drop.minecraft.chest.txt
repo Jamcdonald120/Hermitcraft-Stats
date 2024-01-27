@@ -1,0 +1,15 @@
+stat.drop.minecraft.chest
+1: Tango: 128
+2: PythonGB: 119
+3: Renthedog: 102
+4: GoodTimeWithScar: 71
+5: iskall85: 43
+6: cubfan135: 12
+7: Xisuma: 10
+8: falsesymmetry: 10
+9: MumboJumbo: 10
+10: impulseSV: 5
+11: Etho: 3
+12: xisumavoid: 1
+13: Welsknight: 1
+Total 515

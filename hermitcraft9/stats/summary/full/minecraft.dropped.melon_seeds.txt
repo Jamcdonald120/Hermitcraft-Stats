@@ -1,0 +1,13 @@
+minecraft.dropped.melon_seeds
+1: hypnotizd: 25
+2: Zedaph: 25
+3: cubfan135: 17
+4: Etho: 12
+5: Renthedog: 6
+6: falsesymmetry: 6
+7: BdoubleO100: 5
+8: Xisuma: 1
+9: iJevin: 1
+10: Grian: 1
+11: Keralis1: 1
+Total 100

@@ -1,0 +1,21 @@
+minecraft.mined.purpur_block
+1: falsesymmetry: 2188
+2: GoodTimeWithScar: 1424
+3: Xisuma: 519
+4: impulseSV: 433
+5: Tango: 397
+6: Etho: 374
+7: iskall85: 366
+8: MumboJumbo: 260
+9: Keralis1: 193
+10: iJevin: 154
+11: Renthedog: 122
+12: xBCrafted: 63
+13: cubfan135: 57
+14: hypnotizd: 46
+15: VintageBeef: 44
+16: Zedaph: 25
+17: joehillssays: 19
+18: Grian: 18
+19: Docm77: 14
+Total 6716

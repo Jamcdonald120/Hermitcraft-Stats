@@ -1,0 +1,25 @@
+minecraft.crafted.composter
+1: Etho: 950
+2: Xisuma: 614
+3: Keralis1: 311
+4: joehillssays: 203
+5: cubfan135: 185
+6: GoodTimeWithScar: 125
+7: Grian: 113
+8: hypnotizd: 107
+9: Stressmonster101: 83
+10: xBCrafted: 77
+11: Renthedog: 51
+12: impulseSV: 40
+13: iskall85: 31
+14: VintageBeef: 30
+15: BdoubleO100: 30
+16: Tango: 29
+17: ZombieCleo: 26
+18: iJevin: 14
+19: Docm77: 11
+20: falsesymmetry: 5
+21: MumboJumbo: 5
+22: Zedaph: 3
+23: Welsknight: 2
+Total 3045

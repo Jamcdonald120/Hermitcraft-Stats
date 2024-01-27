@@ -1,0 +1,10 @@
+minecraft.dropped.spruce_sign
+1: Renthedog: 317
+2: Xisuma: 17
+3: Grian: 17
+4: Stressmonster101: 13
+5: iskall85: 8
+6: falsesymmetry: 4
+7: GoodTimeWithScar: 4
+8: cubfan135: 1
+Total 381

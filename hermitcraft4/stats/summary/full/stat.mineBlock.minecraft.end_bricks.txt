@@ -1,0 +1,18 @@
+stat.mineBlock.minecraft.end_bricks
+1: Renthedog: 1912
+2: cubfan135: 1168
+3: Xisuma: 1019
+4: iskall85: 731
+5: Biffa2001: 417
+6: impulseSV: 389
+7: Welsknight: 298
+8: Tango: 156
+9: falsesymmetry: 125
+10: iJevin: 54
+11: MumboJumbo: 38
+12: PythonGB: 30
+13: GoodTimeWithScar: 21
+14: VintageBeef: 2
+15: Etho: 1
+16: Tinfoilchef: 1
+Total 6362

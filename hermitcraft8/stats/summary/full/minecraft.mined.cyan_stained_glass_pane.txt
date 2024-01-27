@@ -1,0 +1,5 @@
+minecraft.mined.cyan_stained_glass_pane
+1: Zedaph: 64
+2: BdoubleO100: 2
+3: impulseSV: 2
+Total 68

@@ -1,0 +1,22 @@
+minecraft.crafted.lead
+1: Zedaph: 130
+2: Docm77: 116
+3: Grian: 108
+4: Xisuma: 92
+5: impulseSV: 88
+6: Keralis1: 84
+7: PearlescentMoon: 62
+8: joehillssays: 48
+9: xBCrafted: 30
+10: cubfan135: 22
+11: BdoubleO100: 20
+12: Tango: 16
+13: Etho: 14
+14: Renthedog: 12
+15: Smajor1995: 8
+16: falsesymmetry: 8
+17: ZombieCleo: 8
+18: iJevin: 4
+19: Pixlriffs: 4
+20: VintageBeef: 2
+Total 876

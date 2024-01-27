@@ -1,0 +1,16 @@
+minecraft.crafted.orange_terracotta
+1: Renthedog: 2207
+2: impulseSV: 1360
+3: Docm77: 512
+4: VintageBeef: 480
+5: Xisuma: 424
+6: Grian: 288
+7: PearlescentMoon: 256
+8: BdoubleO100: 112
+9: joehillssays: 104
+10: Keralis1: 96
+11: SolidarityGaming: 64
+12: GeminiTay: 36
+13: Etho: 24
+14: xBCrafted: 8
+Total 5971

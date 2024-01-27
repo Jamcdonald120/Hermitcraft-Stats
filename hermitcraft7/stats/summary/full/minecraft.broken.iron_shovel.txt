@@ -1,0 +1,23 @@
+minecraft.broken.iron_shovel
+1: joehillssays: 149
+2: impulseSV: 99
+3: Zedaph: 30
+4: GoodTimeWithScar: 28
+5: Renthedog: 16
+6: Etho: 14
+7: Grian: 11
+8: cubfan135: 10
+9: BdoubleO100: 9
+10: VintageBeef: 7
+11: falsesymmetry: 7
+12: Tango: 6
+13: ZombieCleo: 6
+14: xBCrafted: 5
+15: Xisuma: 2
+16: Docm77: 1
+17: iskall85: 1
+18: hypnotizd: 1
+19: MumboJumbo: 1
+20: Tinfoilchef: 1
+21: Stressmonster101: 1
+Total 405

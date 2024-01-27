@@ -1,0 +1,26 @@
+minecraft.picked_up.lantern
+1: GoodTimeWithScar: 851
+2: Grian: 729
+3: PearlescentMoon: 580
+4: Renthedog: 211
+5: iJevin: 173
+6: Xisuma: 118
+7: joehillssays: 107
+8: cubfan135: 105
+9: Tango: 96
+10: Docm77: 69
+11: iskall85: 66
+12: falsesymmetry: 52
+13: BdoubleO100: 47
+14: xBCrafted: 44
+15: MumboJumbo: 40
+16: Etho: 35
+17: impulseSV: 22
+18: Keralis1: 13
+19: ZombieCleo: 12
+20: GeminiTay: 9
+21: hypnotizd: 6
+22: EvilXisuma: 3
+23: Welsknight: 1
+24: HermitcraftAlt: 1
+Total 3390

@@ -1,0 +1,4 @@
+stat.mineBlock.minecraft.acacia_stairs
+1: Xisuma: 16
+2: zueljin: 16
+Total 32

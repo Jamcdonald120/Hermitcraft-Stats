@@ -1,0 +1,20 @@
+minecraft.used.red_mushroom_block
+1: Keralis1: 3807
+2: VintageBeef: 1648
+3: Renthedog: 765
+4: Stressmonster101: 487
+5: joehillssays: 352
+6: Tango: 286
+7: falsesymmetry: 91
+8: OrionSound: 90
+9: RentheKing: 46
+10: cubfan135: 45
+11: Grian: 10
+12: PearlescentMoon: 10
+13: Etho: 9
+14: iskall85: 7
+15: GoodTimeWithScar: 2
+16: Docm77: 1
+17: MythicalSausage: 1
+18: BdoubleO100: 1
+Total 7658

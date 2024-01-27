@@ -1,0 +1,4 @@
+stat.drop.minecraft.light_weighted_pressure_plate
+1: falsesymmetry: 19
+2: Xisuma: 1
+Total 20

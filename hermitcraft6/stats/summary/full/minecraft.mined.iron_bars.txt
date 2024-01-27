@@ -1,0 +1,26 @@
+minecraft.mined.iron_bars
+1: cubfan135: 3446
+2: Xisuma: 984
+3: GoodTimeWithScar: 878
+4: Tango: 856
+5: falsesymmetry: 590
+6: impulseSV: 508
+7: iJevin: 423
+8: iskall85: 417
+9: Docm77: 399
+10: joehillssays: 270
+11: Stressmonster101: 250
+12: Biffa2001: 230
+13: MumboJumbo: 196
+14: Renthedog: 178
+15: Zedaph: 163
+16: Grian: 161
+17: PythonGB: 113
+18: BdoubleO100: 92
+19: Welsknight: 83
+20: Keralis1: 75
+21: ZombieCleo: 51
+22: xBCrafted: 18
+23: HumanCleo: 3
+24: Tinfoilchef: 2
+Total 10386

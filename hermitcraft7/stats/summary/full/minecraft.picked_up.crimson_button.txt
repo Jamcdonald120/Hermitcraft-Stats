@@ -1,0 +1,8 @@
+minecraft.picked_up.crimson_button
+1: Tango: 22
+2: iJevin: 15
+3: cubfan135: 4
+4: Stressmonster101: 2
+5: Xisuma: 1
+6: Etho: 1
+Total 45

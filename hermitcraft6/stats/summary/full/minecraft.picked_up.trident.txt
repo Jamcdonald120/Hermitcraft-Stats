@@ -1,0 +1,25 @@
+minecraft.picked_up.trident
+1: Grian: 189
+2: Docm77: 170
+3: cubfan135: 116
+4: Renthedog: 72
+5: GoodTimeWithScar: 70
+6: MumboJumbo: 42
+7: joehillssays: 40
+8: iskall85: 36
+9: Xisuma: 30
+10: falsesymmetry: 24
+11: Tango: 23
+12: impulseSV: 23
+13: iJevin: 21
+14: Stressmonster101: 11
+15: Keralis1: 8
+16: Biffa2001: 6
+17: PythonGB: 4
+18: Duke_da_dog: 4
+19: ZombieCleo: 3
+20: BdoubleO100: 2
+21: Welsknight: 2
+22: Zedaph: 2
+23: Grianch: 1
+Total 899

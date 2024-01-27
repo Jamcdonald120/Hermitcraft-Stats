@@ -1,0 +1,28 @@
+minecraft.crafted.furnace
+1: GoodTimeWithScar: 1061
+2: MumboJumbo: 1050
+3: Xisuma: 1033
+4: iskall85: 926
+5: Renthedog: 794
+6: cubfan135: 742
+7: Tango: 738
+8: Welsknight: 427
+9: iJevin: 290
+10: Grian: 280
+11: joehillssays: 244
+12: falsesymmetry: 236
+13: Docm77: 129
+14: Stressmonster101: 123
+15: Tinfoilchef: 90
+16: impulseSV: 81
+17: Zedaph: 59
+18: ZombieCleo: 56
+19: Biffa2001: 42
+20: BdoubleO100: 38
+21: PythonGB: 37
+22: Keralis1: 29
+23: xBCrafted: 15
+24: HumanCleo: 9
+25: Jessassin: 4
+26: EvilXisuma: 1
+Total 8534

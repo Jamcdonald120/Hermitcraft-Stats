@@ -1,0 +1,11 @@
+minecraft.dropped.tipped_arrow
+1: falsesymmetry: 74
+2: MumboJumbo: 64
+3: Xisuma: 6
+4: Stressmonster101: 6
+5: iskall85: 4
+6: Tango: 2
+7: Zedaph: 2
+8: iJevin: 1
+9: cubfan135: 1
+Total 160

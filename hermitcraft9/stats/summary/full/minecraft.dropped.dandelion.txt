@@ -1,0 +1,29 @@
+minecraft.dropped.dandelion
+1: GoodTimeWithScar: 487
+2: iJevin: 305
+3: Etho: 270
+4: Grian: 238
+5: impulseSV: 131
+6: Renthedog: 122
+7: falsesymmetry: 93
+8: RentheKing: 81
+9: Docm77: 68
+10: BdoubleO100: 68
+11: Mumbo: 64
+12: Tango: 48
+13: Zedaph: 48
+14: PearlescentMoon: 29
+15: Keralis1: 21
+16: Stressmonster101: 13
+17: xBCrafted: 11
+18: Pixlriffs: 8
+19: GeminiTay: 5
+20: Xisuma: 4
+21: ZombieCleo: 4
+22: joehillssays: 3
+23: MumboJumbo: 3
+24: MythicalSausage: 2
+25: cubfan135: 2
+26: VintageBeef: 1
+27: hypnotizd: 1
+Total 2130

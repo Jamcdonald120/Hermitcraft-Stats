@@ -1,0 +1,22 @@
+minecraft.mined.bookshelf
+1: PearlescentMoon: 1260
+2: Xisuma: 1000
+3: GoodTimeWithScar: 769
+4: Keralis1: 721
+5: iJevin: 713
+6: Grian: 532
+7: Stressmonster101: 206
+8: Zedaph: 147
+9: Tango: 116
+10: cubfan135: 73
+11: Welsknight: 57
+12: xBCrafted: 38
+13: iskall85: 26
+14: GeminiTay: 24
+15: Etho: 23
+16: falsesymmetry: 20
+17: joehillssays: 18
+18: hypnotizd: 17
+19: Renthedog: 3
+20: MumboJumbo: 3
+Total 5766

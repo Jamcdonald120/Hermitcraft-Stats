@@ -1,0 +1,20 @@
+minecraft.picked_up.packed_ice
+1: cubfan135: 8981
+2: Etho: 4183
+3: iJevin: 1756
+4: Grian: 1477
+5: Docm77: 1174
+6: PearlescentMoon: 825
+7: ZombieCleo: 786
+8: xBCrafted: 544
+9: hypnotizd: 482
+10: Renthedog: 445
+11: Welsknight: 325
+12: impulseSV: 242
+13: Tango: 167
+14: GoodTimeWithScar: 118
+15: Xisuma: 103
+16: Zedaph: 35
+17: MumboJumbo: 32
+18: iskall85: 12
+Total 21687

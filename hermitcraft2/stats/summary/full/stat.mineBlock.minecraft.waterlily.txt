@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.waterlily
+1: Tango: 95
+2: ZombieCleo: 48
+3: Xisuma: 25
+4: falsesymmetry: 3
+5: Spumwackles: 1
+Total 172

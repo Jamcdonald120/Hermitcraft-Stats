@@ -1,0 +1,20 @@
+minecraft.crafted.black_concrete_powder
+1: impulseSV: 12112
+2: Grian: 10826
+3: Renthedog: 5840
+4: GoodTimeWithScar: 2776
+5: iJevin: 2760
+6: VintageBeef: 2600
+7: Tango: 1680
+8: Welsknight: 1544
+9: Docm77: 688
+10: Keralis1: 424
+11: ZombieCleo: 360
+12: falsesymmetry: 352
+13: xBCrafted: 128
+14: PearlescentMoon: 72
+15: Zedaph: 24
+16: Xisuma: 16
+17: iskall85: 8
+18: cubfan135: 8
+Total 42218

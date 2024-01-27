@@ -1,0 +1,24 @@
+minecraft.crafted.yellow_shulker_box
+1: iskall85: 147
+2: GoodTimeWithScar: 72
+3: MumboJumbo: 71
+4: Keralis1: 30
+5: cubfan135: 12
+6: Xisuma: 11
+7: Grian: 4
+8: falsesymmetry: 4
+9: Etho: 4
+10: Tango: 3
+11: impulseSV: 3
+12: Renthedog: 2
+13: iJevin: 2
+14: Welsknight: 2
+15: Docm77: 1
+16: VintageBeef: 1
+17: joehillssays: 1
+18: BdoubleO100: 1
+19: ZombieCleo: 1
+20: hypnotizd: 1
+21: Stressmonster101: 1
+22: Zedaph: 1
+Total 375

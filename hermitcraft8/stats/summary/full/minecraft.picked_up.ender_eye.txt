@@ -1,0 +1,7 @@
+minecraft.picked_up.ender_eye
+1: MumboJumbo: 35
+2: Grian: 30
+3: Etho: 5
+4: cubfan135: 2
+5: Tango: 1
+Total 73

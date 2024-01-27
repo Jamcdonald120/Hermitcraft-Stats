@@ -1,0 +1,14 @@
+minecraft.picked_up.brown_terracotta
+1: GoodTimeWithScar: 5293
+2: Etho: 5149
+3: hypnotizd: 3649
+4: Tango: 3438
+5: falsesymmetry: 919
+6: PearlescentMoon: 654
+7: xBCrafted: 320
+8: cubfan135: 219
+9: impulseSV: 174
+10: Grian: 87
+11: BdoubleO100: 5
+12: Xisuma: 2
+Total 19909

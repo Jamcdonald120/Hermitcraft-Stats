@@ -1,0 +1,37 @@
+minecraft.picked_up.iron_nugget
+1: Tango: 22765
+2: PearlescentMoon: 7788
+3: cubfan135: 7138
+4: Etho: 6992
+5: iJevin: 4724
+6: GoodTimeWithScar: 4222
+7: Docm77: 3720
+8: hypnotizd: 3720
+9: GeminiTay: 3660
+10: Keralis1: 2962
+11: Xisuma: 2663
+12: joehillssays: 2279
+13: Grian: 1665
+14: iskall85: 1503
+15: falsesymmetry: 1275
+16: Zedaph: 1071
+17: Renthedog: 1025
+18: impulseSV: 910
+19: ZombieCleo: 775
+20: BdoubleO100: 671
+21: xBCrafted: 243
+22: VintageBeef: 160
+23: InTheLittleWood: 64
+24: Smallishbeans: 56
+25: Minerva246: 54
+26: Mumbo: 51
+27: Stressmonster101: 38
+28: HBomb94: 35
+29: LDShadowLady: 25
+30: Welsknight: 25
+31: SolidarityGaming: 24
+32: Skizzleman: 16
+33: Pixlriffs: 8
+34: MythicalSausage: 7
+35: RentheKing: 1
+Total 82335

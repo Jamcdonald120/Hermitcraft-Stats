@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.nether_brick
+1: Tango: 6266
+2: zueljin: 5513
+3: falsesymmetry: 4194
+4: impulseSV: 3929
+5: xBCrafted: 2507
+6: Spumwackles: 489
+7: Etho: 484
+8: Tinfoilchef: 333
+9: ZombieCleo: 249
+10: Mumbo: 242
+11: Xisuma: 232
+12: joehillssays: 98
+13: Biffa2001: 26
+14: monkeyfarm: 9
+15: iJevin: 2
+Total 24573

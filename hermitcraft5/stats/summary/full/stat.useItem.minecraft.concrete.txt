@@ -1,0 +1,26 @@
+stat.useItem.minecraft.concrete
+1: Renthedog: 113864
+2: cubfan135: 82780
+3: iskall85: 65021
+4: GoodTimeWithScar: 59939
+5: falsesymmetry: 52855
+6: impulseSV: 35626
+7: Welsknight: 15987
+8: MumboJumbo: 14367
+9: PythonGB: 12150
+10: Xisuma: 10222
+11: Tango: 7920
+12: Stressmonster101: 2387
+13: Tinfoilchef: 1745
+14: Zedaph: 1741
+15: Docm77: 1524
+16: ZombieCleo: 1037
+17: xBCrafted: 652
+18: VintageBeef: 464
+19: Biffa2001: 251
+20: iJevin: 217
+21: joehillssays: 160
+22: BdoubleO100: 140
+23: ImpulseCam: 3
+24: Etho: 3
+Total 481055

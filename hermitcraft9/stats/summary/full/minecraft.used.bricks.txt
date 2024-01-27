@@ -1,0 +1,23 @@
+minecraft.used.bricks
+1: falsesymmetry: 7550
+2: Renthedog: 1566
+3: impulseSV: 1126
+4: cubfan135: 1110
+5: joehillssays: 596
+6: Keralis1: 380
+7: Etho: 295
+8: iJevin: 222
+9: BdoubleO100: 191
+10: PearlescentMoon: 151
+11: iskall85: 87
+12: GeminiTay: 74
+13: Xisuma: 48
+14: ZombieCleo: 47
+15: xBCrafted: 44
+16: Grian: 22
+17: MythicalSausage: 16
+18: GoodTimeWithScar: 10
+19: Docm77: 8
+20: Pixlriffs: 6
+21: Tango: 2
+Total 13551

@@ -1,0 +1,19 @@
+minecraft.picked_up.sandstone_wall
+1: cubfan135: 1486
+2: joehillssays: 856
+3: VintageBeef: 356
+4: Xisuma: 281
+5: BdoubleO100: 150
+6: Keralis1: 87
+7: Zedaph: 85
+8: Welsknight: 71
+9: Renthedog: 58
+10: GoodTimeWithScar: 58
+11: Tango: 25
+12: impulseSV: 18
+13: Etho: 10
+14: Grian: 5
+15: iskall85: 1
+16: falsesymmetry: 1
+17: ZombieCleo: 1
+Total 3549

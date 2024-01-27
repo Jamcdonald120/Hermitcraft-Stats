@@ -1,0 +1,4 @@
+stat.drop.minecraft.dark_oak_fence
+1: falsesymmetry: 63
+2: Xisuma: 1
+Total 64

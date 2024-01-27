@@ -1,0 +1,6 @@
+minecraft.crafted.green_banner
+1: GoodTimeWithScar: 94
+2: Keralis1: 35
+3: BdoubleO100: 33
+4: Etho: 2
+Total 164

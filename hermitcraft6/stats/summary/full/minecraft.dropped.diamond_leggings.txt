@@ -1,0 +1,18 @@
+minecraft.dropped.diamond_leggings
+1: iskall85: 20
+2: Tango: 13
+3: Grian: 11
+4: Xisuma: 10
+5: cubfan135: 9
+6: Zedaph: 9
+7: Docm77: 5
+8: Renthedog: 5
+9: impulseSV: 5
+10: falsesymmetry: 4
+11: MumboJumbo: 4
+12: GoodTimeWithScar: 4
+13: EvilXisuma: 1
+14: iJevin: 1
+15: PythonCam: 1
+16: Stressmonster101: 1
+Total 103

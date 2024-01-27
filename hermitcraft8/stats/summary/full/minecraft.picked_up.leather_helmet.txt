@@ -1,0 +1,23 @@
+minecraft.picked_up.leather_helmet
+1: Xisuma: 51
+2: Tango: 47
+3: PearlescentMoon: 13
+4: iskall85: 11
+5: Etho: 10
+6: Grian: 9
+7: falsesymmetry: 9
+8: hypnotizd: 9
+9: impulseSV: 9
+10: cubfan135: 8
+11: Docm77: 7
+12: iJevin: 6
+13: GoodTimeWithScar: 6
+14: Renthedog: 4
+15: Welsknight: 4
+16: joehillssays: 2
+17: BdoubleO100: 2
+18: xBCrafted: 2
+19: Stressmonster101: 2
+20: Keralis1: 2
+21: VintageBeef: 1
+Total 214

@@ -1,0 +1,10 @@
+minecraft.dropped.damaged_anvil
+1: Docm77: 5
+2: Renthedog: 3
+3: Xisuma: 2
+4: GoodTimeWithScar: 2
+5: iJevin: 1
+6: Tango: 1
+7: BdoubleO100: 1
+8: Etho: 1
+Total 16

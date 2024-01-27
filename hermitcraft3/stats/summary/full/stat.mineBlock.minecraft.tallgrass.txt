@@ -1,0 +1,29 @@
+stat.mineBlock.minecraft.tallgrass
+1: falsesymmetry: 11141
+2: xBCrafted: 5898
+3: Xisuma: 4417
+4: sl1pg8r: 2669
+5: zueljin: 2042
+6: impulseSV: 2013
+7: Tango: 1827
+8: ZombieCleo: 1795
+9: monkeyfarm: 1427
+10: Biffa2001: 761
+11: Tinfoilchef: 707
+12: Mumbo: 637
+13: topmass: 470
+14: skyzm: 371
+15: Spumwackles: 229
+16: Pungence: 220
+17: PythonGB: 173
+18: Etho: 167
+19: iJevin: 136
+20: hypnotizd: 133
+21: joehillssays: 99
+22: Docm77: 92
+23: Keralis1: 78
+24: KingDaddyDMAC: 59
+25: NameOfSamuel: 53
+26: Mrs_Keralis: 21
+27: Collen: 9
+Total 37644

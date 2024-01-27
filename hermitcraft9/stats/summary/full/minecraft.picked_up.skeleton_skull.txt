@@ -1,0 +1,9 @@
+minecraft.picked_up.skeleton_skull
+1: cubfan135: 13
+2: PearlescentMoon: 12
+3: Tango: 9
+4: iJevin: 5
+5: BdoubleO100: 4
+6: Renthedog: 2
+7: Zedaph: 1
+Total 46

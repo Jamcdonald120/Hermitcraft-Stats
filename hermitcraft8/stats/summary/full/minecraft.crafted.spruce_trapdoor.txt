@@ -1,0 +1,26 @@
+minecraft.crafted.spruce_trapdoor
+1: GoodTimeWithScar: 2884
+2: Xisuma: 2164
+3: Grian: 1688
+4: Renthedog: 1283
+5: PearlescentMoon: 968
+6: Tango: 834
+7: BdoubleO100: 558
+8: GeminiTay: 496
+9: impulseSV: 474
+10: Keralis1: 410
+11: Etho: 376
+12: xBCrafted: 330
+13: iskall85: 242
+14: ZombieCleo: 144
+15: hypnotizd: 134
+16: falsesymmetry: 122
+17: Stressmonster101: 64
+18: VintageBeef: 40
+19: joehillssays: 40
+20: Welsknight: 40
+21: EvilXisuma: 16
+22: cubfan135: 4
+23: MumboJumbo: 4
+24: Zedaph: 4
+Total 13319

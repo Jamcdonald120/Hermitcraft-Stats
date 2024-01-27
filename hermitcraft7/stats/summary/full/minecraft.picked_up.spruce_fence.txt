@@ -1,0 +1,25 @@
+minecraft.picked_up.spruce_fence
+1: Zedaph: 3889
+2: BdoubleO100: 1778
+3: GoodTimeWithScar: 1271
+4: Grian: 958
+5: Renthedog: 659
+6: Etho: 550
+7: xBCrafted: 447
+8: Keralis1: 232
+9: Xisuma: 219
+10: Tango: 190
+11: Welsknight: 144
+12: impulseSV: 126
+13: iskall85: 123
+14: cubfan135: 102
+15: iJevin: 94
+16: VintageBeef: 62
+17: Stressmonster101: 35
+18: joehillssays: 31
+19: falsesymmetry: 28
+20: hypnotizd: 14
+21: MumboJumbo: 14
+22: Docm77: 13
+23: ZombieCleo: 11
+Total 10990

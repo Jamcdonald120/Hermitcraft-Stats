@@ -1,0 +1,23 @@
+minecraft.dropped.bread
+1: Tango: 19312
+2: impulseSV: 3288
+3: Keralis1: 2460
+4: iJevin: 2204
+5: Grian: 2062
+6: Zedaph: 1752
+7: xBCrafted: 918
+8: RentheKing: 680
+9: Etho: 461
+10: cubfan135: 439
+11: GeminiTay: 393
+12: Xisuma: 311
+13: joehillssays: 134
+14: Renthedog: 41
+15: VintageBeef: 41
+16: Docm77: 40
+17: hypnotizd: 18
+18: iskall85: 8
+19: Stressmonster101: 4
+20: falsesymmetry: 1
+21: ZombieCleo: 1
+Total 34568

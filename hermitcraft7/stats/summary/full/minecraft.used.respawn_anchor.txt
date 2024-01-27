@@ -1,0 +1,11 @@
+minecraft.used.respawn_anchor
+1: Etho: 127
+2: impulseSV: 99
+3: Tango: 71
+4: Grian: 32
+5: Docm77: 19
+6: Xisuma: 15
+7: cubfan135: 13
+8: joehillssays: 1
+9: iskall85: 1
+Total 378

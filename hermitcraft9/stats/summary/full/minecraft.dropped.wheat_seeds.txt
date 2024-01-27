@@ -1,0 +1,35 @@
+minecraft.dropped.wheat_seeds
+1: GoodTimeWithScar: 12905
+2: Tango: 11460
+3: VintageBeef: 9813
+4: ZombieCleo: 7025
+5: Keralis1: 6180
+6: impulseSV: 3635
+7: Xisuma: 3369
+8: hypnotizd: 2884
+9: cubfan135: 2621
+10: iJevin: 2424
+11: Grian: 2359
+12: xBCrafted: 2233
+13: Etho: 1989
+14: Zedaph: 1713
+15: Docm77: 1452
+16: RentheKing: 993
+17: Renthedog: 965
+18: BdoubleO100: 825
+19: falsesymmetry: 809
+20: PearlescentMoon: 704
+21: xisumavoid: 640
+22: iskall85: 471
+23: Mumbo: 404
+24: joehillssays: 283
+25: GeminiTay: 236
+26: Stressmonster101: 159
+27: MythicalSausage: 64
+28: Pixlriffs: 58
+29: MumboJumbo: 33
+30: Welsknight: 8
+31: ShubbleYT: 7
+32: OrionSound: 2
+33: Smallishbeans: 2
+Total 78725

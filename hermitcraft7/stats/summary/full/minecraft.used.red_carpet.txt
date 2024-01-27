@@ -1,0 +1,25 @@
+minecraft.used.red_carpet
+1: VintageBeef: 6998
+2: Tango: 4741
+3: cubfan135: 4146
+4: Xisuma: 1237
+5: falsesymmetry: 945
+6: joehillssays: 845
+7: BdoubleO100: 821
+8: Stressmonster101: 415
+9: Renthedog: 383
+10: hypnotizd: 173
+11: iskall85: 157
+12: MumboJumbo: 133
+13: xBCrafted: 102
+14: GoodTimeWithScar: 88
+15: Zedaph: 74
+16: Keralis1: 65
+17: Docm77: 55
+18: Grian: 42
+19: ZombieCleo: 32
+20: iJevin: 26
+21: Welsknight: 24
+22: impulseSV: 8
+23: Etho: 4
+Total 21514

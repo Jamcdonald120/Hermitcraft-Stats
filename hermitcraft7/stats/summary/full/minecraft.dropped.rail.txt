@@ -1,0 +1,25 @@
+minecraft.dropped.rail
+1: Grian: 1983
+2: Zedaph: 1039
+3: Tango: 671
+4: impulseSV: 471
+5: GoodTimeWithScar: 228
+6: iskall85: 222
+7: xBCrafted: 146
+8: Stressmonster101: 139
+9: MumboJumbo: 113
+10: Keralis1: 110
+11: iJevin: 95
+12: falsesymmetry: 84
+13: xisumavoid: 64
+14: Renthedog: 63
+15: Etho: 61
+16: Xisuma: 58
+17: cubfan135: 34
+18: hypnotizd: 27
+19: VintageBeef: 21
+20: BdoubleO100: 13
+21: Docm77: 9
+22: joehillssays: 8
+23: Welsknight: 1
+Total 5660

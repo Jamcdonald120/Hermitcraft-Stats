@@ -1,0 +1,28 @@
+stat.mobKills
+1: Xisuma: 1125671
+2: GoodTimeWithScar: 331778
+3: Renthedog: 157564
+4: cubfan135: 90972
+5: iskall85: 86042
+6: falsesymmetry: 71297
+7: Tinfoilchef: 57945
+8: Tango: 48387
+9: iJevin: 44291
+10: impulseSV: 32238
+11: joehillssays: 32104
+12: MumboJumbo: 31097
+13: Welsknight: 26086
+14: Biffa2001: 21784
+15: PythonGB: 20539
+16: Etho: 17127
+17: Docm77: 11808
+18: ZombieCleo: 6202
+19: VintageBeef: 2069
+20: Mumbo: 988
+21: xBCrafted: 926
+22: Jessassin: 477
+23: zueljin: 99
+24: hypnotizd: 6
+25: WellsGlazes: 2
+26: monkeyfarm: 2
+Total 2217501

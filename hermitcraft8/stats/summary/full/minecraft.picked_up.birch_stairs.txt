@@ -1,0 +1,20 @@
+minecraft.picked_up.birch_stairs
+1: impulseSV: 53
+2: Renthedog: 51
+3: GeminiTay: 49
+4: Etho: 26
+5: Keralis1: 22
+6: iJevin: 21
+7: joehillssays: 14
+8: PearlescentMoon: 14
+9: MumboJumbo: 9
+10: Welsknight: 4
+11: xBCrafted: 3
+12: falsesymmetry: 3
+13: Docm77: 2
+14: Xisuma: 2
+15: Grian: 1
+16: BdoubleO100: 1
+17: hypnotizd: 1
+18: GoodTimeWithScar: 1
+Total 277

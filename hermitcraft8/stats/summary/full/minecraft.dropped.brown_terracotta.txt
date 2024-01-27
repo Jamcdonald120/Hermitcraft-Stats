@@ -1,0 +1,7 @@
+minecraft.dropped.brown_terracotta
+1: Etho: 493
+2: hypnotizd: 254
+3: falsesymmetry: 64
+4: Tango: 61
+5: BdoubleO100: 1
+Total 873

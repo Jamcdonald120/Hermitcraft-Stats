@@ -1,0 +1,20 @@
+minecraft.dropped.iron_axe
+1: GoodTimeWithScar: 128
+2: Grian: 73
+3: iJevin: 72
+4: Tango: 9
+5: PearlescentMoon: 6
+6: Etho: 6
+7: Zedaph: 6
+8: Stressmonster101: 3
+9: iskall85: 2
+10: hypnotizd: 2
+11: Xisuma: 1
+12: Renthedog: 1
+13: VintageBeef: 1
+14: xBCrafted: 1
+15: falsesymmetry: 1
+16: MumboJumbo: 1
+17: Keralis1: 1
+18: impulseSV: 1
+Total 315

@@ -1,0 +1,10 @@
+minecraft.crafted.knowledge_book
+1: Xisuma: 4
+2: cubfan135: 2
+3: Biffa2001: 2
+4: GoodTimeWithScar: 2
+5: Zedaph: 2
+6: iJevin: 1
+7: ZombieCleo: 1
+8: impulseSV: 1
+Total 15

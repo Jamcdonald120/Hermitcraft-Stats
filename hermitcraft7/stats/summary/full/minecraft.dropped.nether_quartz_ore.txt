@@ -1,0 +1,20 @@
+minecraft.dropped.nether_quartz_ore
+1: cubfan135: 454
+2: GoodTimeWithScar: 280
+3: Zedaph: 150
+4: iJevin: 133
+5: iskall85: 60
+6: Renthedog: 58
+7: hypnotizd: 42
+8: xBCrafted: 41
+9: MumboJumbo: 31
+10: Grian: 28
+11: Tango: 16
+12: Xisuma: 14
+13: impulseSV: 11
+14: VintageBeef: 7
+15: falsesymmetry: 6
+16: Keralis1: 6
+17: Etho: 3
+18: Stressmonster101: 2
+Total 1342

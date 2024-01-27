@@ -1,0 +1,24 @@
+minecraft.dropped.potato
+1: MumboJumbo: 39883
+2: Zedaph: 9369
+3: GoodTimeWithScar: 1917
+4: Grian: 1500
+5: Tango: 807
+6: xBCrafted: 538
+7: PearlescentMoon: 485
+8: impulseSV: 297
+9: Xisuma: 157
+10: iJevin: 57
+11: cubfan135: 29
+12: GeminiTay: 22
+13: Welsknight: 15
+14: iskall85: 10
+15: BdoubleO100: 5
+16: Etho: 5
+17: hypnotizd: 5
+18: Renthedog: 4
+19: ZombieCleo: 2
+20: Docm77: 1
+21: VintageBeef: 1
+22: joehillssays: 1
+Total 55110

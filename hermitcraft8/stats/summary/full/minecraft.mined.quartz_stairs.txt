@@ -1,0 +1,16 @@
+minecraft.mined.quartz_stairs
+1: VintageBeef: 91
+2: Keralis1: 56
+3: PearlescentMoon: 20
+4: Tango: 19
+5: impulseSV: 19
+6: Grian: 15
+7: Renthedog: 12
+8: Welsknight: 12
+9: Xisuma: 5
+10: GoodTimeWithScar: 3
+11: Docm77: 2
+12: MumboJumbo: 2
+13: hypnotizd: 1
+14: Zedaph: 1
+Total 258

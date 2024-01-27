@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.coal
+1: GoodTimeWithScar: 7294
+2: Tinfoilchef: 7170
+3: Renthedog: 5067
+4: Welsknight: 3905
+5: iskall85: 2788
+6: joehillssays: 2559
+7: Xisuma: 2061
+8: ZombieCleo: 1982
+9: cubfan135: 1652
+10: falsesymmetry: 1090
+11: Tango: 961
+12: PythonGB: 501
+13: Biffa2001: 450
+14: Etho: 210
+15: MumboJumbo: 153
+16: impulseSV: 148
+17: Mumbo: 48
+18: Docm77: 34
+19: Jessassin: 34
+20: xBCrafted: 17
+21: zueljin: 9
+22: iJevin: 2
+Total 38135

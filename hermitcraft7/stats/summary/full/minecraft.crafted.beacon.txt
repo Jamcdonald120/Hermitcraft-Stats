@@ -1,0 +1,19 @@
+minecraft.crafted.beacon
+1: impulseSV: 327
+2: Etho: 89
+3: xBCrafted: 45
+4: Keralis1: 8
+5: cubfan135: 7
+6: iJevin: 5
+7: Tango: 5
+8: falsesymmetry: 2
+9: Xisuma: 1
+10: Grian: 1
+11: iskall85: 1
+12: Welsknight: 1
+13: hypnotizd: 1
+14: MumboJumbo: 1
+15: GoodTimeWithScar: 1
+16: Stressmonster101: 1
+17: Zedaph: 1
+Total 497

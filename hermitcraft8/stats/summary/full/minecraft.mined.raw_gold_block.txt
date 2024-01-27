@@ -1,0 +1,9 @@
+minecraft.mined.raw_gold_block
+1: Etho: 23
+2: cubfan135: 20
+3: impulseSV: 9
+4: GeminiTay: 3
+5: iJevin: 1
+6: joehillssays: 1
+7: BdoubleO100: 1
+Total 58

@@ -1,0 +1,17 @@
+minecraft.picked_up.dark_oak_door
+1: Renthedog: 192
+2: BdoubleO100: 87
+3: joehillssays: 40
+4: Keralis1: 36
+5: GoodTimeWithScar: 19
+6: cubfan135: 17
+7: VintageBeef: 16
+8: impulseSV: 16
+9: xBCrafted: 12
+10: Grian: 11
+11: Xisuma: 8
+12: Tango: 6
+13: Stressmonster101: 5
+14: iskall85: 4
+15: MumboJumbo: 1
+Total 470

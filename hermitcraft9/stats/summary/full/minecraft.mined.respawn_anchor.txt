@@ -1,0 +1,10 @@
+minecraft.mined.respawn_anchor
+1: RentheKing: 27
+2: cubfan135: 5
+3: impulseSV: 3
+4: iJevin: 2
+5: joehillssays: 2
+6: Zedaph: 2
+7: Xisuma: 1
+8: GoodTimeWithScar: 1
+Total 43

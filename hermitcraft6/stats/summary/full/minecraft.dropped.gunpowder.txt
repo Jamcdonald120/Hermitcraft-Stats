@@ -1,0 +1,24 @@
+minecraft.dropped.gunpowder
+1: iskall85: 2214
+2: GoodTimeWithScar: 1444
+3: Tango: 1171
+4: MumboJumbo: 1000
+5: Xisuma: 566
+6: Renthedog: 481
+7: Zedaph: 477
+8: Grian: 442
+9: cubfan135: 287
+10: Docm77: 218
+11: iJevin: 215
+12: impulseSV: 155
+13: falsesymmetry: 103
+14: Stressmonster101: 60
+15: BdoubleO100: 40
+16: Keralis1: 30
+17: xBCrafted: 28
+18: PythonGB: 26
+19: Welsknight: 20
+20: joehillssays: 4
+21: Tinfoilchef: 4
+22: Biffa2001: 1
+Total 8986

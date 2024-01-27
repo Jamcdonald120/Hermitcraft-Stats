@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.golden_pickaxe
+1: KingDaddyDMAC: 3
+2: Tinfoilchef: 1
+Total 4

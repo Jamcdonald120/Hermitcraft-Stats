@@ -1,0 +1,9 @@
+stat.drop.minecraft.spruce_boat
+1: Tango: 30
+2: Etho: 4
+3: Xisuma: 2
+4: falsesymmetry: 2
+5: Renthedog: 1
+6: iskall85: 1
+7: MumboJumbo: 1
+Total 41

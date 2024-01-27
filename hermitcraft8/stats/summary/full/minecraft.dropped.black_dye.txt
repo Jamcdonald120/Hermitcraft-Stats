@@ -1,0 +1,9 @@
+minecraft.dropped.black_dye
+1: impulseSV: 104
+2: Grian: 69
+3: Renthedog: 8
+4: Keralis1: 8
+5: Zedaph: 6
+6: Docm77: 4
+7: Etho: 4
+Total 203

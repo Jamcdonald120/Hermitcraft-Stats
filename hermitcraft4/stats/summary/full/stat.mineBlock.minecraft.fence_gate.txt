@@ -1,0 +1,16 @@
+stat.mineBlock.minecraft.fence_gate
+1: GoodTimeWithScar: 119
+2: falsesymmetry: 56
+3: joehillssays: 39
+4: Xisuma: 14
+5: Tango: 14
+6: iJevin: 10
+7: iskall85: 9
+8: impulseSV: 9
+9: cubfan135: 7
+10: Tinfoilchef: 5
+11: VintageBeef: 2
+12: Jessassin: 1
+13: Welsknight: 1
+14: ZombieCleo: 1
+Total 287

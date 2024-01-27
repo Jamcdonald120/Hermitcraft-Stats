@@ -1,0 +1,14 @@
+minecraft.crafted.red_wool
+1: Tango: 747
+2: Xisuma: 65
+3: Keralis1: 64
+4: Renthedog: 44
+5: xBCrafted: 32
+6: MumboJumbo: 30
+7: Zedaph: 5
+8: VintageBeef: 3
+9: Welsknight: 2
+10: ZombieCleo: 2
+11: impulseSV: 2
+12: iJevin: 1
+Total 997

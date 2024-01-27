@@ -1,0 +1,21 @@
+minecraft.picked_up.melon
+1: Docm77: 7990
+2: iskall85: 2053
+3: Grian: 1841
+4: Stressmonster101: 954
+5: GoodTimeWithScar: 699
+6: Keralis1: 596
+7: Etho: 549
+8: cubfan135: 328
+9: Zedaph: 220
+10: Tango: 130
+11: iJevin: 97
+12: Renthedog: 69
+13: Xisuma: 37
+14: VintageBeef: 17
+15: joehillssays: 12
+16: xBCrafted: 12
+17: impulseSV: 5
+18: hypnotizd: 1
+19: MumboJumbo: 1
+Total 15611

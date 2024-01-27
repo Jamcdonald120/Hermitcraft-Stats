@@ -1,0 +1,22 @@
+minecraft.used.mushroom_stem
+1: VintageBeef: 11326
+2: RentheKing: 6915
+3: GoodTimeWithScar: 4254
+4: Docm77: 1593
+5: Renthedog: 732
+6: cubfan135: 728
+7: Smajor1995: 404
+8: Xisuma: 398
+9: PearlescentMoon: 374
+10: Stressmonster101: 291
+11: Tango: 241
+12: BdoubleO100: 188
+13: Zedaph: 141
+14: xBCrafted: 43
+15: joehillssays: 32
+16: impulseSV: 21
+17: Keralis1: 20
+18: fWhip: 19
+19: GeminiTay: 6
+20: MythicalSausage: 1
+Total 27727

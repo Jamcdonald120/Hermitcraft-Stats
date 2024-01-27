@@ -1,0 +1,23 @@
+minecraft.crafted.smooth_stone_slab
+1: falsesymmetry: 53628
+2: iskall85: 49811
+3: MumboJumbo: 43245
+4: Xisuma: 31132
+5: Tango: 30292
+6: cubfan135: 21018
+7: iJevin: 18654
+8: Docm77: 17838
+9: impulseSV: 15080
+10: GoodTimeWithScar: 11212
+11: Renthedog: 6856
+12: Welsknight: 4362
+13: Tinfoilchef: 3258
+14: Zedaph: 2977
+15: ZombieCleo: 2696
+16: PythonGB: 1890
+17: joehillssays: 1160
+18: Stressmonster101: 942
+19: Grian: 600
+20: HumanCleo: 194
+21: BdoubleO100: 6
+Total 316851

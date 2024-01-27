@@ -1,0 +1,22 @@
+stat.breakItem.minecraft.stone_pickaxe
+1: joehillssays: 27
+2: zueljin: 20
+3: Tinfoilchef: 19
+4: Mumbo: 4
+5: Collen: 4
+6: KingDaddyDMAC: 3
+7: NameOfSamuel: 3
+8: sl1pg8r: 2
+9: Xisuma: 2
+10: iJevin: 2
+11: xBCrafted: 2
+12: falsesymmetry: 2
+13: ZombieCleo: 2
+14: monkeyfarm: 2
+15: topmass: 1
+16: Tango: 1
+17: Pungence: 1
+18: Biffa2001: 1
+19: Spumwackles: 1
+20: Keralis1: 1
+Total 100

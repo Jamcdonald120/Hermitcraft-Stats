@@ -1,0 +1,19 @@
+stat.drop.minecraft.iron_bars
+1: MumboJumbo: 1036
+2: Tango: 430
+3: cubfan135: 154
+4: Xisuma: 144
+5: GoodTimeWithScar: 123
+6: xBCrafted: 90
+7: impulseSV: 83
+8: Zedaph: 30
+9: Renthedog: 27
+10: iJevin: 16
+11: BdoubleO100: 15
+12: falsesymmetry: 15
+13: Docm77: 7
+14: VintageBeef: 5
+15: Tinfoilchef: 3
+16: iskall85: 2
+17: Stressmonster101: 2
+Total 2182

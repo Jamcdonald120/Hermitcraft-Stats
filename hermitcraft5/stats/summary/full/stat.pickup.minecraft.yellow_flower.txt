@@ -1,0 +1,25 @@
+stat.pickup.minecraft.yellow_flower
+1: cubfan135: 1370
+2: MumboJumbo: 547
+3: GoodTimeWithScar: 529
+4: joehillssays: 525
+5: falsesymmetry: 421
+6: Xisuma: 402
+7: xBCrafted: 231
+8: iJevin: 215
+9: Tinfoilchef: 159
+10: Welsknight: 130
+11: PythonGB: 114
+12: Renthedog: 88
+13: Zedaph: 84
+14: BdoubleO100: 83
+15: Stressmonster101: 81
+16: ZombieCleo: 66
+17: Tango: 61
+18: iskall85: 59
+19: Docm77: 35
+20: VintageBeef: 33
+21: impulseSV: 33
+22: Biffa2001: 13
+23: Etho: 8
+Total 5287

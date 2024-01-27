@@ -1,0 +1,24 @@
+minecraft.picked_up.netherite_axe
+1: Grian: 92
+2: GoodTimeWithScar: 76
+3: Renthedog: 46
+4: joehillssays: 43
+5: BdoubleO100: 40
+6: iskall85: 35
+7: Keralis1: 25
+8: iJevin: 24
+9: cubfan135: 24
+10: impulseSV: 24
+11: MumboJumbo: 21
+12: Docm77: 14
+13: Etho: 14
+14: Zedaph: 13
+15: ZombieCleo: 11
+16: hypnotizd: 10
+17: xBCrafted: 6
+18: Xisuma: 5
+19: Welsknight: 5
+20: Tango: 4
+21: falsesymmetry: 1
+22: Stressmonster101: 1
+Total 534

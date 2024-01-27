@@ -1,0 +1,23 @@
+minecraft.picked_up.emerald
+1: Grian: 3917
+2: iJevin: 3142
+3: GoodTimeWithScar: 1881
+4: Zedaph: 740
+5: Tango: 366
+6: cubfan135: 348
+7: PearlescentMoon: 324
+8: Welsknight: 322
+9: Xisuma: 320
+10: Keralis1: 239
+11: VintageBeef: 227
+12: MumboJumbo: 226
+13: iskall85: 126
+14: BdoubleO100: 110
+15: Etho: 96
+16: Stressmonster101: 46
+17: impulseSV: 40
+18: GeminiTay: 19
+19: falsesymmetry: 15
+20: joehillssays: 6
+21: hypnotizd: 1
+Total 12511

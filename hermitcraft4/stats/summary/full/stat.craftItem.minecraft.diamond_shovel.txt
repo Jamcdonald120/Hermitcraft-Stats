@@ -1,0 +1,22 @@
+stat.craftItem.minecraft.diamond_shovel
+1: GoodTimeWithScar: 52
+2: iskall85: 21
+3: MumboJumbo: 16
+4: Renthedog: 15
+5: joehillssays: 15
+6: iJevin: 11
+7: Tango: 10
+8: impulseSV: 10
+9: PythonGB: 6
+10: Tinfoilchef: 6
+11: Docm77: 5
+12: falsesymmetry: 5
+13: Welsknight: 4
+14: Xisuma: 3
+15: cubfan135: 3
+16: ZombieCleo: 3
+17: xBCrafted: 1
+18: Biffa2001: 1
+19: Etho: 1
+20: Mumbo: 1
+Total 189

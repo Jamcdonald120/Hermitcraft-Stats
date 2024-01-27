@@ -1,0 +1,5 @@
+stat.useItem.minecraft.chicken
+1: Xisuma: 2
+2: zueljin: 2
+3: topmass: 1
+Total 5

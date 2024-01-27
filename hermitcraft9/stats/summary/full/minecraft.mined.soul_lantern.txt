@@ -1,0 +1,20 @@
+minecraft.mined.soul_lantern
+1: Tango: 164
+2: cubfan135: 65
+3: Etho: 60
+4: PearlescentMoon: 46
+5: Xisuma: 42
+6: xBCrafted: 30
+7: Renthedog: 24
+8: impulseSV: 17
+9: GeminiTay: 15
+10: falsesymmetry: 12
+11: VintageBeef: 8
+12: GoodTimeWithScar: 8
+13: Mumbo: 5
+14: MythicalSausage: 4
+15: BdoubleO100: 2
+16: Smallishbeans: 1
+17: RentheKing: 1
+18: hypnotizd: 1
+Total 505

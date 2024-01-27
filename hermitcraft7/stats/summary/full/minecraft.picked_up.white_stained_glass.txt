@@ -1,0 +1,25 @@
+minecraft.picked_up.white_stained_glass
+1: joehillssays: 7804
+2: Xisuma: 1471
+3: impulseSV: 1291
+4: iskall85: 1158
+5: Renthedog: 931
+6: Stressmonster101: 581
+7: GoodTimeWithScar: 358
+8: falsesymmetry: 299
+9: Zedaph: 275
+10: Grian: 191
+11: Tango: 163
+12: xBCrafted: 109
+13: Docm77: 95
+14: BdoubleO100: 70
+15: Keralis1: 69
+16: VintageBeef: 39
+17: MumboJumbo: 35
+18: ZombieCleo: 20
+19: Etho: 15
+20: cubfan135: 9
+21: hypnotizd: 3
+22: Welsknight: 2
+23: iJevin: 1
+Total 14989

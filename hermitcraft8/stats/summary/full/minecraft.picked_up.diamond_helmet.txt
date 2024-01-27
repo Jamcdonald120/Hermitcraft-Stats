@@ -1,0 +1,25 @@
+minecraft.picked_up.diamond_helmet
+1: Grian: 34
+2: GoodTimeWithScar: 34
+3: Docm77: 23
+4: Xisuma: 21
+5: ZombieCleo: 21
+6: Keralis1: 21
+7: Tango: 17
+8: PearlescentMoon: 17
+9: impulseSV: 15
+10: joehillssays: 13
+11: Zedaph: 13
+12: GeminiTay: 11
+13: MumboJumbo: 11
+14: Renthedog: 9
+15: iJevin: 8
+16: iskall85: 7
+17: cubfan135: 7
+18: falsesymmetry: 5
+19: pillbugnine: 3
+20: xBCrafted: 2
+21: Etho: 2
+22: hypnotizd: 2
+23: VintageBeef: 1
+Total 297

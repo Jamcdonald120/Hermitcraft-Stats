@@ -1,0 +1,4 @@
+minecraft.dropped.brown_stained_glass_pane
+1: Etho: 30
+2: VintageBeef: 14
+Total 44

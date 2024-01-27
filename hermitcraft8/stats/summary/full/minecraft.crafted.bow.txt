@@ -1,0 +1,26 @@
+minecraft.crafted.bow
+1: cubfan135: 295
+2: Xisuma: 231
+3: falsesymmetry: 201
+4: Tango: 197
+5: impulseSV: 89
+6: Welsknight: 85
+7: GoodTimeWithScar: 61
+8: Renthedog: 57
+9: xBCrafted: 44
+10: GeminiTay: 40
+11: Keralis1: 34
+12: Docm77: 31
+13: joehillssays: 29
+14: Zedaph: 29
+15: Grian: 28
+16: iJevin: 27
+17: hypnotizd: 26
+18: MumboJumbo: 25
+19: PearlescentMoon: 13
+20: ZombieCleo: 10
+21: BdoubleO100: 8
+22: VintageBeef: 6
+23: Etho: 4
+24: Tinfoilchef: 2
+Total 1572

@@ -1,0 +1,23 @@
+minecraft.dropped.chest
+1: Renthedog: 416
+2: iskall85: 398
+3: Grian: 93
+4: PythonGB: 78
+5: Xisuma: 71
+6: Tango: 61
+7: falsesymmetry: 58
+8: Tinfoilchef: 48
+9: iJevin: 44
+10: GoodTimeWithScar: 39
+11: Zedaph: 34
+12: joehillssays: 27
+13: cubfan135: 24
+14: MumboJumbo: 23
+15: Stressmonster101: 21
+16: Docm77: 6
+17: impulseSV: 3
+18: Biffa2001: 2
+19: BdoubleO100: 1
+20: Welsknight: 1
+21: ZombieCleo: 1
+Total 1449

@@ -1,0 +1,8 @@
+minecraft.dropped.dark_oak_fence_gate
+1: falsesymmetry: 253
+2: GoodTimeWithScar: 57
+3: Keralis1: 6
+4: impulseSV: 6
+5: Renthedog: 2
+6: Stressmonster101: 1
+Total 325

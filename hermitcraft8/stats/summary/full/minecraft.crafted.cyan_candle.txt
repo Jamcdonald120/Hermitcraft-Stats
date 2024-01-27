@@ -1,0 +1,4 @@
+minecraft.crafted.cyan_candle
+1: ZombieCleo: 132
+2: cubfan135: 26
+Total 158

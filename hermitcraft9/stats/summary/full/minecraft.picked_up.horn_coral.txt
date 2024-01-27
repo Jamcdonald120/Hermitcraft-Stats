@@ -1,0 +1,19 @@
+minecraft.picked_up.horn_coral
+1: GoodTimeWithScar: 193
+2: ZombieCleo: 57
+3: joehillssays: 25
+4: iJevin: 18
+5: PearlescentMoon: 13
+6: impulseSV: 9
+7: Keralis1: 8
+8: Xisuma: 4
+9: falsesymmetry: 4
+10: Docm77: 3
+11: Renthedog: 2
+12: VintageBeef: 2
+13: GeminiTay: 2
+14: xBCrafted: 2
+15: cubfan135: 2
+16: Zedaph: 2
+17: Grian: 1
+Total 347

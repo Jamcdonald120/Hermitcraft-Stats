@@ -1,0 +1,10 @@
+minecraft.picked_up.netherite_scrap
+1: iJevin: 32
+2: Zedaph: 6
+3: BdoubleO100: 4
+4: cubfan135: 4
+5: GoodTimeWithScar: 4
+6: impulseSV: 4
+7: xBCrafted: 2
+8: Grian: 1
+Total 57

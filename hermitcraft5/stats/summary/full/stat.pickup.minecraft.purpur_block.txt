@@ -1,0 +1,20 @@
+stat.pickup.minecraft.purpur_block
+1: cubfan135: 587
+2: iskall85: 444
+3: Tango: 385
+4: Xisuma: 377
+5: impulseSV: 350
+6: Tinfoilchef: 337
+7: Renthedog: 259
+8: joehillssays: 231
+9: Zedaph: 181
+10: iJevin: 133
+11: MumboJumbo: 119
+12: falsesymmetry: 116
+13: GoodTimeWithScar: 92
+14: PythonGB: 50
+15: Welsknight: 11
+16: Biffa2001: 8
+17: Etho: 7
+18: xBCrafted: 5
+Total 3692

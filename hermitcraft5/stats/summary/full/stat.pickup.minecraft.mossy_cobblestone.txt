@@ -1,0 +1,25 @@
+stat.pickup.minecraft.mossy_cobblestone
+1: Welsknight: 2368
+2: PythonGB: 1363
+3: Xisuma: 874
+4: iskall85: 783
+5: GoodTimeWithScar: 573
+6: Tinfoilchef: 494
+7: Tango: 376
+8: Zedaph: 360
+9: xBCrafted: 304
+10: falsesymmetry: 300
+11: impulseSV: 277
+12: Docm77: 275
+13: VintageBeef: 247
+14: cubfan135: 233
+15: ZombieCleo: 168
+16: Stressmonster101: 159
+17: MumboJumbo: 150
+18: Renthedog: 139
+19: iJevin: 114
+20: Etho: 90
+21: BdoubleO100: 51
+22: Biffa2001: 28
+23: joehillssays: 1
+Total 9727

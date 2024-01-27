@@ -1,0 +1,16 @@
+minecraft.dropped.cobblestone_stairs
+1: falsesymmetry: 234
+2: iJevin: 74
+3: cubfan135: 42
+4: GoodTimeWithScar: 41
+5: Tango: 36
+6: Keralis1: 29
+7: xBCrafted: 26
+8: GeminiTay: 24
+9: Grian: 22
+10: Zedaph: 4
+11: Docm77: 3
+12: Xisuma: 2
+13: BdoubleO100: 2
+14: hypnotizd: 2
+Total 541

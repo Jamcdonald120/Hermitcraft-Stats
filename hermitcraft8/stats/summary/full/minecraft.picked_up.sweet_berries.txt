@@ -1,0 +1,23 @@
+minecraft.picked_up.sweet_berries
+1: MumboJumbo: 735
+2: GoodTimeWithScar: 470
+3: Xisuma: 419
+4: PearlescentMoon: 401
+5: cubfan135: 325
+6: Grian: 277
+7: BdoubleO100: 211
+8: Etho: 173
+9: Renthedog: 169
+10: Tango: 74
+11: VintageBeef: 62
+12: impulseSV: 61
+13: Zedaph: 60
+14: Welsknight: 56
+15: GeminiTay: 20
+16: ZombieCleo: 16
+17: Keralis1: 13
+18: iskall85: 10
+19: iJevin: 8
+20: joehillssays: 5
+21: Stressmonster101: 5
+Total 3570

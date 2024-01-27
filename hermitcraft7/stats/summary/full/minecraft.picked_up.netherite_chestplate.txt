@@ -1,0 +1,14 @@
+minecraft.picked_up.netherite_chestplate
+1: xBCrafted: 11
+2: VintageBeef: 7
+3: joehillssays: 6
+4: GoodTimeWithScar: 5
+5: Docm77: 3
+6: iskall85: 3
+7: Welsknight: 2
+8: Xisuma: 1
+9: Renthedog: 1
+10: iJevin: 1
+11: Etho: 1
+12: Keralis1: 1
+Total 42

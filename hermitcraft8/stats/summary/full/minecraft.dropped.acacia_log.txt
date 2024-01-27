@@ -1,0 +1,10 @@
+minecraft.dropped.acacia_log
+1: BdoubleO100: 160
+2: cubfan135: 74
+3: GoodTimeWithScar: 65
+4: PearlescentMoon: 36
+5: Renthedog: 22
+6: impulseSV: 10
+7: ZombieCleo: 2
+8: Keralis1: 2
+Total 371

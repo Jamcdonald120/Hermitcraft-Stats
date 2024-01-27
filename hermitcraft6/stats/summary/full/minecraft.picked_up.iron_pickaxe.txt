@@ -1,0 +1,25 @@
+minecraft.picked_up.iron_pickaxe
+1: iskall85: 28
+2: Tango: 21
+3: Docm77: 20
+4: joehillssays: 20
+5: PythonGB: 19
+6: Grian: 18
+7: GoodTimeWithScar: 17
+8: Keralis1: 15
+9: cubfan135: 11
+10: Stressmonster101: 11
+11: falsesymmetry: 10
+12: Tinfoilchef: 9
+13: ZombieCleo: 7
+14: Zedaph: 7
+15: iJevin: 4
+16: MumboJumbo: 3
+17: Xisuma: 2
+18: Renthedog: 2
+19: Welsknight: 2
+20: EvilXisuma: 1
+21: BdoubleO100: 1
+22: Biffa2001: 1
+23: impulseSV: 1
+Total 230

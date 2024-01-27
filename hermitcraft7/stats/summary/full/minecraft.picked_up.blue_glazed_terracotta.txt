@@ -1,0 +1,7 @@
+minecraft.picked_up.blue_glazed_terracotta
+1: impulseSV: 111
+2: VintageBeef: 16
+3: Xisuma: 11
+4: Etho: 3
+5: Keralis1: 1
+Total 142

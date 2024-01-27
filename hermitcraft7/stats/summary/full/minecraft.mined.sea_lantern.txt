@@ -1,0 +1,25 @@
+minecraft.mined.sea_lantern
+1: impulseSV: 6032
+2: iJevin: 1726
+3: cubfan135: 1275
+4: falsesymmetry: 742
+5: Keralis1: 510
+6: Xisuma: 387
+7: Renthedog: 261
+8: iskall85: 239
+9: Tango: 221
+10: hypnotizd: 199
+11: xBCrafted: 184
+12: Stressmonster101: 154
+13: Docm77: 143
+14: Grian: 138
+15: MumboJumbo: 124
+16: Zedaph: 117
+17: Etho: 108
+18: joehillssays: 74
+19: GoodTimeWithScar: 59
+20: ZombieCleo: 37
+21: VintageBeef: 32
+22: BdoubleO100: 26
+23: Welsknight: 20
+Total 12808

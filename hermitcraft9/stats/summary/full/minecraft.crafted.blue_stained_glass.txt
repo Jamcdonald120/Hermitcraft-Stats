@@ -1,0 +1,19 @@
+minecraft.crafted.blue_stained_glass
+1: Grian: 1728
+2: joehillssays: 1280
+3: falsesymmetry: 1280
+4: impulseSV: 512
+5: xBCrafted: 448
+6: Tango: 280
+7: GoodTimeWithScar: 232
+8: Etho: 136
+9: cubfan135: 112
+10: Renthedog: 96
+11: Xisuma: 88
+12: ZombieCleo: 64
+13: VintageBeef: 8
+14: GeminiTay: 8
+15: BdoubleO100: 8
+16: Keralis1: 8
+17: Zedaph: 8
+Total 6296

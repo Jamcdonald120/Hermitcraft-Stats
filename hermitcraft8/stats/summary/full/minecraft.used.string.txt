@@ -1,0 +1,27 @@
+minecraft.used.string
+1: PearlescentMoon: 19330
+2: GoodTimeWithScar: 2644
+3: Xisuma: 1746
+4: Grian: 1185
+5: MumboJumbo: 599
+6: impulseSV: 549
+7: cubfan135: 265
+8: BdoubleO100: 175
+9: iJevin: 146
+10: hypnotizd: 131
+11: falsesymmetry: 113
+12: Keralis1: 106
+13: joehillssays: 95
+14: Zedaph: 77
+15: Renthedog: 43
+16: Tango: 40
+17: Docm77: 27
+18: ZombieCleo: 26
+19: Welsknight: 18
+20: xBCrafted: 17
+21: Etho: 11
+22: VintageBeef: 10
+23: GeminiTay: 5
+24: iskall85: 2
+25: Stressmonster101: 1
+Total 27361

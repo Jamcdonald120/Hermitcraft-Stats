@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.mushroom_stew
+1: Zedaph: 22
+2: Tinfoilchef: 17
+3: falsesymmetry: 12
+4: joehillssays: 4
+5: Etho: 2
+Total 57

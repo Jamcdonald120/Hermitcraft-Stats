@@ -1,0 +1,16 @@
+minecraft.picked_up.pink_wool
+1: Xisuma: 5997
+2: GoodTimeWithScar: 354
+3: cubfan135: 264
+4: Renthedog: 152
+5: ZombieCleo: 106
+6: Grian: 99
+7: Biffa2001: 68
+8: falsesymmetry: 48
+9: Stressmonster101: 38
+10: Welsknight: 26
+11: iskall85: 13
+12: Tinfoilchef: 7
+13: iJevin: 2
+14: Keralis1: 2
+Total 7176

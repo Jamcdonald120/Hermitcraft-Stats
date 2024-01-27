@@ -1,0 +1,7 @@
+minecraft.dropped.anvil
+1: Grian: 90
+2: Xisuma: 7
+3: GoodTimeWithScar: 6
+4: impulseSV: 4
+5: Docm77: 1
+Total 108

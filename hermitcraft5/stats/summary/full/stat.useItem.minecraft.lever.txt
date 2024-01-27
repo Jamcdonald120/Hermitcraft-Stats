@@ -1,0 +1,25 @@
+stat.useItem.minecraft.lever
+1: cubfan135: 1537
+2: Tango: 870
+3: MumboJumbo: 752
+4: Docm77: 729
+5: impulseSV: 438
+6: Xisuma: 431
+7: Zedaph: 342
+8: Tinfoilchef: 173
+9: Welsknight: 161
+10: xBCrafted: 144
+11: ZombieCleo: 124
+12: falsesymmetry: 120
+13: GoodTimeWithScar: 84
+14: iJevin: 79
+15: PythonGB: 64
+16: iskall85: 44
+17: VintageBeef: 31
+18: Biffa2001: 24
+19: BdoubleO100: 18
+20: joehillssays: 8
+21: Stressmonster101: 7
+22: Etho: 3
+23: Renthedog: 2
+Total 6185

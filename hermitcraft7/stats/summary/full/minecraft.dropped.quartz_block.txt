@@ -1,0 +1,16 @@
+minecraft.dropped.quartz_block
+1: Zedaph: 2095
+2: Etho: 1796
+3: Grian: 977
+4: Xisuma: 768
+5: Tango: 628
+6: GoodTimeWithScar: 405
+7: Docm77: 194
+8: impulseSV: 77
+9: cubfan135: 67
+10: VintageBeef: 7
+11: Keralis1: 7
+12: iskall85: 6
+13: Renthedog: 4
+14: MumboJumbo: 4
+Total 7035

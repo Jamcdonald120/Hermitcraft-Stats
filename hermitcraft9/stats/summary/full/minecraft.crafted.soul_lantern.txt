@@ -1,0 +1,23 @@
+minecraft.crafted.soul_lantern
+1: impulseSV: 2016
+2: Etho: 850
+3: Tango: 632
+4: cubfan135: 212
+5: Xisuma: 183
+6: falsesymmetry: 159
+7: GoodTimeWithScar: 144
+8: Renthedog: 124
+9: xBCrafted: 93
+10: Mumbo: 83
+11: PearlescentMoon: 67
+12: Keralis1: 40
+13: RentheKing: 34
+14: Docm77: 31
+15: MythicalSausage: 30
+16: Smallishbeans: 23
+17: VintageBeef: 19
+18: fWhip: 11
+19: BdoubleO100: 8
+20: GeminiTay: 6
+21: Zedaph: 1
+Total 4766

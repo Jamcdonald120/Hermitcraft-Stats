@@ -1,0 +1,22 @@
+minecraft.picked_up.prismarine_shard
+1: Xisuma: 82582
+2: cubfan135: 53768
+3: iskall85: 51408
+4: GoodTimeWithScar: 29776
+5: Stressmonster101: 25731
+6: Renthedog: 8805
+7: MumboJumbo: 8683
+8: Welsknight: 7606
+9: Grian: 7352
+10: iJevin: 6092
+11: Tango: 5249
+12: Docm77: 5164
+13: falsesymmetry: 4962
+14: PythonGB: 3594
+15: xBCrafted: 1303
+16: impulseSV: 888
+17: joehillssays: 596
+18: Biffa2001: 256
+19: Zedaph: 216
+20: PythonCam: 5
+Total 304036

@@ -1,0 +1,23 @@
+minecraft.picked_up.glass_bottle
+1: Xisuma: 9099
+2: cubfan135: 2030
+3: impulseSV: 581
+4: iskall85: 373
+5: Etho: 305
+6: GoodTimeWithScar: 268
+7: Zedaph: 169
+8: iJevin: 151
+9: hypnotizd: 121
+10: Tango: 105
+11: Docm77: 71
+12: joehillssays: 53
+13: falsesymmetry: 44
+14: Grian: 27
+15: Welsknight: 25
+16: VintageBeef: 21
+17: Keralis1: 21
+18: Renthedog: 9
+19: BdoubleO100: 6
+20: MumboJumbo: 6
+21: ZombieCleo: 2
+Total 13487

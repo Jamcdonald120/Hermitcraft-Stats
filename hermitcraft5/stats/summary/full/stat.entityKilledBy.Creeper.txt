@@ -1,0 +1,20 @@
+stat.entityKilledBy.Creeper
+1: GoodTimeWithScar: 31
+2: Zedaph: 19
+3: iJevin: 7
+4: Renthedog: 6
+5: MumboJumbo: 6
+6: Docm77: 5
+7: Welsknight: 5
+8: Etho: 5
+9: Tango: 4
+10: ZombieCleo: 4
+11: PythonGB: 3
+12: joehillssays: 3
+13: cubfan135: 3
+14: BdoubleO100: 2
+15: Xisuma: 1
+16: VintageBeef: 1
+17: falsesymmetry: 1
+18: impulseSV: 1
+Total 107

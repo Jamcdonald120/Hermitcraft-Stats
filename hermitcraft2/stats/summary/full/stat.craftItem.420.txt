@@ -1,0 +1,4 @@
+stat.craftItem.420
+1: Keralis1: 6
+2: skyzm: 2
+Total 8

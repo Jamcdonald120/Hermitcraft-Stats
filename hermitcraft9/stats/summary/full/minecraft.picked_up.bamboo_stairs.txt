@@ -1,0 +1,5 @@
+minecraft.picked_up.bamboo_stairs
+1: cubfan135: 4
+2: Zedaph: 3
+3: Keralis1: 1
+Total 8

@@ -1,0 +1,10 @@
+minecraft.picked_up.music_disc_strad
+1: VintageBeef: 24
+2: cubfan135: 6
+3: Grian: 4
+4: iskall85: 1
+5: BarryBoss1234: 1
+6: ZombieCleo: 1
+7: hypnotizd: 1
+8: impulseSV: 1
+Total 39

@@ -1,0 +1,6 @@
+minecraft.dropped.ender_eye
+1: MumboJumbo: 34
+2: iJevin: 7
+3: Etho: 3
+4: Keralis1: 1
+Total 45

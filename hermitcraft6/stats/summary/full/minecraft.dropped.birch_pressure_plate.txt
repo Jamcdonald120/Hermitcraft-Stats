@@ -1,0 +1,8 @@
+minecraft.dropped.birch_pressure_plate
+1: Tango: 29
+2: falsesymmetry: 23
+3: Xisuma: 8
+4: HumanCleo: 1
+5: Grian: 1
+6: impulseSV: 1
+Total 63

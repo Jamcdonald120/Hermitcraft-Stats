@@ -1,0 +1,15 @@
+minecraft.dropped.sweet_berries
+1: Renthedog: 169
+2: GoodTimeWithScar: 108
+3: Etho: 64
+4: Grian: 48
+5: Xisuma: 26
+6: BdoubleO100: 24
+7: cubfan135: 11
+8: Keralis1: 5
+9: Zedaph: 4
+10: VintageBeef: 2
+11: Tango: 1
+12: PearlescentMoon: 1
+13: Welsknight: 1
+Total 464

@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.dropper
+1: Xisuma: 1426
+2: MumboJumbo: 1395
+3: cubfan135: 755
+4: impulseSV: 647
+5: Tango: 507
+6: Zedaph: 115
+7: Etho: 107
+8: iskall85: 70
+9: Welsknight: 48
+10: Docm77: 39
+11: Renthedog: 34
+12: GoodTimeWithScar: 33
+13: Tinfoilchef: 30
+14: xBCrafted: 24
+15: Stressmonster101: 20
+16: falsesymmetry: 13
+17: joehillssays: 9
+18: PythonGB: 2
+19: iJevin: 2
+20: VintageBeef: 1
+21: BdoubleO100: 1
+22: ZombieCleo: 1
+Total 5279

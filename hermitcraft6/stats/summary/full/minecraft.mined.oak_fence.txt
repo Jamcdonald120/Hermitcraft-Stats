@@ -1,0 +1,25 @@
+minecraft.mined.oak_fence
+1: Xisuma: 1243
+2: GoodTimeWithScar: 511
+3: Renthedog: 416
+4: falsesymmetry: 379
+5: joehillssays: 291
+6: impulseSV: 271
+7: cubfan135: 266
+8: iskall85: 263
+9: iJevin: 251
+10: Grian: 248
+11: Tinfoilchef: 181
+12: Tango: 122
+13: Stressmonster101: 114
+14: Zedaph: 110
+15: MumboJumbo: 105
+16: BdoubleO100: 104
+17: Welsknight: 96
+18: ZombieCleo: 43
+19: Docm77: 36
+20: PythonGB: 34
+21: Keralis1: 27
+22: Biffa2001: 14
+23: Jessassin: 1
+Total 5126

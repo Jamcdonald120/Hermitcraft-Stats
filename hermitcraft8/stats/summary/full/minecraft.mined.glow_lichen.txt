@@ -1,0 +1,27 @@
+minecraft.mined.glow_lichen
+1: impulseSV: 20404
+2: Renthedog: 4518
+3: cubfan135: 2883
+4: xBCrafted: 1228
+5: Docm77: 710
+6: hypnotizd: 698
+7: Grian: 548
+8: GeminiTay: 221
+9: iJevin: 144
+10: MumboJumbo: 108
+11: PearlescentMoon: 71
+12: BdoubleO100: 50
+13: falsesymmetry: 39
+14: Etho: 36
+15: VintageBeef: 34
+16: Tango: 33
+17: joehillssays: 27
+18: Keralis1: 26
+19: Stressmonster101: 8
+20: Xisuma: 6
+21: GoodTimeWithScar: 5
+22: iskall85: 4
+23: ZombieCleo: 4
+24: Welsknight: 2
+25: Zedaph: 1
+Total 31808

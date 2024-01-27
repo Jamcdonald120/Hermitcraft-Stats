@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.brick_stairs
+1: zueljin: 12
+2: falsesymmetry: 4
+Total 16

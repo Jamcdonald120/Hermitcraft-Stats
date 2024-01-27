@@ -1,0 +1,23 @@
+stat.mineBlock.minecraft.web
+1: cubfan135: 1644
+2: iskall85: 651
+3: falsesymmetry: 540
+4: Xisuma: 405
+5: Biffa2001: 238
+6: iJevin: 213
+7: Renthedog: 191
+8: GoodTimeWithScar: 128
+9: MumboJumbo: 91
+10: Welsknight: 89
+11: impulseSV: 88
+12: Etho: 78
+13: PythonGB: 71
+14: joehillssays: 67
+15: Zedaph: 61
+16: Tango: 59
+17: BdoubleO100: 35
+18: xBCrafted: 30
+19: Docm77: 22
+20: VintageBeef: 19
+21: Stressmonster101: 10
+Total 4730

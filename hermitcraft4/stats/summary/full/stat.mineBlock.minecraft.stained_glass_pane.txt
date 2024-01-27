@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.stained_glass_pane
+1: falsesymmetry: 974
+2: Xisuma: 895
+3: Renthedog: 846
+4: iskall85: 565
+5: joehillssays: 428
+6: GoodTimeWithScar: 365
+7: VintageBeef: 313
+8: cubfan135: 215
+9: Tango: 168
+10: Welsknight: 148
+11: ZombieCleo: 148
+12: impulseSV: 147
+13: zueljin: 145
+14: iJevin: 39
+15: MumboJumbo: 28
+16: PythonGB: 25
+17: Tinfoilchef: 12
+18: Docm77: 3
+Total 5464

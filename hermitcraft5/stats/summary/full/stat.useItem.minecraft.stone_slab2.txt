@@ -1,0 +1,8 @@
+stat.useItem.minecraft.stone_slab2
+1: MumboJumbo: 613
+2: cubfan135: 425
+3: VintageBeef: 71
+4: PythonGB: 64
+5: Xisuma: 28
+6: Tango: 8
+Total 1209

@@ -1,0 +1,25 @@
+stat.useItem.minecraft.dirt
+1: GoodTimeWithScar: 99332
+2: falsesymmetry: 54627
+3: cubfan135: 45850
+4: Renthedog: 43897
+5: iskall85: 34400
+6: joehillssays: 32548
+7: Xisuma: 23756
+8: MumboJumbo: 22914
+9: Tango: 10838
+10: Welsknight: 8886
+11: iJevin: 7608
+12: Etho: 6714
+13: impulseSV: 5336
+14: Tinfoilchef: 4465
+15: Biffa2001: 3950
+16: Docm77: 3752
+17: PythonGB: 3160
+18: ZombieCleo: 2343
+19: xBCrafted: 1624
+20: VintageBeef: 869
+21: Jessassin: 497
+22: Mumbo: 369
+23: zueljin: 172
+Total 417907

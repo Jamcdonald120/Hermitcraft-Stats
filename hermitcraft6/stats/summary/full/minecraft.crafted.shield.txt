@@ -1,0 +1,23 @@
+minecraft.crafted.shield
+1: cubfan135: 555
+2: Xisuma: 43
+3: iskall85: 22
+4: Stressmonster101: 22
+5: falsesymmetry: 21
+6: Renthedog: 15
+7: impulseSV: 15
+8: Tango: 11
+9: GoodTimeWithScar: 8
+10: Zedaph: 8
+11: ZombieCleo: 7
+12: MumboJumbo: 7
+13: Docm77: 6
+14: PythonGB: 4
+15: xBCrafted: 4
+16: Grian: 3
+17: Biffa2001: 3
+18: Keralis1: 3
+19: iJevin: 2
+20: EvilXisuma: 1
+21: BdoubleO100: 1
+Total 761

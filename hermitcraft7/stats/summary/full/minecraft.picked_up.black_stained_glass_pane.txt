@@ -1,0 +1,20 @@
+minecraft.picked_up.black_stained_glass_pane
+1: Keralis1: 724
+2: Zedaph: 686
+3: cubfan135: 637
+4: xBCrafted: 297
+5: iskall85: 203
+6: Grian: 140
+7: Xisuma: 137
+8: hypnotizd: 85
+9: VintageBeef: 73
+10: GoodTimeWithScar: 67
+11: falsesymmetry: 37
+12: Renthedog: 36
+13: Tango: 30
+14: Stressmonster101: 29
+15: BdoubleO100: 24
+16: joehillssays: 13
+17: impulseSV: 5
+18: Etho: 1
+Total 3224

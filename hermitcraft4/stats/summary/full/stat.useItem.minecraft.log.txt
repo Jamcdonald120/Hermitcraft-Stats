@@ -1,0 +1,26 @@
+stat.useItem.minecraft.log
+1: GoodTimeWithScar: 21751
+2: Renthedog: 12136
+3: iskall85: 7369
+4: cubfan135: 6446
+5: falsesymmetry: 5584
+6: Xisuma: 4261
+7: Welsknight: 3195
+8: PythonGB: 2529
+9: Tango: 2294
+10: MumboJumbo: 1852
+11: iJevin: 1252
+12: joehillssays: 976
+13: VintageBeef: 887
+14: Etho: 653
+15: Docm77: 508
+16: Mumbo: 395
+17: ZombieCleo: 291
+18: Tinfoilchef: 213
+19: Jessassin: 92
+20: impulseSV: 16
+21: Biffa2001: 15
+22: zueljin: 10
+23: hypnotizd: 6
+24: xisumavoid: 3
+Total 72734

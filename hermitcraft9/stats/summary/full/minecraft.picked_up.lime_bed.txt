@@ -1,0 +1,10 @@
+minecraft.picked_up.lime_bed
+1: Etho: 407
+2: iJevin: 14
+3: joehillssays: 8
+4: xBCrafted: 7
+5: OrionSound: 6
+6: cubfan135: 6
+7: iskall85: 1
+8: Zedaph: 1
+Total 450

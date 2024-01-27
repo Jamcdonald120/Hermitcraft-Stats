@@ -1,0 +1,23 @@
+minecraft.mined.nether_sprouts
+1: falsesymmetry: 2010
+2: joehillssays: 789
+3: Etho: 741
+4: Xisuma: 501
+5: xBCrafted: 304
+6: ZombieCleo: 297
+7: BdoubleO100: 214
+8: Renthedog: 187
+9: cubfan135: 186
+10: hypnotizd: 71
+11: iskall85: 47
+12: Tango: 13
+13: Grian: 12
+14: GoodTimeWithScar: 11
+15: impulseSV: 10
+16: VintageBeef: 8
+17: iJevin: 6
+18: Welsknight: 6
+19: Stressmonster101: 1
+20: Keralis1: 1
+21: Zedaph: 1
+Total 5416

@@ -1,0 +1,22 @@
+stat.furnaceInteraction
+1: falsesymmetry: 2710
+2: zueljin: 1075
+3: joehillssays: 911
+4: PythonGB: 732
+5: ZombieCleo: 700
+6: monkeyfarm: 638
+7: Tango: 630
+8: Etho: 541
+9: xBCrafted: 513
+10: Xisuma: 460
+11: Tinfoilchef: 391
+12: iJevin: 307
+13: impulseSV: 301
+14: sl1pg8r: 241
+15: Biffa2001: 179
+16: Mumbo: 128
+17: Docm77: 96
+18: NameOfSamuel: 82
+19: topmass: 64
+20: KingDaddyDMAC: 8
+Total 10707

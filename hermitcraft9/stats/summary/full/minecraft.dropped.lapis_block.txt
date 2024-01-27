@@ -1,0 +1,9 @@
+minecraft.dropped.lapis_block
+1: iJevin: 241
+2: Grian: 179
+3: cubfan135: 64
+4: RentheKing: 35
+5: VintageBeef: 14
+6: Renthedog: 1
+7: Zedaph: 1
+Total 535

@@ -1,0 +1,24 @@
+stat.useItem.minecraft.stone_stairs
+1: GoodTimeWithScar: 9319
+2: Xisuma: 4130
+3: xBCrafted: 1329
+4: MumboJumbo: 969
+5: falsesymmetry: 892
+6: Welsknight: 840
+7: iskall85: 809
+8: PythonGB: 659
+9: VintageBeef: 586
+10: Tango: 500
+11: iJevin: 473
+12: BdoubleO100: 446
+13: Biffa2001: 376
+14: impulseSV: 335
+15: joehillssays: 322
+16: cubfan135: 308
+17: Tinfoilchef: 274
+18: Docm77: 226
+19: Stressmonster101: 172
+20: Etho: 69
+21: Zedaph: 7
+22: Renthedog: 5
+Total 23046

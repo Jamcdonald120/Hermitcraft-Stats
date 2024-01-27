@@ -1,0 +1,7 @@
+minecraft.crafted.smooth_red_sandstone
+1: Etho: 444
+2: GoodTimeWithScar: 128
+3: BdoubleO100: 114
+4: VintageBeef: 64
+5: Keralis1: 30
+Total 780

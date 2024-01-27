@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.leather_leggings
+1: falsesymmetry: 103
+2: Biffa2001: 89
+3: Xisuma: 22
+4: Mumbo: 13
+5: Tango: 10
+6: xBCrafted: 6
+7: zueljin: 4
+8: impulseSV: 4
+9: KingDaddyDMAC: 3
+10: ZombieCleo: 3
+Total 257

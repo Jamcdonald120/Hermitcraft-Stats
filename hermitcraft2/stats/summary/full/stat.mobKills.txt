@@ -1,0 +1,31 @@
+stat.mobKills
+1: KingDaddyDMAC: 100688
+2: Xisuma: 97333
+3: sl1pg8r: 79745
+4: hypnotizd: 70290
+5: red3yz: 57907
+6: Spumwackles: 53205
+7: ZombieCleo: 51377
+8: Tinfoilchef: 47142
+9: Biffa2001: 43866
+10: iJevin: 32777
+11: Mumbo: 24506
+12: skyzm: 18297
+13: Pungence: 17012
+14: Tango: 10925
+15: monkeyfarm: 10469
+16: falsesymmetry: 9897
+17: Keralis1: 8684
+18: Unhost: 6001
+19: zueljin: 5884
+20: xBCrafted: 4472
+21: xisumavoid: 3152
+22: Marriland: 2575
+23: Collen: 826
+24: joehillssays: 364
+25: topmass: 148
+26: NameOfSamuel: 123
+27: Jessassin: 68
+28: HttpsSecure: 3
+29: Cleophas: 2
+Total 757738

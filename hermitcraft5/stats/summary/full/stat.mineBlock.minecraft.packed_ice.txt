@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.packed_ice
+1: xBCrafted: 8629
+2: Renthedog: 8611
+3: GoodTimeWithScar: 6626
+4: Welsknight: 6517
+5: MumboJumbo: 5652
+6: cubfan135: 5578
+7: Xisuma: 4200
+8: impulseSV: 3852
+9: Docm77: 3644
+10: falsesymmetry: 2182
+11: iskall85: 1848
+12: Etho: 1120
+13: Tinfoilchef: 1005
+14: joehillssays: 532
+15: Zedaph: 287
+16: Tango: 285
+17: Stressmonster101: 20
+18: ZombieCleo: 12
+19: iJevin: 2
+Total 60602

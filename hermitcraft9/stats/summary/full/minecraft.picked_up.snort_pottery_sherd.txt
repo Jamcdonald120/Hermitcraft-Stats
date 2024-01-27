@@ -1,0 +1,12 @@
+minecraft.picked_up.snort_pottery_sherd
+1: cubfan135: 9
+2: Mumbo: 7
+3: falsesymmetry: 5
+4: Zedaph: 5
+5: Xisuma: 3
+6: Etho: 2
+7: iJevin: 1
+8: GeminiTay: 1
+9: PearlescentMoon: 1
+10: xBCrafted: 1
+Total 35

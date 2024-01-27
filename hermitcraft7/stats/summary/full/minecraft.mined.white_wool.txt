@@ -1,0 +1,25 @@
+minecraft.mined.white_wool
+1: Renthedog: 1378
+2: GoodTimeWithScar: 720
+3: Keralis1: 600
+4: VintageBeef: 296
+5: Xisuma: 200
+6: BdoubleO100: 196
+7: Tango: 182
+8: falsesymmetry: 135
+9: cubfan135: 125
+10: Grian: 98
+11: iskall85: 92
+12: Docm77: 79
+13: xBCrafted: 60
+14: Stressmonster101: 53
+15: Etho: 42
+16: ZombieCleo: 28
+17: MumboJumbo: 20
+18: impulseSV: 20
+19: Zedaph: 14
+20: Welsknight: 10
+21: joehillssays: 8
+22: iJevin: 6
+23: Tinfoilchef: 3
+Total 4365

@@ -1,0 +1,18 @@
+minecraft.used.wither_skeleton_skull
+1: impulseSV: 562
+2: Tango: 280
+3: xBCrafted: 135
+4: Etho: 30
+5: Keralis1: 27
+6: iJevin: 19
+7: iskall85: 14
+8: cubfan135: 12
+9: Grian: 11
+10: hypnotizd: 9
+11: Xisuma: 8
+12: MumboJumbo: 8
+13: falsesymmetry: 7
+14: Zedaph: 7
+15: Welsknight: 3
+16: GoodTimeWithScar: 3
+Total 1135

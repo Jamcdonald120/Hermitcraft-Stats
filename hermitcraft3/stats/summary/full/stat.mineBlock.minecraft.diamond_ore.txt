@@ -1,0 +1,27 @@
+stat.mineBlock.minecraft.diamond_ore
+1: Tango: 976
+2: falsesymmetry: 891
+3: xBCrafted: 801
+4: Xisuma: 741
+5: topmass: 530
+6: Tinfoilchef: 436
+7: sl1pg8r: 359
+8: impulseSV: 333
+9: ZombieCleo: 250
+10: Biffa2001: 227
+11: zueljin: 224
+12: Mumbo: 220
+13: PythonGB: 191
+14: monkeyfarm: 178
+15: KingDaddyDMAC: 152
+16: iJevin: 139
+17: hypnotizd: 138
+18: Etho: 130
+19: Spumwackles: 123
+20: skyzm: 29
+21: Docm77: 26
+22: Mrs_Keralis: 15
+23: Pungence: 11
+24: joehillssays: 9
+25: Keralis1: 6
+Total 7135

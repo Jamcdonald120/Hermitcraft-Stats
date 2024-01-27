@@ -1,0 +1,9 @@
+minecraft.mined.acacia_stairs
+1: Keralis1: 45
+2: impulseSV: 36
+3: Xisuma: 9
+4: GoodTimeWithScar: 9
+5: PearlescentMoon: 6
+6: cubfan135: 2
+7: Etho: 2
+Total 109

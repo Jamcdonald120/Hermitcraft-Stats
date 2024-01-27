@@ -1,0 +1,25 @@
+stat.pickup.minecraft.slime_ball
+1: cubfan135: 21121
+2: Tango: 19654
+3: GoodTimeWithScar: 15818
+4: MumboJumbo: 5650
+5: impulseSV: 4442
+6: PythonGB: 3425
+7: Xisuma: 2215
+8: Renthedog: 1058
+9: Docm77: 902
+10: iskall85: 859
+11: Welsknight: 855
+12: falsesymmetry: 836
+13: Tinfoilchef: 659
+14: Zedaph: 363
+15: Stressmonster101: 210
+16: BdoubleO100: 138
+17: Etho: 110
+18: xBCrafted: 97
+19: iJevin: 78
+20: joehillssays: 55
+21: Biffa2001: 25
+22: ZombieCleo: 16
+23: VintageBeef: 2
+Total 78588

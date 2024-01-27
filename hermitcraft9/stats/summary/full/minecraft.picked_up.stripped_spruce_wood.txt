@@ -1,0 +1,21 @@
+minecraft.picked_up.stripped_spruce_wood
+1: Keralis1: 961
+2: Renthedog: 641
+3: iJevin: 466
+4: falsesymmetry: 183
+5: Tango: 124
+6: hypnotizd: 101
+7: Grian: 74
+8: GoodTimeWithScar: 65
+9: RentheKing: 49
+10: BdoubleO100: 43
+11: cubfan135: 27
+12: ZombieCleo: 26
+13: PearlescentMoon: 21
+14: GeminiTay: 8
+15: Stressmonster101: 5
+16: VintageBeef: 2
+17: Xisuma: 1
+18: impulseSV: 1
+19: Zedaph: 1
+Total 2799

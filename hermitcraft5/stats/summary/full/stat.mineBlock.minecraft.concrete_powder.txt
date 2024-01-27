@@ -1,0 +1,24 @@
+stat.mineBlock.minecraft.concrete_powder
+1: iskall85: 32072
+2: Renthedog: 22638
+3: cubfan135: 4368
+4: GoodTimeWithScar: 4112
+5: falsesymmetry: 2447
+6: Xisuma: 2016
+7: joehillssays: 1538
+8: Stressmonster101: 1273
+9: Welsknight: 783
+10: Tango: 644
+11: Docm77: 388
+12: xBCrafted: 305
+13: ZombieCleo: 216
+14: MumboJumbo: 191
+15: PythonGB: 176
+16: impulseSV: 173
+17: Zedaph: 130
+18: BdoubleO100: 25
+19: Biffa2001: 24
+20: Tinfoilchef: 22
+21: iJevin: 15
+22: VintageBeef: 1
+Total 73557

@@ -1,0 +1,15 @@
+minecraft.picked_up.granite_stairs
+1: joehillssays: 48
+2: Keralis1: 26
+3: xBCrafted: 16
+4: BdoubleO100: 15
+5: Tango: 12
+6: GoodTimeWithScar: 10
+7: Xisuma: 9
+8: iskall85: 6
+9: cubfan135: 6
+10: VintageBeef: 5
+11: Grian: 1
+12: falsesymmetry: 1
+13: impulseSV: 1
+Total 156

@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.blaze_powder
+1: Xisuma: 737
+2: Tango: 732
+3: impulseSV: 142
+4: Mumbo: 60
+5: falsesymmetry: 48
+6: xBCrafted: 40
+7: zueljin: 28
+8: Tinfoilchef: 28
+9: Biffa2001: 20
+10: iJevin: 18
+11: KingDaddyDMAC: 12
+12: monkeyfarm: 10
+13: PythonGB: 6
+14: hypnotizd: 6
+15: topmass: 4
+16: Etho: 4
+17: ZombieCleo: 4
+18: Spumwackles: 4
+19: sl1pg8r: 2
+Total 1905

@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.jungle_fence_gate
+1: cubfan135: 195
+2: PythonGB: 16
+3: joehillssays: 10
+4: Renthedog: 4
+5: ZombieCleo: 2
+6: MumboJumbo: 1
+Total 228

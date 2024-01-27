@@ -1,0 +1,16 @@
+minecraft.picked_up.horn_coral_fan
+1: cubfan135: 671
+2: Renthedog: 621
+3: Xisuma: 111
+4: BdoubleO100: 26
+5: iJevin: 16
+6: Docm77: 11
+7: Grian: 10
+8: GoodTimeWithScar: 8
+9: impulseSV: 4
+10: Welsknight: 3
+11: PearlescentMoon: 2
+12: xBCrafted: 2
+13: VintageBeef: 1
+14: Etho: 1
+Total 1487

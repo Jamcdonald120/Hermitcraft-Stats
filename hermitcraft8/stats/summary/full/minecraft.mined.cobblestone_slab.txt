@@ -1,0 +1,28 @@
+minecraft.mined.cobblestone_slab
+1: hypnotizd: 1030
+2: Tinfoilchef: 627
+3: xBCrafted: 534
+4: iJevin: 192
+5: impulseSV: 177
+6: MumboJumbo: 102
+7: Xisuma: 75
+8: BdoubleO100: 48
+9: Tango: 22
+10: Welsknight: 19
+11: Docm77: 14
+12: PearlescentMoon: 13
+13: iskall85: 13
+14: Zedaph: 12
+15: Stressmonster101: 8
+16: VintageBeef: 5
+17: GeminiTay: 5
+18: Grian: 5
+19: falsesymmetry: 5
+20: Etho: 5
+21: GoodTimeWithScar: 5
+22: Renthedog: 4
+23: EvilXisuma: 3
+24: Keralis1: 3
+25: joehillssays: 2
+26: ZombieCleo: 1
+Total 2929

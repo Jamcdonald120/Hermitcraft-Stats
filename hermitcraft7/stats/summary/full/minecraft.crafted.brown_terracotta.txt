@@ -1,0 +1,16 @@
+minecraft.crafted.brown_terracotta
+1: Etho: 7880
+2: Grian: 6016
+3: falsesymmetry: 5144
+4: GoodTimeWithScar: 4192
+5: Renthedog: 1784
+6: Tango: 1472
+7: iskall85: 1280
+8: VintageBeef: 696
+9: Xisuma: 624
+10: Docm77: 424
+11: BdoubleO100: 160
+12: cubfan135: 152
+13: Keralis1: 88
+14: Zedaph: 8
+Total 29920

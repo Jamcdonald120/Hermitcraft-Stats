@@ -1,0 +1,7 @@
+stat.drop.minecraft.quartz
+1: falsesymmetry: 16
+2: MumboJumbo: 13
+3: Renthedog: 3
+4: iskall85: 3
+5: PythonGB: 1
+Total 36

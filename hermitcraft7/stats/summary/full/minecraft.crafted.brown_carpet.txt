@@ -1,0 +1,22 @@
+minecraft.crafted.brown_carpet
+1: Keralis1: 1437
+2: cubfan135: 1194
+3: impulseSV: 1071
+4: GoodTimeWithScar: 825
+5: Etho: 792
+6: BdoubleO100: 579
+7: Grian: 399
+8: hypnotizd: 399
+9: joehillssays: 267
+10: Renthedog: 189
+11: Tango: 126
+12: VintageBeef: 111
+13: Stressmonster101: 102
+14: iskall85: 96
+15: Xisuma: 78
+16: falsesymmetry: 54
+17: Zedaph: 42
+18: xBCrafted: 24
+19: ZombieCleo: 24
+20: Docm77: 6
+Total 7815

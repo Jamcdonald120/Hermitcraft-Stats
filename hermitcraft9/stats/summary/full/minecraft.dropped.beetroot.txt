@@ -1,0 +1,6 @@
+minecraft.dropped.beetroot
+1: Xisuma: 140
+2: Zedaph: 9
+3: Docm77: 3
+4: GeminiTay: 1
+Total 153

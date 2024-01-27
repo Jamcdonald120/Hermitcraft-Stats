@@ -1,0 +1,19 @@
+minecraft.crafted.blue_concrete_powder
+1: GoodTimeWithScar: 10504
+2: Grian: 2536
+3: Etho: 1032
+4: ZombieCleo: 512
+5: Docm77: 320
+6: impulseSV: 320
+7: VintageBeef: 264
+8: Tango: 256
+9: cubfan135: 256
+10: xBCrafted: 240
+11: Xisuma: 200
+12: Keralis1: 144
+13: joehillssays: 48
+14: falsesymmetry: 40
+15: RentheKing: 40
+16: PearlescentMoon: 8
+17: Zedaph: 8
+Total 16728

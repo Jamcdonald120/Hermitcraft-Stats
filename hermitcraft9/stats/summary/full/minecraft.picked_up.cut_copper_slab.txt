@@ -1,0 +1,16 @@
+minecraft.picked_up.cut_copper_slab
+1: Docm77: 289
+2: cubfan135: 185
+3: Renthedog: 82
+4: impulseSV: 45
+5: PearlescentMoon: 32
+6: falsesymmetry: 32
+7: joehillssays: 26
+8: GoodTimeWithScar: 25
+9: xBCrafted: 17
+10: Xisuma: 9
+11: ZombieCleo: 2
+12: VintageBeef: 1
+13: Pixlriffs: 1
+14: Zedaph: 1
+Total 747

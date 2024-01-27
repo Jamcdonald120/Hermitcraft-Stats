@@ -1,0 +1,14 @@
+minecraft.crafted.chiseled_quartz_block
+1: Xisuma: 384
+2: impulseSV: 293
+3: Grian: 66
+4: GoodTimeWithScar: 43
+5: ZombieCleo: 32
+6: VintageBeef: 19
+7: Renthedog: 4
+8: Docm77: 3
+9: BdoubleO100: 3
+10: Keralis1: 3
+11: cubfan135: 1
+12: Zedaph: 1
+Total 852

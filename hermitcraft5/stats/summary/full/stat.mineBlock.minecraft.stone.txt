@@ -1,0 +1,26 @@
+stat.mineBlock.minecraft.stone
+1: GoodTimeWithScar: 753966
+2: falsesymmetry: 557846
+3: cubfan135: 512381
+4: MumboJumbo: 502813
+5: Xisuma: 388752
+6: Renthedog: 349986
+7: Welsknight: 271194
+8: impulseSV: 258859
+9: iskall85: 256447
+10: PythonGB: 209017
+11: Tango: 168565
+12: Tinfoilchef: 142197
+13: iJevin: 127051
+14: Zedaph: 120262
+15: xBCrafted: 106925
+16: Stressmonster101: 72520
+17: joehillssays: 66049
+18: Docm77: 34312
+19: Etho: 34147
+20: ZombieCleo: 33657
+21: Biffa2001: 22166
+22: BdoubleO100: 17407
+23: VintageBeef: 15549
+24: isGall85: 19
+Total 5022087

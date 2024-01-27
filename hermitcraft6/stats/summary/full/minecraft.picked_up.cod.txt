@@ -1,0 +1,27 @@
+minecraft.picked_up.cod
+1: cubfan135: 28212
+2: iskall85: 21174
+3: GoodTimeWithScar: 13159
+4: Stressmonster101: 9637
+5: iJevin: 4247
+6: MumboJumbo: 3826
+7: Grian: 3810
+8: Docm77: 3347
+9: Welsknight: 3240
+10: Renthedog: 3131
+11: ZombieCleo: 2919
+12: Tango: 2918
+13: Biffa2001: 2891
+14: falsesymmetry: 2394
+15: Xisuma: 2351
+16: PythonGB: 1685
+17: xBCrafted: 610
+18: impulseSV: 282
+19: BdoubleO100: 267
+20: joehillssays: 183
+21: Zedaph: 96
+22: HumanCleo: 78
+23: Jessassin: 70
+24: PythonCam: 2
+25: Cub_Cam: 2
+Total 110531

@@ -1,0 +1,30 @@
+minecraft.picked_up.deepslate_tiles
+1: Renthedog: 2246
+2: cubfan135: 2097
+3: impulseSV: 896
+4: Tango: 830
+5: Mumbo: 678
+6: RentheKing: 584
+7: Grian: 556
+8: Stressmonster101: 489
+9: GoodTimeWithScar: 380
+10: hypnotizd: 369
+11: joehillssays: 354
+12: Xisuma: 259
+13: Zedaph: 253
+14: PearlescentMoon: 197
+15: Keralis1: 196
+16: ZombieCleo: 158
+17: Etho: 136
+18: iJevin: 69
+19: GeminiTay: 55
+20: xBCrafted: 53
+21: Pixlriffs: 49
+22: VintageBeef: 39
+23: Docm77: 33
+24: BdoubleO100: 11
+25: iskall85: 9
+26: MythicalSausage: 6
+27: falsesymmetry: 3
+28: MumboJumbo: 2
+Total 11007

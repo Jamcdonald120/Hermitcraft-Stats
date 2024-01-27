@@ -1,0 +1,25 @@
+minecraft.picked_up.leather_chestplate
+1: Etho: 56
+2: joehillssays: 43
+3: Grian: 40
+4: BdoubleO100: 37
+5: GoodTimeWithScar: 37
+6: ZombieCleo: 27
+7: cubfan135: 26
+8: VintageBeef: 23
+9: hypnotizd: 22
+10: Xisuma: 21
+11: falsesymmetry: 15
+12: iskall85: 14
+13: Renthedog: 13
+14: Stressmonster101: 12
+15: Tango: 11
+16: xBCrafted: 11
+17: iJevin: 10
+18: MumboJumbo: 10
+19: impulseSV: 10
+20: Keralis1: 8
+21: Zedaph: 8
+22: Welsknight: 4
+23: HermitcraftAlt: 3
+Total 461

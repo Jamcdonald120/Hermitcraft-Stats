@@ -1,0 +1,4 @@
+minecraft.used.enchanted_golden_apple
+1: iJevin: 1
+2: Tango: 1
+Total 2

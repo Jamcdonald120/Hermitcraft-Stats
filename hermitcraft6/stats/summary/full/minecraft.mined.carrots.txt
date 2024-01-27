@@ -1,0 +1,25 @@
+minecraft.mined.carrots
+1: Tinfoilchef: 8601
+2: Renthedog: 8329
+3: Grian: 4546
+4: impulseSV: 3561
+5: cubfan135: 3159
+6: GoodTimeWithScar: 1242
+7: joehillssays: 1018
+8: iskall85: 750
+9: iJevin: 435
+10: MumboJumbo: 346
+11: Jessassin: 221
+12: BdoubleO100: 199
+13: PythonGB: 186
+14: ZombieCleo: 123
+15: Tango: 98
+16: Welsknight: 86
+17: Stressmonster101: 83
+18: falsesymmetry: 68
+19: Keralis1: 64
+20: Xisuma: 60
+21: Docm77: 58
+22: Zedaph: 26
+23: Biffa2001: 5
+Total 33264

@@ -1,0 +1,9 @@
+minecraft.dropped.acacia_leaves
+1: GoodTimeWithScar: 86
+2: Keralis1: 29
+3: Xisuma: 21
+4: MumboJumbo: 19
+5: PearlescentMoon: 12
+6: Docm77: 1
+7: joehillssays: 1
+Total 169

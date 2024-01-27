@@ -1,0 +1,6 @@
+stat.drop.minecraft.gold_block
+1: impulseSV: 135
+2: Zedaph: 51
+3: Tango: 26
+4: PythonGB: 14
+Total 226

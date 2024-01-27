@@ -1,0 +1,30 @@
+minecraft.picked_up.birch_boat
+1: iJevin: 62
+2: Zedaph: 32
+3: Etho: 31
+4: Grian: 26
+5: joehillssays: 20
+6: falsesymmetry: 19
+7: Xisuma: 18
+8: impulseSV: 17
+9: Keralis1: 16
+10: hypnotizd: 15
+11: Docm77: 11
+12: iskall85: 9
+13: Renthedog: 8
+14: cubfan135: 7
+15: fWhip: 6
+16: xBCrafted: 4
+17: Welsknight: 3
+18: ZombieCleo: 3
+19: Stressmonster101: 3
+20: Tango: 2
+21: OrionSound: 1
+22: Smajor1995: 1
+23: GeminiTay: 1
+24: BdoubleO100: 1
+25: Mumbo: 1
+26: MumboJumbo: 1
+27: InTheLittleWood: 1
+28: Tinfoilchef: 1
+Total 320

@@ -1,0 +1,19 @@
+minecraft.picked_up.polished_diorite
+1: xBCrafted: 629
+2: Grian: 280
+3: GoodTimeWithScar: 273
+4: Welsknight: 251
+5: cubfan135: 123
+6: PearlescentMoon: 101
+7: impulseSV: 45
+8: Tango: 42
+9: Xisuma: 41
+10: iskall85: 28
+11: ZombieCleo: 12
+12: GeminiTay: 9
+13: Docm77: 4
+14: Renthedog: 3
+15: Etho: 1
+16: hypnotizd: 1
+17: Tinfoilchef: 1
+Total 1844

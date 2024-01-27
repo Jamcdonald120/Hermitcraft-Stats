@@ -1,0 +1,33 @@
+minecraft.custom.horse_one_cm
+1: Docm77: 15428951
+2: iJevin: 12677335
+3: BdoubleO100: 12506866
+4: cubfan135: 4122817
+5: Etho: 3322909
+6: Grian: 3319570
+7: Zedaph: 2419684
+8: falsesymmetry: 2313207
+9: PearlescentMoon: 2096863
+10: impulseSV: 1864414
+11: Tango: 1677153
+12: Xisuma: 948064
+13: Renthedog: 751270
+14: GoodTimeWithScar: 719436
+15: joehillssays: 652470
+16: GeminiTay: 644934
+17: Stressmonster101: 553192
+18: ZombieCleo: 541394
+19: iskall85: 434759
+20: HBomb94: 415785
+21: Keralis1: 333849
+22: Smallishbeans: 274688
+23: xBCrafted: 262305
+24: SolidarityGaming: 255289
+25: OrionSound: 249337
+26: InTheLittleWood: 231793
+27: MythicalSausage: 227074
+28: Smajor1995: 220478
+29: Mumbo: 2816
+30: Tinfoilchef: 1260
+31: hypnotizd: 298
+Total 69470260

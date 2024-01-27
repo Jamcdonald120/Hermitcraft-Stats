@@ -1,0 +1,12 @@
+stat.drop.minecraft.sponge
+1: Tango: 79
+2: impulseSV: 67
+3: cubfan135: 57
+4: Zedaph: 47
+5: Mumbo: 32
+6: Xisuma: 31
+7: MumboJumbo: 29
+8: GoodTimeWithScar: 21
+9: Renthedog: 12
+10: iJevin: 1
+Total 376

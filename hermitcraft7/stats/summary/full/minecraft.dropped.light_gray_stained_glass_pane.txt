@@ -1,0 +1,23 @@
+minecraft.dropped.light_gray_stained_glass_pane
+1: Zedaph: 6758
+2: VintageBeef: 1837
+3: iJevin: 1042
+4: cubfan135: 795
+5: Grian: 520
+6: GoodTimeWithScar: 310
+7: Keralis1: 245
+8: Xisuma: 131
+9: Etho: 129
+10: MumboJumbo: 114
+11: BdoubleO100: 104
+12: xBCrafted: 84
+13: Tango: 83
+14: hypnotizd: 48
+15: Renthedog: 44
+16: iskall85: 39
+17: joehillssays: 33
+18: impulseSV: 24
+19: falsesymmetry: 9
+20: Stressmonster101: 8
+21: ZombieCleo: 1
+Total 12358

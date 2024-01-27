@@ -1,0 +1,25 @@
+minecraft.broken.shears
+1: MumboJumbo: 45
+2: impulseSV: 33
+3: Renthedog: 32
+4: cubfan135: 31
+5: GeminiTay: 27
+6: iJevin: 22
+7: BdoubleO100: 22
+8: falsesymmetry: 21
+9: Docm77: 13
+10: Grian: 13
+11: Xisuma: 12
+12: GoodTimeWithScar: 10
+13: Stressmonster101: 6
+14: Tango: 5
+15: PearlescentMoon: 5
+16: Welsknight: 4
+17: ZombieCleo: 4
+18: joehillssays: 3
+19: Etho: 3
+20: iskall85: 2
+21: xBCrafted: 2
+22: Keralis1: 2
+23: Zedaph: 1
+Total 318

@@ -1,0 +1,24 @@
+stat.killEntity.WitherSkeleton
+1: Xisuma: 4016
+2: cubfan135: 3850
+3: impulseSV: 2457
+4: Tango: 1779
+5: MumboJumbo: 1007
+6: iskall85: 579
+7: falsesymmetry: 274
+8: xBCrafted: 237
+9: PythonGB: 201
+10: GoodTimeWithScar: 179
+11: Zedaph: 133
+12: Stressmonster101: 113
+13: Welsknight: 98
+14: Renthedog: 95
+15: Biffa2001: 86
+16: Etho: 81
+17: iJevin: 80
+18: Docm77: 34
+19: xisumavoid: 6
+20: BdoubleO100: 4
+21: joehillssays: 3
+22: VintageBeef: 2
+Total 15314

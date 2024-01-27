@@ -1,0 +1,9 @@
+minecraft.dropped.comparator
+1: Tango: 110
+2: iJevin: 57
+3: xBCrafted: 39
+4: GoodTimeWithScar: 32
+5: Zedaph: 9
+6: Etho: 3
+7: Stressmonster101: 1
+Total 251

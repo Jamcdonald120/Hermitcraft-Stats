@@ -1,0 +1,11 @@
+minecraft.dropped.spruce_pressure_plate
+1: xBCrafted: 47
+2: GoodTimeWithScar: 12
+3: Tango: 8
+4: ZombieCleo: 8
+5: cubfan135: 6
+6: iskall85: 3
+7: Grian: 1
+8: Etho: 1
+9: RentheKing: 1
+Total 87

@@ -1,0 +1,9 @@
+minecraft.picked_up.birch_wood
+1: GeminiTay: 92
+2: GoodTimeWithScar: 80
+3: BdoubleO100: 47
+4: Grian: 20
+5: joehillssays: 3
+6: PearlescentMoon: 2
+7: Keralis1: 2
+Total 246

@@ -1,0 +1,19 @@
+minecraft.mined.raw_copper_block
+1: Xisuma: 177
+2: falsesymmetry: 161
+3: Tango: 142
+4: impulseSV: 55
+5: cubfan135: 54
+6: joehillssays: 37
+7: Etho: 20
+8: iJevin: 17
+9: Grian: 9
+10: xBCrafted: 8
+11: BdoubleO100: 5
+12: Docm77: 3
+13: Zedaph: 3
+14: PearlescentMoon: 2
+15: GoodTimeWithScar: 2
+16: VintageBeef: 1
+17: ZombieCleo: 1
+Total 697

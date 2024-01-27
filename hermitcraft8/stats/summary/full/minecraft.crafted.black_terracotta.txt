@@ -1,0 +1,12 @@
+minecraft.crafted.black_terracotta
+1: Etho: 1344
+2: PearlescentMoon: 968
+3: VintageBeef: 560
+4: impulseSV: 448
+5: Keralis1: 120
+6: Grian: 68
+7: Docm77: 64
+8: BdoubleO100: 56
+9: ZombieCleo: 24
+10: Welsknight: 8
+Total 3660

@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.orange_glazed_terracotta
+1: joehillssays: 128
+2: VintageBeef: 64
+3: Xisuma: 33
+4: MumboJumbo: 3
+5: iJevin: 1
+6: xBCrafted: 1
+7: Tinfoilchef: 1
+Total 231

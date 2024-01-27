@@ -1,0 +1,31 @@
+minecraft.killed.drowned
+1: Xisuma: 3398352
+2: Tango: 358090
+3: Docm77: 53617
+4: Renthedog: 11568
+5: Grian: 8468
+6: PearlescentMoon: 1241
+7: truesymmetry: 824
+8: cubfan135: 823
+9: iJevin: 684
+10: hypnotizd: 327
+11: falsesymmetry: 233
+12: Zedaph: 218
+13: xBCrafted: 199
+14: Etho: 115
+15: ZombieCleo: 115
+16: Keralis1: 108
+17: impulseSV: 88
+18: joehillssays: 48
+19: GeminiTay: 36
+20: iskall85: 35
+21: Mumbo: 35
+22: GoodTimeWithScar: 35
+23: BdoubleO100: 15
+24: VintageBeef: 11
+25: Stressmonster101: 10
+26: Pixlriffs: 3
+27: MythicalSausage: 2
+28: Welsknight: 1
+29: Tinfoilchef: 1
+Total 3835302

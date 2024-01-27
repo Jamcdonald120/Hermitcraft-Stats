@@ -1,0 +1,18 @@
+minecraft.dropped.beetroot_seeds
+1: Tango: 221
+2: Zedaph: 110
+3: cubfan135: 101
+4: Xisuma: 20
+5: falsesymmetry: 10
+6: Docm77: 8
+7: Jessassin: 7
+8: Biffa2001: 7
+9: PythonGB: 4
+10: Renthedog: 3
+11: iJevin: 3
+12: iskall85: 3
+13: MumboJumbo: 3
+14: GoodTimeWithScar: 1
+15: Tinfoilchef: 1
+16: Stressmonster101: 1
+Total 503

@@ -1,0 +1,10 @@
+stat.breakItem.minecraft.iron_chestplate
+1: impulseSV: 3
+2: iJevin: 2
+3: MumboJumbo: 2
+4: Docm77: 1
+5: iskall85: 1
+6: falsesymmetry: 1
+7: Etho: 1
+8: GoodTimeWithScar: 1
+Total 12

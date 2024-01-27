@@ -1,0 +1,16 @@
+minecraft.dropped.stone_hoe
+1: iJevin: 12
+2: iskall85: 10
+3: impulseSV: 10
+4: Zedaph: 9
+5: Docm77: 8
+6: Grian: 2
+7: cubfan135: 2
+8: Renthedog: 1
+9: VintageBeef: 1
+10: BdoubleO100: 1
+11: PearlescentMoon: 1
+12: falsesymmetry: 1
+13: ZombieCleo: 1
+14: hypnotizd: 1
+Total 60

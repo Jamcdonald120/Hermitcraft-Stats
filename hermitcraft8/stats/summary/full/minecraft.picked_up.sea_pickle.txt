@@ -1,0 +1,21 @@
+minecraft.picked_up.sea_pickle
+1: cubfan135: 12826
+2: Renthedog: 2220
+3: Etho: 1675
+4: joehillssays: 373
+5: PearlescentMoon: 332
+6: iJevin: 200
+7: Xisuma: 192
+8: BdoubleO100: 192
+9: falsesymmetry: 170
+10: iskall85: 87
+11: Keralis1: 53
+12: Docm77: 48
+13: impulseSV: 41
+14: xBCrafted: 36
+15: Grian: 34
+16: GeminiTay: 19
+17: Welsknight: 13
+18: VintageBeef: 10
+19: Tango: 4
+Total 18525

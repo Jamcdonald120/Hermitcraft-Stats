@@ -1,0 +1,26 @@
+minecraft.picked_up.leather_boots
+1: Grian: 50
+2: joehillssays: 42
+3: hypnotizd: 41
+4: BdoubleO100: 34
+5: Xisuma: 33
+6: cubfan135: 31
+7: GoodTimeWithScar: 27
+8: VintageBeef: 23
+9: iskall85: 21
+10: falsesymmetry: 21
+11: xBCrafted: 20
+12: impulseSV: 19
+13: iJevin: 15
+14: Stressmonster101: 15
+15: Etho: 14
+16: Renthedog: 13
+17: Zedaph: 9
+18: Welsknight: 8
+19: ZombieCleo: 8
+20: Keralis1: 8
+21: Tango: 5
+22: Docm77: 3
+23: MumboJumbo: 3
+24: HermitcraftAlt: 3
+Total 466

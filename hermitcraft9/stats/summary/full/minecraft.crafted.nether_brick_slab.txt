@@ -1,0 +1,10 @@
+minecraft.crafted.nether_brick_slab
+1: Tango: 3425
+2: cubfan135: 522
+3: Xisuma: 416
+4: falsesymmetry: 210
+5: Keralis1: 78
+6: GoodTimeWithScar: 20
+7: Renthedog: 6
+8: Zedaph: 4
+Total 4681

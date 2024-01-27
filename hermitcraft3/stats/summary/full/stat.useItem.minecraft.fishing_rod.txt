@@ -1,0 +1,17 @@
+stat.useItem.minecraft.fishing_rod
+1: xBCrafted: 1097
+2: zueljin: 423
+3: Tinfoilchef: 406
+4: Biffa2001: 367
+5: Xisuma: 172
+6: impulseSV: 128
+7: Etho: 100
+8: hypnotizd: 89
+9: Tango: 88
+10: iJevin: 82
+11: falsesymmetry: 42
+12: monkeyfarm: 37
+13: sl1pg8r: 21
+14: Spumwackles: 4
+15: topmass: 1
+Total 3057

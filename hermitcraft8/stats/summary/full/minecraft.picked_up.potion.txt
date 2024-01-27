@@ -1,0 +1,25 @@
+minecraft.picked_up.potion
+1: iJevin: 466
+2: impulseSV: 67
+3: cubfan135: 65
+4: Etho: 56
+5: Zedaph: 44
+6: Docm77: 41
+7: Renthedog: 27
+8: Tango: 25
+9: falsesymmetry: 24
+10: Grian: 23
+11: PearlescentMoon: 21
+12: joehillssays: 18
+13: GoodTimeWithScar: 18
+14: xBCrafted: 11
+15: ZombieCleo: 10
+16: Xisuma: 7
+17: hypnotizd: 7
+18: GeminiTay: 5
+19: Welsknight: 4
+20: Keralis1: 4
+21: VintageBeef: 2
+22: BdoubleO100: 2
+23: iskall85: 1
+Total 948

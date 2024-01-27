@@ -1,0 +1,25 @@
+stat.pickup.minecraft.stick
+1: Xisuma: 12879
+2: Tango: 4560
+3: Renthedog: 3629
+4: cubfan135: 1991
+5: GoodTimeWithScar: 1950
+6: iJevin: 1298
+7: falsesymmetry: 1109
+8: MumboJumbo: 1004
+9: Zedaph: 848
+10: iskall85: 837
+11: PythonGB: 575
+12: Welsknight: 567
+13: impulseSV: 388
+14: Tinfoilchef: 328
+15: xBCrafted: 233
+16: VintageBeef: 216
+17: ZombieCleo: 209
+18: joehillssays: 207
+19: Biffa2001: 170
+20: Stressmonster101: 144
+21: Docm77: 113
+22: Etho: 70
+23: BdoubleO100: 46
+Total 33371

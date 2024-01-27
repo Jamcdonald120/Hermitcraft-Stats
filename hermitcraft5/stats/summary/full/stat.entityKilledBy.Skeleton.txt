@@ -1,0 +1,15 @@
+stat.entityKilledBy.Skeleton
+1: GoodTimeWithScar: 17
+2: Tango: 13
+3: Zedaph: 12
+4: Docm77: 10
+5: iJevin: 3
+6: iskall85: 3
+7: Xisuma: 2
+8: Renthedog: 2
+9: cubfan135: 2
+10: BdoubleO100: 1
+11: xBCrafted: 1
+12: Biffa2001: 1
+13: impulseSV: 1
+Total 68

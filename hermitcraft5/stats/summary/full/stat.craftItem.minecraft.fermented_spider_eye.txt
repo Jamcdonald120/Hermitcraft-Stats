@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.fermented_spider_eye
+1: cubfan135: 1138
+2: Tinfoilchef: 30
+3: Zedaph: 25
+4: iJevin: 12
+5: Xisuma: 9
+6: GoodTimeWithScar: 8
+7: Tango: 7
+8: falsesymmetry: 5
+9: impulseSV: 4
+10: PythonGB: 3
+11: Docm77: 2
+12: Renthedog: 2
+13: xBCrafted: 2
+14: VintageBeef: 1
+15: BdoubleO100: 1
+16: iskall85: 1
+Total 1250

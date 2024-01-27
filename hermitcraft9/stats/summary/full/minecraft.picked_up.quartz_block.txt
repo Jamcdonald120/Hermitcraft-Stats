@@ -1,0 +1,27 @@
+minecraft.picked_up.quartz_block
+1: Tango: 13607
+2: Renthedog: 5902
+3: Grian: 4302
+4: Zedaph: 1571
+5: Etho: 921
+6: PearlescentMoon: 616
+7: GoodTimeWithScar: 497
+8: VintageBeef: 330
+9: Pixlriffs: 324
+10: Smajor1995: 266
+11: GeminiTay: 224
+12: cubfan135: 160
+13: joehillssays: 154
+14: impulseSV: 147
+15: falsesymmetry: 138
+16: Stressmonster101: 112
+17: Keralis1: 65
+18: ZombieCleo: 24
+19: Docm77: 13
+20: BdoubleO100: 6
+21: Smallishbeans: 5
+22: Xisuma: 4
+23: OrionSound: 4
+24: xBCrafted: 1
+25: hypnotizd: 1
+Total 29394

@@ -1,0 +1,29 @@
+minecraft.crafted.blaze_powder
+1: Tango: 3930
+2: cubfan135: 1704
+3: Keralis1: 864
+4: Xisuma: 538
+5: iJevin: 400
+6: falsesymmetry: 256
+7: Docm77: 184
+8: joehillssays: 184
+9: Renthedog: 142
+10: PearlescentMoon: 112
+11: impulseSV: 106
+12: ZombieCleo: 98
+13: Grian: 92
+14: BdoubleO100: 82
+15: xBCrafted: 74
+16: Zedaph: 66
+17: VintageBeef: 26
+18: hypnotizd: 24
+19: Stressmonster101: 24
+20: iskall85: 16
+21: Smallishbeans: 10
+22: Etho: 10
+23: Mumbo: 10
+24: GeminiTay: 8
+25: Pixlriffs: 6
+26: GoodTimeWithScar: 5
+27: Welsknight: 4
+Total 8975

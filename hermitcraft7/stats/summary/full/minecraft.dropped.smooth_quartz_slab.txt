@@ -1,0 +1,12 @@
+minecraft.dropped.smooth_quartz_slab
+1: Zedaph: 1090
+2: cubfan135: 260
+3: GoodTimeWithScar: 228
+4: BdoubleO100: 15
+5: VintageBeef: 12
+6: Tango: 10
+7: Grian: 8
+8: falsesymmetry: 8
+9: Keralis1: 7
+10: iJevin: 1
+Total 1639

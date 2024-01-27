@@ -1,0 +1,22 @@
+stat.pickup.minecraft.glass_pane
+1: xBCrafted: 623
+2: Welsknight: 612
+3: cubfan135: 177
+4: joehillssays: 97
+5: Zedaph: 71
+6: Stressmonster101: 67
+7: PythonGB: 65
+8: Docm77: 64
+9: BdoubleO100: 64
+10: Tango: 54
+11: impulseSV: 51
+12: MumboJumbo: 38
+13: Xisuma: 23
+14: ZombieCleo: 23
+15: Biffa2001: 14
+16: Etho: 13
+17: iskall85: 9
+18: VintageBeef: 4
+19: GoodTimeWithScar: 4
+20: falsesymmetry: 1
+Total 2074

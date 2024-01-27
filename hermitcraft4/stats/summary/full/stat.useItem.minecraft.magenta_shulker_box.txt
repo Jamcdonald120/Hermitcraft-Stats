@@ -1,0 +1,12 @@
+stat.useItem.minecraft.magenta_shulker_box
+1: cubfan135: 99
+2: falsesymmetry: 61
+3: Xisuma: 42
+4: Renthedog: 28
+5: impulseSV: 14
+6: iskall85: 5
+7: joehillssays: 3
+8: Welsknight: 3
+9: MumboJumbo: 3
+10: GoodTimeWithScar: 1
+Total 259

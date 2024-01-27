@@ -1,0 +1,20 @@
+minecraft.picked_up.red_wool
+1: hypnotizd: 3545
+2: BdoubleO100: 1639
+3: PearlescentMoon: 1236
+4: Grian: 1208
+5: GoodTimeWithScar: 722
+6: GeminiTay: 440
+7: Tango: 415
+8: Zedaph: 405
+9: falsesymmetry: 379
+10: Keralis1: 238
+11: Xisuma: 198
+12: impulseSV: 187
+13: cubfan135: 73
+14: iJevin: 62
+15: joehillssays: 48
+16: Welsknight: 29
+17: xBCrafted: 13
+18: EvilXisuma: 2
+Total 10839

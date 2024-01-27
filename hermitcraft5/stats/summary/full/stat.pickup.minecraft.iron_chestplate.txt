@@ -1,0 +1,24 @@
+stat.pickup.minecraft.iron_chestplate
+1: joehillssays: 40
+2: Zedaph: 28
+3: PythonGB: 21
+4: GoodTimeWithScar: 14
+5: Tango: 13
+6: Renthedog: 12
+7: iskall85: 12
+8: Xisuma: 10
+9: falsesymmetry: 8
+10: cubfan135: 8
+11: Welsknight: 7
+12: xBCrafted: 6
+13: MumboJumbo: 6
+14: Etho: 5
+15: impulseSV: 5
+16: Docm77: 4
+17: VintageBeef: 4
+18: Tinfoilchef: 4
+19: Stressmonster101: 4
+20: ZombieCleo: 3
+21: BdoubleO100: 1
+22: Biffa2001: 1
+Total 216

@@ -1,0 +1,6 @@
+stat.useItem.minecraft.jungle_fence_gate
+1: hypnotizd: 48
+2: xBCrafted: 4
+3: Biffa2001: 4
+4: falsesymmetry: 3
+Total 59

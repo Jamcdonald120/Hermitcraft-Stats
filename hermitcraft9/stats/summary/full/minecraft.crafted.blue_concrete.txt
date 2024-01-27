@@ -1,0 +1,7 @@
+minecraft.crafted.blue_concrete
+1: Keralis1: 216
+2: Tango: 128
+3: RentheKing: 64
+4: iJevin: 16
+5: Grian: 8
+Total 432

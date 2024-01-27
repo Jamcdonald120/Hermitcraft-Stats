@@ -1,0 +1,16 @@
+minecraft.picked_up.jack_o_lantern
+1: cubfan135: 256
+2: joehillssays: 76
+3: Zedaph: 73
+4: Welsknight: 43
+5: Tango: 40
+6: PearlescentMoon: 37
+7: impulseSV: 36
+8: iJevin: 31
+9: iskall85: 21
+10: ZombieCleo: 13
+11: GeminiTay: 2
+12: Grian: 1
+13: MumboJumbo: 1
+14: GoodTimeWithScar: 1
+Total 631

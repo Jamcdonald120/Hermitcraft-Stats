@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.vine
+1: falsesymmetry: 2743
+2: Tango: 948
+3: Tinfoilchef: 767
+4: xBCrafted: 727
+5: Xisuma: 661
+6: monkeyfarm: 544
+7: zueljin: 397
+8: iJevin: 288
+9: sl1pg8r: 259
+10: Mumbo: 249
+11: impulseSV: 236
+12: Etho: 170
+13: ZombieCleo: 140
+14: Spumwackles: 35
+15: topmass: 11
+16: hypnotizd: 10
+17: Docm77: 9
+18: Biffa2001: 8
+19: joehillssays: 3
+Total 8205

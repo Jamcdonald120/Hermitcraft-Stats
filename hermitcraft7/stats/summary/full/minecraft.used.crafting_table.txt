@@ -1,0 +1,26 @@
+minecraft.used.crafting_table
+1: cubfan135: 1371
+2: BdoubleO100: 1020
+3: Xisuma: 571
+4: iskall85: 470
+5: Tango: 390
+6: Etho: 389
+7: Grian: 343
+8: iJevin: 336
+9: GoodTimeWithScar: 329
+10: falsesymmetry: 283
+11: Renthedog: 278
+12: Zedaph: 278
+13: Stressmonster101: 273
+14: impulseSV: 256
+15: hypnotizd: 251
+16: MumboJumbo: 250
+17: joehillssays: 215
+18: xBCrafted: 186
+19: Keralis1: 156
+20: VintageBeef: 138
+21: ZombieCleo: 122
+22: Welsknight: 109
+23: Docm77: 99
+24: Tinfoilchef: 21
+Total 8134

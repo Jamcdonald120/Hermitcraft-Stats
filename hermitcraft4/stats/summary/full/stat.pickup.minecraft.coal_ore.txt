@@ -1,0 +1,22 @@
+stat.pickup.minecraft.coal_ore
+1: falsesymmetry: 6644
+2: GoodTimeWithScar: 3758
+3: Welsknight: 3568
+4: Xisuma: 2427
+5: MumboJumbo: 1846
+6: iJevin: 1454
+7: Docm77: 1142
+8: PythonGB: 1106
+9: Renthedog: 1016
+10: iskall85: 934
+11: joehillssays: 814
+12: Etho: 729
+13: Biffa2001: 701
+14: cubfan135: 680
+15: Tango: 665
+16: impulseSV: 463
+17: ZombieCleo: 237
+18: Tinfoilchef: 143
+19: VintageBeef: 131
+20: Jessassin: 59
+Total 28517

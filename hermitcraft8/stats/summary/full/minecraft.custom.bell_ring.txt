@@ -1,0 +1,15 @@
+minecraft.custom.bell_ring
+1: falsesymmetry: 143
+2: iJevin: 137
+3: MumboJumbo: 101
+4: Grian: 77
+5: BdoubleO100: 73
+6: PearlescentMoon: 51
+7: Tango: 47
+8: cubfan135: 33
+9: Etho: 33
+10: GoodTimeWithScar: 11
+11: GeminiTay: 8
+12: Xisuma: 3
+13: impulseSV: 3
+Total 720

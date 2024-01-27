@@ -1,0 +1,25 @@
+minecraft.mined.birch_wall_sign
+1: cubfan135: 526
+2: ZombieCleo: 232
+3: joehillssays: 217
+4: Grian: 119
+5: Tango: 84
+6: impulseSV: 73
+7: falsesymmetry: 71
+8: Stressmonster101: 44
+9: VintageBeef: 40
+10: iskall85: 40
+11: Xisuma: 36
+12: Renthedog: 27
+13: Etho: 22
+14: xBCrafted: 21
+15: GoodTimeWithScar: 18
+16: MumboJumbo: 16
+17: Keralis1: 15
+18: iJevin: 14
+19: BdoubleO100: 12
+20: hypnotizd: 12
+21: Docm77: 3
+22: Welsknight: 1
+23: Zedaph: 1
+Total 1644

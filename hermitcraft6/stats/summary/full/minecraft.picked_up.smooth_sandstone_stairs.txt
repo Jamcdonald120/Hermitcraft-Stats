@@ -1,0 +1,9 @@
+minecraft.picked_up.smooth_sandstone_stairs
+1: iskall85: 276
+2: impulseSV: 130
+3: ZombieCleo: 16
+4: Xisuma: 14
+5: cubfan135: 7
+6: Stressmonster101: 4
+7: BdoubleO100: 3
+Total 450

@@ -1,0 +1,7 @@
+minecraft.mined.red_nether_bricks
+1: Tango: 66
+2: PearlescentMoon: 8
+3: impulseSV: 7
+4: EvilXisuma: 3
+5: Grian: 3
+Total 87

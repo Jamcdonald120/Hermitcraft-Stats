@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.spruce_fence
+1: falsesymmetry: 132
+2: ZombieCleo: 111
+Total 243

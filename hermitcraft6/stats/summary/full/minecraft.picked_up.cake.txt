@@ -1,0 +1,14 @@
+minecraft.picked_up.cake
+1: cubfan135: 60
+2: iJevin: 30
+3: impulseSV: 21
+4: GoodTimeWithScar: 18
+5: Renthedog: 9
+6: iskall85: 8
+7: Xisuma: 1
+8: Grian: 1
+9: Tango: 1
+10: ZombieCleo: 1
+11: MumboJumbo: 1
+12: Tinfoilchef: 1
+Total 152

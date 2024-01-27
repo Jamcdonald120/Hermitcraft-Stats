@@ -1,0 +1,7 @@
+stat.drop.minecraft.redstone_lamp
+1: MumboJumbo: 20
+2: cubfan135: 17
+3: xBCrafted: 7
+4: Zedaph: 3
+5: impulseSV: 1
+Total 48

@@ -1,0 +1,5 @@
+minecraft.dropped.waxed_exposed_cut_copper
+1: Grian: 8
+2: Keralis1: 4
+3: PearlescentMoon: 1
+Total 13

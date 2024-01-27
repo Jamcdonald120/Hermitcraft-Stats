@@ -1,0 +1,17 @@
+stat.useItem.minecraft.coal_block
+1: Xisuma: 530
+2: cubfan135: 354
+3: GoodTimeWithScar: 89
+4: MumboJumbo: 65
+5: ZombieCleo: 64
+6: falsesymmetry: 48
+7: iskall85: 39
+8: Docm77: 29
+9: PythonGB: 7
+10: joehillssays: 5
+11: xBCrafted: 4
+12: Tinfoilchef: 3
+13: Renthedog: 2
+14: Tango: 1
+15: Welsknight: 1
+Total 1241

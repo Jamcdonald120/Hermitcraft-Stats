@@ -1,0 +1,12 @@
+minecraft.dropped.yellow_wool
+1: GoodTimeWithScar: 185
+2: iskall85: 104
+3: Grian: 73
+4: Docm77: 46
+5: BdoubleO100: 38
+6: Xisuma: 11
+7: Tango: 9
+8: impulseSV: 8
+9: falsesymmetry: 5
+10: cubfan135: 1
+Total 480

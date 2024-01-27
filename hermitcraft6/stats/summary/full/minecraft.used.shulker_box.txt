@@ -1,0 +1,26 @@
+minecraft.used.shulker_box
+1: cubfan135: 7785
+2: GoodTimeWithScar: 6368
+3: Xisuma: 4119
+4: Grian: 2477
+5: impulseSV: 2436
+6: iJevin: 2213
+7: Tango: 2100
+8: Welsknight: 2019
+9: iskall85: 1707
+10: MumboJumbo: 1150
+11: falsesymmetry: 1070
+12: Stressmonster101: 926
+13: Renthedog: 836
+14: Docm77: 804
+15: PythonGB: 763
+16: Tinfoilchef: 584
+17: Zedaph: 458
+18: Biffa2001: 379
+19: joehillssays: 339
+20: ZombieCleo: 227
+21: HumanCleo: 93
+22: BdoubleO100: 45
+23: Keralis1: 32
+24: xBCrafted: 12
+Total 38942

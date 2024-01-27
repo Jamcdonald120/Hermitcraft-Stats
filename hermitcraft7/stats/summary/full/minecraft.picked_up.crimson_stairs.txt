@@ -1,0 +1,16 @@
+minecraft.picked_up.crimson_stairs
+1: Zedaph: 276
+2: Etho: 201
+3: cubfan135: 142
+4: Welsknight: 106
+5: falsesymmetry: 86
+6: Grian: 71
+7: MumboJumbo: 66
+8: joehillssays: 24
+9: impulseSV: 15
+10: Tango: 7
+11: Renthedog: 3
+12: iskall85: 2
+13: ZombieCleo: 2
+14: Stressmonster101: 2
+Total 1003

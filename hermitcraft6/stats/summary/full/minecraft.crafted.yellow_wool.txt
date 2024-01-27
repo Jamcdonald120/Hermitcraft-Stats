@@ -1,0 +1,14 @@
+minecraft.crafted.yellow_wool
+1: Xisuma: 5087
+2: iskall85: 545
+3: falsesymmetry: 235
+4: GoodTimeWithScar: 200
+5: Grian: 128
+6: impulseSV: 64
+7: cubfan135: 54
+8: PythonGB: 32
+9: ZombieCleo: 28
+10: Tango: 26
+11: Renthedog: 16
+12: Tinfoilchef: 1
+Total 6416

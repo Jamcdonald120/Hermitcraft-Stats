@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.concrete_powder
+1: Renthedog: 152000
+2: GoodTimeWithScar: 137644
+3: iskall85: 129104
+4: cubfan135: 92420
+5: falsesymmetry: 64560
+6: impulseSV: 28728
+7: Stressmonster101: 25000
+8: Xisuma: 19616
+9: Welsknight: 16376
+10: MumboJumbo: 15736
+11: PythonGB: 13920
+12: joehillssays: 13648
+13: Tango: 9872
+14: Tinfoilchef: 3600
+15: Zedaph: 2920
+16: ZombieCleo: 2760
+17: iJevin: 1592
+18: xBCrafted: 1528
+19: Docm77: 1008
+20: VintageBeef: 336
+21: BdoubleO100: 336
+22: Biffa2001: 264
+Total 732968

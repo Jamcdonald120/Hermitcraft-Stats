@@ -1,0 +1,23 @@
+minecraft.mined.scaffolding
+1: Renthedog: 8080
+2: BdoubleO100: 6435
+3: cubfan135: 6364
+4: Xisuma: 5393
+5: falsesymmetry: 4711
+6: Docm77: 1897
+7: Grian: 1524
+8: joehillssays: 1099
+9: impulseSV: 1045
+10: iskall85: 644
+11: GoodTimeWithScar: 513
+12: Tango: 337
+13: ZombieCleo: 155
+14: Keralis1: 142
+15: iJevin: 129
+16: Stressmonster101: 64
+17: Zedaph: 58
+18: Tinfoilchef: 21
+19: MumboJumbo: 14
+20: HumanCleo: 8
+21: PythonGB: 6
+Total 38639

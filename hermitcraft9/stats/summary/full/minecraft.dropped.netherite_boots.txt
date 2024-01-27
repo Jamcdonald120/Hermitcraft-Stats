@@ -1,0 +1,23 @@
+minecraft.dropped.netherite_boots
+1: cubfan135: 11
+2: iJevin: 8
+3: Tango: 6
+4: GoodTimeWithScar: 6
+5: Keralis1: 6
+6: joehillssays: 5
+7: Zedaph: 5
+8: Etho: 4
+9: PearlescentMoon: 3
+10: ZombieCleo: 3
+11: Xisuma: 2
+12: GeminiTay: 2
+13: BdoubleO100: 2
+14: impulseSV: 2
+15: Renthedog: 1
+16: MythicalSausage: 1
+17: iskall85: 1
+18: xBCrafted: 1
+19: falsesymmetry: 1
+20: RentheKing: 1
+21: HBomb94: 1
+Total 72

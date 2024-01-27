@@ -1,0 +1,20 @@
+stat.useItem.minecraft.stone_hoe
+1: Mumbo: 574
+2: Xisuma: 245
+3: sl1pg8r: 218
+4: topmass: 164
+5: iJevin: 159
+6: Tinfoilchef: 150
+7: monkeyfarm: 129
+8: Spumwackles: 112
+9: NameOfSamuel: 109
+10: falsesymmetry: 105
+11: ZombieCleo: 77
+12: Pungence: 62
+13: KingDaddyDMAC: 51
+14: xBCrafted: 26
+15: Biffa2001: 21
+16: zueljin: 9
+17: Etho: 8
+18: Tango: 7
+Total 2226

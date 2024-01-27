@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.map
+1: falsesymmetry: 69
+2: zueljin: 56
+3: monkeyfarm: 46
+4: Tango: 16
+5: PythonGB: 6
+6: ZombieCleo: 5
+Total 198

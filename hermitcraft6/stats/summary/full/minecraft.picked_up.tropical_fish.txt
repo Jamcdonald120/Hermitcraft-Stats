@@ -1,0 +1,24 @@
+minecraft.picked_up.tropical_fish
+1: Biffa2001: 212
+2: iskall85: 71
+3: cubfan135: 59
+4: Xisuma: 44
+5: Renthedog: 30
+6: Docm77: 19
+7: GoodTimeWithScar: 19
+8: Grian: 17
+9: Stressmonster101: 11
+10: iJevin: 10
+11: Tango: 10
+12: Welsknight: 7
+13: falsesymmetry: 4
+14: PythonGB: 2
+15: Jessassin: 2
+16: ZombieCleo: 2
+17: MumboJumbo: 2
+18: joehillssays: 1
+19: BdoubleO100: 1
+20: xBCrafted: 1
+21: Keralis1: 1
+22: impulseSV: 1
+Total 526

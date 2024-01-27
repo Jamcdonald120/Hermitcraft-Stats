@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.bookshelf
+1: zueljin: 109
+2: Tango: 92
+3: iJevin: 82
+4: falsesymmetry: 73
+5: Xisuma: 68
+6: xBCrafted: 59
+7: Spumwackles: 45
+8: KingDaddyDMAC: 42
+9: PythonGB: 38
+10: monkeyfarm: 34
+11: sl1pg8r: 24
+12: Mumbo: 3
+13: topmass: 1
+14: Tinfoilchef: 1
+15: impulseSV: 1
+Total 672

@@ -1,0 +1,15 @@
+stat.mineBlock.minecraft.mossy_cobblestone
+1: xBCrafted: 655
+2: falsesymmetry: 216
+3: topmass: 191
+4: Biffa2001: 175
+5: Tango: 139
+6: impulseSV: 99
+7: sl1pg8r: 90
+8: skyzm: 60
+9: KingDaddyDMAC: 59
+10: monkeyfarm: 50
+11: Xisuma: 39
+12: hypnotizd: 17
+13: PythonGB: 1
+Total 1791

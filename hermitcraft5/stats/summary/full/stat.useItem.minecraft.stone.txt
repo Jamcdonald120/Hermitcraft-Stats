@@ -1,0 +1,28 @@
+stat.useItem.minecraft.stone
+1: GoodTimeWithScar: 293181
+2: Xisuma: 77081
+3: Welsknight: 72051
+4: cubfan135: 62989
+5: MumboJumbo: 51412
+6: falsesymmetry: 45317
+7: Renthedog: 41607
+8: Tinfoilchef: 24211
+9: Zedaph: 21642
+10: iskall85: 21472
+11: PythonGB: 20274
+12: joehillssays: 16619
+13: xBCrafted: 15809
+14: Stressmonster101: 13638
+15: Tango: 13145
+16: impulseSV: 10227
+17: iJevin: 9154
+18: Docm77: 3075
+19: VintageBeef: 2320
+20: Etho: 1705
+21: BdoubleO100: 1609
+22: Biffa2001: 965
+23: ZombieCleo: 287
+24: xisumavoid: 56
+25: isGall85: 17
+26: Mumbo: 1
+Total 819864

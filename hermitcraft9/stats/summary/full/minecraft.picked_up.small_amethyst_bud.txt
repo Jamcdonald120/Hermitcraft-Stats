@@ -1,0 +1,19 @@
+minecraft.picked_up.small_amethyst_bud
+1: iJevin: 5245
+2: hypnotizd: 482
+3: cubfan135: 333
+4: Renthedog: 148
+5: Tango: 140
+6: Etho: 98
+7: iskall85: 96
+8: Stressmonster101: 80
+9: Xisuma: 72
+10: RentheKing: 33
+11: joehillssays: 22
+12: PearlescentMoon: 22
+13: impulseSV: 17
+14: Keralis1: 10
+15: ZombieCleo: 2
+16: BdoubleO100: 1
+17: Zedaph: 1
+Total 6802

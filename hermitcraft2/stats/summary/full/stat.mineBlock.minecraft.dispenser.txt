@@ -1,0 +1,10 @@
+stat.mineBlock.minecraft.dispenser
+1: Xisuma: 130
+2: sl1pg8r: 42
+3: falsesymmetry: 6
+4: iJevin: 3
+5: ZombieCleo: 3
+6: Mumbo: 2
+7: zueljin: 1
+8: monkeyfarm: 1
+Total 188

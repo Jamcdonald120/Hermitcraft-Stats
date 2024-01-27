@@ -1,0 +1,28 @@
+minecraft.crafted.copper_ingot
+1: GoodTimeWithScar: 8244
+2: Renthedog: 6468
+3: cubfan135: 4286
+4: Etho: 3481
+5: PearlescentMoon: 3298
+6: impulseSV: 2970
+7: Tango: 2833
+8: Welsknight: 2333
+9: Xisuma: 1889
+10: BdoubleO100: 1723
+11: VintageBeef: 1562
+12: Docm77: 1150
+13: ZombieCleo: 924
+14: GeminiTay: 839
+15: falsesymmetry: 833
+16: hypnotizd: 794
+17: iJevin: 754
+18: joehillssays: 682
+19: Zedaph: 436
+20: MumboJumbo: 211
+21: Stressmonster101: 153
+22: Grian: 150
+23: iskall85: 135
+24: Keralis1: 135
+25: Tinfoilchef: 61
+26: xBCrafted: 2
+Total 46346

@@ -1,0 +1,19 @@
+minecraft.dropped.gold_ore
+1: cubfan135: 1991
+2: iJevin: 616
+3: iskall85: 300
+4: GoodTimeWithScar: 133
+5: MumboJumbo: 87
+6: Tango: 71
+7: Renthedog: 63
+8: xBCrafted: 41
+9: Stressmonster101: 31
+10: Xisuma: 26
+11: impulseSV: 26
+12: BdoubleO100: 13
+13: falsesymmetry: 13
+14: Docm77: 10
+15: ZombieCleo: 8
+16: Tinfoilchef: 8
+17: Keralis1: 5
+Total 3442

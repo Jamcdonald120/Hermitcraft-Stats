@@ -1,0 +1,27 @@
+minecraft.mined.deepslate_copper_ore
+1: GoodTimeWithScar: 161
+2: cubfan135: 137
+3: PearlescentMoon: 128
+4: Renthedog: 92
+5: xBCrafted: 91
+6: MumboJumbo: 70
+7: iJevin: 59
+8: BdoubleO100: 55
+9: joehillssays: 52
+10: Grian: 52
+11: Xisuma: 41
+12: Docm77: 39
+13: ZombieCleo: 35
+14: VintageBeef: 32
+15: GeminiTay: 32
+16: Tinfoilchef: 30
+17: Tango: 27
+18: Welsknight: 27
+19: falsesymmetry: 24
+20: iskall85: 21
+21: Stressmonster101: 19
+22: Etho: 17
+23: hypnotizd: 15
+24: impulseSV: 14
+25: Zedaph: 14
+Total 1284

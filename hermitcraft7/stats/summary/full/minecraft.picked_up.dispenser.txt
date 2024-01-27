@@ -1,0 +1,25 @@
+minecraft.picked_up.dispenser
+1: Tango: 414
+2: Etho: 399
+3: cubfan135: 201
+4: impulseSV: 199
+5: iskall85: 146
+6: BdoubleO100: 142
+7: GoodTimeWithScar: 136
+8: Zedaph: 133
+9: joehillssays: 115
+10: VintageBeef: 112
+11: MumboJumbo: 103
+12: Grian: 100
+13: Xisuma: 62
+14: iJevin: 61
+15: Keralis1: 45
+16: Renthedog: 31
+17: Stressmonster101: 23
+18: xBCrafted: 19
+19: falsesymmetry: 18
+20: Docm77: 10
+21: ZombieCleo: 6
+22: Welsknight: 2
+23: hypnotizd: 2
+Total 2479

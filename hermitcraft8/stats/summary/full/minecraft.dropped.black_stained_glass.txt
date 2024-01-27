@@ -1,0 +1,11 @@
+minecraft.dropped.black_stained_glass
+1: xBCrafted: 193
+2: Grian: 84
+3: BdoubleO100: 14
+4: Docm77: 9
+5: hypnotizd: 9
+6: impulseSV: 8
+7: MumboJumbo: 3
+8: iskall85: 2
+9: Etho: 1
+Total 323

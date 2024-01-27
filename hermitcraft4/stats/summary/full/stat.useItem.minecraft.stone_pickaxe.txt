@@ -1,0 +1,24 @@
+stat.useItem.minecraft.stone_pickaxe
+1: GoodTimeWithScar: 2687
+2: joehillssays: 973
+3: zueljin: 696
+4: iskall85: 693
+5: Xisuma: 566
+6: iJevin: 475
+7: VintageBeef: 397
+8: falsesymmetry: 289
+9: Renthedog: 271
+10: PythonGB: 266
+11: Tinfoilchef: 266
+12: Welsknight: 260
+13: Mumbo: 255
+14: Tango: 253
+15: impulseSV: 238
+16: Etho: 169
+17: ZombieCleo: 152
+18: xBCrafted: 132
+19: Jessassin: 126
+20: Docm77: 105
+21: cubfan135: 47
+22: hypnotizd: 4
+Total 9320

@@ -1,0 +1,26 @@
+minecraft.crafted.item_frame
+1: Grian: 3835
+2: VintageBeef: 1166
+3: Etho: 853
+4: GoodTimeWithScar: 701
+5: Tango: 681
+6: Keralis1: 591
+7: impulseSV: 312
+8: cubfan135: 277
+9: Xisuma: 251
+10: falsesymmetry: 223
+11: xBCrafted: 198
+12: ZombieCleo: 174
+13: Zedaph: 151
+14: MumboJumbo: 142
+15: iskall85: 129
+16: hypnotizd: 128
+17: Renthedog: 114
+18: iJevin: 100
+19: joehillssays: 90
+20: BdoubleO100: 86
+21: Welsknight: 64
+22: Stressmonster101: 59
+23: Tinfoilchef: 10
+24: Docm77: 8
+Total 10343

@@ -1,0 +1,5 @@
+minecraft.crafted.bell
+1: Xisuma: 576
+2: GoodTimeWithScar: 39
+3: Grian: 12
+Total 627

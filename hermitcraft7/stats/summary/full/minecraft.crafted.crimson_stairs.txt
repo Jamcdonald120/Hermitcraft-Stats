@@ -1,0 +1,17 @@
+minecraft.crafted.crimson_stairs
+1: falsesymmetry: 412
+2: Welsknight: 348
+3: Etho: 332
+4: Grian: 228
+5: Stressmonster101: 188
+6: MumboJumbo: 152
+7: cubfan135: 148
+8: impulseSV: 144
+9: Keralis1: 136
+10: joehillssays: 112
+11: Renthedog: 64
+12: Xisuma: 40
+13: ZombieCleo: 8
+14: Tango: 4
+15: iskall85: 4
+Total 2320

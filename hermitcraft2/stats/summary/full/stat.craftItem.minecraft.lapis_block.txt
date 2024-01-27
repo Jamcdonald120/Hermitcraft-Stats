@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.lapis_block
+1: Xisuma: 443
+2: zueljin: 35
+3: KingDaddyDMAC: 19
+4: xBCrafted: 16
+5: Collen: 14
+Total 527

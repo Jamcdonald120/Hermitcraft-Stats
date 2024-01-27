@@ -1,0 +1,6 @@
+minecraft.dropped.orange_carpet
+1: PearlescentMoon: 640
+2: falsesymmetry: 5
+3: Renthedog: 4
+4: VintageBeef: 3
+Total 652

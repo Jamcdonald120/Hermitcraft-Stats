@@ -1,0 +1,20 @@
+minecraft.dropped.scaffolding
+1: iJevin: 1016
+2: Tango: 380
+3: Docm77: 301
+4: PearlescentMoon: 263
+5: impulseSV: 260
+6: GoodTimeWithScar: 221
+7: Xisuma: 175
+8: ZombieCleo: 149
+9: cubfan135: 130
+10: Renthedog: 126
+11: joehillssays: 76
+12: falsesymmetry: 69
+13: EvilXisuma: 54
+14: BdoubleO100: 52
+15: GeminiTay: 46
+16: Grian: 14
+17: VintageBeef: 10
+18: MumboJumbo: 6
+Total 3348

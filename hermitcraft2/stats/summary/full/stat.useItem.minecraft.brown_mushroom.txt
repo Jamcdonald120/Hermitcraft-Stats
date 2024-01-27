@@ -1,0 +1,5 @@
+stat.useItem.minecraft.brown_mushroom
+1: sl1pg8r: 40
+2: falsesymmetry: 14
+3: zueljin: 5
+Total 59

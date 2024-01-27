@@ -1,0 +1,25 @@
+minecraft.picked_up.painting
+1: BdoubleO100: 450
+2: GoodTimeWithScar: 191
+3: cubfan135: 184
+4: GeminiTay: 115
+5: Renthedog: 112
+6: xBCrafted: 107
+7: Tango: 99
+8: ZombieCleo: 71
+9: falsesymmetry: 60
+10: Etho: 49
+11: Smajor1995: 41
+12: hypnotizd: 33
+13: VintageBeef: 18
+14: Grian: 17
+15: Stressmonster101: 16
+16: Welsknight: 12
+17: Keralis1: 11
+18: PearlescentMoon: 9
+19: fWhip: 9
+20: iJevin: 7
+21: Xisuma: 6
+22: iskall85: 2
+23: Mumbo: 1
+Total 1620

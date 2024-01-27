@@ -1,0 +1,8 @@
+stat.pickup.minecraft.jungle_boat
+1: falsesymmetry: 23
+2: MumboJumbo: 15
+3: cubfan135: 13
+4: impulseSV: 10
+5: Xisuma: 2
+6: Tango: 1
+Total 64

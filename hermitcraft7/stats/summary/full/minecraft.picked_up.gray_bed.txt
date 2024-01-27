@@ -1,0 +1,15 @@
+minecraft.picked_up.gray_bed
+1: GoodTimeWithScar: 787
+2: Grian: 457
+3: BdoubleO100: 50
+4: Renthedog: 38
+5: Zedaph: 24
+6: impulseSV: 20
+7: cubfan135: 18
+8: falsesymmetry: 12
+9: Tango: 7
+10: Keralis1: 7
+11: MumboJumbo: 2
+12: Stressmonster101: 2
+13: iskall85: 1
+Total 1425

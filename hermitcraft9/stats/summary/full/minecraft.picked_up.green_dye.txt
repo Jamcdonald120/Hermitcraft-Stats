@@ -1,0 +1,15 @@
+minecraft.picked_up.green_dye
+1: Zedaph: 83077
+2: impulseSV: 4498
+3: Grian: 2919
+4: PearlescentMoon: 1776
+5: Xisuma: 922
+6: joehillssays: 271
+7: falsesymmetry: 109
+8: GoodTimeWithScar: 71
+9: iJevin: 67
+10: cubfan135: 61
+11: Renthedog: 58
+12: Etho: 31
+13: Tango: 6
+Total 93866

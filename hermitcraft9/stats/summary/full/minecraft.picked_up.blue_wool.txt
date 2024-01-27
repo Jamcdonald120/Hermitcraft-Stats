@@ -1,0 +1,19 @@
+minecraft.picked_up.blue_wool
+1: PearlescentMoon: 1652
+2: Welsknight: 1077
+3: iJevin: 997
+4: Docm77: 272
+5: VintageBeef: 169
+6: Grian: 168
+7: Tango: 162
+8: GoodTimeWithScar: 155
+9: falsesymmetry: 74
+10: cubfan135: 56
+11: joehillssays: 19
+12: Renthedog: 13
+13: GeminiTay: 12
+14: Stressmonster101: 12
+15: impulseSV: 2
+16: Zedaph: 2
+17: Keralis1: 1
+Total 4843

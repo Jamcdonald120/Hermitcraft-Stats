@@ -1,0 +1,19 @@
+minecraft.picked_up.light_gray_stained_glass
+1: Grian: 3998
+2: Zedaph: 1447
+3: Etho: 764
+4: GoodTimeWithScar: 750
+5: Stressmonster101: 418
+6: iJevin: 284
+7: Docm77: 260
+8: impulseSV: 208
+9: Keralis1: 142
+10: Xisuma: 137
+11: iskall85: 137
+12: cubfan135: 104
+13: joehillssays: 90
+14: Tango: 83
+15: BdoubleO100: 16
+16: Renthedog: 14
+17: MumboJumbo: 1
+Total 8853

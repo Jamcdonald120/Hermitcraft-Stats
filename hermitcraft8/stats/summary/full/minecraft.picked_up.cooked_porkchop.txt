@@ -1,0 +1,18 @@
+minecraft.picked_up.cooked_porkchop
+1: Tango: 675
+2: GoodTimeWithScar: 204
+3: PearlescentMoon: 156
+4: iJevin: 116
+5: xBCrafted: 53
+6: Zedaph: 31
+7: Grian: 24
+8: Stressmonster101: 21
+9: MumboJumbo: 20
+10: Etho: 11
+11: joehillssays: 8
+12: Welsknight: 8
+13: hypnotizd: 6
+14: Xisuma: 4
+15: falsesymmetry: 4
+16: iskall85: 3
+Total 1344

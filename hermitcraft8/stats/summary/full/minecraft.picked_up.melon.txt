@@ -1,0 +1,13 @@
+minecraft.picked_up.melon
+1: iJevin: 2371
+2: Zedaph: 2082
+3: cubfan135: 104
+4: Stressmonster101: 78
+5: Grian: 39
+6: GoodTimeWithScar: 33
+7: PearlescentMoon: 21
+8: GeminiTay: 10
+9: ZombieCleo: 4
+10: hypnotizd: 4
+11: Xisuma: 2
+Total 4748

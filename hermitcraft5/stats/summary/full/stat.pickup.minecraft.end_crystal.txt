@@ -1,0 +1,9 @@
+stat.pickup.minecraft.end_crystal
+1: VintageBeef: 4
+2: xBCrafted: 4
+3: GoodTimeWithScar: 4
+4: Tango: 3
+5: Zedaph: 2
+6: PythonGB: 1
+7: cubfan135: 1
+Total 19

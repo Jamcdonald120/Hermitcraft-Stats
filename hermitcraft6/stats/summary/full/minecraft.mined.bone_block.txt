@@ -1,0 +1,24 @@
+minecraft.mined.bone_block
+1: Xisuma: 1291
+2: Docm77: 835
+3: joehillssays: 735
+4: Renthedog: 540
+5: cubfan135: 512
+6: BdoubleO100: 373
+7: GoodTimeWithScar: 372
+8: Welsknight: 355
+9: Zedaph: 195
+10: ZombieCleo: 192
+11: falsesymmetry: 157
+12: Tango: 142
+13: iskall85: 139
+14: Grian: 56
+15: impulseSV: 34
+16: iJevin: 33
+17: PythonGB: 22
+18: MumboJumbo: 16
+19: Duke_da_dog: 16
+20: Stressmonster101: 16
+21: Biffa2001: 4
+22: Keralis1: 2
+Total 6037

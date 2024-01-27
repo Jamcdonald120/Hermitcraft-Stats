@@ -1,0 +1,10 @@
+minecraft.dropped.deepslate_redstone_ore
+1: MumboJumbo: 21
+2: Docm77: 20
+3: falsesymmetry: 5
+4: Grian: 3
+5: GoodTimeWithScar: 3
+6: Xisuma: 2
+7: xBCrafted: 2
+8: Renthedog: 1
+Total 57

@@ -1,0 +1,32 @@
+minecraft.crafted.diamond_shovel
+1: iJevin: 79
+2: Tango: 54
+3: Grian: 38
+4: joehillssays: 13
+5: Keralis1: 12
+6: Docm77: 11
+7: Mumbo: 10
+8: Stressmonster101: 10
+9: Xisuma: 8
+10: Renthedog: 8
+11: xBCrafted: 6
+12: falsesymmetry: 6
+13: GoodTimeWithScar: 6
+14: Zedaph: 6
+15: ZombieCleo: 5
+16: VintageBeef: 4
+17: PearlescentMoon: 4
+18: iskall85: 4
+19: Etho: 4
+20: impulseSV: 4
+21: BdoubleO100: 3
+22: OrionSound: 2
+23: GeminiTay: 2
+24: Pixlriffs: 2
+25: cubfan135: 2
+26: Welsknight: 2
+27: MythicalSausage: 1
+28: Smallishbeans: 1
+29: hypnotizd: 1
+30: MumboJumbo: 1
+Total 309

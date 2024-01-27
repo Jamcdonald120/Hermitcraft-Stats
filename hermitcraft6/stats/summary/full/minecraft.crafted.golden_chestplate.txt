@@ -1,0 +1,14 @@
+minecraft.crafted.golden_chestplate
+1: impulseSV: 39
+2: Grian: 11
+3: Xisuma: 4
+4: PythonGB: 4
+5: ZombieCleo: 4
+6: iJevin: 3
+7: Renthedog: 2
+8: joehillssays: 2
+9: iskall85: 2
+10: cubfan135: 2
+11: BdoubleO100: 1
+12: GoodTimeWithScar: 1
+Total 75

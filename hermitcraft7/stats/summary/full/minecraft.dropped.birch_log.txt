@@ -1,0 +1,20 @@
+minecraft.dropped.birch_log
+1: BdoubleO100: 675
+2: Grian: 279
+3: cubfan135: 252
+4: Keralis1: 216
+5: iskall85: 193
+6: Tango: 163
+7: GoodTimeWithScar: 100
+8: Renthedog: 97
+9: Welsknight: 64
+10: Xisuma: 49
+11: Docm77: 35
+12: MumboJumbo: 30
+13: iJevin: 25
+14: falsesymmetry: 21
+15: VintageBeef: 7
+16: xBCrafted: 7
+17: Etho: 6
+18: Zedaph: 1
+Total 2220

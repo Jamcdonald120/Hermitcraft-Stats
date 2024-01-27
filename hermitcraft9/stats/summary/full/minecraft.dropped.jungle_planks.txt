@@ -1,0 +1,19 @@
+minecraft.dropped.jungle_planks
+1: falsesymmetry: 214
+2: Zedaph: 143
+3: iJevin: 109
+4: PearlescentMoon: 90
+5: Keralis1: 64
+6: joehillssays: 48
+7: GoodTimeWithScar: 39
+8: cubfan135: 22
+9: Etho: 20
+10: Smajor1995: 19
+11: Xisuma: 12
+12: iskall85: 8
+13: VintageBeef: 6
+14: Grian: 6
+15: impulseSV: 4
+16: Renthedog: 2
+17: ZombieCleo: 2
+Total 808

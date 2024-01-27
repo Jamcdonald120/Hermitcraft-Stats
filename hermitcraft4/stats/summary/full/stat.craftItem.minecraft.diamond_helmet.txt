@@ -1,0 +1,18 @@
+stat.craftItem.minecraft.diamond_helmet
+1: GoodTimeWithScar: 26
+2: iskall85: 16
+3: iJevin: 11
+4: PythonGB: 10
+5: Renthedog: 9
+6: falsesymmetry: 8
+7: Tango: 6
+8: cubfan135: 6
+9: MumboJumbo: 6
+10: Welsknight: 5
+11: Xisuma: 3
+12: Tinfoilchef: 3
+13: impulseSV: 3
+14: joehillssays: 2
+15: Etho: 2
+16: Biffa2001: 1
+Total 117

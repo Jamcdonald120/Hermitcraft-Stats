@@ -1,0 +1,30 @@
+minecraft.used.oak_fence
+1: Docm77: 641
+2: Zedaph: 566
+3: cubfan135: 419
+4: BdoubleO100: 412
+5: Etho: 329
+6: hypnotizd: 274
+7: Keralis1: 269
+8: Renthedog: 230
+9: VintageBeef: 213
+10: joehillssays: 195
+11: iJevin: 191
+12: iskall85: 178
+13: GoodTimeWithScar: 164
+14: PearlescentMoon: 163
+15: ZombieCleo: 159
+16: xBCrafted: 152
+17: Xisuma: 141
+18: Grian: 138
+19: impulseSV: 123
+20: Stressmonster101: 61
+21: Tango: 38
+22: Mumbo: 35
+23: GeminiTay: 26
+24: MythicalSausage: 21
+25: Smallishbeans: 17
+26: Welsknight: 16
+27: MumboJumbo: 7
+28: SolidarityGaming: 4
+Total 5182

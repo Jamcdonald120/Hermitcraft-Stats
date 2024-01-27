@@ -1,0 +1,25 @@
+minecraft.picked_up.oak_stairs
+1: Renthedog: 574
+2: xBCrafted: 484
+3: Keralis1: 281
+4: Xisuma: 196
+5: MumboJumbo: 184
+6: joehillssays: 168
+7: Etho: 132
+8: Stressmonster101: 80
+9: iJevin: 60
+10: iskall85: 57
+11: Tango: 53
+12: BdoubleO100: 38
+13: impulseSV: 34
+14: VintageBeef: 28
+15: GoodTimeWithScar: 26
+16: cubfan135: 22
+17: Welsknight: 19
+18: Grian: 18
+19: falsesymmetry: 17
+20: Zedaph: 11
+21: hypnotizd: 8
+22: BarryBoss1234: 2
+23: ZombieCleo: 2
+Total 2494

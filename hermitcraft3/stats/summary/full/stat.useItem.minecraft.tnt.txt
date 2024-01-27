@@ -1,0 +1,20 @@
+stat.useItem.minecraft.tnt
+1: Xisuma: 973
+2: xBCrafted: 737
+3: Etho: 716
+4: Tango: 702
+5: impulseSV: 396
+6: zueljin: 246
+7: falsesymmetry: 128
+8: Biffa2001: 94
+9: monkeyfarm: 86
+10: sl1pg8r: 82
+11: PythonGB: 71
+12: iJevin: 70
+13: Tinfoilchef: 61
+14: Mumbo: 37
+15: topmass: 22
+16: ZombieCleo: 18
+17: hypnotizd: 15
+18: Docm77: 1
+Total 4455

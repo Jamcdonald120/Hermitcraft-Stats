@@ -1,0 +1,11 @@
+minecraft.dropped.end_crystal
+1: Zedaph: 18
+2: Etho: 3
+3: Xisuma: 1
+4: Tango: 1
+5: iskall85: 1
+6: xBCrafted: 1
+7: falsesymmetry: 1
+8: GoodTimeWithScar: 1
+9: impulseSV: 1
+Total 28

@@ -1,0 +1,29 @@
+minecraft.picked_up.spruce_door
+1: Docm77: 69
+2: Zedaph: 39
+3: xBCrafted: 32
+4: GoodTimeWithScar: 26
+5: Keralis1: 26
+6: iJevin: 23
+7: ZombieCleo: 23
+8: GeminiTay: 22
+9: RentheKing: 22
+10: impulseSV: 20
+11: Renthedog: 19
+12: BdoubleO100: 19
+13: falsesymmetry: 17
+14: PearlescentMoon: 14
+15: iskall85: 14
+16: Grian: 11
+17: hypnotizd: 10
+18: Xisuma: 7
+19: Tango: 7
+20: ShubbleYT: 3
+21: VintageBeef: 2
+22: MythicalSausage: 2
+23: Pixlriffs: 2
+24: cubfan135: 2
+25: joehillssays: 1
+26: Welsknight: 1
+27: Stressmonster101: 1
+Total 434

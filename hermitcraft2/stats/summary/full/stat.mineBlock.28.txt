@@ -1,0 +1,3 @@
+stat.mineBlock.28
+1: red3yz: 15
+Total 15

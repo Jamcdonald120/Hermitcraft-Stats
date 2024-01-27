@@ -1,0 +1,4 @@
+stat.useItem.minecraft.tnt_minecart
+1: Etho: 4
+2: zueljin: 1
+Total 5

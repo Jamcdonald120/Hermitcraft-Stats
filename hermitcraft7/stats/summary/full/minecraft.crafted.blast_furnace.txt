@@ -1,0 +1,23 @@
+minecraft.crafted.blast_furnace
+1: Etho: 663
+2: Renthedog: 352
+3: GoodTimeWithScar: 330
+4: cubfan135: 71
+5: hypnotizd: 67
+6: Xisuma: 64
+7: Tango: 50
+8: MumboJumbo: 49
+9: falsesymmetry: 43
+10: Grian: 30
+11: BdoubleO100: 23
+12: Keralis1: 23
+13: VintageBeef: 22
+14: Tinfoilchef: 16
+15: Zedaph: 15
+16: xBCrafted: 13
+17: Docm77: 12
+18: iJevin: 1
+19: iskall85: 1
+20: Stressmonster101: 1
+21: impulseSV: 1
+Total 1847

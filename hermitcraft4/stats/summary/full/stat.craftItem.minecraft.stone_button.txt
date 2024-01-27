@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.stone_button
+1: Welsknight: 640
+2: falsesymmetry: 572
+3: Xisuma: 515
+4: cubfan135: 372
+5: iskall85: 369
+6: Tinfoilchef: 309
+7: MumboJumbo: 280
+8: GoodTimeWithScar: 209
+9: Tango: 135
+10: impulseSV: 83
+11: Docm77: 66
+12: Renthedog: 35
+13: Etho: 21
+14: PythonGB: 19
+15: Mumbo: 14
+16: VintageBeef: 13
+17: ZombieCleo: 12
+18: joehillssays: 6
+19: zueljin: 1
+Total 3671

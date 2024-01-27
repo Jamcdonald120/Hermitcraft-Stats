@@ -1,0 +1,19 @@
+minecraft.crafted.cartography_table
+1: Etho: 698
+2: GoodTimeWithScar: 90
+3: Grian: 46
+4: GeminiTay: 32
+5: Keralis1: 16
+6: joehillssays: 12
+7: Xisuma: 6
+8: Renthedog: 6
+9: VintageBeef: 6
+10: Tango: 4
+11: falsesymmetry: 4
+12: Zedaph: 3
+13: iJevin: 2
+14: PearlescentMoon: 2
+15: cubfan135: 2
+16: Docm77: 1
+17: impulseSV: 1
+Total 931

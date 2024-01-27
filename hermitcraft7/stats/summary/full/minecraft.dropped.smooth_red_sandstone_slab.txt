@@ -1,0 +1,5 @@
+minecraft.dropped.smooth_red_sandstone_slab
+1: Tango: 5
+2: Keralis1: 2
+3: GoodTimeWithScar: 1
+Total 8

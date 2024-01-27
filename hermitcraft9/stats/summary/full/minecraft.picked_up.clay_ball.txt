@@ -1,0 +1,31 @@
+minecraft.picked_up.clay_ball
+1: Tango: 84267
+2: Zedaph: 79186
+3: joehillssays: 14300
+4: impulseSV: 2765
+5: falsesymmetry: 2383
+6: Keralis1: 2089
+7: xBCrafted: 1743
+8: iJevin: 1543
+9: Etho: 1462
+10: cubfan135: 1402
+11: BdoubleO100: 1184
+12: PearlescentMoon: 940
+13: MythicalSausage: 896
+14: Xisuma: 876
+15: ZombieCleo: 840
+16: Docm77: 516
+17: Stressmonster101: 509
+18: Renthedog: 501
+19: GoodTimeWithScar: 267
+20: hypnotizd: 236
+21: iskall85: 193
+22: Grian: 122
+23: RentheKing: 96
+24: VintageBeef: 68
+25: Welsknight: 40
+26: GeminiTay: 28
+27: OrionSound: 21
+28: Mumbo: 16
+29: MumboJumbo: 16
+Total 198505

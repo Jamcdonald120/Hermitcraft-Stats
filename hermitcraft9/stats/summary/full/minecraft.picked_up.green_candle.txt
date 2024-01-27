@@ -1,0 +1,14 @@
+minecraft.picked_up.green_candle
+1: hypnotizd: 12
+2: Zedaph: 10
+3: cubfan135: 8
+4: iJevin: 6
+5: PearlescentMoon: 6
+6: Etho: 5
+7: ZombieCleo: 5
+8: Grian: 2
+9: falsesymmetry: 2
+10: Docm77: 1
+11: GeminiTay: 1
+12: impulseSV: 1
+Total 59

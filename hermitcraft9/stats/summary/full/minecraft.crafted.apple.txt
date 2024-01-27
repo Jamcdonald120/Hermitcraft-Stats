@@ -1,0 +1,10 @@
+minecraft.crafted.apple
+1: Etho: 1000
+2: Keralis1: 300
+3: impulseSV: 256
+4: Stressmonster101: 248
+5: iJevin: 128
+6: Zedaph: 120
+7: iskall85: 104
+8: Grian: 64
+Total 2220

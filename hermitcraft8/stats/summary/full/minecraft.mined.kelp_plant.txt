@@ -1,0 +1,28 @@
+minecraft.mined.kelp_plant
+1: iJevin: 667
+2: Zedaph: 573
+3: iskall85: 539
+4: cubfan135: 432
+5: BdoubleO100: 355
+6: Docm77: 326
+7: Tango: 228
+8: Grian: 202
+9: impulseSV: 189
+10: Renthedog: 136
+11: xBCrafted: 104
+12: hypnotizd: 63
+13: Xisuma: 51
+14: ZombieCleo: 51
+15: Tinfoilchef: 47
+16: GeminiTay: 40
+17: Welsknight: 29
+18: falsesymmetry: 24
+19: GoodTimeWithScar: 17
+20: Etho: 16
+21: Stressmonster101: 16
+22: MumboJumbo: 12
+23: Keralis1: 12
+24: VintageBeef: 11
+25: PearlescentMoon: 8
+26: joehillssays: 5
+Total 4153

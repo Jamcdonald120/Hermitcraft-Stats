@@ -1,0 +1,23 @@
+stat.craftItem.minecraft.diamond_shovel
+1: falsesymmetry: 47
+2: Xisuma: 32
+3: xBCrafted: 32
+4: Tango: 24
+5: Mumbo: 22
+6: sl1pg8r: 18
+7: impulseSV: 18
+8: Tinfoilchef: 17
+9: ZombieCleo: 13
+10: Biffa2001: 12
+11: hypnotizd: 11
+12: monkeyfarm: 10
+13: zueljin: 7
+14: Etho: 7
+15: topmass: 6
+16: PythonGB: 6
+17: Spumwackles: 5
+18: iJevin: 4
+19: KingDaddyDMAC: 3
+20: Docm77: 1
+21: skyzm: 1
+Total 296

@@ -1,0 +1,28 @@
+minecraft.picked_up.slime_block
+1: Docm77: 9902
+2: Grian: 1870
+3: falsesymmetry: 1801
+4: GoodTimeWithScar: 1478
+5: cubfan135: 1042
+6: hypnotizd: 850
+7: joehillssays: 732
+8: impulseSV: 510
+9: Keralis1: 468
+10: Tango: 364
+11: Xisuma: 329
+12: OrionSound: 305
+13: iskall85: 194
+14: Renthedog: 155
+15: iJevin: 127
+16: Zedaph: 110
+17: PearlescentMoon: 95
+18: Mumbo: 44
+19: Pixlriffs: 42
+20: xBCrafted: 31
+21: ZombieCleo: 21
+22: Etho: 18
+23: GeminiTay: 6
+24: VintageBeef: 5
+25: BdoubleO100: 1
+26: RentheKing: 1
+Total 20501

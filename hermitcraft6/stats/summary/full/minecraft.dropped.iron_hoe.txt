@@ -1,0 +1,11 @@
+minecraft.dropped.iron_hoe
+1: Tango: 6
+2: iskall85: 5
+3: GoodTimeWithScar: 2
+4: Keralis1: 2
+5: Xisuma: 1
+6: iJevin: 1
+7: Grian: 1
+8: falsesymmetry: 1
+9: impulseSV: 1
+Total 20

@@ -1,0 +1,21 @@
+stat.drop.minecraft.stone_stairs
+1: GoodTimeWithScar: 343
+2: cubfan135: 164
+3: Renthedog: 80
+4: iskall85: 61
+5: Zedaph: 49
+6: Tango: 48
+7: impulseSV: 40
+8: Xisuma: 39
+9: xBCrafted: 37
+10: iJevin: 25
+11: joehillssays: 11
+12: falsesymmetry: 8
+13: BdoubleO100: 7
+14: Docm77: 5
+15: MumboJumbo: 4
+16: VintageBeef: 1
+17: Welsknight: 1
+18: Etho: 1
+19: Tinfoilchef: 1
+Total 925

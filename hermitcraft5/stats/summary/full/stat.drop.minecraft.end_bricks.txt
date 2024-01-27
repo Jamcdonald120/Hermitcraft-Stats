@@ -1,0 +1,14 @@
+stat.drop.minecraft.end_bricks
+1: Zedaph: 300
+2: iskall85: 160
+3: Renthedog: 77
+4: MumboJumbo: 46
+5: GoodTimeWithScar: 41
+6: Xisuma: 23
+7: impulseSV: 21
+8: Tango: 20
+9: Tinfoilchef: 18
+10: falsesymmetry: 12
+11: PythonGB: 7
+12: xBCrafted: 2
+Total 727

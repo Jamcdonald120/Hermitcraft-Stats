@@ -1,0 +1,13 @@
+stat.craftItem.minecraft.diamond_hoe
+1: Renthedog: 110
+2: cubfan135: 5
+3: Xisuma: 3
+4: falsesymmetry: 2
+5: MumboJumbo: 2
+6: Docm77: 1
+7: iJevin: 1
+8: joehillssays: 1
+9: GoodTimeWithScar: 1
+10: Stressmonster101: 1
+11: Zedaph: 1
+Total 128

@@ -1,0 +1,14 @@
+minecraft.picked_up.bell
+1: iJevin: 51
+2: Grian: 36
+3: GoodTimeWithScar: 33
+4: Etho: 14
+5: cubfan135: 9
+6: BdoubleO100: 7
+7: Xisuma: 6
+8: iskall85: 3
+9: falsesymmetry: 2
+10: MumboJumbo: 2
+11: Renthedog: 1
+12: Stressmonster101: 1
+Total 165

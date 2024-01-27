@@ -1,0 +1,16 @@
+stat.craftItem.minecraft.leather_helmet
+1: Renthedog: 74
+2: PythonGB: 26
+3: Xisuma: 16
+4: cubfan135: 13
+5: BdoubleO100: 11
+6: falsesymmetry: 11
+7: impulseSV: 10
+8: GoodTimeWithScar: 7
+9: Tinfoilchef: 6
+10: joehillssays: 4
+11: Zedaph: 4
+12: Stressmonster101: 2
+13: Tango: 1
+14: ZombieCleo: 1
+Total 186

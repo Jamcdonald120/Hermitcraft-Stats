@@ -1,0 +1,23 @@
+minecraft.picked_up.orange_terracotta
+1: cubfan135: 37489
+2: GoodTimeWithScar: 17558
+3: joehillssays: 13479
+4: falsesymmetry: 9450
+5: Grian: 8316
+6: Xisuma: 6401
+7: impulseSV: 2215
+8: Biffa2001: 1031
+9: MumboJumbo: 861
+10: iskall85: 772
+11: Zedaph: 718
+12: Stressmonster101: 611
+13: Docm77: 505
+14: ZombieCleo: 182
+15: Welsknight: 88
+16: iJevin: 15
+17: Renthedog: 3
+18: PythonGB: 3
+19: Tango: 3
+20: BdoubleO100: 3
+21: Keralis1: 3
+Total 99706

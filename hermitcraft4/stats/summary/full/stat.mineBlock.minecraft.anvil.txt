@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.anvil
+1: iskall85: 1126
+2: Renthedog: 140
+3: Xisuma: 100
+4: cubfan135: 79
+5: Tango: 78
+6: GoodTimeWithScar: 46
+7: falsesymmetry: 30
+8: impulseSV: 28
+9: iJevin: 27
+10: MumboJumbo: 20
+11: joehillssays: 15
+12: PythonGB: 11
+13: VintageBeef: 8
+14: Tinfoilchef: 8
+15: Welsknight: 7
+16: Biffa2001: 7
+17: Etho: 4
+18: ZombieCleo: 4
+19: Docm77: 2
+20: xBCrafted: 2
+Total 1742

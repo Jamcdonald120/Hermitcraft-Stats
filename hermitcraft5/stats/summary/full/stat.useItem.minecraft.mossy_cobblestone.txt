@@ -1,0 +1,25 @@
+stat.useItem.minecraft.mossy_cobblestone
+1: Docm77: 366
+2: PythonGB: 265
+3: VintageBeef: 261
+4: BdoubleO100: 232
+5: cubfan135: 145
+6: GoodTimeWithScar: 145
+7: xBCrafted: 136
+8: Xisuma: 123
+9: iskall85: 114
+10: Etho: 71
+11: Renthedog: 63
+12: MumboJumbo: 35
+13: ZombieCleo: 28
+14: Welsknight: 23
+15: Zedaph: 21
+16: Tango: 18
+17: iJevin: 16
+18: Stressmonster101: 15
+19: joehillssays: 13
+20: Tinfoilchef: 11
+21: falsesymmetry: 4
+22: Biffa2001: 3
+23: impulseSV: 2
+Total 2110

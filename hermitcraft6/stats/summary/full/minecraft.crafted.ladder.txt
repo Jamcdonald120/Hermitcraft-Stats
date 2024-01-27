@@ -1,0 +1,24 @@
+minecraft.crafted.ladder
+1: Xisuma: 1599
+2: falsesymmetry: 1437
+3: joehillssays: 1179
+4: Docm77: 1113
+5: Renthedog: 1080
+6: iJevin: 903
+7: Stressmonster101: 807
+8: GoodTimeWithScar: 756
+9: iskall85: 729
+10: cubfan135: 615
+11: impulseSV: 579
+12: MumboJumbo: 432
+13: ZombieCleo: 312
+14: Grian: 288
+15: Zedaph: 288
+16: Welsknight: 234
+17: Biffa2001: 213
+18: Tango: 203
+19: Tinfoilchef: 174
+20: PythonGB: 78
+21: BdoubleO100: 69
+22: Keralis1: 57
+Total 13145

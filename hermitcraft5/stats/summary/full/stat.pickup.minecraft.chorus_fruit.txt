@@ -1,0 +1,19 @@
+stat.pickup.minecraft.chorus_fruit
+1: Tango: 5237
+2: joehillssays: 4234
+3: Xisuma: 3856
+4: Zedaph: 2720
+5: impulseSV: 2502
+6: Renthedog: 2425
+7: cubfan135: 1668
+8: GoodTimeWithScar: 832
+9: falsesymmetry: 565
+10: PythonGB: 533
+11: Tinfoilchef: 400
+12: Welsknight: 351
+13: MumboJumbo: 313
+14: Biffa2001: 201
+15: iskall85: 150
+16: iJevin: 43
+17: xBCrafted: 26
+Total 26056

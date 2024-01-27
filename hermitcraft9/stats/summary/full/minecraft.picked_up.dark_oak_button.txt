@@ -1,0 +1,20 @@
+minecraft.picked_up.dark_oak_button
+1: falsesymmetry: 151
+2: Renthedog: 145
+3: RentheKing: 126
+4: GoodTimeWithScar: 68
+5: Docm77: 59
+6: impulseSV: 40
+7: Stressmonster101: 35
+8: Grian: 29
+9: cubfan135: 26
+10: Keralis1: 23
+11: joehillssays: 12
+12: GeminiTay: 11
+13: Xisuma: 9
+14: PearlescentMoon: 9
+15: iskall85: 7
+16: xBCrafted: 5
+17: Tango: 2
+18: hypnotizd: 1
+Total 758

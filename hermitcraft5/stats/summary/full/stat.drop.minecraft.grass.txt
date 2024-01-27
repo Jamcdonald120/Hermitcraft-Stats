@@ -1,0 +1,22 @@
+stat.drop.minecraft.grass
+1: Tango: 2491
+2: MumboJumbo: 2275
+3: iskall85: 1792
+4: GoodTimeWithScar: 1554
+5: cubfan135: 1422
+6: Zedaph: 876
+7: Welsknight: 494
+8: falsesymmetry: 305
+9: Xisuma: 274
+10: impulseSV: 165
+11: Stressmonster101: 119
+12: Renthedog: 95
+13: PythonGB: 76
+14: xBCrafted: 40
+15: Etho: 18
+16: Biffa2001: 17
+17: joehillssays: 15
+18: BdoubleO100: 5
+19: Docm77: 3
+20: ZombieCleo: 1
+Total 12037

@@ -1,0 +1,26 @@
+stat.mineBlock.minecraft.crafting_table
+1: falsesymmetry: 967
+2: cubfan135: 491
+3: Xisuma: 349
+4: Renthedog: 280
+5: iskall85: 270
+6: GoodTimeWithScar: 228
+7: Welsknight: 208
+8: Tango: 142
+9: impulseSV: 117
+10: iJevin: 95
+11: VintageBeef: 80
+12: joehillssays: 64
+13: Docm77: 62
+14: MumboJumbo: 56
+15: ZombieCleo: 55
+16: PythonGB: 44
+17: Tinfoilchef: 44
+18: Etho: 43
+19: Biffa2001: 37
+20: xBCrafted: 24
+21: zueljin: 17
+22: Mumbo: 17
+23: Jessassin: 15
+24: hypnotizd: 1
+Total 3706

@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.golden_rail
+1: impulseSV: 1622
+2: iskall85: 1005
+3: MumboJumbo: 897
+4: Tango: 391
+5: cubfan135: 349
+6: Xisuma: 257
+7: falsesymmetry: 244
+8: GoodTimeWithScar: 150
+9: Tinfoilchef: 81
+10: Renthedog: 66
+11: VintageBeef: 60
+12: Biffa2001: 34
+13: iJevin: 26
+14: Docm77: 24
+15: Etho: 15
+16: PythonGB: 8
+17: joehillssays: 7
+18: Welsknight: 2
+Total 5238

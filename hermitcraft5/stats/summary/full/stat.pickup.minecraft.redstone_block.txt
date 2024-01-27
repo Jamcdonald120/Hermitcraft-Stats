@@ -1,0 +1,23 @@
+stat.pickup.minecraft.redstone_block
+1: Tango: 1821
+2: MumboJumbo: 779
+3: cubfan135: 735
+4: impulseSV: 640
+5: GoodTimeWithScar: 338
+6: Zedaph: 329
+7: iskall85: 280
+8: Xisuma: 265
+9: falsesymmetry: 221
+10: Renthedog: 184
+11: joehillssays: 164
+12: Stressmonster101: 58
+13: PythonGB: 55
+14: iJevin: 54
+15: Docm77: 40
+16: xBCrafted: 31
+17: Welsknight: 20
+18: ZombieCleo: 14
+19: Tinfoilchef: 14
+20: VintageBeef: 2
+21: Etho: 1
+Total 6045

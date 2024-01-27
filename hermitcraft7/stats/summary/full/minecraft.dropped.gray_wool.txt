@@ -1,0 +1,16 @@
+minecraft.dropped.gray_wool
+1: Keralis1: 414
+2: cubfan135: 334
+3: Grian: 284
+4: Zedaph: 243
+5: Tango: 200
+6: GoodTimeWithScar: 98
+7: Renthedog: 64
+8: hypnotizd: 36
+9: falsesymmetry: 33
+10: Etho: 21
+11: Xisuma: 3
+12: BdoubleO100: 3
+13: VintageBeef: 2
+14: iskall85: 1
+Total 1736

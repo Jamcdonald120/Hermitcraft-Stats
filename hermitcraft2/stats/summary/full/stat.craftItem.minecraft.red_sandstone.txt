@@ -1,0 +1,3 @@
+stat.craftItem.minecraft.red_sandstone
+1: zueljin: 15
+Total 15

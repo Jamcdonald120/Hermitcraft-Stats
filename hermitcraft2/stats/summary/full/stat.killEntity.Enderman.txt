@@ -1,0 +1,27 @@
+stat.killEntity.Enderman
+1: KingDaddyDMAC: 93253
+2: Xisuma: 78921
+3: sl1pg8r: 72842
+4: hypnotizd: 59171
+5: red3yz: 54702
+6: Spumwackles: 49415
+7: Tinfoilchef: 44070
+8: ZombieCleo: 42589
+9: Biffa2001: 42275
+10: iJevin: 28921
+11: Mumbo: 22452
+12: skyzm: 17784
+13: Pungence: 16299
+14: monkeyfarm: 9751
+15: falsesymmetry: 8965
+16: Tango: 7697
+17: Keralis1: 7193
+18: Unhost: 5927
+19: zueljin: 5336
+20: xBCrafted: 4175
+21: Marriland: 2362
+22: Collen: 431
+23: joehillssays: 117
+24: NameOfSamuel: 43
+25: Jessassin: 1
+Total 674692

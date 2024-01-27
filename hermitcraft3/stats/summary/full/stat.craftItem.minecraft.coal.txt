@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.coal
+1: zueljin: 7778
+2: xBCrafted: 2593
+3: sl1pg8r: 1908
+4: hypnotizd: 1444
+5: Biffa2001: 1389
+6: topmass: 1248
+7: Xisuma: 1224
+8: falsesymmetry: 959
+9: ZombieCleo: 884
+10: Spumwackles: 739
+11: monkeyfarm: 723
+12: Etho: 405
+13: PythonGB: 294
+14: joehillssays: 258
+15: impulseSV: 227
+16: KingDaddyDMAC: 171
+17: Mumbo: 153
+18: NameOfSamuel: 126
+19: skyzm: 87
+20: iJevin: 17
+21: Tango: 11
+22: Pungence: 9
+23: Tinfoilchef: 9
+Total 22656

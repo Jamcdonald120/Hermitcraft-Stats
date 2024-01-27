@@ -1,0 +1,16 @@
+minecraft.dropped.nether_bricks
+1: Tango: 421
+2: Renthedog: 362
+3: falsesymmetry: 86
+4: Docm77: 81
+5: Zedaph: 64
+6: iskall85: 60
+7: MumboJumbo: 55
+8: Xisuma: 31
+9: iJevin: 30
+10: Grian: 19
+11: impulseSV: 13
+12: GoodTimeWithScar: 6
+13: Stressmonster101: 4
+14: PythonGB: 1
+Total 1233

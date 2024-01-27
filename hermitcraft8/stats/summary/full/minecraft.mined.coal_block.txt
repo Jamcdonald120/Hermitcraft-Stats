@@ -1,0 +1,15 @@
+minecraft.mined.coal_block
+1: impulseSV: 493
+2: MumboJumbo: 191
+3: VintageBeef: 41
+4: Grian: 40
+5: cubfan135: 14
+6: GoodTimeWithScar: 14
+7: iJevin: 11
+8: xBCrafted: 11
+9: Renthedog: 8
+10: Xisuma: 7
+11: PearlescentMoon: 3
+12: Tango: 1
+13: Welsknight: 1
+Total 835

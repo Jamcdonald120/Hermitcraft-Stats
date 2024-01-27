@@ -1,0 +1,6 @@
+stat.useItem.minecraft.dragon_egg
+1: Xisuma: 2927
+2: impulseSV: 255
+3: Tango: 20
+4: cubfan135: 8
+Total 3210

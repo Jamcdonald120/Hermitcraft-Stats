@@ -1,0 +1,21 @@
+minecraft.crafted.golden_carrot
+1: Grian: 61205
+2: GoodTimeWithScar: 29404
+3: Keralis1: 28492
+4: Etho: 13018
+5: Xisuma: 9664
+6: Stressmonster101: 5371
+7: iskall85: 4925
+8: Docm77: 3640
+9: iJevin: 1675
+10: cubfan135: 985
+11: MumboJumbo: 783
+12: xBCrafted: 390
+13: Zedaph: 307
+14: joehillssays: 277
+15: impulseSV: 239
+16: hypnotizd: 216
+17: Tango: 152
+18: VintageBeef: 46
+19: falsesymmetry: 14
+Total 160803

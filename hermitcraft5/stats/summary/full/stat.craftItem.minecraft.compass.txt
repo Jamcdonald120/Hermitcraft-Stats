@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.compass
+1: Tango: 1086
+2: MumboJumbo: 165
+3: cubfan135: 150
+4: joehillssays: 88
+5: Xisuma: 59
+6: GoodTimeWithScar: 49
+7: Welsknight: 47
+8: falsesymmetry: 46
+9: VintageBeef: 38
+10: Renthedog: 35
+11: xBCrafted: 28
+12: PythonGB: 21
+13: iskall85: 16
+14: BdoubleO100: 8
+15: Stressmonster101: 8
+16: ZombieCleo: 3
+17: Docm77: 2
+18: Zedaph: 1
+Total 1850

@@ -1,0 +1,22 @@
+minecraft.dropped.coarse_dirt
+1: Zedaph: 3595
+2: Keralis1: 974
+3: GoodTimeWithScar: 858
+4: joehillssays: 307
+5: cubfan135: 216
+6: Renthedog: 160
+7: xBCrafted: 141
+8: Tango: 80
+9: Stressmonster101: 64
+10: hypnotizd: 54
+11: MumboJumbo: 54
+12: VintageBeef: 32
+13: Etho: 28
+14: iJevin: 27
+15: BdoubleO100: 25
+16: Grian: 24
+17: iskall85: 22
+18: Xisuma: 8
+19: Docm77: 1
+20: Welsknight: 1
+Total 6671

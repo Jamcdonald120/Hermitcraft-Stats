@@ -1,0 +1,14 @@
+stat.useItem.minecraft.lapis_block
+1: falsesymmetry: 296
+2: Xisuma: 105
+3: Tango: 45
+4: ZombieCleo: 45
+5: joehillssays: 27
+6: cubfan135: 24
+7: impulseSV: 24
+8: Welsknight: 17
+9: iskall85: 13
+10: Tinfoilchef: 12
+11: MumboJumbo: 4
+12: GoodTimeWithScar: 1
+Total 613

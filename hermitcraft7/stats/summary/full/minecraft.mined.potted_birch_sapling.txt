@@ -1,0 +1,8 @@
+minecraft.mined.potted_birch_sapling
+1: Welsknight: 8
+2: impulseSV: 4
+3: Grian: 3
+4: Tango: 2
+5: Keralis1: 2
+6: Xisuma: 1
+Total 20

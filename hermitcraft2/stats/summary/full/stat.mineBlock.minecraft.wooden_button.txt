@@ -1,0 +1,5 @@
+stat.mineBlock.minecraft.wooden_button
+1: falsesymmetry: 22
+2: Xisuma: 5
+3: Tango: 2
+Total 29

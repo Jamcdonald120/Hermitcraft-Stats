@@ -1,0 +1,9 @@
+minecraft.crafted.brown_stained_glass_pane
+1: falsesymmetry: 224
+2: BdoubleO100: 40
+3: Xisuma: 32
+4: PearlescentMoon: 32
+5: Keralis1: 32
+6: Zedaph: 24
+7: GoodTimeWithScar: 16
+Total 400

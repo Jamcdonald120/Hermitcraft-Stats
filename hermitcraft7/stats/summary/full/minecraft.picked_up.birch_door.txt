@@ -1,0 +1,15 @@
+minecraft.picked_up.birch_door
+1: joehillssays: 165
+2: Keralis1: 57
+3: BdoubleO100: 20
+4: Xisuma: 18
+5: Grian: 15
+6: cubfan135: 11
+7: Renthedog: 10
+8: Etho: 7
+9: Tango: 2
+10: GoodTimeWithScar: 2
+11: Stressmonster101: 2
+12: Docm77: 1
+13: falsesymmetry: 1
+Total 311

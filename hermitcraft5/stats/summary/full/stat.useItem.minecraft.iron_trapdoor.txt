@@ -1,0 +1,21 @@
+stat.useItem.minecraft.iron_trapdoor
+1: GoodTimeWithScar: 6077
+2: Xisuma: 1933
+3: cubfan135: 849
+4: impulseSV: 282
+5: Docm77: 275
+6: Tango: 150
+7: falsesymmetry: 137
+8: Zedaph: 117
+9: xBCrafted: 73
+10: iskall85: 52
+11: MumboJumbo: 43
+12: Welsknight: 18
+13: Tinfoilchef: 12
+14: VintageBeef: 9
+15: BdoubleO100: 8
+16: ZombieCleo: 8
+17: joehillssays: 7
+18: Stressmonster101: 4
+19: TangoCam: 1
+Total 10055

@@ -1,0 +1,16 @@
+minecraft.crafted.gray_terracotta
+1: GoodTimeWithScar: 11636
+2: falsesymmetry: 6304
+3: Renthedog: 3344
+4: Etho: 1524
+5: Grian: 1431
+6: VintageBeef: 872
+7: joehillssays: 512
+8: Tango: 408
+9: impulseSV: 320
+10: Xisuma: 288
+11: BdoubleO100: 176
+12: Keralis1: 49
+13: cubfan135: 8
+14: ZombieCleo: 8
+Total 26880

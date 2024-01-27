@@ -1,0 +1,7 @@
+stat.mineBlock.67
+1: topmass: 155
+2: red3yz: 38
+3: Marriland: 38
+4: skyzm: 11
+5: Keralis1: 2
+Total 244

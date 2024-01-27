@@ -1,0 +1,28 @@
+minecraft.mined.furnace
+1: Xisuma: 991
+2: Renthedog: 717
+3: MumboJumbo: 472
+4: cubfan135: 357
+5: iskall85: 333
+6: iJevin: 295
+7: impulseSV: 177
+8: Grian: 139
+9: Welsknight: 135
+10: Tango: 134
+11: Zedaph: 118
+12: joehillssays: 95
+13: falsesymmetry: 92
+14: Docm77: 77
+15: Tinfoilchef: 68
+16: Biffa2001: 67
+17: PythonGB: 59
+18: BdoubleO100: 55
+19: GoodTimeWithScar: 49
+20: Stressmonster101: 48
+21: ZombieCleo: 32
+22: HumanCleo: 31
+23: xBCrafted: 15
+24: Keralis1: 13
+25: Jessassin: 3
+26: EvilXisuma: 1
+Total 4573

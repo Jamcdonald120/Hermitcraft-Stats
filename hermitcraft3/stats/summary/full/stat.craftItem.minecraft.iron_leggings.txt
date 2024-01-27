@@ -1,0 +1,29 @@
+stat.craftItem.minecraft.iron_leggings
+1: falsesymmetry: 39
+2: Xisuma: 33
+3: Etho: 10
+4: Tango: 9
+5: impulseSV: 7
+6: xBCrafted: 6
+7: ZombieCleo: 6
+8: joehillssays: 4
+9: zueljin: 4
+10: Biffa2001: 4
+11: Tinfoilchef: 4
+12: KingDaddyDMAC: 3
+13: Mumbo: 3
+14: Spumwackles: 3
+15: Docm77: 2
+16: sl1pg8r: 2
+17: skyzm: 2
+18: topmass: 2
+19: PythonGB: 2
+20: hypnotizd: 2
+21: Keralis1: 2
+22: iJevin: 1
+23: Pungence: 1
+24: Mrs_Keralis: 1
+25: monkeyfarm: 1
+26: NameOfSamuel: 1
+27: Collen: 1
+Total 155

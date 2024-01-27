@@ -1,0 +1,20 @@
+stat.useItem.minecraft.glass_pane
+1: falsesymmetry: 1697
+2: Xisuma: 607
+3: joehillssays: 588
+4: Mumbo: 460
+5: monkeyfarm: 455
+6: Spumwackles: 264
+7: impulseSV: 212
+8: sl1pg8r: 202
+9: Tinfoilchef: 165
+10: PythonGB: 110
+11: Keralis1: 74
+12: xBCrafted: 58
+13: zueljin: 41
+14: Tango: 41
+15: ZombieCleo: 19
+16: iJevin: 16
+17: Biffa2001: 8
+18: Docm77: 6
+Total 5023

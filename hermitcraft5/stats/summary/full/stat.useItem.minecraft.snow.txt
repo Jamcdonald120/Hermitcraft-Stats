@@ -1,0 +1,15 @@
+stat.useItem.minecraft.snow
+1: Xisuma: 7911
+2: cubfan135: 6965
+3: MumboJumbo: 4847
+4: Zedaph: 2238
+5: Tango: 1836
+6: Renthedog: 1492
+7: ZombieCleo: 1217
+8: falsesymmetry: 798
+9: GoodTimeWithScar: 522
+10: impulseSV: 472
+11: iskall85: 31
+12: Etho: 14
+13: xBCrafted: 10
+Total 28353

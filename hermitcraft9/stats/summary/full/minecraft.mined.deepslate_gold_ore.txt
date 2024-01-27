@@ -1,0 +1,33 @@
+minecraft.mined.deepslate_gold_ore
+1: cubfan135: 3487
+2: VintageBeef: 1114
+3: PearlescentMoon: 1058
+4: GoodTimeWithScar: 1003
+5: impulseSV: 967
+6: joehillssays: 951
+7: Zedaph: 917
+8: Xisuma: 888
+9: xBCrafted: 838
+10: Renthedog: 682
+11: hypnotizd: 599
+12: iJevin: 534
+13: Docm77: 531
+14: Etho: 419
+15: Keralis1: 395
+16: iskall85: 352
+17: Grian: 336
+18: Tango: 325
+19: ZombieCleo: 321
+20: falsesymmetry: 237
+21: BdoubleO100: 170
+22: Mumbo: 165
+23: RentheKing: 134
+24: GeminiTay: 113
+25: Smallishbeans: 97
+26: MumboJumbo: 96
+27: Welsknight: 71
+28: Pixlriffs: 42
+29: Stressmonster101: 41
+30: MythicalSausage: 24
+31: Tinfoilchef: 2
+Total 16909

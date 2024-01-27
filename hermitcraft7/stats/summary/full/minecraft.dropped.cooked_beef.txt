@@ -1,0 +1,24 @@
+minecraft.dropped.cooked_beef
+1: Zedaph: 987
+2: Tango: 494
+3: Etho: 448
+4: Keralis1: 276
+5: hypnotizd: 234
+6: xBCrafted: 148
+7: ZombieCleo: 140
+8: iJevin: 134
+9: Welsknight: 134
+10: Grian: 130
+11: GoodTimeWithScar: 79
+12: joehillssays: 64
+13: Renthedog: 55
+14: Stressmonster101: 41
+15: Xisuma: 37
+16: iskall85: 36
+17: Docm77: 34
+18: VintageBeef: 34
+19: impulseSV: 28
+20: cubfan135: 25
+21: MumboJumbo: 4
+22: BdoubleO100: 1
+Total 3563

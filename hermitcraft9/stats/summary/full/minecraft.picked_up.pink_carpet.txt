@@ -1,0 +1,13 @@
+minecraft.picked_up.pink_carpet
+1: PearlescentMoon: 8977
+2: VintageBeef: 7763
+3: GeminiTay: 43
+4: impulseSV: 35
+5: Zedaph: 33
+6: cubfan135: 25
+7: ZombieCleo: 12
+8: iJevin: 11
+9: joehillssays: 7
+10: Keralis1: 4
+11: GoodTimeWithScar: 3
+Total 16913

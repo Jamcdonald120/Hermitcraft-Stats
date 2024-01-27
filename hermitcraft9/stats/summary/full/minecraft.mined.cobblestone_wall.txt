@@ -1,0 +1,27 @@
+minecraft.mined.cobblestone_wall
+1: Docm77: 1003
+2: Tango: 236
+3: xBCrafted: 80
+4: cubfan135: 67
+5: GoodTimeWithScar: 60
+6: Stressmonster101: 54
+7: Keralis1: 36
+8: falsesymmetry: 34
+9: iJevin: 32
+10: impulseSV: 29
+11: GeminiTay: 26
+12: joehillssays: 15
+13: Renthedog: 12
+14: VintageBeef: 11
+15: Xisuma: 10
+16: ZombieCleo: 9
+17: PearlescentMoon: 7
+18: BdoubleO100: 6
+19: Mumbo: 6
+20: iskall85: 5
+21: Zedaph: 5
+22: Grian: 4
+23: Smallishbeans: 3
+24: MythicalSausage: 1
+25: RentheKing: 1
+Total 1752

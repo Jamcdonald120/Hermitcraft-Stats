@@ -1,0 +1,26 @@
+minecraft.picked_up.polished_andesite
+1: GoodTimeWithScar: 3347
+2: cubfan135: 3251
+3: Grian: 2863
+4: Zedaph: 2495
+5: Keralis1: 2223
+6: Etho: 2000
+7: impulseSV: 1923
+8: iskall85: 1333
+9: falsesymmetry: 1041
+10: Xisuma: 833
+11: Tango: 714
+12: xBCrafted: 666
+13: VintageBeef: 459
+14: BdoubleO100: 192
+15: iJevin: 155
+16: Welsknight: 148
+17: Docm77: 130
+18: Tinfoilchef: 98
+19: ZombieCleo: 49
+20: joehillssays: 41
+21: MumboJumbo: 41
+22: Renthedog: 34
+23: hypnotizd: 9
+24: Stressmonster101: 2
+Total 24047

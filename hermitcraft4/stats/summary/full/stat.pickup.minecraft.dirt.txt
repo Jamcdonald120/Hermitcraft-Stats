@@ -1,0 +1,26 @@
+stat.pickup.minecraft.dirt
+1: GoodTimeWithScar: 91807
+2: Renthedog: 72127
+3: falsesymmetry: 60861
+4: cubfan135: 47491
+5: joehillssays: 46039
+6: iskall85: 44168
+7: MumboJumbo: 30002
+8: Xisuma: 28470
+9: Tango: 18849
+10: Welsknight: 15956
+11: Tinfoilchef: 12805
+12: iJevin: 10838
+13: Etho: 7983
+14: impulseSV: 5659
+15: Docm77: 5351
+16: ZombieCleo: 3491
+17: PythonGB: 3190
+18: Biffa2001: 2532
+19: zueljin: 2032
+20: xBCrafted: 1617
+21: Jessassin: 1123
+22: VintageBeef: 877
+23: Mumbo: 733
+24: hypnotizd: 1
+Total 514002

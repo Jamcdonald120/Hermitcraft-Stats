@@ -1,0 +1,31 @@
+minecraft.mined.white_terracotta
+1: VintageBeef: 15652
+2: PearlescentMoon: 4650
+3: Etho: 2089
+4: Docm77: 1716
+5: iskall85: 936
+6: falsesymmetry: 835
+7: Renthedog: 776
+8: joehillssays: 605
+9: impulseSV: 411
+10: MythicalSausage: 237
+11: cubfan135: 214
+12: Grian: 211
+13: GeminiTay: 182
+14: Zedaph: 137
+15: RentheKing: 136
+16: Xisuma: 112
+17: iJevin: 97
+18: Tango: 63
+19: BdoubleO100: 42
+20: Keralis1: 39
+21: GoodTimeWithScar: 37
+22: Mumbo: 31
+23: Smallishbeans: 19
+24: ZombieCleo: 17
+25: SolidarityGaming: 10
+26: Stressmonster101: 9
+27: xBCrafted: 7
+28: hypnotizd: 6
+29: Pixlriffs: 4
+Total 29280

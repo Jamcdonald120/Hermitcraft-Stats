@@ -1,0 +1,20 @@
+minecraft.dropped.book
+1: Etho: 240
+2: Zedaph: 169
+3: Xisuma: 129
+4: iskall85: 77
+5: Keralis1: 62
+6: Grian: 33
+7: GoodTimeWithScar: 14
+8: VintageBeef: 12
+9: joehillssays: 7
+10: cubfan135: 7
+11: falsesymmetry: 6
+12: MumboJumbo: 6
+13: hypnotizd: 4
+14: impulseSV: 4
+15: Stressmonster101: 3
+16: Tango: 2
+17: Renthedog: 1
+18: iJevin: 1
+Total 777

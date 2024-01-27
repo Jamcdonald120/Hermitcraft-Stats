@@ -1,0 +1,20 @@
+stat.useItem.minecraft.potion
+1: cubfan135: 319
+2: falsesymmetry: 217
+3: Welsknight: 159
+4: impulseSV: 84
+5: Renthedog: 67
+6: Zedaph: 61
+7: iskall85: 58
+8: joehillssays: 49
+9: Tango: 48
+10: MumboJumbo: 39
+11: GoodTimeWithScar: 36
+12: Xisuma: 31
+13: iJevin: 26
+14: Tinfoilchef: 26
+15: Stressmonster101: 14
+16: PythonGB: 6
+17: xBCrafted: 6
+18: BdoubleO100: 5
+Total 1251

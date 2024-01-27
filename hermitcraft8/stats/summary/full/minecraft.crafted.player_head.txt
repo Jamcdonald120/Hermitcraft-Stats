@@ -1,0 +1,19 @@
+minecraft.crafted.player_head
+1: Grian: 686
+2: PearlescentMoon: 570
+3: GoodTimeWithScar: 508
+4: GeminiTay: 204
+5: Etho: 145
+6: Xisuma: 143
+7: iskall85: 95
+8: Keralis1: 66
+9: cubfan135: 41
+10: impulseSV: 34
+11: iJevin: 32
+12: falsesymmetry: 29
+13: Welsknight: 24
+14: hypnotizd: 22
+15: joehillssays: 16
+16: Docm77: 6
+17: VintageBeef: 3
+Total 2624

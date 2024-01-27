@@ -1,0 +1,5 @@
+minecraft.custom.clean_armor
+1: Zedaph: 118
+2: cubfan135: 2
+3: iskall85: 1
+Total 121

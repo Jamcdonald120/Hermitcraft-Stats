@@ -1,0 +1,7 @@
+minecraft.dropped.netherite_block
+1: Zedaph: 169
+2: cubfan135: 1
+3: ZombieCleo: 1
+4: hypnotizd: 1
+5: impulseSV: 1
+Total 173

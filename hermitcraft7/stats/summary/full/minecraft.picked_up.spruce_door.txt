@@ -1,0 +1,25 @@
+minecraft.picked_up.spruce_door
+1: Grian: 93
+2: Etho: 69
+3: GoodTimeWithScar: 64
+4: joehillssays: 62
+5: xBCrafted: 57
+6: iskall85: 46
+7: Renthedog: 38
+8: BdoubleO100: 24
+9: Xisuma: 22
+10: Zedaph: 19
+11: iJevin: 13
+12: VintageBeef: 12
+13: cubfan135: 12
+14: Tango: 11
+15: Keralis1: 11
+16: MumboJumbo: 8
+17: Welsknight: 7
+18: BarryBoss1234: 6
+19: hypnotizd: 5
+20: impulseSV: 5
+21: falsesymmetry: 4
+22: ZombieCleo: 2
+23: Stressmonster101: 1
+Total 591

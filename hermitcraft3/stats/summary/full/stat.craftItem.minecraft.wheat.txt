@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.wheat
+1: impulseSV: 576
+2: Xisuma: 208
+Total 784

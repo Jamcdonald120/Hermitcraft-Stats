@@ -1,0 +1,4 @@
+minecraft.dropped.polished_andesite_stairs
+1: Tango: 8
+2: BdoubleO100: 3
+Total 11

@@ -1,0 +1,25 @@
+stat.craftItem.minecraft.glass
+1: falsesymmetry: 18456
+2: ZombieCleo: 10391
+3: Tango: 6175
+4: impulseSV: 5790
+5: sl1pg8r: 5192
+6: Spumwackles: 3513
+7: Xisuma: 3483
+8: Tinfoilchef: 2820
+9: monkeyfarm: 1603
+10: xBCrafted: 1366
+11: KingDaddyDMAC: 1208
+12: PythonGB: 807
+13: hypnotizd: 608
+14: skyzm: 518
+15: NameOfSamuel: 512
+16: Biffa2001: 470
+17: joehillssays: 440
+18: topmass: 378
+19: zueljin: 366
+20: Docm77: 216
+21: iJevin: 209
+22: Mumbo: 51
+23: Pungence: 1
+Total 64573

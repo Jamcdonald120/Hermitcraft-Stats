@@ -1,0 +1,28 @@
+minecraft.picked_up.crimson_stem
+1: Keralis1: 13262
+2: Etho: 5094
+3: Tango: 4267
+4: PearlescentMoon: 4054
+5: ZombieCleo: 3197
+6: Grian: 2122
+7: VintageBeef: 1951
+8: Renthedog: 1923
+9: Xisuma: 1152
+10: hypnotizd: 1077
+11: impulseSV: 764
+12: iJevin: 556
+13: Stressmonster101: 552
+14: cubfan135: 529
+15: falsesymmetry: 284
+16: Docm77: 243
+17: BdoubleO100: 90
+18: GeminiTay: 82
+19: Zedaph: 50
+20: joehillssays: 49
+21: RentheKing: 10
+22: Pixlriffs: 6
+23: GoodTimeWithScar: 6
+24: xBCrafted: 3
+25: fWhip: 3
+26: Smajor1995: 2
+Total 41328

@@ -1,0 +1,19 @@
+stat.useItem.minecraft.iron_trapdoor
+1: falsesymmetry: 811
+2: cubfan135: 411
+3: GoodTimeWithScar: 391
+4: impulseSV: 384
+5: Xisuma: 309
+6: iskall85: 272
+7: Tango: 243
+8: VintageBeef: 169
+9: Tinfoilchef: 83
+10: MumboJumbo: 55
+11: joehillssays: 54
+12: Docm77: 49
+13: PythonGB: 36
+14: Etho: 35
+15: Welsknight: 16
+16: Mumbo: 12
+17: Renthedog: 6
+Total 3336

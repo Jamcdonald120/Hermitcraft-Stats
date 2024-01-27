@@ -1,0 +1,6 @@
+minecraft.picked_up.prismarine_brick_stairs
+1: Xisuma: 31
+2: falsesymmetry: 12
+3: BdoubleO100: 2
+4: ZombieCleo: 2
+Total 47

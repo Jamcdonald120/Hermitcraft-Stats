@@ -1,0 +1,13 @@
+minecraft.dropped.observer
+1: iskall85: 60
+2: MumboJumbo: 58
+3: Renthedog: 40
+4: Grian: 39
+5: Stressmonster101: 19
+6: Xisuma: 13
+7: iJevin: 13
+8: Zedaph: 7
+9: Tango: 2
+10: GoodTimeWithScar: 2
+11: impulseSV: 1
+Total 254

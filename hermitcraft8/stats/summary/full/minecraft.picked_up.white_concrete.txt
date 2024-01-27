@@ -1,0 +1,22 @@
+minecraft.picked_up.white_concrete
+1: Zedaph: 10071
+2: impulseSV: 6801
+3: PearlescentMoon: 3120
+4: Welsknight: 2887
+5: Renthedog: 2489
+6: Docm77: 1535
+7: falsesymmetry: 1471
+8: hypnotizd: 1458
+9: Tango: 1270
+10: MumboJumbo: 1231
+11: Keralis1: 975
+12: Grian: 972
+13: cubfan135: 949
+14: Xisuma: 889
+15: xBCrafted: 724
+16: ZombieCleo: 270
+17: GeminiTay: 205
+18: BdoubleO100: 52
+19: iJevin: 35
+20: iskall85: 10
+Total 37414

@@ -1,0 +1,29 @@
+minecraft.mined.oak_fence
+1: Zedaph: 315
+2: iJevin: 197
+3: Tango: 175
+4: Etho: 130
+5: iskall85: 109
+6: cubfan135: 102
+7: Docm77: 94
+8: Renthedog: 91
+9: Grian: 91
+10: Xisuma: 87
+11: joehillssays: 81
+12: VintageBeef: 77
+13: ZombieCleo: 74
+14: Keralis1: 38
+15: xBCrafted: 31
+16: PearlescentMoon: 27
+17: GoodTimeWithScar: 23
+18: impulseSV: 22
+19: GeminiTay: 20
+20: Smallishbeans: 17
+21: BdoubleO100: 17
+22: Mumbo: 17
+23: Stressmonster101: 8
+24: hypnotizd: 7
+25: MythicalSausage: 6
+26: falsesymmetry: 3
+27: MumboJumbo: 1
+Total 1860

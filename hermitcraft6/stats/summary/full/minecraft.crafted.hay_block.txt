@@ -1,0 +1,21 @@
+minecraft.crafted.hay_block
+1: cubfan135: 6046
+2: GoodTimeWithScar: 963
+3: joehillssays: 186
+4: falsesymmetry: 144
+5: Docm77: 107
+6: Grian: 49
+7: Keralis1: 35
+8: Tango: 28
+9: iJevin: 27
+10: iskall85: 27
+11: Xisuma: 20
+12: ZombieCleo: 17
+13: BdoubleO100: 15
+14: Tinfoilchef: 14
+15: MumboJumbo: 12
+16: Jessassin: 7
+17: Stressmonster101: 3
+18: Welsknight: 2
+19: impulseSV: 1
+Total 7703

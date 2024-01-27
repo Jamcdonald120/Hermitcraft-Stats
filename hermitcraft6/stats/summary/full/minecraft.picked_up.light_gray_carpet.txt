@@ -1,0 +1,23 @@
+minecraft.picked_up.light_gray_carpet
+1: Docm77: 5517
+2: impulseSV: 718
+3: falsesymmetry: 502
+4: cubfan135: 369
+5: Xisuma: 316
+6: GoodTimeWithScar: 292
+7: iJevin: 221
+8: Tango: 217
+9: Renthedog: 75
+10: iskall85: 67
+11: Grian: 54
+12: MumboJumbo: 36
+13: joehillssays: 31
+14: PythonGB: 26
+15: BdoubleO100: 21
+16: Welsknight: 16
+17: Keralis1: 15
+18: Stressmonster101: 11
+19: ZombieCleo: 10
+20: Biffa2001: 5
+21: Zedaph: 5
+Total 8524

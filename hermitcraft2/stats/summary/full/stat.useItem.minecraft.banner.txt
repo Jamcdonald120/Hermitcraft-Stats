@@ -1,0 +1,11 @@
+stat.useItem.minecraft.banner
+1: ZombieCleo: 114
+2: sl1pg8r: 59
+3: zueljin: 51
+4: Xisuma: 43
+5: falsesymmetry: 40
+6: Tango: 19
+7: iJevin: 8
+8: KingDaddyDMAC: 4
+9: xBCrafted: 1
+Total 339

@@ -1,0 +1,15 @@
+minecraft.crafted.smooth_quartz
+1: impulseSV: 3422
+2: VintageBeef: 2014
+3: Grian: 1565
+4: PearlescentMoon: 1476
+5: Welsknight: 704
+6: Keralis1: 652
+7: Zedaph: 235
+8: ZombieCleo: 177
+9: Tango: 145
+10: Renthedog: 77
+11: cubfan135: 69
+12: BdoubleO100: 66
+13: iJevin: 5
+Total 10607

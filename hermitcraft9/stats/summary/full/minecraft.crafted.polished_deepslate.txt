@@ -1,0 +1,28 @@
+minecraft.crafted.polished_deepslate
+1: Mumbo: 23700
+2: cubfan135: 17220
+3: Renthedog: 9861
+4: GoodTimeWithScar: 7839
+5: Tango: 5393
+6: impulseSV: 5000
+7: GeminiTay: 4268
+8: PearlescentMoon: 4098
+9: Xisuma: 4016
+10: Grian: 3416
+11: MumboJumbo: 2996
+12: iJevin: 2317
+13: falsesymmetry: 1564
+14: Keralis1: 1304
+15: Stressmonster101: 1048
+16: MythicalSausage: 928
+17: BdoubleO100: 594
+18: xBCrafted: 356
+19: joehillssays: 256
+20: RentheKing: 256
+21: ZombieCleo: 252
+22: Zedaph: 40
+23: fWhip: 32
+24: VintageBeef: 5
+25: Docm77: 2
+26: hypnotizd: 1
+Total 96762

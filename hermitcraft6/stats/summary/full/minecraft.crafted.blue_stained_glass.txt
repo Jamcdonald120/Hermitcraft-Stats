@@ -1,0 +1,20 @@
+minecraft.crafted.blue_stained_glass
+1: GoodTimeWithScar: 4592
+2: Docm77: 4296
+3: iskall85: 2336
+4: Renthedog: 2304
+5: falsesymmetry: 1936
+6: Welsknight: 1872
+7: Tango: 1784
+8: MumboJumbo: 1032
+9: cubfan135: 1000
+10: PythonGB: 344
+11: xBCrafted: 192
+12: Xisuma: 152
+13: joehillssays: 120
+14: Tinfoilchef: 16
+15: Stressmonster101: 16
+16: Grian: 8
+17: ZombieCleo: 8
+18: Zedaph: 8
+Total 22016

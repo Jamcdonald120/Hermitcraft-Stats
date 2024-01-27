@@ -1,0 +1,11 @@
+minecraft.picked_up.stone_hoe
+1: iskall85: 4
+2: Zedaph: 4
+3: Xisuma: 3
+4: hypnotizd: 3
+5: Etho: 2
+6: GoodTimeWithScar: 2
+7: iJevin: 1
+8: BdoubleO100: 1
+9: ZombieCleo: 1
+Total 21

@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.hopper_minecart
+1: Renthedog: 180
+2: cubfan135: 90
+3: Xisuma: 79
+4: Tango: 55
+5: impulseSV: 55
+6: iskall85: 33
+7: MumboJumbo: 29
+8: Docm77: 20
+9: xBCrafted: 13
+10: Zedaph: 10
+11: GoodTimeWithScar: 8
+12: PythonGB: 6
+13: iJevin: 3
+14: falsesymmetry: 1
+15: Stressmonster101: 1
+Total 583

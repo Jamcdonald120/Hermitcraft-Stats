@@ -1,0 +1,26 @@
+minecraft.mined.spruce_sign
+1: ZombieCleo: 12
+2: iJevin: 10
+3: impulseSV: 9
+4: GeminiTay: 8
+5: cubfan135: 8
+6: xBCrafted: 7
+7: Grian: 6
+8: hypnotizd: 6
+9: OrionSound: 5
+10: BdoubleO100: 5
+11: Keralis1: 5
+12: Tango: 4
+13: Renthedog: 3
+14: falsesymmetry: 3
+15: GoodTimeWithScar: 3
+16: Xisuma: 2
+17: Etho: 2
+18: Mumbo: 2
+19: Docm77: 1
+20: Smajor1995: 1
+21: joehillssays: 1
+22: PearlescentMoon: 1
+23: iskall85: 1
+24: ShubbleYT: 1
+Total 106

@@ -1,0 +1,23 @@
+stat.pickup.minecraft.boat
+1: cubfan135: 409
+2: impulseSV: 134
+3: Tango: 127
+4: falsesymmetry: 127
+5: Xisuma: 67
+6: Renthedog: 57
+7: MumboJumbo: 38
+8: iskall85: 37
+9: Welsknight: 35
+10: PythonGB: 24
+11: GoodTimeWithScar: 23
+12: joehillssays: 17
+13: iJevin: 14
+14: VintageBeef: 11
+15: Biffa2001: 8
+16: Tinfoilchef: 8
+17: Docm77: 5
+18: Etho: 4
+19: Jessassin: 3
+20: zueljin: 1
+21: hypnotizd: 1
+Total 1150

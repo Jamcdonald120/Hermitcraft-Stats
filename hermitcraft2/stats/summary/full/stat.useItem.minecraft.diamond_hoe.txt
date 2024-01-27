@@ -1,0 +1,4 @@
+stat.useItem.minecraft.diamond_hoe
+1: iJevin: 191
+2: Mumbo: 8
+Total 199

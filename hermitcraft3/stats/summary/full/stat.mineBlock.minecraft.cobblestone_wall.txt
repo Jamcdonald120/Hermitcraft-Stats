@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.cobblestone_wall
+1: falsesymmetry: 369
+2: monkeyfarm: 242
+3: Xisuma: 202
+4: xBCrafted: 197
+5: Tango: 171
+6: Etho: 159
+7: KingDaddyDMAC: 120
+8: impulseSV: 99
+9: Spumwackles: 70
+10: ZombieCleo: 60
+11: zueljin: 59
+12: topmass: 20
+13: PythonGB: 19
+14: joehillssays: 18
+15: skyzm: 16
+16: Mumbo: 15
+17: Biffa2001: 7
+18: sl1pg8r: 6
+19: iJevin: 1
+Total 1850

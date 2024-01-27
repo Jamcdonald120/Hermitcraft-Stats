@@ -1,0 +1,6 @@
+minecraft.crafted.purple_candle
+1: ZombieCleo: 202
+2: cubfan135: 30
+3: GoodTimeWithScar: 5
+4: Tango: 3
+Total 240

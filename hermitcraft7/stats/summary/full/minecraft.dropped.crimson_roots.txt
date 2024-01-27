@@ -1,0 +1,24 @@
+minecraft.dropped.crimson_roots
+1: Tango: 758
+2: Docm77: 343
+3: xBCrafted: 302
+4: Etho: 251
+5: iskall85: 220
+6: Renthedog: 185
+7: Grian: 162
+8: Zedaph: 43
+9: cubfan135: 37
+10: GoodTimeWithScar: 35
+11: joehillssays: 26
+12: iJevin: 22
+13: VintageBeef: 18
+14: hypnotizd: 16
+15: MumboJumbo: 15
+16: BdoubleO100: 14
+17: Stressmonster101: 5
+18: falsesymmetry: 4
+19: impulseSV: 2
+20: Xisuma: 1
+21: ZombieCleo: 1
+22: Keralis1: 1
+Total 2461

@@ -1,0 +1,16 @@
+minecraft.crafted.cut_copper_slab
+1: cubfan135: 394
+2: joehillssays: 128
+3: Renthedog: 40
+4: falsesymmetry: 40
+5: GoodTimeWithScar: 38
+6: Xisuma: 32
+7: iskall85: 16
+8: ZombieCleo: 16
+9: MythicalSausage: 12
+10: PearlescentMoon: 12
+11: BdoubleO100: 10
+12: Docm77: 8
+13: VintageBeef: 8
+14: Zedaph: 2
+Total 756

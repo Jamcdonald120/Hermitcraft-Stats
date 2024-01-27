@@ -1,0 +1,21 @@
+minecraft.picked_up.light_gray_concrete_powder
+1: falsesymmetry: 4543
+2: PearlescentMoon: 3918
+3: GoodTimeWithScar: 3695
+4: Grian: 3483
+5: ZombieCleo: 1308
+6: Keralis1: 445
+7: Renthedog: 244
+8: Xisuma: 240
+9: Docm77: 203
+10: joehillssays: 71
+11: Smallishbeans: 64
+12: BdoubleO100: 64
+13: VintageBeef: 61
+14: cubfan135: 46
+15: impulseSV: 15
+16: Smajor1995: 11
+17: Etho: 4
+18: MythicalSausage: 1
+19: Zedaph: 1
+Total 18417

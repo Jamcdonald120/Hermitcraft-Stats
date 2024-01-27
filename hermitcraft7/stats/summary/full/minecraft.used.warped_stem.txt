@@ -1,0 +1,24 @@
+minecraft.used.warped_stem
+1: falsesymmetry: 6942
+2: iskall85: 5206
+3: Etho: 3797
+4: GoodTimeWithScar: 1880
+5: cubfan135: 1650
+6: VintageBeef: 1158
+7: BdoubleO100: 816
+8: Grian: 620
+9: Xisuma: 441
+10: xBCrafted: 364
+11: joehillssays: 308
+12: Tango: 244
+13: Stressmonster101: 217
+14: ZombieCleo: 195
+15: iJevin: 64
+16: Renthedog: 62
+17: impulseSV: 21
+18: Zedaph: 12
+19: hypnotizd: 7
+20: Keralis1: 2
+21: Welsknight: 1
+22: MumboJumbo: 1
+Total 24008

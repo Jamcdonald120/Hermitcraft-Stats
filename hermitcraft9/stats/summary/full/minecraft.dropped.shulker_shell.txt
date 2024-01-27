@@ -1,0 +1,16 @@
+minecraft.dropped.shulker_shell
+1: Tango: 960
+2: iJevin: 953
+3: Renthedog: 405
+4: Zedaph: 247
+5: impulseSV: 176
+6: ZombieCleo: 134
+7: Keralis1: 89
+8: joehillssays: 64
+9: xBCrafted: 61
+10: hypnotizd: 32
+11: falsesymmetry: 28
+12: Etho: 20
+13: Docm77: 16
+14: Grian: 3
+Total 3188

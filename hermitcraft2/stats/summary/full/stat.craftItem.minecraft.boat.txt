@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.boat
+1: sl1pg8r: 28
+2: Spumwackles: 10
+3: Biffa2001: 8
+4: zueljin: 6
+5: Xisuma: 5
+6: Tinfoilchef: 2
+7: Collen: 1
+Total 60

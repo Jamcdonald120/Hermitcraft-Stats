@@ -1,0 +1,17 @@
+minecraft.picked_up.stone_shovel
+1: GoodTimeWithScar: 32
+2: iskall85: 13
+3: Grian: 6
+4: cubfan135: 6
+5: MumboJumbo: 6
+6: Stressmonster101: 6
+7: iJevin: 4
+8: joehillssays: 4
+9: ZombieCleo: 2
+10: Tinfoilchef: 2
+11: Renthedog: 1
+12: Tango: 1
+13: falsesymmetry: 1
+14: Biffa2001: 1
+15: impulseSV: 1
+Total 86

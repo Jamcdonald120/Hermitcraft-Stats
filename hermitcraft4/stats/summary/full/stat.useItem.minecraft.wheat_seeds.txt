@@ -1,0 +1,25 @@
+stat.useItem.minecraft.wheat_seeds
+1: joehillssays: 34365
+2: Tinfoilchef: 14111
+3: impulseSV: 6196
+4: iJevin: 5418
+5: Xisuma: 4512
+6: GoodTimeWithScar: 3548
+7: falsesymmetry: 3341
+8: cubfan135: 2989
+9: Docm77: 2133
+10: Renthedog: 1949
+11: Tango: 1003
+12: PythonGB: 828
+13: ZombieCleo: 753
+14: iskall85: 725
+15: Etho: 413
+16: Jessassin: 308
+17: Biffa2001: 278
+18: Welsknight: 269
+19: VintageBeef: 103
+20: MumboJumbo: 79
+21: xBCrafted: 27
+22: Mumbo: 6
+23: hypnotizd: 4
+Total 83358

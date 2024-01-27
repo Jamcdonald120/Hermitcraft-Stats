@@ -1,0 +1,35 @@
+minecraft.used.spruce_sign
+1: ZombieCleo: 413
+2: iJevin: 327
+3: impulseSV: 300
+4: xBCrafted: 282
+5: Tango: 237
+6: PearlescentMoon: 198
+7: falsesymmetry: 147
+8: hypnotizd: 137
+9: GeminiTay: 106
+10: Keralis1: 106
+11: Xisuma: 85
+12: GoodTimeWithScar: 77
+13: BdoubleO100: 76
+14: Grian: 72
+15: Renthedog: 62
+16: cubfan135: 54
+17: VintageBeef: 10
+18: OrionSound: 7
+19: MythicalSausage: 6
+20: Smajor1995: 5
+21: Smallishbeans: 5
+22: fWhip: 5
+23: Docm77: 4
+24: joehillssays: 4
+25: Welsknight: 4
+26: Zedaph: 4
+27: Stressmonster101: 3
+28: SolidarityGaming: 3
+29: iskall85: 2
+30: Etho: 2
+31: Mumbo: 2
+32: ShubbleYT: 2
+33: RentheKing: 1
+Total 2748

@@ -1,0 +1,19 @@
+minecraft.picked_up.stripped_dark_oak_log
+1: PearlescentMoon: 1198
+2: GoodTimeWithScar: 1036
+3: BdoubleO100: 528
+4: impulseSV: 188
+5: Grian: 172
+6: Tango: 165
+7: Etho: 132
+8: Xisuma: 118
+9: joehillssays: 88
+10: Keralis1: 43
+11: xBCrafted: 15
+12: falsesymmetry: 15
+13: GeminiTay: 12
+14: iskall85: 10
+15: ZombieCleo: 10
+16: Renthedog: 1
+17: cubfan135: 1
+Total 3732

@@ -1,0 +1,14 @@
+minecraft.picked_up.red_nether_bricks
+1: Docm77: 281
+2: iJevin: 169
+3: falsesymmetry: 87
+4: GeminiTay: 55
+5: Tango: 30
+6: Zedaph: 12
+7: PearlescentMoon: 8
+8: cubfan135: 8
+9: Etho: 3
+10: RentheKing: 2
+11: Xisuma: 1
+12: GoodTimeWithScar: 1
+Total 657

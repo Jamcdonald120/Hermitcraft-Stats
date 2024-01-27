@@ -1,0 +1,13 @@
+minecraft.crafted.green_banner
+1: GoodTimeWithScar: 280
+2: Etho: 236
+3: Keralis1: 65
+4: iJevin: 55
+5: Tango: 42
+6: cubfan135: 37
+7: Docm77: 22
+8: joehillssays: 15
+9: PearlescentMoon: 12
+10: VintageBeef: 1
+11: Zedaph: 1
+Total 766

@@ -1,0 +1,22 @@
+minecraft.mined.brewing_stand
+1: iJevin: 67
+2: GoodTimeWithScar: 30
+3: Xisuma: 26
+4: Zedaph: 25
+5: Grian: 22
+6: cubfan135: 11
+7: hypnotizd: 11
+8: Etho: 10
+9: Keralis1: 10
+10: falsesymmetry: 6
+11: ZombieCleo: 5
+12: Docm77: 3
+13: VintageBeef: 3
+14: Tango: 3
+15: BdoubleO100: 3
+16: joehillssays: 2
+17: impulseSV: 2
+18: PearlescentMoon: 1
+19: iskall85: 1
+20: Welsknight: 1
+Total 242

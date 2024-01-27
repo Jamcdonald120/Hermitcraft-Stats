@@ -1,0 +1,24 @@
+minecraft.picked_up.oak_stairs
+1: Xisuma: 172
+2: MumboJumbo: 148
+3: PearlescentMoon: 113
+4: joehillssays: 82
+5: xBCrafted: 81
+6: GoodTimeWithScar: 81
+7: iJevin: 70
+8: falsesymmetry: 55
+9: Renthedog: 52
+10: impulseSV: 38
+11: Keralis1: 24
+12: ZombieCleo: 16
+13: BdoubleO100: 15
+14: iskall85: 11
+15: GeminiTay: 10
+16: Welsknight: 9
+17: Etho: 9
+18: Tango: 8
+19: Docm77: 7
+20: Stressmonster101: 7
+21: hypnotizd: 4
+22: pillbugnine: 1
+Total 1013

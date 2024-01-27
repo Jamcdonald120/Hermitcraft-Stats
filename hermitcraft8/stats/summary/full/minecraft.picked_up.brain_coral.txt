@@ -1,0 +1,12 @@
+minecraft.picked_up.brain_coral
+1: cubfan135: 300
+2: Renthedog: 174
+3: Xisuma: 88
+4: BdoubleO100: 9
+5: iJevin: 7
+6: Grian: 4
+7: Docm77: 2
+8: GoodTimeWithScar: 2
+9: Welsknight: 1
+10: impulseSV: 1
+Total 588

@@ -1,0 +1,27 @@
+minecraft.mined.coal_ore
+1: GoodTimeWithScar: 33698
+2: Tinfoilchef: 23740
+3: Renthedog: 19682
+4: iJevin: 14945
+5: cubfan135: 14680
+6: Grian: 12431
+7: falsesymmetry: 10902
+8: iskall85: 10451
+9: Xisuma: 8448
+10: joehillssays: 8031
+11: ZombieCleo: 7768
+12: Welsknight: 7205
+13: Docm77: 6734
+14: Tango: 6704
+15: MumboJumbo: 6462
+16: impulseSV: 5785
+17: Biffa2001: 5728
+18: Stressmonster101: 4486
+19: BdoubleO100: 4414
+20: xBCrafted: 2641
+21: Zedaph: 2411
+22: Keralis1: 1313
+23: PythonGB: 1257
+24: HumanCleo: 449
+25: Jessassin: 414
+Total 220779

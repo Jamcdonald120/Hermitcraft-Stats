@@ -1,0 +1,24 @@
+stat.drop.minecraft.ender_pearl
+1: Welsknight: 138995
+2: Zedaph: 53171
+3: Xisuma: 35531
+4: falsesymmetry: 18601
+5: cubfan135: 17478
+6: GoodTimeWithScar: 11179
+7: iJevin: 8140
+8: iskall85: 6631
+9: Biffa2001: 5972
+10: Tango: 3616
+11: xBCrafted: 1956
+12: impulseSV: 1179
+13: Docm77: 1072
+14: PythonGB: 888
+15: Renthedog: 681
+16: MumboJumbo: 434
+17: Stressmonster101: 259
+18: Etho: 185
+19: Tinfoilchef: 164
+20: joehillssays: 8
+21: VintageBeef: 6
+22: BdoubleO100: 3
+Total 306149

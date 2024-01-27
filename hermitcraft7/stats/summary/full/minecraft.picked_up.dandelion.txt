@@ -1,0 +1,25 @@
+minecraft.picked_up.dandelion
+1: Etho: 12790
+2: falsesymmetry: 8107
+3: Tango: 5689
+4: MumboJumbo: 2622
+5: GoodTimeWithScar: 840
+6: joehillssays: 631
+7: xBCrafted: 579
+8: BdoubleO100: 526
+9: Keralis1: 444
+10: Xisuma: 288
+11: VintageBeef: 225
+12: Grian: 223
+13: iskall85: 166
+14: Zedaph: 159
+15: Renthedog: 155
+16: cubfan135: 151
+17: iJevin: 100
+18: hypnotizd: 94
+19: impulseSV: 84
+20: Docm77: 63
+21: Stressmonster101: 44
+22: ZombieCleo: 39
+23: Welsknight: 27
+Total 34046

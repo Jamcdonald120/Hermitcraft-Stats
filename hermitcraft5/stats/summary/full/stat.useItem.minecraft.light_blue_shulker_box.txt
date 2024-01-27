@@ -1,0 +1,17 @@
+stat.useItem.minecraft.light_blue_shulker_box
+1: GoodTimeWithScar: 639
+2: cubfan135: 528
+3: iskall85: 166
+4: joehillssays: 161
+5: Tango: 96
+6: Xisuma: 90
+7: falsesymmetry: 77
+8: MumboJumbo: 64
+9: iJevin: 36
+10: Renthedog: 30
+11: Stressmonster101: 26
+12: Zedaph: 13
+13: xBCrafted: 8
+14: Tinfoilchef: 6
+15: PythonGB: 2
+Total 1942

@@ -1,0 +1,19 @@
+minecraft.picked_up.yellow_wool
+1: Etho: 3944
+2: VintageBeef: 3901
+3: Tango: 936
+4: BdoubleO100: 500
+5: falsesymmetry: 488
+6: GoodTimeWithScar: 476
+7: cubfan135: 390
+8: Zedaph: 150
+9: Xisuma: 117
+10: iskall85: 116
+11: hypnotizd: 61
+12: joehillssays: 51
+13: MumboJumbo: 51
+14: Stressmonster101: 27
+15: Grian: 24
+16: impulseSV: 24
+17: Keralis1: 8
+Total 11264

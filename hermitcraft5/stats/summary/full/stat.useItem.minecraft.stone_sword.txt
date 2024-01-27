@@ -1,0 +1,25 @@
+stat.useItem.minecraft.stone_sword
+1: Biffa2001: 1053
+2: Renthedog: 656
+3: iJevin: 523
+4: xBCrafted: 372
+5: Etho: 249
+6: Tango: 200
+7: cubfan135: 155
+8: falsesymmetry: 150
+9: impulseSV: 138
+10: Xisuma: 137
+11: PythonGB: 137
+12: Welsknight: 133
+13: ZombieCleo: 132
+14: Stressmonster101: 129
+15: BdoubleO100: 128
+16: MumboJumbo: 126
+17: iskall85: 106
+18: VintageBeef: 82
+19: Zedaph: 79
+20: Tinfoilchef: 68
+21: Docm77: 57
+22: GoodTimeWithScar: 31
+23: joehillssays: 27
+Total 4868

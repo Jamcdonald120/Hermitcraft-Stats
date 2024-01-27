@@ -1,0 +1,29 @@
+minecraft.picked_up.polished_andesite_stairs
+1: cubfan135: 536
+2: PearlescentMoon: 384
+3: falsesymmetry: 295
+4: xBCrafted: 252
+5: GoodTimeWithScar: 226
+6: joehillssays: 199
+7: Renthedog: 181
+8: Etho: 123
+9: Zedaph: 118
+10: impulseSV: 117
+11: Xisuma: 86
+12: Tango: 77
+13: ZombieCleo: 30
+14: iskall85: 24
+15: hypnotizd: 22
+16: BdoubleO100: 21
+17: Pixlriffs: 17
+18: RentheKing: 14
+19: VintageBeef: 13
+20: Keralis1: 11
+21: Docm77: 7
+22: GeminiTay: 5
+23: MythicalSausage: 4
+24: Grian: 4
+25: iJevin: 3
+26: Mumbo: 2
+27: Stressmonster101: 1
+Total 2772

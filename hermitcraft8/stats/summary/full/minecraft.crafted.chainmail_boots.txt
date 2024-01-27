@@ -1,0 +1,8 @@
+minecraft.crafted.chainmail_boots
+1: Stressmonster101: 28
+2: Xisuma: 12
+3: Grian: 12
+4: GoodTimeWithScar: 12
+5: falsesymmetry: 4
+6: hypnotizd: 1
+Total 69

@@ -1,0 +1,30 @@
+minecraft.broken.iron_pickaxe
+1: GeminiTay: 18
+2: falsesymmetry: 18
+3: hypnotizd: 17
+4: PearlescentMoon: 15
+5: xBCrafted: 14
+6: iskall85: 13
+7: Mumbo: 13
+8: MumboJumbo: 13
+9: Tango: 11
+10: BdoubleO100: 11
+11: Keralis1: 10
+12: impulseSV: 10
+13: Xisuma: 8
+14: Stressmonster101: 8
+15: iJevin: 7
+16: Welsknight: 7
+17: Zedaph: 7
+18: Renthedog: 6
+19: Docm77: 5
+20: VintageBeef: 5
+21: Grian: 3
+22: Tinfoilchef: 3
+23: ShubbleYT: 3
+24: joehillssays: 2
+25: cubfan135: 2
+26: ZombieCleo: 2
+27: Pixlriffs: 1
+28: Etho: 1
+Total 233

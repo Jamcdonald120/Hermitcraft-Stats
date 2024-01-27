@@ -1,0 +1,19 @@
+stat.mineBlock.minecraft.glass_pane
+1: joehillssays: 214
+2: impulseSV: 210
+3: Tango: 158
+4: cubfan135: 50
+5: Welsknight: 39
+6: Renthedog: 38
+7: Xisuma: 26
+8: iJevin: 26
+9: MumboJumbo: 24
+10: PythonGB: 16
+11: iskall85: 14
+12: ZombieCleo: 14
+13: Tinfoilchef: 14
+14: falsesymmetry: 10
+15: VintageBeef: 8
+16: GoodTimeWithScar: 3
+17: Mumbo: 1
+Total 865

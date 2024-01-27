@@ -1,0 +1,30 @@
+minecraft.custom.deaths
+1: GoodTimeWithScar: 374
+2: Etho: 353
+3: Grian: 341
+4: cubfan135: 275
+5: impulseSV: 181
+6: Tango: 171
+7: joehillssays: 170
+8: Renthedog: 145
+9: iJevin: 144
+10: BdoubleO100: 136
+11: Keralis1: 122
+12: Xisuma: 121
+13: falsesymmetry: 121
+14: Zedaph: 114
+15: iskall85: 94
+16: VintageBeef: 90
+17: MumboJumbo: 67
+18: xBCrafted: 66
+19: Docm77: 61
+20: hypnotizd: 46
+21: ZombieCleo: 41
+22: Welsknight: 18
+23: Stressmonster101: 15
+24: Tinfoilchef: 8
+25: TangoCam: 7
+26: BarryBoss1234: 3
+27: xisumavoid: 1
+28: BadTimeWithScar: 1
+Total 3286

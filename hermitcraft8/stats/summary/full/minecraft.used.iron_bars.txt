@@ -1,0 +1,27 @@
+minecraft.used.iron_bars
+1: Keralis1: 1037
+2: Renthedog: 943
+3: Tango: 478
+4: xBCrafted: 469
+5: Xisuma: 467
+6: MumboJumbo: 432
+7: Grian: 268
+8: impulseSV: 259
+9: PearlescentMoon: 206
+10: BdoubleO100: 201
+11: Docm77: 113
+12: GoodTimeWithScar: 108
+13: joehillssays: 103
+14: iJevin: 95
+15: VintageBeef: 63
+16: cubfan135: 57
+17: EvilXisuma: 55
+18: Welsknight: 54
+19: GeminiTay: 44
+20: falsesymmetry: 35
+21: Zedaph: 30
+22: hypnotizd: 20
+23: iskall85: 19
+24: Tinfoilchef: 10
+25: Etho: 3
+Total 5569

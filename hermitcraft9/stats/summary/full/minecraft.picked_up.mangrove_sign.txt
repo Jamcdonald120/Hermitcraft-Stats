@@ -1,0 +1,20 @@
+minecraft.picked_up.mangrove_sign
+1: Xisuma: 58
+2: cubfan135: 28
+3: Keralis1: 19
+4: PearlescentMoon: 15
+5: Renthedog: 12
+6: GoodTimeWithScar: 11
+7: iJevin: 8
+8: impulseSV: 6
+9: fWhip: 5
+10: MythicalSausage: 4
+11: Stressmonster101: 3
+12: Grian: 2
+13: Tango: 2
+14: SolidarityGaming: 2
+15: joehillssays: 1
+16: BdoubleO100: 1
+17: RentheKing: 1
+18: InTheLittleWood: 1
+Total 179

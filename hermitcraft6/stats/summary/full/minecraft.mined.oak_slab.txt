@@ -1,0 +1,25 @@
+minecraft.mined.oak_slab
+1: Renthedog: 1541
+2: falsesymmetry: 1151
+3: GoodTimeWithScar: 857
+4: Xisuma: 476
+5: impulseSV: 474
+6: Tango: 383
+7: cubfan135: 376
+8: Welsknight: 282
+9: ZombieCleo: 278
+10: Keralis1: 165
+11: BdoubleO100: 143
+12: Stressmonster101: 124
+13: MumboJumbo: 120
+14: HumanCleo: 97
+15: Jessassin: 81
+16: iskall85: 81
+17: iJevin: 65
+18: Grian: 36
+19: Biffa2001: 34
+20: Zedaph: 22
+21: PythonGB: 11
+22: joehillssays: 6
+23: xBCrafted: 2
+Total 6805

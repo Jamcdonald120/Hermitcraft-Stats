@@ -1,0 +1,24 @@
+stat.craftItem.minecraft.stone_pickaxe
+1: Renthedog: 57
+2: BdoubleO100: 33
+3: joehillssays: 15
+4: Tango: 11
+5: PythonGB: 10
+6: Zedaph: 9
+7: iskall85: 8
+8: Welsknight: 7
+9: iJevin: 5
+10: falsesymmetry: 5
+11: Biffa2001: 5
+12: impulseSV: 5
+13: Xisuma: 4
+14: cubfan135: 4
+15: ZombieCleo: 4
+16: Tinfoilchef: 4
+17: Etho: 3
+18: GoodTimeWithScar: 3
+19: VintageBeef: 2
+20: Docm77: 1
+21: xBCrafted: 1
+22: Stressmonster101: 1
+Total 197

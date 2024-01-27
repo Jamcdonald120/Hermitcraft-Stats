@@ -1,0 +1,26 @@
+minecraft.used.wheat_seeds
+1: Tinfoilchef: 10724
+2: cubfan135: 8930
+3: Grian: 8575
+4: Renthedog: 5872
+5: GoodTimeWithScar: 5673
+6: falsesymmetry: 5666
+7: joehillssays: 3693
+8: Tango: 3157
+9: ZombieCleo: 2741
+10: impulseSV: 2721
+11: Zedaph: 2666
+12: iJevin: 1983
+13: Xisuma: 1906
+14: Docm77: 1708
+15: Stressmonster101: 1555
+16: BdoubleO100: 1074
+17: PythonGB: 1066
+18: Welsknight: 988
+19: Keralis1: 943
+20: Biffa2001: 585
+21: iskall85: 409
+22: HumanCleo: 355
+23: Jessassin: 306
+24: MumboJumbo: 229
+Total 73525

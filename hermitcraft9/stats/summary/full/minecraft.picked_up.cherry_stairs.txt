@@ -1,0 +1,8 @@
+minecraft.picked_up.cherry_stairs
+1: Grian: 17
+2: Renthedog: 6
+3: Stressmonster101: 5
+4: GeminiTay: 3
+5: Zedaph: 3
+6: falsesymmetry: 1
+Total 35

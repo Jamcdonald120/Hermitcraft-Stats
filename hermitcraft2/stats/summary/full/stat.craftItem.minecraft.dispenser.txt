@@ -1,0 +1,7 @@
+stat.craftItem.minecraft.dispenser
+1: Xisuma: 246
+2: sl1pg8r: 21
+3: Mumbo: 13
+4: Tango: 1
+5: falsesymmetry: 1
+Total 282

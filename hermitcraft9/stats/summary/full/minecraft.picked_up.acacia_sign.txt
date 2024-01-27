@@ -1,0 +1,21 @@
+minecraft.picked_up.acacia_sign
+1: iJevin: 174
+2: ZombieCleo: 132
+3: PearlescentMoon: 45
+4: GoodTimeWithScar: 36
+5: Renthedog: 27
+6: Xisuma: 19
+7: cubfan135: 18
+8: Keralis1: 14
+9: falsesymmetry: 13
+10: impulseSV: 9
+11: BdoubleO100: 4
+12: Docm77: 3
+13: Tango: 3
+14: GeminiTay: 2
+15: VintageBeef: 1
+16: Smajor1995: 1
+17: MythicalSausage: 1
+18: Grian: 1
+19: RentheKing: 1
+Total 504

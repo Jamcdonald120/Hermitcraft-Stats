@@ -1,0 +1,5 @@
+stat.craftItem.107
+1: red3yz: 61
+2: Keralis1: 21
+3: Marriland: 2
+Total 84

@@ -1,0 +1,24 @@
+minecraft.dropped.calcite
+1: iJevin: 2013
+2: falsesymmetry: 167
+3: GoodTimeWithScar: 125
+4: BdoubleO100: 100
+5: Grian: 89
+6: Keralis1: 87
+7: Renthedog: 83
+8: impulseSV: 71
+9: Zedaph: 71
+10: Docm77: 69
+11: PearlescentMoon: 58
+12: xBCrafted: 38
+13: Tango: 31
+14: iskall85: 17
+15: Xisuma: 16
+16: GeminiTay: 10
+17: cubfan135: 5
+18: Mumbo: 5
+19: MumboJumbo: 5
+20: Smajor1995: 4
+21: Etho: 3
+22: ZombieCleo: 2
+Total 3069

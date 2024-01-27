@@ -1,0 +1,5 @@
+minecraft.picked_up.scute
+1: cubfan135: 176
+2: Docm77: 123
+3: Zedaph: 1
+Total 300

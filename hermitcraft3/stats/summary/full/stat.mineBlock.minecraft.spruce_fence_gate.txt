@@ -1,0 +1,12 @@
+stat.mineBlock.minecraft.spruce_fence_gate
+1: iJevin: 27
+2: falsesymmetry: 14
+3: xBCrafted: 13
+4: Xisuma: 3
+5: sl1pg8r: 2
+6: topmass: 1
+7: zueljin: 1
+8: Biffa2001: 1
+9: Mumbo: 1
+10: hypnotizd: 1
+Total 64

@@ -1,0 +1,8 @@
+minecraft.custom.clean_shulker_box
+1: cubfan135: 23
+2: hypnotizd: 20
+3: Xisuma: 17
+4: Etho: 11
+5: xBCrafted: 10
+6: impulseSV: 3
+Total 84

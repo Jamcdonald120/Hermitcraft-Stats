@@ -1,0 +1,13 @@
+minecraft.picked_up.crimson_fence_gate
+1: Tango: 47
+2: Zedaph: 18
+3: GoodTimeWithScar: 12
+4: cubfan135: 7
+5: Grian: 6
+6: joehillssays: 4
+7: xBCrafted: 4
+8: Etho: 4
+9: iJevin: 2
+10: ZombieCleo: 1
+11: Stressmonster101: 1
+Total 106

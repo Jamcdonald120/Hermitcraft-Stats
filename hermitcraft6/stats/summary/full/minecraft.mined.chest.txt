@@ -1,0 +1,27 @@
+minecraft.mined.chest
+1: Xisuma: 3543
+2: iskall85: 2140
+3: iJevin: 2074
+4: Renthedog: 1499
+5: GoodTimeWithScar: 1341
+6: cubfan135: 1249
+7: impulseSV: 1237
+8: falsesymmetry: 1225
+9: MumboJumbo: 1044
+10: Tango: 993
+11: Grian: 591
+12: Tinfoilchef: 344
+13: Welsknight: 341
+14: PythonGB: 309
+15: Docm77: 289
+16: Biffa2001: 266
+17: Zedaph: 246
+18: Stressmonster101: 243
+19: joehillssays: 171
+20: ZombieCleo: 137
+21: BdoubleO100: 96
+22: Jessassin: 31
+23: xBCrafted: 26
+24: Keralis1: 25
+25: HumanCleo: 3
+Total 19463

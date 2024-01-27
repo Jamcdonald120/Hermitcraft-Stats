@@ -1,0 +1,16 @@
+minecraft.picked_up.heavy_weighted_pressure_plate
+1: cubfan135: 114
+2: MumboJumbo: 97
+3: iskall85: 21
+4: Stressmonster101: 12
+5: falsesymmetry: 10
+6: ZombieCleo: 9
+7: Xisuma: 8
+8: Docm77: 5
+9: Grian: 5
+10: BdoubleO100: 3
+11: Renthedog: 2
+12: Tinfoilchef: 2
+13: GoodTimeWithScar: 1
+14: Keralis1: 1
+Total 290

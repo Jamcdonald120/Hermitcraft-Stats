@@ -1,0 +1,22 @@
+stat.breakItem.minecraft.iron_pickaxe
+1: Tinfoilchef: 45
+2: ZombieCleo: 36
+3: cubfan135: 35
+4: GoodTimeWithScar: 28
+5: iJevin: 19
+6: xBCrafted: 13
+7: Renthedog: 12
+8: PythonGB: 10
+9: iskall85: 10
+10: Xisuma: 9
+11: joehillssays: 9
+12: Tango: 9
+13: Welsknight: 9
+14: Mumbo: 9
+15: impulseSV: 9
+16: Biffa2001: 8
+17: VintageBeef: 3
+18: Jessassin: 3
+19: falsesymmetry: 2
+20: zueljin: 1
+Total 279

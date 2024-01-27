@@ -1,0 +1,25 @@
+stat.mineBlock.minecraft.tallgrass
+1: GoodTimeWithScar: 13214
+2: falsesymmetry: 6065
+3: Xisuma: 5799
+4: Stressmonster101: 5730
+5: cubfan135: 5495
+6: xBCrafted: 4477
+7: joehillssays: 3529
+8: Renthedog: 3444
+9: Welsknight: 2323
+10: Tango: 2267
+11: iskall85: 2105
+12: MumboJumbo: 1344
+13: Tinfoilchef: 1181
+14: ZombieCleo: 1030
+15: iJevin: 1020
+16: impulseSV: 999
+17: Zedaph: 973
+18: BdoubleO100: 827
+19: Biffa2001: 636
+20: VintageBeef: 564
+21: Etho: 535
+22: Docm77: 495
+23: PythonGB: 470
+Total 64522

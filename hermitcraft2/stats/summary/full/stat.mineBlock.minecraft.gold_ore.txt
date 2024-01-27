@@ -1,0 +1,14 @@
+stat.mineBlock.minecraft.gold_ore
+1: Tango: 157
+2: Spumwackles: 137
+3: Xisuma: 103
+4: xBCrafted: 43
+5: falsesymmetry: 42
+6: Collen: 38
+7: Mumbo: 35
+8: ZombieCleo: 29
+9: Tinfoilchef: 15
+10: zueljin: 12
+11: iJevin: 6
+12: Biffa2001: 3
+Total 620

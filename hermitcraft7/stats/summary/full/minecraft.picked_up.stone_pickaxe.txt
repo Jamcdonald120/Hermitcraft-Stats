@@ -1,0 +1,17 @@
+minecraft.picked_up.stone_pickaxe
+1: iskall85: 16
+2: GoodTimeWithScar: 14
+3: Docm77: 12
+4: joehillssays: 12
+5: iJevin: 9
+6: MumboJumbo: 7
+7: impulseSV: 7
+8: falsesymmetry: 6
+9: VintageBeef: 5
+10: BdoubleO100: 3
+11: Xisuma: 2
+12: Grian: 2
+13: ZombieCleo: 2
+14: Tinfoilchef: 1
+15: Stressmonster101: 1
+Total 99

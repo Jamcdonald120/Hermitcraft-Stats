@@ -1,0 +1,24 @@
+stat.pickup.minecraft.stained_hardened_clay
+1: GoodTimeWithScar: 28072
+2: cubfan135: 25444
+3: Xisuma: 7355
+4: MumboJumbo: 4916
+5: iskall85: 2906
+6: joehillssays: 1917
+7: Tango: 1768
+8: falsesymmetry: 1687
+9: xBCrafted: 1677
+10: Welsknight: 1462
+11: Stressmonster101: 1048
+12: Zedaph: 959
+13: impulseSV: 718
+14: VintageBeef: 644
+15: Renthedog: 355
+16: iJevin: 323
+17: Docm77: 72
+18: ZombieCleo: 29
+19: Tinfoilchef: 10
+20: PythonGB: 9
+21: BdoubleO100: 4
+22: Biffa2001: 4
+Total 81379

@@ -1,0 +1,13 @@
+minecraft.crafted.blue_bed
+1: ZombieCleo: 8
+2: cubfan135: 6
+3: xBCrafted: 2
+4: GeminiTay: 1
+5: Tango: 1
+6: Pixlriffs: 1
+7: falsesymmetry: 1
+8: Welsknight: 1
+9: GoodTimeWithScar: 1
+10: Stressmonster101: 1
+11: Zedaph: 1
+Total 24

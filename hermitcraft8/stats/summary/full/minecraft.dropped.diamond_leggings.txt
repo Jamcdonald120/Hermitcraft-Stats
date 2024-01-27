@@ -1,0 +1,20 @@
+minecraft.dropped.diamond_leggings
+1: Grian: 11
+2: MumboJumbo: 10
+3: iJevin: 8
+4: Docm77: 7
+5: Zedaph: 7
+6: PearlescentMoon: 6
+7: Keralis1: 6
+8: Xisuma: 4
+9: Renthedog: 4
+10: GoodTimeWithScar: 3
+11: cubfan135: 2
+12: EvilXisuma: 1
+13: VintageBeef: 1
+14: GeminiTay: 1
+15: BdoubleO100: 1
+16: ZombieCleo: 1
+17: hypnotizd: 1
+18: impulseSV: 1
+Total 75

@@ -1,0 +1,10 @@
+stat.craftItem.minecraft.iron_block
+1: Xisuma: 239
+2: Tango: 131
+3: Tinfoilchef: 63
+4: ZombieCleo: 39
+5: falsesymmetry: 37
+6: iJevin: 30
+7: xBCrafted: 5
+8: Collen: 3
+Total 547

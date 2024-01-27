@@ -1,0 +1,21 @@
+minecraft.crafted.iron_hoe
+1: GeminiTay: 4
+2: Tango: 4
+3: Zedaph: 4
+4: joehillssays: 3
+5: iskall85: 3
+6: falsesymmetry: 3
+7: iJevin: 2
+8: Grian: 2
+9: BdoubleO100: 2
+10: PearlescentMoon: 2
+11: Renthedog: 1
+12: VintageBeef: 1
+13: xBCrafted: 1
+14: cubfan135: 1
+15: Welsknight: 1
+16: ZombieCleo: 1
+17: Stressmonster101: 1
+18: Keralis1: 1
+19: impulseSV: 1
+Total 38

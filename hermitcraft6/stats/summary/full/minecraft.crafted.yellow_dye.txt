@@ -1,0 +1,22 @@
+minecraft.crafted.yellow_dye
+1: Xisuma: 10793
+2: Grian: 4094
+3: iskall85: 3744
+4: GoodTimeWithScar: 2659
+5: cubfan135: 1624
+6: falsesymmetry: 1212
+7: Renthedog: 1196
+8: Welsknight: 608
+9: impulseSV: 356
+10: PythonGB: 263
+11: Stressmonster101: 262
+12: Zedaph: 183
+13: joehillssays: 180
+14: Tango: 161
+15: Docm77: 159
+16: MumboJumbo: 116
+17: iJevin: 57
+18: ZombieCleo: 45
+19: BdoubleO100: 24
+20: Tinfoilchef: 24
+Total 27760

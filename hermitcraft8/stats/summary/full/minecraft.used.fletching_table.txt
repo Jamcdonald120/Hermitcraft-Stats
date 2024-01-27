@@ -1,0 +1,10 @@
+minecraft.used.fletching_table
+1: PearlescentMoon: 91
+2: cubfan135: 10
+3: iskall85: 5
+4: Zedaph: 5
+5: Xisuma: 4
+6: MumboJumbo: 2
+7: Etho: 1
+8: GoodTimeWithScar: 1
+Total 119

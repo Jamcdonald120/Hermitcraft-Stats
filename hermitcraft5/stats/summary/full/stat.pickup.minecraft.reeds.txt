@@ -1,0 +1,25 @@
+stat.pickup.minecraft.reeds
+1: Tango: 22758
+2: iskall85: 12213
+3: falsesymmetry: 10477
+4: Zedaph: 8331
+5: GoodTimeWithScar: 7200
+6: cubfan135: 5432
+7: Biffa2001: 4039
+8: ZombieCleo: 2921
+9: impulseSV: 2720
+10: MumboJumbo: 2703
+11: Renthedog: 2264
+12: joehillssays: 2264
+13: Xisuma: 2012
+14: iJevin: 1821
+15: Welsknight: 1628
+16: Tinfoilchef: 1309
+17: PythonGB: 1106
+18: Etho: 915
+19: Stressmonster101: 555
+20: BdoubleO100: 466
+21: VintageBeef: 390
+22: xBCrafted: 129
+23: Docm77: 122
+Total 93775

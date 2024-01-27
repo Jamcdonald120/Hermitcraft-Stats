@@ -1,0 +1,6 @@
+stat.craftItem.minecraft.fire_charge
+1: Tango: 960
+2: impulseSV: 252
+3: zueljin: 18
+4: falsesymmetry: 15
+Total 1245

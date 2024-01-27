@@ -1,0 +1,19 @@
+minecraft.picked_up.stripped_acacia_log
+1: Docm77: 1294
+2: BdoubleO100: 148
+3: falsesymmetry: 141
+4: impulseSV: 138
+5: PearlescentMoon: 105
+6: Tango: 70
+7: RentheKing: 64
+8: Smajor1995: 26
+9: cubfan135: 22
+10: GoodTimeWithScar: 21
+11: Zedaph: 15
+12: Xisuma: 9
+13: MythicalSausage: 8
+14: Etho: 6
+15: Renthedog: 4
+16: Stressmonster101: 4
+17: Keralis1: 4
+Total 2079

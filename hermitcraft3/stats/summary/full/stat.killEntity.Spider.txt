@@ -1,0 +1,28 @@
+stat.killEntity.Spider
+1: Xisuma: 288
+2: Tango: 244
+3: falsesymmetry: 199
+4: monkeyfarm: 184
+5: impulseSV: 183
+6: zueljin: 178
+7: xBCrafted: 165
+8: Spumwackles: 114
+9: Mumbo: 113
+10: Biffa2001: 74
+11: hypnotizd: 60
+12: topmass: 56
+13: PythonGB: 49
+14: Tinfoilchef: 42
+15: sl1pg8r: 41
+16: iJevin: 40
+17: ZombieCleo: 28
+18: KingDaddyDMAC: 25
+19: Etho: 18
+20: skyzm: 14
+21: Keralis1: 11
+22: Pungence: 5
+23: NameOfSamuel: 4
+24: Collen: 4
+25: Mrs_Keralis: 3
+26: Docm77: 2
+Total 2144

@@ -1,0 +1,24 @@
+minecraft.picked_up.brown_shulker_box
+1: cubfan135: 596
+2: Xisuma: 404
+3: PearlescentMoon: 342
+4: falsesymmetry: 318
+5: Tango: 311
+6: RentheKing: 195
+7: BdoubleO100: 145
+8: GoodTimeWithScar: 143
+9: joehillssays: 122
+10: Renthedog: 115
+11: iskall85: 80
+12: impulseSV: 74
+13: VintageBeef: 60
+14: Etho: 60
+15: Zedaph: 52
+16: Keralis1: 28
+17: xBCrafted: 27
+18: iJevin: 26
+19: ZombieCleo: 25
+20: Stressmonster101: 21
+21: Grian: 19
+22: Mumbo: 6
+Total 3169

@@ -1,0 +1,13 @@
+minecraft.crafted.dark_prismarine_stairs
+1: GoodTimeWithScar: 116
+2: ZombieCleo: 104
+3: PearlescentMoon: 46
+4: Xisuma: 40
+5: Keralis1: 32
+6: impulseSV: 29
+7: cubfan135: 20
+8: Grian: 16
+9: Stressmonster101: 4
+10: Docm77: 2
+11: Zedaph: 1
+Total 410

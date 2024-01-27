@@ -1,0 +1,25 @@
+stat.pickup.minecraft.gravel
+1: falsesymmetry: 26083
+2: Renthedog: 24243
+3: GoodTimeWithScar: 18059
+4: Xisuma: 16711
+5: iskall85: 14892
+6: Tinfoilchef: 11492
+7: cubfan135: 7499
+8: Welsknight: 4742
+9: Tango: 2995
+10: MumboJumbo: 2604
+11: iJevin: 2354
+12: PythonGB: 2080
+13: impulseSV: 2066
+14: joehillssays: 1842
+15: Etho: 1449
+16: Jessassin: 1326
+17: ZombieCleo: 363
+18: Biffa2001: 284
+19: zueljin: 282
+20: Mumbo: 189
+21: VintageBeef: 132
+22: xBCrafted: 130
+23: Docm77: 100
+Total 141917

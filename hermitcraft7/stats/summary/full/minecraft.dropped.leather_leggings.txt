@@ -1,0 +1,24 @@
+minecraft.dropped.leather_leggings
+1: Xisuma: 110
+2: Grian: 41
+3: Renthedog: 33
+4: Stressmonster101: 26
+5: hypnotizd: 22
+6: xBCrafted: 21
+7: impulseSV: 16
+8: Tango: 14
+9: iskall85: 12
+10: Etho: 11
+11: cubfan135: 10
+12: GoodTimeWithScar: 9
+13: Zedaph: 9
+14: iJevin: 7
+15: Docm77: 6
+16: falsesymmetry: 6
+17: VintageBeef: 5
+18: MumboJumbo: 4
+19: ZombieCleo: 3
+20: BdoubleO100: 2
+21: Keralis1: 2
+22: joehillssays: 1
+Total 370

@@ -1,0 +1,5 @@
+stat.craftItem.minecraft.iron_hoe
+1: Xisuma: 5
+2: falsesymmetry: 3
+3: Tango: 1
+Total 9

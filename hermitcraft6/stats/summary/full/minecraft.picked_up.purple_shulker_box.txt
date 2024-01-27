@@ -1,0 +1,20 @@
+minecraft.picked_up.purple_shulker_box
+1: cubfan135: 695
+2: falsesymmetry: 464
+3: GoodTimeWithScar: 338
+4: Xisuma: 224
+5: Grian: 119
+6: Stressmonster101: 67
+7: Renthedog: 56
+8: Tango: 42
+9: ZombieCleo: 37
+10: Zedaph: 26
+11: Biffa2001: 25
+12: iskall85: 16
+13: impulseSV: 11
+14: HumanCleo: 6
+15: Docm77: 2
+16: PythonGB: 1
+17: iJevin: 1
+18: Welsknight: 1
+Total 2131

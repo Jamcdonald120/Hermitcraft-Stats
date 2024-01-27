@@ -1,0 +1,20 @@
+minecraft.dropped.white_terracotta
+1: PearlescentMoon: 1134
+2: iJevin: 135
+3: Zedaph: 95
+4: VintageBeef: 93
+5: impulseSV: 91
+6: GoodTimeWithScar: 88
+7: Docm77: 36
+8: cubfan135: 31
+9: Etho: 16
+10: Renthedog: 15
+11: Xisuma: 13
+12: Keralis1: 13
+13: Tango: 10
+14: falsesymmetry: 10
+15: xBCrafted: 6
+16: hypnotizd: 3
+17: Grian: 2
+18: GeminiTay: 1
+Total 1792

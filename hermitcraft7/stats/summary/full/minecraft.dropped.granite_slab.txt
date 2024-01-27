@@ -1,0 +1,8 @@
+minecraft.dropped.granite_slab
+1: Keralis1: 32
+2: iskall85: 23
+3: cubfan135: 12
+4: VintageBeef: 7
+5: Tango: 6
+6: BdoubleO100: 1
+Total 81

@@ -1,0 +1,19 @@
+stat.useItem.minecraft.diamond_pickaxe
+1: Xisuma: 114268
+2: Tango: 53156
+3: falsesymmetry: 29523
+4: ZombieCleo: 18815
+5: Biffa2001: 13640
+6: Spumwackles: 12990
+7: Mumbo: 11407
+8: iJevin: 7329
+9: xBCrafted: 7189
+10: zueljin: 6323
+11: KingDaddyDMAC: 6062
+12: Tinfoilchef: 5571
+13: sl1pg8r: 3585
+14: monkeyfarm: 1645
+15: Collen: 423
+16: Cleophas: 123
+17: Pungence: 4
+Total 292053

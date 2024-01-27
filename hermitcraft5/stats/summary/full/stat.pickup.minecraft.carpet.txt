@@ -1,0 +1,24 @@
+stat.pickup.minecraft.carpet
+1: GoodTimeWithScar: 5503
+2: xBCrafted: 4652
+3: cubfan135: 3311
+4: iskall85: 3046
+5: Tango: 2075
+6: Welsknight: 1760
+7: falsesymmetry: 840
+8: PythonGB: 838
+9: Renthedog: 700
+10: Zedaph: 692
+11: joehillssays: 623
+12: Xisuma: 618
+13: impulseSV: 585
+14: MumboJumbo: 487
+15: iJevin: 204
+16: Stressmonster101: 150
+17: BdoubleO100: 40
+18: ZombieCleo: 25
+19: VintageBeef: 16
+20: Tinfoilchef: 10
+21: Docm77: 5
+22: TangoCam: 2
+Total 26182

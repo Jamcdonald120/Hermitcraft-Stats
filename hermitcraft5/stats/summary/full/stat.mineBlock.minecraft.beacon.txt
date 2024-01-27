@@ -1,0 +1,17 @@
+stat.mineBlock.minecraft.beacon
+1: cubfan135: 105
+2: Xisuma: 55
+3: Tango: 38
+4: GoodTimeWithScar: 29
+5: Renthedog: 21
+6: Welsknight: 20
+7: MumboJumbo: 19
+8: impulseSV: 18
+9: falsesymmetry: 17
+10: iskall85: 13
+11: Zedaph: 8
+12: xBCrafted: 6
+13: Stressmonster101: 6
+14: iJevin: 2
+15: Docm77: 1
+Total 358

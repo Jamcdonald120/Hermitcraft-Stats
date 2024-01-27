@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.golden_pickaxe
+1: Xisuma: 1
+2: iJevin: 1
+Total 2

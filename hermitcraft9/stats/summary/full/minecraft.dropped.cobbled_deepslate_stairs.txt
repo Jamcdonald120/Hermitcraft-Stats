@@ -1,0 +1,13 @@
+minecraft.dropped.cobbled_deepslate_stairs
+1: falsesymmetry: 157
+2: Tango: 118
+3: Xisuma: 65
+4: Renthedog: 35
+5: GoodTimeWithScar: 31
+6: Zedaph: 19
+7: iJevin: 6
+8: Mumbo: 3
+9: MythicalSausage: 2
+10: BdoubleO100: 1
+11: cubfan135: 1
+Total 438

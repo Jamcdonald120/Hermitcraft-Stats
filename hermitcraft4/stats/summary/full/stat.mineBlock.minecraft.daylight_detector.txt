@@ -1,0 +1,10 @@
+stat.mineBlock.minecraft.daylight_detector
+1: falsesymmetry: 21
+2: cubfan135: 21
+3: ZombieCleo: 21
+4: VintageBeef: 14
+5: Xisuma: 2
+6: PythonGB: 1
+7: Tango: 1
+8: iskall85: 1
+Total 82

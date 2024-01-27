@@ -1,0 +1,11 @@
+stat.useItem.minecraft.gold_ore
+1: GoodTimeWithScar: 50
+2: falsesymmetry: 49
+3: cubfan135: 42
+4: iskall85: 20
+5: xBCrafted: 15
+6: Welsknight: 15
+7: Xisuma: 11
+8: MumboJumbo: 5
+9: PythonGB: 1
+Total 208

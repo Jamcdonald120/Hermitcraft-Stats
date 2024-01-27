@@ -1,0 +1,26 @@
+stat.useItem.minecraft.potion
+1: impulseSV: 257
+2: Xisuma: 240
+3: xBCrafted: 192
+4: Tango: 188
+5: falsesymmetry: 168
+6: Mumbo: 111
+7: Biffa2001: 93
+8: Tinfoilchef: 71
+9: hypnotizd: 55
+10: monkeyfarm: 43
+11: KingDaddyDMAC: 32
+12: PythonGB: 25
+13: zueljin: 16
+14: sl1pg8r: 15
+15: ZombieCleo: 13
+16: skyzm: 12
+17: Spumwackles: 9
+18: iJevin: 5
+19: Etho: 5
+20: topmass: 3
+21: joehillssays: 3
+22: Biffa001: 3
+23: Collen: 2
+24: Docm77: 1
+Total 1562

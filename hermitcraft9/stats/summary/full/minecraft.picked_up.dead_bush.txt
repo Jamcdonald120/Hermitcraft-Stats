@@ -1,0 +1,20 @@
+minecraft.picked_up.dead_bush
+1: joehillssays: 755
+2: Keralis1: 746
+3: Etho: 711
+4: iJevin: 288
+5: PearlescentMoon: 242
+6: ZombieCleo: 237
+7: Xisuma: 193
+8: hypnotizd: 189
+9: cubfan135: 92
+10: xBCrafted: 82
+11: impulseSV: 81
+12: Docm77: 61
+13: GoodTimeWithScar: 46
+14: Tango: 20
+15: GeminiTay: 19
+16: Renthedog: 13
+17: Zedaph: 4
+18: VintageBeef: 3
+Total 3782

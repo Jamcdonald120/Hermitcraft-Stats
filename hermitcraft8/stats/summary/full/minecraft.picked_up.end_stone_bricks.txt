@@ -1,0 +1,18 @@
+minecraft.picked_up.end_stone_bricks
+1: iJevin: 202
+2: cubfan135: 137
+3: impulseSV: 108
+4: Xisuma: 83
+5: GoodTimeWithScar: 66
+6: hypnotizd: 56
+7: xBCrafted: 24
+8: Renthedog: 18
+9: ZombieCleo: 18
+10: Keralis1: 18
+11: VintageBeef: 7
+12: joehillssays: 7
+13: Tango: 7
+14: Welsknight: 6
+15: PearlescentMoon: 4
+16: Grian: 2
+Total 763

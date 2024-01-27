@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.leather_boots
+1: falsesymmetry: 109
+2: Biffa2001: 90
+3: Xisuma: 17
+4: Mumbo: 13
+5: zueljin: 12
+6: xBCrafted: 7
+7: KingDaddyDMAC: 4
+8: Tango: 2
+9: ZombieCleo: 2
+10: joehillssays: 1
+Total 257

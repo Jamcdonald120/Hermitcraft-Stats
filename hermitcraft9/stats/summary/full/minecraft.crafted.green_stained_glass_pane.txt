@@ -1,0 +1,16 @@
+minecraft.crafted.green_stained_glass_pane
+1: Etho: 704
+2: Tango: 400
+3: Docm77: 208
+4: Xisuma: 208
+5: PearlescentMoon: 160
+6: joehillssays: 144
+7: BdoubleO100: 120
+8: cubfan135: 80
+9: GeminiTay: 64
+10: Zedaph: 24
+11: Grian: 16
+12: falsesymmetry: 16
+13: GoodTimeWithScar: 16
+14: Keralis1: 16
+Total 2176

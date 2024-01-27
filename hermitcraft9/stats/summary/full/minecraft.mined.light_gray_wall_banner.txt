@@ -1,0 +1,9 @@
+minecraft.mined.light_gray_wall_banner
+1: Tango: 8
+2: ZombieCleo: 3
+3: GoodTimeWithScar: 2
+4: PearlescentMoon: 1
+5: cubfan135: 1
+6: Keralis1: 1
+7: impulseSV: 1
+Total 17

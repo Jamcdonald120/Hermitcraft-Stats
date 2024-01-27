@@ -1,0 +1,16 @@
+stat.useItem.minecraft.snowball
+1: Etho: 672
+2: Docm77: 522
+3: iskall85: 211
+4: falsesymmetry: 110
+5: VintageBeef: 101
+6: cubfan135: 64
+7: impulseSV: 58
+8: GoodTimeWithScar: 24
+9: Tango: 19
+10: Tinfoilchef: 15
+11: PythonGB: 11
+12: Renthedog: 5
+13: Xisuma: 4
+14: MumboJumbo: 1
+Total 1817

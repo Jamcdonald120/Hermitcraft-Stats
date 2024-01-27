@@ -1,0 +1,25 @@
+stat.useItem.minecraft.furnace
+1: MumboJumbo: 1088
+2: Xisuma: 1006
+3: iskall85: 421
+4: impulseSV: 414
+5: cubfan135: 338
+6: joehillssays: 211
+7: Tango: 203
+8: Renthedog: 185
+9: Zedaph: 181
+10: falsesymmetry: 172
+11: GoodTimeWithScar: 157
+12: PythonGB: 150
+13: iJevin: 130
+14: xBCrafted: 115
+15: Welsknight: 78
+16: BdoubleO100: 56
+17: Stressmonster101: 52
+18: Biffa2001: 38
+19: VintageBeef: 32
+20: Etho: 31
+21: Tinfoilchef: 14
+22: ZombieCleo: 13
+23: Docm77: 12
+Total 5097

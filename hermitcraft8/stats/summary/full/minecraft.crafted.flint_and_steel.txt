@@ -1,0 +1,27 @@
+minecraft.crafted.flint_and_steel
+1: Docm77: 393
+2: cubfan135: 66
+3: Grian: 13
+4: Xisuma: 12
+5: GoodTimeWithScar: 12
+6: ZombieCleo: 11
+7: MumboJumbo: 10
+8: joehillssays: 9
+9: iJevin: 8
+10: Renthedog: 7
+11: xBCrafted: 6
+12: impulseSV: 6
+13: Tango: 5
+14: Etho: 4
+15: GeminiTay: 3
+16: falsesymmetry: 3
+17: PearlescentMoon: 2
+18: iskall85: 2
+19: Welsknight: 2
+20: Tinfoilchef: 2
+21: Keralis1: 2
+22: BdoubleO100: 1
+23: hypnotizd: 1
+24: Stressmonster101: 1
+25: Zedaph: 1
+Total 582

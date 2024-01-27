@@ -1,0 +1,25 @@
+minecraft.mined.light_gray_shulker_box
+1: Tango: 779
+2: PearlescentMoon: 558
+3: Xisuma: 471
+4: Renthedog: 378
+5: BdoubleO100: 240
+6: joehillssays: 164
+7: RentheKing: 128
+8: VintageBeef: 71
+9: Etho: 67
+10: iskall85: 56
+11: GeminiTay: 44
+12: Grian: 41
+13: Docm77: 39
+14: impulseSV: 27
+15: GoodTimeWithScar: 7
+16: falsesymmetry: 6
+17: Mumbo: 6
+18: Zedaph: 6
+19: xBCrafted: 3
+20: Keralis1: 2
+21: iJevin: 1
+22: ZombieCleo: 1
+23: Stressmonster101: 1
+Total 3096

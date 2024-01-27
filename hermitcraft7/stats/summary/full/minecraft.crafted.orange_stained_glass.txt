@@ -1,0 +1,19 @@
+minecraft.crafted.orange_stained_glass
+1: Xisuma: 4024
+2: Etho: 4024
+3: impulseSV: 2536
+4: joehillssays: 2200
+5: GoodTimeWithScar: 1072
+6: Stressmonster101: 960
+7: xBCrafted: 904
+8: falsesymmetry: 896
+9: Tango: 632
+10: iJevin: 432
+11: Keralis1: 48
+12: cubfan135: 40
+13: Docm77: 32
+14: VintageBeef: 24
+15: MumboJumbo: 16
+16: Zedaph: 16
+17: ZombieCleo: 8
+Total 17864

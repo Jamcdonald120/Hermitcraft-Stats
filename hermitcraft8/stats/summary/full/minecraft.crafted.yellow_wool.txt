@@ -1,0 +1,9 @@
+minecraft.crafted.yellow_wool
+1: impulseSV: 109
+2: Keralis1: 66
+3: falsesymmetry: 34
+4: Renthedog: 27
+5: iJevin: 2
+6: MumboJumbo: 2
+7: Welsknight: 1
+Total 241

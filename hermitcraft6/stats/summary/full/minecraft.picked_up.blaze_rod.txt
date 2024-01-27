@@ -1,0 +1,22 @@
+minecraft.picked_up.blaze_rod
+1: iskall85: 5490
+2: cubfan135: 1221
+3: Tango: 755
+4: MumboJumbo: 381
+5: GoodTimeWithScar: 229
+6: Docm77: 208
+7: falsesymmetry: 167
+8: Welsknight: 136
+9: impulseSV: 128
+10: PythonGB: 94
+11: Zedaph: 84
+12: ZombieCleo: 72
+13: Biffa2001: 69
+14: Grian: 66
+15: iJevin: 63
+16: Xisuma: 22
+17: Tinfoilchef: 16
+18: joehillssays: 11
+19: Renthedog: 9
+20: Stressmonster101: 3
+Total 9224

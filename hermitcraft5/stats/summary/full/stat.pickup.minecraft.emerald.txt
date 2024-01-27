@@ -1,0 +1,22 @@
+stat.pickup.minecraft.emerald
+1: Tango: 1402
+2: impulseSV: 1308
+3: cubfan135: 531
+4: ZombieCleo: 354
+5: MumboJumbo: 340
+6: Renthedog: 217
+7: iJevin: 196
+8: PythonGB: 167
+9: falsesymmetry: 98
+10: Welsknight: 86
+11: GoodTimeWithScar: 47
+12: Tinfoilchef: 28
+13: joehillssays: 27
+14: Zedaph: 18
+15: iskall85: 16
+16: BdoubleO100: 14
+17: xBCrafted: 11
+18: Xisuma: 5
+19: Biffa2001: 5
+20: Stressmonster101: 2
+Total 4872

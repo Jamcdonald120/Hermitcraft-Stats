@@ -1,0 +1,16 @@
+minecraft.dropped.white_stained_glass
+1: MumboJumbo: 998
+2: Grian: 198
+3: GoodTimeWithScar: 153
+4: falsesymmetry: 148
+5: Renthedog: 147
+6: iskall85: 130
+7: Docm77: 69
+8: Tango: 64
+9: impulseSV: 35
+10: Stressmonster101: 31
+11: Xisuma: 6
+12: Keralis1: 2
+13: PythonGB: 1
+14: iJevin: 1
+Total 1983

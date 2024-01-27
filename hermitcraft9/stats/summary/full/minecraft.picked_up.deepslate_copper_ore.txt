@@ -1,0 +1,20 @@
+minecraft.picked_up.deepslate_copper_ore
+1: Zedaph: 233
+2: Grian: 232
+3: cubfan135: 232
+4: Xisuma: 127
+5: Docm77: 123
+6: PearlescentMoon: 70
+7: Keralis1: 58
+8: hypnotizd: 42
+9: joehillssays: 37
+10: Tango: 37
+11: xBCrafted: 31
+12: falsesymmetry: 30
+13: Etho: 27
+14: Renthedog: 26
+15: Stressmonster101: 24
+16: VintageBeef: 12
+17: iJevin: 3
+18: GoodTimeWithScar: 2
+Total 1346

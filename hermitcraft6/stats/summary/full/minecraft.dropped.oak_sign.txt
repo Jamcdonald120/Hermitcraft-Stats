@@ -1,0 +1,24 @@
+minecraft.dropped.oak_sign
+1: MumboJumbo: 232
+2: Stressmonster101: 174
+3: Renthedog: 171
+4: tterrag: 146
+5: cubfan135: 141
+6: iskall85: 113
+7: Grian: 112
+8: GoodTimeWithScar: 88
+9: Xisuma: 84
+10: Tango: 59
+11: Docm77: 44
+12: falsesymmetry: 44
+13: Zedaph: 29
+14: impulseSV: 27
+15: Welsknight: 17
+16: Jura_Whitey: 14
+17: iJevin: 14
+18: PythonGB: 11
+19: joehillssays: 7
+20: Keralis1: 6
+21: ZombieCleo: 4
+22: BdoubleO100: 2
+Total 1539

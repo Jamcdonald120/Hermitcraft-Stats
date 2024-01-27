@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.writable_book
+1: ZombieCleo: 36
+2: Spumwackles: 4
+Total 40

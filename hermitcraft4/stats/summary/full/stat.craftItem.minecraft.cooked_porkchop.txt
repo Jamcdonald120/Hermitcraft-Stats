@@ -1,0 +1,17 @@
+stat.craftItem.minecraft.cooked_porkchop
+1: iJevin: 576
+2: iskall85: 288
+3: cubfan135: 101
+4: GoodTimeWithScar: 63
+5: joehillssays: 51
+6: impulseSV: 47
+7: Jessassin: 20
+8: Renthedog: 18
+9: Tango: 18
+10: xBCrafted: 14
+11: PythonGB: 12
+12: zueljin: 6
+13: VintageBeef: 5
+14: falsesymmetry: 4
+15: ZombieCleo: 3
+Total 1226

@@ -1,0 +1,20 @@
+minecraft.picked_up.bookshelf
+1: PearlescentMoon: 461
+2: GoodTimeWithScar: 152
+3: Grian: 81
+4: Xisuma: 76
+5: Welsknight: 64
+6: Tango: 58
+7: cubfan135: 48
+8: joehillssays: 46
+9: xBCrafted: 38
+10: GeminiTay: 24
+11: Etho: 23
+12: falsesymmetry: 20
+13: iskall85: 18
+14: hypnotizd: 17
+15: iJevin: 12
+16: Keralis1: 8
+17: Renthedog: 2
+18: BdoubleO100: 1
+Total 1149

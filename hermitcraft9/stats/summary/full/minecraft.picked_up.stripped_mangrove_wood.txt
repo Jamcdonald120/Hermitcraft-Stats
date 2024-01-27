@@ -1,0 +1,16 @@
+minecraft.picked_up.stripped_mangrove_wood
+1: Grian: 210
+2: RentheKing: 147
+3: PearlescentMoon: 145
+4: Renthedog: 128
+5: GoodTimeWithScar: 108
+6: Docm77: 21
+7: cubfan135: 9
+8: Tango: 8
+9: BdoubleO100: 5
+10: Keralis1: 5
+11: Xisuma: 3
+12: iskall85: 2
+13: impulseSV: 1
+14: Zedaph: 1
+Total 793

@@ -1,0 +1,15 @@
+minecraft.picked_up.dead_bush
+1: cubfan135: 1990
+2: GeminiTay: 1025
+3: Etho: 469
+4: Xisuma: 210
+5: VintageBeef: 96
+6: BdoubleO100: 88
+7: Keralis1: 65
+8: iJevin: 38
+9: Stressmonster101: 34
+10: impulseSV: 19
+11: Renthedog: 6
+12: Grian: 1
+13: Tango: 1
+Total 4042

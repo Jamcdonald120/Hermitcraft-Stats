@@ -1,0 +1,15 @@
+minecraft.dropped.cooked_cod
+1: impulseSV: 297
+2: Grian: 246
+3: Zedaph: 222
+4: Tango: 121
+5: hypnotizd: 82
+6: Keralis1: 40
+7: VintageBeef: 6
+8: cubfan135: 4
+9: MumboJumbo: 3
+10: GoodTimeWithScar: 3
+11: Stressmonster101: 3
+12: BdoubleO100: 2
+13: iJevin: 1
+Total 1030

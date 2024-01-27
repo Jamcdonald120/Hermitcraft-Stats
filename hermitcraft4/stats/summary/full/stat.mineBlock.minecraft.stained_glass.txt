@@ -1,0 +1,21 @@
+stat.mineBlock.minecraft.stained_glass
+1: impulseSV: 7715
+2: falsesymmetry: 5772
+3: Xisuma: 3622
+4: Renthedog: 3109
+5: iskall85: 2523
+6: Tango: 2341
+7: cubfan135: 1720
+8: GoodTimeWithScar: 1077
+9: MumboJumbo: 963
+10: ZombieCleo: 896
+11: joehillssays: 890
+12: Welsknight: 725
+13: Tinfoilchef: 432
+14: PythonGB: 292
+15: Docm77: 182
+16: Etho: 93
+17: VintageBeef: 85
+18: iJevin: 19
+19: Biffa2001: 9
+Total 32465

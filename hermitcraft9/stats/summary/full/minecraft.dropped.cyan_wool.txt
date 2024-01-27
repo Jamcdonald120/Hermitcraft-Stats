@@ -1,0 +1,7 @@
+minecraft.dropped.cyan_wool
+1: falsesymmetry: 255
+2: Tango: 228
+3: GoodTimeWithScar: 155
+4: Keralis1: 1
+5: impulseSV: 1
+Total 640

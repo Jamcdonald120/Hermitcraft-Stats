@@ -1,0 +1,20 @@
+stat.craftItem.minecraft.stained_hardened_clay
+1: GoodTimeWithScar: 103060
+2: cubfan135: 48080
+3: Xisuma: 18904
+4: MumboJumbo: 17680
+5: Stressmonster101: 7292
+6: falsesymmetry: 4600
+7: iskall85: 4208
+8: Welsknight: 3608
+9: joehillssays: 1272
+10: impulseSV: 1232
+11: xBCrafted: 960
+12: ZombieCleo: 912
+13: Tango: 256
+14: Zedaph: 240
+15: Docm77: 168
+16: iJevin: 136
+17: VintageBeef: 56
+18: BdoubleO100: 24
+Total 212688

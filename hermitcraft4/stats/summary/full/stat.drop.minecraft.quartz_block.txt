@@ -1,0 +1,10 @@
+stat.drop.minecraft.quartz_block
+1: Renthedog: 1072
+2: iskall85: 167
+3: falsesymmetry: 113
+4: VintageBeef: 48
+5: MumboJumbo: 46
+6: GoodTimeWithScar: 8
+7: impulseSV: 6
+8: Xisuma: 1
+Total 1461

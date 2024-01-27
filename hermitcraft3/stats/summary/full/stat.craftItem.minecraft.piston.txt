@@ -1,0 +1,21 @@
+stat.craftItem.minecraft.piston
+1: Xisuma: 1846
+2: Mumbo: 1293
+3: impulseSV: 1059
+4: Tango: 729
+5: falsesymmetry: 487
+6: xBCrafted: 267
+7: sl1pg8r: 164
+8: zueljin: 140
+9: Tinfoilchef: 136
+10: hypnotizd: 130
+11: Etho: 100
+12: Biffa2001: 85
+13: KingDaddyDMAC: 82
+14: Docm77: 56
+15: iJevin: 31
+16: monkeyfarm: 26
+17: topmass: 22
+18: PythonGB: 14
+19: ZombieCleo: 13
+Total 6680

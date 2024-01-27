@@ -1,0 +1,22 @@
+stat.useItem.minecraft.rail
+1: Xisuma: 7120
+2: Tango: 6194
+3: iskall85: 5369
+4: impulseSV: 4583
+5: VintageBeef: 1981
+6: falsesymmetry: 1795
+7: MumboJumbo: 1671
+8: cubfan135: 1326
+9: Renthedog: 632
+10: Docm77: 559
+11: iJevin: 413
+12: joehillssays: 384
+13: PythonGB: 177
+14: GoodTimeWithScar: 147
+15: Tinfoilchef: 79
+16: Biffa2001: 55
+17: Etho: 20
+18: Welsknight: 9
+19: xisumavoid: 3
+20: ZombieCleo: 1
+Total 32518

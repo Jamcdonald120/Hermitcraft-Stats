@@ -1,0 +1,16 @@
+minecraft.dropped.spruce_leaves
+1: Keralis1: 1684
+2: Renthedog: 878
+3: falsesymmetry: 804
+4: cubfan135: 281
+5: GoodTimeWithScar: 259
+6: iskall85: 232
+7: MumboJumbo: 190
+8: HumanCleo: 97
+9: Docm77: 77
+10: impulseSV: 66
+11: Xisuma: 59
+12: Grian: 47
+13: Tango: 3
+14: PythonGB: 1
+Total 4678

@@ -1,0 +1,25 @@
+stat.pickup.minecraft.lever
+1: Docm77: 1030
+2: cubfan135: 856
+3: impulseSV: 633
+4: Tango: 446
+5: MumboJumbo: 402
+6: Zedaph: 312
+7: Xisuma: 241
+8: GoodTimeWithScar: 216
+9: Welsknight: 142
+10: Tinfoilchef: 141
+11: iJevin: 139
+12: xBCrafted: 122
+13: PythonGB: 66
+14: falsesymmetry: 66
+15: ZombieCleo: 54
+16: BdoubleO100: 45
+17: iskall85: 40
+18: Biffa2001: 19
+19: VintageBeef: 9
+20: Etho: 3
+21: Renthedog: 2
+22: joehillssays: 2
+23: Stressmonster101: 2
+Total 4988

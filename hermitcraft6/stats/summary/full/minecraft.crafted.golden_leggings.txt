@@ -1,0 +1,15 @@
+minecraft.crafted.golden_leggings
+1: impulseSV: 38
+2: Grian: 13
+3: joehillssays: 6
+4: ZombieCleo: 4
+5: Xisuma: 3
+6: iJevin: 3
+7: GoodTimeWithScar: 3
+8: Renthedog: 2
+9: cubfan135: 2
+10: HumanCleo: 1
+11: PythonGB: 1
+12: BdoubleO100: 1
+13: iskall85: 1
+Total 78

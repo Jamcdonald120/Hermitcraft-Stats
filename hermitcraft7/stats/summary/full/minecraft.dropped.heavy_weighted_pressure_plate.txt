@@ -1,0 +1,12 @@
+minecraft.dropped.heavy_weighted_pressure_plate
+1: iJevin: 64
+2: Etho: 36
+3: Tango: 26
+4: falsesymmetry: 20
+5: GoodTimeWithScar: 10
+6: MumboJumbo: 6
+7: BdoubleO100: 5
+8: cubfan135: 5
+9: VintageBeef: 2
+10: xBCrafted: 1
+Total 175

@@ -1,0 +1,13 @@
+minecraft.crafted.mud_brick_stairs
+1: Keralis1: 432
+2: impulseSV: 48
+3: PearlescentMoon: 41
+4: cubfan135: 28
+5: Xisuma: 25
+6: Renthedog: 4
+7: MythicalSausage: 4
+8: joehillssays: 4
+9: Tango: 4
+10: GoodTimeWithScar: 4
+11: Zedaph: 1
+Total 595

@@ -1,0 +1,21 @@
+minecraft.picked_up.green_dye
+1: Zedaph: 9930
+2: BdoubleO100: 5219
+3: Tango: 1865
+4: Grian: 1344
+5: iJevin: 1153
+6: GoodTimeWithScar: 356
+7: cubfan135: 335
+8: Stressmonster101: 298
+9: xBCrafted: 228
+10: joehillssays: 214
+11: Xisuma: 129
+12: falsesymmetry: 69
+13: Keralis1: 69
+14: Renthedog: 64
+15: ZombieCleo: 64
+16: impulseSV: 64
+17: VintageBeef: 22
+18: Docm77: 18
+19: MumboJumbo: 17
+Total 21458

@@ -1,0 +1,24 @@
+minecraft.picked_up.mangrove_roots
+1: Keralis1: 19643
+2: joehillssays: 6364
+3: Renthedog: 5427
+4: GoodTimeWithScar: 2296
+5: PearlescentMoon: 1453
+6: impulseSV: 1160
+7: Etho: 990
+8: cubfan135: 763
+9: Xisuma: 599
+10: BdoubleO100: 453
+11: iJevin: 319
+12: Zedaph: 202
+13: Docm77: 152
+14: RentheKing: 133
+15: Stressmonster101: 119
+16: VintageBeef: 97
+17: GeminiTay: 65
+18: xBCrafted: 45
+19: Tango: 41
+20: ZombieCleo: 30
+21: Mumbo: 2
+22: Grian: 1
+Total 40354

@@ -1,0 +1,9 @@
+stat.craftItem.minecraft.emerald_block
+1: impulseSV: 101
+2: Tinfoilchef: 98
+3: Tango: 46
+4: Xisuma: 14
+5: xBCrafted: 9
+6: PythonGB: 7
+7: Biffa2001: 3
+Total 278

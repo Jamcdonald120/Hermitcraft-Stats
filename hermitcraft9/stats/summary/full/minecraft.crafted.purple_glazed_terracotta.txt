@@ -1,0 +1,11 @@
+minecraft.crafted.purple_glazed_terracotta
+1: falsesymmetry: 996
+2: Grian: 697
+3: PearlescentMoon: 395
+4: Xisuma: 161
+5: Etho: 128
+6: GoodTimeWithScar: 35
+7: Keralis1: 24
+8: impulseSV: 20
+9: Zedaph: 1
+Total 2457

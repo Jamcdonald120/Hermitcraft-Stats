@@ -1,0 +1,25 @@
+stat.drop.minecraft.dirt
+1: iskall85: 19987
+2: Xisuma: 18566
+3: Zedaph: 13537
+4: Renthedog: 12398
+5: cubfan135: 10813
+6: MumboJumbo: 7838
+7: GoodTimeWithScar: 7749
+8: Tango: 6813
+9: falsesymmetry: 3849
+10: Tinfoilchef: 2334
+11: impulseSV: 2274
+12: xBCrafted: 1490
+13: BdoubleO100: 1358
+14: Welsknight: 762
+15: PythonGB: 705
+16: iJevin: 640
+17: Stressmonster101: 409
+18: joehillssays: 367
+19: Biffa2001: 281
+20: Docm77: 223
+21: Etho: 109
+22: VintageBeef: 94
+23: ZombieCleo: 10
+Total 112606

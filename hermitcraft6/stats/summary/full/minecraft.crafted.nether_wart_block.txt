@@ -1,0 +1,12 @@
+minecraft.crafted.nether_wart_block
+1: impulseSV: 1529
+2: cubfan135: 1362
+3: iskall85: 227
+4: Xisuma: 134
+5: ZombieCleo: 123
+6: Tango: 65
+7: Zedaph: 35
+8: Renthedog: 26
+9: joehillssays: 14
+10: Tinfoilchef: 1
+Total 3516

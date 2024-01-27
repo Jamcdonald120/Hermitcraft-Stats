@@ -1,0 +1,8 @@
+minecraft.picked_up.small_dripleaf
+1: PearlescentMoon: 135
+2: iJevin: 6
+3: GoodTimeWithScar: 4
+4: joehillssays: 2
+5: cubfan135: 1
+6: Keralis1: 1
+Total 149

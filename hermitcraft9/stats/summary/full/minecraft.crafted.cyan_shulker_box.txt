@@ -1,0 +1,22 @@
+minecraft.crafted.cyan_shulker_box
+1: impulseSV: 123
+2: Tango: 39
+3: ZombieCleo: 36
+4: VintageBeef: 21
+5: PearlescentMoon: 17
+6: GoodTimeWithScar: 13
+7: falsesymmetry: 12
+8: joehillssays: 11
+9: Xisuma: 10
+10: RentheKing: 10
+11: iskall85: 6
+12: cubfan135: 6
+13: xBCrafted: 5
+14: Grian: 4
+15: Etho: 3
+16: Keralis1: 3
+17: Docm77: 2
+18: Zedaph: 2
+19: BdoubleO100: 1
+20: Stressmonster101: 1
+Total 325

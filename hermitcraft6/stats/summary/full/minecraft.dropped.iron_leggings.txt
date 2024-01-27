@@ -1,0 +1,20 @@
+minecraft.dropped.iron_leggings
+1: Grian: 23
+2: Xisuma: 15
+3: Tango: 15
+4: iskall85: 14
+5: cubfan135: 14
+6: Renthedog: 5
+7: falsesymmetry: 5
+8: impulseSV: 5
+9: iJevin: 4
+10: Docm77: 3
+11: Jura_Whitey: 3
+12: joehillssays: 2
+13: GoodTimeWithScar: 2
+14: Zedaph: 2
+15: Biffa2001: 1
+16: MumboJumbo: 1
+17: Stressmonster101: 1
+18: Keralis1: 1
+Total 116

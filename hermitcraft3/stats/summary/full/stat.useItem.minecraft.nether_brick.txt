@@ -1,0 +1,20 @@
+stat.useItem.minecraft.nether_brick
+1: Xisuma: 10662
+2: Tango: 7069
+3: zueljin: 5327
+4: impulseSV: 3731
+5: falsesymmetry: 2527
+6: Biffa2001: 1204
+7: xBCrafted: 642
+8: monkeyfarm: 291
+9: Etho: 142
+10: PythonGB: 65
+11: Spumwackles: 59
+12: ZombieCleo: 45
+13: iJevin: 12
+14: Mumbo: 5
+15: sl1pg8r: 2
+16: topmass: 2
+17: hypnotizd: 2
+18: Docm77: 1
+Total 31788

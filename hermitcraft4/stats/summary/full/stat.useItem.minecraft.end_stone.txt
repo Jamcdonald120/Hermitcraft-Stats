@@ -1,0 +1,19 @@
+stat.useItem.minecraft.end_stone
+1: cubfan135: 9747
+2: iskall85: 817
+3: GoodTimeWithScar: 817
+4: PythonGB: 615
+5: Xisuma: 516
+6: Renthedog: 316
+7: impulseSV: 255
+8: falsesymmetry: 196
+9: Tango: 130
+10: MumboJumbo: 113
+11: Tinfoilchef: 48
+12: Welsknight: 34
+13: iJevin: 15
+14: Etho: 14
+15: ZombieCleo: 13
+16: Docm77: 9
+17: Biffa2001: 5
+Total 13660

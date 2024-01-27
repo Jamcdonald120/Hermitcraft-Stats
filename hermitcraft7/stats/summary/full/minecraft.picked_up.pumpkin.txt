@@ -1,0 +1,26 @@
+minecraft.picked_up.pumpkin
+1: Docm77: 6277
+2: Grian: 5307
+3: GoodTimeWithScar: 5223
+4: iskall85: 3379
+5: VintageBeef: 3312
+6: Keralis1: 1970
+7: impulseSV: 1601
+8: Stressmonster101: 1476
+9: Zedaph: 1073
+10: Xisuma: 640
+11: Etho: 431
+12: joehillssays: 424
+13: Tango: 333
+14: MumboJumbo: 228
+15: cubfan135: 210
+16: iJevin: 143
+17: hypnotizd: 126
+18: falsesymmetry: 119
+19: Renthedog: 47
+20: BdoubleO100: 33
+21: ZombieCleo: 15
+22: xBCrafted: 14
+23: Welsknight: 6
+24: BarryBoss1234: 1
+Total 32388

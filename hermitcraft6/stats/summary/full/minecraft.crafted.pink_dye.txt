@@ -1,0 +1,23 @@
+minecraft.crafted.pink_dye
+1: Grian: 2068
+2: Xisuma: 1967
+3: cubfan135: 960
+4: GoodTimeWithScar: 715
+5: falsesymmetry: 526
+6: Renthedog: 399
+7: Docm77: 360
+8: Tango: 341
+9: Welsknight: 266
+10: iskall85: 224
+11: PythonGB: 128
+12: iJevin: 124
+13: Zedaph: 87
+14: Stressmonster101: 66
+15: BdoubleO100: 34
+16: joehillssays: 27
+17: MumboJumbo: 14
+18: ZombieCleo: 4
+19: Tinfoilchef: 4
+20: Biffa2001: 3
+21: impulseSV: 2
+Total 8319

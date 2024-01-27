@@ -1,0 +1,4 @@
+stat.craftItem.minecraft.leather_helmet
+1: falsesymmetry: 2
+2: ZombieCleo: 2
+Total 4

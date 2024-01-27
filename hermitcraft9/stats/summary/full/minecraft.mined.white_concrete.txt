@@ -1,0 +1,28 @@
+minecraft.mined.white_concrete
+1: Renthedog: 14214
+2: falsesymmetry: 11610
+3: ZombieCleo: 11373
+4: Docm77: 9561
+5: Grian: 7983
+6: impulseSV: 6202
+7: BdoubleO100: 4642
+8: cubfan135: 3323
+9: xBCrafted: 2301
+10: GoodTimeWithScar: 1631
+11: PearlescentMoon: 1340
+12: VintageBeef: 1310
+13: Xisuma: 1211
+14: Keralis1: 1015
+15: Etho: 990
+16: joehillssays: 841
+17: iJevin: 389
+18: iskall85: 278
+19: Stressmonster101: 135
+20: RentheKing: 131
+21: GeminiTay: 118
+22: Mumbo: 101
+23: MythicalSausage: 5
+24: Zedaph: 5
+25: Smallishbeans: 2
+26: Tango: 1
+Total 80712

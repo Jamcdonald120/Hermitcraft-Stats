@@ -1,0 +1,6 @@
+minecraft.crafted.diorite_stairs
+1: Grian: 64
+2: Xisuma: 8
+3: Renthedog: 8
+4: iskall85: 8
+Total 88

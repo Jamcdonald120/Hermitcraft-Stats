@@ -1,0 +1,22 @@
+stat.mineBlock.minecraft.iron_block
+1: Mumbo: 10295
+2: impulseSV: 10098
+3: Tango: 9615
+4: falsesymmetry: 5718
+5: Xisuma: 5335
+6: xBCrafted: 2837
+7: Tinfoilchef: 1173
+8: zueljin: 958
+9: ZombieCleo: 716
+10: iJevin: 566
+11: Biffa2001: 529
+12: hypnotizd: 509
+13: Docm77: 450
+14: sl1pg8r: 450
+15: PythonGB: 234
+16: Etho: 173
+17: monkeyfarm: 23
+18: KingDaddyDMAC: 18
+19: topmass: 6
+20: joehillssays: 2
+Total 49705

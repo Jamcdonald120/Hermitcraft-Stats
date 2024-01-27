@@ -1,0 +1,22 @@
+minecraft.killed_by.skeleton
+1: Etho: 56
+2: GoodTimeWithScar: 9
+3: VintageBeef: 6
+4: joehillssays: 6
+5: Grian: 5
+6: Docm77: 4
+7: MumboJumbo: 4
+8: Zedaph: 4
+9: iskall85: 3
+10: Keralis1: 3
+11: iJevin: 2
+12: cubfan135: 2
+13: Xisuma: 1
+14: Renthedog: 1
+15: Tango: 1
+16: BdoubleO100: 1
+17: ZombieCleo: 1
+18: hypnotizd: 1
+19: Stressmonster101: 1
+20: impulseSV: 1
+Total 112

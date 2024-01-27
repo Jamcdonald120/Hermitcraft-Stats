@@ -1,0 +1,22 @@
+minecraft.dropped.golden_apple
+1: Grian: 106
+2: iJevin: 55
+3: Xisuma: 26
+4: Zedaph: 22
+5: cubfan135: 20
+6: PearlescentMoon: 17
+7: Keralis1: 17
+8: BdoubleO100: 15
+9: falsesymmetry: 14
+10: iskall85: 11
+11: impulseSV: 11
+12: Renthedog: 10
+13: ZombieCleo: 9
+14: Docm77: 8
+15: Tango: 7
+16: GoodTimeWithScar: 7
+17: Mumbo: 5
+18: joehillssays: 2
+19: VintageBeef: 1
+20: xBCrafted: 1
+Total 364

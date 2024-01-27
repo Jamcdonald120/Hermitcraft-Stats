@@ -1,0 +1,24 @@
+minecraft.crafted.iron_trapdoor
+1: GoodTimeWithScar: 6896
+2: Docm77: 1773
+3: cubfan135: 1697
+4: falsesymmetry: 1436
+5: Tango: 1254
+6: Zedaph: 1204
+7: Xisuma: 1169
+8: impulseSV: 1139
+9: iskall85: 429
+10: MumboJumbo: 224
+11: Grian: 155
+12: Keralis1: 104
+13: Renthedog: 80
+14: Stressmonster101: 71
+15: Tinfoilchef: 10
+16: PythonGB: 9
+17: iJevin: 7
+18: joehillssays: 6
+19: xBCrafted: 5
+20: Welsknight: 3
+21: Biffa2001: 2
+22: BdoubleO100: 1
+Total 17674

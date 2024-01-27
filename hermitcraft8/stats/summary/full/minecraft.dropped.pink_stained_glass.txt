@@ -1,0 +1,4 @@
+minecraft.dropped.pink_stained_glass
+1: PearlescentMoon: 64
+2: Etho: 1
+Total 65

@@ -1,0 +1,20 @@
+minecraft.picked_up.light_blue_concrete
+1: cubfan135: 1185
+2: Renthedog: 862
+3: Xisuma: 189
+4: impulseSV: 183
+5: Docm77: 168
+6: Keralis1: 154
+7: ZombieCleo: 129
+8: RentheKing: 129
+9: GoodTimeWithScar: 123
+10: joehillssays: 87
+11: BdoubleO100: 67
+12: Zedaph: 56
+13: iJevin: 25
+14: Etho: 8
+15: xBCrafted: 7
+16: PearlescentMoon: 5
+17: falsesymmetry: 5
+18: VintageBeef: 2
+Total 3384

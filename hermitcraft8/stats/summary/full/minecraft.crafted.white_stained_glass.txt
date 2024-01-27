@@ -1,0 +1,22 @@
+minecraft.crafted.white_stained_glass
+1: xBCrafted: 3072
+2: impulseSV: 2768
+3: Docm77: 2424
+4: Xisuma: 1432
+5: Welsknight: 1136
+6: Etho: 832
+7: GeminiTay: 624
+8: PearlescentMoon: 616
+9: cubfan135: 424
+10: Tango: 256
+11: BdoubleO100: 192
+12: falsesymmetry: 192
+13: Keralis1: 152
+14: Grian: 120
+15: GoodTimeWithScar: 104
+16: joehillssays: 40
+17: Renthedog: 8
+18: iJevin: 8
+19: MumboJumbo: 8
+20: Zedaph: 8
+Total 14416

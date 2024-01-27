@@ -1,0 +1,21 @@
+minecraft.crafted.crimson_stairs
+1: Tango: 1173
+2: Stressmonster101: 544
+3: Xisuma: 436
+4: GoodTimeWithScar: 280
+5: Grian: 244
+6: ZombieCleo: 100
+7: Renthedog: 80
+8: impulseSV: 76
+9: PearlescentMoon: 60
+10: GeminiTay: 48
+11: joehillssays: 32
+12: xBCrafted: 32
+13: Etho: 24
+14: cubfan135: 16
+15: iJevin: 12
+16: Docm77: 8
+17: Smajor1995: 8
+18: Keralis1: 4
+19: Zedaph: 4
+Total 3181

@@ -1,0 +1,28 @@
+minecraft.killed.pillager
+1: impulseSV: 1944594
+2: Docm77: 395231
+3: Keralis1: 340222
+4: Tango: 244407
+5: iJevin: 98883
+6: cubfan135: 152
+7: Xisuma: 147
+8: Etho: 133
+9: GoodTimeWithScar: 91
+10: VintageBeef: 84
+11: PearlescentMoon: 66
+12: xBCrafted: 56
+13: Grian: 53
+14: ZombieCleo: 21
+15: joehillssays: 20
+16: falsesymmetry: 13
+17: GeminiTay: 12
+18: hypnotizd: 12
+19: Zedaph: 12
+20: iskall85: 10
+21: BdoubleO100: 8
+22: MythicalSausage: 7
+23: Mumbo: 6
+24: OrionSound: 2
+25: Renthedog: 2
+26: Stressmonster101: 1
+Total 3024245

@@ -1,0 +1,10 @@
+minecraft.crafted.gray_bed
+1: Etho: 18
+2: Renthedog: 10
+3: ZombieCleo: 10
+4: falsesymmetry: 4
+5: impulseSV: 4
+6: GeminiTay: 1
+7: BdoubleO100: 1
+8: Zedaph: 1
+Total 49

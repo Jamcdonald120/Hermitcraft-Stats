@@ -1,0 +1,18 @@
+minecraft.crafted.smooth_quartz_stairs
+1: GoodTimeWithScar: 1071
+2: Grian: 600
+3: Keralis1: 436
+4: cubfan135: 322
+5: Xisuma: 300
+6: impulseSV: 213
+7: Zedaph: 129
+8: iJevin: 124
+9: falsesymmetry: 96
+10: ZombieCleo: 54
+11: GeminiTay: 28
+12: VintageBeef: 8
+13: iskall85: 8
+14: xBCrafted: 8
+15: PearlescentMoon: 4
+16: Docm77: 2
+Total 3403

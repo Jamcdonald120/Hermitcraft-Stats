@@ -1,0 +1,7 @@
+stat.drop.minecraft.comparator
+1: MumboJumbo: 46
+2: Zedaph: 40
+3: Tango: 20
+4: impulseSV: 16
+5: cubfan135: 2
+Total 124

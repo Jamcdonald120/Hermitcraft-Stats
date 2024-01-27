@@ -1,0 +1,21 @@
+minecraft.crafted.dark_oak_fence_gate
+1: Renthedog: 1479
+2: Grian: 1119
+3: BdoubleO100: 432
+4: iJevin: 375
+5: Keralis1: 259
+6: hypnotizd: 96
+7: Tango: 85
+8: GoodTimeWithScar: 78
+9: Xisuma: 57
+10: xBCrafted: 56
+11: cubfan135: 52
+12: Zedaph: 46
+13: impulseSV: 32
+14: Docm77: 16
+15: falsesymmetry: 8
+16: joehillssays: 7
+17: Welsknight: 2
+18: VintageBeef: 1
+19: iskall85: 1
+Total 4201

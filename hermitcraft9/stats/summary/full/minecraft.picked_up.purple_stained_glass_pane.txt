@@ -1,0 +1,15 @@
+minecraft.picked_up.purple_stained_glass_pane
+1: cubfan135: 100
+2: falsesymmetry: 84
+3: GoodTimeWithScar: 58
+4: Tango: 48
+5: Keralis1: 38
+6: Zedaph: 32
+7: impulseSV: 21
+8: Stressmonster101: 17
+9: PearlescentMoon: 13
+10: iJevin: 4
+11: Mumbo: 4
+12: Xisuma: 3
+13: ZombieCleo: 2
+Total 424

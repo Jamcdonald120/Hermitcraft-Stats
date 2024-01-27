@@ -1,0 +1,33 @@
+minecraft.mined.spruce_trapdoor
+1: Keralis1: 2109
+2: iJevin: 1242
+3: ZombieCleo: 468
+4: xBCrafted: 349
+5: cubfan135: 254
+6: impulseSV: 229
+7: Tango: 193
+8: GeminiTay: 181
+9: BdoubleO100: 175
+10: Etho: 169
+11: hypnotizd: 164
+12: Docm77: 153
+13: PearlescentMoon: 145
+14: Grian: 142
+15: falsesymmetry: 113
+16: iskall85: 102
+17: GoodTimeWithScar: 76
+18: Xisuma: 75
+19: Renthedog: 71
+20: Stressmonster101: 57
+21: Zedaph: 41
+22: VintageBeef: 36
+23: MythicalSausage: 27
+24: Welsknight: 12
+25: Pixlriffs: 8
+26: RentheKing: 8
+27: ShubbleYT: 8
+28: OrionSound: 6
+29: Mumbo: 3
+30: fWhip: 3
+31: SolidarityGaming: 3
+Total 6622

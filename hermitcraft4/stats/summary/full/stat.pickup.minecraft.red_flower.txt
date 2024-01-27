@@ -1,0 +1,27 @@
+stat.pickup.minecraft.red_flower
+1: Renthedog: 10505
+2: falsesymmetry: 6467
+3: xisumavoid: 5618
+4: Tango: 5271
+5: Xisuma: 3710
+6: cubfan135: 2312
+7: MumboJumbo: 2268
+8: PythonGB: 1524
+9: GoodTimeWithScar: 1021
+10: iJevin: 988
+11: impulseSV: 881
+12: iskall85: 825
+13: Etho: 487
+14: Docm77: 300
+15: joehillssays: 260
+16: Welsknight: 191
+17: Tinfoilchef: 158
+18: zueljin: 114
+19: ZombieCleo: 50
+20: Biffa001: 31
+21: VintageBeef: 15
+22: Jessassin: 6
+23: Biffa2001: 4
+24: Mumbo: 3
+25: xBCrafted: 2
+Total 43011

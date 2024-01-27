@@ -1,0 +1,8 @@
+stat.useItem.minecraft.clay
+1: falsesymmetry: 1428
+2: Tinfoilchef: 162
+3: Mumbo: 157
+4: zueljin: 103
+5: Xisuma: 32
+6: Tango: 3
+Total 1885

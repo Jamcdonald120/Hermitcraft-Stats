@@ -1,0 +1,9 @@
+minecraft.crafted.prismarine_bricks
+1: GeminiTay: 5536
+2: Stressmonster101: 3919
+3: PearlescentMoon: 3200
+4: Xisuma: 1736
+5: Etho: 576
+6: falsesymmetry: 220
+7: impulseSV: 92
+Total 15279

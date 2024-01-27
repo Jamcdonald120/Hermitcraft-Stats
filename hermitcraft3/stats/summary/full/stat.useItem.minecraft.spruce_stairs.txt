@@ -1,0 +1,20 @@
+stat.useItem.minecraft.spruce_stairs
+1: iJevin: 2729
+2: Xisuma: 2219
+3: falsesymmetry: 2196
+4: xBCrafted: 1386
+5: Tango: 763
+6: Keralis1: 758
+7: sl1pg8r: 748
+8: Biffa2001: 634
+9: Etho: 396
+10: monkeyfarm: 148
+11: Mumbo: 143
+12: KingDaddyDMAC: 88
+13: impulseSV: 85
+14: zueljin: 75
+15: hypnotizd: 57
+16: skyzm: 32
+17: topmass: 6
+18: Biffa001: 1
+Total 12464

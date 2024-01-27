@@ -1,0 +1,11 @@
+minecraft.picked_up.polished_blackstone_brick_wall
+1: Tango: 479
+2: cubfan135: 97
+3: iJevin: 80
+4: impulseSV: 64
+5: falsesymmetry: 56
+6: ZombieCleo: 47
+7: PearlescentMoon: 5
+8: GoodTimeWithScar: 5
+9: Xisuma: 2
+Total 835

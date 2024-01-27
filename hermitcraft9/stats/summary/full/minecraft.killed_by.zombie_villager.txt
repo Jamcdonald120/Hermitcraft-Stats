@@ -1,0 +1,6 @@
+minecraft.killed_by.zombie_villager
+1: Etho: 4
+2: Docm77: 1
+3: Renthedog: 1
+4: Zedaph: 1
+Total 7

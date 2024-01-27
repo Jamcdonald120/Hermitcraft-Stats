@@ -1,0 +1,28 @@
+minecraft.dropped.shulker_box
+1: hypnotizd: 527
+2: Grian: 115
+3: iJevin: 89
+4: Tango: 71
+5: Xisuma: 45
+6: Etho: 37
+7: impulseSV: 37
+8: Docm77: 36
+9: PearlescentMoon: 24
+10: joehillssays: 22
+11: cubfan135: 21
+12: falsesymmetry: 17
+13: GoodTimeWithScar: 17
+14: Renthedog: 13
+15: Keralis1: 13
+16: Zedaph: 12
+17: RentheKing: 7
+18: ZombieCleo: 4
+19: GeminiTay: 3
+20: Pixlriffs: 3
+21: xBCrafted: 3
+22: OrionSound: 2
+23: VintageBeef: 2
+24: iskall85: 2
+25: Stressmonster101: 2
+26: SolidarityGaming: 1
+Total 1125

@@ -1,0 +1,27 @@
+minecraft.mined.spruce_leaves
+1: GoodTimeWithScar: 65121
+2: Renthedog: 11336
+3: cubfan135: 10343
+4: Keralis1: 9865
+5: PearlescentMoon: 5859
+6: BdoubleO100: 5544
+7: joehillssays: 2995
+8: Grian: 2232
+9: Tango: 1196
+10: Xisuma: 1009
+11: impulseSV: 881
+12: hypnotizd: 696
+13: ZombieCleo: 440
+14: Stressmonster101: 407
+15: Welsknight: 361
+16: iskall85: 297
+17: VintageBeef: 224
+18: falsesymmetry: 136
+19: Etho: 136
+20: GeminiTay: 111
+21: MumboJumbo: 106
+22: Zedaph: 104
+23: xBCrafted: 76
+24: Docm77: 26
+25: iJevin: 5
+Total 119506

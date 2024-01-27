@@ -1,0 +1,25 @@
+stat.killEntity.Endermite
+1: Tango: 92
+2: impulseSV: 84
+3: cubfan135: 71
+4: falsesymmetry: 69
+5: Zedaph: 59
+6: iskall85: 54
+7: Xisuma: 42
+8: Renthedog: 24
+9: GoodTimeWithScar: 21
+10: Welsknight: 19
+11: MumboJumbo: 12
+12: joehillssays: 11
+13: Docm77: 7
+14: Stressmonster101: 6
+15: Biffa2001: 5
+16: Tinfoilchef: 3
+17: PythonGB: 2
+18: xisumavoid: 2
+19: Etho: 2
+20: iJevin: 1
+21: BdoubleO100: 1
+22: xBCrafted: 1
+23: TangoCam: 1
+Total 589

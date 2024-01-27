@@ -1,0 +1,4 @@
+minecraft.dropped.waxed_weathered_cut_copper
+1: BdoubleO100: 16
+2: Grian: 3
+Total 19

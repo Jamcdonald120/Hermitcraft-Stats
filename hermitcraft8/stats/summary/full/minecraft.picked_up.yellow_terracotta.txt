@@ -1,0 +1,16 @@
+minecraft.picked_up.yellow_terracotta
+1: MumboJumbo: 167
+2: impulseSV: 64
+3: Docm77: 51
+4: BdoubleO100: 13
+5: Renthedog: 12
+6: Tango: 8
+7: Etho: 8
+8: PearlescentMoon: 7
+9: ZombieCleo: 7
+10: Keralis1: 7
+11: GeminiTay: 4
+12: cubfan135: 4
+13: Grian: 3
+14: Xisuma: 1
+Total 356

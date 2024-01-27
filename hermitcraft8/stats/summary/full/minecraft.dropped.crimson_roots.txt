@@ -1,0 +1,17 @@
+minecraft.dropped.crimson_roots
+1: Etho: 403
+2: xBCrafted: 33
+3: Keralis1: 11
+4: GoodTimeWithScar: 10
+5: GeminiTay: 4
+6: Xisuma: 3
+7: MumboJumbo: 3
+8: Docm77: 2
+9: hypnotizd: 2
+10: iJevin: 1
+11: Grian: 1
+12: BdoubleO100: 1
+13: ZombieCleo: 1
+14: Stressmonster101: 1
+15: Zedaph: 1
+Total 477

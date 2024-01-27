@@ -1,0 +1,12 @@
+stat.pickup.minecraft.nether_wart_block
+1: Tango: 363
+2: GoodTimeWithScar: 150
+3: Xisuma: 88
+4: cubfan135: 52
+5: joehillssays: 48
+6: iskall85: 42
+7: falsesymmetry: 29
+8: Zedaph: 9
+9: Welsknight: 3
+10: MumboJumbo: 2
+Total 786

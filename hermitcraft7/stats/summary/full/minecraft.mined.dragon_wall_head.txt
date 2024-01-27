@@ -1,0 +1,21 @@
+minecraft.mined.dragon_wall_head
+1: GoodTimeWithScar: 97
+2: iJevin: 33
+3: Tango: 30
+4: Xisuma: 27
+5: Keralis1: 23
+6: VintageBeef: 13
+7: Etho: 12
+8: iskall85: 11
+9: falsesymmetry: 7
+10: cubfan135: 5
+11: hypnotizd: 5
+12: Renthedog: 4
+13: impulseSV: 4
+14: Zedaph: 4
+15: xBCrafted: 3
+16: MumboJumbo: 3
+17: Grian: 2
+18: Docm77: 1
+19: ZombieCleo: 1
+Total 285

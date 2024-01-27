@@ -1,0 +1,25 @@
+minecraft.mined.oak_stairs
+1: Xisuma: 170
+2: MumboJumbo: 119
+3: xBCrafted: 81
+4: joehillssays: 77
+5: PearlescentMoon: 73
+6: Renthedog: 56
+7: iJevin: 53
+8: falsesymmetry: 36
+9: Keralis1: 28
+10: GeminiTay: 20
+11: ZombieCleo: 16
+12: BdoubleO100: 13
+13: impulseSV: 12
+14: Stressmonster101: 11
+15: Tango: 10
+16: Welsknight: 9
+17: Docm77: 8
+18: Grian: 7
+19: hypnotizd: 4
+20: Etho: 3
+21: pillbugnine: 1
+22: iskall85: 1
+23: GoodTimeWithScar: 1
+Total 809

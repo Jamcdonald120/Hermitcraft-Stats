@@ -1,0 +1,7 @@
+stat.mineBlock.minecraft.clay
+1: zueljin: 187
+2: Tinfoilchef: 57
+3: Tango: 6
+4: Spumwackles: 4
+5: falsesymmetry: 1
+Total 255

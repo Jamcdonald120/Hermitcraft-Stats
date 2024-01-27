@@ -1,0 +1,21 @@
+stat.useItem.minecraft.spruce_boat
+1: Renthedog: 181
+2: cubfan135: 139
+3: joehillssays: 88
+4: iskall85: 61
+5: GoodTimeWithScar: 61
+6: Xisuma: 48
+7: xBCrafted: 48
+8: Tinfoilchef: 36
+9: falsesymmetry: 31
+10: Zedaph: 23
+11: Welsknight: 19
+12: iJevin: 10
+13: Stressmonster101: 9
+14: PythonGB: 4
+15: Tango: 4
+16: ZombieCleo: 4
+17: MumboJumbo: 3
+18: impulseSV: 2
+19: Biffa2001: 1
+Total 772

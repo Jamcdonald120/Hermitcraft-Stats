@@ -1,0 +1,11 @@
+stat.drop.minecraft.nether_brick_fence
+1: Tango: 415
+2: cubfan135: 91
+3: xBCrafted: 54
+4: Zedaph: 33
+5: MumboJumbo: 10
+6: iskall85: 7
+7: impulseSV: 7
+8: Welsknight: 1
+9: GoodTimeWithScar: 1
+Total 619

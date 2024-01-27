@@ -1,0 +1,16 @@
+stat.pickup.minecraft.acacia_fence
+1: falsesymmetry: 352
+2: cubfan135: 214
+3: PythonGB: 158
+4: Renthedog: 72
+5: ZombieCleo: 34
+6: Docm77: 27
+7: Etho: 15
+8: Xisuma: 12
+9: Welsknight: 3
+10: Jessassin: 1
+11: iJevin: 1
+12: iskall85: 1
+13: hypnotizd: 1
+14: impulseSV: 1
+Total 892

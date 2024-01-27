@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.deadbush
+1: falsesymmetry: 379
+2: Xisuma: 256
+3: cubfan135: 198
+4: joehillssays: 77
+5: PythonGB: 73
+6: BdoubleO100: 73
+7: GoodTimeWithScar: 46
+8: Welsknight: 24
+9: impulseSV: 20
+10: Tango: 16
+11: iskall85: 16
+12: MumboJumbo: 14
+13: Stressmonster101: 10
+14: xBCrafted: 9
+15: Renthedog: 8
+16: VintageBeef: 5
+17: ZombieCleo: 4
+18: Docm77: 2
+Total 1230

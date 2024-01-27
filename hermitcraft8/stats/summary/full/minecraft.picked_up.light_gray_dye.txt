@@ -1,0 +1,12 @@
+minecraft.picked_up.light_gray_dye
+1: Grian: 220
+2: GoodTimeWithScar: 116
+3: impulseSV: 44
+4: ZombieCleo: 37
+5: Tango: 16
+6: Etho: 12
+7: Zedaph: 4
+8: Welsknight: 2
+9: Xisuma: 1
+10: joehillssays: 1
+Total 453

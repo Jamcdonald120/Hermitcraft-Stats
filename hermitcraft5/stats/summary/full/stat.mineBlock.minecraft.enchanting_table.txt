@@ -1,0 +1,20 @@
+stat.mineBlock.minecraft.enchanting_table
+1: cubfan135: 40
+2: Xisuma: 9
+3: MumboJumbo: 8
+4: Stressmonster101: 5
+5: Tango: 3
+6: xBCrafted: 3
+7: Tinfoilchef: 3
+8: impulseSV: 3
+9: BdoubleO100: 2
+10: iskall85: 2
+11: Etho: 2
+12: Zedaph: 2
+13: Renthedog: 1
+14: VintageBeef: 1
+15: PythonGB: 1
+16: joehillssays: 1
+17: Welsknight: 1
+18: GoodTimeWithScar: 1
+Total 88

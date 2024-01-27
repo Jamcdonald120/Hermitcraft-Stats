@@ -1,0 +1,14 @@
+minecraft.dropped.white_carpet
+1: hypnotizd: 61
+2: Zedaph: 18
+3: iJevin: 13
+4: Xisuma: 11
+5: Renthedog: 8
+6: xBCrafted: 7
+7: impulseSV: 6
+8: Tango: 5
+9: PearlescentMoon: 3
+10: Grian: 1
+11: cubfan135: 1
+12: MumboJumbo: 1
+Total 135

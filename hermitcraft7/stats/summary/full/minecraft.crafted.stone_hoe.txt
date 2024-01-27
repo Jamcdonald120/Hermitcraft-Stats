@@ -1,0 +1,22 @@
+minecraft.crafted.stone_hoe
+1: Etho: 113
+2: impulseSV: 92
+3: MumboJumbo: 32
+4: BdoubleO100: 28
+5: Stressmonster101: 27
+6: joehillssays: 13
+7: iskall85: 9
+8: Grian: 8
+9: GoodTimeWithScar: 6
+10: iJevin: 4
+11: hypnotizd: 4
+12: Zedaph: 4
+13: Xisuma: 3
+14: xBCrafted: 2
+15: Docm77: 1
+16: VintageBeef: 1
+17: falsesymmetry: 1
+18: cubfan135: 1
+19: ZombieCleo: 1
+20: Tinfoilchef: 1
+Total 351

@@ -1,0 +1,23 @@
+minecraft.dropped.sugar_cane
+1: Zedaph: 20534
+2: Tango: 5167
+3: Grian: 4836
+4: falsesymmetry: 3339
+5: iskall85: 1590
+6: Keralis1: 654
+7: cubfan135: 293
+8: GoodTimeWithScar: 276
+9: Renthedog: 250
+10: MumboJumbo: 232
+11: VintageBeef: 199
+12: Stressmonster101: 160
+13: Etho: 108
+14: iJevin: 92
+15: xBCrafted: 66
+16: joehillssays: 49
+17: BdoubleO100: 35
+18: Xisuma: 25
+19: impulseSV: 20
+20: Docm77: 5
+21: ZombieCleo: 1
+Total 37931

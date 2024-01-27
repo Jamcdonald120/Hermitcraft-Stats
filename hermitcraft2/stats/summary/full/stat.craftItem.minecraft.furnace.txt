@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.furnace
+1: Xisuma: 294
+2: Tango: 93
+3: xBCrafted: 23
+4: monkeyfarm: 13
+5: Biffa2001: 9
+6: sl1pg8r: 8
+7: iJevin: 8
+8: falsesymmetry: 6
+9: ZombieCleo: 4
+10: Collen: 1
+Total 459

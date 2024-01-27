@@ -1,0 +1,21 @@
+minecraft.dropped.spruce_sign
+1: Zedaph: 1218
+2: Grian: 161
+3: GoodTimeWithScar: 110
+4: Etho: 38
+5: cubfan135: 34
+6: Renthedog: 22
+7: xBCrafted: 18
+8: iJevin: 16
+9: iskall85: 7
+10: MumboJumbo: 6
+11: Tango: 5
+12: Xisuma: 4
+13: Keralis1: 4
+14: Docm77: 2
+15: joehillssays: 1
+16: falsesymmetry: 1
+17: BarryBoss1234: 1
+18: ZombieCleo: 1
+19: hypnotizd: 1
+Total 1650

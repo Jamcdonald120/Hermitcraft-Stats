@@ -1,0 +1,11 @@
+stat.useItem.minecraft.pumpkin_seeds
+1: ZombieCleo: 49
+2: Xisuma: 48
+3: Mumbo: 44
+4: falsesymmetry: 27
+5: Tinfoilchef: 18
+6: monkeyfarm: 11
+7: xBCrafted: 2
+8: NameOfSamuel: 2
+9: sl1pg8r: 1
+Total 202

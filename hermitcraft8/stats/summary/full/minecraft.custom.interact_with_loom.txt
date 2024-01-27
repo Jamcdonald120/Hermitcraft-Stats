@@ -1,0 +1,17 @@
+minecraft.custom.interact_with_loom
+1: Renthedog: 21
+2: GoodTimeWithScar: 21
+3: MumboJumbo: 16
+4: Keralis1: 15
+5: cubfan135: 14
+6: Zedaph: 11
+7: BdoubleO100: 10
+8: Xisuma: 9
+9: PearlescentMoon: 8
+10: impulseSV: 8
+11: Tango: 3
+12: falsesymmetry: 3
+13: joehillssays: 2
+14: Grian: 2
+15: xBCrafted: 2
+Total 145

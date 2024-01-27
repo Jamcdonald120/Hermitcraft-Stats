@@ -1,0 +1,9 @@
+minecraft.picked_up.weathered_cut_copper_slab
+1: Docm77: 104
+2: VintageBeef: 21
+3: GoodTimeWithScar: 4
+4: Xisuma: 3
+5: cubfan135: 3
+6: BdoubleO100: 1
+7: Etho: 1
+Total 137

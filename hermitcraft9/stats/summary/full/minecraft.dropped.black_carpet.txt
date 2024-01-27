@@ -1,0 +1,14 @@
+minecraft.dropped.black_carpet
+1: falsesymmetry: 261
+2: Grian: 127
+3: iJevin: 84
+4: impulseSV: 67
+5: VintageBeef: 42
+6: Keralis1: 17
+7: joehillssays: 12
+8: Tango: 8
+9: GoodTimeWithScar: 4
+10: Renthedog: 3
+11: Docm77: 1
+12: ZombieCleo: 1
+Total 627

@@ -1,0 +1,8 @@
+stat.craftItem.minecraft.stone_pressure_plate
+1: Tango: 17
+2: monkeyfarm: 7
+3: zueljin: 4
+4: Tinfoilchef: 4
+5: Mumbo: 2
+6: Xisuma: 1
+Total 35

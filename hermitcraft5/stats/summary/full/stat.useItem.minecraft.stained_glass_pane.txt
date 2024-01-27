@@ -1,0 +1,23 @@
+stat.useItem.minecraft.stained_glass_pane
+1: impulseSV: 7060
+2: GoodTimeWithScar: 6334
+3: cubfan135: 5221
+4: Tango: 5006
+5: PythonGB: 4100
+6: Renthedog: 3718
+7: xBCrafted: 3660
+8: MumboJumbo: 2838
+9: falsesymmetry: 2701
+10: Welsknight: 1583
+11: iskall85: 1249
+12: Xisuma: 1233
+13: ZombieCleo: 264
+14: Zedaph: 234
+15: joehillssays: 179
+16: Tinfoilchef: 147
+17: BdoubleO100: 83
+18: iJevin: 63
+19: Docm77: 39
+20: VintageBeef: 8
+21: Etho: 1
+Total 45721

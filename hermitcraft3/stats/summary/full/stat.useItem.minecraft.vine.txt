@@ -1,0 +1,15 @@
+stat.useItem.minecraft.vine
+1: falsesymmetry: 856
+2: Tango: 387
+3: Xisuma: 289
+4: monkeyfarm: 207
+5: iJevin: 173
+6: Mumbo: 148
+7: Tinfoilchef: 138
+8: xBCrafted: 110
+9: sl1pg8r: 107
+10: ZombieCleo: 32
+11: Etho: 18
+12: impulseSV: 11
+13: zueljin: 3
+Total 2479

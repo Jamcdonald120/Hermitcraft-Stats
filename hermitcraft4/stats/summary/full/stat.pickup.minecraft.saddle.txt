@@ -1,0 +1,20 @@
+stat.pickup.minecraft.saddle
+1: impulseSV: 122
+2: cubfan135: 67
+3: iskall85: 34
+4: Xisuma: 25
+5: Welsknight: 25
+6: iJevin: 24
+7: MumboJumbo: 19
+8: PythonGB: 8
+9: falsesymmetry: 8
+10: GoodTimeWithScar: 8
+11: Tango: 5
+12: Renthedog: 4
+13: Biffa2001: 4
+14: joehillssays: 3
+15: zueljin: 2
+16: Etho: 2
+17: VintageBeef: 1
+18: ZombieCleo: 1
+Total 362

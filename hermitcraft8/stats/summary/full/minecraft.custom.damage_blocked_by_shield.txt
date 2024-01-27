@@ -1,0 +1,22 @@
+minecraft.custom.damage_blocked_by_shield
+1: MumboJumbo: 233040
+2: falsesymmetry: 6893
+3: GoodTimeWithScar: 6030
+4: iJevin: 5680
+5: PearlescentMoon: 5420
+6: Xisuma: 5355
+7: cubfan135: 3550
+8: VintageBeef: 2950
+9: hypnotizd: 2810
+10: Tango: 2500
+11: iskall85: 1843
+12: Zedaph: 1590
+13: impulseSV: 1535
+14: Keralis1: 1480
+15: GeminiTay: 1425
+16: Grian: 740
+17: Docm77: 735
+18: xBCrafted: 630
+19: Renthedog: 610
+20: BdoubleO100: 80
+Total 284896

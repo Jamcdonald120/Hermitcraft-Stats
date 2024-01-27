@@ -1,0 +1,24 @@
+stat.useItem.minecraft.fence
+1: Xisuma: 2542
+2: Mumbo: 2437
+3: falsesymmetry: 1129
+4: xBCrafted: 1040
+5: monkeyfarm: 752
+6: topmass: 537
+7: sl1pg8r: 417
+8: impulseSV: 385
+9: ZombieCleo: 289
+10: Tango: 226
+11: PythonGB: 203
+12: Etho: 145
+13: hypnotizd: 129
+14: zueljin: 72
+15: iJevin: 49
+16: joehillssays: 44
+17: Spumwackles: 44
+18: skyzm: 33
+19: Collen: 20
+20: KingDaddyDMAC: 19
+21: Tinfoilchef: 8
+22: Keralis1: 6
+Total 10526

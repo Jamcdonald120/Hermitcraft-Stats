@@ -1,0 +1,20 @@
+minecraft.crafted.cooked_mutton
+1: GoodTimeWithScar: 237
+2: Docm77: 68
+3: iJevin: 32
+4: Renthedog: 29
+5: Tango: 26
+6: Zedaph: 16
+7: iskall85: 14
+8: falsesymmetry: 14
+9: VintageBeef: 8
+10: Stressmonster101: 8
+11: impulseSV: 8
+12: PearlescentMoon: 7
+13: Grian: 5
+14: xBCrafted: 5
+15: joehillssays: 4
+16: Welsknight: 3
+17: BdoubleO100: 1
+18: Etho: 1
+Total 486

@@ -1,0 +1,23 @@
+minecraft.mined.birch_slab
+1: MumboJumbo: 202
+2: cubfan135: 165
+3: GeminiTay: 108
+4: Keralis1: 48
+5: Etho: 43
+6: joehillssays: 36
+7: impulseSV: 31
+8: iJevin: 16
+9: PearlescentMoon: 14
+10: Renthedog: 13
+11: BdoubleO100: 13
+12: Xisuma: 10
+13: Docm77: 9
+14: Tango: 9
+15: Zedaph: 9
+16: Welsknight: 8
+17: ZombieCleo: 8
+18: GoodTimeWithScar: 4
+19: falsesymmetry: 3
+20: xBCrafted: 2
+21: Grian: 1
+Total 752

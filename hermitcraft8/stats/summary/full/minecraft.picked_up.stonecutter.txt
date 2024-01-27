@@ -1,0 +1,27 @@
+minecraft.picked_up.stonecutter
+1: Xisuma: 161
+2: BdoubleO100: 138
+3: Grian: 113
+4: GoodTimeWithScar: 93
+5: Renthedog: 81
+6: cubfan135: 78
+7: Docm77: 71
+8: xBCrafted: 45
+9: PearlescentMoon: 36
+10: impulseSV: 31
+11: iJevin: 28
+12: iskall85: 25
+13: Welsknight: 24
+14: Zedaph: 21
+15: Keralis1: 18
+16: Etho: 16
+17: hypnotizd: 16
+18: joehillssays: 15
+19: VintageBeef: 13
+20: EvilXisuma: 11
+21: Tango: 8
+22: Stressmonster101: 6
+23: ZombieCleo: 5
+24: GeminiTay: 3
+25: falsesymmetry: 1
+Total 1057

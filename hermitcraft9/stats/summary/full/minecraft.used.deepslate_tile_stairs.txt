@@ -1,0 +1,25 @@
+minecraft.used.deepslate_tile_stairs
+1: cubfan135: 3216
+2: Renthedog: 2952
+3: impulseSV: 1714
+4: RentheKing: 1160
+5: Mumbo: 1041
+6: Stressmonster101: 717
+7: iJevin: 581
+8: hypnotizd: 387
+9: GeminiTay: 200
+10: ZombieCleo: 150
+11: Xisuma: 140
+12: Tango: 120
+13: Grian: 104
+14: PearlescentMoon: 66
+15: Etho: 65
+16: xBCrafted: 54
+17: GoodTimeWithScar: 52
+18: Docm77: 28
+19: Zedaph: 16
+20: MumboJumbo: 13
+21: Keralis1: 6
+22: Pixlriffs: 2
+23: MythicalSausage: 1
+Total 12785

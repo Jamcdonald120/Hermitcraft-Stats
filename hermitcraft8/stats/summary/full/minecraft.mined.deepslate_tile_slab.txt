@@ -1,0 +1,26 @@
+minecraft.mined.deepslate_tile_slab
+1: Docm77: 968
+2: xBCrafted: 636
+3: Xisuma: 453
+4: Renthedog: 427
+5: Grian: 319
+6: Zedaph: 264
+7: hypnotizd: 196
+8: VintageBeef: 156
+9: PearlescentMoon: 129
+10: impulseSV: 125
+11: Tango: 115
+12: joehillssays: 112
+13: iskall85: 110
+14: Welsknight: 97
+15: ZombieCleo: 73
+16: iJevin: 39
+17: cubfan135: 35
+18: EvilXisuma: 33
+19: Keralis1: 22
+20: GoodTimeWithScar: 11
+21: GeminiTay: 9
+22: BdoubleO100: 8
+23: Stressmonster101: 7
+24: MumboJumbo: 3
+Total 4347

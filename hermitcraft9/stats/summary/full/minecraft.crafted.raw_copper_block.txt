@@ -1,0 +1,24 @@
+minecraft.crafted.raw_copper_block
+1: joehillssays: 3429
+2: Etho: 2666
+3: Grian: 2019
+4: GoodTimeWithScar: 1591
+5: PearlescentMoon: 1059
+6: cubfan135: 1008
+7: xBCrafted: 801
+8: BdoubleO100: 471
+9: falsesymmetry: 416
+10: impulseSV: 413
+11: Xisuma: 303
+12: hypnotizd: 286
+13: Zedaph: 274
+14: Mumbo: 142
+15: iJevin: 77
+16: iskall85: 71
+17: Tango: 44
+18: Docm77: 26
+19: Renthedog: 24
+20: GeminiTay: 7
+21: VintageBeef: 5
+22: Pixlriffs: 5
+Total 15137

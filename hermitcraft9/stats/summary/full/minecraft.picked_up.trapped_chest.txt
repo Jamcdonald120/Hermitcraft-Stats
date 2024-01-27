@@ -1,0 +1,7 @@
+minecraft.picked_up.trapped_chest
+1: VintageBeef: 17
+2: GoodTimeWithScar: 4
+3: Docm77: 1
+4: PearlescentMoon: 1
+5: xBCrafted: 1
+Total 24

@@ -1,0 +1,28 @@
+minecraft.mined.mushroom_stem
+1: Keralis1: 13120
+2: VintageBeef: 12611
+3: Renthedog: 8135
+4: RentheKing: 6033
+5: Docm77: 2047
+6: GoodTimeWithScar: 1217
+7: cubfan135: 986
+8: Tango: 803
+9: PearlescentMoon: 796
+10: Stressmonster101: 509
+11: Xisuma: 431
+12: Etho: 288
+13: impulseSV: 236
+14: Zedaph: 187
+15: falsesymmetry: 181
+16: GeminiTay: 152
+17: iskall85: 135
+18: Grian: 102
+19: xBCrafted: 83
+20: joehillssays: 69
+21: BdoubleO100: 60
+22: Smajor1995: 33
+23: iJevin: 26
+24: ZombieCleo: 18
+25: MythicalSausage: 1
+26: fWhip: 1
+Total 48260

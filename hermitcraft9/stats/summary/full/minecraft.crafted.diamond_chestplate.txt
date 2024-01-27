@@ -1,0 +1,27 @@
+minecraft.crafted.diamond_chestplate
+1: cubfan135: 120
+2: Tango: 26
+3: iJevin: 21
+4: Grian: 18
+5: RentheKing: 11
+6: Keralis1: 11
+7: GoodTimeWithScar: 7
+8: hypnotizd: 6
+9: impulseSV: 6
+10: Etho: 5
+11: Xisuma: 4
+12: Zedaph: 4
+13: Docm77: 3
+14: iskall85: 3
+15: xBCrafted: 3
+16: falsesymmetry: 3
+17: Renthedog: 2
+18: GeminiTay: 2
+19: Stressmonster101: 2
+20: joehillssays: 1
+21: BdoubleO100: 1
+22: PearlescentMoon: 1
+23: Welsknight: 1
+24: ZombieCleo: 1
+25: Mumbo: 1
+Total 263

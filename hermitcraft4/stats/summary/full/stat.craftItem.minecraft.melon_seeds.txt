@@ -1,0 +1,12 @@
+stat.craftItem.minecraft.melon_seeds
+1: MumboJumbo: 283
+2: iskall85: 191
+3: impulseSV: 47
+4: PythonGB: 32
+5: Renthedog: 30
+6: cubfan135: 24
+7: Welsknight: 7
+8: Docm77: 4
+9: Tinfoilchef: 4
+10: Jessassin: 1
+Total 623

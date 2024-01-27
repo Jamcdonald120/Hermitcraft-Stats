@@ -1,0 +1,19 @@
+minecraft.killed_by.vex
+1: impulseSV: 16
+2: Renthedog: 9
+3: BdoubleO100: 7
+4: GoodTimeWithScar: 6
+5: Etho: 4
+6: VintageBeef: 3
+7: iJevin: 3
+8: Keralis1: 3
+9: cubfan135: 2
+10: Xisuma: 1
+11: joehillssays: 1
+12: Grian: 1
+13: xBCrafted: 1
+14: falsesymmetry: 1
+15: Welsknight: 1
+16: hypnotizd: 1
+17: Zedaph: 1
+Total 61

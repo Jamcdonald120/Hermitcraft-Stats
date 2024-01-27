@@ -1,0 +1,19 @@
+minecraft.picked_up.axolotl_bucket
+1: ZombieCleo: 30
+2: cubfan135: 27
+3: joehillssays: 25
+4: falsesymmetry: 17
+5: Docm77: 6
+6: Zedaph: 5
+7: PearlescentMoon: 4
+8: Pixlriffs: 3
+9: hypnotizd: 3
+10: Keralis1: 3
+11: iJevin: 2
+12: Xisuma: 1
+13: GeminiTay: 1
+14: xBCrafted: 1
+15: GoodTimeWithScar: 1
+16: Stressmonster101: 1
+17: impulseSV: 1
+Total 131

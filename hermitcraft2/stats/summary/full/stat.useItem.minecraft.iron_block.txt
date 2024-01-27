@@ -1,0 +1,13 @@
+stat.useItem.minecraft.iron_block
+1: falsesymmetry: 5084
+2: Tango: 2753
+3: Spumwackles: 1388
+4: zueljin: 1323
+5: ZombieCleo: 1218
+6: Xisuma: 1049
+7: Mumbo: 856
+8: iJevin: 565
+9: Biffa2001: 389
+10: KingDaddyDMAC: 69
+11: xBCrafted: 2
+Total 14696

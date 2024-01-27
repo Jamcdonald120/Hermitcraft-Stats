@@ -1,0 +1,6 @@
+minecraft.dropped.oak_fence_gate
+1: MumboJumbo: 40
+2: GoodTimeWithScar: 34
+3: Etho: 2
+4: Zedaph: 2
+Total 78

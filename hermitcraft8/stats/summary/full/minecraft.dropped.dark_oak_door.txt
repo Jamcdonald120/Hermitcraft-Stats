@@ -1,0 +1,7 @@
+minecraft.dropped.dark_oak_door
+1: Grian: 2
+2: Tango: 2
+3: BdoubleO100: 2
+4: GoodTimeWithScar: 2
+5: PearlescentMoon: 1
+Total 9
