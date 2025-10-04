@@ -1,0 +1,24 @@
+minecraft.picked_up.dark_oak_slab
+22: Zedaph: 3317
+22: Grian: 2280
+22: Renthedog: 1225
+22: GoodTimeWithScar: 1152
+22: Stressmonster101: 844
+22: Keralis1: 747
+22: Etho: 625
+22: iskall85: 538
+22: cubfan135: 497
+22: impulseSV: 424
+22: Tango: 357
+22: BdoubleO100: 220
+22: Docm77: 135
+22: Xisuma: 129
+22: joehillssays: 129
+22: xBCrafted: 84
+22: ZombieCleo: 65
+22: Welsknight: 39
+22: MumboJumbo: 38
+22: VintageBeef: 28
+22: falsesymmetry: 7
+22: iJevin: 6
+Total 12886

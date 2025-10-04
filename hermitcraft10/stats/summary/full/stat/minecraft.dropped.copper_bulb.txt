@@ -1,0 +1,8 @@
+minecraft.dropped.copper_bulb
+6: Tango: 45
+6: impulseSV: 31
+6: Grian: 7
+6: cubfan135: 1
+6: Etho: 1
+6: GoodTimeWithScar: 1
+Total 86

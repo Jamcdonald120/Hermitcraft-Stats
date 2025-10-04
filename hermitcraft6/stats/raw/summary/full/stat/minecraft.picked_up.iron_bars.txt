@@ -1,0 +1,26 @@
+minecraft.picked_up.iron_bars
+24: cubfan135: 3825
+24: iJevin: 1810
+24: Xisuma: 1196
+24: GoodTimeWithScar: 1081
+24: Zedaph: 913
+24: Docm77: 843
+24: falsesymmetry: 806
+24: Tango: 799
+24: Grian: 733
+24: Stressmonster101: 665
+24: impulseSV: 624
+24: iskall85: 554
+24: joehillssays: 312
+24: Renthedog: 244
+24: Biffa2001: 228
+24: MumboJumbo: 198
+24: PythonGB: 195
+24: Keralis1: 128
+24: Welsknight: 127
+24: BdoubleO100: 94
+24: ZombieCleo: 48
+24: xBCrafted: 19
+24: HumanCleo: 3
+24: Tinfoilchef: 2
+Total 15447

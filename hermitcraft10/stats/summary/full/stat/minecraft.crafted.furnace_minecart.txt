@@ -1,0 +1,12 @@
+minecraft.crafted.furnace_minecart
+10: impulseSV: 8
+10: Renthedog: 7
+10: PearlescentMoon: 5
+10: Docm77: 3
+10: Xisuma: 3
+10: Grian: 2
+10: Etho: 2
+10: joehillssays: 1
+10: BdoubleO100: 1
+10: hypnotizd: 1
+Total 33

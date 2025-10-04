@@ -1,0 +1,12 @@
+minecraft.picked_up.blackstone_stairs
+10: OrionSound: 91
+10: Tango: 85
+10: xBCrafted: 42
+10: ZombieCleo: 37
+10: Keralis1: 23
+10: impulseSV: 17
+10: iJevin: 13
+10: Grian: 11
+10: joehillssays: 9
+10: cubfan135: 1
+Total 329

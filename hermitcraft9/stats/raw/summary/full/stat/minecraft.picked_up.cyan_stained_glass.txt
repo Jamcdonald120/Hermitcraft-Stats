@@ -1,0 +1,18 @@
+minecraft.picked_up.cyan_stained_glass
+16: falsesymmetry: 875
+16: Xisuma: 184
+16: GoodTimeWithScar: 174
+16: joehillssays: 114
+16: PearlescentMoon: 114
+16: Mumbo: 90
+16: Grian: 64
+16: Stressmonster101: 64
+16: Keralis1: 59
+16: Zedaph: 15
+16: impulseSV: 14
+16: Renthedog: 10
+16: cubfan135: 5
+16: Etho: 4
+16: GeminiTay: 1
+16: BdoubleO100: 1
+Total 1788

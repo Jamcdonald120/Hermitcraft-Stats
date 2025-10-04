@@ -1,0 +1,23 @@
+minecraft.crafted.iron_door
+21: Tango: 60
+21: Docm77: 57
+21: impulseSV: 36
+21: joehillssays: 24
+21: Xisuma: 21
+21: BdoubleO100: 21
+21: cubfan135: 21
+21: GoodTimeWithScar: 21
+21: iJevin: 15
+21: Keralis1: 15
+21: Skizzleman: 9
+21: xBCrafted: 9
+21: Smallishbeans: 6
+21: PearlescentMoon: 6
+21: falsesymmetry: 6
+21: Etho: 6
+21: Mumbo: 6
+21: VintageBeef: 3
+21: ZombieCleo: 3
+21: hypnotizd: 3
+21: Zedaph: 3
+Total 351

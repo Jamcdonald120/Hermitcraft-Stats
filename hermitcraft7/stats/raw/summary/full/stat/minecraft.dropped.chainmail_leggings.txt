@@ -1,0 +1,21 @@
+minecraft.dropped.chainmail_leggings
+19: Xisuma: 30
+19: Grian: 25
+19: hypnotizd: 20
+19: Renthedog: 8
+19: xBCrafted: 7
+19: Etho: 6
+19: GoodTimeWithScar: 5
+19: iJevin: 4
+19: Tango: 4
+19: impulseSV: 3
+19: Docm77: 2
+19: Zedaph: 2
+19: VintageBeef: 1
+19: joehillssays: 1
+19: BdoubleO100: 1
+19: iskall85: 1
+19: falsesymmetry: 1
+19: cubfan135: 1
+19: MumboJumbo: 1
+Total 123

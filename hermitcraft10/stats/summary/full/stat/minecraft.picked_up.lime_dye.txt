@@ -1,0 +1,27 @@
+minecraft.picked_up.lime_dye
+25: ZombieCleo: 497
+25: PearlescentMoon: 354
+25: GoodTimeWithScar: 277
+25: iJevin: 208
+25: impulseSV: 77
+25: GeminiTay: 67
+25: BdoubleO100: 31
+25: cubfan135: 22
+25: Renthedog: 20
+25: Xisuma: 13
+25: Grian: 13
+25: Docm77: 10
+25: Skizzleman: 9
+25: falsesymmetry: 8
+25: OrionSound: 4
+25: Zedaph: 4
+25: VintageBeef: 2
+25: Smallishbeans: 2
+25: Etho: 2
+25: Mumbo: 2
+25: Keralis1: 2
+25: joehillssays: 1
+25: Eyjoy27: 1
+25: hypnotizd: 1
+25: HBomb94: 1
+Total 1628

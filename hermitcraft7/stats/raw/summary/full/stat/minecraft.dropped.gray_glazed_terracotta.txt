@@ -1,0 +1,6 @@
+minecraft.dropped.gray_glazed_terracotta
+4: GoodTimeWithScar: 500
+4: Keralis1: 9
+4: Etho: 3
+4: VintageBeef: 1
+Total 513

@@ -1,0 +1,22 @@
+minecraft.picked_up.lava_bucket
+20: Zedaph: 64
+20: Tango: 45
+20: Renthedog: 32
+20: joehillssays: 15
+20: iJevin: 12
+20: Keralis1: 11
+20: Grian: 8
+20: ZombieCleo: 6
+20: VintageBeef: 4
+20: GoodTimeWithScar: 4
+20: Docm77: 3
+20: iskall85: 3
+20: Etho: 3
+20: Stressmonster101: 3
+20: Xisuma: 2
+20: falsesymmetry: 2
+20: cubfan135: 2
+20: impulseSV: 2
+20: BdoubleO100: 1
+20: MumboJumbo: 1
+Total 223

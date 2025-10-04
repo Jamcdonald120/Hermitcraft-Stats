@@ -1,0 +1,25 @@
+minecraft.picked_up.shears
+23: Grian: 327
+23: BdoubleO100: 115
+23: Xisuma: 81
+23: GoodTimeWithScar: 59
+23: falsesymmetry: 54
+23: cubfan135: 52
+23: iJevin: 48
+23: joehillssays: 46
+23: Tango: 42
+23: Zedaph: 29
+23: VintageBeef: 25
+23: Etho: 25
+23: Keralis1: 25
+23: iskall85: 21
+23: Docm77: 12
+23: Renthedog: 12
+23: MumboJumbo: 7
+23: Stressmonster101: 7
+23: impulseSV: 7
+23: ZombieCleo: 4
+23: hypnotizd: 4
+23: xBCrafted: 3
+23: TangoCam: 1
+Total 1006

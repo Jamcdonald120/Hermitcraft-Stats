@@ -1,0 +1,28 @@
+minecraft.crafted.emerald
+26: impulseSV: 64159
+26: Keralis1: 63519
+26: Etho: 54736
+26: Renthedog: 54454
+26: iJevin: 45445
+26: Zedaph: 41775
+26: falsesymmetry: 35690
+26: Stressmonster101: 35041
+26: Docm77: 29491
+26: Grian: 25439
+26: GoodTimeWithScar: 17847
+26: RentheKing: 17630
+26: GeminiTay: 17260
+26: iskall85: 14613
+26: cubfan135: 9617
+26: Tango: 7064
+26: xBCrafted: 3697
+26: Xisuma: 3628
+26: PearlescentMoon: 1620
+26: joehillssays: 850
+26: ZombieCleo: 594
+26: Pixlriffs: 531
+26: VintageBeef: 513
+26: Smallishbeans: 288
+26: hypnotizd: 45
+26: BdoubleO100: 18
+Total 545564

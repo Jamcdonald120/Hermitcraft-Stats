@@ -1,0 +1,27 @@
+minecraft.custom.inspect_dropper
+25: Tango: 7898
+25: Etho: 4291
+25: cubfan135: 2937
+25: Keralis1: 2183
+25: Xisuma: 2128
+25: iskall85: 1813
+25: impulseSV: 1257
+25: MumboJumbo: 1238
+25: Zedaph: 1236
+25: Stressmonster101: 846
+25: iJevin: 513
+25: xBCrafted: 466
+25: Grian: 413
+25: hypnotizd: 400
+25: Docm77: 399
+25: joehillssays: 362
+25: Renthedog: 257
+25: VintageBeef: 249
+25: BdoubleO100: 185
+25: falsesymmetry: 173
+25: GoodTimeWithScar: 132
+25: Welsknight: 56
+25: ZombieCleo: 50
+25: Tinfoilchef: 22
+25: xisumavoid: 5
+Total 29509

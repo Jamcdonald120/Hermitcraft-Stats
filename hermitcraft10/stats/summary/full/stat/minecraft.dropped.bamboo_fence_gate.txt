@@ -1,0 +1,6 @@
+minecraft.dropped.bamboo_fence_gate
+4: Tango: 8
+4: Grian: 3
+4: Keralis1: 3
+4: GoodTimeWithScar: 1
+Total 15

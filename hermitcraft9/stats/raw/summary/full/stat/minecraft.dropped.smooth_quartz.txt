@@ -1,0 +1,17 @@
+minecraft.dropped.smooth_quartz
+15: falsesymmetry: 300
+15: Grian: 203
+15: Zedaph: 118
+15: PearlescentMoon: 64
+15: iJevin: 16
+15: cubfan135: 15
+15: Smallishbeans: 4
+15: Etho: 3
+15: Keralis1: 3
+15: Docm77: 1
+15: Renthedog: 1
+15: joehillssays: 1
+15: Tango: 1
+15: GoodTimeWithScar: 1
+15: impulseSV: 1
+Total 732

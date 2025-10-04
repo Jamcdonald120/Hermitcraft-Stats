@@ -1,0 +1,19 @@
+minecraft.picked_up.ominous_trial_key
+17: PearlescentMoon: 190
+17: Docm77: 176
+17: cubfan135: 153
+17: iJevin: 82
+17: Etho: 69
+17: GoodTimeWithScar: 55
+17: Grian: 38
+17: Renthedog: 37
+17: Xisuma: 35
+17: Tango: 21
+17: impulseSV: 21
+17: GeminiTay: 18
+17: Smallishbeans: 17
+17: Skizzleman: 13
+17: Keralis1: 9
+17: xBCrafted: 6
+17: falsesymmetry: 4
+Total 944

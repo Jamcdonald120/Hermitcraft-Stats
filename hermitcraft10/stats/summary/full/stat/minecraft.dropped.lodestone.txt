@@ -1,0 +1,4 @@
+minecraft.dropped.lodestone
+2: Xisuma: 80
+2: cubfan135: 5
+Total 85

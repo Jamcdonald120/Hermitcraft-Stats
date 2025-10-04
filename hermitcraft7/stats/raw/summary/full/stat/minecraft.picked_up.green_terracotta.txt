@@ -1,0 +1,21 @@
+minecraft.picked_up.green_terracotta
+19: GoodTimeWithScar: 1198
+19: joehillssays: 518
+19: falsesymmetry: 512
+19: xBCrafted: 166
+19: Xisuma: 147
+19: VintageBeef: 137
+19: cubfan135: 119
+19: iskall85: 106
+19: Zedaph: 88
+19: Keralis1: 78
+19: iJevin: 32
+19: BdoubleO100: 31
+19: Tango: 26
+19: Grian: 23
+19: Etho: 5
+19: impulseSV: 5
+19: MumboJumbo: 2
+19: Stressmonster101: 2
+19: Renthedog: 1
+Total 3196

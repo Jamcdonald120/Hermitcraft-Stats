@@ -1,0 +1,5 @@
+minecraft.picked_up.brewer_pottery_sherd
+3: Renthedog: 8
+3: Etho: 2
+3: falsesymmetry: 1
+Total 11

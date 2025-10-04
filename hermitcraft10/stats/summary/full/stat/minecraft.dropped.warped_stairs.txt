@@ -1,0 +1,6 @@
+minecraft.dropped.warped_stairs
+4: Etho: 18
+4: Skizzleman: 7
+4: GoodTimeWithScar: 3
+4: Smallishbeans: 2
+Total 30

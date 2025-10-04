@@ -1,0 +1,12 @@
+minecraft.crafted.cut_sandstone_slab
+10: impulseSV: 1152
+10: cubfan135: 504
+10: Renthedog: 492
+10: Grian: 470
+10: Keralis1: 246
+10: GoodTimeWithScar: 162
+10: Welsknight: 126
+10: joehillssays: 72
+10: Xisuma: 18
+10: BdoubleO100: 6
+Total 3248

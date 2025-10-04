@@ -1,0 +1,29 @@
+minecraft.picked_up.orange_dye
+27: PearlescentMoon: 323
+27: Renthedog: 185
+27: cubfan135: 94
+27: iJevin: 65
+27: Keralis1: 64
+27: falsesymmetry: 28
+27: Grian: 21
+27: impulseSV: 20
+27: ZombieCleo: 19
+27: Skizzleman: 16
+27: Xisuma: 14
+27: GoodTimeWithScar: 13
+27: Docm77: 12
+27: BdoubleO100: 12
+27: GeminiTay: 11
+27: Tango: 8
+27: Smallishbeans: 6
+27: hypnotizd: 5
+27: SolidarityGaming: 5
+27: joehillssays: 4
+27: Etho: 4
+27: OrionSound: 3
+27: Couriway: 1
+27: Eyjoy27: 1
+27: Mumbo: 1
+27: HBomb94: 1
+27: Zedaph: 1
+Total 937

@@ -1,0 +1,4 @@
+minecraft.crafted.jungle_sapling
+2: falsesymmetry: 8
+2: Keralis1: 8
+Total 16

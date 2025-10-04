@@ -1,0 +1,34 @@
+minecraft.used.spruce_planks
+32: hypnotizd: 13367
+32: VintageBeef: 9572
+32: GeminiTay: 9299
+32: ZombieCleo: 6321
+32: PearlescentMoon: 4879
+32: Renthedog: 3967
+32: iJevin: 3657
+32: Stressmonster101: 3306
+32: Keralis1: 2071
+32: falsesymmetry: 1985
+32: Tango: 1685
+32: GoodTimeWithScar: 1599
+32: impulseSV: 1513
+32: BdoubleO100: 1037
+32: iskall85: 1031
+32: Xisuma: 921
+32: Grian: 904
+32: Etho: 839
+32: cubfan135: 813
+32: xBCrafted: 568
+32: RentheKing: 407
+32: Welsknight: 378
+32: SolidarityGaming: 246
+32: Docm77: 202
+32: joehillssays: 166
+32: Smallishbeans: 84
+32: fWhip: 52
+32: OrionSound: 14
+32: Pixlriffs: 11
+32: MythicalSausage: 9
+32: Zedaph: 3
+32: ShubbleYT: 1
+Total 70907

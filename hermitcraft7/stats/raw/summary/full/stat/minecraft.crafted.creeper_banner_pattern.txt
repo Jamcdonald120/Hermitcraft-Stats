@@ -1,0 +1,6 @@
+minecraft.crafted.creeper_banner_pattern
+4: VintageBeef: 1
+4: cubfan135: 1
+4: Etho: 1
+4: Keralis1: 1
+Total 4

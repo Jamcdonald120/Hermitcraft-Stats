@@ -1,0 +1,14 @@
+minecraft.custom.target_hit
+12: cubfan135: 163
+12: MumboJumbo: 97
+12: falsesymmetry: 65
+12: Zedaph: 65
+12: Etho: 50
+12: impulseSV: 35
+12: Keralis1: 7
+12: Grian: 6
+12: ZombieCleo: 4
+12: BdoubleO100: 1
+12: xBCrafted: 1
+12: GoodTimeWithScar: 1
+Total 495

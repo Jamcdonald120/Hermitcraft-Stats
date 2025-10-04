@@ -1,0 +1,18 @@
+minecraft.picked_up.hanging_roots
+16: Tango: 817
+16: Etho: 638
+16: cubfan135: 503
+16: GoodTimeWithScar: 365
+16: PearlescentMoon: 131
+16: GeminiTay: 130
+16: Renthedog: 52
+16: Docm77: 48
+16: falsesymmetry: 32
+16: iJevin: 30
+16: Keralis1: 29
+16: ZombieCleo: 9
+16: VintageBeef: 7
+16: Xisuma: 4
+16: BdoubleO100: 2
+16: Zedaph: 1
+Total 2798

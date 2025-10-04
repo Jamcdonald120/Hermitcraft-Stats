@@ -1,0 +1,5 @@
+minecraft.crafted.shaper_armor_trim_smithing_template
+3: cubfan135: 12
+3: iJevin: 8
+3: impulseSV: 6
+Total 26

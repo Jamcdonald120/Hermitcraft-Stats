@@ -1,0 +1,9 @@
+minecraft.dropped.nether_brick_stairs
+7: Tango: 214
+7: Keralis1: 23
+7: iskall85: 2
+7: Zedaph: 2
+7: Docm77: 1
+7: Xisuma: 1
+7: iJevin: 1
+Total 244

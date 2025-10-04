@@ -1,0 +1,23 @@
+minecraft.picked_up.stone_pressure_plate
+21: impulseSV: 1566
+21: Tango: 175
+21: Etho: 115
+21: Zedaph: 110
+21: cubfan135: 101
+21: BdoubleO100: 55
+21: iJevin: 32
+21: Keralis1: 24
+21: Docm77: 18
+21: Renthedog: 16
+21: PearlescentMoon: 14
+21: Mumbo: 9
+21: GoodTimeWithScar: 6
+21: Xisuma: 4
+21: Grian: 4
+21: Skizzleman: 4
+21: falsesymmetry: 4
+21: GeminiTay: 3
+21: joehillssays: 2
+21: xBCrafted: 2
+21: VintageBeef: 1
+Total 2265

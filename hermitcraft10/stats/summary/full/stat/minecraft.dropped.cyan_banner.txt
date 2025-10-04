@@ -1,0 +1,4 @@
+minecraft.dropped.cyan_banner
+2: falsesymmetry: 2
+2: cubfan135: 2
+Total 4

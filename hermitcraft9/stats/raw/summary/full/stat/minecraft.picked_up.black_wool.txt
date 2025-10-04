@@ -1,0 +1,29 @@
+minecraft.picked_up.black_wool
+27: falsesymmetry: 11327
+27: iJevin: 9696
+27: PearlescentMoon: 1303
+27: Xisuma: 733
+27: impulseSV: 721
+27: Grian: 678
+27: Tango: 434
+27: VintageBeef: 318
+27: Stressmonster101: 229
+27: Renthedog: 219
+27: Docm77: 128
+27: cubfan135: 116
+27: iskall85: 85
+27: joehillssays: 68
+27: GeminiTay: 63
+27: BdoubleO100: 33
+27: xBCrafted: 32
+27: RentheKing: 17
+27: hypnotizd: 16
+27: GoodTimeWithScar: 7
+27: Keralis1: 7
+27: Zedaph: 3
+27: MythicalSausage: 2
+27: Etho: 2
+27: ZombieCleo: 1
+27: Mumbo: 1
+27: MumboJumbo: 1
+Total 26240

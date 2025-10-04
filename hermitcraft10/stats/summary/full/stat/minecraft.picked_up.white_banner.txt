@@ -1,0 +1,26 @@
+minecraft.picked_up.white_banner
+24: hypnotizd: 648
+24: Tango: 614
+24: cubfan135: 547
+24: iJevin: 204
+24: Etho: 199
+24: Skizzleman: 164
+24: Keralis1: 137
+24: GoodTimeWithScar: 106
+24: PearlescentMoon: 93
+24: Smallishbeans: 74
+24: BdoubleO100: 70
+24: joehillssays: 47
+24: xBCrafted: 42
+24: Xisuma: 39
+24: falsesymmetry: 35
+24: Renthedog: 34
+24: Grian: 34
+24: GeminiTay: 24
+24: VintageBeef: 17
+24: Docm77: 16
+24: ZombieCleo: 11
+24: Mumbo: 6
+24: impulseSV: 3
+24: Zedaph: 2
+Total 3166

@@ -1,0 +1,23 @@
+minecraft.used.deepslate_tile_wall
+21: impulseSV: 4246
+21: Renthedog: 1910
+21: RentheKing: 1194
+21: Xisuma: 981
+21: cubfan135: 670
+21: Tango: 426
+21: xBCrafted: 421
+21: Mumbo: 296
+21: Stressmonster101: 116
+21: ZombieCleo: 89
+21: BdoubleO100: 76
+21: GoodTimeWithScar: 67
+21: Docm77: 50
+21: Keralis1: 42
+21: GeminiTay: 37
+21: iJevin: 29
+21: MumboJumbo: 24
+21: PearlescentMoon: 17
+21: Pixlriffs: 15
+21: Grian: 9
+21: hypnotizd: 7
+Total 10722

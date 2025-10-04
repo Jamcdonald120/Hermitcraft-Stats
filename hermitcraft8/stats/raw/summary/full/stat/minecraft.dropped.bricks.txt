@@ -1,0 +1,7 @@
+minecraft.dropped.bricks
+5: impulseSV: 108
+5: Grian: 73
+5: GoodTimeWithScar: 57
+5: Keralis1: 34
+5: Tango: 1
+Total 273

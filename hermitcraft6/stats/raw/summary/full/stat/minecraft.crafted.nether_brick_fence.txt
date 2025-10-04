@@ -1,0 +1,10 @@
+minecraft.crafted.nether_brick_fence
+8: PythonGB: 240
+8: Xisuma: 210
+8: Zedaph: 192
+8: iskall85: 108
+8: GoodTimeWithScar: 78
+8: cubfan135: 54
+8: Tango: 6
+8: ZombieCleo: 6
+Total 894

@@ -1,0 +1,10 @@
+minecraft.picked_up.warped_fence
+8: joehillssays: 44
+8: MumboJumbo: 36
+8: Tango: 10
+8: iJevin: 6
+8: GeminiTay: 6
+8: GoodTimeWithScar: 6
+8: Keralis1: 3
+8: impulseSV: 1
+Total 112

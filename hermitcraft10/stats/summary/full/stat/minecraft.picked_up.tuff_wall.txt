@@ -1,0 +1,17 @@
+minecraft.picked_up.tuff_wall
+15: BdoubleO100: 578
+15: PearlescentMoon: 98
+15: Tango: 78
+15: Keralis1: 47
+15: ZombieCleo: 46
+15: cubfan135: 37
+15: Mumbo: 28
+15: GoodTimeWithScar: 26
+15: Grian: 20
+15: Renthedog: 9
+15: Xisuma: 8
+15: Zedaph: 4
+15: falsesymmetry: 3
+15: Docm77: 1
+15: GeminiTay: 1
+Total 984

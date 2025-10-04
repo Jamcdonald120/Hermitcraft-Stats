@@ -1,0 +1,25 @@
+minecraft.custom.damage_blocked_by_shield
+23: cubfan135: 50351
+23: VintageBeef: 34381
+23: PearlescentMoon: 20942
+23: Keralis1: 17640
+23: hypnotizd: 14738
+23: Zedaph: 14615
+23: iJevin: 12708
+23: Renthedog: 12395
+23: falsesymmetry: 10200
+23: Etho: 8235
+23: Tango: 8150
+23: Xisuma: 6245
+23: Grian: 5670
+23: impulseSV: 4945
+23: Pixlriffs: 2913
+23: Docm77: 2415
+23: Stressmonster101: 2020
+23: GeminiTay: 1565
+23: BdoubleO100: 600
+23: Mumbo: 490
+23: MumboJumbo: 490
+23: ZombieCleo: 330
+23: iskall85: 320
+Total 232358

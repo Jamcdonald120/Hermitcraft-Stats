@@ -1,0 +1,5 @@
+minecraft.picked_up.acacia_pressure_plate
+3: cubfan135: 3
+3: GoodTimeWithScar: 2
+3: impulseSV: 1
+Total 6

@@ -1,0 +1,18 @@
+minecraft.picked_up.map
+16: Grian: 1374
+16: PearlescentMoon: 112
+16: joehillssays: 73
+16: falsesymmetry: 53
+16: Tango: 49
+16: Zedaph: 25
+16: VintageBeef: 10
+16: iJevin: 3
+16: ZombieCleo: 3
+16: Etho: 2
+16: Keralis1: 2
+16: Xisuma: 1
+16: Renthedog: 1
+16: hypnotizd: 1
+16: GoodTimeWithScar: 1
+16: impulseSV: 1
+Total 1711

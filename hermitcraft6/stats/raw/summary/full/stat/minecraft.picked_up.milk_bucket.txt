@@ -1,0 +1,18 @@
+minecraft.picked_up.milk_bucket
+16: iJevin: 42
+16: cubfan135: 31
+16: GoodTimeWithScar: 13
+16: iskall85: 12
+16: Xisuma: 10
+16: falsesymmetry: 7
+16: Docm77: 4
+16: MumboJumbo: 4
+16: joehillssays: 3
+16: ZombieCleo: 3
+16: Renthedog: 2
+16: Grian: 2
+16: PythonGB: 1
+16: Tango: 1
+16: Stressmonster101: 1
+16: Keralis1: 1
+Total 137

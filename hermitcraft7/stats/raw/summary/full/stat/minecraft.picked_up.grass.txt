@@ -1,0 +1,24 @@
+minecraft.picked_up.grass
+22: Keralis1: 9841
+22: BdoubleO100: 3488
+22: GoodTimeWithScar: 2244
+22: xBCrafted: 2112
+22: cubfan135: 1096
+22: Etho: 743
+22: Xisuma: 731
+22: hypnotizd: 553
+22: Grian: 469
+22: Stressmonster101: 243
+22: Zedaph: 237
+22: joehillssays: 209
+22: Welsknight: 208
+22: MumboJumbo: 190
+22: Docm77: 127
+22: ZombieCleo: 81
+22: Renthedog: 55
+22: impulseSV: 20
+22: falsesymmetry: 16
+22: VintageBeef: 11
+22: iskall85: 7
+22: Tango: 6
+Total 22687

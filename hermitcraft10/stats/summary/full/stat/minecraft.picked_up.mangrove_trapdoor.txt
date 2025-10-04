@@ -1,0 +1,25 @@
+minecraft.picked_up.mangrove_trapdoor
+23: Mumbo: 175
+23: Etho: 168
+23: PearlescentMoon: 103
+23: Smallishbeans: 96
+23: ZombieCleo: 91
+23: GoodTimeWithScar: 90
+23: Xisuma: 84
+23: falsesymmetry: 84
+23: cubfan135: 57
+23: BdoubleO100: 51
+23: joehillssays: 42
+23: Skizzleman: 41
+23: impulseSV: 29
+23: Grian: 23
+23: Docm77: 18
+23: GeminiTay: 13
+23: iJevin: 10
+23: VintageBeef: 6
+23: Welsknight: 6
+23: Renthedog: 4
+23: Tango: 3
+23: OrionSound: 1
+23: xBCrafted: 1
+Total 1196

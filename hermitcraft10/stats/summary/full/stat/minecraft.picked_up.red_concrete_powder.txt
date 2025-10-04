@@ -1,0 +1,16 @@
+minecraft.picked_up.red_concrete_powder
+14: falsesymmetry: 5477
+14: PearlescentMoon: 549
+14: xBCrafted: 248
+14: cubfan135: 221
+14: Xisuma: 160
+14: joehillssays: 144
+14: GoodTimeWithScar: 36
+14: Smallishbeans: 18
+14: Grian: 17
+14: ZombieCleo: 6
+14: iJevin: 3
+14: Etho: 3
+14: GeminiTay: 1
+14: Tango: 1
+Total 6884

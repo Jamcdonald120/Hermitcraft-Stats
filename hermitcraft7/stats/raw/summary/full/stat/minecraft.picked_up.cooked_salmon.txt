@@ -1,0 +1,16 @@
+minecraft.picked_up.cooked_salmon
+14: Etho: 85
+14: Keralis1: 80
+14: Xisuma: 55
+14: Welsknight: 48
+14: Renthedog: 41
+14: VintageBeef: 26
+14: cubfan135: 20
+14: hypnotizd: 20
+14: iJevin: 10
+14: Grian: 10
+14: GoodTimeWithScar: 5
+14: impulseSV: 3
+14: Tango: 2
+14: falsesymmetry: 1
+Total 406

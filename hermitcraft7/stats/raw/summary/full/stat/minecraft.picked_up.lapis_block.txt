@@ -1,0 +1,22 @@
+minecraft.picked_up.lapis_block
+20: cubfan135: 1679
+20: iJevin: 425
+20: ZombieCleo: 351
+20: Zedaph: 303
+20: Grian: 274
+20: MumboJumbo: 198
+20: Welsknight: 197
+20: Etho: 76
+20: VintageBeef: 70
+20: iskall85: 67
+20: Stressmonster101: 64
+20: Xisuma: 62
+20: Tango: 56
+20: GoodTimeWithScar: 28
+20: joehillssays: 27
+20: Keralis1: 7
+20: falsesymmetry: 5
+20: hypnotizd: 5
+20: impulseSV: 5
+20: BdoubleO100: 2
+Total 3901

@@ -1,0 +1,23 @@
+minecraft.crafted.dark_oak_button
+21: Renthedog: 1000
+21: Docm77: 962
+21: Xisuma: 267
+21: GoodTimeWithScar: 260
+21: Stressmonster101: 256
+21: falsesymmetry: 114
+21: RentheKing: 112
+21: Tango: 104
+21: BdoubleO100: 70
+21: PearlescentMoon: 32
+21: xBCrafted: 32
+21: joehillssays: 16
+21: Keralis1: 9
+21: GeminiTay: 7
+21: cubfan135: 6
+21: Grian: 4
+21: Pixlriffs: 2
+21: iskall85: 1
+21: ZombieCleo: 1
+21: impulseSV: 1
+21: Zedaph: 1
+Total 3257

@@ -1,0 +1,4 @@
+minecraft.dropped.fire_coral
+2: falsesymmetry: 2
+2: Mumbo: 1
+Total 3

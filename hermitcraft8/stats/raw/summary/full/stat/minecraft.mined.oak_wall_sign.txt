@@ -1,0 +1,23 @@
+minecraft.mined.oak_wall_sign
+21: falsesymmetry: 52
+21: iJevin: 40
+21: Welsknight: 22
+21: Keralis1: 17
+21: Grian: 16
+21: cubfan135: 13
+21: Xisuma: 12
+21: Tango: 12
+21: Zedaph: 11
+21: joehillssays: 9
+21: Etho: 8
+21: MumboJumbo: 8
+21: impulseSV: 8
+21: iskall85: 7
+21: GoodTimeWithScar: 6
+21: Stressmonster101: 5
+21: PearlescentMoon: 4
+21: xBCrafted: 3
+21: ZombieCleo: 3
+21: GeminiTay: 2
+21: hypnotizd: 2
+Total 260

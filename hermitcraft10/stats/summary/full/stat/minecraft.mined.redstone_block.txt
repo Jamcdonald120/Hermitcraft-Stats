@@ -1,0 +1,27 @@
+minecraft.mined.redstone_block
+25: cubfan135: 1697
+25: ZombieCleo: 663
+25: Xisuma: 341
+25: Docm77: 276
+25: xBCrafted: 270
+25: Tango: 227
+25: Etho: 189
+25: Smallishbeans: 179
+25: GoodTimeWithScar: 178
+25: PearlescentMoon: 160
+25: joehillssays: 154
+25: Skizzleman: 98
+25: impulseSV: 93
+25: iJevin: 73
+25: BdoubleO100: 68
+25: Renthedog: 51
+25: Welsknight: 49
+25: Mumbo: 44
+25: Keralis1: 33
+25: VintageBeef: 30
+25: hypnotizd: 26
+25: falsesymmetry: 14
+25: Zedaph: 14
+25: GeminiTay: 12
+25: Grian: 10
+Total 4949

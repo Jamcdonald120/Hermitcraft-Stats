@@ -1,0 +1,18 @@
+minecraft.dropped.cocoa_beans
+16: Zedaph: 10687
+16: impulseSV: 580
+16: Grian: 579
+16: Xisuma: 285
+16: Keralis1: 277
+16: GoodTimeWithScar: 245
+16: MumboJumbo: 93
+16: cubfan135: 74
+16: iskall85: 31
+16: Etho: 24
+16: Renthedog: 10
+16: VintageBeef: 3
+16: BdoubleO100: 3
+16: falsesymmetry: 3
+16: Stressmonster101: 3
+16: Tango: 2
+Total 12899

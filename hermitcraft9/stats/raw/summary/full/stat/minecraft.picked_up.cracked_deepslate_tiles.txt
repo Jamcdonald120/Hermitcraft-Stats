@@ -1,0 +1,12 @@
+minecraft.picked_up.cracked_deepslate_tiles
+10: cubfan135: 407
+10: Xisuma: 76
+10: Tango: 44
+10: Etho: 44
+10: impulseSV: 37
+10: RentheKing: 13
+10: Mumbo: 11
+10: Renthedog: 7
+10: PearlescentMoon: 3
+10: falsesymmetry: 1
+Total 643

@@ -1,0 +1,4 @@
+minecraft.crafted.exposed_copper_trapdoor
+2: Keralis1: 14
+2: BdoubleO100: 4
+Total 18

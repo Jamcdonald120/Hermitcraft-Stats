@@ -1,0 +1,27 @@
+minecraft.mined.dripstone_block
+25: Xisuma: 10542
+25: Grian: 6961
+25: impulseSV: 6341
+25: GoodTimeWithScar: 4993
+25: joehillssays: 2581
+25: Renthedog: 2060
+25: hypnotizd: 1631
+25: GeminiTay: 1588
+25: Etho: 1525
+25: Smallishbeans: 1451
+25: Skizzleman: 1190
+25: cubfan135: 964
+25: iJevin: 887
+25: Docm77: 864
+25: Zedaph: 783
+25: Mumbo: 449
+25: Welsknight: 360
+25: PearlescentMoon: 335
+25: VintageBeef: 323
+25: falsesymmetry: 181
+25: Tango: 141
+25: Keralis1: 127
+25: ZombieCleo: 73
+25: BdoubleO100: 66
+25: xBCrafted: 10
+Total 46426

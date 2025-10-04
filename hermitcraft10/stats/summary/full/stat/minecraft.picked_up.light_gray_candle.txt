@@ -1,0 +1,7 @@
+minecraft.picked_up.light_gray_candle
+5: BdoubleO100: 2
+5: Grian: 1
+5: falsesymmetry: 1
+5: GoodTimeWithScar: 1
+5: Keralis1: 1
+Total 6

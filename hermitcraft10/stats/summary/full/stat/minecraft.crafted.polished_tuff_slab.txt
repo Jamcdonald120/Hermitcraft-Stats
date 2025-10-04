@@ -1,0 +1,27 @@
+minecraft.crafted.polished_tuff_slab
+25: cubfan135: 570
+25: Keralis1: 470
+25: Xisuma: 414
+25: GoodTimeWithScar: 340
+25: Mumbo: 318
+25: joehillssays: 256
+25: Tango: 232
+25: PearlescentMoon: 210
+25: Docm77: 208
+25: Grian: 168
+25: BdoubleO100: 98
+25: xBCrafted: 90
+25: iJevin: 48
+25: Skizzleman: 40
+25: ZombieCleo: 40
+25: falsesymmetry: 36
+25: impulseSV: 32
+25: Welsknight: 30
+25: VintageBeef: 22
+25: Zedaph: 16
+25: GeminiTay: 6
+25: Etho: 6
+25: Renthedog: 2
+25: Smallishbeans: 2
+25: hypnotizd: 2
+Total 3656

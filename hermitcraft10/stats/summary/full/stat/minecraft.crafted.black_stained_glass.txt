@@ -1,0 +1,23 @@
+minecraft.crafted.black_stained_glass
+21: xBCrafted: 24984
+21: joehillssays: 13800
+21: Xisuma: 4704
+21: GoodTimeWithScar: 2768
+21: impulseSV: 2344
+21: Grian: 1224
+21: Zedaph: 896
+21: Etho: 768
+21: Renthedog: 752
+21: falsesymmetry: 528
+21: Keralis1: 464
+21: Tango: 392
+21: hypnotizd: 280
+21: BdoubleO100: 192
+21: Smallishbeans: 72
+21: cubfan135: 64
+21: Mumbo: 40
+21: iJevin: 32
+21: GeminiTay: 8
+21: Skizzleman: 8
+21: PearlescentMoon: 8
+Total 54328

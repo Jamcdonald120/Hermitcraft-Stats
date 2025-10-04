@@ -1,0 +1,12 @@
+minecraft.dropped.spruce_pressure_plate
+10: Renthedog: 30
+10: cubfan135: 15
+10: iskall85: 5
+10: GoodTimeWithScar: 3
+10: Tinfoilchef: 3
+10: Stressmonster101: 3
+10: ZombieCleo: 2
+10: MumboJumbo: 2
+10: Grian: 1
+10: falsesymmetry: 1
+Total 65

@@ -1,0 +1,6 @@
+minecraft.crafted.weathered_copper_trapdoor
+4: Keralis1: 202
+4: BdoubleO100: 22
+4: Tango: 12
+4: ZombieCleo: 2
+Total 238

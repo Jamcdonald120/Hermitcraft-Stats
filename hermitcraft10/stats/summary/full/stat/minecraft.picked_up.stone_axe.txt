@@ -1,0 +1,18 @@
+minecraft.picked_up.stone_axe
+16: iJevin: 7
+16: Renthedog: 6
+16: Etho: 5
+16: ZombieCleo: 3
+16: Zedaph: 3
+16: Xisuma: 2
+16: VintageBeef: 2
+16: Smallishbeans: 2
+16: BdoubleO100: 2
+16: falsesymmetry: 2
+16: GoodTimeWithScar: 2
+16: GeminiTay: 1
+16: PearlescentMoon: 1
+16: cubfan135: 1
+16: Mumbo: 1
+16: Keralis1: 1
+Total 41

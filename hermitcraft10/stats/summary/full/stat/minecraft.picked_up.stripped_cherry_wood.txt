@@ -1,0 +1,10 @@
+minecraft.picked_up.stripped_cherry_wood
+8: Smallishbeans: 114
+8: ZombieCleo: 71
+8: GoodTimeWithScar: 49
+8: Docm77: 35
+8: Keralis1: 32
+8: PearlescentMoon: 31
+8: VintageBeef: 3
+8: hypnotizd: 2
+Total 337

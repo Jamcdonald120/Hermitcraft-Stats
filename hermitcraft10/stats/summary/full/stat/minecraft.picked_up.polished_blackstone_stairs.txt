@@ -1,0 +1,17 @@
+minecraft.picked_up.polished_blackstone_stairs
+15: GoodTimeWithScar: 182
+15: Tango: 67
+15: xBCrafted: 41
+15: iJevin: 32
+15: BdoubleO100: 32
+15: GeminiTay: 25
+15: Docm77: 18
+15: impulseSV: 8
+15: Smallishbeans: 6
+15: Grian: 5
+15: PearlescentMoon: 5
+15: falsesymmetry: 5
+15: Xisuma: 2
+15: Renthedog: 1
+15: ZombieCleo: 1
+Total 430

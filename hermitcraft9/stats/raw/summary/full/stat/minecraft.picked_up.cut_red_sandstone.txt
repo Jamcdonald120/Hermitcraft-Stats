@@ -1,0 +1,5 @@
+minecraft.picked_up.cut_red_sandstone
+3: Etho: 5
+3: Keralis1: 4
+3: PearlescentMoon: 2
+Total 11

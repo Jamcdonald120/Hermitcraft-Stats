@@ -1,0 +1,12 @@
+minecraft.dropped.white_stained_glass
+10: PearlescentMoon: 128
+10: GeminiTay: 67
+10: Grian: 35
+10: BdoubleO100: 12
+10: Zedaph: 6
+10: falsesymmetry: 4
+10: iJevin: 1
+10: cubfan135: 1
+10: Etho: 1
+10: impulseSV: 1
+Total 256

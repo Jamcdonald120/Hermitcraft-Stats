@@ -1,0 +1,27 @@
+minecraft.crafted.armor_stand
+25: Tango: 3061
+25: ZombieCleo: 1354
+25: GoodTimeWithScar: 499
+25: Xisuma: 424
+25: iJevin: 423
+25: falsesymmetry: 352
+25: Keralis1: 329
+25: joehillssays: 308
+25: hypnotizd: 304
+25: Smallishbeans: 274
+25: PearlescentMoon: 260
+25: Etho: 200
+25: Docm77: 197
+25: Renthedog: 128
+25: cubfan135: 126
+25: impulseSV: 119
+25: GeminiTay: 103
+25: Mumbo: 74
+25: VintageBeef: 46
+25: BdoubleO100: 45
+25: xBCrafted: 45
+25: Welsknight: 19
+25: Grian: 13
+25: Skizzleman: 7
+25: Zedaph: 6
+Total 8716

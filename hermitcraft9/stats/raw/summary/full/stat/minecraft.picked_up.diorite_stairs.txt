@@ -1,0 +1,12 @@
+minecraft.picked_up.diorite_stairs
+10: falsesymmetry: 83
+10: Keralis1: 65
+10: BdoubleO100: 27
+10: GeminiTay: 9
+10: Tango: 9
+10: Xisuma: 5
+10: GoodTimeWithScar: 3
+10: Renthedog: 2
+10: Grian: 2
+10: cubfan135: 1
+Total 206

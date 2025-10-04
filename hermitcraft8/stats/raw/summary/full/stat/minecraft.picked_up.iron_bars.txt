@@ -1,0 +1,26 @@
+minecraft.picked_up.iron_bars
+24: Grian: 430
+24: PearlescentMoon: 340
+24: Renthedog: 275
+24: iJevin: 264
+24: GoodTimeWithScar: 241
+24: Tango: 218
+24: Keralis1: 110
+24: Xisuma: 79
+24: Welsknight: 78
+24: xBCrafted: 57
+24: impulseSV: 54
+24: Zedaph: 48
+24: Docm77: 42
+24: BdoubleO100: 37
+24: cubfan135: 37
+24: EvilXisuma: 24
+24: Etho: 17
+24: joehillssays: 13
+24: falsesymmetry: 10
+24: Tinfoilchef: 10
+24: GeminiTay: 8
+24: iskall85: 7
+24: MumboJumbo: 7
+24: VintageBeef: 1
+Total 2407

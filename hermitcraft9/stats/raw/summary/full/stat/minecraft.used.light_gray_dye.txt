@@ -1,0 +1,12 @@
+minecraft.used.light_gray_dye
+10: impulseSV: 114
+10: PearlescentMoon: 18
+10: RentheKing: 12
+10: GoodTimeWithScar: 10
+10: Renthedog: 6
+10: Tango: 4
+10: cubfan135: 4
+10: VintageBeef: 2
+10: xBCrafted: 2
+10: Grian: 1
+Total 173

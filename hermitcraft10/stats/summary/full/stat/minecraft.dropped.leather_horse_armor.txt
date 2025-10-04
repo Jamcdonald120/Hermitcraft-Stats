@@ -1,0 +1,4 @@
+minecraft.dropped.leather_horse_armor
+2: falsesymmetry: 15
+2: hypnotizd: 1
+Total 16

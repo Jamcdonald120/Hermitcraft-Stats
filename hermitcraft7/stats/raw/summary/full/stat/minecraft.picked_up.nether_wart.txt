@@ -1,0 +1,24 @@
+minecraft.picked_up.nether_wart
+22: Xisuma: 48565
+22: Grian: 39016
+22: Etho: 20645
+22: GoodTimeWithScar: 15632
+22: Tango: 12549
+22: cubfan135: 3437
+22: Stressmonster101: 2854
+22: Zedaph: 2566
+22: joehillssays: 1483
+22: hypnotizd: 1457
+22: BdoubleO100: 1242
+22: falsesymmetry: 1107
+22: Renthedog: 1003
+22: iJevin: 418
+22: Keralis1: 403
+22: xBCrafted: 342
+22: iskall85: 297
+22: VintageBeef: 262
+22: impulseSV: 194
+22: ZombieCleo: 175
+22: Docm77: 47
+22: Welsknight: 31
+Total 153725

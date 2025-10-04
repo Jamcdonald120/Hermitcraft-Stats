@@ -1,0 +1,4 @@
+minecraft.crafted.granite_wall
+2: cubfan135: 48
+2: Renthedog: 6
+Total 54

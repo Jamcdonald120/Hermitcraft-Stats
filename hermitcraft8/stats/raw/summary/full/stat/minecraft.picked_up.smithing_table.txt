@@ -1,0 +1,15 @@
+minecraft.picked_up.smithing_table
+13: GoodTimeWithScar: 86
+13: PearlescentMoon: 35
+13: joehillssays: 16
+13: Grian: 14
+13: iJevin: 11
+13: Xisuma: 9
+13: Zedaph: 6
+13: cubfan135: 4
+13: Renthedog: 3
+13: Welsknight: 3
+13: Etho: 2
+13: Stressmonster101: 2
+13: VintageBeef: 1
+Total 192

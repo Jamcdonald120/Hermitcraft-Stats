@@ -1,0 +1,8 @@
+minecraft.dropped.purple_dye
+6: Zedaph: 1114
+6: Etho: 100
+6: VintageBeef: 26
+6: cubfan135: 26
+6: GoodTimeWithScar: 9
+6: MumboJumbo: 2
+Total 1277

@@ -1,0 +1,28 @@
+minecraft.crafted.brick
+26: falsesymmetry: 31032
+26: Etho: 20092
+26: Renthedog: 19121
+26: Grian: 17992
+26: GoodTimeWithScar: 15273
+26: impulseSV: 7072
+26: cubfan135: 5849
+26: joehillssays: 2599
+26: Stressmonster101: 2114
+26: Keralis1: 1850
+26: GeminiTay: 1570
+26: iskall85: 1103
+26: MythicalSausage: 896
+26: iJevin: 845
+26: PearlescentMoon: 792
+26: Tango: 760
+26: ZombieCleo: 648
+26: Xisuma: 457
+26: RentheKing: 193
+26: BdoubleO100: 171
+26: Zedaph: 169
+26: Pixlriffs: 150
+26: Docm77: 100
+26: hypnotizd: 67
+26: VintageBeef: 60
+26: Welsknight: 40
+Total 131015

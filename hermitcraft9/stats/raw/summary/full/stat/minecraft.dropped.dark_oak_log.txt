@@ -1,0 +1,26 @@
+minecraft.dropped.dark_oak_log
+24: falsesymmetry: 4693
+24: Renthedog: 1021
+24: Stressmonster101: 485
+24: cubfan135: 436
+24: iJevin: 310
+24: Grian: 276
+24: BdoubleO100: 232
+24: RentheKing: 197
+24: impulseSV: 184
+24: Docm77: 137
+24: iskall85: 128
+24: PearlescentMoon: 113
+24: Etho: 78
+24: Xisuma: 71
+24: Pixlriffs: 62
+24: Keralis1: 60
+24: ZombieCleo: 46
+24: MythicalSausage: 45
+24: Tango: 32
+24: Zedaph: 17
+24: GoodTimeWithScar: 11
+24: VintageBeef: 3
+24: Mumbo: 3
+24: xBCrafted: 1
+Total 8641

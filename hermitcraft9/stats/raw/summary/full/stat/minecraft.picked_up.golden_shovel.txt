@@ -1,0 +1,4 @@
+minecraft.picked_up.golden_shovel
+2: Keralis1: 2
+2: xBCrafted: 1
+Total 3

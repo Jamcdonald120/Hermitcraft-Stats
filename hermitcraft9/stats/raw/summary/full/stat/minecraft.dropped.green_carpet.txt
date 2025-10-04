@@ -1,0 +1,8 @@
+minecraft.dropped.green_carpet
+6: PearlescentMoon: 640
+6: iJevin: 22
+6: GoodTimeWithScar: 19
+6: falsesymmetry: 12
+6: Tango: 2
+6: BdoubleO100: 2
+Total 697

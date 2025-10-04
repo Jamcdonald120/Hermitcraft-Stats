@@ -1,0 +1,8 @@
+minecraft.dropped.jungle_leaves
+6: iJevin: 101
+6: GoodTimeWithScar: 15
+6: Grian: 14
+6: Etho: 7
+6: ZombieCleo: 6
+6: GeminiTay: 2
+Total 145

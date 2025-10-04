@@ -1,0 +1,8 @@
+minecraft.crafted.brown_stained_glass_pane
+6: GoodTimeWithScar: 120
+6: Xisuma: 64
+6: Renthedog: 16
+6: Grian: 16
+6: Welsknight: 16
+6: MumboJumbo: 16
+Total 248

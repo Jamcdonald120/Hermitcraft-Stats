@@ -1,0 +1,20 @@
+minecraft.crafted.detector_rail
+18: Tango: 396
+18: MumboJumbo: 114
+18: iskall85: 96
+18: impulseSV: 96
+18: falsesymmetry: 90
+18: Xisuma: 84
+18: Stressmonster101: 36
+18: Tinfoilchef: 30
+18: joehillssays: 24
+18: cubfan135: 24
+18: Docm77: 12
+18: iJevin: 12
+18: GoodTimeWithScar: 12
+18: Zedaph: 12
+18: Renthedog: 6
+18: PythonGB: 6
+18: Grian: 6
+18: BdoubleO100: 6
+Total 1062

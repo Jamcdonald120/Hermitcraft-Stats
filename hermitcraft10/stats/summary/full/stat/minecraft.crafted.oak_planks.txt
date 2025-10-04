@@ -1,0 +1,29 @@
+minecraft.crafted.oak_planks
+27: Docm77: 91560
+27: Xisuma: 55804
+27: GoodTimeWithScar: 37075
+27: Keralis1: 24762
+27: iJevin: 17164
+27: cubfan135: 16647
+27: Smallishbeans: 13184
+27: Renthedog: 12812
+27: Grian: 12108
+27: PearlescentMoon: 10952
+27: Tango: 10872
+27: Mumbo: 9392
+27: falsesymmetry: 5432
+27: impulseSV: 4880
+27: joehillssays: 4600
+27: VintageBeef: 3728
+27: BdoubleO100: 3444
+27: ZombieCleo: 3200
+27: xBCrafted: 2196
+27: GeminiTay: 1756
+27: Skizzleman: 1756
+27: Zedaph: 1484
+27: Etho: 1296
+27: Welsknight: 1208
+27: hypnotizd: 1140
+27: SolidarityGaming: 64
+27: InTheLittleWood: 24
+Total 348540

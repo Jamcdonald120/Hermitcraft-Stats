@@ -1,0 +1,6 @@
+minecraft.dropped.fermented_spider_eye
+4: Zedaph: 42
+4: falsesymmetry: 17
+4: Etho: 4
+4: Tango: 1
+Total 64

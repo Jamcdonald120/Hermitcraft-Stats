@@ -1,0 +1,6 @@
+minecraft.dropped.magenta_terracotta
+4: Zedaph: 19
+4: MythicalSausage: 8
+4: Etho: 5
+4: Tango: 1
+Total 33

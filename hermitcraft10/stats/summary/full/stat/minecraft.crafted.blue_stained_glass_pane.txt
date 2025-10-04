@@ -1,0 +1,12 @@
+minecraft.crafted.blue_stained_glass_pane
+10: Smallishbeans: 240
+10: BdoubleO100: 176
+10: cubfan135: 48
+10: ZombieCleo: 32
+10: Grian: 24
+10: Docm77: 16
+10: Xisuma: 16
+10: iJevin: 16
+10: falsesymmetry: 16
+10: Mumbo: 16
+Total 600

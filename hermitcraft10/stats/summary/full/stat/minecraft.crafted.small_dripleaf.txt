@@ -1,0 +1,8 @@
+minecraft.crafted.small_dripleaf
+6: falsesymmetry: 36
+6: BdoubleO100: 20
+6: PearlescentMoon: 20
+6: cubfan135: 20
+6: Etho: 14
+6: Grian: 10
+Total 120

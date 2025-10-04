@@ -1,0 +1,13 @@
+minecraft.picked_up.golden_horse_armor
+11: Etho: 10
+11: Tango: 9
+11: impulseSV: 6
+11: iJevin: 5
+11: hypnotizd: 4
+11: Xisuma: 2
+11: Welsknight: 2
+11: Zedaph: 2
+11: Renthedog: 1
+11: Stressmonster101: 1
+11: Keralis1: 1
+Total 43

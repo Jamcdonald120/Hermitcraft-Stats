@@ -1,0 +1,26 @@
+minecraft.crafted.spruce_sign
+24: Tango: 2734
+24: joehillssays: 700
+24: GoodTimeWithScar: 687
+24: BdoubleO100: 477
+24: falsesymmetry: 372
+24: PearlescentMoon: 291
+24: Smallishbeans: 273
+24: Keralis1: 255
+24: iJevin: 234
+24: Grian: 216
+24: xBCrafted: 180
+24: Etho: 102
+24: Xisuma: 99
+24: ZombieCleo: 81
+24: GeminiTay: 78
+24: Renthedog: 42
+24: cubfan135: 36
+24: impulseSV: 27
+24: Mumbo: 24
+24: Docm77: 21
+24: hypnotizd: 21
+24: VintageBeef: 12
+24: Welsknight: 9
+24: Skizzleman: 6
+Total 6977

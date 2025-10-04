@@ -1,0 +1,6 @@
+minecraft.dropped.cyan_carpet
+4: falsesymmetry: 170
+4: iJevin: 14
+4: Tango: 6
+4: cubfan135: 1
+Total 191

@@ -1,0 +1,19 @@
+minecraft.picked_up.chest_minecart
+17: Etho: 270
+17: Tango: 141
+17: joehillssays: 33
+17: BdoubleO100: 28
+17: Zedaph: 26
+17: PearlescentMoon: 20
+17: Grian: 19
+17: impulseSV: 13
+17: GoodTimeWithScar: 5
+17: Docm77: 4
+17: xBCrafted: 4
+17: iJevin: 3
+17: cubfan135: 3
+17: hypnotizd: 3
+17: Keralis1: 2
+17: Smallishbeans: 1
+17: Mumbo: 1
+Total 576

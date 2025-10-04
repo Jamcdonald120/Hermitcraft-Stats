@@ -1,0 +1,22 @@
+minecraft.crafted.spruce_boat
+20: iskall85: 61
+20: Docm77: 50
+20: Zedaph: 48
+20: Renthedog: 40
+20: cubfan135: 25
+20: Xisuma: 14
+20: iJevin: 14
+20: Grian: 13
+20: PythonGB: 10
+20: Biffa2001: 10
+20: ZombieCleo: 10
+20: joehillssays: 9
+20: falsesymmetry: 7
+20: Stressmonster101: 7
+20: GoodTimeWithScar: 6
+20: MumboJumbo: 3
+20: BdoubleO100: 2
+20: impulseSV: 2
+20: HumanCleo: 1
+20: Tango: 1
+Total 333

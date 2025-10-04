@@ -1,0 +1,27 @@
+minecraft.picked_up.water_bucket
+25: Zedaph: 234
+25: Grian: 85
+25: iJevin: 84
+25: Tango: 75
+25: impulseSV: 38
+25: VintageBeef: 35
+25: cubfan135: 33
+25: Xisuma: 26
+25: falsesymmetry: 26
+25: Etho: 25
+25: joehillssays: 18
+25: BdoubleO100: 17
+25: iskall85: 17
+25: GoodTimeWithScar: 17
+25: Docm77: 16
+25: Keralis1: 16
+25: hypnotizd: 12
+25: xBCrafted: 11
+25: Renthedog: 9
+25: ZombieCleo: 9
+25: MumboJumbo: 8
+25: Tinfoilchef: 7
+25: Welsknight: 3
+25: Stressmonster101: 3
+25: BarryBoss1234: 2
+Total 826

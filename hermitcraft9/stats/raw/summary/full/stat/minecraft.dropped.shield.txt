@@ -1,0 +1,26 @@
+minecraft.dropped.shield
+24: Etho: 13
+24: iJevin: 11
+24: Grian: 11
+24: Tango: 8
+24: cubfan135: 7
+24: ZombieCleo: 6
+24: falsesymmetry: 5
+24: GoodTimeWithScar: 5
+24: GeminiTay: 4
+24: Mumbo: 4
+24: MumboJumbo: 4
+24: Zedaph: 4
+24: Renthedog: 3
+24: iskall85: 3
+24: impulseSV: 3
+24: Minerva246: 2
+24: VintageBeef: 2
+24: xBCrafted: 2
+24: hypnotizd: 2
+24: Stressmonster101: 2
+24: joehillssays: 1
+24: PearlescentMoon: 1
+24: RentheKing: 1
+24: Keralis1: 1
+Total 105

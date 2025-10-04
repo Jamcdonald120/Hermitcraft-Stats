@@ -1,0 +1,19 @@
+minecraft.crafted.light_gray_stained_glass_pane
+17: impulseSV: 2024
+17: Xisuma: 1840
+17: GoodTimeWithScar: 1408
+17: BdoubleO100: 1360
+17: Smallishbeans: 448
+17: Mumbo: 424
+17: cubfan135: 352
+17: Tango: 256
+17: PearlescentMoon: 240
+17: ZombieCleo: 192
+17: Grian: 176
+17: Keralis1: 176
+17: joehillssays: 160
+17: falsesymmetry: 88
+17: iJevin: 80
+17: Skizzleman: 64
+17: Etho: 16
+Total 9304

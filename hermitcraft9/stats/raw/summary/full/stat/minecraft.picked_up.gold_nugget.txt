@@ -1,0 +1,31 @@
+minecraft.picked_up.gold_nugget
+29: Tango: 1725169
+29: Xisuma: 571736
+29: iJevin: 14200
+29: Etho: 6814
+29: Renthedog: 4781
+29: cubfan135: 4461
+29: Grian: 3691
+29: joehillssays: 1427
+29: iskall85: 1377
+29: VintageBeef: 956
+29: ZombieCleo: 953
+29: impulseSV: 774
+29: Zedaph: 664
+29: Keralis1: 627
+29: Docm77: 577
+29: PearlescentMoon: 384
+29: xBCrafted: 278
+29: Stressmonster101: 273
+29: Welsknight: 220
+29: GeminiTay: 127
+29: RentheKing: 126
+29: BdoubleO100: 76
+29: Pixlriffs: 71
+29: hypnotizd: 66
+29: Mumbo: 16
+29: MumboJumbo: 10
+29: GoodTimeWithScar: 5
+29: falsesymmetry: 1
+29: xisumavoid: 1
+Total 2339861

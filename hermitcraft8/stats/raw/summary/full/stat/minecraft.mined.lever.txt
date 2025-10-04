@@ -1,0 +1,27 @@
+minecraft.mined.lever
+25: iJevin: 140
+25: Zedaph: 131
+25: impulseSV: 101
+25: Xisuma: 37
+25: xBCrafted: 33
+25: cubfan135: 32
+25: GeminiTay: 30
+25: MumboJumbo: 27
+25: Docm77: 26
+25: Tango: 22
+25: VintageBeef: 20
+25: falsesymmetry: 17
+25: hypnotizd: 17
+25: Welsknight: 16
+25: Etho: 16
+25: Keralis1: 15
+25: BdoubleO100: 10
+25: Renthedog: 6
+25: Stressmonster101: 4
+25: iskall85: 3
+25: GoodTimeWithScar: 3
+25: joehillssays: 2
+25: PearlescentMoon: 2
+25: Grian: 1
+25: Tinfoilchef: 1
+Total 712

@@ -1,0 +1,13 @@
+minecraft.dropped.stripped_spruce_wood
+11: falsesymmetry: 49
+11: Grian: 20
+11: Keralis1: 15
+11: impulseSV: 9
+11: BdoubleO100: 4
+11: Skizzleman: 2
+11: ZombieCleo: 2
+11: iJevin: 1
+11: Tango: 1
+11: Etho: 1
+11: GoodTimeWithScar: 1
+Total 105

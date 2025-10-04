@@ -1,0 +1,5 @@
+minecraft.used.waxed_weathered_cut_copper
+3: impulseSV: 16
+3: BdoubleO100: 10
+3: Renthedog: 2
+Total 28

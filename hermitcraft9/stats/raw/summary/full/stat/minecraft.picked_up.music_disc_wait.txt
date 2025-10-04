@@ -1,0 +1,17 @@
+minecraft.picked_up.music_disc_wait
+15: Tango: 70
+15: GoodTimeWithScar: 50
+15: Zedaph: 37
+15: joehillssays: 5
+15: VintageBeef: 3
+15: Grian: 3
+15: RentheKing: 3
+15: Renthedog: 2
+15: cubfan135: 2
+15: Docm77: 1
+15: iJevin: 1
+15: PearlescentMoon: 1
+15: xBCrafted: 1
+15: ZombieCleo: 1
+15: Keralis1: 1
+Total 181

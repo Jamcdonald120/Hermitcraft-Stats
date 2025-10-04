@@ -1,0 +1,13 @@
+minecraft.crafted.cyan_wool
+11: impulseSV: 1539
+11: Etho: 512
+11: iJevin: 218
+11: Tango: 188
+11: GeminiTay: 128
+11: Keralis1: 70
+11: Grian: 64
+11: Xisuma: 60
+11: BdoubleO100: 17
+11: Zedaph: 13
+11: Renthedog: 6
+Total 2815

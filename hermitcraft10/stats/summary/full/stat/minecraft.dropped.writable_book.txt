@@ -1,0 +1,28 @@
+minecraft.dropped.writable_book
+26: Etho: 320
+26: cubfan135: 31
+26: Grian: 28
+26: BdoubleO100: 17
+26: PearlescentMoon: 17
+26: Renthedog: 11
+26: Docm77: 8
+26: GoodTimeWithScar: 8
+26: Skizzleman: 7
+26: Tango: 6
+26: Smallishbeans: 6
+26: joehillssays: 5
+26: falsesymmetry: 5
+26: ZombieCleo: 5
+26: impulseSV: 5
+26: Xisuma: 3
+26: iJevin: 3
+26: GeminiTay: 3
+26: xBCrafted: 2
+26: Keralis1: 2
+26: Zedaph: 2
+26: OrionSound: 1
+26: VintageBeef: 1
+26: Welsknight: 1
+26: Eyjoy27: 1
+26: Mumbo: 1
+Total 499

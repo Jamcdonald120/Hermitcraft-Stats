@@ -1,0 +1,23 @@
+minecraft.used.coal_block
+21: Tango: 2892
+21: ZombieCleo: 1336
+21: Keralis1: 440
+21: xBCrafted: 254
+21: Zedaph: 136
+21: Grian: 94
+21: GoodTimeWithScar: 60
+21: joehillssays: 54
+21: Renthedog: 49
+21: iJevin: 49
+21: cubfan135: 42
+21: Welsknight: 16
+21: VintageBeef: 12
+21: BdoubleO100: 12
+21: Xisuma: 11
+21: Etho: 11
+21: impulseSV: 9
+21: Docm77: 7
+21: iskall85: 2
+21: MumboJumbo: 2
+21: Tinfoilchef: 1
+Total 5489

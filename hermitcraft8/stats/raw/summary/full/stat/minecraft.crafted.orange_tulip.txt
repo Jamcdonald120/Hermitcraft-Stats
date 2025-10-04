@@ -1,0 +1,3 @@
+minecraft.crafted.orange_tulip
+1: PearlescentMoon: 3
+Total 3

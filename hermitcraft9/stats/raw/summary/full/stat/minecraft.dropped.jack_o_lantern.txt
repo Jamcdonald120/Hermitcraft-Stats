@@ -1,0 +1,8 @@
+minecraft.dropped.jack_o_lantern
+6: falsesymmetry: 218
+6: iJevin: 13
+6: Grian: 7
+6: Keralis1: 1
+6: impulseSV: 1
+6: Zedaph: 1
+Total 241

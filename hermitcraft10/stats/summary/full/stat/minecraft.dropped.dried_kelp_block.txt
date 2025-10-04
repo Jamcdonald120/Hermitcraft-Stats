@@ -1,0 +1,11 @@
+minecraft.dropped.dried_kelp_block
+9: Tango: 2612
+9: impulseSV: 141
+9: GoodTimeWithScar: 65
+9: falsesymmetry: 43
+9: Grian: 24
+9: Etho: 6
+9: Smallishbeans: 2
+9: BdoubleO100: 1
+9: Zedaph: 1
+Total 2895

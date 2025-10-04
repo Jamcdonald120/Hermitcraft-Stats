@@ -1,0 +1,8 @@
+minecraft.killed_by.pillager
+6: Tango: 2
+6: Docm77: 1
+6: OrionSound: 1
+6: iJevin: 1
+6: Mumbo: 1
+6: Zedaph: 1
+Total 7

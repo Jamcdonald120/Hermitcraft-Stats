@@ -1,0 +1,23 @@
+minecraft.crafted.cobblestone_slab
+21: GoodTimeWithScar: 12984
+21: falsesymmetry: 4366
+21: Xisuma: 4100
+21: Renthedog: 3216
+21: joehillssays: 2178
+21: Grian: 1890
+21: iskall85: 1840
+21: iJevin: 1314
+21: Docm77: 1260
+21: cubfan135: 1258
+21: Stressmonster101: 978
+21: Tango: 600
+21: MumboJumbo: 508
+21: Biffa2001: 384
+21: Keralis1: 310
+21: BdoubleO100: 268
+21: Welsknight: 258
+21: Zedaph: 126
+21: PythonGB: 120
+21: impulseSV: 96
+21: ZombieCleo: 6
+Total 38060

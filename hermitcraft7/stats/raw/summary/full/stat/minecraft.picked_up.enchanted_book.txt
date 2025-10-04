@@ -1,0 +1,26 @@
+minecraft.picked_up.enchanted_book
+24: Etho: 1066
+24: hypnotizd: 300
+24: Keralis1: 176
+24: VintageBeef: 118
+24: Zedaph: 87
+24: Grian: 71
+24: iJevin: 59
+24: Stressmonster101: 52
+24: iskall85: 45
+24: GoodTimeWithScar: 39
+24: Tango: 38
+24: Xisuma: 33
+24: Renthedog: 30
+24: joehillssays: 30
+24: falsesymmetry: 23
+24: cubfan135: 21
+24: MumboJumbo: 15
+24: Docm77: 10
+24: ZombieCleo: 10
+24: impulseSV: 6
+24: xBCrafted: 4
+24: xisumavoid: 4
+24: Welsknight: 3
+24: Tinfoilchef: 1
+Total 2241

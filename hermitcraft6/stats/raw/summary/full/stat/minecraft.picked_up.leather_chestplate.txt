@@ -1,0 +1,27 @@
+minecraft.picked_up.leather_chestplate
+25: GoodTimeWithScar: 46
+25: cubfan135: 43
+25: ZombieCleo: 35
+25: iJevin: 31
+25: Tango: 29
+25: impulseSV: 25
+25: Xisuma: 22
+25: falsesymmetry: 18
+25: iskall85: 16
+25: Zedaph: 15
+25: Docm77: 13
+25: HumanCleo: 12
+25: joehillssays: 12
+25: Grian: 10
+25: Biffa2001: 8
+25: Stressmonster101: 8
+25: Renthedog: 7
+25: PythonGB: 6
+25: Tinfoilchef: 5
+25: Welsknight: 4
+25: MumboJumbo: 3
+25: BdoubleO100: 2
+25: Cub_Cam: 1
+25: xBCrafted: 1
+25: Keralis1: 1
+Total 373

@@ -1,0 +1,29 @@
+minecraft.picked_up.gold_nugget
+27: impulseSV: 21886
+27: xBCrafted: 9074
+27: Etho: 6426
+27: PearlescentMoon: 5347
+27: iJevin: 3788
+27: Skizzleman: 3115
+27: Xisuma: 2964
+27: cubfan135: 2958
+27: Docm77: 2921
+27: Keralis1: 2639
+27: VintageBeef: 2547
+27: Tango: 2073
+27: Mumbo: 1757
+27: Renthedog: 1510
+27: joehillssays: 1082
+27: hypnotizd: 818
+27: GoodTimeWithScar: 715
+27: falsesymmetry: 668
+27: Grian: 579
+27: GeminiTay: 396
+27: Zedaph: 269
+27: BdoubleO100: 240
+27: Welsknight: 227
+27: ZombieCleo: 151
+27: SolidarityGaming: 45
+27: Smallishbeans: 28
+27: Smajor1995: 1
+Total 74224

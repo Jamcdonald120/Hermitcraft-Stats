@@ -1,0 +1,20 @@
+minecraft.crafted.soul_torch
+18: impulseSV: 4732
+18: Tango: 1408
+18: Etho: 896
+18: joehillssays: 332
+18: Xisuma: 300
+18: xBCrafted: 296
+18: falsesymmetry: 276
+18: Docm77: 256
+18: Renthedog: 176
+18: Keralis1: 132
+18: Mumbo: 116
+18: cubfan135: 104
+18: PearlescentMoon: 80
+18: VintageBeef: 24
+18: Smallishbeans: 24
+18: GeminiTay: 8
+18: BdoubleO100: 4
+18: Zedaph: 4
+Total 9168

@@ -1,0 +1,24 @@
+minecraft.crafted.oak_stairs
+22: Smallishbeans: 680
+22: Keralis1: 520
+22: cubfan135: 512
+22: PearlescentMoon: 496
+22: Xisuma: 456
+22: GoodTimeWithScar: 306
+22: Mumbo: 112
+22: iJevin: 88
+22: Etho: 72
+22: xBCrafted: 68
+22: joehillssays: 60
+22: BdoubleO100: 52
+22: Welsknight: 44
+22: Docm77: 40
+22: Renthedog: 40
+22: falsesymmetry: 36
+22: Tango: 16
+22: VintageBeef: 8
+22: GeminiTay: 8
+22: ZombieCleo: 8
+22: Grian: 4
+22: impulseSV: 4
+Total 3630

@@ -1,0 +1,24 @@
+minecraft.dropped.oak_log
+22: Xisuma: 2248
+22: iJevin: 1622
+22: Zedaph: 1356
+22: GoodTimeWithScar: 753
+22: BdoubleO100: 725
+22: Grian: 470
+22: Docm77: 374
+22: cubfan135: 319
+22: falsesymmetry: 263
+22: Renthedog: 192
+22: Etho: 97
+22: Tango: 82
+22: PearlescentMoon: 66
+22: Keralis1: 52
+22: VintageBeef: 30
+22: impulseSV: 30
+22: ZombieCleo: 14
+22: Smallishbeans: 13
+22: Mumbo: 5
+22: GeminiTay: 4
+22: Skizzleman: 4
+22: xBCrafted: 3
+Total 8722

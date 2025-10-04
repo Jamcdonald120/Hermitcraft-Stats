@@ -1,0 +1,23 @@
+minecraft.crafted.bow
+21: GoodTimeWithScar: 2360
+21: Grian: 1428
+21: impulseSV: 335
+21: joehillssays: 239
+21: cubfan135: 221
+21: Tango: 204
+21: iJevin: 195
+21: Xisuma: 193
+21: Renthedog: 123
+21: MumboJumbo: 95
+21: iskall85: 85
+21: falsesymmetry: 79
+21: ZombieCleo: 70
+21: Zedaph: 57
+21: PythonGB: 52
+21: Docm77: 49
+21: Stressmonster101: 44
+21: Biffa2001: 29
+21: Welsknight: 24
+21: Tinfoilchef: 16
+21: BdoubleO100: 12
+Total 5910

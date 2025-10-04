@@ -1,0 +1,19 @@
+minecraft.picked_up.cartography_table
+17: PearlescentMoon: 94
+17: iJevin: 84
+17: cubfan135: 38
+17: Renthedog: 17
+17: Etho: 16
+17: Grian: 15
+17: Mumbo: 14
+17: GoodTimeWithScar: 13
+17: falsesymmetry: 9
+17: impulseSV: 7
+17: Xisuma: 6
+17: Tango: 6
+17: Keralis1: 6
+17: Docm77: 5
+17: joehillssays: 2
+17: Skizzleman: 2
+17: ZombieCleo: 1
+Total 335

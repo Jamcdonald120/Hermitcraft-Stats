@@ -1,0 +1,5 @@
+minecraft.picked_up.smooth_red_sandstone_stairs
+3: Xisuma: 95
+3: cubfan135: 47
+3: falsesymmetry: 4
+Total 146

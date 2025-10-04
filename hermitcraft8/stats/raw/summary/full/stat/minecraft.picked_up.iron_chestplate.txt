@@ -1,0 +1,24 @@
+minecraft.picked_up.iron_chestplate
+22: Tango: 24
+22: iskall85: 20
+22: GoodTimeWithScar: 18
+22: joehillssays: 14
+22: iJevin: 13
+22: PearlescentMoon: 11
+22: Docm77: 10
+22: Renthedog: 9
+22: ZombieCleo: 8
+22: Xisuma: 7
+22: BdoubleO100: 7
+22: Welsknight: 6
+22: falsesymmetry: 5
+22: Etho: 5
+22: Keralis1: 5
+22: Zedaph: 5
+22: GeminiTay: 4
+22: Grian: 4
+22: impulseSV: 4
+22: cubfan135: 1
+22: hypnotizd: 1
+22: MumboJumbo: 1
+Total 182

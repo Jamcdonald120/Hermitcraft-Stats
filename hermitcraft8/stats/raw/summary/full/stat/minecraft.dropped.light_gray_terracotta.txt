@@ -1,0 +1,10 @@
+minecraft.dropped.light_gray_terracotta
+8: Tango: 93
+8: Grian: 63
+8: falsesymmetry: 53
+8: hypnotizd: 45
+8: BdoubleO100: 25
+8: GoodTimeWithScar: 22
+8: Xisuma: 1
+8: Etho: 1
+Total 303

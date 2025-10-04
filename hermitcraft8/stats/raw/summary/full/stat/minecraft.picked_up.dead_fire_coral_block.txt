@@ -1,0 +1,9 @@
+minecraft.picked_up.dead_fire_coral_block
+7: BdoubleO100: 54
+7: Xisuma: 24
+7: iJevin: 24
+7: Renthedog: 8
+7: impulseSV: 4
+7: cubfan135: 3
+7: Grian: 1
+Total 118

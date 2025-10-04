@@ -1,0 +1,14 @@
+minecraft.crafted.crossbow
+12: impulseSV: 48
+12: cubfan135: 28
+12: iJevin: 27
+12: ZombieCleo: 14
+12: Renthedog: 12
+12: Zedaph: 5
+12: BdoubleO100: 3
+12: Xisuma: 2
+12: VintageBeef: 2
+12: xBCrafted: 2
+12: Etho: 2
+12: Mumbo: 1
+Total 146

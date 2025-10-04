@@ -1,0 +1,23 @@
+minecraft.mined.spruce_door
+21: PearlescentMoon: 24
+21: xBCrafted: 20
+21: Keralis1: 20
+21: BdoubleO100: 17
+21: Grian: 9
+21: VintageBeef: 8
+21: iJevin: 6
+21: joehillssays: 6
+21: Smallishbeans: 6
+21: Etho: 5
+21: falsesymmetry: 4
+21: Renthedog: 3
+21: Tango: 3
+21: Welsknight: 3
+21: ZombieCleo: 3
+21: Mumbo: 3
+21: Docm77: 2
+21: Xisuma: 2
+21: impulseSV: 2
+21: Skizzleman: 1
+21: GoodTimeWithScar: 1
+Total 148

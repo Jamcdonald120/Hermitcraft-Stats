@@ -1,0 +1,27 @@
+minecraft.picked_up.bundle
+25: cubfan135: 163
+25: iJevin: 155
+25: VintageBeef: 139
+25: Renthedog: 133
+25: GoodTimeWithScar: 103
+25: Docm77: 94
+25: Etho: 83
+25: joehillssays: 75
+25: ZombieCleo: 74
+25: xBCrafted: 62
+25: GeminiTay: 28
+25: PearlescentMoon: 23
+25: falsesymmetry: 21
+25: Xisuma: 20
+25: Welsknight: 15
+25: impulseSV: 15
+25: Grian: 13
+25: hypnotizd: 13
+25: BdoubleO100: 8
+25: Keralis1: 7
+25: Tango: 2
+25: HBomb94: 2
+25: Zedaph: 2
+25: Smallishbeans: 1
+25: Firecracker1195: 1
+Total 1252

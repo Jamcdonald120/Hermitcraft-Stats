@@ -1,0 +1,6 @@
+minecraft.picked_up.zombie_head
+4: cubfan135: 5
+4: Xisuma: 2
+4: impulseSV: 2
+4: GoodTimeWithScar: 1
+Total 10

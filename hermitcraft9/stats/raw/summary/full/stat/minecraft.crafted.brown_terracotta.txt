@@ -1,0 +1,18 @@
+minecraft.crafted.brown_terracotta
+16: VintageBeef: 800
+16: Grian: 693
+16: GoodTimeWithScar: 552
+16: Stressmonster101: 540
+16: Xisuma: 512
+16: Docm77: 408
+16: impulseSV: 256
+16: Keralis1: 134
+16: xBCrafted: 128
+16: BdoubleO100: 96
+16: falsesymmetry: 73
+16: cubfan135: 40
+16: Renthedog: 32
+16: iJevin: 32
+16: Tango: 24
+16: RentheKing: 12
+Total 4332

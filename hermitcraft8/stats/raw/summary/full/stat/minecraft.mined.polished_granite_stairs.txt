@@ -1,0 +1,7 @@
+minecraft.mined.polished_granite_stairs
+5: PearlescentMoon: 9
+5: Xisuma: 8
+5: impulseSV: 8
+5: BdoubleO100: 3
+5: Tinfoilchef: 1
+Total 29

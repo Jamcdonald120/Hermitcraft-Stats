@@ -1,0 +1,31 @@
+minecraft.picked_up.black_shulker_box
+29: PearlescentMoon: 972
+29: Tango: 765
+29: joehillssays: 608
+29: GoodTimeWithScar: 551
+29: Xisuma: 386
+29: VintageBeef: 322
+29: hypnotizd: 207
+29: BdoubleO100: 204
+29: Renthedog: 202
+29: xBCrafted: 195
+29: Etho: 147
+29: Zedaph: 100
+29: falsesymmetry: 96
+29: impulseSV: 69
+29: Docm77: 63
+29: MythicalSausage: 63
+29: RentheKing: 62
+29: Grian: 44
+29: cubfan135: 39
+29: Keralis1: 25
+29: iJevin: 20
+29: GeminiTay: 15
+29: Stressmonster101: 13
+29: Mumbo: 12
+29: iskall85: 10
+29: Pixlriffs: 4
+29: Welsknight: 2
+29: ZombieCleo: 2
+29: Tinfoilchef: 1
+Total 5199

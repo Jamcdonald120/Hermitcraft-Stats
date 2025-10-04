@@ -1,0 +1,13 @@
+minecraft.crafted.cut_copper_slab
+11: Tango: 210
+11: Grian: 154
+11: GoodTimeWithScar: 136
+11: falsesymmetry: 120
+11: cubfan135: 120
+11: Renthedog: 90
+11: Mumbo: 16
+11: BdoubleO100: 8
+11: Welsknight: 8
+11: ZombieCleo: 8
+11: Xisuma: 2
+Total 872

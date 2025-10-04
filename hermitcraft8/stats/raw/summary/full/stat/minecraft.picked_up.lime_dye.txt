@@ -1,0 +1,10 @@
+minecraft.picked_up.lime_dye
+8: Etho: 363
+8: iJevin: 194
+8: GoodTimeWithScar: 9
+8: Grian: 7
+8: VintageBeef: 6
+8: Welsknight: 2
+8: Zedaph: 2
+8: joehillssays: 1
+Total 584

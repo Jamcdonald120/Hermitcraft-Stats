@@ -1,0 +1,4 @@
+minecraft.dropped.orange_stained_glass
+2: GoodTimeWithScar: 10
+2: Etho: 1
+Total 11

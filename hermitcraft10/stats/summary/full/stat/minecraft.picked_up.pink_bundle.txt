@@ -1,0 +1,4 @@
+minecraft.picked_up.pink_bundle
+2: Xisuma: 2
+2: Docm77: 1
+Total 3

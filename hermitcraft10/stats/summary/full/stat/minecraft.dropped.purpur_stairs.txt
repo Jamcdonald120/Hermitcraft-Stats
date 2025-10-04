@@ -1,0 +1,14 @@
+minecraft.dropped.purpur_stairs
+12: GoodTimeWithScar: 36
+12: iJevin: 26
+12: Renthedog: 24
+12: Etho: 16
+12: Mumbo: 12
+12: hypnotizd: 10
+12: VintageBeef: 6
+12: Zedaph: 6
+12: Xisuma: 4
+12: Grian: 1
+12: ZombieCleo: 1
+12: Keralis1: 1
+Total 143

@@ -1,0 +1,28 @@
+minecraft.picked_up.gold_ingot
+26: impulseSV: 16667
+26: Docm77: 4273
+26: iJevin: 1525
+26: Etho: 1386
+26: Renthedog: 1076
+26: Zedaph: 1012
+26: Keralis1: 789
+26: Xisuma: 629
+26: cubfan135: 564
+26: PearlescentMoon: 516
+26: xBCrafted: 427
+26: Skizzleman: 418
+26: Grian: 320
+26: GeminiTay: 301
+26: Tango: 262
+26: Mumbo: 233
+26: joehillssays: 156
+26: hypnotizd: 134
+26: VintageBeef: 132
+26: BdoubleO100: 116
+26: falsesymmetry: 76
+26: Welsknight: 67
+26: Smallishbeans: 29
+26: ZombieCleo: 27
+26: GoodTimeWithScar: 12
+26: SolidarityGaming: 10
+Total 31157

@@ -1,0 +1,25 @@
+minecraft.picked_up.cyan_bed
+23: Etho: 389
+23: Xisuma: 162
+23: GoodTimeWithScar: 133
+23: cubfan135: 105
+23: GeminiTay: 97
+23: PearlescentMoon: 62
+23: Renthedog: 41
+23: joehillssays: 40
+23: Docm77: 36
+23: iJevin: 35
+23: Grian: 22
+23: ZombieCleo: 22
+23: Tango: 21
+23: Keralis1: 15
+23: VintageBeef: 7
+23: Skizzleman: 5
+23: xBCrafted: 4
+23: Smajor1995: 3
+23: Welsknight: 2
+23: impulseSV: 2
+23: falsesymmetry: 1
+23: aimsey: 1
+23: Zedaph: 1
+Total 1206

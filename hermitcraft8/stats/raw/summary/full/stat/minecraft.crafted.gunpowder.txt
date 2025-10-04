@@ -1,0 +1,3 @@
+minecraft.crafted.gunpowder
+1: PearlescentMoon: 8
+Total 8

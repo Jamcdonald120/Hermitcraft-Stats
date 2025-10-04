@@ -1,0 +1,10 @@
+minecraft.dropped.mushroom_stew
+8: PearlescentMoon: 52
+8: impulseSV: 14
+8: Grian: 7
+8: GeminiTay: 6
+8: ZombieCleo: 4
+8: Xisuma: 1
+8: Keralis1: 1
+8: Zedaph: 1
+Total 86

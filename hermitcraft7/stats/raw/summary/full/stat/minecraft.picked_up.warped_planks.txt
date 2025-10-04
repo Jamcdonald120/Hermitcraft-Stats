@@ -1,0 +1,21 @@
+minecraft.picked_up.warped_planks
+19: Grian: 418
+19: GoodTimeWithScar: 186
+19: cubfan135: 143
+19: Stressmonster101: 117
+19: Etho: 105
+19: Xisuma: 70
+19: Zedaph: 70
+19: iJevin: 65
+19: Tango: 58
+19: VintageBeef: 52
+19: BdoubleO100: 45
+19: joehillssays: 41
+19: ZombieCleo: 37
+19: xBCrafted: 26
+19: iskall85: 16
+19: Renthedog: 10
+19: impulseSV: 9
+19: falsesymmetry: 3
+19: MumboJumbo: 2
+Total 1473

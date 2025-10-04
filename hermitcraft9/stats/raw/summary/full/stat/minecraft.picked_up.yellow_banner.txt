@@ -1,0 +1,9 @@
+minecraft.picked_up.yellow_banner
+7: PearlescentMoon: 27
+7: BdoubleO100: 20
+7: joehillssays: 15
+7: Tango: 13
+7: Smajor1995: 6
+7: Keralis1: 3
+7: Zedaph: 1
+Total 85

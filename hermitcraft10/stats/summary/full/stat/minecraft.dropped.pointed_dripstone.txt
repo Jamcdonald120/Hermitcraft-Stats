@@ -1,0 +1,26 @@
+minecraft.dropped.pointed_dripstone
+24: Zedaph: 838
+24: impulseSV: 330
+24: Keralis1: 252
+24: GoodTimeWithScar: 174
+24: falsesymmetry: 146
+24: iJevin: 116
+24: Xisuma: 85
+24: Tango: 82
+24: Skizzleman: 82
+24: Smallishbeans: 79
+24: PearlescentMoon: 73
+24: Renthedog: 71
+24: BdoubleO100: 65
+24: VintageBeef: 51
+24: Etho: 34
+24: cubfan135: 26
+24: hypnotizd: 24
+24: Docm77: 23
+24: xBCrafted: 23
+24: Grian: 21
+24: Mumbo: 14
+24: joehillssays: 13
+24: ZombieCleo: 9
+24: GeminiTay: 1
+Total 2632

@@ -1,0 +1,5 @@
+minecraft.mined.potted_spruce_sapling
+3: VintageBeef: 1
+3: iJevin: 1
+3: xBCrafted: 1
+Total 3

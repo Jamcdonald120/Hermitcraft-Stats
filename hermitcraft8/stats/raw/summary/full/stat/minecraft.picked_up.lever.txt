@@ -1,0 +1,28 @@
+minecraft.picked_up.lever
+26: Zedaph: 542
+26: impulseSV: 520
+26: iJevin: 275
+26: Tango: 121
+26: cubfan135: 91
+26: Xisuma: 89
+26: Etho: 83
+26: PearlescentMoon: 77
+26: Docm77: 53
+26: hypnotizd: 51
+26: GeminiTay: 43
+26: xBCrafted: 39
+26: MumboJumbo: 35
+26: Welsknight: 32
+26: VintageBeef: 28
+26: GoodTimeWithScar: 21
+26: falsesymmetry: 20
+26: Keralis1: 19
+26: Grian: 15
+26: BdoubleO100: 14
+26: Renthedog: 12
+26: iskall85: 6
+26: Stressmonster101: 6
+26: joehillssays: 5
+26: ZombieCleo: 4
+26: Tinfoilchef: 4
+Total 2205

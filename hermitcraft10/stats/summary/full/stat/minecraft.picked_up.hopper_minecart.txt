@@ -1,0 +1,27 @@
+minecraft.picked_up.hopper_minecart
+25: hypnotizd: 516
+25: Tango: 373
+25: Xisuma: 61
+25: Etho: 36
+25: Renthedog: 29
+25: Keralis1: 25
+25: iJevin: 22
+25: PearlescentMoon: 22
+25: falsesymmetry: 21
+25: impulseSV: 20
+25: Docm77: 17
+25: Zedaph: 17
+25: BdoubleO100: 14
+25: xBCrafted: 14
+25: Smallishbeans: 11
+25: Skizzleman: 9
+25: cubfan135: 7
+25: VintageBeef: 5
+25: GoodTimeWithScar: 5
+25: ZombieCleo: 3
+25: joehillssays: 2
+25: GeminiTay: 2
+25: Mumbo: 2
+25: Grian: 1
+25: Welsknight: 1
+Total 1235

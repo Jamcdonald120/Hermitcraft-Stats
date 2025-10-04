@@ -1,0 +1,24 @@
+minecraft.picked_up.oak_stairs
+22: ZombieCleo: 664
+22: cubfan135: 319
+22: BdoubleO100: 299
+22: PearlescentMoon: 280
+22: Keralis1: 257
+22: Etho: 232
+22: Xisuma: 229
+22: GoodTimeWithScar: 217
+22: joehillssays: 116
+22: iJevin: 112
+22: Grian: 96
+22: Renthedog: 79
+22: Mumbo: 62
+22: Tango: 54
+22: Smallishbeans: 46
+22: hypnotizd: 43
+22: falsesymmetry: 34
+22: VintageBeef: 30
+22: Welsknight: 13
+22: Docm77: 7
+22: xBCrafted: 6
+22: Skizzleman: 4
+Total 3199

@@ -1,0 +1,27 @@
+minecraft.dropped.shears
+25: hypnotizd: 291
+25: Grian: 156
+25: Tango: 119
+25: impulseSV: 114
+25: Keralis1: 108
+25: Xisuma: 91
+25: PearlescentMoon: 47
+25: falsesymmetry: 26
+25: GoodTimeWithScar: 22
+25: Docm77: 17
+25: iJevin: 17
+25: Zedaph: 15
+25: iskall85: 13
+25: ZombieCleo: 11
+25: VintageBeef: 8
+25: Etho: 8
+25: Renthedog: 7
+25: MythicalSausage: 5
+25: cubfan135: 5
+25: xBCrafted: 4
+25: GeminiTay: 2
+25: RentheKing: 2
+25: joehillssays: 1
+25: BdoubleO100: 1
+25: Stressmonster101: 1
+Total 1091

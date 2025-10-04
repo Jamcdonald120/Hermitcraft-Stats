@@ -1,0 +1,7 @@
+minecraft.dropped.flow_armor_trim_smithing_template
+5: Xisuma: 9
+5: Keralis1: 2
+5: Docm77: 1
+5: Renthedog: 1
+5: iJevin: 1
+Total 14

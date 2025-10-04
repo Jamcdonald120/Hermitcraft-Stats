@@ -1,0 +1,8 @@
+minecraft.dropped.coal_block
+6: iJevin: 1917
+6: impulseSV: 64
+6: Zedaph: 39
+6: BdoubleO100: 19
+6: Grian: 4
+6: PearlescentMoon: 2
+Total 2045

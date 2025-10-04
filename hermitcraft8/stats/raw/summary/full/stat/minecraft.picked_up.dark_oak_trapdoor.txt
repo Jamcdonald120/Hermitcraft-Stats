@@ -1,0 +1,24 @@
+minecraft.picked_up.dark_oak_trapdoor
+22: GoodTimeWithScar: 246
+22: Grian: 126
+22: iJevin: 116
+22: Renthedog: 92
+22: PearlescentMoon: 59
+22: Xisuma: 58
+22: joehillssays: 55
+22: cubfan135: 54
+22: impulseSV: 46
+22: GeminiTay: 35
+22: Tango: 32
+22: falsesymmetry: 30
+22: hypnotizd: 23
+22: BdoubleO100: 16
+22: xBCrafted: 14
+22: iskall85: 13
+22: Docm77: 10
+22: Welsknight: 9
+22: Stressmonster101: 7
+22: VintageBeef: 2
+22: Keralis1: 2
+22: ZombieCleo: 1
+Total 1046

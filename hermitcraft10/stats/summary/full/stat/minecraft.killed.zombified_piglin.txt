@@ -1,0 +1,24 @@
+minecraft.killed.zombified_piglin
+22: impulseSV: 1200104
+22: Docm77: 427304
+22: Mumbo: 351255
+22: xBCrafted: 49947
+22: Tango: 28557
+22: Keralis1: 8547
+22: cubfan135: 827
+22: iJevin: 485
+22: Etho: 168
+22: Renthedog: 96
+22: hypnotizd: 88
+22: GoodTimeWithScar: 61
+22: Zedaph: 40
+22: Xisuma: 38
+22: Skizzleman: 38
+22: joehillssays: 34
+22: Smallishbeans: 18
+22: Welsknight: 17
+22: BdoubleO100: 6
+22: Grian: 4
+22: PearlescentMoon: 3
+22: falsesymmetry: 3
+Total 2067640

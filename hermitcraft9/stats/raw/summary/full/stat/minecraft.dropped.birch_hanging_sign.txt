@@ -1,0 +1,5 @@
+minecraft.dropped.birch_hanging_sign
+3: falsesymmetry: 22
+3: cubfan135: 6
+3: Zedaph: 5
+Total 33

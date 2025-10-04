@@ -1,0 +1,25 @@
+minecraft.used.spruce_door
+23: xBCrafted: 119
+23: BdoubleO100: 40
+23: PearlescentMoon: 38
+23: Smallishbeans: 34
+23: Keralis1: 34
+23: Welsknight: 28
+23: iJevin: 23
+23: Grian: 21
+23: Etho: 17
+23: VintageBeef: 15
+23: falsesymmetry: 14
+23: Tango: 10
+23: GeminiTay: 9
+23: ZombieCleo: 9
+23: Renthedog: 8
+23: impulseSV: 8
+23: Xisuma: 7
+23: Docm77: 4
+23: Mumbo: 4
+23: joehillssays: 2
+23: Skizzleman: 2
+23: cubfan135: 1
+23: GoodTimeWithScar: 1
+Total 448

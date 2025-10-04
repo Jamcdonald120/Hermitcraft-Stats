@@ -1,0 +1,27 @@
+minecraft.picked_up.apple
+25: Docm77: 1810
+25: Xisuma: 564
+25: GoodTimeWithScar: 511
+25: PearlescentMoon: 347
+25: Etho: 270
+25: Zedaph: 249
+25: falsesymmetry: 211
+25: iJevin: 193
+25: Smallishbeans: 190
+25: cubfan135: 173
+25: joehillssays: 149
+25: BdoubleO100: 136
+25: Keralis1: 112
+25: Renthedog: 111
+25: ZombieCleo: 101
+25: Tango: 92
+25: VintageBeef: 84
+25: impulseSV: 80
+25: Grian: 65
+25: Skizzleman: 57
+25: xBCrafted: 56
+25: GeminiTay: 54
+25: hypnotizd: 30
+25: Welsknight: 18
+25: Mumbo: 14
+Total 5677

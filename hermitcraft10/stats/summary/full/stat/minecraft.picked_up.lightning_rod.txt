@@ -1,0 +1,24 @@
+minecraft.picked_up.lightning_rod
+22: Renthedog: 484
+22: Tango: 315
+22: joehillssays: 182
+22: BdoubleO100: 170
+22: impulseSV: 162
+22: GoodTimeWithScar: 148
+22: cubfan135: 142
+22: Keralis1: 136
+22: Smallishbeans: 114
+22: PearlescentMoon: 65
+22: Docm77: 61
+22: VintageBeef: 50
+22: Etho: 41
+22: falsesymmetry: 37
+22: Xisuma: 27
+22: xBCrafted: 25
+22: Grian: 24
+22: ZombieCleo: 22
+22: Mumbo: 17
+22: GeminiTay: 11
+22: iJevin: 6
+22: Zedaph: 1
+Total 2240

@@ -1,0 +1,4 @@
+minecraft.dropped.bamboo_mosaic_slab
+2: Xisuma: 7
+2: GoodTimeWithScar: 6
+Total 13

@@ -1,0 +1,27 @@
+minecraft.picked_up.purple_shulker_box
+25: iJevin: 702
+25: Xisuma: 671
+25: cubfan135: 433
+25: joehillssays: 281
+25: BdoubleO100: 232
+25: impulseSV: 229
+25: Etho: 208
+25: PearlescentMoon: 149
+25: Tango: 124
+25: GoodTimeWithScar: 123
+25: Renthedog: 114
+25: Smallishbeans: 62
+25: falsesymmetry: 62
+25: Docm77: 53
+25: GeminiTay: 32
+25: Welsknight: 20
+25: ZombieCleo: 16
+25: Smajor1995: 11
+25: HBomb94: 9
+25: hannahxxrose: 5
+25: xBCrafted: 5
+25: Mumbo: 5
+25: Keralis1: 4
+25: F1RECRACKR: 1
+25: Skizzleman: 1
+Total 3552

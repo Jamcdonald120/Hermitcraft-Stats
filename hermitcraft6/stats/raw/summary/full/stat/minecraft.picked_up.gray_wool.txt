@@ -1,0 +1,23 @@
+minecraft.picked_up.gray_wool
+21: Xisuma: 1207
+21: iskall85: 682
+21: falsesymmetry: 246
+21: iJevin: 212
+21: GoodTimeWithScar: 212
+21: cubfan135: 202
+21: joehillssays: 163
+21: Biffa2001: 83
+21: Stressmonster101: 82
+21: impulseSV: 72
+21: Welsknight: 68
+21: Tango: 54
+21: Grian: 32
+21: Keralis1: 22
+21: PythonGB: 20
+21: HumanCleo: 12
+21: Renthedog: 7
+21: Docm77: 6
+21: Zedaph: 3
+21: Jessassin: 1
+21: BdoubleO100: 1
+Total 3387

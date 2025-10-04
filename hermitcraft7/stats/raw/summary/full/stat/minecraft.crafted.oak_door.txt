@@ -1,0 +1,22 @@
+minecraft.crafted.oak_door
+20: Keralis1: 96
+20: iskall85: 72
+20: Tango: 57
+20: joehillssays: 54
+20: falsesymmetry: 48
+20: Renthedog: 21
+20: xBCrafted: 15
+20: Grian: 12
+20: Stressmonster101: 12
+20: VintageBeef: 9
+20: BdoubleO100: 9
+20: iJevin: 6
+20: hypnotizd: 6
+20: Xisuma: 3
+20: cubfan135: 3
+20: Welsknight: 3
+20: ZombieCleo: 3
+20: MumboJumbo: 3
+20: Tinfoilchef: 3
+20: impulseSV: 3
+Total 438

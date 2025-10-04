@@ -1,0 +1,22 @@
+minecraft.picked_up.birch_button
+20: cubfan135: 67
+20: BdoubleO100: 18
+20: xBCrafted: 17
+20: Tango: 13
+20: PearlescentMoon: 13
+20: Etho: 11
+20: Dot_Dot_Dash: 8
+20: joehillssays: 8
+20: Zedaph: 7
+20: falsesymmetry: 6
+20: GoodTimeWithScar: 6
+20: Grian: 5
+20: impulseSV: 5
+20: iJevin: 4
+20: Smallishbeans: 4
+20: Mumbo: 4
+20: Skizzleman: 3
+20: ZombieCleo: 3
+20: Renthedog: 2
+20: Xisuma: 1
+Total 205

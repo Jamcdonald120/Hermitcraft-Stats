@@ -1,0 +1,7 @@
+minecraft.dropped.horn_coral
+5: Mumbo: 4
+5: Etho: 3
+5: Xisuma: 1
+5: iJevin: 1
+5: Smallishbeans: 1
+Total 10

@@ -1,0 +1,21 @@
+minecraft.crafted.gray_concrete_powder
+19: GoodTimeWithScar: 35656
+19: iskall85: 25144
+19: Xisuma: 16144
+19: Renthedog: 8440
+19: Grian: 7928
+19: cubfan135: 6752
+19: Stressmonster101: 5640
+19: PythonGB: 3168
+19: falsesymmetry: 2936
+19: Welsknight: 2496
+19: impulseSV: 1888
+19: Docm77: 1808
+19: ZombieCleo: 576
+19: Tango: 272
+19: BdoubleO100: 256
+19: iJevin: 200
+19: Keralis1: 128
+19: MumboJumbo: 48
+19: Zedaph: 8
+Total 119488

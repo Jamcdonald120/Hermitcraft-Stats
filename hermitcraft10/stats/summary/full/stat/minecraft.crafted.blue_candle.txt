@@ -1,0 +1,4 @@
+minecraft.crafted.blue_candle
+2: Keralis1: 640
+2: Xisuma: 1
+Total 641

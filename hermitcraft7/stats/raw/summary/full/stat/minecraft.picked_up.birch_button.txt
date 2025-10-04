@@ -1,0 +1,18 @@
+minecraft.picked_up.birch_button
+16: BdoubleO100: 33
+16: iskall85: 33
+16: cubfan135: 18
+16: Grian: 13
+16: impulseSV: 12
+16: Tango: 7
+16: VintageBeef: 6
+16: Renthedog: 5
+16: Zedaph: 4
+16: iJevin: 3
+16: GoodTimeWithScar: 3
+16: Xisuma: 2
+16: xBCrafted: 2
+16: MumboJumbo: 2
+16: Etho: 1
+16: Keralis1: 1
+Total 145

@@ -1,0 +1,21 @@
+minecraft.picked_up.detector_rail
+19: Etho: 234
+19: impulseSV: 68
+19: Tango: 59
+19: Docm77: 58
+19: cubfan135: 41
+19: PearlescentMoon: 27
+19: iJevin: 16
+19: Skizzleman: 10
+19: BdoubleO100: 10
+19: Smallishbeans: 8
+19: GoodTimeWithScar: 6
+19: Xisuma: 5
+19: Renthedog: 5
+19: Mumbo: 5
+19: xBCrafted: 4
+19: falsesymmetry: 4
+19: Zedaph: 2
+19: joehillssays: 1
+19: Keralis1: 1
+Total 564

@@ -1,0 +1,5 @@
+minecraft.dropped.blue_bed
+3: Renthedog: 2
+3: Xisuma: 1
+3: iJevin: 1
+Total 4

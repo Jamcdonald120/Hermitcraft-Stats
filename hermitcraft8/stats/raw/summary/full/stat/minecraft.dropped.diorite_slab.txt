@@ -1,0 +1,4 @@
+minecraft.dropped.diorite_slab
+2: hypnotizd: 128
+2: Tango: 10
+Total 138

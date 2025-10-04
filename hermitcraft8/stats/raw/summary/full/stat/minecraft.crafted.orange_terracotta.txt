@@ -1,0 +1,13 @@
+minecraft.crafted.orange_terracotta
+11: PearlescentMoon: 304
+11: falsesymmetry: 256
+11: MumboJumbo: 256
+11: Keralis1: 168
+11: Grian: 65
+11: cubfan135: 48
+11: iJevin: 40
+11: BdoubleO100: 16
+11: GeminiTay: 8
+11: Welsknight: 8
+11: ZombieCleo: 8
+Total 1177

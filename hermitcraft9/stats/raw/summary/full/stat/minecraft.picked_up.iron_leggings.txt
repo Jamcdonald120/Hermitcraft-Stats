@@ -1,0 +1,32 @@
+minecraft.picked_up.iron_leggings
+30: Etho: 421
+30: iJevin: 26
+30: impulseSV: 25
+30: cubfan135: 19
+30: PearlescentMoon: 18
+30: falsesymmetry: 14
+30: Zedaph: 13
+30: joehillssays: 11
+30: Grian: 11
+30: Renthedog: 9
+30: Xisuma: 8
+30: hypnotizd: 7
+30: ZombieCleo: 6
+30: Docm77: 5
+30: VintageBeef: 5
+30: Tango: 4
+30: xBCrafted: 4
+30: iskall85: 3
+30: Keralis1: 3
+30: MythicalSausage: 2
+30: Mumbo: 2
+30: GoodTimeWithScar: 2
+30: Stressmonster101: 2
+30: truesymmetry: 1
+30: OrionSound: 1
+30: BdoubleO100: 1
+30: Pixlriffs: 1
+30: Welsknight: 1
+30: MumboJumbo: 1
+30: ShubbleYT: 1
+Total 627

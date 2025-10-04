@@ -1,0 +1,25 @@
+minecraft.picked_up.cod
+23: GeminiTay: 1245
+23: PearlescentMoon: 568
+23: Xisuma: 450
+23: impulseSV: 262
+23: Etho: 214
+23: Grian: 212
+23: iJevin: 185
+23: Renthedog: 143
+23: joehillssays: 89
+23: ZombieCleo: 88
+23: cubfan135: 78
+23: VintageBeef: 74
+23: Pixlriffs: 63
+23: falsesymmetry: 59
+23: Stressmonster101: 41
+23: hypnotizd: 24
+23: Zedaph: 23
+23: Keralis1: 21
+23: GoodTimeWithScar: 14
+23: xBCrafted: 12
+23: BdoubleO100: 2
+23: iskall85: 1
+23: Mumbo: 1
+Total 3869

@@ -1,0 +1,4 @@
+minecraft.killed_by.wither_skeleton
+2: Tango: 1
+2: GoodTimeWithScar: 1
+Total 2

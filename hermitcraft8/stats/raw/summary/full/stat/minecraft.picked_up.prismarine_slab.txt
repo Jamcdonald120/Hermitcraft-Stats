@@ -1,0 +1,6 @@
+minecraft.picked_up.prismarine_slab
+4: GeminiTay: 16
+4: Etho: 7
+4: Xisuma: 5
+4: iskall85: 2
+Total 30

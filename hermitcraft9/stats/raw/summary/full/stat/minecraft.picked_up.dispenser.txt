@@ -1,0 +1,28 @@
+minecraft.picked_up.dispenser
+26: cubfan135: 709
+26: Etho: 577
+26: GoodTimeWithScar: 300
+26: Grian: 263
+26: impulseSV: 247
+26: iJevin: 192
+26: Zedaph: 174
+26: falsesymmetry: 163
+26: RentheKing: 149
+26: Xisuma: 144
+26: Renthedog: 120
+26: Tango: 120
+26: hypnotizd: 120
+26: Docm77: 107
+26: ZombieCleo: 99
+26: VintageBeef: 47
+26: xBCrafted: 34
+26: PearlescentMoon: 25
+26: Mumbo: 12
+26: Keralis1: 11
+26: BdoubleO100: 10
+26: OrionSound: 9
+26: iskall85: 9
+26: joehillssays: 8
+26: GeminiTay: 3
+26: Stressmonster101: 3
+Total 3655

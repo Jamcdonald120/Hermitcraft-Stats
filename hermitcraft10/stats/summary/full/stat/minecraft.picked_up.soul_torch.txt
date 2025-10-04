@@ -1,0 +1,14 @@
+minecraft.picked_up.soul_torch
+12: ZombieCleo: 107
+12: iJevin: 80
+12: Skizzleman: 64
+12: PearlescentMoon: 58
+12: Renthedog: 46
+12: Etho: 46
+12: Tango: 34
+12: cubfan135: 23
+12: impulseSV: 13
+12: Keralis1: 8
+12: Xisuma: 6
+12: GoodTimeWithScar: 2
+Total 487

@@ -1,0 +1,17 @@
+minecraft.picked_up.brick_stairs
+15: Etho: 158
+15: impulseSV: 39
+15: GoodTimeWithScar: 34
+15: Xisuma: 30
+15: Renthedog: 29
+15: Tango: 29
+15: PearlescentMoon: 25
+15: VintageBeef: 17
+15: Skizzleman: 16
+15: cubfan135: 10
+15: Welsknight: 6
+15: Docm77: 5
+15: falsesymmetry: 2
+15: Zedaph: 2
+15: BdoubleO100: 1
+Total 403

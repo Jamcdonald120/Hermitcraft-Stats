@@ -1,0 +1,11 @@
+minecraft.picked_up.crimson_door
+9: PearlescentMoon: 6
+9: Xisuma: 5
+9: Tango: 5
+9: ZombieCleo: 2
+9: Keralis1: 2
+9: Renthedog: 1
+9: cubfan135: 1
+9: Etho: 1
+9: GoodTimeWithScar: 1
+Total 24

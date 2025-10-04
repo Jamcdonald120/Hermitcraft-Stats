@@ -1,0 +1,10 @@
+minecraft.used.brick_wall
+8: impulseSV: 439
+8: Etho: 78
+8: BdoubleO100: 40
+8: Xisuma: 39
+8: Renthedog: 36
+8: Grian: 29
+8: GoodTimeWithScar: 24
+8: PearlescentMoon: 4
+Total 689

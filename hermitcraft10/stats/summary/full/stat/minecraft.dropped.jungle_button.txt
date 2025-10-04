@@ -1,0 +1,9 @@
+minecraft.dropped.jungle_button
+7: Etho: 25
+7: Tango: 10
+7: falsesymmetry: 6
+7: Grian: 5
+7: cubfan135: 4
+7: Mumbo: 4
+7: Keralis1: 2
+Total 56

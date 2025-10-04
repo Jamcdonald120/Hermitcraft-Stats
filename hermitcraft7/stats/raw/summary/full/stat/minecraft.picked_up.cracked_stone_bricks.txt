@@ -1,0 +1,24 @@
+minecraft.picked_up.cracked_stone_bricks
+22: Tango: 1049
+22: joehillssays: 546
+22: Stressmonster101: 371
+22: Xisuma: 333
+22: Renthedog: 325
+22: GoodTimeWithScar: 321
+22: falsesymmetry: 250
+22: cubfan135: 242
+22: ZombieCleo: 118
+22: iJevin: 113
+22: VintageBeef: 81
+22: BdoubleO100: 76
+22: Grian: 73
+22: iskall85: 43
+22: xBCrafted: 39
+22: Etho: 29
+22: Docm77: 19
+22: Keralis1: 15
+22: impulseSV: 14
+22: hypnotizd: 10
+22: MumboJumbo: 10
+22: Welsknight: 9
+Total 4086

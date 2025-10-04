@@ -1,0 +1,27 @@
+minecraft.mined.redstone_torch
+25: Grian: 1132
+25: Tango: 694
+25: impulseSV: 165
+25: cubfan135: 138
+25: Keralis1: 80
+25: Etho: 70
+25: xBCrafted: 63
+25: iskall85: 54
+25: GeminiTay: 53
+25: Zedaph: 53
+25: GoodTimeWithScar: 50
+25: Xisuma: 46
+25: ZombieCleo: 37
+25: Stressmonster101: 37
+25: iJevin: 23
+25: Docm77: 22
+25: PearlescentMoon: 22
+25: Renthedog: 20
+25: joehillssays: 16
+25: BdoubleO100: 12
+25: hypnotizd: 11
+25: Pixlriffs: 6
+25: RentheKing: 5
+25: Mumbo: 3
+25: falsesymmetry: 2
+Total 2814

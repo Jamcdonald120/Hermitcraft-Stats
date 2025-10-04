@@ -1,0 +1,19 @@
+minecraft.picked_up.resin_block
+17: Xisuma: 2693
+17: impulseSV: 1548
+17: GoodTimeWithScar: 346
+17: Docm77: 268
+17: Tango: 165
+17: Renthedog: 71
+17: xBCrafted: 64
+17: ZombieCleo: 47
+17: Skizzleman: 14
+17: falsesymmetry: 13
+17: GeminiTay: 11
+17: Etho: 9
+17: PearlescentMoon: 8
+17: joehillssays: 6
+17: BdoubleO100: 4
+17: Keralis1: 4
+17: iJevin: 1
+Total 5272

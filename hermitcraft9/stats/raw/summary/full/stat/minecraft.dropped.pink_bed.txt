@@ -1,0 +1,5 @@
+minecraft.dropped.pink_bed
+3: Renthedog: 5
+3: GoodTimeWithScar: 2
+3: Keralis1: 1
+Total 8

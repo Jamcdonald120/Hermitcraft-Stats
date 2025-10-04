@@ -1,0 +1,4 @@
+minecraft.dropped.orange_glazed_terracotta
+2: Zedaph: 12
+2: Grian: 7
+Total 19

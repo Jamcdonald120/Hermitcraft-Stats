@@ -1,0 +1,21 @@
+minecraft.dropped.minecart
+19: xBCrafted: 152
+19: Tango: 111
+19: Xisuma: 52
+19: Docm77: 34
+19: Zedaph: 31
+19: Etho: 29
+19: Grian: 26
+19: iJevin: 23
+19: impulseSV: 19
+19: Stressmonster101: 15
+19: hypnotizd: 11
+19: GoodTimeWithScar: 10
+19: Keralis1: 6
+19: Renthedog: 4
+19: cubfan135: 4
+19: iskall85: 3
+19: BdoubleO100: 2
+19: PearlescentMoon: 2
+19: SolidarityGaming: 2
+Total 536

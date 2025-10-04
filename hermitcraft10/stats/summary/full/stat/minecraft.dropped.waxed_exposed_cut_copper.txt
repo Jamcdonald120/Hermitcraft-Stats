@@ -1,0 +1,4 @@
+minecraft.dropped.waxed_exposed_cut_copper
+2: impulseSV: 14
+2: Xisuma: 10
+Total 24

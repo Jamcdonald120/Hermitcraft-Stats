@@ -1,0 +1,18 @@
+minecraft.dropped.spruce_button
+16: Zedaph: 122
+16: Etho: 99
+16: iskall85: 83
+16: Grian: 68
+16: GoodTimeWithScar: 49
+16: Renthedog: 34
+16: xBCrafted: 19
+16: Tango: 16
+16: Keralis1: 13
+16: Xisuma: 5
+16: BdoubleO100: 2
+16: cubfan135: 2
+16: MumboJumbo: 2
+16: VintageBeef: 1
+16: ZombieCleo: 1
+16: impulseSV: 1
+Total 517

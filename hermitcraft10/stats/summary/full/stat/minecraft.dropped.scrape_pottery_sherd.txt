@@ -1,0 +1,10 @@
+minecraft.dropped.scrape_pottery_sherd
+8: Grian: 13
+8: Xisuma: 10
+8: iJevin: 3
+8: Keralis1: 2
+8: Tango: 1
+8: Skizzleman: 1
+8: Mumbo: 1
+8: GoodTimeWithScar: 1
+Total 32

@@ -1,0 +1,27 @@
+minecraft.picked_up.black_concrete
+25: Skizzleman: 4792
+25: Smallishbeans: 2392
+25: Docm77: 1929
+25: ZombieCleo: 1723
+25: Grian: 1626
+25: falsesymmetry: 1394
+25: GoodTimeWithScar: 1381
+25: iJevin: 965
+25: impulseSV: 871
+25: Etho: 773
+25: PearlescentMoon: 523
+25: Tango: 474
+25: xBCrafted: 424
+25: GeminiTay: 348
+25: Zedaph: 190
+25: joehillssays: 180
+25: Mumbo: 140
+25: Renthedog: 137
+25: cubfan135: 131
+25: VintageBeef: 68
+25: Xisuma: 36
+25: BdoubleO100: 33
+25: Eyjoy27: 9
+25: Keralis1: 9
+25: hypnotizd: 2
+Total 20550

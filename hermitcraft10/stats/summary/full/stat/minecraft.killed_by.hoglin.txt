@@ -1,0 +1,5 @@
+minecraft.killed_by.hoglin
+3: Renthedog: 1
+3: ZombieCleo: 1
+3: impulseSV: 1
+Total 3

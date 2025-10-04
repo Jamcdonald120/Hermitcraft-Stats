@@ -1,0 +1,5 @@
+minecraft.dropped.sculk_shrieker
+3: Tango: 153
+3: impulseSV: 50
+3: falsesymmetry: 1
+Total 204

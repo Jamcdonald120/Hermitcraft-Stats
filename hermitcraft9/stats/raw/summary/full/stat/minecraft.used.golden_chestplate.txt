@@ -1,0 +1,8 @@
+minecraft.used.golden_chestplate
+6: Etho: 2
+6: OrionSound: 1
+6: GeminiTay: 1
+6: BdoubleO100: 1
+6: falsesymmetry: 1
+6: impulseSV: 1
+Total 7

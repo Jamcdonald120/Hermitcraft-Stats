@@ -1,0 +1,6 @@
+minecraft.picked_up.green_banner
+4: GoodTimeWithScar: 50
+4: Keralis1: 15
+4: BdoubleO100: 3
+4: Etho: 2
+Total 70

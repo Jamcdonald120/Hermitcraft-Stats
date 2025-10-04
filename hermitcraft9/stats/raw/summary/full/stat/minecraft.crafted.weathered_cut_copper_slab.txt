@@ -1,0 +1,6 @@
+minecraft.crafted.weathered_cut_copper_slab
+4: cubfan135: 38
+4: BdoubleO100: 16
+4: Docm77: 8
+4: Zedaph: 2
+Total 64

@@ -1,0 +1,23 @@
+minecraft.picked_up.glowstone
+21: Zedaph: 2085
+21: iJevin: 733
+21: Grian: 677
+21: impulseSV: 606
+21: Tango: 477
+21: Xisuma: 466
+21: Keralis1: 418
+21: Docm77: 368
+21: Smallishbeans: 362
+21: joehillssays: 283
+21: Etho: 230
+21: cubfan135: 162
+21: ZombieCleo: 146
+21: Welsknight: 140
+21: Renthedog: 136
+21: falsesymmetry: 114
+21: GoodTimeWithScar: 101
+21: PearlescentMoon: 59
+21: hypnotizd: 48
+21: GeminiTay: 39
+21: xBCrafted: 27
+Total 7677

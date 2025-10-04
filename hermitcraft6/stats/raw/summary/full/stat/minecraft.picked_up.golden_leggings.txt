@@ -1,0 +1,25 @@
+minecraft.picked_up.golden_leggings
+23: Xisuma: 36
+23: iskall85: 36
+23: iJevin: 33
+23: cubfan135: 31
+23: joehillssays: 24
+23: impulseSV: 24
+23: falsesymmetry: 22
+23: GoodTimeWithScar: 20
+23: Grian: 17
+23: Tango: 15
+23: MumboJumbo: 14
+23: Biffa2001: 13
+23: Zedaph: 13
+23: Docm77: 12
+23: Renthedog: 12
+23: PythonGB: 10
+23: ZombieCleo: 10
+23: Stressmonster101: 8
+23: Welsknight: 4
+23: BdoubleO100: 3
+23: xBCrafted: 3
+23: Tinfoilchef: 2
+23: Keralis1: 1
+Total 363

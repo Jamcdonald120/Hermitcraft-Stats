@@ -1,0 +1,13 @@
+minecraft.picked_up.crimson_hyphae
+11: Etho: 173
+11: Grian: 162
+11: GoodTimeWithScar: 155
+11: falsesymmetry: 133
+11: Tango: 29
+11: Renthedog: 19
+11: cubfan135: 19
+11: BdoubleO100: 15
+11: impulseSV: 15
+11: Xisuma: 8
+11: Zedaph: 2
+Total 730

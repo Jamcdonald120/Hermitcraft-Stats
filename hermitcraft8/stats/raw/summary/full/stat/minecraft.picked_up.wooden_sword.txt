@@ -1,0 +1,6 @@
+minecraft.picked_up.wooden_sword
+4: ZombieCleo: 6
+4: Tango: 2
+4: BdoubleO100: 2
+4: iJevin: 1
+Total 11

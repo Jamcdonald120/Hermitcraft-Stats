@@ -1,0 +1,10 @@
+minecraft.picked_up.stripped_jungle_wood
+8: PearlescentMoon: 72
+8: Keralis1: 60
+8: Grian: 20
+8: BdoubleO100: 15
+8: Etho: 12
+8: iskall85: 2
+8: GeminiTay: 1
+8: impulseSV: 1
+Total 183

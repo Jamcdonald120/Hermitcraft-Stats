@@ -1,0 +1,28 @@
+minecraft.picked_up.white_wool
+26: Etho: 17178
+26: joehillssays: 3657
+26: GoodTimeWithScar: 3482
+26: Grian: 3069
+26: Skizzleman: 2259
+26: iJevin: 1967
+26: Tango: 1192
+26: cubfan135: 1076
+26: ZombieCleo: 1069
+26: BdoubleO100: 911
+26: Docm77: 714
+26: PearlescentMoon: 681
+26: Xisuma: 431
+26: impulseSV: 427
+26: Renthedog: 408
+26: falsesymmetry: 328
+26: Smallishbeans: 195
+26: Keralis1: 179
+26: xBCrafted: 162
+26: hypnotizd: 156
+26: VintageBeef: 147
+26: Mumbo: 100
+26: Zedaph: 48
+26: GeminiTay: 19
+26: Welsknight: 13
+26: InTheLittleWood: 8
+Total 39876

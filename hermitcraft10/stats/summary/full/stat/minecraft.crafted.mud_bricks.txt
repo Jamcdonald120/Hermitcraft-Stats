@@ -1,0 +1,25 @@
+minecraft.crafted.mud_bricks
+23: PearlescentMoon: 6116
+23: Xisuma: 4892
+23: GoodTimeWithScar: 4228
+23: falsesymmetry: 2992
+23: Mumbo: 2232
+23: Welsknight: 1840
+23: Etho: 944
+23: Keralis1: 776
+23: ZombieCleo: 752
+23: VintageBeef: 642
+23: BdoubleO100: 600
+23: Grian: 452
+23: Tango: 436
+23: Smallishbeans: 432
+23: GeminiTay: 392
+23: Renthedog: 360
+23: Skizzleman: 320
+23: xBCrafted: 192
+23: Zedaph: 124
+23: Docm77: 112
+23: iJevin: 48
+23: hypnotizd: 4
+23: impulseSV: 4
+Total 28890

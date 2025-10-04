@@ -1,0 +1,17 @@
+minecraft.picked_up.flow_armor_trim_smithing_template
+15: PearlescentMoon: 64
+15: cubfan135: 28
+15: Xisuma: 27
+15: iJevin: 18
+15: Docm77: 17
+15: Renthedog: 11
+15: Etho: 10
+15: Grian: 9
+15: Tango: 8
+15: Keralis1: 3
+15: impulseSV: 3
+15: GeminiTay: 1
+15: Smallishbeans: 1
+15: xBCrafted: 1
+15: GoodTimeWithScar: 1
+Total 202

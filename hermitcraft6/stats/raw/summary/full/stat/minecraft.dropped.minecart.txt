@@ -1,0 +1,20 @@
+minecraft.dropped.minecart
+18: MumboJumbo: 108
+18: Tango: 64
+18: iskall85: 57
+18: Xisuma: 54
+18: Renthedog: 31
+18: impulseSV: 24
+18: GoodTimeWithScar: 22
+18: cubfan135: 16
+18: Grian: 15
+18: Docm77: 14
+18: Zedaph: 12
+18: falsesymmetry: 8
+18: Biffa2001: 6
+18: Stressmonster101: 5
+18: PythonGB: 4
+18: iJevin: 1
+18: ZombieCleo: 1
+18: Keralis1: 1
+Total 443

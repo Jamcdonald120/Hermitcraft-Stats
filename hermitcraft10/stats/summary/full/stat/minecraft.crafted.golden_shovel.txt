@@ -1,0 +1,6 @@
+minecraft.crafted.golden_shovel
+4: impulseSV: 8
+4: joehillssays: 1
+4: Welsknight: 1
+4: Mumbo: 1
+Total 11

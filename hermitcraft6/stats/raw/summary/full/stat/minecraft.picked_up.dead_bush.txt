@@ -1,0 +1,11 @@
+minecraft.picked_up.dead_bush
+9: falsesymmetry: 246
+9: BdoubleO100: 126
+9: iskall85: 113
+9: Docm77: 87
+9: cubfan135: 67
+9: MumboJumbo: 55
+9: Grian: 25
+9: Keralis1: 10
+9: Stressmonster101: 1
+Total 730

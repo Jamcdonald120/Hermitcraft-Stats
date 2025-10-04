@@ -1,0 +1,24 @@
+minecraft.dropped.leather
+22: Etho: 3674
+22: iJevin: 1336
+22: Tango: 379
+22: Grian: 227
+22: Renthedog: 206
+22: cubfan135: 156
+22: Xisuma: 141
+22: falsesymmetry: 133
+22: Keralis1: 123
+22: Smallishbeans: 67
+22: PearlescentMoon: 64
+22: Mumbo: 64
+22: impulseSV: 55
+22: joehillssays: 41
+22: xBCrafted: 32
+22: GoodTimeWithScar: 30
+22: Docm77: 25
+22: BdoubleO100: 20
+22: hypnotizd: 17
+22: VintageBeef: 15
+22: ZombieCleo: 12
+22: Zedaph: 11
+Total 6828

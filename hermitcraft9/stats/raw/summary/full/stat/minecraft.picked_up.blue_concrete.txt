@@ -1,0 +1,21 @@
+minecraft.picked_up.blue_concrete
+19: ZombieCleo: 394
+19: Docm77: 385
+19: GoodTimeWithScar: 326
+19: cubfan135: 309
+19: PearlescentMoon: 271
+19: Grian: 207
+19: Keralis1: 147
+19: impulseSV: 89
+19: joehillssays: 85
+19: Xisuma: 41
+19: Smallishbeans: 15
+19: Skizzleman: 14
+19: xBCrafted: 12
+19: Etho: 8
+19: Tango: 7
+19: VintageBeef: 2
+19: falsesymmetry: 2
+19: Zedaph: 2
+19: SolidarityGaming: 1
+Total 2317

@@ -1,0 +1,36 @@
+minecraft.picked_up.cooked_beef
+34: Etho: 4709
+34: iJevin: 4037
+34: joehillssays: 1466
+34: GoodTimeWithScar: 1253
+34: PearlescentMoon: 1252
+34: BdoubleO100: 973
+34: Smallishbeans: 931
+34: GeminiTay: 790
+34: Mumbo: 774
+34: Renthedog: 639
+34: Skizzleman: 507
+34: Tango: 502
+34: cubfan135: 484
+34: ZombieCleo: 452
+34: Keralis1: 409
+34: impulseSV: 306
+34: SolidarityGaming: 225
+34: Grian: 200
+34: falsesymmetry: 185
+34: Xisuma: 176
+34: Smajor1995: 173
+34: hypnotizd: 172
+34: Zedaph: 135
+34: Docm77: 107
+34: F1RECRACKR: 106
+34: InTheLittleWood: 95
+34: JamalMC_: 90
+34: xBCrafted: 63
+34: OrionSound: 59
+34: Welsknight: 54
+34: aimsey: 40
+34: VintageBeef: 19
+34: belmarzi: 18
+34: Couriway: 4
+Total 21405

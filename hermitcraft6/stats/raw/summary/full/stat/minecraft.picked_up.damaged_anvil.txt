@@ -1,0 +1,20 @@
+minecraft.picked_up.damaged_anvil
+18: Xisuma: 41
+18: cubfan135: 41
+18: falsesymmetry: 27
+18: Stressmonster101: 24
+18: GoodTimeWithScar: 18
+18: impulseSV: 16
+18: Docm77: 13
+18: Grian: 13
+18: Renthedog: 11
+18: iskall85: 11
+18: iJevin: 10
+18: Tango: 8
+18: joehillssays: 7
+18: PythonGB: 4
+18: Biffa2001: 3
+18: Welsknight: 2
+18: Tinfoilchef: 2
+18: Zedaph: 1
+Total 252

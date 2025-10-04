@@ -1,0 +1,9 @@
+minecraft.dropped.stripped_warped_stem
+7: Tango: 847
+7: falsesymmetry: 305
+7: impulseSV: 22
+7: Smajor1995: 8
+7: Keralis1: 5
+7: MythicalSausage: 3
+7: PearlescentMoon: 2
+Total 1192

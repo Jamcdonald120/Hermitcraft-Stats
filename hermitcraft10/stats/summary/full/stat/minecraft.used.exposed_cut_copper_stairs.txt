@@ -1,0 +1,4 @@
+minecraft.used.exposed_cut_copper_stairs
+2: Tango: 15
+2: falsesymmetry: 5
+Total 20

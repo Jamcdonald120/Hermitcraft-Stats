@@ -1,0 +1,12 @@
+minecraft.picked_up.blackstone_wall
+10: Smallishbeans: 185
+10: Skizzleman: 95
+10: Grian: 23
+10: GeminiTay: 10
+10: falsesymmetry: 5
+10: Keralis1: 3
+10: iJevin: 2
+10: GoodTimeWithScar: 2
+10: Tango: 1
+10: impulseSV: 1
+Total 327

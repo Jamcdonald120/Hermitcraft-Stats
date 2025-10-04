@@ -1,0 +1,21 @@
+minecraft.dropped.chiseled_tuff_bricks
+19: Renthedog: 86
+19: impulseSV: 84
+19: Docm77: 78
+19: falsesymmetry: 77
+19: cubfan135: 71
+19: Xisuma: 55
+19: iJevin: 43
+19: BdoubleO100: 40
+19: Grian: 38
+19: PearlescentMoon: 35
+19: Etho: 20
+19: Skizzleman: 18
+19: GoodTimeWithScar: 15
+19: GeminiTay: 12
+19: Tango: 8
+19: xBCrafted: 8
+19: Keralis1: 8
+19: Smallishbeans: 6
+19: ZombieCleo: 3
+Total 705

@@ -1,0 +1,30 @@
+minecraft.picked_up.birch_leaves
+28: joehillssays: 16544
+28: GoodTimeWithScar: 11368
+28: VintageBeef: 7370
+28: BdoubleO100: 6128
+28: falsesymmetry: 3898
+28: GeminiTay: 2346
+28: cubfan135: 2255
+28: iJevin: 1925
+28: RentheKing: 1185
+28: PearlescentMoon: 1035
+28: Docm77: 918
+28: Etho: 676
+28: Stressmonster101: 604
+28: Smallishbeans: 508
+28: Grian: 498
+28: Keralis1: 414
+28: MythicalSausage: 390
+28: xBCrafted: 315
+28: iskall85: 252
+28: Xisuma: 170
+28: ZombieCleo: 170
+28: Renthedog: 119
+28: impulseSV: 70
+28: SolidarityGaming: 64
+28: Tango: 29
+28: hypnotizd: 27
+28: Mumbo: 15
+28: Zedaph: 3
+Total 59296

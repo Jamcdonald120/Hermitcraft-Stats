@@ -1,0 +1,4 @@
+minecraft.dropped.red_shulker_box
+2: PearlescentMoon: 3
+2: iskall85: 1
+Total 4

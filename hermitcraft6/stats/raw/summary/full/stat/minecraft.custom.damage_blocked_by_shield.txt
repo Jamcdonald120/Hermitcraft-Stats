@@ -1,0 +1,20 @@
+minecraft.custom.damage_blocked_by_shield
+18: cubfan135: 72621
+18: GoodTimeWithScar: 9590
+18: Grian: 9270
+18: Renthedog: 5850
+18: impulseSV: 5710
+18: Docm77: 3510
+18: ZombieCleo: 3040
+18: falsesymmetry: 2965
+18: Tango: 2280
+18: Zedaph: 2040
+18: Xisuma: 1225
+18: Keralis1: 1160
+18: iskall85: 760
+18: PythonGB: 636
+18: MumboJumbo: 520
+18: Stressmonster101: 180
+18: Biffa2001: 130
+18: xBCrafted: 115
+Total 121602

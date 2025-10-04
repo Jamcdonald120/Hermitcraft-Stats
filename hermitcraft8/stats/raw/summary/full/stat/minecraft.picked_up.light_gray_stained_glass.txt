@@ -1,0 +1,18 @@
+minecraft.picked_up.light_gray_stained_glass
+16: Grian: 329
+16: ZombieCleo: 125
+16: Etho: 70
+16: iskall85: 66
+16: GoodTimeWithScar: 62
+16: iJevin: 56
+16: impulseSV: 48
+16: PearlescentMoon: 36
+16: BdoubleO100: 33
+16: falsesymmetry: 25
+16: Renthedog: 23
+16: EvilXisuma: 18
+16: GeminiTay: 3
+16: Xisuma: 2
+16: MumboJumbo: 2
+16: Zedaph: 2
+Total 900

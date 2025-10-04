@@ -1,0 +1,25 @@
+minecraft.dropped.iron_pickaxe
+23: Zedaph: 15
+23: hypnotizd: 14
+23: Grian: 8
+23: iJevin: 7
+23: Etho: 7
+23: impulseSV: 7
+23: PearlescentMoon: 6
+23: GeminiTay: 4
+23: Tango: 3
+23: Mumbo: 3
+23: MumboJumbo: 3
+23: Docm77: 2
+23: Renthedog: 2
+23: MythicalSausage: 2
+23: iskall85: 2
+23: Keralis1: 2
+23: Xisuma: 1
+23: joehillssays: 1
+23: xBCrafted: 1
+23: falsesymmetry: 1
+23: cubfan135: 1
+23: Welsknight: 1
+23: GoodTimeWithScar: 1
+Total 94

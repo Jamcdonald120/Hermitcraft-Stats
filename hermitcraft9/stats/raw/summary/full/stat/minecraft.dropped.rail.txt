@@ -1,0 +1,26 @@
+minecraft.dropped.rail
+24: iJevin: 2180
+24: Grian: 1436
+24: Stressmonster101: 415
+24: Tango: 362
+24: impulseSV: 234
+24: cubfan135: 215
+24: iskall85: 157
+24: Keralis1: 150
+24: joehillssays: 128
+24: Renthedog: 76
+24: Zedaph: 66
+24: falsesymmetry: 53
+24: GoodTimeWithScar: 51
+24: Etho: 42
+24: BdoubleO100: 41
+24: Xisuma: 38
+24: Docm77: 28
+24: SolidarityGaming: 20
+24: Welsknight: 16
+24: xBCrafted: 15
+24: VintageBeef: 11
+24: PearlescentMoon: 8
+24: ZombieCleo: 5
+24: GeminiTay: 2
+Total 5749

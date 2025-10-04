@@ -1,0 +1,4 @@
+minecraft.mined.prismarine_brick_slab
+2: Xisuma: 85
+2: MumboJumbo: 2
+Total 87

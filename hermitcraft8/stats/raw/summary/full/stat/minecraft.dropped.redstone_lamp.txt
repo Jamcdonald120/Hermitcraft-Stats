@@ -1,0 +1,7 @@
+minecraft.dropped.redstone_lamp
+5: iJevin: 12
+5: Etho: 4
+5: impulseSV: 4
+5: ZombieCleo: 2
+5: Zedaph: 1
+Total 23

@@ -1,0 +1,11 @@
+minecraft.crafted.nether_brick
+9: PearlescentMoon: 2745
+9: VintageBeef: 1371
+9: Tango: 862
+9: Xisuma: 737
+9: Renthedog: 573
+9: Etho: 450
+9: Keralis1: 297
+9: ZombieCleo: 64
+9: iJevin: 32
+Total 7131

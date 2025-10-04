@@ -1,0 +1,10 @@
+minecraft.custom.trigger_trapped_chest
+8: hypnotizd: 199
+8: cubfan135: 118
+8: VintageBeef: 68
+8: Welsknight: 52
+8: Etho: 41
+8: Helsknight: 4
+8: iskall85: 1
+8: MumboJumbo: 1
+Total 484

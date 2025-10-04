@@ -1,0 +1,17 @@
+minecraft.picked_up.purple_terracotta
+15: VintageBeef: 989
+15: PearlescentMoon: 821
+15: Stressmonster101: 691
+15: impulseSV: 306
+15: BdoubleO100: 207
+15: Grian: 203
+15: falsesymmetry: 171
+15: Etho: 85
+15: GeminiTay: 28
+15: GoodTimeWithScar: 21
+15: Docm77: 14
+15: Tango: 9
+15: Zedaph: 7
+15: cubfan135: 6
+15: joehillssays: 2
+Total 3560

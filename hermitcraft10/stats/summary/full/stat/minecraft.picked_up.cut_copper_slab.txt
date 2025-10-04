@@ -1,0 +1,14 @@
+minecraft.picked_up.cut_copper_slab
+12: Grian: 190
+12: falsesymmetry: 160
+12: Tango: 109
+12: Renthedog: 89
+12: cubfan135: 89
+12: ZombieCleo: 18
+12: GoodTimeWithScar: 9
+12: VintageBeef: 7
+12: BdoubleO100: 7
+12: Keralis1: 5
+12: Mumbo: 2
+12: hypnotizd: 1
+Total 686

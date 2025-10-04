@@ -1,0 +1,22 @@
+minecraft.picked_up.oxidized_copper_trapdoor
+20: Xisuma: 2807
+20: Keralis1: 507
+20: Tango: 474
+20: Renthedog: 336
+20: Etho: 296
+20: GoodTimeWithScar: 261
+20: impulseSV: 231
+20: ZombieCleo: 179
+20: Smallishbeans: 151
+20: PearlescentMoon: 132
+20: BdoubleO100: 96
+20: Docm77: 91
+20: joehillssays: 87
+20: falsesymmetry: 82
+20: cubfan135: 35
+20: Mumbo: 34
+20: Grian: 11
+20: GeminiTay: 4
+20: iJevin: 3
+20: VintageBeef: 1
+Total 5818

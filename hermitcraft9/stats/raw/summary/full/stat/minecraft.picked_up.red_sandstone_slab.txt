@@ -1,0 +1,6 @@
+minecraft.picked_up.red_sandstone_slab
+4: Xisuma: 3
+4: Zedaph: 3
+4: cubfan135: 2
+4: Keralis1: 2
+Total 10

@@ -1,0 +1,30 @@
+minecraft.picked_up.coarse_dirt
+28: Keralis1: 5864
+28: PearlescentMoon: 4804
+28: hypnotizd: 1777
+28: falsesymmetry: 1527
+28: Tango: 1374
+28: GoodTimeWithScar: 934
+28: iJevin: 692
+28: cubfan135: 552
+28: Grian: 469
+28: Docm77: 376
+28: ZombieCleo: 336
+28: Xisuma: 282
+28: Etho: 260
+28: Zedaph: 219
+28: iskall85: 157
+28: Stressmonster101: 140
+28: GeminiTay: 108
+28: VintageBeef: 99
+28: Renthedog: 84
+28: joehillssays: 79
+28: MythicalSausage: 65
+28: impulseSV: 60
+28: RentheKing: 55
+28: xBCrafted: 50
+28: BdoubleO100: 18
+28: Mumbo: 6
+28: OrionSound: 1
+28: HBomb94: 1
+Total 20389

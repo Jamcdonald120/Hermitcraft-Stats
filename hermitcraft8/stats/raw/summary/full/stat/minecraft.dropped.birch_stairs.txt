@@ -1,0 +1,5 @@
+minecraft.dropped.birch_stairs
+3: GoodTimeWithScar: 29
+3: Renthedog: 3
+3: falsesymmetry: 1
+Total 33

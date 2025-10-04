@@ -1,0 +1,30 @@
+minecraft.custom.talked_to_villager
+28: Grian: 18040
+28: GoodTimeWithScar: 9705
+28: Keralis1: 6301
+28: Xisuma: 5536
+28: PearlescentMoon: 4080
+28: iJevin: 3264
+28: Stressmonster101: 3225
+28: cubfan135: 1394
+28: BdoubleO100: 1260
+28: Zedaph: 1175
+28: iskall85: 521
+28: hypnotizd: 516
+28: Etho: 268
+28: GeminiTay: 162
+28: MumboJumbo: 157
+28: impulseSV: 132
+28: Tango: 123
+28: Docm77: 79
+28: Welsknight: 49
+28: xBCrafted: 43
+28: joehillssays: 20
+28: falsesymmetry: 20
+28: VintageBeef: 8
+28: Renthedog: 6
+28: EvilXisuma: 5
+28: ZombieCleo: 3
+28: pillbugnine: 1
+28: Tinfoilchef: 1
+Total 56094

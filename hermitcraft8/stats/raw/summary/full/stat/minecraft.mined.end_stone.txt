@@ -1,0 +1,23 @@
+minecraft.mined.end_stone
+21: impulseSV: 2310
+21: iJevin: 1787
+21: xBCrafted: 692
+21: VintageBeef: 619
+21: cubfan135: 545
+21: Docm77: 373
+21: MumboJumbo: 287
+21: Etho: 206
+21: Grian: 204
+21: Xisuma: 181
+21: Welsknight: 131
+21: ZombieCleo: 116
+21: joehillssays: 99
+21: GeminiTay: 80
+21: Keralis1: 60
+21: Tango: 32
+21: Zedaph: 20
+21: GoodTimeWithScar: 7
+21: Renthedog: 4
+21: falsesymmetry: 3
+21: PearlescentMoon: 2
+Total 7758

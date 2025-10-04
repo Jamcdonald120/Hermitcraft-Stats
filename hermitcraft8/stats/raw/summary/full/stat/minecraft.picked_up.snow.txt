@@ -1,0 +1,17 @@
+minecraft.picked_up.snow
+15: PearlescentMoon: 23505
+15: GoodTimeWithScar: 9548
+15: cubfan135: 5243
+15: impulseSV: 4232
+15: Grian: 1795
+15: Tango: 822
+15: Etho: 314
+15: Keralis1: 240
+15: BdoubleO100: 128
+15: VintageBeef: 49
+15: Renthedog: 30
+15: MumboJumbo: 15
+15: hypnotizd: 9
+15: Welsknight: 5
+15: Docm77: 1
+Total 45936

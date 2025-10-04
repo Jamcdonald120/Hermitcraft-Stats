@@ -1,0 +1,17 @@
+minecraft.picked_up.stripped_jungle_wood
+15: BdoubleO100: 173
+15: Grian: 154
+15: RentheKing: 96
+15: Renthedog: 36
+15: falsesymmetry: 36
+15: Keralis1: 35
+15: GoodTimeWithScar: 34
+15: Docm77: 23
+15: PearlescentMoon: 22
+15: cubfan135: 17
+15: Etho: 12
+15: hypnotizd: 5
+15: impulseSV: 2
+15: Xisuma: 1
+15: Zedaph: 1
+Total 647

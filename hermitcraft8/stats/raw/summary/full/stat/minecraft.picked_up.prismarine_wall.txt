@@ -1,0 +1,8 @@
+minecraft.picked_up.prismarine_wall
+6: Xisuma: 16
+6: xBCrafted: 15
+6: MumboJumbo: 14
+6: Docm77: 1
+6: GeminiTay: 1
+6: BdoubleO100: 1
+Total 48

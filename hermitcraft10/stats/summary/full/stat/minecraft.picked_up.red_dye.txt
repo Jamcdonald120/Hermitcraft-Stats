@@ -1,0 +1,28 @@
+minecraft.picked_up.red_dye
+26: cubfan135: 506
+26: falsesymmetry: 232
+26: Renthedog: 227
+26: Keralis1: 145
+26: Grian: 112
+26: PearlescentMoon: 103
+26: Skizzleman: 90
+26: Etho: 65
+26: joehillssays: 39
+26: Welsknight: 36
+26: VintageBeef: 25
+26: iJevin: 25
+26: GoodTimeWithScar: 20
+26: ZombieCleo: 18
+26: Smallishbeans: 12
+26: Docm77: 10
+26: OrionSound: 9
+26: impulseSV: 9
+26: BdoubleO100: 8
+26: SolidarityGaming: 6
+26: GeminiTay: 5
+26: Zedaph: 3
+26: Tango: 2
+26: hypnotizd: 2
+26: xBCrafted: 1
+26: Mumbo: 1
+Total 1711

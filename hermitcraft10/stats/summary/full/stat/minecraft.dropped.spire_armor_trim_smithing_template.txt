@@ -1,0 +1,5 @@
+minecraft.dropped.spire_armor_trim_smithing_template
+3: iJevin: 5
+3: Xisuma: 1
+3: cubfan135: 1
+Total 7

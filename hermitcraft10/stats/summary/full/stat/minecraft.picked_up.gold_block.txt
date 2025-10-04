@@ -1,0 +1,26 @@
+minecraft.picked_up.gold_block
+24: iJevin: 2798
+24: Renthedog: 1037
+24: Smallishbeans: 1021
+24: impulseSV: 673
+24: Docm77: 542
+24: cubfan135: 437
+24: Mumbo: 373
+24: Grian: 308
+24: Xisuma: 284
+24: PearlescentMoon: 205
+24: hypnotizd: 201
+24: joehillssays: 198
+24: VintageBeef: 170
+24: Keralis1: 141
+24: Etho: 106
+24: xBCrafted: 89
+24: GoodTimeWithScar: 86
+24: Tango: 21
+24: Skizzleman: 12
+24: GeminiTay: 8
+24: Zedaph: 4
+24: ZombieCleo: 3
+24: BdoubleO100: 2
+24: falsesymmetry: 2
+Total 8721

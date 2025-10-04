@@ -1,0 +1,6 @@
+minecraft.crafted.cactus
+4: Keralis1: 10
+4: Renthedog: 8
+4: falsesymmetry: 8
+4: xBCrafted: 4
+Total 30

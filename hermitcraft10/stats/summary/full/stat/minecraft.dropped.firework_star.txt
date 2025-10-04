@@ -1,0 +1,4 @@
+minecraft.dropped.firework_star
+2: Etho: 64
+2: cubfan135: 1
+Total 65

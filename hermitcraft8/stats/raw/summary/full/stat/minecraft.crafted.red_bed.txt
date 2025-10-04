@@ -1,0 +1,17 @@
+minecraft.crafted.red_bed
+15: Tango: 40
+15: Keralis1: 21
+15: cubfan135: 6
+15: Xisuma: 5
+15: impulseSV: 5
+15: hypnotizd: 4
+15: falsesymmetry: 3
+15: ZombieCleo: 3
+15: Renthedog: 2
+15: Welsknight: 2
+15: VintageBeef: 1
+15: Grian: 1
+15: BdoubleO100: 1
+15: PearlescentMoon: 1
+15: iskall85: 1
+Total 96

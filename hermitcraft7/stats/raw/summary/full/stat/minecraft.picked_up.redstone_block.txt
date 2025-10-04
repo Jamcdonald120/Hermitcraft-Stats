@@ -1,0 +1,26 @@
+minecraft.picked_up.redstone_block
+24: iJevin: 2168
+24: Tango: 1233
+24: cubfan135: 1068
+24: VintageBeef: 1029
+24: Renthedog: 666
+24: Zedaph: 592
+24: Etho: 556
+24: Grian: 538
+24: iskall85: 524
+24: impulseSV: 439
+24: hypnotizd: 400
+24: MumboJumbo: 380
+24: Xisuma: 372
+24: GoodTimeWithScar: 268
+24: Stressmonster101: 222
+24: Keralis1: 216
+24: Docm77: 200
+24: BdoubleO100: 138
+24: falsesymmetry: 131
+24: xBCrafted: 76
+24: Welsknight: 70
+24: ZombieCleo: 37
+24: joehillssays: 21
+24: Tinfoilchef: 3
+Total 11347

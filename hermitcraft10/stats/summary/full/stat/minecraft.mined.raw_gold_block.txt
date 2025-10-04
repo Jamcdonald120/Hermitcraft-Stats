@@ -1,0 +1,11 @@
+minecraft.mined.raw_gold_block
+9: cubfan135: 127
+9: ZombieCleo: 16
+9: Etho: 12
+9: Mumbo: 8
+9: GoodTimeWithScar: 4
+9: joehillssays: 3
+9: iJevin: 2
+9: Smallishbeans: 1
+9: PearlescentMoon: 1
+Total 174

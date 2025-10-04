@@ -1,0 +1,4 @@
+minecraft.dropped.oak_wood
+2: PearlescentMoon: 64
+2: Keralis1: 1
+Total 65

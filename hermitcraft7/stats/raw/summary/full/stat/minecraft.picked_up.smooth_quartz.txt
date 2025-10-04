@@ -1,0 +1,23 @@
+minecraft.picked_up.smooth_quartz
+21: cubfan135: 4035
+21: impulseSV: 3410
+21: GoodTimeWithScar: 1283
+21: Tango: 890
+21: Zedaph: 743
+21: Keralis1: 630
+21: Grian: 499
+21: VintageBeef: 388
+21: iJevin: 309
+21: Xisuma: 273
+21: ZombieCleo: 206
+21: BdoubleO100: 186
+21: falsesymmetry: 159
+21: Etho: 148
+21: Welsknight: 103
+21: joehillssays: 99
+21: xBCrafted: 44
+21: Docm77: 42
+21: MumboJumbo: 15
+21: hypnotizd: 3
+21: Renthedog: 1
+Total 13466

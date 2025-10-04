@@ -1,0 +1,24 @@
+minecraft.crafted.diamond_block
+22: iJevin: 2353
+22: GoodTimeWithScar: 994
+22: cubfan135: 921
+22: Xisuma: 696
+22: iskall85: 652
+22: Grian: 651
+22: Tinfoilchef: 575
+22: impulseSV: 428
+22: Tango: 424
+22: falsesymmetry: 271
+22: PythonGB: 264
+22: Renthedog: 220
+22: Biffa2001: 187
+22: Docm77: 178
+22: Welsknight: 121
+22: Stressmonster101: 59
+22: MumboJumbo: 47
+22: Zedaph: 42
+22: BdoubleO100: 36
+22: ZombieCleo: 25
+22: joehillssays: 5
+22: xBCrafted: 2
+Total 9151

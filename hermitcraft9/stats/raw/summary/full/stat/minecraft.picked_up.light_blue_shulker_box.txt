@@ -1,0 +1,34 @@
+minecraft.picked_up.light_blue_shulker_box
+32: iJevin: 9814
+32: Renthedog: 2510
+32: RentheKing: 1049
+32: Tango: 774
+32: PearlescentMoon: 662
+32: cubfan135: 617
+32: joehillssays: 526
+32: BdoubleO100: 289
+32: impulseSV: 203
+32: Etho: 196
+32: falsesymmetry: 183
+32: GeminiTay: 119
+32: Docm77: 94
+32: Xisuma: 82
+32: ZombieCleo: 71
+32: MythicalSausage: 68
+32: Pixlriffs: 59
+32: Mumbo: 41
+32: hypnotizd: 27
+32: Zedaph: 23
+32: Keralis1: 21
+32: Grian: 20
+32: VintageBeef: 17
+32: Welsknight: 12
+32: Smallishbeans: 9
+32: iskall85: 9
+32: GoodTimeWithScar: 8
+32: xBCrafted: 7
+32: SolidarityGaming: 7
+32: ShubbleYT: 4
+32: OrionSound: 2
+32: Stressmonster101: 1
+Total 17524

@@ -1,0 +1,12 @@
+minecraft.picked_up.brown_carpet
+10: Tango: 226
+10: PearlescentMoon: 144
+10: Welsknight: 59
+10: GoodTimeWithScar: 50
+10: impulseSV: 34
+10: falsesymmetry: 23
+10: BdoubleO100: 12
+10: Renthedog: 7
+10: Keralis1: 2
+10: Grian: 1
+Total 558

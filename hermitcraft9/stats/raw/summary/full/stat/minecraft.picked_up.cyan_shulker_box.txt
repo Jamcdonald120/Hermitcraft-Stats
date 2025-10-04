@@ -1,0 +1,35 @@
+minecraft.picked_up.cyan_shulker_box
+33: cubfan135: 1342
+33: PearlescentMoon: 853
+33: ZombieCleo: 801
+33: joehillssays: 648
+33: falsesymmetry: 423
+33: GoodTimeWithScar: 417
+33: Tango: 291
+33: Etho: 285
+33: GeminiTay: 281
+33: xBCrafted: 240
+33: BdoubleO100: 196
+33: Keralis1: 188
+33: iJevin: 187
+33: Docm77: 181
+33: VintageBeef: 168
+33: Xisuma: 150
+33: Grian: 143
+33: hypnotizd: 135
+33: Renthedog: 131
+33: iskall85: 95
+33: impulseSV: 85
+33: Zedaph: 73
+33: Mumbo: 56
+33: RentheKing: 42
+33: HBomb94: 9
+33: Smallishbeans: 7
+33: InTheLittleWood: 7
+33: Pixlriffs: 6
+33: Skizzleman: 5
+33: LDShadowLady: 4
+33: Stressmonster101: 3
+33: Minerva246: 2
+33: SolidarityGaming: 1
+Total 7455

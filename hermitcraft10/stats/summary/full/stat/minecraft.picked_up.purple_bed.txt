@@ -1,0 +1,18 @@
+minecraft.picked_up.purple_bed
+16: ZombieCleo: 107
+16: Docm77: 70
+16: cubfan135: 48
+16: joehillssays: 38
+16: iJevin: 32
+16: falsesymmetry: 22
+16: Grian: 12
+16: Renthedog: 9
+16: GoodTimeWithScar: 9
+16: xBCrafted: 5
+16: PearlescentMoon: 4
+16: Welsknight: 3
+16: Keralis1: 3
+16: Zedaph: 2
+16: VintageBeef: 1
+16: impulseSV: 1
+Total 366

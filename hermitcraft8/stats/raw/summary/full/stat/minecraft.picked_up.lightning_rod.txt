@@ -1,0 +1,22 @@
+minecraft.picked_up.lightning_rod
+20: GoodTimeWithScar: 363
+20: Keralis1: 68
+20: Docm77: 66
+20: VintageBeef: 60
+20: joehillssays: 45
+20: cubfan135: 45
+20: impulseSV: 30
+20: PearlescentMoon: 29
+20: iskall85: 27
+20: Etho: 27
+20: Grian: 26
+20: BdoubleO100: 24
+20: Tango: 20
+20: Xisuma: 18
+20: Tinfoilchef: 12
+20: ZombieCleo: 4
+20: iJevin: 3
+20: Renthedog: 2
+20: EvilXisuma: 1
+20: Zedaph: 1
+Total 871

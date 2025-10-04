@@ -1,0 +1,36 @@
+minecraft.picked_up.diamond_shovel
+34: GoodTimeWithScar: 204
+34: iJevin: 79
+34: Grian: 79
+34: Tango: 68
+34: joehillssays: 62
+34: Docm77: 61
+34: Renthedog: 59
+34: Zedaph: 58
+34: ZombieCleo: 54
+34: PearlescentMoon: 35
+34: Keralis1: 33
+34: Etho: 26
+34: RentheKing: 21
+34: Xisuma: 19
+34: BdoubleO100: 18
+34: GeminiTay: 15
+34: VintageBeef: 14
+34: cubfan135: 13
+34: iskall85: 12
+34: xBCrafted: 11
+34: Mumbo: 11
+34: OrionSound: 9
+34: MythicalSausage: 9
+34: Smallishbeans: 8
+34: impulseSV: 8
+34: Smajor1995: 7
+34: hypnotizd: 7
+34: falsesymmetry: 6
+34: Stressmonster101: 6
+34: Pixlriffs: 2
+34: Welsknight: 2
+34: Minerva246: 1
+34: Watcher_Grian: 1
+34: SolidarityGaming: 1
+Total 1019

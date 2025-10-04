@@ -1,0 +1,17 @@
+minecraft.dropped.light_gray_stained_glass
+15: Etho: 136
+15: falsesymmetry: 64
+15: Grian: 53
+15: iJevin: 20
+15: Tango: 17
+15: PearlescentMoon: 9
+15: Xisuma: 6
+15: ZombieCleo: 3
+15: impulseSV: 3
+15: Docm77: 2
+15: Mumbo: 2
+15: joehillssays: 1
+15: Smallishbeans: 1
+15: cubfan135: 1
+15: GoodTimeWithScar: 1
+Total 319

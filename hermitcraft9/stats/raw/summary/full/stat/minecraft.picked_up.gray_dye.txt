@@ -1,0 +1,13 @@
+minecraft.picked_up.gray_dye
+11: falsesymmetry: 410
+11: iJevin: 189
+11: Grian: 134
+11: Tango: 128
+11: PearlescentMoon: 96
+11: GoodTimeWithScar: 88
+11: Renthedog: 74
+11: cubfan135: 50
+11: Keralis1: 18
+11: Zedaph: 5
+11: impulseSV: 1
+Total 1193

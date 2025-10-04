@@ -1,0 +1,27 @@
+minecraft.dropped.diamond_sword
+25: cubfan135: 31
+25: Docm77: 29
+25: iskall85: 29
+25: Grian: 23
+25: Tango: 19
+25: GoodTimeWithScar: 19
+25: MumboJumbo: 15
+25: iJevin: 14
+25: Xisuma: 13
+25: Stressmonster101: 13
+25: Renthedog: 6
+25: PythonGB: 6
+25: Tinfoilchef: 6
+25: Zedaph: 6
+25: falsesymmetry: 5
+25: ZombieCleo: 4
+25: Welsknight: 3
+25: BdoubleO100: 2
+25: Biffa2001: 2
+25: BadTimeWithScar: 2
+25: impulseSV: 2
+25: EvilXisuma: 1
+25: Jura_Whitey: 1
+25: joehillssays: 1
+25: Keralis1: 1
+Total 253

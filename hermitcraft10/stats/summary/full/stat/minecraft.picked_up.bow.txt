@@ -1,0 +1,29 @@
+minecraft.picked_up.bow
+27: Grian: 680
+27: GoodTimeWithScar: 595
+27: Keralis1: 352
+27: cubfan135: 346
+27: BdoubleO100: 322
+27: iJevin: 264
+27: Tango: 237
+27: Renthedog: 228
+27: Etho: 212
+27: Xisuma: 210
+27: ZombieCleo: 189
+27: PearlescentMoon: 178
+27: xBCrafted: 166
+27: Skizzleman: 164
+27: impulseSV: 149
+27: Docm77: 117
+27: hypnotizd: 116
+27: falsesymmetry: 98
+27: Zedaph: 85
+27: VintageBeef: 76
+27: GeminiTay: 76
+27: Mumbo: 61
+27: Smallishbeans: 46
+27: joehillssays: 33
+27: Welsknight: 19
+27: SolidarityGaming: 2
+27: Smajor1995: 1
+Total 5022

@@ -1,0 +1,24 @@
+minecraft.picked_up.light_blue_concrete
+22: Tango: 4714
+22: Renthedog: 4180
+22: impulseSV: 4065
+22: Keralis1: 1705
+22: Stressmonster101: 1553
+22: falsesymmetry: 1498
+22: cubfan135: 694
+22: iJevin: 488
+22: MumboJumbo: 460
+22: Zedaph: 452
+22: VintageBeef: 261
+22: iskall85: 195
+22: Grian: 119
+22: Xisuma: 118
+22: BdoubleO100: 99
+22: GoodTimeWithScar: 90
+22: joehillssays: 69
+22: Etho: 28
+22: hypnotizd: 13
+22: ZombieCleo: 10
+22: Welsknight: 2
+22: xBCrafted: 1
+Total 20814

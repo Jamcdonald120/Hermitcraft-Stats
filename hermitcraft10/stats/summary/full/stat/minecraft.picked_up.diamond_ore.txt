@@ -1,0 +1,21 @@
+minecraft.picked_up.diamond_ore
+19: GoodTimeWithScar: 41
+19: Keralis1: 28
+19: iJevin: 25
+19: Renthedog: 23
+19: Xisuma: 18
+19: Docm77: 14
+19: Smallishbeans: 12
+19: PearlescentMoon: 11
+19: Etho: 8
+19: Grian: 5
+19: falsesymmetry: 4
+19: cubfan135: 4
+19: Mumbo: 4
+19: hypnotizd: 4
+19: VintageBeef: 2
+19: Tango: 2
+19: xBCrafted: 2
+19: ZombieCleo: 2
+19: impulseSV: 1
+Total 210

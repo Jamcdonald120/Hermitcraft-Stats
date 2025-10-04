@@ -1,0 +1,5 @@
+minecraft.picked_up.end_stone_brick_stairs
+3: Xisuma: 129
+3: cubfan135: 68
+3: Grian: 2
+Total 199

@@ -1,0 +1,4 @@
+minecraft.mined.magenta_wall_banner
+2: Keralis1: 2
+2: ZombieCleo: 1
+Total 3

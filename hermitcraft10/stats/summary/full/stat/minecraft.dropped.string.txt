@@ -1,0 +1,27 @@
+minecraft.dropped.string
+25: Etho: 4488
+25: Zedaph: 2911
+25: Mumbo: 1316
+25: iJevin: 1079
+25: Grian: 862
+25: GoodTimeWithScar: 761
+25: Tango: 757
+25: impulseSV: 599
+25: cubfan135: 570
+25: Keralis1: 556
+25: Xisuma: 500
+25: joehillssays: 244
+25: Docm77: 223
+25: BdoubleO100: 212
+25: Renthedog: 208
+25: xBCrafted: 196
+25: VintageBeef: 141
+25: hypnotizd: 136
+25: falsesymmetry: 107
+25: ZombieCleo: 73
+25: PearlescentMoon: 67
+25: Skizzleman: 33
+25: Smallishbeans: 33
+25: GeminiTay: 23
+25: HBomb94: 1
+Total 16096

@@ -1,0 +1,23 @@
+minecraft.picked_up.compass
+21: Grian: 183
+21: Renthedog: 172
+21: iJevin: 146
+21: Skizzleman: 132
+21: ZombieCleo: 128
+21: BdoubleO100: 109
+21: PearlescentMoon: 107
+21: Etho: 107
+21: Tango: 78
+21: impulseSV: 65
+21: Zedaph: 65
+21: falsesymmetry: 57
+21: Xisuma: 48
+21: joehillssays: 38
+21: cubfan135: 12
+21: Docm77: 6
+21: Keralis1: 6
+21: GoodTimeWithScar: 4
+21: VintageBeef: 2
+21: GeminiTay: 1
+21: xBCrafted: 1
+Total 1467

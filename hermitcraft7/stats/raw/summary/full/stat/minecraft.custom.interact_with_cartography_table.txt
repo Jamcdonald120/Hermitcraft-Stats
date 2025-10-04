@@ -1,0 +1,20 @@
+minecraft.custom.interact_with_cartography_table
+18: cubfan135: 80
+18: Grian: 63
+18: Xisuma: 42
+18: VintageBeef: 32
+18: falsesymmetry: 32
+18: Tango: 31
+18: hypnotizd: 25
+18: iskall85: 22
+18: GoodTimeWithScar: 21
+18: joehillssays: 20
+18: BdoubleO100: 18
+18: Keralis1: 16
+18: ZombieCleo: 13
+18: Etho: 11
+18: impulseSV: 9
+18: Zedaph: 5
+18: MumboJumbo: 4
+18: Stressmonster101: 1
+Total 445

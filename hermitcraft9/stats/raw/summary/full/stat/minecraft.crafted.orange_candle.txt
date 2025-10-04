@@ -1,0 +1,6 @@
+minecraft.crafted.orange_candle
+4: hypnotizd: 2052
+4: Xisuma: 17
+4: Tango: 10
+4: Zedaph: 1
+Total 2080

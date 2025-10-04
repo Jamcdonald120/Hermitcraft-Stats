@@ -1,0 +1,27 @@
+minecraft.crafted.white_wool
+25: Keralis1: 10597
+25: hypnotizd: 10563
+25: Etho: 7997
+25: Tango: 7031
+25: xBCrafted: 5879
+25: iJevin: 4223
+25: ZombieCleo: 4041
+25: joehillssays: 3572
+25: Docm77: 3182
+25: impulseSV: 2816
+25: Renthedog: 2733
+25: Zedaph: 2712
+25: GoodTimeWithScar: 833
+25: BdoubleO100: 701
+25: falsesymmetry: 579
+25: Grian: 452
+25: GeminiTay: 450
+25: Xisuma: 352
+25: PearlescentMoon: 128
+25: cubfan135: 125
+25: RentheKing: 111
+25: Stressmonster101: 6
+25: VintageBeef: 3
+25: iskall85: 3
+25: Mumbo: 3
+Total 69092

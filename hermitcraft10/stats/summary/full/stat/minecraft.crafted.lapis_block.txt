@@ -1,0 +1,25 @@
+minecraft.crafted.lapis_block
+23: cubfan135: 4718
+23: GoodTimeWithScar: 2402
+23: Etho: 858
+23: iJevin: 424
+23: joehillssays: 324
+23: Grian: 287
+23: Smallishbeans: 284
+23: Mumbo: 275
+23: Renthedog: 271
+23: ZombieCleo: 214
+23: xBCrafted: 199
+23: VintageBeef: 195
+23: hypnotizd: 123
+23: Xisuma: 122
+23: Zedaph: 114
+23: Welsknight: 102
+23: Keralis1: 69
+23: PearlescentMoon: 46
+23: GeminiTay: 41
+23: impulseSV: 38
+23: falsesymmetry: 33
+23: BdoubleO100: 29
+23: Skizzleman: 10
+Total 11178

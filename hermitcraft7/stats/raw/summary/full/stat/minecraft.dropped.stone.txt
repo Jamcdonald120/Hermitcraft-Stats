@@ -1,0 +1,25 @@
+minecraft.dropped.stone
+23: Tango: 54065
+23: cubfan135: 53851
+23: Zedaph: 43129
+23: iskall85: 27366
+23: xBCrafted: 22708
+23: iJevin: 17742
+23: hypnotizd: 10746
+23: Grian: 10610
+23: falsesymmetry: 10057
+23: GoodTimeWithScar: 9337
+23: Keralis1: 9252
+23: MumboJumbo: 6559
+23: Etho: 4920
+23: Xisuma: 4757
+23: impulseSV: 4155
+23: Stressmonster101: 4144
+23: Renthedog: 3112
+23: ZombieCleo: 2454
+23: Docm77: 2440
+23: BdoubleO100: 1701
+23: VintageBeef: 1409
+23: joehillssays: 1140
+23: Welsknight: 229
+Total 305883

@@ -1,0 +1,29 @@
+minecraft.picked_up.green_terracotta
+27: VintageBeef: 9233
+27: PearlescentMoon: 4714
+27: Grian: 1981
+27: GoodTimeWithScar: 518
+27: Stressmonster101: 412
+27: ZombieCleo: 379
+27: Docm77: 245
+27: impulseSV: 192
+27: SolidarityGaming: 176
+27: GeminiTay: 150
+27: falsesymmetry: 137
+27: joehillssays: 128
+27: iJevin: 97
+27: cubfan135: 81
+27: MythicalSausage: 72
+27: OrionSound: 64
+27: Renthedog: 21
+27: Mumbo: 18
+27: ShubbleYT: 18
+27: BdoubleO100: 16
+27: Zedaph: 7
+27: iskall85: 6
+27: Keralis1: 6
+27: Etho: 4
+27: Tango: 2
+27: Xisuma: 1
+27: xBCrafted: 1
+Total 18679

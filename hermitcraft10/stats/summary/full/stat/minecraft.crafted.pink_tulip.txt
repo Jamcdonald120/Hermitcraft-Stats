@@ -1,0 +1,5 @@
+minecraft.crafted.pink_tulip
+3: falsesymmetry: 30
+3: Renthedog: 12
+3: Keralis1: 12
+Total 54

@@ -1,0 +1,10 @@
+minecraft.picked_up.granite_wall
+8: PearlescentMoon: 16
+8: Tango: 11
+8: GoodTimeWithScar: 9
+8: Grian: 8
+8: Keralis1: 8
+8: impulseSV: 5
+8: Xisuma: 2
+8: GeminiTay: 1
+Total 60

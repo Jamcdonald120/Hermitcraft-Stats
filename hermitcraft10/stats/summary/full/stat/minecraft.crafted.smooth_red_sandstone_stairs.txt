@@ -1,0 +1,9 @@
+minecraft.crafted.smooth_red_sandstone_stairs
+7: Keralis1: 96
+7: Renthedog: 59
+7: Grian: 43
+7: Tango: 19
+7: impulseSV: 16
+7: PearlescentMoon: 5
+7: Xisuma: 1
+Total 239

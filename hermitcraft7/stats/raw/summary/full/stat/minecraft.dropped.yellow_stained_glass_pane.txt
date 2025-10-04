@@ -1,0 +1,8 @@
+minecraft.dropped.yellow_stained_glass_pane
+6: GoodTimeWithScar: 96
+6: Etho: 30
+6: MumboJumbo: 18
+6: cubfan135: 12
+6: Tango: 4
+6: impulseSV: 3
+Total 163

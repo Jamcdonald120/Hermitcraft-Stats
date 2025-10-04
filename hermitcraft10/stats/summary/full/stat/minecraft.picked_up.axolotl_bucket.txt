@@ -1,0 +1,4 @@
+minecraft.picked_up.axolotl_bucket
+2: iJevin: 6
+2: PearlescentMoon: 5
+Total 11

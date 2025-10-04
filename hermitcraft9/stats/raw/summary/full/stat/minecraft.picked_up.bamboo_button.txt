@@ -1,0 +1,4 @@
+minecraft.picked_up.bamboo_button
+2: cubfan135: 62
+2: Renthedog: 1
+Total 63

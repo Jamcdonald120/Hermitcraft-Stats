@@ -1,0 +1,28 @@
+minecraft.picked_up.grass_block
+26: GoodTimeWithScar: 230200
+26: xBCrafted: 63010
+26: BdoubleO100: 56559
+26: Grian: 46580
+26: Keralis1: 42623
+26: Xisuma: 39707
+26: iskall85: 21914
+26: MumboJumbo: 18877
+26: Renthedog: 18786
+26: falsesymmetry: 18726
+26: cubfan135: 16836
+26: Etho: 16120
+26: joehillssays: 15596
+26: Welsknight: 13984
+26: Stressmonster101: 9831
+26: VintageBeef: 8436
+26: hypnotizd: 6856
+26: Tango: 6721
+26: impulseSV: 5696
+26: Zedaph: 4944
+26: iJevin: 2895
+26: Tinfoilchef: 2047
+26: Docm77: 777
+26: ZombieCleo: 146
+26: BarryBoss1234: 10
+26: HermitcraftAlt: 1
+Total 667878

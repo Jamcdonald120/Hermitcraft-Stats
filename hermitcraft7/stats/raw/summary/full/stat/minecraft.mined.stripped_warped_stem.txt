@@ -1,0 +1,18 @@
+minecraft.mined.stripped_warped_stem
+16: falsesymmetry: 512
+16: Grian: 448
+16: iskall85: 442
+16: BdoubleO100: 235
+16: GoodTimeWithScar: 202
+16: cubfan135: 200
+16: xBCrafted: 118
+16: Etho: 87
+16: joehillssays: 77
+16: Tango: 58
+16: Xisuma: 19
+16: Zedaph: 14
+16: MumboJumbo: 8
+16: VintageBeef: 1
+16: Welsknight: 1
+16: Stressmonster101: 1
+Total 2423

@@ -1,0 +1,21 @@
+minecraft.picked_up.smoker
+19: ZombieCleo: 23
+19: xBCrafted: 19
+19: Tango: 13
+19: PearlescentMoon: 11
+19: Grian: 9
+19: BdoubleO100: 9
+19: Keralis1: 8
+19: impulseSV: 8
+19: VintageBeef: 5
+19: Xisuma: 4
+19: iJevin: 4
+19: falsesymmetry: 4
+19: Mumbo: 3
+19: GeminiTay: 2
+19: cubfan135: 2
+19: Smallishbeans: 1
+19: Etho: 1
+19: hypnotizd: 1
+19: GoodTimeWithScar: 1
+Total 128

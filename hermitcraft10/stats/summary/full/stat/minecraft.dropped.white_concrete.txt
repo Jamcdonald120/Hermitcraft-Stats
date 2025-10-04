@@ -1,0 +1,18 @@
+minecraft.dropped.white_concrete
+16: falsesymmetry: 1088
+16: Renthedog: 248
+16: GoodTimeWithScar: 149
+16: impulseSV: 80
+16: Smallishbeans: 66
+16: Skizzleman: 65
+16: PearlescentMoon: 32
+16: Grian: 31
+16: iJevin: 28
+16: Mumbo: 13
+16: cubfan135: 9
+16: Keralis1: 9
+16: Etho: 4
+16: Xisuma: 1
+16: Tango: 1
+16: BdoubleO100: 1
+Total 1825

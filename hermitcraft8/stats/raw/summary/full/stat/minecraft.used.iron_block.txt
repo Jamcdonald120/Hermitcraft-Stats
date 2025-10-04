@@ -1,0 +1,26 @@
+minecraft.used.iron_block
+24: xBCrafted: 8102
+24: iJevin: 4961
+24: impulseSV: 4819
+24: Tango: 4677
+24: Xisuma: 4482
+24: cubfan135: 3393
+24: Docm77: 2819
+24: Renthedog: 1834
+24: Welsknight: 1535
+24: PearlescentMoon: 1443
+24: Keralis1: 1431
+24: Etho: 1203
+24: iskall85: 990
+24: GoodTimeWithScar: 930
+24: falsesymmetry: 834
+24: joehillssays: 781
+24: BdoubleO100: 501
+24: Stressmonster101: 330
+24: hypnotizd: 305
+24: VintageBeef: 241
+24: Grian: 80
+24: MumboJumbo: 14
+24: GeminiTay: 1
+24: Zedaph: 1
+Total 45707

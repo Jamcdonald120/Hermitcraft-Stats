@@ -1,0 +1,24 @@
+minecraft.picked_up.purpur_slab
+22: PearlescentMoon: 400
+22: Smallishbeans: 166
+22: iJevin: 92
+22: Etho: 80
+22: cubfan135: 45
+22: VintageBeef: 41
+22: Xisuma: 27
+22: Grian: 22
+22: Zedaph: 22
+22: hypnotizd: 18
+22: GoodTimeWithScar: 18
+22: Keralis1: 17
+22: impulseSV: 15
+22: xBCrafted: 10
+22: Renthedog: 8
+22: Tango: 5
+22: Mumbo: 5
+22: Docm77: 3
+22: GeminiTay: 3
+22: joehillssays: 1
+22: falsesymmetry: 1
+22: ZombieCleo: 1
+Total 1000

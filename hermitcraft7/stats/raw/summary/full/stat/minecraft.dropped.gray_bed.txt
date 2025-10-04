@@ -1,0 +1,6 @@
+minecraft.dropped.gray_bed
+4: Grian: 191
+4: Zedaph: 23
+4: GoodTimeWithScar: 16
+4: MumboJumbo: 1
+Total 231

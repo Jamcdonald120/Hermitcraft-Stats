@@ -1,0 +1,22 @@
+minecraft.used.jungle_fence
+20: PearlescentMoon: 929
+20: falsesymmetry: 509
+20: GeminiTay: 500
+20: Xisuma: 403
+20: Smallishbeans: 321
+20: Mumbo: 269
+20: Etho: 259
+20: BdoubleO100: 255
+20: GoodTimeWithScar: 167
+20: Grian: 110
+20: ZombieCleo: 102
+20: Keralis1: 73
+20: cubfan135: 50
+20: impulseSV: 44
+20: Zedaph: 21
+20: iJevin: 18
+20: Renthedog: 4
+20: Docm77: 2
+20: Tango: 2
+20: Skizzleman: 1
+Total 4039

@@ -1,0 +1,18 @@
+minecraft.picked_up.waxed_copper_block
+16: Grian: 438
+16: impulseSV: 289
+16: Xisuma: 240
+16: GoodTimeWithScar: 126
+16: Renthedog: 93
+16: falsesymmetry: 55
+16: cubfan135: 36
+16: BdoubleO100: 34
+16: Docm77: 19
+16: Zedaph: 17
+16: PearlescentMoon: 13
+16: MythicalSausage: 4
+16: Tango: 3
+16: Mumbo: 1
+16: MumboJumbo: 1
+16: Keralis1: 1
+Total 1370

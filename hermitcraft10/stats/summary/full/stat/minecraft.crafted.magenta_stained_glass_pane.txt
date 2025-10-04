@@ -1,0 +1,12 @@
+minecraft.crafted.magenta_stained_glass_pane
+10: impulseSV: 1320
+10: Smallishbeans: 1072
+10: GoodTimeWithScar: 112
+10: Etho: 64
+10: cubfan135: 48
+10: joehillssays: 32
+10: Mumbo: 32
+10: Xisuma: 16
+10: BdoubleO100: 16
+10: falsesymmetry: 16
+Total 2728

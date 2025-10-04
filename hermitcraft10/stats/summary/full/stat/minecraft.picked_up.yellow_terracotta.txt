@@ -1,0 +1,26 @@
+minecraft.picked_up.yellow_terracotta
+24: impulseSV: 5023
+24: Smallishbeans: 2774
+24: Etho: 2270
+24: ZombieCleo: 1341
+24: joehillssays: 1242
+24: GoodTimeWithScar: 1100
+24: Grian: 1014
+24: PearlescentMoon: 500
+24: falsesymmetry: 369
+24: Tango: 366
+24: Xisuma: 364
+24: VintageBeef: 257
+24: Renthedog: 173
+24: cubfan135: 130
+24: iJevin: 72
+24: Keralis1: 65
+24: GeminiTay: 60
+24: Mumbo: 60
+24: xBCrafted: 44
+24: hypnotizd: 18
+24: BdoubleO100: 15
+24: Docm77: 6
+24: Welsknight: 1
+24: Zedaph: 1
+Total 17265

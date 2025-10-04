@@ -1,0 +1,30 @@
+minecraft.used.item_frame
+28: iJevin: 1690
+28: PearlescentMoon: 1160
+28: Xisuma: 881
+28: joehillssays: 656
+28: Tango: 615
+28: Docm77: 526
+28: VintageBeef: 437
+28: impulseSV: 428
+28: Keralis1: 402
+28: cubfan135: 391
+28: Renthedog: 338
+28: Skizzleman: 331
+28: falsesymmetry: 325
+28: Grian: 269
+28: Etho: 222
+28: Welsknight: 210
+28: GoodTimeWithScar: 199
+28: Smallishbeans: 183
+28: GeminiTay: 160
+28: xBCrafted: 160
+28: ZombieCleo: 157
+28: BdoubleO100: 147
+28: Mumbo: 102
+28: hypnotizd: 91
+28: Zedaph: 74
+28: SolidarityGaming: 14
+28: HBomb94: 4
+28: Eyjoy27: 2
+Total 10174

@@ -1,0 +1,4 @@
+minecraft.crafted.golden_pickaxe
+2: Tango: 7
+2: cubfan135: 2
+Total 9

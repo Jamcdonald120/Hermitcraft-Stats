@@ -1,0 +1,22 @@
+minecraft.picked_up.diamond_chestplate
+20: joehillssays: 20
+20: Tango: 15
+20: GoodTimeWithScar: 14
+20: Xisuma: 12
+20: PearlescentMoon: 11
+20: iskall85: 7
+20: impulseSV: 7
+20: Grian: 6
+20: cubfan135: 5
+20: Zedaph: 5
+20: xBCrafted: 4
+20: falsesymmetry: 3
+20: MumboJumbo: 2
+20: Docm77: 1
+20: VintageBeef: 1
+20: iJevin: 1
+20: GeminiTay: 1
+20: ZombieCleo: 1
+20: hypnotizd: 1
+20: Keralis1: 1
+Total 118

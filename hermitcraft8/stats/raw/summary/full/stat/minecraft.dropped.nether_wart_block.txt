@@ -1,0 +1,12 @@
+minecraft.dropped.nether_wart_block
+10: Grian: 24
+10: Zedaph: 17
+10: MumboJumbo: 15
+10: GoodTimeWithScar: 14
+10: ZombieCleo: 3
+10: Renthedog: 1
+10: GeminiTay: 1
+10: falsesymmetry: 1
+10: Etho: 1
+10: hypnotizd: 1
+Total 78

@@ -1,0 +1,21 @@
+minecraft.picked_up.light_gray_dye
+19: Zedaph: 7739
+19: joehillssays: 285
+19: Grian: 279
+19: cubfan135: 122
+19: falsesymmetry: 119
+19: Xisuma: 47
+19: Keralis1: 46
+19: GoodTimeWithScar: 40
+19: Tango: 30
+19: BdoubleO100: 19
+19: Renthedog: 13
+19: Docm77: 10
+19: Etho: 8
+19: iJevin: 7
+19: VintageBeef: 5
+19: impulseSV: 2
+19: hypnotizd: 1
+19: MumboJumbo: 1
+19: Stressmonster101: 1
+Total 8774

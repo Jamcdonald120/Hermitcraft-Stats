@@ -1,0 +1,4 @@
+minecraft.killed_by.blaze
+2: Grian: 1
+2: GoodTimeWithScar: 1
+Total 2

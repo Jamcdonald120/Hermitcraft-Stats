@@ -1,0 +1,29 @@
+minecraft.crafted.diamond_boots
+27: Grian: 14
+27: Xisuma: 10
+27: GoodTimeWithScar: 7
+27: Keralis1: 7
+27: Welsknight: 6
+27: Stressmonster101: 6
+27: xBCrafted: 5
+27: joehillssays: 4
+27: MumboJumbo: 4
+27: Renthedog: 2
+27: iJevin: 2
+27: Tango: 2
+27: BdoubleO100: 2
+27: iskall85: 2
+27: cubfan135: 2
+27: Etho: 2
+27: ZombieCleo: 2
+27: Tinfoilchef: 2
+27: impulseSV: 2
+27: EvilXisuma: 1
+27: Docm77: 1
+27: VintageBeef: 1
+27: GeminiTay: 1
+27: PearlescentMoon: 1
+27: falsesymmetry: 1
+27: hypnotizd: 1
+27: Zedaph: 1
+Total 91

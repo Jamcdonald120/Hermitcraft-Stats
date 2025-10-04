@@ -1,0 +1,21 @@
+minecraft.crafted.jungle_sign
+19: PearlescentMoon: 132
+19: Mumbo: 120
+19: GoodTimeWithScar: 117
+19: ZombieCleo: 114
+19: falsesymmetry: 99
+19: Keralis1: 84
+19: BdoubleO100: 66
+19: iJevin: 63
+19: cubfan135: 33
+19: Smallishbeans: 27
+19: Etho: 24
+19: Xisuma: 15
+19: GeminiTay: 12
+19: impulseSV: 12
+19: Docm77: 9
+19: Grian: 6
+19: Renthedog: 3
+19: Skizzleman: 3
+19: hypnotizd: 3
+Total 942

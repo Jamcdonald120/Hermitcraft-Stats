@@ -1,0 +1,31 @@
+minecraft.picked_up.porkchop
+29: iJevin: 929
+29: Keralis1: 225
+29: xBCrafted: 153
+29: Etho: 146
+29: Grian: 136
+29: Renthedog: 127
+29: joehillssays: 107
+29: VintageBeef: 95
+29: Xisuma: 89
+29: PearlescentMoon: 79
+29: cubfan135: 76
+29: ZombieCleo: 60
+29: impulseSV: 39
+29: Zedaph: 37
+29: Tango: 33
+29: Welsknight: 26
+29: Stressmonster101: 22
+29: GeminiTay: 16
+29: falsesymmetry: 16
+29: Docm77: 13
+29: GoodTimeWithScar: 12
+29: Mumbo: 11
+29: iskall85: 10
+29: Pixlriffs: 8
+29: MumboJumbo: 8
+29: OrionSound: 7
+29: BdoubleO100: 7
+29: hypnotizd: 3
+29: fWhip: 3
+Total 2493

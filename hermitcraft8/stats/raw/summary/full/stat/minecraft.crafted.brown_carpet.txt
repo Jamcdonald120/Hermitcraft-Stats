@@ -1,0 +1,12 @@
+minecraft.crafted.brown_carpet
+10: impulseSV: 1716
+10: GoodTimeWithScar: 318
+10: PearlescentMoon: 303
+10: Tango: 240
+10: Welsknight: 129
+10: falsesymmetry: 111
+10: Renthedog: 60
+10: BdoubleO100: 24
+10: Xisuma: 15
+10: Grian: 9
+Total 2925

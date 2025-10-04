@@ -1,0 +1,6 @@
+minecraft.dropped.smooth_red_sandstone
+4: Tango: 26
+4: Keralis1: 3
+4: Etho: 2
+4: falsesymmetry: 1
+Total 32

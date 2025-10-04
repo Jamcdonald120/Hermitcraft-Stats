@@ -1,0 +1,16 @@
+minecraft.dropped.lava_bucket
+14: Etho: 165
+14: Tango: 36
+14: Zedaph: 19
+14: GoodTimeWithScar: 7
+14: iJevin: 6
+14: joehillssays: 2
+14: Grian: 2
+14: PearlescentMoon: 2
+14: falsesymmetry: 2
+14: Skizzleman: 1
+14: BdoubleO100: 1
+14: xBCrafted: 1
+14: cubfan135: 1
+14: impulseSV: 1
+Total 246

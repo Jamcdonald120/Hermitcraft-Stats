@@ -1,0 +1,8 @@
+minecraft.crafted.orange_glazed_terracotta
+6: falsesymmetry: 94
+6: Etho: 17
+6: Smallishbeans: 16
+6: BdoubleO100: 15
+6: Xisuma: 1
+6: GoodTimeWithScar: 1
+Total 144

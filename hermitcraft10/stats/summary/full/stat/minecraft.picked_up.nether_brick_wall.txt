@@ -1,0 +1,9 @@
+minecraft.picked_up.nether_brick_wall
+7: Zedaph: 24
+7: cubfan135: 16
+7: GoodTimeWithScar: 13
+7: Mumbo: 11
+7: Smallishbeans: 2
+7: impulseSV: 2
+7: Xisuma: 1
+Total 69

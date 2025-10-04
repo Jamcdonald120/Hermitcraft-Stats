@@ -1,0 +1,9 @@
+minecraft.dropped.quartz_slab
+7: iJevin: 186
+7: Renthedog: 124
+7: Etho: 3
+7: impulseSV: 3
+7: GoodTimeWithScar: 2
+7: Skizzleman: 1
+7: falsesymmetry: 1
+Total 320

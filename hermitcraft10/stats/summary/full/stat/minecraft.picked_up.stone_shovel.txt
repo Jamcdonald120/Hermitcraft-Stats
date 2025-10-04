@@ -1,0 +1,21 @@
+minecraft.picked_up.stone_shovel
+19: Skizzleman: 157
+19: Zedaph: 38
+19: iJevin: 8
+19: GoodTimeWithScar: 5
+19: Tango: 3
+19: Smallishbeans: 2
+19: PearlescentMoon: 2
+19: hypnotizd: 2
+19: Docm77: 1
+19: Xisuma: 1
+19: Renthedog: 1
+19: VintageBeef: 1
+19: GeminiTay: 1
+19: Grian: 1
+19: falsesymmetry: 1
+19: cubfan135: 1
+19: Etho: 1
+19: ZombieCleo: 1
+19: Mumbo: 1
+Total 228

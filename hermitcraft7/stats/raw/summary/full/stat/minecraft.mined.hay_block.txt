@@ -1,0 +1,24 @@
+minecraft.mined.hay_block
+22: cubfan135: 326
+22: Keralis1: 242
+22: Xisuma: 186
+22: Grian: 141
+22: Tango: 128
+22: VintageBeef: 123
+22: joehillssays: 86
+22: Renthedog: 83
+22: iJevin: 77
+22: Etho: 73
+22: Zedaph: 67
+22: iskall85: 43
+22: Docm77: 38
+22: MumboJumbo: 35
+22: GoodTimeWithScar: 24
+22: xBCrafted: 10
+22: falsesymmetry: 7
+22: Welsknight: 5
+22: impulseSV: 5
+22: BdoubleO100: 3
+22: ZombieCleo: 3
+22: hypnotizd: 1
+Total 1706

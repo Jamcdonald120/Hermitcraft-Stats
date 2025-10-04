@@ -1,0 +1,25 @@
+minecraft.picked_up.stone_slab
+23: Zedaph: 14862
+23: Grian: 2977
+23: GoodTimeWithScar: 2512
+23: Tango: 2302
+23: Xisuma: 1665
+23: iskall85: 1650
+23: Keralis1: 1590
+23: impulseSV: 1210
+23: falsesymmetry: 777
+23: Renthedog: 481
+23: BdoubleO100: 455
+23: ZombieCleo: 421
+23: iJevin: 358
+23: cubfan135: 331
+23: VintageBeef: 268
+23: xBCrafted: 265
+23: Docm77: 240
+23: MumboJumbo: 201
+23: Stressmonster101: 162
+23: Welsknight: 141
+23: Etho: 105
+23: joehillssays: 52
+23: hypnotizd: 9
+Total 33034

@@ -1,0 +1,8 @@
+minecraft.dropped.blackstone_slab
+6: Tango: 66
+6: ZombieCleo: 14
+6: iJevin: 10
+6: Renthedog: 2
+6: Zedaph: 2
+6: Etho: 1
+Total 95

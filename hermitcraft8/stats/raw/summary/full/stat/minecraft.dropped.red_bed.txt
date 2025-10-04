@@ -1,0 +1,7 @@
+minecraft.dropped.red_bed
+5: impulseSV: 4
+5: Renthedog: 2
+5: EvilXisuma: 1
+5: Tango: 1
+5: PearlescentMoon: 1
+Total 9

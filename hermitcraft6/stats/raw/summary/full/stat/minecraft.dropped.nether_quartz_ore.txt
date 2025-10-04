@@ -1,0 +1,12 @@
+minecraft.dropped.nether_quartz_ore
+10: Zedaph: 144
+10: Renthedog: 136
+10: falsesymmetry: 110
+10: Docm77: 41
+10: Tango: 39
+10: iskall85: 39
+10: Stressmonster101: 33
+10: cubfan135: 15
+10: iJevin: 12
+10: GoodTimeWithScar: 1
+Total 570

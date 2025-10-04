@@ -1,0 +1,31 @@
+minecraft.picked_up.apple
+29: Xisuma: 1983
+29: GoodTimeWithScar: 1154
+29: Grian: 963
+29: Renthedog: 591
+29: falsesymmetry: 383
+29: Stressmonster101: 272
+29: PearlescentMoon: 221
+29: Keralis1: 216
+29: Zedaph: 205
+29: Docm77: 189
+29: iJevin: 187
+29: Etho: 149
+29: RentheKing: 130
+29: iskall85: 125
+29: ZombieCleo: 109
+29: impulseSV: 93
+29: hypnotizd: 87
+29: BdoubleO100: 80
+29: cubfan135: 77
+29: GeminiTay: 68
+29: joehillssays: 64
+29: xBCrafted: 58
+29: VintageBeef: 47
+29: Tango: 44
+29: Welsknight: 25
+29: ShubbleYT: 7
+29: OrionSound: 6
+29: Mumbo: 5
+29: MythicalSausage: 4
+Total 7542

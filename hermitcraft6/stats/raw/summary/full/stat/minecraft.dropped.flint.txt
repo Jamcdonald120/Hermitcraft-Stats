@@ -1,0 +1,26 @@
+minecraft.dropped.flint
+24: Tango: 2376
+24: Docm77: 1409
+24: Grian: 1330
+24: iJevin: 800
+24: MumboJumbo: 788
+24: GoodTimeWithScar: 514
+24: Stressmonster101: 474
+24: falsesymmetry: 430
+24: Renthedog: 328
+24: Tinfoilchef: 300
+24: iskall85: 228
+24: joehillssays: 186
+24: Xisuma: 156
+24: ZombieCleo: 129
+24: impulseSV: 115
+24: cubfan135: 108
+24: Zedaph: 31
+24: Keralis1: 28
+24: xBCrafted: 12
+24: BdoubleO100: 9
+24: HumanCleo: 8
+24: PythonGB: 2
+24: Biffa2001: 1
+24: Duke_da_dog: 1
+Total 9763

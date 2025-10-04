@@ -1,0 +1,12 @@
+minecraft.picked_up.furnace_minecart
+10: Renthedog: 105
+10: Grian: 31
+10: Xisuma: 9
+10: Docm77: 7
+10: hypnotizd: 7
+10: PearlescentMoon: 5
+10: impulseSV: 5
+10: Etho: 4
+10: joehillssays: 2
+10: falsesymmetry: 1
+Total 176

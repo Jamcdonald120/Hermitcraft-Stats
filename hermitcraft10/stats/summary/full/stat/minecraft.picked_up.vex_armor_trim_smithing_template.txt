@@ -1,0 +1,5 @@
+minecraft.picked_up.vex_armor_trim_smithing_template
+3: iJevin: 2
+3: Docm77: 1
+3: PearlescentMoon: 1
+Total 4

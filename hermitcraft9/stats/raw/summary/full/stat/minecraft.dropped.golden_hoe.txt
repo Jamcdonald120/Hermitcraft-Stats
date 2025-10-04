@@ -1,0 +1,5 @@
+minecraft.dropped.golden_hoe
+3: Zedaph: 4
+3: falsesymmetry: 2
+3: Keralis1: 2
+Total 8

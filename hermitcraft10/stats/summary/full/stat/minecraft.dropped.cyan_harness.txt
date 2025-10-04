@@ -1,0 +1,3 @@
+minecraft.dropped.cyan_harness
+1: xBCrafted: 1
+Total 1

@@ -1,0 +1,8 @@
+minecraft.picked_up.magenta_carpet
+6: VintageBeef: 1721
+6: PearlescentMoon: 1187
+6: joehillssays: 22
+6: Renthedog: 13
+6: impulseSV: 3
+6: Zedaph: 1
+Total 2947

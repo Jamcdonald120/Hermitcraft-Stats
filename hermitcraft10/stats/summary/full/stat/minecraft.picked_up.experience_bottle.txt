@@ -1,0 +1,18 @@
+minecraft.picked_up.experience_bottle
+16: Zedaph: 1751
+16: iJevin: 625
+16: Renthedog: 341
+16: cubfan135: 312
+16: ZombieCleo: 301
+16: GoodTimeWithScar: 294
+16: Smallishbeans: 204
+16: Grian: 192
+16: joehillssays: 104
+16: BdoubleO100: 46
+16: falsesymmetry: 36
+16: PearlescentMoon: 30
+16: JamalMC_: 23
+16: impulseSV: 16
+16: Etho: 14
+16: VintageBeef: 9
+Total 4298

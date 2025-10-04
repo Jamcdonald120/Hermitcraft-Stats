@@ -1,0 +1,29 @@
+minecraft.picked_up.yellow_shulker_box
+27: falsesymmetry: 2137
+27: joehillssays: 550
+27: GoodTimeWithScar: 543
+27: cubfan135: 312
+27: PearlescentMoon: 263
+27: Welsknight: 250
+27: Etho: 234
+27: Xisuma: 201
+27: Docm77: 187
+27: impulseSV: 162
+27: iJevin: 116
+27: VintageBeef: 114
+27: Tango: 105
+27: Renthedog: 101
+27: Keralis1: 71
+27: Smallishbeans: 68
+27: hypnotizd: 48
+27: BdoubleO100: 44
+27: ZombieCleo: 34
+27: Skizzleman: 20
+27: Mumbo: 12
+27: Zedaph: 5
+27: Dot_Dot_Dash: 3
+27: Grian: 3
+27: GeminiTay: 2
+27: xBCrafted: 2
+27: belmarzi: 1
+Total 5588

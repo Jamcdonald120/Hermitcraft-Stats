@@ -1,0 +1,4 @@
+minecraft.killed_by.wither
+2: GoodTimeWithScar: 4
+2: Grian: 1
+Total 5

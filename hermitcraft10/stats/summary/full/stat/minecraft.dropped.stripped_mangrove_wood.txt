@@ -1,0 +1,6 @@
+minecraft.dropped.stripped_mangrove_wood
+4: Etho: 2
+4: GoodTimeWithScar: 2
+4: Grian: 1
+4: impulseSV: 1
+Total 6

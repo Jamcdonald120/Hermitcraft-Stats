@@ -1,0 +1,19 @@
+minecraft.crafted.cyan_concrete_powder
+17: falsesymmetry: 6296
+17: xBCrafted: 1024
+17: Etho: 1024
+17: Smallishbeans: 936
+17: PearlescentMoon: 904
+17: cubfan135: 664
+17: ZombieCleo: 360
+17: VintageBeef: 272
+17: Tango: 256
+17: Docm77: 128
+17: Grian: 104
+17: GeminiTay: 64
+17: Mumbo: 48
+17: Xisuma: 40
+17: Renthedog: 8
+17: hypnotizd: 8
+17: Keralis1: 8
+Total 12144

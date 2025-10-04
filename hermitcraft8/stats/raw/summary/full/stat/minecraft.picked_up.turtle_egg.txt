@@ -1,0 +1,9 @@
+minecraft.picked_up.turtle_egg
+7: hypnotizd: 586
+7: Zedaph: 208
+7: Docm77: 59
+7: iJevin: 24
+7: Tango: 10
+7: Xisuma: 9
+7: VintageBeef: 7
+Total 903

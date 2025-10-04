@@ -1,0 +1,8 @@
+minecraft.dropped.pink_terracotta
+6: impulseSV: 42
+6: GoodTimeWithScar: 30
+6: PearlescentMoon: 9
+6: Etho: 2
+6: ZombieCleo: 2
+6: GeminiTay: 1
+Total 86

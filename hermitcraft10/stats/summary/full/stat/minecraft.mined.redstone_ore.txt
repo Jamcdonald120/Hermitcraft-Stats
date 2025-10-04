@@ -1,0 +1,27 @@
+minecraft.mined.redstone_ore
+25: GoodTimeWithScar: 1260
+25: Grian: 236
+25: joehillssays: 200
+25: Etho: 176
+25: iJevin: 151
+25: Xisuma: 122
+25: Renthedog: 120
+25: VintageBeef: 99
+25: Tango: 87
+25: ZombieCleo: 86
+25: falsesymmetry: 71
+25: Keralis1: 71
+25: cubfan135: 61
+25: Mumbo: 59
+25: Zedaph: 49
+25: Docm77: 45
+25: impulseSV: 44
+25: PearlescentMoon: 42
+25: BdoubleO100: 15
+25: hypnotizd: 15
+25: xBCrafted: 12
+25: Skizzleman: 6
+25: GeminiTay: 4
+25: Welsknight: 4
+25: Smallishbeans: 3
+Total 3038

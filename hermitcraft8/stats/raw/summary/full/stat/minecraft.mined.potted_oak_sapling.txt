@@ -1,0 +1,5 @@
+minecraft.mined.potted_oak_sapling
+3: MumboJumbo: 6
+3: PearlescentMoon: 3
+3: impulseSV: 1
+Total 10

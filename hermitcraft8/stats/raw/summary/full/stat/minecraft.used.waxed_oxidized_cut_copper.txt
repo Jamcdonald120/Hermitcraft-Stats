@@ -1,0 +1,3 @@
+minecraft.used.waxed_oxidized_cut_copper
+1: impulseSV: 20
+Total 20

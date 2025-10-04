@@ -1,0 +1,25 @@
+minecraft.mined.redstone_block
+23: VintageBeef: 914
+23: Tango: 582
+23: cubfan135: 428
+23: iskall85: 402
+23: Xisuma: 280
+23: Renthedog: 268
+23: impulseSV: 214
+23: MumboJumbo: 211
+23: GoodTimeWithScar: 113
+23: Docm77: 106
+23: Keralis1: 106
+23: Etho: 79
+23: Grian: 68
+23: Stressmonster101: 59
+23: hypnotizd: 43
+23: xBCrafted: 40
+23: BdoubleO100: 38
+23: ZombieCleo: 37
+23: Zedaph: 24
+23: joehillssays: 20
+23: iJevin: 19
+23: falsesymmetry: 8
+23: Tinfoilchef: 3
+Total 4062

@@ -1,0 +1,8 @@
+minecraft.killed_by.blaze
+6: Zedaph: 10
+6: impulseSV: 6
+6: iJevin: 5
+6: Tango: 5
+6: Renthedog: 3
+6: Skizzleman: 3
+Total 32

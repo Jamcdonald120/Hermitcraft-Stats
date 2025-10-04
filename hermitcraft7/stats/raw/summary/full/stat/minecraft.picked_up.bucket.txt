@@ -1,0 +1,24 @@
+minecraft.picked_up.bucket
+22: Xisuma: 769
+22: Zedaph: 471
+22: Renthedog: 180
+22: iJevin: 161
+22: Tango: 127
+22: Grian: 99
+22: Docm77: 87
+22: impulseSV: 78
+22: GoodTimeWithScar: 56
+22: cubfan135: 52
+22: Etho: 40
+22: joehillssays: 33
+22: falsesymmetry: 30
+22: Keralis1: 26
+22: MumboJumbo: 16
+22: xBCrafted: 15
+22: iskall85: 14
+22: ZombieCleo: 12
+22: VintageBeef: 11
+22: Stressmonster101: 10
+22: Welsknight: 7
+22: BdoubleO100: 4
+Total 2298

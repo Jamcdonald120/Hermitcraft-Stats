@@ -1,0 +1,11 @@
+minecraft.picked_up.coast_armor_trim_smithing_template
+9: iJevin: 12
+9: PearlescentMoon: 6
+9: GeminiTay: 5
+9: Etho: 3
+9: GoodTimeWithScar: 3
+9: Renthedog: 2
+9: cubfan135: 2
+9: Docm77: 1
+9: impulseSV: 1
+Total 35

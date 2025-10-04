@@ -1,0 +1,28 @@
+minecraft.picked_up.green_dye
+26: impulseSV: 6615
+26: PearlescentMoon: 968
+26: Xisuma: 475
+26: falsesymmetry: 273
+26: Etho: 211
+26: Skizzleman: 156
+26: Renthedog: 151
+26: Grian: 143
+26: Docm77: 139
+26: Zedaph: 91
+26: InTheLittleWood: 76
+26: BdoubleO100: 63
+26: GoodTimeWithScar: 57
+26: Smallishbeans: 38
+26: iJevin: 36
+26: cubfan135: 36
+26: ZombieCleo: 20
+26: GeminiTay: 18
+26: joehillssays: 14
+26: VintageBeef: 7
+26: Mumbo: 6
+26: Tango: 5
+26: SolidarityGaming: 4
+26: OrionSound: 3
+26: Keralis1: 2
+26: MythicalSausage: 1
+Total 9608

@@ -1,0 +1,19 @@
+minecraft.dropped.acacia_sapling
+17: Tango: 154
+17: PearlescentMoon: 101
+17: impulseSV: 100
+17: BdoubleO100: 93
+17: Xisuma: 86
+17: GoodTimeWithScar: 73
+17: Mumbo: 67
+17: Docm77: 36
+17: Renthedog: 31
+17: cubfan135: 10
+17: Etho: 6
+17: ZombieCleo: 5
+17: Keralis1: 5
+17: Grian: 3
+17: VintageBeef: 1
+17: GeminiTay: 1
+17: Smallishbeans: 1
+Total 773

@@ -1,0 +1,12 @@
+minecraft.picked_up.warped_hyphae
+10: Grian: 284
+10: Mumbo: 34
+10: Xisuma: 30
+10: Keralis1: 16
+10: ZombieCleo: 13
+10: VintageBeef: 6
+10: GoodTimeWithScar: 3
+10: GeminiTay: 2
+10: cubfan135: 2
+10: Etho: 2
+Total 392

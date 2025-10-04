@@ -1,0 +1,25 @@
+minecraft.mined.hay_block
+23: PearlescentMoon: 1134
+23: iJevin: 730
+23: Etho: 648
+23: Keralis1: 403
+23: Docm77: 384
+23: ZombieCleo: 153
+23: VintageBeef: 89
+23: Tango: 85
+23: hypnotizd: 81
+23: Zedaph: 70
+23: Grian: 66
+23: Xisuma: 63
+23: joehillssays: 55
+23: cubfan135: 48
+23: Smallishbeans: 33
+23: GoodTimeWithScar: 33
+23: falsesymmetry: 24
+23: Skizzleman: 21
+23: Mumbo: 17
+23: GeminiTay: 9
+23: Renthedog: 6
+23: BdoubleO100: 5
+23: xBCrafted: 1
+Total 4158

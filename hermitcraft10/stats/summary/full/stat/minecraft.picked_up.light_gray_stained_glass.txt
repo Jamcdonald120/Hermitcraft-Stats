@@ -1,0 +1,23 @@
+minecraft.picked_up.light_gray_stained_glass
+21: Etho: 753
+21: PearlescentMoon: 253
+21: Grian: 160
+21: impulseSV: 139
+21: falsesymmetry: 88
+21: GoodTimeWithScar: 85
+21: Welsknight: 75
+21: iJevin: 61
+21: Tango: 53
+21: Keralis1: 31
+21: Mumbo: 24
+21: joehillssays: 19
+21: BdoubleO100: 19
+21: cubfan135: 19
+21: Xisuma: 17
+21: Docm77: 4
+21: Renthedog: 2
+21: GeminiTay: 2
+21: Skizzleman: 2
+21: Smallishbeans: 2
+21: ZombieCleo: 1
+Total 1809

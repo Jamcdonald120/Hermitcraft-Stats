@@ -1,0 +1,26 @@
+minecraft.picked_up.coal_block
+24: GoodTimeWithScar: 972
+24: Grian: 760
+24: iskall85: 661
+24: Renthedog: 382
+24: Tango: 350
+24: cubfan135: 348
+24: Docm77: 207
+24: Stressmonster101: 198
+24: ZombieCleo: 194
+24: Xisuma: 193
+24: BdoubleO100: 131
+24: Welsknight: 128
+24: joehillssays: 101
+24: falsesymmetry: 99
+24: iJevin: 52
+24: Biffa2001: 51
+24: Zedaph: 45
+24: impulseSV: 39
+24: xBCrafted: 35
+24: Tinfoilchef: 24
+24: MumboJumbo: 23
+24: Keralis1: 5
+24: HumanCleo: 3
+24: PythonGB: 1
+Total 5002

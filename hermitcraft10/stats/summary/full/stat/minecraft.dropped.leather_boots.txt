@@ -1,0 +1,27 @@
+minecraft.dropped.leather_boots
+25: iJevin: 126
+25: impulseSV: 51
+25: Xisuma: 37
+25: Grian: 36
+25: xBCrafted: 33
+25: GeminiTay: 32
+25: cubfan135: 32
+25: Renthedog: 24
+25: Keralis1: 22
+25: BdoubleO100: 21
+25: ZombieCleo: 19
+25: PearlescentMoon: 9
+25: Etho: 9
+25: GoodTimeWithScar: 9
+25: Tango: 7
+25: falsesymmetry: 7
+25: Smallishbeans: 6
+25: hypnotizd: 6
+25: Docm77: 3
+25: Welsknight: 2
+25: Smajor1995: 1
+25: joehillssays: 1
+25: Skizzleman: 1
+25: belmarzi: 1
+25: aimsey: 1
+Total 496

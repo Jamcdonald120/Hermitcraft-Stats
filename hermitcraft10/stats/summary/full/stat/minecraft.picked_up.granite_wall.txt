@@ -1,0 +1,15 @@
+minecraft.picked_up.granite_wall
+13: PearlescentMoon: 114
+13: Grian: 92
+13: Tango: 42
+13: cubfan135: 42
+13: falsesymmetry: 34
+13: Xisuma: 24
+13: Renthedog: 8
+13: Smallishbeans: 6
+13: Etho: 5
+13: Mumbo: 3
+13: GeminiTay: 2
+13: GoodTimeWithScar: 2
+13: Keralis1: 1
+Total 375

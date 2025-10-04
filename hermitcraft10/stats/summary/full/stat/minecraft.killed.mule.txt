@@ -1,0 +1,4 @@
+minecraft.killed.mule
+2: Keralis1: 15
+2: Smallishbeans: 1
+Total 16

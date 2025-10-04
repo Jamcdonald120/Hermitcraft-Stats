@@ -1,0 +1,9 @@
+minecraft.crafted.brick_slab
+7: Keralis1: 234
+7: GoodTimeWithScar: 132
+7: Etho: 42
+7: Xisuma: 38
+7: joehillssays: 6
+7: cubfan135: 6
+7: impulseSV: 6
+Total 464

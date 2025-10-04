@@ -1,0 +1,26 @@
+minecraft.custom.enchant_item
+24: Renthedog: 373
+24: GoodTimeWithScar: 331
+24: Docm77: 226
+24: hypnotizd: 226
+24: iJevin: 217
+24: Welsknight: 179
+24: VintageBeef: 158
+24: joehillssays: 140
+24: Etho: 85
+24: Grian: 70
+24: xBCrafted: 68
+24: impulseSV: 56
+24: falsesymmetry: 52
+24: PearlescentMoon: 46
+24: cubfan135: 41
+24: Tango: 32
+24: Xisuma: 27
+24: GeminiTay: 26
+24: BdoubleO100: 19
+24: MumboJumbo: 18
+24: iskall85: 17
+24: Zedaph: 17
+24: ZombieCleo: 10
+24: Stressmonster101: 10
+Total 2444

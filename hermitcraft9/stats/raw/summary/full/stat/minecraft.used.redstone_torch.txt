@@ -1,0 +1,31 @@
+minecraft.used.redstone_torch
+29: Tango: 3746
+29: cubfan135: 1886
+29: Pixlriffs: 1453
+29: Grian: 1423
+29: Docm77: 1308
+29: Xisuma: 1120
+29: impulseSV: 961
+29: Etho: 430
+29: Zedaph: 402
+29: iJevin: 338
+29: Keralis1: 324
+29: iskall85: 279
+29: xBCrafted: 251
+29: BdoubleO100: 216
+29: GoodTimeWithScar: 202
+29: ZombieCleo: 157
+29: hypnotizd: 156
+29: Renthedog: 142
+29: Stressmonster101: 92
+29: PearlescentMoon: 91
+29: falsesymmetry: 81
+29: GeminiTay: 70
+29: joehillssays: 67
+29: Mumbo: 62
+29: VintageBeef: 40
+29: RentheKing: 12
+29: MythicalSausage: 11
+29: OrionSound: 4
+29: Welsknight: 2
+Total 15326

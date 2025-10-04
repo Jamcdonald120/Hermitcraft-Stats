@@ -1,0 +1,23 @@
+minecraft.crafted.gold_nugget
+21: impulseSV: 98413
+21: cubfan135: 26469
+21: GeminiTay: 9625
+21: PearlescentMoon: 9178
+21: Xisuma: 8879
+21: iJevin: 3807
+21: Keralis1: 2030
+21: Mumbo: 1100
+21: Docm77: 819
+21: BdoubleO100: 590
+21: VintageBeef: 459
+21: Tango: 324
+21: Renthedog: 297
+21: GoodTimeWithScar: 117
+21: Zedaph: 39
+21: joehillssays: 36
+21: Smallishbeans: 27
+21: falsesymmetry: 18
+21: Grian: 9
+21: xBCrafted: 9
+21: ZombieCleo: 9
+Total 162254

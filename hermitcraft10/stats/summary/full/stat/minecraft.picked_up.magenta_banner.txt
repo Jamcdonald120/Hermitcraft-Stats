@@ -1,0 +1,6 @@
+minecraft.picked_up.magenta_banner
+4: iJevin: 65
+4: joehillssays: 1
+4: falsesymmetry: 1
+4: GoodTimeWithScar: 1
+Total 68

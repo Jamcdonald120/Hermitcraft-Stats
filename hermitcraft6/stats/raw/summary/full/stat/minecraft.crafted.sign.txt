@@ -1,0 +1,5 @@
+minecraft.crafted.sign
+3: Biffa2001: 54
+3: Jessassin: 27
+3: xBCrafted: 9
+Total 90

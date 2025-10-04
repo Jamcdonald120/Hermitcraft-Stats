@@ -1,0 +1,12 @@
+minecraft.dropped.warped_fungus
+10: falsesymmetry: 103
+10: Tango: 64
+10: Etho: 60
+10: Xisuma: 12
+10: Skizzleman: 10
+10: GoodTimeWithScar: 5
+10: Renthedog: 4
+10: iJevin: 2
+10: ZombieCleo: 2
+10: cubfan135: 1
+Total 263

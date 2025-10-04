@@ -1,0 +1,32 @@
+minecraft.picked_up.birch_sapling
+30: joehillssays: 6261
+30: Keralis1: 3935
+30: Grian: 2718
+30: Renthedog: 1935
+30: impulseSV: 1747
+30: hypnotizd: 1506
+30: iJevin: 1090
+30: GeminiTay: 1082
+30: GoodTimeWithScar: 851
+30: BdoubleO100: 848
+30: PearlescentMoon: 710
+30: Xisuma: 522
+30: Stressmonster101: 465
+30: Docm77: 373
+30: Etho: 347
+30: VintageBeef: 298
+30: falsesymmetry: 263
+30: iskall85: 230
+30: ZombieCleo: 195
+30: Tango: 118
+30: RentheKing: 106
+30: Welsknight: 105
+30: cubfan135: 89
+30: Zedaph: 62
+30: Mumbo: 53
+30: Tinfoilchef: 28
+30: xBCrafted: 24
+30: MumboJumbo: 21
+30: OrionSound: 6
+30: MythicalSausage: 2
+Total 25990

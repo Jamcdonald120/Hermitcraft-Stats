@@ -1,0 +1,15 @@
+minecraft.crafted.yellow_stained_glass_pane
+13: Renthedog: 880
+13: GoodTimeWithScar: 680
+13: PythonGB: 672
+13: Grian: 400
+13: impulseSV: 384
+13: cubfan135: 304
+13: Xisuma: 96
+13: falsesymmetry: 32
+13: Welsknight: 32
+13: MumboJumbo: 32
+13: Tango: 16
+13: ZombieCleo: 16
+13: Stressmonster101: 16
+Total 3560

@@ -1,0 +1,4 @@
+minecraft.dropped.chiseled_bookshelf
+2: falsesymmetry: 2
+2: GeminiTay: 1
+Total 3

@@ -1,0 +1,15 @@
+minecraft.picked_up.red_mushroom_block
+13: falsesymmetry: 2771
+13: hypnotizd: 1889
+13: Grian: 741
+13: joehillssays: 440
+13: GeminiTay: 363
+13: BdoubleO100: 137
+13: impulseSV: 134
+13: ZombieCleo: 97
+13: xBCrafted: 61
+13: Renthedog: 23
+13: Xisuma: 17
+13: GoodTimeWithScar: 3
+13: iJevin: 2
+Total 6678

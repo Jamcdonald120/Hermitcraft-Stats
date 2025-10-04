@@ -1,0 +1,26 @@
+minecraft.crafted.powered_rail
+24: Tango: 13117
+24: Docm77: 4888
+24: GoodTimeWithScar: 2259
+24: impulseSV: 1902
+24: cubfan135: 1418
+24: Xisuma: 1410
+24: Renthedog: 1308
+24: hypnotizd: 996
+24: Etho: 900
+24: xBCrafted: 576
+24: Keralis1: 574
+24: falsesymmetry: 522
+24: iskall85: 252
+24: ZombieCleo: 234
+24: Zedaph: 204
+24: Mumbo: 174
+24: iJevin: 138
+24: Grian: 96
+24: MumboJumbo: 84
+24: joehillssays: 60
+24: GeminiTay: 54
+24: BdoubleO100: 42
+24: Stressmonster101: 42
+24: VintageBeef: 6
+Total 31256

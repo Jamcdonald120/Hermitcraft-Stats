@@ -1,0 +1,27 @@
+minecraft.dropped.diorite
+25: Etho: 2356
+25: xBCrafted: 2168
+25: iJevin: 2064
+25: Tango: 1483
+25: Zedaph: 1295
+25: BdoubleO100: 1279
+25: Docm77: 1158
+25: Renthedog: 1102
+25: GoodTimeWithScar: 978
+25: falsesymmetry: 926
+25: impulseSV: 812
+25: PearlescentMoon: 657
+25: Xisuma: 633
+25: Grian: 600
+25: Skizzleman: 498
+25: Mumbo: 288
+25: hypnotizd: 251
+25: Smallishbeans: 249
+25: Keralis1: 239
+25: GeminiTay: 213
+25: cubfan135: 181
+25: joehillssays: 166
+25: ZombieCleo: 85
+25: VintageBeef: 78
+25: Eyjoy27: 1
+Total 19760

@@ -1,0 +1,6 @@
+minecraft.picked_up.cyan_carpet
+4: Grian: 25
+4: PearlescentMoon: 8
+4: GeminiTay: 3
+4: BdoubleO100: 2
+Total 38

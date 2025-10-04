@@ -1,0 +1,24 @@
+minecraft.picked_up.crimson_stem
+22: VintageBeef: 2628
+22: cubfan135: 1546
+22: ZombieCleo: 1390
+22: Tango: 1197
+22: Smallishbeans: 969
+22: Etho: 968
+22: Xisuma: 942
+22: Grian: 900
+22: impulseSV: 387
+22: falsesymmetry: 333
+22: iJevin: 155
+22: GoodTimeWithScar: 154
+22: BdoubleO100: 129
+22: joehillssays: 118
+22: PearlescentMoon: 59
+22: GeminiTay: 57
+22: Docm77: 50
+22: hypnotizd: 47
+22: Renthedog: 15
+22: Keralis1: 10
+22: Mumbo: 6
+22: Skizzleman: 1
+Total 12061

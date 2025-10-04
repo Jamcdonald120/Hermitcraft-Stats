@@ -1,0 +1,22 @@
+minecraft.picked_up.stone_pickaxe
+20: Zedaph: 32
+20: cubfan135: 15
+20: iJevin: 7
+20: Docm77: 6
+20: Xisuma: 6
+20: Renthedog: 6
+20: Keralis1: 6
+20: GoodTimeWithScar: 5
+20: Smallishbeans: 4
+20: GeminiTay: 2
+20: Tango: 2
+20: ZombieCleo: 2
+20: Mumbo: 2
+20: hypnotizd: 2
+20: VintageBeef: 1
+20: joehillssays: 1
+20: Grian: 1
+20: Skizzleman: 1
+20: falsesymmetry: 1
+20: Etho: 1
+Total 103

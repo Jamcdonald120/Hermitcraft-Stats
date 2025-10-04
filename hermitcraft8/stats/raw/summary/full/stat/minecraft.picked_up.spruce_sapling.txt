@@ -1,0 +1,27 @@
+minecraft.picked_up.spruce_sapling
+25: BdoubleO100: 2853
+25: PearlescentMoon: 2134
+25: Tango: 1291
+25: Renthedog: 1253
+25: GoodTimeWithScar: 1110
+25: ZombieCleo: 763
+25: Grian: 640
+25: Xisuma: 606
+25: cubfan135: 560
+25: impulseSV: 474
+25: joehillssays: 430
+25: GeminiTay: 430
+25: Etho: 288
+25: xBCrafted: 282
+25: Welsknight: 220
+25: Keralis1: 209
+25: iskall85: 191
+25: VintageBeef: 165
+25: hypnotizd: 157
+25: Stressmonster101: 112
+25: falsesymmetry: 82
+25: Docm77: 46
+25: iJevin: 20
+25: Zedaph: 14
+25: MumboJumbo: 13
+Total 14343

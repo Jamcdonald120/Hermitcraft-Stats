@@ -1,0 +1,18 @@
+minecraft.dropped.raw_gold
+16: PearlescentMoon: 475
+16: iJevin: 310
+16: Docm77: 36
+16: Mumbo: 36
+16: xBCrafted: 19
+16: VintageBeef: 18
+16: Smallishbeans: 18
+16: joehillssays: 16
+16: Tango: 14
+16: cubfan135: 11
+16: impulseSV: 9
+16: hypnotizd: 7
+16: Xisuma: 3
+16: Etho: 3
+16: Grian: 2
+16: GeminiTay: 1
+Total 978

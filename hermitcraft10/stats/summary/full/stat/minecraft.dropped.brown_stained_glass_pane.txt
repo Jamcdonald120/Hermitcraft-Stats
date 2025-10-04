@@ -1,0 +1,5 @@
+minecraft.dropped.brown_stained_glass_pane
+3: GoodTimeWithScar: 91
+3: falsesymmetry: 25
+3: Etho: 19
+Total 135

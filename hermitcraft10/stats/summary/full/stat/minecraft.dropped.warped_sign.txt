@@ -1,0 +1,8 @@
+minecraft.dropped.warped_sign
+6: xBCrafted: 89
+6: Smallishbeans: 30
+6: GoodTimeWithScar: 19
+6: Grian: 4
+6: BdoubleO100: 3
+6: Tango: 1
+Total 146

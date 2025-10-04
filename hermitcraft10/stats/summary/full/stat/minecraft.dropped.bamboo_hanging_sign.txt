@@ -1,0 +1,6 @@
+minecraft.dropped.bamboo_hanging_sign
+4: falsesymmetry: 6
+4: Tango: 5
+4: impulseSV: 2
+4: Mumbo: 1
+Total 14

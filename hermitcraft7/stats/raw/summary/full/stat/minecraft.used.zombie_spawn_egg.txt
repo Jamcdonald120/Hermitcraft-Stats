@@ -1,0 +1,4 @@
+minecraft.used.zombie_spawn_egg
+2: GoodTimeWithScar: 5
+2: isGall85: 2
+Total 7

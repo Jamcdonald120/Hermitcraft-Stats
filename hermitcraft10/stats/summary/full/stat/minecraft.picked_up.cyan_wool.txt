@@ -1,0 +1,25 @@
+minecraft.picked_up.cyan_wool
+23: Tango: 4663
+23: Xisuma: 1451
+23: GoodTimeWithScar: 551
+23: Welsknight: 381
+23: ZombieCleo: 330
+23: Smallishbeans: 274
+23: falsesymmetry: 252
+23: iJevin: 251
+23: Mumbo: 250
+23: PearlescentMoon: 217
+23: BdoubleO100: 183
+23: GeminiTay: 180
+23: Grian: 180
+23: joehillssays: 88
+23: xBCrafted: 74
+23: Skizzleman: 44
+23: Renthedog: 36
+23: VintageBeef: 31
+23: Keralis1: 24
+23: cubfan135: 20
+23: Etho: 14
+23: impulseSV: 4
+23: Eyjoy27: 1
+Total 9499

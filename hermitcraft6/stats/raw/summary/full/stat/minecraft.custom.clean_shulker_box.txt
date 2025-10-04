@@ -1,0 +1,7 @@
+minecraft.custom.clean_shulker_box
+5: cubfan135: 60
+5: Xisuma: 51
+5: Welsknight: 9
+5: PythonGB: 4
+5: iJevin: 1
+Total 125

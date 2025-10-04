@@ -1,0 +1,27 @@
+minecraft.picked_up.diamond_boots
+25: GoodTimeWithScar: 214
+25: Grian: 167
+25: iskall85: 97
+25: Renthedog: 86
+25: Docm77: 83
+25: Xisuma: 61
+25: cubfan135: 59
+25: iJevin: 52
+25: impulseSV: 50
+25: MumboJumbo: 46
+25: Tango: 39
+25: PythonGB: 35
+25: falsesymmetry: 33
+25: Zedaph: 24
+25: joehillssays: 19
+25: Welsknight: 10
+25: Duke_da_dog: 10
+25: Stressmonster101: 8
+25: BdoubleO100: 5
+25: ZombieCleo: 4
+25: Biffa2001: 3
+25: BadTimeWithScar: 2
+25: EvilXisuma: 1
+25: Tinfoilchef: 1
+25: Keralis1: 1
+Total 1110

@@ -1,0 +1,10 @@
+minecraft.mined.respawn_anchor
+8: Xisuma: 16
+8: cubfan135: 6
+8: impulseSV: 6
+8: joehillssays: 3
+8: iJevin: 2
+8: Grian: 1
+8: Etho: 1
+8: ZombieCleo: 1
+Total 36

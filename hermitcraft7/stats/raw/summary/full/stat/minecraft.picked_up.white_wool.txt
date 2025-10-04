@@ -1,0 +1,27 @@
+minecraft.picked_up.white_wool
+25: Zedaph: 7324
+25: Renthedog: 4361
+25: Etho: 3641
+25: Tango: 2282
+25: Grian: 1634
+25: GoodTimeWithScar: 1309
+25: Keralis1: 1202
+25: cubfan135: 656
+25: VintageBeef: 640
+25: BdoubleO100: 556
+25: Docm77: 515
+25: falsesymmetry: 448
+25: Xisuma: 389
+25: MumboJumbo: 389
+25: iJevin: 367
+25: Stressmonster101: 283
+25: joehillssays: 261
+25: impulseSV: 134
+25: hypnotizd: 121
+25: iskall85: 112
+25: xBCrafted: 73
+25: ZombieCleo: 55
+25: Welsknight: 25
+25: Tinfoilchef: 7
+25: TangoCam: 1
+Total 26785

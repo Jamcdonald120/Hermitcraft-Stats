@@ -1,0 +1,27 @@
+minecraft.picked_up.brown_dye
+25: PearlescentMoon: 343
+25: iJevin: 312
+25: Skizzleman: 144
+25: cubfan135: 134
+25: falsesymmetry: 88
+25: Renthedog: 61
+25: Tango: 55
+25: Etho: 32
+25: Grian: 29
+25: Xisuma: 25
+25: BdoubleO100: 20
+25: GeminiTay: 16
+25: ZombieCleo: 15
+25: Docm77: 12
+25: impulseSV: 11
+25: Smallishbeans: 9
+25: GoodTimeWithScar: 9
+25: joehillssays: 8
+25: SolidarityGaming: 4
+25: Keralis1: 4
+25: Mumbo: 3
+25: hypnotizd: 3
+25: Zedaph: 3
+25: xBCrafted: 1
+25: Eyjoy27: 1
+Total 1342

@@ -1,0 +1,35 @@
+minecraft.picked_up.rotten_flesh
+33: impulseSV: 37866
+33: cubfan135: 10211
+33: iskall85: 9399
+33: GoodTimeWithScar: 8327
+33: iJevin: 6155
+33: Tango: 5784
+33: Grian: 4394
+33: Docm77: 4393
+33: Xisuma: 4264
+33: MumboJumbo: 2607
+33: falsesymmetry: 1963
+33: Stressmonster101: 1523
+33: Renthedog: 1386
+33: Zedaph: 1290
+33: PythonGB: 1135
+33: Welsknight: 865
+33: Biffa2001: 661
+33: ZombieCleo: 438
+33: joehillssays: 415
+33: BdoubleO100: 227
+33: Tinfoilchef: 211
+33: TangoCam: 198
+33: Keralis1: 150
+33: HumanCleo: 89
+33: Cub_Cam: 70
+33: xBCrafted: 55
+33: Jessassin: 43
+33: Duke_da_dog: 23
+33: Jura_Whitey: 6
+33: Cojomax99: 5
+33: BadTimeWithScar: 4
+33: EvilXisuma: 3
+33: PhoenixfireLune: 2
+Total 104162

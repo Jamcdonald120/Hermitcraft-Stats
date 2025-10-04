@@ -1,0 +1,12 @@
+minecraft.picked_up.brown_stained_glass_pane
+10: Smallishbeans: 47
+10: falsesymmetry: 47
+10: Etho: 24
+10: Keralis1: 21
+10: cubfan135: 6
+10: Xisuma: 5
+10: Skizzleman: 5
+10: Renthedog: 4
+10: GoodTimeWithScar: 4
+10: BdoubleO100: 1
+Total 164

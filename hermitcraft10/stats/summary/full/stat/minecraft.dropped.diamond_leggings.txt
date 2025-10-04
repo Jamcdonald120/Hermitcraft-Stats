@@ -1,0 +1,28 @@
+minecraft.dropped.diamond_leggings
+26: impulseSV: 15
+26: Skizzleman: 13
+26: GoodTimeWithScar: 12
+26: Grian: 10
+26: iJevin: 9
+26: Tango: 9
+26: PearlescentMoon: 9
+26: cubfan135: 7
+26: Etho: 7
+26: falsesymmetry: 5
+26: Keralis1: 5
+26: Xisuma: 4
+26: Renthedog: 4
+26: GeminiTay: 4
+26: xBCrafted: 4
+26: Mumbo: 4
+26: Docm77: 3
+26: BdoubleO100: 3
+26: ZombieCleo: 3
+26: hypnotizd: 3
+26: Smajor1995: 2
+26: JamalMC_: 2
+26: Smallishbeans: 2
+26: aimsey: 2
+26: VintageBeef: 1
+26: joehillssays: 1
+Total 143

@@ -1,0 +1,6 @@
+minecraft.dropped.gilded_blackstone
+4: iJevin: 100
+4: Grian: 10
+4: GoodTimeWithScar: 8
+4: Tango: 5
+Total 123

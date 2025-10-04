@@ -1,0 +1,25 @@
+minecraft.picked_up.smooth_quartz
+23: Renthedog: 4997
+23: hypnotizd: 3566
+23: iJevin: 1288
+23: Skizzleman: 555
+23: Grian: 422
+23: Smallishbeans: 393
+23: Xisuma: 314
+23: cubfan135: 284
+23: GoodTimeWithScar: 233
+23: VintageBeef: 212
+23: Keralis1: 160
+23: falsesymmetry: 155
+23: impulseSV: 148
+23: Etho: 112
+23: PearlescentMoon: 76
+23: ZombieCleo: 64
+23: Docm77: 45
+23: GeminiTay: 26
+23: Welsknight: 25
+23: joehillssays: 12
+23: Mumbo: 8
+23: F1RECRACKR: 5
+23: BdoubleO100: 5
+Total 13105

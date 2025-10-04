@@ -1,0 +1,27 @@
+minecraft.mined.oak_wall_sign
+25: cubfan135: 827
+25: falsesymmetry: 411
+25: impulseSV: 333
+25: Xisuma: 326
+25: iJevin: 272
+25: iskall85: 191
+25: Tango: 183
+25: Grian: 156
+25: Docm77: 92
+25: joehillssays: 85
+25: MumboJumbo: 81
+25: GoodTimeWithScar: 75
+25: Welsknight: 56
+25: Zedaph: 55
+25: Renthedog: 52
+25: Tinfoilchef: 45
+25: ZombieCleo: 44
+25: Stressmonster101: 41
+25: PythonGB: 25
+25: Cojomax99: 10
+25: Keralis1: 8
+25: BdoubleO100: 7
+25: tterrag: 5
+25: HumanCleo: 3
+25: Jura_Whitey: 3
+Total 3386

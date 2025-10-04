@@ -1,0 +1,18 @@
+minecraft.picked_up.light_gray_bed
+16: BdoubleO100: 992
+16: cubfan135: 92
+16: joehillssays: 90
+16: GoodTimeWithScar: 90
+16: Etho: 85
+16: Xisuma: 24
+16: Skizzleman: 23
+16: falsesymmetry: 21
+16: Tango: 20
+16: VintageBeef: 12
+16: Grian: 6
+16: ZombieCleo: 6
+16: iJevin: 3
+16: Docm77: 1
+16: GeminiTay: 1
+16: impulseSV: 1
+Total 1467

@@ -1,0 +1,25 @@
+minecraft.crafted.hay_block
+23: ZombieCleo: 9790
+23: xBCrafted: 2996
+23: Xisuma: 2733
+23: GoodTimeWithScar: 2034
+23: Keralis1: 818
+23: Tango: 472
+23: Grian: 433
+23: Etho: 429
+23: joehillssays: 358
+23: Renthedog: 301
+23: PearlescentMoon: 274
+23: falsesymmetry: 252
+23: iJevin: 226
+23: BdoubleO100: 213
+23: VintageBeef: 205
+23: Mumbo: 137
+23: Zedaph: 122
+23: cubfan135: 87
+23: Smallishbeans: 83
+23: impulseSV: 79
+23: Docm77: 31
+23: hypnotizd: 29
+23: GeminiTay: 24
+Total 22126

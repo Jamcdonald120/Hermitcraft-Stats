@@ -1,0 +1,17 @@
+minecraft.mined.gray_concrete
+15: impulseSV: 6762
+15: PearlescentMoon: 3115
+15: GoodTimeWithScar: 711
+15: Welsknight: 494
+15: Tango: 457
+15: Xisuma: 418
+15: Grian: 371
+15: falsesymmetry: 333
+15: ZombieCleo: 298
+15: Renthedog: 209
+15: iJevin: 128
+15: Keralis1: 128
+15: EvilXisuma: 117
+15: Docm77: 1
+15: GeminiTay: 1
+Total 13543

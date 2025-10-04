@@ -1,0 +1,8 @@
+minecraft.crafted.smooth_red_sandstone_stairs
+6: Keralis1: 101
+6: PearlescentMoon: 25
+6: impulseSV: 23
+6: Xisuma: 1
+6: GoodTimeWithScar: 1
+6: Zedaph: 1
+Total 152

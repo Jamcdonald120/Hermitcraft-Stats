@@ -1,0 +1,5 @@
+minecraft.crafted.cherry_hanging_sign
+3: GoodTimeWithScar: 12
+3: Mumbo: 6
+3: Zedaph: 6
+Total 24

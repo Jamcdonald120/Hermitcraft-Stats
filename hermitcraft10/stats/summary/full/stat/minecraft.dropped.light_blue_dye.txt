@@ -1,0 +1,20 @@
+minecraft.dropped.light_blue_dye
+18: PearlescentMoon: 80
+18: Renthedog: 73
+18: falsesymmetry: 56
+18: Grian: 17
+18: Docm77: 10
+18: BdoubleO100: 8
+18: ZombieCleo: 8
+18: Xisuma: 6
+18: Skizzleman: 5
+18: impulseSV: 5
+18: cubfan135: 3
+18: Etho: 3
+18: GeminiTay: 2
+18: Tango: 2
+18: Smallishbeans: 2
+18: VintageBeef: 1
+18: iJevin: 1
+18: GoodTimeWithScar: 1
+Total 283

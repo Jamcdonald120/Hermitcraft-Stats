@@ -1,0 +1,18 @@
+minecraft.crafted.bamboo_door
+16: Tango: 237
+16: impulseSV: 183
+16: Skizzleman: 84
+16: Keralis1: 81
+16: BdoubleO100: 69
+16: Xisuma: 18
+16: cubfan135: 18
+16: Smallishbeans: 15
+16: PearlescentMoon: 15
+16: Mumbo: 12
+16: falsesymmetry: 6
+16: Docm77: 3
+16: VintageBeef: 3
+16: Etho: 3
+16: hypnotizd: 3
+16: GoodTimeWithScar: 3
+Total 753

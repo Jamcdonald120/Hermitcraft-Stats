@@ -1,0 +1,25 @@
+minecraft.mined.polished_andesite_stairs
+23: impulseSV: 265
+23: xBCrafted: 46
+23: Xisuma: 40
+23: Tango: 33
+23: Mumbo: 30
+23: Etho: 21
+23: BdoubleO100: 16
+23: cubfan135: 15
+23: GoodTimeWithScar: 14
+23: Renthedog: 13
+23: PearlescentMoon: 13
+23: Smallishbeans: 12
+23: hypnotizd: 9
+23: Zedaph: 9
+23: Docm77: 7
+23: iJevin: 6
+23: ZombieCleo: 6
+23: VintageBeef: 5
+23: GeminiTay: 5
+23: Keralis1: 5
+23: falsesymmetry: 2
+23: joehillssays: 1
+23: Skizzleman: 1
+Total 574

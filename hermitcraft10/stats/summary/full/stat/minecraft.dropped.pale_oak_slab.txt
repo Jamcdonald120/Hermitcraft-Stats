@@ -1,0 +1,5 @@
+minecraft.dropped.pale_oak_slab
+3: iJevin: 40
+3: Skizzleman: 7
+3: GoodTimeWithScar: 1
+Total 48

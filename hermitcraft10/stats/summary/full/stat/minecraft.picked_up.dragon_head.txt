@@ -1,0 +1,25 @@
+minecraft.picked_up.dragon_head
+23: iJevin: 142
+23: GoodTimeWithScar: 54
+23: PearlescentMoon: 47
+23: cubfan135: 30
+23: Etho: 21
+23: Skizzleman: 17
+23: joehillssays: 14
+23: hypnotizd: 14
+23: Grian: 8
+23: Renthedog: 7
+23: impulseSV: 7
+23: Docm77: 6
+23: Xisuma: 6
+23: falsesymmetry: 4
+23: Welsknight: 4
+23: VintageBeef: 3
+23: GeminiTay: 3
+23: Tango: 3
+23: BdoubleO100: 3
+23: Keralis1: 2
+23: ZombieCleo: 1
+23: Mumbo: 1
+23: Zedaph: 1
+Total 398

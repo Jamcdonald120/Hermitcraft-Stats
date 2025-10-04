@@ -1,0 +1,19 @@
+minecraft.picked_up.purpur_block
+17: hypnotizd: 900
+17: Xisuma: 158
+17: impulseSV: 92
+17: GoodTimeWithScar: 87
+17: cubfan135: 86
+17: PearlescentMoon: 70
+17: iJevin: 64
+17: Keralis1: 55
+17: Grian: 41
+17: Docm77: 38
+17: xBCrafted: 34
+17: Tango: 33
+17: VintageBeef: 30
+17: ZombieCleo: 26
+17: Renthedog: 21
+17: falsesymmetry: 21
+17: joehillssays: 6
+Total 1762

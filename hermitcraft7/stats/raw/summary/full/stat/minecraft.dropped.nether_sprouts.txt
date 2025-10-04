@@ -1,0 +1,5 @@
+minecraft.dropped.nether_sprouts
+3: BdoubleO100: 192
+3: Etho: 2
+3: Xisuma: 1
+Total 195

@@ -1,0 +1,29 @@
+minecraft.crafted.iron_chestplate
+27: falsesymmetry: 42
+27: Xisuma: 40
+27: cubfan135: 34
+27: ZombieCleo: 34
+27: impulseSV: 25
+27: Welsknight: 22
+27: Stressmonster101: 22
+27: iJevin: 17
+27: iskall85: 13
+27: Docm77: 11
+27: Grian: 11
+27: Tango: 9
+27: joehillssays: 6
+27: MumboJumbo: 6
+27: Keralis1: 6
+27: Renthedog: 5
+27: Jura_Whitey: 4
+27: GoodTimeWithScar: 4
+27: Tinfoilchef: 4
+27: Zedaph: 3
+27: xBCrafted: 2
+27: Biffa2001: 2
+27: EvilXisuma: 1
+27: HumanCleo: 1
+27: PythonGB: 1
+27: Jessassin: 1
+27: BdoubleO100: 1
+Total 327

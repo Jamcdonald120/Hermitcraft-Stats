@@ -1,0 +1,29 @@
+minecraft.picked_up.string
+27: iJevin: 5593
+27: PearlescentMoon: 2316
+27: Grian: 1914
+27: cubfan135: 1740
+27: GoodTimeWithScar: 1015
+27: Xisuma: 1010
+27: VintageBeef: 936
+27: Docm77: 811
+27: Tango: 748
+27: ZombieCleo: 600
+27: Welsknight: 559
+27: hypnotizd: 527
+27: impulseSV: 425
+27: BdoubleO100: 388
+27: falsesymmetry: 369
+27: joehillssays: 276
+27: Etho: 274
+27: Renthedog: 259
+27: GeminiTay: 178
+27: xBCrafted: 164
+27: Zedaph: 106
+27: Keralis1: 84
+27: iskall85: 65
+27: Stressmonster101: 24
+27: MumboJumbo: 20
+27: Tinfoilchef: 14
+27: EvilXisuma: 9
+Total 20424

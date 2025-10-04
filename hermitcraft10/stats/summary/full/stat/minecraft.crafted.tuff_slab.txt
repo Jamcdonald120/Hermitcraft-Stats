@@ -1,0 +1,22 @@
+minecraft.crafted.tuff_slab
+20: Keralis1: 1914
+20: GeminiTay: 256
+20: cubfan135: 236
+20: falsesymmetry: 192
+20: GoodTimeWithScar: 168
+20: Tango: 145
+20: BdoubleO100: 100
+20: Docm77: 88
+20: Xisuma: 74
+20: Grian: 64
+20: Renthedog: 62
+20: PearlescentMoon: 60
+20: Etho: 48
+20: Mumbo: 42
+20: ZombieCleo: 36
+20: impulseSV: 32
+20: Welsknight: 26
+20: Zedaph: 16
+20: iJevin: 6
+20: hypnotizd: 2
+Total 3567

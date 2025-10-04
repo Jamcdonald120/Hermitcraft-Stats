@@ -1,0 +1,24 @@
+minecraft.picked_up.brown_wool
+22: Xisuma: 1597
+22: iJevin: 625
+22: Docm77: 530
+22: BdoubleO100: 366
+22: PearlescentMoon: 274
+22: Tango: 271
+22: GoodTimeWithScar: 265
+22: falsesymmetry: 225
+22: joehillssays: 157
+22: Etho: 155
+22: Skizzleman: 135
+22: Renthedog: 106
+22: ZombieCleo: 91
+22: VintageBeef: 55
+22: Grian: 45
+22: impulseSV: 30
+22: Zedaph: 30
+22: Keralis1: 14
+22: Smallishbeans: 9
+22: GeminiTay: 6
+22: cubfan135: 6
+22: Mumbo: 1
+Total 4993

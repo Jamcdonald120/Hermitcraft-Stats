@@ -1,0 +1,9 @@
+minecraft.dropped.black_carpet
+7: Renthedog: 192
+7: Grian: 30
+7: BdoubleO100: 16
+7: Etho: 12
+7: Skizzleman: 2
+7: Zedaph: 2
+7: iJevin: 1
+Total 255

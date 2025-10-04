@@ -1,0 +1,25 @@
+minecraft.picked_up.pale_moss_carpet
+23: BdoubleO100: 6016
+23: GoodTimeWithScar: 2023
+23: joehillssays: 624
+23: cubfan135: 621
+23: Docm77: 485
+23: Tango: 349
+23: Smallishbeans: 265
+23: Xisuma: 191
+23: Etho: 188
+23: Renthedog: 156
+23: falsesymmetry: 143
+23: PearlescentMoon: 84
+23: Skizzleman: 63
+23: xBCrafted: 46
+23: Zedaph: 41
+23: Grian: 32
+23: iJevin: 30
+23: Mumbo: 24
+23: Keralis1: 16
+23: GeminiTay: 14
+23: impulseSV: 11
+23: VintageBeef: 1
+23: ZombieCleo: 1
+Total 11424

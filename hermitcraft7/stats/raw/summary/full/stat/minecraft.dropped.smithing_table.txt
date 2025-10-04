@@ -1,0 +1,9 @@
+minecraft.dropped.smithing_table
+7: Tango: 55
+7: Zedaph: 35
+7: Grian: 25
+7: Etho: 6
+7: MumboJumbo: 6
+7: cubfan135: 2
+7: iJevin: 1
+Total 130

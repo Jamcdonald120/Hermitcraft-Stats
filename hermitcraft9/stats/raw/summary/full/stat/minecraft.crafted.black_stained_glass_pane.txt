@@ -1,0 +1,17 @@
+minecraft.crafted.black_stained_glass_pane
+15: falsesymmetry: 1507
+15: hypnotizd: 912
+15: Keralis1: 760
+15: cubfan135: 416
+15: impulseSV: 400
+15: Docm77: 384
+15: Renthedog: 384
+15: iJevin: 288
+15: xBCrafted: 240
+15: Xisuma: 232
+15: PearlescentMoon: 176
+15: Tango: 96
+15: BdoubleO100: 24
+15: Zedaph: 24
+15: GoodTimeWithScar: 16
+Total 5859

@@ -1,0 +1,26 @@
+minecraft.picked_up.deepslate_redstone_ore
+24: PearlescentMoon: 1003
+24: Renthedog: 652
+24: GoodTimeWithScar: 402
+24: Xisuma: 352
+24: cubfan135: 312
+24: BdoubleO100: 209
+24: iJevin: 164
+24: GeminiTay: 150
+24: falsesymmetry: 148
+24: ZombieCleo: 101
+24: impulseSV: 72
+24: MumboJumbo: 70
+24: xBCrafted: 64
+24: joehillssays: 57
+24: VintageBeef: 52
+24: Grian: 42
+24: hypnotizd: 40
+24: Tango: 30
+24: Docm77: 25
+24: Zedaph: 25
+24: Stressmonster101: 20
+24: Etho: 13
+24: Welsknight: 8
+24: Keralis1: 4
+Total 4015

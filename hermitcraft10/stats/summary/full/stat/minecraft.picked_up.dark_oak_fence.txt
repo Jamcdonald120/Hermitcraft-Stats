@@ -1,0 +1,27 @@
+minecraft.picked_up.dark_oak_fence
+25: VintageBeef: 1239
+25: iJevin: 682
+25: falsesymmetry: 524
+25: Tango: 414
+25: Skizzleman: 293
+25: GoodTimeWithScar: 181
+25: cubfan135: 156
+25: Xisuma: 150
+25: Zedaph: 139
+25: ZombieCleo: 117
+25: Smallishbeans: 97
+25: PearlescentMoon: 88
+25: Keralis1: 86
+25: Renthedog: 59
+25: Grian: 39
+25: joehillssays: 34
+25: BdoubleO100: 30
+25: hypnotizd: 30
+25: impulseSV: 18
+25: Welsknight: 15
+25: Docm77: 11
+25: GeminiTay: 11
+25: xBCrafted: 11
+25: Etho: 11
+25: Mumbo: 6
+Total 4441

@@ -1,0 +1,8 @@
+minecraft.picked_up.end_crystal
+6: hypnotizd: 34
+6: Etho: 9
+6: GoodTimeWithScar: 9
+6: PearlescentMoon: 7
+6: cubfan135: 4
+6: iJevin: 1
+Total 64

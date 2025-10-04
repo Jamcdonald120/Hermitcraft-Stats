@@ -1,0 +1,29 @@
+minecraft.dropped.egg
+27: Renthedog: 4889
+27: Zedaph: 2666
+27: Grian: 1228
+27: Docm77: 926
+27: cubfan135: 853
+27: falsesymmetry: 723
+27: iJevin: 647
+27: GoodTimeWithScar: 322
+27: ZombieCleo: 292
+27: PearlescentMoon: 107
+27: Xisuma: 91
+27: iskall85: 90
+27: xBCrafted: 82
+27: impulseSV: 81
+27: Keralis1: 70
+27: VintageBeef: 54
+27: Etho: 46
+27: hypnotizd: 34
+27: BdoubleO100: 11
+27: SolidarityGaming: 11
+27: RentheKing: 6
+27: MythicalSausage: 5
+27: GeminiTay: 5
+27: joehillssays: 4
+27: Mumbo: 3
+27: Tango: 1
+27: Stressmonster101: 1
+Total 13248

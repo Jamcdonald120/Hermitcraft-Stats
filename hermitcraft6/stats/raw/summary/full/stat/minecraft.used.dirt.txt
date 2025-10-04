@@ -1,0 +1,35 @@
+minecraft.used.dirt
+33: GoodTimeWithScar: 219949
+33: cubfan135: 130316
+33: falsesymmetry: 121690
+33: Renthedog: 64341
+33: Xisuma: 54929
+33: Grian: 30391
+33: iskall85: 25583
+33: Tango: 23127
+33: joehillssays: 21811
+33: impulseSV: 20658
+33: iJevin: 20076
+33: MumboJumbo: 19221
+33: Stressmonster101: 14801
+33: Docm77: 14441
+33: Welsknight: 10729
+33: Zedaph: 9956
+33: BdoubleO100: 8522
+33: PythonGB: 6281
+33: Tinfoilchef: 3981
+33: Keralis1: 3068
+33: ZombieCleo: 2208
+33: xBCrafted: 1444
+33: Biffa2001: 1107
+33: Jessassin: 799
+33: HumanCleo: 338
+33: Duke_da_dog: 121
+33: isGall85: 45
+33: tterrag: 23
+33: Cojomax99: 18
+33: EvilXisuma: 17
+33: PhoenixfireLune: 4
+33: CamM77: 1
+33: BadTimeWithScar: 1
+Total 829997

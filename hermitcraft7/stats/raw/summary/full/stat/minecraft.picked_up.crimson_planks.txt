@@ -1,0 +1,21 @@
+minecraft.picked_up.crimson_planks
+19: iJevin: 1022
+19: cubfan135: 652
+19: Grian: 483
+19: Etho: 412
+19: Tango: 270
+19: Zedaph: 245
+19: Stressmonster101: 173
+19: impulseSV: 77
+19: falsesymmetry: 74
+19: Xisuma: 73
+19: ZombieCleo: 65
+19: GoodTimeWithScar: 37
+19: Renthedog: 24
+19: VintageBeef: 21
+19: joehillssays: 19
+19: iskall85: 10
+19: BdoubleO100: 5
+19: Welsknight: 2
+19: xBCrafted: 1
+Total 3665

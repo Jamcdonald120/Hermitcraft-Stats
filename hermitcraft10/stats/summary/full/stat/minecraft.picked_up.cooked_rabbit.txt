@@ -1,0 +1,6 @@
+minecraft.picked_up.cooked_rabbit
+4: Smallishbeans: 19
+4: PearlescentMoon: 9
+4: iJevin: 2
+4: GoodTimeWithScar: 1
+Total 31

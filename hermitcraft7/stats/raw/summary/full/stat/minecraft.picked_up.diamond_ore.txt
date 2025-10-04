@@ -1,0 +1,25 @@
+minecraft.picked_up.diamond_ore
+23: iskall85: 5668
+23: Keralis1: 3918
+23: iJevin: 3111
+23: cubfan135: 2802
+23: Docm77: 2095
+23: GoodTimeWithScar: 1164
+23: hypnotizd: 998
+23: Stressmonster101: 909
+23: Grian: 466
+23: ZombieCleo: 424
+23: xBCrafted: 419
+23: Etho: 401
+23: falsesymmetry: 319
+23: Xisuma: 250
+23: Zedaph: 165
+23: Tango: 147
+23: impulseSV: 123
+23: Renthedog: 112
+23: MumboJumbo: 64
+23: VintageBeef: 21
+23: joehillssays: 15
+23: Welsknight: 9
+23: BdoubleO100: 6
+Total 23606

@@ -1,0 +1,26 @@
+minecraft.picked_up.lever
+24: impulseSV: 1063
+24: Zedaph: 674
+24: Tango: 554
+24: cubfan135: 460
+24: Grian: 327
+24: MumboJumbo: 268
+24: GoodTimeWithScar: 220
+24: Keralis1: 220
+24: iJevin: 202
+24: Xisuma: 179
+24: hypnotizd: 157
+24: Docm77: 152
+24: joehillssays: 144
+24: Etho: 129
+24: iskall85: 107
+24: xBCrafted: 68
+24: VintageBeef: 47
+24: Renthedog: 46
+24: falsesymmetry: 44
+24: Stressmonster101: 44
+24: BdoubleO100: 38
+24: Welsknight: 23
+24: ZombieCleo: 12
+24: Tinfoilchef: 4
+Total 5182

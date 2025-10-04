@@ -1,0 +1,15 @@
+minecraft.mined.blackstone_wall
+13: impulseSV: 96
+13: Tango: 72
+13: iJevin: 52
+13: GoodTimeWithScar: 44
+13: joehillssays: 30
+13: Xisuma: 25
+13: PearlescentMoon: 15
+13: cubfan135: 8
+13: xBCrafted: 4
+13: Zedaph: 2
+13: Renthedog: 1
+13: Grian: 1
+13: Keralis1: 1
+Total 351

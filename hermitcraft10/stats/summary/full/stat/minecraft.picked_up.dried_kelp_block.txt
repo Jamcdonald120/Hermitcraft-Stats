@@ -1,0 +1,17 @@
+minecraft.picked_up.dried_kelp_block
+15: Tango: 13216
+15: impulseSV: 1597
+15: GoodTimeWithScar: 1334
+15: Grian: 730
+15: Smallishbeans: 412
+15: Skizzleman: 206
+15: falsesymmetry: 115
+15: BdoubleO100: 81
+15: PearlescentMoon: 70
+15: ZombieCleo: 47
+15: joehillssays: 41
+15: Etho: 41
+15: Zedaph: 19
+15: GeminiTay: 10
+15: Mumbo: 3
+Total 17922

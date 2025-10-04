@@ -1,0 +1,16 @@
+minecraft.mined.nether_brick_fence
+14: impulseSV: 356
+14: Tango: 222
+14: iJevin: 155
+14: BdoubleO100: 64
+14: Keralis1: 64
+14: cubfan135: 46
+14: PearlescentMoon: 42
+14: Xisuma: 40
+14: Docm77: 12
+14: Renthedog: 4
+14: iskall85: 3
+14: Etho: 3
+14: GoodTimeWithScar: 3
+14: falsesymmetry: 2
+Total 1016

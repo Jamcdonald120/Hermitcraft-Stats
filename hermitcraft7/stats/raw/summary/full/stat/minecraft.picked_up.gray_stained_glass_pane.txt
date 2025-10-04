@@ -1,0 +1,18 @@
+minecraft.picked_up.gray_stained_glass_pane
+16: Zedaph: 942
+16: Grian: 343
+16: Xisuma: 197
+16: falsesymmetry: 145
+16: GoodTimeWithScar: 136
+16: Keralis1: 53
+16: impulseSV: 50
+16: iskall85: 44
+16: cubfan135: 41
+16: BdoubleO100: 38
+16: Stressmonster101: 8
+16: VintageBeef: 6
+16: Tango: 6
+16: joehillssays: 4
+16: Renthedog: 2
+16: Etho: 1
+Total 2016

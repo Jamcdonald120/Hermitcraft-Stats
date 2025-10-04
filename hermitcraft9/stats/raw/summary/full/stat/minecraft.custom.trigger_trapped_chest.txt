@@ -1,0 +1,26 @@
+minecraft.custom.trigger_trapped_chest
+24: GoodTimeWithScar: 364
+24: VintageBeef: 130
+24: xBCrafted: 73
+24: Etho: 64
+24: iJevin: 62
+24: cubfan135: 25
+24: ZombieCleo: 19
+24: joehillssays: 18
+24: Docm77: 15
+24: Keralis1: 15
+24: PearlescentMoon: 13
+24: Tango: 9
+24: Grian: 5
+24: impulseSV: 5
+24: Mumbo: 4
+24: Xisuma: 2
+24: SolidarityGaming: 2
+24: Minerva246: 1
+24: OrionSound: 1
+24: Smajor1995: 1
+24: iskall85: 1
+24: falsesymmetry: 1
+24: RentheKing: 1
+24: Zedaph: 1
+Total 832

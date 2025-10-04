@@ -1,0 +1,20 @@
+minecraft.dropped.elytra
+18: PearlescentMoon: 16
+18: Grian: 14
+18: GoodTimeWithScar: 12
+18: impulseSV: 12
+18: MumboJumbo: 11
+18: iJevin: 10
+18: Docm77: 9
+18: BdoubleO100: 8
+18: cubfan135: 7
+18: Renthedog: 6
+18: Xisuma: 4
+18: Keralis1: 3
+18: joehillssays: 2
+18: GeminiTay: 2
+18: Tango: 2
+18: ZombieCleo: 2
+18: xBCrafted: 1
+18: Zedaph: 1
+Total 122

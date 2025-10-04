@@ -1,0 +1,6 @@
+minecraft.dropped.blue_egg
+4: GoodTimeWithScar: 12
+4: PearlescentMoon: 5
+4: Renthedog: 2
+4: iJevin: 1
+Total 20

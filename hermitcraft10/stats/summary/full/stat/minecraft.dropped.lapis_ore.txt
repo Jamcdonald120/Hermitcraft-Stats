@@ -1,0 +1,21 @@
+minecraft.dropped.lapis_ore
+19: Grian: 74
+19: iJevin: 21
+19: GoodTimeWithScar: 21
+19: xBCrafted: 12
+19: cubfan135: 12
+19: Xisuma: 10
+19: Docm77: 8
+19: GeminiTay: 8
+19: Skizzleman: 8
+19: Zedaph: 8
+19: Tango: 7
+19: impulseSV: 6
+19: falsesymmetry: 5
+19: Etho: 5
+19: Renthedog: 4
+19: hypnotizd: 4
+19: Keralis1: 2
+19: PearlescentMoon: 1
+19: Mumbo: 1
+Total 217

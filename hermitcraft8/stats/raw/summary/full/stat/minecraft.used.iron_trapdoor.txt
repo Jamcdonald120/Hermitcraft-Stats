@@ -1,0 +1,24 @@
+minecraft.used.iron_trapdoor
+22: impulseSV: 1036
+22: xBCrafted: 926
+22: Keralis1: 610
+22: Zedaph: 307
+22: hypnotizd: 229
+22: Xisuma: 168
+22: VintageBeef: 99
+22: Grian: 89
+22: Tango: 89
+22: Welsknight: 68
+22: PearlescentMoon: 62
+22: GeminiTay: 56
+22: Docm77: 53
+22: BdoubleO100: 34
+22: MumboJumbo: 31
+22: cubfan135: 17
+22: Renthedog: 14
+22: GoodTimeWithScar: 12
+22: iskall85: 10
+22: falsesymmetry: 10
+22: joehillssays: 3
+22: ZombieCleo: 3
+Total 3926

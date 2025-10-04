@@ -1,0 +1,10 @@
+minecraft.picked_up.diamond_horse_armor
+8: Grian: 7
+8: PearlescentMoon: 6
+8: Tango: 5
+8: BdoubleO100: 5
+8: Etho: 3
+8: GeminiTay: 1
+8: Welsknight: 1
+8: GoodTimeWithScar: 1
+Total 29

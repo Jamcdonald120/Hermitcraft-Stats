@@ -1,0 +1,8 @@
+minecraft.dropped.mangrove_stairs
+6: PearlescentMoon: 67
+6: cubfan135: 45
+6: GoodTimeWithScar: 20
+6: Grian: 15
+6: falsesymmetry: 9
+6: Mumbo: 3
+Total 159

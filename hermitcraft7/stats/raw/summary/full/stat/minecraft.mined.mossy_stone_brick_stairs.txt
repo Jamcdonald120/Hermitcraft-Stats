@@ -1,0 +1,7 @@
+minecraft.mined.mossy_stone_brick_stairs
+5: xBCrafted: 24
+5: Tango: 5
+5: joehillssays: 2
+5: GoodTimeWithScar: 2
+5: Keralis1: 2
+Total 35

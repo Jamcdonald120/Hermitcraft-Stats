@@ -1,0 +1,28 @@
+minecraft.picked_up.red_mushroom
+26: Keralis1: 3005
+26: RentheKing: 1751
+26: VintageBeef: 561
+26: Stressmonster101: 436
+26: PearlescentMoon: 415
+26: impulseSV: 369
+26: falsesymmetry: 362
+26: Xisuma: 315
+26: Tango: 282
+26: GoodTimeWithScar: 264
+26: Etho: 249
+26: Grian: 238
+26: Renthedog: 223
+26: iJevin: 176
+26: ZombieCleo: 149
+26: cubfan135: 110
+26: GeminiTay: 67
+26: BdoubleO100: 62
+26: Docm77: 40
+26: Zedaph: 40
+26: xBCrafted: 39
+26: hypnotizd: 15
+26: joehillssays: 12
+26: OrionSound: 8
+26: iskall85: 6
+26: Mumbo: 3
+Total 9197

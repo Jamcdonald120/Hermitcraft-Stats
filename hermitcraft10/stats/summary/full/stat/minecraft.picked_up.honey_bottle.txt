@@ -1,0 +1,23 @@
+minecraft.picked_up.honey_bottle
+21: Etho: 281
+21: PearlescentMoon: 267
+21: impulseSV: 214
+21: Skizzleman: 199
+21: Tango: 180
+21: GoodTimeWithScar: 157
+21: cubfan135: 121
+21: GeminiTay: 73
+21: Smallishbeans: 41
+21: joehillssays: 35
+21: Xisuma: 17
+21: iJevin: 17
+21: Grian: 17
+21: Zedaph: 14
+21: VintageBeef: 13
+21: Docm77: 9
+21: Renthedog: 8
+21: falsesymmetry: 7
+21: Keralis1: 4
+21: SolidarityGaming: 3
+21: xBCrafted: 2
+Total 1679

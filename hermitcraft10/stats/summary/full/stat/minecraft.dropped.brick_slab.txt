@@ -1,0 +1,8 @@
+minecraft.dropped.brick_slab
+6: Renthedog: 19
+6: SolidarityGaming: 19
+6: Etho: 8
+6: Grian: 3
+6: Xisuma: 2
+6: Tango: 1
+Total 52

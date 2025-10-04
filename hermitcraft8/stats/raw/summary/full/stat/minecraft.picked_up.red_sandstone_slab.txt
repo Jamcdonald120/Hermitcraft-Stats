@@ -1,0 +1,8 @@
+minecraft.picked_up.red_sandstone_slab
+6: GoodTimeWithScar: 240
+6: cubfan135: 173
+6: PearlescentMoon: 54
+6: BdoubleO100: 36
+6: impulseSV: 9
+6: MumboJumbo: 4
+Total 516

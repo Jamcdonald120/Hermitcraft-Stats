@@ -1,0 +1,16 @@
+minecraft.dropped.comparator
+14: Zedaph: 223
+14: Tango: 196
+14: Etho: 163
+14: iJevin: 70
+14: Docm77: 21
+14: Renthedog: 16
+14: Xisuma: 12
+14: Grian: 4
+14: BdoubleO100: 4
+14: GeminiTay: 3
+14: Skizzleman: 3
+14: impulseSV: 2
+14: PearlescentMoon: 1
+14: Keralis1: 1
+Total 719

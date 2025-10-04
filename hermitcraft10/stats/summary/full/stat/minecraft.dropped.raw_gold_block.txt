@@ -1,0 +1,6 @@
+minecraft.dropped.raw_gold_block
+4: Keralis1: 18
+4: iJevin: 9
+4: impulseSV: 4
+4: ZombieCleo: 3
+Total 34

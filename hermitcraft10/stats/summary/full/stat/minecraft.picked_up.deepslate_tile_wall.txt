@@ -1,0 +1,22 @@
+minecraft.picked_up.deepslate_tile_wall
+20: Renthedog: 576
+20: xBCrafted: 377
+20: Skizzleman: 306
+20: Grian: 128
+20: impulseSV: 122
+20: cubfan135: 95
+20: BdoubleO100: 87
+20: PearlescentMoon: 62
+20: Mumbo: 22
+20: Xisuma: 21
+20: GoodTimeWithScar: 16
+20: Tango: 13
+20: ZombieCleo: 12
+20: joehillssays: 9
+20: Etho: 6
+20: Docm77: 4
+20: iJevin: 4
+20: Smallishbeans: 2
+20: falsesymmetry: 2
+20: Keralis1: 1
+Total 1865

@@ -1,0 +1,11 @@
+minecraft.dropped.light_gray_wool
+9: BdoubleO100: 960
+9: Zedaph: 141
+9: Grian: 60
+9: falsesymmetry: 36
+9: Welsknight: 36
+9: Tango: 4
+9: Xisuma: 1
+9: iJevin: 1
+9: iskall85: 1
+Total 1240

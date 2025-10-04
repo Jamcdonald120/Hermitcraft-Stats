@@ -1,0 +1,22 @@
+minecraft.dropped.magma_block
+20: iJevin: 518
+20: Tango: 149
+20: falsesymmetry: 59
+20: cubfan135: 47
+20: Keralis1: 41
+20: Zedaph: 35
+20: iskall85: 34
+20: impulseSV: 19
+20: GoodTimeWithScar: 17
+20: Docm77: 11
+20: VintageBeef: 11
+20: xBCrafted: 10
+20: Etho: 10
+20: Xisuma: 9
+20: Mumbo: 8
+20: RentheKing: 7
+20: MumboJumbo: 7
+20: Grian: 6
+20: BdoubleO100: 3
+20: Renthedog: 1
+Total 1002

@@ -1,0 +1,8 @@
+minecraft.dropped.stripped_warped_stem
+6: Renthedog: 68
+6: Tango: 50
+6: GeminiTay: 3
+6: Smallishbeans: 1
+6: Etho: 1
+6: GoodTimeWithScar: 1
+Total 124

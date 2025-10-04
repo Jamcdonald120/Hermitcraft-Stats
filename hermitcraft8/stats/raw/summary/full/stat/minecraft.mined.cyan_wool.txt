@@ -1,0 +1,8 @@
+minecraft.mined.cyan_wool
+6: Zedaph: 21
+6: GeminiTay: 16
+6: PearlescentMoon: 3
+6: Keralis1: 3
+6: Grian: 1
+6: Welsknight: 1
+Total 45

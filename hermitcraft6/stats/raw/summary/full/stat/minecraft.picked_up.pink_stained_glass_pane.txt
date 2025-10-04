@@ -1,0 +1,12 @@
+minecraft.picked_up.pink_stained_glass_pane
+10: PythonGB: 48
+10: Renthedog: 21
+10: Stressmonster101: 16
+10: Welsknight: 14
+10: Xisuma: 9
+10: falsesymmetry: 3
+10: cubfan135: 3
+10: GoodTimeWithScar: 3
+10: MumboJumbo: 2
+10: iskall85: 1
+Total 120

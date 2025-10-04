@@ -1,0 +1,26 @@
+minecraft.picked_up.chicken
+24: Renthedog: 660
+24: Docm77: 296
+24: Xisuma: 276
+24: Tango: 63
+24: Welsknight: 42
+24: iJevin: 37
+24: Grian: 35
+24: impulseSV: 24
+24: cubfan135: 15
+24: GoodTimeWithScar: 14
+24: joehillssays: 12
+24: VintageBeef: 11
+24: iskall85: 9
+24: Stressmonster101: 8
+24: PearlescentMoon: 7
+24: Etho: 6
+24: ZombieCleo: 6
+24: Zedaph: 5
+24: BdoubleO100: 4
+24: MumboJumbo: 4
+24: xBCrafted: 3
+24: falsesymmetry: 2
+24: hypnotizd: 2
+24: GeminiTay: 1
+Total 1542

@@ -1,0 +1,28 @@
+minecraft.picked_up.spruce_boat
+26: Renthedog: 300
+26: cubfan135: 271
+26: iskall85: 253
+26: Zedaph: 135
+26: Stressmonster101: 109
+26: falsesymmetry: 84
+26: GoodTimeWithScar: 76
+26: Docm77: 72
+26: joehillssays: 61
+26: Xisuma: 57
+26: impulseSV: 55
+26: PythonGB: 44
+26: Grian: 37
+26: Tango: 31
+26: ZombieCleo: 28
+26: iJevin: 23
+26: Biffa2001: 17
+26: Keralis1: 16
+26: BdoubleO100: 14
+26: MumboJumbo: 13
+26: Welsknight: 7
+26: Tinfoilchef: 6
+26: HumanCleo: 1
+26: Jessassin: 1
+26: xBCrafted: 1
+26: Duke_da_dog: 1
+Total 1713

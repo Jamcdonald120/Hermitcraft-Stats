@@ -1,0 +1,15 @@
+minecraft.picked_up.jungle_slab
+13: PearlescentMoon: 259
+13: Etho: 165
+13: Docm77: 162
+13: GeminiTay: 130
+13: impulseSV: 117
+13: iJevin: 78
+13: MumboJumbo: 76
+13: GoodTimeWithScar: 61
+13: Keralis1: 14
+13: Xisuma: 3
+13: hypnotizd: 3
+13: BdoubleO100: 1
+13: iskall85: 1
+Total 1070

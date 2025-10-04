@@ -1,0 +1,5 @@
+minecraft.dropped.acacia_fence_gate
+3: Renthedog: 16
+3: Grian: 5
+3: Keralis1: 1
+Total 22

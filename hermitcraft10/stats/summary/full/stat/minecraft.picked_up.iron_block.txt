@@ -1,0 +1,28 @@
+minecraft.picked_up.iron_block
+26: joehillssays: 9240
+26: Etho: 6347
+26: cubfan135: 5792
+26: xBCrafted: 4673
+26: impulseSV: 4035
+26: Docm77: 3452
+26: Xisuma: 3104
+26: Skizzleman: 3037
+26: GoodTimeWithScar: 2881
+26: Smallishbeans: 2607
+26: PearlescentMoon: 2500
+26: iJevin: 2363
+26: Tango: 2067
+26: Grian: 1577
+26: Renthedog: 1371
+26: Keralis1: 1277
+26: ZombieCleo: 1133
+26: falsesymmetry: 1113
+26: Mumbo: 1036
+26: BdoubleO100: 1013
+26: hypnotizd: 577
+26: GeminiTay: 564
+26: VintageBeef: 557
+26: Welsknight: 354
+26: Zedaph: 232
+26: Eyjoy27: 1
+Total 62903

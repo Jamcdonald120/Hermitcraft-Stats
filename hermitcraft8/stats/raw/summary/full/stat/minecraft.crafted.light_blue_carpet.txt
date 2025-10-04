@@ -1,0 +1,7 @@
+minecraft.crafted.light_blue_carpet
+5: xBCrafted: 48
+5: joehillssays: 36
+5: PearlescentMoon: 6
+5: Renthedog: 3
+5: Welsknight: 3
+Total 96

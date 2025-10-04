@@ -1,0 +1,26 @@
+minecraft.dropped.leather_leggings
+24: Tango: 51
+24: Xisuma: 50
+24: Grian: 36
+24: Etho: 27
+24: impulseSV: 17
+24: hypnotizd: 12
+24: Zedaph: 12
+24: iskall85: 8
+24: falsesymmetry: 7
+24: iJevin: 6
+24: GoodTimeWithScar: 6
+24: Docm77: 5
+24: Renthedog: 4
+24: cubfan135: 4
+24: VintageBeef: 3
+24: PearlescentMoon: 3
+24: xBCrafted: 3
+24: GeminiTay: 2
+24: ZombieCleo: 2
+24: joehillssays: 1
+24: BdoubleO100: 1
+24: Welsknight: 1
+24: MumboJumbo: 1
+24: Stressmonster101: 1
+Total 263

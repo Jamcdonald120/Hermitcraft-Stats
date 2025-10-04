@@ -1,0 +1,16 @@
+minecraft.dropped.deepslate_iron_ore
+14: Zedaph: 139
+14: Tango: 104
+14: xBCrafted: 26
+14: Docm77: 14
+14: Xisuma: 12
+14: Grian: 12
+14: iJevin: 9
+14: falsesymmetry: 9
+14: GoodTimeWithScar: 6
+14: Keralis1: 3
+14: impulseSV: 3
+14: iskall85: 2
+14: Mumbo: 1
+14: hypnotizd: 1
+Total 341

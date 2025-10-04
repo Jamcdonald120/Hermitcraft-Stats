@@ -1,0 +1,26 @@
+minecraft.picked_up.cobblestone_stairs
+24: iJevin: 429
+24: falsesymmetry: 294
+24: GeminiTay: 287
+24: Docm77: 244
+24: cubfan135: 229
+24: Grian: 159
+24: GoodTimeWithScar: 66
+24: Tango: 62
+24: Xisuma: 53
+24: Renthedog: 40
+24: joehillssays: 33
+24: impulseSV: 32
+24: Keralis1: 27
+24: Etho: 25
+24: RentheKing: 25
+24: BdoubleO100: 22
+24: Stressmonster101: 22
+24: xBCrafted: 21
+24: iskall85: 12
+24: hypnotizd: 7
+24: ZombieCleo: 4
+24: Zedaph: 4
+24: VintageBeef: 1
+24: Smallishbeans: 1
+Total 2099

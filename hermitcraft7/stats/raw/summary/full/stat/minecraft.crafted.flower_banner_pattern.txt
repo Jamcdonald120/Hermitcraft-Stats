@@ -1,0 +1,7 @@
+minecraft.crafted.flower_banner_pattern
+5: Xisuma: 1
+5: VintageBeef: 1
+5: Tango: 1
+5: falsesymmetry: 1
+5: ZombieCleo: 1
+Total 5

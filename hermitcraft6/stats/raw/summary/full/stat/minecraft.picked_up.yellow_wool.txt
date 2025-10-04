@@ -1,0 +1,21 @@
+minecraft.picked_up.yellow_wool
+19: Xisuma: 4320
+19: GoodTimeWithScar: 1222
+19: ZombieCleo: 441
+19: iskall85: 365
+19: BdoubleO100: 286
+19: falsesymmetry: 257
+19: Docm77: 218
+19: cubfan135: 187
+19: iJevin: 182
+19: Tinfoilchef: 164
+19: Grian: 161
+19: Keralis1: 69
+19: Biffa2001: 66
+19: joehillssays: 54
+19: Welsknight: 26
+19: Tango: 23
+19: Renthedog: 22
+19: impulseSV: 10
+19: Zedaph: 9
+Total 8082

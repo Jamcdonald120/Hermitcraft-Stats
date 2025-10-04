@@ -1,0 +1,21 @@
+minecraft.picked_up.purpur_block
+19: falsesymmetry: 2342
+19: GoodTimeWithScar: 1354
+19: Xisuma: 413
+19: impulseSV: 403
+19: iskall85: 382
+19: Etho: 372
+19: Tango: 360
+19: iJevin: 314
+19: MumboJumbo: 229
+19: Keralis1: 214
+19: Renthedog: 168
+19: cubfan135: 68
+19: xBCrafted: 64
+19: Zedaph: 60
+19: VintageBeef: 49
+19: hypnotizd: 37
+19: joehillssays: 33
+19: Docm77: 14
+19: Grian: 14
+Total 6890

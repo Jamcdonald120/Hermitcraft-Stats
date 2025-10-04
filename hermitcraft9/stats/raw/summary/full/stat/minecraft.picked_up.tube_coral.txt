@@ -1,0 +1,17 @@
+minecraft.picked_up.tube_coral
+15: GoodTimeWithScar: 200
+15: falsesymmetry: 101
+15: ZombieCleo: 50
+15: PearlescentMoon: 34
+15: joehillssays: 25
+15: iJevin: 23
+15: Docm77: 13
+15: Keralis1: 11
+15: VintageBeef: 5
+15: Xisuma: 4
+15: impulseSV: 4
+15: Zedaph: 4
+15: xBCrafted: 2
+15: GeminiTay: 1
+15: BdoubleO100: 1
+Total 478

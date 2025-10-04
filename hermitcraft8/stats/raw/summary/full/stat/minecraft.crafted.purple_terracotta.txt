@@ -1,0 +1,7 @@
+minecraft.crafted.purple_terracotta
+5: Etho: 1608
+5: Grian: 128
+5: Xisuma: 32
+5: Welsknight: 8
+5: ZombieCleo: 8
+Total 1784

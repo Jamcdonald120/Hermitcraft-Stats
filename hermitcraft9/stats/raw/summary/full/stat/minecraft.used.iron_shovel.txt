@@ -1,0 +1,33 @@
+minecraft.used.iron_shovel
+31: impulseSV: 20976
+31: Keralis1: 16774
+31: BdoubleO100: 10693
+31: Xisuma: 9086
+31: joehillssays: 6941
+31: Tango: 5126
+31: iskall85: 4377
+31: falsesymmetry: 3812
+31: ZombieCleo: 2907
+31: PearlescentMoon: 2094
+31: Stressmonster101: 2079
+31: Zedaph: 1769
+31: iJevin: 1346
+31: MythicalSausage: 1000
+31: Renthedog: 918
+31: Docm77: 768
+31: Etho: 752
+31: VintageBeef: 738
+31: hypnotizd: 616
+31: ShubbleYT: 554
+31: Mumbo: 435
+31: MumboJumbo: 435
+31: Grian: 387
+31: GeminiTay: 384
+31: Welsknight: 346
+31: OrionSound: 315
+31: SolidarityGaming: 247
+31: cubfan135: 124
+31: xBCrafted: 48
+31: Tinfoilchef: 44
+31: Pixlriffs: 28
+Total 96119

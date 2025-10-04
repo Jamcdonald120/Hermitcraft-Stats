@@ -1,0 +1,21 @@
+minecraft.dropped.blue_dye
+19: PearlescentMoon: 73
+19: Zedaph: 64
+19: Grian: 36
+19: Renthedog: 33
+19: iJevin: 24
+19: Keralis1: 17
+19: Docm77: 12
+19: GoodTimeWithScar: 11
+19: ZombieCleo: 9
+19: BdoubleO100: 8
+19: Xisuma: 7
+19: GeminiTay: 7
+19: cubfan135: 7
+19: impulseSV: 6
+19: Skizzleman: 5
+19: falsesymmetry: 5
+19: Tango: 4
+19: hypnotizd: 4
+19: Smallishbeans: 2
+Total 334

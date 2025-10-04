@@ -1,0 +1,27 @@
+minecraft.used.diamond_pickaxe
+25: falsesymmetry: 1247046
+25: impulseSV: 1037584
+25: GoodTimeWithScar: 933411
+25: Tango: 855373
+25: MumboJumbo: 649285
+25: cubfan135: 498310
+25: Xisuma: 433571
+25: Grian: 387960
+25: Keralis1: 379444
+25: Etho: 352797
+25: xBCrafted: 326102
+25: iJevin: 314950
+25: Zedaph: 217697
+25: Stressmonster101: 206030
+25: hypnotizd: 202324
+25: Renthedog: 194909
+25: VintageBeef: 174411
+25: iskall85: 167330
+25: Welsknight: 131354
+25: BdoubleO100: 105970
+25: ZombieCleo: 84142
+25: Tinfoilchef: 74063
+25: Docm77: 49364
+25: joehillssays: 12958
+25: BarryBoss1234: 33
+Total 9036418

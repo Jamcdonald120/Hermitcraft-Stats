@@ -1,0 +1,34 @@
+minecraft.picked_up.dark_oak_log
+32: Renthedog: 45340
+32: Stressmonster101: 28601
+32: falsesymmetry: 25447
+32: GoodTimeWithScar: 18762
+32: iskall85: 11221
+32: Grian: 10991
+32: Keralis1: 9665
+32: impulseSV: 8365
+32: cubfan135: 8315
+32: Docm77: 7144
+32: xBCrafted: 5906
+32: iJevin: 5747
+32: BdoubleO100: 4904
+32: PearlescentMoon: 4860
+32: RentheKing: 4804
+32: Xisuma: 4689
+32: Etho: 4602
+32: ZombieCleo: 3596
+32: GeminiTay: 3281
+32: joehillssays: 2786
+32: Tango: 1884
+32: hypnotizd: 1134
+32: VintageBeef: 564
+32: Zedaph: 490
+32: OrionSound: 405
+32: Welsknight: 291
+32: ShubbleYT: 168
+32: Pixlriffs: 157
+32: MythicalSausage: 138
+32: Mumbo: 45
+32: MumboJumbo: 29
+32: SolidarityGaming: 6
+Total 224337

@@ -1,0 +1,4 @@
+minecraft.broken.wooden_sword
+2: Zedaph: 2
+2: Etho: 1
+Total 3

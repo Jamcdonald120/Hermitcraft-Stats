@@ -1,0 +1,23 @@
+minecraft.picked_up.smooth_sandstone_stairs
+21: Xisuma: 536
+21: ZombieCleo: 472
+21: cubfan135: 199
+21: xBCrafted: 183
+21: joehillssays: 148
+21: impulseSV: 78
+21: hypnotizd: 70
+21: Etho: 46
+21: falsesymmetry: 26
+21: iJevin: 13
+21: PearlescentMoon: 11
+21: Welsknight: 9
+21: Zedaph: 8
+21: Docm77: 6
+21: VintageBeef: 2
+21: GeminiTay: 2
+21: GoodTimeWithScar: 2
+21: Renthedog: 1
+21: Grian: 1
+21: BdoubleO100: 1
+21: iskall85: 1
+Total 1815

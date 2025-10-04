@@ -1,0 +1,30 @@
+minecraft.picked_up.dark_oak_slab
+28: falsesymmetry: 4684
+28: Renthedog: 1084
+28: GoodTimeWithScar: 784
+28: ZombieCleo: 523
+28: Grian: 374
+28: cubfan135: 367
+28: OrionSound: 360
+28: GeminiTay: 320
+28: Stressmonster101: 200
+28: xBCrafted: 187
+28: BdoubleO100: 155
+28: Xisuma: 88
+28: joehillssays: 74
+28: impulseSV: 70
+28: iskall85: 57
+28: ShubbleYT: 57
+28: Zedaph: 57
+28: Welsknight: 51
+28: Tango: 48
+28: Keralis1: 47
+28: RentheKing: 30
+28: MythicalSausage: 28
+28: PearlescentMoon: 15
+28: Pixlriffs: 9
+28: iJevin: 6
+28: Docm77: 4
+28: Smallishbeans: 3
+28: fWhip: 2
+Total 9684

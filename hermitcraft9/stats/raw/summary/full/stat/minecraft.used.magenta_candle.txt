@@ -1,0 +1,5 @@
+minecraft.used.magenta_candle
+3: Tango: 28
+3: hypnotizd: 16
+3: impulseSV: 1
+Total 45

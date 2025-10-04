@@ -1,0 +1,26 @@
+minecraft.picked_up.warped_nylium
+24: VintageBeef: 2065
+24: Tango: 1138
+24: PearlescentMoon: 1010
+24: Etho: 800
+24: Keralis1: 318
+24: GoodTimeWithScar: 281
+24: cubfan135: 264
+24: Grian: 260
+24: falsesymmetry: 226
+24: iJevin: 195
+24: ZombieCleo: 178
+24: Xisuma: 122
+24: Zedaph: 98
+24: BdoubleO100: 97
+24: RentheKing: 92
+24: GeminiTay: 47
+24: Renthedog: 32
+24: impulseSV: 32
+24: xBCrafted: 22
+24: joehillssays: 20
+24: Mumbo: 11
+24: hypnotizd: 9
+24: Stressmonster101: 8
+24: Docm77: 3
+Total 7328

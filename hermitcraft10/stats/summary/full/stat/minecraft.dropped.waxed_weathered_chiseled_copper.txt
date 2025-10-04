@@ -1,0 +1,4 @@
+minecraft.dropped.waxed_weathered_chiseled_copper
+2: Etho: 2
+2: Mumbo: 2
+Total 4

@@ -1,0 +1,24 @@
+minecraft.picked_up.mangrove_planks
+22: PearlescentMoon: 733
+22: Grian: 586
+22: Xisuma: 502
+22: iJevin: 491
+22: Mumbo: 269
+22: falsesymmetry: 245
+22: Renthedog: 231
+22: Smallishbeans: 171
+22: Welsknight: 170
+22: Zedaph: 122
+22: GoodTimeWithScar: 118
+22: joehillssays: 103
+22: Skizzleman: 101
+22: impulseSV: 88
+22: ZombieCleo: 87
+22: GeminiTay: 64
+22: Tango: 32
+22: Etho: 21
+22: cubfan135: 19
+22: BdoubleO100: 18
+22: hypnotizd: 12
+22: VintageBeef: 6
+Total 4189

@@ -1,0 +1,13 @@
+minecraft.picked_up.yellow_shulker_box
+11: Xisuma: 370
+11: Welsknight: 262
+11: BdoubleO100: 139
+11: Docm77: 109
+11: Etho: 109
+11: cubfan135: 64
+11: GeminiTay: 42
+11: PearlescentMoon: 28
+11: Keralis1: 11
+11: Grian: 5
+11: Renthedog: 1
+Total 1140

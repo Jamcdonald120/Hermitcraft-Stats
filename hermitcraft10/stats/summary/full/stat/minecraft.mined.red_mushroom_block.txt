@@ -1,0 +1,18 @@
+minecraft.mined.red_mushroom_block
+16: impulseSV: 1709
+16: Grian: 845
+16: Xisuma: 690
+16: iJevin: 679
+16: Etho: 625
+16: Mumbo: 563
+16: Tango: 490
+16: PearlescentMoon: 395
+16: Renthedog: 133
+16: BdoubleO100: 84
+16: Docm77: 56
+16: cubfan135: 47
+16: xBCrafted: 39
+16: Zedaph: 21
+16: Keralis1: 7
+16: joehillssays: 3
+Total 6386

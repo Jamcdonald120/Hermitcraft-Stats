@@ -1,0 +1,17 @@
+minecraft.crafted.cooked_mutton
+15: VintageBeef: 1079
+15: cubfan135: 508
+15: BdoubleO100: 445
+15: joehillssays: 312
+15: Tango: 197
+15: Xisuma: 54
+15: Zedaph: 53
+15: Etho: 34
+15: Grian: 30
+15: Docm77: 27
+15: Stressmonster101: 21
+15: falsesymmetry: 20
+15: GoodTimeWithScar: 12
+15: Tinfoilchef: 6
+15: MumboJumbo: 4
+Total 2802

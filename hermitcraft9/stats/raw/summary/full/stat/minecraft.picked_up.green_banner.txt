@@ -1,0 +1,12 @@
+minecraft.picked_up.green_banner
+10: GoodTimeWithScar: 60
+10: iJevin: 29
+10: cubfan135: 24
+10: PearlescentMoon: 19
+10: Docm77: 7
+10: VintageBeef: 2
+10: Keralis1: 2
+10: Tango: 1
+10: Etho: 1
+10: Zedaph: 1
+Total 146

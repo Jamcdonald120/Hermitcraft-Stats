@@ -1,0 +1,26 @@
+minecraft.picked_up.soul_lantern
+24: Zedaph: 636
+24: Grian: 484
+24: GoodTimeWithScar: 248
+24: joehillssays: 247
+24: cubfan135: 228
+24: Tango: 176
+24: Xisuma: 151
+24: Etho: 133
+24: Renthedog: 110
+24: xBCrafted: 102
+24: ZombieCleo: 88
+24: iJevin: 66
+24: falsesymmetry: 56
+24: MumboJumbo: 36
+24: BarryBoss1234: 28
+24: Keralis1: 23
+24: Stressmonster101: 11
+24: hypnotizd: 8
+24: VintageBeef: 6
+24: impulseSV: 6
+24: Docm77: 4
+24: iskall85: 3
+24: BdoubleO100: 2
+24: Welsknight: 1
+Total 2853

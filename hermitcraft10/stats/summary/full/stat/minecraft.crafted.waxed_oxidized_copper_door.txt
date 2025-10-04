@@ -1,0 +1,4 @@
+minecraft.crafted.waxed_oxidized_copper_door
+2: Keralis1: 36
+2: Tango: 6
+Total 42

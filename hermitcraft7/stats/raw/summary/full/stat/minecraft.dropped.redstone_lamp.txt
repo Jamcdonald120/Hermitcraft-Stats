@@ -1,0 +1,8 @@
+minecraft.dropped.redstone_lamp
+6: Tango: 27
+6: Zedaph: 26
+6: Etho: 6
+6: cubfan135: 4
+6: Grian: 1
+6: impulseSV: 1
+Total 65

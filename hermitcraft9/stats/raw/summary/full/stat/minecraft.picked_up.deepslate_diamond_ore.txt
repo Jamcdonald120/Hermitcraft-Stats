@@ -1,0 +1,29 @@
+minecraft.picked_up.deepslate_diamond_ore
+27: Docm77: 9449
+27: Grian: 2540
+27: PearlescentMoon: 2000
+27: cubfan135: 1691
+27: xBCrafted: 1371
+27: Xisuma: 834
+27: RentheKing: 610
+27: hypnotizd: 559
+27: impulseSV: 388
+27: joehillssays: 384
+27: Zedaph: 381
+27: ZombieCleo: 262
+27: iJevin: 245
+27: Tango: 208
+27: GoodTimeWithScar: 200
+27: falsesymmetry: 134
+27: Keralis1: 131
+27: Renthedog: 122
+27: iskall85: 75
+27: GeminiTay: 74
+27: VintageBeef: 58
+27: BdoubleO100: 48
+27: MythicalSausage: 35
+27: Stressmonster101: 32
+27: Mumbo: 11
+27: Etho: 10
+27: Welsknight: 1
+Total 21853

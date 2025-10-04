@@ -1,0 +1,30 @@
+minecraft.picked_up.diamond_pickaxe
+28: GoodTimeWithScar: 142
+28: Docm77: 105
+28: Grian: 101
+28: Renthedog: 69
+28: iJevin: 52
+28: joehillssays: 52
+28: Keralis1: 46
+28: PearlescentMoon: 40
+28: Etho: 40
+28: ZombieCleo: 39
+28: Tango: 38
+28: iskall85: 36
+28: MumboJumbo: 34
+28: Zedaph: 24
+28: impulseSV: 21
+28: Xisuma: 20
+28: falsesymmetry: 17
+28: cubfan135: 17
+28: GeminiTay: 10
+28: BdoubleO100: 9
+28: hypnotizd: 9
+28: pillbugnine: 4
+28: xBCrafted: 4
+28: EvilXisuma: 3
+28: Stressmonster101: 3
+28: VintageBeef: 2
+28: Welsknight: 2
+28: Tinfoilchef: 2
+Total 941

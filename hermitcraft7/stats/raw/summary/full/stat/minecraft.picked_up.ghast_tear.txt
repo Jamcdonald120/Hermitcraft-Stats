@@ -1,0 +1,24 @@
+minecraft.picked_up.ghast_tear
+22: Tango: 435
+22: Zedaph: 337
+22: VintageBeef: 194
+22: cubfan135: 180
+22: iJevin: 124
+22: Xisuma: 120
+22: GoodTimeWithScar: 114
+22: Renthedog: 103
+22: Etho: 102
+22: falsesymmetry: 77
+22: Grian: 57
+22: hypnotizd: 50
+22: joehillssays: 34
+22: impulseSV: 34
+22: xBCrafted: 30
+22: iskall85: 23
+22: Welsknight: 12
+22: MumboJumbo: 6
+22: Stressmonster101: 4
+22: Keralis1: 4
+22: BdoubleO100: 3
+22: Docm77: 2
+Total 2045

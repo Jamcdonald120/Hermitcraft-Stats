@@ -1,0 +1,17 @@
+minecraft.picked_up.magenta_terracotta
+15: ZombieCleo: 614
+15: Etho: 213
+15: falsesymmetry: 67
+15: Mumbo: 20
+15: impulseSV: 15
+15: Xisuma: 14
+15: Smallishbeans: 14
+15: iJevin: 13
+15: joehillssays: 9
+15: Grian: 9
+15: Renthedog: 8
+15: Welsknight: 7
+15: GoodTimeWithScar: 6
+15: GeminiTay: 2
+15: PearlescentMoon: 2
+Total 1013

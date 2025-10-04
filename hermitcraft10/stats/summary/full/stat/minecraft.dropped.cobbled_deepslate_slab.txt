@@ -1,0 +1,17 @@
+minecraft.dropped.cobbled_deepslate_slab
+15: Keralis1: 280
+15: Grian: 279
+15: BdoubleO100: 119
+15: xBCrafted: 117
+15: Mumbo: 114
+15: GoodTimeWithScar: 70
+15: Tango: 67
+15: Renthedog: 61
+15: Docm77: 35
+15: ZombieCleo: 18
+15: iJevin: 10
+15: Xisuma: 7
+15: falsesymmetry: 5
+15: impulseSV: 2
+15: Etho: 1
+Total 1185

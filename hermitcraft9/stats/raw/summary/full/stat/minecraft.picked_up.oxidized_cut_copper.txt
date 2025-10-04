@@ -1,0 +1,20 @@
+minecraft.picked_up.oxidized_cut_copper
+18: GoodTimeWithScar: 153
+18: GeminiTay: 108
+18: cubfan135: 107
+18: Docm77: 57
+18: BdoubleO100: 49
+18: PearlescentMoon: 42
+18: MythicalSausage: 25
+18: Grian: 14
+18: Etho: 6
+18: Mumbo: 6
+18: VintageBeef: 5
+18: Xisuma: 4
+18: iskall85: 4
+18: Renthedog: 1
+18: Smallishbeans: 1
+18: xBCrafted: 1
+18: ZombieCleo: 1
+18: RentheKing: 1
+Total 585

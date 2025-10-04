@@ -1,0 +1,26 @@
+minecraft.picked_up.deepslate_lapis_ore
+24: Zedaph: 430
+24: xBCrafted: 416
+24: cubfan135: 278
+24: Xisuma: 212
+24: PearlescentMoon: 203
+24: hypnotizd: 138
+24: VintageBeef: 76
+24: Tango: 73
+24: falsesymmetry: 69
+24: Renthedog: 65
+24: Keralis1: 60
+24: joehillssays: 59
+24: ZombieCleo: 59
+24: iJevin: 49
+24: Docm77: 42
+24: BdoubleO100: 30
+24: Grian: 25
+24: GoodTimeWithScar: 23
+24: RentheKing: 18
+24: impulseSV: 15
+24: Etho: 14
+24: MythicalSausage: 12
+24: Stressmonster101: 11
+24: Pixlriffs: 1
+Total 2378

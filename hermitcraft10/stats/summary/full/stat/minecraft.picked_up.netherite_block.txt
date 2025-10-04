@@ -1,0 +1,4 @@
+minecraft.picked_up.netherite_block
+2: cubfan135: 2
+2: Smallishbeans: 1
+Total 3

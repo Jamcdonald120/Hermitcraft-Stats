@@ -1,0 +1,7 @@
+minecraft.dropped.gold_block
+5: Grian: 160
+5: cubfan135: 31
+5: iJevin: 1
+5: PearlescentMoon: 1
+5: GoodTimeWithScar: 1
+Total 194

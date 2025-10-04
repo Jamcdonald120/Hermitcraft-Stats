@@ -1,0 +1,24 @@
+minecraft.picked_up.chainmail_chestplate
+22: iJevin: 35
+22: Xisuma: 10
+22: GeminiTay: 8
+22: Renthedog: 6
+22: VintageBeef: 6
+22: cubfan135: 6
+22: GoodTimeWithScar: 6
+22: Tango: 5
+22: falsesymmetry: 5
+22: BdoubleO100: 4
+22: Etho: 4
+22: Keralis1: 4
+22: impulseSV: 4
+22: Grian: 3
+22: Welsknight: 3
+22: ZombieCleo: 3
+22: Docm77: 2
+22: Skizzleman: 2
+22: PearlescentMoon: 2
+22: xBCrafted: 2
+22: hypnotizd: 2
+22: joehillssays: 1
+Total 123

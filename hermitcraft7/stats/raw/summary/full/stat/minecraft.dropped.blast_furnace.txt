@@ -1,0 +1,8 @@
+minecraft.dropped.blast_furnace
+6: Etho: 3
+6: VintageBeef: 2
+6: MumboJumbo: 2
+6: Grian: 1
+6: GoodTimeWithScar: 1
+6: Zedaph: 1
+Total 10

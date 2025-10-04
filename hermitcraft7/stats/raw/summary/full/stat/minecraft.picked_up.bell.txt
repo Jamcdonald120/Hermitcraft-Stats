@@ -1,0 +1,24 @@
+minecraft.picked_up.bell
+22: impulseSV: 214
+22: Zedaph: 159
+22: GoodTimeWithScar: 90
+22: Etho: 67
+22: Tango: 32
+22: iskall85: 28
+22: Grian: 24
+22: iJevin: 19
+22: Xisuma: 14
+22: Stressmonster101: 14
+22: xBCrafted: 13
+22: cubfan135: 12
+22: Docm77: 10
+22: Renthedog: 10
+22: Keralis1: 10
+22: falsesymmetry: 8
+22: BdoubleO100: 6
+22: hypnotizd: 6
+22: MumboJumbo: 3
+22: VintageBeef: 2
+22: ZombieCleo: 2
+22: joehillssays: 1
+Total 744

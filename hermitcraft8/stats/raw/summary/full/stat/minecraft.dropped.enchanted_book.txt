@@ -1,0 +1,17 @@
+minecraft.dropped.enchanted_book
+15: Zedaph: 108
+15: Xisuma: 61
+15: Keralis1: 61
+15: GoodTimeWithScar: 48
+15: Grian: 32
+15: iJevin: 28
+15: Etho: 6
+15: Docm77: 5
+15: Stressmonster101: 5
+15: Tango: 2
+15: PearlescentMoon: 2
+15: iskall85: 2
+15: cubfan135: 2
+15: impulseSV: 2
+15: hypnotizd: 1
+Total 365

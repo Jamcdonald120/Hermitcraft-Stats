@@ -1,0 +1,14 @@
+minecraft.dropped.nether_quartz_ore
+12: hypnotizd: 76
+12: GoodTimeWithScar: 58
+12: PearlescentMoon: 40
+12: iJevin: 24
+12: Smallishbeans: 23
+12: Keralis1: 23
+12: Renthedog: 11
+12: xBCrafted: 11
+12: ZombieCleo: 3
+12: Docm77: 2
+12: Etho: 2
+12: Tango: 1
+Total 274

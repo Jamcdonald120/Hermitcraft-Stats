@@ -1,0 +1,26 @@
+minecraft.picked_up.bamboo_planks
+24: Xisuma: 11171
+24: Tango: 7229
+24: PearlescentMoon: 4242
+24: Docm77: 3212
+24: Mumbo: 2411
+24: impulseSV: 651
+24: cubfan135: 632
+24: Skizzleman: 618
+24: GoodTimeWithScar: 524
+24: Zedaph: 496
+24: Keralis1: 484
+24: xBCrafted: 390
+24: Etho: 295
+24: Grian: 276
+24: Smallishbeans: 240
+24: falsesymmetry: 234
+24: hypnotizd: 194
+24: joehillssays: 187
+24: Renthedog: 105
+24: VintageBeef: 74
+24: GeminiTay: 62
+24: BdoubleO100: 62
+24: ZombieCleo: 8
+24: iJevin: 3
+Total 33800

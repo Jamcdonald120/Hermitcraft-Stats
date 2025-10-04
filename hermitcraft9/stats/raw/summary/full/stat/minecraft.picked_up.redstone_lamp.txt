@@ -1,0 +1,26 @@
+minecraft.picked_up.redstone_lamp
+24: Grian: 191
+24: impulseSV: 148
+24: cubfan135: 147
+24: Tango: 132
+24: Etho: 127
+24: GoodTimeWithScar: 120
+24: Xisuma: 107
+24: iJevin: 107
+24: Docm77: 95
+24: BdoubleO100: 81
+24: GeminiTay: 79
+24: PearlescentMoon: 53
+24: ZombieCleo: 38
+24: Pixlriffs: 36
+24: Renthedog: 22
+24: hypnotizd: 17
+24: xBCrafted: 16
+24: VintageBeef: 15
+24: iskall85: 13
+24: joehillssays: 9
+24: Mumbo: 9
+24: Keralis1: 6
+24: falsesymmetry: 4
+24: RentheKing: 2
+Total 1574

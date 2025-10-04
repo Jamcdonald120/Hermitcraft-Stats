@@ -1,0 +1,8 @@
+minecraft.dropped.brick_stairs
+6: Tango: 22
+6: Renthedog: 13
+6: GoodTimeWithScar: 13
+6: Docm77: 5
+6: VintageBeef: 1
+6: Zedaph: 1
+Total 55

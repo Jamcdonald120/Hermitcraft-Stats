@@ -1,0 +1,21 @@
+minecraft.crafted.mangrove_wood
+19: PearlescentMoon: 3411
+19: Docm77: 2562
+19: Keralis1: 1074
+19: Grian: 486
+19: Etho: 456
+19: impulseSV: 213
+19: GoodTimeWithScar: 174
+19: RentheKing: 144
+19: iJevin: 99
+19: Renthedog: 75
+19: cubfan135: 30
+19: ZombieCleo: 30
+19: Tango: 27
+19: Xisuma: 18
+19: falsesymmetry: 15
+19: BdoubleO100: 3
+19: Pixlriffs: 3
+19: iskall85: 3
+19: Zedaph: 3
+Total 8826

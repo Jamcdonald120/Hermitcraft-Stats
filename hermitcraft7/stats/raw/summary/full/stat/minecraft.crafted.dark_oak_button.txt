@@ -1,0 +1,18 @@
+minecraft.crafted.dark_oak_button
+16: xBCrafted: 1401
+16: Grian: 211
+16: Keralis1: 187
+16: iJevin: 163
+16: cubfan135: 147
+16: Renthedog: 49
+16: GoodTimeWithScar: 25
+16: BdoubleO100: 21
+16: ZombieCleo: 16
+16: Stressmonster101: 16
+16: Tango: 12
+16: Docm77: 9
+16: iskall85: 6
+16: impulseSV: 6
+16: Xisuma: 2
+16: falsesymmetry: 1
+Total 2272

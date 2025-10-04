@@ -1,0 +1,23 @@
+minecraft.picked_up.pale_oak_trapdoor
+21: Mumbo: 132
+21: BdoubleO100: 101
+21: Xisuma: 99
+21: Keralis1: 72
+21: impulseSV: 58
+21: cubfan135: 50
+21: joehillssays: 46
+21: iJevin: 44
+21: Skizzleman: 40
+21: GoodTimeWithScar: 28
+21: Grian: 27
+21: falsesymmetry: 19
+21: Renthedog: 8
+21: ZombieCleo: 7
+21: PearlescentMoon: 6
+21: F1RECRACKR: 4
+21: Docm77: 3
+21: Smallishbeans: 3
+21: Etho: 2
+21: GeminiTay: 1
+21: Tango: 1
+Total 751

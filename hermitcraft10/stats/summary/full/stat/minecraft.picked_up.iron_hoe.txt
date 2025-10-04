@@ -1,0 +1,16 @@
+minecraft.picked_up.iron_hoe
+14: impulseSV: 14
+14: Skizzleman: 10
+14: Tango: 4
+14: BdoubleO100: 3
+14: Renthedog: 2
+14: iJevin: 2
+14: cubfan135: 2
+14: ZombieCleo: 2
+14: Docm77: 1
+14: VintageBeef: 1
+14: GeminiTay: 1
+14: Grian: 1
+14: PearlescentMoon: 1
+14: GoodTimeWithScar: 1
+Total 45

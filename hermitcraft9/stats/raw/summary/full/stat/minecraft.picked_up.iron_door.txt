@@ -1,0 +1,27 @@
+minecraft.picked_up.iron_door
+25: impulseSV: 123
+25: cubfan135: 55
+25: GoodTimeWithScar: 46
+25: Grian: 40
+25: PearlescentMoon: 35
+25: Zedaph: 21
+25: Tango: 20
+25: xBCrafted: 20
+25: Renthedog: 19
+25: Docm77: 18
+25: iJevin: 17
+25: RentheKing: 17
+25: Xisuma: 15
+25: falsesymmetry: 12
+25: BdoubleO100: 7
+25: ZombieCleo: 7
+25: Keralis1: 7
+25: iskall85: 6
+25: joehillssays: 5
+25: Stressmonster101: 3
+25: VintageBeef: 2
+25: Smajor1995: 2
+25: MythicalSausage: 1
+25: Mumbo: 1
+25: MumboJumbo: 1
+Total 500

@@ -1,0 +1,12 @@
+minecraft.picked_up.stripped_warped_stem
+10: BdoubleO100: 813
+10: MumboJumbo: 444
+10: Renthedog: 320
+10: GoodTimeWithScar: 85
+10: Grian: 66
+10: Xisuma: 25
+10: Docm77: 11
+10: PearlescentMoon: 6
+10: impulseSV: 2
+10: Keralis1: 1
+Total 1773

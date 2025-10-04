@@ -1,0 +1,5 @@
+minecraft.picked_up.pink_banner
+3: falsesymmetry: 18
+3: cubfan135: 5
+3: HumanCleo: 2
+Total 25

@@ -1,0 +1,19 @@
+minecraft.crafted.enchanted_book
+17: impulseSV: 7103
+17: Etho: 2294
+17: Keralis1: 1554
+17: iJevin: 1530
+17: Grian: 438
+17: Tango: 394
+17: GoodTimeWithScar: 300
+17: Zedaph: 288
+17: Docm77: 193
+17: PearlescentMoon: 174
+17: falsesymmetry: 135
+17: Stressmonster101: 106
+17: iskall85: 62
+17: cubfan135: 29
+17: Renthedog: 16
+17: Xisuma: 14
+17: GeminiTay: 8
+Total 14638

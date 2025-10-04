@@ -1,0 +1,21 @@
+minecraft.killed.wither_skeleton
+19: Tango: 79585
+19: impulseSV: 38114
+19: iJevin: 2344
+19: Docm77: 296
+19: Xisuma: 179
+19: hypnotizd: 148
+19: Pixlriffs: 90
+19: VintageBeef: 83
+19: iskall85: 78
+19: Keralis1: 65
+19: PearlescentMoon: 45
+19: Stressmonster101: 36
+19: Renthedog: 29
+19: xBCrafted: 27
+19: Grian: 24
+19: falsesymmetry: 22
+19: cubfan135: 14
+19: Etho: 13
+19: GeminiTay: 3
+Total 121195

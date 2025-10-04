@@ -1,0 +1,12 @@
+minecraft.picked_up.wooden_hoe
+10: Renthedog: 13
+10: PearlescentMoon: 10
+10: GeminiTay: 7
+10: VintageBeef: 5
+10: Etho: 5
+10: Grian: 4
+10: ZombieCleo: 3
+10: hypnotizd: 2
+10: Docm77: 1
+10: iJevin: 1
+Total 51

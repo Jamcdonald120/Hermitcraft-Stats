@@ -1,0 +1,12 @@
+minecraft.dropped.redstone_lamp
+10: Tango: 66
+10: Docm77: 31
+10: GoodTimeWithScar: 20
+10: Xisuma: 17
+10: VintageBeef: 15
+10: Pixlriffs: 11
+10: falsesymmetry: 4
+10: cubfan135: 4
+10: Etho: 4
+10: Keralis1: 1
+Total 173

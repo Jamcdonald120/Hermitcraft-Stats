@@ -1,0 +1,21 @@
+minecraft.picked_up.dark_oak_sign
+19: iJevin: 335
+19: GoodTimeWithScar: 83
+19: BdoubleO100: 32
+19: falsesymmetry: 29
+19: Docm77: 18
+19: cubfan135: 17
+19: Renthedog: 13
+19: VintageBeef: 13
+19: Skizzleman: 12
+19: Mumbo: 10
+19: Etho: 8
+19: Smallishbeans: 7
+19: PearlescentMoon: 3
+19: joehillssays: 2
+19: ZombieCleo: 2
+19: Zedaph: 2
+19: Xisuma: 1
+19: Grian: 1
+19: Tango: 1
+Total 589

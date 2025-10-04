@@ -1,0 +1,18 @@
+minecraft.picked_up.stone_axe
+16: MumboJumbo: 27
+16: joehillssays: 5
+16: impulseSV: 5
+16: ZombieCleo: 4
+16: iJevin: 3
+16: Grian: 3
+16: iskall85: 2
+16: xBCrafted: 2
+16: falsesymmetry: 2
+16: GoodTimeWithScar: 2
+16: Stressmonster101: 2
+16: Keralis1: 2
+16: Zedaph: 2
+16: cubfan135: 1
+16: hypnotizd: 1
+16: Tinfoilchef: 1
+Total 64

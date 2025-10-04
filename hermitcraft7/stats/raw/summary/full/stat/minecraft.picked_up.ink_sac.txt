@@ -1,0 +1,26 @@
+minecraft.picked_up.ink_sac
+24: GoodTimeWithScar: 16867
+24: Xisuma: 13119
+24: Etho: 3239
+24: Zedaph: 2233
+24: Tango: 1799
+24: joehillssays: 1460
+24: Grian: 1368
+24: impulseSV: 1093
+24: Stressmonster101: 944
+24: Keralis1: 929
+24: VintageBeef: 879
+24: cubfan135: 543
+24: hypnotizd: 475
+24: BdoubleO100: 314
+24: Renthedog: 255
+24: iJevin: 244
+24: falsesymmetry: 233
+24: xBCrafted: 192
+24: Docm77: 162
+24: iskall85: 146
+24: MumboJumbo: 95
+24: ZombieCleo: 76
+24: Welsknight: 70
+24: xisumavoid: 1
+Total 46736

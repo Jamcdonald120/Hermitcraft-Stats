@@ -1,0 +1,4 @@
+minecraft.broken.diamond_boots
+2: VintageBeef: 1
+2: GoodTimeWithScar: 1
+Total 2

@@ -1,0 +1,4 @@
+minecraft.dropped.cut_sandstone_slab
+2: Mumbo: 6
+2: hypnotizd: 2
+Total 8

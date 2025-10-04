@@ -1,0 +1,10 @@
+minecraft.dropped.jungle_sign
+8: GoodTimeWithScar: 34
+8: falsesymmetry: 33
+8: Renthedog: 9
+8: Etho: 6
+8: Grian: 4
+8: Keralis1: 4
+8: iJevin: 3
+8: ZombieCleo: 2
+Total 95

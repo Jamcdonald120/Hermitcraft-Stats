@@ -1,0 +1,26 @@
+minecraft.picked_up.diamond_shovel
+24: GoodTimeWithScar: 285
+24: Grian: 205
+24: Docm77: 142
+24: iskall85: 107
+24: Renthedog: 98
+24: cubfan135: 79
+24: iJevin: 72
+24: Xisuma: 67
+24: MumboJumbo: 61
+24: joehillssays: 56
+24: Tango: 49
+24: impulseSV: 49
+24: PythonGB: 24
+24: falsesymmetry: 23
+24: Zedaph: 23
+24: Stressmonster101: 12
+24: Welsknight: 8
+24: ZombieCleo: 6
+24: Duke_da_dog: 5
+24: Keralis1: 4
+24: Biffa2001: 3
+24: BdoubleO100: 2
+24: BadTimeWithScar: 2
+24: Tinfoilchef: 1
+Total 1383

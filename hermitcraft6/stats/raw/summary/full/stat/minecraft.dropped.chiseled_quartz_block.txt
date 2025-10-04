@@ -1,0 +1,6 @@
+minecraft.dropped.chiseled_quartz_block
+4: BdoubleO100: 23
+4: Renthedog: 8
+4: Docm77: 2
+4: falsesymmetry: 2
+Total 35

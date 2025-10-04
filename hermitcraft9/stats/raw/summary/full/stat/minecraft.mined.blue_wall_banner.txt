@@ -1,0 +1,4 @@
+minecraft.mined.blue_wall_banner
+2: falsesymmetry: 6
+2: Tango: 1
+Total 7

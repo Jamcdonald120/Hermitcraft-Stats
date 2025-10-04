@@ -1,0 +1,4 @@
+minecraft.picked_up.scute
+2: Zedaph: 10
+2: Keralis1: 4
+Total 14

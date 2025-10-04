@@ -1,0 +1,5 @@
+minecraft.dropped.fire_coral_fan
+3: cubfan135: 7
+3: GoodTimeWithScar: 2
+3: Etho: 1
+Total 10

@@ -1,0 +1,10 @@
+minecraft.dropped.hopper_minecart
+8: hypnotizd: 499
+8: Tango: 22
+8: Zedaph: 4
+8: Xisuma: 2
+8: iJevin: 2
+8: cubfan135: 2
+8: Etho: 2
+8: ZombieCleo: 1
+Total 534

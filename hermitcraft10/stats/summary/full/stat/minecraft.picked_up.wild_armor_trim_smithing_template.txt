@@ -1,0 +1,4 @@
+minecraft.picked_up.wild_armor_trim_smithing_template
+2: PearlescentMoon: 9
+2: iJevin: 8
+Total 17

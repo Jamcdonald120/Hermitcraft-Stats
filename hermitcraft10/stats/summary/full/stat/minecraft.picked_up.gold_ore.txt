@@ -1,0 +1,24 @@
+minecraft.picked_up.gold_ore
+22: GoodTimeWithScar: 657
+22: Grian: 286
+22: iJevin: 117
+22: Xisuma: 90
+22: joehillssays: 84
+22: Etho: 78
+22: VintageBeef: 76
+22: Keralis1: 69
+22: Renthedog: 54
+22: hypnotizd: 41
+22: Tango: 40
+22: falsesymmetry: 32
+22: ZombieCleo: 31
+22: xBCrafted: 30
+22: BdoubleO100: 17
+22: Docm77: 14
+22: PearlescentMoon: 12
+22: Smallishbeans: 11
+22: cubfan135: 11
+22: impulseSV: 11
+22: Mumbo: 5
+22: Zedaph: 3
+Total 1769

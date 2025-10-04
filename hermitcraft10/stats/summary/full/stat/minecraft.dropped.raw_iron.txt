@@ -1,0 +1,22 @@
+minecraft.dropped.raw_iron
+20: Etho: 596
+20: iJevin: 289
+20: joehillssays: 135
+20: Renthedog: 97
+20: impulseSV: 93
+20: GoodTimeWithScar: 88
+20: Tango: 86
+20: cubfan135: 80
+20: Xisuma: 69
+20: Docm77: 68
+20: Skizzleman: 59
+20: Keralis1: 38
+20: hypnotizd: 35
+20: Zedaph: 26
+20: xBCrafted: 25
+20: Grian: 16
+20: falsesymmetry: 14
+20: Smallishbeans: 13
+20: VintageBeef: 10
+20: Mumbo: 4
+Total 1841

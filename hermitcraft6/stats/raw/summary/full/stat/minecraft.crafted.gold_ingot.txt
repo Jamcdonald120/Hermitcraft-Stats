@@ -1,0 +1,24 @@
+minecraft.crafted.gold_ingot
+22: impulseSV: 52305
+22: Xisuma: 34500
+22: falsesymmetry: 19998
+22: Renthedog: 12696
+22: iskall85: 11294
+22: Tango: 6478
+22: Grian: 5152
+22: MumboJumbo: 4960
+22: GoodTimeWithScar: 4935
+22: Stressmonster101: 4786
+22: cubfan135: 4716
+22: Welsknight: 2505
+22: Docm77: 2350
+22: iJevin: 1509
+22: Tinfoilchef: 1296
+22: Zedaph: 1183
+22: joehillssays: 1044
+22: ZombieCleo: 764
+22: Biffa2001: 734
+22: BdoubleO100: 466
+22: PythonGB: 364
+22: HumanCleo: 9
+Total 174044

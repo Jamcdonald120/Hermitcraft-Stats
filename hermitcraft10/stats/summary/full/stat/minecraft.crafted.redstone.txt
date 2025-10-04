@@ -1,0 +1,27 @@
+minecraft.crafted.redstone
+25: Tango: 133934
+25: Etho: 47001
+25: joehillssays: 38105
+25: cubfan135: 24712
+25: impulseSV: 14660
+25: Xisuma: 13509
+25: Mumbo: 10451
+25: hypnotizd: 6996
+25: Keralis1: 6845
+25: Zedaph: 5687
+25: xBCrafted: 4318
+25: GoodTimeWithScar: 4294
+25: iJevin: 4198
+25: Renthedog: 3673
+25: BdoubleO100: 3556
+25: PearlescentMoon: 3425
+25: Smallishbeans: 2798
+25: falsesymmetry: 2391
+25: Docm77: 2208
+25: Skizzleman: 2037
+25: Grian: 1880
+25: VintageBeef: 1566
+25: Welsknight: 783
+25: ZombieCleo: 666
+25: GeminiTay: 360
+Total 340053

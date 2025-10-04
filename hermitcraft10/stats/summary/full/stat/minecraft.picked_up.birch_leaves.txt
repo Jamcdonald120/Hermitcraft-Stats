@@ -1,0 +1,26 @@
+minecraft.picked_up.birch_leaves
+24: BdoubleO100: 57721
+24: GoodTimeWithScar: 23239
+24: Keralis1: 20706
+24: PearlescentMoon: 4554
+24: falsesymmetry: 4340
+24: Docm77: 2700
+24: Xisuma: 2216
+24: iJevin: 1876
+24: Grian: 1422
+24: Etho: 1250
+24: cubfan135: 1201
+24: ZombieCleo: 993
+24: VintageBeef: 818
+24: hypnotizd: 785
+24: Smallishbeans: 669
+24: Renthedog: 321
+24: Mumbo: 305
+24: joehillssays: 106
+24: xBCrafted: 101
+24: Skizzleman: 62
+24: GeminiTay: 59
+24: Tango: 36
+24: impulseSV: 27
+24: Zedaph: 3
+Total 125510

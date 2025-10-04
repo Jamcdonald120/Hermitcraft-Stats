@@ -1,0 +1,24 @@
+minecraft.picked_up.light_gray_concrete
+22: MumboJumbo: 24909
+22: falsesymmetry: 7982
+22: GoodTimeWithScar: 2960
+22: Keralis1: 2511
+22: BdoubleO100: 1989
+22: Grian: 1686
+22: impulseSV: 1637
+22: cubfan135: 1168
+22: Stressmonster101: 1156
+22: Tango: 1058
+22: Xisuma: 673
+22: xBCrafted: 636
+22: Docm77: 557
+22: hypnotizd: 546
+22: VintageBeef: 516
+22: Welsknight: 471
+22: iJevin: 308
+22: iskall85: 294
+22: Zedaph: 244
+22: joehillssays: 167
+22: Etho: 101
+22: ZombieCleo: 7
+Total 51576

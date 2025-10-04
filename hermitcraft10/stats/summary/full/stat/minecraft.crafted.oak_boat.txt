@@ -1,0 +1,27 @@
+minecraft.crafted.oak_boat
+25: Docm77: 1677
+25: GoodTimeWithScar: 80
+25: iJevin: 30
+25: Tango: 25
+25: impulseSV: 20
+25: falsesymmetry: 17
+25: Xisuma: 16
+25: cubfan135: 11
+25: Renthedog: 10
+25: joehillssays: 9
+25: Grian: 8
+25: Smallishbeans: 8
+25: Mumbo: 8
+25: VintageBeef: 7
+25: PearlescentMoon: 7
+25: Zedaph: 7
+25: Skizzleman: 6
+25: hypnotizd: 5
+25: Keralis1: 5
+25: Etho: 4
+25: GeminiTay: 3
+25: xBCrafted: 2
+25: Welsknight: 2
+25: ZombieCleo: 2
+25: BdoubleO100: 1
+Total 1970

@@ -1,0 +1,23 @@
+minecraft.picked_up.fern
+21: PearlescentMoon: 4114
+21: cubfan135: 3201
+21: Keralis1: 1138
+21: Etho: 868
+21: GoodTimeWithScar: 865
+21: iJevin: 662
+21: falsesymmetry: 577
+21: Xisuma: 343
+21: Renthedog: 115
+21: GeminiTay: 109
+21: Docm77: 88
+21: BdoubleO100: 88
+21: hypnotizd: 79
+21: joehillssays: 72
+21: xBCrafted: 39
+21: VintageBeef: 26
+21: Zedaph: 5
+21: Tango: 1
+21: ZombieCleo: 1
+21: Stressmonster101: 1
+21: impulseSV: 1
+Total 12393

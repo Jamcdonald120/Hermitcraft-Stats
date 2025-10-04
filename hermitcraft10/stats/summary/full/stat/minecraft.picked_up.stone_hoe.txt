@@ -1,0 +1,14 @@
+minecraft.picked_up.stone_hoe
+12: Etho: 43
+12: Zedaph: 20
+12: VintageBeef: 16
+12: Skizzleman: 7
+12: iJevin: 3
+12: Grian: 3
+12: BdoubleO100: 2
+12: cubfan135: 2
+12: GoodTimeWithScar: 2
+12: Docm77: 1
+12: GeminiTay: 1
+12: hypnotizd: 1
+Total 101

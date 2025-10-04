@@ -1,0 +1,12 @@
+minecraft.picked_up.stripped_acacia_wood
+10: Keralis1: 273
+10: MythicalSausage: 99
+10: GoodTimeWithScar: 96
+10: Grian: 19
+10: Docm77: 9
+10: impulseSV: 8
+10: Xisuma: 2
+10: Renthedog: 2
+10: PearlescentMoon: 2
+10: Zedaph: 1
+Total 511

@@ -1,0 +1,26 @@
+minecraft.mined.beetroots
+24: Tango: 1284
+24: PearlescentMoon: 959
+24: Grian: 491
+24: Renthedog: 333
+24: GeminiTay: 308
+24: Etho: 269
+24: VintageBeef: 249
+24: cubfan135: 210
+24: Skizzleman: 151
+24: GoodTimeWithScar: 94
+24: falsesymmetry: 87
+24: impulseSV: 50
+24: BdoubleO100: 30
+24: iJevin: 19
+24: Mumbo: 17
+24: Smallishbeans: 16
+24: Xisuma: 14
+24: Zedaph: 13
+24: joehillssays: 4
+24: ZombieCleo: 4
+24: SolidarityGaming: 3
+24: xBCrafted: 1
+24: hypnotizd: 1
+24: InTheLittleWood: 1
+Total 4608

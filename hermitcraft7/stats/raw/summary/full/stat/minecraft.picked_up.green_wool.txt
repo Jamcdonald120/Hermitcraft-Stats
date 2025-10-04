@@ -1,0 +1,18 @@
+minecraft.picked_up.green_wool
+16: Tango: 4074
+16: Etho: 3839
+16: Zedaph: 3028
+16: VintageBeef: 1516
+16: BdoubleO100: 601
+16: cubfan135: 392
+16: iskall85: 133
+16: Xisuma: 104
+16: falsesymmetry: 85
+16: GoodTimeWithScar: 71
+16: Keralis1: 56
+16: Grian: 53
+16: impulseSV: 53
+16: Stressmonster101: 46
+16: joehillssays: 25
+16: hypnotizd: 1
+Total 14077

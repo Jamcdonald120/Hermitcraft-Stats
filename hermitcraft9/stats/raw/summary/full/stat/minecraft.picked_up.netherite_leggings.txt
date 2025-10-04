@@ -1,0 +1,24 @@
+minecraft.picked_up.netherite_leggings
+22: iJevin: 75
+22: ZombieCleo: 49
+22: Docm77: 48
+22: cubfan135: 44
+22: PearlescentMoon: 37
+22: joehillssays: 32
+22: impulseSV: 31
+22: Xisuma: 22
+22: Zedaph: 15
+22: Keralis1: 11
+22: xBCrafted: 10
+22: Etho: 10
+22: GoodTimeWithScar: 10
+22: GeminiTay: 2
+22: Tango: 2
+22: Renthedog: 1
+22: VintageBeef: 1
+22: MythicalSausage: 1
+22: Grian: 1
+22: BdoubleO100: 1
+22: RentheKing: 1
+22: hypnotizd: 1
+Total 405

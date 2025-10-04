@@ -1,0 +1,21 @@
+minecraft.dropped.gray_wool
+19: Etho: 2068
+19: GeminiTay: 384
+19: iJevin: 72
+19: Xisuma: 63
+19: falsesymmetry: 43
+19: Renthedog: 15
+19: BdoubleO100: 15
+19: Grian: 7
+19: cubfan135: 7
+19: joehillssays: 6
+19: Keralis1: 5
+19: PearlescentMoon: 4
+19: impulseSV: 3
+19: Zedaph: 3
+19: xBCrafted: 2
+19: GoodTimeWithScar: 2
+19: VintageBeef: 1
+19: Tango: 1
+19: ZombieCleo: 1
+Total 2702

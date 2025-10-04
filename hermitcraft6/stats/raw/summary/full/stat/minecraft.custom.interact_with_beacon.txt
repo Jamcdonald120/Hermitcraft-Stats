@@ -1,0 +1,22 @@
+minecraft.custom.interact_with_beacon
+20: cubfan135: 244
+20: iskall85: 160
+20: Xisuma: 121
+20: MumboJumbo: 84
+20: iJevin: 83
+20: GoodTimeWithScar: 83
+20: Renthedog: 73
+20: Tango: 56
+20: Grian: 55
+20: falsesymmetry: 53
+20: impulseSV: 48
+20: Docm77: 43
+20: Stressmonster101: 41
+20: joehillssays: 29
+20: Biffa2001: 28
+20: Keralis1: 26
+20: PythonGB: 18
+20: Welsknight: 17
+20: BdoubleO100: 15
+20: Zedaph: 6
+Total 1283

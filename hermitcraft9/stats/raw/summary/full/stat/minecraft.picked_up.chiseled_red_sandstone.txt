@@ -1,0 +1,4 @@
+minecraft.picked_up.chiseled_red_sandstone
+2: Etho: 5
+2: Keralis1: 1
+Total 6

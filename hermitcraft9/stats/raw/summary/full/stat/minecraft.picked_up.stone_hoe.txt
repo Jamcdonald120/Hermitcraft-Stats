@@ -1,0 +1,18 @@
+minecraft.picked_up.stone_hoe
+16: Zedaph: 14
+16: impulseSV: 9
+16: PearlescentMoon: 5
+16: iskall85: 5
+16: Xisuma: 3
+16: Renthedog: 3
+16: joehillssays: 3
+16: ZombieCleo: 3
+16: VintageBeef: 2
+16: cubfan135: 2
+16: Tinfoilchef: 2
+16: Docm77: 1
+16: Grian: 1
+16: BdoubleO100: 1
+16: falsesymmetry: 1
+16: Welsknight: 1
+Total 56

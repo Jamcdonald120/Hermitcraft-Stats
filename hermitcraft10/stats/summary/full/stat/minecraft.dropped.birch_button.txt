@@ -1,0 +1,12 @@
+minecraft.dropped.birch_button
+10: BdoubleO100: 23
+10: Etho: 13
+10: Tango: 12
+10: Dot_Dot_Dash: 4
+10: Grian: 4
+10: Mumbo: 4
+10: GoodTimeWithScar: 4
+10: ZombieCleo: 3
+10: impulseSV: 3
+10: Renthedog: 2
+Total 72

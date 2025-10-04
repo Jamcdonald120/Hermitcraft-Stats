@@ -1,0 +1,22 @@
+minecraft.dropped.dark_oak_trapdoor
+20: falsesymmetry: 925
+20: iJevin: 181
+20: Tango: 111
+20: cubfan135: 53
+20: Keralis1: 24
+20: impulseSV: 15
+20: OrionSound: 14
+20: GoodTimeWithScar: 12
+20: Xisuma: 6
+20: Renthedog: 6
+20: xBCrafted: 6
+20: VintageBeef: 5
+20: Grian: 4
+20: RentheKing: 4
+20: BdoubleO100: 3
+20: iskall85: 2
+20: Etho: 2
+20: MythicalSausage: 1
+20: GeminiTay: 1
+20: ZombieCleo: 1
+Total 1376

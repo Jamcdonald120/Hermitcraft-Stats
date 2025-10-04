@@ -1,0 +1,32 @@
+minecraft.used.redstone
+30: Tango: 32450
+30: cubfan135: 8423
+30: Docm77: 8114
+30: impulseSV: 7263
+30: Xisuma: 6052
+30: Pixlriffs: 4627
+30: iJevin: 3432
+30: Grian: 2334
+30: Etho: 2085
+30: Renthedog: 1660
+30: hypnotizd: 1614
+30: ZombieCleo: 1434
+30: Zedaph: 1256
+30: GoodTimeWithScar: 1248
+30: Keralis1: 1208
+30: xBCrafted: 1146
+30: BdoubleO100: 1095
+30: falsesymmetry: 948
+30: iskall85: 909
+30: PearlescentMoon: 620
+30: VintageBeef: 365
+30: Mumbo: 323
+30: GeminiTay: 296
+30: joehillssays: 266
+30: RentheKing: 245
+30: Stressmonster101: 190
+30: MythicalSausage: 61
+30: Welsknight: 30
+30: OrionSound: 13
+30: Smallishbeans: 9
+Total 89716

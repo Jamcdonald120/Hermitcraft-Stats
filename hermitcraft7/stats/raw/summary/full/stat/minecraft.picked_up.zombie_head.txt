@@ -1,0 +1,4 @@
+minecraft.picked_up.zombie_head
+2: cubfan135: 6
+2: Etho: 2
+Total 8

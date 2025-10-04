@@ -1,0 +1,24 @@
+minecraft.dropped.bamboo_planks
+22: Tango: 3830
+22: Docm77: 1750
+22: Xisuma: 646
+22: cubfan135: 524
+22: Zedaph: 338
+22: impulseSV: 208
+22: hypnotizd: 192
+22: PearlescentMoon: 175
+22: Grian: 153
+22: falsesymmetry: 152
+22: Etho: 122
+22: Keralis1: 97
+22: Smallishbeans: 62
+22: Mumbo: 61
+22: GoodTimeWithScar: 58
+22: Skizzleman: 20
+22: Renthedog: 5
+22: BdoubleO100: 5
+22: iJevin: 3
+22: GeminiTay: 2
+22: VintageBeef: 1
+22: xBCrafted: 1
+Total 8405

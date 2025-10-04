@@ -1,0 +1,18 @@
+minecraft.picked_up.heavy_weighted_pressure_plate
+16: cubfan135: 20
+16: Keralis1: 19
+16: Docm77: 17
+16: Tango: 14
+16: Skizzleman: 13
+16: Mumbo: 13
+16: falsesymmetry: 11
+16: Zedaph: 8
+16: BdoubleO100: 4
+16: ZombieCleo: 4
+16: Etho: 3
+16: joehillssays: 2
+16: impulseSV: 2
+16: VintageBeef: 1
+16: xBCrafted: 1
+16: Welsknight: 1
+Total 133

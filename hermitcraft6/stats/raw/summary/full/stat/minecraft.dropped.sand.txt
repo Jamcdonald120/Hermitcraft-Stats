@@ -1,0 +1,27 @@
+minecraft.dropped.sand
+25: GoodTimeWithScar: 101380
+25: cubfan135: 58904
+25: Welsknight: 46662
+25: iskall85: 8723
+25: iJevin: 8674
+25: Renthedog: 2865
+25: Xisuma: 2671
+25: MumboJumbo: 2394
+25: Zedaph: 2128
+25: Grian: 1706
+25: falsesymmetry: 1030
+25: Tango: 950
+25: impulseSV: 415
+25: Docm77: 414
+25: Stressmonster101: 384
+25: BadTimeWithScar: 127
+25: PythonGB: 112
+25: Biffa2001: 106
+25: Keralis1: 98
+25: BdoubleO100: 36
+25: joehillssays: 15
+25: Tinfoilchef: 2
+25: Duke_da_dog: 2
+25: EvilXisuma: 1
+25: HumanCleo: 1
+Total 239800

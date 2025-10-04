@@ -1,0 +1,4 @@
+minecraft.broken.wooden_sword
+2: Renthedog: 5
+2: BdoubleO100: 3
+Total 8

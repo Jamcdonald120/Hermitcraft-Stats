@@ -1,0 +1,26 @@
+minecraft.picked_up.blaze_rod
+24: Zedaph: 3930
+24: cubfan135: 3251
+24: hypnotizd: 1468
+24: Etho: 825
+24: iJevin: 805
+24: joehillssays: 619
+24: Xisuma: 501
+24: Renthedog: 407
+24: impulseSV: 350
+24: BdoubleO100: 299
+24: Tango: 273
+24: GoodTimeWithScar: 209
+24: Grian: 197
+24: Docm77: 173
+24: PearlescentMoon: 160
+24: Keralis1: 156
+24: xBCrafted: 136
+24: ZombieCleo: 132
+24: Skizzleman: 118
+24: Mumbo: 99
+24: Welsknight: 84
+24: Smallishbeans: 58
+24: falsesymmetry: 46
+24: VintageBeef: 6
+Total 14302

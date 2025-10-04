@@ -1,0 +1,11 @@
+minecraft.crafted.clay
+9: impulseSV: 216
+9: iJevin: 138
+9: Docm77: 64
+9: Xisuma: 64
+9: cubfan135: 64
+9: ZombieCleo: 30
+9: GoodTimeWithScar: 29
+9: Renthedog: 13
+9: Zedaph: 8
+Total 626

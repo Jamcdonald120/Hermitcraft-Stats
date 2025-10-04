@@ -1,0 +1,24 @@
+minecraft.picked_up.bee_nest
+22: impulseSV: 191
+22: hypnotizd: 143
+22: Docm77: 53
+22: Etho: 49
+22: joehillssays: 42
+22: iJevin: 35
+22: Grian: 27
+22: PearlescentMoon: 25
+22: cubfan135: 24
+22: Zedaph: 16
+22: Renthedog: 14
+22: xBCrafted: 14
+22: Xisuma: 12
+22: Keralis1: 7
+22: falsesymmetry: 6
+22: ZombieCleo: 5
+22: VintageBeef: 4
+22: Tango: 3
+22: Welsknight: 2
+22: GeminiTay: 1
+22: Pixlriffs: 1
+22: RentheKing: 1
+Total 675

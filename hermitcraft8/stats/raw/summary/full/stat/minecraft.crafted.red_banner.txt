@@ -1,0 +1,10 @@
+minecraft.crafted.red_banner
+8: Tango: 99
+8: GoodTimeWithScar: 20
+8: BdoubleO100: 13
+8: Xisuma: 9
+8: falsesymmetry: 8
+8: MumboJumbo: 5
+8: PearlescentMoon: 1
+8: cubfan135: 1
+Total 156

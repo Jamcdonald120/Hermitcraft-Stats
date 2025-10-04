@@ -1,0 +1,7 @@
+minecraft.picked_up.chiseled_quartz_block
+5: VintageBeef: 53
+5: Keralis1: 8
+5: xBCrafted: 2
+5: cubfan135: 1
+5: Welsknight: 1
+Total 65

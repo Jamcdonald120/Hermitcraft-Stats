@@ -1,0 +1,6 @@
+minecraft.crafted.red_sandstone_stairs
+4: Keralis1: 104
+4: Xisuma: 1
+4: GoodTimeWithScar: 1
+4: Zedaph: 1
+Total 107

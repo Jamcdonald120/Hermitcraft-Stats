@@ -1,0 +1,24 @@
+minecraft.used.redstone_lamp
+22: impulseSV: 807
+22: Renthedog: 241
+22: Docm77: 133
+22: MumboJumbo: 115
+22: Etho: 98
+22: PearlescentMoon: 95
+22: iJevin: 80
+22: VintageBeef: 70
+22: Welsknight: 60
+22: Xisuma: 49
+22: xBCrafted: 46
+22: cubfan135: 46
+22: falsesymmetry: 38
+22: Zedaph: 37
+22: BdoubleO100: 34
+22: Tango: 21
+22: joehillssays: 10
+22: ZombieCleo: 10
+22: EvilXisuma: 9
+22: hypnotizd: 6
+22: Grian: 5
+22: GoodTimeWithScar: 1
+Total 2011

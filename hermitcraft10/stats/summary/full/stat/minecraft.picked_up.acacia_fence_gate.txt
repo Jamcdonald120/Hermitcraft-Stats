@@ -1,0 +1,14 @@
+minecraft.picked_up.acacia_fence_gate
+12: Renthedog: 49
+12: Grian: 33
+12: GoodTimeWithScar: 20
+12: Xisuma: 11
+12: Tango: 11
+12: VintageBeef: 8
+12: impulseSV: 5
+12: GeminiTay: 3
+12: Skizzleman: 1
+12: PearlescentMoon: 1
+12: falsesymmetry: 1
+12: Mumbo: 1
+Total 144

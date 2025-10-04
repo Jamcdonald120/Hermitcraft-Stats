@@ -1,0 +1,17 @@
+minecraft.picked_up.iron_horse_armor
+15: Zedaph: 23
+15: PearlescentMoon: 8
+15: Renthedog: 5
+15: Etho: 5
+15: Xisuma: 4
+15: VintageBeef: 4
+15: hypnotizd: 4
+15: falsesymmetry: 3
+15: iJevin: 2
+15: GoodTimeWithScar: 2
+15: Keralis1: 2
+15: Docm77: 1
+15: joehillssays: 1
+15: xBCrafted: 1
+15: ZombieCleo: 1
+Total 66

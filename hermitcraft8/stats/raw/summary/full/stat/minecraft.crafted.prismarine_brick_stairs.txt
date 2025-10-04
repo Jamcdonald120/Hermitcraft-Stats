@@ -1,0 +1,7 @@
+minecraft.crafted.prismarine_brick_stairs
+5: MumboJumbo: 28
+5: xBCrafted: 15
+5: PearlescentMoon: 12
+5: Welsknight: 11
+5: Xisuma: 8
+Total 74

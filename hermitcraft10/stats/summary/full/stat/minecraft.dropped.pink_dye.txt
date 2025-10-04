@@ -1,0 +1,21 @@
+minecraft.dropped.pink_dye
+19: PearlescentMoon: 80
+19: Docm77: 73
+19: cubfan135: 41
+19: Xisuma: 25
+19: ZombieCleo: 15
+19: iJevin: 12
+19: BdoubleO100: 8
+19: Grian: 7
+19: Zedaph: 7
+19: Smallishbeans: 6
+19: SolidarityGaming: 6
+19: Tango: 4
+19: falsesymmetry: 4
+19: Skizzleman: 3
+19: impulseSV: 3
+19: Keralis1: 2
+19: Renthedog: 1
+19: Etho: 1
+19: Mumbo: 1
+Total 299

@@ -1,0 +1,26 @@
+minecraft.picked_up.black_wool
+24: Etho: 15365
+24: Xisuma: 6947
+24: GoodTimeWithScar: 1500
+24: Skizzleman: 1368
+24: Docm77: 1310
+24: iJevin: 1240
+24: joehillssays: 1089
+24: falsesymmetry: 721
+24: Tango: 585
+24: Renthedog: 571
+24: Grian: 360
+24: ZombieCleo: 356
+24: BdoubleO100: 272
+24: PearlescentMoon: 146
+24: impulseSV: 109
+24: cubfan135: 73
+24: Zedaph: 37
+24: VintageBeef: 29
+24: Keralis1: 24
+24: hypnotizd: 23
+24: Smallishbeans: 4
+24: Mumbo: 3
+24: InTheLittleWood: 2
+24: xBCrafted: 1
+Total 32135

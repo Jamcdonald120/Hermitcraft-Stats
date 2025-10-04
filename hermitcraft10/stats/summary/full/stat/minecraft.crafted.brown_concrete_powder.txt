@@ -1,0 +1,21 @@
+minecraft.crafted.brown_concrete_powder
+19: falsesymmetry: 7384
+19: Etho: 1280
+19: Grian: 664
+19: Xisuma: 440
+19: Keralis1: 320
+19: iJevin: 256
+19: VintageBeef: 192
+19: cubfan135: 160
+19: impulseSV: 160
+19: ZombieCleo: 144
+19: PearlescentMoon: 136
+19: joehillssays: 96
+19: Tango: 64
+19: GoodTimeWithScar: 32
+19: BdoubleO100: 16
+19: Docm77: 8
+19: Renthedog: 8
+19: Smallishbeans: 8
+19: hypnotizd: 8
+Total 11376

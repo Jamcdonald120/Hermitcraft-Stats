@@ -1,0 +1,4 @@
+minecraft.dropped.blue_bed
+2: Renthedog: 1
+2: cubfan135: 1
+Total 2

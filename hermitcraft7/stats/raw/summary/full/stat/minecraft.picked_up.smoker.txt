@@ -1,0 +1,18 @@
+minecraft.picked_up.smoker
+16: GoodTimeWithScar: 152
+16: Docm77: 64
+16: Xisuma: 61
+16: cubfan135: 60
+16: xBCrafted: 36
+16: Keralis1: 34
+16: Zedaph: 25
+16: VintageBeef: 12
+16: Grian: 8
+16: joehillssays: 2
+16: Etho: 2
+16: impulseSV: 2
+16: Tango: 1
+16: BdoubleO100: 1
+16: falsesymmetry: 1
+16: ZombieCleo: 1
+Total 462

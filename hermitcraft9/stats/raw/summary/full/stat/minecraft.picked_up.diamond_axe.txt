@@ -1,0 +1,36 @@
+minecraft.picked_up.diamond_axe
+34: GoodTimeWithScar: 198
+34: Grian: 95
+34: Docm77: 66
+34: Tango: 61
+34: Renthedog: 56
+34: iJevin: 52
+34: ZombieCleo: 52
+34: joehillssays: 48
+34: Keralis1: 37
+34: Etho: 33
+34: Zedaph: 31
+34: PearlescentMoon: 27
+34: OrionSound: 26
+34: RentheKing: 22
+34: VintageBeef: 19
+34: BdoubleO100: 16
+34: cubfan135: 16
+34: falsesymmetry: 13
+34: Smajor1995: 12
+34: xBCrafted: 12
+34: Xisuma: 10
+34: MythicalSausage: 10
+34: GeminiTay: 10
+34: iskall85: 9
+34: SolidarityGaming: 9
+34: Smallishbeans: 8
+34: Mumbo: 8
+34: impulseSV: 8
+34: hypnotizd: 6
+34: Stressmonster101: 6
+34: Welsknight: 3
+34: ShubbleYT: 2
+34: Minerva246: 1
+34: Watcher_Grian: 1
+Total 983

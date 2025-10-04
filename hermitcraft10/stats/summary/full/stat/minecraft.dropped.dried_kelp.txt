@@ -1,0 +1,13 @@
+minecraft.dropped.dried_kelp
+11: Etho: 971
+11: Tango: 407
+11: falsesymmetry: 136
+11: impulseSV: 68
+11: iJevin: 48
+11: Mumbo: 39
+11: Skizzleman: 12
+11: Grian: 9
+11: GoodTimeWithScar: 7
+11: GeminiTay: 2
+11: Zedaph: 1
+Total 1700

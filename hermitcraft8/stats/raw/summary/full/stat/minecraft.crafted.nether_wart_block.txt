@@ -1,0 +1,5 @@
+minecraft.crafted.nether_wart_block
+3: iJevin: 5
+3: Docm77: 4
+3: hypnotizd: 1
+Total 10

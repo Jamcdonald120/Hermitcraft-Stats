@@ -1,0 +1,24 @@
+minecraft.picked_up.iron_nugget
+22: Tango: 6686
+22: Zedaph: 5658
+22: Xisuma: 1478
+22: Grian: 1144
+22: Renthedog: 956
+22: cubfan135: 653
+22: iskall85: 598
+22: MumboJumbo: 506
+22: iJevin: 258
+22: GoodTimeWithScar: 215
+22: impulseSV: 200
+22: joehillssays: 116
+22: falsesymmetry: 110
+22: Stressmonster101: 101
+22: Docm77: 69
+22: Etho: 49
+22: xBCrafted: 42
+22: VintageBeef: 35
+22: hypnotizd: 17
+22: BdoubleO100: 10
+22: ZombieCleo: 4
+22: Keralis1: 1
+Total 18906

@@ -1,0 +1,11 @@
+minecraft.crafted.yellow_glazed_terracotta
+9: Etho: 768
+9: impulseSV: 648
+9: Grian: 596
+9: Xisuma: 73
+9: Keralis1: 36
+9: GeminiTay: 12
+9: BdoubleO100: 9
+9: iJevin: 1
+9: Zedaph: 1
+Total 2144

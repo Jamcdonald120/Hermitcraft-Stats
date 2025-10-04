@@ -1,0 +1,4 @@
+minecraft.dropped.echo_shard
+2: iJevin: 5
+2: falsesymmetry: 1
+Total 6

@@ -1,0 +1,4 @@
+minecraft.dropped.cobbled_deepslate_stairs
+2: Docm77: 145
+2: falsesymmetry: 8
+Total 153

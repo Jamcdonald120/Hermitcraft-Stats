@@ -1,0 +1,9 @@
+minecraft.crafted.diorite_stairs
+7: Tango: 80
+7: VintageBeef: 66
+7: xBCrafted: 20
+7: Keralis1: 20
+7: Xisuma: 4
+7: cubfan135: 4
+7: impulseSV: 4
+Total 198

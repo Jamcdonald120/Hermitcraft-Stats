@@ -1,0 +1,18 @@
+minecraft.picked_up.cooked_chicken
+16: Renthedog: 660
+16: Docm77: 193
+16: PearlescentMoon: 174
+16: Zedaph: 82
+16: impulseSV: 36
+16: Tango: 33
+16: GoodTimeWithScar: 29
+16: xBCrafted: 27
+16: iJevin: 4
+16: Etho: 4
+16: Stressmonster101: 4
+16: GeminiTay: 3
+16: Grian: 3
+16: Keralis1: 3
+16: hypnotizd: 2
+16: MumboJumbo: 2
+Total 1259

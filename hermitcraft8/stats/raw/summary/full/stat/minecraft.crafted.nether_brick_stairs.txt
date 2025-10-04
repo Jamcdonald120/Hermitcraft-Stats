@@ -1,0 +1,6 @@
+minecraft.crafted.nether_brick_stairs
+4: cubfan135: 64
+4: GoodTimeWithScar: 44
+4: Renthedog: 32
+4: Keralis1: 8
+Total 148

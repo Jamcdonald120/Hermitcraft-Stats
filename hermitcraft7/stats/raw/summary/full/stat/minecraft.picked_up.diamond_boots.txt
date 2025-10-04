@@ -1,0 +1,27 @@
+minecraft.picked_up.diamond_boots
+25: Grian: 106
+25: Etho: 105
+25: GoodTimeWithScar: 92
+25: Zedaph: 62
+25: iJevin: 58
+25: Tango: 57
+25: Docm77: 56
+25: cubfan135: 54
+25: falsesymmetry: 51
+25: Keralis1: 50
+25: Renthedog: 47
+25: iskall85: 42
+25: xBCrafted: 33
+25: VintageBeef: 26
+25: impulseSV: 20
+25: Xisuma: 15
+25: MumboJumbo: 14
+25: BdoubleO100: 12
+25: hypnotizd: 12
+25: ZombieCleo: 11
+25: Stressmonster101: 10
+25: Welsknight: 4
+25: BarryBoss1234: 4
+25: Tinfoilchef: 4
+25: joehillssays: 2
+Total 947

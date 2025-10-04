@@ -1,0 +1,16 @@
+minecraft.picked_up.jungle_stairs
+14: falsesymmetry: 272
+14: Xisuma: 269
+14: impulseSV: 221
+14: cubfan135: 200
+14: Renthedog: 49
+14: joehillssays: 31
+14: BdoubleO100: 25
+14: Tango: 14
+14: ZombieCleo: 10
+14: GoodTimeWithScar: 8
+14: Biffa2001: 2
+14: iJevin: 1
+14: iskall85: 1
+14: MumboJumbo: 1
+Total 1104

@@ -1,0 +1,24 @@
+minecraft.picked_up.lime_wool
+22: Tango: 1545
+22: PearlescentMoon: 740
+22: Stressmonster101: 454
+22: iJevin: 411
+22: Grian: 403
+22: Docm77: 179
+22: OrionSound: 135
+22: GeminiTay: 134
+22: GoodTimeWithScar: 128
+22: impulseSV: 104
+22: Renthedog: 93
+22: Smajor1995: 60
+22: Xisuma: 59
+22: VintageBeef: 40
+22: cubfan135: 27
+22: BdoubleO100: 13
+22: iskall85: 5
+22: Zedaph: 2
+22: falsesymmetry: 1
+22: Etho: 1
+22: hypnotizd: 1
+22: Keralis1: 1
+Total 4536

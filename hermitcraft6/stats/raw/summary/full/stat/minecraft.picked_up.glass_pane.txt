@@ -1,0 +1,24 @@
+minecraft.picked_up.glass_pane
+22: Renthedog: 1664
+22: iJevin: 1436
+22: cubfan135: 333
+22: GoodTimeWithScar: 228
+22: Xisuma: 190
+22: Tango: 139
+22: falsesymmetry: 110
+22: Docm77: 75
+22: Stressmonster101: 74
+22: Grian: 68
+22: Keralis1: 57
+22: Tinfoilchef: 55
+22: iskall85: 50
+22: MumboJumbo: 35
+22: BdoubleO100: 34
+22: ZombieCleo: 27
+22: Welsknight: 24
+22: Zedaph: 16
+22: PythonGB: 14
+22: joehillssays: 14
+22: impulseSV: 13
+22: Biffa2001: 7
+Total 4663

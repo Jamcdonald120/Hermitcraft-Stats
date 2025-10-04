@@ -1,0 +1,16 @@
+minecraft.picked_up.purpur_stairs
+14: impulseSV: 183
+14: Xisuma: 160
+14: iskall85: 158
+14: PythonGB: 147
+14: cubfan135: 109
+14: Renthedog: 41
+14: MumboJumbo: 34
+14: Tango: 26
+14: GoodTimeWithScar: 21
+14: Grian: 16
+14: Zedaph: 11
+14: iJevin: 5
+14: falsesymmetry: 2
+14: Welsknight: 1
+Total 914

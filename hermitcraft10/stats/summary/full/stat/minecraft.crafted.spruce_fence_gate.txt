@@ -1,0 +1,26 @@
+minecraft.crafted.spruce_fence_gate
+24: GoodTimeWithScar: 2916
+24: PearlescentMoon: 971
+24: Grian: 512
+24: BdoubleO100: 393
+24: xBCrafted: 287
+24: falsesymmetry: 253
+24: Keralis1: 223
+24: VintageBeef: 207
+24: iJevin: 119
+24: Etho: 93
+24: ZombieCleo: 88
+24: Tango: 65
+24: Smallishbeans: 52
+24: Xisuma: 49
+24: joehillssays: 39
+24: Mumbo: 30
+24: GeminiTay: 27
+24: Renthedog: 16
+24: hypnotizd: 10
+24: Docm77: 6
+24: Skizzleman: 3
+24: cubfan135: 3
+24: Zedaph: 3
+24: impulseSV: 2
+Total 6367

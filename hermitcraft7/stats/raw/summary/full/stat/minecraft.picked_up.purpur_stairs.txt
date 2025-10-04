@@ -1,0 +1,21 @@
+minecraft.picked_up.purpur_stairs
+19: falsesymmetry: 838
+19: GoodTimeWithScar: 263
+19: Tango: 162
+19: impulseSV: 107
+19: cubfan135: 95
+19: iJevin: 83
+19: Etho: 73
+19: iskall85: 67
+19: Xisuma: 55
+19: Keralis1: 25
+19: MumboJumbo: 23
+19: Renthedog: 17
+19: hypnotizd: 15
+19: Docm77: 8
+19: xBCrafted: 8
+19: joehillssays: 5
+19: Zedaph: 4
+19: Grian: 3
+19: VintageBeef: 1
+Total 1852

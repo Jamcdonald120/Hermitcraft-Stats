@@ -1,0 +1,20 @@
+minecraft.crafted.dark_oak_door
+18: xBCrafted: 117
+18: Keralis1: 72
+18: BdoubleO100: 24
+18: Smallishbeans: 21
+18: Etho: 15
+18: Docm77: 12
+18: VintageBeef: 12
+18: iJevin: 12
+18: Welsknight: 9
+18: GoodTimeWithScar: 6
+18: Xisuma: 3
+18: Renthedog: 3
+18: Tango: 3
+18: Skizzleman: 3
+18: PearlescentMoon: 3
+18: falsesymmetry: 3
+18: cubfan135: 3
+18: hypnotizd: 3
+Total 324

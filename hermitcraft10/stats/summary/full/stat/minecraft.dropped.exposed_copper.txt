@@ -1,0 +1,4 @@
+minecraft.dropped.exposed_copper
+2: Etho: 1
+2: Keralis1: 1
+Total 2

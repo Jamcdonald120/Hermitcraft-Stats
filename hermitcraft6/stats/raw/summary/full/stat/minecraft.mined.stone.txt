@@ -1,0 +1,30 @@
+minecraft.mined.stone
+28: GoodTimeWithScar: 768192
+28: Renthedog: 551251
+28: iskall85: 418949
+28: falsesymmetry: 382821
+28: Grian: 363529
+28: cubfan135: 362164
+28: Xisuma: 340533
+28: iJevin: 282081
+28: impulseSV: 266280
+28: Tango: 258991
+28: Tinfoilchef: 231648
+28: MumboJumbo: 199604
+28: Stressmonster101: 167151
+28: Welsknight: 161554
+28: Docm77: 149486
+28: joehillssays: 103379
+28: ZombieCleo: 72243
+28: BdoubleO100: 69691
+28: Keralis1: 39972
+28: Zedaph: 35773
+28: Biffa2001: 32124
+28: xBCrafted: 17948
+28: HumanCleo: 7097
+28: PythonGB: 6431
+28: Jessassin: 1430
+28: isGall85: 65
+28: EvilXisuma: 28
+28: BadTimeWithScar: 12
+Total 5290427

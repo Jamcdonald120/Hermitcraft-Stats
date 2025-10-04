@@ -1,0 +1,5 @@
+minecraft.dropped.brown_stained_glass
+3: Etho: 189
+3: falsesymmetry: 94
+3: Renthedog: 1
+Total 284

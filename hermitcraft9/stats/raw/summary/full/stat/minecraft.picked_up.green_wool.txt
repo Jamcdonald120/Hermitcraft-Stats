@@ -1,0 +1,21 @@
+minecraft.picked_up.green_wool
+19: iJevin: 4893
+19: Welsknight: 1288
+19: Grian: 944
+19: PearlescentMoon: 740
+19: Stressmonster101: 655
+19: falsesymmetry: 191
+19: Renthedog: 169
+19: joehillssays: 154
+19: VintageBeef: 137
+19: Tango: 91
+19: iskall85: 68
+19: Xisuma: 43
+19: Docm77: 27
+19: GoodTimeWithScar: 21
+19: ZombieCleo: 15
+19: cubfan135: 14
+19: GeminiTay: 8
+19: RentheKing: 3
+19: Zedaph: 2
+Total 9463

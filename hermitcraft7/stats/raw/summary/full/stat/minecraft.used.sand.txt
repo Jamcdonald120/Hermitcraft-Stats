@@ -1,0 +1,27 @@
+minecraft.used.sand
+25: impulseSV: 79931
+25: iJevin: 49803
+25: Renthedog: 46532
+25: GoodTimeWithScar: 29966
+25: cubfan135: 29466
+25: Xisuma: 26275
+25: hypnotizd: 24736
+25: falsesymmetry: 23844
+25: joehillssays: 15100
+25: iskall85: 11857
+25: Grian: 11537
+25: VintageBeef: 9074
+25: Zedaph: 6990
+25: Etho: 3990
+25: Keralis1: 3746
+25: xBCrafted: 2660
+25: Stressmonster101: 2572
+25: ZombieCleo: 2305
+25: MumboJumbo: 2188
+25: Tango: 1772
+25: Welsknight: 1240
+25: BdoubleO100: 1088
+25: Docm77: 596
+25: Helsknight: 21
+25: Tinfoilchef: 2
+Total 387291

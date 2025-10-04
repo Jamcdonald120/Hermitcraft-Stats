@@ -1,0 +1,28 @@
+minecraft.mined.nether_bricks
+26: Tango: 8514
+26: impulseSV: 7711
+26: Keralis1: 2148
+26: iJevin: 2134
+26: BdoubleO100: 1743
+26: PearlescentMoon: 679
+26: GoodTimeWithScar: 524
+26: Xisuma: 408
+26: Docm77: 377
+26: cubfan135: 364
+26: Pixlriffs: 157
+26: Renthedog: 142
+26: iskall85: 121
+26: ZombieCleo: 109
+26: hypnotizd: 108
+26: GeminiTay: 83
+26: Etho: 64
+26: Stressmonster101: 39
+26: Grian: 30
+26: joehillssays: 29
+26: falsesymmetry: 29
+26: VintageBeef: 22
+26: Zedaph: 9
+26: xBCrafted: 8
+26: InTheLittleWood: 5
+26: HBomb94: 2
+Total 25559

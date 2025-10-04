@@ -1,0 +1,26 @@
+minecraft.dropped.baked_potato
+24: PearlescentMoon: 925
+24: Tango: 509
+24: Renthedog: 492
+24: Skizzleman: 263
+24: Etho: 227
+24: falsesymmetry: 195
+24: cubfan135: 188
+24: iJevin: 154
+24: GoodTimeWithScar: 128
+24: Grian: 120
+24: Docm77: 93
+24: Xisuma: 80
+24: BdoubleO100: 72
+24: GeminiTay: 60
+24: impulseSV: 54
+24: Zedaph: 53
+24: Keralis1: 46
+24: Smallishbeans: 42
+24: Mumbo: 30
+24: ZombieCleo: 22
+24: SolidarityGaming: 15
+24: joehillssays: 9
+24: xBCrafted: 6
+24: HBomb94: 1
+Total 3784

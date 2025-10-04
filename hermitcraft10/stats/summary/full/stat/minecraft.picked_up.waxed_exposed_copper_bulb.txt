@@ -1,0 +1,18 @@
+minecraft.picked_up.waxed_exposed_copper_bulb
+16: Tango: 37
+16: GoodTimeWithScar: 37
+16: PearlescentMoon: 35
+16: cubfan135: 22
+16: BdoubleO100: 20
+16: Xisuma: 19
+16: Etho: 18
+16: Mumbo: 15
+16: falsesymmetry: 14
+16: Docm77: 11
+16: impulseSV: 10
+16: Grian: 4
+16: Keralis1: 2
+16: iJevin: 1
+16: joehillssays: 1
+16: GeminiTay: 1
+Total 247

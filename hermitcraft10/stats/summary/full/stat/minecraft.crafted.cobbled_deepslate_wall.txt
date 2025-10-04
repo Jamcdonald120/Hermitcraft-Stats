@@ -1,0 +1,16 @@
+minecraft.crafted.cobbled_deepslate_wall
+14: impulseSV: 384
+14: Keralis1: 192
+14: Tango: 150
+14: GoodTimeWithScar: 118
+14: cubfan135: 44
+14: GeminiTay: 24
+14: Docm77: 20
+14: Etho: 13
+14: Renthedog: 12
+14: Grian: 12
+14: VintageBeef: 6
+14: Mumbo: 6
+14: Xisuma: 1
+14: hypnotizd: 1
+Total 983

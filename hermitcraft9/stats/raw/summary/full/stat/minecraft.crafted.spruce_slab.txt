@@ -1,0 +1,31 @@
+minecraft.crafted.spruce_slab
+29: xBCrafted: 8996
+29: PearlescentMoon: 6060
+29: Etho: 5638
+29: Keralis1: 5436
+29: Tango: 5052
+29: Renthedog: 4638
+29: Stressmonster101: 4300
+29: ZombieCleo: 3864
+29: impulseSV: 3708
+29: falsesymmetry: 3468
+29: iJevin: 3462
+29: GeminiTay: 3168
+29: GoodTimeWithScar: 3048
+29: BdoubleO100: 1938
+29: hypnotizd: 1620
+29: Xisuma: 1572
+29: Grian: 1054
+29: Docm77: 628
+29: RentheKing: 492
+29: iskall85: 486
+29: MythicalSausage: 404
+29: Welsknight: 288
+29: cubfan135: 234
+29: VintageBeef: 222
+29: Zedaph: 114
+29: fWhip: 24
+29: Smallishbeans: 18
+29: joehillssays: 12
+29: Pixlriffs: 6
+Total 69950

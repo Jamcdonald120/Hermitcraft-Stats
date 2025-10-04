@@ -1,0 +1,13 @@
+minecraft.dropped.warped_stem
+11: Tango: 1461
+11: GoodTimeWithScar: 200
+11: Keralis1: 96
+11: falsesymmetry: 92
+11: Grian: 65
+11: PearlescentMoon: 17
+11: impulseSV: 7
+11: RentheKing: 6
+11: Etho: 5
+11: iJevin: 3
+11: cubfan135: 3
+Total 1955

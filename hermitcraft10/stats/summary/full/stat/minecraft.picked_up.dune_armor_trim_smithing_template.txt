@@ -1,0 +1,8 @@
+minecraft.picked_up.dune_armor_trim_smithing_template
+6: PearlescentMoon: 4
+6: Renthedog: 2
+6: cubfan135: 2
+6: Docm77: 1
+6: GeminiTay: 1
+6: Etho: 1
+Total 11

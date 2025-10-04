@@ -1,0 +1,24 @@
+minecraft.dropped.name_tag
+22: Zedaph: 56
+22: cubfan135: 38
+22: joehillssays: 35
+22: GoodTimeWithScar: 32
+22: Grian: 30
+22: Renthedog: 22
+22: iJevin: 21
+22: Tango: 16
+22: impulseSV: 11
+22: Etho: 8
+22: Keralis1: 8
+22: GeminiTay: 6
+22: BdoubleO100: 6
+22: ZombieCleo: 6
+22: Skizzleman: 5
+22: Smallishbeans: 5
+22: Docm77: 4
+22: Xisuma: 2
+22: Mumbo: 2
+22: hypnotizd: 2
+22: PearlescentMoon: 1
+22: xBCrafted: 1
+Total 317

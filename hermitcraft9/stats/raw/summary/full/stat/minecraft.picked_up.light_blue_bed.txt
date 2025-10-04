@@ -1,0 +1,10 @@
+minecraft.picked_up.light_blue_bed
+8: iJevin: 93
+8: PearlescentMoon: 9
+8: Etho: 9
+8: VintageBeef: 6
+8: iskall85: 3
+8: Xisuma: 2
+8: joehillssays: 1
+8: Zedaph: 1
+Total 124

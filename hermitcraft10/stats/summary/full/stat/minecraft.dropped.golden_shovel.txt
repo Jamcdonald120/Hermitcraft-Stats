@@ -1,0 +1,4 @@
+minecraft.dropped.golden_shovel
+2: Tango: 1
+2: Mumbo: 1
+Total 2

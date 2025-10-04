@@ -1,0 +1,16 @@
+minecraft.mined.brick_stairs
+14: impulseSV: 50
+14: GoodTimeWithScar: 36
+14: Xisuma: 30
+14: Renthedog: 29
+14: Skizzleman: 16
+14: VintageBeef: 15
+14: Etho: 12
+14: cubfan135: 10
+14: PearlescentMoon: 9
+14: Tango: 7
+14: Welsknight: 6
+14: Docm77: 5
+14: falsesymmetry: 3
+14: BdoubleO100: 1
+Total 229

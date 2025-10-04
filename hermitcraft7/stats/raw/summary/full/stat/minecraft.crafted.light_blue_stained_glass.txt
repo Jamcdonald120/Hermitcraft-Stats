@@ -1,0 +1,19 @@
+minecraft.crafted.light_blue_stained_glass
+17: impulseSV: 31040
+17: GoodTimeWithScar: 1696
+17: Etho: 1480
+17: cubfan135: 1472
+17: Xisuma: 1064
+17: Stressmonster101: 936
+17: Tango: 888
+17: Tinfoilchef: 576
+17: iskall85: 488
+17: falsesymmetry: 224
+17: joehillssays: 200
+17: MumboJumbo: 88
+17: Zedaph: 72
+17: VintageBeef: 24
+17: BdoubleO100: 24
+17: Docm77: 8
+17: ZombieCleo: 8
+Total 40288

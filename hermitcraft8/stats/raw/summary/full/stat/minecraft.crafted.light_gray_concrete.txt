@@ -1,0 +1,4 @@
+minecraft.crafted.light_gray_concrete
+2: Keralis1: 16
+2: iJevin: 8
+Total 24

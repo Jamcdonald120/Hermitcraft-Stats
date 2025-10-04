@@ -1,0 +1,27 @@
+minecraft.mined.dark_oak_fence
+25: VintageBeef: 1205
+25: falsesymmetry: 381
+25: iJevin: 369
+25: Tango: 315
+25: Skizzleman: 170
+25: Xisuma: 152
+25: cubfan135: 134
+25: ZombieCleo: 125
+25: Smallishbeans: 115
+25: Zedaph: 98
+25: Keralis1: 84
+25: joehillssays: 36
+25: Renthedog: 35
+25: hypnotizd: 30
+25: GeminiTay: 24
+25: impulseSV: 21
+25: BdoubleO100: 20
+25: Welsknight: 15
+25: Docm77: 13
+25: xBCrafted: 13
+25: Etho: 13
+25: PearlescentMoon: 10
+25: GoodTimeWithScar: 8
+25: Grian: 7
+25: Mumbo: 7
+Total 3400

@@ -1,0 +1,23 @@
+minecraft.crafted.leather_chestplate
+21: GoodTimeWithScar: 274
+21: xBCrafted: 252
+21: cubfan135: 185
+21: PearlescentMoon: 152
+21: ZombieCleo: 150
+21: falsesymmetry: 128
+21: Mumbo: 104
+21: iJevin: 103
+21: joehillssays: 91
+21: Xisuma: 81
+21: Tango: 77
+21: BdoubleO100: 57
+21: Smallishbeans: 39
+21: Docm77: 34
+21: Keralis1: 31
+21: Renthedog: 28
+21: GeminiTay: 19
+21: Etho: 8
+21: impulseSV: 6
+21: hypnotizd: 5
+21: Grian: 2
+Total 1826

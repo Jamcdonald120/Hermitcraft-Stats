@@ -1,0 +1,7 @@
+minecraft.dropped.dispenser
+5: Tango: 9
+5: Etho: 8
+5: MumboJumbo: 2
+5: iJevin: 1
+5: GeminiTay: 1
+Total 21

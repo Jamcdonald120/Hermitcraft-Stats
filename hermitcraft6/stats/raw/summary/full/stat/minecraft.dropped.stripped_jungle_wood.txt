@@ -1,0 +1,4 @@
+minecraft.dropped.stripped_jungle_wood
+2: Xisuma: 3
+2: GoodTimeWithScar: 1
+Total 4

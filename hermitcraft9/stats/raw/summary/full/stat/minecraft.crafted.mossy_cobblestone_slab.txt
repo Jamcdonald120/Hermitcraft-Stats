@@ -1,0 +1,21 @@
+minecraft.crafted.mossy_cobblestone_slab
+19: Tango: 702
+19: falsesymmetry: 246
+19: Docm77: 180
+19: GoodTimeWithScar: 156
+19: MythicalSausage: 138
+19: iJevin: 106
+19: Zedaph: 98
+19: Grian: 78
+19: iskall85: 60
+19: Stressmonster101: 42
+19: cubfan135: 38
+19: GeminiTay: 30
+19: Xisuma: 18
+19: Keralis1: 12
+19: joehillssays: 10
+19: BdoubleO100: 6
+19: ZombieCleo: 6
+19: Renthedog: 4
+19: VintageBeef: 2
+Total 1932

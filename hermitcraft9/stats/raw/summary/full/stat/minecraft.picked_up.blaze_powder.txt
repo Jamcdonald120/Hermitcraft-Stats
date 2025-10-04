@@ -1,0 +1,21 @@
+minecraft.picked_up.blaze_powder
+19: Tango: 813
+19: cubfan135: 122
+19: Xisuma: 105
+19: iJevin: 78
+19: joehillssays: 40
+19: Grian: 36
+19: Docm77: 33
+19: Renthedog: 16
+19: Zedaph: 15
+19: ZombieCleo: 10
+19: Stressmonster101: 10
+19: PearlescentMoon: 9
+19: falsesymmetry: 8
+19: impulseSV: 8
+19: iskall85: 4
+19: Etho: 2
+19: BdoubleO100: 1
+19: GoodTimeWithScar: 1
+19: Keralis1: 1
+Total 1312

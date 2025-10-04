@@ -1,0 +1,5 @@
+minecraft.dropped.tropical_fish_bucket
+3: Xisuma: 626
+3: Zedaph: 27
+3: Tango: 4
+Total 657

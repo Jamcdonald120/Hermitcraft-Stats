@@ -1,0 +1,23 @@
+minecraft.picked_up.cookie
+21: PearlescentMoon: 1135
+21: joehillssays: 451
+21: Keralis1: 420
+21: Skizzleman: 336
+21: Etho: 254
+21: Tango: 232
+21: GoodTimeWithScar: 211
+21: GeminiTay: 204
+21: Mumbo: 195
+21: Renthedog: 190
+21: cubfan135: 147
+21: falsesymmetry: 60
+21: Xisuma: 58
+21: BdoubleO100: 39
+21: iJevin: 34
+21: hypnotizd: 31
+21: Zedaph: 23
+21: Grian: 18
+21: SolidarityGaming: 18
+21: impulseSV: 7
+21: ZombieCleo: 1
+Total 4064

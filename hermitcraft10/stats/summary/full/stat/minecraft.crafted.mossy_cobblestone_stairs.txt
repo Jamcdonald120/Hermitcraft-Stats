@@ -1,0 +1,16 @@
+minecraft.crafted.mossy_cobblestone_stairs
+14: impulseSV: 52
+14: Xisuma: 26
+14: xBCrafted: 17
+14: GeminiTay: 16
+14: iJevin: 12
+14: Keralis1: 12
+14: Renthedog: 8
+14: Skizzleman: 8
+14: Etho: 8
+14: GoodTimeWithScar: 5
+14: Grian: 4
+14: Tango: 4
+14: BdoubleO100: 1
+14: hypnotizd: 1
+Total 174

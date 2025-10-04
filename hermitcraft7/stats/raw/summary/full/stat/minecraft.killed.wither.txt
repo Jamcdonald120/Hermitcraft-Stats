@@ -1,0 +1,18 @@
+minecraft.killed.wither
+16: impulseSV: 164
+16: Tango: 43
+16: xBCrafted: 43
+16: Etho: 18
+16: Keralis1: 8
+16: iJevin: 6
+16: Grian: 4
+16: cubfan135: 3
+16: hypnotizd: 3
+16: iskall85: 2
+16: falsesymmetry: 2
+16: Xisuma: 1
+16: Renthedog: 1
+16: Welsknight: 1
+16: Stressmonster101: 1
+16: Zedaph: 1
+Total 301

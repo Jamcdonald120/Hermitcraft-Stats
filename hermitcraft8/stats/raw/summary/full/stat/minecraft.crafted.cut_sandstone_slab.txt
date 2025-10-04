@@ -1,0 +1,3 @@
+minecraft.crafted.cut_sandstone_slab
+1: cubfan135: 384
+Total 384

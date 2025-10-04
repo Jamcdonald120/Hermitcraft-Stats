@@ -1,0 +1,29 @@
+minecraft.used.smooth_quartz
+27: impulseSV: 7109
+27: GoodTimeWithScar: 5696
+27: Grian: 5241
+27: GeminiTay: 3492
+27: Zedaph: 3315
+27: cubfan135: 1575
+27: falsesymmetry: 1076
+27: VintageBeef: 665
+27: Etho: 534
+27: iJevin: 497
+27: Keralis1: 436
+27: ZombieCleo: 412
+27: Renthedog: 239
+27: Smallishbeans: 185
+27: xBCrafted: 175
+27: fWhip: 163
+27: hypnotizd: 151
+27: Xisuma: 143
+27: Tango: 130
+27: PearlescentMoon: 120
+27: joehillssays: 69
+27: Skizzleman: 36
+27: iskall85: 35
+27: InTheLittleWood: 19
+27: Docm77: 12
+27: Welsknight: 5
+27: MythicalSausage: 2
+Total 31532

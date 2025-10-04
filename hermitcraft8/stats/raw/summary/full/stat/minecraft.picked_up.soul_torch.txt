@@ -1,0 +1,10 @@
+minecraft.picked_up.soul_torch
+8: iJevin: 141
+8: Docm77: 55
+8: Renthedog: 27
+8: cubfan135: 13
+8: GoodTimeWithScar: 3
+8: Tango: 2
+8: Xisuma: 1
+8: PearlescentMoon: 1
+Total 243

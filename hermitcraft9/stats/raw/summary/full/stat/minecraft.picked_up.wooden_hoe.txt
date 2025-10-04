@@ -1,0 +1,16 @@
+minecraft.picked_up.wooden_hoe
+14: PearlescentMoon: 20
+14: Mumbo: 11
+14: GeminiTay: 8
+14: impulseSV: 8
+14: Zedaph: 8
+14: cubfan135: 6
+14: iJevin: 4
+14: Stressmonster101: 4
+14: Xisuma: 3
+14: falsesymmetry: 3
+14: Etho: 2
+14: ZombieCleo: 2
+14: GoodTimeWithScar: 2
+14: Grian: 1
+Total 82

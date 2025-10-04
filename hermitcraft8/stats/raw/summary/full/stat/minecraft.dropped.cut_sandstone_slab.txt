@@ -1,0 +1,4 @@
+minecraft.dropped.cut_sandstone_slab
+2: Renthedog: 14
+2: Tango: 12
+Total 26

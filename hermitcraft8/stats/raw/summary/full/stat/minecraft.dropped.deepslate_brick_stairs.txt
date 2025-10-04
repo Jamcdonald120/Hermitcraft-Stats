@@ -1,0 +1,5 @@
+minecraft.dropped.deepslate_brick_stairs
+3: iJevin: 241
+3: impulseSV: 20
+3: GoodTimeWithScar: 4
+Total 265

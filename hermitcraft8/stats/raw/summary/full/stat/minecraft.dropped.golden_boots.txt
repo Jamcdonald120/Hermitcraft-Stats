@@ -1,0 +1,21 @@
+minecraft.dropped.golden_boots
+19: Tango: 78
+19: Xisuma: 60
+19: Etho: 34
+19: Grian: 28
+19: Docm77: 21
+19: iJevin: 15
+19: impulseSV: 15
+19: Renthedog: 14
+19: hypnotizd: 9
+19: iskall85: 7
+19: PearlescentMoon: 6
+19: cubfan135: 6
+19: GoodTimeWithScar: 5
+19: BdoubleO100: 4
+19: falsesymmetry: 4
+19: Keralis1: 3
+19: xBCrafted: 1
+19: Welsknight: 1
+19: Stressmonster101: 1
+Total 312

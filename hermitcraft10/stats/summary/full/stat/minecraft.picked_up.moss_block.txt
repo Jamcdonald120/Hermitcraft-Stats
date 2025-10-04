@@ -1,0 +1,29 @@
+minecraft.picked_up.moss_block
+27: GoodTimeWithScar: 124243
+27: Etho: 119368
+27: Keralis1: 35567
+27: falsesymmetry: 20655
+27: xBCrafted: 11609
+27: Xisuma: 11217
+27: Smallishbeans: 10044
+27: BdoubleO100: 8997
+27: iJevin: 8635
+27: PearlescentMoon: 8513
+27: Grian: 7647
+27: Docm77: 4962
+27: cubfan135: 3021
+27: Tango: 2337
+27: impulseSV: 2082
+27: ZombieCleo: 2003
+27: Skizzleman: 1903
+27: GeminiTay: 1859
+27: Renthedog: 1485
+27: Mumbo: 856
+27: joehillssays: 740
+27: Welsknight: 725
+27: Zedaph: 575
+27: hypnotizd: 52
+27: VintageBeef: 48
+27: jojosolos: 4
+27: Smajor1995: 1
+Total 389148

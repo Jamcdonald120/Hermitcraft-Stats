@@ -1,0 +1,6 @@
+minecraft.crafted.end_crystal
+4: MumboJumbo: 658
+4: iJevin: 86
+4: impulseSV: 4
+4: GoodTimeWithScar: 3
+Total 751

@@ -1,0 +1,26 @@
+minecraft.picked_up.red_mushroom
+24: impulseSV: 514
+24: iJevin: 270
+24: Mumbo: 211
+24: Etho: 95
+24: Grian: 80
+24: VintageBeef: 78
+24: BdoubleO100: 76
+24: Tango: 70
+24: cubfan135: 66
+24: Xisuma: 63
+24: joehillssays: 57
+24: PearlescentMoon: 50
+24: falsesymmetry: 35
+24: Renthedog: 32
+24: Docm77: 29
+24: xBCrafted: 26
+24: GoodTimeWithScar: 10
+24: hypnotizd: 9
+24: Welsknight: 6
+24: Zedaph: 6
+24: GeminiTay: 4
+24: Keralis1: 4
+24: Skizzleman: 3
+24: Smallishbeans: 2
+Total 1796

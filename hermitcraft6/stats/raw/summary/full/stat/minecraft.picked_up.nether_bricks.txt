@@ -1,0 +1,21 @@
+minecraft.picked_up.nether_bricks
+19: Tango: 8002
+19: falsesymmetry: 5118
+19: joehillssays: 3610
+19: iskall85: 3251
+19: impulseSV: 2264
+19: Xisuma: 1374
+19: GoodTimeWithScar: 1338
+19: cubfan135: 898
+19: iJevin: 828
+19: MumboJumbo: 476
+19: Zedaph: 390
+19: Renthedog: 343
+19: Grian: 298
+19: Biffa2001: 144
+19: Docm77: 86
+19: PythonGB: 51
+19: Welsknight: 15
+19: ZombieCleo: 6
+19: Stressmonster101: 6
+Total 28498

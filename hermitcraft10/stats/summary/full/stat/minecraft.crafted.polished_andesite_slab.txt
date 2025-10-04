@@ -1,0 +1,17 @@
+minecraft.crafted.polished_andesite_slab
+15: Tango: 294
+15: Mumbo: 226
+15: falsesymmetry: 156
+15: cubfan135: 152
+15: Xisuma: 134
+15: Grian: 120
+15: Zedaph: 72
+15: BdoubleO100: 66
+15: Docm77: 52
+15: Keralis1: 36
+15: GoodTimeWithScar: 30
+15: impulseSV: 16
+15: GeminiTay: 6
+15: xBCrafted: 6
+15: hypnotizd: 2
+Total 1368

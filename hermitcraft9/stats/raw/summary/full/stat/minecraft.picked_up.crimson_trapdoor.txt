@@ -1,0 +1,21 @@
+minecraft.picked_up.crimson_trapdoor
+19: Tango: 164
+19: Xisuma: 72
+19: GoodTimeWithScar: 59
+19: cubfan135: 49
+19: joehillssays: 42
+19: iJevin: 35
+19: PearlescentMoon: 28
+19: Etho: 28
+19: Renthedog: 26
+19: hypnotizd: 19
+19: Keralis1: 19
+19: impulseSV: 14
+19: BdoubleO100: 9
+19: GeminiTay: 8
+19: falsesymmetry: 8
+19: Stressmonster101: 4
+19: ZombieCleo: 2
+19: Zedaph: 2
+19: Grian: 1
+Total 589

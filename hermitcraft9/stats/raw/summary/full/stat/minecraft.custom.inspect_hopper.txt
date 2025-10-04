@@ -1,0 +1,37 @@
+minecraft.custom.inspect_hopper
+35: Tango: 10320
+35: Xisuma: 4778
+35: impulseSV: 3979
+35: iJevin: 3768
+35: Docm77: 3147
+35: Keralis1: 3076
+35: cubfan135: 2984
+35: Etho: 2834
+35: joehillssays: 2299
+35: hypnotizd: 2022
+35: Zedaph: 1894
+35: xBCrafted: 1771
+35: GoodTimeWithScar: 1671
+35: Renthedog: 1439
+35: BdoubleO100: 1330
+35: Grian: 928
+35: PearlescentMoon: 721
+35: VintageBeef: 702
+35: iskall85: 497
+35: GeminiTay: 451
+35: falsesymmetry: 305
+35: RentheKing: 277
+35: ZombieCleo: 263
+35: Stressmonster101: 243
+35: Mumbo: 199
+35: Smallishbeans: 9
+35: truesymmetry: 8
+35: Welsknight: 6
+35: OrionSound: 5
+35: fWhip: 4
+35: Smajor1995: 2
+35: SolidarityGaming: 2
+35: MythicalSausage: 1
+35: MumboJumbo: 1
+35: ShubbleYT: 1
+Total 51937

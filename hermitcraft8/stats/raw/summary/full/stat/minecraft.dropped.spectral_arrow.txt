@@ -1,0 +1,11 @@
+minecraft.dropped.spectral_arrow
+9: impulseSV: 284
+9: Docm77: 251
+9: Renthedog: 64
+9: cubfan135: 62
+9: Etho: 37
+9: iJevin: 30
+9: Grian: 14
+9: GoodTimeWithScar: 12
+9: ZombieCleo: 2
+Total 756

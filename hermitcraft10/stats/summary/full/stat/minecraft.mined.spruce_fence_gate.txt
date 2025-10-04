@@ -1,0 +1,23 @@
+minecraft.mined.spruce_fence_gate
+21: VintageBeef: 131
+21: iJevin: 118
+21: Grian: 117
+21: xBCrafted: 116
+21: GoodTimeWithScar: 100
+21: PearlescentMoon: 99
+21: Mumbo: 67
+21: BdoubleO100: 48
+21: falsesymmetry: 35
+21: ZombieCleo: 32
+21: Xisuma: 30
+21: joehillssays: 28
+21: Etho: 24
+21: GeminiTay: 22
+21: Keralis1: 17
+21: Smallishbeans: 15
+21: Renthedog: 11
+21: cubfan135: 8
+21: Tango: 2
+21: Zedaph: 2
+21: impulseSV: 1
+Total 1023

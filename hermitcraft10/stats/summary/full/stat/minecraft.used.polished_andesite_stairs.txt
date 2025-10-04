@@ -1,0 +1,23 @@
+minecraft.used.polished_andesite_stairs
+21: impulseSV: 856
+21: BdoubleO100: 304
+21: Tango: 282
+21: Smallishbeans: 249
+21: Xisuma: 160
+21: PearlescentMoon: 99
+21: GoodTimeWithScar: 84
+21: GeminiTay: 77
+21: cubfan135: 76
+21: falsesymmetry: 75
+21: Etho: 71
+21: Mumbo: 63
+21: Docm77: 50
+21: xBCrafted: 46
+21: hypnotizd: 17
+21: Renthedog: 14
+21: ZombieCleo: 13
+21: Zedaph: 9
+21: VintageBeef: 3
+21: iJevin: 1
+21: Skizzleman: 1
+Total 2550

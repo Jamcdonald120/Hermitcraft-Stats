@@ -1,0 +1,31 @@
+minecraft.picked_up.pointed_dripstone
+29: cubfan135: 3238
+29: Tango: 2555
+29: Docm77: 1938
+29: Etho: 1662
+29: iJevin: 1124
+29: falsesymmetry: 1037
+29: ZombieCleo: 861
+29: PearlescentMoon: 855
+29: joehillssays: 631
+29: hypnotizd: 631
+29: Grian: 625
+29: Xisuma: 530
+29: BdoubleO100: 511
+29: VintageBeef: 506
+29: GoodTimeWithScar: 382
+29: iskall85: 254
+29: Zedaph: 229
+29: GeminiTay: 165
+29: Renthedog: 160
+29: impulseSV: 159
+29: Keralis1: 157
+29: MythicalSausage: 155
+29: kingbdogz: 149
+29: slicedlime: 54
+29: xBCrafted: 49
+29: Mumbo: 14
+29: Smallishbeans: 3
+29: MumboJumbo: 2
+29: Stressmonster101: 2
+Total 18638

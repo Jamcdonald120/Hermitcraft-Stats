@@ -1,0 +1,30 @@
+minecraft.picked_up.wheat_seeds
+28: joehillssays: 55448
+28: BdoubleO100: 33318
+28: Grian: 32070
+28: GoodTimeWithScar: 21785
+28: hypnotizd: 20902
+28: Renthedog: 17903
+28: ZombieCleo: 17753
+28: Etho: 16551
+28: Xisuma: 12353
+28: impulseSV: 11713
+28: Zedaph: 9229
+28: PearlescentMoon: 8136
+28: GeminiTay: 5801
+28: cubfan135: 5672
+28: Docm77: 5114
+28: MumboJumbo: 4316
+28: Welsknight: 3456
+28: VintageBeef: 3211
+28: falsesymmetry: 2882
+28: xBCrafted: 2602
+28: iskall85: 2116
+28: Tango: 1934
+28: iJevin: 1055
+28: Stressmonster101: 612
+28: pillbugnine: 401
+28: Keralis1: 181
+28: Tinfoilchef: 42
+28: EvilXisuma: 1
+Total 296557

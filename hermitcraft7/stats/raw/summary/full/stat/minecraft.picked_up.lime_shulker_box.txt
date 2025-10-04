@@ -1,0 +1,22 @@
+minecraft.picked_up.lime_shulker_box
+20: Etho: 417
+20: cubfan135: 349
+20: Xisuma: 289
+20: Keralis1: 279
+20: GoodTimeWithScar: 203
+20: iJevin: 139
+20: iskall85: 130
+20: MumboJumbo: 112
+20: BdoubleO100: 108
+20: Zedaph: 78
+20: ZombieCleo: 77
+20: Renthedog: 66
+20: Stressmonster101: 57
+20: joehillssays: 46
+20: Grian: 44
+20: hypnotizd: 29
+20: Tango: 26
+20: impulseSV: 14
+20: Docm77: 5
+20: xBCrafted: 2
+Total 2470

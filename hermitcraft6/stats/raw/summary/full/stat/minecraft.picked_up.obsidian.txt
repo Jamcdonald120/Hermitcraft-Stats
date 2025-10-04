@@ -1,0 +1,27 @@
+minecraft.picked_up.obsidian
+25: cubfan135: 6982
+25: falsesymmetry: 5195
+25: Tinfoilchef: 5116
+25: Grian: 2873
+25: Xisuma: 2728
+25: joehillssays: 2288
+25: GoodTimeWithScar: 1408
+25: iskall85: 1370
+25: iJevin: 1185
+25: Tango: 1153
+25: impulseSV: 1001
+25: MumboJumbo: 958
+25: Docm77: 899
+25: Renthedog: 798
+25: ZombieCleo: 733
+25: Stressmonster101: 419
+25: Biffa2001: 370
+25: Zedaph: 283
+25: Welsknight: 258
+25: BdoubleO100: 187
+25: PythonGB: 152
+25: HumanCleo: 141
+25: Jessassin: 16
+25: Keralis1: 10
+25: xBCrafted: 1
+Total 36524

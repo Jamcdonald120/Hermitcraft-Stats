@@ -1,0 +1,20 @@
+minecraft.crafted.candle
+18: hypnotizd: 31632
+18: Tango: 2163
+18: BdoubleO100: 953
+18: joehillssays: 852
+18: Etho: 576
+18: Xisuma: 293
+18: Grian: 279
+18: iJevin: 146
+18: PearlescentMoon: 131
+18: xBCrafted: 128
+18: Keralis1: 107
+18: falsesymmetry: 77
+18: impulseSV: 64
+18: GoodTimeWithScar: 30
+18: ZombieCleo: 24
+18: Docm77: 21
+18: Zedaph: 18
+18: GeminiTay: 1
+Total 37495

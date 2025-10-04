@@ -1,0 +1,10 @@
+minecraft.crafted.mossy_stone_brick_stairs
+8: iJevin: 900
+8: Tango: 60
+8: GeminiTay: 32
+8: Grian: 27
+8: falsesymmetry: 24
+8: xBCrafted: 14
+8: Renthedog: 9
+8: VintageBeef: 1
+Total 1067

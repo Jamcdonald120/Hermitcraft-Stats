@@ -1,0 +1,34 @@
+minecraft.custom.crouch_one_cm
+32: BdoubleO100: 33749669
+32: impulseSV: 32676952
+32: GoodTimeWithScar: 26333638
+32: Xisuma: 25417108
+32: cubfan135: 24409269
+32: falsesymmetry: 23016603
+32: Tango: 20533769
+32: Grian: 17712356
+32: Renthedog: 15905336
+32: joehillssays: 13719660
+32: Etho: 12869254
+32: MumboJumbo: 12480089
+32: xBCrafted: 11518276
+32: iskall85: 11287784
+32: Keralis1: 10322860
+32: iJevin: 10262749
+32: Zedaph: 8350652
+32: hypnotizd: 7606400
+32: Docm77: 7170723
+32: ZombieCleo: 6709356
+32: VintageBeef: 3771394
+32: Stressmonster101: 3423819
+32: Welsknight: 1372930
+32: Tinfoilchef: 416730
+32: Helsknight: 7383
+32: BarryBoss1234: 5628
+32: HumanCleo: 4997
+32: HermitcraftAlt: 4162
+32: xisumavoid: 2517
+32: isGall85: 1331
+32: Mumbo: 273
+32: TangoCam: 210
+Total 341063877

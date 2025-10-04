@@ -1,0 +1,12 @@
+minecraft.dropped.jungle_stairs
+10: falsesymmetry: 32
+10: iJevin: 19
+10: Smallishbeans: 10
+10: Mumbo: 9
+10: Keralis1: 7
+10: Etho: 5
+10: PearlescentMoon: 4
+10: Renthedog: 2
+10: Tango: 2
+10: xBCrafted: 1
+Total 91

@@ -1,0 +1,24 @@
+minecraft.picked_up.weeping_vines
+22: falsesymmetry: 3473
+22: Etho: 776
+22: VintageBeef: 330
+22: Grian: 164
+22: Smallishbeans: 146
+22: Mumbo: 139
+22: iJevin: 127
+22: Docm77: 102
+22: cubfan135: 95
+22: Tango: 70
+22: ZombieCleo: 70
+22: impulseSV: 53
+22: GeminiTay: 27
+22: Xisuma: 22
+22: Renthedog: 18
+22: Keralis1: 9
+22: hypnotizd: 7
+22: PearlescentMoon: 4
+22: joehillssays: 3
+22: BdoubleO100: 3
+22: xBCrafted: 2
+22: GoodTimeWithScar: 1
+Total 5641

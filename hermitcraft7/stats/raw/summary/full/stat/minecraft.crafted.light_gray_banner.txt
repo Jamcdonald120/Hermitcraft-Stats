@@ -1,0 +1,10 @@
+minecraft.crafted.light_gray_banner
+8: Keralis1: 120
+8: Tango: 71
+8: GoodTimeWithScar: 28
+8: BdoubleO100: 8
+8: xBCrafted: 4
+8: Xisuma: 2
+8: VintageBeef: 1
+8: Welsknight: 1
+Total 235

@@ -1,0 +1,20 @@
+minecraft.picked_up.blaze_powder
+18: Docm77: 79
+18: hypnotizd: 64
+18: PearlescentMoon: 54
+18: Xisuma: 39
+18: xBCrafted: 31
+18: Etho: 21
+18: Zedaph: 16
+18: impulseSV: 14
+18: joehillssays: 9
+18: iJevin: 8
+18: GoodTimeWithScar: 6
+18: Renthedog: 5
+18: falsesymmetry: 4
+18: Tango: 3
+18: ZombieCleo: 3
+18: Grian: 2
+18: Smallishbeans: 2
+18: Keralis1: 1
+Total 361

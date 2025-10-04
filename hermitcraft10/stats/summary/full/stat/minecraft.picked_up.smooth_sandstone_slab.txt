@@ -1,0 +1,18 @@
+minecraft.picked_up.smooth_sandstone_slab
+16: GoodTimeWithScar: 861
+16: joehillssays: 179
+16: xBCrafted: 149
+16: PearlescentMoon: 107
+16: Grian: 69
+16: Xisuma: 66
+16: Etho: 47
+16: falsesymmetry: 32
+16: Keralis1: 32
+16: BdoubleO100: 14
+16: Docm77: 13
+16: Skizzleman: 8
+16: Smallishbeans: 7
+16: ZombieCleo: 7
+16: iJevin: 6
+16: GeminiTay: 4
+Total 1601

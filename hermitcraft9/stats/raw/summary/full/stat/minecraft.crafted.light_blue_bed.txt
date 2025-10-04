@@ -1,0 +1,13 @@
+minecraft.crafted.light_blue_bed
+11: PearlescentMoon: 26
+11: iJevin: 16
+11: Etho: 9
+11: Renthedog: 8
+11: VintageBeef: 2
+11: BdoubleO100: 2
+11: GoodTimeWithScar: 2
+11: Xisuma: 1
+11: Mumbo: 1
+11: MumboJumbo: 1
+11: Zedaph: 1
+Total 69

@@ -1,0 +1,32 @@
+minecraft.mined.dark_oak_planks
+30: ZombieCleo: 1273
+30: Grian: 892
+30: Renthedog: 764
+30: impulseSV: 645
+30: Stressmonster101: 550
+30: GeminiTay: 483
+30: cubfan135: 478
+30: Xisuma: 465
+30: joehillssays: 449
+30: GoodTimeWithScar: 398
+30: xBCrafted: 365
+30: falsesymmetry: 337
+30: Keralis1: 207
+30: Pixlriffs: 191
+30: OrionSound: 150
+30: Docm77: 124
+30: iJevin: 120
+30: PearlescentMoon: 78
+30: RentheKing: 73
+30: iskall85: 67
+30: ShubbleYT: 47
+30: Tango: 26
+30: BdoubleO100: 20
+30: Zedaph: 19
+30: Mumbo: 16
+30: VintageBeef: 15
+30: hypnotizd: 7
+30: Welsknight: 4
+30: Etho: 2
+30: MumboJumbo: 1
+Total 8266

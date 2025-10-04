@@ -1,0 +1,10 @@
+minecraft.crafted.purpur_stairs
+8: Tango: 40
+8: Renthedog: 20
+8: iJevin: 20
+8: Keralis1: 20
+8: GoodTimeWithScar: 16
+8: cubfan135: 8
+8: Docm77: 2
+8: Zedaph: 1
+Total 127

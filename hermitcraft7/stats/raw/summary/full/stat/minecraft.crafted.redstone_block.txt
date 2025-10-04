@@ -1,0 +1,26 @@
+minecraft.crafted.redstone_block
+24: MumboJumbo: 6734
+24: Etho: 5148
+24: Xisuma: 4852
+24: GoodTimeWithScar: 4405
+24: xBCrafted: 3942
+24: cubfan135: 3672
+24: Grian: 2291
+24: Welsknight: 2235
+24: Tinfoilchef: 1984
+24: Renthedog: 1945
+24: impulseSV: 1876
+24: iskall85: 1777
+24: VintageBeef: 1224
+24: iJevin: 1120
+24: hypnotizd: 1117
+24: BdoubleO100: 1070
+24: Zedaph: 1029
+24: Tango: 975
+24: Docm77: 866
+24: Keralis1: 819
+24: falsesymmetry: 704
+24: Stressmonster101: 518
+24: ZombieCleo: 512
+24: joehillssays: 418
+Total 51233

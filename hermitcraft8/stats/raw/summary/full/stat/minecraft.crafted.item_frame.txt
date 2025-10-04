@@ -1,0 +1,27 @@
+minecraft.crafted.item_frame
+25: GoodTimeWithScar: 691
+25: Grian: 623
+25: Welsknight: 614
+25: Docm77: 312
+25: iJevin: 295
+25: Tango: 272
+25: PearlescentMoon: 261
+25: falsesymmetry: 204
+25: impulseSV: 155
+25: xBCrafted: 138
+25: Xisuma: 137
+25: Renthedog: 127
+25: iskall85: 123
+25: cubfan135: 112
+25: Zedaph: 87
+25: Etho: 85
+25: GeminiTay: 73
+25: hypnotizd: 57
+25: BdoubleO100: 43
+25: MumboJumbo: 38
+25: Keralis1: 36
+25: joehillssays: 23
+25: VintageBeef: 10
+25: ZombieCleo: 10
+25: Stressmonster101: 1
+Total 4527

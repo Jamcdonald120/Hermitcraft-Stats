@@ -1,0 +1,6 @@
+minecraft.picked_up.acacia_pressure_plate
+4: Renthedog: 6
+4: PearlescentMoon: 5
+4: cubfan135: 3
+4: Xisuma: 1
+Total 15

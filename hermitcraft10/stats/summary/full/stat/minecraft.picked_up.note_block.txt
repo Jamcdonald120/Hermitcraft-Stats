@@ -1,0 +1,26 @@
+minecraft.picked_up.note_block
+24: Etho: 394
+24: Tango: 312
+24: iJevin: 309
+24: PearlescentMoon: 276
+24: cubfan135: 210
+24: Docm77: 206
+24: Grian: 124
+24: Xisuma: 97
+24: Skizzleman: 70
+24: impulseSV: 68
+24: GoodTimeWithScar: 58
+24: joehillssays: 46
+24: falsesymmetry: 41
+24: hypnotizd: 41
+24: GeminiTay: 40
+24: Keralis1: 32
+24: Renthedog: 31
+24: Smallishbeans: 31
+24: BdoubleO100: 24
+24: xBCrafted: 8
+24: Mumbo: 8
+24: VintageBeef: 7
+24: Zedaph: 6
+24: ZombieCleo: 5
+Total 2444

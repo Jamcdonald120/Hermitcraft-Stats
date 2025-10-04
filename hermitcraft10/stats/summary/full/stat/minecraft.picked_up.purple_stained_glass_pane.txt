@@ -1,0 +1,13 @@
+minecraft.picked_up.purple_stained_glass_pane
+11: impulseSV: 354
+11: GoodTimeWithScar: 120
+11: joehillssays: 53
+11: ZombieCleo: 30
+11: falsesymmetry: 13
+11: cubfan135: 12
+11: Smallishbeans: 6
+11: Mumbo: 3
+11: hypnotizd: 2
+11: Xisuma: 1
+11: GeminiTay: 1
+Total 595

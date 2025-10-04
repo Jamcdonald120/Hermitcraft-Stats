@@ -1,0 +1,8 @@
+minecraft.picked_up.magenta_banner
+6: PearlescentMoon: 20
+6: Keralis1: 2
+6: Xisuma: 1
+6: Etho: 1
+6: ZombieCleo: 1
+6: Zedaph: 1
+Total 26

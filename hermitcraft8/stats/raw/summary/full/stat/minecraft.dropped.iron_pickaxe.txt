@@ -1,0 +1,18 @@
+minecraft.dropped.iron_pickaxe
+16: GoodTimeWithScar: 11
+16: Grian: 8
+16: Tango: 8
+16: PearlescentMoon: 8
+16: impulseSV: 8
+16: Xisuma: 5
+16: Keralis1: 4
+16: ZombieCleo: 3
+16: iJevin: 2
+16: MumboJumbo: 2
+16: Renthedog: 1
+16: joehillssays: 1
+16: GeminiTay: 1
+16: iskall85: 1
+16: xBCrafted: 1
+16: Zedaph: 1
+Total 65

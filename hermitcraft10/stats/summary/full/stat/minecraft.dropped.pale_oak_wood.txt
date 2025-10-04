@@ -1,0 +1,7 @@
+minecraft.dropped.pale_oak_wood
+5: falsesymmetry: 53
+5: GeminiTay: 22
+5: Skizzleman: 16
+5: iJevin: 4
+5: Renthedog: 1
+Total 96

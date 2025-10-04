@@ -1,0 +1,25 @@
+minecraft.picked_up.sugar_cane
+23: Renthedog: 81342
+23: falsesymmetry: 25354
+23: impulseSV: 13936
+23: joehillssays: 13045
+23: Grian: 12341
+23: Xisuma: 12126
+23: Zedaph: 6821
+23: cubfan135: 6080
+23: iJevin: 4605
+23: GoodTimeWithScar: 3080
+23: MumboJumbo: 2147
+23: iskall85: 1950
+23: Tango: 1820
+23: Docm77: 1799
+23: PythonGB: 1462
+23: BdoubleO100: 1149
+23: Biffa2001: 1030
+23: ZombieCleo: 875
+23: Keralis1: 547
+23: Welsknight: 435
+23: Jessassin: 377
+23: Stressmonster101: 246
+23: Tinfoilchef: 36
+Total 192603

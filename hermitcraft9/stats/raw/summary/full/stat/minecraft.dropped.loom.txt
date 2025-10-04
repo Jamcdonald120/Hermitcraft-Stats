@@ -1,0 +1,9 @@
+minecraft.dropped.loom
+7: falsesymmetry: 20
+7: iJevin: 4
+7: Tango: 3
+7: Etho: 2
+7: Renthedog: 1
+7: impulseSV: 1
+7: Zedaph: 1
+Total 32

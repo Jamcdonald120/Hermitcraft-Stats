@@ -1,0 +1,4 @@
+minecraft.picked_up.cherry_door
+2: Smallishbeans: 3
+2: Docm77: 1
+Total 4

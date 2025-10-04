@@ -1,0 +1,26 @@
+minecraft.crafted.oak_stairs
+24: Keralis1: 852
+24: xBCrafted: 816
+24: Renthedog: 516
+24: GoodTimeWithScar: 492
+24: PearlescentMoon: 376
+24: iskall85: 312
+24: Docm77: 288
+24: Etho: 160
+24: Stressmonster101: 140
+24: VintageBeef: 132
+24: ZombieCleo: 124
+24: SolidarityGaming: 108
+24: Xisuma: 96
+24: cubfan135: 80
+24: Tango: 60
+24: iJevin: 40
+24: Zedaph: 40
+24: BdoubleO100: 20
+24: hypnotizd: 20
+24: Welsknight: 16
+24: impulseSV: 12
+24: GeminiTay: 8
+24: Mumbo: 8
+24: MumboJumbo: 8
+Total 4724

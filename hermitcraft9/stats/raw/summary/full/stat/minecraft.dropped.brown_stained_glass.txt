@@ -1,0 +1,7 @@
+minecraft.dropped.brown_stained_glass
+5: falsesymmetry: 88
+5: Etho: 4
+5: Xisuma: 2
+5: PearlescentMoon: 2
+5: Zedaph: 2
+Total 98

@@ -1,0 +1,21 @@
+minecraft.crafted.warped_planks
+19: impulseSV: 21064
+19: Docm77: 8336
+19: Grian: 4163
+19: MumboJumbo: 3448
+19: GoodTimeWithScar: 3248
+19: Xisuma: 1756
+19: Keralis1: 1756
+19: Renthedog: 1000
+19: joehillssays: 788
+19: iJevin: 568
+19: BdoubleO100: 528
+19: cubfan135: 300
+19: GeminiTay: 220
+19: Tango: 140
+19: PearlescentMoon: 140
+19: iskall85: 76
+19: Welsknight: 20
+19: Etho: 4
+19: Stressmonster101: 4
+Total 47559

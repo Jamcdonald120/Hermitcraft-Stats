@@ -1,0 +1,8 @@
+minecraft.broken.shield
+6: Tango: 8
+6: VintageBeef: 4
+6: cubfan135: 4
+6: Etho: 1
+6: Keralis1: 1
+6: Zedaph: 1
+Total 19

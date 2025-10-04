@@ -1,0 +1,26 @@
+minecraft.picked_up.spruce_log
+24: Etho: 46416
+24: Grian: 31661
+24: GoodTimeWithScar: 27709
+24: Renthedog: 19538
+24: BdoubleO100: 15531
+24: xBCrafted: 12989
+24: cubfan135: 7754
+24: joehillssays: 7310
+24: hypnotizd: 6557
+24: VintageBeef: 4751
+24: Stressmonster101: 4166
+24: MumboJumbo: 3820
+24: Zedaph: 3730
+24: falsesymmetry: 2482
+24: Tango: 2152
+24: Xisuma: 2099
+24: Welsknight: 1963
+24: Keralis1: 1961
+24: iJevin: 1745
+24: ZombieCleo: 1617
+24: Docm77: 1097
+24: iskall85: 893
+24: impulseSV: 396
+24: Tinfoilchef: 49
+Total 208386

@@ -1,0 +1,9 @@
+minecraft.picked_up.oak_chest_boat
+7: Docm77: 25
+7: Grian: 2
+7: Xisuma: 1
+7: Renthedog: 1
+7: Tango: 1
+7: PearlescentMoon: 1
+7: falsesymmetry: 1
+Total 32

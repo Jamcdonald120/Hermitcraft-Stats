@@ -1,0 +1,27 @@
+minecraft.crafted.green_dye
+25: Keralis1: 5310
+25: Xisuma: 1524
+25: hypnotizd: 1027
+25: Smallishbeans: 1004
+25: GoodTimeWithScar: 947
+25: impulseSV: 687
+25: falsesymmetry: 539
+25: Grian: 524
+25: joehillssays: 457
+25: BdoubleO100: 304
+25: Skizzleman: 246
+25: PearlescentMoon: 239
+25: Etho: 193
+25: iJevin: 189
+25: VintageBeef: 108
+25: GeminiTay: 92
+25: cubfan135: 43
+25: ZombieCleo: 33
+25: Zedaph: 32
+25: Docm77: 16
+25: Mumbo: 11
+25: Welsknight: 9
+25: Tango: 1
+25: InTheLittleWood: 1
+25: jojosolos: 1
+Total 13537

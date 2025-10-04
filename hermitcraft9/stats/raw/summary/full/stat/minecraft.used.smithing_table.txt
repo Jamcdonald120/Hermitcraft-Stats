@@ -1,0 +1,27 @@
+minecraft.used.smithing_table
+25: Tango: 880
+25: PearlescentMoon: 729
+25: impulseSV: 454
+25: ZombieCleo: 367
+25: GoodTimeWithScar: 188
+25: joehillssays: 75
+25: fWhip: 50
+25: iJevin: 41
+25: BdoubleO100: 17
+25: Docm77: 13
+25: cubfan135: 12
+25: Etho: 7
+25: Stressmonster101: 7
+25: Keralis1: 7
+25: Xisuma: 6
+25: xBCrafted: 6
+25: Zedaph: 6
+25: falsesymmetry: 4
+25: GeminiTay: 3
+25: hypnotizd: 3
+25: MythicalSausage: 2
+25: Pixlriffs: 2
+25: Renthedog: 1
+25: Grian: 1
+25: iskall85: 1
+Total 2882

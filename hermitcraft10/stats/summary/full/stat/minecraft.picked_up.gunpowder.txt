@@ -1,0 +1,31 @@
+minecraft.picked_up.gunpowder
+29: Etho: 156427
+29: cubfan135: 5968
+29: Xisuma: 5760
+29: iJevin: 5743
+29: impulseSV: 5577
+29: Keralis1: 3331
+29: Docm77: 2403
+29: hypnotizd: 2127
+29: GoodTimeWithScar: 1394
+29: Tango: 1255
+29: Grian: 889
+29: ZombieCleo: 842
+29: GeminiTay: 805
+29: PearlescentMoon: 644
+29: Renthedog: 576
+29: BdoubleO100: 454
+29: Skizzleman: 387
+29: VintageBeef: 366
+29: xBCrafted: 316
+29: Zedaph: 241
+29: Welsknight: 195
+29: Smallishbeans: 175
+29: falsesymmetry: 164
+29: Mumbo: 139
+29: joehillssays: 130
+29: SolidarityGaming: 5
+29: InTheLittleWood: 1
+29: HBomb94: 1
+29: aimsey: 1
+Total 196316

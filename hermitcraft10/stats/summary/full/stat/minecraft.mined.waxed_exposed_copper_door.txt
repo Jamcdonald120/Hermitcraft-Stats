@@ -1,0 +1,4 @@
+minecraft.mined.waxed_exposed_copper_door
+2: Renthedog: 1
+2: Tango: 1
+Total 2

@@ -1,0 +1,26 @@
+minecraft.crafted.bamboo_block
+24: BdoubleO100: 9140
+24: Keralis1: 6139
+24: Xisuma: 5865
+24: GeminiTay: 4117
+24: Etho: 3348
+24: GoodTimeWithScar: 1628
+24: Tango: 1475
+24: Mumbo: 1334
+24: falsesymmetry: 1256
+24: Grian: 998
+24: Smallishbeans: 956
+24: Renthedog: 758
+24: PearlescentMoon: 642
+24: cubfan135: 519
+24: joehillssays: 382
+24: Zedaph: 352
+24: Docm77: 351
+24: VintageBeef: 235
+24: Skizzleman: 28
+24: hypnotizd: 14
+24: ZombieCleo: 10
+24: Welsknight: 4
+24: xBCrafted: 3
+24: iJevin: 1
+Total 39555

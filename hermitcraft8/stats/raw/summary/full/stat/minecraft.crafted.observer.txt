@@ -1,0 +1,27 @@
+minecraft.crafted.observer
+25: Grian: 693
+25: impulseSV: 691
+25: Docm77: 571
+25: Xisuma: 404
+25: Tango: 380
+25: MumboJumbo: 302
+25: Renthedog: 270
+25: iJevin: 253
+25: cubfan135: 246
+25: GoodTimeWithScar: 219
+25: Zedaph: 218
+25: Etho: 192
+25: BdoubleO100: 116
+25: Welsknight: 96
+25: falsesymmetry: 90
+25: xBCrafted: 79
+25: Stressmonster101: 77
+25: hypnotizd: 66
+25: iskall85: 64
+25: Keralis1: 60
+25: GeminiTay: 44
+25: PearlescentMoon: 37
+25: VintageBeef: 16
+25: ZombieCleo: 7
+25: joehillssays: 1
+Total 5192

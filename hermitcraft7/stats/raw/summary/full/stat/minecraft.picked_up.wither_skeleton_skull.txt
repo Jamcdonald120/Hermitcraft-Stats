@@ -1,0 +1,19 @@
+minecraft.picked_up.wither_skeleton_skull
+17: Etho: 373
+17: impulseSV: 87
+17: xBCrafted: 67
+17: Tango: 48
+17: Renthedog: 40
+17: iJevin: 21
+17: iskall85: 19
+17: Grian: 14
+17: falsesymmetry: 12
+17: Keralis1: 12
+17: cubfan135: 11
+17: Xisuma: 8
+17: hypnotizd: 7
+17: Zedaph: 7
+17: MumboJumbo: 6
+17: GoodTimeWithScar: 6
+17: Welsknight: 3
+Total 741

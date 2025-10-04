@@ -1,0 +1,10 @@
+minecraft.picked_up.magenta_stained_glass_pane
+8: falsesymmetry: 45
+8: Zedaph: 29
+8: BdoubleO100: 14
+8: impulseSV: 14
+8: Tango: 7
+8: PearlescentMoon: 3
+8: ZombieCleo: 2
+8: GeminiTay: 1
+Total 115

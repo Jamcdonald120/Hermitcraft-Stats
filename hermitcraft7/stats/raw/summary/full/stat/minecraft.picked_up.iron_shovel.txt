@@ -1,0 +1,24 @@
+minecraft.picked_up.iron_shovel
+22: joehillssays: 76
+22: Grian: 34
+22: Tango: 25
+22: Zedaph: 23
+22: VintageBeef: 16
+22: MumboJumbo: 16
+22: Xisuma: 15
+22: GoodTimeWithScar: 15
+22: BdoubleO100: 13
+22: falsesymmetry: 13
+22: Etho: 12
+22: iskall85: 10
+22: iJevin: 9
+22: cubfan135: 9
+22: xBCrafted: 4
+22: ZombieCleo: 3
+22: hypnotizd: 3
+22: Tinfoilchef: 3
+22: Docm77: 2
+22: Stressmonster101: 2
+22: Keralis1: 2
+22: impulseSV: 2
+Total 307

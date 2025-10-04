@@ -1,0 +1,29 @@
+minecraft.dropped.stick
+27: Docm77: 23143
+27: hypnotizd: 20860
+27: Tango: 5459
+27: Renthedog: 4789
+27: Etho: 4700
+27: Grian: 3314
+27: GoodTimeWithScar: 3003
+27: Keralis1: 2175
+27: Xisuma: 1785
+27: Skizzleman: 1602
+27: Zedaph: 1552
+27: cubfan135: 1404
+27: xBCrafted: 1328
+27: impulseSV: 1173
+27: iJevin: 1130
+27: PearlescentMoon: 1000
+27: falsesymmetry: 824
+27: Smallishbeans: 581
+27: BdoubleO100: 391
+27: joehillssays: 300
+27: VintageBeef: 150
+27: GeminiTay: 121
+27: ZombieCleo: 118
+27: Mumbo: 115
+27: Welsknight: 18
+27: SolidarityGaming: 10
+27: Dot_Dot_Dash: 2
+Total 81047

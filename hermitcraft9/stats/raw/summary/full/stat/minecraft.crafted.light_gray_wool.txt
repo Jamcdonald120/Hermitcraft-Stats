@@ -1,0 +1,21 @@
+minecraft.crafted.light_gray_wool
+19: GoodTimeWithScar: 2858
+19: impulseSV: 729
+19: Etho: 551
+19: Docm77: 469
+19: ZombieCleo: 412
+19: Keralis1: 383
+19: BdoubleO100: 344
+19: falsesymmetry: 320
+19: PearlescentMoon: 128
+19: Renthedog: 80
+19: RentheKing: 79
+19: Xisuma: 64
+19: GeminiTay: 46
+19: MythicalSausage: 44
+19: joehillssays: 36
+19: iJevin: 26
+19: Zedaph: 14
+19: cubfan135: 9
+19: xBCrafted: 2
+Total 6594

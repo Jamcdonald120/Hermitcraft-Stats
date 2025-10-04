@@ -1,0 +1,26 @@
+minecraft.mined.mud_bricks
+24: PearlescentMoon: 1168
+24: Xisuma: 984
+24: Renthedog: 600
+24: ZombieCleo: 512
+24: Welsknight: 319
+24: Mumbo: 278
+24: falsesymmetry: 260
+24: Grian: 64
+24: Etho: 54
+24: GeminiTay: 35
+24: VintageBeef: 34
+24: cubfan135: 27
+24: GoodTimeWithScar: 26
+24: Skizzleman: 24
+24: iJevin: 22
+24: Smallishbeans: 17
+24: BdoubleO100: 17
+24: xBCrafted: 14
+24: joehillssays: 12
+24: Zedaph: 12
+24: Docm77: 11
+24: Keralis1: 11
+24: Tango: 10
+24: hypnotizd: 2
+Total 4513

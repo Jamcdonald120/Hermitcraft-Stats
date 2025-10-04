@@ -1,0 +1,4 @@
+minecraft.crafted.acacia_sapling
+2: Renthedog: 8
+2: GoodTimeWithScar: 8
+Total 16

@@ -1,0 +1,5 @@
+minecraft.used.golden_sword
+3: impulseSV: 24
+3: Docm77: 7
+3: iJevin: 1
+Total 32

@@ -1,0 +1,29 @@
+minecraft.dropped.carrot
+27: Tango: 6769
+27: PearlescentMoon: 6306
+27: impulseSV: 6302
+27: Renthedog: 4741
+27: Grian: 3684
+27: GeminiTay: 2635
+27: cubfan135: 1878
+27: hypnotizd: 1436
+27: xBCrafted: 1327
+27: iJevin: 934
+27: falsesymmetry: 677
+27: Etho: 508
+27: Zedaph: 483
+27: Xisuma: 414
+27: GoodTimeWithScar: 303
+27: ZombieCleo: 294
+27: Skizzleman: 253
+27: Mumbo: 227
+27: BdoubleO100: 222
+27: Smallishbeans: 213
+27: Docm77: 125
+27: joehillssays: 37
+27: SolidarityGaming: 25
+27: Welsknight: 14
+27: HBomb94: 11
+27: Keralis1: 7
+27: aimsey: 5
+Total 39830

@@ -1,0 +1,18 @@
+minecraft.picked_up.stripped_jungle_wood
+16: Keralis1: 1021
+16: GoodTimeWithScar: 360
+16: Etho: 152
+16: Xisuma: 98
+16: cubfan135: 90
+16: falsesymmetry: 73
+16: Zedaph: 42
+16: BdoubleO100: 25
+16: Smallishbeans: 19
+16: PearlescentMoon: 10
+16: GeminiTay: 9
+16: Renthedog: 3
+16: Docm77: 2
+16: iJevin: 2
+16: Tango: 1
+16: hypnotizd: 1
+Total 1908

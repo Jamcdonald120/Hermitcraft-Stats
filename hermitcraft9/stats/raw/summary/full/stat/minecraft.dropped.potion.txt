@@ -1,0 +1,28 @@
+minecraft.dropped.potion
+26: Tango: 822
+26: Docm77: 534
+26: iJevin: 327
+26: Xisuma: 200
+26: cubfan135: 191
+26: iskall85: 162
+26: falsesymmetry: 56
+26: impulseSV: 56
+26: Renthedog: 53
+26: joehillssays: 45
+26: Keralis1: 45
+26: Etho: 40
+26: Zedaph: 35
+26: GoodTimeWithScar: 22
+26: Grian: 16
+26: PearlescentMoon: 12
+26: xBCrafted: 10
+26: MythicalSausage: 9
+26: BdoubleO100: 8
+26: ZombieCleo: 7
+26: GeminiTay: 5
+26: RentheKing: 5
+26: hypnotizd: 3
+26: VintageBeef: 1
+26: Pixlriffs: 1
+26: Stressmonster101: 1
+Total 2666

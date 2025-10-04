@@ -1,0 +1,14 @@
+minecraft.picked_up.red_dye
+12: Tango: 254
+12: GoodTimeWithScar: 80
+12: Xisuma: 64
+12: Etho: 64
+12: cubfan135: 40
+12: VintageBeef: 33
+12: BdoubleO100: 14
+12: joehillssays: 8
+12: Zedaph: 6
+12: Renthedog: 4
+12: Grian: 2
+12: Welsknight: 2
+Total 571

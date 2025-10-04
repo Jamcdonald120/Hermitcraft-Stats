@@ -1,0 +1,5 @@
+minecraft.dropped.light_blue_banner
+3: Xisuma: 1
+3: Renthedog: 1
+3: Zedaph: 1
+Total 3

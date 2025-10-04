@@ -1,0 +1,34 @@
+minecraft.dropped.elytra
+32: GoodTimeWithScar: 27
+32: Skizzleman: 26
+32: Renthedog: 25
+32: impulseSV: 22
+32: cubfan135: 21
+32: Xisuma: 19
+32: GeminiTay: 15
+32: Grian: 13
+32: iJevin: 12
+32: Etho: 12
+32: Tango: 11
+32: joehillssays: 10
+32: ZombieCleo: 10
+32: PearlescentMoon: 9
+32: falsesymmetry: 9
+32: BdoubleO100: 8
+32: Keralis1: 8
+32: Smallishbeans: 6
+32: Docm77: 5
+32: Mumbo: 5
+32: VintageBeef: 4
+32: hypnotizd: 4
+32: HBomb94: 4
+32: SolidarityGaming: 4
+32: Zedaph: 4
+32: JamalMC_: 3
+32: Smajor1995: 2
+32: xBCrafted: 2
+32: Welsknight: 2
+32: jojosolos: 2
+32: aimsey: 2
+32: OrionSound: 1
+Total 307

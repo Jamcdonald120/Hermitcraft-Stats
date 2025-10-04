@@ -1,0 +1,4 @@
+minecraft.dropped.oxidized_cut_copper
+2: GoodTimeWithScar: 6
+2: Grian: 2
+Total 8

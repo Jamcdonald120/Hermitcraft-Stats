@@ -1,0 +1,23 @@
+minecraft.crafted.purple_dye
+21: GoodTimeWithScar: 8534
+21: Etho: 5868
+21: impulseSV: 3596
+21: Xisuma: 1552
+21: Tango: 1390
+21: Grian: 896
+21: joehillssays: 710
+21: cubfan135: 508
+21: falsesymmetry: 430
+21: Welsknight: 384
+21: VintageBeef: 352
+21: iskall85: 256
+21: Stressmonster101: 256
+21: MumboJumbo: 92
+21: Docm77: 54
+21: xBCrafted: 40
+21: Zedaph: 38
+21: Keralis1: 20
+21: BdoubleO100: 16
+21: Renthedog: 2
+21: ZombieCleo: 2
+Total 24996

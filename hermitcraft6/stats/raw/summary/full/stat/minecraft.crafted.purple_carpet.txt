@@ -1,0 +1,12 @@
+minecraft.crafted.purple_carpet
+10: falsesymmetry: 894
+10: Tango: 198
+10: GoodTimeWithScar: 198
+10: impulseSV: 192
+10: cubfan135: 162
+10: iskall85: 117
+10: PythonGB: 48
+10: Renthedog: 33
+10: Xisuma: 24
+10: Welsknight: 6
+Total 1872

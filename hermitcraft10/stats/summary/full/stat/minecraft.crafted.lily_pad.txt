@@ -1,0 +1,4 @@
+minecraft.crafted.lily_pad
+2: falsesymmetry: 20
+2: cubfan135: 20
+Total 40

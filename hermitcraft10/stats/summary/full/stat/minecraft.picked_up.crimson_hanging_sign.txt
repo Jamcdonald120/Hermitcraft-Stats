@@ -1,0 +1,4 @@
+minecraft.picked_up.crimson_hanging_sign
+2: Etho: 6
+2: cubfan135: 2
+Total 8

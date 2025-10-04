@@ -1,0 +1,26 @@
+minecraft.crafted.rail
+24: Tango: 6192
+24: MumboJumbo: 4464
+24: Grian: 4299
+24: impulseSV: 3584
+24: Xisuma: 3152
+24: iskall85: 2613
+24: Keralis1: 1824
+24: Stressmonster101: 1536
+24: GoodTimeWithScar: 1472
+24: iJevin: 1440
+24: VintageBeef: 1184
+24: xBCrafted: 896
+24: falsesymmetry: 832
+24: Etho: 832
+24: BdoubleO100: 704
+24: Renthedog: 384
+24: Zedaph: 272
+24: joehillssays: 192
+24: Tinfoilchef: 176
+24: cubfan135: 160
+24: ZombieCleo: 160
+24: hypnotizd: 128
+24: Welsknight: 64
+24: Docm77: 32
+Total 36592

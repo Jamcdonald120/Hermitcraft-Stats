@@ -1,0 +1,21 @@
+minecraft.dropped.iron_ore
+19: xBCrafted: 289
+19: iJevin: 230
+19: GoodTimeWithScar: 137
+19: Tango: 98
+19: falsesymmetry: 72
+19: MumboJumbo: 48
+19: cubfan135: 34
+19: Docm77: 33
+19: Grian: 31
+19: Keralis1: 23
+19: Etho: 19
+19: BdoubleO100: 9
+19: impulseSV: 8
+19: Xisuma: 7
+19: hypnotizd: 5
+19: Renthedog: 4
+19: iskall85: 3
+19: GeminiTay: 2
+19: PearlescentMoon: 2
+Total 1054

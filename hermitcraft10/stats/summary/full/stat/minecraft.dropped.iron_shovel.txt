@@ -1,0 +1,24 @@
+minecraft.dropped.iron_shovel
+22: impulseSV: 63
+22: Grian: 24
+22: hypnotizd: 16
+22: iJevin: 13
+22: cubfan135: 12
+22: Renthedog: 10
+22: Docm77: 9
+22: Tango: 8
+22: Etho: 7
+22: GoodTimeWithScar: 7
+22: Xisuma: 5
+22: Skizzleman: 5
+22: Keralis1: 5
+22: falsesymmetry: 3
+22: Mumbo: 3
+22: Zedaph: 3
+22: PearlescentMoon: 2
+22: ZombieCleo: 2
+22: joehillssays: 1
+22: GeminiTay: 1
+22: BdoubleO100: 1
+22: xBCrafted: 1
+Total 201

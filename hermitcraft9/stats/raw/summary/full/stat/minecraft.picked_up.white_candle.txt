@@ -1,0 +1,13 @@
+minecraft.picked_up.white_candle
+11: Renthedog: 72
+11: GoodTimeWithScar: 64
+11: cubfan135: 43
+11: PearlescentMoon: 23
+11: Keralis1: 5
+11: Tango: 4
+11: hypnotizd: 4
+11: impulseSV: 2
+11: MythicalSausage: 1
+11: ZombieCleo: 1
+11: Zedaph: 1
+Total 220

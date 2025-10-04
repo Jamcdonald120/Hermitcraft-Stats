@@ -1,0 +1,29 @@
+minecraft.picked_up.writable_book
+27: iJevin: 38
+27: impulseSV: 34
+27: cubfan135: 32
+27: Zedaph: 29
+27: Tango: 25
+27: falsesymmetry: 19
+27: joehillssays: 13
+27: BdoubleO100: 12
+27: xBCrafted: 12
+27: PearlescentMoon: 11
+27: Renthedog: 10
+27: ZombieCleo: 10
+27: GoodTimeWithScar: 10
+27: Grian: 9
+27: Xisuma: 7
+27: Keralis1: 6
+27: VintageBeef: 5
+27: Etho: 4
+27: Mumbo: 4
+27: RentheKing: 3
+27: hypnotizd: 3
+27: MythicalSausage: 2
+27: Stressmonster101: 2
+27: Docm77: 1
+27: GeminiTay: 1
+27: Smallishbeans: 1
+27: iskall85: 1
+Total 304

@@ -1,0 +1,27 @@
+minecraft.picked_up.deepslate_bricks
+25: iJevin: 1175
+25: xBCrafted: 1136
+25: Renthedog: 893
+25: GoodTimeWithScar: 678
+25: PearlescentMoon: 458
+25: Docm77: 306
+25: Grian: 287
+25: Welsknight: 227
+25: MumboJumbo: 215
+25: iskall85: 193
+25: impulseSV: 193
+25: Xisuma: 163
+25: joehillssays: 151
+25: Stressmonster101: 108
+25: Keralis1: 96
+25: cubfan135: 29
+25: Tango: 16
+25: GeminiTay: 15
+25: EvilXisuma: 13
+25: VintageBeef: 13
+25: BdoubleO100: 4
+25: hypnotizd: 3
+25: Etho: 2
+25: ZombieCleo: 2
+25: Zedaph: 2
+Total 6378

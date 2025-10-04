@@ -1,0 +1,19 @@
+minecraft.picked_up.wet_sponge
+17: xBCrafted: 8940
+17: impulseSV: 1665
+17: Docm77: 427
+17: GoodTimeWithScar: 400
+17: Grian: 374
+17: cubfan135: 300
+17: falsesymmetry: 288
+17: iJevin: 258
+17: Etho: 257
+17: hypnotizd: 186
+17: Tango: 151
+17: VintageBeef: 105
+17: PearlescentMoon: 76
+17: Skizzleman: 50
+17: GeminiTay: 36
+17: Dot_Dot_Dash: 3
+17: BdoubleO100: 3
+Total 13519

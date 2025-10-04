@@ -1,0 +1,27 @@
+minecraft.picked_up.music_disc_cat
+25: cubfan135: 77
+25: Xisuma: 64
+25: impulseSV: 56
+25: Zedaph: 56
+25: Tango: 48
+25: PearlescentMoon: 34
+25: GoodTimeWithScar: 31
+25: iJevin: 21
+25: Keralis1: 15
+25: OrionSound: 11
+25: Grian: 7
+25: Etho: 7
+25: Docm77: 5
+25: VintageBeef: 5
+25: GeminiTay: 5
+25: SolidarityGaming: 5
+25: Renthedog: 4
+25: iskall85: 4
+25: RentheKing: 4
+25: InTheLittleWood: 4
+25: ZombieCleo: 3
+25: joehillssays: 1
+25: Pixlriffs: 1
+25: falsesymmetry: 1
+25: hypnotizd: 1
+Total 470

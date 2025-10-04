@@ -1,0 +1,22 @@
+minecraft.mined.emerald_block
+20: xBCrafted: 2962
+20: hypnotizd: 852
+20: iJevin: 537
+20: impulseSV: 495
+20: ZombieCleo: 420
+20: Grian: 190
+20: falsesymmetry: 175
+20: GoodTimeWithScar: 168
+20: cubfan135: 143
+20: Tango: 43
+20: joehillssays: 27
+20: Renthedog: 18
+20: Etho: 12
+20: PearlescentMoon: 11
+20: Zedaph: 11
+20: Docm77: 9
+20: Xisuma: 9
+20: GeminiTay: 4
+20: VintageBeef: 2
+20: Smallishbeans: 1
+Total 6089

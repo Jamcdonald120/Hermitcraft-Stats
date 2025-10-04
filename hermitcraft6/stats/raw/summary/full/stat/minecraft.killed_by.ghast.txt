@@ -1,0 +1,5 @@
+minecraft.killed_by.ghast
+3: joehillssays: 1
+3: GoodTimeWithScar: 1
+3: impulseSV: 1
+Total 3

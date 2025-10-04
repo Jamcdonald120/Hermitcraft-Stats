@@ -1,0 +1,32 @@
+minecraft.used.barrel
+30: impulseSV: 1214
+30: Tango: 884
+30: iJevin: 621
+30: cubfan135: 568
+30: Keralis1: 539
+30: PearlescentMoon: 533
+30: Xisuma: 507
+30: GoodTimeWithScar: 488
+30: BdoubleO100: 400
+30: VintageBeef: 377
+30: falsesymmetry: 356
+30: Renthedog: 348
+30: RentheKing: 327
+30: Docm77: 283
+30: ZombieCleo: 225
+30: joehillssays: 220
+30: GeminiTay: 156
+30: hypnotizd: 153
+30: xBCrafted: 127
+30: Zedaph: 111
+30: Etho: 110
+30: MythicalSausage: 58
+30: fWhip: 52
+30: Stressmonster101: 44
+30: iskall85: 29
+30: Grian: 20
+30: Smajor1995: 19
+30: ShubbleYT: 5
+30: Pixlriffs: 3
+30: OrionSound: 2
+Total 8779

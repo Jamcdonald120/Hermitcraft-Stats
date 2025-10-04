@@ -1,0 +1,6 @@
+minecraft.picked_up.archer_pottery_sherd
+4: cubfan135: 24
+4: xBCrafted: 4
+4: PearlescentMoon: 3
+4: Zedaph: 1
+Total 32

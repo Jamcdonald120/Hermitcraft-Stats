@@ -1,0 +1,24 @@
+minecraft.picked_up.nether_bricks
+22: Xisuma: 1527
+22: cubfan135: 1330
+22: iJevin: 1224
+22: MumboJumbo: 1060
+22: Keralis1: 1051
+22: VintageBeef: 268
+22: xBCrafted: 221
+22: PearlescentMoon: 197
+22: GoodTimeWithScar: 178
+22: iskall85: 166
+22: Grian: 123
+22: hypnotizd: 81
+22: impulseSV: 62
+22: GeminiTay: 25
+22: Welsknight: 14
+22: joehillssays: 9
+22: falsesymmetry: 8
+22: Renthedog: 7
+22: ZombieCleo: 4
+22: Zedaph: 4
+22: Etho: 3
+22: BdoubleO100: 1
+Total 7563

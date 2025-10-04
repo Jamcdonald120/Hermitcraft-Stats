@@ -1,0 +1,13 @@
+minecraft.picked_up.brick_slab
+11: Etho: 253
+11: iJevin: 104
+11: cubfan135: 97
+11: Xisuma: 66
+11: GoodTimeWithScar: 47
+11: Keralis1: 42
+11: Grian: 33
+11: Zedaph: 33
+11: VintageBeef: 6
+11: iskall85: 5
+11: BdoubleO100: 2
+Total 688

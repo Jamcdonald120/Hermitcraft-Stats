@@ -1,0 +1,28 @@
+minecraft.custom.trigger_trapped_chest
+26: iJevin: 217
+26: PearlescentMoon: 202
+26: cubfan135: 182
+26: impulseSV: 135
+26: Docm77: 102
+26: Skizzleman: 61
+26: Etho: 48
+26: Xisuma: 45
+26: GoodTimeWithScar: 36
+26: Renthedog: 31
+26: GeminiTay: 27
+26: Smallishbeans: 25
+26: falsesymmetry: 24
+26: BdoubleO100: 21
+26: Keralis1: 19
+26: ZombieCleo: 16
+26: joehillssays: 14
+26: Grian: 14
+26: xBCrafted: 10
+26: Mumbo: 9
+26: Tango: 7
+26: hypnotizd: 3
+26: SolidarityGaming: 3
+26: OrionSound: 1
+26: VintageBeef: 1
+26: Eyjoy27: 1
+Total 1254

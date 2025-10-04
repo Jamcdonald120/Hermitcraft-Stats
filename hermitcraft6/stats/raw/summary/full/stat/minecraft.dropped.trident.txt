@@ -1,0 +1,22 @@
+minecraft.dropped.trident
+20: cubfan135: 42
+20: Grian: 30
+20: GoodTimeWithScar: 22
+20: Docm77: 21
+20: Tango: 14
+20: iskall85: 12
+20: Keralis1: 10
+20: Xisuma: 9
+20: MumboJumbo: 8
+20: Renthedog: 7
+20: impulseSV: 6
+20: falsesymmetry: 4
+20: PythonGB: 2
+20: Welsknight: 2
+20: Biffa2001: 2
+20: ZombieCleo: 2
+20: Stressmonster101: 2
+20: iJevin: 1
+20: joehillssays: 1
+20: BdoubleO100: 1
+Total 198

@@ -1,0 +1,17 @@
+minecraft.crafted.brick_stairs
+15: Xisuma: 45
+15: GoodTimeWithScar: 44
+15: cubfan135: 37
+15: Skizzleman: 24
+15: Tango: 12
+15: falsesymmetry: 12
+15: VintageBeef: 4
+15: iJevin: 4
+15: GeminiTay: 4
+15: Welsknight: 4
+15: Mumbo: 4
+15: impulseSV: 4
+15: Zedaph: 3
+15: PearlescentMoon: 1
+15: hypnotizd: 1
+Total 203

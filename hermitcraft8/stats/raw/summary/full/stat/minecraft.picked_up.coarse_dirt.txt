@@ -1,0 +1,26 @@
+minecraft.picked_up.coarse_dirt
+24: PearlescentMoon: 7207
+24: Etho: 1726
+24: GoodTimeWithScar: 1177
+24: iskall85: 1169
+24: Grian: 1035
+24: cubfan135: 641
+24: Keralis1: 639
+24: MumboJumbo: 517
+24: VintageBeef: 383
+24: GeminiTay: 344
+24: Docm77: 286
+24: Xisuma: 226
+24: Renthedog: 190
+24: Stressmonster101: 76
+24: xBCrafted: 50
+24: BdoubleO100: 44
+24: impulseSV: 26
+24: ZombieCleo: 17
+24: falsesymmetry: 12
+24: joehillssays: 11
+24: Tango: 9
+24: Welsknight: 5
+24: iJevin: 1
+24: hypnotizd: 1
+Total 15792

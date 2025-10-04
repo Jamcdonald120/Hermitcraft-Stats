@@ -1,0 +1,4 @@
+minecraft.picked_up.dead_bubble_coral_fan
+2: cubfan135: 16
+2: iJevin: 10
+Total 26

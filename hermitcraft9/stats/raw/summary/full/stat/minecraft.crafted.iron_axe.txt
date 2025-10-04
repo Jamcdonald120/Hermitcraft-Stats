@@ -1,0 +1,32 @@
+minecraft.crafted.iron_axe
+30: iJevin: 60
+30: Stressmonster101: 43
+30: Etho: 23
+30: joehillssays: 22
+30: falsesymmetry: 18
+30: impulseSV: 16
+30: Grian: 14
+30: iskall85: 13
+30: Renthedog: 12
+30: BdoubleO100: 9
+30: PearlescentMoon: 8
+30: Zedaph: 8
+30: Tango: 7
+30: cubfan135: 7
+30: ZombieCleo: 7
+30: GeminiTay: 6
+30: hypnotizd: 6
+30: xBCrafted: 5
+30: Xisuma: 4
+30: VintageBeef: 4
+30: Welsknight: 4
+30: Smajor1995: 3
+30: ShubbleYT: 3
+30: Docm77: 2
+30: Pixlriffs: 1
+30: Mumbo: 1
+30: MumboJumbo: 1
+30: GoodTimeWithScar: 1
+30: Tinfoilchef: 1
+30: Keralis1: 1
+Total 310

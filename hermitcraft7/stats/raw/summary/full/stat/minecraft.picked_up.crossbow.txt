@@ -1,0 +1,25 @@
+minecraft.picked_up.crossbow
+23: Etho: 381
+23: impulseSV: 166
+23: iskall85: 87
+23: cubfan135: 67
+23: Tango: 55
+23: Welsknight: 42
+23: joehillssays: 29
+23: Keralis1: 28
+23: GoodTimeWithScar: 24
+23: Grian: 22
+23: falsesymmetry: 20
+23: VintageBeef: 16
+23: Xisuma: 12
+23: ZombieCleo: 12
+23: BdoubleO100: 11
+23: Zedaph: 10
+23: xBCrafted: 9
+23: iJevin: 7
+23: hypnotizd: 6
+23: Docm77: 5
+23: Renthedog: 4
+23: MumboJumbo: 3
+23: BarryBoss1234: 2
+Total 1018

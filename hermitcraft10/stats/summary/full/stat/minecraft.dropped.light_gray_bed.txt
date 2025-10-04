@@ -1,0 +1,10 @@
+minecraft.dropped.light_gray_bed
+8: Xisuma: 24
+8: Skizzleman: 18
+8: BdoubleO100: 9
+8: GoodTimeWithScar: 4
+8: joehillssays: 3
+8: VintageBeef: 2
+8: Grian: 1
+8: Etho: 1
+Total 62

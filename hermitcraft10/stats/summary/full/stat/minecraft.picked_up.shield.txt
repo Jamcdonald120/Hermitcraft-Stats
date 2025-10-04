@@ -1,0 +1,26 @@
+minecraft.picked_up.shield
+24: GoodTimeWithScar: 75
+24: Etho: 40
+24: PearlescentMoon: 30
+24: Skizzleman: 29
+24: Zedaph: 28
+24: iJevin: 27
+24: Xisuma: 20
+24: cubfan135: 20
+24: Renthedog: 19
+24: VintageBeef: 16
+24: GeminiTay: 14
+24: Grian: 13
+24: Docm77: 12
+24: Tango: 12
+24: impulseSV: 12
+24: falsesymmetry: 8
+24: Smallishbeans: 7
+24: BdoubleO100: 7
+24: Keralis1: 5
+24: xBCrafted: 4
+24: Mumbo: 3
+24: hypnotizd: 2
+24: joehillssays: 1
+24: Welsknight: 1
+Total 405

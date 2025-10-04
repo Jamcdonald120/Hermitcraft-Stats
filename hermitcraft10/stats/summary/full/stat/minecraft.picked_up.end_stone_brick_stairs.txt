@@ -1,0 +1,8 @@
+minecraft.picked_up.end_stone_brick_stairs
+6: cubfan135: 16
+6: hypnotizd: 12
+6: Xisuma: 7
+6: GoodTimeWithScar: 4
+6: Grian: 3
+6: VintageBeef: 2
+Total 44

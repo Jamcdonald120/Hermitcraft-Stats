@@ -1,0 +1,10 @@
+minecraft.dropped.resin_block
+8: Renthedog: 442
+8: Tango: 171
+8: impulseSV: 151
+8: Xisuma: 128
+8: Docm77: 64
+8: Skizzleman: 12
+8: iJevin: 1
+8: falsesymmetry: 1
+Total 970

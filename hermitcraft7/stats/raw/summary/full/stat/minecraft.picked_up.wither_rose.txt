@@ -1,0 +1,22 @@
+minecraft.picked_up.wither_rose
+20: impulseSV: 1310
+20: Etho: 699
+20: joehillssays: 673
+20: falsesymmetry: 578
+20: Grian: 521
+20: iJevin: 454
+20: iskall85: 440
+20: cubfan135: 402
+20: Stressmonster101: 390
+20: Tango: 226
+20: Xisuma: 202
+20: MumboJumbo: 92
+20: hypnotizd: 86
+20: VintageBeef: 38
+20: xBCrafted: 37
+20: BdoubleO100: 27
+20: Renthedog: 14
+20: Keralis1: 12
+20: GoodTimeWithScar: 11
+20: Zedaph: 4
+Total 6216

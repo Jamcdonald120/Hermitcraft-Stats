@@ -1,0 +1,26 @@
+minecraft.picked_up.iron_door
+24: Tango: 308
+24: cubfan135: 121
+24: Skizzleman: 57
+24: PearlescentMoon: 50
+24: VintageBeef: 42
+24: iJevin: 36
+24: impulseSV: 24
+24: Xisuma: 16
+24: Docm77: 13
+24: Renthedog: 12
+24: joehillssays: 12
+24: xBCrafted: 12
+24: GoodTimeWithScar: 12
+24: BdoubleO100: 11
+24: falsesymmetry: 11
+24: Keralis1: 10
+24: Etho: 9
+24: Smallishbeans: 4
+24: Zedaph: 4
+24: Grian: 3
+24: ZombieCleo: 3
+24: GeminiTay: 1
+24: Mumbo: 1
+24: SolidarityGaming: 1
+Total 773

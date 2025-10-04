@@ -1,0 +1,22 @@
+minecraft.picked_up.red_sand
+20: PearlescentMoon: 18669
+20: Etho: 10341
+20: iJevin: 5581
+20: Keralis1: 3217
+20: joehillssays: 1671
+20: iskall85: 1080
+20: Grian: 871
+20: impulseSV: 867
+20: Xisuma: 484
+20: BdoubleO100: 391
+20: Docm77: 292
+20: Zedaph: 265
+20: cubfan135: 203
+20: VintageBeef: 110
+20: hypnotizd: 18
+20: Stressmonster101: 17
+20: xBCrafted: 7
+20: Tango: 1
+20: falsesymmetry: 1
+20: GoodTimeWithScar: 1
+Total 44087

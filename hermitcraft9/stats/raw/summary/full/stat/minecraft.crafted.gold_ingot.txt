@@ -1,0 +1,30 @@
+minecraft.crafted.gold_ingot
+28: Tango: 489529
+28: Xisuma: 155298
+28: Stressmonster101: 28819
+28: iJevin: 28684
+28: cubfan135: 27860
+28: iskall85: 21745
+28: Docm77: 18681
+28: impulseSV: 10018
+28: Etho: 9649
+28: Renthedog: 5822
+28: VintageBeef: 2526
+28: RentheKing: 2113
+28: hypnotizd: 1977
+28: Grian: 1863
+28: GoodTimeWithScar: 1648
+28: Zedaph: 1561
+28: falsesymmetry: 1458
+28: joehillssays: 1410
+28: Keralis1: 1087
+28: PearlescentMoon: 978
+28: ZombieCleo: 760
+28: xBCrafted: 708
+28: BdoubleO100: 366
+28: Mumbo: 225
+28: GeminiTay: 219
+28: MumboJumbo: 94
+28: Welsknight: 24
+28: Pixlriffs: 17
+Total 815139

@@ -1,0 +1,18 @@
+minecraft.picked_up.gilded_blackstone
+16: impulseSV: 455
+16: iJevin: 226
+16: xBCrafted: 56
+16: VintageBeef: 38
+16: PearlescentMoon: 32
+16: Renthedog: 29
+16: Grian: 19
+16: Xisuma: 15
+16: Zedaph: 14
+16: cubfan135: 12
+16: GoodTimeWithScar: 9
+16: Etho: 5
+16: Keralis1: 5
+16: Tango: 2
+16: joehillssays: 1
+16: falsesymmetry: 1
+Total 919

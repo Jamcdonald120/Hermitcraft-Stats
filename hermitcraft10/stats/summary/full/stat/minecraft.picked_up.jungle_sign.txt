@@ -1,0 +1,21 @@
+minecraft.picked_up.jungle_sign
+19: Grian: 101
+19: PearlescentMoon: 77
+19: falsesymmetry: 68
+19: ZombieCleo: 39
+19: Keralis1: 31
+19: iJevin: 30
+19: Renthedog: 24
+19: Skizzleman: 9
+19: Etho: 9
+19: GeminiTay: 6
+19: GoodTimeWithScar: 6
+19: BdoubleO100: 5
+19: Mumbo: 4
+19: Xisuma: 2
+19: cubfan135: 2
+19: Docm77: 1
+19: VintageBeef: 1
+19: Smallishbeans: 1
+19: impulseSV: 1
+Total 417

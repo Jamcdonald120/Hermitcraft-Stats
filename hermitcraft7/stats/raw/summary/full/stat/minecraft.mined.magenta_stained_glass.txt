@@ -1,0 +1,22 @@
+minecraft.mined.magenta_stained_glass
+20: falsesymmetry: 224
+20: Stressmonster101: 101
+20: Keralis1: 25
+20: Grian: 11
+20: Tango: 10
+20: GoodTimeWithScar: 10
+20: iJevin: 7
+20: xBCrafted: 7
+20: MumboJumbo: 7
+20: Docm77: 5
+20: Etho: 5
+20: impulseSV: 5
+20: VintageBeef: 4
+20: Renthedog: 3
+20: cubfan135: 3
+20: Xisuma: 2
+20: BdoubleO100: 2
+20: iskall85: 2
+20: hypnotizd: 1
+20: Zedaph: 1
+Total 435

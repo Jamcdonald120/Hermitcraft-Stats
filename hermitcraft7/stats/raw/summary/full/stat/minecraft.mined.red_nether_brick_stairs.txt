@@ -1,0 +1,11 @@
+minecraft.mined.red_nether_brick_stairs
+9: Tango: 223
+9: impulseSV: 53
+9: BdoubleO100: 30
+9: cubfan135: 25
+9: Keralis1: 19
+9: Xisuma: 15
+9: GoodTimeWithScar: 12
+9: VintageBeef: 2
+9: Welsknight: 2
+Total 381

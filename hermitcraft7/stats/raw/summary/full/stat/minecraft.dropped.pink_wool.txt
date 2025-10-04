@@ -1,0 +1,13 @@
+minecraft.dropped.pink_wool
+11: falsesymmetry: 511
+11: Zedaph: 496
+11: Tango: 128
+11: BdoubleO100: 123
+11: GoodTimeWithScar: 83
+11: VintageBeef: 6
+11: Etho: 3
+11: MumboJumbo: 2
+11: Stressmonster101: 2
+11: Grian: 1
+11: cubfan135: 1
+Total 1356

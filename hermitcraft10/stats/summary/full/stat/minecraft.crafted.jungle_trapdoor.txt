@@ -1,0 +1,21 @@
+minecraft.crafted.jungle_trapdoor
+19: PearlescentMoon: 1158
+19: falsesymmetry: 792
+19: Keralis1: 788
+19: Xisuma: 588
+19: Smallishbeans: 444
+19: GoodTimeWithScar: 362
+19: GeminiTay: 292
+19: Etho: 292
+19: Mumbo: 142
+19: ZombieCleo: 130
+19: BdoubleO100: 76
+19: VintageBeef: 56
+19: Tango: 30
+19: Grian: 22
+19: cubfan135: 18
+19: Docm77: 16
+19: Renthedog: 12
+19: Zedaph: 12
+19: hypnotizd: 2
+Total 5232

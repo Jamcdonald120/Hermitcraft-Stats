@@ -1,0 +1,14 @@
+minecraft.crafted.dried_kelp_block
+12: Etho: 1986
+12: falsesymmetry: 67
+12: Grian: 54
+12: impulseSV: 27
+12: Mumbo: 24
+12: VintageBeef: 22
+12: Renthedog: 7
+12: iJevin: 3
+12: Xisuma: 2
+12: cubfan135: 2
+12: GeminiTay: 1
+12: PearlescentMoon: 1
+Total 2196

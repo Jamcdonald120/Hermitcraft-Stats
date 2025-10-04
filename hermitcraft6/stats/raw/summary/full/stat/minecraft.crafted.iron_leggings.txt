@@ -1,0 +1,28 @@
+minecraft.crafted.iron_leggings
+26: falsesymmetry: 47
+26: cubfan135: 28
+26: ZombieCleo: 27
+26: impulseSV: 27
+26: iskall85: 26
+26: Xisuma: 24
+26: Grian: 23
+26: Stressmonster101: 22
+26: Welsknight: 18
+26: iJevin: 17
+26: Tango: 12
+26: Docm77: 10
+26: MumboJumbo: 7
+26: GoodTimeWithScar: 7
+26: Renthedog: 5
+26: joehillssays: 5
+26: Keralis1: 5
+26: Jura_Whitey: 4
+26: Tinfoilchef: 3
+26: Zedaph: 3
+26: HumanCleo: 2
+26: xBCrafted: 2
+26: Biffa2001: 2
+26: PythonGB: 1
+26: Jessassin: 1
+26: BdoubleO100: 1
+Total 329

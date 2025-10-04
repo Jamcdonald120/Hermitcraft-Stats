@@ -1,0 +1,26 @@
+minecraft.picked_up.leather_chestplate
+24: Zedaph: 305
+24: cubfan135: 58
+24: Xisuma: 47
+24: joehillssays: 39
+24: iJevin: 31
+24: PearlescentMoon: 20
+24: GoodTimeWithScar: 16
+24: Tango: 15
+24: ZombieCleo: 11
+24: falsesymmetry: 10
+24: VintageBeef: 9
+24: GeminiTay: 8
+24: Docm77: 7
+24: Grian: 5
+24: BdoubleO100: 5
+24: iskall85: 5
+24: impulseSV: 5
+24: xBCrafted: 4
+24: Etho: 4
+24: hypnotizd: 4
+24: Keralis1: 4
+24: Renthedog: 3
+24: Welsknight: 3
+24: Smallishbeans: 1
+Total 619

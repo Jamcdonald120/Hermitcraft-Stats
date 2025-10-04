@@ -1,0 +1,25 @@
+minecraft.dropped.crafting_table
+23: GoodTimeWithScar: 24
+23: Grian: 23
+23: Etho: 8
+23: PearlescentMoon: 7
+23: iJevin: 6
+23: cubfan135: 6
+23: Zedaph: 6
+23: Docm77: 5
+23: Renthedog: 5
+23: Xisuma: 4
+23: Tango: 4
+23: BdoubleO100: 4
+23: iskall85: 3
+23: GeminiTay: 2
+23: impulseSV: 2
+23: VintageBeef: 1
+23: joehillssays: 1
+23: xBCrafted: 1
+23: ZombieCleo: 1
+23: MumboJumbo: 1
+23: Tinfoilchef: 1
+23: Stressmonster101: 1
+23: Keralis1: 1
+Total 117

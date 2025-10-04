@@ -1,0 +1,28 @@
+minecraft.dropped.granite
+26: Tango: 8826
+26: falsesymmetry: 3748
+26: iJevin: 2793
+26: Xisuma: 1579
+26: Keralis1: 1217
+26: GoodTimeWithScar: 1033
+26: xBCrafted: 1010
+26: Docm77: 880
+26: cubfan135: 872
+26: impulseSV: 640
+26: Grian: 461
+26: Renthedog: 447
+26: Zedaph: 340
+26: iskall85: 306
+26: BdoubleO100: 270
+26: PearlescentMoon: 230
+26: Etho: 226
+26: VintageBeef: 154
+26: ZombieCleo: 126
+26: Stressmonster101: 107
+26: hypnotizd: 105
+26: Mumbo: 92
+26: joehillssays: 66
+26: GeminiTay: 52
+26: RentheKing: 12
+26: Smallishbeans: 9
+Total 25601

@@ -1,0 +1,5 @@
+minecraft.picked_up.lingering_potion
+3: Tango: 63
+3: Zedaph: 4
+3: cubfan135: 1
+Total 68

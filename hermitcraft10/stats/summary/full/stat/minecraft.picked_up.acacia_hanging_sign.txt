@@ -1,0 +1,12 @@
+minecraft.picked_up.acacia_hanging_sign
+10: Xisuma: 11
+10: Renthedog: 11
+10: GeminiTay: 10
+10: Grian: 9
+10: Mumbo: 8
+10: PearlescentMoon: 5
+10: Smallishbeans: 2
+10: BdoubleO100: 2
+10: Docm77: 1
+10: Welsknight: 1
+Total 60

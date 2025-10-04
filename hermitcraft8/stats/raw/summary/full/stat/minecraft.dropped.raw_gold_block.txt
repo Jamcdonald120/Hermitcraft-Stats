@@ -1,0 +1,4 @@
+minecraft.dropped.raw_gold_block
+2: joehillssays: 6
+2: ZombieCleo: 4
+Total 10

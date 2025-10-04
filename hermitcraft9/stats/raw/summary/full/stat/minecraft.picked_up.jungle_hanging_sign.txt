@@ -1,0 +1,6 @@
+minecraft.picked_up.jungle_hanging_sign
+4: GoodTimeWithScar: 12
+4: cubfan135: 5
+4: BdoubleO100: 1
+4: PearlescentMoon: 1
+Total 19

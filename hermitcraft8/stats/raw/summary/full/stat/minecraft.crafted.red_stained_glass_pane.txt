@@ -1,0 +1,9 @@
+minecraft.crafted.red_stained_glass_pane
+7: Renthedog: 144
+7: Tango: 96
+7: Xisuma: 80
+7: falsesymmetry: 64
+7: Docm77: 32
+7: impulseSV: 32
+7: Keralis1: 16
+Total 464

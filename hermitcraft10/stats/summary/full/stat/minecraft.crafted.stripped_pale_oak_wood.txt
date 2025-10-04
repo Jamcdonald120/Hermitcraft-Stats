@@ -1,0 +1,6 @@
+minecraft.crafted.stripped_pale_oak_wood
+4: GoodTimeWithScar: 66
+4: ZombieCleo: 18
+4: Smallishbeans: 15
+4: iJevin: 9
+Total 108

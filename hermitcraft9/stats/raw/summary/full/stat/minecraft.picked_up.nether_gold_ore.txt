@@ -1,0 +1,24 @@
+minecraft.picked_up.nether_gold_ore
+22: Zedaph: 1833
+22: cubfan135: 547
+22: iJevin: 395
+22: Tango: 207
+22: Etho: 188
+22: impulseSV: 152
+22: Docm77: 123
+22: PearlescentMoon: 119
+22: Keralis1: 110
+22: Grian: 108
+22: xBCrafted: 87
+22: Xisuma: 65
+22: ZombieCleo: 63
+22: joehillssays: 59
+22: falsesymmetry: 58
+22: Renthedog: 40
+22: VintageBeef: 20
+22: hypnotizd: 18
+22: RentheKing: 16
+22: GoodTimeWithScar: 8
+22: Pixlriffs: 4
+22: BdoubleO100: 3
+Total 4223

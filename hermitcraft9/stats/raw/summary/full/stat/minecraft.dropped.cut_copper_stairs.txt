@@ -1,0 +1,9 @@
+minecraft.dropped.cut_copper_stairs
+7: Zedaph: 24
+7: fWhip: 12
+7: MythicalSausage: 10
+7: PearlescentMoon: 3
+7: joehillssays: 2
+7: cubfan135: 2
+7: iskall85: 1
+Total 54

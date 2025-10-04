@@ -1,0 +1,18 @@
+minecraft.picked_up.light_blue_concrete_powder
+16: falsesymmetry: 655
+16: cubfan135: 252
+16: ZombieCleo: 112
+16: Smallishbeans: 26
+16: Renthedog: 25
+16: Xisuma: 12
+16: Tango: 10
+16: GoodTimeWithScar: 9
+16: PearlescentMoon: 7
+16: Etho: 3
+16: joehillssays: 2
+16: xBCrafted: 2
+16: VintageBeef: 1
+16: iJevin: 1
+16: Keralis1: 1
+16: impulseSV: 1
+Total 1119

@@ -1,0 +1,23 @@
+minecraft.crafted.leather_boots
+21: GoodTimeWithScar: 266
+21: PearlescentMoon: 143
+21: ZombieCleo: 126
+21: cubfan135: 123
+21: iJevin: 119
+21: falsesymmetry: 94
+21: Mumbo: 87
+21: Xisuma: 80
+21: Smallishbeans: 73
+21: BdoubleO100: 56
+21: joehillssays: 55
+21: Renthedog: 28
+21: Keralis1: 19
+21: Docm77: 18
+21: impulseSV: 18
+21: GeminiTay: 14
+21: Etho: 12
+21: xBCrafted: 8
+21: hypnotizd: 4
+21: Skizzleman: 2
+21: Tango: 1
+Total 1346

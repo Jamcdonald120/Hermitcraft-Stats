@@ -1,0 +1,26 @@
+minecraft.crafted.diamond_helmet
+24: Grian: 14
+24: Xisuma: 10
+24: Keralis1: 9
+24: xBCrafted: 7
+24: Welsknight: 6
+24: GoodTimeWithScar: 4
+24: MumboJumbo: 3
+24: impulseSV: 3
+24: Docm77: 2
+24: GeminiTay: 2
+24: Tango: 2
+24: cubfan135: 2
+24: Etho: 2
+24: ZombieCleo: 2
+24: Stressmonster101: 2
+24: EvilXisuma: 1
+24: Renthedog: 1
+24: VintageBeef: 1
+24: iJevin: 1
+24: joehillssays: 1
+24: PearlescentMoon: 1
+24: falsesymmetry: 1
+24: Tinfoilchef: 1
+24: Zedaph: 1
+Total 79

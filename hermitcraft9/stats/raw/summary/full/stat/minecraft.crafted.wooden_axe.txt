@@ -1,0 +1,24 @@
+minecraft.crafted.wooden_axe
+22: Tango: 91
+22: GeminiTay: 8
+22: ZombieCleo: 5
+22: VintageBeef: 4
+22: PearlescentMoon: 4
+22: cubfan135: 4
+22: joehillssays: 3
+22: iskall85: 3
+22: Zedaph: 3
+22: Pixlriffs: 2
+22: falsesymmetry: 2
+22: impulseSV: 2
+22: Xisuma: 1
+22: Renthedog: 1
+22: BdoubleO100: 1
+22: Welsknight: 1
+22: Etho: 1
+22: Mumbo: 1
+22: hypnotizd: 1
+22: MumboJumbo: 1
+22: Stressmonster101: 1
+22: Keralis1: 1
+Total 141

@@ -1,0 +1,23 @@
+minecraft.mined.composter
+21: impulseSV: 120
+21: Grian: 93
+21: Xisuma: 83
+21: Stressmonster101: 68
+21: iJevin: 57
+21: Tango: 35
+21: Etho: 33
+21: PearlescentMoon: 31
+21: GoodTimeWithScar: 28
+21: Docm77: 24
+21: GeminiTay: 23
+21: hypnotizd: 21
+21: Zedaph: 21
+21: xBCrafted: 17
+21: cubfan135: 17
+21: joehillssays: 3
+21: BdoubleO100: 3
+21: ZombieCleo: 3
+21: iskall85: 2
+21: Keralis1: 2
+21: MumboJumbo: 1
+Total 685

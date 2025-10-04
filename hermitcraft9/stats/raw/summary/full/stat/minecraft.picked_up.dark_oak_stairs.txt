@@ -1,0 +1,30 @@
+minecraft.picked_up.dark_oak_stairs
+28: falsesymmetry: 1369
+28: GoodTimeWithScar: 595
+28: Stressmonster101: 359
+28: xBCrafted: 355
+28: joehillssays: 316
+28: Renthedog: 219
+28: cubfan135: 211
+28: impulseSV: 153
+28: OrionSound: 146
+28: Xisuma: 144
+28: BdoubleO100: 114
+28: GeminiTay: 99
+28: ZombieCleo: 47
+28: iskall85: 41
+28: Grian: 34
+28: Smallishbeans: 33
+28: Zedaph: 27
+28: iJevin: 23
+28: PearlescentMoon: 21
+28: Pixlriffs: 15
+28: Mumbo: 14
+28: Keralis1: 14
+28: Tango: 13
+28: RentheKing: 11
+28: Welsknight: 10
+28: ShubbleYT: 5
+28: MumboJumbo: 4
+28: fWhip: 1
+Total 4393

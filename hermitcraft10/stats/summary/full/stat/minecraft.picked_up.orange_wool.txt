@@ -1,0 +1,25 @@
+minecraft.picked_up.orange_wool
+23: GoodTimeWithScar: 2291
+23: Xisuma: 1615
+23: Docm77: 819
+23: iJevin: 505
+23: Tango: 400
+23: PearlescentMoon: 338
+23: Skizzleman: 307
+23: Mumbo: 293
+23: falsesymmetry: 153
+23: Etho: 131
+23: ZombieCleo: 111
+23: joehillssays: 105
+23: Smallishbeans: 76
+23: GeminiTay: 75
+23: cubfan135: 34
+23: xBCrafted: 30
+23: impulseSV: 30
+23: BdoubleO100: 24
+23: Grian: 22
+23: Renthedog: 20
+23: Zedaph: 17
+23: VintageBeef: 9
+23: hypnotizd: 4
+Total 7409

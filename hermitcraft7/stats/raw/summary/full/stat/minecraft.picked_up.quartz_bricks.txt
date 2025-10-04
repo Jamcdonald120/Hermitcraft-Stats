@@ -1,0 +1,17 @@
+minecraft.picked_up.quartz_bricks
+15: impulseSV: 3660
+15: cubfan135: 357
+15: Xisuma: 269
+15: Grian: 268
+15: Keralis1: 198
+15: ZombieCleo: 142
+15: Zedaph: 129
+15: GoodTimeWithScar: 45
+15: iskall85: 36
+15: Etho: 29
+15: Tango: 24
+15: xBCrafted: 2
+15: Renthedog: 1
+15: iJevin: 1
+15: BdoubleO100: 1
+Total 5162

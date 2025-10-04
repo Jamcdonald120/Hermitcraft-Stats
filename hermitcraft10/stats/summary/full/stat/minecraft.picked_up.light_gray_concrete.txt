@@ -1,0 +1,25 @@
+minecraft.picked_up.light_gray_concrete
+23: GoodTimeWithScar: 2226
+23: PearlescentMoon: 1710
+23: cubfan135: 1337
+23: joehillssays: 1326
+23: Etho: 845
+23: impulseSV: 821
+23: Grian: 449
+23: falsesymmetry: 379
+23: VintageBeef: 376
+23: Smallishbeans: 366
+23: Tango: 218
+23: Skizzleman: 202
+23: iJevin: 135
+23: xBCrafted: 125
+23: Mumbo: 78
+23: Zedaph: 49
+23: Xisuma: 46
+23: Docm77: 39
+23: Keralis1: 38
+23: BdoubleO100: 5
+23: ZombieCleo: 5
+23: Renthedog: 4
+23: hypnotizd: 2
+Total 10781

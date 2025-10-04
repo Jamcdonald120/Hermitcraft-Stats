@@ -1,0 +1,13 @@
+minecraft.crafted.respawn_anchor
+11: hypnotizd: 65
+11: Etho: 54
+11: Xisuma: 52
+11: impulseSV: 43
+11: falsesymmetry: 8
+11: cubfan135: 5
+11: joehillssays: 4
+11: iJevin: 3
+11: PearlescentMoon: 2
+11: Renthedog: 1
+11: Zedaph: 1
+Total 238

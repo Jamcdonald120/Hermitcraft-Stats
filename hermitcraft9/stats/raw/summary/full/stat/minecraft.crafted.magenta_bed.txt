@@ -1,0 +1,6 @@
+minecraft.crafted.magenta_bed
+4: ZombieCleo: 36
+4: PearlescentMoon: 3
+4: MythicalSausage: 1
+4: Zedaph: 1
+Total 41

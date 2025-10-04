@@ -1,0 +1,32 @@
+minecraft.crafted.lantern
+30: Grian: 3143
+30: GoodTimeWithScar: 1456
+30: Renthedog: 1304
+30: falsesymmetry: 1034
+30: Etho: 804
+30: cubfan135: 766
+30: RentheKing: 722
+30: ZombieCleo: 604
+30: Stressmonster101: 551
+30: xBCrafted: 535
+30: impulseSV: 489
+30: iJevin: 449
+30: Docm77: 196
+30: iskall85: 185
+30: Keralis1: 184
+30: GeminiTay: 145
+30: Zedaph: 101
+30: Xisuma: 71
+30: VintageBeef: 52
+30: hypnotizd: 35
+30: PearlescentMoon: 34
+30: Pixlriffs: 34
+30: Smallishbeans: 32
+30: BdoubleO100: 32
+30: Tango: 31
+30: MythicalSausage: 24
+30: Mumbo: 9
+30: MumboJumbo: 9
+30: joehillssays: 3
+30: ShubbleYT: 3
+Total 13037

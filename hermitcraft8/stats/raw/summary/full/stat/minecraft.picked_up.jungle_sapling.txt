@@ -1,0 +1,20 @@
+minecraft.picked_up.jungle_sapling
+18: PearlescentMoon: 952
+18: Renthedog: 685
+18: BdoubleO100: 157
+18: GeminiTay: 99
+18: Etho: 90
+18: iJevin: 83
+18: impulseSV: 74
+18: iskall85: 70
+18: Grian: 51
+18: hypnotizd: 48
+18: Xisuma: 40
+18: cubfan135: 33
+18: Tango: 30
+18: GoodTimeWithScar: 23
+18: Keralis1: 17
+18: ZombieCleo: 7
+18: MumboJumbo: 5
+18: VintageBeef: 4
+Total 2468

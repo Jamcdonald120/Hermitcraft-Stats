@@ -1,0 +1,5 @@
+minecraft.used.light_gray_candle
+3: ZombieCleo: 15
+3: pillbugnine: 14
+3: GoodTimeWithScar: 4
+Total 33

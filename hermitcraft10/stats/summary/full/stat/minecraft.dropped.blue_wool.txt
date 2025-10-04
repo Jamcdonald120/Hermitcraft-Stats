@@ -1,0 +1,13 @@
+minecraft.dropped.blue_wool
+11: Skizzleman: 211
+11: iJevin: 50
+11: Zedaph: 30
+11: PearlescentMoon: 17
+11: falsesymmetry: 12
+11: Etho: 9
+11: GoodTimeWithScar: 5
+11: impulseSV: 2
+11: Grian: 1
+11: Tango: 1
+11: ZombieCleo: 1
+Total 339

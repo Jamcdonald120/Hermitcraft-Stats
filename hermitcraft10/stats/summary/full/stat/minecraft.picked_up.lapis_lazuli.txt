@@ -1,0 +1,27 @@
+minecraft.picked_up.lapis_lazuli
+25: cubfan135: 41716
+25: GoodTimeWithScar: 22428
+25: Etho: 8534
+25: Grian: 5838
+25: iJevin: 4679
+25: joehillssays: 3794
+25: Renthedog: 3488
+25: Smallishbeans: 3280
+25: Mumbo: 2980
+25: Zedaph: 2462
+25: VintageBeef: 2352
+25: ZombieCleo: 1775
+25: impulseSV: 1679
+25: Xisuma: 1553
+25: Welsknight: 1295
+25: PearlescentMoon: 1267
+25: hypnotizd: 1230
+25: Keralis1: 1205
+25: xBCrafted: 1174
+25: Docm77: 1138
+25: Skizzleman: 967
+25: Tango: 642
+25: BdoubleO100: 579
+25: falsesymmetry: 456
+25: GeminiTay: 429
+Total 116940

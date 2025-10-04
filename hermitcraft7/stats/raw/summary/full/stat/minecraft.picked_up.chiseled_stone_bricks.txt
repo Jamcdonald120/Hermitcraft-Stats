@@ -1,0 +1,22 @@
+minecraft.picked_up.chiseled_stone_bricks
+20: impulseSV: 562
+20: Tango: 275
+20: Grian: 263
+20: iJevin: 224
+20: GoodTimeWithScar: 222
+20: cubfan135: 200
+20: ZombieCleo: 188
+20: Etho: 158
+20: Zedaph: 133
+20: Docm77: 77
+20: Renthedog: 55
+20: VintageBeef: 31
+20: Xisuma: 27
+20: Keralis1: 20
+20: falsesymmetry: 19
+20: joehillssays: 2
+20: BdoubleO100: 1
+20: iskall85: 1
+20: xBCrafted: 1
+20: MumboJumbo: 1
+Total 2460

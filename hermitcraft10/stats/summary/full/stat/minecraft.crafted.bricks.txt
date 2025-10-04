@@ -1,0 +1,26 @@
+minecraft.crafted.bricks
+24: GoodTimeWithScar: 8083
+24: impulseSV: 4576
+24: Tango: 2998
+24: Mumbo: 2767
+24: cubfan135: 1931
+24: PearlescentMoon: 1364
+24: hypnotizd: 1170
+24: Etho: 1169
+24: Xisuma: 1163
+24: Welsknight: 1094
+24: Grian: 635
+24: Renthedog: 463
+24: Skizzleman: 436
+24: Docm77: 399
+24: BdoubleO100: 257
+24: Smallishbeans: 205
+24: falsesymmetry: 160
+24: GeminiTay: 114
+24: joehillssays: 72
+24: Zedaph: 67
+24: VintageBeef: 47
+24: iJevin: 23
+24: xBCrafted: 8
+24: ZombieCleo: 1
+Total 29202

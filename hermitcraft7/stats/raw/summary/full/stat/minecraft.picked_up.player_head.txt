@@ -1,0 +1,30 @@
+minecraft.picked_up.player_head
+28: Xisuma: 2772
+28: Grian: 1717
+28: GoodTimeWithScar: 1496
+28: impulseSV: 1436
+28: Etho: 1245
+28: Keralis1: 917
+28: ZombieCleo: 848
+28: cubfan135: 782
+28: Zedaph: 701
+28: iJevin: 696
+28: Tango: 672
+28: iskall85: 601
+28: hypnotizd: 567
+28: VintageBeef: 549
+28: falsesymmetry: 533
+28: Renthedog: 450
+28: BdoubleO100: 339
+28: xBCrafted: 246
+28: joehillssays: 240
+28: Docm77: 139
+28: MumboJumbo: 95
+28: Stressmonster101: 94
+28: xisumavoid: 58
+28: Welsknight: 28
+28: HermitcraftAlt: 11
+28: Tinfoilchef: 5
+28: BarryBoss1234: 3
+28: isGall85: 1
+Total 17241

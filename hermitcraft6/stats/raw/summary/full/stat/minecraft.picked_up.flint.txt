@@ -1,0 +1,28 @@
+minecraft.picked_up.flint
+26: iJevin: 3159
+26: Tango: 2967
+26: Docm77: 2669
+26: falsesymmetry: 2458
+26: Grian: 2345
+26: Xisuma: 1994
+26: cubfan135: 1630
+26: joehillssays: 1596
+26: GoodTimeWithScar: 1451
+26: Tinfoilchef: 1041
+26: MumboJumbo: 1020
+26: ZombieCleo: 923
+26: Stressmonster101: 639
+26: iskall85: 481
+26: Renthedog: 472
+26: impulseSV: 462
+26: Welsknight: 145
+26: Keralis1: 60
+26: xBCrafted: 50
+26: BdoubleO100: 38
+26: Zedaph: 37
+26: Biffa2001: 30
+26: PythonGB: 27
+26: Jessassin: 15
+26: HumanCleo: 5
+26: Duke_da_dog: 1
+Total 25715

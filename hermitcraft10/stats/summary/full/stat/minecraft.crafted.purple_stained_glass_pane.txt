@@ -1,0 +1,15 @@
+minecraft.crafted.purple_stained_glass_pane
+13: impulseSV: 3424
+13: Smallishbeans: 608
+13: joehillssays: 224
+13: GoodTimeWithScar: 144
+13: Xisuma: 112
+13: cubfan135: 112
+13: Etho: 64
+13: GeminiTay: 32
+13: Tango: 32
+13: Mumbo: 32
+13: Skizzleman: 16
+13: falsesymmetry: 16
+13: ZombieCleo: 16
+Total 4832

@@ -1,0 +1,18 @@
+minecraft.crafted.leather_helmet
+16: Etho: 523
+16: VintageBeef: 129
+16: cubfan135: 56
+16: xBCrafted: 21
+16: GoodTimeWithScar: 20
+16: Keralis1: 15
+16: Zedaph: 11
+16: Xisuma: 8
+16: ZombieCleo: 7
+16: joehillssays: 6
+16: impulseSV: 4
+16: Grian: 2
+16: Tango: 2
+16: Stressmonster101: 2
+16: Renthedog: 1
+16: iJevin: 1
+Total 808

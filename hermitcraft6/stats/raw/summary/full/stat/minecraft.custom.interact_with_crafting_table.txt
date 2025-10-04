@@ -1,0 +1,36 @@
+minecraft.custom.interact_with_crafting_table
+34: cubfan135: 14453
+34: Xisuma: 9760
+34: GoodTimeWithScar: 9301
+34: falsesymmetry: 6927
+34: iskall85: 6723
+34: Grian: 5466
+34: Renthedog: 4545
+34: impulseSV: 4248
+34: Tango: 3906
+34: MumboJumbo: 3289
+34: Docm77: 3220
+34: Stressmonster101: 2939
+34: iJevin: 2888
+34: joehillssays: 2685
+34: BdoubleO100: 2604
+34: Tinfoilchef: 2311
+34: ZombieCleo: 1933
+34: Welsknight: 1566
+34: PythonGB: 1345
+34: Zedaph: 1269
+34: Keralis1: 842
+34: Biffa2001: 708
+34: xBCrafted: 217
+34: HumanCleo: 153
+34: Jessassin: 128
+34: Jura_Whitey: 23
+34: EvilXisuma: 15
+34: Duke_da_dog: 11
+34: tterrag: 7
+34: PokePugx: 5
+34: Cojomax99: 5
+34: PhoenixfireLune: 3
+34: BadTimeWithScar: 3
+34: isGall85: 2
+Total 93500

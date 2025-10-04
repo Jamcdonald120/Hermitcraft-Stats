@@ -1,0 +1,25 @@
+minecraft.dropped.diamond_shovel
+23: Renthedog: 32
+23: GoodTimeWithScar: 25
+23: Tango: 19
+23: iJevin: 17
+23: Skizzleman: 15
+23: GeminiTay: 14
+23: impulseSV: 14
+23: cubfan135: 12
+23: Grian: 10
+23: ZombieCleo: 10
+23: BdoubleO100: 9
+23: Mumbo: 7
+23: Keralis1: 7
+23: Xisuma: 6
+23: VintageBeef: 5
+23: Etho: 4
+23: Docm77: 3
+23: Smallishbeans: 3
+23: falsesymmetry: 3
+23: hypnotizd: 3
+23: joehillssays: 2
+23: xBCrafted: 2
+23: PearlescentMoon: 1
+Total 223

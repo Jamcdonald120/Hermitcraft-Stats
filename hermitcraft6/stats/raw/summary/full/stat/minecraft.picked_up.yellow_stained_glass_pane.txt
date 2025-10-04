@@ -1,0 +1,12 @@
+minecraft.picked_up.yellow_stained_glass_pane
+10: Grian: 103
+10: GoodTimeWithScar: 89
+10: Renthedog: 68
+10: impulseSV: 23
+10: PythonGB: 16
+10: falsesymmetry: 15
+10: cubfan135: 15
+10: Welsknight: 14
+10: Tango: 4
+10: iskall85: 4
+Total 351

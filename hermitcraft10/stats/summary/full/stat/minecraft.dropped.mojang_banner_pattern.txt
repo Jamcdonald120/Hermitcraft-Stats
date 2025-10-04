@@ -1,0 +1,3 @@
+minecraft.dropped.mojang_banner_pattern
+1: impulseSV: 1
+Total 1

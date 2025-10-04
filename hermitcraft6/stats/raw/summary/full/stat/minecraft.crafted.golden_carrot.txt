@@ -1,0 +1,22 @@
+minecraft.crafted.golden_carrot
+20: impulseSV: 34670
+20: Grian: 31563
+20: iskall85: 11426
+20: Renthedog: 9204
+20: cubfan135: 8080
+20: MumboJumbo: 2332
+20: Stressmonster101: 1861
+20: iJevin: 705
+20: joehillssays: 561
+20: Zedaph: 418
+20: PythonGB: 142
+20: ZombieCleo: 27
+20: BdoubleO100: 23
+20: GoodTimeWithScar: 21
+20: falsesymmetry: 8
+20: Xisuma: 7
+20: Biffa2001: 7
+20: Docm77: 1
+20: Tango: 1
+20: Tinfoilchef: 1
+Total 101058

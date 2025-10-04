@@ -1,0 +1,5 @@
+minecraft.dropped.warped_door
+3: Tango: 2
+3: ZombieCleo: 2
+3: cubfan135: 1
+Total 5

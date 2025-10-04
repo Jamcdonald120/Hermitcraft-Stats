@@ -1,0 +1,27 @@
+minecraft.picked_up.green_shulker_box
+25: cubfan135: 813
+25: falsesymmetry: 613
+25: PearlescentMoon: 474
+25: Keralis1: 407
+25: Etho: 365
+25: joehillssays: 342
+25: Xisuma: 287
+25: Smallishbeans: 257
+25: BdoubleO100: 157
+25: Renthedog: 74
+25: Docm77: 59
+25: ZombieCleo: 55
+25: impulseSV: 44
+25: iJevin: 43
+25: Grian: 27
+25: VintageBeef: 22
+25: Tango: 20
+25: GeminiTay: 14
+25: Skizzleman: 13
+25: Mumbo: 9
+25: GoodTimeWithScar: 7
+25: hypnotizd: 6
+25: xBCrafted: 3
+25: Welsknight: 1
+25: Zedaph: 1
+Total 4113

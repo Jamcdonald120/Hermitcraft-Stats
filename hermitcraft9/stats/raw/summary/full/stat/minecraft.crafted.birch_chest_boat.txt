@@ -1,0 +1,6 @@
+minecraft.crafted.birch_chest_boat
+4: impulseSV: 3
+4: joehillssays: 1
+4: Mumbo: 1
+4: Zedaph: 1
+Total 6

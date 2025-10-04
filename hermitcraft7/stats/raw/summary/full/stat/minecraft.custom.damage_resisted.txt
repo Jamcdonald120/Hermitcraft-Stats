@@ -1,0 +1,26 @@
+minecraft.custom.damage_resisted
+24: Etho: 89613
+24: joehillssays: 62801
+24: Xisuma: 31315
+24: impulseSV: 29271
+24: cubfan135: 20086
+24: Grian: 11981
+24: xBCrafted: 11847
+24: Tango: 10637
+24: iJevin: 9859
+24: Renthedog: 7932
+24: Keralis1: 7738
+24: falsesymmetry: 6599
+24: Docm77: 5755
+24: hypnotizd: 3436
+24: MumboJumbo: 2988
+24: GoodTimeWithScar: 2833
+24: iskall85: 2716
+24: Zedaph: 2448
+24: VintageBeef: 2213
+24: ZombieCleo: 1658
+24: BdoubleO100: 1544
+24: Stressmonster101: 1414
+24: Welsknight: 172
+24: BarryBoss1234: 38
+Total 326894

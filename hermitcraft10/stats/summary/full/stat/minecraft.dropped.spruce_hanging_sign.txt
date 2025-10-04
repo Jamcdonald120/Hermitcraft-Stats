@@ -1,0 +1,5 @@
+minecraft.dropped.spruce_hanging_sign
+3: falsesymmetry: 10
+3: Grian: 8
+3: Tango: 2
+Total 20

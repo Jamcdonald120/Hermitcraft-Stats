@@ -1,0 +1,3 @@
+minecraft.used.golden_shovel
+1: Renthedog: 42
+Total 42

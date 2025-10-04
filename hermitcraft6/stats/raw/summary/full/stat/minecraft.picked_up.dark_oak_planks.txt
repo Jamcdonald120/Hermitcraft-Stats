@@ -1,0 +1,26 @@
+minecraft.picked_up.dark_oak_planks
+24: iJevin: 2604
+24: Grian: 2515
+24: Xisuma: 2332
+24: GoodTimeWithScar: 1323
+24: Stressmonster101: 1255
+24: Renthedog: 1227
+24: cubfan135: 970
+24: BdoubleO100: 700
+24: iskall85: 668
+24: falsesymmetry: 619
+24: Docm77: 322
+24: joehillssays: 319
+24: Tango: 236
+24: MumboJumbo: 217
+24: Welsknight: 128
+24: PythonGB: 120
+24: ZombieCleo: 97
+24: impulseSV: 55
+24: Zedaph: 44
+24: Biffa2001: 42
+24: xBCrafted: 20
+24: Jessassin: 3
+24: Tinfoilchef: 2
+24: Keralis1: 2
+Total 15820

@@ -1,0 +1,12 @@
+minecraft.dropped.beetroot_seeds
+10: Tango: 285
+10: Etho: 128
+10: Keralis1: 97
+10: falsesymmetry: 24
+10: impulseSV: 11
+10: xBCrafted: 10
+10: cubfan135: 4
+10: MumboJumbo: 2
+10: Zedaph: 2
+10: VintageBeef: 1
+Total 564

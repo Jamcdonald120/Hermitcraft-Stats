@@ -1,0 +1,29 @@
+minecraft.dropped.dirt
+27: Zedaph: 49240
+27: iJevin: 13899
+27: Tango: 9423
+27: falsesymmetry: 8402
+27: Grian: 7526
+27: GeminiTay: 7259
+27: cubfan135: 5370
+27: Keralis1: 4819
+27: GoodTimeWithScar: 4784
+27: Renthedog: 3400
+27: BdoubleO100: 2957
+27: impulseSV: 2794
+27: Xisuma: 2266
+27: Docm77: 1940
+27: Etho: 1918
+27: Skizzleman: 1572
+27: Mumbo: 1367
+27: PearlescentMoon: 1304
+27: xBCrafted: 1029
+27: Smallishbeans: 977
+27: joehillssays: 831
+27: VintageBeef: 604
+27: hypnotizd: 574
+27: ZombieCleo: 326
+27: InTheLittleWood: 14
+27: Welsknight: 2
+27: SolidarityGaming: 1
+Total 134598

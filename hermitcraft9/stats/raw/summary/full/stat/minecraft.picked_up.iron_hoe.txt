@@ -1,0 +1,10 @@
+minecraft.picked_up.iron_hoe
+8: PearlescentMoon: 9
+8: Tango: 6
+8: cubfan135: 6
+8: falsesymmetry: 4
+8: iJevin: 3
+8: Zedaph: 3
+8: Docm77: 1
+8: ZombieCleo: 1
+Total 33

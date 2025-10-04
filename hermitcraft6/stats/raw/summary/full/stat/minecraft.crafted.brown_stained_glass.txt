@@ -1,0 +1,9 @@
+minecraft.crafted.brown_stained_glass
+7: GoodTimeWithScar: 2976
+7: Welsknight: 1808
+7: impulseSV: 768
+7: falsesymmetry: 248
+7: Xisuma: 48
+7: Tango: 8
+7: MumboJumbo: 8
+Total 5864

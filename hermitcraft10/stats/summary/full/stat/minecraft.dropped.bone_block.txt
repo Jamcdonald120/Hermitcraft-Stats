@@ -1,0 +1,20 @@
+minecraft.dropped.bone_block
+18: Etho: 51051
+18: Tango: 990
+18: Keralis1: 515
+18: falsesymmetry: 362
+18: Grian: 353
+18: BdoubleO100: 304
+18: Renthedog: 251
+18: Xisuma: 83
+18: GoodTimeWithScar: 64
+18: impulseSV: 64
+18: PearlescentMoon: 34
+18: ZombieCleo: 34
+18: joehillssays: 31
+18: Smallishbeans: 20
+18: cubfan135: 11
+18: Docm77: 5
+18: xBCrafted: 2
+18: iJevin: 1
+Total 54175

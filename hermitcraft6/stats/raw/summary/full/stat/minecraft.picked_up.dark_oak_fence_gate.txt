@@ -1,0 +1,16 @@
+minecraft.picked_up.dark_oak_fence_gate
+14: falsesymmetry: 125
+14: Renthedog: 116
+14: iJevin: 105
+14: GoodTimeWithScar: 80
+14: Docm77: 58
+14: BdoubleO100: 53
+14: cubfan135: 35
+14: Stressmonster101: 30
+14: Xisuma: 11
+14: Grian: 7
+14: Tinfoilchef: 4
+14: HumanCleo: 3
+14: PythonGB: 1
+14: ZombieCleo: 1
+Total 629

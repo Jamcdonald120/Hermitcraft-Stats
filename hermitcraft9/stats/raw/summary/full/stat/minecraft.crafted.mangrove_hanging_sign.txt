@@ -1,0 +1,5 @@
+minecraft.crafted.mangrove_hanging_sign
+3: GoodTimeWithScar: 18
+3: Renthedog: 6
+3: Zedaph: 6
+Total 30

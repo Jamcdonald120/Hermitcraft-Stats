@@ -1,0 +1,5 @@
+minecraft.crafted.nautilus_shell
+3: falsesymmetry: 10
+3: Keralis1: 9
+3: Grian: 7
+Total 26

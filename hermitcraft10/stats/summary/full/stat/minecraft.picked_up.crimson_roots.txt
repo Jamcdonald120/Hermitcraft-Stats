@@ -1,0 +1,25 @@
+minecraft.picked_up.crimson_roots
+23: Etho: 16777
+23: falsesymmetry: 3043
+23: VintageBeef: 2398
+23: ZombieCleo: 1331
+23: cubfan135: 493
+23: Xisuma: 333
+23: GoodTimeWithScar: 310
+23: Smallishbeans: 288
+23: impulseSV: 225
+23: Mumbo: 180
+23: Grian: 166
+23: Tango: 158
+23: iJevin: 102
+23: BdoubleO100: 79
+23: Renthedog: 40
+23: xBCrafted: 40
+23: GeminiTay: 25
+23: Docm77: 19
+23: joehillssays: 15
+23: Keralis1: 9
+23: PearlescentMoon: 5
+23: hypnotizd: 5
+23: Zedaph: 1
+Total 26042

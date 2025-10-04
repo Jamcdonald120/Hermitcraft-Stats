@@ -1,0 +1,18 @@
+minecraft.picked_up.guster_pottery_sherd
+16: PearlescentMoon: 168
+16: cubfan135: 84
+16: Xisuma: 36
+16: Etho: 29
+16: Grian: 23
+16: iJevin: 16
+16: Skizzleman: 16
+16: Renthedog: 14
+16: GoodTimeWithScar: 14
+16: GeminiTay: 6
+16: impulseSV: 5
+16: Keralis1: 4
+16: Docm77: 3
+16: Tango: 3
+16: joehillssays: 1
+16: Mumbo: 1
+Total 423

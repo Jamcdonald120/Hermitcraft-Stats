@@ -1,0 +1,18 @@
+minecraft.mined.acacia_wall_sign
+16: PearlescentMoon: 64
+16: Docm77: 14
+16: Tango: 13
+16: cubfan135: 12
+16: Renthedog: 11
+16: BdoubleO100: 8
+16: impulseSV: 7
+16: Etho: 5
+16: Grian: 3
+16: falsesymmetry: 3
+16: GoodTimeWithScar: 2
+16: Xisuma: 1
+16: VintageBeef: 1
+16: iJevin: 1
+16: joehillssays: 1
+16: xBCrafted: 1
+Total 147

@@ -1,0 +1,9 @@
+minecraft.dropped.beacon
+7: impulseSV: 58
+7: Tango: 33
+7: Etho: 5
+7: hypnotizd: 3
+7: PearlescentMoon: 1
+7: xBCrafted: 1
+7: ZombieCleo: 1
+Total 102

@@ -1,0 +1,14 @@
+minecraft.dropped.jungle_fence
+12: falsesymmetry: 140
+12: GoodTimeWithScar: 66
+12: PearlescentMoon: 37
+12: Grian: 35
+12: GeminiTay: 12
+12: Renthedog: 9
+12: Keralis1: 7
+12: cubfan135: 5
+12: Etho: 2
+12: Xisuma: 1
+12: Tango: 1
+12: impulseSV: 1
+Total 316

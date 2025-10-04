@@ -1,0 +1,4 @@
+minecraft.dropped.light_gray_bed
+2: Docm77: 1
+2: BdoubleO100: 1
+Total 2

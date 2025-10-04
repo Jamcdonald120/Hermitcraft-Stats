@@ -1,0 +1,9 @@
+minecraft.crafted.magenta_bed
+7: falsesymmetry: 2
+7: impulseSV: 2
+7: iJevin: 1
+7: GeminiTay: 1
+7: Smallishbeans: 1
+7: ZombieCleo: 1
+7: Keralis1: 1
+Total 9

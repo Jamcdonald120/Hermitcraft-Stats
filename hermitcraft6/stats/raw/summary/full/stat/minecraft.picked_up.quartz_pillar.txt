@@ -1,0 +1,21 @@
+minecraft.picked_up.quartz_pillar
+19: PythonGB: 5618
+19: Renthedog: 834
+19: iJevin: 506
+19: Grian: 452
+19: falsesymmetry: 375
+19: iskall85: 323
+19: Docm77: 301
+19: cubfan135: 245
+19: GoodTimeWithScar: 214
+19: Welsknight: 149
+19: Keralis1: 111
+19: impulseSV: 95
+19: Zedaph: 93
+19: Xisuma: 15
+19: joehillssays: 11
+19: Tinfoilchef: 7
+19: BdoubleO100: 4
+19: ZombieCleo: 4
+19: MumboJumbo: 2
+Total 9359

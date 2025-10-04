@@ -1,0 +1,12 @@
+minecraft.killed_by.piglin
+10: impulseSV: 11
+10: Skizzleman: 5
+10: Renthedog: 4
+10: Docm77: 3
+10: Tango: 3
+10: GoodTimeWithScar: 2
+10: Keralis1: 2
+10: VintageBeef: 1
+10: Grian: 1
+10: ZombieCleo: 1
+Total 33

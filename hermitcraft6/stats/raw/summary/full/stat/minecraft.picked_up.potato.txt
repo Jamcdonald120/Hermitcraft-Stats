@@ -1,0 +1,26 @@
+minecraft.picked_up.potato
+24: Tinfoilchef: 26371
+24: Grian: 25963
+24: iskall85: 16919
+24: cubfan135: 9778
+24: impulseSV: 6872
+24: Renthedog: 5042
+24: Biffa2001: 4726
+24: joehillssays: 3741
+24: GoodTimeWithScar: 3470
+24: PythonGB: 2671
+24: Tango: 2370
+24: falsesymmetry: 1620
+24: iJevin: 1195
+24: Zedaph: 1074
+24: Xisuma: 873
+24: Stressmonster101: 735
+24: Jessassin: 592
+24: ZombieCleo: 577
+24: Welsknight: 377
+24: xBCrafted: 251
+24: MumboJumbo: 228
+24: Docm77: 158
+24: BdoubleO100: 32
+24: Keralis1: 24
+Total 115659

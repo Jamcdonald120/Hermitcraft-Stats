@@ -1,0 +1,8 @@
+minecraft.dropped.mangrove_door
+6: GoodTimeWithScar: 5
+6: ZombieCleo: 3
+6: impulseSV: 3
+6: falsesymmetry: 2
+6: Mumbo: 2
+6: Grian: 1
+Total 16

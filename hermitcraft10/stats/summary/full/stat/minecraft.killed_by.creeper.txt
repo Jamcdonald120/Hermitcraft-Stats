@@ -1,0 +1,22 @@
+minecraft.killed_by.creeper
+20: GoodTimeWithScar: 42
+20: Docm77: 15
+20: Skizzleman: 9
+20: iJevin: 8
+20: Xisuma: 6
+20: Renthedog: 6
+20: Tango: 5
+20: Etho: 5
+20: joehillssays: 3
+20: ZombieCleo: 3
+20: Grian: 2
+20: BdoubleO100: 2
+20: Mumbo: 2
+20: impulseSV: 2
+20: Zedaph: 2
+20: VintageBeef: 1
+20: PearlescentMoon: 1
+20: xBCrafted: 1
+20: falsesymmetry: 1
+20: SolidarityGaming: 1
+Total 117

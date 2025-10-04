@@ -1,0 +1,20 @@
+minecraft.picked_up.mud_brick_wall
+18: PearlescentMoon: 247
+18: Tango: 183
+18: falsesymmetry: 179
+18: GoodTimeWithScar: 144
+18: Xisuma: 141
+18: Grian: 121
+18: VintageBeef: 93
+18: Keralis1: 53
+18: ZombieCleo: 51
+18: Smallishbeans: 37
+18: Zedaph: 22
+18: GeminiTay: 17
+18: Etho: 16
+18: Renthedog: 12
+18: cubfan135: 6
+18: Docm77: 4
+18: BdoubleO100: 1
+18: Mumbo: 1
+Total 1328

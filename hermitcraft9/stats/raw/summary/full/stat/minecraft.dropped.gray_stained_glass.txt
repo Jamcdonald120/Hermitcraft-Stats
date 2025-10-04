@@ -1,0 +1,11 @@
+minecraft.dropped.gray_stained_glass
+9: falsesymmetry: 128
+9: impulseSV: 75
+9: PearlescentMoon: 53
+9: Grian: 40
+9: Renthedog: 11
+9: Zedaph: 5
+9: Docm77: 4
+9: Etho: 4
+9: GoodTimeWithScar: 4
+Total 324

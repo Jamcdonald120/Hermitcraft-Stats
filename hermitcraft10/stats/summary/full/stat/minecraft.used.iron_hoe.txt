@@ -1,0 +1,23 @@
+minecraft.used.iron_hoe
+21: impulseSV: 1021
+21: Grian: 649
+21: Keralis1: 635
+21: iJevin: 562
+21: PearlescentMoon: 513
+21: cubfan135: 445
+21: Smallishbeans: 369
+21: Mumbo: 329
+21: VintageBeef: 306
+21: ZombieCleo: 297
+21: Tango: 221
+21: Docm77: 163
+21: Renthedog: 149
+21: GeminiTay: 146
+21: falsesymmetry: 135
+21: joehillssays: 62
+21: Skizzleman: 6
+21: GoodTimeWithScar: 5
+21: xBCrafted: 4
+21: Zedaph: 2
+21: BdoubleO100: 1
+Total 6020

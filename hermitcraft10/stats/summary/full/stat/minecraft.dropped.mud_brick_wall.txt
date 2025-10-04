@@ -1,0 +1,10 @@
+minecraft.dropped.mud_brick_wall
+8: falsesymmetry: 52
+8: PearlescentMoon: 48
+8: Grian: 13
+8: Etho: 8
+8: Renthedog: 2
+8: Tango: 2
+8: GoodTimeWithScar: 2
+8: Docm77: 1
+Total 128

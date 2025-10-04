@@ -1,0 +1,27 @@
+minecraft.used.observer
+25: impulseSV: 1102
+25: Docm77: 844
+25: cubfan135: 682
+25: iJevin: 584
+25: Xisuma: 489
+25: Tango: 463
+25: Zedaph: 412
+25: MumboJumbo: 390
+25: Grian: 270
+25: Renthedog: 185
+25: Etho: 176
+25: iskall85: 119
+25: BdoubleO100: 114
+25: Welsknight: 108
+25: xBCrafted: 100
+25: GeminiTay: 94
+25: hypnotizd: 83
+25: VintageBeef: 64
+25: GoodTimeWithScar: 56
+25: PearlescentMoon: 31
+25: falsesymmetry: 28
+25: Keralis1: 25
+25: ZombieCleo: 18
+25: joehillssays: 3
+25: Stressmonster101: 3
+Total 6443

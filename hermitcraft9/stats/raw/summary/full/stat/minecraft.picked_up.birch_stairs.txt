@@ -1,0 +1,21 @@
+minecraft.picked_up.birch_stairs
+19: cubfan135: 296
+19: GoodTimeWithScar: 139
+19: Grian: 43
+19: Keralis1: 39
+19: impulseSV: 38
+19: Etho: 30
+19: Renthedog: 29
+19: PearlescentMoon: 27
+19: VintageBeef: 24
+19: GeminiTay: 22
+19: Docm77: 12
+19: Smajor1995: 6
+19: BdoubleO100: 6
+19: iJevin: 4
+19: xBCrafted: 4
+19: Xisuma: 3
+19: Mumbo: 1
+19: Stressmonster101: 1
+19: Zedaph: 1
+Total 725

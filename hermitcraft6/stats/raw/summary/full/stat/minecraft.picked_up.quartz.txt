@@ -1,0 +1,25 @@
+minecraft.picked_up.quartz
+23: GoodTimeWithScar: 150015
+23: Grian: 48797
+23: Renthedog: 34816
+23: falsesymmetry: 28699
+23: MumboJumbo: 24546
+23: PythonGB: 20144
+23: Xisuma: 15190
+23: cubfan135: 14852
+23: Welsknight: 13004
+23: iskall85: 10709
+23: Zedaph: 9070
+23: Docm77: 8633
+23: Tango: 6002
+23: iJevin: 5897
+23: impulseSV: 4129
+23: ZombieCleo: 2452
+23: joehillssays: 1216
+23: Stressmonster101: 1137
+23: Biffa2001: 782
+23: BdoubleO100: 378
+23: Tinfoilchef: 340
+23: Keralis1: 112
+23: xBCrafted: 87
+Total 401007

@@ -1,0 +1,27 @@
+minecraft.used.cobblestone_slab
+25: MumboJumbo: 1739
+25: hypnotizd: 1580
+25: impulseSV: 817
+25: Tinfoilchef: 811
+25: Xisuma: 504
+25: BdoubleO100: 418
+25: Welsknight: 256
+25: Renthedog: 197
+25: GoodTimeWithScar: 148
+25: GeminiTay: 125
+25: iJevin: 85
+25: PearlescentMoon: 73
+25: Tango: 69
+25: Docm77: 62
+25: Keralis1: 33
+25: Zedaph: 33
+25: iskall85: 31
+25: xBCrafted: 27
+25: Etho: 20
+25: Stressmonster101: 20
+25: EvilXisuma: 11
+25: falsesymmetry: 7
+25: VintageBeef: 6
+25: Grian: 5
+25: ZombieCleo: 5
+Total 7082

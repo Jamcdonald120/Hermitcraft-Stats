@@ -1,0 +1,6 @@
+minecraft.crafted.end_stone_brick_wall
+4: Renthedog: 252
+4: VintageBeef: 6
+4: Xisuma: 4
+4: hypnotizd: 1
+Total 263

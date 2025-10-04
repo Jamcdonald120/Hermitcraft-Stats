@@ -1,0 +1,22 @@
+minecraft.picked_up.spruce_button
+20: iJevin: 315
+20: Grian: 207
+20: Etho: 174
+20: iskall85: 97
+20: Zedaph: 94
+20: cubfan135: 56
+20: xBCrafted: 46
+20: Tango: 30
+20: Renthedog: 29
+20: Welsknight: 21
+20: Stressmonster101: 21
+20: joehillssays: 19
+20: VintageBeef: 13
+20: Xisuma: 12
+20: GoodTimeWithScar: 10
+20: MumboJumbo: 8
+20: impulseSV: 5
+20: BdoubleO100: 2
+20: ZombieCleo: 2
+20: Keralis1: 1
+Total 1162

@@ -1,0 +1,25 @@
+minecraft.picked_up.mutton
+23: VintageBeef: 1117
+23: BdoubleO100: 1022
+23: GoodTimeWithScar: 713
+23: cubfan135: 612
+23: Docm77: 399
+23: joehillssays: 319
+23: Grian: 261
+23: Tango: 221
+23: hypnotizd: 188
+23: Zedaph: 99
+23: falsesymmetry: 83
+23: Xisuma: 82
+23: impulseSV: 82
+23: Renthedog: 70
+23: Stressmonster101: 40
+23: Etho: 35
+23: iJevin: 32
+23: xBCrafted: 20
+23: Keralis1: 12
+23: iskall85: 8
+23: ZombieCleo: 7
+23: MumboJumbo: 6
+23: Tinfoilchef: 6
+Total 5434

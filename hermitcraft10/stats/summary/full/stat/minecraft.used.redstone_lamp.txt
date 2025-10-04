@@ -1,0 +1,26 @@
+minecraft.used.redstone_lamp
+24: cubfan135: 499
+24: Tango: 350
+24: Xisuma: 265
+24: Docm77: 226
+24: Etho: 210
+24: Keralis1: 125
+24: Mumbo: 104
+24: iJevin: 100
+24: PearlescentMoon: 91
+24: GoodTimeWithScar: 83
+24: impulseSV: 83
+24: Grian: 48
+24: Skizzleman: 41
+24: falsesymmetry: 40
+24: Welsknight: 39
+24: Zedaph: 31
+24: GeminiTay: 28
+24: Smallishbeans: 21
+24: ZombieCleo: 18
+24: BdoubleO100: 16
+24: xBCrafted: 12
+24: Renthedog: 10
+24: hypnotizd: 4
+24: VintageBeef: 1
+Total 2445

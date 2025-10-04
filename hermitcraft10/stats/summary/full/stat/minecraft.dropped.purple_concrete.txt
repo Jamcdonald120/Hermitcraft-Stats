@@ -1,0 +1,6 @@
+minecraft.dropped.purple_concrete
+4: falsesymmetry: 985
+4: Tango: 392
+4: cubfan135: 3
+4: iJevin: 1
+Total 1381

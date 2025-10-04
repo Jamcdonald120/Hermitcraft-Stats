@@ -1,0 +1,19 @@
+minecraft.picked_up.spore_blossom
+17: PearlescentMoon: 301
+17: iJevin: 143
+17: Keralis1: 100
+17: GoodTimeWithScar: 97
+17: Renthedog: 61
+17: Etho: 37
+17: ZombieCleo: 36
+17: falsesymmetry: 35
+17: cubfan135: 20
+17: Xisuma: 18
+17: xBCrafted: 9
+17: GeminiTay: 8
+17: BdoubleO100: 6
+17: Tango: 5
+17: Grian: 4
+17: Docm77: 2
+17: VintageBeef: 2
+Total 884

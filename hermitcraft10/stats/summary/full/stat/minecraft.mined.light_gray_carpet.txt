@@ -1,0 +1,24 @@
+minecraft.mined.light_gray_carpet
+22: Etho: 210
+22: impulseSV: 136
+22: Skizzleman: 120
+22: Docm77: 116
+22: joehillssays: 107
+22: falsesymmetry: 101
+22: BdoubleO100: 92
+22: cubfan135: 56
+22: Tango: 50
+22: Renthedog: 24
+22: xBCrafted: 17
+22: GeminiTay: 14
+22: ZombieCleo: 10
+22: Grian: 8
+22: Keralis1: 8
+22: GoodTimeWithScar: 6
+22: Xisuma: 5
+22: VintageBeef: 3
+22: PearlescentMoon: 2
+22: SolidarityGaming: 2
+22: iJevin: 1
+22: Smallishbeans: 1
+Total 1089

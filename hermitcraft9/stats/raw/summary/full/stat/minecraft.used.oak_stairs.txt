@@ -1,0 +1,29 @@
+minecraft.used.oak_stairs
+27: xBCrafted: 917
+27: Renthedog: 304
+27: Docm77: 302
+27: iskall85: 261
+27: PearlescentMoon: 260
+27: VintageBeef: 244
+27: Keralis1: 234
+27: cubfan135: 150
+27: Etho: 132
+27: SolidarityGaming: 116
+27: Xisuma: 72
+27: Stressmonster101: 62
+27: Zedaph: 61
+27: Tango: 52
+27: ZombieCleo: 39
+27: iJevin: 36
+27: hypnotizd: 23
+27: BdoubleO100: 19
+27: Welsknight: 14
+27: Pixlriffs: 11
+27: Mumbo: 9
+27: MumboJumbo: 9
+27: GeminiTay: 8
+27: GoodTimeWithScar: 6
+27: MythicalSausage: 5
+27: impulseSV: 4
+27: Grian: 1
+Total 3351

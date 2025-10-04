@@ -1,0 +1,6 @@
+minecraft.mined.magenta_bed
+4: MythicalSausage: 27
+4: PearlescentMoon: 3
+4: OrionSound: 1
+4: iJevin: 1
+Total 32

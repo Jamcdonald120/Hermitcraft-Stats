@@ -1,0 +1,8 @@
+minecraft.picked_up.magenta_candle
+6: GoodTimeWithScar: 85
+6: Renthedog: 21
+6: ZombieCleo: 18
+6: cubfan135: 3
+6: GeminiTay: 1
+6: PearlescentMoon: 1
+Total 129

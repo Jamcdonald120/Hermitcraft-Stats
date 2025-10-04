@@ -1,0 +1,27 @@
+minecraft.crafted.bamboo_planks
+25: Etho: 102685
+25: impulseSV: 28338
+25: Tango: 28064
+25: Keralis1: 27312
+25: cubfan135: 20148
+25: hypnotizd: 19362
+25: Renthedog: 18808
+25: Zedaph: 18272
+25: Xisuma: 11660
+25: Smallishbeans: 7982
+25: BdoubleO100: 6274
+25: Mumbo: 6112
+25: GoodTimeWithScar: 5110
+25: Docm77: 3924
+25: Grian: 1982
+25: falsesymmetry: 1878
+25: Skizzleman: 1492
+25: GeminiTay: 1032
+25: PearlescentMoon: 910
+25: joehillssays: 762
+25: VintageBeef: 372
+25: ZombieCleo: 58
+25: xBCrafted: 16
+25: Welsknight: 8
+25: iJevin: 2
+Total 312563

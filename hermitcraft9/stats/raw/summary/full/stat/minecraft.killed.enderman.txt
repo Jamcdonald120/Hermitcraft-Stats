@@ -1,0 +1,34 @@
+minecraft.killed.enderman
+32: Tango: 115439
+32: iJevin: 108163
+32: joehillssays: 94764
+32: PearlescentMoon: 64669
+32: impulseSV: 60798
+32: Etho: 53731
+32: cubfan135: 49070
+32: Xisuma: 44558
+32: Renthedog: 43550
+32: VintageBeef: 38665
+32: GoodTimeWithScar: 38268
+32: hypnotizd: 34880
+32: Keralis1: 29934
+32: RentheKing: 29925
+32: falsesymmetry: 26727
+32: Docm77: 26458
+32: xBCrafted: 18373
+32: Pixlriffs: 12720
+32: Grian: 11886
+32: MythicalSausage: 10796
+32: Mumbo: 10077
+32: Welsknight: 2945
+32: Zedaph: 2014
+32: Smallishbeans: 1984
+32: fWhip: 1391
+32: iskall85: 1300
+32: Stressmonster101: 611
+32: SolidarityGaming: 509
+32: Smajor1995: 426
+32: ZombieCleo: 162
+32: GeminiTay: 3
+32: BdoubleO100: 2
+Total 934798

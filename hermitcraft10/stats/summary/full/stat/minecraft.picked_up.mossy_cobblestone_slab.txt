@@ -1,0 +1,18 @@
+minecraft.picked_up.mossy_cobblestone_slab
+16: GoodTimeWithScar: 211
+16: PearlescentMoon: 120
+16: Grian: 41
+16: Keralis1: 39
+16: Etho: 29
+16: iJevin: 28
+16: falsesymmetry: 28
+16: BdoubleO100: 23
+16: Tango: 16
+16: GeminiTay: 9
+16: Skizzleman: 5
+16: cubfan135: 3
+16: Renthedog: 2
+16: Smallishbeans: 2
+16: Welsknight: 2
+16: Xisuma: 1
+Total 559

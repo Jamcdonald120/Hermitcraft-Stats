@@ -1,0 +1,5 @@
+minecraft.picked_up.birch_door
+3: iskall85: 83
+3: MumboJumbo: 7
+3: joehillssays: 3
+Total 93

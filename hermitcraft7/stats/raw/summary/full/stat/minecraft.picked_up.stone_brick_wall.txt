@@ -1,0 +1,20 @@
+minecraft.picked_up.stone_brick_wall
+18: xBCrafted: 890
+18: cubfan135: 584
+18: Xisuma: 318
+18: GoodTimeWithScar: 204
+18: VintageBeef: 169
+18: Docm77: 131
+18: BdoubleO100: 118
+18: Keralis1: 111
+18: iJevin: 83
+18: Tango: 62
+18: impulseSV: 61
+18: Grian: 42
+18: ZombieCleo: 36
+18: iskall85: 34
+18: Renthedog: 18
+18: joehillssays: 17
+18: MumboJumbo: 15
+18: Etho: 3
+Total 2896

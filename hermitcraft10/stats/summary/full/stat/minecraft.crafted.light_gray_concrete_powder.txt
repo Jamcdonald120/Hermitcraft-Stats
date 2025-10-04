@@ -1,0 +1,23 @@
+minecraft.crafted.light_gray_concrete_powder
+21: falsesymmetry: 11408
+21: impulseSV: 5936
+21: GoodTimeWithScar: 4048
+21: Grian: 3218
+21: PearlescentMoon: 1880
+21: Etho: 1856
+21: cubfan135: 1576
+21: joehillssays: 1048
+21: Docm77: 896
+21: Smallishbeans: 536
+21: xBCrafted: 512
+21: VintageBeef: 504
+21: GeminiTay: 384
+21: BdoubleO100: 160
+21: Keralis1: 136
+21: Skizzleman: 128
+21: ZombieCleo: 128
+21: iJevin: 96
+21: Zedaph: 56
+21: Xisuma: 48
+21: hypnotizd: 8
+Total 34562

@@ -1,0 +1,31 @@
+minecraft.custom.open_barrel
+29: GoodTimeWithScar: 11522
+29: joehillssays: 6112
+29: BdoubleO100: 5435
+29: Xisuma: 4301
+29: PearlescentMoon: 3855
+29: impulseSV: 3776
+29: cubfan135: 3673
+29: xBCrafted: 3452
+29: GeminiTay: 2549
+29: MumboJumbo: 2525
+29: Renthedog: 2469
+29: Keralis1: 2397
+29: Tango: 2161
+29: Grian: 1862
+29: iJevin: 1849
+29: Etho: 1494
+29: ZombieCleo: 1056
+29: Docm77: 901
+29: iskall85: 865
+29: hypnotizd: 692
+29: falsesymmetry: 641
+29: VintageBeef: 243
+29: Zedaph: 212
+29: Welsknight: 128
+29: Stressmonster101: 74
+29: Tinfoilchef: 73
+29: EvilXisuma: 46
+29: pillbugnine: 15
+29: Helsknight: 3
+Total 64381

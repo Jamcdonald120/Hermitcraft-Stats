@@ -1,0 +1,21 @@
+minecraft.picked_up.spruce_fence_gate
+19: Grian: 179
+19: GoodTimeWithScar: 172
+19: iJevin: 159
+19: Zedaph: 155
+19: BdoubleO100: 78
+19: Renthedog: 73
+19: Etho: 69
+19: cubfan135: 61
+19: Stressmonster101: 31
+19: Keralis1: 24
+19: Tango: 8
+19: Welsknight: 6
+19: iskall85: 4
+19: xBCrafted: 4
+19: Xisuma: 3
+19: VintageBeef: 2
+19: falsesymmetry: 1
+19: MumboJumbo: 1
+19: impulseSV: 1
+Total 1031

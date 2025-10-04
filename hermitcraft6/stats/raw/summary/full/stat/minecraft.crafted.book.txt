@@ -1,0 +1,25 @@
+minecraft.crafted.book
+23: Xisuma: 3103
+23: impulseSV: 2320
+23: falsesymmetry: 536
+23: GoodTimeWithScar: 500
+23: Grian: 470
+23: Tango: 309
+23: Renthedog: 265
+23: Tinfoilchef: 242
+23: PythonGB: 152
+23: Stressmonster101: 148
+23: iJevin: 134
+23: cubfan135: 85
+23: Biffa2001: 82
+23: Zedaph: 77
+23: joehillssays: 36
+23: Welsknight: 25
+23: MumboJumbo: 24
+23: Docm77: 22
+23: BdoubleO100: 10
+23: ZombieCleo: 8
+23: iskall85: 6
+23: Jessassin: 1
+23: Keralis1: 1
+Total 8556

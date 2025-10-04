@@ -1,0 +1,18 @@
+minecraft.picked_up.spruce_pressure_plate
+16: iJevin: 102
+16: PearlescentMoon: 43
+16: falsesymmetry: 11
+16: joehillssays: 10
+16: hypnotizd: 9
+16: Skizzleman: 6
+16: cubfan135: 6
+16: Etho: 5
+16: GoodTimeWithScar: 5
+16: Tango: 4
+16: Renthedog: 3
+16: xBCrafted: 3
+16: ZombieCleo: 3
+16: Keralis1: 3
+16: BdoubleO100: 2
+16: Mumbo: 2
+Total 217

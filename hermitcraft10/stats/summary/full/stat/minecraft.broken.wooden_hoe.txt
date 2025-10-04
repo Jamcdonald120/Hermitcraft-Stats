@@ -1,0 +1,4 @@
+minecraft.broken.wooden_hoe
+2: Etho: 2
+2: ZombieCleo: 1
+Total 3

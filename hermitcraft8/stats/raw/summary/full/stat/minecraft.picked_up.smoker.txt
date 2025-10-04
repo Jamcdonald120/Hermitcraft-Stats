@@ -1,0 +1,15 @@
+minecraft.picked_up.smoker
+13: PearlescentMoon: 49
+13: Zedaph: 16
+13: GoodTimeWithScar: 8
+13: impulseSV: 7
+13: xBCrafted: 6
+13: Grian: 5
+13: Xisuma: 4
+13: MumboJumbo: 3
+13: BdoubleO100: 2
+13: hypnotizd: 2
+13: VintageBeef: 1
+13: iJevin: 1
+13: Etho: 1
+Total 105

@@ -1,0 +1,17 @@
+minecraft.picked_up.mossy_stone_brick_stairs
+15: Grian: 140
+15: Xisuma: 46
+15: Etho: 12
+15: PearlescentMoon: 10
+15: GeminiTay: 9
+15: falsesymmetry: 9
+15: iJevin: 7
+15: Renthedog: 3
+15: Smallishbeans: 3
+15: cubfan135: 3
+15: BdoubleO100: 2
+15: xBCrafted: 2
+15: impulseSV: 2
+15: Tango: 1
+15: Keralis1: 1
+Total 250

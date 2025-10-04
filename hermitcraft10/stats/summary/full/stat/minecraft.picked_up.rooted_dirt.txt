@@ -1,0 +1,25 @@
+minecraft.picked_up.rooted_dirt
+23: Keralis1: 4950
+23: iJevin: 2991
+23: PearlescentMoon: 1972
+23: GoodTimeWithScar: 1751
+23: Etho: 1095
+23: Docm77: 960
+23: Grian: 943
+23: Renthedog: 934
+23: Xisuma: 795
+23: VintageBeef: 669
+23: joehillssays: 557
+23: falsesymmetry: 448
+23: Smallishbeans: 399
+23: xBCrafted: 333
+23: GeminiTay: 312
+23: Tango: 273
+23: BdoubleO100: 238
+23: hypnotizd: 97
+23: cubfan135: 74
+23: impulseSV: 54
+23: Mumbo: 12
+23: Skizzleman: 3
+23: ZombieCleo: 3
+Total 19863

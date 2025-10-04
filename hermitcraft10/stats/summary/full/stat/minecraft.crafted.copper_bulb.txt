@@ -1,0 +1,19 @@
+minecraft.crafted.copper_bulb
+17: impulseSV: 220
+17: Tango: 160
+17: cubfan135: 148
+17: xBCrafted: 144
+17: Xisuma: 108
+17: Grian: 96
+17: Renthedog: 76
+17: PearlescentMoon: 76
+17: GoodTimeWithScar: 68
+17: VintageBeef: 28
+17: joehillssays: 16
+17: Welsknight: 16
+17: Smallishbeans: 12
+17: BdoubleO100: 12
+17: falsesymmetry: 4
+17: hypnotizd: 4
+17: Zedaph: 4
+Total 1192

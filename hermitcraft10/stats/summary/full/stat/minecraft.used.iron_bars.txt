@@ -1,0 +1,26 @@
+minecraft.used.iron_bars
+24: impulseSV: 3102
+24: Mumbo: 2934
+24: Xisuma: 2627
+24: BdoubleO100: 2084
+24: Smallishbeans: 1980
+24: cubfan135: 1131
+24: Etho: 1096
+24: Keralis1: 1076
+24: Renthedog: 1042
+24: joehillssays: 735
+24: Docm77: 699
+24: Skizzleman: 685
+24: Grian: 660
+24: falsesymmetry: 626
+24: Zedaph: 508
+24: Tango: 400
+24: GoodTimeWithScar: 354
+24: GeminiTay: 275
+24: xBCrafted: 153
+24: Welsknight: 144
+24: iJevin: 128
+24: ZombieCleo: 125
+24: VintageBeef: 86
+24: PearlescentMoon: 76
+Total 22726

@@ -1,0 +1,31 @@
+minecraft.picked_up.netherite_pickaxe
+29: iJevin: 169
+29: Docm77: 83
+29: Grian: 74
+29: joehillssays: 56
+29: Etho: 56
+29: Xisuma: 48
+29: impulseSV: 42
+29: PearlescentMoon: 39
+29: cubfan135: 32
+29: Keralis1: 21
+29: Smallishbeans: 17
+29: hypnotizd: 15
+29: Zedaph: 11
+29: xBCrafted: 10
+29: GoodTimeWithScar: 9
+29: Skizzleman: 8
+29: BdoubleO100: 8
+29: GeminiTay: 5
+29: falsesymmetry: 4
+29: Welsknight: 4
+29: Tango: 3
+29: F1RECRACKR: 2
+29: ZombieCleo: 2
+29: jojosolos: 2
+29: Renthedog: 1
+29: VintageBeef: 1
+29: Eyjoy27: 1
+29: Mumbo: 1
+29: SolidarityGaming: 1
+Total 725

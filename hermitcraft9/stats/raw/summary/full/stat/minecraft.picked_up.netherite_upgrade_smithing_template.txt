@@ -1,0 +1,8 @@
+minecraft.picked_up.netherite_upgrade_smithing_template
+6: cubfan135: 5
+6: hypnotizd: 4
+6: falsesymmetry: 3
+6: iJevin: 2
+6: Renthedog: 1
+6: ZombieCleo: 1
+Total 16

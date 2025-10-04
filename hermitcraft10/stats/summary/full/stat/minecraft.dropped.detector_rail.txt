@@ -1,0 +1,10 @@
+minecraft.dropped.detector_rail
+8: Etho: 108
+8: PearlescentMoon: 13
+8: BdoubleO100: 4
+8: GoodTimeWithScar: 4
+8: iJevin: 2
+8: Tango: 2
+8: hypnotizd: 2
+8: Zedaph: 1
+Total 136

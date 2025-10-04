@@ -1,0 +1,8 @@
+minecraft.picked_up.rabbit_foot
+6: Etho: 123
+6: Zedaph: 53
+6: Renthedog: 3
+6: hypnotizd: 3
+6: cubfan135: 2
+6: PearlescentMoon: 1
+Total 185

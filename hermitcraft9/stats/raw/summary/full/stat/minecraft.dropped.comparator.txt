@@ -1,0 +1,16 @@
+minecraft.dropped.comparator
+14: Tango: 400
+14: Xisuma: 217
+14: GoodTimeWithScar: 48
+14: Stressmonster101: 25
+14: Docm77: 16
+14: BdoubleO100: 15
+14: Grian: 13
+14: Etho: 10
+14: Keralis1: 8
+14: impulseSV: 8
+14: cubfan135: 7
+14: Zedaph: 7
+14: Renthedog: 2
+14: iskall85: 1
+Total 777

@@ -1,0 +1,26 @@
+minecraft.picked_up.golden_leggings
+24: Tango: 92
+24: Xisuma: 41
+24: impulseSV: 21
+24: joehillssays: 20
+24: Grian: 18
+24: PearlescentMoon: 18
+24: Docm77: 17
+24: Etho: 17
+24: falsesymmetry: 14
+24: cubfan135: 12
+24: iskall85: 10
+24: hypnotizd: 10
+24: iJevin: 7
+24: GoodTimeWithScar: 6
+24: Renthedog: 4
+24: VintageBeef: 3
+24: xBCrafted: 3
+24: Welsknight: 3
+24: Keralis1: 3
+24: GeminiTay: 2
+24: BdoubleO100: 2
+24: ZombieCleo: 1
+24: MumboJumbo: 1
+24: Stressmonster101: 1
+Total 326

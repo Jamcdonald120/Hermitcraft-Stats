@@ -1,0 +1,22 @@
+minecraft.crafted.birch_fence
+20: Renthedog: 1218
+20: GoodTimeWithScar: 330
+20: Smallishbeans: 180
+20: Etho: 162
+20: Keralis1: 129
+20: cubfan135: 123
+20: Xisuma: 102
+20: BdoubleO100: 93
+20: Mumbo: 81
+20: PearlescentMoon: 51
+20: iJevin: 48
+20: GeminiTay: 48
+20: impulseSV: 48
+20: joehillssays: 15
+20: ZombieCleo: 12
+20: Zedaph: 12
+20: Tango: 9
+20: falsesymmetry: 9
+20: Docm77: 6
+20: hypnotizd: 3
+Total 2679

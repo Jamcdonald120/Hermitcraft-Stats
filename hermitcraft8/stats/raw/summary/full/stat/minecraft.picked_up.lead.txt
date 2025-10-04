@@ -1,0 +1,28 @@
+minecraft.picked_up.lead
+26: BdoubleO100: 464
+26: PearlescentMoon: 327
+26: Grian: 204
+26: Docm77: 178
+26: GoodTimeWithScar: 131
+26: GeminiTay: 105
+26: cubfan135: 101
+26: Tango: 96
+26: Welsknight: 96
+26: Etho: 95
+26: Renthedog: 92
+26: Keralis1: 89
+26: impulseSV: 84
+26: Xisuma: 66
+26: joehillssays: 65
+26: MumboJumbo: 43
+26: EvilXisuma: 36
+26: iJevin: 33
+26: Zedaph: 31
+26: hypnotizd: 20
+26: xBCrafted: 14
+26: falsesymmetry: 13
+26: ZombieCleo: 10
+26: VintageBeef: 4
+26: iskall85: 2
+26: HermitcraftAlt: 1
+Total 2400

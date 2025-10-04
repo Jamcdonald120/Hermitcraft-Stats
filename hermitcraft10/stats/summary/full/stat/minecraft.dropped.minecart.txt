@@ -1,0 +1,22 @@
+minecraft.dropped.minecart
+20: hypnotizd: 336
+20: Etho: 114
+20: GoodTimeWithScar: 84
+20: Renthedog: 29
+20: Smallishbeans: 25
+20: impulseSV: 17
+20: Xisuma: 14
+20: falsesymmetry: 13
+20: cubfan135: 13
+20: Docm77: 12
+20: Grian: 8
+20: Keralis1: 8
+20: Tango: 6
+20: BdoubleO100: 6
+20: joehillssays: 4
+20: ZombieCleo: 4
+20: iJevin: 3
+20: Zedaph: 3
+20: Skizzleman: 1
+20: xBCrafted: 1
+Total 701

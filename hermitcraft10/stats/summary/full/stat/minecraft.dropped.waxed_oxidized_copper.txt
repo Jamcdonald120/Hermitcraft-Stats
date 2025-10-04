@@ -1,0 +1,18 @@
+minecraft.dropped.waxed_oxidized_copper
+16: iJevin: 250
+16: Grian: 126
+16: PearlescentMoon: 87
+16: Docm77: 81
+16: Xisuma: 26
+16: Etho: 23
+16: SolidarityGaming: 22
+16: Renthedog: 18
+16: cubfan135: 11
+16: GoodTimeWithScar: 8
+16: Keralis1: 6
+16: xBCrafted: 4
+16: Skizzleman: 2
+16: Tango: 1
+16: Smallishbeans: 1
+16: impulseSV: 1
+Total 667

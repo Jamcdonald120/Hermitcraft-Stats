@@ -1,0 +1,3 @@
+minecraft.dropped.cartography_table
+1: Zedaph: 7
+Total 7

@@ -1,0 +1,27 @@
+minecraft.dropped.lead
+25: impulseSV: 260
+25: Tango: 162
+25: PearlescentMoon: 127
+25: Xisuma: 113
+25: GoodTimeWithScar: 89
+25: Renthedog: 55
+25: Etho: 41
+25: iJevin: 17
+25: xBCrafted: 17
+25: cubfan135: 16
+25: ZombieCleo: 16
+25: Keralis1: 14
+25: BdoubleO100: 10
+25: Zedaph: 9
+25: falsesymmetry: 7
+25: VintageBeef: 5
+25: Smallishbeans: 4
+25: Grian: 3
+25: Skizzleman: 3
+25: Docm77: 2
+25: Smajor1995: 1
+25: MythicalSausage: 1
+25: joehillssays: 1
+25: GeminiTay: 1
+25: jojosolos: 1
+Total 975

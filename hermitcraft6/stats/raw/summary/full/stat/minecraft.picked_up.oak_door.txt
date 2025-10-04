@@ -1,0 +1,20 @@
+minecraft.picked_up.oak_door
+18: Tango: 151
+18: iJevin: 113
+18: impulseSV: 99
+18: Biffa2001: 92
+18: falsesymmetry: 60
+18: Zedaph: 58
+18: iskall85: 54
+18: Tinfoilchef: 43
+18: Renthedog: 40
+18: Docm77: 26
+18: Grian: 24
+18: MumboJumbo: 19
+18: BdoubleO100: 18
+18: cubfan135: 15
+18: Stressmonster101: 7
+18: GoodTimeWithScar: 5
+18: PythonGB: 4
+18: Xisuma: 3
+Total 831

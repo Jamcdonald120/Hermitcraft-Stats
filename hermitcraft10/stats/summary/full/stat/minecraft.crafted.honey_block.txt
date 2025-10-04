@@ -1,0 +1,7 @@
+minecraft.crafted.honey_block
+5: Etho: 5266
+5: Xisuma: 242
+5: Tango: 96
+5: Mumbo: 48
+5: hypnotizd: 19
+Total 5671

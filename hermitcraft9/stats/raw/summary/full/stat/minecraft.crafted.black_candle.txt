@@ -1,0 +1,7 @@
+minecraft.crafted.black_candle
+5: hypnotizd: 900
+5: Tango: 495
+5: impulseSV: 31
+5: cubfan135: 12
+5: Zedaph: 1
+Total 1439

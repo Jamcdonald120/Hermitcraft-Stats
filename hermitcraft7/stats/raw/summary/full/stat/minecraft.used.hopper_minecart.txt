@@ -1,0 +1,25 @@
+minecraft.used.hopper_minecart
+23: Tango: 230
+23: impulseSV: 131
+23: Xisuma: 123
+23: MumboJumbo: 123
+23: iskall85: 46
+23: GoodTimeWithScar: 45
+23: Zedaph: 41
+23: Grian: 40
+23: falsesymmetry: 39
+23: Etho: 37
+23: iJevin: 33
+23: BdoubleO100: 32
+23: hypnotizd: 29
+23: xBCrafted: 28
+23: VintageBeef: 26
+23: Keralis1: 25
+23: joehillssays: 24
+23: Renthedog: 22
+23: cubfan135: 20
+23: Stressmonster101: 14
+23: Docm77: 4
+23: xisumavoid: 4
+23: Tinfoilchef: 1
+Total 1117

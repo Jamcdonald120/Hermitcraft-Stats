@@ -1,0 +1,24 @@
+minecraft.picked_up.compass
+22: Etho: 232
+22: Keralis1: 169
+22: Xisuma: 102
+22: cubfan135: 81
+22: hypnotizd: 64
+22: GoodTimeWithScar: 51
+22: iJevin: 43
+22: Tango: 40
+22: Zedaph: 35
+22: VintageBeef: 29
+22: joehillssays: 29
+22: Grian: 26
+22: falsesymmetry: 26
+22: impulseSV: 21
+22: Stressmonster101: 18
+22: MumboJumbo: 17
+22: Renthedog: 13
+22: BdoubleO100: 11
+22: iskall85: 6
+22: xBCrafted: 5
+22: Welsknight: 4
+22: ZombieCleo: 2
+Total 1024

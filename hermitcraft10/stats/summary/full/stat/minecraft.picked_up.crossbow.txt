@@ -1,0 +1,27 @@
+minecraft.picked_up.crossbow
+25: cubfan135: 219
+25: hypnotizd: 217
+25: Tango: 192
+25: Etho: 157
+25: GoodTimeWithScar: 102
+25: Xisuma: 78
+25: PearlescentMoon: 76
+25: iJevin: 60
+25: Keralis1: 38
+25: joehillssays: 31
+25: Skizzleman: 26
+25: Grian: 21
+25: impulseSV: 20
+25: BdoubleO100: 19
+25: GeminiTay: 14
+25: Smallishbeans: 12
+25: Docm77: 11
+25: Renthedog: 11
+25: falsesymmetry: 8
+25: xBCrafted: 6
+25: Zedaph: 3
+25: ZombieCleo: 2
+25: VintageBeef: 1
+25: Welsknight: 1
+25: InTheLittleWood: 1
+Total 1326

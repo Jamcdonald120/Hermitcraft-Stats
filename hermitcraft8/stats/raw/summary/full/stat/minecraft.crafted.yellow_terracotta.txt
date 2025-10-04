@@ -1,0 +1,16 @@
+minecraft.crafted.yellow_terracotta
+14: Etho: 1600
+14: MumboJumbo: 840
+14: impulseSV: 768
+14: ZombieCleo: 336
+14: PearlescentMoon: 256
+14: Keralis1: 240
+14: BdoubleO100: 184
+14: Renthedog: 104
+14: Tango: 64
+14: cubfan135: 64
+14: Grian: 16
+14: Xisuma: 8
+14: GeminiTay: 8
+14: Welsknight: 8
+Total 4496

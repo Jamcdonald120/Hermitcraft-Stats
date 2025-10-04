@@ -1,0 +1,8 @@
+minecraft.dropped.andesite_wall
+6: Keralis1: 66
+6: PearlescentMoon: 63
+6: Grian: 37
+6: Tango: 5
+6: Xisuma: 2
+6: GoodTimeWithScar: 2
+Total 175

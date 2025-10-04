@@ -1,0 +1,3 @@
+minecraft.crafted.azure_bluet
+1: falsesymmetry: 36
+Total 36

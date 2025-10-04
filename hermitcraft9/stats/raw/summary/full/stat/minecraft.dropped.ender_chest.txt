@@ -1,0 +1,25 @@
+minecraft.dropped.ender_chest
+23: Xisuma: 77
+23: Tango: 45
+23: GoodTimeWithScar: 27
+23: cubfan135: 25
+23: PearlescentMoon: 20
+23: iJevin: 17
+23: hypnotizd: 12
+23: Docm77: 11
+23: joehillssays: 10
+23: BdoubleO100: 8
+23: impulseSV: 8
+23: Keralis1: 7
+23: Renthedog: 6
+23: xBCrafted: 6
+23: GeminiTay: 4
+23: Grian: 4
+23: MythicalSausage: 2
+23: ZombieCleo: 2
+23: RentheKing: 2
+23: Minerva246: 1
+23: falsesymmetry: 1
+23: Etho: 1
+23: Zedaph: 1
+Total 297

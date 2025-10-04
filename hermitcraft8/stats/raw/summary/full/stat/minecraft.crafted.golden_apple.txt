@@ -1,0 +1,18 @@
+minecraft.crafted.golden_apple
+16: GoodTimeWithScar: 213
+16: Grian: 109
+16: Xisuma: 90
+16: iJevin: 83
+16: PearlescentMoon: 76
+16: VintageBeef: 60
+16: Zedaph: 41
+16: Keralis1: 33
+16: hypnotizd: 26
+16: Stressmonster101: 18
+16: Etho: 17
+16: xBCrafted: 12
+16: iskall85: 9
+16: joehillssays: 4
+16: falsesymmetry: 2
+16: impulseSV: 1
+Total 794

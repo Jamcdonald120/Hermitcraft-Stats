@@ -1,0 +1,10 @@
+minecraft.picked_up.spruce_chest_boat
+8: impulseSV: 5
+8: Grian: 4
+8: cubfan135: 3
+8: Xisuma: 2
+8: RentheKing: 2
+8: Keralis1: 2
+8: BdoubleO100: 1
+8: hypnotizd: 1
+Total 20

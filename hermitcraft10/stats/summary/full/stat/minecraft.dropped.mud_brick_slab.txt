@@ -1,0 +1,9 @@
+minecraft.dropped.mud_brick_slab
+7: falsesymmetry: 169
+7: Renthedog: 55
+7: Etho: 53
+7: Grian: 12
+7: BdoubleO100: 3
+7: Mumbo: 1
+7: Keralis1: 1
+Total 294

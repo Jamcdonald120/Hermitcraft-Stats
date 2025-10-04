@@ -1,0 +1,21 @@
+minecraft.picked_up.magenta_stained_glass
+19: falsesymmetry: 286
+19: Stressmonster101: 277
+19: GoodTimeWithScar: 79
+19: Keralis1: 24
+19: Etho: 11
+19: Tango: 8
+19: MumboJumbo: 7
+19: impulseSV: 7
+19: iJevin: 6
+19: xBCrafted: 5
+19: Docm77: 4
+19: Renthedog: 4
+19: joehillssays: 4
+19: cubfan135: 4
+19: Xisuma: 3
+19: VintageBeef: 3
+19: iskall85: 3
+19: BdoubleO100: 2
+19: Grian: 1
+Total 738

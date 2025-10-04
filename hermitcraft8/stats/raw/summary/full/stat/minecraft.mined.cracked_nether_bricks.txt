@@ -1,0 +1,4 @@
+minecraft.mined.cracked_nether_bricks
+2: VintageBeef: 10
+2: cubfan135: 5
+Total 15

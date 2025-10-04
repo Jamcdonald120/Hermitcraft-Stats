@@ -1,0 +1,8 @@
+minecraft.dropped.lime_terracotta
+6: Etho: 200
+6: impulseSV: 135
+6: Grian: 19
+6: GeminiTay: 12
+6: GoodTimeWithScar: 6
+6: hypnotizd: 1
+Total 373

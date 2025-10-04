@@ -1,0 +1,8 @@
+minecraft.dropped.tuff_brick_stairs
+6: iJevin: 256
+6: cubfan135: 153
+6: Xisuma: 56
+6: Tango: 21
+6: Zedaph: 9
+6: falsesymmetry: 4
+Total 499

@@ -1,0 +1,11 @@
+minecraft.picked_up.warped_fence_gate
+9: GoodTimeWithScar: 48
+9: Grian: 32
+9: Skizzleman: 22
+9: Etho: 19
+9: cubfan135: 5
+9: Smallishbeans: 3
+9: BdoubleO100: 2
+9: Mumbo: 2
+9: Keralis1: 1
+Total 134

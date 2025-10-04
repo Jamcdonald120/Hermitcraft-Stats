@@ -1,0 +1,25 @@
+minecraft.picked_up.jungle_log
+23: Etho: 24212
+23: GoodTimeWithScar: 22024
+23: Xisuma: 20587
+23: Renthedog: 16602
+23: Grian: 10134
+23: MumboJumbo: 8920
+23: joehillssays: 8127
+23: cubfan135: 7490
+23: Stressmonster101: 6751
+23: Tango: 5412
+23: VintageBeef: 3604
+23: BdoubleO100: 2556
+23: iskall85: 1995
+23: hypnotizd: 1412
+23: falsesymmetry: 370
+23: iJevin: 369
+23: Keralis1: 334
+23: Docm77: 332
+23: Zedaph: 189
+23: impulseSV: 153
+23: ZombieCleo: 86
+23: Tinfoilchef: 27
+23: Welsknight: 2
+Total 141688

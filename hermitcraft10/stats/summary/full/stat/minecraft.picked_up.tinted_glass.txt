@@ -1,0 +1,21 @@
+minecraft.picked_up.tinted_glass
+19: Zedaph: 1313
+19: iJevin: 1222
+19: cubfan135: 564
+19: Grian: 350
+19: xBCrafted: 143
+19: Tango: 99
+19: PearlescentMoon: 94
+19: Xisuma: 64
+19: GoodTimeWithScar: 61
+19: BdoubleO100: 43
+19: Keralis1: 25
+19: falsesymmetry: 23
+19: Smallishbeans: 10
+19: Renthedog: 7
+19: joehillssays: 7
+19: Skizzleman: 6
+19: Etho: 6
+19: impulseSV: 6
+19: GeminiTay: 2
+Total 4045

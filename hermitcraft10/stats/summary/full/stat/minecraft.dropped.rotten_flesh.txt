@@ -1,0 +1,32 @@
+minecraft.dropped.rotten_flesh
+30: Tango: 21993
+30: PearlescentMoon: 20973
+30: Grian: 14102
+30: impulseSV: 10620
+30: Renthedog: 8469
+30: GeminiTay: 7450
+30: cubfan135: 5808
+30: Docm77: 4969
+30: Etho: 4550
+30: GoodTimeWithScar: 4416
+30: iJevin: 4077
+30: Keralis1: 4010
+30: Mumbo: 3087
+30: Xisuma: 3047
+30: Skizzleman: 2895
+30: xBCrafted: 2778
+30: Zedaph: 1269
+30: Smallishbeans: 927
+30: falsesymmetry: 779
+30: hypnotizd: 756
+30: VintageBeef: 510
+30: ZombieCleo: 216
+30: BdoubleO100: 199
+30: joehillssays: 151
+30: SolidarityGaming: 81
+30: Welsknight: 47
+30: Smajor1995: 1
+30: InTheLittleWood: 1
+30: jojosolos: 1
+30: HBomb94: 1
+Total 128183

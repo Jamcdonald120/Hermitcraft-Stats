@@ -1,0 +1,25 @@
+minecraft.crafted.iron_trapdoor
+23: Renthedog: 1147
+23: Keralis1: 1005
+23: impulseSV: 764
+23: GoodTimeWithScar: 547
+23: Docm77: 397
+23: Grian: 359
+23: iskall85: 352
+23: cubfan135: 256
+23: BdoubleO100: 226
+23: falsesymmetry: 179
+23: Xisuma: 174
+23: PearlescentMoon: 147
+23: VintageBeef: 115
+23: xBCrafted: 76
+23: hypnotizd: 59
+23: MythicalSausage: 55
+23: joehillssays: 53
+23: Tango: 23
+23: Etho: 20
+23: iJevin: 18
+23: Zedaph: 17
+23: GeminiTay: 9
+23: RentheKing: 2
+Total 6000

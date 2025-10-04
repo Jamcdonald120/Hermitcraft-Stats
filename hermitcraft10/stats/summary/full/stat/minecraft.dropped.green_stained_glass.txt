@@ -1,0 +1,6 @@
+minecraft.dropped.green_stained_glass
+4: falsesymmetry: 34
+4: iJevin: 8
+4: Etho: 7
+4: Grian: 2
+Total 51

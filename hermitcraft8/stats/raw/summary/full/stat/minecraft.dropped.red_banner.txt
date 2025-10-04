@@ -1,0 +1,3 @@
+minecraft.dropped.red_banner
+1: GoodTimeWithScar: 24
+Total 24

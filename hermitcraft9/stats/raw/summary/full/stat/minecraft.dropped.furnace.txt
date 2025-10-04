@@ -1,0 +1,22 @@
+minecraft.dropped.furnace
+20: xBCrafted: 130
+20: impulseSV: 48
+20: Tango: 31
+20: Grian: 24
+20: iJevin: 17
+20: falsesymmetry: 17
+20: Renthedog: 15
+20: Etho: 11
+20: iskall85: 5
+20: Xisuma: 4
+20: RentheKing: 4
+20: GoodTimeWithScar: 3
+20: Keralis1: 3
+20: Zedaph: 2
+20: Docm77: 1
+20: VintageBeef: 1
+20: joehillssays: 1
+20: cubfan135: 1
+20: ZombieCleo: 1
+20: Stressmonster101: 1
+Total 320

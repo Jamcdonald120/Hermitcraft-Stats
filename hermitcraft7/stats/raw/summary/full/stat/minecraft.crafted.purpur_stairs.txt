@@ -1,0 +1,5 @@
+minecraft.crafted.purpur_stairs
+3: impulseSV: 1412
+3: GoodTimeWithScar: 55
+3: Keralis1: 12
+Total 1479

@@ -1,0 +1,5 @@
+minecraft.dropped.brown_banner
+3: falsesymmetry: 16
+3: Renthedog: 6
+3: cubfan135: 2
+Total 24

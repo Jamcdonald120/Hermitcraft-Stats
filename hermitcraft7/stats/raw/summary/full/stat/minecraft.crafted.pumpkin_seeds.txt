@@ -1,0 +1,17 @@
+minecraft.crafted.pumpkin_seeds
+15: MumboJumbo: 780
+15: impulseSV: 756
+15: Stressmonster101: 292
+15: Grian: 288
+15: GoodTimeWithScar: 284
+15: Etho: 128
+15: VintageBeef: 104
+15: joehillssays: 64
+15: Keralis1: 56
+15: xBCrafted: 12
+15: Zedaph: 12
+15: BdoubleO100: 8
+15: cubfan135: 8
+15: falsesymmetry: 4
+15: hypnotizd: 4
+Total 2800

@@ -1,0 +1,3 @@
+minecraft.dropped.jungle_hanging_sign
+1: Zedaph: 5
+Total 5

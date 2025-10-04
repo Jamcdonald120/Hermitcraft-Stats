@@ -1,0 +1,26 @@
+minecraft.picked_up.stripped_oak_log
+24: GoodTimeWithScar: 2366
+24: Docm77: 1419
+24: cubfan135: 867
+24: Smallishbeans: 844
+24: Xisuma: 761
+24: BdoubleO100: 295
+24: VintageBeef: 262
+24: Tango: 241
+24: iJevin: 160
+24: Renthedog: 141
+24: PearlescentMoon: 120
+24: ZombieCleo: 119
+24: Mumbo: 106
+24: Keralis1: 77
+24: falsesymmetry: 75
+24: joehillssays: 70
+24: xBCrafted: 55
+24: Grian: 46
+24: impulseSV: 16
+24: Etho: 15
+24: hypnotizd: 7
+24: Welsknight: 6
+24: Zedaph: 6
+24: Skizzleman: 4
+Total 8078

@@ -1,0 +1,27 @@
+minecraft.crafted.iron_ingot
+25: joehillssays: 155401
+25: Docm77: 121645
+25: Etho: 112023
+25: Tango: 96607
+25: impulseSV: 59392
+25: Xisuma: 54318
+25: cubfan135: 33918
+25: Keralis1: 30635
+25: iJevin: 19854
+25: Smallishbeans: 17963
+25: Mumbo: 17252
+25: hypnotizd: 16932
+25: Renthedog: 15592
+25: xBCrafted: 15360
+25: GoodTimeWithScar: 12633
+25: falsesymmetry: 9402
+25: BdoubleO100: 8644
+25: Grian: 8163
+25: ZombieCleo: 6868
+25: Skizzleman: 6803
+25: Zedaph: 5771
+25: VintageBeef: 5723
+25: PearlescentMoon: 5484
+25: Welsknight: 3061
+25: GeminiTay: 2433
+Total 841877

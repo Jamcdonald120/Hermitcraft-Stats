@@ -1,0 +1,21 @@
+minecraft.crafted.brewing_stand
+19: Etho: 776
+19: PearlescentMoon: 89
+19: Xisuma: 81
+19: GoodTimeWithScar: 74
+19: hypnotizd: 60
+19: joehillssays: 30
+19: Tango: 27
+19: Smallishbeans: 23
+19: cubfan135: 18
+19: BdoubleO100: 16
+19: iJevin: 11
+19: impulseSV: 9
+19: VintageBeef: 5
+19: falsesymmetry: 5
+19: Zedaph: 4
+19: Renthedog: 3
+19: ZombieCleo: 2
+19: Keralis1: 2
+19: Skizzleman: 1
+Total 1236

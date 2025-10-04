@@ -1,0 +1,18 @@
+minecraft.picked_up.oxidized_copper_bulb
+16: GoodTimeWithScar: 140
+16: Xisuma: 121
+16: Etho: 63
+16: cubfan135: 53
+16: impulseSV: 17
+16: Renthedog: 9
+16: Tango: 6
+16: PearlescentMoon: 5
+16: falsesymmetry: 4
+16: hypnotizd: 3
+16: iJevin: 2
+16: BdoubleO100: 2
+16: GeminiTay: 1
+16: Skizzleman: 1
+16: Smallishbeans: 1
+16: xBCrafted: 1
+Total 429

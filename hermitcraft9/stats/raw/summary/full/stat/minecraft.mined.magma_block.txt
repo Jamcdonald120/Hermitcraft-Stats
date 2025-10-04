@@ -1,0 +1,30 @@
+minecraft.mined.magma_block
+28: Tango: 11561
+28: Docm77: 7059
+28: Etho: 6272
+28: iJevin: 4144
+28: Xisuma: 4025
+28: iskall85: 3698
+28: GoodTimeWithScar: 2160
+28: RentheKing: 1497
+28: Mumbo: 1407
+28: MumboJumbo: 1385
+28: cubfan135: 698
+28: impulseSV: 541
+28: joehillssays: 359
+28: Grian: 343
+28: Renthedog: 296
+28: Keralis1: 296
+28: falsesymmetry: 211
+28: PearlescentMoon: 138
+28: ZombieCleo: 131
+28: GeminiTay: 106
+28: Zedaph: 97
+28: xBCrafted: 93
+28: hypnotizd: 39
+28: VintageBeef: 32
+28: Stressmonster101: 30
+28: BdoubleO100: 23
+28: MythicalSausage: 1
+28: Welsknight: 1
+Total 46643

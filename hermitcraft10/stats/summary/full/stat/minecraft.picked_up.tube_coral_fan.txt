@@ -1,0 +1,21 @@
+minecraft.picked_up.tube_coral_fan
+19: GoodTimeWithScar: 1443
+19: GeminiTay: 355
+19: PearlescentMoon: 202
+19: Renthedog: 136
+19: joehillssays: 80
+19: Xisuma: 57
+19: iJevin: 16
+19: Keralis1: 13
+19: Smallishbeans: 12
+19: falsesymmetry: 9
+19: xBCrafted: 8
+19: Mumbo: 4
+19: Grian: 3
+19: Etho: 3
+19: Docm77: 2
+19: VintageBeef: 1
+19: Tango: 1
+19: BdoubleO100: 1
+19: ZombieCleo: 1
+Total 2347

@@ -1,0 +1,9 @@
+minecraft.killed_by.vindicator
+7: Mumbo: 4
+7: Zedaph: 3
+7: iJevin: 2
+7: ZombieCleo: 2
+7: GeminiTay: 1
+7: Tango: 1
+7: PearlescentMoon: 1
+Total 14

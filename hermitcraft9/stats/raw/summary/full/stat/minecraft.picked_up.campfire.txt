@@ -1,0 +1,24 @@
+minecraft.picked_up.campfire
+22: Grian: 295
+22: Keralis1: 236
+22: iJevin: 224
+22: PearlescentMoon: 218
+22: xBCrafted: 160
+22: impulseSV: 82
+22: cubfan135: 54
+22: ZombieCleo: 41
+22: GeminiTay: 40
+22: BdoubleO100: 33
+22: falsesymmetry: 31
+22: GoodTimeWithScar: 26
+22: SolidarityGaming: 24
+22: Docm77: 20
+22: Renthedog: 18
+22: VintageBeef: 16
+22: RentheKing: 15
+22: Zedaph: 15
+22: Tango: 14
+22: Xisuma: 11
+22: Etho: 11
+22: Welsknight: 1
+Total 1585

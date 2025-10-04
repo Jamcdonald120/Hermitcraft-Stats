@@ -1,0 +1,31 @@
+minecraft.mined.barrel
+29: impulseSV: 595
+29: Tango: 302
+29: iJevin: 300
+29: cubfan135: 212
+29: Xisuma: 191
+29: VintageBeef: 175
+29: Renthedog: 159
+29: Keralis1: 142
+29: PearlescentMoon: 119
+29: RentheKing: 105
+29: BdoubleO100: 104
+29: joehillssays: 103
+29: falsesymmetry: 103
+29: xBCrafted: 83
+29: ZombieCleo: 77
+29: GeminiTay: 64
+29: GoodTimeWithScar: 64
+29: Zedaph: 54
+29: Etho: 44
+29: Docm77: 42
+29: hypnotizd: 21
+29: fWhip: 19
+29: Stressmonster101: 18
+29: iskall85: 11
+29: Smajor1995: 9
+29: Grian: 8
+29: MythicalSausage: 3
+29: Pixlriffs: 1
+29: ShubbleYT: 1
+Total 3129

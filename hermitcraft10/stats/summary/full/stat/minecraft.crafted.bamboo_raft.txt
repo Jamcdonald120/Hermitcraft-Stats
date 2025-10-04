@@ -1,0 +1,18 @@
+minecraft.crafted.bamboo_raft
+16: Tango: 169
+16: impulseSV: 42
+16: Docm77: 34
+16: GoodTimeWithScar: 34
+16: Etho: 19
+16: cubfan135: 7
+16: Mumbo: 7
+16: Keralis1: 6
+16: Grian: 5
+16: Renthedog: 2
+16: falsesymmetry: 2
+16: Xisuma: 1
+16: VintageBeef: 1
+16: GeminiTay: 1
+16: PearlescentMoon: 1
+16: ZombieCleo: 1
+Total 332

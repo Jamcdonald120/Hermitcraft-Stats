@@ -1,0 +1,21 @@
+minecraft.picked_up.jungle_boat
+19: Skizzleman: 58
+19: iJevin: 49
+19: Etho: 49
+19: falsesymmetry: 32
+19: GoodTimeWithScar: 22
+19: Xisuma: 16
+19: GeminiTay: 13
+19: Renthedog: 10
+19: Zedaph: 10
+19: PearlescentMoon: 9
+19: Welsknight: 7
+19: ZombieCleo: 7
+19: cubfan135: 5
+19: BdoubleO100: 4
+19: Mumbo: 3
+19: Docm77: 2
+19: Tango: 2
+19: joehillssays: 1
+19: Grian: 1
+Total 300

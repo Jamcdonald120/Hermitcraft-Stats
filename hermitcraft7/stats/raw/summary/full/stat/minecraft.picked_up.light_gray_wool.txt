@@ -1,0 +1,23 @@
+minecraft.picked_up.light_gray_wool
+21: Grian: 16691
+21: Zedaph: 10459
+21: Etho: 4006
+21: Keralis1: 2019
+21: VintageBeef: 780
+21: Tango: 673
+21: falsesymmetry: 550
+21: Xisuma: 415
+21: BdoubleO100: 415
+21: joehillssays: 290
+21: impulseSV: 166
+21: GoodTimeWithScar: 163
+21: Welsknight: 121
+21: cubfan135: 113
+21: iJevin: 80
+21: xBCrafted: 50
+21: Docm77: 37
+21: Stressmonster101: 33
+21: hypnotizd: 10
+21: iskall85: 6
+21: Renthedog: 3
+Total 37080

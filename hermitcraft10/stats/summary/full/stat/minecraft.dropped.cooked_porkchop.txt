@@ -1,0 +1,25 @@
+minecraft.dropped.cooked_porkchop
+23: Tango: 7801
+23: Docm77: 499
+23: Skizzleman: 357
+23: PearlescentMoon: 342
+23: ZombieCleo: 288
+23: iJevin: 228
+23: impulseSV: 188
+23: Renthedog: 83
+23: Xisuma: 82
+23: falsesymmetry: 81
+23: Keralis1: 69
+23: Etho: 60
+23: BdoubleO100: 57
+23: Grian: 48
+23: xBCrafted: 46
+23: Smallishbeans: 36
+23: GoodTimeWithScar: 30
+23: cubfan135: 9
+23: GeminiTay: 8
+23: joehillssays: 7
+23: Zedaph: 7
+23: hypnotizd: 4
+23: Mumbo: 1
+Total 10331

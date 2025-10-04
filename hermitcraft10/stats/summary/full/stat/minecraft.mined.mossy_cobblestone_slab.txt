@@ -1,0 +1,18 @@
+minecraft.mined.mossy_cobblestone_slab
+16: falsesymmetry: 28
+16: Keralis1: 27
+16: BdoubleO100: 19
+16: iJevin: 17
+16: Etho: 16
+16: PearlescentMoon: 12
+16: Tango: 10
+16: GoodTimeWithScar: 10
+16: GeminiTay: 9
+16: Grian: 6
+16: Skizzleman: 5
+16: Renthedog: 2
+16: Smallishbeans: 2
+16: cubfan135: 2
+16: Xisuma: 1
+16: Welsknight: 1
+Total 167

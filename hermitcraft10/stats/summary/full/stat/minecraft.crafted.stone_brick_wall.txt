@@ -1,0 +1,21 @@
+minecraft.crafted.stone_brick_wall
+19: Xisuma: 910
+19: falsesymmetry: 486
+19: iJevin: 403
+19: Mumbo: 240
+19: cubfan135: 196
+19: ZombieCleo: 132
+19: Grian: 77
+19: VintageBeef: 71
+19: hypnotizd: 60
+19: Tango: 58
+19: Keralis1: 48
+19: impulseSV: 16
+19: Skizzleman: 12
+19: Welsknight: 12
+19: xBCrafted: 9
+19: Docm77: 6
+19: PearlescentMoon: 6
+19: Renthedog: 5
+19: BdoubleO100: 1
+Total 2748

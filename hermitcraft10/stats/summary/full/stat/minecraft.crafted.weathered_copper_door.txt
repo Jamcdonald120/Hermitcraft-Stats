@@ -1,0 +1,4 @@
+minecraft.crafted.weathered_copper_door
+2: Keralis1: 9
+2: BdoubleO100: 3
+Total 12

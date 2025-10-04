@@ -1,0 +1,22 @@
+minecraft.picked_up.target
+20: Etho: 341
+20: Xisuma: 223
+20: cubfan135: 208
+20: Tango: 189
+20: Keralis1: 79
+20: Zedaph: 51
+20: BdoubleO100: 45
+20: Docm77: 31
+20: Skizzleman: 22
+20: PearlescentMoon: 19
+20: Mumbo: 18
+20: iJevin: 13
+20: impulseSV: 9
+20: hypnotizd: 8
+20: VintageBeef: 3
+20: Grian: 3
+20: falsesymmetry: 3
+20: Renthedog: 2
+20: xBCrafted: 2
+20: Smallishbeans: 1
+Total 1270

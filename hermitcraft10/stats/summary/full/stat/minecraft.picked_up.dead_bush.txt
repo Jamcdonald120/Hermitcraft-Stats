@@ -1,0 +1,22 @@
+minecraft.picked_up.dead_bush
+20: cubfan135: 987
+20: falsesymmetry: 886
+20: Etho: 823
+20: Renthedog: 626
+20: iJevin: 571
+20: Xisuma: 494
+20: hypnotizd: 420
+20: GoodTimeWithScar: 360
+20: PearlescentMoon: 153
+20: BdoubleO100: 121
+20: Mumbo: 99
+20: Smallishbeans: 84
+20: Keralis1: 83
+20: VintageBeef: 77
+20: Docm77: 72
+20: impulseSV: 36
+20: xBCrafted: 34
+20: ZombieCleo: 22
+20: GeminiTay: 7
+20: joehillssays: 1
+Total 5956

@@ -1,0 +1,7 @@
+minecraft.crafted.cyan_stained_glass_pane
+5: Zedaph: 272
+5: BdoubleO100: 64
+5: impulseSV: 32
+5: GoodTimeWithScar: 16
+5: Grian: 8
+Total 392

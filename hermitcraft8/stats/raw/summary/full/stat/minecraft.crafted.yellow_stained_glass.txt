@@ -1,0 +1,11 @@
+minecraft.crafted.yellow_stained_glass
+9: impulseSV: 3072
+9: Etho: 832
+9: GeminiTay: 232
+9: falsesymmetry: 64
+9: GoodTimeWithScar: 48
+9: joehillssays: 32
+9: iJevin: 8
+9: cubfan135: 8
+9: Welsknight: 8
+Total 4304

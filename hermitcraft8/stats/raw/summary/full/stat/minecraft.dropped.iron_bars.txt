@@ -1,0 +1,11 @@
+minecraft.dropped.iron_bars
+9: iJevin: 151
+9: Xisuma: 91
+9: Tango: 76
+9: PearlescentMoon: 64
+9: xBCrafted: 54
+9: GoodTimeWithScar: 49
+9: Renthedog: 40
+9: BdoubleO100: 31
+9: impulseSV: 1
+Total 557

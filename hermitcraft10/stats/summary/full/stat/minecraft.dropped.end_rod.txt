@@ -1,0 +1,13 @@
+minecraft.dropped.end_rod
+11: Renthedog: 215
+11: iJevin: 132
+11: impulseSV: 64
+11: Grian: 52
+11: Smallishbeans: 45
+11: falsesymmetry: 39
+11: GoodTimeWithScar: 35
+11: Tango: 30
+11: ZombieCleo: 6
+11: Zedaph: 4
+11: Etho: 3
+Total 625

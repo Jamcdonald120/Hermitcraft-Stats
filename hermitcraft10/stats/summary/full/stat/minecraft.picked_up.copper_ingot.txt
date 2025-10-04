@@ -1,0 +1,24 @@
+minecraft.picked_up.copper_ingot
+22: Xisuma: 6435
+22: Etho: 2480
+22: Zedaph: 2342
+22: joehillssays: 1426
+22: VintageBeef: 1381
+22: Grian: 1293
+22: Renthedog: 946
+22: Tango: 622
+22: BdoubleO100: 329
+22: cubfan135: 252
+22: GoodTimeWithScar: 200
+22: GeminiTay: 104
+22: iJevin: 102
+22: impulseSV: 91
+22: xBCrafted: 72
+22: falsesymmetry: 32
+22: PearlescentMoon: 23
+22: hypnotizd: 10
+22: ZombieCleo: 9
+22: Mumbo: 6
+22: Skizzleman: 4
+22: Keralis1: 1
+Total 18160

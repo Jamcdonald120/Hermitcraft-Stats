@@ -1,0 +1,3 @@
+minecraft.dropped.exposed_cut_copper_slab
+1: cubfan135: 13
+Total 13

@@ -1,0 +1,25 @@
+minecraft.crafted.item_frame
+23: Xisuma: 1836
+23: Grian: 1645
+23: GoodTimeWithScar: 681
+23: cubfan135: 611
+23: falsesymmetry: 564
+23: Welsknight: 508
+23: Renthedog: 314
+23: iJevin: 255
+23: Biffa2001: 203
+23: iskall85: 181
+23: impulseSV: 111
+23: Tango: 109
+23: ZombieCleo: 106
+23: BdoubleO100: 99
+23: Docm77: 97
+23: MumboJumbo: 94
+23: PythonGB: 92
+23: Stressmonster101: 55
+23: joehillssays: 31
+23: Tinfoilchef: 30
+23: Keralis1: 10
+23: Zedaph: 8
+23: HumanCleo: 3
+Total 7643

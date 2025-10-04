@@ -1,0 +1,11 @@
+minecraft.picked_up.cyan_banner
+9: PearlescentMoon: 39
+9: falsesymmetry: 27
+9: xBCrafted: 8
+9: cubfan135: 7
+9: GoodTimeWithScar: 5
+9: Keralis1: 4
+9: VintageBeef: 2
+9: impulseSV: 1
+9: Zedaph: 1
+Total 94

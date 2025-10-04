@@ -1,0 +1,25 @@
+minecraft.dropped.stone_button
+23: Etho: 177
+23: Renthedog: 169
+23: Tango: 139
+23: Docm77: 113
+23: iJevin: 105
+23: Grian: 80
+23: impulseSV: 53
+23: falsesymmetry: 35
+23: ZombieCleo: 31
+23: Keralis1: 20
+23: BdoubleO100: 16
+23: cubfan135: 16
+23: Zedaph: 14
+23: Xisuma: 6
+23: Skizzleman: 6
+23: Mumbo: 5
+23: GoodTimeWithScar: 5
+23: PearlescentMoon: 4
+23: xBCrafted: 4
+23: VintageBeef: 3
+23: Smallishbeans: 2
+23: GeminiTay: 1
+23: hypnotizd: 1
+Total 1005

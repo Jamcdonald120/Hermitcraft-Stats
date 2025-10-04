@@ -1,0 +1,14 @@
+minecraft.crafted.yellow_bed
+12: impulseSV: 54
+12: Xisuma: 12
+12: Tango: 8
+12: joehillssays: 7
+12: cubfan135: 3
+12: Smallishbeans: 2
+12: Keralis1: 2
+12: Docm77: 1
+12: GeminiTay: 1
+12: falsesymmetry: 1
+12: GoodTimeWithScar: 1
+12: Zedaph: 1
+Total 93

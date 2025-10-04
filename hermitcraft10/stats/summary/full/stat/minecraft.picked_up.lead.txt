@@ -1,0 +1,32 @@
+minecraft.picked_up.lead
+30: GoodTimeWithScar: 1754
+30: Renthedog: 1247
+30: cubfan135: 637
+30: Tango: 600
+30: Docm77: 487
+30: BdoubleO100: 469
+30: impulseSV: 437
+30: falsesymmetry: 402
+30: Xisuma: 379
+30: Zedaph: 379
+30: PearlescentMoon: 365
+30: iJevin: 316
+30: Keralis1: 315
+30: Skizzleman: 272
+30: joehillssays: 258
+30: Etho: 181
+30: GeminiTay: 107
+30: ZombieCleo: 102
+30: VintageBeef: 100
+30: Grian: 89
+30: Smallishbeans: 52
+30: xBCrafted: 34
+30: hypnotizd: 30
+30: Welsknight: 22
+30: Mumbo: 12
+30: Smajor1995: 2
+30: Dot_Dot_Dash: 2
+30: MythicalSausage: 1
+30: jojosolos: 1
+30: aimsey: 1
+Total 9053

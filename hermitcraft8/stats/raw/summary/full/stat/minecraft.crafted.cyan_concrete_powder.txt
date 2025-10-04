@@ -1,0 +1,8 @@
+minecraft.crafted.cyan_concrete_powder
+6: ZombieCleo: 392
+6: Keralis1: 128
+6: Grian: 80
+6: GoodTimeWithScar: 64
+6: PearlescentMoon: 8
+6: Welsknight: 8
+Total 680

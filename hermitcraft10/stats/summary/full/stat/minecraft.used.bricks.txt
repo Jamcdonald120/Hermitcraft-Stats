@@ -1,0 +1,25 @@
+minecraft.used.bricks
+23: Mumbo: 3591
+23: impulseSV: 3314
+23: Tango: 2758
+23: cubfan135: 1450
+23: Xisuma: 1321
+23: PearlescentMoon: 878
+23: Welsknight: 678
+23: Skizzleman: 527
+23: Grian: 480
+23: Etho: 408
+23: GoodTimeWithScar: 276
+23: Docm77: 261
+23: Smallishbeans: 177
+23: BdoubleO100: 168
+23: joehillssays: 71
+23: VintageBeef: 66
+23: GeminiTay: 45
+23: Zedaph: 32
+23: SolidarityGaming: 21
+23: Renthedog: 17
+23: falsesymmetry: 11
+23: iJevin: 9
+23: hypnotizd: 2
+Total 16561

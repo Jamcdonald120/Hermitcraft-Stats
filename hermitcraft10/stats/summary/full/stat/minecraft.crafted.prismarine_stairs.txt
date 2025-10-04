@@ -1,0 +1,7 @@
+minecraft.crafted.prismarine_stairs
+5: xBCrafted: 32
+5: Keralis1: 12
+5: GeminiTay: 8
+5: Grian: 8
+5: hypnotizd: 1
+Total 61

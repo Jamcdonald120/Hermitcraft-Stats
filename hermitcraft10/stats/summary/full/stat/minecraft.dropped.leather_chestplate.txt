@@ -1,0 +1,31 @@
+minecraft.dropped.leather_chestplate
+29: xBCrafted: 127
+29: Tango: 53
+29: BdoubleO100: 38
+29: Zedaph: 26
+29: cubfan135: 25
+29: impulseSV: 25
+29: Renthedog: 22
+29: Xisuma: 14
+29: iJevin: 11
+29: Grian: 9
+29: PearlescentMoon: 9
+29: Keralis1: 9
+29: falsesymmetry: 8
+29: ZombieCleo: 8
+29: hypnotizd: 7
+29: GoodTimeWithScar: 7
+29: GeminiTay: 6
+29: Skizzleman: 6
+29: Smallishbeans: 5
+29: Etho: 4
+29: Docm77: 3
+29: VintageBeef: 3
+29: joehillssays: 3
+29: Smajor1995: 2
+29: InTheLittleWood: 2
+29: belmarzi: 1
+29: Mumbo: 1
+29: SolidarityGaming: 1
+29: aimsey: 1
+Total 436

@@ -1,0 +1,26 @@
+minecraft.dropped.water_bucket
+24: Renthedog: 109
+24: falsesymmetry: 48
+24: PearlescentMoon: 40
+24: Tango: 39
+24: Grian: 31
+24: cubfan135: 26
+24: GoodTimeWithScar: 25
+24: iJevin: 20
+24: Keralis1: 19
+24: Etho: 18
+24: impulseSV: 13
+24: Skizzleman: 9
+24: Docm77: 8
+24: BdoubleO100: 8
+24: Zedaph: 7
+24: Xisuma: 6
+24: GeminiTay: 6
+24: Smallishbeans: 5
+24: ZombieCleo: 5
+24: xBCrafted: 3
+24: Mumbo: 3
+24: VintageBeef: 2
+24: joehillssays: 1
+24: hypnotizd: 1
+Total 452

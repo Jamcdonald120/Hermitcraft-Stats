@@ -1,0 +1,9 @@
+minecraft.dropped.wither_skeleton_skull
+7: impulseSV: 133
+7: Zedaph: 96
+7: Tango: 85
+7: PearlescentMoon: 64
+7: iJevin: 16
+7: Stressmonster101: 4
+7: iskall85: 1
+Total 399

@@ -1,0 +1,16 @@
+minecraft.picked_up.waxed_exposed_copper_trapdoor
+14: falsesymmetry: 249
+14: PearlescentMoon: 104
+14: BdoubleO100: 71
+14: Grian: 14
+14: Etho: 13
+14: Keralis1: 9
+14: Xisuma: 5
+14: Tango: 4
+14: Mumbo: 3
+14: cubfan135: 2
+14: ZombieCleo: 2
+14: GoodTimeWithScar: 2
+14: Docm77: 1
+14: Renthedog: 1
+Total 480

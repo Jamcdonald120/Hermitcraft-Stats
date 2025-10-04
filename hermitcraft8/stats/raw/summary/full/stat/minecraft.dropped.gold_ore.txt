@@ -1,0 +1,10 @@
+minecraft.dropped.gold_ore
+8: xBCrafted: 26
+8: Keralis1: 7
+8: iJevin: 5
+8: MumboJumbo: 5
+8: GoodTimeWithScar: 3
+8: Xisuma: 2
+8: Renthedog: 2
+8: Grian: 1
+Total 51

@@ -1,0 +1,4 @@
+minecraft.crafted.bubble_coral_block
+2: Renthedog: 7
+2: falsesymmetry: 1
+Total 8

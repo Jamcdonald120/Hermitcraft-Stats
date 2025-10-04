@@ -1,0 +1,24 @@
+minecraft.picked_up.smithing_table
+22: Tango: 307
+22: GoodTimeWithScar: 229
+22: Etho: 80
+22: Grian: 76
+22: ZombieCleo: 65
+22: impulseSV: 56
+22: cubfan135: 38
+22: Zedaph: 36
+22: Keralis1: 31
+22: Xisuma: 27
+22: iJevin: 27
+22: xBCrafted: 18
+22: iskall85: 15
+22: MumboJumbo: 15
+22: hypnotizd: 9
+22: Stressmonster101: 8
+22: VintageBeef: 5
+22: Renthedog: 4
+22: BdoubleO100: 4
+22: Docm77: 3
+22: joehillssays: 2
+22: falsesymmetry: 1
+Total 1056

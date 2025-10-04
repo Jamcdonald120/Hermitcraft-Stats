@@ -1,0 +1,22 @@
+minecraft.mined.mangrove_trapdoor
+20: impulseSV: 706
+20: Grian: 687
+20: cubfan135: 106
+20: ZombieCleo: 86
+20: GoodTimeWithScar: 82
+20: PearlescentMoon: 70
+20: Renthedog: 47
+20: BdoubleO100: 35
+20: Xisuma: 34
+20: Keralis1: 34
+20: Tango: 12
+20: iJevin: 9
+20: MythicalSausage: 8
+20: Pixlriffs: 7
+20: RentheKing: 6
+20: Docm77: 5
+20: falsesymmetry: 4
+20: Etho: 3
+20: fWhip: 2
+20: Stressmonster101: 2
+Total 1945

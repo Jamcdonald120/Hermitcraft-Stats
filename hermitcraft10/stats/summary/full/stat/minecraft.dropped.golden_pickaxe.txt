@@ -1,0 +1,5 @@
+minecraft.dropped.golden_pickaxe
+3: Tango: 3
+3: cubfan135: 2
+3: Mumbo: 1
+Total 6

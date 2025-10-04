@@ -1,0 +1,5 @@
+minecraft.dropped.piglin_banner_pattern
+3: cubfan135: 2
+3: Etho: 2
+3: Keralis1: 1
+Total 5

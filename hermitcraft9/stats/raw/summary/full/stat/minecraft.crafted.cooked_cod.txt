@@ -1,0 +1,13 @@
+minecraft.crafted.cooked_cod
+11: PearlescentMoon: 444
+11: Grian: 175
+11: MythicalSausage: 64
+11: VintageBeef: 46
+11: GeminiTay: 46
+11: falsesymmetry: 36
+11: impulseSV: 34
+11: Stressmonster101: 18
+11: Xisuma: 13
+11: joehillssays: 8
+11: Zedaph: 6
+Total 890

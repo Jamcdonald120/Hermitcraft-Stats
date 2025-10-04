@@ -1,0 +1,21 @@
+minecraft.crafted.mud_brick_slab
+19: falsesymmetry: 1638
+19: Keralis1: 834
+19: Xisuma: 236
+19: VintageBeef: 232
+19: Tango: 138
+19: Mumbo: 138
+19: Grian: 96
+19: cubfan135: 86
+19: GoodTimeWithScar: 80
+19: Renthedog: 52
+19: xBCrafted: 34
+19: iJevin: 24
+19: GeminiTay: 24
+19: Etho: 24
+19: PearlescentMoon: 16
+19: Docm77: 12
+19: Zedaph: 8
+19: Smallishbeans: 6
+19: ZombieCleo: 6
+Total 3684

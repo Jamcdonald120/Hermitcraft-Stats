@@ -1,0 +1,26 @@
+minecraft.crafted.cyan_dye
+24: Keralis1: 8280
+24: impulseSV: 4764
+24: Etho: 3798
+24: xBCrafted: 2752
+24: joehillssays: 1040
+24: GoodTimeWithScar: 1024
+24: Smallishbeans: 872
+24: falsesymmetry: 496
+24: PearlescentMoon: 446
+24: Xisuma: 442
+24: cubfan135: 442
+24: Tango: 384
+24: iJevin: 258
+24: Grian: 258
+24: Docm77: 128
+24: Skizzleman: 116
+24: ZombieCleo: 114
+24: Welsknight: 66
+24: Mumbo: 58
+24: Renthedog: 54
+24: GeminiTay: 50
+24: VintageBeef: 22
+24: BdoubleO100: 20
+24: hypnotizd: 2
+Total 25886

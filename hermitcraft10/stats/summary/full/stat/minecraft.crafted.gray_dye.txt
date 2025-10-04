@@ -1,0 +1,26 @@
+minecraft.crafted.gray_dye
+24: Keralis1: 13080
+24: Docm77: 3740
+24: impulseSV: 3360
+24: cubfan135: 2640
+24: GoodTimeWithScar: 2120
+24: xBCrafted: 2102
+24: Renthedog: 2032
+24: Etho: 1348
+24: hypnotizd: 1242
+24: Xisuma: 1100
+24: PearlescentMoon: 602
+24: joehillssays: 529
+24: falsesymmetry: 438
+24: Smallishbeans: 282
+24: Skizzleman: 180
+24: BdoubleO100: 176
+24: Tango: 148
+24: iJevin: 144
+24: Grian: 88
+24: VintageBeef: 70
+24: ZombieCleo: 64
+24: Zedaph: 28
+24: GeminiTay: 12
+24: Mumbo: 4
+Total 35529

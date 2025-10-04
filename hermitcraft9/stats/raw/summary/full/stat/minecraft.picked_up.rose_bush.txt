@@ -1,0 +1,31 @@
+minecraft.picked_up.rose_bush
+29: Renthedog: 10199
+29: cubfan135: 5872
+29: ZombieCleo: 3671
+29: Grian: 2562
+29: hypnotizd: 2508
+29: Xisuma: 2212
+29: RentheKing: 1822
+29: iJevin: 1603
+29: PearlescentMoon: 1554
+29: GoodTimeWithScar: 1335
+29: Docm77: 1130
+29: Etho: 868
+29: falsesymmetry: 726
+29: Tango: 580
+29: joehillssays: 436
+29: Zedaph: 290
+29: VintageBeef: 278
+29: Stressmonster101: 253
+29: impulseSV: 236
+29: OrionSound: 224
+29: MythicalSausage: 200
+29: GeminiTay: 148
+29: xBCrafted: 140
+29: Mumbo: 107
+29: BdoubleO100: 81
+29: Keralis1: 58
+29: SolidarityGaming: 56
+29: iskall85: 27
+29: Welsknight: 6
+Total 39182

@@ -1,0 +1,4 @@
+minecraft.dropped.popped_chorus_fruit
+2: impulseSV: 128
+2: cubfan135: 20
+Total 148

@@ -1,0 +1,23 @@
+minecraft.picked_up.tripwire_hook
+21: GoodTimeWithScar: 96
+21: cubfan135: 50
+21: Grian: 49
+21: Renthedog: 35
+21: xBCrafted: 29
+21: PearlescentMoon: 22
+21: iJevin: 18
+21: falsesymmetry: 16
+21: impulseSV: 16
+21: Docm77: 15
+21: Xisuma: 15
+21: iskall85: 7
+21: Keralis1: 7
+21: Mumbo: 6
+21: Zedaph: 6
+21: BdoubleO100: 5
+21: ZombieCleo: 5
+21: Tango: 4
+21: VintageBeef: 3
+21: Etho: 2
+21: RentheKing: 1
+Total 407

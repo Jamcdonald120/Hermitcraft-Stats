@@ -1,0 +1,27 @@
+minecraft.picked_up.jungle_log
+25: PearlescentMoon: 8132
+25: GeminiTay: 5059
+25: Etho: 4835
+25: Xisuma: 4600
+25: falsesymmetry: 3834
+25: BdoubleO100: 3533
+25: Keralis1: 2872
+25: Renthedog: 2671
+25: Mumbo: 2096
+25: Skizzleman: 1834
+25: cubfan135: 1754
+25: Smallishbeans: 1568
+25: VintageBeef: 1309
+25: iJevin: 1276
+25: GoodTimeWithScar: 1142
+25: ZombieCleo: 1065
+25: Grian: 934
+25: Docm77: 518
+25: impulseSV: 465
+25: xBCrafted: 290
+25: Zedaph: 263
+25: hypnotizd: 245
+25: Tango: 194
+25: Welsknight: 42
+25: joehillssays: 16
+Total 50547

@@ -1,0 +1,25 @@
+minecraft.dropped.flint_and_steel
+23: Tango: 51
+23: iJevin: 22
+23: falsesymmetry: 17
+23: Grian: 10
+23: iskall85: 9
+23: Keralis1: 9
+23: Etho: 8
+23: Zedaph: 8
+23: GoodTimeWithScar: 5
+23: Renthedog: 4
+23: Xisuma: 3
+23: GeminiTay: 3
+23: hypnotizd: 3
+23: Docm77: 1
+23: MythicalSausage: 1
+23: BdoubleO100: 1
+23: PearlescentMoon: 1
+23: xBCrafted: 1
+23: cubfan135: 1
+23: ZombieCleo: 1
+23: Mumbo: 1
+23: Stressmonster101: 1
+23: ShubbleYT: 1
+Total 162

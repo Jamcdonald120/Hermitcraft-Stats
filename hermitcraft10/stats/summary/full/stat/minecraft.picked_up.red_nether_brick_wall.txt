@@ -1,0 +1,11 @@
+minecraft.picked_up.red_nether_brick_wall
+9: impulseSV: 94
+9: Zedaph: 40
+9: GoodTimeWithScar: 19
+9: Smallishbeans: 11
+9: Tango: 3
+9: Xisuma: 2
+9: GeminiTay: 1
+9: falsesymmetry: 1
+9: Keralis1: 1
+Total 172

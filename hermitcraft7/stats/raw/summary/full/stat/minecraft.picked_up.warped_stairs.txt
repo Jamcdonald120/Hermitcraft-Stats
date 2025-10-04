@@ -1,0 +1,21 @@
+minecraft.picked_up.warped_stairs
+19: Grian: 181
+19: Etho: 146
+19: Stressmonster101: 81
+19: Xisuma: 60
+19: iskall85: 54
+19: Tango: 51
+19: joehillssays: 42
+19: xBCrafted: 38
+19: GoodTimeWithScar: 35
+19: cubfan135: 20
+19: MumboJumbo: 17
+19: Zedaph: 16
+19: impulseSV: 14
+19: ZombieCleo: 13
+19: BdoubleO100: 7
+19: falsesymmetry: 5
+19: Welsknight: 4
+19: Renthedog: 1
+19: Keralis1: 1
+Total 786

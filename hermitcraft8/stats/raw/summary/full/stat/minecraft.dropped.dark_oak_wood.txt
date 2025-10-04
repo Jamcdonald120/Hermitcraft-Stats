@@ -1,0 +1,6 @@
+minecraft.dropped.dark_oak_wood
+4: GeminiTay: 64
+4: falsesymmetry: 64
+4: Tango: 48
+4: impulseSV: 2
+Total 178

@@ -1,0 +1,27 @@
+minecraft.picked_up.iron_leggings
+25: Grian: 42
+25: falsesymmetry: 36
+25: GoodTimeWithScar: 29
+25: iskall85: 24
+25: PythonGB: 23
+25: Tango: 21
+25: iJevin: 20
+25: cubfan135: 19
+25: ZombieCleo: 14
+25: Docm77: 13
+25: joehillssays: 12
+25: Renthedog: 10
+25: Stressmonster101: 7
+25: Xisuma: 6
+25: impulseSV: 6
+25: Keralis1: 5
+25: BdoubleO100: 4
+25: MumboJumbo: 4
+25: Biffa2001: 2
+25: Zedaph: 2
+25: PokePugx: 1
+25: Cub_Cam: 1
+25: xBCrafted: 1
+25: Cojomax99: 1
+25: PhoenixfireLune: 1
+Total 304

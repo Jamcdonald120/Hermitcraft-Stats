@@ -1,0 +1,8 @@
+minecraft.dropped.orange_stained_glass
+6: impulseSV: 64
+6: Renthedog: 49
+6: Zedaph: 48
+6: falsesymmetry: 42
+6: Tango: 40
+6: Xisuma: 1
+Total 244

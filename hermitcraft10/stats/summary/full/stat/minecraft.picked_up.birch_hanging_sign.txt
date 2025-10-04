@@ -1,0 +1,11 @@
+minecraft.picked_up.birch_hanging_sign
+9: Mumbo: 16
+9: GoodTimeWithScar: 16
+9: BdoubleO100: 15
+9: Grian: 9
+9: Xisuma: 3
+9: joehillssays: 3
+9: GeminiTay: 3
+9: falsesymmetry: 3
+9: Tango: 1
+Total 69

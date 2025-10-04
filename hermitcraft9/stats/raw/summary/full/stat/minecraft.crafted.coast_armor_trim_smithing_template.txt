@@ -1,0 +1,7 @@
+minecraft.crafted.coast_armor_trim_smithing_template
+5: iJevin: 8
+5: impulseSV: 4
+5: Docm77: 2
+5: falsesymmetry: 2
+5: GoodTimeWithScar: 2
+Total 18

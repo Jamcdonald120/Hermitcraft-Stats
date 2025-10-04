@@ -1,0 +1,28 @@
+minecraft.picked_up.bow
+26: Etho: 978
+26: Xisuma: 709
+26: iskall85: 620
+26: xBCrafted: 591
+26: hypnotizd: 570
+26: Grian: 564
+26: impulseSV: 460
+26: cubfan135: 315
+26: Zedaph: 285
+26: Stressmonster101: 269
+26: joehillssays: 257
+26: Renthedog: 226
+26: GoodTimeWithScar: 192
+26: VintageBeef: 142
+26: Tango: 137
+26: Keralis1: 135
+26: MumboJumbo: 102
+26: iJevin: 85
+26: BdoubleO100: 84
+26: falsesymmetry: 50
+26: Welsknight: 35
+26: ZombieCleo: 35
+26: Docm77: 20
+26: Tinfoilchef: 4
+26: BarryBoss1234: 1
+26: HermitcraftAlt: 1
+Total 6867

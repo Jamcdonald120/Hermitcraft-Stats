@@ -1,0 +1,11 @@
+minecraft.picked_up.tipped_arrow
+9: iJevin: 269
+9: Welsknight: 112
+9: falsesymmetry: 96
+9: MumboJumbo: 64
+9: Xisuma: 16
+9: Stressmonster101: 6
+9: iskall85: 2
+9: cubfan135: 2
+9: Zedaph: 1
+Total 568

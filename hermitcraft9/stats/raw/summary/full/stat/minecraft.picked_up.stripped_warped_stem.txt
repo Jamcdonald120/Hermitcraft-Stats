@@ -1,0 +1,28 @@
+minecraft.picked_up.stripped_warped_stem
+26: Tango: 10106
+26: impulseSV: 2553
+26: falsesymmetry: 2255
+26: Docm77: 1137
+26: BdoubleO100: 744
+26: ZombieCleo: 188
+26: GoodTimeWithScar: 178
+26: PearlescentMoon: 148
+26: Keralis1: 80
+26: Xisuma: 67
+26: xBCrafted: 64
+26: Mumbo: 47
+26: Smajor1995: 38
+26: cubfan135: 24
+26: OrionSound: 23
+26: Pixlriffs: 16
+26: hypnotizd: 8
+26: Zedaph: 7
+26: Grian: 6
+26: Etho: 5
+26: STEAKFG: 4
+26: Stressmonster101: 4
+26: iJevin: 3
+26: MythicalSausage: 3
+26: SolidarityGaming: 3
+26: GeminiTay: 1
+Total 17712

@@ -1,0 +1,27 @@
+minecraft.crafted.torch
+25: cubfan135: 35417
+25: Etho: 21696
+25: GoodTimeWithScar: 19900
+25: iskall85: 15687
+25: Renthedog: 14824
+25: Grian: 14591
+25: Docm77: 12685
+25: xBCrafted: 12544
+25: Xisuma: 12170
+25: Welsknight: 11244
+25: hypnotizd: 10952
+25: MumboJumbo: 10589
+25: Keralis1: 10459
+25: Tango: 10059
+25: joehillssays: 9268
+25: iJevin: 8128
+25: Stressmonster101: 7002
+25: BdoubleO100: 6764
+25: falsesymmetry: 6682
+25: impulseSV: 6676
+25: Tinfoilchef: 5776
+25: VintageBeef: 5280
+25: Zedaph: 4356
+25: ZombieCleo: 2365
+25: Helsknight: 104
+Total 275218

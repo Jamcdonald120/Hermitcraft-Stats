@@ -1,0 +1,27 @@
+minecraft.picked_up.white_dye
+25: Grian: 981
+25: PearlescentMoon: 520
+25: GoodTimeWithScar: 507
+25: Tango: 372
+25: falsesymmetry: 366
+25: iJevin: 248
+25: cubfan135: 217
+25: impulseSV: 196
+25: ZombieCleo: 186
+25: Zedaph: 171
+25: Renthedog: 159
+25: Keralis1: 120
+25: Smallishbeans: 112
+25: VintageBeef: 59
+25: Docm77: 47
+25: BdoubleO100: 43
+25: joehillssays: 32
+25: hypnotizd: 32
+25: iskall85: 17
+25: RentheKing: 8
+25: xBCrafted: 7
+25: Stressmonster101: 4
+25: Xisuma: 3
+25: GeminiTay: 3
+25: Mumbo: 3
+Total 4413

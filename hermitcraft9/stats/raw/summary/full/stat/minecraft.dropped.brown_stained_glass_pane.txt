@@ -1,0 +1,4 @@
+minecraft.dropped.brown_stained_glass_pane
+2: falsesymmetry: 79
+2: Zedaph: 35
+Total 114

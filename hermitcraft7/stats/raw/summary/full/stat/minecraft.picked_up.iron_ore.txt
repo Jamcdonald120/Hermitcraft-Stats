@@ -1,0 +1,26 @@
+minecraft.picked_up.iron_ore
+24: GoodTimeWithScar: 16011
+24: Etho: 8309
+24: falsesymmetry: 7277
+24: Grian: 7184
+24: iJevin: 6696
+24: cubfan135: 5982
+24: Zedaph: 5441
+24: Xisuma: 4157
+24: iskall85: 4051
+24: impulseSV: 3874
+24: Welsknight: 3721
+24: Tango: 3342
+24: Keralis1: 3264
+24: ZombieCleo: 3255
+24: Renthedog: 3233
+24: VintageBeef: 2771
+24: Stressmonster101: 2711
+24: Tinfoilchef: 2617
+24: joehillssays: 2416
+24: BdoubleO100: 2288
+24: MumboJumbo: 2241
+24: hypnotizd: 2203
+24: Docm77: 1993
+24: xBCrafted: 1451
+Total 106488

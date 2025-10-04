@@ -1,0 +1,23 @@
+minecraft.crafted.jungle_stairs
+21: PearlescentMoon: 740
+21: Keralis1: 680
+21: Xisuma: 428
+21: Smallishbeans: 268
+21: falsesymmetry: 184
+21: Etho: 176
+21: GeminiTay: 144
+21: cubfan135: 132
+21: GoodTimeWithScar: 108
+21: Mumbo: 56
+21: Tango: 40
+21: impulseSV: 40
+21: Grian: 24
+21: ZombieCleo: 20
+21: Zedaph: 20
+21: Docm77: 16
+21: VintageBeef: 16
+21: BdoubleO100: 12
+21: iJevin: 4
+21: Welsknight: 4
+21: hypnotizd: 4
+Total 3116

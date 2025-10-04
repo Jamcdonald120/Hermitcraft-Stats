@@ -1,0 +1,4 @@
+minecraft.crafted.waxed_weathered_copper
+2: Renthedog: 157
+2: impulseSV: 15
+Total 172

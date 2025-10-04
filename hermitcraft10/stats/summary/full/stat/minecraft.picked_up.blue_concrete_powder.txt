@@ -1,0 +1,10 @@
+minecraft.picked_up.blue_concrete_powder
+8: falsesymmetry: 760
+8: ZombieCleo: 128
+8: cubfan135: 15
+8: Etho: 11
+8: GoodTimeWithScar: 10
+8: Docm77: 4
+8: GeminiTay: 2
+8: joehillssays: 1
+Total 931

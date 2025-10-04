@@ -1,0 +1,24 @@
+minecraft.crafted.jungle_slab
+22: PearlescentMoon: 1714
+22: GoodTimeWithScar: 1356
+22: Xisuma: 918
+22: GeminiTay: 876
+22: Etho: 820
+22: Keralis1: 816
+22: falsesymmetry: 564
+22: iJevin: 354
+22: Renthedog: 300
+22: BdoubleO100: 264
+22: impulseSV: 252
+22: Smallishbeans: 204
+22: cubfan135: 174
+22: ZombieCleo: 144
+22: Grian: 72
+22: Mumbo: 33
+22: Docm77: 30
+22: Tango: 18
+22: Zedaph: 12
+22: VintageBeef: 6
+22: Skizzleman: 6
+22: hypnotizd: 6
+Total 8939

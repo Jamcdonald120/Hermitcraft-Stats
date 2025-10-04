@@ -1,0 +1,14 @@
+minecraft.crafted.white_terracotta
+12: BdoubleO100: 296
+12: GoodTimeWithScar: 256
+12: falsesymmetry: 192
+12: Grian: 168
+12: impulseSV: 128
+12: PearlescentMoon: 104
+12: MumboJumbo: 104
+12: Renthedog: 48
+12: joehillssays: 32
+12: Zedaph: 9
+12: Welsknight: 8
+12: ZombieCleo: 8
+Total 1353

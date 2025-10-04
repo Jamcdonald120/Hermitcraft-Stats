@@ -1,0 +1,22 @@
+minecraft.dropped.iron_axe
+20: hypnotizd: 412
+20: cubfan135: 254
+20: Tango: 94
+20: Etho: 21
+20: iJevin: 16
+20: Renthedog: 12
+20: Keralis1: 12
+20: GoodTimeWithScar: 7
+20: Grian: 6
+20: Xisuma: 4
+20: Skizzleman: 3
+20: impulseSV: 3
+20: Docm77: 2
+20: VintageBeef: 2
+20: GeminiTay: 2
+20: PearlescentMoon: 2
+20: xBCrafted: 2
+20: Smallishbeans: 1
+20: BdoubleO100: 1
+20: Mumbo: 1
+Total 857

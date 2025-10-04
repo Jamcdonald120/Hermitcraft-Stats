@@ -1,0 +1,22 @@
+minecraft.picked_up.chipped_anvil
+20: impulseSV: 18
+20: Renthedog: 17
+20: cubfan135: 17
+20: Docm77: 11
+20: Xisuma: 10
+20: Tango: 9
+20: iJevin: 8
+20: GoodTimeWithScar: 7
+20: Keralis1: 6
+20: Zedaph: 6
+20: falsesymmetry: 5
+20: joehillssays: 3
+20: Grian: 2
+20: ZombieCleo: 2
+20: MumboJumbo: 2
+20: EvilXisuma: 1
+20: BdoubleO100: 1
+20: xBCrafted: 1
+20: Welsknight: 1
+20: hypnotizd: 1
+Total 128

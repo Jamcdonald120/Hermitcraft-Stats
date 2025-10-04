@@ -1,0 +1,21 @@
+minecraft.crafted.leather_boots
+19: ZombieCleo: 262
+19: cubfan135: 74
+19: Xisuma: 73
+19: Etho: 62
+19: GoodTimeWithScar: 54
+19: Keralis1: 45
+19: hypnotizd: 29
+19: falsesymmetry: 27
+19: Tango: 19
+19: Renthedog: 18
+19: VintageBeef: 17
+19: joehillssays: 11
+19: xBCrafted: 9
+19: Zedaph: 8
+19: BdoubleO100: 6
+19: iskall85: 4
+19: Stressmonster101: 2
+19: impulseSV: 2
+19: iJevin: 1
+Total 723

@@ -1,0 +1,27 @@
+minecraft.dropped.string
+25: Tango: 1410
+25: Grian: 1008
+25: iJevin: 495
+25: impulseSV: 315
+25: hypnotizd: 268
+25: Docm77: 240
+25: Keralis1: 184
+25: Welsknight: 175
+25: cubfan135: 173
+25: BdoubleO100: 139
+25: GoodTimeWithScar: 134
+25: falsesymmetry: 94
+25: xBCrafted: 83
+25: PearlescentMoon: 71
+25: Renthedog: 69
+25: ZombieCleo: 54
+25: joehillssays: 39
+25: Etho: 36
+25: iskall85: 25
+25: Xisuma: 11
+25: VintageBeef: 11
+25: EvilXisuma: 9
+25: GeminiTay: 7
+25: MumboJumbo: 5
+25: Stressmonster101: 2
+Total 5057

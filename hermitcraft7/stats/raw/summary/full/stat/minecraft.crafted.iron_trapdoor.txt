@@ -1,0 +1,24 @@
+minecraft.crafted.iron_trapdoor
+22: Tango: 8493
+22: impulseSV: 4041
+22: Keralis1: 3327
+22: GoodTimeWithScar: 3235
+22: Xisuma: 2912
+22: Renthedog: 1510
+22: xBCrafted: 1219
+22: cubfan135: 1186
+22: iskall85: 1085
+22: hypnotizd: 607
+22: falsesymmetry: 356
+22: VintageBeef: 344
+22: Grian: 203
+22: Docm77: 178
+22: iJevin: 142
+22: MumboJumbo: 106
+22: Etho: 95
+22: joehillssays: 86
+22: Stressmonster101: 86
+22: BdoubleO100: 24
+22: Zedaph: 22
+22: ZombieCleo: 1
+Total 29258

@@ -1,0 +1,4 @@
+minecraft.picked_up.weathered_copper_door
+2: Keralis1: 29
+2: Xisuma: 1
+Total 30

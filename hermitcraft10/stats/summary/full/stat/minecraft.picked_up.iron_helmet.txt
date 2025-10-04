@@ -1,0 +1,26 @@
+minecraft.picked_up.iron_helmet
+24: Zedaph: 25
+24: Skizzleman: 24
+24: iJevin: 21
+24: joehillssays: 15
+24: GoodTimeWithScar: 12
+24: Docm77: 11
+24: cubfan135: 11
+24: VintageBeef: 7
+24: Renthedog: 6
+24: Xisuma: 5
+24: Grian: 4
+24: impulseSV: 4
+24: GeminiTay: 3
+24: Tango: 3
+24: Welsknight: 3
+24: Etho: 3
+24: Mumbo: 3
+24: hypnotizd: 3
+24: Smallishbeans: 2
+24: BdoubleO100: 2
+24: falsesymmetry: 2
+24: ZombieCleo: 2
+24: Keralis1: 2
+24: PearlescentMoon: 1
+Total 174

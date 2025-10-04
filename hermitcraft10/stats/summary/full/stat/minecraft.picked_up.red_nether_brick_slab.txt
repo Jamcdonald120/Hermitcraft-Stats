@@ -1,0 +1,5 @@
+minecraft.picked_up.red_nether_brick_slab
+3: Tango: 11
+3: GoodTimeWithScar: 9
+3: Xisuma: 3
+Total 23

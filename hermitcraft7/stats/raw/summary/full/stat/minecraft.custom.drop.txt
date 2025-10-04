@@ -1,0 +1,31 @@
+minecraft.custom.drop
+29: cubfan135: 34681
+29: Zedaph: 23811
+29: Tango: 22668
+29: GoodTimeWithScar: 22353
+29: Grian: 20317
+29: Etho: 18072
+29: iskall85: 17391
+29: Keralis1: 14221
+29: Xisuma: 13030
+29: iJevin: 12798
+29: xBCrafted: 11076
+29: hypnotizd: 10956
+29: Renthedog: 8339
+29: impulseSV: 8231
+29: falsesymmetry: 6501
+29: MumboJumbo: 6387
+29: VintageBeef: 5371
+29: Stressmonster101: 4314
+29: BdoubleO100: 4138
+29: Docm77: 3997
+29: joehillssays: 2481
+29: Welsknight: 1676
+29: ZombieCleo: 893
+29: BarryBoss1234: 70
+29: Tinfoilchef: 45
+29: xisumavoid: 14
+29: Mumbo: 5
+29: isGall85: 1
+29: Helsknight: 1
+Total 273838

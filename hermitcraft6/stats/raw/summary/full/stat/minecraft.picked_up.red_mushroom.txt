@@ -1,0 +1,24 @@
+minecraft.picked_up.red_mushroom
+22: falsesymmetry: 807
+22: Renthedog: 529
+22: iJevin: 480
+22: iskall85: 401
+22: cubfan135: 188
+22: Docm77: 165
+22: MumboJumbo: 143
+22: Grian: 97
+22: joehillssays: 96
+22: Stressmonster101: 59
+22: GoodTimeWithScar: 52
+22: Xisuma: 35
+22: Welsknight: 29
+22: Biffa2001: 18
+22: Tinfoilchef: 15
+22: PythonGB: 13
+22: ZombieCleo: 12
+22: HumanCleo: 7
+22: BdoubleO100: 7
+22: Tango: 3
+22: impulseSV: 3
+22: xBCrafted: 1
+Total 3160

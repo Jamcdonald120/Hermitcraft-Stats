@@ -1,0 +1,25 @@
+minecraft.picked_up.quartz_bricks
+23: Zedaph: 251
+23: cubfan135: 131
+23: Renthedog: 64
+23: iJevin: 57
+23: Grian: 42
+23: Tango: 38
+23: Xisuma: 30
+23: PearlescentMoon: 25
+23: xBCrafted: 6
+23: joehillssays: 5
+23: VintageBeef: 4
+23: impulseSV: 4
+23: BdoubleO100: 3
+23: Etho: 3
+23: Docm77: 2
+23: GeminiTay: 2
+23: iskall85: 2
+23: falsesymmetry: 2
+23: Welsknight: 2
+23: ZombieCleo: 2
+23: hypnotizd: 2
+23: Tinfoilchef: 2
+23: Keralis1: 2
+Total 681

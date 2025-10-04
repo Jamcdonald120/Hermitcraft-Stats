@@ -1,0 +1,21 @@
+minecraft.dropped.red_dye
+19: iJevin: 364
+19: GoodTimeWithScar: 148
+19: Grian: 89
+19: Keralis1: 76
+19: PearlescentMoon: 64
+19: Zedaph: 52
+19: VintageBeef: 48
+19: BdoubleO100: 45
+19: Tango: 42
+19: GeminiTay: 16
+19: falsesymmetry: 6
+19: Docm77: 5
+19: ZombieCleo: 4
+19: RentheKing: 4
+19: MythicalSausage: 1
+19: joehillssays: 1
+19: Smallishbeans: 1
+19: xBCrafted: 1
+19: Etho: 1
+Total 968

@@ -1,0 +1,10 @@
+minecraft.used.red_nether_bricks
+8: PearlescentMoon: 329
+8: Tango: 260
+8: EvilXisuma: 99
+8: ZombieCleo: 21
+8: GoodTimeWithScar: 13
+8: Xisuma: 5
+8: Grian: 3
+8: impulseSV: 1
+Total 731

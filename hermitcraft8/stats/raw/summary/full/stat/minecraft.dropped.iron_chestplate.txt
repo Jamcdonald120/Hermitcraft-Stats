@@ -1,0 +1,21 @@
+minecraft.dropped.iron_chestplate
+19: Tango: 13
+19: Xisuma: 8
+19: Etho: 6
+19: Keralis1: 5
+19: iJevin: 4
+19: BdoubleO100: 4
+19: iskall85: 4
+19: GeminiTay: 3
+19: Grian: 3
+19: ZombieCleo: 3
+19: Renthedog: 2
+19: joehillssays: 2
+19: hypnotizd: 2
+19: Zedaph: 2
+19: Docm77: 1
+19: PearlescentMoon: 1
+19: falsesymmetry: 1
+19: cubfan135: 1
+19: GoodTimeWithScar: 1
+Total 66

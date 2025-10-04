@@ -1,0 +1,30 @@
+minecraft.used.black_shulker_box
+28: PearlescentMoon: 978
+28: Tango: 842
+28: joehillssays: 630
+28: GoodTimeWithScar: 554
+28: Xisuma: 384
+28: VintageBeef: 322
+28: xBCrafted: 229
+28: hypnotizd: 205
+28: BdoubleO100: 202
+28: Renthedog: 200
+28: Etho: 148
+28: Zedaph: 114
+28: falsesymmetry: 94
+28: Docm77: 67
+28: impulseSV: 65
+28: MythicalSausage: 62
+28: RentheKing: 61
+28: Grian: 46
+28: cubfan135: 34
+28: Keralis1: 24
+28: iJevin: 15
+28: GeminiTay: 14
+28: Mumbo: 14
+28: Stressmonster101: 13
+28: iskall85: 10
+28: Pixlriffs: 4
+28: ZombieCleo: 2
+28: Welsknight: 1
+Total 5334

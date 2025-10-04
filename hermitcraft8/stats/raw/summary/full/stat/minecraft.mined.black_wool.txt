@@ -1,0 +1,16 @@
+minecraft.mined.black_wool
+14: falsesymmetry: 80
+14: BdoubleO100: 70
+14: Grian: 53
+14: MumboJumbo: 51
+14: PearlescentMoon: 45
+14: xBCrafted: 36
+14: GoodTimeWithScar: 26
+14: Docm77: 13
+14: GeminiTay: 12
+14: Renthedog: 6
+14: Tango: 4
+14: impulseSV: 4
+14: Zedaph: 2
+14: hypnotizd: 1
+Total 403

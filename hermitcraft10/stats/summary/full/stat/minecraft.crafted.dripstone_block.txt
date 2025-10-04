@@ -1,0 +1,12 @@
+minecraft.crafted.dripstone_block
+10: Renthedog: 508
+10: joehillssays: 381
+10: falsesymmetry: 320
+10: hypnotizd: 160
+10: Etho: 128
+10: Zedaph: 98
+10: impulseSV: 96
+10: BdoubleO100: 70
+10: Smallishbeans: 69
+10: ZombieCleo: 64
+Total 1894

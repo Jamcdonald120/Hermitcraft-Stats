@@ -1,0 +1,27 @@
+minecraft.dropped.green_dye
+25: impulseSV: 2540
+25: Skizzleman: 328
+25: Grian: 194
+25: InTheLittleWood: 192
+25: Keralis1: 139
+25: Zedaph: 88
+25: PearlescentMoon: 83
+25: GeminiTay: 68
+25: BdoubleO100: 26
+25: iJevin: 24
+25: GoodTimeWithScar: 22
+25: Etho: 20
+25: cubfan135: 16
+25: Smallishbeans: 12
+25: ZombieCleo: 12
+25: Docm77: 10
+25: Mumbo: 8
+25: Xisuma: 7
+25: falsesymmetry: 6
+25: Tango: 4
+25: Renthedog: 3
+25: OrionSound: 2
+25: MythicalSausage: 1
+25: joehillssays: 1
+25: jojosolos: 1
+Total 3807

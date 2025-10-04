@@ -1,0 +1,30 @@
+minecraft.custom.inspect_hopper
+28: Xisuma: 7240
+28: Tango: 5867
+28: Etho: 5696
+28: cubfan135: 4526
+28: joehillssays: 4226
+28: iskall85: 3365
+28: Renthedog: 3272
+28: impulseSV: 2945
+28: GoodTimeWithScar: 2610
+28: Grian: 2559
+28: Keralis1: 2508
+28: MumboJumbo: 2425
+28: xBCrafted: 2250
+28: Zedaph: 1908
+28: hypnotizd: 1652
+28: iJevin: 1570
+28: BdoubleO100: 1233
+28: Stressmonster101: 1112
+28: Welsknight: 581
+28: VintageBeef: 404
+28: falsesymmetry: 363
+28: Tinfoilchef: 350
+28: ZombieCleo: 345
+28: Docm77: 279
+28: xisumavoid: 15
+28: Helsknight: 4
+28: BarryBoss1234: 1
+28: Mumbo: 1
+Total 59307

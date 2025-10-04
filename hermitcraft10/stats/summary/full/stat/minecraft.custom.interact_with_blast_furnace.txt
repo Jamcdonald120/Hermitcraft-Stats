@@ -1,0 +1,31 @@
+minecraft.custom.interact_with_blast_furnace
+29: GoodTimeWithScar: 953
+29: BdoubleO100: 651
+29: cubfan135: 525
+29: Tango: 505
+29: Smallishbeans: 363
+29: PearlescentMoon: 266
+29: xBCrafted: 243
+29: ZombieCleo: 225
+29: Etho: 187
+29: iJevin: 173
+29: Renthedog: 132
+29: impulseSV: 130
+29: Keralis1: 118
+29: hypnotizd: 80
+29: joehillssays: 60
+29: Docm77: 57
+29: falsesymmetry: 46
+29: Skizzleman: 29
+29: GeminiTay: 27
+29: Xisuma: 24
+29: Grian: 12
+29: VintageBeef: 11
+29: Mumbo: 10
+29: Zedaph: 8
+29: Welsknight: 4
+29: Couriway: 2
+29: Eyjoy27: 2
+29: belmarzi: 1
+29: jojosolos: 1
+Total 4845

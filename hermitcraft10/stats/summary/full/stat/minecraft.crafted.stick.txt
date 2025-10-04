@@ -1,0 +1,29 @@
+minecraft.crafted.stick
+27: hypnotizd: 83600
+27: GoodTimeWithScar: 39267
+27: Etho: 30625
+27: iJevin: 27069
+27: Tango: 26825
+27: Docm77: 25148
+27: Keralis1: 24705
+27: impulseSV: 22074
+27: Mumbo: 17433
+27: cubfan135: 16316
+27: PearlescentMoon: 15800
+27: Xisuma: 14526
+27: Grian: 13394
+27: Smallishbeans: 12807
+27: ZombieCleo: 12109
+27: joehillssays: 11430
+27: Renthedog: 10988
+27: Skizzleman: 10769
+27: falsesymmetry: 9528
+27: BdoubleO100: 7993
+27: xBCrafted: 6803
+27: VintageBeef: 6420
+27: Zedaph: 4634
+27: GeminiTay: 2984
+27: Welsknight: 2408
+27: SolidarityGaming: 20
+27: InTheLittleWood: 4
+Total 455679

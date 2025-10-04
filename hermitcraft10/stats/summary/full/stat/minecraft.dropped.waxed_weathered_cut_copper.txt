@@ -1,0 +1,5 @@
+minecraft.dropped.waxed_weathered_cut_copper
+3: impulseSV: 29
+3: falsesymmetry: 6
+3: Etho: 3
+Total 38

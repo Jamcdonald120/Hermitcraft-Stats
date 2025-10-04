@@ -1,0 +1,8 @@
+minecraft.crafted.sandstone_stairs
+6: iJevin: 185
+6: ZombieCleo: 176
+6: joehillssays: 56
+6: GeminiTay: 44
+6: MumboJumbo: 32
+6: Etho: 18
+Total 511

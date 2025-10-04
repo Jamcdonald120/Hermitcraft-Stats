@@ -1,0 +1,12 @@
+minecraft.crafted.cyan_glazed_terracotta
+10: Renthedog: 120
+10: Smallishbeans: 55
+10: Mumbo: 52
+10: Keralis1: 48
+10: Grian: 36
+10: BdoubleO100: 32
+10: impulseSV: 7
+10: VintageBeef: 2
+10: Xisuma: 1
+10: GoodTimeWithScar: 1
+Total 354

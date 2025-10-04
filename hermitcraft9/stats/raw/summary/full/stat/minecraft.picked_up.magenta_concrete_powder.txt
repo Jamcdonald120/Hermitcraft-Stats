@@ -1,0 +1,10 @@
+minecraft.picked_up.magenta_concrete_powder
+8: falsesymmetry: 220
+8: PearlescentMoon: 184
+8: joehillssays: 68
+8: GoodTimeWithScar: 35
+8: Grian: 23
+8: Zedaph: 6
+8: Etho: 4
+8: VintageBeef: 3
+Total 543

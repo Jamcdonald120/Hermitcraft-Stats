@@ -1,0 +1,21 @@
+minecraft.crafted.nether_bricks
+19: falsesymmetry: 3507
+19: Renthedog: 2838
+19: Etho: 2136
+19: GoodTimeWithScar: 1587
+19: Welsknight: 1346
+19: Xisuma: 728
+19: PearlescentMoon: 669
+19: GeminiTay: 224
+19: cubfan135: 188
+19: impulseSV: 140
+19: joehillssays: 66
+19: xBCrafted: 64
+19: Docm77: 45
+19: Tango: 43
+19: Mumbo: 31
+19: hypnotizd: 16
+19: Keralis1: 16
+19: Grian: 5
+19: iJevin: 4
+Total 13653

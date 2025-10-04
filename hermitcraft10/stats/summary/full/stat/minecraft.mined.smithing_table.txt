@@ -1,0 +1,25 @@
+minecraft.mined.smithing_table
+23: PearlescentMoon: 96
+23: ZombieCleo: 86
+23: Etho: 82
+23: Tango: 51
+23: iJevin: 38
+23: Xisuma: 27
+23: Keralis1: 16
+23: cubfan135: 15
+23: Welsknight: 15
+23: impulseSV: 14
+23: Docm77: 11
+23: Smallishbeans: 10
+23: GeminiTay: 5
+23: xBCrafted: 5
+23: hypnotizd: 4
+23: GoodTimeWithScar: 4
+23: Renthedog: 3
+23: Grian: 2
+23: BdoubleO100: 2
+23: falsesymmetry: 2
+23: VintageBeef: 1
+23: joehillssays: 1
+23: Skizzleman: 1
+Total 491

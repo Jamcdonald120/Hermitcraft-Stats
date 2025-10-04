@@ -1,0 +1,25 @@
+minecraft.dropped.golden_boots
+23: Xisuma: 87
+23: Zedaph: 32
+23: Grian: 24
+23: ZombieCleo: 24
+23: GoodTimeWithScar: 22
+23: iskall85: 21
+23: cubfan135: 17
+23: impulseSV: 17
+23: Tango: 15
+23: Renthedog: 11
+23: falsesymmetry: 9
+23: Stressmonster101: 7
+23: Docm77: 6
+23: iJevin: 5
+23: PythonGB: 4
+23: MumboJumbo: 4
+23: Keralis1: 3
+23: joehillssays: 2
+23: xBCrafted: 2
+23: BdoubleO100: 1
+23: Welsknight: 1
+23: Biffa2001: 1
+23: Tinfoilchef: 1
+Total 316

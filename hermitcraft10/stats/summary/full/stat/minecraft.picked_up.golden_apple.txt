@@ -1,0 +1,26 @@
+minecraft.picked_up.golden_apple
+24: Renthedog: 159
+24: GoodTimeWithScar: 122
+24: PearlescentMoon: 107
+24: Docm77: 93
+24: Xisuma: 84
+24: iJevin: 84
+24: cubfan135: 48
+24: joehillssays: 33
+24: Grian: 28
+24: Skizzleman: 27
+24: BdoubleO100: 26
+24: Etho: 25
+24: impulseSV: 12
+24: GeminiTay: 11
+24: Tango: 8
+24: Keralis1: 8
+24: xBCrafted: 6
+24: VintageBeef: 4
+24: ZombieCleo: 4
+24: Zedaph: 4
+24: Smallishbeans: 2
+24: falsesymmetry: 1
+24: Welsknight: 1
+24: hypnotizd: 1
+Total 898

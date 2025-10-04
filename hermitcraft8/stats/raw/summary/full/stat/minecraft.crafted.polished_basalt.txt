@@ -1,0 +1,17 @@
+minecraft.crafted.polished_basalt
+15: impulseSV: 4472
+15: GoodTimeWithScar: 2204
+15: Xisuma: 876
+15: cubfan135: 560
+15: iskall85: 424
+15: PearlescentMoon: 420
+15: joehillssays: 412
+15: Keralis1: 328
+15: ZombieCleo: 264
+15: Tango: 236
+15: GeminiTay: 220
+15: BdoubleO100: 98
+15: xBCrafted: 72
+15: Zedaph: 72
+15: MumboJumbo: 4
+Total 10662

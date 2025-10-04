@@ -1,0 +1,29 @@
+minecraft.picked_up.rotten_flesh
+27: Tango: 26523
+27: Xisuma: 15381
+27: iJevin: 7708
+27: Etho: 6805
+27: Docm77: 6722
+27: GoodTimeWithScar: 6499
+27: cubfan135: 5064
+27: Grian: 4087
+27: impulseSV: 2298
+27: PearlescentMoon: 1883
+27: hypnotizd: 1682
+27: iskall85: 1065
+27: xBCrafted: 871
+27: Keralis1: 848
+27: Renthedog: 727
+27: VintageBeef: 659
+27: Welsknight: 582
+27: joehillssays: 554
+27: falsesymmetry: 437
+27: BdoubleO100: 352
+27: ZombieCleo: 273
+27: GeminiTay: 254
+27: Zedaph: 225
+27: MumboJumbo: 63
+27: Stressmonster101: 42
+27: Tinfoilchef: 17
+27: pillbugnine: 1
+Total 91622

@@ -1,0 +1,27 @@
+minecraft.picked_up.glow_lichen
+25: falsesymmetry: 22056
+25: Xisuma: 7647
+25: Renthedog: 7038
+25: Grian: 3613
+25: iJevin: 2303
+25: Docm77: 2267
+25: GoodTimeWithScar: 1857
+25: joehillssays: 1791
+25: Etho: 978
+25: Tango: 927
+25: PearlescentMoon: 851
+25: Skizzleman: 734
+25: impulseSV: 718
+25: cubfan135: 709
+25: xBCrafted: 399
+25: Keralis1: 338
+25: ZombieCleo: 245
+25: BdoubleO100: 162
+25: VintageBeef: 150
+25: Smallishbeans: 118
+25: Welsknight: 85
+25: Mumbo: 82
+25: GeminiTay: 77
+25: Zedaph: 57
+25: hypnotizd: 36
+Total 55238

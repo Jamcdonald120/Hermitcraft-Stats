@@ -1,0 +1,26 @@
+minecraft.picked_up.chest
+24: Grian: 3118
+24: iJevin: 2934
+24: cubfan135: 2690
+24: Tango: 1980
+24: GoodTimeWithScar: 1738
+24: MumboJumbo: 1726
+24: falsesymmetry: 1674
+24: iskall85: 1411
+24: Zedaph: 1409
+24: Xisuma: 1255
+24: impulseSV: 1146
+24: Etho: 1059
+24: Renthedog: 811
+24: hypnotizd: 743
+24: joehillssays: 585
+24: xBCrafted: 463
+24: Stressmonster101: 450
+24: Welsknight: 427
+24: Keralis1: 334
+24: VintageBeef: 328
+24: ZombieCleo: 291
+24: BdoubleO100: 245
+24: Tinfoilchef: 146
+24: Docm77: 40
+Total 27003

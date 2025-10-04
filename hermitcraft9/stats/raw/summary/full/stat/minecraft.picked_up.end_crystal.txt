@@ -1,0 +1,5 @@
+minecraft.picked_up.end_crystal
+3: cubfan135: 12
+3: Grian: 7
+3: PearlescentMoon: 6
+Total 25

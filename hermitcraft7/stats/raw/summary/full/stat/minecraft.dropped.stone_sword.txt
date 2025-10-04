@@ -1,0 +1,23 @@
+minecraft.dropped.stone_sword
+21: Etho: 900
+21: xBCrafted: 263
+21: iJevin: 131
+21: impulseSV: 128
+21: Keralis1: 66
+21: Tango: 40
+21: hypnotizd: 32
+21: iskall85: 22
+21: cubfan135: 17
+21: Grian: 12
+21: falsesymmetry: 12
+21: ZombieCleo: 10
+21: MumboJumbo: 9
+21: GoodTimeWithScar: 8
+21: Xisuma: 6
+21: VintageBeef: 4
+21: Zedaph: 4
+21: joehillssays: 1
+21: BdoubleO100: 1
+21: Tinfoilchef: 1
+21: Stressmonster101: 1
+Total 1668

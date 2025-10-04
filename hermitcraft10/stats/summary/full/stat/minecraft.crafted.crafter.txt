@@ -1,0 +1,25 @@
+minecraft.crafted.crafter
+23: Etho: 849
+23: Tango: 499
+23: Xisuma: 351
+23: Docm77: 249
+23: GoodTimeWithScar: 181
+23: impulseSV: 163
+23: hypnotizd: 95
+23: Renthedog: 92
+23: Mumbo: 73
+23: cubfan135: 58
+23: PearlescentMoon: 34
+23: ZombieCleo: 30
+23: Keralis1: 26
+23: BdoubleO100: 25
+23: Grian: 16
+23: xBCrafted: 16
+23: GeminiTay: 9
+23: falsesymmetry: 7
+23: iJevin: 6
+23: Zedaph: 5
+23: Smallishbeans: 4
+23: Skizzleman: 3
+23: Welsknight: 1
+Total 2792

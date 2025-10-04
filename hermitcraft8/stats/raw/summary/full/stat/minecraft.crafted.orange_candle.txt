@@ -1,0 +1,5 @@
+minecraft.crafted.orange_candle
+3: ZombieCleo: 132
+3: PearlescentMoon: 13
+3: Tango: 2
+Total 147

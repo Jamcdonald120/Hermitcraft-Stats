@@ -1,0 +1,19 @@
+minecraft.mined.chorus_plant
+17: impulseSV: 3123
+17: Tango: 258
+17: Grian: 210
+17: falsesymmetry: 121
+17: Etho: 88
+17: GoodTimeWithScar: 85
+17: Xisuma: 41
+17: joehillssays: 37
+17: cubfan135: 36
+17: iJevin: 21
+17: Docm77: 19
+17: xBCrafted: 15
+17: VintageBeef: 12
+17: Zedaph: 4
+17: ZombieCleo: 3
+17: Keralis1: 3
+17: MumboJumbo: 1
+Total 4077

@@ -1,0 +1,25 @@
+minecraft.picked_up.carrot
+23: Renthedog: 30382
+23: Grian: 27971
+23: Tinfoilchef: 22932
+23: impulseSV: 19289
+23: cubfan135: 18106
+23: iskall85: 14034
+23: Docm77: 7544
+23: iJevin: 5086
+23: GoodTimeWithScar: 4149
+23: Biffa2001: 4024
+23: joehillssays: 3815
+23: MumboJumbo: 2223
+23: ZombieCleo: 906
+23: Stressmonster101: 899
+23: BdoubleO100: 782
+23: Zedaph: 723
+23: Tango: 642
+23: PythonGB: 601
+23: Jessassin: 524
+23: falsesymmetry: 334
+23: Xisuma: 304
+23: Keralis1: 223
+23: Welsknight: 218
+Total 165711

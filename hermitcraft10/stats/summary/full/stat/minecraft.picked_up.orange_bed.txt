@@ -1,0 +1,20 @@
+minecraft.picked_up.orange_bed
+18: GoodTimeWithScar: 63
+18: Etho: 37
+18: iJevin: 17
+18: Keralis1: 14
+18: cubfan135: 12
+18: Renthedog: 11
+18: GeminiTay: 9
+18: Grian: 7
+18: Xisuma: 6
+18: Tango: 6
+18: falsesymmetry: 6
+18: ZombieCleo: 6
+18: PearlescentMoon: 4
+18: joehillssays: 2
+18: Docm77: 1
+18: VintageBeef: 1
+18: Skizzleman: 1
+18: Mumbo: 1
+Total 204

@@ -1,0 +1,14 @@
+minecraft.picked_up.smoker
+12: GoodTimeWithScar: 114
+12: ZombieCleo: 48
+12: Grian: 26
+12: Xisuma: 25
+12: cubfan135: 18
+12: iskall85: 13
+12: BdoubleO100: 3
+12: Tango: 2
+12: Tinfoilchef: 2
+12: Keralis1: 2
+12: joehillssays: 1
+12: Stressmonster101: 1
+Total 255

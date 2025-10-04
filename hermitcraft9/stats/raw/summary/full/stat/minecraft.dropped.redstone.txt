@@ -1,0 +1,28 @@
+minecraft.dropped.redstone
+26: Tango: 2080
+26: Grian: 2029
+26: iJevin: 1974
+26: Xisuma: 1477
+26: Keralis1: 1373
+26: impulseSV: 649
+26: Docm77: 633
+26: hypnotizd: 599
+26: cubfan135: 598
+26: GoodTimeWithScar: 514
+26: Mumbo: 339
+26: Zedaph: 298
+26: falsesymmetry: 228
+26: iskall85: 173
+26: VintageBeef: 166
+26: BdoubleO100: 156
+26: Renthedog: 140
+26: Etho: 131
+26: xBCrafted: 105
+26: ZombieCleo: 99
+26: Stressmonster101: 97
+26: PearlescentMoon: 46
+26: joehillssays: 45
+26: GeminiTay: 11
+26: MythicalSausage: 9
+26: Pixlriffs: 1
+Total 13970

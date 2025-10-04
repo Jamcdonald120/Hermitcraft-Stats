@@ -1,0 +1,18 @@
+minecraft.picked_up.gray_stained_glass
+16: impulseSV: 597
+16: Docm77: 226
+16: PearlescentMoon: 91
+16: cubfan135: 24
+16: Tango: 21
+16: BdoubleO100: 16
+16: falsesymmetry: 13
+16: EvilXisuma: 11
+16: Renthedog: 11
+16: Welsknight: 6
+16: VintageBeef: 5
+16: GoodTimeWithScar: 3
+16: iJevin: 1
+16: joehillssays: 1
+16: Etho: 1
+16: Stressmonster101: 1
+Total 1028

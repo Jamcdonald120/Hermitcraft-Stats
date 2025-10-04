@@ -1,0 +1,5 @@
+minecraft.crafted.cracked_deepslate_tiles
+3: Xisuma: 91
+3: impulseSV: 8
+3: cubfan135: 2
+Total 101

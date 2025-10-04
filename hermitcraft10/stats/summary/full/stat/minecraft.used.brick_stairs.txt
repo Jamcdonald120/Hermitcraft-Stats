@@ -1,0 +1,18 @@
+minecraft.used.brick_stairs
+16: impulseSV: 160
+16: Xisuma: 90
+16: GoodTimeWithScar: 77
+16: Tango: 64
+16: Etho: 63
+16: PearlescentMoon: 58
+16: cubfan135: 23
+16: Skizzleman: 22
+16: BdoubleO100: 19
+16: VintageBeef: 16
+16: Mumbo: 10
+16: Welsknight: 8
+16: falsesymmetry: 6
+16: GeminiTay: 4
+16: Grian: 4
+16: Zedaph: 2
+Total 626

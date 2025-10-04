@@ -1,0 +1,33 @@
+minecraft.mined.wheat
+31: VintageBeef: 6250
+31: GoodTimeWithScar: 5666
+31: ZombieCleo: 3988
+31: joehillssays: 3088
+31: Etho: 2001
+31: cubfan135: 1862
+31: PearlescentMoon: 1570
+31: Tango: 1425
+31: falsesymmetry: 1162
+31: Renthedog: 1059
+31: impulseSV: 951
+31: Zedaph: 842
+31: BdoubleO100: 836
+31: Grian: 733
+31: RentheKing: 503
+31: Xisuma: 419
+31: hypnotizd: 358
+31: Stressmonster101: 259
+31: MythicalSausage: 237
+31: iskall85: 230
+31: Docm77: 212
+31: GeminiTay: 165
+31: Keralis1: 114
+31: xBCrafted: 76
+31: Mumbo: 69
+31: iJevin: 8
+31: MumboJumbo: 7
+31: STEAKFG: 5
+31: Tinfoilchef: 3
+31: Pixlriffs: 2
+31: Welsknight: 1
+Total 34101

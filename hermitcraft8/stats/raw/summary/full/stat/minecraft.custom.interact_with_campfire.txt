@@ -1,0 +1,7 @@
+minecraft.custom.interact_with_campfire
+5: Renthedog: 36
+5: Grian: 26
+5: Docm77: 7
+5: Etho: 6
+5: cubfan135: 3
+Total 78

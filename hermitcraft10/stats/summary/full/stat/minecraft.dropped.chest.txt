@@ -1,0 +1,25 @@
+minecraft.dropped.chest
+23: Renthedog: 3122
+23: Etho: 1095
+23: Docm77: 355
+23: Tango: 259
+23: Zedaph: 228
+23: iJevin: 118
+23: Grian: 100
+23: Xisuma: 95
+23: Keralis1: 82
+23: PearlescentMoon: 79
+23: Skizzleman: 66
+23: BdoubleO100: 64
+23: GoodTimeWithScar: 57
+23: joehillssays: 28
+23: cubfan135: 24
+23: impulseSV: 24
+23: GeminiTay: 19
+23: falsesymmetry: 14
+23: ZombieCleo: 10
+23: VintageBeef: 3
+23: Mumbo: 3
+23: xBCrafted: 2
+23: Smallishbeans: 1
+Total 5848

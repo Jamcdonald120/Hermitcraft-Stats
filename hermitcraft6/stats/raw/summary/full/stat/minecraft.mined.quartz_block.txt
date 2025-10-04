@@ -1,0 +1,24 @@
+minecraft.mined.quartz_block
+22: Renthedog: 1666
+22: Grian: 816
+22: iskall85: 734
+22: Xisuma: 703
+22: cubfan135: 579
+22: iJevin: 473
+22: Keralis1: 372
+22: GoodTimeWithScar: 316
+22: Docm77: 306
+22: falsesymmetry: 294
+22: MumboJumbo: 256
+22: PythonGB: 194
+22: Tango: 193
+22: Stressmonster101: 67
+22: impulseSV: 64
+22: ZombieCleo: 43
+22: Welsknight: 40
+22: joehillssays: 36
+22: Zedaph: 19
+22: Tinfoilchef: 18
+22: Biffa2001: 9
+22: BdoubleO100: 2
+Total 7200

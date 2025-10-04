@@ -1,0 +1,13 @@
+minecraft.crafted.experience_bottle
+11: Smallishbeans: 21079
+11: Zedaph: 615
+11: Skizzleman: 612
+11: Etho: 194
+11: falsesymmetry: 120
+11: cubfan135: 108
+11: Grian: 102
+11: hypnotizd: 96
+11: Xisuma: 24
+11: Keralis1: 17
+11: impulseSV: 6
+Total 22973

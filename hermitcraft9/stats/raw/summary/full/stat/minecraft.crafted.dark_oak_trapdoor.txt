@@ -1,0 +1,32 @@
+minecraft.crafted.dark_oak_trapdoor
+30: Renthedog: 5850
+30: cubfan135: 4250
+30: falsesymmetry: 2646
+30: GoodTimeWithScar: 1660
+30: Keralis1: 828
+30: impulseSV: 824
+30: iJevin: 820
+30: Stressmonster101: 762
+30: Etho: 746
+30: Tango: 376
+30: joehillssays: 314
+30: BdoubleO100: 306
+30: RentheKing: 186
+30: GeminiTay: 176
+30: xBCrafted: 166
+30: Docm77: 164
+30: VintageBeef: 124
+30: Grian: 116
+30: MythicalSausage: 100
+30: PearlescentMoon: 64
+30: Xisuma: 44
+30: iskall85: 44
+30: ShubbleYT: 36
+30: ZombieCleo: 28
+30: fWhip: 18
+30: Smallishbeans: 14
+30: Pixlriffs: 14
+30: Zedaph: 14
+30: OrionSound: 12
+30: Welsknight: 12
+Total 20714

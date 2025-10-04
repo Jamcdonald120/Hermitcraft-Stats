@@ -1,0 +1,26 @@
+minecraft.crafted.smithing_table
+24: Tango: 1042
+24: Etho: 824
+24: Smallishbeans: 594
+24: Welsknight: 370
+24: ZombieCleo: 337
+24: PearlescentMoon: 306
+24: cubfan135: 300
+24: Xisuma: 290
+24: Docm77: 164
+24: GoodTimeWithScar: 153
+24: Keralis1: 128
+24: hypnotizd: 66
+24: impulseSV: 37
+24: iJevin: 10
+24: Grian: 3
+24: Renthedog: 2
+24: joehillssays: 2
+24: GeminiTay: 2
+24: xBCrafted: 2
+24: VintageBeef: 1
+24: Skizzleman: 1
+24: BdoubleO100: 1
+24: falsesymmetry: 1
+24: Zedaph: 1
+Total 4637

@@ -1,0 +1,5 @@
+minecraft.picked_up.glistering_melon_slice
+3: iJevin: 60
+3: cubfan135: 10
+3: Zedaph: 1
+Total 71

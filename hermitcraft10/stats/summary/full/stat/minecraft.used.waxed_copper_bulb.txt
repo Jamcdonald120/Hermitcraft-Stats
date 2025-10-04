@@ -1,0 +1,18 @@
+minecraft.used.waxed_copper_bulb
+16: impulseSV: 919
+16: xBCrafted: 293
+16: cubfan135: 199
+16: GoodTimeWithScar: 136
+16: Smallishbeans: 108
+16: Renthedog: 80
+16: PearlescentMoon: 67
+16: BdoubleO100: 62
+16: Xisuma: 61
+16: Docm77: 55
+16: Tango: 54
+16: Mumbo: 30
+16: Skizzleman: 22
+16: Etho: 7
+16: iJevin: 2
+16: Keralis1: 1
+Total 2096

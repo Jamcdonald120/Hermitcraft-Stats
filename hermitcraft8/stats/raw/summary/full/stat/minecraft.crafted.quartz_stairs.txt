@@ -1,0 +1,13 @@
+minecraft.crafted.quartz_stairs
+11: Keralis1: 396
+11: Grian: 40
+11: Tango: 36
+11: MumboJumbo: 36
+11: Renthedog: 25
+11: GoodTimeWithScar: 16
+11: Welsknight: 14
+11: VintageBeef: 8
+11: falsesymmetry: 8
+11: Xisuma: 4
+11: impulseSV: 4
+Total 587

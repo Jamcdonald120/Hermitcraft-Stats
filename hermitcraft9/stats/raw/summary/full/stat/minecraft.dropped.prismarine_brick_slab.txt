@@ -1,0 +1,4 @@
+minecraft.dropped.prismarine_brick_slab
+2: falsesymmetry: 30
+2: Keralis1: 1
+Total 31

@@ -1,0 +1,15 @@
+minecraft.picked_up.deepslate_coal_ore
+13: Etho: 31
+13: Keralis1: 23
+13: hypnotizd: 20
+13: Zedaph: 16
+13: GoodTimeWithScar: 15
+13: VintageBeef: 14
+13: joehillssays: 13
+13: Docm77: 12
+13: iJevin: 4
+13: PearlescentMoon: 4
+13: xBCrafted: 4
+13: iskall85: 3
+13: Xisuma: 2
+Total 161

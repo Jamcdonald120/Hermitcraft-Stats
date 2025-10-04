@@ -1,0 +1,24 @@
+minecraft.picked_up.nether_quartz_ore
+22: GoodTimeWithScar: 2161
+22: Keralis1: 1695
+22: Xisuma: 1211
+22: iJevin: 961
+22: xBCrafted: 927
+22: Tango: 719
+22: Zedaph: 457
+22: Docm77: 417
+22: PearlescentMoon: 186
+22: cubfan135: 185
+22: GeminiTay: 166
+22: VintageBeef: 131
+22: Welsknight: 75
+22: hypnotizd: 69
+22: joehillssays: 52
+22: Renthedog: 42
+22: MumboJumbo: 42
+22: impulseSV: 41
+22: ZombieCleo: 26
+22: Grian: 16
+22: Stressmonster101: 14
+22: falsesymmetry: 1
+Total 9594

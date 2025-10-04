@@ -1,0 +1,29 @@
+minecraft.dropped.diamond_boots
+27: xBCrafted: 26
+27: GoodTimeWithScar: 22
+27: iJevin: 19
+27: cubfan135: 18
+27: Grian: 16
+27: impulseSV: 16
+27: Tango: 15
+27: Etho: 11
+27: Skizzleman: 9
+27: PearlescentMoon: 9
+27: BdoubleO100: 6
+27: Renthedog: 5
+27: GeminiTay: 5
+27: falsesymmetry: 5
+27: Xisuma: 4
+27: VintageBeef: 4
+27: hypnotizd: 4
+27: Keralis1: 4
+27: Docm77: 3
+27: joehillssays: 3
+27: Smajor1995: 2
+27: HBomb94: 2
+27: aimsey: 2
+27: JamalMC_: 1
+27: Smallishbeans: 1
+27: ZombieCleo: 1
+27: Mumbo: 1
+Total 214

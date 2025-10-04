@@ -1,0 +1,12 @@
+minecraft.picked_up.birch_pressure_plate
+10: PearlescentMoon: 29
+10: iJevin: 12
+10: cubfan135: 11
+10: Etho: 9
+10: Mumbo: 6
+10: Skizzleman: 4
+10: Tango: 3
+10: hypnotizd: 2
+10: Grian: 1
+10: impulseSV: 1
+Total 78

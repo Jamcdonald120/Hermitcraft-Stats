@@ -1,0 +1,25 @@
+minecraft.picked_up.gold_nugget
+23: Tango: 424297
+23: VintageBeef: 36721
+23: MumboJumbo: 31085
+23: cubfan135: 14246
+23: iskall85: 12567
+23: Keralis1: 5722
+23: Etho: 5142
+23: Xisuma: 4859
+23: iJevin: 3800
+23: Docm77: 3265
+23: Grian: 3166
+23: Welsknight: 2036
+23: GoodTimeWithScar: 927
+23: hypnotizd: 824
+23: xBCrafted: 559
+23: Zedaph: 552
+23: Renthedog: 343
+23: falsesymmetry: 273
+23: BdoubleO100: 210
+23: ZombieCleo: 194
+23: joehillssays: 167
+23: impulseSV: 101
+23: Stressmonster101: 31
+Total 551087

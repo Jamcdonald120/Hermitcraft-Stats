@@ -1,0 +1,21 @@
+minecraft.crafted.light_blue_terracotta
+19: impulseSV: 11952
+19: Etho: 1344
+19: PearlescentMoon: 680
+19: joehillssays: 640
+19: Smallishbeans: 520
+19: falsesymmetry: 392
+19: Xisuma: 192
+19: ZombieCleo: 168
+19: cubfan135: 128
+19: GoodTimeWithScar: 128
+19: BdoubleO100: 104
+19: Docm77: 64
+19: GeminiTay: 64
+19: Mumbo: 64
+19: iJevin: 16
+19: hypnotizd: 14
+19: Grian: 12
+19: Keralis1: 12
+19: Skizzleman: 8
+Total 16502

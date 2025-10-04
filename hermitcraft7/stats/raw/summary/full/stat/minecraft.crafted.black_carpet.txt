@@ -1,0 +1,22 @@
+minecraft.crafted.black_carpet
+20: BdoubleO100: 21068
+20: VintageBeef: 16453
+20: ZombieCleo: 4428
+20: falsesymmetry: 4266
+20: Xisuma: 3927
+20: iskall85: 2502
+20: joehillssays: 1527
+20: hypnotizd: 1380
+20: cubfan135: 1302
+20: Tango: 1248
+20: Stressmonster101: 933
+20: impulseSV: 768
+20: Etho: 672
+20: Keralis1: 462
+20: Renthedog: 396
+20: GoodTimeWithScar: 306
+20: Grian: 45
+20: xBCrafted: 39
+20: MumboJumbo: 21
+20: Zedaph: 3
+Total 61746

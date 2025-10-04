@@ -1,0 +1,17 @@
+minecraft.dropped.smooth_stone
+15: falsesymmetry: 1150
+15: Keralis1: 830
+15: GoodTimeWithScar: 802
+15: BdoubleO100: 165
+15: cubfan135: 163
+15: Renthedog: 64
+15: xBCrafted: 61
+15: impulseSV: 59
+15: Grian: 43
+15: iJevin: 37
+15: Xisuma: 17
+15: Tango: 15
+15: Docm77: 4
+15: Mumbo: 2
+15: Zedaph: 1
+Total 3413

@@ -1,0 +1,25 @@
+minecraft.dropped.stone_slab
+23: GoodTimeWithScar: 884
+23: iJevin: 672
+23: Tango: 652
+23: Skizzleman: 576
+23: falsesymmetry: 573
+23: Keralis1: 493
+23: Grian: 469
+23: impulseSV: 404
+23: Renthedog: 110
+23: Mumbo: 97
+23: Etho: 83
+23: BdoubleO100: 71
+23: Xisuma: 61
+23: Zedaph: 45
+23: cubfan135: 30
+23: PearlescentMoon: 29
+23: hypnotizd: 23
+23: Smallishbeans: 20
+23: xBCrafted: 13
+23: Docm77: 6
+23: ZombieCleo: 5
+23: GeminiTay: 2
+23: jojosolos: 1
+Total 5319

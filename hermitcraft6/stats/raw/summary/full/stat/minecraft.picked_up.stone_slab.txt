@@ -1,0 +1,21 @@
+minecraft.picked_up.stone_slab
+19: cubfan135: 2287
+19: falsesymmetry: 1132
+19: Docm77: 1102
+19: Xisuma: 974
+19: Renthedog: 731
+19: iskall85: 667
+19: GoodTimeWithScar: 433
+19: impulseSV: 283
+19: Stressmonster101: 264
+19: Grian: 237
+19: Tango: 155
+19: BdoubleO100: 91
+19: Keralis1: 89
+19: Zedaph: 86
+19: MumboJumbo: 73
+19: Welsknight: 13
+19: xBCrafted: 9
+19: iJevin: 6
+19: Biffa2001: 4
+Total 8636

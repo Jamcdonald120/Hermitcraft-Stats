@@ -1,0 +1,24 @@
+minecraft.crafted.lime_terracotta
+22: impulseSV: 35352
+22: Grian: 6754
+22: Docm77: 3104
+22: GoodTimeWithScar: 2432
+22: Renthedog: 2111
+22: Etho: 2060
+22: PearlescentMoon: 1520
+22: ZombieCleo: 808
+22: VintageBeef: 792
+22: iskall85: 736
+22: MythicalSausage: 560
+22: Stressmonster101: 540
+22: BdoubleO100: 528
+22: Keralis1: 456
+22: iJevin: 336
+22: Xisuma: 296
+22: cubfan135: 200
+22: falsesymmetry: 184
+22: joehillssays: 112
+22: Tango: 12
+22: xBCrafted: 8
+22: Zedaph: 8
+Total 58909

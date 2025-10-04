@@ -1,0 +1,24 @@
+minecraft.picked_up.tuff_brick_slab
+22: Grian: 1388
+22: VintageBeef: 386
+22: cubfan135: 378
+22: Skizzleman: 369
+22: Tango: 347
+22: joehillssays: 268
+22: Welsknight: 206
+22: GoodTimeWithScar: 136
+22: Zedaph: 123
+22: Xisuma: 95
+22: Mumbo: 90
+22: falsesymmetry: 86
+22: Etho: 49
+22: ZombieCleo: 33
+22: impulseSV: 30
+22: BdoubleO100: 21
+22: Smallishbeans: 10
+22: Docm77: 9
+22: PearlescentMoon: 9
+22: GeminiTay: 7
+22: Keralis1: 5
+22: iJevin: 3
+Total 4048

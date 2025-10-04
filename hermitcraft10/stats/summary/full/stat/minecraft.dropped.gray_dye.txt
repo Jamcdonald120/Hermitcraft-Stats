@@ -1,0 +1,18 @@
+minecraft.dropped.gray_dye
+16: PearlescentMoon: 93
+16: Etho: 66
+16: cubfan135: 65
+16: Grian: 49
+16: joehillssays: 38
+16: xBCrafted: 32
+16: BdoubleO100: 8
+16: ZombieCleo: 8
+16: iJevin: 3
+16: GeminiTay: 3
+16: Keralis1: 3
+16: impulseSV: 3
+16: Renthedog: 2
+16: Tango: 2
+16: Smallishbeans: 2
+16: GoodTimeWithScar: 2
+Total 379

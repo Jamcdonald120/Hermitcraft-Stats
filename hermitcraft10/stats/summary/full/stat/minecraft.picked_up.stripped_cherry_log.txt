@@ -1,0 +1,21 @@
+minecraft.picked_up.stripped_cherry_log
+19: Skizzleman: 1138
+19: Smallishbeans: 646
+19: BdoubleO100: 231
+19: GoodTimeWithScar: 111
+19: Xisuma: 52
+19: iJevin: 46
+19: VintageBeef: 42
+19: cubfan135: 30
+19: ZombieCleo: 14
+19: Docm77: 12
+19: falsesymmetry: 12
+19: GeminiTay: 8
+19: Keralis1: 8
+19: Grian: 7
+19: hypnotizd: 7
+19: Mumbo: 5
+19: Etho: 3
+19: Tango: 2
+19: PearlescentMoon: 2
+Total 2376

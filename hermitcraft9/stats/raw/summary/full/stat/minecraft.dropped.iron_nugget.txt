@@ -1,0 +1,37 @@
+minecraft.dropped.iron_nugget
+35: Tango: 46367
+35: Xisuma: 3328
+35: iJevin: 1485
+35: cubfan135: 1460
+35: Docm77: 1257
+35: VintageBeef: 759
+35: Etho: 648
+35: hypnotizd: 638
+35: GoodTimeWithScar: 602
+35: joehillssays: 594
+35: Renthedog: 586
+35: PearlescentMoon: 486
+35: ZombieCleo: 400
+35: Keralis1: 397
+35: Grian: 389
+35: impulseSV: 286
+35: Zedaph: 285
+35: GeminiTay: 251
+35: xBCrafted: 169
+35: falsesymmetry: 138
+35: iskall85: 95
+35: BdoubleO100: 84
+35: Minerva246: 33
+35: Welsknight: 27
+35: RentheKing: 22
+35: Smallishbeans: 11
+35: MythicalSausage: 10
+35: Mumbo: 6
+35: InTheLittleWood: 5
+35: LDShadowLady: 3
+35: HBomb94: 3
+35: Skizzleman: 2
+35: Stressmonster101: 2
+35: SolidarityGaming: 2
+35: MumboJumbo: 1
+Total 60831

@@ -1,0 +1,21 @@
+minecraft.dropped.wheat
+19: GoodTimeWithScar: 1822
+19: Keralis1: 1342
+19: VintageBeef: 729
+19: cubfan135: 512
+19: Zedaph: 323
+19: Grian: 259
+19: MumboJumbo: 106
+19: joehillssays: 86
+19: falsesymmetry: 73
+19: Tango: 59
+19: Renthedog: 27
+19: Docm77: 22
+19: BdoubleO100: 14
+19: hypnotizd: 13
+19: Etho: 11
+19: impulseSV: 8
+19: ZombieCleo: 7
+19: Stressmonster101: 7
+19: xBCrafted: 3
+Total 5423

@@ -1,0 +1,18 @@
+minecraft.dropped.spruce_slab
+16: GoodTimeWithScar: 122
+16: PearlescentMoon: 120
+16: Tango: 106
+16: Keralis1: 69
+16: Grian: 67
+16: Xisuma: 31
+16: iskall85: 22
+16: Etho: 18
+16: BdoubleO100: 14
+16: falsesymmetry: 13
+16: Zedaph: 9
+16: hypnotizd: 6
+16: iJevin: 5
+16: MumboJumbo: 5
+16: GeminiTay: 2
+16: impulseSV: 1
+Total 610

@@ -1,0 +1,4 @@
+minecraft.crafted.red_tulip
+2: PearlescentMoon: 12
+2: falsesymmetry: 12
+Total 24

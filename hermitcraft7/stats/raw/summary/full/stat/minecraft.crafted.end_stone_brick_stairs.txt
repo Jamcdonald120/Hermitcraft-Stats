@@ -1,0 +1,7 @@
+minecraft.crafted.end_stone_brick_stairs
+5: iJevin: 284
+5: falsesymmetry: 40
+5: cubfan135: 16
+5: iskall85: 4
+5: impulseSV: 4
+Total 348

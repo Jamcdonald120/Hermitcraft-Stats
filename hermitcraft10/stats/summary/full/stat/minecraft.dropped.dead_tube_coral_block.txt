@@ -1,0 +1,6 @@
+minecraft.dropped.dead_tube_coral_block
+4: falsesymmetry: 9
+4: Grian: 6
+4: GoodTimeWithScar: 2
+4: ZombieCleo: 1
+Total 18

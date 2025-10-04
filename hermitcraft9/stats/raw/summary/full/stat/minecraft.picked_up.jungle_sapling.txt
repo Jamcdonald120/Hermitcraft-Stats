@@ -1,0 +1,22 @@
+minecraft.picked_up.jungle_sapling
+20: Keralis1: 951
+20: Etho: 587
+20: falsesymmetry: 487
+20: PearlescentMoon: 394
+20: Renthedog: 271
+20: joehillssays: 201
+20: Grian: 165
+20: iJevin: 128
+20: BdoubleO100: 114
+20: Zedaph: 58
+20: iskall85: 36
+20: cubfan135: 33
+20: VintageBeef: 27
+20: Docm77: 20
+20: Xisuma: 12
+20: ZombieCleo: 11
+20: xBCrafted: 5
+20: impulseSV: 5
+20: Stressmonster101: 4
+20: hypnotizd: 2
+Total 3511

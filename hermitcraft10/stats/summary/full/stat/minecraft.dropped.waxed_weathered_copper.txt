@@ -1,0 +1,5 @@
+minecraft.dropped.waxed_weathered_copper
+3: Keralis1: 4
+3: falsesymmetry: 3
+3: xBCrafted: 1
+Total 8

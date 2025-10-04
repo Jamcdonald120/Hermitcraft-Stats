@@ -1,0 +1,12 @@
+minecraft.dropped.spruce_boat
+10: GoodTimeWithScar: 14
+10: Etho: 10
+10: iJevin: 8
+10: Renthedog: 4
+10: Keralis1: 4
+10: BdoubleO100: 2
+10: Mumbo: 2
+10: Xisuma: 1
+10: Grian: 1
+10: Tango: 1
+Total 47

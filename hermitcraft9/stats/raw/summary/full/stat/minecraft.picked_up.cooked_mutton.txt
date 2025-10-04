@@ -1,0 +1,19 @@
+minecraft.picked_up.cooked_mutton
+17: BdoubleO100: 258
+17: Etho: 184
+17: falsesymmetry: 102
+17: joehillssays: 49
+17: PearlescentMoon: 20
+17: Keralis1: 13
+17: Renthedog: 12
+17: impulseSV: 9
+17: VintageBeef: 8
+17: iskall85: 8
+17: Tango: 7
+17: Zedaph: 6
+17: iJevin: 5
+17: Mumbo: 2
+17: Xisuma: 1
+17: Grian: 1
+17: MumboJumbo: 1
+Total 686

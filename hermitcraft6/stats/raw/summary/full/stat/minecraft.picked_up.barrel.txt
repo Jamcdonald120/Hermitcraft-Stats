@@ -1,0 +1,23 @@
+minecraft.picked_up.barrel
+21: GoodTimeWithScar: 679
+21: falsesymmetry: 237
+21: iskall85: 206
+21: cubfan135: 116
+21: Xisuma: 109
+21: BdoubleO100: 96
+21: ZombieCleo: 95
+21: Grian: 77
+21: Keralis1: 64
+21: Renthedog: 50
+21: impulseSV: 29
+21: Tango: 23
+21: Welsknight: 17
+21: Stressmonster101: 14
+21: joehillssays: 13
+21: MumboJumbo: 11
+21: Docm77: 7
+21: HumanCleo: 7
+21: PythonGB: 1
+21: Tinfoilchef: 1
+21: Zedaph: 1
+Total 1853

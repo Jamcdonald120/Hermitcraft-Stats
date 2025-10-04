@@ -1,0 +1,28 @@
+minecraft.picked_up.sea_pickle
+26: Etho: 2667
+26: ZombieCleo: 1364
+26: joehillssays: 973
+26: GoodTimeWithScar: 735
+26: iJevin: 697
+26: Renthedog: 529
+26: PearlescentMoon: 411
+26: cubfan135: 348
+26: Tango: 210
+26: impulseSV: 175
+26: falsesymmetry: 162
+26: Keralis1: 136
+26: OrionSound: 128
+26: MythicalSausage: 128
+26: hypnotizd: 102
+26: GeminiTay: 74
+26: Xisuma: 65
+26: xBCrafted: 65
+26: Grian: 50
+26: VintageBeef: 37
+26: iskall85: 33
+26: Docm77: 31
+26: Zedaph: 19
+26: RentheKing: 13
+26: BdoubleO100: 11
+26: fWhip: 2
+Total 9165

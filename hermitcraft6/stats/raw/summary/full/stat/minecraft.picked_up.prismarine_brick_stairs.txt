@@ -1,0 +1,12 @@
+minecraft.picked_up.prismarine_brick_stairs
+10: Biffa2001: 204
+10: falsesymmetry: 116
+10: iJevin: 88
+10: Tango: 85
+10: Xisuma: 73
+10: cubfan135: 55
+10: xBCrafted: 23
+10: GoodTimeWithScar: 23
+10: Zedaph: 16
+10: iskall85: 1
+Total 684

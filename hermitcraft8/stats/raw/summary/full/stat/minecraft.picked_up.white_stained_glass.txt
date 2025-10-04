@@ -1,0 +1,19 @@
+minecraft.picked_up.white_stained_glass
+17: impulseSV: 353
+17: xBCrafted: 307
+17: Docm77: 284
+17: Grian: 189
+17: GeminiTay: 186
+17: PearlescentMoon: 116
+17: Xisuma: 112
+17: cubfan135: 50
+17: BdoubleO100: 34
+17: Welsknight: 31
+17: Tango: 14
+17: joehillssays: 9
+17: falsesymmetry: 7
+17: GoodTimeWithScar: 5
+17: iJevin: 2
+17: Zedaph: 2
+17: Etho: 1
+Total 1702

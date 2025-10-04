@@ -1,0 +1,31 @@
+minecraft.picked_up.leather_boots
+29: Etho: 970
+29: Zedaph: 310
+29: Xisuma: 127
+29: joehillssays: 54
+29: Tango: 51
+29: cubfan135: 48
+29: ZombieCleo: 20
+29: GoodTimeWithScar: 18
+29: Docm77: 14
+29: iJevin: 13
+29: VintageBeef: 12
+29: falsesymmetry: 12
+29: GeminiTay: 11
+29: Grian: 11
+29: PearlescentMoon: 11
+29: Keralis1: 11
+29: iskall85: 10
+29: impulseSV: 9
+29: BdoubleO100: 6
+29: xBCrafted: 6
+29: hypnotizd: 4
+29: Stressmonster101: 4
+29: Welsknight: 3
+29: Renthedog: 2
+29: RentheKing: 2
+29: Smallishbeans: 1
+29: Pixlriffs: 1
+29: Mumbo: 1
+29: MumboJumbo: 1
+Total 1743

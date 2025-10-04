@@ -1,0 +1,30 @@
+minecraft.picked_up.stonecutter
+28: BdoubleO100: 342
+28: Tango: 327
+28: Xisuma: 221
+28: Keralis1: 176
+28: Zedaph: 123
+28: Renthedog: 98
+28: cubfan135: 75
+28: GeminiTay: 74
+28: PearlescentMoon: 71
+28: Grian: 69
+28: xBCrafted: 66
+28: impulseSV: 62
+28: ZombieCleo: 60
+28: Etho: 48
+28: iJevin: 41
+28: hypnotizd: 36
+28: GoodTimeWithScar: 35
+28: Stressmonster101: 35
+28: VintageBeef: 31
+28: falsesymmetry: 31
+28: Docm77: 27
+28: iskall85: 26
+28: RentheKing: 25
+28: joehillssays: 19
+28: Pixlriffs: 13
+28: Mumbo: 3
+28: MythicalSausage: 1
+28: fWhip: 1
+Total 2136

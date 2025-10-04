@@ -1,0 +1,25 @@
+minecraft.dropped.beetroot_seeds
+23: Tango: 4341
+23: Grian: 4312
+23: PearlescentMoon: 2514
+23: Renthedog: 2238
+23: GeminiTay: 2214
+23: cubfan135: 2033
+23: Skizzleman: 1379
+23: falsesymmetry: 684
+23: BdoubleO100: 574
+23: Etho: 457
+23: Smallishbeans: 399
+23: impulseSV: 139
+23: GoodTimeWithScar: 138
+23: Zedaph: 132
+23: iJevin: 80
+23: Mumbo: 73
+23: SolidarityGaming: 61
+23: hypnotizd: 52
+23: Xisuma: 28
+23: ZombieCleo: 8
+23: Keralis1: 8
+23: InTheLittleWood: 4
+23: joehillssays: 3
+Total 21871

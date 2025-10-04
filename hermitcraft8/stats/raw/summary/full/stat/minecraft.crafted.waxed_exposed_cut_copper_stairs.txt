@@ -1,0 +1,3 @@
+minecraft.crafted.waxed_exposed_cut_copper_stairs
+1: impulseSV: 7
+Total 7

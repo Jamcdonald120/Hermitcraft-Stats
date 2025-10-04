@@ -1,0 +1,17 @@
+minecraft.picked_up.lime_stained_glass
+15: impulseSV: 298
+15: GoodTimeWithScar: 273
+15: joehillssays: 148
+15: Grian: 148
+15: Tango: 100
+15: Etho: 50
+15: Smallishbeans: 46
+15: PearlescentMoon: 36
+15: Docm77: 31
+15: Xisuma: 25
+15: cubfan135: 24
+15: iJevin: 9
+15: Mumbo: 9
+15: BdoubleO100: 5
+15: Renthedog: 1
+Total 1203

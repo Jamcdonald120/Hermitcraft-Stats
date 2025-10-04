@@ -1,0 +1,14 @@
+minecraft.picked_up.emerald_ore
+12: Xisuma: 65
+12: PearlescentMoon: 18
+12: BdoubleO100: 16
+12: Zedaph: 15
+12: Grian: 11
+12: GoodTimeWithScar: 11
+12: Welsknight: 8
+12: Renthedog: 7
+12: iJevin: 3
+12: VintageBeef: 1
+12: cubfan135: 1
+12: Etho: 1
+Total 157

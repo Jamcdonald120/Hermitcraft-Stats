@@ -1,0 +1,12 @@
+minecraft.picked_up.tnt_minecart
+10: impulseSV: 34
+10: Skizzleman: 30
+10: Smallishbeans: 25
+10: Tango: 16
+10: cubfan135: 10
+10: Etho: 7
+10: iJevin: 5
+10: Grian: 5
+10: GoodTimeWithScar: 5
+10: ZombieCleo: 4
+Total 141

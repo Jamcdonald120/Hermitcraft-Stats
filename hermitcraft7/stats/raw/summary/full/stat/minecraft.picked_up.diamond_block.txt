@@ -1,0 +1,26 @@
+minecraft.picked_up.diamond_block
+24: Grian: 2320
+24: iskall85: 1423
+24: GoodTimeWithScar: 1297
+24: cubfan135: 798
+24: MumboJumbo: 787
+24: iJevin: 771
+24: BdoubleO100: 695
+24: Xisuma: 607
+24: impulseSV: 567
+24: Docm77: 443
+24: Keralis1: 426
+24: Etho: 353
+24: xBCrafted: 340
+24: Renthedog: 183
+24: VintageBeef: 169
+24: ZombieCleo: 161
+24: Tango: 60
+24: joehillssays: 35
+24: Welsknight: 35
+24: hypnotizd: 28
+24: falsesymmetry: 27
+24: Tinfoilchef: 15
+24: Stressmonster101: 15
+24: Zedaph: 6
+Total 11561

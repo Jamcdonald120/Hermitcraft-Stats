@@ -1,0 +1,9 @@
+minecraft.dropped.smithing_table
+7: Keralis1: 6
+7: Etho: 5
+7: hypnotizd: 2
+7: Xisuma: 1
+7: Renthedog: 1
+7: iJevin: 1
+7: cubfan135: 1
+Total 17

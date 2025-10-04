@@ -1,0 +1,6 @@
+minecraft.picked_up.waxed_cut_copper_stairs
+4: impulseSV: 35
+4: Renthedog: 15
+4: cubfan135: 5
+4: PearlescentMoon: 2
+Total 57

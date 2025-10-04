@@ -1,0 +1,27 @@
+minecraft.picked_up.iron_ore
+25: cubfan135: 5062
+25: GoodTimeWithScar: 3055
+25: PearlescentMoon: 2292
+25: iJevin: 2274
+25: Renthedog: 1869
+25: Xisuma: 1648
+25: xBCrafted: 1292
+25: hypnotizd: 882
+25: falsesymmetry: 833
+25: BdoubleO100: 766
+25: Grian: 754
+25: Tango: 625
+25: joehillssays: 561
+25: Docm77: 455
+25: GeminiTay: 449
+25: ZombieCleo: 361
+25: Welsknight: 220
+25: MumboJumbo: 212
+25: Stressmonster101: 165
+25: Etho: 139
+25: Zedaph: 134
+25: impulseSV: 133
+25: Keralis1: 102
+25: iskall85: 67
+25: VintageBeef: 65
+Total 24415

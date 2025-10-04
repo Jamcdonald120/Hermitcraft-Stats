@@ -1,0 +1,21 @@
+minecraft.crafted.activator_rail
+19: Tango: 5082
+19: Etho: 1092
+19: Docm77: 690
+19: Keralis1: 270
+19: Mumbo: 192
+19: Renthedog: 66
+19: hypnotizd: 66
+19: BdoubleO100: 24
+19: Xisuma: 18
+19: Smallishbeans: 12
+19: cubfan135: 12
+19: GoodTimeWithScar: 12
+19: iJevin: 6
+19: Skizzleman: 6
+19: xBCrafted: 6
+19: falsesymmetry: 6
+19: ZombieCleo: 6
+19: impulseSV: 6
+19: Zedaph: 6
+Total 7578

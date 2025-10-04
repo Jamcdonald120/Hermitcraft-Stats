@@ -1,0 +1,10 @@
+minecraft.picked_up.mangrove_pressure_plate
+8: VintageBeef: 22
+8: cubfan135: 11
+8: Skizzleman: 7
+8: Renthedog: 4
+8: ZombieCleo: 4
+8: Xisuma: 1
+8: Welsknight: 1
+8: Mumbo: 1
+Total 51

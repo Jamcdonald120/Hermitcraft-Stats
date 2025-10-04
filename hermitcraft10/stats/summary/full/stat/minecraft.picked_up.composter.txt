@@ -1,0 +1,27 @@
+minecraft.picked_up.composter
+25: Xisuma: 427
+25: xBCrafted: 400
+25: Smallishbeans: 216
+25: joehillssays: 181
+25: Docm77: 170
+25: GoodTimeWithScar: 170
+25: Etho: 161
+25: Renthedog: 155
+25: Tango: 147
+25: PearlescentMoon: 126
+25: Keralis1: 125
+25: hypnotizd: 87
+25: cubfan135: 80
+25: iJevin: 62
+25: Grian: 57
+25: ZombieCleo: 45
+25: impulseSV: 29
+25: Zedaph: 28
+25: GeminiTay: 27
+25: falsesymmetry: 22
+25: VintageBeef: 13
+25: Mumbo: 7
+25: BdoubleO100: 6
+25: Skizzleman: 4
+25: Welsknight: 2
+Total 2747

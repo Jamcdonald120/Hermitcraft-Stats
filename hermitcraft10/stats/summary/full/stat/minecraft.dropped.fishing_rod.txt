@@ -1,0 +1,25 @@
+minecraft.dropped.fishing_rod
+23: Grian: 183
+23: impulseSV: 56
+23: Etho: 31
+23: GeminiTay: 29
+23: Skizzleman: 23
+23: Docm77: 19
+23: Keralis1: 17
+23: cubfan135: 16
+23: PearlescentMoon: 13
+23: xBCrafted: 11
+23: GoodTimeWithScar: 9
+23: Renthedog: 7
+23: ZombieCleo: 7
+23: BdoubleO100: 6
+23: iJevin: 4
+23: Welsknight: 4
+23: Tango: 3
+23: Smallishbeans: 2
+23: hypnotizd: 2
+23: SolidarityGaming: 2
+23: falsesymmetry: 1
+23: Eyjoy27: 1
+23: Zedaph: 1
+Total 447

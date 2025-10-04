@@ -1,0 +1,4 @@
+minecraft.mined.crimson_pressure_plate
+2: Etho: 11
+2: impulseSV: 2
+Total 13

@@ -1,0 +1,21 @@
+minecraft.picked_up.acacia_fence
+19: PearlescentMoon: 180
+19: falsesymmetry: 76
+19: GoodTimeWithScar: 71
+19: Renthedog: 58
+19: impulseSV: 46
+19: Smallishbeans: 44
+19: cubfan135: 39
+19: Xisuma: 38
+19: Docm77: 33
+19: Tango: 31
+19: Grian: 29
+19: hypnotizd: 18
+19: BdoubleO100: 12
+19: Mumbo: 7
+19: xBCrafted: 6
+19: VintageBeef: 3
+19: Keralis1: 2
+19: GeminiTay: 1
+19: Zedaph: 1
+Total 695

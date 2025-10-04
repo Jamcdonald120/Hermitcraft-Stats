@@ -1,0 +1,23 @@
+minecraft.crafted.green_dye
+21: Renthedog: 20049
+21: iJevin: 14867
+21: Tango: 8491
+21: iskall85: 5405
+21: impulseSV: 4350
+21: Grian: 3541
+21: Stressmonster101: 2530
+21: ZombieCleo: 1914
+21: Xisuma: 1315
+21: PythonGB: 1256
+21: falsesymmetry: 939
+21: HumanCleo: 512
+21: BdoubleO100: 509
+21: GoodTimeWithScar: 409
+21: Zedaph: 347
+21: cubfan135: 278
+21: joehillssays: 252
+21: Welsknight: 192
+21: Docm77: 179
+21: Tinfoilchef: 98
+21: MumboJumbo: 67
+Total 67500

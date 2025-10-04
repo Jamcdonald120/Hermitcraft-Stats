@@ -1,0 +1,22 @@
+minecraft.used.deepslate_lapis_ore
+20: xBCrafted: 268
+20: PearlescentMoon: 163
+20: Zedaph: 154
+20: hypnotizd: 138
+20: Xisuma: 128
+20: cubfan135: 102
+20: Renthedog: 54
+20: RentheKing: 42
+20: iJevin: 33
+20: Tango: 28
+20: joehillssays: 18
+20: Etho: 14
+20: GoodTimeWithScar: 11
+20: Stressmonster101: 11
+20: MythicalSausage: 10
+20: Keralis1: 5
+20: impulseSV: 5
+20: Pixlriffs: 4
+20: falsesymmetry: 4
+20: Grian: 3
+Total 1195

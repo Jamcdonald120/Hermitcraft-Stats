@@ -1,0 +1,14 @@
+minecraft.dropped.milk_bucket
+12: Grian: 43
+12: Tango: 32
+12: Renthedog: 26
+12: Keralis1: 6
+12: iJevin: 5
+12: PearlescentMoon: 5
+12: impulseSV: 3
+12: GeminiTay: 2
+12: VintageBeef: 1
+12: joehillssays: 1
+12: ZombieCleo: 1
+12: SolidarityGaming: 1
+Total 126

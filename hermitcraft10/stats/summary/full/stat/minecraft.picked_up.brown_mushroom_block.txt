@@ -1,0 +1,21 @@
+minecraft.picked_up.brown_mushroom_block
+19: Grian: 27066
+19: BdoubleO100: 3862
+19: GeminiTay: 3342
+19: ZombieCleo: 1839
+19: Xisuma: 1677
+19: iJevin: 1415
+19: impulseSV: 983
+19: PearlescentMoon: 881
+19: Etho: 843
+19: Renthedog: 791
+19: Tango: 599
+19: falsesymmetry: 582
+19: GoodTimeWithScar: 399
+19: Docm77: 327
+19: cubfan135: 260
+19: Keralis1: 201
+19: Mumbo: 8
+19: Smallishbeans: 3
+19: xBCrafted: 2
+Total 45080

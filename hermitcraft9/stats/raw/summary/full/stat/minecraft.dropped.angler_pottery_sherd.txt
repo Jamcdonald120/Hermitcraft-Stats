@@ -1,0 +1,4 @@
+minecraft.dropped.angler_pottery_sherd
+2: falsesymmetry: 1
+2: Zedaph: 1
+Total 2

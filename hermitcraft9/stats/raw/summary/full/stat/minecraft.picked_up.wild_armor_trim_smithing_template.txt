@@ -1,0 +1,6 @@
+minecraft.picked_up.wild_armor_trim_smithing_template
+4: Grian: 2
+4: Xisuma: 1
+4: cubfan135: 1
+4: Zedaph: 1
+Total 5

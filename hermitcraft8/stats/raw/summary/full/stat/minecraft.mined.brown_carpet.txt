@@ -1,0 +1,12 @@
+minecraft.mined.brown_carpet
+10: PearlescentMoon: 101
+10: impulseSV: 24
+10: falsesymmetry: 23
+10: GoodTimeWithScar: 14
+10: BdoubleO100: 12
+10: Renthedog: 5
+10: Tango: 4
+10: Welsknight: 3
+10: Keralis1: 2
+10: Grian: 1
+Total 189

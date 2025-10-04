@@ -1,0 +1,26 @@
+minecraft.crafted.diamond_sword
+24: iJevin: 38
+24: Zedaph: 22
+24: Keralis1: 13
+24: Grian: 10
+24: Etho: 10
+24: MumboJumbo: 10
+24: Xisuma: 8
+24: GoodTimeWithScar: 8
+24: Tango: 7
+24: impulseSV: 7
+24: Renthedog: 6
+24: iskall85: 6
+24: cubfan135: 5
+24: Stressmonster101: 4
+24: VintageBeef: 3
+24: ZombieCleo: 3
+24: joehillssays: 2
+24: xBCrafted: 2
+24: falsesymmetry: 2
+24: Welsknight: 2
+24: hypnotizd: 2
+24: Tinfoilchef: 2
+24: Docm77: 1
+24: BdoubleO100: 1
+Total 174

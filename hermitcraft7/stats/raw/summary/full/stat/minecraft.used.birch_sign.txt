@@ -1,0 +1,25 @@
+minecraft.used.birch_sign
+23: impulseSV: 2435
+23: cubfan135: 1405
+23: joehillssays: 1167
+23: Grian: 528
+23: ZombieCleo: 337
+23: Tango: 311
+23: Stressmonster101: 255
+23: iskall85: 158
+23: VintageBeef: 137
+23: falsesymmetry: 135
+23: Xisuma: 131
+23: Keralis1: 94
+23: BdoubleO100: 85
+23: MumboJumbo: 81
+23: Renthedog: 76
+23: Etho: 65
+23: xBCrafted: 64
+23: GoodTimeWithScar: 43
+23: iJevin: 33
+23: Zedaph: 16
+23: hypnotizd: 15
+23: Docm77: 6
+23: Welsknight: 5
+Total 7582

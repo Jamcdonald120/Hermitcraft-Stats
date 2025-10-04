@@ -1,0 +1,4 @@
+minecraft.picked_up.globe_banner_pattern
+2: RentheKing: 15
+2: cubfan135: 5
+Total 20

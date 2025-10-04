@@ -1,0 +1,20 @@
+minecraft.picked_up.jungle_planks
+18: PearlescentMoon: 1572
+18: GeminiTay: 182
+18: Docm77: 139
+18: GoodTimeWithScar: 132
+18: Grian: 122
+18: iskall85: 121
+18: Etho: 78
+18: BdoubleO100: 70
+18: impulseSV: 55
+18: iJevin: 48
+18: Keralis1: 39
+18: Renthedog: 27
+18: Tango: 14
+18: hypnotizd: 7
+18: MumboJumbo: 5
+18: ZombieCleo: 4
+18: Welsknight: 3
+18: Xisuma: 1
+Total 2619

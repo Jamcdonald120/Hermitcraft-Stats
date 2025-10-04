@@ -1,0 +1,5 @@
+minecraft.dropped.chipped_anvil
+3: Tango: 3
+3: Renthedog: 1
+3: Grian: 1
+Total 5

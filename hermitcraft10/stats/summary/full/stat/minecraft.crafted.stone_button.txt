@@ -1,0 +1,26 @@
+minecraft.crafted.stone_button
+24: impulseSV: 3061
+24: Docm77: 949
+24: Etho: 905
+24: BdoubleO100: 526
+24: iJevin: 490
+24: Tango: 400
+24: Renthedog: 374
+24: Keralis1: 288
+24: falsesymmetry: 277
+24: cubfan135: 245
+24: VintageBeef: 173
+24: Xisuma: 165
+24: Mumbo: 162
+24: ZombieCleo: 144
+24: PearlescentMoon: 127
+24: xBCrafted: 118
+24: GoodTimeWithScar: 80
+24: Zedaph: 76
+24: joehillssays: 69
+24: Grian: 45
+24: GeminiTay: 26
+24: hypnotizd: 21
+24: Smallishbeans: 10
+24: Skizzleman: 8
+Total 8739

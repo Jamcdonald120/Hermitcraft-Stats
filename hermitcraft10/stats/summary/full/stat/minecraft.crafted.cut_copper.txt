@@ -1,0 +1,15 @@
+minecraft.crafted.cut_copper
+13: falsesymmetry: 208
+13: Tango: 144
+13: Grian: 132
+13: cubfan135: 132
+13: xBCrafted: 100
+13: Mumbo: 76
+13: GoodTimeWithScar: 32
+13: Renthedog: 24
+13: Xisuma: 12
+13: joehillssays: 8
+13: Etho: 8
+13: iJevin: 4
+13: impulseSV: 4
+Total 884

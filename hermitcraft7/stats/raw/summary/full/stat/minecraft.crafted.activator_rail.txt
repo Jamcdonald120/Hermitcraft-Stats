@@ -1,0 +1,13 @@
+minecraft.crafted.activator_rail
+11: Renthedog: 60
+11: Tango: 54
+11: falsesymmetry: 54
+11: Keralis1: 18
+11: MumboJumbo: 12
+11: Xisuma: 6
+11: joehillssays: 6
+11: BdoubleO100: 6
+11: iskall85: 6
+11: GoodTimeWithScar: 6
+11: impulseSV: 6
+Total 234

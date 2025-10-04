@@ -1,0 +1,4 @@
+minecraft.dropped.popped_chorus_fruit
+2: Tango: 64
+2: Zedaph: 24
+Total 88

@@ -1,0 +1,16 @@
+minecraft.dropped.coarse_dirt
+14: PearlescentMoon: 463
+14: MumboJumbo: 186
+14: Etho: 180
+14: Grian: 128
+14: Renthedog: 127
+14: Docm77: 112
+14: Keralis1: 83
+14: GoodTimeWithScar: 76
+14: iskall85: 13
+14: BdoubleO100: 6
+14: falsesymmetry: 4
+14: iJevin: 1
+14: Tango: 1
+14: cubfan135: 1
+Total 1381

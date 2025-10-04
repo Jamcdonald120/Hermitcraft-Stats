@@ -1,0 +1,19 @@
+minecraft.dropped.hopper
+17: Tango: 224
+17: Xisuma: 209
+17: GeminiTay: 137
+17: Stressmonster101: 77
+17: cubfan135: 64
+17: Docm77: 44
+17: Etho: 43
+17: Zedaph: 39
+17: impulseSV: 34
+17: falsesymmetry: 30
+17: iJevin: 27
+17: GoodTimeWithScar: 13
+17: VintageBeef: 4
+17: BdoubleO100: 3
+17: Keralis1: 3
+17: Renthedog: 1
+17: PearlescentMoon: 1
+Total 953

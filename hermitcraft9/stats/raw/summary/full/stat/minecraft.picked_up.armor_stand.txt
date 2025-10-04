@@ -1,0 +1,29 @@
+minecraft.picked_up.armor_stand
+27: ZombieCleo: 424
+27: iJevin: 299
+27: GoodTimeWithScar: 249
+27: Tango: 201
+27: Zedaph: 197
+27: Xisuma: 176
+27: cubfan135: 116
+27: Docm77: 67
+27: Grian: 61
+27: impulseSV: 59
+27: VintageBeef: 43
+27: falsesymmetry: 36
+27: PearlescentMoon: 28
+27: Keralis1: 25
+27: GeminiTay: 22
+27: OrionSound: 21
+27: BdoubleO100: 20
+27: xBCrafted: 13
+27: Etho: 10
+27: Smallishbeans: 7
+27: joehillssays: 6
+27: iskall85: 5
+27: Renthedog: 2
+27: RentheKing: 2
+27: MythicalSausage: 1
+27: Skizzleman: 1
+27: Mumbo: 1
+Total 2092

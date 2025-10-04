@@ -1,0 +1,14 @@
+minecraft.picked_up.waxed_weathered_copper_bulb
+12: impulseSV: 130
+12: Keralis1: 49
+12: GoodTimeWithScar: 37
+12: Tango: 35
+12: Etho: 18
+12: Xisuma: 15
+12: cubfan135: 14
+12: Docm77: 13
+12: Grian: 9
+12: PearlescentMoon: 6
+12: iJevin: 5
+12: Renthedog: 1
+Total 332

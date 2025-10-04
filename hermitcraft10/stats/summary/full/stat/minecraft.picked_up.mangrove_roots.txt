@@ -1,0 +1,26 @@
+minecraft.picked_up.mangrove_roots
+24: Renthedog: 23017
+24: Smallishbeans: 16846
+24: Skizzleman: 10940
+24: GoodTimeWithScar: 9863
+24: falsesymmetry: 3850
+24: Docm77: 3771
+24: BdoubleO100: 2838
+24: PearlescentMoon: 2812
+24: Etho: 2313
+24: GeminiTay: 2155
+24: Grian: 2088
+24: Xisuma: 1184
+24: iJevin: 735
+24: cubfan135: 704
+24: impulseSV: 691
+24: VintageBeef: 458
+24: Mumbo: 407
+24: Keralis1: 374
+24: Zedaph: 327
+24: hypnotizd: 316
+24: Welsknight: 266
+24: ZombieCleo: 38
+24: joehillssays: 37
+24: Tango: 18
+Total 86048

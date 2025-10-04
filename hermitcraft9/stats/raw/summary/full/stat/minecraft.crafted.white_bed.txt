@@ -1,0 +1,29 @@
+minecraft.crafted.white_bed
+27: Zedaph: 256
+27: Xisuma: 215
+27: RentheKing: 181
+27: joehillssays: 37
+27: Docm77: 35
+27: Keralis1: 31
+27: iJevin: 20
+27: cubfan135: 20
+27: Tango: 18
+27: impulseSV: 16
+27: ZombieCleo: 14
+27: hypnotizd: 14
+27: Stressmonster101: 13
+27: Renthedog: 12
+27: xBCrafted: 11
+27: Grian: 6
+27: iskall85: 6
+27: Etho: 6
+27: VintageBeef: 5
+27: BdoubleO100: 5
+27: Welsknight: 3
+27: Mumbo: 3
+27: Pixlriffs: 2
+27: Smajor1995: 1
+27: GeminiTay: 1
+27: falsesymmetry: 1
+27: MumboJumbo: 1
+Total 933

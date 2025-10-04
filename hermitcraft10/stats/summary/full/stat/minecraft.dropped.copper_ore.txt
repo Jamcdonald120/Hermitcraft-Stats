@@ -1,0 +1,24 @@
+minecraft.dropped.copper_ore
+22: Zedaph: 454
+22: xBCrafted: 415
+22: iJevin: 297
+22: GoodTimeWithScar: 294
+22: GeminiTay: 164
+22: Tango: 152
+22: Grian: 120
+22: Renthedog: 113
+22: falsesymmetry: 96
+22: impulseSV: 85
+22: Docm77: 82
+22: BdoubleO100: 53
+22: Keralis1: 39
+22: Etho: 37
+22: cubfan135: 32
+22: Mumbo: 29
+22: Xisuma: 14
+22: Smallishbeans: 10
+22: PearlescentMoon: 8
+22: joehillssays: 7
+22: ZombieCleo: 7
+22: Skizzleman: 5
+Total 2513

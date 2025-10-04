@@ -1,0 +1,24 @@
+minecraft.picked_up.coarse_dirt
+22: GoodTimeWithScar: 9165
+22: cubfan135: 3220
+22: Grian: 2186
+22: iskall85: 1570
+22: Renthedog: 1172
+22: BdoubleO100: 719
+22: falsesymmetry: 562
+22: Xisuma: 473
+22: iJevin: 384
+22: MumboJumbo: 196
+22: Docm77: 161
+22: Keralis1: 136
+22: Stressmonster101: 75
+22: Tango: 43
+22: Welsknight: 26
+22: PythonGB: 24
+22: impulseSV: 19
+22: joehillssays: 16
+22: ZombieCleo: 14
+22: Zedaph: 12
+22: xBCrafted: 9
+22: Jura_Whitey: 2
+Total 20184

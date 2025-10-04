@@ -1,0 +1,23 @@
+minecraft.picked_up.painting
+21: iJevin: 2717
+21: PearlescentMoon: 300
+21: Tango: 294
+21: cubfan135: 187
+21: GeminiTay: 56
+21: Grian: 39
+21: Keralis1: 37
+21: Renthedog: 35
+21: BdoubleO100: 34
+21: iskall85: 32
+21: joehillssays: 30
+21: GoodTimeWithScar: 28
+21: falsesymmetry: 22
+21: xBCrafted: 17
+21: ZombieCleo: 17
+21: Welsknight: 16
+21: Xisuma: 6
+21: Etho: 6
+21: impulseSV: 3
+21: MumboJumbo: 2
+21: VintageBeef: 1
+Total 3879

@@ -1,0 +1,27 @@
+minecraft.crafted.lantern
+25: Etho: 939
+25: iJevin: 930
+25: cubfan135: 711
+25: ZombieCleo: 647
+25: Tango: 579
+25: Keralis1: 556
+25: Welsknight: 422
+25: joehillssays: 409
+25: GoodTimeWithScar: 371
+25: Smallishbeans: 358
+25: Grian: 305
+25: falsesymmetry: 298
+25: Xisuma: 215
+25: impulseSV: 184
+25: PearlescentMoon: 155
+25: Renthedog: 141
+25: Docm77: 135
+25: VintageBeef: 131
+25: Skizzleman: 111
+25: GeminiTay: 105
+25: hypnotizd: 74
+25: Mumbo: 71
+25: BdoubleO100: 56
+25: xBCrafted: 50
+25: Zedaph: 45
+Total 7998

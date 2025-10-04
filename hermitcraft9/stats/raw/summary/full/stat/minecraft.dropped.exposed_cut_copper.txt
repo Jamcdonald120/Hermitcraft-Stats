@@ -1,0 +1,5 @@
+minecraft.dropped.exposed_cut_copper
+3: RentheKing: 12
+3: Zedaph: 3
+3: impulseSV: 1
+Total 16

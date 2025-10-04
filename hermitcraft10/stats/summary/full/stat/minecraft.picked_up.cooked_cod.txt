@@ -1,0 +1,29 @@
+minecraft.picked_up.cooked_cod
+27: Grian: 2040
+27: PearlescentMoon: 1315
+27: Skizzleman: 890
+27: Renthedog: 356
+27: iJevin: 353
+27: falsesymmetry: 175
+27: Etho: 175
+27: Tango: 170
+27: impulseSV: 147
+27: GoodTimeWithScar: 98
+27: BdoubleO100: 92
+27: GeminiTay: 87
+27: cubfan135: 84
+27: Keralis1: 74
+27: joehillssays: 59
+27: Zedaph: 52
+27: ZombieCleo: 30
+27: Xisuma: 25
+27: Mumbo: 11
+27: SolidarityGaming: 10
+27: VintageBeef: 9
+27: Smallishbeans: 9
+27: hypnotizd: 4
+27: xBCrafted: 3
+27: InTheLittleWood: 2
+27: HBomb94: 2
+27: Docm77: 1
+Total 6273

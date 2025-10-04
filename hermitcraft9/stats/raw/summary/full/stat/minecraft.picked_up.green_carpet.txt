@@ -1,0 +1,22 @@
+minecraft.picked_up.green_carpet
+20: PearlescentMoon: 11870
+20: VintageBeef: 11065
+20: impulseSV: 268
+20: Xisuma: 69
+20: iJevin: 33
+20: Keralis1: 33
+20: GoodTimeWithScar: 21
+20: falsesymmetry: 16
+20: cubfan135: 16
+20: Zedaph: 12
+20: BdoubleO100: 9
+20: Stressmonster101: 8
+20: iskall85: 5
+20: ZombieCleo: 3
+20: Docm77: 2
+20: MythicalSausage: 2
+20: Tango: 2
+20: Etho: 2
+20: Renthedog: 1
+20: joehillssays: 1
+Total 23438

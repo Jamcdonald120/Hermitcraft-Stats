@@ -1,0 +1,21 @@
+minecraft.dropped.leather
+19: Xisuma: 4228
+19: Zedaph: 2922
+19: Tango: 686
+19: Keralis1: 415
+19: Grian: 384
+19: iskall85: 266
+19: cubfan135: 177
+19: hypnotizd: 172
+19: Renthedog: 128
+19: GoodTimeWithScar: 109
+19: iJevin: 80
+19: Etho: 69
+19: VintageBeef: 63
+19: xBCrafted: 41
+19: falsesymmetry: 19
+19: MumboJumbo: 17
+19: impulseSV: 17
+19: BdoubleO100: 7
+19: Docm77: 3
+Total 9803

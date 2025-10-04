@@ -1,0 +1,6 @@
+minecraft.crafted.weathered_copper_grate
+4: ZombieCleo: 80
+4: Tango: 32
+4: BdoubleO100: 12
+4: Keralis1: 4
+Total 128

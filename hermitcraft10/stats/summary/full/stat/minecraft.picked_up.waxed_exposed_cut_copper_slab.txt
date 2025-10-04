@@ -1,0 +1,12 @@
+minecraft.picked_up.waxed_exposed_cut_copper_slab
+10: Etho: 97
+10: Xisuma: 35
+10: Renthedog: 13
+10: falsesymmetry: 4
+10: Smallishbeans: 3
+10: BdoubleO100: 3
+10: Mumbo: 3
+10: GeminiTay: 1
+10: GoodTimeWithScar: 1
+10: Keralis1: 1
+Total 161

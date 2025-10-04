@@ -1,0 +1,5 @@
+minecraft.crafted.weathered_cut_copper_slab
+3: BdoubleO100: 372
+3: Tango: 120
+3: GoodTimeWithScar: 64
+Total 556

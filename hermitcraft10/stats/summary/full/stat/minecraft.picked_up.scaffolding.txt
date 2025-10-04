@@ -1,0 +1,28 @@
+minecraft.picked_up.scaffolding
+26: iJevin: 22487
+26: Xisuma: 18858
+26: joehillssays: 16705
+26: Tango: 15564
+26: BdoubleO100: 14327
+26: impulseSV: 12833
+26: Skizzleman: 11786
+26: Docm77: 10952
+26: GeminiTay: 10139
+26: GoodTimeWithScar: 9954
+26: cubfan135: 9204
+26: falsesymmetry: 8802
+26: Renthedog: 7909
+26: Keralis1: 7095
+26: Grian: 4276
+26: Zedaph: 3605
+26: hypnotizd: 2919
+26: PearlescentMoon: 2389
+26: xBCrafted: 2388
+26: Smallishbeans: 1203
+26: VintageBeef: 1167
+26: ZombieCleo: 1137
+26: Etho: 940
+26: Mumbo: 76
+26: Welsknight: 55
+26: JamalMC_: 46
+Total 196816

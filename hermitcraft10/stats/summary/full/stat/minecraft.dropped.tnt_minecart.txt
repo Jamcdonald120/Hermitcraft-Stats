@@ -1,0 +1,9 @@
+minecraft.dropped.tnt_minecart
+7: impulseSV: 28
+7: Grian: 12
+7: Etho: 7
+7: Renthedog: 6
+7: Tango: 1
+7: Smallishbeans: 1
+7: GoodTimeWithScar: 1
+Total 56

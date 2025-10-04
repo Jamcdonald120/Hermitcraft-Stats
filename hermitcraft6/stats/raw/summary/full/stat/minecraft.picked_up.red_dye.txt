@@ -1,0 +1,18 @@
+minecraft.picked_up.red_dye
+16: iJevin: 984
+16: falsesymmetry: 510
+16: cubfan135: 233
+16: iskall85: 196
+16: Grian: 169
+16: Zedaph: 151
+16: MumboJumbo: 132
+16: ZombieCleo: 120
+16: Renthedog: 102
+16: GoodTimeWithScar: 93
+16: PythonGB: 78
+16: Xisuma: 45
+16: Tango: 24
+16: Docm77: 2
+16: joehillssays: 2
+16: BdoubleO100: 1
+Total 2842

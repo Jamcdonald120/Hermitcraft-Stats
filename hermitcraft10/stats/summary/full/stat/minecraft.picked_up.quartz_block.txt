@@ -1,0 +1,25 @@
+minecraft.picked_up.quartz_block
+23: Renthedog: 8271
+23: hypnotizd: 1637
+23: cubfan135: 856
+23: Zedaph: 636
+23: iJevin: 551
+23: Grian: 372
+23: Skizzleman: 279
+23: falsesymmetry: 231
+23: impulseSV: 175
+23: Etho: 114
+23: VintageBeef: 109
+23: ZombieCleo: 102
+23: joehillssays: 78
+23: GeminiTay: 55
+23: GoodTimeWithScar: 51
+23: Mumbo: 40
+23: Docm77: 33
+23: BdoubleO100: 15
+23: Keralis1: 7
+23: Tango: 5
+23: Welsknight: 4
+23: Xisuma: 2
+23: Smallishbeans: 2
+Total 13625

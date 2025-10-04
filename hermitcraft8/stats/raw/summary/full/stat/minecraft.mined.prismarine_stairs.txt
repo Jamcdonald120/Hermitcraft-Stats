@@ -1,0 +1,4 @@
+minecraft.mined.prismarine_stairs
+2: GeminiTay: 5
+2: BdoubleO100: 4
+Total 9

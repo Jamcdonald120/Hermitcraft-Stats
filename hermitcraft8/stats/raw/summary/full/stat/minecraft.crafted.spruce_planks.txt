@@ -1,0 +1,28 @@
+minecraft.crafted.spruce_planks
+26: PearlescentMoon: 66993
+26: GoodTimeWithScar: 32462
+26: Xisuma: 23143
+26: impulseSV: 21688
+26: Renthedog: 19224
+26: Grian: 17776
+26: Welsknight: 17516
+26: Tango: 16560
+26: BdoubleO100: 15444
+26: GeminiTay: 14764
+26: Etho: 13866
+26: Docm77: 9652
+26: ZombieCleo: 8444
+26: iJevin: 7600
+26: cubfan135: 6014
+26: xBCrafted: 5030
+26: Keralis1: 4684
+26: hypnotizd: 4192
+26: iskall85: 3940
+26: MumboJumbo: 3904
+26: joehillssays: 2508
+26: Stressmonster101: 2348
+26: VintageBeef: 1820
+26: falsesymmetry: 1352
+26: EvilXisuma: 92
+26: Zedaph: 60
+Total 321076

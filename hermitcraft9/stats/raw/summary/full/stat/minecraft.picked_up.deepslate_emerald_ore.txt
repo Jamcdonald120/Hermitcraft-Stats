@@ -1,0 +1,10 @@
+minecraft.picked_up.deepslate_emerald_ore
+8: cubfan135: 20
+8: iJevin: 10
+8: Grian: 5
+8: PearlescentMoon: 3
+8: Zedaph: 3
+8: Xisuma: 1
+8: Renthedog: 1
+8: VintageBeef: 1
+Total 44

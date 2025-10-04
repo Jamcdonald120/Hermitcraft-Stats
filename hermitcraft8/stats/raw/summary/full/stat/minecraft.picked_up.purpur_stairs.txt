@@ -1,0 +1,16 @@
+minecraft.picked_up.purpur_stairs
+14: hypnotizd: 50
+14: GoodTimeWithScar: 32
+14: cubfan135: 26
+14: Xisuma: 18
+14: Docm77: 15
+14: Keralis1: 15
+14: impulseSV: 9
+14: iJevin: 8
+14: Renthedog: 7
+14: VintageBeef: 4
+14: Grian: 3
+14: xBCrafted: 2
+14: PearlescentMoon: 1
+14: ZombieCleo: 1
+Total 191

@@ -1,0 +1,22 @@
+minecraft.mined.polished_tuff_stairs
+20: impulseSV: 923
+20: VintageBeef: 192
+20: GoodTimeWithScar: 141
+20: Welsknight: 127
+20: PearlescentMoon: 97
+20: Xisuma: 86
+20: Tango: 68
+20: Docm77: 60
+20: iJevin: 41
+20: cubfan135: 38
+20: joehillssays: 26
+20: Smallishbeans: 17
+20: BdoubleO100: 16
+20: Keralis1: 14
+20: ZombieCleo: 13
+20: Mumbo: 13
+20: hypnotizd: 8
+20: falsesymmetry: 2
+20: Zedaph: 2
+20: Grian: 1
+Total 1885

@@ -1,0 +1,6 @@
+minecraft.crafted.honey_bottle
+4: Xisuma: 80
+4: cubfan135: 20
+4: Tango: 4
+4: impulseSV: 4
+Total 108

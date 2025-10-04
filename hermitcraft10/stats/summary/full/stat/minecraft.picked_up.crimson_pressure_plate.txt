@@ -1,0 +1,5 @@
+minecraft.picked_up.crimson_pressure_plate
+3: Etho: 11
+3: cubfan135: 3
+3: impulseSV: 2
+Total 16

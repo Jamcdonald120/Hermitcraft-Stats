@@ -1,0 +1,21 @@
+minecraft.crafted.enchanted_book
+19: Keralis1: 4658
+19: Etho: 1735
+19: GoodTimeWithScar: 634
+19: hypnotizd: 225
+19: Grian: 205
+19: Stressmonster101: 160
+19: joehillssays: 106
+19: iskall85: 94
+19: xBCrafted: 85
+19: impulseSV: 76
+19: falsesymmetry: 75
+19: Docm77: 50
+19: cubfan135: 29
+19: Xisuma: 28
+19: MumboJumbo: 25
+19: iJevin: 14
+19: Welsknight: 3
+19: ZombieCleo: 2
+19: BdoubleO100: 1
+Total 8205

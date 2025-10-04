@@ -1,0 +1,5 @@
+minecraft.dropped.bamboo_door
+3: Keralis1: 10
+3: Zedaph: 4
+3: Xisuma: 1
+Total 15

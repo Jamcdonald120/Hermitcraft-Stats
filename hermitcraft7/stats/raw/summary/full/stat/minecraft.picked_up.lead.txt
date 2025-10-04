@@ -1,0 +1,26 @@
+minecraft.picked_up.lead
+24: GoodTimeWithScar: 543
+24: VintageBeef: 504
+24: Zedaph: 422
+24: Grian: 396
+24: BdoubleO100: 311
+24: joehillssays: 303
+24: Docm77: 252
+24: cubfan135: 247
+24: Xisuma: 224
+24: Tango: 164
+24: impulseSV: 133
+24: iskall85: 92
+24: iJevin: 85
+24: Renthedog: 72
+24: Etho: 69
+24: MumboJumbo: 69
+24: hypnotizd: 68
+24: Keralis1: 61
+24: falsesymmetry: 53
+24: ZombieCleo: 38
+24: xBCrafted: 34
+24: Stressmonster101: 31
+24: Welsknight: 7
+24: HermitcraftAlt: 1
+Total 4179

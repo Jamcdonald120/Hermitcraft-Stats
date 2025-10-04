@@ -1,0 +1,22 @@
+minecraft.picked_up.blue_wool
+20: iJevin: 13928
+20: Xisuma: 6523
+20: iskall85: 1019
+20: ZombieCleo: 1010
+20: cubfan135: 759
+20: Tinfoilchef: 492
+20: Tango: 121
+20: Keralis1: 85
+20: falsesymmetry: 78
+20: Biffa2001: 69
+20: Zedaph: 66
+20: Docm77: 45
+20: Grian: 37
+20: GoodTimeWithScar: 26
+20: BdoubleO100: 22
+20: Welsknight: 22
+20: Renthedog: 17
+20: MumboJumbo: 9
+20: HumanCleo: 4
+20: joehillssays: 3
+Total 24335

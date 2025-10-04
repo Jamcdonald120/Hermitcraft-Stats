@@ -1,0 +1,19 @@
+minecraft.dropped.stone_pressure_plate
+17: Tango: 226
+17: iJevin: 189
+17: Zedaph: 44
+17: GoodTimeWithScar: 27
+17: cubfan135: 24
+17: Etho: 10
+17: Docm77: 5
+17: Grian: 4
+17: BdoubleO100: 4
+17: iskall85: 4
+17: xBCrafted: 4
+17: Xisuma: 3
+17: PearlescentMoon: 3
+17: HBomb94: 3
+17: Renthedog: 2
+17: Keralis1: 2
+17: impulseSV: 1
+Total 555

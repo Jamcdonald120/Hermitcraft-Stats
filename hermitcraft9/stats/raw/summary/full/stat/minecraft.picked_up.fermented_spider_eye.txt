@@ -1,0 +1,6 @@
+minecraft.picked_up.fermented_spider_eye
+4: Grian: 128
+4: iJevin: 37
+4: Zedaph: 22
+4: Stressmonster101: 8
+Total 195

@@ -1,0 +1,5 @@
+minecraft.crafted.ward_armor_trim_smithing_template
+3: Docm77: 24
+3: Skizzleman: 6
+3: impulseSV: 6
+Total 36

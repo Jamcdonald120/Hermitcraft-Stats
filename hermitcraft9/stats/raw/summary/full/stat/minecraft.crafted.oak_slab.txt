@@ -1,0 +1,31 @@
+minecraft.crafted.oak_slab
+29: Etho: 6587
+29: Keralis1: 5446
+29: Docm77: 4610
+29: Xisuma: 1662
+29: GoodTimeWithScar: 1428
+29: impulseSV: 1128
+29: cubfan135: 1074
+29: Grian: 945
+29: ZombieCleo: 810
+29: xBCrafted: 738
+29: PearlescentMoon: 726
+29: VintageBeef: 498
+29: Tango: 432
+29: iJevin: 360
+29: Renthedog: 306
+29: iskall85: 300
+29: GeminiTay: 276
+29: falsesymmetry: 270
+29: joehillssays: 228
+29: BdoubleO100: 216
+29: Zedaph: 198
+29: MythicalSausage: 192
+29: Pixlriffs: 192
+29: Stressmonster101: 126
+29: hypnotizd: 84
+29: SolidarityGaming: 78
+29: Welsknight: 48
+29: Mumbo: 36
+29: MumboJumbo: 6
+Total 29000

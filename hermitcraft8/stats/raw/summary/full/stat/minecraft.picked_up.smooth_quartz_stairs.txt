@@ -1,0 +1,11 @@
+minecraft.picked_up.smooth_quartz_stairs
+9: Grian: 177
+9: PearlescentMoon: 163
+9: Zedaph: 109
+9: Welsknight: 84
+9: impulseSV: 84
+9: GoodTimeWithScar: 33
+9: Keralis1: 22
+9: xBCrafted: 5
+9: VintageBeef: 1
+Total 678

@@ -1,0 +1,14 @@
+minecraft.picked_up.activator_rail
+12: Tango: 419
+12: Zedaph: 148
+12: Xisuma: 139
+12: Docm77: 97
+12: cubfan135: 34
+12: iJevin: 20
+12: ZombieCleo: 18
+12: impulseSV: 17
+12: hypnotizd: 7
+12: Etho: 6
+12: GoodTimeWithScar: 6
+12: Stressmonster101: 1
+Total 912

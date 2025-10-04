@@ -1,0 +1,21 @@
+minecraft.picked_up.deepslate_brick_slab
+19: xBCrafted: 491
+19: iJevin: 414
+19: Renthedog: 159
+19: Docm77: 151
+19: impulseSV: 128
+19: Grian: 123
+19: GoodTimeWithScar: 123
+19: hypnotizd: 82
+19: Xisuma: 57
+19: Zedaph: 23
+19: Stressmonster101: 22
+19: Tango: 14
+19: PearlescentMoon: 14
+19: MumboJumbo: 12
+19: ZombieCleo: 10
+19: BdoubleO100: 8
+19: cubfan135: 6
+19: VintageBeef: 3
+19: EvilXisuma: 2
+Total 1842

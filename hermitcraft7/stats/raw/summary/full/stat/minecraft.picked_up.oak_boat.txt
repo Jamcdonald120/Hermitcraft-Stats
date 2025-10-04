@@ -1,0 +1,27 @@
+minecraft.picked_up.oak_boat
+25: hypnotizd: 143
+25: impulseSV: 130
+25: Renthedog: 116
+25: cubfan135: 116
+25: falsesymmetry: 102
+25: Keralis1: 102
+25: joehillssays: 101
+25: iJevin: 99
+25: Etho: 80
+25: Docm77: 75
+25: Tango: 64
+25: VintageBeef: 56
+25: Zedaph: 56
+25: Stressmonster101: 47
+25: iskall85: 37
+25: Xisuma: 29
+25: Grian: 28
+25: MumboJumbo: 28
+25: ZombieCleo: 17
+25: xBCrafted: 12
+25: Welsknight: 10
+25: BdoubleO100: 6
+25: GoodTimeWithScar: 6
+25: Tinfoilchef: 3
+25: Helsknight: 2
+Total 1465

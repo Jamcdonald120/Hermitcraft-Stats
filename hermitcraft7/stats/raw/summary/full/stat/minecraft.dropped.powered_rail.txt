@@ -1,0 +1,20 @@
+minecraft.dropped.powered_rail
+18: Zedaph: 650
+18: impulseSV: 156
+18: iskall85: 123
+18: Tango: 89
+18: Grian: 76
+18: Stressmonster101: 72
+18: xisumavoid: 64
+18: Xisuma: 57
+18: Keralis1: 35
+18: Etho: 29
+18: GoodTimeWithScar: 19
+18: cubfan135: 13
+18: Renthedog: 5
+18: Docm77: 3
+18: xBCrafted: 1
+18: ZombieCleo: 1
+18: hypnotizd: 1
+18: MumboJumbo: 1
+Total 1395

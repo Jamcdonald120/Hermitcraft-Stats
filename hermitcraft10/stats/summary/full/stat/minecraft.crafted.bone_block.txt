@@ -1,0 +1,26 @@
+minecraft.crafted.bone_block
+24: Renthedog: 14244
+24: Etho: 9926
+24: impulseSV: 8330
+24: BdoubleO100: 6236
+24: GoodTimeWithScar: 4987
+24: Skizzleman: 2783
+24: Keralis1: 2256
+24: joehillssays: 2079
+24: cubfan135: 1982
+24: Smallishbeans: 1929
+24: falsesymmetry: 1868
+24: PearlescentMoon: 1423
+24: Grian: 1403
+24: xBCrafted: 903
+24: Xisuma: 358
+24: Tango: 315
+24: ZombieCleo: 276
+24: hypnotizd: 239
+24: iJevin: 158
+24: Mumbo: 101
+24: GeminiTay: 64
+24: Zedaph: 49
+24: Docm77: 24
+24: VintageBeef: 23
+Total 61956

@@ -1,0 +1,4 @@
+minecraft.crafted.lily_pad
+2: Tango: 10
+2: Zedaph: 2
+Total 12

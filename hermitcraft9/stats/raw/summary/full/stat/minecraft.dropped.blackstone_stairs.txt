@@ -1,0 +1,5 @@
+minecraft.dropped.blackstone_stairs
+3: Tango: 64
+3: iJevin: 10
+3: Renthedog: 2
+Total 76

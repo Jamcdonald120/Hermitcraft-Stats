@@ -1,0 +1,7 @@
+minecraft.dropped.blackstone_wall
+5: Tango: 122
+5: impulseSV: 63
+5: GoodTimeWithScar: 57
+5: falsesymmetry: 6
+5: iJevin: 1
+Total 249

@@ -1,0 +1,23 @@
+minecraft.picked_up.cobblestone_stairs
+21: MumboJumbo: 290
+21: cubfan135: 269
+21: Tango: 258
+21: GoodTimeWithScar: 208
+21: Stressmonster101: 203
+21: joehillssays: 110
+21: Zedaph: 109
+21: Grian: 99
+21: impulseSV: 74
+21: VintageBeef: 66
+21: Keralis1: 47
+21: Xisuma: 45
+21: Docm77: 42
+21: xBCrafted: 42
+21: Renthedog: 17
+21: BdoubleO100: 17
+21: iskall85: 13
+21: iJevin: 9
+21: ZombieCleo: 6
+21: falsesymmetry: 4
+21: hypnotizd: 2
+Total 1930

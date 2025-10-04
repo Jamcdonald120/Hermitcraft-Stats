@@ -1,0 +1,25 @@
+minecraft.picked_up.sculk_sensor
+23: cubfan135: 1949
+23: iJevin: 1074
+23: Tango: 942
+23: Etho: 702
+23: Docm77: 174
+23: PearlescentMoon: 101
+23: impulseSV: 49
+23: ZombieCleo: 32
+23: hypnotizd: 30
+23: GoodTimeWithScar: 25
+23: Skizzleman: 19
+23: Smallishbeans: 18
+23: Grian: 17
+23: Keralis1: 17
+23: GeminiTay: 12
+23: Renthedog: 6
+23: BdoubleO100: 5
+23: Zedaph: 3
+23: VintageBeef: 2
+23: xBCrafted: 2
+23: Welsknight: 2
+23: falsesymmetry: 1
+23: Mumbo: 1
+Total 5183

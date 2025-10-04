@@ -1,0 +1,17 @@
+minecraft.picked_up.bamboo_raft
+15: GoodTimeWithScar: 64
+15: Etho: 51
+15: Docm77: 35
+15: impulseSV: 21
+15: cubfan135: 19
+15: Tango: 18
+15: Skizzleman: 7
+15: Mumbo: 7
+15: Renthedog: 6
+15: falsesymmetry: 6
+15: VintageBeef: 5
+15: Keralis1: 5
+15: GeminiTay: 4
+15: Grian: 3
+15: ZombieCleo: 3
+Total 254

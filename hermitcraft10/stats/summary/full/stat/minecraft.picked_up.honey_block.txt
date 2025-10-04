@@ -1,0 +1,26 @@
+minecraft.picked_up.honey_block
+24: Smallishbeans: 11905
+24: cubfan135: 3106
+24: Xisuma: 2203
+24: impulseSV: 1787
+24: Renthedog: 1375
+24: Etho: 808
+24: falsesymmetry: 740
+24: Tango: 469
+24: Docm77: 190
+24: PearlescentMoon: 147
+24: iJevin: 114
+24: BdoubleO100: 84
+24: Mumbo: 81
+24: GoodTimeWithScar: 79
+24: SolidarityGaming: 71
+24: Welsknight: 64
+24: GeminiTay: 57
+24: Keralis1: 46
+24: joehillssays: 25
+24: Grian: 25
+24: hypnotizd: 23
+24: ZombieCleo: 14
+24: Skizzleman: 11
+24: VintageBeef: 2
+Total 23426

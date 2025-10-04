@@ -1,0 +1,23 @@
+minecraft.picked_up.shield
+21: GoodTimeWithScar: 103
+21: cubfan135: 98
+21: Grian: 29
+21: Docm77: 25
+21: impulseSV: 24
+21: Xisuma: 22
+21: Renthedog: 21
+21: PythonGB: 12
+21: Stressmonster101: 12
+21: iskall85: 11
+21: falsesymmetry: 9
+21: Tango: 7
+21: Biffa2001: 4
+21: Keralis1: 3
+21: Zedaph: 3
+21: EvilXisuma: 1
+21: iJevin: 1
+21: joehillssays: 1
+21: BdoubleO100: 1
+21: xBCrafted: 1
+21: ZombieCleo: 1
+Total 389

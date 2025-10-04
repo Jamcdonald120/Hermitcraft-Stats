@@ -1,0 +1,5 @@
+minecraft.crafted.coast_armor_trim_smithing_template
+3: Docm77: 30
+3: xBCrafted: 6
+3: joehillssays: 2
+Total 38

@@ -1,0 +1,24 @@
+minecraft.dropped.spectral_arrow
+22: Tango: 13584
+22: Xisuma: 4445
+22: iJevin: 2248
+22: cubfan135: 173
+22: iskall85: 169
+22: PearlescentMoon: 165
+22: MythicalSausage: 50
+22: Grian: 49
+22: ShubbleYT: 26
+22: GeminiTay: 21
+22: impulseSV: 19
+22: Docm77: 17
+22: ZombieCleo: 11
+22: Renthedog: 10
+22: GoodTimeWithScar: 9
+22: hypnotizd: 7
+22: BdoubleO100: 4
+22: Etho: 4
+22: Keralis1: 4
+22: Zedaph: 3
+22: OrionSound: 1
+22: Smallishbeans: 1
+Total 21020

@@ -1,0 +1,13 @@
+minecraft.picked_up.waxed_weathered_cut_copper
+11: Xisuma: 398
+11: Etho: 101
+11: BdoubleO100: 75
+11: impulseSV: 48
+11: falsesymmetry: 14
+11: Smallishbeans: 6
+11: VintageBeef: 5
+11: Renthedog: 1
+11: Grian: 1
+11: PearlescentMoon: 1
+11: GoodTimeWithScar: 1
+Total 651

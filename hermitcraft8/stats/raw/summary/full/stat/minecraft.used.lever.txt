@@ -1,0 +1,28 @@
+minecraft.used.lever
+26: impulseSV: 1205
+26: iJevin: 303
+26: Zedaph: 291
+26: cubfan135: 157
+26: Docm77: 145
+26: falsesymmetry: 133
+26: Xisuma: 131
+26: Tango: 101
+26: GeminiTay: 97
+26: hypnotizd: 84
+26: Keralis1: 69
+26: Etho: 60
+26: MumboJumbo: 49
+26: xBCrafted: 45
+26: VintageBeef: 39
+26: Welsknight: 39
+26: joehillssays: 35
+26: Renthedog: 32
+26: BdoubleO100: 31
+26: Grian: 26
+26: Stressmonster101: 26
+26: GoodTimeWithScar: 23
+26: PearlescentMoon: 13
+26: iskall85: 11
+26: Tinfoilchef: 5
+26: ZombieCleo: 4
+Total 3154

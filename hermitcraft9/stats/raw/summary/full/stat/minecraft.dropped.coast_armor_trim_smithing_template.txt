@@ -1,0 +1,4 @@
+minecraft.dropped.coast_armor_trim_smithing_template
+2: GeminiTay: 1
+2: Zedaph: 1
+Total 2

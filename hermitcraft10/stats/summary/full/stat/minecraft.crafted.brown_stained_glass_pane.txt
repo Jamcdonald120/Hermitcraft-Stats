@@ -1,0 +1,11 @@
+minecraft.crafted.brown_stained_glass_pane
+9: falsesymmetry: 432
+9: GoodTimeWithScar: 384
+9: Smallishbeans: 288
+9: Etho: 288
+9: Xisuma: 176
+9: Keralis1: 144
+9: BdoubleO100: 72
+9: cubfan135: 32
+9: Skizzleman: 16
+Total 1832

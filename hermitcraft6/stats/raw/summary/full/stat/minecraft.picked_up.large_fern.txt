@@ -1,0 +1,3 @@
+minecraft.picked_up.large_fern
+1: GoodTimeWithScar: 3
+Total 3

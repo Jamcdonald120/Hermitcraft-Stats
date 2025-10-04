@@ -1,0 +1,23 @@
+minecraft.picked_up.purpur_block
+21: PearlescentMoon: 1780
+21: iJevin: 465
+21: Renthedog: 453
+21: impulseSV: 323
+21: falsesymmetry: 254
+21: Tango: 184
+21: GoodTimeWithScar: 164
+21: cubfan135: 158
+21: Etho: 144
+21: Keralis1: 108
+21: xBCrafted: 92
+21: VintageBeef: 66
+21: Xisuma: 53
+21: Zedaph: 52
+21: hypnotizd: 49
+21: ZombieCleo: 36
+21: Docm77: 14
+21: GeminiTay: 13
+21: iskall85: 12
+21: Grian: 11
+21: Minerva246: 2
+Total 4433

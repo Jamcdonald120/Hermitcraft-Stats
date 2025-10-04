@@ -1,0 +1,4 @@
+minecraft.dropped.sandstone_stairs
+2: impulseSV: 106
+2: iJevin: 1
+Total 107

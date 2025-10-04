@@ -1,0 +1,19 @@
+minecraft.dropped.deepslate_bricks
+17: Tango: 1944
+17: RentheKing: 526
+17: Grian: 197
+17: Etho: 117
+17: GoodTimeWithScar: 93
+17: iJevin: 74
+17: cubfan135: 59
+17: impulseSV: 33
+17: falsesymmetry: 28
+17: MythicalSausage: 15
+17: Mumbo: 15
+17: Docm77: 6
+17: PearlescentMoon: 3
+17: Renthedog: 2
+17: MumboJumbo: 2
+17: ZombieCleo: 1
+17: hypnotizd: 1
+Total 3116

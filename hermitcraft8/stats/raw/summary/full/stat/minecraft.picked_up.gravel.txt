@@ -1,0 +1,28 @@
+minecraft.picked_up.gravel
+26: GoodTimeWithScar: 75010
+26: Welsknight: 31541
+26: Renthedog: 29438
+26: iJevin: 19096
+26: Grian: 10671
+26: PearlescentMoon: 9396
+26: Xisuma: 6511
+26: xBCrafted: 5716
+26: cubfan135: 5018
+26: hypnotizd: 4930
+26: falsesymmetry: 4227
+26: Zedaph: 4039
+26: Docm77: 3141
+26: Tango: 3011
+26: joehillssays: 2673
+26: Etho: 2457
+26: impulseSV: 2296
+26: ZombieCleo: 2289
+26: BdoubleO100: 2271
+26: MumboJumbo: 2257
+26: iskall85: 2093
+26: VintageBeef: 1973
+26: GeminiTay: 1403
+26: Stressmonster101: 969
+26: Keralis1: 748
+26: Tinfoilchef: 424
+Total 233598

@@ -1,0 +1,6 @@
+minecraft.dropped.cyan_stained_glass
+4: falsesymmetry: 382
+4: Keralis1: 9
+4: Zedaph: 7
+4: Etho: 4
+Total 402

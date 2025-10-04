@@ -1,0 +1,23 @@
+minecraft.picked_up.diamond_block
+21: GoodTimeWithScar: 1696
+21: iskall85: 1015
+21: cubfan135: 711
+21: iJevin: 396
+21: Docm77: 341
+21: Grian: 235
+21: MumboJumbo: 203
+21: impulseSV: 149
+21: Xisuma: 117
+21: Welsknight: 100
+21: Keralis1: 78
+21: Renthedog: 67
+21: Tango: 61
+21: falsesymmetry: 60
+21: Biffa2001: 29
+21: PythonGB: 25
+21: BdoubleO100: 25
+21: Tinfoilchef: 21
+21: joehillssays: 19
+21: Stressmonster101: 12
+21: ZombieCleo: 1
+Total 5361

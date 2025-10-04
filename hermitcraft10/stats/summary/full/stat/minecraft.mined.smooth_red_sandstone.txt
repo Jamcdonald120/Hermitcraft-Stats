@@ -1,0 +1,13 @@
+minecraft.mined.smooth_red_sandstone
+11: impulseSV: 909
+11: PearlescentMoon: 483
+11: Renthedog: 119
+11: Grian: 87
+11: iJevin: 86
+11: Smallishbeans: 61
+11: Keralis1: 10
+11: falsesymmetry: 7
+11: Xisuma: 1
+11: Tango: 1
+11: Etho: 1
+Total 1765

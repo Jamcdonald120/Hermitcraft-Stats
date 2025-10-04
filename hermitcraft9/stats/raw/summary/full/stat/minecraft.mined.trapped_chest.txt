@@ -1,0 +1,6 @@
+minecraft.mined.trapped_chest
+4: VintageBeef: 18
+4: GoodTimeWithScar: 5
+4: PearlescentMoon: 1
+4: xBCrafted: 1
+Total 25

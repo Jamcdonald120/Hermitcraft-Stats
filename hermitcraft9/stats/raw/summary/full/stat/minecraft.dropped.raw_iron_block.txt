@@ -1,0 +1,10 @@
+minecraft.dropped.raw_iron_block
+8: iJevin: 90
+8: Xisuma: 48
+8: VintageBeef: 30
+8: falsesymmetry: 6
+8: impulseSV: 4
+8: Tango: 3
+8: xBCrafted: 1
+8: cubfan135: 1
+Total 183

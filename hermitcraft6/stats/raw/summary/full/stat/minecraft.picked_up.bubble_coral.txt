@@ -1,0 +1,11 @@
+minecraft.picked_up.bubble_coral
+9: GoodTimeWithScar: 205
+9: cubfan135: 150
+9: Grian: 50
+9: iJevin: 10
+9: Xisuma: 6
+9: Docm77: 1
+9: PythonGB: 1
+9: iskall85: 1
+9: falsesymmetry: 1
+Total 425

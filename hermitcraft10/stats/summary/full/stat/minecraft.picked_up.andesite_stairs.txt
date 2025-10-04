@@ -1,0 +1,21 @@
+minecraft.picked_up.andesite_stairs
+19: impulseSV: 244
+19: Keralis1: 123
+19: iJevin: 104
+19: PearlescentMoon: 45
+19: Grian: 28
+19: Xisuma: 23
+19: Smallishbeans: 20
+19: Mumbo: 15
+19: Tango: 8
+19: Renthedog: 7
+19: GeminiTay: 7
+19: cubfan135: 5
+19: xBCrafted: 4
+19: GoodTimeWithScar: 3
+19: Docm77: 2
+19: joehillssays: 2
+19: BdoubleO100: 2
+19: VintageBeef: 1
+19: ZombieCleo: 1
+Total 644

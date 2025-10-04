@@ -1,0 +1,15 @@
+minecraft.dropped.yellow_wool
+13: Tango: 519
+13: Grian: 315
+13: iJevin: 178
+13: VintageBeef: 129
+13: impulseSV: 129
+13: iskall85: 93
+13: Stressmonster101: 34
+13: Renthedog: 8
+13: GeminiTay: 8
+13: falsesymmetry: 8
+13: GoodTimeWithScar: 8
+13: Etho: 1
+13: Zedaph: 1
+Total 1431

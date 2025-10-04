@@ -1,0 +1,4 @@
+minecraft.crafted.weathered_chiseled_copper
+2: BdoubleO100: 28
+2: ZombieCleo: 4
+Total 32

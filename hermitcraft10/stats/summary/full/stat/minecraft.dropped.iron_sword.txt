@@ -1,0 +1,22 @@
+minecraft.dropped.iron_sword
+20: Zedaph: 62
+20: Tango: 44
+20: impulseSV: 36
+20: GeminiTay: 35
+20: iJevin: 30
+20: cubfan135: 15
+20: Docm77: 12
+20: hypnotizd: 11
+20: Skizzleman: 10
+20: Mumbo: 7
+20: GoodTimeWithScar: 6
+20: Renthedog: 5
+20: Keralis1: 5
+20: Xisuma: 4
+20: Grian: 4
+20: PearlescentMoon: 2
+20: xBCrafted: 2
+20: Etho: 2
+20: VintageBeef: 1
+20: joehillssays: 1
+Total 294

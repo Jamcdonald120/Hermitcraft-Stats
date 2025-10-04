@@ -1,0 +1,14 @@
+minecraft.crafted.pink_terracotta
+12: impulseSV: 6216
+12: falsesymmetry: 5200
+12: Smallishbeans: 1736
+12: Etho: 1528
+12: joehillssays: 152
+12: VintageBeef: 144
+12: Xisuma: 88
+12: ZombieCleo: 88
+12: GoodTimeWithScar: 88
+12: Grian: 32
+12: BdoubleO100: 16
+12: Renthedog: 8
+Total 15296

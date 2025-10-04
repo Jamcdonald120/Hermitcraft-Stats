@@ -1,0 +1,3 @@
+minecraft.picked_up.light_gray_banner
+1: Keralis1: 2
+Total 2

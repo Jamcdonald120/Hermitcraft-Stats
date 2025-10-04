@@ -1,0 +1,22 @@
+minecraft.picked_up.dark_oak_sapling
+20: Renthedog: 3394
+20: Grian: 1632
+20: GoodTimeWithScar: 1610
+20: BdoubleO100: 1456
+20: Etho: 1053
+20: Zedaph: 596
+20: hypnotizd: 433
+20: Xisuma: 178
+20: Stressmonster101: 131
+20: Docm77: 103
+20: ZombieCleo: 99
+20: Keralis1: 87
+20: xBCrafted: 63
+20: impulseSV: 45
+20: iskall85: 44
+20: joehillssays: 34
+20: falsesymmetry: 15
+20: Tango: 13
+20: cubfan135: 8
+20: VintageBeef: 5
+Total 10999

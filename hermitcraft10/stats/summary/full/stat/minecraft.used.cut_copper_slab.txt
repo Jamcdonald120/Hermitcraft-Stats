@@ -1,0 +1,12 @@
+minecraft.used.cut_copper_slab
+10: falsesymmetry: 275
+10: cubfan135: 190
+10: Grian: 152
+10: Tango: 119
+10: GoodTimeWithScar: 67
+10: ZombieCleo: 22
+10: Mumbo: 17
+10: PearlescentMoon: 9
+10: VintageBeef: 7
+10: Welsknight: 1
+Total 859

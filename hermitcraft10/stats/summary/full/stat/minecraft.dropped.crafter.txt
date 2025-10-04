@@ -1,0 +1,9 @@
+minecraft.dropped.crafter
+7: Etho: 57
+7: Tango: 20
+7: Grian: 14
+7: Docm77: 2
+7: Xisuma: 1
+7: ZombieCleo: 1
+7: GoodTimeWithScar: 1
+Total 96

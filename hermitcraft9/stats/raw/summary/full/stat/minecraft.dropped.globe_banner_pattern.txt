@@ -1,0 +1,5 @@
+minecraft.dropped.globe_banner_pattern
+3: RentheKing: 15
+3: Renthedog: 5
+3: Keralis1: 2
+Total 22

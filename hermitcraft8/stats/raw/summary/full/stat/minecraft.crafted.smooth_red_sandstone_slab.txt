@@ -1,0 +1,5 @@
+minecraft.crafted.smooth_red_sandstone_slab
+3: cubfan135: 504
+3: PearlescentMoon: 12
+3: BdoubleO100: 8
+Total 524

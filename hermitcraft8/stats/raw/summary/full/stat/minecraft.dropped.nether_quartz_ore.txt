@@ -1,0 +1,12 @@
+minecraft.dropped.nether_quartz_ore
+10: iJevin: 256
+10: Renthedog: 13
+10: xBCrafted: 12
+10: Docm77: 11
+10: hypnotizd: 11
+10: GoodTimeWithScar: 6
+10: PearlescentMoon: 5
+10: Xisuma: 3
+10: cubfan135: 1
+10: Keralis1: 1
+Total 319

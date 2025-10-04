@@ -1,0 +1,25 @@
+minecraft.picked_up.porkchop
+23: GoodTimeWithScar: 769
+23: Welsknight: 91
+23: iJevin: 86
+23: Tango: 74
+23: PearlescentMoon: 56
+23: impulseSV: 52
+23: Renthedog: 49
+23: ZombieCleo: 41
+23: GeminiTay: 40
+23: VintageBeef: 34
+23: iskall85: 33
+23: Etho: 30
+23: MumboJumbo: 26
+23: Zedaph: 25
+23: Docm77: 23
+23: Grian: 21
+23: Stressmonster101: 21
+23: falsesymmetry: 16
+23: cubfan135: 13
+23: BdoubleO100: 12
+23: Xisuma: 4
+23: xBCrafted: 2
+23: Tinfoilchef: 1
+Total 1519

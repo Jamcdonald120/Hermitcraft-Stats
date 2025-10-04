@@ -1,0 +1,24 @@
+minecraft.mined.comparator
+22: impulseSV: 103
+22: Tango: 101
+22: cubfan135: 89
+22: iJevin: 75
+22: Docm77: 40
+22: Zedaph: 40
+22: Xisuma: 39
+22: xBCrafted: 37
+22: Etho: 25
+22: GoodTimeWithScar: 18
+22: MumboJumbo: 11
+22: Welsknight: 10
+22: Grian: 8
+22: hypnotizd: 8
+22: GeminiTay: 3
+22: iskall85: 3
+22: Renthedog: 2
+22: VintageBeef: 2
+22: joehillssays: 2
+22: BdoubleO100: 2
+22: falsesymmetry: 1
+22: Keralis1: 1
+Total 620

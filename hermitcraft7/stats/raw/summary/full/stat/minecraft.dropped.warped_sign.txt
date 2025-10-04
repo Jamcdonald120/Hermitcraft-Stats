@@ -1,0 +1,10 @@
+minecraft.dropped.warped_sign
+8: GoodTimeWithScar: 32
+8: Zedaph: 24
+8: Etho: 16
+8: BdoubleO100: 6
+8: Grian: 2
+8: cubfan135: 2
+8: Stressmonster101: 2
+8: falsesymmetry: 1
+Total 85

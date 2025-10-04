@@ -1,0 +1,21 @@
+minecraft.crafted.dropper
+19: Etho: 360
+19: Xisuma: 303
+19: impulseSV: 288
+19: Tango: 287
+19: GoodTimeWithScar: 250
+19: cubfan135: 189
+19: Docm77: 156
+19: MumboJumbo: 106
+19: falsesymmetry: 68
+19: Welsknight: 64
+19: Zedaph: 48
+19: Keralis1: 46
+19: iJevin: 34
+19: BdoubleO100: 27
+19: Renthedog: 22
+19: hypnotizd: 13
+19: GeminiTay: 3
+19: xBCrafted: 3
+19: PearlescentMoon: 1
+Total 2268

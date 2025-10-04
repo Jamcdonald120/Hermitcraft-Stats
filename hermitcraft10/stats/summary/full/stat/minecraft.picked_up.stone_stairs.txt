@@ -1,0 +1,27 @@
+minecraft.picked_up.stone_stairs
+25: PearlescentMoon: 501
+25: cubfan135: 464
+25: Xisuma: 351
+25: iJevin: 240
+25: BdoubleO100: 135
+25: Grian: 133
+25: falsesymmetry: 130
+25: impulseSV: 110
+25: Keralis1: 94
+25: ZombieCleo: 73
+25: GoodTimeWithScar: 68
+25: xBCrafted: 67
+25: Zedaph: 62
+25: Tango: 43
+25: Renthedog: 26
+25: Welsknight: 17
+25: Skizzleman: 16
+25: Docm77: 14
+25: joehillssays: 9
+25: Mumbo: 7
+25: hypnotizd: 5
+25: VintageBeef: 4
+25: Smallishbeans: 4
+25: Etho: 4
+25: GeminiTay: 2
+Total 2579

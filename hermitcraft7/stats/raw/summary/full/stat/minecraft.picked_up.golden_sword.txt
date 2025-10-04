@@ -1,0 +1,24 @@
+minecraft.picked_up.golden_sword
+22: VintageBeef: 1852
+22: iskall85: 502
+22: Xisuma: 381
+22: Etho: 365
+22: Keralis1: 354
+22: Docm77: 145
+22: xBCrafted: 135
+22: MumboJumbo: 78
+22: iJevin: 70
+22: cubfan135: 47
+22: hypnotizd: 18
+22: Grian: 17
+22: Tango: 13
+22: GoodTimeWithScar: 12
+22: joehillssays: 8
+22: impulseSV: 5
+22: Renthedog: 2
+22: falsesymmetry: 2
+22: Zedaph: 2
+22: BdoubleO100: 1
+22: Welsknight: 1
+22: ZombieCleo: 1
+Total 4011

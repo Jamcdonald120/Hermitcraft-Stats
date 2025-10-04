@@ -1,0 +1,4 @@
+minecraft.crafted.cactus_green
+2: xBCrafted: 51
+2: Biffa2001: 16
+Total 67

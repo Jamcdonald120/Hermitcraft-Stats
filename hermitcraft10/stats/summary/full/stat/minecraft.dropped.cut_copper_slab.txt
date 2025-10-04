@@ -1,0 +1,5 @@
+minecraft.dropped.cut_copper_slab
+3: Grian: 104
+3: cubfan135: 5
+3: GoodTimeWithScar: 1
+Total 110

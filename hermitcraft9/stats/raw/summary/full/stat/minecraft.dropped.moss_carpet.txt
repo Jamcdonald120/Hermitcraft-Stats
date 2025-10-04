@@ -1,0 +1,29 @@
+minecraft.dropped.moss_carpet
+27: Keralis1: 9180
+27: Docm77: 3226
+27: Etho: 1146
+27: Tango: 440
+27: Grian: 402
+27: GoodTimeWithScar: 367
+27: falsesymmetry: 331
+27: PearlescentMoon: 275
+27: Zedaph: 259
+27: iJevin: 177
+27: cubfan135: 144
+27: joehillssays: 104
+27: BdoubleO100: 103
+27: impulseSV: 85
+27: xBCrafted: 59
+27: Renthedog: 55
+27: Xisuma: 52
+27: iskall85: 32
+27: hypnotizd: 30
+27: RentheKing: 21
+27: Stressmonster101: 21
+27: ZombieCleo: 10
+27: VintageBeef: 5
+27: GeminiTay: 3
+27: Mumbo: 2
+27: MythicalSausage: 1
+27: MumboJumbo: 1
+Total 16531

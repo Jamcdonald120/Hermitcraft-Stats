@@ -1,0 +1,7 @@
+minecraft.dropped.waxed_oxidized_cut_copper_slab
+5: impulseSV: 37
+5: Docm77: 8
+5: iJevin: 6
+5: cubfan135: 3
+5: Etho: 1
+Total 55

@@ -1,0 +1,8 @@
+minecraft.dropped.tropical_fish
+6: Tango: 13
+6: BdoubleO100: 7
+6: xBCrafted: 5
+6: iJevin: 3
+6: Grian: 2
+6: GoodTimeWithScar: 1
+Total 31

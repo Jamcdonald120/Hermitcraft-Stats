@@ -1,0 +1,24 @@
+minecraft.picked_up.green_carpet
+22: Zedaph: 1869
+22: VintageBeef: 753
+22: cubfan135: 689
+22: joehillssays: 547
+22: GoodTimeWithScar: 418
+22: Etho: 112
+22: Stressmonster101: 112
+22: iskall85: 94
+22: Tango: 89
+22: Keralis1: 76
+22: Grian: 68
+22: MumboJumbo: 68
+22: xBCrafted: 62
+22: Xisuma: 28
+22: falsesymmetry: 24
+22: BdoubleO100: 19
+22: impulseSV: 11
+22: Docm77: 6
+22: Renthedog: 2
+22: iJevin: 1
+22: Welsknight: 1
+22: ZombieCleo: 1
+Total 5050

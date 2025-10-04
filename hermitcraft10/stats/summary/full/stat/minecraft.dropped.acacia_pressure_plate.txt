@@ -1,0 +1,5 @@
+minecraft.dropped.acacia_pressure_plate
+3: Renthedog: 4
+3: GoodTimeWithScar: 4
+3: Mumbo: 2
+Total 10

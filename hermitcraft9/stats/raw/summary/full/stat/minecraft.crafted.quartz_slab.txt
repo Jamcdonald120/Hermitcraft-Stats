@@ -1,0 +1,19 @@
+minecraft.crafted.quartz_slab
+17: Tango: 1318
+17: impulseSV: 934
+17: Xisuma: 800
+17: Pixlriffs: 276
+17: Renthedog: 270
+17: GoodTimeWithScar: 218
+17: Keralis1: 216
+17: GeminiTay: 168
+17: Zedaph: 162
+17: Grian: 132
+17: cubfan135: 40
+17: ZombieCleo: 40
+17: Docm77: 22
+17: Etho: 18
+17: Smajor1995: 12
+17: iJevin: 12
+17: PearlescentMoon: 4
+Total 4642

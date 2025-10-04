@@ -1,0 +1,21 @@
+minecraft.picked_up.cobweb
+19: iJevin: 2712
+19: Docm77: 1113
+19: Skizzleman: 640
+19: Tango: 595
+19: Etho: 583
+19: Keralis1: 450
+19: Xisuma: 353
+19: cubfan135: 316
+19: PearlescentMoon: 228
+19: falsesymmetry: 142
+19: impulseSV: 137
+19: BdoubleO100: 117
+19: Zedaph: 99
+19: VintageBeef: 25
+19: hypnotizd: 21
+19: ZombieCleo: 15
+19: Mumbo: 9
+19: GoodTimeWithScar: 2
+19: GeminiTay: 1
+Total 7558

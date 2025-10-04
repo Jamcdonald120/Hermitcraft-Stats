@@ -1,0 +1,24 @@
+minecraft.crafted.fishing_rod
+22: impulseSV: 231
+22: Docm77: 49
+22: Etho: 22
+22: ZombieCleo: 18
+22: BdoubleO100: 14
+22: Xisuma: 13
+22: GoodTimeWithScar: 13
+22: iJevin: 12
+22: Keralis1: 9
+22: VintageBeef: 6
+22: Renthedog: 5
+22: Grian: 4
+22: Skizzleman: 4
+22: joehillssays: 3
+22: falsesymmetry: 3
+22: cubfan135: 3
+22: Welsknight: 3
+22: Tango: 2
+22: GeminiTay: 1
+22: xBCrafted: 1
+22: Mumbo: 1
+22: hypnotizd: 1
+Total 418

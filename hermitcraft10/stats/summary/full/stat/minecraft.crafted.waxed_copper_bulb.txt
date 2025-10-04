@@ -1,0 +1,12 @@
+minecraft.crafted.waxed_copper_bulb
+10: impulseSV: 684
+10: Xisuma: 340
+10: Renthedog: 147
+10: xBCrafted: 135
+10: cubfan135: 78
+10: Smallishbeans: 39
+10: BdoubleO100: 10
+10: PearlescentMoon: 10
+10: Tango: 9
+10: Skizzleman: 4
+Total 1456

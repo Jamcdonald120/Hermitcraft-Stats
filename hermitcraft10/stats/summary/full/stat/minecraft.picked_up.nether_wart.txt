@@ -1,0 +1,26 @@
+minecraft.picked_up.nether_wart
+24: Tango: 8784
+24: Etho: 7332
+24: cubfan135: 5827
+24: BdoubleO100: 4964
+24: GoodTimeWithScar: 3579
+24: Welsknight: 2229
+24: Docm77: 2077
+24: Smallishbeans: 1438
+24: Xisuma: 1427
+24: falsesymmetry: 1266
+24: hypnotizd: 1037
+24: Renthedog: 704
+24: iJevin: 584
+24: VintageBeef: 552
+24: impulseSV: 416
+24: Zedaph: 286
+24: joehillssays: 262
+24: Keralis1: 226
+24: Skizzleman: 174
+24: ZombieCleo: 148
+24: GeminiTay: 130
+24: Grian: 123
+24: PearlescentMoon: 49
+24: xBCrafted: 49
+Total 43663

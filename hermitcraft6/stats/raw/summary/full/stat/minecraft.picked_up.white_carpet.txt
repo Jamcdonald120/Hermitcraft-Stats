@@ -1,0 +1,26 @@
+minecraft.picked_up.white_carpet
+24: iJevin: 931
+24: Docm77: 724
+24: Grian: 478
+24: impulseSV: 439
+24: falsesymmetry: 397
+24: cubfan135: 341
+24: Renthedog: 330
+24: GoodTimeWithScar: 318
+24: Xisuma: 309
+24: iskall85: 268
+24: ZombieCleo: 245
+24: Welsknight: 96
+24: Stressmonster101: 77
+24: MumboJumbo: 65
+24: Tinfoilchef: 48
+24: Biffa2001: 30
+24: BdoubleO100: 22
+24: xBCrafted: 19
+24: PythonGB: 12
+24: Tango: 10
+24: joehillssays: 9
+24: Keralis1: 6
+24: HumanCleo: 1
+24: Zedaph: 1
+Total 5176

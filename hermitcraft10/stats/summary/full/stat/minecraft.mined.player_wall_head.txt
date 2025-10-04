@@ -1,0 +1,25 @@
+minecraft.mined.player_wall_head
+23: Etho: 188
+23: Tango: 51
+23: iJevin: 41
+23: Skizzleman: 37
+23: PearlescentMoon: 29
+23: cubfan135: 29
+23: Keralis1: 29
+23: impulseSV: 29
+23: Renthedog: 26
+23: xBCrafted: 22
+23: Xisuma: 20
+23: falsesymmetry: 19
+23: GoodTimeWithScar: 19
+23: VintageBeef: 17
+23: GeminiTay: 14
+23: Grian: 12
+23: hypnotizd: 10
+23: Docm77: 9
+23: joehillssays: 7
+23: Smallishbeans: 6
+23: BdoubleO100: 6
+23: ZombieCleo: 2
+23: Mumbo: 2
+Total 624

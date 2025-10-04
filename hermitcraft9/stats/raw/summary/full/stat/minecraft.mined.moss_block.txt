@@ -1,0 +1,37 @@
+minecraft.mined.moss_block
+35: Tango: 80178
+35: GoodTimeWithScar: 18250
+35: PearlescentMoon: 15613
+35: impulseSV: 12380
+35: Zedaph: 4257
+35: Grian: 3893
+35: xBCrafted: 3831
+35: iskall85: 3427
+35: Docm77: 3142
+35: iJevin: 2585
+35: Etho: 2267
+35: ZombieCleo: 2082
+35: BdoubleO100: 1851
+35: joehillssays: 1715
+35: cubfan135: 1266
+35: Renthedog: 1189
+35: Xisuma: 1161
+35: Keralis1: 867
+35: Stressmonster101: 854
+35: hypnotizd: 717
+35: falsesymmetry: 547
+35: MythicalSausage: 459
+35: Mumbo: 369
+35: GeminiTay: 160
+35: VintageBeef: 137
+35: ShubbleYT: 128
+35: Smallishbeans: 23
+35: RentheKing: 21
+35: Smajor1995: 17
+35: MumboJumbo: 17
+35: OrionSound: 16
+35: Welsknight: 8
+35: Tinfoilchef: 4
+35: SolidarityGaming: 2
+35: Pixlriffs: 1
+Total 163434

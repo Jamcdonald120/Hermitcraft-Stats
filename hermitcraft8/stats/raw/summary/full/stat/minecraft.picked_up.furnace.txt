@@ -1,0 +1,27 @@
+minecraft.picked_up.furnace
+25: iJevin: 332
+25: impulseSV: 181
+25: Renthedog: 124
+25: Xisuma: 122
+25: PearlescentMoon: 114
+25: Zedaph: 114
+25: cubfan135: 99
+25: Welsknight: 83
+25: MumboJumbo: 71
+25: Grian: 56
+25: joehillssays: 48
+25: Etho: 46
+25: GoodTimeWithScar: 44
+25: Tango: 38
+25: falsesymmetry: 35
+25: BdoubleO100: 33
+25: hypnotizd: 30
+25: iskall85: 20
+25: GeminiTay: 13
+25: ZombieCleo: 13
+25: xBCrafted: 11
+25: VintageBeef: 10
+25: Keralis1: 9
+25: Stressmonster101: 5
+25: Docm77: 4
+Total 1655

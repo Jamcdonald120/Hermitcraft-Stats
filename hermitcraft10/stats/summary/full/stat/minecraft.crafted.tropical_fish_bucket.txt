@@ -1,0 +1,5 @@
+minecraft.crafted.tropical_fish_bucket
+3: Keralis1: 8
+3: cubfan135: 5
+3: falsesymmetry: 3
+Total 16

@@ -1,0 +1,20 @@
+minecraft.picked_up.light_blue_stained_glass
+18: impulseSV: 6033
+18: Xisuma: 596
+18: Etho: 421
+18: Zedaph: 271
+18: Stressmonster101: 241
+18: joehillssays: 175
+18: GoodTimeWithScar: 151
+18: iJevin: 144
+18: Tango: 94
+18: cubfan135: 83
+18: Grian: 65
+18: iskall85: 51
+18: Tinfoilchef: 48
+18: MumboJumbo: 21
+18: Docm77: 15
+18: falsesymmetry: 11
+18: VintageBeef: 2
+18: BdoubleO100: 2
+Total 8424

@@ -1,0 +1,5 @@
+minecraft.custom.clean_banner
+3: cubfan135: 120
+3: Xisuma: 90
+3: falsesymmetry: 31
+Total 241

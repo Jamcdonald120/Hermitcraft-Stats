@@ -1,0 +1,11 @@
+minecraft.picked_up.orange_carpet
+9: VintageBeef: 24134
+9: PearlescentMoon: 2890
+9: cubfan135: 70
+9: iJevin: 47
+9: joehillssays: 40
+9: Renthedog: 4
+9: falsesymmetry: 3
+9: impulseSV: 1
+9: Zedaph: 1
+Total 27190

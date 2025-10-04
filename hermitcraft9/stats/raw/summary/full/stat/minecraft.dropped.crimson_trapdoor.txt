@@ -1,0 +1,11 @@
+minecraft.dropped.crimson_trapdoor
+9: Tango: 48
+9: iJevin: 16
+9: MythicalSausage: 10
+9: falsesymmetry: 3
+9: Etho: 3
+9: impulseSV: 3
+9: Renthedog: 1
+9: GoodTimeWithScar: 1
+9: Zedaph: 1
+Total 86

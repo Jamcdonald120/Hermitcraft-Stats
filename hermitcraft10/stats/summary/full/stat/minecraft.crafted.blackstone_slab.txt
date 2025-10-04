@@ -1,0 +1,17 @@
+minecraft.crafted.blackstone_slab
+15: impulseSV: 466
+15: Tango: 430
+15: GeminiTay: 168
+15: GoodTimeWithScar: 142
+15: cubfan135: 72
+15: falsesymmetry: 66
+15: Xisuma: 62
+15: xBCrafted: 60
+15: Skizzleman: 58
+15: Keralis1: 24
+15: Docm77: 14
+15: Etho: 12
+15: Grian: 6
+15: iJevin: 2
+15: hypnotizd: 2
+Total 1584

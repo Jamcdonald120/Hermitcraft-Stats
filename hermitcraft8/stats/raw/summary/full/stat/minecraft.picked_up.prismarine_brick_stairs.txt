@@ -1,0 +1,8 @@
+minecraft.picked_up.prismarine_brick_stairs
+6: Xisuma: 140
+6: iskall85: 115
+6: xBCrafted: 6
+6: BdoubleO100: 5
+6: PearlescentMoon: 1
+6: MumboJumbo: 1
+Total 268

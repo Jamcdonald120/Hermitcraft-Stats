@@ -1,0 +1,8 @@
+minecraft.crafted.cracked_deepslate_tiles
+6: impulseSV: 296
+6: iJevin: 64
+6: Tango: 54
+6: Xisuma: 25
+6: Docm77: 2
+6: Zedaph: 1
+Total 442

@@ -1,0 +1,13 @@
+minecraft.dropped.emerald_ore
+11: falsesymmetry: 38
+11: iJevin: 16
+11: VintageBeef: 5
+11: hypnotizd: 5
+11: Tango: 3
+11: Xisuma: 2
+11: BdoubleO100: 2
+11: Pixlriffs: 2
+11: xBCrafted: 1
+11: RentheKing: 1
+11: Zedaph: 1
+Total 76

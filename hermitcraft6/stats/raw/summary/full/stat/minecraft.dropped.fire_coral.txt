@@ -1,0 +1,3 @@
+minecraft.dropped.fire_coral
+1: GoodTimeWithScar: 48
+Total 48

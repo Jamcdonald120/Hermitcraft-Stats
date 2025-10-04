@@ -1,0 +1,5 @@
+minecraft.picked_up.red_glazed_terracotta
+3: ZombieCleo: 3
+3: GeminiTay: 2
+3: Etho: 1
+Total 6

@@ -1,0 +1,9 @@
+minecraft.picked_up.blackstone_wall
+7: Grian: 55
+7: impulseSV: 30
+7: Xisuma: 12
+7: PearlescentMoon: 11
+7: xBCrafted: 6
+7: Docm77: 5
+7: Renthedog: 1
+Total 120

@@ -1,0 +1,5 @@
+minecraft.picked_up.red_sandstone_wall
+3: cubfan135: 55
+3: GoodTimeWithScar: 15
+3: MumboJumbo: 2
+Total 72

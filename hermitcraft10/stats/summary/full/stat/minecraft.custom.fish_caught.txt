@@ -1,0 +1,27 @@
+minecraft.custom.fish_caught
+25: Grian: 7848
+25: xBCrafted: 5915
+25: GeminiTay: 1893
+25: ZombieCleo: 1105
+25: PearlescentMoon: 1071
+25: Renthedog: 765
+25: cubfan135: 746
+25: Keralis1: 592
+25: GoodTimeWithScar: 454
+25: Skizzleman: 330
+25: impulseSV: 289
+25: Etho: 249
+25: Welsknight: 219
+25: BdoubleO100: 215
+25: iJevin: 196
+25: falsesymmetry: 134
+25: joehillssays: 131
+25: hypnotizd: 76
+25: Tango: 36
+25: VintageBeef: 24
+25: InTheLittleWood: 9
+25: Zedaph: 8
+25: Smallishbeans: 4
+25: SolidarityGaming: 2
+25: Xisuma: 1
+Total 22312

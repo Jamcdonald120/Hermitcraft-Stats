@@ -1,0 +1,6 @@
+minecraft.picked_up.dead_bubble_coral
+4: Xisuma: 1
+4: PearlescentMoon: 1
+4: GoodTimeWithScar: 1
+4: Zedaph: 1
+Total 4

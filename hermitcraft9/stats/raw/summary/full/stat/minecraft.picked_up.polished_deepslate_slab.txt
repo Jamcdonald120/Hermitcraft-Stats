@@ -1,0 +1,28 @@
+minecraft.picked_up.polished_deepslate_slab
+26: falsesymmetry: 1374
+26: Docm77: 993
+26: Renthedog: 773
+26: Tango: 743
+26: impulseSV: 665
+26: cubfan135: 333
+26: GoodTimeWithScar: 211
+26: PearlescentMoon: 163
+26: Xisuma: 141
+26: hypnotizd: 136
+26: Mumbo: 115
+26: MumboJumbo: 107
+26: Grian: 105
+26: iJevin: 102
+26: iskall85: 92
+26: BdoubleO100: 75
+26: Keralis1: 71
+26: joehillssays: 68
+26: ZombieCleo: 64
+26: xBCrafted: 40
+26: Zedaph: 5
+26: MythicalSausage: 4
+26: GeminiTay: 3
+26: VintageBeef: 1
+26: Pixlriffs: 1
+26: RentheKing: 1
+Total 6386

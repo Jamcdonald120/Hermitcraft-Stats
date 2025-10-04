@@ -1,0 +1,5 @@
+minecraft.picked_up.red_nether_brick_slab
+3: cubfan135: 17
+3: Tango: 4
+3: Xisuma: 3
+Total 24

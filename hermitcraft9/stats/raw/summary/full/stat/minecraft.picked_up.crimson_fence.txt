@@ -1,0 +1,15 @@
+minecraft.picked_up.crimson_fence
+13: Tango: 215
+13: Renthedog: 105
+13: cubfan135: 103
+13: Xisuma: 45
+13: Grian: 44
+13: PearlescentMoon: 17
+13: ShubbleYT: 3
+13: xBCrafted: 2
+13: Etho: 2
+13: iJevin: 1
+13: BdoubleO100: 1
+13: Stressmonster101: 1
+13: Zedaph: 1
+Total 540

@@ -1,0 +1,11 @@
+minecraft.dropped.spruce_fence_gate
+9: GoodTimeWithScar: 96
+9: Zedaph: 81
+9: Grian: 64
+9: Etho: 6
+9: cubfan135: 4
+9: Renthedog: 3
+9: Tango: 2
+9: iskall85: 1
+9: MumboJumbo: 1
+Total 258

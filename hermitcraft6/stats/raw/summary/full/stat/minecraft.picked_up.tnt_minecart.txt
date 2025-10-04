@@ -1,0 +1,3 @@
+minecraft.picked_up.tnt_minecart
+1: Docm77: 8
+Total 8

@@ -1,0 +1,27 @@
+minecraft.mined.jungle_log
+25: PearlescentMoon: 6633
+25: GeminiTay: 4962
+25: Xisuma: 4665
+25: Keralis1: 2906
+25: Renthedog: 2531
+25: falsesymmetry: 2500
+25: Etho: 2442
+25: Mumbo: 2214
+25: BdoubleO100: 2191
+25: cubfan135: 1658
+25: Smallishbeans: 1569
+25: Skizzleman: 1444
+25: iJevin: 1297
+25: VintageBeef: 1290
+25: GoodTimeWithScar: 1128
+25: ZombieCleo: 1008
+25: Grian: 652
+25: impulseSV: 481
+25: xBCrafted: 289
+25: hypnotizd: 245
+25: Zedaph: 214
+25: Docm77: 202
+25: Tango: 173
+25: Welsknight: 21
+25: joehillssays: 18
+Total 42733

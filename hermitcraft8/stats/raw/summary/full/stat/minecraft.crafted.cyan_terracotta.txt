@@ -1,0 +1,18 @@
+minecraft.crafted.cyan_terracotta
+16: impulseSV: 17800
+16: PearlescentMoon: 5200
+16: GoodTimeWithScar: 4586
+16: Renthedog: 3456
+16: Welsknight: 1736
+16: Etho: 1600
+16: Xisuma: 881
+16: MumboJumbo: 720
+16: falsesymmetry: 544
+16: Stressmonster101: 320
+16: Grian: 280
+16: cubfan135: 248
+16: BdoubleO100: 232
+16: GeminiTay: 120
+16: ZombieCleo: 24
+16: Zedaph: 1
+Total 37748

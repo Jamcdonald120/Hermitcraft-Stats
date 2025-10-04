@@ -1,0 +1,4 @@
+minecraft.dropped.warped_door
+2: Etho: 1
+2: Mumbo: 1
+Total 2

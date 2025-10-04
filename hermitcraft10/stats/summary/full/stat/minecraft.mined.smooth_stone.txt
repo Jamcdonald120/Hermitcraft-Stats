@@ -1,0 +1,27 @@
+minecraft.mined.smooth_stone
+25: Tango: 9473
+25: Etho: 8374
+25: Xisuma: 6058
+25: PearlescentMoon: 2176
+25: impulseSV: 1094
+25: cubfan135: 494
+25: GoodTimeWithScar: 428
+25: xBCrafted: 261
+25: iJevin: 254
+25: joehillssays: 231
+25: Smallishbeans: 213
+25: Zedaph: 178
+25: ZombieCleo: 94
+25: Grian: 91
+25: falsesymmetry: 82
+25: BdoubleO100: 74
+25: hypnotizd: 72
+25: VintageBeef: 21
+25: Welsknight: 18
+25: GeminiTay: 17
+25: Skizzleman: 10
+25: Keralis1: 10
+25: Renthedog: 5
+25: Docm77: 1
+25: Mumbo: 1
+Total 29730

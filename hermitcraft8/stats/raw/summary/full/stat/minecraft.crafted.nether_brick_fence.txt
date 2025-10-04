@@ -1,0 +1,9 @@
+minecraft.crafted.nether_brick_fence
+7: Xisuma: 246
+7: Renthedog: 108
+7: PearlescentMoon: 60
+7: VintageBeef: 48
+7: Docm77: 36
+7: GoodTimeWithScar: 24
+7: Welsknight: 18
+Total 540

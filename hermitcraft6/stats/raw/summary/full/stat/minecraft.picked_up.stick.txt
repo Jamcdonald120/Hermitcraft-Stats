@@ -1,0 +1,32 @@
+minecraft.picked_up.stick
+30: GoodTimeWithScar: 11776
+30: Xisuma: 7000
+30: Renthedog: 6661
+30: cubfan135: 5870
+30: Grian: 4945
+30: iskall85: 2557
+30: iJevin: 2527
+30: falsesymmetry: 2005
+30: Docm77: 1838
+30: BdoubleO100: 1199
+30: MumboJumbo: 1093
+30: joehillssays: 981
+30: Biffa2001: 712
+30: Zedaph: 654
+30: Tango: 634
+30: ZombieCleo: 534
+30: Tinfoilchef: 489
+30: impulseSV: 434
+30: Stressmonster101: 312
+30: Keralis1: 275
+30: Welsknight: 248
+30: HumanCleo: 79
+30: PythonGB: 67
+30: Jura_Whitey: 38
+30: Jessassin: 29
+30: EvilXisuma: 27
+30: PhoenixfireLune: 5
+30: Cojomax99: 3
+30: Duke_da_dog: 3
+30: tterrag: 2
+Total 52997

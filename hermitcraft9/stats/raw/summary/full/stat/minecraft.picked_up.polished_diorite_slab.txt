@@ -1,0 +1,11 @@
+minecraft.picked_up.polished_diorite_slab
+9: PearlescentMoon: 144
+9: Renthedog: 114
+9: Keralis1: 21
+9: BdoubleO100: 11
+9: GeminiTay: 9
+9: Xisuma: 7
+9: iskall85: 2
+9: xBCrafted: 2
+9: impulseSV: 2
+Total 312

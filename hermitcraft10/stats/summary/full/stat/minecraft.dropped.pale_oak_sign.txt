@@ -1,0 +1,7 @@
+minecraft.dropped.pale_oak_sign
+5: Renthedog: 13
+5: GoodTimeWithScar: 4
+5: PearlescentMoon: 3
+5: xBCrafted: 3
+5: iJevin: 2
+Total 25

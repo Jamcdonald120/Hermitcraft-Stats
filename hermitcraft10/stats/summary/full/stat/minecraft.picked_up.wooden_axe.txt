@@ -1,0 +1,12 @@
+minecraft.picked_up.wooden_axe
+10: Smallishbeans: 2
+10: impulseSV: 2
+10: Xisuma: 1
+10: Renthedog: 1
+10: iJevin: 1
+10: joehillssays: 1
+10: Skizzleman: 1
+10: Etho: 1
+10: hypnotizd: 1
+10: Zedaph: 1
+Total 12

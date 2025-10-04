@@ -1,0 +1,17 @@
+minecraft.picked_up.acacia_leaves
+15: BdoubleO100: 3520
+15: GoodTimeWithScar: 2477
+15: Keralis1: 1009
+15: Grian: 820
+15: Etho: 726
+15: VintageBeef: 197
+15: joehillssays: 169
+15: xBCrafted: 87
+15: Docm77: 17
+15: Renthedog: 17
+15: iskall85: 12
+15: Xisuma: 10
+15: Zedaph: 5
+15: Welsknight: 2
+15: MumboJumbo: 1
+Total 9069

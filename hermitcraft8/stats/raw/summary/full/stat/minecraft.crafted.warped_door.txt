@@ -1,0 +1,10 @@
+minecraft.crafted.warped_door
+8: GoodTimeWithScar: 12
+8: MumboJumbo: 9
+8: Xisuma: 6
+8: Renthedog: 6
+8: Grian: 6
+8: BdoubleO100: 6
+8: GeminiTay: 3
+8: Tango: 3
+Total 51

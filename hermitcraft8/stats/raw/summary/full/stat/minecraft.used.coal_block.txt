@@ -1,0 +1,16 @@
+minecraft.used.coal_block
+14: impulseSV: 2189
+14: VintageBeef: 458
+14: Grian: 277
+14: GoodTimeWithScar: 194
+14: iJevin: 140
+14: Xisuma: 111
+14: cubfan135: 38
+14: MumboJumbo: 34
+14: Renthedog: 28
+14: Tango: 28
+14: xBCrafted: 11
+14: ZombieCleo: 5
+14: GeminiTay: 4
+14: Welsknight: 4
+Total 3521

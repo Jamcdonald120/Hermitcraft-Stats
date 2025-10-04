@@ -1,0 +1,32 @@
+minecraft.used.oak_sign
+30: PearlescentMoon: 1126
+30: cubfan135: 299
+30: Grian: 284
+30: Xisuma: 259
+30: falsesymmetry: 214
+30: Docm77: 197
+30: GoodTimeWithScar: 195
+30: Keralis1: 181
+30: BdoubleO100: 152
+30: impulseSV: 140
+30: Zedaph: 121
+30: Tango: 83
+30: VintageBeef: 76
+30: iJevin: 66
+30: ZombieCleo: 52
+30: iskall85: 46
+30: Etho: 37
+30: Welsknight: 27
+30: Mumbo: 22
+30: SolidarityGaming: 17
+30: OrionSound: 16
+30: Stressmonster101: 15
+30: GeminiTay: 14
+30: Renthedog: 10
+30: joehillssays: 9
+30: xBCrafted: 7
+30: fWhip: 6
+30: MythicalSausage: 3
+30: Smallishbeans: 3
+30: Firecracker1195: 1
+Total 3678

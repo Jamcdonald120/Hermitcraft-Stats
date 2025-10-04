@@ -1,0 +1,20 @@
+minecraft.picked_up.orange_stained_glass
+18: falsesymmetry: 1450
+18: Xisuma: 839
+18: cubfan135: 193
+18: Grian: 180
+18: GoodTimeWithScar: 169
+18: hypnotizd: 152
+18: iJevin: 78
+18: Tango: 70
+18: Stressmonster101: 64
+18: PearlescentMoon: 61
+18: Zedaph: 57
+18: Renthedog: 35
+18: impulseSV: 31
+18: Keralis1: 24
+18: Docm77: 5
+18: Etho: 4
+18: GeminiTay: 2
+18: RentheKing: 2
+Total 3416

@@ -1,0 +1,4 @@
+minecraft.crafted.cracked_polished_blackstone_bricks
+2: Tango: 8
+2: iJevin: 7
+Total 15

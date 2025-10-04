@@ -1,0 +1,26 @@
+minecraft.picked_up.golden_chestplate
+24: Grian: 58
+24: hypnotizd: 39
+24: joehillssays: 38
+24: Stressmonster101: 35
+24: Xisuma: 31
+24: VintageBeef: 30
+24: iskall85: 30
+24: impulseSV: 28
+24: cubfan135: 24
+24: GoodTimeWithScar: 21
+24: falsesymmetry: 20
+24: Tango: 15
+24: Etho: 13
+24: iJevin: 12
+24: Renthedog: 11
+24: xBCrafted: 10
+24: Keralis1: 7
+24: Zedaph: 7
+24: MumboJumbo: 5
+24: BdoubleO100: 4
+24: Docm77: 2
+24: HermitcraftAlt: 2
+24: Welsknight: 1
+24: ZombieCleo: 1
+Total 444

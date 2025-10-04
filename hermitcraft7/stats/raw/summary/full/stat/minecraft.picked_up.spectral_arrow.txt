@@ -1,0 +1,22 @@
+minecraft.picked_up.spectral_arrow
+20: Xisuma: 2594
+20: Etho: 1504
+20: cubfan135: 1061
+20: Tango: 874
+20: Renthedog: 423
+20: Zedaph: 267
+20: iskall85: 118
+20: GoodTimeWithScar: 99
+20: joehillssays: 90
+20: impulseSV: 70
+20: Grian: 47
+20: xBCrafted: 23
+20: BdoubleO100: 21
+20: iJevin: 15
+20: Keralis1: 5
+20: VintageBeef: 3
+20: Docm77: 1
+20: falsesymmetry: 1
+20: Welsknight: 1
+20: hypnotizd: 1
+Total 7218

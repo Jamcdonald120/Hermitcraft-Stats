@@ -1,0 +1,26 @@
+minecraft.picked_up.emerald
+24: Keralis1: 3004
+24: impulseSV: 2500
+24: Grian: 2269
+24: GoodTimeWithScar: 2159
+24: Tango: 1278
+24: Etho: 1097
+24: iskall85: 1013
+24: cubfan135: 805
+24: Docm77: 628
+24: Stressmonster101: 610
+24: hypnotizd: 348
+24: iJevin: 306
+24: Xisuma: 277
+24: falsesymmetry: 252
+24: Zedaph: 193
+24: BdoubleO100: 126
+24: MumboJumbo: 126
+24: xBCrafted: 101
+24: joehillssays: 95
+24: VintageBeef: 83
+24: ZombieCleo: 67
+24: Tinfoilchef: 60
+24: Renthedog: 21
+24: Welsknight: 2
+Total 17420

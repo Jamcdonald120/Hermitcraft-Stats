@@ -1,0 +1,20 @@
+minecraft.crafted.mud_brick_wall
+18: falsesymmetry: 798
+18: Keralis1: 564
+18: GoodTimeWithScar: 475
+18: Xisuma: 234
+18: GeminiTay: 234
+18: Tango: 113
+18: VintageBeef: 112
+18: Grian: 108
+18: ZombieCleo: 66
+18: cubfan135: 57
+18: Smallishbeans: 36
+18: Mumbo: 24
+18: Zedaph: 17
+18: PearlescentMoon: 15
+18: xBCrafted: 12
+18: Docm77: 6
+18: Renthedog: 1
+18: BdoubleO100: 1
+Total 2873

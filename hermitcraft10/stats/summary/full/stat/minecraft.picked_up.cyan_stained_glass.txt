@@ -1,0 +1,14 @@
+minecraft.picked_up.cyan_stained_glass
+12: Etho: 700
+12: Smallishbeans: 128
+12: PearlescentMoon: 112
+12: Xisuma: 67
+12: joehillssays: 49
+12: ZombieCleo: 40
+12: xBCrafted: 22
+12: cubfan135: 20
+12: GoodTimeWithScar: 16
+12: falsesymmetry: 14
+12: impulseSV: 3
+12: Mumbo: 1
+Total 1172

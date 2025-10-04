@@ -1,0 +1,21 @@
+minecraft.picked_up.candle
+19: iJevin: 255
+19: Grian: 166
+19: falsesymmetry: 89
+19: impulseSV: 77
+19: BdoubleO100: 63
+19: PearlescentMoon: 31
+19: Keralis1: 30
+19: Tango: 20
+19: Renthedog: 19
+19: cubfan135: 19
+19: ZombieCleo: 16
+19: GoodTimeWithScar: 16
+19: Xisuma: 8
+19: Etho: 5
+19: hypnotizd: 4
+19: MythicalSausage: 3
+19: GeminiTay: 3
+19: Docm77: 2
+19: RentheKing: 2
+Total 828

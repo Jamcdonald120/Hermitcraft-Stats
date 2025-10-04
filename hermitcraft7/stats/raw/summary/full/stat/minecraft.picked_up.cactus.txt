@@ -1,0 +1,27 @@
+minecraft.picked_up.cactus
+25: Tango: 4994
+25: impulseSV: 3200
+25: BdoubleO100: 2917
+25: cubfan135: 2285
+25: iJevin: 1952
+25: falsesymmetry: 1837
+25: Zedaph: 1231
+25: Grian: 1027
+25: joehillssays: 988
+25: Renthedog: 865
+25: iskall85: 861
+25: Xisuma: 640
+25: VintageBeef: 616
+25: GoodTimeWithScar: 578
+25: MumboJumbo: 383
+25: Keralis1: 311
+25: Stressmonster101: 262
+25: Etho: 240
+25: ZombieCleo: 157
+25: hypnotizd: 138
+25: xBCrafted: 63
+25: Docm77: 61
+25: Welsknight: 20
+25: HermitcraftAlt: 3
+25: Helsknight: 1
+Total 25630

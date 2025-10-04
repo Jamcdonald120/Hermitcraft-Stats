@@ -1,0 +1,4 @@
+minecraft.picked_up.dune_armor_trim_smithing_template
+2: Zedaph: 9
+2: GoodTimeWithScar: 1
+Total 10

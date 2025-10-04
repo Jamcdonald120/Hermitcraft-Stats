@@ -1,0 +1,21 @@
+minecraft.crafted.mossy_cobblestone_slab
+19: Keralis1: 204
+19: falsesymmetry: 168
+19: GeminiTay: 138
+19: Tango: 132
+19: GoodTimeWithScar: 116
+19: iJevin: 108
+19: Etho: 42
+19: Grian: 36
+19: Xisuma: 30
+19: impulseSV: 24
+19: xBCrafted: 20
+19: PearlescentMoon: 14
+19: Skizzleman: 12
+19: Smallishbeans: 12
+19: Welsknight: 12
+19: Renthedog: 6
+19: BdoubleO100: 6
+19: cubfan135: 6
+19: hypnotizd: 2
+Total 1088

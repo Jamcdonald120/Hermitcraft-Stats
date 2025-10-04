@@ -1,0 +1,21 @@
+minecraft.mined.andesite_slab
+19: Tango: 150
+19: GoodTimeWithScar: 65
+19: ZombieCleo: 62
+19: PearlescentMoon: 59
+19: Keralis1: 48
+19: Xisuma: 33
+19: Grian: 27
+19: xBCrafted: 24
+19: Docm77: 21
+19: VintageBeef: 14
+19: impulseSV: 14
+19: cubfan135: 10
+19: iskall85: 8
+19: iJevin: 6
+19: BdoubleO100: 5
+19: GeminiTay: 4
+19: falsesymmetry: 4
+19: joehillssays: 3
+19: MythicalSausage: 1
+Total 558

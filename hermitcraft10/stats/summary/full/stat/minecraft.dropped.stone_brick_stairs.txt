@@ -1,0 +1,17 @@
+minecraft.dropped.stone_brick_stairs
+15: Etho: 183
+15: Xisuma: 140
+15: Renthedog: 64
+15: Grian: 51
+15: iJevin: 41
+15: falsesymmetry: 20
+15: GoodTimeWithScar: 20
+15: xBCrafted: 16
+15: cubfan135: 12
+15: Smallishbeans: 10
+15: impulseSV: 5
+15: VintageBeef: 2
+15: hypnotizd: 2
+15: Keralis1: 2
+15: Tango: 1
+Total 569

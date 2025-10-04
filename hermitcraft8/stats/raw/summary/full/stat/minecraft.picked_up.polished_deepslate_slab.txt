@@ -1,0 +1,22 @@
+minecraft.picked_up.polished_deepslate_slab
+20: Tango: 1126
+20: Docm77: 832
+20: GoodTimeWithScar: 554
+20: Renthedog: 321
+20: VintageBeef: 312
+20: impulseSV: 257
+20: xBCrafted: 119
+20: Zedaph: 93
+20: Welsknight: 64
+20: joehillssays: 49
+20: Xisuma: 48
+20: PearlescentMoon: 24
+20: Keralis1: 16
+20: Grian: 15
+20: hypnotizd: 10
+20: iskall85: 9
+20: cubfan135: 6
+20: EvilXisuma: 4
+20: iJevin: 1
+20: MumboJumbo: 1
+Total 3861

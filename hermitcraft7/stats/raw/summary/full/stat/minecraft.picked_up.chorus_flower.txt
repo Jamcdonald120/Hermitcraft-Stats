@@ -1,0 +1,15 @@
+minecraft.picked_up.chorus_flower
+13: impulseSV: 3480
+13: cubfan135: 1039
+13: joehillssays: 246
+13: Etho: 162
+13: falsesymmetry: 131
+13: Xisuma: 107
+13: GoodTimeWithScar: 19
+13: VintageBeef: 16
+13: xBCrafted: 14
+13: Keralis1: 14
+13: iJevin: 3
+13: Docm77: 2
+13: MumboJumbo: 1
+Total 5234

@@ -1,0 +1,12 @@
+minecraft.dropped.light_blue_stained_glass_pane
+10: falsesymmetry: 128
+10: GoodTimeWithScar: 18
+10: Grian: 13
+10: Renthedog: 7
+10: Tango: 4
+10: Xisuma: 3
+10: Keralis1: 2
+10: ZombieCleo: 1
+10: impulseSV: 1
+10: Zedaph: 1
+Total 178

@@ -1,0 +1,24 @@
+minecraft.dropped.iron_block
+22: Tango: 6951
+22: Xisuma: 1736
+22: Zedaph: 1216
+22: Grian: 440
+22: cubfan135: 401
+22: MumboJumbo: 391
+22: impulseSV: 326
+22: Etho: 260
+22: iskall85: 189
+22: Stressmonster101: 129
+22: ZombieCleo: 71
+22: falsesymmetry: 65
+22: Docm77: 56
+22: BdoubleO100: 55
+22: iJevin: 49
+22: joehillssays: 36
+22: Keralis1: 32
+22: Renthedog: 31
+22: hypnotizd: 28
+22: VintageBeef: 21
+22: GoodTimeWithScar: 18
+22: xBCrafted: 4
+Total 12505

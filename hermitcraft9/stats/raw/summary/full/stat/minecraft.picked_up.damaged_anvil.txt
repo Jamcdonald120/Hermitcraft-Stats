@@ -1,0 +1,25 @@
+minecraft.picked_up.damaged_anvil
+23: cubfan135: 50
+23: RentheKing: 25
+23: Renthedog: 21
+23: Etho: 15
+23: Docm77: 13
+23: Xisuma: 13
+23: Grian: 11
+23: BdoubleO100: 11
+23: GoodTimeWithScar: 11
+23: iJevin: 9
+23: Tango: 7
+23: falsesymmetry: 7
+23: joehillssays: 6
+23: Zedaph: 5
+23: PearlescentMoon: 4
+23: impulseSV: 4
+23: VintageBeef: 3
+23: Stressmonster101: 3
+23: MythicalSausage: 1
+23: GeminiTay: 1
+23: ZombieCleo: 1
+23: hypnotizd: 1
+23: Keralis1: 1
+Total 223

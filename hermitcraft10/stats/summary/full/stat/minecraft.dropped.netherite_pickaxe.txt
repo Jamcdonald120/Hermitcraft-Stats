@@ -1,0 +1,26 @@
+minecraft.dropped.netherite_pickaxe
+24: iJevin: 37
+24: Xisuma: 25
+24: hypnotizd: 12
+24: Docm77: 11
+24: Smallishbeans: 11
+24: PearlescentMoon: 9
+24: Keralis1: 8
+24: cubfan135: 7
+24: Etho: 7
+24: impulseSV: 7
+24: Grian: 5
+24: Zedaph: 5
+24: BdoubleO100: 4
+24: Skizzleman: 3
+24: falsesymmetry: 3
+24: GeminiTay: 2
+24: Tango: 2
+24: Renthedog: 1
+24: VintageBeef: 1
+24: xBCrafted: 1
+24: Welsknight: 1
+24: GoodTimeWithScar: 1
+24: jojosolos: 1
+24: SolidarityGaming: 1
+Total 165

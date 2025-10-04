@@ -1,0 +1,22 @@
+minecraft.picked_up.sculk
+20: Grian: 8441
+20: PearlescentMoon: 7532
+20: Tango: 7448
+20: cubfan135: 6722
+20: Xisuma: 5539
+20: xBCrafted: 1977
+20: impulseSV: 1089
+20: iJevin: 762
+20: Docm77: 399
+20: GeminiTay: 321
+20: Etho: 317
+20: Mumbo: 283
+20: GoodTimeWithScar: 234
+20: VintageBeef: 180
+20: iskall85: 162
+20: falsesymmetry: 69
+20: Keralis1: 3
+20: Renthedog: 2
+20: Zedaph: 2
+20: ZombieCleo: 1
+Total 41483

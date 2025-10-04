@@ -1,0 +1,10 @@
+minecraft.picked_up.cartography_table
+8: cubfan135: 20
+8: GoodTimeWithScar: 19
+8: Xisuma: 9
+8: Tinfoilchef: 6
+8: ZombieCleo: 3
+8: iskall85: 2
+8: iJevin: 1
+8: BdoubleO100: 1
+Total 61

@@ -1,0 +1,5 @@
+minecraft.dropped.popped_chorus_fruit
+3: impulseSV: 64
+3: iJevin: 50
+3: Grian: 16
+Total 130

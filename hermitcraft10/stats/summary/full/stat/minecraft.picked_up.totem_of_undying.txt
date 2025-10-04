@@ -1,0 +1,28 @@
+minecraft.picked_up.totem_of_undying
+26: hypnotizd: 196
+26: cubfan135: 182
+26: iJevin: 97
+26: GoodTimeWithScar: 97
+26: Tango: 61
+26: Etho: 53
+26: Docm77: 17
+26: Keralis1: 16
+26: Skizzleman: 14
+26: impulseSV: 10
+26: PearlescentMoon: 8
+26: Renthedog: 7
+26: Grian: 7
+26: ZombieCleo: 7
+26: joehillssays: 6
+26: GeminiTay: 6
+26: SolidarityGaming: 6
+26: BdoubleO100: 5
+26: xBCrafted: 4
+26: falsesymmetry: 4
+26: Xisuma: 3
+26: Mumbo: 2
+26: VintageBeef: 1
+26: Smallishbeans: 1
+26: jojosolos: 1
+26: aimsey: 1
+Total 812

@@ -1,0 +1,24 @@
+minecraft.dropped.brick
+22: Etho: 2687
+22: Renthedog: 1643
+22: iJevin: 396
+22: Grian: 325
+22: GoodTimeWithScar: 319
+22: Skizzleman: 232
+22: hypnotizd: 194
+22: cubfan135: 144
+22: Zedaph: 135
+22: Tango: 98
+22: impulseSV: 77
+22: PearlescentMoon: 67
+22: xBCrafted: 46
+22: Smallishbeans: 45
+22: GeminiTay: 23
+22: Keralis1: 20
+22: Docm77: 18
+22: falsesymmetry: 16
+22: Xisuma: 5
+22: ZombieCleo: 3
+22: VintageBeef: 2
+22: Mumbo: 1
+Total 6496

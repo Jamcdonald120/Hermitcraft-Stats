@@ -1,0 +1,23 @@
+minecraft.picked_up.painting
+21: Grian: 650
+21: BdoubleO100: 630
+21: Renthedog: 339
+21: cubfan135: 308
+21: falsesymmetry: 189
+21: joehillssays: 101
+21: Xisuma: 100
+21: Stressmonster101: 91
+21: Docm77: 78
+21: Keralis1: 78
+21: ZombieCleo: 74
+21: GoodTimeWithScar: 59
+21: Welsknight: 51
+21: Tango: 49
+21: iJevin: 47
+21: PythonGB: 44
+21: Tinfoilchef: 32
+21: impulseSV: 30
+21: HumanCleo: 27
+21: MumboJumbo: 13
+21: iskall85: 9
+Total 2999

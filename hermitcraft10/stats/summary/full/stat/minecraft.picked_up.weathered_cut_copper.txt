@@ -1,0 +1,14 @@
+minecraft.picked_up.weathered_cut_copper
+12: falsesymmetry: 215
+12: ZombieCleo: 28
+12: Etho: 13
+12: Smallishbeans: 5
+12: Docm77: 4
+12: PearlescentMoon: 4
+12: Mumbo: 3
+12: hypnotizd: 3
+12: GeminiTay: 2
+12: Renthedog: 1
+12: Grian: 1
+12: impulseSV: 1
+Total 280

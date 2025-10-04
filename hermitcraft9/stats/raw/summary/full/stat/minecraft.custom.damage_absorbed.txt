@@ -1,0 +1,28 @@
+minecraft.custom.damage_absorbed
+26: iJevin: 5375
+26: Tango: 3507
+26: Keralis1: 2517
+26: impulseSV: 2145
+26: joehillssays: 2013
+26: cubfan135: 1235
+26: GoodTimeWithScar: 1136
+26: Xisuma: 924
+26: Grian: 912
+26: Zedaph: 905
+26: Renthedog: 875
+26: RentheKing: 557
+26: Etho: 554
+26: BdoubleO100: 399
+26: falsesymmetry: 347
+26: Docm77: 263
+26: GeminiTay: 226
+26: xBCrafted: 219
+26: hypnotizd: 215
+26: MythicalSausage: 189
+26: OrionSound: 160
+26: PearlescentMoon: 120
+26: iskall85: 119
+26: ZombieCleo: 101
+26: VintageBeef: 82
+26: Minerva246: 80
+Total 25175

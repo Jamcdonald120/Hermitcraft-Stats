@@ -1,0 +1,29 @@
+minecraft.crafted.oak_sign
+27: PearlescentMoon: 249
+27: Docm77: 228
+27: iJevin: 210
+27: Grian: 168
+27: cubfan135: 153
+27: Keralis1: 150
+27: Xisuma: 144
+27: Tango: 144
+27: GoodTimeWithScar: 144
+27: hypnotizd: 108
+27: Mumbo: 105
+27: falsesymmetry: 81
+27: Skizzleman: 72
+27: BdoubleO100: 72
+27: Etho: 69
+27: impulseSV: 57
+27: Renthedog: 54
+27: joehillssays: 51
+27: Smallishbeans: 30
+27: Zedaph: 27
+27: GeminiTay: 24
+27: xBCrafted: 24
+27: ZombieCleo: 24
+27: VintageBeef: 21
+27: Welsknight: 15
+27: InTheLittleWood: 3
+27: SolidarityGaming: 3
+Total 2430

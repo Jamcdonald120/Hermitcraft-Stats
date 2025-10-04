@@ -1,0 +1,21 @@
+minecraft.picked_up.gray_stained_glass
+19: GoodTimeWithScar: 334
+19: PearlescentMoon: 291
+19: Grian: 200
+19: falsesymmetry: 162
+19: impulseSV: 115
+19: Docm77: 105
+19: Stressmonster101: 64
+19: iJevin: 61
+19: Xisuma: 59
+19: iskall85: 58
+19: VintageBeef: 43
+19: cubfan135: 43
+19: joehillssays: 22
+19: Zedaph: 19
+19: Keralis1: 16
+19: Etho: 14
+19: Renthedog: 3
+19: GeminiTay: 2
+19: RentheKing: 2
+Total 1613

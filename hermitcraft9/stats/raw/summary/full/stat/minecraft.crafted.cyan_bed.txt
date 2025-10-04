@@ -1,0 +1,17 @@
+minecraft.crafted.cyan_bed
+15: falsesymmetry: 10
+15: cubfan135: 7
+15: ZombieCleo: 6
+15: GeminiTay: 4
+15: GoodTimeWithScar: 3
+15: Keralis1: 3
+15: Docm77: 2
+15: VintageBeef: 2
+15: Etho: 2
+15: MythicalSausage: 1
+15: joehillssays: 1
+15: Tango: 1
+15: iskall85: 1
+15: Welsknight: 1
+15: Zedaph: 1
+Total 45

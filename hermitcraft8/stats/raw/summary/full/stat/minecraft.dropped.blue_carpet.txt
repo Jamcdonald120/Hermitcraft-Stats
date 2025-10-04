@@ -1,0 +1,4 @@
+minecraft.dropped.blue_carpet
+2: Renthedog: 3
+2: Tango: 2
+Total 5

@@ -1,0 +1,24 @@
+minecraft.picked_up.polished_granite
+22: Mumbo: 632
+22: PearlescentMoon: 426
+22: Grian: 312
+22: Renthedog: 201
+22: Xisuma: 98
+22: GoodTimeWithScar: 98
+22: impulseSV: 55
+22: GeminiTay: 42
+22: cubfan135: 41
+22: iJevin: 31
+22: Tango: 24
+22: Smallishbeans: 22
+22: joehillssays: 21
+22: xBCrafted: 21
+22: Etho: 18
+22: Skizzleman: 12
+22: Docm77: 10
+22: BdoubleO100: 3
+22: Zedaph: 3
+22: falsesymmetry: 2
+22: ZombieCleo: 2
+22: Welsknight: 1
+Total 2075

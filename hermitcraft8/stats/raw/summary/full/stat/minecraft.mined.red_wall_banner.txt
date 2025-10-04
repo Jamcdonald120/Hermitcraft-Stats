@@ -1,0 +1,4 @@
+minecraft.mined.red_wall_banner
+2: Tango: 8
+2: BdoubleO100: 1
+Total 9

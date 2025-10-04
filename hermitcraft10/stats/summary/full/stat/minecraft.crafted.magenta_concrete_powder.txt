@@ -1,0 +1,16 @@
+minecraft.crafted.magenta_concrete_powder
+14: falsesymmetry: 7072
+14: Xisuma: 2400
+14: PearlescentMoon: 1296
+14: Etho: 640
+14: ZombieCleo: 640
+14: cubfan135: 592
+14: Smallishbeans: 464
+14: Tango: 216
+14: joehillssays: 168
+14: Keralis1: 80
+14: iJevin: 64
+14: Mumbo: 40
+14: impulseSV: 32
+14: Docm77: 8
+Total 13712

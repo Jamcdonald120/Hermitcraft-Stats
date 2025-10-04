@@ -1,0 +1,23 @@
+minecraft.dropped.birch_planks
+21: cubfan135: 297
+21: impulseSV: 224
+21: Grian: 221
+21: iskall85: 213
+21: Docm77: 211
+21: GoodTimeWithScar: 129
+21: falsesymmetry: 123
+21: Tango: 99
+21: Renthedog: 85
+21: Xisuma: 78
+21: Biffa2001: 45
+21: joehillssays: 35
+21: ZombieCleo: 34
+21: MumboJumbo: 27
+21: Stressmonster101: 14
+21: Keralis1: 13
+21: Zedaph: 12
+21: iJevin: 6
+21: EvilXisuma: 5
+21: PythonGB: 1
+21: BdoubleO100: 1
+Total 1873

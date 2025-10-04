@@ -1,0 +1,9 @@
+minecraft.picked_up.piglin_banner_pattern
+7: iJevin: 7
+7: PearlescentMoon: 4
+7: Skizzleman: 2
+7: cubfan135: 2
+7: Smallishbeans: 1
+7: falsesymmetry: 1
+7: GoodTimeWithScar: 1
+Total 18

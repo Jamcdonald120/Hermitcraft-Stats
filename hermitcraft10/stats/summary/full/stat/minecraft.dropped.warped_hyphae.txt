@@ -1,0 +1,4 @@
+minecraft.dropped.warped_hyphae
+2: Grian: 102
+2: Etho: 2
+Total 104

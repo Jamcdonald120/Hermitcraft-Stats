@@ -1,0 +1,20 @@
+minecraft.crafted.birch_stairs
+18: impulseSV: 1920
+18: Renthedog: 840
+18: GoodTimeWithScar: 660
+18: Keralis1: 516
+18: Stressmonster101: 488
+18: joehillssays: 384
+18: xBCrafted: 380
+18: Grian: 280
+18: Welsknight: 136
+18: VintageBeef: 132
+18: Xisuma: 104
+18: MumboJumbo: 88
+18: Etho: 40
+18: BdoubleO100: 32
+18: Zedaph: 32
+18: cubfan135: 20
+18: Docm77: 8
+18: ZombieCleo: 8
+Total 6068

@@ -1,0 +1,29 @@
+minecraft.dropped.spider_eye
+27: ZombieCleo: 35538
+27: Keralis1: 31995
+27: Zedaph: 17936
+27: BdoubleO100: 12450
+27: xBCrafted: 9204
+27: Renthedog: 8878
+27: joehillssays: 5561
+27: iJevin: 4250
+27: impulseSV: 1174
+27: hypnotizd: 995
+27: Tango: 976
+27: falsesymmetry: 625
+27: Xisuma: 588
+27: Grian: 485
+27: Docm77: 474
+27: PearlescentMoon: 367
+27: GoodTimeWithScar: 138
+27: Etho: 97
+27: cubfan135: 85
+27: VintageBeef: 74
+27: iskall85: 48
+27: GeminiTay: 23
+27: truesymmetry: 6
+27: Stressmonster101: 5
+27: Pixlriffs: 4
+27: RentheKing: 4
+27: MythicalSausage: 1
+Total 131981

@@ -1,0 +1,23 @@
+minecraft.crafted.brown_shulker_box
+21: GoodTimeWithScar: 115
+21: falsesymmetry: 48
+21: joehillssays: 22
+21: PearlescentMoon: 22
+21: iskall85: 17
+21: Xisuma: 16
+21: VintageBeef: 11
+21: Keralis1: 10
+21: Renthedog: 7
+21: Zedaph: 6
+21: Grian: 4
+21: xBCrafted: 3
+21: Etho: 3
+21: cubfan135: 2
+21: impulseSV: 2
+21: iJevin: 1
+21: Tango: 1
+21: BdoubleO100: 1
+21: ZombieCleo: 1
+21: Mumbo: 1
+21: RentheKing: 1
+Total 294

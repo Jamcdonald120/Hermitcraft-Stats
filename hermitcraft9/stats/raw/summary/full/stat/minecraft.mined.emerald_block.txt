@@ -1,0 +1,29 @@
+minecraft.mined.emerald_block
+27: impulseSV: 3477
+27: hypnotizd: 2157
+27: Docm77: 1798
+27: VintageBeef: 1483
+27: Grian: 1033
+27: joehillssays: 766
+27: PearlescentMoon: 666
+27: Renthedog: 602
+27: cubfan135: 550
+27: iJevin: 421
+27: Zedaph: 358
+27: Tango: 256
+27: iskall85: 191
+27: falsesymmetry: 179
+27: GoodTimeWithScar: 176
+27: RentheKing: 167
+27: Stressmonster101: 119
+27: GeminiTay: 77
+27: ZombieCleo: 45
+27: Pixlriffs: 43
+27: Xisuma: 16
+27: MythicalSausage: 8
+27: BdoubleO100: 6
+27: Keralis1: 5
+27: xBCrafted: 3
+27: Etho: 1
+27: Mumbo: 1
+Total 14604

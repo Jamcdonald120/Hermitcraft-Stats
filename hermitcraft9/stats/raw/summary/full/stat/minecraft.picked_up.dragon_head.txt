@@ -1,0 +1,21 @@
+minecraft.picked_up.dragon_head
+19: cubfan135: 35
+19: OrionSound: 22
+19: iJevin: 16
+19: PearlescentMoon: 16
+19: Docm77: 15
+19: iskall85: 13
+19: Keralis1: 9
+19: Renthedog: 7
+19: hypnotizd: 7
+19: GoodTimeWithScar: 6
+19: falsesymmetry: 5
+19: Etho: 5
+19: Xisuma: 4
+19: impulseSV: 4
+19: Zedaph: 4
+19: GeminiTay: 3
+19: ZombieCleo: 3
+19: BdoubleO100: 2
+19: Tango: 1
+Total 177

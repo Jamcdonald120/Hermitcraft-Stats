@@ -1,0 +1,21 @@
+minecraft.dropped.glow_berries
+19: Smallishbeans: 614
+19: BdoubleO100: 49
+19: Etho: 46
+19: impulseSV: 32
+19: iJevin: 24
+19: Xisuma: 16
+19: ZombieCleo: 15
+19: cubfan135: 9
+19: Renthedog: 7
+19: GoodTimeWithScar: 3
+19: Keralis1: 3
+19: Zedaph: 3
+19: Docm77: 2
+19: VintageBeef: 2
+19: Grian: 2
+19: PearlescentMoon: 2
+19: hypnotizd: 2
+19: Tango: 1
+19: Skizzleman: 1
+Total 833

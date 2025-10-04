@@ -1,0 +1,18 @@
+minecraft.dropped.end_stone
+16: PearlescentMoon: 841
+16: GoodTimeWithScar: 288
+16: iJevin: 201
+16: Xisuma: 109
+16: VintageBeef: 70
+16: Zedaph: 15
+16: cubfan135: 14
+16: Renthedog: 12
+16: Tango: 11
+16: Keralis1: 3
+16: GeminiTay: 2
+16: Etho: 2
+16: ZombieCleo: 2
+16: Mumbo: 2
+16: joehillssays: 1
+16: hypnotizd: 1
+Total 1574

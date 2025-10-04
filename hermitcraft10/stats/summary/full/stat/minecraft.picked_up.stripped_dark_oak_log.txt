@@ -1,0 +1,28 @@
+minecraft.picked_up.stripped_dark_oak_log
+26: Smallishbeans: 2676
+26: GoodTimeWithScar: 1925
+26: BdoubleO100: 1744
+26: iJevin: 1632
+26: falsesymmetry: 879
+26: Etho: 835
+26: Skizzleman: 537
+26: Zedaph: 236
+26: PearlescentMoon: 209
+26: Docm77: 201
+26: ZombieCleo: 138
+26: Xisuma: 130
+26: GeminiTay: 86
+26: Keralis1: 76
+26: Mumbo: 75
+26: cubfan135: 56
+26: xBCrafted: 44
+26: Grian: 32
+26: joehillssays: 29
+26: hypnotizd: 26
+26: Tango: 16
+26: Welsknight: 8
+26: Renthedog: 7
+26: VintageBeef: 2
+26: impulseSV: 2
+26: Dot_Dot_Dash: 1
+Total 11602

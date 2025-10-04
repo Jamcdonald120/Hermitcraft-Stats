@@ -1,0 +1,12 @@
+minecraft.crafted.fletching_table
+10: hypnotizd: 66
+10: Tango: 27
+10: falsesymmetry: 17
+10: Keralis1: 5
+10: iJevin: 4
+10: impulseSV: 2
+10: Docm77: 1
+10: Xisuma: 1
+10: GeminiTay: 1
+10: Etho: 1
+Total 125

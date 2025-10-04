@@ -1,0 +1,8 @@
+minecraft.crafted.blue_glazed_terracotta
+6: Etho: 768
+6: Xisuma: 160
+6: impulseSV: 120
+6: falsesymmetry: 64
+6: Keralis1: 12
+6: VintageBeef: 8
+Total 1132

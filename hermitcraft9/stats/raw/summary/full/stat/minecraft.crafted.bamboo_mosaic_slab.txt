@@ -1,0 +1,4 @@
+minecraft.crafted.bamboo_mosaic_slab
+2: Xisuma: 228
+2: Zedaph: 12
+Total 240

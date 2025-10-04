@@ -1,0 +1,14 @@
+minecraft.picked_up.light_blue_dye
+12: iJevin: 189
+12: Renthedog: 105
+12: Grian: 90
+12: PearlescentMoon: 57
+12: Etho: 57
+12: cubfan135: 24
+12: falsesymmetry: 21
+12: Zedaph: 9
+12: RentheKing: 8
+12: impulseSV: 4
+12: GoodTimeWithScar: 2
+12: ZombieCleo: 1
+Total 567

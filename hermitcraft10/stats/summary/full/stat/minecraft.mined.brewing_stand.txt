@@ -1,0 +1,25 @@
+minecraft.mined.brewing_stand
+23: Tango: 269
+23: hypnotizd: 118
+23: Xisuma: 74
+23: cubfan135: 50
+23: Docm77: 45
+23: iJevin: 43
+23: falsesymmetry: 43
+23: joehillssays: 37
+23: GoodTimeWithScar: 37
+23: Smallishbeans: 33
+23: Etho: 21
+23: Keralis1: 13
+23: impulseSV: 9
+23: PearlescentMoon: 8
+23: xBCrafted: 5
+23: ZombieCleo: 5
+23: Zedaph: 5
+23: Grian: 3
+23: BdoubleO100: 3
+23: Welsknight: 2
+23: Renthedog: 1
+23: VintageBeef: 1
+23: Mumbo: 1
+Total 826

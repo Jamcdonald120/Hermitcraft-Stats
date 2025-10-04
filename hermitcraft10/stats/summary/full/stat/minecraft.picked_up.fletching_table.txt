@@ -1,0 +1,11 @@
+minecraft.picked_up.fletching_table
+9: iJevin: 28
+9: Keralis1: 25
+9: hypnotizd: 13
+9: Etho: 7
+9: Docm77: 4
+9: falsesymmetry: 3
+9: impulseSV: 3
+9: Tango: 2
+9: VintageBeef: 1
+Total 86

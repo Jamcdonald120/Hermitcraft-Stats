@@ -1,0 +1,9 @@
+minecraft.picked_up.green_stained_glass_pane
+7: cubfan135: 195
+7: falsesymmetry: 44
+7: GoodTimeWithScar: 23
+7: GeminiTay: 22
+7: Xisuma: 2
+7: Tango: 2
+7: PearlescentMoon: 1
+Total 289

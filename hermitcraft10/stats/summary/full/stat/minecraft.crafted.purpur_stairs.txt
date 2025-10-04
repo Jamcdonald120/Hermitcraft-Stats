@@ -1,0 +1,6 @@
+minecraft.crafted.purpur_stairs
+4: impulseSV: 96
+4: GeminiTay: 8
+4: Xisuma: 6
+4: Keralis1: 4
+Total 114

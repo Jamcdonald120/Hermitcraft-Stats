@@ -1,0 +1,11 @@
+minecraft.crafted.birch_pressure_plate
+9: PearlescentMoon: 26
+9: Mumbo: 9
+9: Etho: 7
+9: falsesymmetry: 4
+9: Tango: 3
+9: hypnotizd: 3
+9: Skizzleman: 2
+9: Xisuma: 1
+9: joehillssays: 1
+Total 56

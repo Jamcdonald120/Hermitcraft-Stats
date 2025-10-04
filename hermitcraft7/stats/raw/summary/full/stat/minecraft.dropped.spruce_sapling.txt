@@ -1,0 +1,22 @@
+minecraft.dropped.spruce_sapling
+20: Etho: 226
+20: BdoubleO100: 155
+20: GoodTimeWithScar: 124
+20: Keralis1: 106
+20: Zedaph: 85
+20: Grian: 81
+20: Renthedog: 74
+20: joehillssays: 55
+20: MumboJumbo: 54
+20: cubfan135: 53
+20: iJevin: 24
+20: iskall85: 8
+20: VintageBeef: 7
+20: falsesymmetry: 4
+20: Tango: 3
+20: Xisuma: 2
+20: Docm77: 1
+20: hypnotizd: 1
+20: Stressmonster101: 1
+20: impulseSV: 1
+Total 1065

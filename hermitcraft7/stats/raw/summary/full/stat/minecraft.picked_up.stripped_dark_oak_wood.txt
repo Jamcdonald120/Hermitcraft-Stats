@@ -1,0 +1,18 @@
+minecraft.picked_up.stripped_dark_oak_wood
+16: GoodTimeWithScar: 501
+16: Keralis1: 447
+16: impulseSV: 117
+16: BdoubleO100: 65
+16: Etho: 35
+16: Grian: 10
+16: Tango: 8
+16: Docm77: 5
+16: cubfan135: 5
+16: Xisuma: 4
+16: Zedaph: 4
+16: Renthedog: 3
+16: falsesymmetry: 2
+16: iskall85: 1
+16: ZombieCleo: 1
+16: MumboJumbo: 1
+Total 1209

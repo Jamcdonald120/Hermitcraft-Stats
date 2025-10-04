@@ -1,0 +1,11 @@
+minecraft.picked_up.gray_banner
+9: Keralis1: 38
+9: iJevin: 24
+9: PearlescentMoon: 20
+9: RentheKing: 16
+9: impulseSV: 12
+9: cubfan135: 3
+9: GoodTimeWithScar: 2
+9: Renthedog: 1
+9: Zedaph: 1
+Total 117

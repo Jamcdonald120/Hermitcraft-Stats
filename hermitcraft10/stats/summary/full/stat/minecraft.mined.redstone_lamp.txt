@@ -1,0 +1,24 @@
+minecraft.mined.redstone_lamp
+22: Tango: 146
+22: cubfan135: 114
+22: Xisuma: 101
+22: Etho: 70
+22: PearlescentMoon: 52
+22: Keralis1: 48
+22: Grian: 42
+22: Skizzleman: 41
+22: Docm77: 24
+22: iJevin: 17
+22: Renthedog: 15
+22: BdoubleO100: 15
+22: xBCrafted: 12
+22: impulseSV: 12
+22: Mumbo: 7
+22: ZombieCleo: 6
+22: GoodTimeWithScar: 6
+22: Welsknight: 3
+22: Smallishbeans: 2
+22: falsesymmetry: 2
+22: hypnotizd: 2
+22: Zedaph: 2
+Total 739

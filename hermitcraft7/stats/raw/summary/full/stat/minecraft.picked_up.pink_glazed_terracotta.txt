@@ -1,0 +1,5 @@
+minecraft.picked_up.pink_glazed_terracotta
+3: Etho: 16
+3: VintageBeef: 9
+3: Keralis1: 6
+Total 31

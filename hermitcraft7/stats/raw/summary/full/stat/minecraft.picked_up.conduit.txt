@@ -1,0 +1,10 @@
+minecraft.picked_up.conduit
+8: impulseSV: 12
+8: iJevin: 8
+8: hypnotizd: 3
+8: Xisuma: 2
+8: xBCrafted: 2
+8: cubfan135: 2
+8: joehillssays: 1
+8: Grian: 1
+Total 31

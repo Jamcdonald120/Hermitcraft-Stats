@@ -1,0 +1,8 @@
+minecraft.killed_by.wither
+6: GoodTimeWithScar: 12
+6: Grian: 3
+6: Renthedog: 2
+6: iJevin: 1
+6: Etho: 1
+6: impulseSV: 1
+Total 20

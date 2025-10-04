@@ -1,0 +1,21 @@
+minecraft.mined.nether_bricks
+19: Tango: 7815
+19: falsesymmetry: 5331
+19: iskall85: 3506
+19: joehillssays: 2785
+19: impulseSV: 2441
+19: MumboJumbo: 1642
+19: Xisuma: 1292
+19: GoodTimeWithScar: 1220
+19: cubfan135: 1096
+19: iJevin: 672
+19: Grian: 435
+19: Zedaph: 354
+19: Renthedog: 189
+19: Biffa2001: 152
+19: PythonGB: 35
+19: Welsknight: 15
+19: Docm77: 14
+19: ZombieCleo: 6
+19: Stressmonster101: 3
+Total 29003

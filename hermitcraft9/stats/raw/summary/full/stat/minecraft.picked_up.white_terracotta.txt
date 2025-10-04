@@ -1,0 +1,31 @@
+minecraft.picked_up.white_terracotta
+29: VintageBeef: 15751
+29: PearlescentMoon: 14068
+29: Etho: 2068
+29: Docm77: 1706
+29: falsesymmetry: 1019
+29: iskall85: 905
+29: Renthedog: 726
+29: joehillssays: 673
+29: impulseSV: 423
+29: Grian: 383
+29: cubfan135: 275
+29: MythicalSausage: 237
+29: iJevin: 172
+29: GeminiTay: 165
+29: RentheKing: 133
+29: Zedaph: 115
+29: Xisuma: 112
+29: GoodTimeWithScar: 97
+29: ZombieCleo: 80
+29: Smallishbeans: 45
+29: Stressmonster101: 40
+29: Keralis1: 39
+29: BdoubleO100: 37
+29: Tango: 29
+29: Mumbo: 28
+29: SolidarityGaming: 13
+29: xBCrafted: 6
+29: Pixlriffs: 4
+29: hypnotizd: 3
+Total 39352

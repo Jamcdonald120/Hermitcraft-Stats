@@ -1,0 +1,5 @@
+minecraft.dropped.cartography_table
+3: iJevin: 9
+3: Etho: 7
+3: cubfan135: 1
+Total 17

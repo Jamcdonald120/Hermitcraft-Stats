@@ -1,0 +1,3 @@
+minecraft.dropped.cut_sandstone_slab
+1: GoodTimeWithScar: 2
+Total 2

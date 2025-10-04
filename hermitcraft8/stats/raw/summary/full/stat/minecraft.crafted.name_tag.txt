@@ -1,0 +1,9 @@
+minecraft.crafted.name_tag
+7: PearlescentMoon: 2055
+7: Xisuma: 442
+7: Grian: 151
+7: Zedaph: 144
+7: GoodTimeWithScar: 134
+7: iJevin: 16
+7: BdoubleO100: 1
+Total 2943

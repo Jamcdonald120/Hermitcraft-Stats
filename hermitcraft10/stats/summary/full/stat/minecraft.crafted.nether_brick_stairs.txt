@@ -1,0 +1,7 @@
+minecraft.crafted.nether_brick_stairs
+5: GoodTimeWithScar: 38
+5: Welsknight: 11
+5: GeminiTay: 8
+5: Xisuma: 1
+5: hypnotizd: 1
+Total 59

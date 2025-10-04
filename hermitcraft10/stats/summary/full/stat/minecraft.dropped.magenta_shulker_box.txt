@@ -1,0 +1,7 @@
+minecraft.dropped.magenta_shulker_box
+5: Etho: 12
+5: Xisuma: 1
+5: PearlescentMoon: 1
+5: ZombieCleo: 1
+5: Keralis1: 1
+Total 16

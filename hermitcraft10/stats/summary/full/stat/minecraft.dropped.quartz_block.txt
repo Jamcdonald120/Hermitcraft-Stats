@@ -1,0 +1,14 @@
+minecraft.dropped.quartz_block
+12: Renthedog: 11181
+12: Etho: 435
+12: hypnotizd: 312
+12: Smallishbeans: 128
+12: impulseSV: 128
+12: iJevin: 94
+12: falsesymmetry: 85
+12: Zedaph: 66
+12: Grian: 64
+12: cubfan135: 63
+12: Tango: 1
+12: ZombieCleo: 1
+Total 12558

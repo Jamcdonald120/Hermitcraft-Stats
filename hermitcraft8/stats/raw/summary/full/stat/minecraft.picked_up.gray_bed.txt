@@ -1,0 +1,4 @@
+minecraft.picked_up.gray_bed
+2: Docm77: 53
+2: Renthedog: 19
+Total 72

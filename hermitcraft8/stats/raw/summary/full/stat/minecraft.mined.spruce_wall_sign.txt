@@ -1,0 +1,25 @@
+minecraft.mined.spruce_wall_sign
+23: GoodTimeWithScar: 48
+23: PearlescentMoon: 44
+23: Xisuma: 34
+23: Tango: 32
+23: BdoubleO100: 30
+23: joehillssays: 19
+23: Grian: 19
+23: falsesymmetry: 18
+23: Welsknight: 15
+23: xBCrafted: 13
+23: GeminiTay: 12
+23: Keralis1: 7
+23: Stressmonster101: 5
+23: cubfan135: 4
+23: hypnotizd: 4
+23: impulseSV: 4
+23: iJevin: 3
+23: Etho: 3
+23: Renthedog: 2
+23: VintageBeef: 2
+23: ZombieCleo: 2
+23: Docm77: 1
+23: iskall85: 1
+Total 322

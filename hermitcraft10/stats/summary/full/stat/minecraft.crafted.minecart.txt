@@ -1,0 +1,27 @@
+minecraft.crafted.minecart
+25: Docm77: 1033
+25: Tango: 440
+25: hypnotizd: 382
+25: Etho: 358
+25: Xisuma: 272
+25: cubfan135: 248
+25: Renthedog: 147
+25: impulseSV: 142
+25: Smallishbeans: 132
+25: joehillssays: 125
+25: xBCrafted: 114
+25: Keralis1: 109
+25: Grian: 76
+25: Mumbo: 65
+25: Skizzleman: 50
+25: GoodTimeWithScar: 39
+25: Zedaph: 39
+25: falsesymmetry: 34
+25: ZombieCleo: 29
+25: iJevin: 26
+25: BdoubleO100: 22
+25: PearlescentMoon: 22
+25: GeminiTay: 15
+25: VintageBeef: 13
+25: Welsknight: 5
+Total 3937

@@ -1,0 +1,22 @@
+minecraft.crafted.white_stained_glass
+20: MumboJumbo: 40904
+20: GoodTimeWithScar: 17408
+20: joehillssays: 16886
+20: iskall85: 15256
+20: iJevin: 13960
+20: Renthedog: 8752
+20: impulseSV: 7896
+20: Grian: 6952
+20: falsesymmetry: 6776
+20: Welsknight: 5200
+20: Xisuma: 2024
+20: cubfan135: 1152
+20: Stressmonster101: 952
+20: Tango: 752
+20: Docm77: 616
+20: PythonGB: 528
+20: BdoubleO100: 432
+20: HumanCleo: 264
+20: ZombieCleo: 112
+20: Keralis1: 72
+Total 146894

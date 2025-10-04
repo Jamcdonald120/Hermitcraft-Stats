@@ -1,0 +1,5 @@
+minecraft.dropped.raw_copper_block
+3: iJevin: 71
+3: Etho: 11
+3: BdoubleO100: 5
+Total 87

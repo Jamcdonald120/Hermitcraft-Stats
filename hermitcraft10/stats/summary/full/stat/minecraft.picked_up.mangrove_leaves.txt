@@ -1,0 +1,26 @@
+minecraft.picked_up.mangrove_leaves
+24: Smallishbeans: 36423
+24: GoodTimeWithScar: 13911
+24: Renthedog: 10469
+24: BdoubleO100: 8993
+24: GeminiTay: 8016
+24: falsesymmetry: 6247
+24: Xisuma: 5084
+24: Grian: 4478
+24: Keralis1: 3638
+24: Mumbo: 3477
+24: Skizzleman: 3283
+24: Etho: 2706
+24: Docm77: 2689
+24: impulseSV: 952
+24: cubfan135: 859
+24: PearlescentMoon: 543
+24: Welsknight: 267
+24: VintageBeef: 191
+24: xBCrafted: 88
+24: hypnotizd: 76
+24: ZombieCleo: 12
+24: Tango: 7
+24: iJevin: 6
+24: Zedaph: 1
+Total 112416

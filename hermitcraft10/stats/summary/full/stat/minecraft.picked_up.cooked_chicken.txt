@@ -1,0 +1,29 @@
+minecraft.picked_up.cooked_chicken
+27: Zedaph: 5149
+27: joehillssays: 1259
+27: PearlescentMoon: 1063
+27: Skizzleman: 890
+27: cubfan135: 356
+27: iJevin: 323
+27: Grian: 211
+27: falsesymmetry: 160
+27: VintageBeef: 157
+27: Tango: 131
+27: SolidarityGaming: 130
+27: Renthedog: 125
+27: impulseSV: 121
+27: Welsknight: 118
+27: Etho: 114
+27: Smallishbeans: 108
+27: F1RECRACKR: 64
+27: GeminiTay: 62
+27: BdoubleO100: 52
+27: Docm77: 51
+27: GoodTimeWithScar: 38
+27: InTheLittleWood: 37
+27: Keralis1: 32
+27: Xisuma: 27
+27: ZombieCleo: 19
+27: Mumbo: 16
+27: xBCrafted: 9
+Total 10822

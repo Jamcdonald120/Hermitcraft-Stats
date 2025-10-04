@@ -1,0 +1,4 @@
+minecraft.crafted.brown_mushroom
+2: hypnotizd: 12
+2: falsesymmetry: 1
+Total 13

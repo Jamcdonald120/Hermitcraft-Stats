@@ -1,0 +1,6 @@
+minecraft.dropped.chiseled_quartz_block
+4: Renthedog: 35
+4: falsesymmetry: 10
+4: iJevin: 7
+4: Etho: 1
+Total 53

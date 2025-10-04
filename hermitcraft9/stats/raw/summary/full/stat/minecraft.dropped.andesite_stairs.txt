@@ -1,0 +1,7 @@
+minecraft.dropped.andesite_stairs
+5: falsesymmetry: 87
+5: Tango: 45
+5: Keralis1: 33
+5: Grian: 15
+5: GoodTimeWithScar: 1
+Total 181

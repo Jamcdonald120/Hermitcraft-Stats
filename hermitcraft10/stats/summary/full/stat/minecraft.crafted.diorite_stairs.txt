@@ -1,0 +1,12 @@
+minecraft.crafted.diorite_stairs
+10: falsesymmetry: 88
+10: iJevin: 56
+10: Keralis1: 56
+10: Tango: 36
+10: Xisuma: 16
+10: Renthedog: 10
+10: Grian: 8
+10: GoodTimeWithScar: 5
+10: cubfan135: 4
+10: hypnotizd: 1
+Total 280

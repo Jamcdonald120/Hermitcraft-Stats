@@ -1,0 +1,24 @@
+minecraft.crafted.mangrove_trapdoor
+22: impulseSV: 1208
+22: Etho: 640
+22: GoodTimeWithScar: 292
+22: ZombieCleo: 266
+22: cubfan135: 252
+22: PearlescentMoon: 224
+22: Grian: 166
+22: Renthedog: 124
+22: Docm77: 114
+22: Keralis1: 76
+22: falsesymmetry: 68
+22: RentheKing: 62
+22: Tango: 54
+22: Xisuma: 50
+22: fWhip: 26
+22: BdoubleO100: 20
+22: MythicalSausage: 18
+22: Pixlriffs: 16
+22: iJevin: 12
+22: xBCrafted: 4
+22: Stressmonster101: 2
+22: Zedaph: 2
+Total 3696

@@ -1,0 +1,22 @@
+minecraft.picked_up.spruce_button
+20: Renthedog: 3292
+20: BdoubleO100: 303
+20: iJevin: 165
+20: GoodTimeWithScar: 40
+20: PearlescentMoon: 29
+20: Etho: 27
+20: Docm77: 26
+20: cubfan135: 20
+20: Skizzleman: 16
+20: joehillssays: 13
+20: Tango: 12
+20: Grian: 10
+20: Smallishbeans: 8
+20: ZombieCleo: 8
+20: falsesymmetry: 7
+20: impulseSV: 7
+20: Xisuma: 6
+20: xBCrafted: 6
+20: hypnotizd: 4
+20: GeminiTay: 1
+Total 4000

@@ -1,0 +1,3 @@
+minecraft.crafted.purpur_pillar
+1: Tango: 10
+Total 10

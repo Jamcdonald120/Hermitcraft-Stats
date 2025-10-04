@@ -1,0 +1,25 @@
+minecraft.picked_up.black_stained_glass
+23: xBCrafted: 3780
+23: joehillssays: 478
+23: ZombieCleo: 307
+23: GoodTimeWithScar: 217
+23: PearlescentMoon: 207
+23: falsesymmetry: 202
+23: Grian: 187
+23: Zedaph: 166
+23: Renthedog: 152
+23: BdoubleO100: 139
+23: cubfan135: 82
+23: Etho: 54
+23: Keralis1: 54
+23: Xisuma: 46
+23: impulseSV: 45
+23: Mumbo: 42
+23: Docm77: 40
+23: Skizzleman: 29
+23: Tango: 26
+23: Smallishbeans: 25
+23: GeminiTay: 9
+23: Welsknight: 2
+23: hypnotizd: 2
+Total 6291

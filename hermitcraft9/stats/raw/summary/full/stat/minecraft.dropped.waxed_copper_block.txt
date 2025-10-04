@@ -1,0 +1,5 @@
+minecraft.dropped.waxed_copper_block
+3: GoodTimeWithScar: 31
+3: Grian: 4
+3: MythicalSausage: 1
+Total 36

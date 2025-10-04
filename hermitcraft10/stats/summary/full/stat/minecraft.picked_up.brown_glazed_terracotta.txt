@@ -1,0 +1,5 @@
+minecraft.picked_up.brown_glazed_terracotta
+3: Xisuma: 30
+3: Etho: 27
+3: Smallishbeans: 3
+Total 60

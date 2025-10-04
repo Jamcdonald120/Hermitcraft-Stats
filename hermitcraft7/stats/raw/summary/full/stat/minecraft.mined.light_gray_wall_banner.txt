@@ -1,0 +1,8 @@
+minecraft.mined.light_gray_wall_banner
+6: Tango: 18
+6: Keralis1: 6
+6: impulseSV: 4
+6: Grian: 1
+6: xBCrafted: 1
+6: Zedaph: 1
+Total 31

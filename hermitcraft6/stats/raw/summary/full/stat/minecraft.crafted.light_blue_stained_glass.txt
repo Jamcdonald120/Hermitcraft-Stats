@@ -1,0 +1,20 @@
+minecraft.crafted.light_blue_stained_glass
+18: iJevin: 10640
+18: Xisuma: 6888
+18: cubfan135: 6656
+18: Docm77: 4928
+18: Welsknight: 3616
+18: Renthedog: 3528
+18: Tango: 3192
+18: GoodTimeWithScar: 2504
+18: iskall85: 2112
+18: MumboJumbo: 1056
+18: falsesymmetry: 712
+18: PythonGB: 512
+18: Stressmonster101: 200
+18: Tinfoilchef: 80
+18: Keralis1: 24
+18: Grian: 8
+18: ZombieCleo: 8
+18: Zedaph: 8
+Total 46672

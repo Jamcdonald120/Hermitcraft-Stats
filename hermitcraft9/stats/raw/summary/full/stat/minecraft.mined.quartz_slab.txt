@@ -1,0 +1,21 @@
+minecraft.mined.quartz_slab
+19: impulseSV: 638
+19: Docm77: 449
+19: VintageBeef: 336
+19: Tango: 259
+19: Renthedog: 209
+19: xBCrafted: 61
+19: Pixlriffs: 59
+19: ZombieCleo: 57
+19: Etho: 56
+19: GeminiTay: 44
+19: cubfan135: 44
+19: OrionSound: 27
+19: Stressmonster101: 24
+19: Keralis1: 22
+19: Zedaph: 19
+19: GoodTimeWithScar: 14
+19: Xisuma: 2
+19: PearlescentMoon: 2
+19: Smajor1995: 1
+Total 2323

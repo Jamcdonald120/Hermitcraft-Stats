@@ -1,0 +1,26 @@
+minecraft.used.blast_furnace
+24: impulseSV: 530
+24: Tango: 497
+24: Keralis1: 468
+24: Docm77: 428
+24: Xisuma: 350
+24: Zedaph: 116
+24: PearlescentMoon: 87
+24: xBCrafted: 50
+24: GoodTimeWithScar: 49
+24: BdoubleO100: 38
+24: ZombieCleo: 27
+24: hypnotizd: 21
+24: GeminiTay: 17
+24: Etho: 17
+24: Smallishbeans: 14
+24: falsesymmetry: 12
+24: Mumbo: 10
+24: Renthedog: 8
+24: cubfan135: 7
+24: iJevin: 3
+24: VintageBeef: 1
+24: Grian: 1
+24: Skizzleman: 1
+24: Welsknight: 1
+Total 2753

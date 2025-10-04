@@ -1,0 +1,21 @@
+minecraft.picked_up.beacon
+19: cubfan135: 183
+19: iskall85: 75
+19: Xisuma: 51
+19: GoodTimeWithScar: 47
+19: Renthedog: 41
+19: falsesymmetry: 32
+19: Grian: 29
+19: Docm77: 28
+19: MumboJumbo: 25
+19: Stressmonster101: 23
+19: iJevin: 20
+19: Tango: 16
+19: impulseSV: 10
+19: BdoubleO100: 8
+19: Biffa2001: 8
+19: Keralis1: 7
+19: Welsknight: 6
+19: joehillssays: 5
+19: Zedaph: 1
+Total 615

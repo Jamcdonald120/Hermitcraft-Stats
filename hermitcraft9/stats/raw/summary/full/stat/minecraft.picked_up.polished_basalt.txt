@@ -1,0 +1,25 @@
+minecraft.picked_up.polished_basalt
+23: falsesymmetry: 2669
+23: Tango: 1625
+23: impulseSV: 1095
+23: cubfan135: 1065
+23: ZombieCleo: 479
+23: Renthedog: 338
+23: GoodTimeWithScar: 261
+23: joehillssays: 241
+23: PearlescentMoon: 102
+23: iJevin: 70
+23: RentheKing: 63
+23: BdoubleO100: 56
+23: xBCrafted: 52
+23: Xisuma: 27
+23: Etho: 22
+23: Keralis1: 9
+23: Docm77: 6
+23: Mumbo: 5
+23: Zedaph: 4
+23: GeminiTay: 2
+23: Grian: 2
+23: iskall85: 2
+23: MumboJumbo: 2
+Total 8197

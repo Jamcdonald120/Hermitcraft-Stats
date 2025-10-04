@@ -1,0 +1,33 @@
+minecraft.mined.snow_block
+31: iJevin: 26087
+31: falsesymmetry: 20129
+31: Renthedog: 16911
+31: GoodTimeWithScar: 12234
+31: joehillssays: 9648
+31: Tango: 7004
+31: RentheKing: 4254
+31: Keralis1: 3022
+31: PearlescentMoon: 2103
+31: Grian: 1947
+31: Xisuma: 1367
+31: hypnotizd: 1302
+31: BdoubleO100: 727
+31: Etho: 629
+31: MythicalSausage: 471
+31: iskall85: 440
+31: cubfan135: 384
+31: xBCrafted: 345
+31: SolidarityGaming: 149
+31: Zedaph: 135
+31: Docm77: 95
+31: Pixlriffs: 84
+31: Mumbo: 61
+31: impulseSV: 56
+31: OrionSound: 50
+31: Smallishbeans: 45
+31: GeminiTay: 26
+31: VintageBeef: 24
+31: MumboJumbo: 10
+31: ShubbleYT: 10
+31: ZombieCleo: 7
+Total 109756

@@ -1,0 +1,4 @@
+minecraft.dropped.cracked_deepslate_tiles
+2: EvilXisuma: 24
+2: Xisuma: 24
+Total 48

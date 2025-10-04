@@ -1,0 +1,13 @@
+minecraft.crafted.cyan_banner
+11: GoodTimeWithScar: 102
+11: impulseSV: 37
+11: Xisuma: 23
+11: falsesymmetry: 20
+11: Tango: 10
+11: Keralis1: 10
+11: BdoubleO100: 7
+11: Welsknight: 4
+11: xBCrafted: 3
+11: VintageBeef: 1
+11: cubfan135: 1
+Total 218

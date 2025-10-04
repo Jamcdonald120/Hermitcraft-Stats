@@ -1,0 +1,27 @@
+minecraft.crafted.iron_pickaxe
+25: Renthedog: 75
+25: Keralis1: 68
+25: Stressmonster101: 60
+25: ZombieCleo: 56
+25: Grian: 33
+25: iJevin: 30
+25: joehillssays: 30
+25: iskall85: 26
+25: Tango: 23
+25: falsesymmetry: 23
+25: GoodTimeWithScar: 22
+25: impulseSV: 22
+25: cubfan135: 21
+25: Docm77: 17
+25: Zedaph: 17
+25: Tinfoilchef: 16
+25: BdoubleO100: 12
+25: xBCrafted: 10
+25: Biffa2001: 8
+25: PythonGB: 7
+25: Jessassin: 5
+25: Welsknight: 5
+25: MumboJumbo: 5
+25: Xisuma: 3
+25: EvilXisuma: 1
+Total 595

@@ -1,0 +1,19 @@
+minecraft.picked_up.gray_terracotta
+17: ZombieCleo: 1072
+17: GoodTimeWithScar: 140
+17: GeminiTay: 105
+17: Xisuma: 79
+17: Renthedog: 73
+17: Smallishbeans: 73
+17: cubfan135: 55
+17: falsesymmetry: 43
+17: Etho: 42
+17: Docm77: 20
+17: Tango: 19
+17: impulseSV: 17
+17: Skizzleman: 15
+17: VintageBeef: 4
+17: joehillssays: 3
+17: BdoubleO100: 2
+17: PearlescentMoon: 1
+Total 1763

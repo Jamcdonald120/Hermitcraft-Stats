@@ -1,0 +1,10 @@
+minecraft.dropped.quartz_stairs
+8: impulseSV: 63
+8: Keralis1: 24
+8: GoodTimeWithScar: 21
+8: iskall85: 15
+8: Etho: 3
+8: hypnotizd: 3
+8: Tango: 1
+8: cubfan135: 1
+Total 131

@@ -1,0 +1,28 @@
+minecraft.picked_up.stone_bricks
+26: iJevin: 34885
+26: Renthedog: 18409
+26: Stressmonster101: 16933
+26: iskall85: 15460
+26: falsesymmetry: 14204
+26: Xisuma: 12295
+26: cubfan135: 11358
+26: impulseSV: 11212
+26: MumboJumbo: 7686
+26: Docm77: 4940
+26: Zedaph: 2361
+26: Welsknight: 2262
+26: Tango: 2230
+26: Grian: 1790
+26: joehillssays: 1761
+26: GoodTimeWithScar: 1574
+26: Tinfoilchef: 1262
+26: ZombieCleo: 853
+26: Biffa2001: 557
+26: BdoubleO100: 413
+26: Keralis1: 225
+26: PythonGB: 107
+26: HumanCleo: 73
+26: xBCrafted: 13
+26: isGall85: 1
+26: Cub_Cam: 1
+Total 162865

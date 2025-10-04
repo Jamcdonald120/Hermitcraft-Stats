@@ -1,0 +1,17 @@
+minecraft.dropped.deepslate_diamond_ore
+15: PearlescentMoon: 498
+15: hypnotizd: 247
+15: cubfan135: 126
+15: impulseSV: 103
+15: Xisuma: 86
+15: Grian: 79
+15: xBCrafted: 53
+15: Renthedog: 47
+15: GoodTimeWithScar: 40
+15: Tango: 20
+15: joehillssays: 15
+15: iJevin: 4
+15: Docm77: 2
+15: VintageBeef: 2
+15: Zedaph: 1
+Total 1323

@@ -1,0 +1,4 @@
+minecraft.picked_up.magenta_carpet
+2: ZombieCleo: 2
+2: Welsknight: 1
+Total 3

@@ -1,0 +1,23 @@
+minecraft.picked_up.dark_oak_fence
+21: Zedaph: 1919
+21: Grian: 719
+21: Renthedog: 650
+21: cubfan135: 261
+21: BdoubleO100: 161
+21: Tango: 119
+21: impulseSV: 119
+21: xBCrafted: 92
+21: Xisuma: 84
+21: GoodTimeWithScar: 70
+21: joehillssays: 62
+21: Keralis1: 50
+21: iskall85: 18
+21: VintageBeef: 14
+21: ZombieCleo: 12
+21: iJevin: 10
+21: Docm77: 9
+21: Welsknight: 5
+21: falsesymmetry: 3
+21: Etho: 3
+21: Stressmonster101: 2
+Total 4382

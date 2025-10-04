@@ -1,0 +1,25 @@
+minecraft.picked_up.iron_shovel
+23: impulseSV: 74
+23: iJevin: 35
+23: Skizzleman: 34
+23: Grian: 27
+23: GoodTimeWithScar: 21
+23: Renthedog: 16
+23: cubfan135: 14
+23: hypnotizd: 13
+23: Xisuma: 10
+23: Etho: 9
+23: Docm77: 8
+23: Tango: 8
+23: xBCrafted: 8
+23: Welsknight: 7
+23: Zedaph: 7
+23: PearlescentMoon: 5
+23: joehillssays: 3
+23: GeminiTay: 3
+23: Smallishbeans: 2
+23: falsesymmetry: 2
+23: VintageBeef: 1
+23: ZombieCleo: 1
+23: Keralis1: 1
+Total 309

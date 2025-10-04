@@ -1,0 +1,10 @@
+minecraft.killed_by.vex
+8: GoodTimeWithScar: 50
+8: Tango: 4
+8: Mumbo: 4
+8: Renthedog: 1
+8: Skizzleman: 1
+8: hypnotizd: 1
+8: Keralis1: 1
+8: impulseSV: 1
+Total 63

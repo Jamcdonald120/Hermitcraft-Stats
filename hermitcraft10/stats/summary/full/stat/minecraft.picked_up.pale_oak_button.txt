@@ -1,0 +1,10 @@
+minecraft.picked_up.pale_oak_button
+8: Renthedog: 128
+8: BdoubleO100: 66
+8: impulseSV: 22
+8: Skizzleman: 8
+8: joehillssays: 5
+8: iJevin: 4
+8: Xisuma: 3
+8: falsesymmetry: 1
+Total 237

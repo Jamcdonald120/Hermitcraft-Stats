@@ -1,0 +1,25 @@
+minecraft.dropped.bundle
+23: PearlescentMoon: 35
+23: cubfan135: 28
+23: GoodTimeWithScar: 13
+23: falsesymmetry: 11
+23: iJevin: 8
+23: Etho: 7
+23: ZombieCleo: 7
+23: Grian: 5
+23: impulseSV: 5
+23: Tango: 4
+23: joehillssays: 3
+23: Renthedog: 2
+23: Skizzleman: 2
+23: Smallishbeans: 2
+23: BdoubleO100: 2
+23: Keralis1: 2
+23: Zedaph: 2
+23: Xisuma: 1
+23: OrionSound: 1
+23: Mumbo: 1
+23: jojosolos: 1
+23: HBomb94: 1
+23: SolidarityGaming: 1
+Total 144

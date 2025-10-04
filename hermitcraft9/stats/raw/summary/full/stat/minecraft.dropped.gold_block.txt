@@ -1,0 +1,15 @@
+minecraft.dropped.gold_block
+13: Tango: 4375
+13: iJevin: 188
+13: Xisuma: 183
+13: VintageBeef: 84
+13: Keralis1: 66
+13: Docm77: 64
+13: Renthedog: 19
+13: GoodTimeWithScar: 17
+13: impulseSV: 5
+13: Zedaph: 3
+13: falsesymmetry: 2
+13: xBCrafted: 1
+13: Etho: 1
+Total 5008

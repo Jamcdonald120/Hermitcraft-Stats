@@ -1,0 +1,7 @@
+minecraft.dropped.red_stained_glass
+5: Etho: 587
+5: ZombieCleo: 25
+5: impulseSV: 4
+5: Smallishbeans: 2
+5: Tango: 1
+Total 619

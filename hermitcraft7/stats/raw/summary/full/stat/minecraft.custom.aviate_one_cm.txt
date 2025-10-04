@@ -1,0 +1,27 @@
+minecraft.custom.aviate_one_cm
+25: GoodTimeWithScar: 2147483647
+25: Keralis1: 2147483647
+25: Grian: 1883055632
+25: cubfan135: 1149692618
+25: Renthedog: 1136421801
+25: Tango: 1089739739
+25: iJevin: 935295987
+25: Xisuma: 885100995
+25: iskall85: 865065162
+25: falsesymmetry: 857856116
+25: impulseSV: 826899279
+25: Etho: 755658077
+25: MumboJumbo: 722412265
+25: xBCrafted: 683213232
+25: joehillssays: 625524162
+25: hypnotizd: 458089383
+25: VintageBeef: 309465062
+25: BdoubleO100: 268015347
+25: Stressmonster101: 218405072
+25: Welsknight: 158586223
+25: Zedaph: 155691300
+25: Docm77: 126444014
+25: ZombieCleo: 112055123
+25: Tinfoilchef: 24973433
+25: BarryBoss1234: 7574204
+Total 18550201520

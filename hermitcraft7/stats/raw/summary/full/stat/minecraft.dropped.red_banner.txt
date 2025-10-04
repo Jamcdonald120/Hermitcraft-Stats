@@ -1,0 +1,13 @@
+minecraft.dropped.red_banner
+11: Tango: 5
+11: Zedaph: 4
+11: GoodTimeWithScar: 3
+11: Keralis1: 2
+11: Xisuma: 1
+11: Renthedog: 1
+11: joehillssays: 1
+11: BdoubleO100: 1
+11: xBCrafted: 1
+11: falsesymmetry: 1
+11: cubfan135: 1
+Total 21

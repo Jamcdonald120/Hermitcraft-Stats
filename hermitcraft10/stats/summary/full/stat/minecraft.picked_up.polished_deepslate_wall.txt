@@ -1,0 +1,24 @@
+minecraft.picked_up.polished_deepslate_wall
+22: impulseSV: 317
+22: Renthedog: 198
+22: Welsknight: 184
+22: GoodTimeWithScar: 174
+22: Tango: 161
+22: cubfan135: 127
+22: Smallishbeans: 85
+22: Xisuma: 61
+22: xBCrafted: 43
+22: PearlescentMoon: 41
+22: BdoubleO100: 36
+22: joehillssays: 34
+22: Keralis1: 23
+22: hypnotizd: 20
+22: Docm77: 18
+22: Mumbo: 14
+22: ZombieCleo: 11
+22: VintageBeef: 4
+22: iJevin: 1
+22: GeminiTay: 1
+22: falsesymmetry: 1
+22: Zedaph: 1
+Total 1555

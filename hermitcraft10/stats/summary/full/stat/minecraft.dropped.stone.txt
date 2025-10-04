@@ -1,0 +1,29 @@
+minecraft.dropped.stone
+27: Zedaph: 72548
+27: Etho: 44877
+27: xBCrafted: 19972
+27: GoodTimeWithScar: 18624
+27: Tango: 17878
+27: iJevin: 16927
+27: falsesymmetry: 13047
+27: Docm77: 12918
+27: BdoubleO100: 9911
+27: impulseSV: 9325
+27: cubfan135: 9218
+27: Grian: 8592
+27: Xisuma: 5110
+27: Renthedog: 4872
+27: Smallishbeans: 3724
+27: Keralis1: 3550
+27: Skizzleman: 2887
+27: GeminiTay: 2571
+27: joehillssays: 2096
+27: PearlescentMoon: 2054
+27: hypnotizd: 1831
+27: Mumbo: 1618
+27: ZombieCleo: 466
+27: Welsknight: 166
+27: VintageBeef: 58
+27: SolidarityGaming: 3
+27: jojosolos: 1
+Total 284844

@@ -1,0 +1,30 @@
+minecraft.crafted.birch_planks
+28: impulseSV: 21428
+28: cubfan135: 16470
+28: iskall85: 15452
+28: falsesymmetry: 15303
+28: Tango: 15008
+28: Renthedog: 14122
+28: Xisuma: 13772
+28: iJevin: 10728
+28: Grian: 8102
+28: MumboJumbo: 6330
+28: GoodTimeWithScar: 6168
+28: Docm77: 3800
+28: joehillssays: 3528
+28: Welsknight: 3064
+28: Stressmonster101: 2848
+28: Keralis1: 2124
+28: ZombieCleo: 1236
+28: BdoubleO100: 1016
+28: Zedaph: 520
+28: Biffa2001: 488
+28: PythonGB: 344
+28: tterrag: 280
+28: xBCrafted: 176
+28: Tinfoilchef: 140
+28: PokePugx: 128
+28: Jessassin: 88
+28: EvilXisuma: 80
+28: HumanCleo: 72
+Total 162815

@@ -1,0 +1,27 @@
+minecraft.picked_up.deepslate
+25: PearlescentMoon: 38307
+25: cubfan135: 37781
+25: Smallishbeans: 28617
+25: GoodTimeWithScar: 27896
+25: ZombieCleo: 18885
+25: Docm77: 18610
+25: Keralis1: 15969
+25: Xisuma: 11715
+25: xBCrafted: 10539
+25: Zedaph: 9044
+25: falsesymmetry: 8053
+25: VintageBeef: 5969
+25: Renthedog: 5822
+25: iJevin: 5673
+25: impulseSV: 5537
+25: Grian: 5430
+25: Skizzleman: 4872
+25: BdoubleO100: 4536
+25: Tango: 4383
+25: hypnotizd: 4122
+25: Etho: 2531
+25: joehillssays: 2412
+25: GeminiTay: 1084
+25: Mumbo: 1051
+25: Welsknight: 299
+Total 279137

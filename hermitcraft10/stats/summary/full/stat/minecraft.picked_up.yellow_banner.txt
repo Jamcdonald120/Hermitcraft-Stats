@@ -1,0 +1,14 @@
+minecraft.picked_up.yellow_banner
+12: impulseSV: 31
+12: cubfan135: 21
+12: joehillssays: 14
+12: Etho: 5
+12: falsesymmetry: 4
+12: VintageBeef: 3
+12: Xisuma: 2
+12: Tango: 2
+12: iJevin: 1
+12: Smallishbeans: 1
+12: PearlescentMoon: 1
+12: GoodTimeWithScar: 1
+Total 86

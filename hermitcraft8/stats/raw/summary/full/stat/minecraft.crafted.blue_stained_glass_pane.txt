@@ -1,0 +1,5 @@
+minecraft.crafted.blue_stained_glass_pane
+3: Renthedog: 48
+3: Grian: 16
+3: PearlescentMoon: 16
+Total 80

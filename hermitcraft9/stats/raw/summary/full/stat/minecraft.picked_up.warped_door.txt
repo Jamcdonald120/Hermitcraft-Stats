@@ -1,0 +1,12 @@
+minecraft.picked_up.warped_door
+10: ZombieCleo: 15
+10: Tango: 10
+10: Smajor1995: 7
+10: GoodTimeWithScar: 7
+10: PearlescentMoon: 5
+10: xBCrafted: 4
+10: Zedaph: 2
+10: Renthedog: 1
+10: cubfan135: 1
+10: fWhip: 1
+Total 53

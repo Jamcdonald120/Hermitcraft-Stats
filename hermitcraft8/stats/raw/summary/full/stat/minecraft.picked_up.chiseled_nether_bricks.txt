@@ -1,0 +1,3 @@
+minecraft.picked_up.chiseled_nether_bricks
+1: cubfan135: 37
+Total 37

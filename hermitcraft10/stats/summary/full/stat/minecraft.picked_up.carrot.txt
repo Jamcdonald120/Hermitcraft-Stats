@@ -1,0 +1,30 @@
+minecraft.picked_up.carrot
+28: Tango: 10012
+28: impulseSV: 9362
+28: PearlescentMoon: 9342
+28: hypnotizd: 7833
+28: Renthedog: 5276
+28: Grian: 4466
+28: iJevin: 4060
+28: VintageBeef: 3435
+28: cubfan135: 3414
+28: GeminiTay: 3182
+28: Xisuma: 3137
+28: Etho: 2120
+28: falsesymmetry: 1744
+28: Mumbo: 1270
+28: xBCrafted: 1043
+28: GoodTimeWithScar: 939
+28: BdoubleO100: 927
+28: Skizzleman: 824
+28: ZombieCleo: 820
+28: Docm77: 713
+28: Zedaph: 702
+28: Smallishbeans: 474
+28: joehillssays: 446
+28: Keralis1: 265
+28: Welsknight: 63
+28: SolidarityGaming: 33
+28: HBomb94: 15
+28: aimsey: 6
+Total 75923

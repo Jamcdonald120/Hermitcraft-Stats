@@ -1,0 +1,12 @@
+minecraft.picked_up.red_nether_brick_stairs
+10: Tango: 350
+10: Zedaph: 108
+10: impulseSV: 49
+10: BdoubleO100: 30
+10: cubfan135: 22
+10: Keralis1: 18
+10: Xisuma: 15
+10: GoodTimeWithScar: 8
+10: VintageBeef: 2
+10: Welsknight: 2
+Total 604

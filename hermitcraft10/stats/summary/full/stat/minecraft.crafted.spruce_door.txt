@@ -1,0 +1,24 @@
+minecraft.crafted.spruce_door
+22: xBCrafted: 144
+22: Renthedog: 132
+22: Keralis1: 102
+22: impulseSV: 36
+22: Grian: 30
+22: Smallishbeans: 30
+22: Welsknight: 30
+22: iJevin: 24
+22: BdoubleO100: 21
+22: Xisuma: 15
+22: GeminiTay: 15
+22: Tango: 15
+22: PearlescentMoon: 15
+22: falsesymmetry: 12
+22: ZombieCleo: 9
+22: joehillssays: 6
+22: Etho: 6
+22: Docm77: 3
+22: VintageBeef: 3
+22: Skizzleman: 3
+22: Mumbo: 3
+22: hypnotizd: 3
+Total 657

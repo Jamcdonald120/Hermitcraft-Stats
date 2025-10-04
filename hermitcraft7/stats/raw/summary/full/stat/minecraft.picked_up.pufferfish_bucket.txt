@@ -1,0 +1,11 @@
+minecraft.picked_up.pufferfish_bucket
+9: Zedaph: 23
+9: Xisuma: 13
+9: Tango: 11
+9: Etho: 9
+9: cubfan135: 4
+9: Docm77: 2
+9: iskall85: 1
+9: falsesymmetry: 1
+9: GoodTimeWithScar: 1
+Total 65

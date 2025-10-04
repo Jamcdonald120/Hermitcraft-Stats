@@ -1,0 +1,28 @@
+minecraft.dropped.spruce_planks
+26: iJevin: 497
+26: Tango: 439
+26: falsesymmetry: 407
+26: Grian: 396
+26: Keralis1: 295
+26: impulseSV: 236
+26: PearlescentMoon: 185
+26: hypnotizd: 181
+26: Renthedog: 152
+26: iskall85: 115
+26: GeminiTay: 114
+26: Stressmonster101: 103
+26: ZombieCleo: 92
+26: Etho: 87
+26: GoodTimeWithScar: 80
+26: MythicalSausage: 75
+26: cubfan135: 44
+26: xBCrafted: 38
+26: Zedaph: 26
+26: Docm77: 23
+26: Xisuma: 22
+26: BdoubleO100: 11
+26: Pixlriffs: 5
+26: RentheKing: 4
+26: VintageBeef: 1
+26: joehillssays: 1
+Total 3629

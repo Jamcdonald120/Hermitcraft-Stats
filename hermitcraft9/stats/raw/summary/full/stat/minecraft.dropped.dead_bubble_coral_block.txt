@@ -1,0 +1,5 @@
+minecraft.dropped.dead_bubble_coral_block
+3: GoodTimeWithScar: 5
+3: PearlescentMoon: 1
+3: Keralis1: 1
+Total 7

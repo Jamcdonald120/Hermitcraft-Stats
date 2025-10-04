@@ -1,0 +1,3 @@
+minecraft.dropped.resin_brick_stairs
+1: Renthedog: 1
+Total 1

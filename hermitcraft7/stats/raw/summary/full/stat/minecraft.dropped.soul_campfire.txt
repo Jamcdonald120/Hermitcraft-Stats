@@ -1,0 +1,4 @@
+minecraft.dropped.soul_campfire
+2: Grian: 4
+2: Etho: 2
+Total 6

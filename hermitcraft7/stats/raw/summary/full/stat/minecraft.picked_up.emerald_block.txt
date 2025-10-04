@@ -1,0 +1,27 @@
+minecraft.picked_up.emerald_block
+25: iJevin: 4645
+25: cubfan135: 2596
+25: hypnotizd: 1658
+25: Etho: 1438
+25: MumboJumbo: 122
+25: impulseSV: 93
+25: joehillssays: 90
+25: Keralis1: 85
+25: iskall85: 16
+25: Tango: 14
+25: Stressmonster101: 12
+25: Docm77: 10
+25: Grian: 9
+25: falsesymmetry: 7
+25: Zedaph: 6
+25: Xisuma: 4
+25: BdoubleO100: 4
+25: Renthedog: 3
+25: GoodTimeWithScar: 3
+25: VintageBeef: 2
+25: Welsknight: 2
+25: ZombieCleo: 2
+25: Tinfoilchef: 2
+25: xBCrafted: 1
+25: BarryBoss1234: 1
+Total 10825

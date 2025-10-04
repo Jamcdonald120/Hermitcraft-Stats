@@ -1,0 +1,14 @@
+minecraft.picked_up.red_glazed_terracotta
+12: OrionSound: 177
+12: falsesymmetry: 124
+12: Xisuma: 121
+12: GoodTimeWithScar: 121
+12: Grian: 63
+12: Etho: 54
+12: Smallishbeans: 38
+12: joehillssays: 37
+12: MythicalSausage: 6
+12: Zedaph: 3
+12: Tango: 1
+12: ZombieCleo: 1
+Total 746

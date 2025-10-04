@@ -1,0 +1,9 @@
+minecraft.dropped.guster_pottery_sherd
+7: Grian: 12
+7: Xisuma: 11
+7: Skizzleman: 3
+7: Tango: 2
+7: Keralis1: 2
+7: Mumbo: 1
+7: GoodTimeWithScar: 1
+Total 32

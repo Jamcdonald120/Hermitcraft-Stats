@@ -1,0 +1,6 @@
+minecraft.picked_up.magenta_glazed_terracotta
+4: impulseSV: 50
+4: hypnotizd: 24
+4: PearlescentMoon: 3
+4: Keralis1: 1
+Total 78

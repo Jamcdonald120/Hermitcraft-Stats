@@ -1,0 +1,6 @@
+minecraft.dropped.crimson_door
+4: Tango: 6
+4: GoodTimeWithScar: 2
+4: Zedaph: 2
+4: Etho: 1
+Total 11

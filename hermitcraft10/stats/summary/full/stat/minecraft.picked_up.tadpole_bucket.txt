@@ -1,0 +1,4 @@
+minecraft.picked_up.tadpole_bucket
+2: GeminiTay: 1
+2: Etho: 1
+Total 2

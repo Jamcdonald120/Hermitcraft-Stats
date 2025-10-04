@@ -1,0 +1,29 @@
+minecraft.used.string
+27: joehillssays: 15034
+27: Keralis1: 12708
+27: PearlescentMoon: 403
+27: GoodTimeWithScar: 322
+27: impulseSV: 262
+27: Tango: 213
+27: Etho: 204
+27: cubfan135: 176
+27: Docm77: 140
+27: falsesymmetry: 137
+27: Xisuma: 133
+27: Smallishbeans: 126
+27: Grian: 111
+27: Mumbo: 109
+27: BdoubleO100: 101
+27: Skizzleman: 100
+27: ZombieCleo: 81
+27: Renthedog: 62
+27: GeminiTay: 38
+27: iJevin: 34
+27: VintageBeef: 31
+27: xBCrafted: 30
+27: hypnotizd: 29
+27: Zedaph: 15
+27: Welsknight: 13
+27: jojosolos: 8
+27: SolidarityGaming: 6
+Total 30626

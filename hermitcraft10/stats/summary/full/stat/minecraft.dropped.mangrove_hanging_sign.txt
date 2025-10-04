@@ -1,0 +1,5 @@
+minecraft.dropped.mangrove_hanging_sign
+3: falsesymmetry: 4
+3: Etho: 2
+3: Tango: 1
+Total 7

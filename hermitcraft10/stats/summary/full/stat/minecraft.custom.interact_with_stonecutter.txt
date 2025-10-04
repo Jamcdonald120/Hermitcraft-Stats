@@ -1,0 +1,29 @@
+minecraft.custom.interact_with_stonecutter
+27: Xisuma: 1250
+27: BdoubleO100: 1095
+27: Smallishbeans: 1051
+27: GoodTimeWithScar: 1016
+27: cubfan135: 781
+27: Renthedog: 775
+27: joehillssays: 604
+27: impulseSV: 598
+27: Tango: 531
+27: PearlescentMoon: 526
+27: xBCrafted: 495
+27: Etho: 429
+27: Docm77: 427
+27: VintageBeef: 411
+27: Grian: 217
+27: ZombieCleo: 204
+27: GeminiTay: 194
+27: Welsknight: 160
+27: Keralis1: 155
+27: Zedaph: 150
+27: iJevin: 139
+27: Skizzleman: 133
+27: hypnotizd: 132
+27: falsesymmetry: 123
+27: Mumbo: 101
+27: Eyjoy27: 4
+27: F1RECRACKR: 3
+Total 11704

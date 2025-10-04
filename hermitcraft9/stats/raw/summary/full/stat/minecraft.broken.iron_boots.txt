@@ -1,0 +1,6 @@
+minecraft.broken.iron_boots
+4: VintageBeef: 1
+4: iJevin: 1
+4: Mumbo: 1
+4: MumboJumbo: 1
+Total 4

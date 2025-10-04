@@ -1,0 +1,27 @@
+minecraft.crafted.warped_planks
+25: cubfan135: 4865
+25: GoodTimeWithScar: 4580
+25: Smallishbeans: 3352
+25: Xisuma: 3184
+25: Etho: 2916
+25: PearlescentMoon: 2832
+25: Tango: 2216
+25: BdoubleO100: 2200
+25: Docm77: 2100
+25: Grian: 2012
+25: Mumbo: 1572
+25: falsesymmetry: 1284
+25: Keralis1: 1024
+25: impulseSV: 1008
+25: xBCrafted: 712
+25: Skizzleman: 540
+25: GeminiTay: 308
+25: joehillssays: 216
+25: ZombieCleo: 136
+25: VintageBeef: 92
+25: iJevin: 72
+25: hypnotizd: 72
+25: Renthedog: 8
+25: Eyjoy27: 4
+25: Zedaph: 4
+Total 37309

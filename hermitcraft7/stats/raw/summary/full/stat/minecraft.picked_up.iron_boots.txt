@@ -1,0 +1,24 @@
+minecraft.picked_up.iron_boots
+22: hypnotizd: 291
+22: Etho: 66
+22: xBCrafted: 51
+22: joehillssays: 44
+22: Tango: 40
+22: cubfan135: 37
+22: MumboJumbo: 31
+22: Zedaph: 29
+22: Xisuma: 20
+22: VintageBeef: 16
+22: Grian: 16
+22: iskall85: 16
+22: GoodTimeWithScar: 15
+22: Renthedog: 14
+22: falsesymmetry: 12
+22: Keralis1: 7
+22: iJevin: 6
+22: impulseSV: 6
+22: Welsknight: 3
+22: BdoubleO100: 1
+22: ZombieCleo: 1
+22: Tinfoilchef: 1
+Total 723

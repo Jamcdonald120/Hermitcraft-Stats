@@ -1,0 +1,12 @@
+minecraft.picked_up.yellow_stained_glass_pane
+10: impulseSV: 367
+10: Xisuma: 185
+10: Smallishbeans: 56
+10: GoodTimeWithScar: 45
+10: BdoubleO100: 19
+10: ZombieCleo: 19
+10: Grian: 15
+10: cubfan135: 13
+10: joehillssays: 10
+10: PearlescentMoon: 7
+Total 736

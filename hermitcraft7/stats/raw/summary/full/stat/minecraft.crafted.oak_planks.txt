@@ -1,0 +1,27 @@
+minecraft.crafted.oak_planks
+25: MumboJumbo: 47043
+25: Keralis1: 46908
+25: joehillssays: 35907
+25: iskall85: 35896
+25: GoodTimeWithScar: 29888
+25: impulseSV: 29816
+25: Tango: 21284
+25: Grian: 15920
+25: Zedaph: 14620
+25: falsesymmetry: 13904
+25: Xisuma: 12148
+25: Renthedog: 8780
+25: xBCrafted: 8056
+25: Stressmonster101: 6988
+25: cubfan135: 6894
+25: Tinfoilchef: 6476
+25: VintageBeef: 6324
+25: BdoubleO100: 6140
+25: Etho: 5636
+25: ZombieCleo: 4759
+25: hypnotizd: 4332
+25: Welsknight: 4252
+25: iJevin: 3120
+25: Docm77: 2928
+25: Helsknight: 8
+Total 378027

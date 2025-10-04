@@ -1,0 +1,18 @@
+minecraft.dropped.warped_roots
+16: Tango: 1323
+16: falsesymmetry: 600
+16: Smallishbeans: 230
+16: BdoubleO100: 89
+16: Etho: 73
+16: ZombieCleo: 72
+16: Xisuma: 57
+16: cubfan135: 22
+16: impulseSV: 13
+16: Grian: 4
+16: Renthedog: 3
+16: Mumbo: 3
+16: iJevin: 2
+16: PearlescentMoon: 1
+16: GoodTimeWithScar: 1
+16: Keralis1: 1
+Total 2494

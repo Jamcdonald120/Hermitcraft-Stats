@@ -1,0 +1,25 @@
+minecraft.picked_up.rose_bush
+23: Xisuma: 4860
+23: GoodTimeWithScar: 2419
+23: cubfan135: 1222
+23: falsesymmetry: 1053
+23: iskall85: 718
+23: Docm77: 598
+23: Grian: 281
+23: Zedaph: 216
+23: ZombieCleo: 210
+23: iJevin: 200
+23: impulseSV: 115
+23: joehillssays: 113
+23: Stressmonster101: 113
+23: BdoubleO100: 96
+23: Renthedog: 79
+23: Biffa2001: 64
+23: Keralis1: 39
+23: PythonGB: 34
+23: Welsknight: 24
+23: Tango: 21
+23: xBCrafted: 15
+23: Jessassin: 8
+23: MumboJumbo: 3
+Total 12501

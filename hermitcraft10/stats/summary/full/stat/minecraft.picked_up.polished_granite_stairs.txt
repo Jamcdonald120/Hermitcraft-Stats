@@ -1,0 +1,9 @@
+minecraft.picked_up.polished_granite_stairs
+7: GoodTimeWithScar: 140
+7: PearlescentMoon: 87
+7: Tango: 73
+7: Xisuma: 55
+7: joehillssays: 18
+7: Renthedog: 1
+7: GeminiTay: 1
+Total 375

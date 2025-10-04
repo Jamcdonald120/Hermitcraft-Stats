@@ -1,0 +1,23 @@
+minecraft.picked_up.gold_ingot
+21: iskall85: 2294
+21: cubfan135: 2243
+21: Xisuma: 2220
+21: iJevin: 780
+21: Renthedog: 753
+21: Grian: 617
+21: Tango: 600
+21: PythonGB: 443
+21: GoodTimeWithScar: 295
+21: impulseSV: 282
+21: MumboJumbo: 260
+21: Zedaph: 230
+21: joehillssays: 155
+21: falsesymmetry: 133
+21: Docm77: 127
+21: Stressmonster101: 91
+21: BdoubleO100: 90
+21: Welsknight: 35
+21: Biffa2001: 8
+21: ZombieCleo: 4
+21: HumanCleo: 1
+Total 11661

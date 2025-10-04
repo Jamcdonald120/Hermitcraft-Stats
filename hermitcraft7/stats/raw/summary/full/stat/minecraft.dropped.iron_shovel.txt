@@ -1,0 +1,22 @@
+minecraft.dropped.iron_shovel
+20: MumboJumbo: 32
+20: Grian: 29
+20: Tango: 24
+20: Xisuma: 14
+20: Etho: 10
+20: iskall85: 8
+20: Zedaph: 8
+20: VintageBeef: 6
+20: GoodTimeWithScar: 6
+20: cubfan135: 5
+20: hypnotizd: 4
+20: iJevin: 3
+20: falsesymmetry: 3
+20: Tinfoilchef: 3
+20: Docm77: 2
+20: BdoubleO100: 2
+20: xBCrafted: 2
+20: Keralis1: 2
+20: impulseSV: 2
+20: Renthedog: 1
+Total 166

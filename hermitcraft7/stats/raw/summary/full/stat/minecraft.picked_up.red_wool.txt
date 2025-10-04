@@ -1,0 +1,23 @@
+minecraft.picked_up.red_wool
+21: BdoubleO100: 9827
+21: Etho: 3522
+21: VintageBeef: 2239
+21: Tango: 2089
+21: iJevin: 1797
+21: Xisuma: 630
+21: GoodTimeWithScar: 559
+21: cubfan135: 307
+21: impulseSV: 254
+21: Grian: 218
+21: Zedaph: 155
+21: Keralis1: 128
+21: joehillssays: 74
+21: Renthedog: 70
+21: MumboJumbo: 50
+21: iskall85: 48
+21: Docm77: 29
+21: Stressmonster101: 20
+21: falsesymmetry: 15
+21: ZombieCleo: 7
+21: xBCrafted: 2
+Total 22040

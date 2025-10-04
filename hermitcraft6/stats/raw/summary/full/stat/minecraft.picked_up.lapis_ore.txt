@@ -1,0 +1,23 @@
+minecraft.picked_up.lapis_ore
+21: iJevin: 2599
+21: cubfan135: 1118
+21: GoodTimeWithScar: 995
+21: Tango: 335
+21: falsesymmetry: 280
+21: Zedaph: 221
+21: Xisuma: 204
+21: Grian: 199
+21: Stressmonster101: 189
+21: Biffa2001: 174
+21: joehillssays: 102
+21: iskall85: 75
+21: MumboJumbo: 68
+21: Renthedog: 65
+21: impulseSV: 50
+21: Docm77: 41
+21: PythonGB: 36
+21: xBCrafted: 29
+21: ZombieCleo: 29
+21: Welsknight: 9
+21: Tinfoilchef: 4
+Total 6822

@@ -1,0 +1,24 @@
+minecraft.mined.mushroom_stem
+22: Grian: 4158
+22: Tango: 1420
+22: Etho: 1215
+22: Mumbo: 1121
+22: impulseSV: 532
+22: BdoubleO100: 393
+22: GeminiTay: 386
+22: iJevin: 273
+22: Xisuma: 243
+22: ZombieCleo: 213
+22: Docm77: 185
+22: Renthedog: 146
+22: cubfan135: 123
+22: PearlescentMoon: 65
+22: falsesymmetry: 39
+22: Keralis1: 36
+22: Zedaph: 32
+22: Smallishbeans: 16
+22: joehillssays: 13
+22: hypnotizd: 12
+22: GoodTimeWithScar: 6
+22: VintageBeef: 2
+Total 10629

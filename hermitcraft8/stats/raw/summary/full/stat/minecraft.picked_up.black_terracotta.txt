@@ -1,0 +1,7 @@
+minecraft.picked_up.black_terracotta
+5: VintageBeef: 268
+5: PearlescentMoon: 39
+5: impulseSV: 13
+5: Grian: 11
+5: Etho: 1
+Total 332

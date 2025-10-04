@@ -1,0 +1,18 @@
+minecraft.picked_up.lime_terracotta
+16: ZombieCleo: 962
+16: Grian: 367
+16: Etho: 367
+16: Xisuma: 357
+16: PearlescentMoon: 213
+16: impulseSV: 162
+16: GeminiTay: 96
+16: BdoubleO100: 80
+16: joehillssays: 74
+16: GoodTimeWithScar: 54
+16: Keralis1: 47
+16: iJevin: 18
+16: Smallishbeans: 14
+16: VintageBeef: 11
+16: falsesymmetry: 3
+16: cubfan135: 2
+Total 2827

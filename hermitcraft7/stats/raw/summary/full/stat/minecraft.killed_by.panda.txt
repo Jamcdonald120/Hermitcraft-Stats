@@ -1,0 +1,3 @@
+minecraft.killed_by.panda
+1: GoodTimeWithScar: 5
+Total 5

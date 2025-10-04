@@ -1,0 +1,16 @@
+minecraft.picked_up.exposed_copper_grate
+14: falsesymmetry: 68
+14: impulseSV: 29
+14: Xisuma: 20
+14: Docm77: 11
+14: Tango: 11
+14: xBCrafted: 9
+14: Mumbo: 9
+14: BdoubleO100: 5
+14: Grian: 3
+14: Keralis1: 3
+14: cubfan135: 2
+14: GoodTimeWithScar: 2
+14: Smallishbeans: 1
+14: hypnotizd: 1
+Total 174

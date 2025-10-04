@@ -1,0 +1,29 @@
+minecraft.dropped.iron_shovel
+27: iJevin: 33
+27: Tango: 16
+27: Xisuma: 13
+27: hypnotizd: 8
+27: Grian: 7
+27: Zedaph: 7
+27: PearlescentMoon: 6
+27: Etho: 5
+27: cubfan135: 4
+27: Keralis1: 4
+27: VintageBeef: 3
+27: ShubbleYT: 3
+27: Docm77: 2
+27: OrionSound: 2
+27: Smajor1995: 2
+27: iskall85: 2
+27: falsesymmetry: 2
+27: Renthedog: 1
+27: MythicalSausage: 1
+27: GeminiTay: 1
+27: Smallishbeans: 1
+27: Pixlriffs: 1
+27: xBCrafted: 1
+27: ZombieCleo: 1
+27: GoodTimeWithScar: 1
+27: SolidarityGaming: 1
+27: impulseSV: 1
+Total 129

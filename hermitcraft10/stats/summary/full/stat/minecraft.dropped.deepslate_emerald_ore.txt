@@ -1,0 +1,6 @@
+minecraft.dropped.deepslate_emerald_ore
+4: Couriway: 1
+4: Mumbo: 1
+4: GoodTimeWithScar: 1
+4: HBomb94: 1
+Total 4

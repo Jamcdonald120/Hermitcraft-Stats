@@ -1,0 +1,26 @@
+minecraft.crafted.diamond_axe
+24: iJevin: 44
+24: Etho: 32
+24: iskall85: 23
+24: Grian: 20
+24: GoodTimeWithScar: 13
+24: Stressmonster101: 10
+24: Tango: 8
+24: Keralis1: 8
+24: Renthedog: 7
+24: ZombieCleo: 6
+24: Zedaph: 6
+24: hypnotizd: 5
+24: Xisuma: 4
+24: VintageBeef: 4
+24: cubfan135: 4
+24: impulseSV: 3
+24: BdoubleO100: 2
+24: falsesymmetry: 2
+24: MumboJumbo: 2
+24: Docm77: 1
+24: joehillssays: 1
+24: xBCrafted: 1
+24: Welsknight: 1
+24: Tinfoilchef: 1
+Total 208

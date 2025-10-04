@@ -1,0 +1,15 @@
+minecraft.picked_up.raw_gold_block
+13: Keralis1: 320
+13: cubfan135: 197
+13: GoodTimeWithScar: 118
+13: iJevin: 34
+13: ZombieCleo: 34
+13: xBCrafted: 18
+13: Etho: 12
+13: Mumbo: 6
+13: Renthedog: 5
+13: BdoubleO100: 4
+13: joehillssays: 3
+13: Smallishbeans: 1
+13: PearlescentMoon: 1
+Total 753

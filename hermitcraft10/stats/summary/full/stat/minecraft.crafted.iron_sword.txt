@@ -1,0 +1,26 @@
+minecraft.crafted.iron_sword
+24: impulseSV: 73
+24: Tango: 53
+24: iJevin: 36
+24: Skizzleman: 31
+24: GoodTimeWithScar: 13
+24: GeminiTay: 10
+24: cubfan135: 10
+24: ZombieCleo: 10
+24: Zedaph: 10
+24: Docm77: 9
+24: Xisuma: 7
+24: Smallishbeans: 7
+24: Mumbo: 7
+24: joehillssays: 6
+24: VintageBeef: 3
+24: Grian: 3
+24: falsesymmetry: 3
+24: Keralis1: 3
+24: Renthedog: 2
+24: PearlescentMoon: 2
+24: xBCrafted: 2
+24: Welsknight: 1
+24: Etho: 1
+24: hypnotizd: 1
+Total 303

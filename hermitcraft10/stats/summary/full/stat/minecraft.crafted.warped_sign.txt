@@ -1,0 +1,19 @@
+minecraft.crafted.warped_sign
+17: xBCrafted: 344
+17: impulseSV: 147
+17: Keralis1: 90
+17: BdoubleO100: 84
+17: GoodTimeWithScar: 69
+17: Smallishbeans: 54
+17: falsesymmetry: 54
+17: PearlescentMoon: 51
+17: Xisuma: 24
+17: cubfan135: 21
+17: VintageBeef: 15
+17: Etho: 9
+17: Grian: 6
+17: Tango: 6
+17: Mumbo: 6
+17: GeminiTay: 3
+17: hypnotizd: 3
+Total 986

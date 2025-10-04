@@ -1,0 +1,4 @@
+minecraft.picked_up.bordure_indented_banner_pattern
+2: Skizzleman: 9
+2: falsesymmetry: 1
+Total 10

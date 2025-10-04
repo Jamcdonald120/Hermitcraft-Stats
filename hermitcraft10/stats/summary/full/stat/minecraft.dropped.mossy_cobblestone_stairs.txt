@@ -1,0 +1,5 @@
+minecraft.dropped.mossy_cobblestone_stairs
+3: Xisuma: 24
+3: Grian: 7
+3: Etho: 4
+Total 35

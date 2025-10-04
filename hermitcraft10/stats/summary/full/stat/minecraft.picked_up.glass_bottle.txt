@@ -1,0 +1,34 @@
+minecraft.picked_up.glass_bottle
+32: Smallishbeans: 19597
+32: Xisuma: 5844
+32: iJevin: 4158
+32: Etho: 3746
+32: Docm77: 2198
+32: hypnotizd: 2100
+32: cubfan135: 1499
+32: Tango: 1277
+32: impulseSV: 832
+32: Skizzleman: 722
+32: PearlescentMoon: 689
+32: Keralis1: 308
+32: GoodTimeWithScar: 213
+32: Grian: 162
+32: Renthedog: 153
+32: joehillssays: 145
+32: GeminiTay: 144
+32: BdoubleO100: 101
+32: Zedaph: 101
+32: xBCrafted: 84
+32: ZombieCleo: 60
+32: falsesymmetry: 35
+32: VintageBeef: 33
+32: SolidarityGaming: 19
+32: Smajor1995: 16
+32: Mumbo: 12
+32: JamalMC_: 2
+32: Couriway: 2
+32: belmarzi: 2
+32: InTheLittleWood: 2
+32: MythicalSausage: 1
+32: HBomb94: 1
+Total 44258

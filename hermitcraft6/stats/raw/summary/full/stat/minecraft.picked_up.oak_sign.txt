@@ -1,0 +1,27 @@
+minecraft.picked_up.oak_sign
+25: cubfan135: 1692
+25: Xisuma: 1059
+25: iJevin: 1051
+25: falsesymmetry: 855
+25: Grian: 670
+25: iskall85: 605
+25: impulseSV: 540
+25: joehillssays: 402
+25: Tango: 357
+25: Docm77: 349
+25: Renthedog: 304
+25: MumboJumbo: 298
+25: GoodTimeWithScar: 218
+25: Zedaph: 215
+25: Welsknight: 148
+25: ZombieCleo: 136
+25: Stressmonster101: 104
+25: Jura_Whitey: 102
+25: PythonGB: 76
+25: Tinfoilchef: 54
+25: BdoubleO100: 34
+25: Cojomax99: 18
+25: Keralis1: 17
+25: HumanCleo: 12
+25: tterrag: 9
+Total 9325

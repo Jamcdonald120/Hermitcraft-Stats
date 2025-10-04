@@ -1,0 +1,6 @@
+minecraft.dropped.cartography_table
+4: Tango: 2
+4: cubfan135: 2
+4: iskall85: 1
+4: xBCrafted: 1
+Total 6

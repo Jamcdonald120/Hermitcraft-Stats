@@ -1,0 +1,13 @@
+minecraft.picked_up.magenta_stained_glass
+11: PearlescentMoon: 81
+11: Docm77: 17
+11: Keralis1: 14
+11: Xisuma: 3
+11: Renthedog: 3
+11: GoodTimeWithScar: 3
+11: iJevin: 2
+11: cubfan135: 2
+11: impulseSV: 2
+11: xBCrafted: 1
+11: Etho: 1
+Total 129

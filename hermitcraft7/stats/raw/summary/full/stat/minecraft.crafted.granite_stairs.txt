@@ -1,0 +1,12 @@
+minecraft.crafted.granite_stairs
+10: Keralis1: 256
+10: joehillssays: 212
+10: xBCrafted: 120
+10: GoodTimeWithScar: 84
+10: Xisuma: 37
+10: iskall85: 32
+10: falsesymmetry: 20
+10: Tango: 12
+10: cubfan135: 12
+10: impulseSV: 4
+Total 789

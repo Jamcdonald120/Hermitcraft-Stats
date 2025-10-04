@@ -1,0 +1,9 @@
+minecraft.used.exposed_copper_grate
+7: Etho: 120
+7: Mumbo: 80
+7: Xisuma: 20
+7: Tango: 8
+7: xBCrafted: 6
+7: BdoubleO100: 4
+7: cubfan135: 1
+Total 239

@@ -1,0 +1,21 @@
+minecraft.crafted.nether_brick_slab
+19: falsesymmetry: 2164
+19: impulseSV: 1692
+19: Keralis1: 1458
+19: Xisuma: 1254
+19: cubfan135: 1008
+19: joehillssays: 584
+19: Tango: 576
+19: Renthedog: 510
+19: Grian: 456
+19: GoodTimeWithScar: 354
+19: xBCrafted: 306
+19: Etho: 282
+19: Stressmonster101: 96
+19: iskall85: 72
+19: iJevin: 66
+19: Docm77: 42
+19: ZombieCleo: 30
+19: Welsknight: 12
+19: MumboJumbo: 6
+Total 10968

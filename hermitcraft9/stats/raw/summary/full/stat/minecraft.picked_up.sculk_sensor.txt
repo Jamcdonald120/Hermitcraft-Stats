@@ -1,0 +1,26 @@
+minecraft.picked_up.sculk_sensor
+24: Tango: 2521
+24: PearlescentMoon: 585
+24: cubfan135: 363
+24: OrionSound: 261
+24: Xisuma: 252
+24: Etho: 184
+24: impulseSV: 143
+24: ZombieCleo: 129
+24: Grian: 127
+24: iJevin: 102
+24: GoodTimeWithScar: 43
+24: xBCrafted: 42
+24: Docm77: 29
+24: GeminiTay: 13
+24: joehillssays: 8
+24: Mumbo: 8
+24: Renthedog: 6
+24: falsesymmetry: 4
+24: BdoubleO100: 3
+24: Zedaph: 2
+24: iskall85: 1
+24: hypnotizd: 1
+24: Stressmonster101: 1
+24: Keralis1: 1
+Total 4829

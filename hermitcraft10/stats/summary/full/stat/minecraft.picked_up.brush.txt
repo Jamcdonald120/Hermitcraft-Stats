@@ -1,0 +1,11 @@
+minecraft.picked_up.brush
+9: iJevin: 7
+9: PearlescentMoon: 7
+9: GoodTimeWithScar: 7
+9: Renthedog: 5
+9: GeminiTay: 3
+9: Etho: 3
+9: Smallishbeans: 2
+9: Grian: 1
+9: Skizzleman: 1
+Total 36

@@ -1,0 +1,8 @@
+minecraft.picked_up.orange_bed
+6: Etho: 548
+6: GeminiTay: 110
+6: Grian: 36
+6: PearlescentMoon: 8
+6: GoodTimeWithScar: 3
+6: Docm77: 1
+Total 706

@@ -1,0 +1,22 @@
+minecraft.used.waxed_copper_block
+20: Tango: 700
+20: Xisuma: 608
+20: impulseSV: 539
+20: cubfan135: 369
+20: Renthedog: 178
+20: PearlescentMoon: 101
+20: falsesymmetry: 65
+20: Mumbo: 63
+20: iJevin: 58
+20: Keralis1: 52
+20: GoodTimeWithScar: 39
+20: Smallishbeans: 36
+20: joehillssays: 33
+20: Docm77: 29
+20: GeminiTay: 25
+20: Grian: 19
+20: xBCrafted: 14
+20: Etho: 6
+20: Skizzleman: 4
+20: BdoubleO100: 1
+Total 2939

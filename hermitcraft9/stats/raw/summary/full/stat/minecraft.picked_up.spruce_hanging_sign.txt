@@ -1,0 +1,10 @@
+minecraft.picked_up.spruce_hanging_sign
+8: Grian: 20
+8: iJevin: 5
+8: ZombieCleo: 5
+8: Keralis1: 4
+8: BdoubleO100: 3
+8: GoodTimeWithScar: 2
+8: PearlescentMoon: 1
+8: cubfan135: 1
+Total 41

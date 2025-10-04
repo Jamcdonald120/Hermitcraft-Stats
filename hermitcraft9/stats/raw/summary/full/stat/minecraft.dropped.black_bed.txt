@@ -1,0 +1,6 @@
+minecraft.dropped.black_bed
+4: impulseSV: 3
+4: Tango: 2
+4: iJevin: 1
+4: PearlescentMoon: 1
+Total 7

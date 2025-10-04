@@ -1,0 +1,13 @@
+minecraft.picked_up.polished_blackstone_brick_slab
+11: Tango: 907
+11: iJevin: 743
+11: ZombieCleo: 334
+11: falsesymmetry: 19
+11: impulseSV: 17
+11: Xisuma: 14
+11: Zedaph: 11
+11: Renthedog: 5
+11: PearlescentMoon: 5
+11: cubfan135: 4
+11: GoodTimeWithScar: 1
+Total 2060

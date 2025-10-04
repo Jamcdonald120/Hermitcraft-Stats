@@ -1,0 +1,19 @@
+minecraft.dropped.splash_potion
+17: Renthedog: 225
+17: Xisuma: 207
+17: hypnotizd: 156
+17: Mumbo: 85
+17: Etho: 71
+17: BdoubleO100: 16
+17: cubfan135: 12
+17: iJevin: 7
+17: falsesymmetry: 7
+17: Docm77: 6
+17: impulseSV: 6
+17: GoodTimeWithScar: 5
+17: Zedaph: 5
+17: VintageBeef: 2
+17: Tango: 2
+17: joehillssays: 1
+17: Skizzleman: 1
+Total 814

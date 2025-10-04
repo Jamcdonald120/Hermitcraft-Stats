@@ -1,0 +1,23 @@
+minecraft.dropped.iron_boots
+21: Tango: 401
+21: iskall85: 80
+21: iJevin: 71
+21: Xisuma: 69
+21: cubfan135: 34
+21: Etho: 34
+21: Grian: 30
+21: impulseSV: 25
+21: Renthedog: 11
+21: hypnotizd: 11
+21: Zedaph: 6
+21: Docm77: 4
+21: Keralis1: 3
+21: OrionSound: 2
+21: PearlescentMoon: 2
+21: VintageBeef: 1
+21: GeminiTay: 1
+21: falsesymmetry: 1
+21: ZombieCleo: 1
+21: Stressmonster101: 1
+21: ShubbleYT: 1
+Total 789

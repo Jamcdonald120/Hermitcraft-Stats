@@ -1,0 +1,22 @@
+minecraft.dropped.lever
+20: Tango: 81
+20: Stressmonster101: 63
+20: falsesymmetry: 60
+20: Grian: 40
+20: Docm77: 39
+20: Zedaph: 27
+20: GoodTimeWithScar: 24
+20: cubfan135: 20
+20: Keralis1: 16
+20: iJevin: 9
+20: BdoubleO100: 8
+20: Etho: 8
+20: impulseSV: 5
+20: GeminiTay: 4
+20: RentheKing: 4
+20: Xisuma: 3
+20: ZombieCleo: 3
+20: Mumbo: 2
+20: VintageBeef: 1
+20: Welsknight: 1
+Total 418

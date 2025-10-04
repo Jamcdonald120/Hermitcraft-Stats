@@ -1,0 +1,22 @@
+minecraft.picked_up.warped_planks
+20: joehillssays: 316
+20: cubfan135: 302
+20: GoodTimeWithScar: 259
+20: Grian: 247
+20: PearlescentMoon: 223
+20: Tango: 161
+20: Xisuma: 129
+20: iJevin: 124
+20: Mumbo: 110
+20: BdoubleO100: 48
+20: Etho: 32
+20: falsesymmetry: 28
+20: VintageBeef: 26
+20: impulseSV: 26
+20: Skizzleman: 19
+20: ZombieCleo: 17
+20: Docm77: 14
+20: Smallishbeans: 13
+20: Keralis1: 4
+20: GeminiTay: 2
+Total 2100

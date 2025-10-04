@@ -1,0 +1,26 @@
+minecraft.picked_up.mace
+24: Skizzleman: 48
+24: Docm77: 26
+24: PearlescentMoon: 26
+24: cubfan135: 26
+24: Xisuma: 24
+24: Grian: 23
+24: Etho: 20
+24: GoodTimeWithScar: 15
+24: Tango: 13
+24: BdoubleO100: 8
+24: falsesymmetry: 8
+24: impulseSV: 7
+24: iJevin: 6
+24: GeminiTay: 5
+24: ZombieCleo: 5
+24: joehillssays: 4
+24: Zedaph: 4
+24: Renthedog: 3
+24: Smallishbeans: 2
+24: xBCrafted: 2
+24: OrionSound: 1
+24: Mumbo: 1
+24: aimsey: 1
+24: Keralis1: 1
+Total 279

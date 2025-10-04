@@ -1,0 +1,26 @@
+minecraft.used.string
+24: Grian: 8591
+24: GoodTimeWithScar: 2553
+24: Keralis1: 1415
+24: Xisuma: 1304
+24: xBCrafted: 1057
+24: Zedaph: 585
+24: iJevin: 512
+24: Tango: 423
+24: MumboJumbo: 410
+24: hypnotizd: 347
+24: cubfan135: 184
+24: Etho: 175
+24: iskall85: 147
+24: BdoubleO100: 143
+24: joehillssays: 141
+24: falsesymmetry: 91
+24: Renthedog: 86
+24: VintageBeef: 86
+24: impulseSV: 76
+24: Stressmonster101: 74
+24: Docm77: 29
+24: ZombieCleo: 15
+24: Welsknight: 3
+24: BarryBoss1234: 1
+Total 18448

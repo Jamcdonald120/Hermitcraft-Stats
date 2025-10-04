@@ -1,0 +1,25 @@
+minecraft.picked_up.iron_axe
+23: hypnotizd: 116
+23: cubfan135: 105
+23: Tango: 69
+23: iJevin: 29
+23: Etho: 23
+23: Skizzleman: 15
+23: PearlescentMoon: 14
+23: Renthedog: 13
+23: GoodTimeWithScar: 13
+23: Keralis1: 12
+23: joehillssays: 10
+23: Grian: 8
+23: Xisuma: 5
+23: GeminiTay: 4
+23: impulseSV: 4
+23: Docm77: 3
+23: VintageBeef: 3
+23: xBCrafted: 3
+23: falsesymmetry: 3
+23: Smallishbeans: 2
+23: BdoubleO100: 2
+23: Mumbo: 2
+23: ZombieCleo: 1
+Total 459

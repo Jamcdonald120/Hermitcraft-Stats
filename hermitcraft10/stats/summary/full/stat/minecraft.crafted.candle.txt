@@ -1,0 +1,18 @@
+minecraft.crafted.candle
+16: Keralis1: 9158
+16: Xisuma: 3941
+16: Smallishbeans: 2771
+16: Etho: 785
+16: GoodTimeWithScar: 308
+16: Docm77: 250
+16: BdoubleO100: 223
+16: Grian: 193
+16: iJevin: 126
+16: cubfan135: 121
+16: PearlescentMoon: 64
+16: impulseSV: 42
+16: GeminiTay: 30
+16: falsesymmetry: 21
+16: Tango: 12
+16: VintageBeef: 10
+Total 18055

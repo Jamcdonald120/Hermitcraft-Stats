@@ -1,0 +1,24 @@
+minecraft.picked_up.iron_leggings
+22: GoodTimeWithScar: 20
+22: iskall85: 19
+22: joehillssays: 18
+22: Tango: 16
+22: iJevin: 11
+22: Docm77: 8
+22: Xisuma: 8
+22: PearlescentMoon: 8
+22: ZombieCleo: 8
+22: impulseSV: 8
+22: Renthedog: 7
+22: Welsknight: 5
+22: Zedaph: 5
+22: BdoubleO100: 4
+22: cubfan135: 4
+22: Grian: 3
+22: falsesymmetry: 3
+22: Etho: 3
+22: hypnotizd: 2
+22: MumboJumbo: 1
+22: Stressmonster101: 1
+22: Keralis1: 1
+Total 163

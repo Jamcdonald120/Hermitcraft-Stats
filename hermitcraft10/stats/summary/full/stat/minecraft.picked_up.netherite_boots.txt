@@ -1,0 +1,27 @@
+minecraft.picked_up.netherite_boots
+25: Docm77: 72
+25: iJevin: 52
+25: impulseSV: 44
+25: PearlescentMoon: 39
+25: Grian: 35
+25: Xisuma: 33
+25: ZombieCleo: 27
+25: cubfan135: 20
+25: hypnotizd: 17
+25: Skizzleman: 12
+25: GeminiTay: 7
+25: Smallishbeans: 7
+25: Keralis1: 7
+25: GoodTimeWithScar: 6
+25: xBCrafted: 5
+25: Etho: 5
+25: Renthedog: 4
+25: aimsey: 3
+25: joehillssays: 2
+25: Tango: 2
+25: falsesymmetry: 1
+25: Welsknight: 1
+25: Mumbo: 1
+25: SolidarityGaming: 1
+25: Zedaph: 1
+Total 404

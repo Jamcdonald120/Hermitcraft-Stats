@@ -1,0 +1,12 @@
+minecraft.crafted.acacia_door
+10: PearlescentMoon: 18
+10: Xisuma: 12
+10: joehillssays: 9
+10: Smallishbeans: 9
+10: GoodTimeWithScar: 6
+10: VintageBeef: 3
+10: Skizzleman: 3
+10: Mumbo: 3
+10: hypnotizd: 3
+10: Keralis1: 3
+Total 69

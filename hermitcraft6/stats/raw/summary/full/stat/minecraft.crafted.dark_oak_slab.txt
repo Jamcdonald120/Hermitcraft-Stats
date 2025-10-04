@@ -1,0 +1,24 @@
+minecraft.crafted.dark_oak_slab
+22: GoodTimeWithScar: 15430
+22: Renthedog: 6360
+22: falsesymmetry: 5414
+22: Grian: 3258
+22: Xisuma: 2268
+22: BdoubleO100: 1746
+22: cubfan135: 1458
+22: ZombieCleo: 1214
+22: Welsknight: 1092
+22: Tango: 628
+22: Docm77: 606
+22: iskall85: 594
+22: Stressmonster101: 342
+22: PythonGB: 282
+22: xBCrafted: 276
+22: joehillssays: 252
+22: MumboJumbo: 192
+22: Keralis1: 96
+22: impulseSV: 64
+22: Tinfoilchef: 60
+22: HumanCleo: 6
+22: Jessassin: 6
+Total 41644

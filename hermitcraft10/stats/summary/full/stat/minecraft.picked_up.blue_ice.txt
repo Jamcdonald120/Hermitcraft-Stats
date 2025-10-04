@@ -1,0 +1,20 @@
+minecraft.picked_up.blue_ice
+18: xBCrafted: 2116
+18: Etho: 1129
+18: PearlescentMoon: 478
+18: Renthedog: 376
+18: impulseSV: 315
+18: Skizzleman: 221
+18: hypnotizd: 136
+18: joehillssays: 128
+18: Docm77: 86
+18: Tango: 53
+18: GoodTimeWithScar: 48
+18: Zedaph: 34
+18: cubfan135: 32
+18: BdoubleO100: 23
+18: Grian: 12
+18: Xisuma: 1
+18: GeminiTay: 1
+18: falsesymmetry: 1
+Total 5190

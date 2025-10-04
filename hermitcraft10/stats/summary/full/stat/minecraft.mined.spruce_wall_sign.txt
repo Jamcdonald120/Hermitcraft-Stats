@@ -1,0 +1,29 @@
+minecraft.mined.spruce_wall_sign
+27: PearlescentMoon: 91
+27: iJevin: 81
+27: Smallishbeans: 51
+27: Tango: 47
+27: Xisuma: 40
+27: falsesymmetry: 36
+27: Etho: 29
+27: GoodTimeWithScar: 29
+27: xBCrafted: 27
+27: BdoubleO100: 26
+27: Mumbo: 16
+27: Grian: 15
+27: GeminiTay: 12
+27: cubfan135: 11
+27: joehillssays: 9
+27: ZombieCleo: 9
+27: VintageBeef: 8
+27: Keralis1: 8
+27: hypnotizd: 7
+27: impulseSV: 7
+27: Welsknight: 6
+27: Skizzleman: 5
+27: Zedaph: 5
+27: Docm77: 3
+27: SolidarityGaming: 3
+27: Renthedog: 2
+27: InTheLittleWood: 1
+Total 584

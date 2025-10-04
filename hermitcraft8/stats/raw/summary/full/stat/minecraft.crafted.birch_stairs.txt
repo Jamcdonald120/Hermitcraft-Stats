@@ -1,0 +1,16 @@
+minecraft.crafted.birch_stairs
+14: GeminiTay: 324
+14: MumboJumbo: 172
+14: impulseSV: 120
+14: joehillssays: 108
+14: falsesymmetry: 100
+14: xBCrafted: 80
+14: Etho: 72
+14: Renthedog: 68
+14: PearlescentMoon: 60
+14: Xisuma: 56
+14: Welsknight: 44
+14: hypnotizd: 40
+14: GoodTimeWithScar: 40
+14: BdoubleO100: 12
+Total 1296

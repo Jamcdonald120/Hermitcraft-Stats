@@ -1,0 +1,25 @@
+minecraft.used.brewing_stand
+23: impulseSV: 92
+23: cubfan135: 91
+23: Tango: 89
+23: Xisuma: 71
+23: GoodTimeWithScar: 61
+23: Etho: 52
+23: iJevin: 45
+23: hypnotizd: 41
+23: Keralis1: 34
+23: iskall85: 24
+23: Stressmonster101: 21
+23: Grian: 18
+23: BdoubleO100: 18
+23: falsesymmetry: 16
+23: Zedaph: 15
+23: Renthedog: 10
+23: VintageBeef: 9
+23: xBCrafted: 6
+23: Docm77: 5
+23: joehillssays: 5
+23: ZombieCleo: 3
+23: Welsknight: 2
+23: MumboJumbo: 1
+Total 729

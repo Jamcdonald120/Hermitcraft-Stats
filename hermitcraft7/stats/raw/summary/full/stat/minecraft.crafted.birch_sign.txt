@@ -1,0 +1,25 @@
+minecraft.crafted.birch_sign
+23: impulseSV: 2401
+23: joehillssays: 1087
+23: cubfan135: 829
+23: falsesymmetry: 393
+23: Grian: 357
+23: Etho: 228
+23: Stressmonster101: 225
+23: Tango: 150
+23: iskall85: 138
+23: MumboJumbo: 117
+23: Xisuma: 111
+23: ZombieCleo: 105
+23: Renthedog: 66
+23: Keralis1: 66
+23: VintageBeef: 54
+23: BdoubleO100: 51
+23: GoodTimeWithScar: 39
+23: xBCrafted: 27
+23: Zedaph: 24
+23: iJevin: 21
+23: Docm77: 6
+23: Welsknight: 3
+23: hypnotizd: 3
+Total 6501

@@ -1,0 +1,18 @@
+minecraft.dropped.bamboo_block
+16: Zedaph: 10975
+16: Etho: 10220
+16: BdoubleO100: 790
+16: falsesymmetry: 387
+16: Tango: 311
+16: PearlescentMoon: 256
+16: Renthedog: 184
+16: cubfan135: 155
+16: Mumbo: 132
+16: hypnotizd: 77
+16: GoodTimeWithScar: 71
+16: Xisuma: 64
+16: impulseSV: 32
+16: GeminiTay: 12
+16: Keralis1: 10
+16: Grian: 3
+Total 23679

@@ -1,0 +1,5 @@
+minecraft.crafted.exposed_cut_copper_stairs
+3: BdoubleO100: 5
+3: falsesymmetry: 4
+3: Keralis1: 4
+Total 13

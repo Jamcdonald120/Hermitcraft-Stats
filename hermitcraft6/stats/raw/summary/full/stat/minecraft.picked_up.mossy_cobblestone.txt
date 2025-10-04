@@ -1,0 +1,22 @@
+minecraft.picked_up.mossy_cobblestone
+20: Renthedog: 631
+20: iJevin: 588
+20: iskall85: 556
+20: Grian: 300
+20: Docm77: 258
+20: BdoubleO100: 186
+20: cubfan135: 162
+20: Xisuma: 146
+20: Welsknight: 140
+20: GoodTimeWithScar: 121
+20: impulseSV: 111
+20: Zedaph: 93
+20: Tango: 63
+20: Stressmonster101: 56
+20: joehillssays: 55
+20: Keralis1: 52
+20: MumboJumbo: 50
+20: Biffa2001: 44
+20: ZombieCleo: 11
+20: falsesymmetry: 6
+Total 3629

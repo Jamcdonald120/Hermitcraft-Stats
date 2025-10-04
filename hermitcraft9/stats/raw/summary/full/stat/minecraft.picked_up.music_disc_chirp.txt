@@ -1,0 +1,15 @@
+minecraft.picked_up.music_disc_chirp
+13: Tango: 45
+13: PearlescentMoon: 22
+13: Zedaph: 19
+13: RentheKing: 8
+13: impulseSV: 8
+13: cubfan135: 7
+13: joehillssays: 4
+13: VintageBeef: 3
+13: GoodTimeWithScar: 3
+13: Xisuma: 2
+13: GeminiTay: 2
+13: Renthedog: 1
+13: Keralis1: 1
+Total 125

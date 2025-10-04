@@ -1,0 +1,4 @@
+minecraft.dropped.oxidized_copper_bulb
+2: Etho: 6
+2: GoodTimeWithScar: 1
+Total 7

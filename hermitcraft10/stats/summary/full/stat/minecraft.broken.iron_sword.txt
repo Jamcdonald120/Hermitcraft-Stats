@@ -1,0 +1,9 @@
+minecraft.broken.iron_sword
+7: impulseSV: 24
+7: GeminiTay: 9
+7: GoodTimeWithScar: 4
+7: Xisuma: 3
+7: iJevin: 2
+7: Smallishbeans: 2
+7: Skizzleman: 1
+Total 45

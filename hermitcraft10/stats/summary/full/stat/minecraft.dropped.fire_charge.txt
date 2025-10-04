@@ -1,0 +1,14 @@
+minecraft.dropped.fire_charge
+12: impulseSV: 1105
+12: Mumbo: 533
+12: Tango: 73
+12: iJevin: 49
+12: GoodTimeWithScar: 18
+12: Renthedog: 8
+12: Etho: 8
+12: Docm77: 6
+12: cubfan135: 6
+12: Xisuma: 4
+12: ZombieCleo: 3
+12: hypnotizd: 1
+Total 1814

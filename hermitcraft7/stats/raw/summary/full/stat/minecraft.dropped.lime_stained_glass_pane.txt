@@ -1,0 +1,9 @@
+minecraft.dropped.lime_stained_glass_pane
+7: impulseSV: 192
+7: cubfan135: 125
+7: iskall85: 16
+7: MumboJumbo: 12
+7: joehillssays: 3
+7: Keralis1: 3
+7: falsesymmetry: 1
+Total 352

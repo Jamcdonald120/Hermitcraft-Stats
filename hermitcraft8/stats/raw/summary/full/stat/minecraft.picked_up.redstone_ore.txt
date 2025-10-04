@@ -1,0 +1,26 @@
+minecraft.picked_up.redstone_ore
+24: PearlescentMoon: 2185
+24: GoodTimeWithScar: 1426
+24: Renthedog: 879
+24: Xisuma: 835
+24: cubfan135: 615
+24: iJevin: 477
+24: BdoubleO100: 411
+24: xBCrafted: 303
+24: GeminiTay: 300
+24: ZombieCleo: 240
+24: MumboJumbo: 212
+24: joehillssays: 148
+24: falsesymmetry: 142
+24: hypnotizd: 129
+24: Grian: 120
+24: VintageBeef: 83
+24: Etho: 74
+24: Zedaph: 48
+24: impulseSV: 43
+24: Tango: 41
+24: Stressmonster101: 41
+24: Welsknight: 16
+24: Keralis1: 13
+24: Docm77: 11
+Total 8792

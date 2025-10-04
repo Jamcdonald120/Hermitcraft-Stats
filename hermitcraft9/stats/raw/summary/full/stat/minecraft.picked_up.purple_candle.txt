@@ -1,0 +1,11 @@
+minecraft.picked_up.purple_candle
+9: GoodTimeWithScar: 63
+9: xBCrafted: 49
+9: iJevin: 33
+9: hypnotizd: 12
+9: PearlescentMoon: 7
+9: Tango: 2
+9: Zedaph: 2
+9: falsesymmetry: 1
+9: ZombieCleo: 1
+Total 170

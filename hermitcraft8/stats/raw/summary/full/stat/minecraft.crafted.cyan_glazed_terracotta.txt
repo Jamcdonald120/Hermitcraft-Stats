@@ -1,0 +1,4 @@
+minecraft.crafted.cyan_glazed_terracotta
+2: Etho: 768
+2: MumboJumbo: 16
+Total 784

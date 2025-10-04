@@ -1,0 +1,13 @@
+minecraft.picked_up.mangrove_hanging_sign
+11: Mumbo: 13
+11: GoodTimeWithScar: 12
+11: GeminiTay: 9
+11: falsesymmetry: 9
+11: Grian: 8
+11: BdoubleO100: 7
+11: cubfan135: 4
+11: Etho: 3
+11: impulseSV: 2
+11: Tango: 1
+11: Smallishbeans: 1
+Total 69

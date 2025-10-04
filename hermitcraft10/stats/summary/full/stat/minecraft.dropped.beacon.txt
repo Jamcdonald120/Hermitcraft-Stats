@@ -1,0 +1,11 @@
+minecraft.dropped.beacon
+9: impulseSV: 5
+9: iJevin: 4
+9: Etho: 4
+9: Keralis1: 4
+9: Xisuma: 1
+9: Renthedog: 1
+9: GeminiTay: 1
+9: xBCrafted: 1
+9: hypnotizd: 1
+Total 22

@@ -1,0 +1,27 @@
+minecraft.picked_up.decorated_pot
+25: Renthedog: 687
+25: Xisuma: 257
+25: falsesymmetry: 232
+25: cubfan135: 228
+25: GoodTimeWithScar: 191
+25: joehillssays: 182
+25: Docm77: 167
+25: PearlescentMoon: 125
+25: Etho: 94
+25: GeminiTay: 50
+25: Skizzleman: 46
+25: Tango: 37
+25: hypnotizd: 37
+25: iJevin: 34
+25: BdoubleO100: 32
+25: impulseSV: 29
+25: Smallishbeans: 28
+25: ZombieCleo: 28
+25: Keralis1: 26
+25: Grian: 21
+25: Welsknight: 9
+25: VintageBeef: 8
+25: xBCrafted: 3
+25: Mumbo: 3
+25: Zedaph: 1
+Total 2555

@@ -1,0 +1,3 @@
+minecraft.picked_up.dead_bubble_coral
+1: iJevin: 3
+Total 3

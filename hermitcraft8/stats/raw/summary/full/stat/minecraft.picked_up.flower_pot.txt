@@ -1,0 +1,24 @@
+minecraft.picked_up.flower_pot
+22: Grian: 241
+22: PearlescentMoon: 68
+22: GoodTimeWithScar: 38
+22: joehillssays: 29
+22: Tango: 28
+22: BdoubleO100: 25
+22: GeminiTay: 20
+22: Welsknight: 20
+22: cubfan135: 18
+22: impulseSV: 14
+22: Renthedog: 12
+22: MumboJumbo: 11
+22: Keralis1: 9
+22: iJevin: 8
+22: iskall85: 4
+22: Docm77: 3
+22: Etho: 3
+22: Xisuma: 2
+22: falsesymmetry: 2
+22: ZombieCleo: 2
+22: VintageBeef: 1
+22: Stressmonster101: 1
+Total 559

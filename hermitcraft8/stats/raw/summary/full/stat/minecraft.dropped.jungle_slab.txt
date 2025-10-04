@@ -1,0 +1,9 @@
+minecraft.dropped.jungle_slab
+7: PearlescentMoon: 32
+7: Keralis1: 9
+7: Etho: 6
+7: Grian: 3
+7: Renthedog: 2
+7: hypnotizd: 2
+7: GoodTimeWithScar: 1
+Total 55

@@ -1,0 +1,8 @@
+minecraft.picked_up.leather_horse_armor
+6: GeminiTay: 7
+6: PearlescentMoon: 5
+6: Docm77: 1
+6: Grian: 1
+6: BdoubleO100: 1
+6: Keralis1: 1
+Total 16

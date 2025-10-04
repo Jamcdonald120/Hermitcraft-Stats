@@ -1,0 +1,18 @@
+minecraft.crafted.smooth_quartz_slab
+16: impulseSV: 6852
+16: Keralis1: 5282
+16: GoodTimeWithScar: 4160
+16: cubfan135: 3540
+16: Grian: 1690
+16: Xisuma: 1590
+16: joehillssays: 1136
+16: VintageBeef: 602
+16: Tango: 356
+16: xBCrafted: 342
+16: falsesymmetry: 312
+16: BdoubleO100: 302
+16: Welsknight: 246
+16: ZombieCleo: 108
+16: Etho: 62
+16: iJevin: 6
+Total 26586

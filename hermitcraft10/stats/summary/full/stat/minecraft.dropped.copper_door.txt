@@ -1,0 +1,5 @@
+minecraft.dropped.copper_door
+3: Renthedog: 6
+3: iJevin: 2
+3: Grian: 1
+Total 9

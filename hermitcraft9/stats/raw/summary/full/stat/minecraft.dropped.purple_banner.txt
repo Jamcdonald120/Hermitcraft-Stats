@@ -1,0 +1,4 @@
+minecraft.dropped.purple_banner
+2: Zedaph: 5
+2: iJevin: 1
+Total 6

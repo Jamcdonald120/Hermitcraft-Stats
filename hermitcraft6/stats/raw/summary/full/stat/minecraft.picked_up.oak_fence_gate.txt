@@ -1,0 +1,20 @@
+minecraft.picked_up.oak_fence_gate
+18: iJevin: 350
+18: Renthedog: 338
+18: Keralis1: 40
+18: Xisuma: 38
+18: Grian: 33
+18: MumboJumbo: 29
+18: falsesymmetry: 28
+18: GoodTimeWithScar: 27
+18: iskall85: 20
+18: BdoubleO100: 19
+18: impulseSV: 18
+18: Stressmonster101: 12
+18: Zedaph: 10
+18: Biffa2001: 9
+18: Tinfoilchef: 9
+18: cubfan135: 6
+18: Tango: 2
+18: Welsknight: 2
+Total 990

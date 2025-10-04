@@ -1,0 +1,26 @@
+minecraft.dropped.feather
+24: Welsknight: 11015
+24: Zedaph: 3218
+24: iJevin: 544
+24: cubfan135: 325
+24: Xisuma: 65
+24: Grian: 64
+24: Renthedog: 22
+24: Tango: 22
+24: Smallishbeans: 19
+24: BdoubleO100: 16
+24: Docm77: 14
+24: Etho: 14
+24: ZombieCleo: 11
+24: PearlescentMoon: 10
+24: hypnotizd: 10
+24: Skizzleman: 9
+24: Mumbo: 9
+24: GoodTimeWithScar: 8
+24: Keralis1: 8
+24: GeminiTay: 6
+24: falsesymmetry: 3
+24: impulseSV: 3
+24: joehillssays: 2
+24: xBCrafted: 2
+Total 15419

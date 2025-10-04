@@ -1,0 +1,9 @@
+minecraft.picked_up.shaper_armor_trim_smithing_template
+7: PearlescentMoon: 6
+7: Renthedog: 4
+7: Etho: 3
+7: hypnotizd: 3
+7: Docm77: 2
+7: VintageBeef: 2
+7: ZombieCleo: 1
+Total 21

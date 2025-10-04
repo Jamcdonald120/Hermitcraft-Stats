@@ -1,0 +1,4 @@
+minecraft.dropped.waxed_cut_copper
+2: GoodTimeWithScar: 2
+2: impulseSV: 1
+Total 3

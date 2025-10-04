@@ -1,0 +1,23 @@
+minecraft.crafted.wheat
+21: Tango: 47408
+21: Xisuma: 8273
+21: iJevin: 6849
+21: BdoubleO100: 5385
+21: Keralis1: 5290
+21: Etho: 4606
+21: Docm77: 3594
+21: PearlescentMoon: 3258
+21: joehillssays: 2583
+21: cubfan135: 1896
+21: Renthedog: 1198
+21: GeminiTay: 954
+21: GoodTimeWithScar: 864
+21: VintageBeef: 477
+21: hypnotizd: 342
+21: impulseSV: 180
+21: falsesymmetry: 126
+21: RentheKing: 117
+21: Zedaph: 99
+21: Stressmonster101: 45
+21: Grian: 27
+Total 93571

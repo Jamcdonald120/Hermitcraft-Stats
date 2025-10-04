@@ -1,0 +1,13 @@
+minecraft.picked_up.weathered_cut_copper_slab
+11: falsesymmetry: 69
+11: Mumbo: 50
+11: ZombieCleo: 10
+11: Keralis1: 10
+11: Etho: 7
+11: Tango: 5
+11: GoodTimeWithScar: 3
+11: GeminiTay: 2
+11: BdoubleO100: 2
+11: Renthedog: 1
+11: hypnotizd: 1
+Total 160

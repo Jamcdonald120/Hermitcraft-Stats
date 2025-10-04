@@ -1,0 +1,18 @@
+minecraft.crafted.oak_pressure_plate
+16: GoodTimeWithScar: 42
+16: Etho: 17
+16: Mumbo: 16
+16: Xisuma: 9
+16: hypnotizd: 8
+16: Docm77: 6
+16: iJevin: 6
+16: impulseSV: 4
+16: Tango: 3
+16: Keralis1: 3
+16: iskall85: 2
+16: BdoubleO100: 1
+16: cubfan135: 1
+16: Welsknight: 1
+16: ZombieCleo: 1
+16: Zedaph: 1
+Total 121

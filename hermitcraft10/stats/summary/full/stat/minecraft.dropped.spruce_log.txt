@@ -1,0 +1,24 @@
+minecraft.dropped.spruce_log
+22: Renthedog: 969
+22: Xisuma: 519
+22: Grian: 482
+22: Etho: 403
+22: falsesymmetry: 300
+22: iJevin: 283
+22: cubfan135: 265
+22: hypnotizd: 197
+22: xBCrafted: 169
+22: Tango: 160
+22: PearlescentMoon: 128
+22: GoodTimeWithScar: 122
+22: impulseSV: 119
+22: joehillssays: 113
+22: Mumbo: 82
+22: ZombieCleo: 76
+22: Keralis1: 75
+22: Docm77: 74
+22: VintageBeef: 63
+22: GeminiTay: 40
+22: Zedaph: 10
+22: Skizzleman: 4
+Total 4653

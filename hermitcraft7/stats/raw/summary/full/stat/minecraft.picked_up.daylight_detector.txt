@@ -1,0 +1,22 @@
+minecraft.picked_up.daylight_detector
+20: Renthedog: 100
+20: joehillssays: 70
+20: Zedaph: 39
+20: iJevin: 23
+20: cubfan135: 20
+20: Keralis1: 19
+20: GoodTimeWithScar: 11
+20: VintageBeef: 10
+20: Grian: 7
+20: BdoubleO100: 7
+20: Etho: 5
+20: xBCrafted: 3
+20: impulseSV: 3
+20: Tango: 2
+20: Stressmonster101: 2
+20: Xisuma: 1
+20: iskall85: 1
+20: falsesymmetry: 1
+20: hypnotizd: 1
+20: MumboJumbo: 1
+Total 326

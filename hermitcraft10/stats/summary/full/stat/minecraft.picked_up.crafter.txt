@@ -1,0 +1,26 @@
+minecraft.picked_up.crafter
+24: Tango: 180
+24: impulseSV: 179
+24: cubfan135: 174
+24: Xisuma: 172
+24: Etho: 169
+24: iJevin: 166
+24: Renthedog: 124
+24: Grian: 97
+24: Docm77: 94
+24: GoodTimeWithScar: 61
+24: Keralis1: 51
+24: Mumbo: 49
+24: PearlescentMoon: 47
+24: joehillssays: 43
+24: ZombieCleo: 41
+24: BdoubleO100: 31
+24: xBCrafted: 28
+24: Zedaph: 14
+24: falsesymmetry: 13
+24: hypnotizd: 9
+24: Smallishbeans: 3
+24: GeminiTay: 2
+24: Welsknight: 2
+24: Skizzleman: 1
+Total 1750

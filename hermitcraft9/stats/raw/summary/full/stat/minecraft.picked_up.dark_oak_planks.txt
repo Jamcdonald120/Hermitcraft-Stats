@@ -1,0 +1,35 @@
+minecraft.picked_up.dark_oak_planks
+33: falsesymmetry: 2972
+33: Grian: 2669
+33: ZombieCleo: 1585
+33: cubfan135: 1374
+33: Renthedog: 1148
+33: OrionSound: 1016
+33: Stressmonster101: 995
+33: GoodTimeWithScar: 971
+33: Docm77: 886
+33: impulseSV: 641
+33: joehillssays: 636
+33: Keralis1: 595
+33: Xisuma: 523
+33: GeminiTay: 516
+33: xBCrafted: 400
+33: PearlescentMoon: 396
+33: iskall85: 313
+33: iJevin: 293
+33: Pixlriffs: 290
+33: SolidarityGaming: 273
+33: BdoubleO100: 209
+33: RentheKing: 182
+33: ShubbleYT: 145
+33: Tango: 117
+33: MythicalSausage: 99
+33: Zedaph: 32
+33: Mumbo: 16
+33: VintageBeef: 15
+33: Etho: 10
+33: hypnotizd: 7
+33: Smallishbeans: 4
+33: Welsknight: 4
+33: MumboJumbo: 1
+Total 19333

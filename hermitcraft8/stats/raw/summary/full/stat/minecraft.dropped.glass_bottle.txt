@@ -1,0 +1,22 @@
+minecraft.dropped.glass_bottle
+20: Xisuma: 10809
+20: iJevin: 178
+20: GoodTimeWithScar: 132
+20: falsesymmetry: 107
+20: cubfan135: 93
+20: Grian: 63
+20: Renthedog: 55
+20: Docm77: 41
+20: impulseSV: 34
+20: Tango: 22
+20: iskall85: 17
+20: Zedaph: 15
+20: Etho: 13
+20: VintageBeef: 11
+20: Keralis1: 8
+20: joehillssays: 6
+20: ZombieCleo: 4
+20: hypnotizd: 4
+20: GeminiTay: 1
+20: PearlescentMoon: 1
+Total 11614

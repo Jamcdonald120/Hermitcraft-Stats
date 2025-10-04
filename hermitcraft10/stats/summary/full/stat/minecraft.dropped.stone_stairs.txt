@@ -1,0 +1,17 @@
+minecraft.dropped.stone_stairs
+15: Tango: 62
+15: Keralis1: 59
+15: BdoubleO100: 58
+15: Grian: 40
+15: Renthedog: 27
+15: falsesymmetry: 27
+15: iJevin: 26
+15: GoodTimeWithScar: 24
+15: Zedaph: 6
+15: Xisuma: 4
+15: Etho: 3
+15: joehillssays: 2
+15: hypnotizd: 2
+15: GeminiTay: 1
+15: xBCrafted: 1
+Total 342

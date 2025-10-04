@@ -1,0 +1,9 @@
+minecraft.picked_up.wooden_shovel
+7: iJevin: 21
+7: Xisuma: 18
+7: Renthedog: 11
+7: Grian: 4
+7: iskall85: 3
+7: falsesymmetry: 2
+7: impulseSV: 1
+Total 60

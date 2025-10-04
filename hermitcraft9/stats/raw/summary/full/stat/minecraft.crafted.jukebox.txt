@@ -1,0 +1,26 @@
+minecraft.crafted.jukebox
+24: Tango: 256
+24: cubfan135: 34
+24: GoodTimeWithScar: 27
+24: PearlescentMoon: 24
+24: Xisuma: 20
+24: impulseSV: 19
+24: Zedaph: 18
+24: Docm77: 9
+24: falsesymmetry: 6
+24: VintageBeef: 4
+24: iJevin: 4
+24: Keralis1: 4
+24: OrionSound: 3
+24: Grian: 3
+24: Renthedog: 2
+24: xBCrafted: 2
+24: Etho: 2
+24: ZombieCleo: 2
+24: joehillssays: 1
+24: GeminiTay: 1
+24: iskall85: 1
+24: Mumbo: 1
+24: fWhip: 1
+24: Stressmonster101: 1
+Total 445

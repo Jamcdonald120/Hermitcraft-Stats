@@ -1,0 +1,21 @@
+minecraft.crafted.white_wool
+19: Keralis1: 19989
+19: Grian: 3474
+19: cubfan135: 2946
+19: Renthedog: 2892
+19: MumboJumbo: 2163
+19: Xisuma: 894
+19: ZombieCleo: 850
+19: iskall85: 669
+19: hypnotizd: 536
+19: joehillssays: 510
+19: xBCrafted: 265
+19: GoodTimeWithScar: 258
+19: Etho: 240
+19: iJevin: 151
+19: Stressmonster101: 93
+19: Docm77: 82
+19: Zedaph: 78
+19: Welsknight: 23
+19: VintageBeef: 16
+Total 36129

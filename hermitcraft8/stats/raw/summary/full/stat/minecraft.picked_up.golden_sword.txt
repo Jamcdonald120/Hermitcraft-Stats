@@ -1,0 +1,17 @@
+minecraft.picked_up.golden_sword
+15: impulseSV: 51
+15: iJevin: 34
+15: Docm77: 24
+15: Grian: 5
+15: Zedaph: 4
+15: Renthedog: 2
+15: Tango: 2
+15: hypnotizd: 2
+15: Xisuma: 1
+15: PearlescentMoon: 1
+15: iskall85: 1
+15: xBCrafted: 1
+15: falsesymmetry: 1
+15: cubfan135: 1
+15: Welsknight: 1
+Total 131

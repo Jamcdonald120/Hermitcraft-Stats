@@ -1,0 +1,18 @@
+minecraft.mined.cyan_wool
+16: Tango: 535
+16: VintageBeef: 84
+16: falsesymmetry: 79
+16: Grian: 52
+16: iskall85: 45
+16: PearlescentMoon: 27
+16: Docm77: 11
+16: impulseSV: 8
+16: xBCrafted: 4
+16: GeminiTay: 3
+16: Smallishbeans: 3
+16: Welsknight: 2
+16: Xisuma: 1
+16: cubfan135: 1
+16: Stressmonster101: 1
+16: Zedaph: 1
+Total 857

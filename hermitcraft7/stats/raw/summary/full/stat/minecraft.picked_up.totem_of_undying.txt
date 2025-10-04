@@ -1,0 +1,27 @@
+minecraft.picked_up.totem_of_undying
+25: impulseSV: 280
+25: Keralis1: 72
+25: cubfan135: 53
+25: Grian: 26
+25: Tango: 19
+25: falsesymmetry: 18
+25: GoodTimeWithScar: 18
+25: Xisuma: 16
+25: Etho: 16
+25: xBCrafted: 11
+25: iJevin: 10
+25: BdoubleO100: 10
+25: Docm77: 9
+25: Renthedog: 7
+25: Welsknight: 7
+25: MumboJumbo: 7
+25: joehillssays: 6
+25: Stressmonster101: 5
+25: ZombieCleo: 4
+25: Zedaph: 4
+25: VintageBeef: 3
+25: iskall85: 3
+25: BarryBoss1234: 3
+25: hypnotizd: 2
+25: Tinfoilchef: 2
+Total 611

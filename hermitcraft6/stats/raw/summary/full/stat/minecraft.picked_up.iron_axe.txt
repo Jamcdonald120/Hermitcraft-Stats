@@ -1,0 +1,22 @@
+minecraft.picked_up.iron_axe
+20: Xisuma: 240
+20: Docm77: 44
+20: cubfan135: 35
+20: iskall85: 30
+20: GoodTimeWithScar: 21
+20: impulseSV: 19
+20: PythonGB: 17
+20: joehillssays: 10
+20: Grian: 10
+20: MumboJumbo: 8
+20: Keralis1: 8
+20: falsesymmetry: 7
+20: iJevin: 6
+20: Renthedog: 5
+20: Tango: 2
+20: Stressmonster101: 2
+20: EvilXisuma: 1
+20: BdoubleO100: 1
+20: Biffa2001: 1
+20: Zedaph: 1
+Total 468

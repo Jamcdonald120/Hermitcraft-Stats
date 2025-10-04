@@ -1,0 +1,36 @@
+minecraft.picked_up.compass
+34: GoodTimeWithScar: 535
+34: Keralis1: 340
+34: Renthedog: 281
+34: Docm77: 277
+34: PearlescentMoon: 270
+34: iJevin: 253
+34: cubfan135: 221
+34: Etho: 194
+34: GeminiTay: 178
+34: joehillssays: 159
+34: impulseSV: 147
+34: falsesymmetry: 143
+34: Grian: 141
+34: hypnotizd: 141
+34: Xisuma: 123
+34: Tango: 120
+34: iskall85: 102
+34: BdoubleO100: 93
+34: Zedaph: 86
+34: ZombieCleo: 84
+34: Mumbo: 31
+34: VintageBeef: 22
+34: InTheLittleWood: 10
+34: Stressmonster101: 10
+34: SolidarityGaming: 10
+34: xBCrafted: 8
+34: LDShadowLady: 5
+34: Smallishbeans: 4
+34: HBomb94: 4
+34: Skizzleman: 3
+34: Minerva246: 2
+34: STEAKFG: 1
+34: MythicalSausage: 1
+34: Pixlriffs: 1
+Total 4000

@@ -1,0 +1,17 @@
+minecraft.crafted.light_gray_stained_glass
+15: GoodTimeWithScar: 19992
+15: Grian: 6640
+15: iskall85: 6112
+15: Welsknight: 4056
+15: cubfan135: 3568
+15: Docm77: 2680
+15: falsesymmetry: 1592
+15: MumboJumbo: 1072
+15: Renthedog: 928
+15: impulseSV: 632
+15: Xisuma: 608
+15: iJevin: 336
+15: Tango: 256
+15: Stressmonster101: 256
+15: joehillssays: 64
+Total 48792

@@ -1,0 +1,5 @@
+minecraft.crafted.pufferfish_bucket
+3: Keralis1: 5
+3: VintageBeef: 3
+3: falsesymmetry: 2
+Total 10

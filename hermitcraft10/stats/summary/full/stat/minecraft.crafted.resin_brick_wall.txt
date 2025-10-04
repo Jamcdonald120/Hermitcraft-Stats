@@ -1,0 +1,6 @@
+minecraft.crafted.resin_brick_wall
+4: xBCrafted: 65
+4: Xisuma: 12
+4: Docm77: 4
+4: Renthedog: 2
+Total 83

@@ -1,0 +1,27 @@
+minecraft.custom.animals_bred
+25: GoodTimeWithScar: 1982
+25: Etho: 1255
+25: BdoubleO100: 1129
+25: Grian: 767
+25: Zedaph: 752
+25: Docm77: 645
+25: hypnotizd: 607
+25: GeminiTay: 558
+25: Xisuma: 471
+25: ZombieCleo: 409
+25: falsesymmetry: 399
+25: Welsknight: 379
+25: joehillssays: 288
+25: Renthedog: 281
+25: xBCrafted: 258
+25: VintageBeef: 186
+25: Tango: 109
+25: Stressmonster101: 92
+25: impulseSV: 75
+25: iskall85: 53
+25: cubfan135: 46
+25: iJevin: 31
+25: PearlescentMoon: 31
+25: Keralis1: 28
+25: MumboJumbo: 4
+Total 10835

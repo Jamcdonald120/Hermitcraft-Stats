@@ -1,0 +1,5 @@
+minecraft.crafted.crimson_hanging_sign
+3: GoodTimeWithScar: 12
+3: cubfan135: 6
+3: Zedaph: 6
+Total 24

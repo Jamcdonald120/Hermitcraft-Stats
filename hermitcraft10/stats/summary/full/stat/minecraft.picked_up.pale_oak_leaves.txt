@@ -1,0 +1,23 @@
+minecraft.picked_up.pale_oak_leaves
+21: Keralis1: 3142
+21: iJevin: 1776
+21: GoodTimeWithScar: 1642
+21: BdoubleO100: 1147
+21: Etho: 348
+21: PearlescentMoon: 276
+21: cubfan135: 252
+21: Renthedog: 147
+21: falsesymmetry: 132
+21: Docm77: 129
+21: Xisuma: 109
+21: xBCrafted: 84
+21: Tango: 75
+21: Skizzleman: 63
+21: joehillssays: 35
+21: Grian: 19
+21: impulseSV: 19
+21: Mumbo: 13
+21: Smallishbeans: 5
+21: ZombieCleo: 5
+21: GeminiTay: 3
+Total 9421

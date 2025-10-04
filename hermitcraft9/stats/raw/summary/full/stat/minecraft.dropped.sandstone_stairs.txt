@@ -1,0 +1,6 @@
+minecraft.dropped.sandstone_stairs
+4: Docm77: 192
+4: Etho: 20
+4: Xisuma: 1
+4: iJevin: 1
+Total 214

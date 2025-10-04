@@ -1,0 +1,26 @@
+minecraft.picked_up.stone_button
+24: GoodTimeWithScar: 360
+24: Etho: 311
+24: cubfan135: 275
+24: Docm77: 237
+24: impulseSV: 225
+24: Tango: 218
+24: PearlescentMoon: 186
+24: VintageBeef: 176
+24: Renthedog: 146
+24: iJevin: 143
+24: falsesymmetry: 111
+24: BdoubleO100: 87
+24: Xisuma: 72
+24: Zedaph: 55
+24: Keralis1: 49
+24: ZombieCleo: 37
+24: Grian: 30
+24: xBCrafted: 30
+24: Mumbo: 29
+24: Skizzleman: 17
+24: hypnotizd: 10
+24: Smallishbeans: 9
+24: GeminiTay: 8
+24: joehillssays: 3
+Total 2824

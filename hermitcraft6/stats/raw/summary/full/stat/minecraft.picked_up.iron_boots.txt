@@ -1,0 +1,28 @@
+minecraft.picked_up.iron_boots
+26: Grian: 44
+26: falsesymmetry: 40
+26: Tango: 27
+26: iskall85: 23
+26: iJevin: 22
+26: GoodTimeWithScar: 22
+26: Renthedog: 19
+26: Docm77: 12
+26: PythonGB: 12
+26: cubfan135: 11
+26: joehillssays: 10
+26: Xisuma: 7
+26: Stressmonster101: 6
+26: ZombieCleo: 5
+26: Biffa2001: 4
+26: MumboJumbo: 4
+26: Keralis1: 4
+26: impulseSV: 4
+26: Zedaph: 4
+26: EvilXisuma: 1
+26: PokePugx: 1
+26: BdoubleO100: 1
+26: xBCrafted: 1
+26: Welsknight: 1
+26: Cojomax99: 1
+26: PhoenixfireLune: 1
+Total 287

@@ -1,0 +1,22 @@
+minecraft.picked_up.wither_skeleton_skull
+20: Renthedog: 302
+20: cubfan135: 138
+20: Xisuma: 42
+20: iJevin: 36
+20: GoodTimeWithScar: 29
+20: Etho: 25
+20: Tango: 24
+20: joehillssays: 23
+20: hypnotizd: 23
+20: xBCrafted: 15
+20: impulseSV: 12
+20: Skizzleman: 10
+20: Docm77: 9
+20: Keralis1: 5
+20: Smallishbeans: 3
+20: Welsknight: 3
+20: Mumbo: 2
+20: VintageBeef: 1
+20: falsesymmetry: 1
+20: Zedaph: 1
+Total 704

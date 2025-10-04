@@ -1,0 +1,23 @@
+minecraft.picked_up.stone_sword
+21: Etho: 675
+21: xBCrafted: 131
+21: iJevin: 66
+21: impulseSV: 54
+21: Tango: 44
+21: Keralis1: 30
+21: cubfan135: 25
+21: iskall85: 20
+21: hypnotizd: 20
+21: falsesymmetry: 15
+21: MumboJumbo: 14
+21: Xisuma: 12
+21: Grian: 11
+21: GoodTimeWithScar: 9
+21: VintageBeef: 6
+21: Welsknight: 6
+21: Zedaph: 3
+21: ZombieCleo: 2
+21: joehillssays: 1
+21: Tinfoilchef: 1
+21: Stressmonster101: 1
+Total 1146

@@ -1,0 +1,8 @@
+stat, rank, value, (percentage) 
+minecraft.custom.time_since_rest: #24, 77184(0%)
+minecraft.custom.time_since_death: #31, 77184(0%)
+minecraft.custom.leave_game: #52, 2(0%)
+minecraft.custom.total_world_time: #53, 77184(0%)
+minecraft.custom.play_time: #53, 77184(0%)
+minecraft.custom.fly_one_cm: #54, 12271(0%)
+minecraft.custom.sneak_time: #55, 22(0%)

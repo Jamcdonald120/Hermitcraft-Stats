@@ -1,0 +1,30 @@
+minecraft.dropped.cooked_porkchop
+28: iJevin: 48255
+28: Tango: 1981
+28: GoodTimeWithScar: 635
+28: hypnotizd: 373
+28: Keralis1: 367
+28: cubfan135: 350
+28: Xisuma: 277
+28: joehillssays: 228
+28: PearlescentMoon: 189
+28: xBCrafted: 167
+28: Renthedog: 149
+28: ZombieCleo: 134
+28: RentheKing: 124
+28: Grian: 114
+28: GeminiTay: 102
+28: falsesymmetry: 98
+28: Smallishbeans: 68
+28: Minerva246: 32
+28: MythicalSausage: 21
+28: impulseSV: 20
+28: OrionSound: 19
+28: Etho: 18
+28: Pixlriffs: 10
+28: BdoubleO100: 9
+28: Zedaph: 8
+28: Welsknight: 4
+28: Skizzleman: 2
+28: VintageBeef: 1
+Total 53755

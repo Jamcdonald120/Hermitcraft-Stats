@@ -1,0 +1,27 @@
+minecraft.crafted.coal
+25: xBCrafted: 9972
+25: Tango: 9019
+25: PearlescentMoon: 8220
+25: joehillssays: 3411
+25: iJevin: 3339
+25: Xisuma: 3114
+25: GoodTimeWithScar: 2808
+25: Docm77: 2719
+25: hypnotizd: 2448
+25: Zedaph: 1935
+25: VintageBeef: 1179
+25: cubfan135: 1161
+25: impulseSV: 1062
+25: Etho: 1013
+25: Mumbo: 973
+25: iskall85: 948
+25: Grian: 918
+25: GeminiTay: 459
+25: Renthedog: 450
+25: Keralis1: 423
+25: BdoubleO100: 396
+25: Pixlriffs: 171
+25: MumboJumbo: 144
+25: falsesymmetry: 117
+25: ZombieCleo: 9
+Total 56408

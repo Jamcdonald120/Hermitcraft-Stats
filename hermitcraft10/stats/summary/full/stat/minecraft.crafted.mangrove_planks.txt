@@ -1,0 +1,27 @@
+minecraft.crafted.mangrove_planks
+25: Smallishbeans: 13212
+25: Mumbo: 5756
+25: GoodTimeWithScar: 5660
+25: PearlescentMoon: 4924
+25: Xisuma: 4712
+25: cubfan135: 4532
+25: joehillssays: 3884
+25: falsesymmetry: 2804
+25: iJevin: 2136
+25: Skizzleman: 2014
+25: ZombieCleo: 1980
+25: Welsknight: 1936
+25: impulseSV: 1808
+25: Renthedog: 1504
+25: Grian: 832
+25: Etho: 802
+25: GeminiTay: 764
+25: BdoubleO100: 544
+25: Tango: 348
+25: Docm77: 236
+25: Keralis1: 228
+25: VintageBeef: 204
+25: Zedaph: 120
+25: hypnotizd: 44
+25: xBCrafted: 16
+Total 61000

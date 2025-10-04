@@ -1,0 +1,4 @@
+minecraft.dropped.coast_armor_trim_smithing_template
+2: iJevin: 4
+2: cubfan135: 2
+Total 6

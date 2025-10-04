@@ -1,0 +1,30 @@
+minecraft.picked_up.deepslate
+28: Tango: 78953
+28: Docm77: 59086
+28: xBCrafted: 44715
+28: cubfan135: 35876
+28: joehillssays: 30476
+28: Renthedog: 27357
+28: Xisuma: 26321
+28: Grian: 19715
+28: PearlescentMoon: 19183
+28: Zedaph: 15243
+28: hypnotizd: 12611
+28: BdoubleO100: 11659
+28: falsesymmetry: 10736
+28: GoodTimeWithScar: 9477
+28: iJevin: 9170
+28: ZombieCleo: 8204
+28: Keralis1: 7065
+28: impulseSV: 6221
+28: Stressmonster101: 2522
+28: Welsknight: 2182
+28: MythicalSausage: 2109
+28: iskall85: 1597
+28: RentheKing: 1246
+28: VintageBeef: 1197
+28: Mumbo: 1029
+28: Etho: 768
+28: Pixlriffs: 236
+28: GeminiTay: 200
+Total 445154

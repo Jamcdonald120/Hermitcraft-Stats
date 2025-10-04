@@ -1,0 +1,25 @@
+minecraft.picked_up.light_gray_terracotta
+23: Smallishbeans: 6309
+23: joehillssays: 5017
+23: impulseSV: 3965
+23: GoodTimeWithScar: 3809
+23: Etho: 2097
+23: falsesymmetry: 1542
+23: ZombieCleo: 679
+23: PearlescentMoon: 676
+23: Tango: 387
+23: VintageBeef: 283
+23: GeminiTay: 179
+23: Grian: 161
+23: Renthedog: 122
+23: iJevin: 66
+23: SolidarityGaming: 64
+23: cubfan135: 56
+23: Xisuma: 55
+23: Docm77: 40
+23: BdoubleO100: 11
+23: Keralis1: 11
+23: Skizzleman: 4
+23: Zedaph: 2
+23: xBCrafted: 1
+Total 25536

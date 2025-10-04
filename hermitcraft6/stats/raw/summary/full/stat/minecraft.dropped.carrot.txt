@@ -1,0 +1,22 @@
+minecraft.dropped.carrot
+20: impulseSV: 41862
+20: iskall85: 21505
+20: cubfan135: 8792
+20: MumboJumbo: 7027
+20: Docm77: 5244
+20: iJevin: 4241
+20: Renthedog: 3204
+20: Stressmonster101: 2564
+20: Tango: 2478
+20: Grian: 1070
+20: PythonGB: 1024
+20: Zedaph: 590
+20: ZombieCleo: 352
+20: GoodTimeWithScar: 186
+20: Xisuma: 32
+20: joehillssays: 14
+20: Biffa2001: 8
+20: falsesymmetry: 5
+20: Keralis1: 4
+20: Tinfoilchef: 1
+Total 100203

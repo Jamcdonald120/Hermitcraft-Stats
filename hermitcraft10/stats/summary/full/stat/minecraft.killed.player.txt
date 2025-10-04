@@ -1,0 +1,33 @@
+minecraft.killed.player
+31: iJevin: 542
+31: GoodTimeWithScar: 425
+31: cubfan135: 307
+31: GeminiTay: 160
+31: PearlescentMoon: 147
+31: Etho: 119
+31: Skizzleman: 108
+31: Smallishbeans: 108
+31: Xisuma: 102
+31: Grian: 89
+31: impulseSV: 89
+31: ZombieCleo: 70
+31: falsesymmetry: 65
+31: Mumbo: 58
+31: joehillssays: 53
+31: Tango: 48
+31: BdoubleO100: 47
+31: Renthedog: 38
+31: xBCrafted: 37
+31: Keralis1: 27
+31: Docm77: 15
+31: VintageBeef: 11
+31: hypnotizd: 4
+31: SolidarityGaming: 3
+31: Zedaph: 3
+31: Smajor1995: 2
+31: OrionSound: 1
+31: MythicalSausage: 1
+31: Eyjoy27: 1
+31: jojosolos: 1
+31: aimsey: 1
+Total 2682

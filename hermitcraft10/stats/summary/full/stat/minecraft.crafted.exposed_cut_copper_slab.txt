@@ -1,0 +1,5 @@
+minecraft.crafted.exposed_cut_copper_slab
+3: BdoubleO100: 124
+3: Mumbo: 64
+3: Docm77: 6
+Total 194

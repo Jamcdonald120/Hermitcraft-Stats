@@ -1,0 +1,26 @@
+minecraft.custom.interact_with_grindstone
+24: Renthedog: 196
+24: Docm77: 149
+24: GoodTimeWithScar: 141
+24: hypnotizd: 135
+24: iJevin: 86
+24: Grian: 80
+24: Xisuma: 58
+24: falsesymmetry: 57
+24: cubfan135: 51
+24: joehillssays: 43
+24: VintageBeef: 38
+24: impulseSV: 32
+24: PearlescentMoon: 28
+24: xBCrafted: 25
+24: Etho: 24
+24: Keralis1: 21
+24: iskall85: 12
+24: BdoubleO100: 11
+24: MumboJumbo: 11
+24: Zedaph: 11
+24: GeminiTay: 7
+24: Tango: 7
+24: Stressmonster101: 7
+24: ZombieCleo: 1
+Total 1231

@@ -1,0 +1,19 @@
+minecraft.picked_up.bamboo_stairs
+17: Keralis1: 222
+17: VintageBeef: 122
+17: Xisuma: 100
+17: impulseSV: 46
+17: GoodTimeWithScar: 39
+17: PearlescentMoon: 36
+17: Skizzleman: 28
+17: Etho: 28
+17: Tango: 20
+17: Smallishbeans: 19
+17: Zedaph: 18
+17: Mumbo: 10
+17: BdoubleO100: 9
+17: joehillssays: 7
+17: falsesymmetry: 6
+17: GeminiTay: 4
+17: Grian: 1
+Total 715

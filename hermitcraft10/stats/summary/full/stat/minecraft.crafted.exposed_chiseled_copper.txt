@@ -1,0 +1,5 @@
+minecraft.crafted.exposed_chiseled_copper
+3: BdoubleO100: 20
+3: Keralis1: 8
+3: Docm77: 1
+Total 29

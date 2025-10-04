@@ -1,0 +1,9 @@
+minecraft.picked_up.brown_dye
+7: Tango: 119
+7: PearlescentMoon: 42
+7: Grian: 16
+7: Zedaph: 14
+7: iJevin: 12
+7: xBCrafted: 2
+7: ZombieCleo: 2
+Total 207

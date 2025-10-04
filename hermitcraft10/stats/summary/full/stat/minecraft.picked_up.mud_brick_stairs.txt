@@ -1,0 +1,17 @@
+minecraft.picked_up.mud_brick_stairs
+15: Renthedog: 179
+15: Xisuma: 91
+15: PearlescentMoon: 79
+15: falsesymmetry: 32
+15: Skizzleman: 22
+15: Keralis1: 21
+15: Grian: 14
+15: Tango: 10
+15: Etho: 9
+15: iJevin: 5
+15: cubfan135: 5
+15: BdoubleO100: 4
+15: GoodTimeWithScar: 4
+15: Zedaph: 4
+15: VintageBeef: 1
+Total 480

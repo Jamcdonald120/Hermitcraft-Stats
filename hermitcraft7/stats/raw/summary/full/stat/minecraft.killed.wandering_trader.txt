@@ -1,0 +1,22 @@
+minecraft.killed.wandering_trader
+20: Xisuma: 45
+20: Tango: 35
+20: GoodTimeWithScar: 27
+20: VintageBeef: 14
+20: hypnotizd: 14
+20: Etho: 13
+20: Keralis1: 12
+20: cubfan135: 11
+20: iskall85: 9
+20: Renthedog: 8
+20: Zedaph: 8
+20: iJevin: 6
+20: Grian: 6
+20: falsesymmetry: 6
+20: xBCrafted: 5
+20: BdoubleO100: 4
+20: Docm77: 3
+20: MumboJumbo: 3
+20: ZombieCleo: 2
+20: impulseSV: 1
+Total 232

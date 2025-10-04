@@ -1,0 +1,17 @@
+minecraft.crafted.blue_terracotta
+15: PearlescentMoon: 11752
+15: Etho: 2304
+15: impulseSV: 1192
+15: Xisuma: 936
+15: ZombieCleo: 840
+15: VintageBeef: 800
+15: falsesymmetry: 784
+15: cubfan135: 688
+15: Grian: 656
+15: GoodTimeWithScar: 608
+15: Docm77: 208
+15: xBCrafted: 128
+15: joehillssays: 72
+15: Renthedog: 8
+15: Zedaph: 8
+Total 20984

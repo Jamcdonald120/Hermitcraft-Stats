@@ -1,0 +1,7 @@
+minecraft.crafted.cut_red_sandstone
+5: impulseSV: 64
+5: Keralis1: 46
+5: PearlescentMoon: 14
+5: Xisuma: 4
+5: Zedaph: 1
+Total 129

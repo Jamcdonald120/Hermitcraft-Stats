@@ -1,0 +1,3 @@
+minecraft.mined.reinforced_deepslate
+1: impulseSV: 1
+Total 1

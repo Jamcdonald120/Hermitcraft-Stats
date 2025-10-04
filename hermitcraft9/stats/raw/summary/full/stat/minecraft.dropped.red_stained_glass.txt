@@ -1,0 +1,7 @@
+minecraft.dropped.red_stained_glass
+5: falsesymmetry: 773
+5: Grian: 161
+5: Keralis1: 7
+5: Zedaph: 5
+5: Etho: 4
+Total 950

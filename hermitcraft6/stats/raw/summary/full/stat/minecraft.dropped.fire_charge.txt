@@ -1,0 +1,4 @@
+minecraft.dropped.fire_charge
+2: cubfan135: 4
+2: PythonGB: 2
+Total 6

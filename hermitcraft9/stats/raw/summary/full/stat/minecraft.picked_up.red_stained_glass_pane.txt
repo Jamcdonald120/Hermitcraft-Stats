@@ -1,0 +1,18 @@
+minecraft.picked_up.red_stained_glass_pane
+16: falsesymmetry: 406
+16: cubfan135: 112
+16: Tango: 100
+16: Zedaph: 64
+16: Grian: 53
+16: impulseSV: 46
+16: Xisuma: 43
+16: xBCrafted: 28
+16: PearlescentMoon: 21
+16: hypnotizd: 19
+16: OrionSound: 6
+16: GoodTimeWithScar: 3
+16: iJevin: 2
+16: ZombieCleo: 2
+16: GeminiTay: 1
+16: SolidarityGaming: 1
+Total 907

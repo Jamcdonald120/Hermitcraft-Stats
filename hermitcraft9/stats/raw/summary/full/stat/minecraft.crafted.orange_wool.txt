@@ -1,0 +1,12 @@
+minecraft.crafted.orange_wool
+10: PearlescentMoon: 1315
+10: Etho: 448
+10: Tango: 240
+10: Renthedog: 74
+10: Keralis1: 60
+10: BdoubleO100: 57
+10: Xisuma: 27
+10: hypnotizd: 13
+10: Zedaph: 13
+10: GoodTimeWithScar: 1
+Total 2248

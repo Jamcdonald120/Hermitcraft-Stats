@@ -1,0 +1,22 @@
+minecraft.dropped.birch_sign
+20: Zedaph: 39
+20: Renthedog: 32
+20: cubfan135: 25
+20: GoodTimeWithScar: 19
+20: Tango: 13
+20: falsesymmetry: 8
+20: Grian: 5
+20: joehillssays: 4
+20: ZombieCleo: 4
+20: Mumbo: 4
+20: impulseSV: 4
+20: iJevin: 3
+20: Etho: 3
+20: GeminiTay: 2
+20: Smallishbeans: 2
+20: BdoubleO100: 2
+20: Keralis1: 2
+20: Skizzleman: 1
+20: PearlescentMoon: 1
+20: xBCrafted: 1
+Total 174

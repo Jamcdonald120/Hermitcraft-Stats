@@ -1,0 +1,16 @@
+minecraft.dropped.gold_ore
+14: VintageBeef: 28
+14: GoodTimeWithScar: 25
+14: Zedaph: 24
+14: Tango: 19
+14: iJevin: 8
+14: falsesymmetry: 6
+14: Xisuma: 5
+14: Docm77: 4
+14: xBCrafted: 4
+14: cubfan135: 4
+14: Keralis1: 2
+14: Renthedog: 1
+14: Mumbo: 1
+14: hypnotizd: 1
+Total 132

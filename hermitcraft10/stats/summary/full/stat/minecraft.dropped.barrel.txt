@@ -1,0 +1,18 @@
+minecraft.dropped.barrel
+16: Etho: 116
+16: Tango: 109
+16: Grian: 50
+16: Keralis1: 38
+16: falsesymmetry: 30
+16: PearlescentMoon: 25
+16: Zedaph: 19
+16: cubfan135: 9
+16: Smallishbeans: 4
+16: BdoubleO100: 3
+16: iJevin: 2
+16: ZombieCleo: 2
+16: GoodTimeWithScar: 2
+16: Renthedog: 1
+16: GeminiTay: 1
+16: Skizzleman: 1
+Total 412

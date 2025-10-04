@@ -1,0 +1,23 @@
+minecraft.crafted.light_gray_carpet
+21: VintageBeef: 3195
+21: falsesymmetry: 1793
+21: impulseSV: 1401
+21: iJevin: 921
+21: GoodTimeWithScar: 687
+21: Keralis1: 419
+21: PearlescentMoon: 387
+21: Etho: 174
+21: Grian: 108
+21: Tango: 99
+21: Docm77: 96
+21: BdoubleO100: 84
+21: Stressmonster101: 78
+21: hypnotizd: 60
+21: Renthedog: 36
+21: ZombieCleo: 21
+21: Xisuma: 6
+21: cubfan135: 6
+21: xBCrafted: 3
+21: RentheKing: 3
+21: Zedaph: 3
+Total 9580

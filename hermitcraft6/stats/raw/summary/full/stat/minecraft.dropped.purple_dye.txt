@@ -1,0 +1,5 @@
+minecraft.dropped.purple_dye
+3: iJevin: 12
+3: Xisuma: 1
+3: iskall85: 1
+Total 14

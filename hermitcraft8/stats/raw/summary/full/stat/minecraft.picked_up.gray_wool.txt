@@ -1,0 +1,20 @@
+minecraft.picked_up.gray_wool
+18: Docm77: 979
+18: Renthedog: 965
+18: BdoubleO100: 512
+18: Zedaph: 353
+18: falsesymmetry: 308
+18: Grian: 257
+18: GoodTimeWithScar: 245
+18: impulseSV: 103
+18: GeminiTay: 83
+18: Xisuma: 72
+18: iJevin: 56
+18: Welsknight: 55
+18: Tango: 48
+18: Keralis1: 15
+18: PearlescentMoon: 8
+18: Stressmonster101: 2
+18: VintageBeef: 1
+18: cubfan135: 1
+Total 4063

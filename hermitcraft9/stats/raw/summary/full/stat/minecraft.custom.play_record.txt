@@ -1,0 +1,32 @@
+minecraft.custom.play_record
+30: Tango: 471
+30: cubfan135: 150
+30: GoodTimeWithScar: 120
+30: impulseSV: 103
+30: Xisuma: 99
+30: Zedaph: 98
+30: PearlescentMoon: 87
+30: Keralis1: 65
+30: joehillssays: 32
+30: OrionSound: 30
+30: Docm77: 20
+30: Renthedog: 18
+30: iJevin: 15
+30: VintageBeef: 12
+30: BdoubleO100: 12
+30: xBCrafted: 12
+30: Grian: 11
+30: GeminiTay: 8
+30: iskall85: 7
+30: ZombieCleo: 6
+30: MythicalSausage: 5
+30: Etho: 5
+30: Mumbo: 5
+30: SolidarityGaming: 5
+30: falsesymmetry: 4
+30: InTheLittleWood: 3
+30: RentheKing: 2
+30: Pixlriffs: 1
+30: hypnotizd: 1
+30: Stressmonster101: 1
+Total 1408

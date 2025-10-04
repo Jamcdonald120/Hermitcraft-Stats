@@ -1,0 +1,34 @@
+minecraft.dropped.golden_carrot
+32: Zedaph: 1799
+32: Keralis1: 1343
+32: GoodTimeWithScar: 1169
+32: Renthedog: 1105
+32: cubfan135: 1080
+32: impulseSV: 935
+32: iJevin: 861
+32: Xisuma: 786
+32: Etho: 656
+32: Skizzleman: 622
+32: PearlescentMoon: 549
+32: falsesymmetry: 471
+32: Tango: 302
+32: GeminiTay: 297
+32: Grian: 246
+32: ZombieCleo: 222
+32: joehillssays: 210
+32: xBCrafted: 197
+32: Smallishbeans: 181
+32: Mumbo: 121
+32: Docm77: 75
+32: Smajor1995: 64
+32: hypnotizd: 59
+32: jojosolos: 59
+32: MythicalSausage: 54
+32: BdoubleO100: 27
+32: VintageBeef: 23
+32: hannahxxrose: 4
+32: SolidarityGaming: 4
+32: F1RECRACKR: 1
+32: Welsknight: 1
+32: belmarzi: 1
+Total 13524

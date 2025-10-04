@@ -1,0 +1,10 @@
+minecraft.picked_up.sandstone_stairs
+8: ZombieCleo: 503
+8: joehillssays: 253
+8: impulseSV: 126
+8: iJevin: 48
+8: Xisuma: 24
+8: GeminiTay: 15
+8: Etho: 10
+8: MumboJumbo: 2
+Total 981

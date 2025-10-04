@@ -1,0 +1,29 @@
+minecraft.picked_up.white_concrete
+27: falsesymmetry: 16498
+27: ZombieCleo: 11417
+27: Docm77: 10098
+27: Grian: 8054
+27: Renthedog: 6205
+27: impulseSV: 5048
+27: BdoubleO100: 4605
+27: cubfan135: 3525
+27: GoodTimeWithScar: 1747
+27: VintageBeef: 1316
+27: Etho: 1002
+27: Keralis1: 989
+27: joehillssays: 891
+27: Xisuma: 689
+27: xBCrafted: 630
+27: PearlescentMoon: 487
+27: iJevin: 402
+27: iskall85: 276
+27: Stressmonster101: 133
+27: RentheKing: 130
+27: GeminiTay: 107
+27: Mumbo: 81
+27: Smallishbeans: 57
+27: MythicalSausage: 33
+27: Zedaph: 6
+27: Tango: 1
+27: hypnotizd: 1
+Total 74428

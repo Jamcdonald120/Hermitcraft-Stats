@@ -1,0 +1,30 @@
+minecraft.dropped.glass_bottle
+28: hypnotizd: 12242
+28: Etho: 3300
+28: Docm77: 2400
+28: iJevin: 2037
+28: cubfan135: 1421
+28: Tango: 865
+28: Xisuma: 852
+28: Keralis1: 286
+28: Renthedog: 182
+28: Skizzleman: 152
+28: Smallishbeans: 143
+28: Grian: 138
+28: impulseSV: 111
+28: GoodTimeWithScar: 105
+28: xBCrafted: 76
+28: Zedaph: 71
+28: PearlescentMoon: 68
+28: BdoubleO100: 52
+28: joehillssays: 49
+28: Mumbo: 26
+28: GeminiTay: 18
+28: VintageBeef: 16
+28: ZombieCleo: 13
+28: Couriway: 8
+28: JamalMC_: 5
+28: falsesymmetry: 3
+28: MythicalSausage: 1
+28: Welsknight: 1
+Total 24641

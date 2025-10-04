@@ -1,0 +1,24 @@
+minecraft.picked_up.armor_stand
+22: ZombieCleo: 372
+22: Docm77: 215
+22: GoodTimeWithScar: 110
+22: Xisuma: 94
+22: iJevin: 94
+22: falsesymmetry: 77
+22: iskall85: 74
+22: impulseSV: 66
+22: cubfan135: 64
+22: Grian: 49
+22: HumanCleo: 46
+22: Tango: 42
+22: Zedaph: 40
+22: Keralis1: 28
+22: Stressmonster101: 24
+22: joehillssays: 21
+22: MumboJumbo: 10
+22: Renthedog: 9
+22: BdoubleO100: 9
+22: Welsknight: 9
+22: PythonGB: 4
+22: Biffa2001: 3
+Total 1460

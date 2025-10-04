@@ -1,0 +1,22 @@
+minecraft.dropped.golden_sword
+20: Tango: 801
+20: cubfan135: 215
+20: Xisuma: 147
+20: Renthedog: 44
+20: Docm77: 43
+20: impulseSV: 37
+20: iJevin: 28
+20: iskall85: 21
+20: BdoubleO100: 9
+20: hypnotizd: 8
+20: PearlescentMoon: 5
+20: MythicalSausage: 4
+20: Grian: 3
+20: Stressmonster101: 3
+20: xBCrafted: 2
+20: Etho: 2
+20: Zedaph: 2
+20: joehillssays: 1
+20: Pixlriffs: 1
+20: falsesymmetry: 1
+Total 1377

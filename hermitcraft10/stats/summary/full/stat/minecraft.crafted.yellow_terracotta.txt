@@ -1,0 +1,20 @@
+minecraft.crafted.yellow_terracotta
+18: PearlescentMoon: 4864
+18: Xisuma: 2168
+18: Smallishbeans: 1880
+18: Renthedog: 1833
+18: Etho: 568
+18: Mumbo: 408
+18: impulseSV: 407
+18: iJevin: 280
+18: Grian: 264
+18: ZombieCleo: 264
+18: Keralis1: 216
+18: cubfan135: 184
+18: falsesymmetry: 112
+18: GeminiTay: 92
+18: BdoubleO100: 40
+18: Docm77: 32
+18: VintageBeef: 24
+18: Zedaph: 8
+Total 13644

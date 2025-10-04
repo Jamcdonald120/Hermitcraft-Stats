@@ -1,0 +1,25 @@
+minecraft.picked_up.ghast_tear
+23: Renthedog: 565
+23: iJevin: 405
+23: Docm77: 264
+23: hypnotizd: 154
+23: BdoubleO100: 65
+23: Etho: 61
+23: cubfan135: 60
+23: joehillssays: 32
+23: GoodTimeWithScar: 28
+23: PearlescentMoon: 22
+23: Xisuma: 18
+23: xBCrafted: 17
+23: falsesymmetry: 16
+23: Skizzleman: 12
+23: impulseSV: 11
+23: VintageBeef: 7
+23: Grian: 4
+23: Keralis1: 3
+23: Tango: 2
+23: Zedaph: 2
+23: Smallishbeans: 1
+23: ZombieCleo: 1
+23: Mumbo: 1
+Total 1751

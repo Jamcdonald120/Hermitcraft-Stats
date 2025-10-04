@@ -1,0 +1,17 @@
+minecraft.picked_up.black_banner
+15: Etho: 784
+15: falsesymmetry: 37
+15: Keralis1: 33
+15: cubfan135: 29
+15: joehillssays: 26
+15: Skizzleman: 14
+15: Renthedog: 10
+15: GoodTimeWithScar: 9
+15: impulseSV: 9
+15: Tango: 5
+15: Grian: 4
+15: Xisuma: 3
+15: PearlescentMoon: 3
+15: Smallishbeans: 2
+15: ZombieCleo: 2
+Total 970

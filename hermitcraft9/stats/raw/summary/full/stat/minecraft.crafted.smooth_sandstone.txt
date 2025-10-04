@@ -1,0 +1,19 @@
+minecraft.crafted.smooth_sandstone
+17: Xisuma: 1525
+17: Etho: 1344
+17: ZombieCleo: 701
+17: VintageBeef: 664
+17: PearlescentMoon: 640
+17: Welsknight: 640
+17: GeminiTay: 602
+17: Docm77: 534
+17: cubfan135: 325
+17: impulseSV: 256
+17: GoodTimeWithScar: 128
+17: Grian: 124
+17: iJevin: 64
+17: MythicalSausage: 64
+17: BdoubleO100: 53
+17: Smallishbeans: 33
+17: Zedaph: 3
+Total 7700

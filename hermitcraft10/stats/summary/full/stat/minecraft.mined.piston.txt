@@ -1,0 +1,27 @@
+minecraft.mined.piston
+25: xBCrafted: 1150
+25: Xisuma: 570
+25: Docm77: 478
+25: Etho: 346
+25: impulseSV: 294
+25: Zedaph: 285
+25: Tango: 263
+25: PearlescentMoon: 129
+25: Grian: 105
+25: Skizzleman: 103
+25: cubfan135: 94
+25: iJevin: 78
+25: GoodTimeWithScar: 77
+25: hypnotizd: 72
+25: joehillssays: 62
+25: Renthedog: 57
+25: Mumbo: 48
+25: Keralis1: 48
+25: ZombieCleo: 24
+25: BdoubleO100: 23
+25: GeminiTay: 17
+25: falsesymmetry: 14
+25: Smallishbeans: 13
+25: VintageBeef: 6
+25: Welsknight: 4
+Total 4360

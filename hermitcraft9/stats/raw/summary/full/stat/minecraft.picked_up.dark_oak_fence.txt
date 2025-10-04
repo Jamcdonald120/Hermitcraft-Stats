@@ -1,0 +1,29 @@
+minecraft.picked_up.dark_oak_fence
+27: falsesymmetry: 1214
+27: cubfan135: 955
+27: Renthedog: 316
+27: impulseSV: 246
+27: Xisuma: 214
+27: RentheKing: 204
+27: GoodTimeWithScar: 192
+27: Keralis1: 109
+27: PearlescentMoon: 95
+27: GeminiTay: 94
+27: Docm77: 76
+27: joehillssays: 76
+27: Grian: 76
+27: Smajor1995: 64
+27: SolidarityGaming: 64
+27: OrionSound: 57
+27: BdoubleO100: 53
+27: Stressmonster101: 24
+27: Tango: 14
+27: ZombieCleo: 14
+27: Etho: 12
+27: Pixlriffs: 11
+27: xBCrafted: 8
+27: MythicalSausage: 6
+27: Zedaph: 6
+27: iJevin: 5
+27: Smallishbeans: 4
+Total 4209

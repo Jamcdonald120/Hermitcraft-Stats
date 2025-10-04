@@ -1,0 +1,27 @@
+minecraft.picked_up.iron_pickaxe
+25: joehillssays: 19
+25: Zedaph: 16
+25: Grian: 14
+25: PearlescentMoon: 11
+25: hypnotizd: 11
+25: iJevin: 9
+25: ZombieCleo: 9
+25: impulseSV: 8
+25: OrionSound: 7
+25: Etho: 6
+25: Renthedog: 5
+25: GeminiTay: 5
+25: cubfan135: 5
+25: Tango: 4
+25: falsesymmetry: 4
+25: VintageBeef: 3
+25: Keralis1: 3
+25: Docm77: 2
+25: MythicalSausage: 2
+25: Welsknight: 2
+25: Mumbo: 2
+25: MumboJumbo: 2
+25: GoodTimeWithScar: 2
+25: ShubbleYT: 2
+25: Xisuma: 1
+Total 154

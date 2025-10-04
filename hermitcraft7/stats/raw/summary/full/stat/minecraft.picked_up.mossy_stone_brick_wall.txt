@@ -1,0 +1,7 @@
+minecraft.picked_up.mossy_stone_brick_wall
+5: cubfan135: 13
+5: Tango: 10
+5: Zedaph: 5
+5: VintageBeef: 3
+5: Etho: 1
+Total 32

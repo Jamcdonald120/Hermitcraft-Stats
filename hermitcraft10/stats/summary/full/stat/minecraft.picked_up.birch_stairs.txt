@@ -1,0 +1,21 @@
+minecraft.picked_up.birch_stairs
+19: Xisuma: 345
+19: PearlescentMoon: 302
+19: GoodTimeWithScar: 44
+19: Keralis1: 26
+19: cubfan135: 25
+19: Mumbo: 24
+19: Smallishbeans: 11
+19: VintageBeef: 10
+19: Grian: 9
+19: falsesymmetry: 9
+19: Skizzleman: 7
+19: xBCrafted: 7
+19: impulseSV: 4
+19: iJevin: 3
+19: hypnotizd: 3
+19: Smajor1995: 2
+19: Docm77: 1
+19: joehillssays: 1
+19: BdoubleO100: 1
+Total 834

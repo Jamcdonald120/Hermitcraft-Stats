@@ -1,0 +1,3 @@
+minecraft.crafted.cracked_nether_bricks
+1: VintageBeef: 110
+Total 110

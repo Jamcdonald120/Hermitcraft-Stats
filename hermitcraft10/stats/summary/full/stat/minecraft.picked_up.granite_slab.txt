@@ -1,0 +1,15 @@
+minecraft.picked_up.granite_slab
+13: GoodTimeWithScar: 127
+13: Renthedog: 120
+13: joehillssays: 82
+13: Xisuma: 57
+13: falsesymmetry: 53
+13: iJevin: 35
+13: VintageBeef: 15
+13: cubfan135: 11
+13: Tango: 6
+13: Keralis1: 5
+13: Smallishbeans: 4
+13: Etho: 3
+13: PearlescentMoon: 2
+Total 520

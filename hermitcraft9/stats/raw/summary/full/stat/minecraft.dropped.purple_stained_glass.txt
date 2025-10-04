@@ -1,0 +1,10 @@
+minecraft.dropped.purple_stained_glass
+8: falsesymmetry: 793
+8: Grian: 39
+8: Etho: 5
+8: impulseSV: 4
+8: GoodTimeWithScar: 3
+8: Tango: 2
+8: iJevin: 1
+8: Zedaph: 1
+Total 848

@@ -1,0 +1,6 @@
+minecraft.picked_up.bamboo_hanging_sign
+4: Tango: 18
+4: Xisuma: 8
+4: cubfan135: 8
+4: Zedaph: 5
+Total 39

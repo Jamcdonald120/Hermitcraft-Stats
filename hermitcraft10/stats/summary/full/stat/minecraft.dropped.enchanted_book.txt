@@ -1,0 +1,24 @@
+minecraft.dropped.enchanted_book
+22: Xisuma: 96
+22: hypnotizd: 76
+22: GoodTimeWithScar: 74
+22: Grian: 64
+22: Mumbo: 60
+22: falsesymmetry: 42
+22: Zedaph: 42
+22: iJevin: 38
+22: Etho: 38
+22: Keralis1: 29
+22: impulseSV: 25
+22: Docm77: 21
+22: ZombieCleo: 21
+22: cubfan135: 19
+22: Tango: 12
+22: Renthedog: 10
+22: PearlescentMoon: 10
+22: Smallishbeans: 6
+22: GeminiTay: 5
+22: Skizzleman: 4
+22: BdoubleO100: 3
+22: xBCrafted: 2
+Total 697

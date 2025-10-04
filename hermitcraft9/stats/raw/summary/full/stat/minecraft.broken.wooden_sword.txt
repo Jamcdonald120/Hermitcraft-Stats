@@ -1,0 +1,6 @@
+minecraft.broken.wooden_sword
+4: Zedaph: 15
+4: ZombieCleo: 3
+4: GeminiTay: 2
+4: Renthedog: 1
+Total 21

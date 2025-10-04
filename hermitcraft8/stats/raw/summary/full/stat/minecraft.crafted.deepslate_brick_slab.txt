@@ -1,0 +1,18 @@
+minecraft.crafted.deepslate_brick_slab
+16: Keralis1: 168
+16: GoodTimeWithScar: 132
+16: Xisuma: 128
+16: PearlescentMoon: 84
+16: iJevin: 72
+16: xBCrafted: 72
+16: Grian: 66
+16: Stressmonster101: 54
+16: Docm77: 49
+16: hypnotizd: 30
+16: cubfan135: 20
+16: GeminiTay: 18
+16: ZombieCleo: 12
+16: BdoubleO100: 6
+16: MumboJumbo: 6
+16: Renthedog: 4
+Total 921

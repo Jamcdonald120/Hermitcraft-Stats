@@ -1,0 +1,4 @@
+minecraft.dropped.acacia_stairs
+2: Tango: 3
+2: GoodTimeWithScar: 3
+Total 6

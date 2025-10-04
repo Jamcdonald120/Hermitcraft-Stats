@@ -1,0 +1,18 @@
+minecraft.picked_up.nether_brick_wall
+16: Zedaph: 1250
+16: Etho: 502
+16: cubfan135: 268
+16: Tango: 247
+16: Xisuma: 208
+16: xBCrafted: 154
+16: Grian: 152
+16: iJevin: 110
+16: joehillssays: 104
+16: Renthedog: 94
+16: GoodTimeWithScar: 83
+16: impulseSV: 11
+16: Docm77: 4
+16: BdoubleO100: 2
+16: VintageBeef: 1
+16: hypnotizd: 1
+Total 3191

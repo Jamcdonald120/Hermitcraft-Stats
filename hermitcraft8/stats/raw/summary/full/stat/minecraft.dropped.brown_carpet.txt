@@ -1,0 +1,5 @@
+minecraft.dropped.brown_carpet
+3: impulseSV: 10
+3: Grian: 5
+3: GoodTimeWithScar: 1
+Total 16

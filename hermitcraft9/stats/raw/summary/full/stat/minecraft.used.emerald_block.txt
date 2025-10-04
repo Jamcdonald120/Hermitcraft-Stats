@@ -1,0 +1,29 @@
+minecraft.used.emerald_block
+27: impulseSV: 7370
+27: Docm77: 2599
+27: VintageBeef: 2303
+27: hypnotizd: 2155
+27: Zedaph: 1119
+27: joehillssays: 1056
+27: Grian: 758
+27: Renthedog: 736
+27: PearlescentMoon: 695
+27: iJevin: 583
+27: iskall85: 522
+27: cubfan135: 516
+27: Keralis1: 333
+27: RentheKing: 218
+27: falsesymmetry: 181
+27: GoodTimeWithScar: 172
+27: GeminiTay: 145
+27: ZombieCleo: 113
+27: Tango: 80
+27: Stressmonster101: 63
+27: Pixlriffs: 43
+27: xBCrafted: 14
+27: Xisuma: 12
+27: MythicalSausage: 8
+27: Smallishbeans: 7
+27: BdoubleO100: 1
+27: Etho: 1
+Total 21803

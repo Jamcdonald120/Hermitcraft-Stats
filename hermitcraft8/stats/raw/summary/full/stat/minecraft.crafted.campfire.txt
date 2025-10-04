@@ -1,0 +1,24 @@
+minecraft.crafted.campfire
+22: GoodTimeWithScar: 300
+22: xBCrafted: 265
+22: cubfan135: 175
+22: Keralis1: 135
+22: PearlescentMoon: 127
+22: Grian: 78
+22: impulseSV: 74
+22: ZombieCleo: 63
+22: GeminiTay: 51
+22: Tango: 48
+22: iskall85: 36
+22: Stressmonster101: 29
+22: Docm77: 19
+22: Xisuma: 17
+22: BdoubleO100: 16
+22: falsesymmetry: 15
+22: iJevin: 9
+22: joehillssays: 7
+22: Renthedog: 6
+22: VintageBeef: 3
+22: MumboJumbo: 2
+22: hypnotizd: 1
+Total 1476

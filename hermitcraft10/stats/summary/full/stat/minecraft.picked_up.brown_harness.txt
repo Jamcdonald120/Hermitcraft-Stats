@@ -1,0 +1,3 @@
+minecraft.picked_up.brown_harness
+1: falsesymmetry: 1
+Total 1

@@ -1,0 +1,5 @@
+minecraft.killed_by.husk
+3: Grian: 2
+3: GoodTimeWithScar: 2
+3: MumboJumbo: 1
+Total 5

@@ -1,0 +1,5 @@
+minecraft.dropped.red_stained_glass
+3: Zedaph: 8
+3: Renthedog: 5
+3: Etho: 1
+Total 14

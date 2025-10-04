@@ -1,0 +1,24 @@
+minecraft.crafted.smooth_quartz
+22: impulseSV: 8722
+22: Grian: 4862
+22: Zedaph: 1609
+22: Etho: 1272
+22: falsesymmetry: 1172
+22: ZombieCleo: 1120
+22: VintageBeef: 987
+22: GeminiTay: 820
+22: iJevin: 435
+22: Renthedog: 393
+22: Xisuma: 305
+22: PearlescentMoon: 270
+22: Tango: 256
+22: Smallishbeans: 248
+22: xBCrafted: 192
+22: cubfan135: 153
+22: Docm77: 67
+22: iskall85: 66
+22: MythicalSausage: 38
+22: Welsknight: 32
+22: BdoubleO100: 29
+22: Keralis1: 3
+Total 23051

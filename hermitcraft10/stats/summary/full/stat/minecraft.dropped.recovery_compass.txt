@@ -1,0 +1,5 @@
+minecraft.dropped.recovery_compass
+3: GoodTimeWithScar: 6
+3: iJevin: 4
+3: ZombieCleo: 2
+Total 12

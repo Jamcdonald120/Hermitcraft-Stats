@@ -1,0 +1,24 @@
+minecraft.picked_up.mutton
+22: GoodTimeWithScar: 2245
+22: Welsknight: 733
+22: iJevin: 313
+22: Grian: 287
+22: Docm77: 176
+22: Stressmonster101: 160
+22: Xisuma: 149
+22: iskall85: 104
+22: Biffa2001: 100
+22: cubfan135: 78
+22: Tinfoilchef: 75
+22: ZombieCleo: 68
+22: Renthedog: 42
+22: Tango: 22
+22: MumboJumbo: 20
+22: falsesymmetry: 17
+22: joehillssays: 13
+22: Zedaph: 10
+22: PythonGB: 8
+22: Jessassin: 5
+22: Keralis1: 4
+22: EvilXisuma: 2
+Total 4631

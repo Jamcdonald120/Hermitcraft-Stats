@@ -1,0 +1,27 @@
+minecraft.picked_up.short_grass
+25: BdoubleO100: 27904
+25: GoodTimeWithScar: 5726
+25: iJevin: 4760
+25: falsesymmetry: 4156
+25: Keralis1: 3694
+25: impulseSV: 3462
+25: Etho: 3201
+25: Xisuma: 2803
+25: PearlescentMoon: 2241
+25: cubfan135: 1335
+25: Skizzleman: 938
+25: ZombieCleo: 726
+25: xBCrafted: 703
+25: Smallishbeans: 383
+25: Grian: 380
+25: VintageBeef: 344
+25: Mumbo: 336
+25: Tango: 308
+25: Docm77: 217
+25: Renthedog: 209
+25: GeminiTay: 78
+25: hypnotizd: 52
+25: Welsknight: 4
+25: joehillssays: 3
+25: Zedaph: 1
+Total 63964

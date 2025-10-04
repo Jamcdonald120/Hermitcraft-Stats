@@ -1,0 +1,5 @@
+minecraft.dropped.cut_red_sandstone_slab
+3: Renthedog: 45
+3: Grian: 4
+3: ZombieCleo: 1
+Total 50

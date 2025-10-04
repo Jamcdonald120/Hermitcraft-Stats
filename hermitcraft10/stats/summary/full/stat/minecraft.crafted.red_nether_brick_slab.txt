@@ -1,0 +1,6 @@
+minecraft.crafted.red_nether_brick_slab
+4: GoodTimeWithScar: 64
+4: Xisuma: 2
+4: Welsknight: 2
+4: hypnotizd: 2
+Total 70

@@ -1,0 +1,26 @@
+minecraft.picked_up.jungle_planks
+24: PearlescentMoon: 2020
+24: ZombieCleo: 545
+24: falsesymmetry: 520
+24: Skizzleman: 518
+24: Grian: 511
+24: Xisuma: 374
+24: iJevin: 337
+24: GeminiTay: 326
+24: GoodTimeWithScar: 247
+24: cubfan135: 150
+24: Keralis1: 148
+24: Smallishbeans: 99
+24: Mumbo: 91
+24: Renthedog: 78
+24: Etho: 70
+24: BdoubleO100: 62
+24: Zedaph: 52
+24: Docm77: 49
+24: VintageBeef: 15
+24: joehillssays: 8
+24: Tango: 7
+24: xBCrafted: 3
+24: impulseSV: 3
+24: Welsknight: 1
+Total 6234

@@ -1,0 +1,4 @@
+minecraft.picked_up.golden_axe
+2: Xisuma: 3
+2: VintageBeef: 1
+Total 4

@@ -1,0 +1,28 @@
+minecraft.picked_up.andesite
+26: GoodTimeWithScar: 49638
+26: Renthedog: 40942
+26: falsesymmetry: 30780
+26: iskall85: 28729
+26: Xisuma: 22426
+26: Grian: 20856
+26: cubfan135: 20000
+26: Tinfoilchef: 17252
+26: Tango: 15744
+26: iJevin: 15364
+26: impulseSV: 12503
+26: Stressmonster101: 9956
+26: Welsknight: 8945
+26: Docm77: 8824
+26: MumboJumbo: 8130
+26: joehillssays: 7349
+26: BdoubleO100: 5820
+26: Zedaph: 3984
+26: ZombieCleo: 3736
+26: Biffa2001: 2487
+26: Keralis1: 2407
+26: xBCrafted: 700
+26: HumanCleo: 382
+26: PythonGB: 328
+26: Jessassin: 82
+26: Cub_Cam: 1
+Total 337365

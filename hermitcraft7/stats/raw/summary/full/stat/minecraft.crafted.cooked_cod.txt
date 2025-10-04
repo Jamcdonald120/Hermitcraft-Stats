@@ -1,0 +1,18 @@
+minecraft.crafted.cooked_cod
+16: impulseSV: 2031
+16: Tango: 994
+16: Renthedog: 195
+16: Keralis1: 71
+16: Grian: 66
+16: falsesymmetry: 59
+16: Zedaph: 55
+16: cubfan135: 39
+16: ZombieCleo: 31
+16: joehillssays: 13
+16: Stressmonster101: 12
+16: hypnotizd: 4
+16: iskall85: 3
+16: xBCrafted: 3
+16: Etho: 2
+16: GoodTimeWithScar: 1
+Total 3579

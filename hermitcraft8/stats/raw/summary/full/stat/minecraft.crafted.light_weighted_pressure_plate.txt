@@ -1,0 +1,7 @@
+minecraft.crafted.light_weighted_pressure_plate
+5: impulseSV: 147
+5: iJevin: 32
+5: cubfan135: 10
+5: Keralis1: 4
+5: Docm77: 2
+Total 195

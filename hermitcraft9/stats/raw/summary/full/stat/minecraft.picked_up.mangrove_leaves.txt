@@ -1,0 +1,21 @@
+minecraft.picked_up.mangrove_leaves
+19: RentheKing: 16577
+19: joehillssays: 14243
+19: PearlescentMoon: 9263
+19: GoodTimeWithScar: 8233
+19: Xisuma: 3305
+19: cubfan135: 3223
+19: impulseSV: 1495
+19: Etho: 712
+19: BdoubleO100: 680
+19: Docm77: 649
+19: Renthedog: 437
+19: Stressmonster101: 387
+19: Keralis1: 230
+19: Zedaph: 108
+19: xBCrafted: 101
+19: falsesymmetry: 95
+19: VintageBeef: 93
+19: Tango: 39
+19: iJevin: 22
+Total 59892

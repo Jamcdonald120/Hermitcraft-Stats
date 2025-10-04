@@ -1,0 +1,6 @@
+minecraft.mined.warped_door
+4: falsesymmetry: 16
+4: joehillssays: 2
+4: Smallishbeans: 2
+4: PearlescentMoon: 1
+Total 21

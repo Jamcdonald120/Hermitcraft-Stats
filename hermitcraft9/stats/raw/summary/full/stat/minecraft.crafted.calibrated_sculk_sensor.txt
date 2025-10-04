@@ -1,0 +1,10 @@
+minecraft.crafted.calibrated_sculk_sensor
+8: Tango: 111
+8: Etho: 64
+8: cubfan135: 30
+8: joehillssays: 5
+8: Docm77: 1
+8: GoodTimeWithScar: 1
+8: impulseSV: 1
+8: Zedaph: 1
+Total 214

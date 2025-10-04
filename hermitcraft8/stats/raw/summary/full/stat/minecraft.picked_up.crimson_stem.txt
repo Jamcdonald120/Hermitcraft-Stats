@@ -1,0 +1,25 @@
+minecraft.picked_up.crimson_stem
+23: impulseSV: 1727
+23: GoodTimeWithScar: 1335
+23: Xisuma: 1144
+23: MumboJumbo: 984
+23: Grian: 841
+23: iJevin: 453
+23: EvilXisuma: 244
+23: Renthedog: 226
+23: Tango: 135
+23: cubfan135: 63
+23: joehillssays: 38
+23: BdoubleO100: 34
+23: hypnotizd: 32
+23: xBCrafted: 24
+23: Docm77: 18
+23: ZombieCleo: 15
+23: Welsknight: 14
+23: Stressmonster101: 14
+23: Keralis1: 14
+23: VintageBeef: 12
+23: Zedaph: 5
+23: GeminiTay: 2
+23: PearlescentMoon: 2
+Total 7376

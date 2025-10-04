@@ -1,0 +1,14 @@
+minecraft.dropped.tuff_brick_slab
+12: Grian: 232
+12: Zedaph: 100
+12: VintageBeef: 64
+12: GoodTimeWithScar: 64
+12: Xisuma: 46
+12: falsesymmetry: 41
+12: Mumbo: 27
+12: Skizzleman: 12
+12: Tango: 4
+12: Etho: 4
+12: ZombieCleo: 2
+12: PearlescentMoon: 1
+Total 597

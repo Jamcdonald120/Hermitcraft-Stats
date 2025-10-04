@@ -1,0 +1,12 @@
+minecraft.dropped.spruce_stairs
+10: GoodTimeWithScar: 107
+10: Xisuma: 15
+10: Tango: 13
+10: BdoubleO100: 3
+10: MumboJumbo: 3
+10: Grian: 2
+10: Etho: 2
+10: iJevin: 1
+10: GeminiTay: 1
+10: hypnotizd: 1
+Total 148

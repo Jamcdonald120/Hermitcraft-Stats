@@ -1,0 +1,32 @@
+minecraft.dropped.compass
+30: GoodTimeWithScar: 461
+30: Keralis1: 275
+30: Renthedog: 250
+30: PearlescentMoon: 203
+30: Docm77: 201
+30: Etho: 177
+30: cubfan135: 173
+30: iJevin: 154
+30: GeminiTay: 146
+30: falsesymmetry: 112
+30: impulseSV: 112
+30: joehillssays: 110
+30: Grian: 106
+30: Tango: 106
+30: Xisuma: 98
+30: hypnotizd: 98
+30: iskall85: 96
+30: BdoubleO100: 73
+30: Zedaph: 73
+30: ZombieCleo: 61
+30: Mumbo: 31
+30: VintageBeef: 18
+30: InTheLittleWood: 10
+30: SolidarityGaming: 8
+30: xBCrafted: 5
+30: Stressmonster101: 5
+30: Smallishbeans: 3
+30: LDShadowLady: 3
+30: Minerva246: 2
+30: Skizzleman: 1
+Total 3171

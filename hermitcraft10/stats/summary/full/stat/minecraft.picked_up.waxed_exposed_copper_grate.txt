@@ -1,0 +1,9 @@
+minecraft.picked_up.waxed_exposed_copper_grate
+7: falsesymmetry: 118
+7: Xisuma: 97
+7: PearlescentMoon: 59
+7: BdoubleO100: 57
+7: impulseSV: 5
+7: GoodTimeWithScar: 4
+7: Renthedog: 3
+Total 343

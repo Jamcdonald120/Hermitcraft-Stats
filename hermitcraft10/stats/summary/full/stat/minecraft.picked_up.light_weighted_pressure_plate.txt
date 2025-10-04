@@ -1,0 +1,10 @@
+minecraft.picked_up.light_weighted_pressure_plate
+8: ZombieCleo: 53
+8: cubfan135: 37
+8: Skizzleman: 28
+8: PearlescentMoon: 27
+8: GoodTimeWithScar: 26
+8: Grian: 13
+8: Zedaph: 5
+8: Renthedog: 3
+Total 192

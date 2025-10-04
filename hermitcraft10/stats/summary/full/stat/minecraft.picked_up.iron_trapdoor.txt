@@ -1,0 +1,26 @@
+minecraft.picked_up.iron_trapdoor
+24: Renthedog: 511
+24: Xisuma: 392
+24: BdoubleO100: 237
+24: xBCrafted: 204
+24: cubfan135: 162
+24: Docm77: 140
+24: impulseSV: 129
+24: joehillssays: 117
+24: Tango: 77
+24: Keralis1: 76
+24: PearlescentMoon: 72
+24: Smallishbeans: 62
+24: GoodTimeWithScar: 53
+24: Grian: 35
+24: Mumbo: 19
+24: iJevin: 15
+24: Skizzleman: 14
+24: VintageBeef: 13
+24: Zedaph: 12
+24: Etho: 8
+24: falsesymmetry: 6
+24: hypnotizd: 4
+24: GeminiTay: 1
+24: ZombieCleo: 1
+Total 2360

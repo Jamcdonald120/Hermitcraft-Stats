@@ -1,0 +1,5 @@
+minecraft.custom.damage_dealt_absorbed
+3: Tinfoilchef: 949
+3: Xisuma: 80
+3: cubfan135: 80
+Total 1109

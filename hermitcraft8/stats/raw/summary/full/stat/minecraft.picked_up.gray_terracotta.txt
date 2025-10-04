@@ -1,0 +1,8 @@
+minecraft.picked_up.gray_terracotta
+6: hypnotizd: 31
+6: xBCrafted: 15
+6: GoodTimeWithScar: 10
+6: BdoubleO100: 4
+6: falsesymmetry: 4
+6: Etho: 1
+Total 65

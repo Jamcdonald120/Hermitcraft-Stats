@@ -1,0 +1,6 @@
+minecraft.dropped.purple_carpet
+4: GoodTimeWithScar: 30
+4: Renthedog: 6
+4: Xisuma: 4
+4: falsesymmetry: 1
+Total 41

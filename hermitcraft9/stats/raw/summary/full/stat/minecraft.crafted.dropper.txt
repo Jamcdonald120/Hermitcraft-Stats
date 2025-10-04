@@ -1,0 +1,28 @@
+minecraft.crafted.dropper
+26: Tango: 2132
+26: GoodTimeWithScar: 1543
+26: Pixlriffs: 1071
+26: cubfan135: 917
+26: Etho: 750
+26: Xisuma: 687
+26: Docm77: 599
+26: impulseSV: 466
+26: iskall85: 414
+26: ZombieCleo: 213
+26: Grian: 191
+26: Keralis1: 151
+26: Renthedog: 123
+26: falsesymmetry: 123
+26: Mumbo: 90
+26: iJevin: 88
+26: PearlescentMoon: 70
+26: hypnotizd: 69
+26: Zedaph: 68
+26: VintageBeef: 58
+26: BdoubleO100: 46
+26: xBCrafted: 36
+26: RentheKing: 6
+26: joehillssays: 5
+26: GeminiTay: 3
+26: OrionSound: 2
+Total 9921

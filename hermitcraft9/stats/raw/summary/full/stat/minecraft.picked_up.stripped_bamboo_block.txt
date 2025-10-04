@@ -1,0 +1,12 @@
+minecraft.picked_up.stripped_bamboo_block
+10: GoodTimeWithScar: 85
+10: cubfan135: 75
+10: Xisuma: 58
+10: Docm77: 24
+10: PearlescentMoon: 21
+10: Tango: 9
+10: Zedaph: 7
+10: Grian: 6
+10: xBCrafted: 6
+10: Keralis1: 6
+Total 297

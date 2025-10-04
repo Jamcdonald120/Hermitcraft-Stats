@@ -1,0 +1,14 @@
+minecraft.picked_up.cyan_dye
+12: falsesymmetry: 325
+12: Grian: 211
+12: PearlescentMoon: 206
+12: Zedaph: 195
+12: GoodTimeWithScar: 191
+12: Renthedog: 78
+12: impulseSV: 56
+12: cubfan135: 17
+12: ZombieCleo: 16
+12: Stressmonster101: 12
+12: Docm77: 2
+12: Etho: 1
+Total 1310

@@ -1,0 +1,23 @@
+minecraft.picked_up.red_tulip
+21: Renthedog: 458
+21: falsesymmetry: 388
+21: joehillssays: 238
+21: cubfan135: 204
+21: Grian: 164
+21: iskall85: 87
+21: Xisuma: 60
+21: Tango: 38
+21: PythonGB: 37
+21: Zedaph: 36
+21: BdoubleO100: 25
+21: Docm77: 15
+21: iJevin: 14
+21: GoodTimeWithScar: 13
+21: Stressmonster101: 10
+21: Biffa2001: 9
+21: Welsknight: 6
+21: MumboJumbo: 2
+21: ZombieCleo: 1
+21: PhoenixfireLune: 1
+21: impulseSV: 1
+Total 1807

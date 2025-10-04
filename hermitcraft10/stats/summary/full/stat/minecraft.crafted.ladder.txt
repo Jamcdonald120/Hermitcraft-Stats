@@ -1,0 +1,27 @@
+minecraft.crafted.ladder
+25: Etho: 3198
+25: cubfan135: 1209
+25: Xisuma: 870
+25: GoodTimeWithScar: 759
+25: iJevin: 627
+25: Renthedog: 615
+25: impulseSV: 565
+25: Docm77: 564
+25: joehillssays: 558
+25: Keralis1: 507
+25: ZombieCleo: 486
+25: Grian: 354
+25: falsesymmetry: 330
+25: Tango: 321
+25: PearlescentMoon: 276
+25: Skizzleman: 255
+25: Zedaph: 252
+25: Mumbo: 156
+25: Smallishbeans: 144
+25: hypnotizd: 135
+25: xBCrafted: 129
+25: VintageBeef: 117
+25: GeminiTay: 78
+25: BdoubleO100: 33
+25: Welsknight: 24
+Total 12562

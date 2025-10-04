@@ -1,0 +1,8 @@
+minecraft.picked_up.weathered_chiseled_copper
+6: Mumbo: 7
+6: impulseSV: 4
+6: Grian: 3
+6: falsesymmetry: 3
+6: ZombieCleo: 3
+6: hypnotizd: 1
+Total 21

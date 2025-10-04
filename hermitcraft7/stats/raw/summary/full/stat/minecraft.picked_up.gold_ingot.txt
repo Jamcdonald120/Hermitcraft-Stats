@@ -1,0 +1,26 @@
+minecraft.picked_up.gold_ingot
+24: cubfan135: 2470
+24: iskall85: 1580
+24: Tango: 1513
+24: iJevin: 1354
+24: VintageBeef: 1113
+24: Xisuma: 1082
+24: Renthedog: 1038
+24: Etho: 935
+24: Keralis1: 743
+24: Grian: 698
+24: impulseSV: 348
+24: joehillssays: 334
+24: Docm77: 282
+24: hypnotizd: 250
+24: GoodTimeWithScar: 226
+24: Zedaph: 158
+24: MumboJumbo: 116
+24: falsesymmetry: 71
+24: BdoubleO100: 24
+24: Stressmonster101: 18
+24: xBCrafted: 15
+24: ZombieCleo: 8
+24: Welsknight: 4
+24: HermitcraftAlt: 4
+Total 14384

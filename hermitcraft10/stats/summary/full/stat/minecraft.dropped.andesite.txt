@@ -1,0 +1,27 @@
+minecraft.dropped.andesite
+25: iJevin: 4045
+25: Zedaph: 3996
+25: xBCrafted: 2762
+25: Grian: 2619
+25: Xisuma: 2104
+25: falsesymmetry: 1746
+25: Etho: 1416
+25: BdoubleO100: 1202
+25: Docm77: 926
+25: impulseSV: 895
+25: PearlescentMoon: 786
+25: GoodTimeWithScar: 741
+25: Tango: 603
+25: cubfan135: 511
+25: Keralis1: 397
+25: Renthedog: 333
+25: Mumbo: 171
+25: Smallishbeans: 145
+25: ZombieCleo: 135
+25: GeminiTay: 117
+25: joehillssays: 109
+25: VintageBeef: 104
+25: Skizzleman: 83
+25: Welsknight: 64
+25: hypnotizd: 23
+Total 26033

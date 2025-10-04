@@ -1,0 +1,4 @@
+minecraft.dropped.cyan_candle
+2: ZombieCleo: 20
+2: Grian: 2
+Total 22

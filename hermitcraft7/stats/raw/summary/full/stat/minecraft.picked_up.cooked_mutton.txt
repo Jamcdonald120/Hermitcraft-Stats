@@ -1,0 +1,20 @@
+minecraft.picked_up.cooked_mutton
+18: VintageBeef: 1557
+18: Keralis1: 569
+18: hypnotizd: 329
+18: Grian: 274
+18: BdoubleO100: 190
+18: GoodTimeWithScar: 181
+18: cubfan135: 107
+18: Renthedog: 74
+18: Etho: 73
+18: joehillssays: 67
+18: Tango: 67
+18: Xisuma: 42
+18: iskall85: 38
+18: Zedaph: 23
+18: ZombieCleo: 14
+18: Docm77: 9
+18: falsesymmetry: 9
+18: xBCrafted: 1
+Total 3624

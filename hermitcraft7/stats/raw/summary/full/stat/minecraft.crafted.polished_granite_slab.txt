@@ -1,0 +1,14 @@
+minecraft.crafted.polished_granite_slab
+12: Tango: 254
+12: GoodTimeWithScar: 204
+12: xBCrafted: 90
+12: cubfan135: 60
+12: Xisuma: 42
+12: Keralis1: 36
+12: Grian: 30
+12: iskall85: 6
+12: Welsknight: 6
+12: Tinfoilchef: 6
+12: impulseSV: 6
+12: BdoubleO100: 2
+Total 742

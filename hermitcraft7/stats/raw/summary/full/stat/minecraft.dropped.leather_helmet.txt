@@ -1,0 +1,22 @@
+minecraft.dropped.leather_helmet
+20: Etho: 323
+20: Xisuma: 95
+20: Grian: 71
+20: VintageBeef: 29
+20: Renthedog: 25
+20: Stressmonster101: 25
+20: Keralis1: 23
+20: xBCrafted: 20
+20: cubfan135: 20
+20: hypnotizd: 13
+20: Tango: 10
+20: GoodTimeWithScar: 10
+20: impulseSV: 10
+20: iskall85: 7
+20: iJevin: 6
+20: Zedaph: 4
+20: Docm77: 3
+20: BdoubleO100: 2
+20: falsesymmetry: 2
+20: MumboJumbo: 1
+Total 699

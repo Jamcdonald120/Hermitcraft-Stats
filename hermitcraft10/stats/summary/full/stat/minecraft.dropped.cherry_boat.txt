@@ -1,0 +1,3 @@
+minecraft.dropped.cherry_boat
+1: Smallishbeans: 2
+Total 2

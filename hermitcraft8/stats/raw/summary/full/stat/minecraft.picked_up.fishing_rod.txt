@@ -1,0 +1,10 @@
+minecraft.picked_up.fishing_rod
+8: Etho: 13
+8: GoodTimeWithScar: 10
+8: hypnotizd: 7
+8: cubfan135: 6
+8: Docm77: 3
+8: joehillssays: 2
+8: xBCrafted: 1
+8: Zedaph: 1
+Total 43

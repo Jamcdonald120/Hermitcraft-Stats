@@ -1,0 +1,3 @@
+minecraft.crafted.exposed_cut_copper_stairs
+1: Renthedog: 20
+Total 20

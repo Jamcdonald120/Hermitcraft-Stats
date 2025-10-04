@@ -1,0 +1,8 @@
+minecraft.dropped.red_mushroom_block
+6: Grian: 706
+6: Mumbo: 163
+6: iJevin: 81
+6: Xisuma: 17
+6: Keralis1: 4
+6: Etho: 3
+Total 974

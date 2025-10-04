@@ -1,0 +1,25 @@
+minecraft.picked_up.anvil
+23: Zedaph: 519
+23: Grian: 257
+23: Keralis1: 251
+23: Etho: 154
+23: Tango: 152
+23: GoodTimeWithScar: 98
+23: Xisuma: 93
+23: cubfan135: 91
+23: impulseSV: 87
+23: iJevin: 68
+23: iskall85: 68
+23: Renthedog: 55
+23: BdoubleO100: 31
+23: VintageBeef: 29
+23: falsesymmetry: 28
+23: xBCrafted: 26
+23: Stressmonster101: 22
+23: MumboJumbo: 20
+23: hypnotizd: 19
+23: joehillssays: 15
+23: Welsknight: 7
+23: ZombieCleo: 6
+23: Docm77: 1
+Total 2097

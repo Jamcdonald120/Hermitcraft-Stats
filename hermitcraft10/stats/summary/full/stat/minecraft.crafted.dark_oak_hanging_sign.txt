@@ -1,0 +1,12 @@
+minecraft.crafted.dark_oak_hanging_sign
+10: falsesymmetry: 124
+10: Xisuma: 42
+10: iJevin: 18
+10: Smallishbeans: 18
+10: Docm77: 12
+10: Mumbo: 12
+10: cubfan135: 6
+10: Etho: 6
+10: hypnotizd: 6
+10: GoodTimeWithScar: 6
+Total 250

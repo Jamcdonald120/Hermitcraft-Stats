@@ -1,0 +1,31 @@
+minecraft.picked_up.leather_helmet
+29: joehillssays: 55
+29: Xisuma: 49
+29: cubfan135: 35
+29: iJevin: 26
+29: VintageBeef: 18
+29: Tango: 15
+29: Zedaph: 15
+29: PearlescentMoon: 13
+29: Etho: 9
+29: impulseSV: 9
+29: Docm77: 6
+29: falsesymmetry: 6
+29: BdoubleO100: 5
+29: GoodTimeWithScar: 5
+29: Grian: 4
+29: Keralis1: 4
+29: Renthedog: 3
+29: iskall85: 3
+29: Welsknight: 3
+29: hypnotizd: 3
+29: GeminiTay: 2
+29: xBCrafted: 2
+29: Mumbo: 2
+29: RentheKing: 2
+29: SolidarityGaming: 2
+29: OrionSound: 1
+29: ZombieCleo: 1
+29: MumboJumbo: 1
+29: Stressmonster101: 1
+Total 300

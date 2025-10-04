@@ -1,0 +1,6 @@
+minecraft.dropped.yellow_bed
+4: GoodTimeWithScar: 3
+4: Tango: 2
+4: impulseSV: 2
+4: falsesymmetry: 1
+Total 8

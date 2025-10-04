@@ -1,0 +1,25 @@
+minecraft.picked_up.dropper
+23: Etho: 925
+23: Tango: 561
+23: Docm77: 316
+23: cubfan135: 220
+23: Xisuma: 205
+23: ZombieCleo: 192
+23: impulseSV: 118
+23: iJevin: 116
+23: Mumbo: 87
+23: GoodTimeWithScar: 78
+23: Zedaph: 75
+23: Grian: 56
+23: PearlescentMoon: 54
+23: BdoubleO100: 50
+23: Keralis1: 45
+23: xBCrafted: 42
+23: Skizzleman: 34
+23: Smallishbeans: 31
+23: Renthedog: 16
+23: falsesymmetry: 13
+23: hypnotizd: 11
+23: joehillssays: 3
+23: Welsknight: 2
+Total 3250

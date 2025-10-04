@@ -1,0 +1,8 @@
+minecraft.crafted.eye_armor_trim_smithing_template
+6: iJevin: 4
+6: falsesymmetry: 4
+6: cubfan135: 4
+6: impulseSV: 4
+6: GoodTimeWithScar: 2
+6: Zedaph: 2
+Total 20

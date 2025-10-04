@@ -1,0 +1,25 @@
+minecraft.crafted.note_block
+23: Etho: 1882
+23: Docm77: 941
+23: cubfan135: 442
+23: iJevin: 307
+23: Tango: 307
+23: Xisuma: 290
+23: Smallishbeans: 256
+23: PearlescentMoon: 179
+23: impulseSV: 158
+23: BdoubleO100: 131
+23: Mumbo: 93
+23: Grian: 77
+23: GoodTimeWithScar: 71
+23: hypnotizd: 64
+23: Renthedog: 50
+23: Skizzleman: 48
+23: GeminiTay: 38
+23: falsesymmetry: 35
+23: joehillssays: 33
+23: Keralis1: 17
+23: xBCrafted: 6
+23: Zedaph: 3
+23: ZombieCleo: 2
+Total 5430

@@ -1,0 +1,10 @@
+minecraft.dropped.brewing_stand
+8: Zedaph: 134
+8: cubfan135: 11
+8: Etho: 5
+8: GoodTimeWithScar: 5
+8: Grian: 4
+8: Xisuma: 3
+8: Tango: 2
+8: impulseSV: 1
+Total 165

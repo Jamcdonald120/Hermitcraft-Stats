@@ -1,0 +1,22 @@
+minecraft.dropped.white_carpet
+20: VintageBeef: 442
+20: GoodTimeWithScar: 201
+20: iJevin: 171
+20: iskall85: 161
+20: Keralis1: 143
+20: cubfan135: 126
+20: falsesymmetry: 70
+20: joehillssays: 64
+20: Tango: 46
+20: MumboJumbo: 16
+20: Xisuma: 13
+20: Docm77: 12
+20: Zedaph: 6
+20: BdoubleO100: 3
+20: xBCrafted: 3
+20: Etho: 3
+20: hypnotizd: 3
+20: impulseSV: 3
+20: Renthedog: 2
+20: Grian: 1
+Total 1489

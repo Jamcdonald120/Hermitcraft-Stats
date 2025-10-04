@@ -1,0 +1,5 @@
+minecraft.dropped.cooked_rabbit
+3: Smallishbeans: 18
+3: iJevin: 4
+3: GoodTimeWithScar: 1
+Total 23

@@ -1,0 +1,24 @@
+minecraft.mined.nether_brick_slab
+22: Tango: 1294
+22: impulseSV: 738
+22: Etho: 430
+22: Grian: 298
+22: joehillssays: 263
+22: cubfan135: 218
+22: falsesymmetry: 177
+22: Stressmonster101: 139
+22: Xisuma: 134
+22: Keralis1: 101
+22: VintageBeef: 99
+22: xBCrafted: 59
+22: iskall85: 35
+22: Docm77: 30
+22: BdoubleO100: 21
+22: iJevin: 17
+22: hypnotizd: 9
+22: ZombieCleo: 6
+22: Renthedog: 3
+22: Welsknight: 2
+22: GoodTimeWithScar: 2
+22: Zedaph: 1
+Total 4076

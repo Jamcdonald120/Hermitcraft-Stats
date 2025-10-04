@@ -1,0 +1,25 @@
+minecraft.crafted.stone_axe
+23: impulseSV: 139
+23: MumboJumbo: 52
+23: Grian: 34
+23: Stressmonster101: 30
+23: iskall85: 12
+23: joehillssays: 10
+23: Etho: 10
+23: hypnotizd: 10
+23: Tinfoilchef: 7
+23: BdoubleO100: 6
+23: VintageBeef: 5
+23: Renthedog: 4
+23: ZombieCleo: 4
+23: Xisuma: 3
+23: iJevin: 3
+23: falsesymmetry: 3
+23: cubfan135: 3
+23: xBCrafted: 2
+23: GoodTimeWithScar: 2
+23: Zedaph: 2
+23: Docm77: 1
+23: Tango: 1
+23: Keralis1: 1
+Total 344

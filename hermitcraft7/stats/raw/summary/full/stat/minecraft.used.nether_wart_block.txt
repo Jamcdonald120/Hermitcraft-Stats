@@ -1,0 +1,22 @@
+minecraft.used.nether_wart_block
+20: Tango: 7553
+20: Xisuma: 2251
+20: Etho: 1277
+20: cubfan135: 887
+20: Keralis1: 516
+20: impulseSV: 504
+20: joehillssays: 413
+20: xBCrafted: 404
+20: Renthedog: 213
+20: GoodTimeWithScar: 179
+20: Grian: 151
+20: Stressmonster101: 64
+20: iskall85: 63
+20: hypnotizd: 57
+20: Zedaph: 51
+20: iJevin: 31
+20: ZombieCleo: 28
+20: VintageBeef: 25
+20: MumboJumbo: 8
+20: BdoubleO100: 4
+Total 14679

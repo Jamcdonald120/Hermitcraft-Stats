@@ -1,0 +1,25 @@
+minecraft.picked_up.iron_sword
+23: Tango: 38
+23: Xisuma: 31
+23: GoodTimeWithScar: 20
+23: ZombieCleo: 11
+23: PearlescentMoon: 10
+23: joehillssays: 9
+23: Renthedog: 8
+23: Welsknight: 7
+23: impulseSV: 7
+23: Zedaph: 7
+23: Grian: 5
+23: Keralis1: 5
+23: cubfan135: 4
+23: iJevin: 3
+23: BdoubleO100: 3
+23: falsesymmetry: 3
+23: VintageBeef: 2
+23: GeminiTay: 2
+23: Tinfoilchef: 2
+23: Docm77: 1
+23: iskall85: 1
+23: xBCrafted: 1
+23: Etho: 1
+Total 181

@@ -1,0 +1,8 @@
+minecraft.dropped.jungle_sign
+6: GoodTimeWithScar: 36
+6: PearlescentMoon: 15
+6: iJevin: 10
+6: Renthedog: 1
+6: Grian: 1
+6: Keralis1: 1
+Total 64

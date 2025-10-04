@@ -1,0 +1,5 @@
+minecraft.mined.cut_red_sandstone_slab
+3: BdoubleO100: 16
+3: joehillssays: 1
+3: GoodTimeWithScar: 1
+Total 18

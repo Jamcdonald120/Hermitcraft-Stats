@@ -1,0 +1,21 @@
+minecraft.picked_up.purpur_stairs
+19: PearlescentMoon: 669
+19: Smallishbeans: 495
+19: Etho: 318
+19: iJevin: 257
+19: GoodTimeWithScar: 50
+19: VintageBeef: 49
+19: impulseSV: 42
+19: Xisuma: 31
+19: Zedaph: 27
+19: Renthedog: 24
+19: cubfan135: 22
+19: Mumbo: 12
+19: falsesymmetry: 10
+19: hypnotizd: 10
+19: joehillssays: 9
+19: Docm77: 6
+19: Grian: 4
+19: ZombieCleo: 4
+19: Keralis1: 1
+Total 2040

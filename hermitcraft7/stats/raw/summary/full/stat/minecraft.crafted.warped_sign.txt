@@ -1,0 +1,17 @@
+minecraft.crafted.warped_sign
+15: GoodTimeWithScar: 141
+15: Renthedog: 111
+15: Xisuma: 81
+15: iJevin: 60
+15: Etho: 42
+15: Grian: 33
+15: cubfan135: 30
+15: falsesymmetry: 18
+15: VintageBeef: 6
+15: joehillssays: 6
+15: Keralis1: 6
+15: impulseSV: 6
+15: Tango: 3
+15: BdoubleO100: 3
+15: Stressmonster101: 3
+Total 549

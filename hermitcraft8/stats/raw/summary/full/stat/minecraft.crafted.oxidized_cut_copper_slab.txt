@@ -1,0 +1,12 @@
+minecraft.crafted.oxidized_cut_copper_slab
+10: GoodTimeWithScar: 512
+10: Docm77: 124
+10: MumboJumbo: 96
+10: Grian: 42
+10: Renthedog: 26
+10: Etho: 18
+10: Tango: 16
+10: BdoubleO100: 6
+10: cubfan135: 6
+10: impulseSV: 2
+Total 848

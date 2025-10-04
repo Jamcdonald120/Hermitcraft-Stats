@@ -1,0 +1,14 @@
+minecraft.picked_up.brick_wall
+12: Xisuma: 44
+12: PearlescentMoon: 37
+12: Etho: 31
+12: Skizzleman: 23
+12: falsesymmetry: 16
+12: Tango: 12
+12: VintageBeef: 5
+12: Grian: 2
+12: Mumbo: 2
+12: Zedaph: 2
+12: Docm77: 1
+12: GeminiTay: 1
+Total 176

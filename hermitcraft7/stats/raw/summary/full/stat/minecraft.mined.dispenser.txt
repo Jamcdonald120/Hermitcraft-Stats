@@ -1,0 +1,25 @@
+minecraft.mined.dispenser
+23: impulseSV: 185
+23: cubfan135: 184
+23: Tango: 167
+23: BdoubleO100: 135
+23: GoodTimeWithScar: 122
+23: joehillssays: 114
+23: VintageBeef: 111
+23: iskall85: 108
+23: MumboJumbo: 100
+23: Etho: 91
+23: Xisuma: 65
+23: Grian: 64
+23: iJevin: 49
+23: Zedaph: 44
+23: Keralis1: 39
+23: Renthedog: 25
+23: Stressmonster101: 23
+23: falsesymmetry: 18
+23: xBCrafted: 17
+23: Docm77: 8
+23: ZombieCleo: 3
+23: hypnotizd: 3
+23: Welsknight: 2
+Total 1677

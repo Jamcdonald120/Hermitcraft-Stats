@@ -1,0 +1,24 @@
+minecraft.custom.interact_with_brewingstand
+22: cubfan135: 3611
+22: iJevin: 1502
+22: Docm77: 712
+22: falsesymmetry: 604
+22: impulseSV: 511
+22: Xisuma: 363
+22: joehillssays: 361
+22: Tango: 356
+22: GoodTimeWithScar: 290
+22: iskall85: 250
+22: Stressmonster101: 203
+22: Zedaph: 180
+22: ZombieCleo: 131
+22: Tinfoilchef: 62
+22: MumboJumbo: 59
+22: Grian: 42
+22: BdoubleO100: 38
+22: PythonGB: 33
+22: Biffa2001: 27
+22: Renthedog: 24
+22: HumanCleo: 10
+22: Welsknight: 7
+Total 9376

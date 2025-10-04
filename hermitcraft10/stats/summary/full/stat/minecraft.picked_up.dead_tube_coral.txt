@@ -1,0 +1,5 @@
+minecraft.picked_up.dead_tube_coral
+3: Renthedog: 26
+3: GoodTimeWithScar: 18
+3: falsesymmetry: 1
+Total 45

@@ -1,0 +1,21 @@
+minecraft.crafted.raw_gold_block
+19: cubfan135: 2534
+19: GoodTimeWithScar: 816
+19: Etho: 164
+19: Smallishbeans: 99
+19: VintageBeef: 64
+19: xBCrafted: 53
+19: iJevin: 43
+19: ZombieCleo: 31
+19: Mumbo: 30
+19: Welsknight: 21
+19: hypnotizd: 20
+19: PearlescentMoon: 19
+19: Keralis1: 18
+19: joehillssays: 15
+19: Renthedog: 10
+19: impulseSV: 7
+19: Xisuma: 3
+19: GeminiTay: 1
+19: falsesymmetry: 1
+Total 3949

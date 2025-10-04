@@ -1,0 +1,21 @@
+minecraft.picked_up.warped_stairs
+19: ZombieCleo: 403
+19: Mumbo: 181
+19: GoodTimeWithScar: 161
+19: impulseSV: 95
+19: OrionSound: 92
+19: STEAKFG: 84
+19: falsesymmetry: 54
+19: Xisuma: 47
+19: PearlescentMoon: 34
+19: Tango: 31
+19: Stressmonster101: 21
+19: Smajor1995: 16
+19: Smallishbeans: 12
+19: cubfan135: 12
+19: Zedaph: 6
+19: BdoubleO100: 5
+19: Keralis1: 5
+19: Grian: 3
+19: xBCrafted: 1
+Total 1263

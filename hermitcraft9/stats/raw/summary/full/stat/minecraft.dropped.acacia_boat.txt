@@ -1,0 +1,10 @@
+minecraft.dropped.acacia_boat
+8: Etho: 18
+8: iJevin: 3
+8: hypnotizd: 2
+8: Xisuma: 1
+8: Grian: 1
+8: falsesymmetry: 1
+8: ZombieCleo: 1
+8: impulseSV: 1
+Total 28

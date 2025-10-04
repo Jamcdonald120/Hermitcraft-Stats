@@ -1,0 +1,21 @@
+minecraft.picked_up.netherite_chestplate
+19: PearlescentMoon: 16
+19: hypnotizd: 13
+19: Xisuma: 8
+19: impulseSV: 8
+19: Docm77: 5
+19: Grian: 5
+19: xBCrafted: 5
+19: Skizzleman: 4
+19: cubfan135: 4
+19: Etho: 3
+19: aimsey: 3
+19: GeminiTay: 2
+19: Keralis1: 2
+19: OrionSound: 1
+19: iJevin: 1
+19: Smallishbeans: 1
+19: falsesymmetry: 1
+19: ZombieCleo: 1
+19: Mumbo: 1
+Total 84

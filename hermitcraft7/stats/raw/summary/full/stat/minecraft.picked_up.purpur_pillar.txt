@@ -1,0 +1,22 @@
+minecraft.picked_up.purpur_pillar
+20: falsesymmetry: 937
+20: impulseSV: 630
+20: GoodTimeWithScar: 294
+20: Tango: 232
+20: Etho: 204
+20: iJevin: 179
+20: Xisuma: 149
+20: Keralis1: 139
+20: iskall85: 70
+20: cubfan135: 60
+20: MumboJumbo: 54
+20: VintageBeef: 31
+20: Renthedog: 28
+20: Zedaph: 16
+20: Grian: 10
+20: hypnotizd: 9
+20: xBCrafted: 7
+20: BdoubleO100: 5
+20: joehillssays: 3
+20: Docm77: 2
+Total 3059

@@ -1,0 +1,30 @@
+minecraft.picked_up.spruce_planks
+28: iJevin: 4282
+28: joehillssays: 2866
+28: Grian: 2667
+28: PearlescentMoon: 2042
+28: ZombieCleo: 1518
+28: GoodTimeWithScar: 1264
+28: falsesymmetry: 969
+28: GeminiTay: 949
+28: cubfan135: 949
+28: VintageBeef: 853
+28: BdoubleO100: 558
+28: Docm77: 537
+28: Xisuma: 454
+28: Welsknight: 346
+28: Tango: 329
+28: Keralis1: 329
+28: Etho: 236
+28: Smallishbeans: 228
+28: Renthedog: 211
+28: Mumbo: 187
+28: xBCrafted: 115
+28: Skizzleman: 70
+28: OrionSound: 61
+28: SolidarityGaming: 61
+28: impulseSV: 50
+28: hypnotizd: 27
+28: Zedaph: 27
+28: InTheLittleWood: 10
+Total 22195

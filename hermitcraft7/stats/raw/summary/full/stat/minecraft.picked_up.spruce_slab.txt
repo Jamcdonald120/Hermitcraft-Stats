@@ -1,0 +1,26 @@
+minecraft.picked_up.spruce_slab
+24: Renthedog: 3462
+24: Zedaph: 3160
+24: GoodTimeWithScar: 3130
+24: MumboJumbo: 1993
+24: Grian: 1828
+24: xBCrafted: 1568
+24: Etho: 1229
+24: Keralis1: 1226
+24: falsesymmetry: 815
+24: cubfan135: 539
+24: Xisuma: 408
+24: iskall85: 371
+24: Tango: 369
+24: impulseSV: 299
+24: BdoubleO100: 236
+24: Stressmonster101: 227
+24: joehillssays: 184
+24: hypnotizd: 179
+24: Welsknight: 144
+24: Docm77: 135
+24: VintageBeef: 78
+24: ZombieCleo: 61
+24: iJevin: 27
+24: BarryBoss1234: 12
+Total 21680

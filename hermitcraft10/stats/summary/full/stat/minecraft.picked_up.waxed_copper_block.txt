@@ -1,0 +1,21 @@
+minecraft.picked_up.waxed_copper_block
+19: GoodTimeWithScar: 2445
+19: cubfan135: 2009
+19: Tango: 1624
+19: impulseSV: 1289
+19: Docm77: 899
+19: Xisuma: 826
+19: Grian: 396
+19: PearlescentMoon: 352
+19: joehillssays: 204
+19: iJevin: 182
+19: Renthedog: 170
+19: Etho: 156
+19: Skizzleman: 97
+19: Mumbo: 85
+19: GeminiTay: 64
+19: Smallishbeans: 62
+19: falsesymmetry: 38
+19: xBCrafted: 27
+19: Keralis1: 24
+Total 10949

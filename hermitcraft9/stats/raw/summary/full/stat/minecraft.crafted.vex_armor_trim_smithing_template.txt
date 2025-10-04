@@ -1,0 +1,8 @@
+minecraft.crafted.vex_armor_trim_smithing_template
+6: iJevin: 20
+6: cubfan135: 14
+6: Tango: 10
+6: impulseSV: 6
+6: falsesymmetry: 4
+6: Zedaph: 2
+Total 56

@@ -1,0 +1,14 @@
+minecraft.dropped.light_gray_stained_glass_pane
+12: BdoubleO100: 100
+12: iJevin: 46
+12: GoodTimeWithScar: 41
+12: Tango: 31
+12: Etho: 21
+12: cubfan135: 20
+12: PearlescentMoon: 3
+12: Mumbo: 3
+12: Xisuma: 2
+12: ZombieCleo: 2
+12: Renthedog: 1
+12: Grian: 1
+Total 271

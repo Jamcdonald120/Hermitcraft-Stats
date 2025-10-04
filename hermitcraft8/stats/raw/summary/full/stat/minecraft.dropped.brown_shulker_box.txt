@@ -1,0 +1,3 @@
+minecraft.dropped.brown_shulker_box
+1: PearlescentMoon: 1
+Total 1

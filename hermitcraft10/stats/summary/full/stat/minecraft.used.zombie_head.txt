@@ -1,0 +1,3 @@
+minecraft.used.zombie_head
+1: GoodTimeWithScar: 2
+Total 2

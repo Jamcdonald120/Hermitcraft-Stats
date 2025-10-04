@@ -1,0 +1,9 @@
+minecraft.picked_up.gray_bundle
+7: BdoubleO100: 9
+7: Etho: 3
+7: GoodTimeWithScar: 2
+7: Renthedog: 1
+7: iJevin: 1
+7: cubfan135: 1
+7: ZombieCleo: 1
+Total 18

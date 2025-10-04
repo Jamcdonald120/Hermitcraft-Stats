@@ -1,0 +1,25 @@
+minecraft.picked_up.stone_sword
+23: iJevin: 284
+23: Grian: 69
+23: Zedaph: 19
+23: GoodTimeWithScar: 13
+23: Docm77: 11
+23: Renthedog: 11
+23: iskall85: 10
+23: cubfan135: 10
+23: xBCrafted: 9
+23: PearlescentMoon: 7
+23: VintageBeef: 6
+23: Welsknight: 6
+23: joehillssays: 5
+23: falsesymmetry: 5
+23: hypnotizd: 5
+23: Xisuma: 4
+23: ZombieCleo: 4
+23: Etho: 3
+23: GeminiTay: 1
+23: Tango: 1
+23: BdoubleO100: 1
+23: MumboJumbo: 1
+23: impulseSV: 1
+Total 486

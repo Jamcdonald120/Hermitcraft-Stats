@@ -1,0 +1,24 @@
+minecraft.dropped.porkchop
+22: Tango: 19230
+22: iJevin: 546
+22: PearlescentMoon: 119
+22: hypnotizd: 76
+22: cubfan135: 39
+22: Renthedog: 37
+22: xBCrafted: 26
+22: Etho: 24
+22: Docm77: 22
+22: Skizzleman: 22
+22: Zedaph: 22
+22: falsesymmetry: 19
+22: Grian: 18
+22: Xisuma: 14
+22: BdoubleO100: 12
+22: impulseSV: 10
+22: GoodTimeWithScar: 9
+22: joehillssays: 6
+22: GeminiTay: 4
+22: Mumbo: 4
+22: Keralis1: 3
+22: Smallishbeans: 2
+Total 20264

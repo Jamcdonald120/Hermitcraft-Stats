@@ -1,0 +1,18 @@
+minecraft.crafted.name_tag
+16: Renthedog: 248
+16: cubfan135: 118
+16: iskall85: 101
+16: impulseSV: 85
+16: falsesymmetry: 48
+16: MumboJumbo: 26
+16: Grian: 21
+16: ZombieCleo: 18
+16: Docm77: 16
+16: GoodTimeWithScar: 13
+16: iJevin: 7
+16: joehillssays: 6
+16: Tango: 3
+16: Tinfoilchef: 3
+16: Zedaph: 3
+16: PythonGB: 2
+Total 718

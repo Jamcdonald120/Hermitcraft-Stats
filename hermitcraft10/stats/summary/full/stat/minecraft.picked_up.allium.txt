@@ -1,0 +1,21 @@
+minecraft.picked_up.allium
+19: Etho: 3869
+19: iJevin: 674
+19: PearlescentMoon: 458
+19: GoodTimeWithScar: 352
+19: Smallishbeans: 305
+19: Xisuma: 132
+19: Mumbo: 111
+19: cubfan135: 64
+19: ZombieCleo: 27
+19: BdoubleO100: 22
+19: falsesymmetry: 21
+19: GeminiTay: 15
+19: VintageBeef: 12
+19: Tango: 9
+19: Docm77: 7
+19: Grian: 6
+19: Skizzleman: 4
+19: impulseSV: 3
+19: Renthedog: 1
+Total 6092

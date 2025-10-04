@@ -1,0 +1,19 @@
+minecraft.picked_up.cherry_planks
+17: VintageBeef: 297
+17: GoodTimeWithScar: 210
+17: Skizzleman: 177
+17: Docm77: 163
+17: Smallishbeans: 76
+17: Grian: 72
+17: Keralis1: 66
+17: hypnotizd: 59
+17: PearlescentMoon: 49
+17: cubfan135: 42
+17: BdoubleO100: 38
+17: Mumbo: 22
+17: Etho: 16
+17: falsesymmetry: 4
+17: impulseSV: 4
+17: ZombieCleo: 3
+17: Xisuma: 1
+Total 1299

@@ -1,0 +1,16 @@
+minecraft.crafted.cut_copper
+14: impulseSV: 335
+14: cubfan135: 320
+14: PearlescentMoon: 128
+14: GoodTimeWithScar: 127
+14: Renthedog: 96
+14: GeminiTay: 92
+14: Xisuma: 72
+14: Tango: 64
+14: Welsknight: 64
+14: Keralis1: 48
+14: joehillssays: 20
+14: xBCrafted: 8
+14: Grian: 4
+14: BdoubleO100: 1
+Total 1379

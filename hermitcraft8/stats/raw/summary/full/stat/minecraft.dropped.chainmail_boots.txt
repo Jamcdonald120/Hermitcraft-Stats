@@ -1,0 +1,18 @@
+minecraft.dropped.chainmail_boots
+16: Tango: 21
+16: Xisuma: 18
+16: Grian: 18
+16: GoodTimeWithScar: 16
+16: hypnotizd: 6
+16: iskall85: 5
+16: impulseSV: 5
+16: iJevin: 4
+16: Etho: 4
+16: Docm77: 3
+16: PearlescentMoon: 3
+16: xBCrafted: 2
+16: falsesymmetry: 2
+16: cubfan135: 2
+16: Stressmonster101: 2
+16: Zedaph: 2
+Total 113

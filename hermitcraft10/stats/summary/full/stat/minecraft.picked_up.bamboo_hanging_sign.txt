@@ -1,0 +1,13 @@
+minecraft.picked_up.bamboo_hanging_sign
+11: GoodTimeWithScar: 28
+11: PearlescentMoon: 21
+11: cubfan135: 18
+11: BdoubleO100: 14
+11: falsesymmetry: 11
+11: Mumbo: 5
+11: impulseSV: 5
+11: ZombieCleo: 4
+11: Skizzleman: 2
+11: GeminiTay: 1
+11: Tango: 1
+Total 110

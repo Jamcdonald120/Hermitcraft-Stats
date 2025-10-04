@@ -1,0 +1,6 @@
+minecraft.picked_up.wooden_shovel
+4: BdoubleO100: 6
+4: Welsknight: 1
+4: ZombieCleo: 1
+4: GoodTimeWithScar: 1
+Total 9

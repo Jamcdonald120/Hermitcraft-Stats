@@ -1,0 +1,27 @@
+minecraft.dropped.chest
+25: iJevin: 543
+25: falsesymmetry: 168
+25: Zedaph: 136
+25: Tango: 101
+25: Grian: 72
+25: impulseSV: 41
+25: PearlescentMoon: 40
+25: Renthedog: 32
+25: Keralis1: 30
+25: cubfan135: 29
+25: GoodTimeWithScar: 29
+25: BdoubleO100: 24
+25: Etho: 24
+25: Xisuma: 19
+25: joehillssays: 15
+25: GeminiTay: 10
+25: iskall85: 10
+25: xBCrafted: 6
+25: Stressmonster101: 6
+25: Mumbo: 5
+25: hypnotizd: 3
+25: SolidarityGaming: 3
+25: MythicalSausage: 2
+25: Docm77: 1
+25: ZombieCleo: 1
+Total 1350

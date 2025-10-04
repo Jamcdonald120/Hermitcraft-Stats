@@ -1,0 +1,7 @@
+minecraft.picked_up.light_blue_banner
+5: Xisuma: 4
+5: Renthedog: 3
+5: Zedaph: 3
+5: PearlescentMoon: 1
+5: cubfan135: 1
+Total 12

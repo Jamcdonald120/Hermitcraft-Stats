@@ -1,0 +1,9 @@
+minecraft.dropped.purple_wool
+7: iJevin: 759
+7: Tango: 462
+7: falsesymmetry: 389
+7: VintageBeef: 135
+7: PearlescentMoon: 37
+7: impulseSV: 32
+7: GoodTimeWithScar: 1
+Total 1815

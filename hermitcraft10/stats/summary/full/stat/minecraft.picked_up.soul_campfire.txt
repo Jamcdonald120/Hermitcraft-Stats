@@ -1,0 +1,11 @@
+minecraft.picked_up.soul_campfire
+9: Renthedog: 23
+9: Xisuma: 14
+9: cubfan135: 7
+9: Etho: 5
+9: GoodTimeWithScar: 5
+9: xBCrafted: 4
+9: Grian: 2
+9: falsesymmetry: 2
+9: VintageBeef: 1
+Total 63

@@ -1,0 +1,18 @@
+minecraft.crafted.quartz_pillar
+16: impulseSV: 16945
+16: Keralis1: 12417
+16: Grian: 10632
+16: GoodTimeWithScar: 986
+16: Etho: 526
+16: cubfan135: 476
+16: Docm77: 224
+16: BdoubleO100: 190
+16: xBCrafted: 180
+16: iskall85: 92
+16: Tango: 76
+16: Xisuma: 64
+16: ZombieCleo: 54
+16: Zedaph: 41
+16: falsesymmetry: 32
+16: VintageBeef: 2
+Total 42937

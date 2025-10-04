@@ -1,0 +1,32 @@
+minecraft.picked_up.bone
+30: Xisuma: 22377
+30: iskall85: 20467
+30: iJevin: 6987
+30: impulseSV: 3783
+30: cubfan135: 3625
+30: Biffa2001: 3445
+30: Grian: 3117
+30: Tango: 2459
+30: joehillssays: 2091
+30: GoodTimeWithScar: 1931
+30: Welsknight: 1748
+30: ZombieCleo: 1748
+30: Zedaph: 1732
+30: PythonGB: 1672
+30: Renthedog: 1358
+30: Docm77: 1075
+30: MumboJumbo: 1015
+30: falsesymmetry: 698
+30: Stressmonster101: 635
+30: Tinfoilchef: 448
+30: Keralis1: 157
+30: BdoubleO100: 139
+30: xBCrafted: 96
+30: HumanCleo: 41
+30: Duke_da_dog: 30
+30: Jessassin: 20
+30: Jura_Whitey: 13
+30: Cub_Cam: 13
+30: EvilXisuma: 9
+30: tterrag: 3
+Total 82932

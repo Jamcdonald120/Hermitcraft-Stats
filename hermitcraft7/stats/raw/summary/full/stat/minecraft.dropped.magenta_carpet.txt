@@ -1,0 +1,8 @@
+minecraft.dropped.magenta_carpet
+6: GoodTimeWithScar: 11
+6: MumboJumbo: 8
+6: Etho: 5
+6: BdoubleO100: 2
+6: Keralis1: 2
+6: Tango: 1
+Total 29

@@ -1,0 +1,9 @@
+minecraft.crafted.furnace_minecart
+7: impulseSV: 21
+7: iskall85: 11
+7: Grian: 10
+7: iJevin: 6
+7: GoodTimeWithScar: 3
+7: Xisuma: 1
+7: PearlescentMoon: 1
+Total 53

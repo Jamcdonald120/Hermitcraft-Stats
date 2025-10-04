@@ -1,0 +1,12 @@
+minecraft.dropped.beetroot_seeds
+10: Zedaph: 2985
+10: Tango: 73
+10: Grian: 21
+10: Xisuma: 9
+10: BdoubleO100: 8
+10: GeminiTay: 6
+10: PearlescentMoon: 4
+10: impulseSV: 4
+10: iJevin: 2
+10: hypnotizd: 1
+Total 3113

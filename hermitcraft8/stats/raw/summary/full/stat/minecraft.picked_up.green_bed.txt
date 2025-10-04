@@ -1,0 +1,9 @@
+minecraft.picked_up.green_bed
+7: BdoubleO100: 122
+7: Grian: 43
+7: iJevin: 30
+7: MumboJumbo: 14
+7: PearlescentMoon: 3
+7: Keralis1: 3
+7: impulseSV: 1
+Total 216

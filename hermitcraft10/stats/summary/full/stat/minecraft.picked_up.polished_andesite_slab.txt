@@ -1,0 +1,19 @@
+minecraft.picked_up.polished_andesite_slab
+17: impulseSV: 698
+17: BdoubleO100: 513
+17: GoodTimeWithScar: 332
+17: PearlescentMoon: 64
+17: Docm77: 50
+17: Tango: 46
+17: Mumbo: 33
+17: Xisuma: 27
+17: joehillssays: 26
+17: Smallishbeans: 24
+17: xBCrafted: 20
+17: falsesymmetry: 18
+17: cubfan135: 18
+17: Keralis1: 18
+17: Grian: 9
+17: GeminiTay: 2
+17: Zedaph: 2
+Total 1900

@@ -1,0 +1,9 @@
+minecraft.dropped.mud_brick_stairs
+7: Keralis1: 49
+7: iJevin: 24
+7: Zedaph: 15
+7: impulseSV: 14
+7: Grian: 6
+7: Etho: 6
+7: cubfan135: 4
+Total 118

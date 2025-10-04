@@ -1,0 +1,26 @@
+minecraft.picked_up.clay
+24: PearlescentMoon: 10188
+24: Zedaph: 6683
+24: Docm77: 5320
+24: BdoubleO100: 5173
+24: Tango: 5119
+24: iskall85: 3073
+24: Keralis1: 2843
+24: VintageBeef: 2544
+24: cubfan135: 2521
+24: xBCrafted: 2079
+24: Etho: 1461
+24: hypnotizd: 960
+24: Stressmonster101: 742
+24: Xisuma: 637
+24: iJevin: 542
+24: GoodTimeWithScar: 466
+24: impulseSV: 318
+24: Grian: 279
+24: Renthedog: 269
+24: falsesymmetry: 244
+24: joehillssays: 220
+24: ZombieCleo: 3
+24: GeminiTay: 2
+24: Smallishbeans: 2
+Total 51688

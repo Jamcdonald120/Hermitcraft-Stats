@@ -1,0 +1,11 @@
+minecraft.dropped.light_blue_stained_glass
+9: impulseSV: 226
+9: Tango: 77
+9: MumboJumbo: 70
+9: cubfan135: 64
+9: Zedaph: 60
+9: iskall85: 47
+9: Etho: 8
+9: Docm77: 5
+9: GoodTimeWithScar: 2
+Total 559

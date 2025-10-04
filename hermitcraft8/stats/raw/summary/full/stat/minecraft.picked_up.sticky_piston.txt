@@ -1,0 +1,25 @@
+minecraft.picked_up.sticky_piston
+23: Zedaph: 261
+23: Docm77: 225
+23: iJevin: 186
+23: cubfan135: 122
+23: impulseSV: 121
+23: MumboJumbo: 106
+23: Xisuma: 101
+23: Keralis1: 75
+23: Tango: 65
+23: Etho: 63
+23: VintageBeef: 52
+23: xBCrafted: 43
+23: Grian: 39
+23: GeminiTay: 28
+23: Welsknight: 25
+23: iskall85: 13
+23: hypnotizd: 11
+23: GoodTimeWithScar: 8
+23: Renthedog: 6
+23: BdoubleO100: 6
+23: joehillssays: 5
+23: PearlescentMoon: 2
+23: falsesymmetry: 1
+Total 1564

@@ -1,0 +1,28 @@
+minecraft.dropped.melon_slice
+26: PearlescentMoon: 6906
+26: Renthedog: 5498
+26: falsesymmetry: 4538
+26: Tango: 3174
+26: Grian: 2064
+26: GeminiTay: 904
+26: Zedaph: 899
+26: Etho: 756
+26: cubfan135: 679
+26: Skizzleman: 326
+26: BdoubleO100: 257
+26: iJevin: 210
+26: ZombieCleo: 112
+26: joehillssays: 104
+26: GoodTimeWithScar: 84
+26: Xisuma: 81
+26: impulseSV: 63
+26: Mumbo: 62
+26: Smallishbeans: 51
+26: hypnotizd: 23
+26: SolidarityGaming: 17
+26: VintageBeef: 14
+26: Docm77: 11
+26: InTheLittleWood: 11
+26: xBCrafted: 9
+26: Keralis1: 6
+Total 26859

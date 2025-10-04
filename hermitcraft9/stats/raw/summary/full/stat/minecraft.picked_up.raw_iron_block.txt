@@ -1,0 +1,26 @@
+minecraft.picked_up.raw_iron_block
+24: VintageBeef: 15184
+24: iJevin: 244
+24: cubfan135: 197
+24: Xisuma: 130
+24: Etho: 51
+24: Renthedog: 42
+24: impulseSV: 28
+24: falsesymmetry: 25
+24: Keralis1: 17
+24: joehillssays: 13
+24: iskall85: 13
+24: PearlescentMoon: 10
+24: Docm77: 9
+24: hypnotizd: 9
+24: Stressmonster101: 9
+24: Zedaph: 5
+24: Grian: 4
+24: xBCrafted: 4
+24: Tango: 3
+24: GeminiTay: 1
+24: BdoubleO100: 1
+24: Pixlriffs: 1
+24: ZombieCleo: 1
+24: GoodTimeWithScar: 1
+Total 16002

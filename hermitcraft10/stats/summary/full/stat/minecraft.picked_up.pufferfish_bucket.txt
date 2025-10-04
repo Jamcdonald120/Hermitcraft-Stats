@@ -1,0 +1,11 @@
+minecraft.picked_up.pufferfish_bucket
+9: Etho: 10
+9: PearlescentMoon: 6
+9: GoodTimeWithScar: 3
+9: GeminiTay: 2
+9: Grian: 2
+9: ZombieCleo: 2
+9: Renthedog: 1
+9: joehillssays: 1
+9: Mumbo: 1
+Total 28

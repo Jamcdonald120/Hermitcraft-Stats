@@ -1,0 +1,31 @@
+minecraft.dropped.iron_ingot
+29: Tango: 9993
+29: hypnotizd: 1538
+29: Grian: 1236
+29: RentheKing: 1209
+29: ZombieCleo: 668
+29: Stressmonster101: 577
+29: iJevin: 555
+29: GoodTimeWithScar: 553
+29: Zedaph: 425
+29: Renthedog: 352
+29: impulseSV: 349
+29: Docm77: 297
+29: Keralis1: 277
+29: BdoubleO100: 262
+29: falsesymmetry: 251
+29: cubfan135: 131
+29: PearlescentMoon: 130
+29: xBCrafted: 125
+29: Etho: 124
+29: Xisuma: 110
+29: MythicalSausage: 85
+29: VintageBeef: 79
+29: Welsknight: 47
+29: iskall85: 45
+29: GeminiTay: 44
+29: Mumbo: 40
+29: OrionSound: 18
+29: MumboJumbo: 15
+29: joehillssays: 4
+Total 19539

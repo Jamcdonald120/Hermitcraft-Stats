@@ -1,0 +1,6 @@
+minecraft.picked_up.rib_armor_trim_smithing_template
+4: Grian: 2
+4: PearlescentMoon: 2
+4: Docm77: 1
+4: iJevin: 1
+Total 6

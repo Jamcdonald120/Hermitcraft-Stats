@@ -1,0 +1,20 @@
+minecraft.dropped.redstone_torch
+18: Zedaph: 355
+18: impulseSV: 106
+18: cubfan135: 103
+18: GoodTimeWithScar: 89
+18: Stressmonster101: 63
+18: Tango: 50
+18: Grian: 44
+18: Etho: 43
+18: Keralis1: 41
+18: iJevin: 34
+18: iskall85: 22
+18: Xisuma: 20
+18: MumboJumbo: 19
+18: xBCrafted: 7
+18: hypnotizd: 7
+18: Renthedog: 3
+18: VintageBeef: 1
+18: BdoubleO100: 1
+Total 1008

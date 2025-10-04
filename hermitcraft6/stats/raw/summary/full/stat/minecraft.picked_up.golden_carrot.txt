@@ -1,0 +1,24 @@
+minecraft.picked_up.golden_carrot
+22: GoodTimeWithScar: 5693
+22: Grian: 4950
+22: Renthedog: 3082
+22: iJevin: 2857
+22: Docm77: 2330
+22: iskall85: 1937
+22: Xisuma: 1422
+22: impulseSV: 1287
+22: cubfan135: 1111
+22: MumboJumbo: 982
+22: Keralis1: 663
+22: PythonGB: 414
+22: Stressmonster101: 384
+22: falsesymmetry: 347
+22: joehillssays: 310
+22: Zedaph: 274
+22: Tango: 232
+22: Duke_da_dog: 200
+22: BdoubleO100: 43
+22: Cojomax99: 33
+22: BadTimeWithScar: 27
+22: Jura_Whitey: 12
+Total 28590

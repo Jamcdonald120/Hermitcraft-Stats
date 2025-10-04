@@ -1,0 +1,10 @@
+minecraft.dropped.tinted_glass
+8: Xisuma: 128
+8: iJevin: 111
+8: cubfan135: 63
+8: Tango: 18
+8: Etho: 4
+8: Keralis1: 2
+8: Renthedog: 1
+8: Zedaph: 1
+Total 328

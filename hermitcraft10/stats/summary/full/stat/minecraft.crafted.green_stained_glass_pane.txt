@@ -1,0 +1,16 @@
+minecraft.crafted.green_stained_glass_pane
+14: Smallishbeans: 992
+14: GoodTimeWithScar: 256
+14: Mumbo: 208
+14: Keralis1: 208
+14: Xisuma: 192
+14: iJevin: 192
+14: PearlescentMoon: 192
+14: joehillssays: 160
+14: falsesymmetry: 144
+14: Etho: 80
+14: impulseSV: 80
+14: BdoubleO100: 40
+14: cubfan135: 32
+14: Grian: 16
+Total 2792

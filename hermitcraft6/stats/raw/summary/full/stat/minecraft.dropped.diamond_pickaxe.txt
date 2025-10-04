@@ -1,0 +1,24 @@
+minecraft.dropped.diamond_pickaxe
+22: Grian: 65
+22: iskall85: 47
+22: Stressmonster101: 41
+22: iJevin: 40
+22: cubfan135: 33
+22: GoodTimeWithScar: 32
+22: Xisuma: 29
+22: Renthedog: 26
+22: MumboJumbo: 25
+22: Tango: 22
+22: Docm77: 16
+22: Zedaph: 14
+22: Keralis1: 11
+22: impulseSV: 9
+22: falsesymmetry: 7
+22: Tinfoilchef: 7
+22: BdoubleO100: 3
+22: ZombieCleo: 3
+22: PythonCam: 2
+22: Welsknight: 2
+22: BadTimeWithScar: 2
+22: PythonGB: 1
+Total 437

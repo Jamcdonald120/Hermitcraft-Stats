@@ -1,0 +1,4 @@
+minecraft.dropped.exposed_cut_copper_slab
+2: Etho: 2
+2: Tango: 1
+Total 3

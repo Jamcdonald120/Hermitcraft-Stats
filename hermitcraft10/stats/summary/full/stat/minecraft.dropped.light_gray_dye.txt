@@ -1,0 +1,19 @@
+minecraft.dropped.light_gray_dye
+17: PearlescentMoon: 82
+17: Keralis1: 40
+17: Grian: 34
+17: cubfan135: 32
+17: Smallishbeans: 29
+17: BdoubleO100: 9
+17: Mumbo: 6
+17: SolidarityGaming: 6
+17: iJevin: 3
+17: GeminiTay: 3
+17: impulseSV: 3
+17: falsesymmetry: 2
+17: ZombieCleo: 2
+17: hypnotizd: 2
+17: Renthedog: 1
+17: Etho: 1
+17: GoodTimeWithScar: 1
+Total 256

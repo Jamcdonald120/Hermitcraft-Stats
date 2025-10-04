@@ -1,0 +1,25 @@
+minecraft.picked_up.deepslate_coal_ore
+23: PearlescentMoon: 858
+23: Renthedog: 601
+23: BdoubleO100: 478
+23: GoodTimeWithScar: 390
+23: Xisuma: 366
+23: xBCrafted: 273
+23: cubfan135: 263
+23: iJevin: 182
+23: impulseSV: 123
+23: hypnotizd: 122
+23: falsesymmetry: 86
+23: GeminiTay: 80
+23: joehillssays: 71
+23: Tango: 66
+23: ZombieCleo: 47
+23: Grian: 46
+23: MumboJumbo: 30
+23: Stressmonster101: 13
+23: Zedaph: 7
+23: Docm77: 5
+23: VintageBeef: 2
+23: Etho: 1
+23: Keralis1: 1
+Total 4111

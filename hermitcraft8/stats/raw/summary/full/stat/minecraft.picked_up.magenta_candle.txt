@@ -1,0 +1,5 @@
+minecraft.picked_up.magenta_candle
+3: Tango: 171
+3: joehillssays: 4
+3: ZombieCleo: 2
+Total 177

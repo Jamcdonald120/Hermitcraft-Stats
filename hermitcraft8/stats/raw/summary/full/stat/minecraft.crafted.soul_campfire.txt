@@ -1,0 +1,9 @@
+minecraft.crafted.soul_campfire
+7: impulseSV: 100
+7: Grian: 44
+7: Renthedog: 40
+7: Docm77: 39
+7: xBCrafted: 38
+7: GoodTimeWithScar: 10
+7: iJevin: 8
+Total 279

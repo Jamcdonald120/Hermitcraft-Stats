@@ -1,0 +1,18 @@
+minecraft.picked_up.heavy_weighted_pressure_plate
+16: VintageBeef: 6974
+16: PearlescentMoon: 3793
+16: impulseSV: 104
+16: Tango: 52
+16: Docm77: 47
+16: falsesymmetry: 35
+16: iJevin: 13
+16: Etho: 11
+16: cubfan135: 9
+16: xBCrafted: 6
+16: Zedaph: 4
+16: GoodTimeWithScar: 2
+16: Keralis1: 2
+16: Renthedog: 1
+16: BdoubleO100: 1
+16: iskall85: 1
+Total 11055

@@ -1,0 +1,31 @@
+minecraft.picked_up.oak_fence
+29: Zedaph: 392
+29: iJevin: 272
+29: joehillssays: 225
+29: Grian: 184
+29: cubfan135: 182
+29: Etho: 127
+29: Renthedog: 106
+29: iskall85: 104
+29: Docm77: 96
+29: Xisuma: 96
+29: VintageBeef: 77
+29: ZombieCleo: 69
+29: PearlescentMoon: 50
+29: Keralis1: 30
+29: Tango: 26
+29: GoodTimeWithScar: 26
+29: xBCrafted: 25
+29: impulseSV: 24
+29: GeminiTay: 20
+29: Smallishbeans: 20
+29: SolidarityGaming: 19
+29: BdoubleO100: 18
+29: Mumbo: 17
+29: Stressmonster101: 8
+29: hypnotizd: 7
+29: MythicalSausage: 5
+29: Pixlriffs: 5
+29: Welsknight: 1
+29: MumboJumbo: 1
+Total 2232

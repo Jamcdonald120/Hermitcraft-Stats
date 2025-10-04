@@ -1,0 +1,7 @@
+minecraft.killed_by.ravager
+5: GoodTimeWithScar: 7
+5: Grian: 4
+5: iJevin: 1
+5: PearlescentMoon: 1
+5: impulseSV: 1
+Total 14

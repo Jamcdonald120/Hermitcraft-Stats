@@ -1,0 +1,29 @@
+minecraft.picked_up.flint_and_steel
+27: ZombieCleo: 437
+27: iJevin: 269
+27: Zedaph: 99
+27: cubfan135: 81
+27: Tango: 50
+27: RentheKing: 45
+27: Etho: 34
+27: Xisuma: 33
+27: Docm77: 24
+27: Grian: 21
+27: PearlescentMoon: 20
+27: falsesymmetry: 19
+27: impulseSV: 14
+27: Keralis1: 13
+27: Renthedog: 12
+27: BdoubleO100: 12
+27: joehillssays: 9
+27: iskall85: 7
+27: GeminiTay: 6
+27: hypnotizd: 6
+27: GoodTimeWithScar: 5
+27: xBCrafted: 4
+27: Stressmonster101: 3
+27: OrionSound: 2
+27: VintageBeef: 2
+27: Mumbo: 1
+27: ShubbleYT: 1
+Total 1229

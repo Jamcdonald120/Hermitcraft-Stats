@@ -1,0 +1,21 @@
+minecraft.crafted.glow_item_frame
+19: Etho: 952
+19: Grian: 577
+19: Skizzleman: 332
+19: iJevin: 301
+19: impulseSV: 210
+19: cubfan135: 191
+19: GoodTimeWithScar: 162
+19: joehillssays: 150
+19: falsesymmetry: 135
+19: VintageBeef: 102
+19: Tango: 98
+19: Smallishbeans: 78
+19: Docm77: 59
+19: Renthedog: 45
+19: Keralis1: 42
+19: PearlescentMoon: 15
+19: BdoubleO100: 7
+19: Xisuma: 2
+19: GeminiTay: 2
+Total 3460

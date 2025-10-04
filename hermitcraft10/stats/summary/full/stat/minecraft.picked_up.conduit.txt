@@ -1,0 +1,10 @@
+minecraft.picked_up.conduit
+8: GeminiTay: 8
+8: impulseSV: 6
+8: cubfan135: 4
+8: Skizzleman: 3
+8: Etho: 3
+8: Grian: 2
+8: Xisuma: 1
+8: xBCrafted: 1
+Total 28

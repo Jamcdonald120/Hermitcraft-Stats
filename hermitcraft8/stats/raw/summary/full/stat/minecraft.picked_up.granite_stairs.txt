@@ -1,0 +1,8 @@
+minecraft.picked_up.granite_stairs
+6: impulseSV: 29
+6: cubfan135: 8
+6: Tango: 7
+6: Xisuma: 5
+6: Grian: 5
+6: BdoubleO100: 2
+Total 56

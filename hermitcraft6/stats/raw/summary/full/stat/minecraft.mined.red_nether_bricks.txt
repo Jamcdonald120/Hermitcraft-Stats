@@ -1,0 +1,12 @@
+minecraft.mined.red_nether_bricks
+10: Tango: 646
+10: impulseSV: 208
+10: Xisuma: 110
+10: Renthedog: 66
+10: cubfan135: 27
+10: ZombieCleo: 24
+10: iskall85: 8
+10: Docm77: 1
+10: falsesymmetry: 1
+10: Biffa2001: 1
+Total 1092

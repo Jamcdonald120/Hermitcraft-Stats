@@ -1,0 +1,9 @@
+minecraft.dropped.granite_slab
+7: Renthedog: 136
+7: falsesymmetry: 125
+7: Tango: 36
+7: PearlescentMoon: 3
+7: Etho: 3
+7: Xisuma: 1
+7: Zedaph: 1
+Total 305

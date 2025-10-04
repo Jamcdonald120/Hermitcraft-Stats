@@ -1,0 +1,4 @@
+minecraft.crafted.kelp
+2: falsesymmetry: 10
+2: Zedaph: 1
+Total 11

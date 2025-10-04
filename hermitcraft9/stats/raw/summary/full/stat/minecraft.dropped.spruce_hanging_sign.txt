@@ -1,0 +1,5 @@
+minecraft.dropped.spruce_hanging_sign
+3: Grian: 16
+3: Zedaph: 6
+3: iJevin: 1
+Total 23

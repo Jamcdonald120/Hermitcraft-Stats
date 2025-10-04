@@ -1,0 +1,28 @@
+minecraft.picked_up.pumpkin_seeds
+26: Xisuma: 9491
+26: impulseSV: 3444
+26: Docm77: 2747
+26: falsesymmetry: 2442
+26: ZombieCleo: 1726
+26: GoodTimeWithScar: 1410
+26: Etho: 1243
+26: iJevin: 1006
+26: PearlescentMoon: 913
+26: hypnotizd: 825
+26: Zedaph: 802
+26: Tango: 788
+26: Keralis1: 771
+26: Renthedog: 684
+26: joehillssays: 639
+26: Grian: 519
+26: cubfan135: 278
+26: xBCrafted: 238
+26: Smallishbeans: 84
+26: VintageBeef: 45
+26: BdoubleO100: 43
+26: Skizzleman: 41
+26: Welsknight: 41
+26: GeminiTay: 23
+26: Mumbo: 4
+26: SolidarityGaming: 1
+Total 30248

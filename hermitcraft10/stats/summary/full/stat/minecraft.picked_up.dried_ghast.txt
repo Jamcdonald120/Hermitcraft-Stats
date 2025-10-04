@@ -1,0 +1,12 @@
+minecraft.picked_up.dried_ghast
+10: Renthedog: 176
+10: cubfan135: 160
+10: falsesymmetry: 87
+10: PearlescentMoon: 78
+10: Xisuma: 73
+10: GoodTimeWithScar: 13
+10: iJevin: 4
+10: xBCrafted: 2
+10: Docm77: 1
+10: impulseSV: 1
+Total 595

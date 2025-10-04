@@ -1,0 +1,31 @@
+minecraft.picked_up.yellow_dye
+29: Etho: 1458
+29: iJevin: 830
+29: PearlescentMoon: 452
+29: Keralis1: 390
+29: falsesymmetry: 178
+29: cubfan135: 110
+29: Grian: 90
+29: Skizzleman: 84
+29: Renthedog: 70
+29: joehillssays: 44
+29: Xisuma: 23
+29: ZombieCleo: 19
+29: Smallishbeans: 15
+29: OrionSound: 13
+29: impulseSV: 13
+29: GeminiTay: 12
+29: Docm77: 11
+29: BdoubleO100: 10
+29: hypnotizd: 6
+29: Tango: 4
+29: xBCrafted: 3
+29: Eyjoy27: 3
+29: VintageBeef: 2
+29: GoodTimeWithScar: 2
+29: SolidarityGaming: 2
+29: Welsknight: 1
+29: Mumbo: 1
+29: HBomb94: 1
+29: Zedaph: 1
+Total 3848

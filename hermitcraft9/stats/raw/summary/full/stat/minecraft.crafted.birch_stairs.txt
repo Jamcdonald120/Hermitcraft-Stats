@@ -1,0 +1,21 @@
+minecraft.crafted.birch_stairs
+19: GoodTimeWithScar: 800
+19: Keralis1: 312
+19: Etho: 293
+19: Renthedog: 244
+19: Docm77: 240
+19: GeminiTay: 168
+19: Xisuma: 108
+19: PearlescentMoon: 104
+19: Grian: 60
+19: Stressmonster101: 60
+19: ShubbleYT: 40
+19: cubfan135: 36
+19: impulseSV: 24
+19: VintageBeef: 20
+19: BdoubleO100: 20
+19: Smajor1995: 16
+19: xBCrafted: 12
+19: iJevin: 4
+19: Zedaph: 4
+Total 2565

@@ -1,0 +1,26 @@
+minecraft.picked_up.oak_slab
+24: Renthedog: 2678
+24: falsesymmetry: 1261
+24: GoodTimeWithScar: 1013
+24: impulseSV: 752
+24: Xisuma: 664
+24: iJevin: 607
+24: ZombieCleo: 440
+24: Tango: 428
+24: cubfan135: 407
+24: Grian: 342
+24: Welsknight: 311
+24: Keralis1: 264
+24: Biffa2001: 251
+24: BdoubleO100: 203
+24: Stressmonster101: 134
+24: MumboJumbo: 126
+24: HumanCleo: 99
+24: Docm77: 98
+24: Jessassin: 83
+24: iskall85: 80
+24: joehillssays: 68
+24: PythonGB: 35
+24: Zedaph: 24
+24: xBCrafted: 2
+Total 10370

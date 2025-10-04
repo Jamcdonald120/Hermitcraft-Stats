@@ -1,0 +1,4 @@
+minecraft.dropped.blue_wool
+2: Zedaph: 236
+2: Grian: 10
+Total 246

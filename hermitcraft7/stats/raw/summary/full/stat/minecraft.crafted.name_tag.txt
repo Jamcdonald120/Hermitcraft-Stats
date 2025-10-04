@@ -1,0 +1,18 @@
+minecraft.crafted.name_tag
+16: Grian: 825
+16: Etho: 761
+16: Stressmonster101: 149
+16: hypnotizd: 129
+16: GoodTimeWithScar: 128
+16: cubfan135: 120
+16: iskall85: 68
+16: xBCrafted: 53
+16: Docm77: 43
+16: impulseSV: 29
+16: joehillssays: 25
+16: iJevin: 19
+16: Keralis1: 11
+16: Zedaph: 6
+16: ZombieCleo: 2
+16: BdoubleO100: 1
+Total 2369

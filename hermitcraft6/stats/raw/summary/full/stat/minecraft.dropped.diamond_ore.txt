@@ -1,0 +1,9 @@
+minecraft.dropped.diamond_ore
+7: Tango: 21
+7: Grian: 18
+7: PythonGB: 17
+7: Xisuma: 10
+7: Zedaph: 6
+7: iJevin: 3
+7: Renthedog: 1
+Total 76

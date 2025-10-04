@@ -1,0 +1,26 @@
+minecraft.dropped.spruce_sign
+24: GoodTimeWithScar: 194
+24: Zedaph: 128
+24: Etho: 38
+24: Renthedog: 37
+24: Grian: 33
+24: HBomb94: 32
+24: iJevin: 19
+24: SolidarityGaming: 17
+24: Xisuma: 16
+24: Skizzleman: 15
+24: Tango: 13
+24: cubfan135: 13
+24: InTheLittleWood: 13
+24: xBCrafted: 10
+24: Keralis1: 6
+24: ZombieCleo: 5
+24: PearlescentMoon: 4
+24: BdoubleO100: 3
+24: falsesymmetry: 3
+24: Docm77: 2
+24: Mumbo: 2
+24: GeminiTay: 1
+24: Smallishbeans: 1
+24: hypnotizd: 1
+Total 606

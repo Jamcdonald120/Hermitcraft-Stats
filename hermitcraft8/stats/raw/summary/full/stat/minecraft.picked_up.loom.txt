@@ -1,0 +1,15 @@
+minecraft.picked_up.loom
+13: PearlescentMoon: 73
+13: Etho: 43
+13: GoodTimeWithScar: 42
+13: Xisuma: 6
+13: Zedaph: 5
+13: Tango: 4
+13: BdoubleO100: 4
+13: Renthedog: 3
+13: GeminiTay: 3
+13: cubfan135: 3
+13: Grian: 2
+13: xBCrafted: 1
+13: impulseSV: 1
+Total 190

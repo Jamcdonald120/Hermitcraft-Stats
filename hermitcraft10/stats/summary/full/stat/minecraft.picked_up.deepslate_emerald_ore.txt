@@ -1,0 +1,9 @@
+minecraft.picked_up.deepslate_emerald_ore
+7: iJevin: 5
+7: GoodTimeWithScar: 5
+7: ZombieCleo: 2
+7: PearlescentMoon: 1
+7: Couriway: 1
+7: Mumbo: 1
+7: HBomb94: 1
+Total 16

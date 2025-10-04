@@ -1,0 +1,4 @@
+minecraft.mined.magenta_stained_glass_pane
+2: Tango: 12
+2: Zedaph: 1
+Total 13

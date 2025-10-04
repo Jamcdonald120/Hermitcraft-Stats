@@ -1,0 +1,30 @@
+minecraft.picked_up.wind_charge
+28: PearlescentMoon: 2594
+28: Etho: 2162
+28: cubfan135: 1483
+28: impulseSV: 1442
+28: Keralis1: 1253
+28: Skizzleman: 1250
+28: Docm77: 1106
+28: GoodTimeWithScar: 1086
+28: BdoubleO100: 959
+28: Xisuma: 936
+28: Renthedog: 843
+28: iJevin: 696
+28: Tango: 586
+28: Grian: 497
+28: Smallishbeans: 346
+28: ZombieCleo: 312
+28: Zedaph: 265
+28: GeminiTay: 260
+28: falsesymmetry: 214
+28: joehillssays: 166
+28: SolidarityGaming: 128
+28: aimsey: 96
+28: JamalMC_: 64
+28: xBCrafted: 62
+28: jojosolos: 18
+28: Smajor1995: 8
+28: MythicalSausage: 8
+28: belmarzi: 8
+Total 18848

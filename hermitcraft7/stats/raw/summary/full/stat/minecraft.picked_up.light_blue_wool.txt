@@ -1,0 +1,18 @@
+minecraft.picked_up.light_blue_wool
+16: Etho: 4007
+16: Tango: 3062
+16: Zedaph: 990
+16: BdoubleO100: 872
+16: VintageBeef: 840
+16: GoodTimeWithScar: 271
+16: Grian: 232
+16: Xisuma: 158
+16: MumboJumbo: 112
+16: Keralis1: 102
+16: Renthedog: 76
+16: Stressmonster101: 25
+16: joehillssays: 22
+16: hypnotizd: 11
+16: impulseSV: 2
+16: falsesymmetry: 1
+Total 10783

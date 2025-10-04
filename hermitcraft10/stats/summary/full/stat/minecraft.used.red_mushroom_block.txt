@@ -1,0 +1,7 @@
+minecraft.used.red_mushroom_block
+5: Tango: 339
+5: Xisuma: 129
+5: Grian: 52
+5: Mumbo: 44
+5: iJevin: 6
+Total 570

@@ -1,0 +1,4 @@
+minecraft.mined.peony
+2: falsesymmetry: 1
+2: Welsknight: 1
+Total 2

@@ -1,0 +1,22 @@
+minecraft.mined.purpur_block
+20: PearlescentMoon: 1806
+20: Renthedog: 484
+20: iJevin: 461
+20: impulseSV: 360
+20: Tango: 283
+20: cubfan135: 171
+20: GoodTimeWithScar: 165
+20: Etho: 162
+20: Keralis1: 103
+20: xBCrafted: 98
+20: Xisuma: 77
+20: VintageBeef: 71
+20: falsesymmetry: 71
+20: Zedaph: 63
+20: ZombieCleo: 46
+20: hypnotizd: 20
+20: GeminiTay: 17
+20: Docm77: 16
+20: Grian: 15
+20: iskall85: 11
+Total 4500

@@ -1,0 +1,7 @@
+minecraft.picked_up.polished_blackstone_brick_wall
+5: Smallishbeans: 206
+5: Skizzleman: 100
+5: falsesymmetry: 32
+5: cubfan135: 13
+5: Tango: 1
+Total 352

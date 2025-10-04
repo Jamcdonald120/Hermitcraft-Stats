@@ -1,0 +1,29 @@
+minecraft.mined.redstone_wall_torch
+27: Tango: 711
+27: Xisuma: 150
+27: cubfan135: 137
+27: Grian: 133
+27: Keralis1: 96
+27: impulseSV: 80
+27: iJevin: 52
+27: Docm77: 47
+27: Zedaph: 46
+27: GoodTimeWithScar: 38
+27: Etho: 35
+27: ZombieCleo: 27
+27: iskall85: 24
+27: hypnotizd: 18
+27: BdoubleO100: 16
+27: xBCrafted: 13
+27: Renthedog: 11
+27: Pixlriffs: 11
+27: GeminiTay: 10
+27: joehillssays: 8
+27: PearlescentMoon: 8
+27: Mumbo: 8
+27: Stressmonster101: 6
+27: VintageBeef: 5
+27: falsesymmetry: 3
+27: RentheKing: 3
+27: Welsknight: 2
+Total 1698

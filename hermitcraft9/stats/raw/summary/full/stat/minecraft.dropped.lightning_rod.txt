@@ -1,0 +1,9 @@
+minecraft.dropped.lightning_rod
+7: impulseSV: 90
+7: Keralis1: 55
+7: Tango: 12
+7: cubfan135: 10
+7: GoodTimeWithScar: 3
+7: Xisuma: 1
+7: iJevin: 1
+Total 172

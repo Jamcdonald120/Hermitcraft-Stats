@@ -1,0 +1,5 @@
+minecraft.dropped.red_nether_bricks
+3: Renthedog: 13
+3: cubfan135: 4
+3: Tango: 3
+Total 20

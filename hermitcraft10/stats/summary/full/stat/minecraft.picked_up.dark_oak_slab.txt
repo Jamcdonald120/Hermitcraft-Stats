@@ -1,0 +1,27 @@
+minecraft.picked_up.dark_oak_slab
+25: falsesymmetry: 951
+25: iJevin: 884
+25: Zedaph: 481
+25: Smallishbeans: 402
+25: hypnotizd: 381
+25: VintageBeef: 372
+25: Xisuma: 230
+25: Etho: 224
+25: cubfan135: 205
+25: GeminiTay: 150
+25: PearlescentMoon: 138
+25: GoodTimeWithScar: 122
+25: Skizzleman: 120
+25: ZombieCleo: 81
+25: Tango: 44
+25: xBCrafted: 44
+25: Mumbo: 31
+25: Renthedog: 23
+25: Grian: 21
+25: Keralis1: 8
+25: BdoubleO100: 7
+25: Welsknight: 5
+25: Docm77: 3
+25: joehillssays: 3
+25: impulseSV: 2
+Total 4932

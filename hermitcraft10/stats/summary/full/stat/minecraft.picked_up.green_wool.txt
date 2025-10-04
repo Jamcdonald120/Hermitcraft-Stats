@@ -1,0 +1,26 @@
+minecraft.picked_up.green_wool
+24: Etho: 17475
+24: BdoubleO100: 3401
+24: GoodTimeWithScar: 2484
+24: Xisuma: 1993
+24: joehillssays: 1609
+24: iJevin: 1490
+24: Docm77: 420
+24: ZombieCleo: 375
+24: Smallishbeans: 330
+24: PearlescentMoon: 216
+24: GeminiTay: 213
+24: Grian: 185
+24: impulseSV: 144
+24: Skizzleman: 132
+24: Tango: 104
+24: falsesymmetry: 80
+24: cubfan135: 75
+24: Zedaph: 36
+24: VintageBeef: 26
+24: Renthedog: 23
+24: Keralis1: 20
+24: xBCrafted: 14
+24: Mumbo: 14
+24: hypnotizd: 1
+Total 30860

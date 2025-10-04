@@ -1,0 +1,4 @@
+minecraft.dropped.granite_stairs
+2: falsesymmetry: 24
+2: cubfan135: 1
+Total 25

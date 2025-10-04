@@ -1,0 +1,8 @@
+minecraft.crafted.granite_stairs
+6: Xisuma: 41
+6: GeminiTay: 40
+6: Tango: 40
+6: Grian: 24
+6: Keralis1: 8
+6: impulseSV: 6
+Total 159

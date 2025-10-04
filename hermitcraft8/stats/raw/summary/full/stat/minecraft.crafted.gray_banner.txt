@@ -1,0 +1,5 @@
+minecraft.crafted.gray_banner
+3: Keralis1: 24
+3: GoodTimeWithScar: 10
+3: cubfan135: 1
+Total 35

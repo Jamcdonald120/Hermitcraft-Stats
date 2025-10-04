@@ -1,0 +1,22 @@
+minecraft.crafted.gray_stained_glass
+20: GoodTimeWithScar: 22056
+20: Docm77: 4872
+20: falsesymmetry: 3184
+20: iJevin: 2144
+20: Grian: 1912
+20: Etho: 1088
+20: PearlescentMoon: 944
+20: Xisuma: 824
+20: cubfan135: 488
+20: impulseSV: 456
+20: xBCrafted: 424
+20: iskall85: 136
+20: Keralis1: 120
+20: VintageBeef: 64
+20: joehillssays: 56
+20: Renthedog: 48
+20: Zedaph: 48
+20: RentheKing: 40
+20: MythicalSausage: 32
+20: BdoubleO100: 24
+Total 38960

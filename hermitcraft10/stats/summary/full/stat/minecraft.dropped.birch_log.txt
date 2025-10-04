@@ -1,0 +1,23 @@
+minecraft.dropped.birch_log
+21: BdoubleO100: 829
+21: GoodTimeWithScar: 443
+21: cubfan135: 246
+21: falsesymmetry: 172
+21: iJevin: 126
+21: Grian: 83
+21: Xisuma: 75
+21: Renthedog: 57
+21: Zedaph: 57
+21: SolidarityGaming: 32
+21: Docm77: 31
+21: Keralis1: 29
+21: Tango: 25
+21: PearlescentMoon: 20
+21: impulseSV: 15
+21: GeminiTay: 14
+21: Mumbo: 14
+21: xBCrafted: 7
+21: joehillssays: 4
+21: ZombieCleo: 4
+21: Etho: 3
+Total 2286

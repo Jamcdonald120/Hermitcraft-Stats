@@ -1,0 +1,22 @@
+minecraft.crafted.magenta_dye
+20: Grian: 2122
+20: Xisuma: 1985
+20: Stressmonster101: 1719
+20: cubfan135: 1156
+20: iskall85: 550
+20: falsesymmetry: 373
+20: Renthedog: 337
+20: GoodTimeWithScar: 328
+20: Tango: 306
+20: Welsknight: 284
+20: Zedaph: 125
+20: iJevin: 104
+20: PythonGB: 64
+20: impulseSV: 64
+20: BdoubleO100: 12
+20: MumboJumbo: 10
+20: joehillssays: 9
+20: Biffa2001: 2
+20: Tinfoilchef: 2
+20: ZombieCleo: 1
+Total 9553

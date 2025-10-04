@@ -1,0 +1,27 @@
+minecraft.dropped.diamond_helmet
+25: GoodTimeWithScar: 10
+25: iJevin: 8
+25: Skizzleman: 7
+25: cubfan135: 7
+25: impulseSV: 7
+25: PearlescentMoon: 6
+25: Grian: 5
+25: Renthedog: 4
+25: Tango: 4
+25: falsesymmetry: 4
+25: Etho: 4
+25: hypnotizd: 4
+25: Keralis1: 3
+25: Docm77: 2
+25: VintageBeef: 2
+25: GeminiTay: 2
+25: ZombieCleo: 2
+25: Mumbo: 2
+25: aimsey: 2
+25: Xisuma: 1
+25: Smajor1995: 1
+25: xBCrafted: 1
+25: jojosolos: 1
+25: SolidarityGaming: 1
+25: Zedaph: 1
+Total 91

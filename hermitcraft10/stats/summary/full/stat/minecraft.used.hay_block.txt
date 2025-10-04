@@ -1,0 +1,25 @@
+minecraft.used.hay_block
+23: VintageBeef: 290
+23: ZombieCleo: 241
+23: Xisuma: 232
+23: PearlescentMoon: 169
+23: Grian: 146
+23: Zedaph: 145
+23: GoodTimeWithScar: 138
+23: Mumbo: 108
+23: falsesymmetry: 99
+23: joehillssays: 76
+23: iJevin: 69
+23: cubfan135: 64
+23: Etho: 59
+23: Docm77: 53
+23: Tango: 34
+23: Renthedog: 29
+23: BdoubleO100: 28
+23: GeminiTay: 24
+23: Skizzleman: 19
+23: Smallishbeans: 19
+23: xBCrafted: 8
+23: Keralis1: 7
+23: hypnotizd: 1
+Total 2058

@@ -1,0 +1,27 @@
+minecraft.picked_up.hopper
+25: iJevin: 1474
+25: Tango: 1317
+25: Xisuma: 1235
+25: Docm77: 1131
+25: Etho: 969
+25: joehillssays: 926
+25: cubfan135: 696
+25: Renthedog: 638
+25: impulseSV: 558
+25: xBCrafted: 403
+25: Keralis1: 369
+25: ZombieCleo: 368
+25: Grian: 350
+25: Smallishbeans: 312
+25: Zedaph: 309
+25: falsesymmetry: 252
+25: BdoubleO100: 194
+25: Skizzleman: 175
+25: PearlescentMoon: 158
+25: hypnotizd: 119
+25: Mumbo: 116
+25: VintageBeef: 49
+25: Welsknight: 46
+25: GeminiTay: 42
+25: GoodTimeWithScar: 18
+Total 12224

@@ -1,0 +1,30 @@
+minecraft.picked_up.redstone_torch
+28: Tango: 2856
+28: Grian: 1506
+28: Docm77: 530
+28: cubfan135: 513
+28: Xisuma: 413
+28: Zedaph: 383
+28: impulseSV: 337
+28: GoodTimeWithScar: 285
+28: Keralis1: 257
+28: Etho: 228
+28: iJevin: 203
+28: iskall85: 200
+28: ZombieCleo: 122
+28: GeminiTay: 102
+28: xBCrafted: 91
+28: Renthedog: 86
+28: Stressmonster101: 83
+28: hypnotizd: 68
+28: PearlescentMoon: 53
+28: BdoubleO100: 48
+28: joehillssays: 38
+28: Mumbo: 31
+28: Pixlriffs: 17
+28: OrionSound: 9
+28: VintageBeef: 9
+28: falsesymmetry: 9
+28: RentheKing: 8
+28: Welsknight: 2
+Total 8487

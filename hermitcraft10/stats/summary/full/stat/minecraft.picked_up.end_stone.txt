@@ -1,0 +1,26 @@
+minecraft.picked_up.end_stone
+24: PearlescentMoon: 4345
+24: Renthedog: 3063
+24: iJevin: 2766
+24: cubfan135: 1722
+24: hypnotizd: 1493
+24: Xisuma: 1312
+24: GoodTimeWithScar: 1183
+24: VintageBeef: 887
+24: Etho: 365
+24: joehillssays: 335
+24: Docm77: 309
+24: falsesymmetry: 210
+24: Smallishbeans: 162
+24: impulseSV: 138
+24: xBCrafted: 119
+24: GeminiTay: 86
+24: ZombieCleo: 75
+24: Skizzleman: 25
+24: BdoubleO100: 23
+24: Grian: 18
+24: Zedaph: 17
+24: Tango: 14
+24: Keralis1: 5
+24: Mumbo: 2
+Total 18674

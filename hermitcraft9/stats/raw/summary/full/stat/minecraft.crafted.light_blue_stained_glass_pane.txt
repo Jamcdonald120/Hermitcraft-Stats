@@ -1,0 +1,18 @@
+minecraft.crafted.light_blue_stained_glass_pane
+16: falsesymmetry: 688
+16: Tango: 432
+16: RentheKing: 432
+16: GoodTimeWithScar: 320
+16: Etho: 240
+16: Renthedog: 128
+16: joehillssays: 128
+16: BdoubleO100: 88
+16: GeminiTay: 64
+16: Xisuma: 32
+16: Grian: 32
+16: VintageBeef: 16
+16: Smallishbeans: 16
+16: cubfan135: 16
+16: Keralis1: 16
+16: Zedaph: 8
+Total 2656

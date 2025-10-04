@@ -1,0 +1,10 @@
+minecraft.picked_up.purple_dye
+8: Grian: 66
+8: iJevin: 61
+8: GoodTimeWithScar: 56
+8: PythonGB: 32
+8: Renthedog: 4
+8: falsesymmetry: 4
+8: ZombieCleo: 2
+8: iskall85: 1
+Total 226

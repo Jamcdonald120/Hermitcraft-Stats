@@ -1,0 +1,21 @@
+minecraft.crafted.birch_trapdoor
+19: Tango: 966
+19: falsesymmetry: 756
+19: Xisuma: 364
+19: Keralis1: 226
+19: GoodTimeWithScar: 174
+19: cubfan135: 112
+19: joehillssays: 110
+19: impulseSV: 68
+19: Docm77: 64
+19: iskall85: 22
+19: BdoubleO100: 20
+19: xBCrafted: 20
+19: ZombieCleo: 20
+19: Renthedog: 17
+19: Grian: 10
+19: Zedaph: 10
+19: Tinfoilchef: 4
+19: MumboJumbo: 2
+19: Stressmonster101: 2
+Total 2967

@@ -1,0 +1,17 @@
+minecraft.crafted.blue_concrete_powder
+15: falsesymmetry: 6192
+15: GeminiTay: 712
+15: Etho: 640
+15: cubfan135: 456
+15: Skizzleman: 312
+15: Smallishbeans: 144
+15: Docm77: 136
+15: VintageBeef: 96
+15: Keralis1: 64
+15: Tango: 56
+15: impulseSV: 48
+15: Xisuma: 8
+15: Renthedog: 8
+15: joehillssays: 8
+15: PearlescentMoon: 8
+Total 8888

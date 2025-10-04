@@ -1,0 +1,18 @@
+minecraft.dropped.deepslate_redstone_ore
+16: Grian: 209
+16: GoodTimeWithScar: 200
+16: PearlescentMoon: 128
+16: Renthedog: 64
+16: xBCrafted: 48
+16: Xisuma: 25
+16: cubfan135: 12
+16: iJevin: 10
+16: Zedaph: 10
+16: Tango: 9
+16: ZombieCleo: 9
+16: BdoubleO100: 8
+16: Keralis1: 6
+16: impulseSV: 3
+16: Docm77: 1
+16: hypnotizd: 1
+Total 743

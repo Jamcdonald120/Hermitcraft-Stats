@@ -1,0 +1,28 @@
+minecraft.crafted.light_gray_dye
+26: GoodTimeWithScar: 5301
+26: ZombieCleo: 4256
+26: Grian: 3959
+26: joehillssays: 3509
+26: Etho: 2701
+26: Xisuma: 1901
+26: hypnotizd: 1860
+26: PearlescentMoon: 1589
+26: impulseSV: 1497
+26: falsesymmetry: 1252
+26: Docm77: 1103
+26: Keralis1: 549
+26: Zedaph: 379
+26: Tango: 235
+26: cubfan135: 210
+26: Renthedog: 169
+26: BdoubleO100: 155
+26: VintageBeef: 111
+26: RentheKing: 94
+26: iJevin: 71
+26: MythicalSausage: 48
+26: GeminiTay: 48
+26: Stressmonster101: 32
+26: xBCrafted: 30
+26: iskall85: 16
+26: Mumbo: 3
+Total 31078

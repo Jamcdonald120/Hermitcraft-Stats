@@ -1,0 +1,12 @@
+minecraft.picked_up.smooth_red_sandstone
+10: falsesymmetry: 848
+10: VintageBeef: 133
+10: Tango: 124
+10: Renthedog: 86
+10: GoodTimeWithScar: 31
+10: Xisuma: 17
+10: Keralis1: 16
+10: Etho: 2
+10: BdoubleO100: 1
+10: Welsknight: 1
+Total 1259

@@ -1,0 +1,32 @@
+minecraft.crafted.shears
+30: impulseSV: 3595
+30: Tango: 1394
+30: Docm77: 1178
+30: Renthedog: 1063
+30: VintageBeef: 847
+30: hypnotizd: 741
+30: Xisuma: 605
+30: Grian: 301
+30: iJevin: 247
+30: PearlescentMoon: 179
+30: Keralis1: 176
+30: falsesymmetry: 161
+30: joehillssays: 155
+30: Etho: 104
+30: ZombieCleo: 58
+30: BdoubleO100: 54
+30: RentheKing: 54
+30: cubfan135: 44
+30: iskall85: 42
+30: GoodTimeWithScar: 35
+30: GeminiTay: 23
+30: Zedaph: 16
+30: Stressmonster101: 15
+30: MythicalSausage: 8
+30: xBCrafted: 6
+30: Mumbo: 6
+30: Smajor1995: 2
+30: Pixlriffs: 2
+30: Smallishbeans: 1
+30: Welsknight: 1
+Total 11113

@@ -1,0 +1,5 @@
+minecraft.dropped.diamond_horse_armor
+3: iJevin: 3
+3: ZombieCleo: 2
+3: Renthedog: 1
+Total 6

@@ -1,0 +1,6 @@
+minecraft.picked_up.end_stone_brick_slab
+4: iJevin: 102
+4: Grian: 39
+4: Xisuma: 2
+4: VintageBeef: 2
+Total 145

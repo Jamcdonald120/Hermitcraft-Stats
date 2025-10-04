@@ -1,0 +1,26 @@
+minecraft.picked_up.water_bucket
+24: Grian: 147
+24: GoodTimeWithScar: 122
+24: impulseSV: 102
+24: Docm77: 86
+24: falsesymmetry: 65
+24: iskall85: 53
+24: iJevin: 48
+24: Tango: 48
+24: cubfan135: 41
+24: Tinfoilchef: 40
+24: Xisuma: 36
+24: Zedaph: 33
+24: Renthedog: 26
+24: MumboJumbo: 24
+24: Stressmonster101: 15
+24: joehillssays: 13
+24: PythonGB: 11
+24: Keralis1: 8
+24: Welsknight: 7
+24: ZombieCleo: 4
+24: HumanCleo: 2
+24: BdoubleO100: 2
+24: Biffa2001: 2
+24: xBCrafted: 1
+Total 936

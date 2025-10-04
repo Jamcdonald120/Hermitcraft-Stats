@@ -1,0 +1,21 @@
+minecraft.picked_up.chainmail_leggings
+19: Tango: 25
+19: Xisuma: 12
+19: Etho: 10
+19: Keralis1: 7
+19: iJevin: 6
+19: falsesymmetry: 5
+19: cubfan135: 5
+19: hypnotizd: 5
+19: GoodTimeWithScar: 5
+19: xBCrafted: 4
+19: Docm77: 2
+19: Grian: 2
+19: BdoubleO100: 2
+19: PearlescentMoon: 2
+19: iskall85: 2
+19: Renthedog: 1
+19: Welsknight: 1
+19: Stressmonster101: 1
+19: impulseSV: 1
+Total 98

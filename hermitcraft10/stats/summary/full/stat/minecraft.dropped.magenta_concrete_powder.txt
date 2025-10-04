@@ -1,0 +1,8 @@
+minecraft.dropped.magenta_concrete_powder
+6: falsesymmetry: 13
+6: Etho: 3
+6: Xisuma: 1
+6: Renthedog: 1
+6: cubfan135: 1
+6: Keralis1: 1
+Total 20

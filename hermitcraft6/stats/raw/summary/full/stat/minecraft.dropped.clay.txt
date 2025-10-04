@@ -1,0 +1,9 @@
+minecraft.dropped.clay
+7: GoodTimeWithScar: 24
+7: Renthedog: 13
+7: Zedaph: 7
+7: Xisuma: 6
+7: falsesymmetry: 2
+7: PythonGB: 1
+7: Tango: 1
+Total 54

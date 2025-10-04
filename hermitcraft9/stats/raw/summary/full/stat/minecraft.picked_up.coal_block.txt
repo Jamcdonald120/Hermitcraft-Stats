@@ -1,0 +1,25 @@
+minecraft.picked_up.coal_block
+23: impulseSV: 2605
+23: Docm77: 554
+23: xBCrafted: 388
+23: Grian: 330
+23: joehillssays: 266
+23: Zedaph: 193
+23: PearlescentMoon: 171
+23: Tango: 144
+23: Keralis1: 133
+23: GoodTimeWithScar: 132
+23: Xisuma: 127
+23: falsesymmetry: 99
+23: iskall85: 78
+23: iJevin: 67
+23: RentheKing: 65
+23: BdoubleO100: 22
+23: Smajor1995: 18
+23: hypnotizd: 18
+23: Renthedog: 17
+23: cubfan135: 17
+23: Pixlriffs: 10
+23: Etho: 2
+23: ZombieCleo: 1
+Total 5457

@@ -1,0 +1,5 @@
+minecraft.picked_up.red_nether_brick_stairs
+3: Renthedog: 54
+3: falsesymmetry: 50
+3: Xisuma: 16
+Total 120

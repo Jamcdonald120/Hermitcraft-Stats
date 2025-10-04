@@ -1,0 +1,23 @@
+minecraft.crafted.stone_brick_stairs
+21: Keralis1: 1880
+21: falsesymmetry: 1800
+21: MumboJumbo: 972
+21: ZombieCleo: 868
+21: iskall85: 856
+21: Tango: 768
+21: Grian: 604
+21: cubfan135: 592
+21: xBCrafted: 498
+21: Xisuma: 356
+21: GoodTimeWithScar: 340
+21: Stressmonster101: 196
+21: hypnotizd: 128
+21: iJevin: 104
+21: VintageBeef: 59
+21: joehillssays: 44
+21: impulseSV: 32
+21: Zedaph: 12
+21: Docm77: 8
+21: Renthedog: 4
+21: Welsknight: 4
+Total 10125

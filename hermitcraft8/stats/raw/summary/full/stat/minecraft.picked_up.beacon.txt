@@ -1,0 +1,24 @@
+minecraft.picked_up.beacon
+22: Xisuma: 53
+22: iJevin: 38
+22: cubfan135: 30
+22: Docm77: 20
+22: Renthedog: 20
+22: impulseSV: 20
+22: Etho: 19
+22: Grian: 18
+22: PearlescentMoon: 17
+22: xBCrafted: 14
+22: Tango: 12
+22: Welsknight: 11
+22: MumboJumbo: 11
+22: iskall85: 7
+22: GoodTimeWithScar: 7
+22: BdoubleO100: 6
+22: joehillssays: 5
+22: Keralis1: 5
+22: falsesymmetry: 4
+22: GeminiTay: 3
+22: hypnotizd: 2
+22: Stressmonster101: 2
+Total 324

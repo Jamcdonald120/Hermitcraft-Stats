@@ -1,0 +1,4 @@
+minecraft.used.cut_red_sandstone_slab
+2: MumboJumbo: 11
+2: BdoubleO100: 8
+Total 19

@@ -1,0 +1,25 @@
+minecraft.picked_up.item_frame
+23: Grian: 2513
+23: Renthedog: 851
+23: cubfan135: 718
+23: GoodTimeWithScar: 496
+23: iJevin: 359
+23: falsesymmetry: 314
+23: iskall85: 309
+23: Docm77: 302
+23: Xisuma: 194
+23: Tango: 156
+23: impulseSV: 100
+23: Stressmonster101: 95
+23: Biffa2001: 76
+23: PythonGB: 47
+23: Keralis1: 43
+23: BdoubleO100: 31
+23: ZombieCleo: 30
+23: MumboJumbo: 26
+23: Tinfoilchef: 22
+23: joehillssays: 17
+23: Welsknight: 10
+23: Zedaph: 7
+23: Cub_Cam: 3
+Total 6719

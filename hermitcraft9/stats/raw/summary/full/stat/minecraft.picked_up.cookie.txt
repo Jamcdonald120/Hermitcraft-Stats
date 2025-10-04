@@ -1,0 +1,27 @@
+minecraft.picked_up.cookie
+25: Mumbo: 304
+25: cubfan135: 266
+25: Keralis1: 234
+25: MythicalSausage: 135
+25: Tango: 116
+25: Grian: 71
+25: RentheKing: 63
+25: iJevin: 60
+25: Xisuma: 55
+25: Pixlriffs: 45
+25: ZombieCleo: 44
+25: joehillssays: 38
+25: Welsknight: 35
+25: BdoubleO100: 20
+25: PearlescentMoon: 18
+25: Smajor1995: 15
+25: GoodTimeWithScar: 13
+25: hypnotizd: 11
+25: Docm77: 9
+25: falsesymmetry: 9
+25: SolidarityGaming: 5
+25: ShubbleYT: 4
+25: OrionSound: 1
+25: Renthedog: 1
+25: Zedaph: 1
+Total 1573

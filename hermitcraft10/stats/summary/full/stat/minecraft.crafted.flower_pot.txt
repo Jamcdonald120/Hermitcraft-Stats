@@ -1,0 +1,26 @@
+minecraft.crafted.flower_pot
+24: Etho: 920
+24: Renthedog: 489
+24: cubfan135: 431
+24: GoodTimeWithScar: 301
+24: Smallishbeans: 249
+24: iJevin: 171
+24: PearlescentMoon: 144
+24: Keralis1: 136
+24: hypnotizd: 128
+24: BdoubleO100: 116
+24: falsesymmetry: 113
+24: Xisuma: 91
+24: Docm77: 70
+24: GeminiTay: 68
+24: VintageBeef: 50
+24: Mumbo: 47
+24: Welsknight: 38
+24: impulseSV: 23
+24: joehillssays: 16
+24: Tango: 16
+24: Grian: 13
+24: Skizzleman: 9
+24: ZombieCleo: 5
+24: xBCrafted: 1
+Total 3645

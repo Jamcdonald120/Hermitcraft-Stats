@@ -1,0 +1,30 @@
+minecraft.crafted.bow
+28: GoodTimeWithScar: 1058
+28: Etho: 961
+28: Tango: 543
+28: impulseSV: 473
+28: Xisuma: 451
+28: Docm77: 282
+28: Zedaph: 234
+28: hypnotizd: 187
+28: Renthedog: 178
+28: ZombieCleo: 163
+28: iJevin: 116
+28: GeminiTay: 114
+28: xBCrafted: 84
+28: iskall85: 79
+28: Welsknight: 72
+28: PearlescentMoon: 64
+28: Grian: 59
+28: cubfan135: 59
+28: Keralis1: 48
+28: falsesymmetry: 47
+28: VintageBeef: 35
+28: BdoubleO100: 34
+28: joehillssays: 27
+28: Stressmonster101: 9
+28: Smajor1995: 1
+28: MythicalSausage: 1
+28: Pixlriffs: 1
+28: Mumbo: 1
+Total 5381

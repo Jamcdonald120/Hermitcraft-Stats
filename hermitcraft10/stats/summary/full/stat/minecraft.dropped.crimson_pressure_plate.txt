@@ -1,0 +1,3 @@
+minecraft.dropped.crimson_pressure_plate
+1: Etho: 10
+Total 10

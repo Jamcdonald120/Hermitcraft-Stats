@@ -1,0 +1,25 @@
+minecraft.picked_up.book
+23: ZombieCleo: 2227
+23: iJevin: 1662
+23: joehillssays: 1568
+23: cubfan135: 1371
+23: Etho: 785
+23: Keralis1: 729
+23: Zedaph: 596
+23: GoodTimeWithScar: 280
+23: Docm77: 265
+23: Grian: 237
+23: xBCrafted: 182
+23: Tango: 128
+23: impulseSV: 103
+23: falsesymmetry: 99
+23: Xisuma: 95
+23: hypnotizd: 87
+23: PearlescentMoon: 81
+23: Renthedog: 20
+23: BdoubleO100: 19
+23: GeminiTay: 12
+23: Smallishbeans: 12
+23: Skizzleman: 7
+23: VintageBeef: 6
+Total 10571

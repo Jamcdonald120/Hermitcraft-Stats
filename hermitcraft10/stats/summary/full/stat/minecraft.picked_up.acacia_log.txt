@@ -1,0 +1,27 @@
+minecraft.picked_up.acacia_log
+25: GoodTimeWithScar: 9331
+25: Docm77: 7990
+25: BdoubleO100: 4378
+25: Smallishbeans: 3566
+25: Tango: 3060
+25: Xisuma: 2847
+25: GeminiTay: 2664
+25: impulseSV: 2084
+25: PearlescentMoon: 2032
+25: Renthedog: 1753
+25: Keralis1: 1526
+25: Grian: 1145
+25: Etho: 1115
+25: Mumbo: 785
+25: ZombieCleo: 585
+25: Skizzleman: 413
+25: VintageBeef: 349
+25: joehillssays: 335
+25: cubfan135: 332
+25: falsesymmetry: 98
+25: iJevin: 65
+25: Zedaph: 59
+25: hypnotizd: 57
+25: xBCrafted: 19
+25: Welsknight: 19
+Total 46607

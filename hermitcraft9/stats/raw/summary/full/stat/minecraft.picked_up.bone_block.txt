@@ -1,0 +1,31 @@
+minecraft.picked_up.bone_block
+29: Xisuma: 6257
+29: Tango: 2407
+29: Grian: 1571
+29: Etho: 1360
+29: Renthedog: 1283
+29: GoodTimeWithScar: 1248
+29: joehillssays: 1224
+29: PearlescentMoon: 1084
+29: Keralis1: 916
+29: iJevin: 789
+29: ZombieCleo: 618
+29: cubfan135: 595
+29: GeminiTay: 480
+29: falsesymmetry: 472
+29: Docm77: 349
+29: VintageBeef: 266
+29: hypnotizd: 181
+29: impulseSV: 158
+29: Zedaph: 148
+29: RentheKing: 122
+29: Stressmonster101: 104
+29: fWhip: 71
+29: BdoubleO100: 66
+29: xBCrafted: 48
+29: Welsknight: 9
+29: Pixlriffs: 2
+29: BadTimeWithScar: 2
+29: Smajor1995: 1
+29: MythicalSausage: 1
+Total 21832

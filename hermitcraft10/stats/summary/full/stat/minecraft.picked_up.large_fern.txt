@@ -1,0 +1,4 @@
+minecraft.picked_up.large_fern
+2: iJevin: 19
+2: PearlescentMoon: 2
+Total 21

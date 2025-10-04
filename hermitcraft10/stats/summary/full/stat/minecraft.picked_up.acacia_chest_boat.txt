@@ -1,0 +1,4 @@
+minecraft.picked_up.acacia_chest_boat
+2: GoodTimeWithScar: 2
+2: Grian: 1
+Total 3

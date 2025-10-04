@@ -1,0 +1,5 @@
+minecraft.crafted.brown_candle
+3: Tango: 216
+3: ZombieCleo: 132
+3: PearlescentMoon: 3
+Total 351

@@ -1,0 +1,6 @@
+minecraft.mined.pale_oak_pressure_plate
+4: impulseSV: 5
+4: iJevin: 2
+4: cubfan135: 2
+4: joehillssays: 1
+Total 10

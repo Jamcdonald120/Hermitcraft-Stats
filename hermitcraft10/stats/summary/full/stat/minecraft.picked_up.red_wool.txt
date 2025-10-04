@@ -1,0 +1,26 @@
+minecraft.picked_up.red_wool
+24: Xisuma: 1609
+24: GoodTimeWithScar: 1521
+24: iJevin: 803
+24: falsesymmetry: 383
+24: BdoubleO100: 352
+24: Docm77: 237
+24: Smallishbeans: 215
+24: Etho: 192
+24: GeminiTay: 166
+24: PearlescentMoon: 147
+24: joehillssays: 142
+24: Grian: 137
+24: Tango: 135
+24: impulseSV: 116
+24: cubfan135: 112
+24: Welsknight: 77
+24: Skizzleman: 66
+24: Keralis1: 62
+24: ZombieCleo: 61
+24: VintageBeef: 51
+24: Zedaph: 42
+24: Renthedog: 36
+24: Mumbo: 24
+24: xBCrafted: 14
+Total 6700

@@ -1,0 +1,23 @@
+minecraft.picked_up.dark_oak_stairs
+21: Grian: 198
+21: joehillssays: 161
+21: GoodTimeWithScar: 132
+21: falsesymmetry: 82
+21: Xisuma: 78
+21: GeminiTay: 70
+21: cubfan135: 58
+21: Tango: 49
+21: iskall85: 47
+21: BdoubleO100: 36
+21: ZombieCleo: 29
+21: Welsknight: 21
+21: Renthedog: 20
+21: impulseSV: 12
+21: xBCrafted: 5
+21: Docm77: 2
+21: iJevin: 2
+21: Etho: 2
+21: VintageBeef: 1
+21: PearlescentMoon: 1
+21: Zedaph: 1
+Total 1007

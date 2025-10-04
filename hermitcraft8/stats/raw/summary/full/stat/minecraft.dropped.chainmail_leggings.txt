@@ -1,0 +1,18 @@
+minecraft.dropped.chainmail_leggings
+16: Tango: 27
+16: Xisuma: 22
+16: Grian: 9
+16: Etho: 5
+16: hypnotizd: 5
+16: Keralis1: 5
+16: iJevin: 4
+16: iskall85: 4
+16: GoodTimeWithScar: 4
+16: Docm77: 3
+16: impulseSV: 3
+16: PearlescentMoon: 2
+16: falsesymmetry: 2
+16: Renthedog: 1
+16: BdoubleO100: 1
+16: cubfan135: 1
+Total 98

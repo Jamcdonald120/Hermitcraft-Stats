@@ -1,0 +1,7 @@
+minecraft.crafted.purpur_block
+5: impulseSV: 380
+5: iJevin: 292
+5: cubfan135: 24
+5: Docm77: 20
+5: Zedaph: 4
+Total 720

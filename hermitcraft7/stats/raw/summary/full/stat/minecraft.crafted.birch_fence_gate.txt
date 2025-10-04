@@ -1,0 +1,19 @@
+minecraft.crafted.birch_fence_gate
+17: impulseSV: 785
+17: Stressmonster101: 326
+17: Xisuma: 277
+17: VintageBeef: 241
+17: Keralis1: 200
+17: Welsknight: 143
+17: cubfan135: 138
+17: Grian: 77
+17: GoodTimeWithScar: 27
+17: Etho: 25
+17: BdoubleO100: 16
+17: joehillssays: 13
+17: iJevin: 10
+17: Tango: 10
+17: ZombieCleo: 2
+17: MumboJumbo: 2
+17: Docm77: 1
+Total 2293

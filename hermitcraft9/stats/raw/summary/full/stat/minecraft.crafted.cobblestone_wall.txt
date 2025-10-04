@@ -1,0 +1,24 @@
+minecraft.crafted.cobblestone_wall
+22: Tango: 1338
+22: Keralis1: 1176
+22: falsesymmetry: 828
+22: cubfan135: 576
+22: Mumbo: 516
+22: MumboJumbo: 492
+22: GoodTimeWithScar: 462
+22: Docm77: 459
+22: Stressmonster101: 180
+22: impulseSV: 180
+22: MythicalSausage: 72
+22: iJevin: 66
+22: GeminiTay: 43
+22: Zedaph: 41
+22: VintageBeef: 30
+22: iskall85: 24
+22: xBCrafted: 23
+22: Grian: 14
+22: ZombieCleo: 10
+22: Renthedog: 7
+22: PearlescentMoon: 5
+22: Xisuma: 1
+Total 6543

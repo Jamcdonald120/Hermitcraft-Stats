@@ -1,0 +1,21 @@
+minecraft.dropped.diamond_helmet
+19: cubfan135: 25
+19: Tango: 13
+19: Grian: 12
+19: GoodTimeWithScar: 12
+19: iskall85: 11
+19: Xisuma: 9
+19: Zedaph: 8
+19: MumboJumbo: 5
+19: impulseSV: 4
+19: Docm77: 3
+19: Renthedog: 3
+19: iJevin: 2
+19: PythonCam: 2
+19: falsesymmetry: 2
+19: BadTimeWithScar: 2
+19: EvilXisuma: 1
+19: PythonGB: 1
+19: BdoubleO100: 1
+19: Stressmonster101: 1
+Total 117

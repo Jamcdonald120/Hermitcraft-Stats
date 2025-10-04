@@ -1,0 +1,4 @@
+minecraft.dropped.deepslate_coal_ore
+2: BdoubleO100: 10
+2: GoodTimeWithScar: 10
+Total 20

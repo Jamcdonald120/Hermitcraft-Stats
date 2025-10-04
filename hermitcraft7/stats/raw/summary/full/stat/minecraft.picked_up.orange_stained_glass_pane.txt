@@ -1,0 +1,16 @@
+minecraft.picked_up.orange_stained_glass_pane
+14: impulseSV: 805
+14: Grian: 504
+14: iJevin: 478
+14: cubfan135: 132
+14: GoodTimeWithScar: 81
+14: Xisuma: 47
+14: xBCrafted: 30
+14: Etho: 24
+14: Docm77: 16
+14: joehillssays: 16
+14: falsesymmetry: 16
+14: VintageBeef: 15
+14: Zedaph: 6
+14: MumboJumbo: 3
+Total 2173

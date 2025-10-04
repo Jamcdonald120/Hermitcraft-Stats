@@ -1,0 +1,17 @@
+minecraft.dropped.deepslate_tiles
+15: Tango: 352
+15: iJevin: 73
+15: cubfan135: 59
+15: Stressmonster101: 58
+15: Grian: 52
+15: PearlescentMoon: 43
+15: impulseSV: 32
+15: GoodTimeWithScar: 22
+15: Zedaph: 11
+15: Renthedog: 10
+15: Etho: 7
+15: Xisuma: 3
+15: Keralis1: 3
+15: falsesymmetry: 1
+15: hypnotizd: 1
+Total 727

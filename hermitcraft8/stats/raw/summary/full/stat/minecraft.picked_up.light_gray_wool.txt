@@ -1,0 +1,18 @@
+minecraft.picked_up.light_gray_wool
+16: BdoubleO100: 2081
+16: Zedaph: 378
+16: Grian: 271
+16: PearlescentMoon: 130
+16: Welsknight: 63
+16: Renthedog: 36
+16: GoodTimeWithScar: 36
+16: falsesymmetry: 33
+16: Xisuma: 25
+16: GeminiTay: 18
+16: Tango: 18
+16: iJevin: 15
+16: impulseSV: 11
+16: Docm77: 1
+16: VintageBeef: 1
+16: iskall85: 1
+Total 3118

@@ -1,0 +1,18 @@
+minecraft.crafted.red_bed
+16: GoodTimeWithScar: 71
+16: falsesymmetry: 26
+16: impulseSV: 15
+16: iskall85: 12
+16: cubfan135: 12
+16: joehillssays: 5
+16: BdoubleO100: 5
+16: PythonGB: 4
+16: Tango: 3
+16: Renthedog: 2
+16: Grian: 2
+16: Welsknight: 2
+16: Zedaph: 2
+16: Docm77: 1
+16: Xisuma: 1
+16: ZombieCleo: 1
+Total 164

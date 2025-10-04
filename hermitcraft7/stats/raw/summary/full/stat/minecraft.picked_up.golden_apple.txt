@@ -1,0 +1,22 @@
+minecraft.picked_up.golden_apple
+20: impulseSV: 145
+20: Tango: 121
+20: Keralis1: 72
+20: iskall85: 50
+20: GoodTimeWithScar: 48
+20: Etho: 37
+20: joehillssays: 29
+20: Grian: 28
+20: hypnotizd: 19
+20: iJevin: 11
+20: Stressmonster101: 11
+20: Xisuma: 10
+20: Zedaph: 8
+20: MumboJumbo: 6
+20: VintageBeef: 4
+20: Docm77: 3
+20: BdoubleO100: 3
+20: cubfan135: 3
+20: falsesymmetry: 2
+20: Welsknight: 1
+Total 611

@@ -1,0 +1,3 @@
+minecraft.picked_up.dragon_egg
+1: cubfan135: 5
+Total 5

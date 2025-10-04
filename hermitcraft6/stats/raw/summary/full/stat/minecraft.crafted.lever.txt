@@ -1,0 +1,25 @@
+minecraft.crafted.lever
+23: GoodTimeWithScar: 796
+23: impulseSV: 783
+23: falsesymmetry: 537
+23: cubfan135: 529
+23: Renthedog: 387
+23: MumboJumbo: 295
+23: iJevin: 291
+23: iskall85: 290
+23: Xisuma: 255
+23: Grian: 231
+23: Docm77: 187
+23: Tinfoilchef: 185
+23: Tango: 133
+23: Welsknight: 82
+23: Keralis1: 50
+23: Zedaph: 41
+23: ZombieCleo: 36
+23: joehillssays: 21
+23: Stressmonster101: 18
+23: BdoubleO100: 16
+23: PythonGB: 14
+23: Biffa2001: 5
+23: xBCrafted: 1
+Total 5183

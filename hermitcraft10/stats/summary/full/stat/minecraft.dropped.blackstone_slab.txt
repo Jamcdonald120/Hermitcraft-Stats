@@ -1,0 +1,8 @@
+minecraft.dropped.blackstone_slab
+6: GoodTimeWithScar: 118
+6: impulseSV: 54
+6: iJevin: 7
+6: Etho: 6
+6: Grian: 4
+6: Tango: 4
+Total 193

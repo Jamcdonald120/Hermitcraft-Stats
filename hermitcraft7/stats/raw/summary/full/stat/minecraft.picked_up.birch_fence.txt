@@ -1,0 +1,21 @@
+minecraft.picked_up.birch_fence
+19: Xisuma: 582
+19: VintageBeef: 302
+19: Grian: 159
+19: Renthedog: 140
+19: Zedaph: 135
+19: Welsknight: 85
+19: cubfan135: 76
+19: xBCrafted: 71
+19: Tango: 67
+19: Etho: 48
+19: impulseSV: 20
+19: BdoubleO100: 17
+19: Keralis1: 17
+19: GoodTimeWithScar: 12
+19: joehillssays: 9
+19: hypnotizd: 6
+19: Stressmonster101: 6
+19: iskall85: 1
+19: MumboJumbo: 1
+Total 1754

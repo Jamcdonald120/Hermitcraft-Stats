@@ -1,0 +1,36 @@
+minecraft.picked_up.diamond_boots
+34: GoodTimeWithScar: 310
+34: joehillssays: 113
+34: Skizzleman: 113
+34: iJevin: 65
+34: Tango: 58
+34: xBCrafted: 49
+34: Etho: 45
+34: Grian: 32
+34: cubfan135: 31
+34: Docm77: 29
+34: Renthedog: 28
+34: PearlescentMoon: 28
+34: Zedaph: 28
+34: BdoubleO100: 27
+34: Xisuma: 24
+34: GeminiTay: 23
+34: impulseSV: 23
+34: Keralis1: 19
+34: VintageBeef: 16
+34: Mumbo: 16
+34: falsesymmetry: 14
+34: ZombieCleo: 13
+34: SolidarityGaming: 12
+34: Smallishbeans: 11
+34: hypnotizd: 11
+34: Smajor1995: 5
+34: InTheLittleWood: 5
+34: aimsey: 5
+34: Welsknight: 4
+34: JamalMC_: 3
+34: HBomb94: 2
+34: F1RECRACKR: 1
+34: OrionSound: 1
+34: hannahxxrose: 1
+Total 1165

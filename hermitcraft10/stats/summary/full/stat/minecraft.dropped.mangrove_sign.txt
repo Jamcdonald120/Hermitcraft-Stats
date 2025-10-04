@@ -1,0 +1,10 @@
+minecraft.dropped.mangrove_sign
+8: GoodTimeWithScar: 58
+8: falsesymmetry: 13
+8: iJevin: 12
+8: Etho: 7
+8: Mumbo: 6
+8: Renthedog: 3
+8: Tango: 2
+8: Grian: 1
+Total 102

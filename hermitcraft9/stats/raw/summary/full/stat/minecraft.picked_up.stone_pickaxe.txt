@@ -1,0 +1,25 @@
+minecraft.picked_up.stone_pickaxe
+23: iJevin: 17
+23: joehillssays: 16
+23: Tinfoilchef: 16
+23: Grian: 13
+23: falsesymmetry: 12
+23: ZombieCleo: 11
+23: impulseSV: 10
+23: PearlescentMoon: 8
+23: Mumbo: 6
+23: MumboJumbo: 6
+23: Xisuma: 5
+23: Renthedog: 5
+23: OrionSound: 4
+23: VintageBeef: 3
+23: GeminiTay: 3
+23: Keralis1: 3
+23: Docm77: 2
+23: iskall85: 2
+23: cubfan135: 2
+23: Welsknight: 2
+23: Stressmonster101: 1
+23: ShubbleYT: 1
+23: Zedaph: 1
+Total 149

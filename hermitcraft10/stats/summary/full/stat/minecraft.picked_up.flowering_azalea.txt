@@ -1,0 +1,27 @@
+minecraft.picked_up.flowering_azalea
+25: Etho: 4367
+25: GoodTimeWithScar: 3005
+25: Grian: 1530
+25: Keralis1: 933
+25: falsesymmetry: 680
+25: Xisuma: 669
+25: iJevin: 575
+25: xBCrafted: 442
+25: Smallishbeans: 368
+25: Renthedog: 295
+25: Mumbo: 273
+25: Docm77: 214
+25: PearlescentMoon: 154
+25: BdoubleO100: 110
+25: ZombieCleo: 104
+25: Tango: 80
+25: cubfan135: 78
+25: GeminiTay: 76
+25: impulseSV: 62
+25: Skizzleman: 52
+25: VintageBeef: 34
+25: Welsknight: 30
+25: joehillssays: 23
+25: hypnotizd: 16
+25: Zedaph: 11
+Total 14181

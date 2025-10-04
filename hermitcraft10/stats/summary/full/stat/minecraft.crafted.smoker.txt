@@ -1,0 +1,23 @@
+minecraft.crafted.smoker
+21: Keralis1: 96
+21: Smallishbeans: 80
+21: ZombieCleo: 78
+21: hypnotizd: 64
+21: GoodTimeWithScar: 53
+21: falsesymmetry: 37
+21: impulseSV: 36
+21: BdoubleO100: 27
+21: Tango: 20
+21: cubfan135: 19
+21: Xisuma: 17
+21: PearlescentMoon: 16
+21: Mumbo: 10
+21: xBCrafted: 8
+21: Renthedog: 4
+21: GeminiTay: 4
+21: Welsknight: 4
+21: VintageBeef: 1
+21: iJevin: 1
+21: Grian: 1
+21: Etho: 1
+Total 577

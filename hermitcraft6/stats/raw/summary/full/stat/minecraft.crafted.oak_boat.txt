@@ -1,0 +1,26 @@
+minecraft.crafted.oak_boat
+24: Zedaph: 71
+24: Docm77: 50
+24: iJevin: 37
+24: cubfan135: 36
+24: Tango: 29
+24: Renthedog: 28
+24: joehillssays: 26
+24: iskall85: 26
+24: Grian: 24
+24: GoodTimeWithScar: 24
+24: falsesymmetry: 17
+24: impulseSV: 15
+24: MumboJumbo: 14
+24: Xisuma: 11
+24: Biffa2001: 10
+24: Stressmonster101: 10
+24: ZombieCleo: 8
+24: PythonGB: 6
+24: Welsknight: 5
+24: Keralis1: 3
+24: EvilXisuma: 2
+24: Tinfoilchef: 2
+24: Jessassin: 1
+24: BdoubleO100: 1
+Total 456

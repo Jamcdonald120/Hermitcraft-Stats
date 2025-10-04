@@ -1,0 +1,14 @@
+minecraft.picked_up.purple_dye
+12: hypnotizd: 128
+12: PearlescentMoon: 76
+12: iJevin: 67
+12: Grian: 53
+12: falsesymmetry: 45
+12: Tango: 30
+12: impulseSV: 16
+12: cubfan135: 7
+12: Zedaph: 7
+12: Etho: 4
+12: joehillssays: 3
+12: GoodTimeWithScar: 1
+Total 437

@@ -1,0 +1,4 @@
+minecraft.crafted.tube_coral_block
+2: falsesymmetry: 24
+2: Renthedog: 8
+Total 32

@@ -1,0 +1,4 @@
+minecraft.custom.clean_banner
+2: MumboJumbo: 6
+2: cubfan135: 3
+Total 9

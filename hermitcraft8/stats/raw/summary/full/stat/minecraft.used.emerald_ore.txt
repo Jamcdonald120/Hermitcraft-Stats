@@ -1,0 +1,10 @@
+minecraft.used.emerald_ore
+8: PearlescentMoon: 12
+8: Welsknight: 8
+8: Renthedog: 7
+8: Grian: 6
+8: iJevin: 3
+8: ZombieCleo: 3
+8: GoodTimeWithScar: 2
+8: VintageBeef: 1
+Total 42

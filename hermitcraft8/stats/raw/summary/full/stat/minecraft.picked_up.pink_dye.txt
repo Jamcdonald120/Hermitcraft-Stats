@@ -1,0 +1,8 @@
+minecraft.picked_up.pink_dye
+6: Tango: 136
+6: Etho: 64
+6: Grian: 30
+6: Welsknight: 2
+6: Keralis1: 2
+6: BdoubleO100: 1
+Total 235

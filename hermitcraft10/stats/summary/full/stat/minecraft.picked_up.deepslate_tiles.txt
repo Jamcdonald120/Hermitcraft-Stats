@@ -1,0 +1,27 @@
+minecraft.picked_up.deepslate_tiles
+25: Skizzleman: 7431
+25: cubfan135: 4732
+25: impulseSV: 768
+25: xBCrafted: 683
+25: Smallishbeans: 597
+25: Xisuma: 322
+25: ZombieCleo: 267
+25: Renthedog: 242
+25: Mumbo: 237
+25: VintageBeef: 233
+25: PearlescentMoon: 200
+25: Grian: 181
+25: falsesymmetry: 160
+25: Etho: 83
+25: BdoubleO100: 68
+25: joehillssays: 54
+25: GoodTimeWithScar: 50
+25: GeminiTay: 48
+25: Zedaph: 34
+25: iJevin: 21
+25: Docm77: 18
+25: Tango: 15
+25: Keralis1: 3
+25: Eyjoy27: 2
+25: hypnotizd: 1
+Total 16450

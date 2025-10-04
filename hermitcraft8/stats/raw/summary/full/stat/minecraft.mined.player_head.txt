@@ -1,0 +1,25 @@
+minecraft.mined.player_head
+23: PearlescentMoon: 59
+23: Renthedog: 58
+23: Grian: 36
+23: cubfan135: 22
+23: Etho: 19
+23: Zedaph: 17
+23: Docm77: 16
+23: BdoubleO100: 15
+23: falsesymmetry: 15
+23: impulseSV: 15
+23: GoodTimeWithScar: 14
+23: xBCrafted: 13
+23: GeminiTay: 11
+23: iJevin: 8
+23: iskall85: 5
+23: ZombieCleo: 5
+23: MumboJumbo: 3
+23: Keralis1: 3
+23: Xisuma: 2
+23: Tango: 2
+23: Welsknight: 2
+23: hypnotizd: 2
+23: Stressmonster101: 2
+Total 344

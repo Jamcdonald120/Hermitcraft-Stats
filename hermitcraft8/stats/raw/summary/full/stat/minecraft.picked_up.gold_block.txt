@@ -1,0 +1,23 @@
+minecraft.picked_up.gold_block
+21: impulseSV: 1106
+21: cubfan135: 394
+21: GeminiTay: 341
+21: PearlescentMoon: 222
+21: hypnotizd: 221
+21: GoodTimeWithScar: 142
+21: iJevin: 100
+21: Grian: 99
+21: joehillssays: 79
+21: Tango: 64
+21: Renthedog: 61
+21: Xisuma: 55
+21: Etho: 34
+21: VintageBeef: 26
+21: Welsknight: 17
+21: iskall85: 14
+21: Zedaph: 13
+21: Keralis1: 9
+21: Docm77: 6
+21: xBCrafted: 2
+21: ZombieCleo: 1
+Total 3006

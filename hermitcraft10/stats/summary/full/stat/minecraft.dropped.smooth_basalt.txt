@@ -1,0 +1,18 @@
+minecraft.dropped.smooth_basalt
+16: iJevin: 111
+16: BdoubleO100: 96
+16: falsesymmetry: 64
+16: cubfan135: 59
+16: Docm77: 58
+16: GoodTimeWithScar: 54
+16: Keralis1: 31
+16: xBCrafted: 23
+16: Tango: 20
+16: Grian: 19
+16: Renthedog: 14
+16: PearlescentMoon: 8
+16: Etho: 5
+16: Mumbo: 5
+16: Xisuma: 4
+16: Zedaph: 2
+Total 573

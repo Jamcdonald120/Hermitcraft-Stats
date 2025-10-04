@@ -1,0 +1,23 @@
+minecraft.mined.spruce_sign
+21: GoodTimeWithScar: 25
+21: PearlescentMoon: 23
+21: iJevin: 22
+21: BdoubleO100: 14
+21: ZombieCleo: 7
+21: Tango: 5
+21: xBCrafted: 5
+21: Keralis1: 5
+21: Xisuma: 4
+21: falsesymmetry: 4
+21: impulseSV: 4
+21: joehillssays: 3
+21: Smallishbeans: 3
+21: Docm77: 2
+21: Grian: 2
+21: Etho: 2
+21: Zedaph: 2
+21: Renthedog: 1
+21: GeminiTay: 1
+21: Skizzleman: 1
+21: SolidarityGaming: 1
+Total 136

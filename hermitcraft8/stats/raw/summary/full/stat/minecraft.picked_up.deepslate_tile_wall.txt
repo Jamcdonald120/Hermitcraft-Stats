@@ -1,0 +1,17 @@
+minecraft.picked_up.deepslate_tile_wall
+15: cubfan135: 240
+15: ZombieCleo: 196
+15: Renthedog: 188
+15: joehillssays: 114
+15: Docm77: 44
+15: iJevin: 40
+15: Xisuma: 31
+15: PearlescentMoon: 30
+15: xBCrafted: 29
+15: Welsknight: 29
+15: Grian: 28
+15: VintageBeef: 20
+15: impulseSV: 7
+15: GoodTimeWithScar: 6
+15: Stressmonster101: 1
+Total 1003

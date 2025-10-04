@@ -1,0 +1,18 @@
+minecraft.picked_up.pink_wool
+16: PearlescentMoon: 3263
+16: joehillssays: 1186
+16: Renthedog: 151
+16: Docm77: 109
+16: VintageBeef: 75
+16: impulseSV: 63
+16: GeminiTay: 59
+16: iJevin: 56
+16: Tango: 37
+16: iskall85: 23
+16: GoodTimeWithScar: 4
+16: Zedaph: 4
+16: Xisuma: 3
+16: Grian: 3
+16: ZombieCleo: 1
+16: Keralis1: 1
+Total 5038

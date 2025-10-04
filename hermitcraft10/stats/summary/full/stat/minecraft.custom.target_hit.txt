@@ -1,0 +1,28 @@
+minecraft.custom.target_hit
+26: PearlescentMoon: 1919
+26: Skizzleman: 1325
+26: cubfan135: 420
+26: Tango: 334
+26: Etho: 286
+26: Renthedog: 256
+26: xBCrafted: 213
+26: falsesymmetry: 197
+26: Docm77: 176
+26: GeminiTay: 151
+26: Keralis1: 140
+26: Xisuma: 135
+26: BdoubleO100: 119
+26: iJevin: 100
+26: Grian: 92
+26: joehillssays: 67
+26: ZombieCleo: 61
+26: Zedaph: 54
+26: Smallishbeans: 50
+26: Mumbo: 43
+26: GoodTimeWithScar: 33
+26: impulseSV: 26
+26: SolidarityGaming: 22
+26: HBomb94: 4
+26: hypnotizd: 1
+26: aimsey: 1
+Total 6225

@@ -1,0 +1,26 @@
+minecraft.picked_up.clay_ball
+24: GoodTimeWithScar: 8876
+24: hypnotizd: 7232
+24: Xisuma: 5137
+24: BdoubleO100: 3960
+24: Renthedog: 3587
+24: iJevin: 2779
+24: VintageBeef: 2720
+24: Zedaph: 2020
+24: falsesymmetry: 1852
+24: Tango: 1508
+24: Etho: 572
+24: iskall85: 556
+24: joehillssays: 547
+24: xBCrafted: 500
+24: Keralis1: 344
+24: Stressmonster101: 224
+24: MumboJumbo: 212
+24: cubfan135: 204
+24: Welsknight: 192
+24: Docm77: 152
+24: impulseSV: 96
+24: ZombieCleo: 60
+24: Grian: 20
+24: HermitcraftAlt: 4
+Total 43354

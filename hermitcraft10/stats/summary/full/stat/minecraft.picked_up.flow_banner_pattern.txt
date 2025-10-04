@@ -1,0 +1,18 @@
+minecraft.picked_up.flow_banner_pattern
+16: PearlescentMoon: 45
+16: cubfan135: 20
+16: Docm77: 17
+16: Xisuma: 14
+16: iJevin: 11
+16: Etho: 10
+16: Renthedog: 8
+16: Skizzleman: 4
+16: GoodTimeWithScar: 4
+16: Tango: 3
+16: Keralis1: 3
+16: GeminiTay: 2
+16: Grian: 2
+16: xBCrafted: 2
+16: impulseSV: 2
+16: Smallishbeans: 1
+Total 148

@@ -1,0 +1,7 @@
+minecraft.crafted.purple_glazed_terracotta
+5: falsesymmetry: 128
+5: Etho: 128
+5: VintageBeef: 48
+5: impulseSV: 24
+5: iskall85: 3
+Total 331

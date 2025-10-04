@@ -1,0 +1,7 @@
+minecraft.crafted.purpur_block
+5: cubfan135: 1448
+5: Xisuma: 480
+5: PythonGB: 384
+5: Tinfoilchef: 256
+5: Docm77: 64
+Total 2632

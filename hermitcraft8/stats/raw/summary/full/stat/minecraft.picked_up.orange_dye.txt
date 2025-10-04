@@ -1,0 +1,9 @@
+minecraft.picked_up.orange_dye
+7: Etho: 257
+7: falsesymmetry: 25
+7: iJevin: 20
+7: Zedaph: 4
+7: Welsknight: 2
+7: Grian: 1
+7: ZombieCleo: 1
+Total 310

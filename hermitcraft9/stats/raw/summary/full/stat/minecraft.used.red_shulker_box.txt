@@ -1,0 +1,34 @@
+minecraft.used.red_shulker_box
+32: Tango: 1951
+32: joehillssays: 1436
+32: GoodTimeWithScar: 1029
+32: PearlescentMoon: 997
+32: cubfan135: 804
+32: Xisuma: 657
+32: Etho: 552
+32: iJevin: 549
+32: hypnotizd: 535
+32: Docm77: 458
+32: Renthedog: 453
+32: impulseSV: 452
+32: falsesymmetry: 444
+32: BdoubleO100: 390
+32: xBCrafted: 259
+32: Keralis1: 208
+32: ZombieCleo: 205
+32: iskall85: 191
+32: Zedaph: 169
+32: MythicalSausage: 105
+32: RentheKing: 95
+32: Stressmonster101: 87
+32: Mumbo: 65
+32: VintageBeef: 55
+32: Grian: 39
+32: Smallishbeans: 24
+32: GeminiTay: 16
+32: SolidarityGaming: 12
+32: HBomb94: 11
+32: Pixlriffs: 7
+32: OrionSound: 1
+32: Skizzleman: 1
+Total 12257

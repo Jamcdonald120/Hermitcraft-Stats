@@ -1,0 +1,10 @@
+minecraft.dropped.gray_dye
+8: falsesymmetry: 176
+8: Tango: 128
+8: GoodTimeWithScar: 68
+8: iJevin: 64
+8: Grian: 31
+8: Keralis1: 18
+8: Zedaph: 4
+8: Xisuma: 1
+Total 490

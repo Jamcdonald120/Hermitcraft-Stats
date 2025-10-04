@@ -1,0 +1,4 @@
+minecraft.dropped.bamboo_fence
+2: Zedaph: 4
+2: GoodTimeWithScar: 2
+Total 6

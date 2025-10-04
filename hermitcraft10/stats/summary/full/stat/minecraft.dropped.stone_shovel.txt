@@ -1,0 +1,19 @@
+minecraft.dropped.stone_shovel
+17: Etho: 32
+17: Zedaph: 29
+17: Mumbo: 24
+17: impulseSV: 18
+17: iJevin: 5
+17: Welsknight: 5
+17: Skizzleman: 4
+17: ZombieCleo: 4
+17: GoodTimeWithScar: 4
+17: VintageBeef: 3
+17: hypnotizd: 2
+17: Docm77: 1
+17: Grian: 1
+17: Smallishbeans: 1
+17: BdoubleO100: 1
+17: xBCrafted: 1
+17: falsesymmetry: 1
+Total 136

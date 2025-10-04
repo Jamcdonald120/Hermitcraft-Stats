@@ -1,0 +1,4 @@
+minecraft.mined.light_blue_wall_banner
+2: Zedaph: 3
+2: Renthedog: 2
+Total 5

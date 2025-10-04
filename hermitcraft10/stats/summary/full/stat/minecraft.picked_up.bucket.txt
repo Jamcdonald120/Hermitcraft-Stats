@@ -1,0 +1,28 @@
+minecraft.picked_up.bucket
+26: Tango: 873
+26: PearlescentMoon: 687
+26: Skizzleman: 370
+26: Grian: 360
+26: Renthedog: 251
+26: GeminiTay: 195
+26: Etho: 144
+26: GoodTimeWithScar: 127
+26: BdoubleO100: 124
+26: cubfan135: 99
+26: iJevin: 98
+26: joehillssays: 94
+26: Zedaph: 86
+26: Keralis1: 62
+26: impulseSV: 62
+26: falsesymmetry: 46
+26: Smallishbeans: 36
+26: Docm77: 35
+26: VintageBeef: 23
+26: ZombieCleo: 19
+26: Mumbo: 18
+26: xBCrafted: 16
+26: Xisuma: 15
+26: hypnotizd: 11
+26: SolidarityGaming: 3
+26: Welsknight: 2
+Total 3856

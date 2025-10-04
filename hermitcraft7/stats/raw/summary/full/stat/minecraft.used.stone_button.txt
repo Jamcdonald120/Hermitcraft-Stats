@@ -1,0 +1,26 @@
+minecraft.used.stone_button
+24: xBCrafted: 31232
+24: iJevin: 12209
+24: impulseSV: 4887
+24: cubfan135: 4441
+24: Keralis1: 1244
+24: GoodTimeWithScar: 764
+24: MumboJumbo: 689
+24: iskall85: 686
+24: Zedaph: 578
+24: Tango: 552
+24: Xisuma: 517
+24: falsesymmetry: 150
+24: BdoubleO100: 134
+24: Etho: 97
+24: Stressmonster101: 95
+24: Docm77: 85
+24: VintageBeef: 61
+24: Renthedog: 45
+24: Grian: 45
+24: hypnotizd: 29
+24: joehillssays: 24
+24: Helsknight: 20
+24: ZombieCleo: 16
+24: Welsknight: 7
+Total 58607

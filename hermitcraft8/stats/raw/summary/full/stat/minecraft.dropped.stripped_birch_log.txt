@@ -1,0 +1,5 @@
+minecraft.dropped.stripped_birch_log
+3: GoodTimeWithScar: 5
+3: Docm77: 1
+3: hypnotizd: 1
+Total 7

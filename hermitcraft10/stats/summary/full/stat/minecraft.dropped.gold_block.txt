@@ -1,0 +1,12 @@
+minecraft.dropped.gold_block
+10: ZombieCleo: 315
+10: Grian: 191
+10: Keralis1: 105
+10: iJevin: 63
+10: Xisuma: 14
+10: Tango: 12
+10: Renthedog: 8
+10: Etho: 7
+10: impulseSV: 2
+10: cubfan135: 1
+Total 718

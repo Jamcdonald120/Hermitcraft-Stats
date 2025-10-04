@@ -1,0 +1,36 @@
+minecraft.picked_up.diamond_helmet
+34: Docm77: 66
+34: Grian: 65
+34: iJevin: 58
+34: GoodTimeWithScar: 51
+34: Etho: 32
+34: Zedaph: 27
+34: Keralis1: 22
+34: GeminiTay: 20
+34: Tango: 19
+34: joehillssays: 17
+34: falsesymmetry: 13
+34: VintageBeef: 11
+34: SolidarityGaming: 9
+34: Smajor1995: 8
+34: RentheKing: 8
+34: hypnotizd: 8
+34: PearlescentMoon: 7
+34: iskall85: 7
+34: xBCrafted: 7
+34: cubfan135: 7
+34: ZombieCleo: 7
+34: impulseSV: 6
+34: Xisuma: 3
+34: Renthedog: 3
+34: MythicalSausage: 3
+34: OrionSound: 2
+34: Mumbo: 2
+34: fWhip: 2
+34: Stressmonster101: 2
+34: Watcher_Grian: 1
+34: Smallishbeans: 1
+34: BdoubleO100: 1
+34: Pixlriffs: 1
+34: Welsknight: 1
+Total 497

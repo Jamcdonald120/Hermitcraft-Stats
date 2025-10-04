@@ -1,0 +1,5 @@
+minecraft.crafted.black_glazed_terracotta
+3: Etho: 768
+3: Keralis1: 120
+3: Grian: 12
+Total 900

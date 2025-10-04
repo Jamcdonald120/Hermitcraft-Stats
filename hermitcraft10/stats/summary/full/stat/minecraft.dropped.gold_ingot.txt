@@ -1,0 +1,27 @@
+minecraft.dropped.gold_ingot
+25: Etho: 4143
+25: iJevin: 1682
+25: impulseSV: 1031
+25: Renthedog: 953
+25: Zedaph: 936
+25: cubfan135: 532
+25: Keralis1: 424
+25: GeminiTay: 189
+25: Docm77: 116
+25: Grian: 116
+25: Mumbo: 78
+25: Tango: 71
+25: falsesymmetry: 46
+25: PearlescentMoon: 42
+25: Xisuma: 32
+25: hypnotizd: 20
+25: Skizzleman: 16
+25: ZombieCleo: 15
+25: Smallishbeans: 9
+25: xBCrafted: 7
+25: VintageBeef: 6
+25: joehillssays: 1
+25: BdoubleO100: 1
+25: GoodTimeWithScar: 1
+25: SolidarityGaming: 1
+Total 10468

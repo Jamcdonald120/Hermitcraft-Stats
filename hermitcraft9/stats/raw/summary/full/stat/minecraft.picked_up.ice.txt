@@ -1,0 +1,31 @@
+minecraft.picked_up.ice
+29: Tango: 109238
+29: falsesymmetry: 41805
+29: Renthedog: 11497
+29: Etho: 11381
+29: Xisuma: 10938
+29: Docm77: 10434
+29: GoodTimeWithScar: 3856
+29: ZombieCleo: 3609
+29: impulseSV: 2461
+29: Zedaph: 1467
+29: Mumbo: 1187
+29: iskall85: 943
+29: hypnotizd: 650
+29: Stressmonster101: 650
+29: PearlescentMoon: 509
+29: BdoubleO100: 414
+29: Pixlriffs: 265
+29: iJevin: 219
+29: cubfan135: 82
+29: VintageBeef: 79
+29: GeminiTay: 69
+29: Keralis1: 60
+29: truesymmetry: 20
+29: Smallishbeans: 14
+29: joehillssays: 12
+29: Grian: 12
+29: xBCrafted: 5
+29: RentheKing: 3
+29: MythicalSausage: 2
+Total 211881

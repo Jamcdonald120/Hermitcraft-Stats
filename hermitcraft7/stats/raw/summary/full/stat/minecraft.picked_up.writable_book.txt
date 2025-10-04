@@ -1,0 +1,25 @@
+minecraft.picked_up.writable_book
+23: GoodTimeWithScar: 57
+23: cubfan135: 45
+23: Tango: 34
+23: BdoubleO100: 31
+23: iskall85: 29
+23: Grian: 28
+23: Xisuma: 23
+23: impulseSV: 21
+23: Stressmonster101: 18
+23: joehillssays: 16
+23: Renthedog: 14
+23: xBCrafted: 14
+23: iJevin: 13
+23: Zedaph: 13
+23: Etho: 12
+23: MumboJumbo: 12
+23: falsesymmetry: 11
+23: Keralis1: 10
+23: VintageBeef: 5
+23: ZombieCleo: 5
+23: Docm77: 4
+23: Welsknight: 3
+23: hypnotizd: 1
+Total 419

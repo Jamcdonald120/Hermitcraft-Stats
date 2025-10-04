@@ -1,0 +1,22 @@
+minecraft.crafted.blue_concrete_powder
+20: Xisuma: 6024
+20: Keralis1: 3584
+20: cubfan135: 3056
+20: Tango: 2432
+20: joehillssays: 1768
+20: MumboJumbo: 1624
+20: Etho: 1024
+20: Grian: 848
+20: Welsknight: 512
+20: hypnotizd: 512
+20: VintageBeef: 352
+20: xBCrafted: 352
+20: iskall85: 264
+20: GoodTimeWithScar: 200
+20: Stressmonster101: 192
+20: Docm77: 152
+20: Zedaph: 56
+20: falsesymmetry: 40
+20: impulseSV: 16
+20: BdoubleO100: 8
+Total 23016

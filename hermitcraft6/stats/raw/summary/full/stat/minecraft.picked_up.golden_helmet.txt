@@ -1,0 +1,24 @@
+minecraft.picked_up.golden_helmet
+22: Xisuma: 52
+22: iskall85: 35
+22: impulseSV: 29
+22: Grian: 26
+22: GoodTimeWithScar: 26
+22: iJevin: 22
+22: joehillssays: 22
+22: cubfan135: 20
+22: Zedaph: 15
+22: falsesymmetry: 13
+22: Tango: 12
+22: ZombieCleo: 10
+22: Docm77: 8
+22: Welsknight: 7
+22: Renthedog: 6
+22: PythonGB: 6
+22: MumboJumbo: 6
+22: Stressmonster101: 6
+22: Biffa2001: 5
+22: Tinfoilchef: 4
+22: BdoubleO100: 3
+22: xBCrafted: 2
+Total 335

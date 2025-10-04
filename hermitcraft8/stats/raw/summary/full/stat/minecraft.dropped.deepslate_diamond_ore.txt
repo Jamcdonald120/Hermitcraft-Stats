@@ -1,0 +1,3 @@
+minecraft.dropped.deepslate_diamond_ore
+1: Xisuma: 10
+Total 10

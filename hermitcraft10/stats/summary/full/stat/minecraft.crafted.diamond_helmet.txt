@@ -1,0 +1,27 @@
+minecraft.crafted.diamond_helmet
+25: Etho: 18
+25: Docm77: 14
+25: hypnotizd: 9
+25: iJevin: 8
+25: cubfan135: 7
+25: GoodTimeWithScar: 6
+25: xBCrafted: 5
+25: joehillssays: 4
+25: GeminiTay: 4
+25: Smallishbeans: 4
+25: PearlescentMoon: 4
+25: Keralis1: 4
+25: Mumbo: 3
+25: Xisuma: 2
+25: Renthedog: 2
+25: Grian: 2
+25: Skizzleman: 2
+25: Welsknight: 2
+25: ZombieCleo: 2
+25: impulseSV: 2
+25: VintageBeef: 1
+25: Tango: 1
+25: BdoubleO100: 1
+25: falsesymmetry: 1
+25: Zedaph: 1
+Total 109

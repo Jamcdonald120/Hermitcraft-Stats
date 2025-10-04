@@ -1,0 +1,25 @@
+minecraft.picked_up.black_shulker_box
+23: Etho: 678
+23: Renthedog: 677
+23: cubfan135: 624
+23: Tango: 509
+23: Keralis1: 357
+23: hypnotizd: 324
+23: iJevin: 238
+23: impulseSV: 171
+23: Grian: 168
+23: GoodTimeWithScar: 154
+23: xBCrafted: 147
+23: Xisuma: 145
+23: falsesymmetry: 142
+23: MumboJumbo: 142
+23: joehillssays: 137
+23: iskall85: 135
+23: Stressmonster101: 127
+23: VintageBeef: 106
+23: Zedaph: 105
+23: Docm77: 63
+23: BdoubleO100: 39
+23: ZombieCleo: 32
+23: Welsknight: 10
+Total 5230

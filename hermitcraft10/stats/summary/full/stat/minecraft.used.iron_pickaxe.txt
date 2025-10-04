@@ -1,0 +1,27 @@
+minecraft.used.iron_pickaxe
+25: ZombieCleo: 10028
+25: Skizzleman: 7285
+25: GoodTimeWithScar: 5753
+25: PearlescentMoon: 4494
+25: Renthedog: 3151
+25: cubfan135: 3127
+25: Zedaph: 2281
+25: iJevin: 2067
+25: Xisuma: 1671
+25: GeminiTay: 1581
+25: Smallishbeans: 1484
+25: Tango: 1445
+25: joehillssays: 1421
+25: Grian: 1265
+25: impulseSV: 1049
+25: VintageBeef: 1024
+25: Welsknight: 1008
+25: xBCrafted: 1000
+25: Keralis1: 566
+25: Docm77: 484
+25: Mumbo: 271
+25: hypnotizd: 223
+25: Etho: 128
+25: BdoubleO100: 122
+25: falsesymmetry: 103
+Total 53031

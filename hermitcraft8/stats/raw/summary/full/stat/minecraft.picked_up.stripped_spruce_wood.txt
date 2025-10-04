@@ -1,0 +1,14 @@
+minecraft.picked_up.stripped_spruce_wood
+12: Tango: 589
+12: Grian: 102
+12: BdoubleO100: 23
+12: PearlescentMoon: 23
+12: Etho: 21
+12: GoodTimeWithScar: 9
+12: MumboJumbo: 7
+12: impulseSV: 3
+12: hypnotizd: 2
+12: GeminiTay: 1
+12: cubfan135: 1
+12: Keralis1: 1
+Total 782

@@ -1,0 +1,8 @@
+minecraft.dropped.yellow_concrete_powder
+6: impulseSV: 65
+6: GoodTimeWithScar: 64
+6: falsesymmetry: 8
+6: Renthedog: 4
+6: Etho: 4
+6: PearlescentMoon: 1
+Total 146

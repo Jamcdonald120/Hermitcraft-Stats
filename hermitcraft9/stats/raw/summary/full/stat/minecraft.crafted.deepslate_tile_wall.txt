@@ -1,0 +1,18 @@
+minecraft.crafted.deepslate_tile_wall
+16: cubfan135: 395
+16: Mumbo: 216
+16: Stressmonster101: 150
+16: Keralis1: 65
+16: Tango: 58
+16: impulseSV: 25
+16: MumboJumbo: 24
+16: Docm77: 18
+16: GoodTimeWithScar: 17
+16: iJevin: 12
+16: Renthedog: 9
+16: RentheKing: 7
+16: ZombieCleo: 6
+16: PearlescentMoon: 4
+16: Xisuma: 1
+16: Zedaph: 1
+Total 1008

@@ -1,0 +1,14 @@
+minecraft.picked_up.leather_horse_armor
+12: BdoubleO100: 49
+12: Zedaph: 26
+12: Etho: 6
+12: GoodTimeWithScar: 5
+12: cubfan135: 4
+12: Xisuma: 1
+12: MythicalSausage: 1
+12: Smallishbeans: 1
+12: falsesymmetry: 1
+12: InTheLittleWood: 1
+12: SolidarityGaming: 1
+12: Keralis1: 1
+Total 97

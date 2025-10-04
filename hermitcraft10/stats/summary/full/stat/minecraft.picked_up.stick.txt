@@ -1,0 +1,33 @@
+minecraft.picked_up.stick
+31: Docm77: 35596
+31: Xisuma: 15268
+31: GoodTimeWithScar: 10802
+31: Skizzleman: 10365
+31: Etho: 7826
+31: Tango: 6802
+31: Smallishbeans: 6453
+31: hypnotizd: 5945
+31: Renthedog: 5348
+31: Grian: 5191
+31: joehillssays: 4512
+31: PearlescentMoon: 4278
+31: falsesymmetry: 4167
+31: iJevin: 4107
+31: cubfan135: 3930
+31: impulseSV: 3815
+31: BdoubleO100: 3297
+31: Keralis1: 3027
+31: Zedaph: 2335
+31: ZombieCleo: 2196
+31: GeminiTay: 1887
+31: xBCrafted: 1745
+31: VintageBeef: 1129
+31: Mumbo: 956
+31: Welsknight: 415
+31: SolidarityGaming: 12
+31: F1RECRACKR: 6
+31: OrionSound: 3
+31: Eyjoy27: 3
+31: InTheLittleWood: 3
+31: Dot_Dot_Dash: 2
+Total 151421

@@ -1,0 +1,23 @@
+minecraft.dropped.glass_bottle
+21: cubfan135: 4516
+21: impulseSV: 565
+21: Docm77: 432
+21: GoodTimeWithScar: 221
+21: Etho: 168
+21: iskall85: 157
+21: Zedaph: 111
+21: Grian: 82
+21: iJevin: 77
+21: falsesymmetry: 56
+21: Keralis1: 47
+21: Tango: 37
+21: Renthedog: 34
+21: joehillssays: 23
+21: VintageBeef: 21
+21: Xisuma: 20
+21: xBCrafted: 9
+21: BdoubleO100: 6
+21: Welsknight: 4
+21: MumboJumbo: 2
+21: ZombieCleo: 1
+Total 6589

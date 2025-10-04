@@ -1,0 +1,5 @@
+minecraft.picked_up.green_harness
+3: PearlescentMoon: 7
+3: BdoubleO100: 2
+3: impulseSV: 1
+Total 10

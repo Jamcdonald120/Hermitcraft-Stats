@@ -1,0 +1,23 @@
+minecraft.picked_up.redstone_ore
+21: GoodTimeWithScar: 1287
+21: Grian: 330
+21: iJevin: 85
+21: Xisuma: 79
+21: Keralis1: 70
+21: falsesymmetry: 36
+21: VintageBeef: 35
+21: Etho: 34
+21: Renthedog: 31
+21: ZombieCleo: 31
+21: Zedaph: 30
+21: Tango: 29
+21: joehillssays: 27
+21: impulseSV: 18
+21: PearlescentMoon: 17
+21: cubfan135: 15
+21: BdoubleO100: 11
+21: hypnotizd: 7
+21: Docm77: 5
+21: Mumbo: 5
+21: GeminiTay: 4
+Total 2186

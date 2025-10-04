@@ -1,0 +1,4 @@
+minecraft.used.stripped_cherry_wood
+2: GoodTimeWithScar: 129
+2: ZombieCleo: 9
+Total 138

@@ -1,0 +1,5 @@
+minecraft.picked_up.snout_armor_trim_smithing_template
+3: iJevin: 17
+3: PearlescentMoon: 5
+3: Docm77: 1
+Total 23

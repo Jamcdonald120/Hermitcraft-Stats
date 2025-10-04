@@ -1,0 +1,4 @@
+minecraft.crafted.waxed_copper_door
+2: Smallishbeans: 6
+2: Xisuma: 3
+Total 9

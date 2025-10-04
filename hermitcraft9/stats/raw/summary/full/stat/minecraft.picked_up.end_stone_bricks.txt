@@ -1,0 +1,23 @@
+minecraft.picked_up.end_stone_bricks
+21: PearlescentMoon: 729
+21: joehillssays: 333
+21: iJevin: 330
+21: Renthedog: 287
+21: falsesymmetry: 196
+21: impulseSV: 160
+21: cubfan135: 127
+21: Xisuma: 98
+21: xBCrafted: 86
+21: Etho: 79
+21: Tango: 68
+21: GoodTimeWithScar: 58
+21: Keralis1: 56
+21: Zedaph: 54
+21: hypnotizd: 33
+21: VintageBeef: 32
+21: iskall85: 25
+21: Docm77: 22
+21: GeminiTay: 12
+21: ZombieCleo: 7
+21: Grian: 5
+Total 2797

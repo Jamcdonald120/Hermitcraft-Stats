@@ -1,0 +1,13 @@
+minecraft.picked_up.jack_o_lantern
+11: falsesymmetry: 173
+11: Zedaph: 145
+11: hypnotizd: 102
+11: Renthedog: 64
+11: PearlescentMoon: 25
+11: Xisuma: 14
+11: iJevin: 10
+11: Etho: 4
+11: VintageBeef: 2
+11: Docm77: 1
+11: GoodTimeWithScar: 1
+Total 541

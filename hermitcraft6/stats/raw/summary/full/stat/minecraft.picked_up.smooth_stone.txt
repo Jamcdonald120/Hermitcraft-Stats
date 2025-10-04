@@ -1,0 +1,24 @@
+minecraft.picked_up.smooth_stone
+22: GoodTimeWithScar: 15376
+22: iskall85: 6608
+22: cubfan135: 4257
+22: Xisuma: 1778
+22: MumboJumbo: 1336
+22: Docm77: 978
+22: falsesymmetry: 910
+22: Grian: 519
+22: Tango: 405
+22: PythonGB: 401
+22: BdoubleO100: 396
+22: Renthedog: 374
+22: impulseSV: 230
+22: Stressmonster101: 193
+22: Zedaph: 134
+22: ZombieCleo: 133
+22: xBCrafted: 92
+22: Tinfoilchef: 83
+22: Welsknight: 58
+22: HumanCleo: 39
+22: joehillssays: 34
+22: Keralis1: 5
+Total 34339

@@ -1,0 +1,32 @@
+minecraft.picked_up.cyan_terracotta
+30: VintageBeef: 9893
+30: Grian: 3061
+30: PearlescentMoon: 3060
+30: GoodTimeWithScar: 1427
+30: iJevin: 602
+30: cubfan135: 569
+30: impulseSV: 447
+30: Keralis1: 409
+30: Mumbo: 391
+30: joehillssays: 341
+30: Etho: 338
+30: Renthedog: 167
+30: Tango: 129
+30: GeminiTay: 128
+30: Xisuma: 121
+30: Pixlriffs: 114
+30: Zedaph: 100
+30: iskall85: 95
+30: Docm77: 89
+30: Stressmonster101: 83
+30: BdoubleO100: 40
+30: Skizzleman: 38
+30: falsesymmetry: 25
+30: ZombieCleo: 25
+30: MythicalSausage: 6
+30: LDShadowLady: 6
+30: fWhip: 6
+30: RentheKing: 3
+30: MumboJumbo: 2
+30: Smallishbeans: 1
+Total 21716

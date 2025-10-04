@@ -1,0 +1,24 @@
+minecraft.picked_up.carved_pumpkin
+22: Etho: 1435
+22: Xisuma: 935
+22: iskall85: 870
+22: Zedaph: 452
+22: Tango: 419
+22: joehillssays: 227
+22: MumboJumbo: 156
+22: iJevin: 106
+22: xBCrafted: 93
+22: impulseSV: 87
+22: Renthedog: 84
+22: hypnotizd: 66
+22: Docm77: 64
+22: Grian: 59
+22: falsesymmetry: 24
+22: cubfan135: 22
+22: Keralis1: 20
+22: Stressmonster101: 16
+22: GoodTimeWithScar: 6
+22: VintageBeef: 5
+22: BdoubleO100: 1
+22: Welsknight: 1
+Total 5148

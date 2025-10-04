@@ -1,0 +1,10 @@
+minecraft.picked_up.cooked_rabbit
+8: Xisuma: 88
+8: GoodTimeWithScar: 35
+8: Grian: 31
+8: Etho: 17
+8: Keralis1: 12
+8: cubfan135: 4
+8: VintageBeef: 3
+8: hypnotizd: 2
+Total 192

@@ -1,0 +1,23 @@
+minecraft.crafted.dropper
+21: GoodTimeWithScar: 3327
+21: impulseSV: 1076
+21: Xisuma: 820
+21: iskall85: 666
+21: Grian: 626
+21: Renthedog: 568
+21: cubfan135: 478
+21: MumboJumbo: 291
+21: Tango: 151
+21: iJevin: 136
+21: ZombieCleo: 81
+21: Tinfoilchef: 72
+21: joehillssays: 65
+21: falsesymmetry: 51
+21: Zedaph: 47
+21: Stressmonster101: 36
+21: Welsknight: 17
+21: Docm77: 7
+21: PythonGB: 2
+21: BdoubleO100: 1
+21: Biffa2001: 1
+Total 8519

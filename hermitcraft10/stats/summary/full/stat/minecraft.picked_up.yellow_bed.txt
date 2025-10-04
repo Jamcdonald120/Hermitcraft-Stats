@@ -1,0 +1,24 @@
+minecraft.picked_up.yellow_bed
+22: Smallishbeans: 495
+22: impulseSV: 167
+22: Skizzleman: 158
+22: iJevin: 72
+22: Tango: 33
+22: GoodTimeWithScar: 32
+22: Renthedog: 30
+22: Docm77: 29
+22: cubfan135: 27
+22: joehillssays: 11
+22: Xisuma: 10
+22: GeminiTay: 10
+22: Zedaph: 8
+22: Grian: 6
+22: hypnotizd: 5
+22: ZombieCleo: 3
+22: Mumbo: 3
+22: VintageBeef: 2
+22: Keralis1: 2
+22: BdoubleO100: 1
+22: PearlescentMoon: 1
+22: xBCrafted: 1
+Total 1106

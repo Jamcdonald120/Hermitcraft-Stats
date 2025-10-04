@@ -1,0 +1,4 @@
+minecraft.picked_up.dead_tube_coral_fan
+2: Renthedog: 7
+2: joehillssays: 3
+Total 10

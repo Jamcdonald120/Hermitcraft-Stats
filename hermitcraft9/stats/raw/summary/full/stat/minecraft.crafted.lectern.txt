@@ -1,0 +1,26 @@
+minecraft.crafted.lectern
+24: impulseSV: 154
+24: PearlescentMoon: 138
+24: GoodTimeWithScar: 121
+24: GeminiTay: 118
+24: cubfan135: 99
+24: ZombieCleo: 77
+24: Tango: 75
+24: Etho: 49
+24: falsesymmetry: 48
+24: Keralis1: 39
+24: iJevin: 38
+24: xBCrafted: 38
+24: Zedaph: 38
+24: Renthedog: 36
+24: Xisuma: 29
+24: BdoubleO100: 29
+24: Docm77: 27
+24: Grian: 22
+24: Stressmonster101: 22
+24: RentheKing: 16
+24: iskall85: 4
+24: Smajor1995: 3
+24: VintageBeef: 1
+24: Mumbo: 1
+Total 1222

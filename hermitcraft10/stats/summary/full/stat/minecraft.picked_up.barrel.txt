@@ -1,0 +1,27 @@
+minecraft.picked_up.barrel
+25: PearlescentMoon: 943
+25: iJevin: 720
+25: Etho: 444
+25: joehillssays: 368
+25: Keralis1: 309
+25: Tango: 297
+25: Grian: 277
+25: xBCrafted: 268
+25: cubfan135: 235
+25: Xisuma: 203
+25: falsesymmetry: 182
+25: Docm77: 172
+25: ZombieCleo: 168
+25: BdoubleO100: 137
+25: Renthedog: 120
+25: Zedaph: 116
+25: GoodTimeWithScar: 113
+25: Skizzleman: 108
+25: VintageBeef: 103
+25: Smallishbeans: 79
+25: impulseSV: 67
+25: GeminiTay: 48
+25: Welsknight: 28
+25: hypnotizd: 23
+25: Mumbo: 9
+Total 5537

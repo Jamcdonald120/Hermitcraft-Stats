@@ -1,0 +1,14 @@
+minecraft.picked_up.mud_brick_wall
+12: GoodTimeWithScar: 36
+12: falsesymmetry: 35
+12: Xisuma: 30
+12: ZombieCleo: 30
+12: cubfan135: 18
+12: PearlescentMoon: 14
+12: Renthedog: 8
+12: GeminiTay: 4
+12: Keralis1: 4
+12: Etho: 2
+12: Zedaph: 2
+12: joehillssays: 1
+Total 184

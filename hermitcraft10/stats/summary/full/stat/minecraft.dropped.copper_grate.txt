@@ -1,0 +1,4 @@
+minecraft.dropped.copper_grate
+2: Grian: 75
+2: cubfan135: 1
+Total 76

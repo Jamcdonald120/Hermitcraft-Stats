@@ -1,0 +1,17 @@
+minecraft.mined.light_blue_wool
+15: Grian: 205
+15: Tango: 191
+15: Xisuma: 160
+15: Keralis1: 114
+15: MumboJumbo: 80
+15: VintageBeef: 79
+15: BdoubleO100: 66
+15: Renthedog: 36
+15: Etho: 36
+15: joehillssays: 22
+15: GoodTimeWithScar: 15
+15: hypnotizd: 11
+15: Zedaph: 6
+15: falsesymmetry: 1
+15: impulseSV: 1
+Total 1023

@@ -1,0 +1,24 @@
+minecraft.picked_up.dark_oak_stairs
+22: iJevin: 531
+22: falsesymmetry: 293
+22: hypnotizd: 170
+22: Etho: 144
+22: ZombieCleo: 109
+22: Zedaph: 92
+22: cubfan135: 78
+22: Smallishbeans: 67
+22: Skizzleman: 61
+22: Xisuma: 53
+22: GeminiTay: 50
+22: Tango: 47
+22: PearlescentMoon: 42
+22: xBCrafted: 32
+22: GoodTimeWithScar: 23
+22: VintageBeef: 19
+22: BdoubleO100: 18
+22: Welsknight: 15
+22: Docm77: 9
+22: Mumbo: 9
+22: Renthedog: 6
+22: Grian: 2
+Total 1870

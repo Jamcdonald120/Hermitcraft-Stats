@@ -1,0 +1,13 @@
+minecraft.picked_up.beetroot_soup
+11: PearlescentMoon: 126
+11: Skizzleman: 89
+11: Tango: 46
+11: cubfan135: 24
+11: GeminiTay: 22
+11: Etho: 12
+11: Zedaph: 10
+11: Grian: 8
+11: Renthedog: 6
+11: SolidarityGaming: 5
+11: falsesymmetry: 4
+Total 352

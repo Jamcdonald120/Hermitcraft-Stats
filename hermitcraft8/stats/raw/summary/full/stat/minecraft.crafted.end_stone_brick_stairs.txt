@@ -1,0 +1,4 @@
+minecraft.crafted.end_stone_brick_stairs
+2: iJevin: 72
+2: impulseSV: 4
+Total 76

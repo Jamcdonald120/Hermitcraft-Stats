@@ -1,0 +1,21 @@
+minecraft.picked_up.mushroom_stem
+19: Grian: 4410
+19: Tango: 1791
+19: Etho: 1194
+19: Mumbo: 1104
+19: BdoubleO100: 685
+19: impulseSV: 514
+19: GeminiTay: 491
+19: iJevin: 245
+19: Xisuma: 207
+19: ZombieCleo: 198
+19: Renthedog: 181
+19: Docm77: 174
+19: cubfan135: 118
+19: falsesymmetry: 101
+19: PearlescentMoon: 98
+19: Keralis1: 34
+19: Smallishbeans: 16
+19: GoodTimeWithScar: 6
+19: VintageBeef: 1
+Total 11568

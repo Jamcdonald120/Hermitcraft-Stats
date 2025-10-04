@@ -1,0 +1,7 @@
+minecraft.crafted.end_stone_brick_slab
+5: iJevin: 480
+5: GoodTimeWithScar: 14
+5: Xisuma: 12
+5: joehillssays: 6
+5: hypnotizd: 2
+Total 514

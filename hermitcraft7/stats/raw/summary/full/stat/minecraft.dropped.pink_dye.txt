@@ -1,0 +1,10 @@
+minecraft.dropped.pink_dye
+8: Zedaph: 110
+8: MumboJumbo: 22
+8: VintageBeef: 16
+8: Grian: 14
+8: Xisuma: 13
+8: Keralis1: 5
+8: Renthedog: 1
+8: hypnotizd: 1
+Total 182

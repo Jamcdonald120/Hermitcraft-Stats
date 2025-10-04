@@ -1,0 +1,25 @@
+minecraft.picked_up.end_rod
+23: GoodTimeWithScar: 7675
+23: Grian: 1543
+23: Zedaph: 1492
+23: Etho: 945
+23: Xisuma: 841
+23: cubfan135: 740
+23: iJevin: 566
+23: Stressmonster101: 544
+23: Tango: 507
+23: Keralis1: 489
+23: impulseSV: 441
+23: Renthedog: 425
+23: iskall85: 397
+23: VintageBeef: 329
+23: falsesymmetry: 241
+23: xBCrafted: 239
+23: BdoubleO100: 149
+23: MumboJumbo: 50
+23: Docm77: 36
+23: hypnotizd: 29
+23: joehillssays: 24
+23: BarryBoss1234: 20
+23: ZombieCleo: 12
+Total 17734

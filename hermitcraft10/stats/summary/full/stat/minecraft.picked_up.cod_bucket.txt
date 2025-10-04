@@ -1,0 +1,4 @@
+minecraft.picked_up.cod_bucket
+2: Keralis1: 8
+2: iJevin: 3
+Total 11

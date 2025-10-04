@@ -1,0 +1,17 @@
+minecraft.mined.deepslate_brick_wall
+15: xBCrafted: 135
+15: Tango: 72
+15: Skizzleman: 54
+15: BdoubleO100: 20
+15: iJevin: 19
+15: Mumbo: 19
+15: impulseSV: 18
+15: Xisuma: 17
+15: Grian: 12
+15: Etho: 12
+15: Renthedog: 8
+15: PearlescentMoon: 6
+15: Keralis1: 4
+15: falsesymmetry: 2
+15: Docm77: 1
+Total 399

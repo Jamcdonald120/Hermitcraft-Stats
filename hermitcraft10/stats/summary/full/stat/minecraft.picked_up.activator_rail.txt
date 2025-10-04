@@ -1,0 +1,22 @@
+minecraft.picked_up.activator_rail
+20: Tango: 2031
+20: Etho: 147
+20: Mumbo: 126
+20: Docm77: 115
+20: cubfan135: 46
+20: iJevin: 33
+20: BdoubleO100: 26
+20: impulseSV: 20
+20: GoodTimeWithScar: 15
+20: hypnotizd: 14
+20: Keralis1: 11
+20: Xisuma: 8
+20: Skizzleman: 5
+20: Zedaph: 5
+20: PearlescentMoon: 2
+20: falsesymmetry: 2
+20: Renthedog: 1
+20: Smallishbeans: 1
+20: xBCrafted: 1
+20: ZombieCleo: 1
+Total 2610

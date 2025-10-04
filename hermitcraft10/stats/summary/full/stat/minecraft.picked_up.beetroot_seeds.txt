@@ -1,0 +1,29 @@
+minecraft.picked_up.beetroot_seeds
+27: Grian: 5181
+27: Tango: 5130
+27: PearlescentMoon: 4270
+27: Renthedog: 2831
+27: GeminiTay: 2731
+27: cubfan135: 2306
+27: Skizzleman: 1584
+27: Etho: 1070
+27: VintageBeef: 979
+27: falsesymmetry: 900
+27: BdoubleO100: 623
+27: Smallishbeans: 445
+27: GoodTimeWithScar: 339
+27: impulseSV: 244
+27: Zedaph: 158
+27: iJevin: 133
+27: Mumbo: 94
+27: Xisuma: 92
+27: SolidarityGaming: 67
+27: hypnotizd: 56
+27: xBCrafted: 27
+27: joehillssays: 23
+27: ZombieCleo: 22
+27: Welsknight: 19
+27: Keralis1: 8
+27: InTheLittleWood: 5
+27: aimsey: 1
+Total 29338

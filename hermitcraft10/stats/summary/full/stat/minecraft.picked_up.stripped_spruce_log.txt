@@ -1,0 +1,28 @@
+minecraft.picked_up.stripped_spruce_log
+26: BdoubleO100: 7400
+26: Smallishbeans: 3147
+26: Keralis1: 2812
+26: Grian: 1204
+26: iJevin: 1168
+26: PearlescentMoon: 968
+26: Tango: 874
+26: VintageBeef: 788
+26: ZombieCleo: 489
+26: GoodTimeWithScar: 424
+26: falsesymmetry: 369
+26: Xisuma: 365
+26: Skizzleman: 330
+26: joehillssays: 326
+26: Etho: 233
+26: GeminiTay: 229
+26: Docm77: 175
+26: cubfan135: 134
+26: Mumbo: 94
+26: xBCrafted: 93
+26: Renthedog: 25
+26: impulseSV: 13
+26: Welsknight: 10
+26: hypnotizd: 8
+26: InTheLittleWood: 4
+26: Zedaph: 1
+Total 21683

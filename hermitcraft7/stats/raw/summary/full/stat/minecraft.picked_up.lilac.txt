@@ -1,0 +1,24 @@
+minecraft.picked_up.lilac
+22: Etho: 1591
+22: Grian: 374
+22: falsesymmetry: 303
+22: BdoubleO100: 301
+22: GoodTimeWithScar: 261
+22: Stressmonster101: 261
+22: iskall85: 228
+22: cubfan135: 164
+22: Zedaph: 104
+22: joehillssays: 88
+22: ZombieCleo: 76
+22: Welsknight: 70
+22: Xisuma: 63
+22: Docm77: 44
+22: Keralis1: 33
+22: VintageBeef: 28
+22: hypnotizd: 16
+22: xBCrafted: 14
+22: Tango: 13
+22: impulseSV: 9
+22: MumboJumbo: 5
+22: Renthedog: 1
+Total 4047

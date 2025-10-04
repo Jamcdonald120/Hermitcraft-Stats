@@ -1,0 +1,16 @@
+minecraft.picked_up.golden_horse_armor
+14: Zedaph: 25
+14: PearlescentMoon: 12
+14: iJevin: 5
+14: Etho: 5
+14: VintageBeef: 4
+14: Skizzleman: 4
+14: GoodTimeWithScar: 4
+14: falsesymmetry: 3
+14: hypnotizd: 3
+14: Renthedog: 2
+14: BdoubleO100: 2
+14: Welsknight: 2
+14: xBCrafted: 1
+14: impulseSV: 1
+Total 73

@@ -1,0 +1,27 @@
+minecraft.picked_up.cocoa_beans
+25: cubfan135: 10849
+25: Etho: 7645
+25: Keralis1: 6949
+25: falsesymmetry: 4331
+25: GoodTimeWithScar: 2184
+25: Xisuma: 2027
+25: Tango: 1223
+25: Grian: 837
+25: PearlescentMoon: 678
+25: Smallishbeans: 521
+25: BdoubleO100: 488
+25: iJevin: 459
+25: Renthedog: 415
+25: joehillssays: 377
+25: VintageBeef: 318
+25: Zedaph: 271
+25: Skizzleman: 163
+25: hypnotizd: 103
+25: GeminiTay: 88
+25: Docm77: 65
+25: impulseSV: 62
+25: Mumbo: 30
+25: ZombieCleo: 28
+25: Welsknight: 13
+25: SolidarityGaming: 6
+Total 40130

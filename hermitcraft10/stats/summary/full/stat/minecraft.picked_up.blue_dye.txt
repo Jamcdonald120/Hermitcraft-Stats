@@ -1,0 +1,29 @@
+minecraft.picked_up.blue_dye
+27: PearlescentMoon: 327
+27: Skizzleman: 191
+27: Grian: 107
+27: cubfan135: 102
+27: iJevin: 92
+27: Renthedog: 44
+27: impulseSV: 23
+27: Xisuma: 19
+27: Docm77: 18
+27: Etho: 17
+27: ZombieCleo: 16
+27: GoodTimeWithScar: 16
+27: GeminiTay: 15
+27: joehillssays: 11
+27: falsesymmetry: 11
+27: BdoubleO100: 10
+27: Tango: 9
+27: hypnotizd: 9
+27: Smallishbeans: 8
+27: Welsknight: 7
+27: Keralis1: 5
+27: OrionSound: 4
+27: HBomb94: 3
+27: VintageBeef: 2
+27: Mumbo: 1
+27: SolidarityGaming: 1
+27: Zedaph: 1
+Total 1069

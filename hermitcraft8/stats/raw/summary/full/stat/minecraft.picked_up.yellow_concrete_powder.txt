@@ -1,0 +1,6 @@
+minecraft.picked_up.yellow_concrete_powder
+4: impulseSV: 4
+4: ZombieCleo: 3
+4: falsesymmetry: 2
+4: GeminiTay: 1
+Total 10

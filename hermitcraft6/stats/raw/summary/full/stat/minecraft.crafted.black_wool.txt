@@ -1,0 +1,19 @@
+minecraft.crafted.black_wool
+17: impulseSV: 777
+17: GoodTimeWithScar: 494
+17: Xisuma: 292
+17: falsesymmetry: 216
+17: iJevin: 172
+17: iskall85: 139
+17: Grian: 131
+17: Stressmonster101: 128
+17: Docm77: 114
+17: Renthedog: 88
+17: Tango: 42
+17: Zedaph: 32
+17: joehillssays: 31
+17: cubfan135: 17
+17: ZombieCleo: 12
+17: Tinfoilchef: 8
+17: PythonGB: 6
+Total 2699

@@ -1,0 +1,12 @@
+minecraft.dropped.acacia_sign
+10: GoodTimeWithScar: 79
+10: iJevin: 37
+10: ZombieCleo: 9
+10: falsesymmetry: 4
+10: Renthedog: 3
+10: RentheKing: 2
+10: MythicalSausage: 1
+10: Grian: 1
+10: Tango: 1
+10: Keralis1: 1
+Total 138

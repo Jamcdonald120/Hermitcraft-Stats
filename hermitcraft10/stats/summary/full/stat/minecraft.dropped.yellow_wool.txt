@@ -1,0 +1,18 @@
+minecraft.dropped.yellow_wool
+16: Zedaph: 1726
+16: impulseSV: 483
+16: Skizzleman: 254
+16: iJevin: 107
+16: cubfan135: 73
+16: Tango: 69
+16: GoodTimeWithScar: 66
+16: Docm77: 64
+16: Smallishbeans: 64
+16: PearlescentMoon: 22
+16: Grian: 10
+16: falsesymmetry: 9
+16: Etho: 4
+16: ZombieCleo: 3
+16: Keralis1: 2
+16: Xisuma: 1
+Total 2957

@@ -1,0 +1,21 @@
+minecraft.picked_up.cyan_shulker_box
+19: falsesymmetry: 436
+19: cubfan135: 334
+19: Etho: 248
+19: GoodTimeWithScar: 228
+19: Renthedog: 147
+19: Keralis1: 145
+19: BdoubleO100: 126
+19: MumboJumbo: 93
+19: Stressmonster101: 85
+19: joehillssays: 67
+19: Xisuma: 62
+19: iskall85: 51
+19: VintageBeef: 50
+19: Grian: 36
+19: xBCrafted: 30
+19: ZombieCleo: 25
+19: impulseSV: 25
+19: Docm77: 13
+19: Tango: 2
+Total 2203

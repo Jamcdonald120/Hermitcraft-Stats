@@ -1,0 +1,22 @@
+minecraft.crafted.player_head
+20: Grian: 2108
+20: ZombieCleo: 938
+20: iJevin: 515
+20: GoodTimeWithScar: 432
+20: iskall85: 407
+20: cubfan135: 306
+20: Tango: 253
+20: Stressmonster101: 249
+20: Xisuma: 207
+20: impulseSV: 204
+20: Biffa2001: 186
+20: falsesymmetry: 160
+20: Renthedog: 100
+20: HumanCleo: 91
+20: Docm77: 78
+20: joehillssays: 58
+20: BdoubleO100: 34
+20: Welsknight: 6
+20: PythonGB: 3
+20: Zedaph: 1
+Total 6336

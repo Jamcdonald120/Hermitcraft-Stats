@@ -1,0 +1,9 @@
+minecraft.dropped.yellow_stained_glass
+7: impulseSV: 256
+7: PearlescentMoon: 99
+7: falsesymmetry: 85
+7: Renthedog: 59
+7: Grian: 55
+7: Zedaph: 8
+7: Etho: 4
+Total 566

@@ -1,0 +1,31 @@
+minecraft.picked_up.shield
+29: PearlescentMoon: 43
+29: ZombieCleo: 25
+29: iJevin: 22
+29: falsesymmetry: 17
+29: Grian: 16
+29: impulseSV: 16
+29: cubfan135: 15
+29: GoodTimeWithScar: 13
+29: Renthedog: 12
+29: GeminiTay: 12
+29: Zedaph: 12
+29: VintageBeef: 8
+29: hypnotizd: 8
+29: Etho: 7
+29: Docm77: 6
+29: Stressmonster101: 6
+29: joehillssays: 5
+29: BdoubleO100: 5
+29: xBCrafted: 5
+29: Mumbo: 5
+29: MumboJumbo: 5
+29: iskall85: 4
+29: Tango: 3
+29: Xisuma: 2
+29: Minerva246: 2
+29: Keralis1: 2
+29: MythicalSausage: 1
+29: Pixlriffs: 1
+29: RentheKing: 1
+Total 279

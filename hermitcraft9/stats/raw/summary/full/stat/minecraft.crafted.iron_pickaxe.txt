@@ -1,0 +1,31 @@
+minecraft.crafted.iron_pickaxe
+29: PearlescentMoon: 26
+29: falsesymmetry: 25
+29: Xisuma: 24
+29: GeminiTay: 23
+29: joehillssays: 22
+29: ZombieCleo: 22
+29: Zedaph: 22
+29: hypnotizd: 20
+29: Keralis1: 20
+29: xBCrafted: 19
+29: Stressmonster101: 18
+29: Renthedog: 16
+29: iJevin: 16
+29: iskall85: 16
+29: Tango: 15
+29: Welsknight: 14
+29: Mumbo: 14
+29: MumboJumbo: 14
+29: impulseSV: 13
+29: BdoubleO100: 11
+29: Grian: 9
+29: cubfan135: 9
+29: Docm77: 8
+29: Tinfoilchef: 6
+29: VintageBeef: 4
+29: ShubbleYT: 4
+29: Etho: 2
+29: OrionSound: 1
+29: Pixlriffs: 1
+Total 414

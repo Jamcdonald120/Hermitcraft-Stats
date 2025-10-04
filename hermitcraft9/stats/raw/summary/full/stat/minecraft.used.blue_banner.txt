@@ -1,0 +1,5 @@
+minecraft.used.blue_banner
+3: falsesymmetry: 18
+3: Tango: 9
+3: Xisuma: 4
+Total 31

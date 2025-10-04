@@ -1,0 +1,10 @@
+minecraft.dropped.rabbit
+8: Etho: 320
+8: hypnotizd: 17
+8: Renthedog: 15
+8: PearlescentMoon: 4
+8: GoodTimeWithScar: 2
+8: Grian: 1
+8: Tango: 1
+8: impulseSV: 1
+Total 361

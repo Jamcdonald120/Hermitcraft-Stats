@@ -1,0 +1,16 @@
+minecraft.picked_up.netherite_hoe
+14: Renthedog: 37
+14: Grian: 37
+14: GoodTimeWithScar: 21
+14: cubfan135: 19
+14: Etho: 19
+14: Keralis1: 12
+14: Xisuma: 4
+14: BdoubleO100: 3
+14: xBCrafted: 3
+14: ZombieCleo: 3
+14: Tango: 2
+14: MumboJumbo: 2
+14: Docm77: 1
+14: Welsknight: 1
+Total 164

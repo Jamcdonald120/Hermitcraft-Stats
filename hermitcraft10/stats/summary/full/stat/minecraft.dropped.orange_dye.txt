@@ -1,0 +1,19 @@
+minecraft.dropped.orange_dye
+17: PearlescentMoon: 90
+17: Renthedog: 81
+17: cubfan135: 64
+17: Keralis1: 64
+17: falsesymmetry: 18
+17: ZombieCleo: 17
+17: Grian: 14
+17: Docm77: 10
+17: BdoubleO100: 8
+17: OrionSound: 3
+17: Skizzleman: 3
+17: impulseSV: 3
+17: Tango: 2
+17: Smallishbeans: 2
+17: Etho: 2
+17: hypnotizd: 2
+17: GoodTimeWithScar: 2
+Total 385

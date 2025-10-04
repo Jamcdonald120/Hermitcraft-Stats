@@ -1,0 +1,27 @@
+minecraft.picked_up.blackstone
+25: iJevin: 8241
+25: Docm77: 6625
+25: Renthedog: 5690
+25: PearlescentMoon: 5684
+25: Xisuma: 5043
+25: impulseSV: 3326
+25: cubfan135: 2533
+25: VintageBeef: 2255
+25: joehillssays: 1898
+25: Grian: 1619
+25: GoodTimeWithScar: 1324
+25: falsesymmetry: 1070
+25: xBCrafted: 1029
+25: Keralis1: 978
+25: Welsknight: 751
+25: ZombieCleo: 696
+25: hypnotizd: 596
+25: Tango: 432
+25: Etho: 421
+25: BdoubleO100: 232
+25: Zedaph: 188
+25: MumboJumbo: 125
+25: GeminiTay: 72
+25: EvilXisuma: 50
+25: iskall85: 4
+Total 50882

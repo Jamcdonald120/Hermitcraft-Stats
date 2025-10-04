@@ -1,0 +1,25 @@
+minecraft.picked_up.mossy_stone_bricks
+23: VintageBeef: 3414
+23: Etho: 1141
+23: falsesymmetry: 385
+23: Grian: 343
+23: GeminiTay: 260
+23: xBCrafted: 255
+23: Renthedog: 248
+23: iJevin: 229
+23: PearlescentMoon: 174
+23: Xisuma: 144
+23: GoodTimeWithScar: 132
+23: cubfan135: 109
+23: Mumbo: 57
+23: impulseSV: 49
+23: Docm77: 45
+23: ZombieCleo: 29
+23: Tango: 27
+23: BdoubleO100: 17
+23: Welsknight: 17
+23: Keralis1: 3
+23: Zedaph: 3
+23: joehillssays: 2
+23: Smallishbeans: 1
+Total 7084

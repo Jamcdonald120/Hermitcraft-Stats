@@ -1,0 +1,28 @@
+minecraft.custom.interact_with_smithing_table
+26: cubfan135: 254
+26: Keralis1: 135
+26: iJevin: 102
+26: PearlescentMoon: 93
+26: Docm77: 88
+26: falsesymmetry: 57
+26: Skizzleman: 52
+26: joehillssays: 50
+26: Etho: 50
+26: impulseSV: 50
+26: ZombieCleo: 47
+26: Smallishbeans: 46
+26: Tango: 42
+26: xBCrafted: 41
+26: Grian: 36
+26: GeminiTay: 31
+26: hypnotizd: 29
+26: GoodTimeWithScar: 26
+26: Renthedog: 24
+26: Xisuma: 23
+26: Welsknight: 14
+26: Zedaph: 7
+26: VintageBeef: 6
+26: BdoubleO100: 5
+26: F1RECRACKR: 1
+26: Mumbo: 1
+Total 1310

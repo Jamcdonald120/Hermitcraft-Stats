@@ -1,0 +1,24 @@
+minecraft.picked_up.polished_andesite_stairs
+22: impulseSV: 301
+22: Tango: 189
+22: xBCrafted: 55
+22: Smallishbeans: 50
+22: Xisuma: 40
+22: Mumbo: 29
+22: PearlescentMoon: 26
+22: Etho: 24
+22: BdoubleO100: 19
+22: GoodTimeWithScar: 18
+22: cubfan135: 15
+22: Renthedog: 13
+22: ZombieCleo: 11
+22: hypnotizd: 9
+22: Zedaph: 9
+22: Docm77: 7
+22: iJevin: 6
+22: VintageBeef: 5
+22: GeminiTay: 5
+22: Keralis1: 5
+22: joehillssays: 1
+22: Skizzleman: 1
+Total 838

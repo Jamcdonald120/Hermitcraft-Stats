@@ -1,0 +1,5 @@
+minecraft.crafted.chiseled_red_sandstone
+3: Renthedog: 8
+3: Xisuma: 7
+3: Tango: 3
+Total 18

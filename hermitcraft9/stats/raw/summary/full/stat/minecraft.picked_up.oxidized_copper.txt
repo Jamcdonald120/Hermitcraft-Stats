@@ -1,0 +1,28 @@
+minecraft.picked_up.oxidized_copper
+26: Xisuma: 11585
+26: GoodTimeWithScar: 5195
+26: Docm77: 5024
+26: Grian: 2358
+26: joehillssays: 1299
+26: Zedaph: 1086
+26: Mumbo: 1076
+26: cubfan135: 847
+26: Etho: 792
+26: Tango: 790
+26: Keralis1: 769
+26: impulseSV: 588
+26: Pixlriffs: 468
+26: ZombieCleo: 367
+26: falsesymmetry: 323
+26: PearlescentMoon: 263
+26: iskall85: 227
+26: BdoubleO100: 209
+26: Smallishbeans: 45
+26: RentheKing: 38
+26: GeminiTay: 19
+26: xBCrafted: 17
+26: Renthedog: 9
+26: MythicalSausage: 4
+26: VintageBeef: 3
+26: MumboJumbo: 1
+Total 33402

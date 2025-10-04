@@ -1,0 +1,15 @@
+minecraft.picked_up.waxed_oxidized_cut_copper_slab
+13: impulseSV: 162
+13: cubfan135: 58
+13: Xisuma: 57
+13: Renthedog: 43
+13: Mumbo: 41
+13: Etho: 28
+13: Docm77: 26
+13: Tango: 23
+13: falsesymmetry: 23
+13: VintageBeef: 7
+13: xBCrafted: 5
+13: Keralis1: 3
+13: iJevin: 1
+Total 477

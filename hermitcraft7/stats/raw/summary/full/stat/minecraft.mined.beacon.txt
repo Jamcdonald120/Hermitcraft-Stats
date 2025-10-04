@@ -1,0 +1,25 @@
+minecraft.mined.beacon
+23: impulseSV: 151
+23: Xisuma: 122
+23: iskall85: 90
+23: Tango: 83
+23: xBCrafted: 83
+23: cubfan135: 83
+23: falsesymmetry: 58
+23: Etho: 50
+23: GoodTimeWithScar: 47
+23: Renthedog: 44
+23: iJevin: 40
+23: MumboJumbo: 34
+23: Grian: 29
+23: Keralis1: 23
+23: Stressmonster101: 20
+23: joehillssays: 15
+23: BdoubleO100: 13
+23: hypnotizd: 13
+23: Welsknight: 7
+23: VintageBeef: 5
+23: Docm77: 2
+23: Tinfoilchef: 1
+23: Zedaph: 1
+Total 1014

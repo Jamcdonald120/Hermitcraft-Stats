@@ -1,0 +1,17 @@
+minecraft.crafted.acacia_sign
+15: iJevin: 234
+15: PearlescentMoon: 222
+15: GoodTimeWithScar: 126
+15: Xisuma: 54
+15: Renthedog: 30
+15: falsesymmetry: 27
+15: Keralis1: 21
+15: cubfan135: 18
+15: Docm77: 9
+15: MythicalSausage: 9
+15: impulseSV: 9
+15: BdoubleO100: 6
+15: Tango: 3
+15: RentheKing: 3
+15: Zedaph: 3
+Total 774

@@ -1,0 +1,26 @@
+minecraft.picked_up.orange_terracotta
+24: PearlescentMoon: 23327
+24: Renthedog: 11920
+24: impulseSV: 11590
+24: VintageBeef: 5115
+24: Etho: 4002
+24: Docm77: 3777
+24: joehillssays: 3459
+24: hypnotizd: 1678
+24: Xisuma: 1267
+24: cubfan135: 979
+24: iJevin: 973
+24: MythicalSausage: 295
+24: Keralis1: 199
+24: RentheKing: 106
+24: GoodTimeWithScar: 99
+24: falsesymmetry: 61
+24: ZombieCleo: 56
+24: Zedaph: 31
+24: Tango: 17
+24: Grian: 15
+24: xBCrafted: 12
+24: BdoubleO100: 2
+24: iskall85: 2
+24: Pixlriffs: 1
+Total 68983

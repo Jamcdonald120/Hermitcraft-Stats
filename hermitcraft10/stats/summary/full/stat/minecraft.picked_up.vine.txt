@@ -1,0 +1,26 @@
+minecraft.picked_up.vine
+24: PearlescentMoon: 1093
+24: Grian: 1032
+24: Xisuma: 594
+24: Etho: 509
+24: VintageBeef: 437
+24: GoodTimeWithScar: 378
+24: cubfan135: 370
+24: Mumbo: 351
+24: falsesymmetry: 332
+24: Renthedog: 325
+24: Skizzleman: 266
+24: impulseSV: 239
+24: Tango: 226
+24: joehillssays: 94
+24: ZombieCleo: 80
+24: Zedaph: 79
+24: BdoubleO100: 70
+24: Welsknight: 65
+24: xBCrafted: 28
+24: Smallishbeans: 22
+24: iJevin: 18
+24: Keralis1: 16
+24: GeminiTay: 9
+24: Docm77: 8
+Total 6641

@@ -1,0 +1,15 @@
+minecraft.crafted.mud_brick_stairs
+13: falsesymmetry: 272
+13: Xisuma: 129
+13: PearlescentMoon: 63
+13: Keralis1: 60
+13: VintageBeef: 40
+13: GoodTimeWithScar: 21
+13: Skizzleman: 20
+13: cubfan135: 16
+13: Renthedog: 8
+13: iJevin: 8
+13: Grian: 8
+13: ZombieCleo: 4
+13: Zedaph: 4
+Total 653

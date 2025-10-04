@@ -1,0 +1,25 @@
+minecraft.crafted.hay_block
+23: Tango: 11864
+23: Xisuma: 1837
+23: Etho: 1102
+23: cubfan135: 997
+23: BdoubleO100: 677
+23: impulseSV: 506
+23: GoodTimeWithScar: 464
+23: joehillssays: 329
+23: Keralis1: 180
+23: xBCrafted: 71
+23: hypnotizd: 67
+23: Docm77: 63
+23: Zedaph: 57
+23: RentheKing: 47
+23: Renthedog: 32
+23: iskall85: 23
+23: falsesymmetry: 23
+23: Grian: 10
+23: VintageBeef: 9
+23: PearlescentMoon: 7
+23: ZombieCleo: 7
+23: GeminiTay: 5
+23: Mumbo: 4
+Total 18381

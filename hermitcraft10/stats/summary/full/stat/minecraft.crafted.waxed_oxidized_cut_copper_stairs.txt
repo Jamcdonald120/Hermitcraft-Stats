@@ -1,0 +1,16 @@
+minecraft.crafted.waxed_oxidized_cut_copper_stairs
+14: Keralis1: 152
+14: Tango: 120
+14: Renthedog: 80
+14: Docm77: 76
+14: cubfan135: 58
+14: Mumbo: 48
+14: xBCrafted: 40
+14: VintageBeef: 21
+14: Etho: 16
+14: falsesymmetry: 10
+14: iJevin: 8
+14: impulseSV: 5
+14: GoodTimeWithScar: 4
+14: Xisuma: 1
+Total 639

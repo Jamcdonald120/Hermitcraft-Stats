@@ -1,0 +1,7 @@
+minecraft.crafted.magenta_banner
+5: Keralis1: 72
+5: ZombieCleo: 18
+5: Etho: 12
+5: PearlescentMoon: 10
+5: Zedaph: 1
+Total 113

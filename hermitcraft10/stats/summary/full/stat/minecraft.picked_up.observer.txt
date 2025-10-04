@@ -1,0 +1,27 @@
+minecraft.picked_up.observer
+25: xBCrafted: 2256
+25: Tango: 1447
+25: Docm77: 1311
+25: Etho: 750
+25: Xisuma: 735
+25: Skizzleman: 631
+25: impulseSV: 561
+25: Grian: 480
+25: Zedaph: 473
+25: cubfan135: 410
+25: Renthedog: 288
+25: PearlescentMoon: 287
+25: Keralis1: 281
+25: iJevin: 265
+25: ZombieCleo: 212
+25: hypnotizd: 204
+25: BdoubleO100: 193
+25: Mumbo: 163
+25: joehillssays: 151
+25: falsesymmetry: 107
+25: GoodTimeWithScar: 54
+25: Smallishbeans: 50
+25: GeminiTay: 20
+25: VintageBeef: 14
+25: Welsknight: 12
+Total 11355

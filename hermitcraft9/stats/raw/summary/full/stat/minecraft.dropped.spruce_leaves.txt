@@ -1,0 +1,24 @@
+minecraft.dropped.spruce_leaves
+22: falsesymmetry: 1344
+22: Grian: 568
+22: Tango: 497
+22: Keralis1: 463
+22: PearlescentMoon: 346
+22: MythicalSausage: 87
+22: Renthedog: 75
+22: cubfan135: 70
+22: Smallishbeans: 64
+22: BdoubleO100: 64
+22: GeminiTay: 30
+22: Docm77: 20
+22: GoodTimeWithScar: 17
+22: xBCrafted: 14
+22: Zedaph: 8
+22: iJevin: 5
+22: Etho: 4
+22: RentheKing: 4
+22: hypnotizd: 4
+22: VintageBeef: 3
+22: iskall85: 2
+22: ZombieCleo: 1
+Total 3690

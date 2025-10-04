@@ -1,0 +1,21 @@
+minecraft.crafted.gray_shulker_box
+19: Keralis1: 61
+19: GoodTimeWithScar: 59
+19: Etho: 46
+19: Renthedog: 25
+19: cubfan135: 9
+19: Xisuma: 7
+19: VintageBeef: 6
+19: Stressmonster101: 6
+19: falsesymmetry: 5
+19: Docm77: 4
+19: joehillssays: 3
+19: Grian: 3
+19: Tango: 2
+19: iskall85: 2
+19: xBCrafted: 2
+19: BdoubleO100: 1
+19: Welsknight: 1
+19: MumboJumbo: 1
+19: Zedaph: 1
+Total 244

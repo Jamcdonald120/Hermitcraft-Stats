@@ -1,0 +1,8 @@
+minecraft.dropped.granite_wall
+6: Grian: 48
+6: Tango: 42
+6: cubfan135: 36
+6: falsesymmetry: 25
+6: Etho: 5
+6: GoodTimeWithScar: 1
+Total 157

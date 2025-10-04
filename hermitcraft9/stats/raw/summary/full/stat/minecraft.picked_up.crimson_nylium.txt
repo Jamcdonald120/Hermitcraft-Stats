@@ -1,0 +1,25 @@
+minecraft.picked_up.crimson_nylium
+23: VintageBeef: 17823
+23: PearlescentMoon: 6365
+23: Grian: 949
+23: Etho: 707
+23: Keralis1: 491
+23: cubfan135: 345
+23: iJevin: 319
+23: Renthedog: 290
+23: Xisuma: 214
+23: Tango: 213
+23: falsesymmetry: 125
+23: ZombieCleo: 99
+23: BdoubleO100: 96
+23: GoodTimeWithScar: 88
+23: Docm77: 55
+23: joehillssays: 29
+23: Stressmonster101: 29
+23: Zedaph: 29
+23: iskall85: 19
+23: impulseSV: 15
+23: hypnotizd: 13
+23: xBCrafted: 7
+23: RentheKing: 5
+Total 28325

@@ -1,0 +1,26 @@
+minecraft.dropped.leather_boots
+24: Etho: 958
+24: Zedaph: 275
+24: Xisuma: 175
+24: cubfan135: 130
+24: Tango: 76
+24: GeminiTay: 20
+24: iJevin: 14
+24: Grian: 11
+24: GoodTimeWithScar: 10
+24: impulseSV: 9
+24: Docm77: 8
+24: PearlescentMoon: 6
+24: iskall85: 6
+24: VintageBeef: 4
+24: xBCrafted: 3
+24: falsesymmetry: 3
+24: ZombieCleo: 3
+24: hypnotizd: 3
+24: Keralis1: 2
+24: BdoubleO100: 1
+24: Pixlriffs: 1
+24: Mumbo: 1
+24: MumboJumbo: 1
+24: Stressmonster101: 1
+Total 1721

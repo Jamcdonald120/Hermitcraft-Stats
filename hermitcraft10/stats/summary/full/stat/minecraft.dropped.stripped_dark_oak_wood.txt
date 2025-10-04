@@ -1,0 +1,7 @@
+minecraft.dropped.stripped_dark_oak_wood
+5: falsesymmetry: 20
+5: Docm77: 6
+5: Etho: 2
+5: Skizzleman: 1
+5: PearlescentMoon: 1
+Total 30

@@ -1,0 +1,34 @@
+minecraft.picked_up.potion
+32: Tango: 756
+32: Docm77: 569
+32: iJevin: 455
+32: impulseSV: 372
+32: cubfan135: 239
+32: joehillssays: 227
+32: iskall85: 190
+32: PearlescentMoon: 111
+32: Xisuma: 96
+32: Grian: 82
+32: falsesymmetry: 80
+32: Etho: 73
+32: Zedaph: 64
+32: BdoubleO100: 58
+32: ZombieCleo: 52
+32: Renthedog: 41
+32: Keralis1: 37
+32: MythicalSausage: 28
+32: Pixlriffs: 20
+32: GeminiTay: 19
+32: Stressmonster101: 15
+32: hypnotizd: 11
+32: RentheKing: 9
+32: VintageBeef: 8
+32: GoodTimeWithScar: 8
+32: ShubbleYT: 3
+32: OrionSound: 2
+32: xBCrafted: 2
+32: SolidarityGaming: 2
+32: kingbdogz: 1
+32: Firecracker1195: 1
+32: HBomb94: 1
+Total 3632

@@ -1,0 +1,6 @@
+minecraft.crafted.bubble_coral_block
+4: Etho: 8
+4: ZombieCleo: 8
+4: VintageBeef: 1
+4: hypnotizd: 1
+Total 18

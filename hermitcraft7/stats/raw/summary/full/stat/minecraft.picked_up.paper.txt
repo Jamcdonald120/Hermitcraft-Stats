@@ -1,0 +1,25 @@
+minecraft.picked_up.paper
+23: Tango: 95071
+23: Zedaph: 12518
+23: Grian: 8643
+23: falsesymmetry: 3110
+23: BdoubleO100: 1823
+23: MumboJumbo: 1264
+23: Keralis1: 1215
+23: impulseSV: 1191
+23: iJevin: 1155
+23: joehillssays: 1029
+23: Etho: 937
+23: GoodTimeWithScar: 636
+23: cubfan135: 590
+23: Stressmonster101: 503
+23: Renthedog: 340
+23: iskall85: 291
+23: xBCrafted: 283
+23: ZombieCleo: 220
+23: Xisuma: 197
+23: Docm77: 180
+23: VintageBeef: 70
+23: Welsknight: 65
+23: hypnotizd: 38
+Total 131369

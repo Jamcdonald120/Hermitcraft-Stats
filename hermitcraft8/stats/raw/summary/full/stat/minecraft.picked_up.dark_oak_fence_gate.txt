@@ -1,0 +1,18 @@
+minecraft.picked_up.dark_oak_fence_gate
+16: xBCrafted: 87
+16: Grian: 50
+16: GoodTimeWithScar: 35
+16: Stressmonster101: 22
+16: hypnotizd: 21
+16: joehillssays: 19
+16: BdoubleO100: 19
+16: Tango: 7
+16: falsesymmetry: 7
+16: cubfan135: 4
+16: Renthedog: 3
+16: Keralis1: 3
+16: Xisuma: 2
+16: Welsknight: 2
+16: Docm77: 1
+16: iskall85: 1
+Total 283

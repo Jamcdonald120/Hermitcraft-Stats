@@ -1,0 +1,5 @@
+minecraft.dropped.mossy_cobblestone_stairs
+3: GoodTimeWithScar: 10
+3: iJevin: 6
+3: Grian: 3
+Total 19

@@ -1,0 +1,18 @@
+minecraft.picked_up.sandstone_slab
+16: Welsknight: 231
+16: joehillssays: 66
+16: Xisuma: 65
+16: iJevin: 54
+16: ZombieCleo: 29
+16: GoodTimeWithScar: 24
+16: cubfan135: 17
+16: MumboJumbo: 17
+16: xBCrafted: 14
+16: PearlescentMoon: 13
+16: hypnotizd: 9
+16: Etho: 8
+16: Zedaph: 6
+16: Tango: 5
+16: GeminiTay: 4
+16: Grian: 3
+Total 565

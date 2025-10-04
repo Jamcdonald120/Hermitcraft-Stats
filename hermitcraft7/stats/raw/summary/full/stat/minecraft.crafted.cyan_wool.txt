@@ -1,0 +1,13 @@
+minecraft.crafted.cyan_wool
+11: GoodTimeWithScar: 273
+11: MumboJumbo: 54
+11: Tango: 23
+11: BdoubleO100: 18
+11: VintageBeef: 8
+11: cubfan135: 4
+11: ZombieCleo: 4
+11: Keralis1: 4
+11: Xisuma: 3
+11: falsesymmetry: 1
+11: Zedaph: 1
+Total 393

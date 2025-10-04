@@ -1,0 +1,27 @@
+minecraft.mined.composter
+25: Tango: 244
+25: Zedaph: 210
+25: xBCrafted: 200
+25: impulseSV: 183
+25: Xisuma: 155
+25: iJevin: 92
+25: Stressmonster101: 87
+25: Keralis1: 85
+25: Docm77: 80
+25: iskall85: 67
+25: Etho: 59
+25: Renthedog: 56
+25: Grian: 54
+25: cubfan135: 39
+25: PearlescentMoon: 29
+25: RentheKing: 28
+25: GeminiTay: 27
+25: BdoubleO100: 19
+25: hypnotizd: 18
+25: GoodTimeWithScar: 13
+25: VintageBeef: 8
+25: joehillssays: 8
+25: ZombieCleo: 5
+25: Smajor1995: 2
+25: Mumbo: 1
+Total 1769

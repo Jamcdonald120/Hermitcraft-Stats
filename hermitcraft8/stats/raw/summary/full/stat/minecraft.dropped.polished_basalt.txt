@@ -1,0 +1,12 @@
+minecraft.dropped.polished_basalt
+10: impulseSV: 122
+10: GoodTimeWithScar: 20
+10: Tango: 18
+10: Xisuma: 14
+10: BdoubleO100: 4
+10: cubfan135: 4
+10: Docm77: 1
+10: Grian: 1
+10: iskall85: 1
+10: Keralis1: 1
+Total 186

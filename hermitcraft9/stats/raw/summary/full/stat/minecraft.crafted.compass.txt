@@ -1,0 +1,26 @@
+minecraft.crafted.compass
+24: VintageBeef: 13845
+24: Tango: 6003
+24: Etho: 1776
+24: ZombieCleo: 573
+24: xBCrafted: 435
+24: PearlescentMoon: 306
+24: impulseSV: 180
+24: iJevin: 119
+24: GoodTimeWithScar: 110
+24: falsesymmetry: 61
+24: Xisuma: 53
+24: joehillssays: 53
+24: GeminiTay: 51
+24: Docm77: 38
+24: cubfan135: 31
+24: Grian: 29
+24: Zedaph: 21
+24: Renthedog: 20
+24: Keralis1: 14
+24: iskall85: 12
+24: RentheKing: 12
+24: Stressmonster101: 11
+24: BdoubleO100: 6
+24: Pixlriffs: 1
+Total 23760

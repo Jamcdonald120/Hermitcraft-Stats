@@ -1,0 +1,5 @@
+minecraft.picked_up.end_stone_brick_wall
+3: Xisuma: 71
+3: cubfan135: 47
+3: Tango: 17
+Total 135

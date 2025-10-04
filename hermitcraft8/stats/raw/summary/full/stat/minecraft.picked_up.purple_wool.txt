@@ -1,0 +1,11 @@
+minecraft.picked_up.purple_wool
+9: iJevin: 469
+9: Zedaph: 367
+9: Welsknight: 259
+9: Xisuma: 125
+9: Grian: 116
+9: cubfan135: 17
+9: Tango: 13
+9: PearlescentMoon: 2
+9: falsesymmetry: 1
+Total 1369

@@ -1,0 +1,6 @@
+minecraft.dropped.oxidized_copper_grate
+4: falsesymmetry: 113
+4: Etho: 68
+4: GoodTimeWithScar: 16
+4: Mumbo: 1
+Total 198

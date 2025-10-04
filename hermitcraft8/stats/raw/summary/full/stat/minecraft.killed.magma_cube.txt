@@ -1,0 +1,27 @@
+minecraft.killed.magma_cube
+25: impulseSV: 990
+25: cubfan135: 909
+25: Docm77: 880
+25: Xisuma: 578
+25: iJevin: 577
+25: PearlescentMoon: 523
+25: Welsknight: 515
+25: joehillssays: 397
+25: Tango: 353
+25: VintageBeef: 345
+25: falsesymmetry: 297
+25: Renthedog: 278
+25: Grian: 276
+25: xBCrafted: 275
+25: GoodTimeWithScar: 264
+25: ZombieCleo: 240
+25: iskall85: 169
+25: hypnotizd: 161
+25: Zedaph: 148
+25: Etho: 128
+25: GeminiTay: 86
+25: EvilXisuma: 56
+25: BdoubleO100: 42
+25: Stressmonster101: 28
+25: Keralis1: 15
+Total 8530

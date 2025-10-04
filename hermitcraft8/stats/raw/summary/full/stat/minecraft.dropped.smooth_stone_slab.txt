@@ -1,0 +1,13 @@
+minecraft.dropped.smooth_stone_slab
+11: Tango: 309
+11: impulseSV: 105
+11: Etho: 41
+11: Docm77: 24
+11: MumboJumbo: 13
+11: Keralis1: 9
+11: GoodTimeWithScar: 6
+11: iskall85: 5
+11: xBCrafted: 4
+11: VintageBeef: 1
+11: Zedaph: 1
+Total 518

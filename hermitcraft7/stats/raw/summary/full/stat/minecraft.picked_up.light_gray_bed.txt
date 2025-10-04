@@ -1,0 +1,11 @@
+minecraft.picked_up.light_gray_bed
+9: BdoubleO100: 364
+9: cubfan135: 25
+9: GoodTimeWithScar: 6
+9: impulseSV: 6
+9: Xisuma: 5
+9: Grian: 4
+9: Keralis1: 4
+9: Stressmonster101: 3
+9: Tango: 1
+Total 418

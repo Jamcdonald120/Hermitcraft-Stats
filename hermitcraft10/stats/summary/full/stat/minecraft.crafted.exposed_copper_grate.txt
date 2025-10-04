@@ -1,0 +1,4 @@
+minecraft.crafted.exposed_copper_grate
+2: BdoubleO100: 72
+2: Xisuma: 4
+Total 76

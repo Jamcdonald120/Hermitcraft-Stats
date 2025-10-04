@@ -1,0 +1,5 @@
+minecraft.dropped.leather_horse_armor
+3: GeminiTay: 6
+3: PearlescentMoon: 6
+3: BdoubleO100: 1
+Total 13

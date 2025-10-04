@@ -1,0 +1,30 @@
+minecraft.picked_up.mutton
+28: iJevin: 13908
+28: Etho: 623
+28: falsesymmetry: 314
+28: joehillssays: 246
+28: Tango: 162
+28: Renthedog: 149
+28: GoodTimeWithScar: 144
+28: Zedaph: 142
+28: cubfan135: 130
+28: ZombieCleo: 116
+28: PearlescentMoon: 112
+28: hypnotizd: 97
+28: impulseSV: 83
+28: Grian: 80
+28: Keralis1: 63
+28: Xisuma: 60
+28: xBCrafted: 45
+28: Mumbo: 40
+28: belmarzi: 32
+28: Skizzleman: 30
+28: Smallishbeans: 18
+28: BdoubleO100: 17
+28: JamalMC_: 16
+28: InTheLittleWood: 16
+28: VintageBeef: 13
+28: Welsknight: 12
+28: GeminiTay: 7
+28: Docm77: 6
+Total 16681

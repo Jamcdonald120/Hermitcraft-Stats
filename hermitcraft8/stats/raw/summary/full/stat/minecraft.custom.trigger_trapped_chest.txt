@@ -1,0 +1,5 @@
+minecraft.custom.trigger_trapped_chest
+3: Docm77: 14
+3: Renthedog: 12
+3: Xisuma: 8
+Total 34

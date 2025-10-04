@@ -1,0 +1,7 @@
+minecraft.picked_up.dead_tube_coral
+5: PearlescentMoon: 8
+5: joehillssays: 4
+5: Xisuma: 1
+5: falsesymmetry: 1
+5: Zedaph: 1
+Total 15

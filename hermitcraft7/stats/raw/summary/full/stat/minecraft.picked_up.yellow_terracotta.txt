@@ -1,0 +1,23 @@
+minecraft.picked_up.yellow_terracotta
+21: falsesymmetry: 23978
+21: GoodTimeWithScar: 13649
+21: Renthedog: 9346
+21: Grian: 6658
+21: Etho: 6514
+21: MumboJumbo: 5566
+21: joehillssays: 4896
+21: impulseSV: 4648
+21: Xisuma: 3849
+21: VintageBeef: 579
+21: xBCrafted: 393
+21: ZombieCleo: 359
+21: iskall85: 309
+21: Tango: 252
+21: Keralis1: 189
+21: Zedaph: 131
+21: BdoubleO100: 30
+21: cubfan135: 5
+21: iJevin: 4
+21: Stressmonster101: 4
+21: Welsknight: 2
+Total 81361

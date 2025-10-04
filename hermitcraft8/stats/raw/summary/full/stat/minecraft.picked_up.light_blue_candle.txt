@@ -1,0 +1,4 @@
+minecraft.picked_up.light_blue_candle
+2: Tango: 64
+2: GeminiTay: 16
+Total 80

@@ -1,0 +1,6 @@
+minecraft.picked_up.warped_hyphae
+4: GoodTimeWithScar: 134
+4: Grian: 29
+4: Keralis1: 3
+4: impulseSV: 1
+Total 167

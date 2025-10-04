@@ -1,0 +1,18 @@
+minecraft.mined.sponge
+16: xBCrafted: 8896
+16: impulseSV: 1238
+16: GoodTimeWithScar: 584
+16: Docm77: 363
+16: Etho: 257
+16: Tango: 163
+16: hypnotizd: 155
+16: PearlescentMoon: 77
+16: iJevin: 66
+16: Skizzleman: 39
+16: cubfan135: 34
+16: Grian: 11
+16: VintageBeef: 4
+16: falsesymmetry: 4
+16: Dot_Dot_Dash: 3
+16: ZombieCleo: 1
+Total 11895

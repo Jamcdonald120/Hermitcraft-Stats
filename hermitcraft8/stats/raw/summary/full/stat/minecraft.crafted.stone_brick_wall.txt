@@ -1,0 +1,18 @@
+minecraft.crafted.stone_brick_wall
+16: iJevin: 342
+16: impulseSV: 246
+16: Keralis1: 192
+16: Tango: 138
+16: MumboJumbo: 96
+16: Grian: 66
+16: ZombieCleo: 60
+16: GoodTimeWithScar: 36
+16: hypnotizd: 16
+16: xBCrafted: 13
+16: GeminiTay: 12
+16: PearlescentMoon: 12
+16: falsesymmetry: 12
+16: Welsknight: 6
+16: BdoubleO100: 5
+16: Docm77: 1
+Total 1253

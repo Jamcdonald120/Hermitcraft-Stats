@@ -1,0 +1,4 @@
+minecraft.crafted.wild_armor_trim_smithing_template
+2: iJevin: 34
+2: Docm77: 30
+Total 64

@@ -1,0 +1,19 @@
+minecraft.picked_up.dark_oak_sign
+17: Zedaph: 61
+17: cubfan135: 57
+17: falsesymmetry: 54
+17: Grian: 33
+17: Docm77: 31
+17: Welsknight: 23
+17: PythonGB: 22
+17: ZombieCleo: 17
+17: BdoubleO100: 16
+17: Keralis1: 15
+17: Tango: 13
+17: iskall85: 12
+17: Xisuma: 8
+17: Renthedog: 7
+17: GoodTimeWithScar: 5
+17: MumboJumbo: 1
+17: impulseSV: 1
+Total 376

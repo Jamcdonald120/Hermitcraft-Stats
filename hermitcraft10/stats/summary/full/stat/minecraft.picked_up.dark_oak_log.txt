@@ -1,0 +1,27 @@
+minecraft.picked_up.dark_oak_log
+25: Docm77: 9110
+25: falsesymmetry: 9042
+25: GoodTimeWithScar: 7308
+25: Smallishbeans: 7213
+25: Etho: 6970
+25: Xisuma: 6881
+25: iJevin: 6181
+25: xBCrafted: 5373
+25: Renthedog: 4449
+25: PearlescentMoon: 3838
+25: BdoubleO100: 3466
+25: ZombieCleo: 3392
+25: Zedaph: 3109
+25: GeminiTay: 3010
+25: hypnotizd: 2139
+25: Keralis1: 2068
+25: Grian: 2017
+25: Skizzleman: 2012
+25: Tango: 2011
+25: joehillssays: 1937
+25: cubfan135: 1476
+25: VintageBeef: 1034
+25: impulseSV: 989
+25: Mumbo: 613
+25: Welsknight: 467
+Total 96105

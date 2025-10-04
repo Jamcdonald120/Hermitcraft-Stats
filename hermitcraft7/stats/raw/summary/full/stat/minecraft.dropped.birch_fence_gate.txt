@@ -1,0 +1,8 @@
+minecraft.dropped.birch_fence_gate
+6: Keralis1: 25
+6: cubfan135: 24
+6: GoodTimeWithScar: 8
+6: Xisuma: 3
+6: Etho: 3
+6: impulseSV: 1
+Total 64

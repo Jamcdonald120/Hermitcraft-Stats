@@ -1,0 +1,3 @@
+minecraft.dropped.blue_shulker_box
+1: ZombieCleo: 1
+Total 1

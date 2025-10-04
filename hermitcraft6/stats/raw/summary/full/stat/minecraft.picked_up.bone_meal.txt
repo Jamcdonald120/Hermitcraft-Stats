@@ -1,0 +1,30 @@
+minecraft.picked_up.bone_meal
+28: iskall85: 11220
+28: impulseSV: 3569
+28: Grian: 3356
+28: iJevin: 3108
+28: cubfan135: 2569
+28: Renthedog: 1944
+28: PythonGB: 1834
+28: MumboJumbo: 1785
+28: Xisuma: 1483
+28: GoodTimeWithScar: 1035
+28: falsesymmetry: 995
+28: Tango: 921
+28: Docm77: 447
+28: Zedaph: 241
+28: joehillssays: 233
+28: ZombieCleo: 187
+28: Keralis1: 165
+28: Stressmonster101: 119
+28: BdoubleO100: 110
+28: Duke_da_dog: 104
+28: Welsknight: 84
+28: PhoenixfireLune: 80
+28: xBCrafted: 64
+28: Cojomax99: 64
+28: HumanCleo: 45
+28: Jura_Whitey: 12
+28: Tinfoilchef: 4
+28: Biffa2001: 3
+Total 35781

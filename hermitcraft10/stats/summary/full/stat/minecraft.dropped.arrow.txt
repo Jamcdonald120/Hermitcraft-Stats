@@ -1,0 +1,29 @@
+minecraft.dropped.arrow
+27: BdoubleO100: 13707
+27: Xisuma: 5541
+27: iJevin: 2908
+27: Keralis1: 2807
+27: cubfan135: 2453
+27: GoodTimeWithScar: 2132
+27: PearlescentMoon: 1817
+27: Grian: 1554
+27: ZombieCleo: 1189
+27: Renthedog: 1089
+27: hypnotizd: 832
+27: impulseSV: 809
+27: Tango: 534
+27: Docm77: 529
+27: falsesymmetry: 526
+27: Etho: 471
+27: GeminiTay: 451
+27: xBCrafted: 320
+27: Smallishbeans: 162
+27: VintageBeef: 153
+27: joehillssays: 95
+27: Mumbo: 90
+27: Zedaph: 64
+27: Skizzleman: 59
+27: SolidarityGaming: 16
+27: Welsknight: 11
+27: Smajor1995: 1
+Total 40320

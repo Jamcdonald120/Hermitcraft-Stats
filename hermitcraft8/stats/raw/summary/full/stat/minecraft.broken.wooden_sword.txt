@@ -1,0 +1,4 @@
+minecraft.broken.wooden_sword
+2: VintageBeef: 2
+2: Renthedog: 1
+Total 3

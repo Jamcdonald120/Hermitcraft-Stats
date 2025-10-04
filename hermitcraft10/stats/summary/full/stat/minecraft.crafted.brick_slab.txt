@@ -1,0 +1,16 @@
+minecraft.crafted.brick_slab
+14: Xisuma: 170
+14: Tango: 64
+14: GoodTimeWithScar: 50
+14: Skizzleman: 36
+14: Welsknight: 34
+14: cubfan135: 32
+14: falsesymmetry: 30
+14: SolidarityGaming: 24
+14: Etho: 20
+14: GeminiTay: 12
+14: Grian: 10
+14: Zedaph: 8
+14: BdoubleO100: 2
+14: hypnotizd: 2
+Total 494

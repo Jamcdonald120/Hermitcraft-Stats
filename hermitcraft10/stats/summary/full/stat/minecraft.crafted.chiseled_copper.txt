@@ -1,0 +1,13 @@
+minecraft.crafted.chiseled_copper
+11: Tango: 209
+11: impulseSV: 64
+11: Grian: 52
+11: Mumbo: 40
+11: cubfan135: 36
+11: xBCrafted: 20
+11: GoodTimeWithScar: 20
+11: BdoubleO100: 12
+11: Renthedog: 4
+11: joehillssays: 4
+11: ZombieCleo: 4
+Total 465

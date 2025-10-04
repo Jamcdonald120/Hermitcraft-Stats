@@ -1,0 +1,21 @@
+minecraft.picked_up.spruce_wood
+19: Grian: 522
+19: joehillssays: 380
+19: Keralis1: 197
+19: PearlescentMoon: 85
+19: GeminiTay: 66
+19: Smallishbeans: 66
+19: Skizzleman: 65
+19: Xisuma: 49
+19: iJevin: 45
+19: Etho: 36
+19: VintageBeef: 33
+19: Tango: 27
+19: GoodTimeWithScar: 20
+19: falsesymmetry: 18
+19: Welsknight: 17
+19: impulseSV: 5
+19: ZombieCleo: 2
+19: Docm77: 1
+19: BdoubleO100: 1
+Total 1635

@@ -1,0 +1,22 @@
+minecraft.dropped.white_wool
+20: Zedaph: 5767
+20: cubfan135: 1220
+20: Keralis1: 597
+20: Tango: 256
+20: BdoubleO100: 141
+20: falsesymmetry: 135
+20: Grian: 120
+20: MumboJumbo: 90
+20: Etho: 84
+20: Docm77: 64
+20: iJevin: 64
+20: GoodTimeWithScar: 59
+20: hypnotizd: 36
+20: ZombieCleo: 19
+20: iskall85: 10
+20: Stressmonster101: 8
+20: Renthedog: 4
+20: VintageBeef: 4
+20: Xisuma: 3
+20: impulseSV: 1
+Total 8682

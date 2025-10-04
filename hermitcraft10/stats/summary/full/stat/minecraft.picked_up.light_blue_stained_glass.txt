@@ -1,0 +1,24 @@
+minecraft.picked_up.light_blue_stained_glass
+22: Etho: 3371
+22: Docm77: 1868
+22: Renthedog: 1223
+22: joehillssays: 550
+22: Grian: 246
+22: GoodTimeWithScar: 222
+22: BdoubleO100: 98
+22: Tango: 86
+22: Skizzleman: 36
+22: ZombieCleo: 30
+22: iJevin: 29
+22: Smallishbeans: 29
+22: PearlescentMoon: 20
+22: GeminiTay: 14
+22: cubfan135: 13
+22: Xisuma: 12
+22: Zedaph: 6
+22: falsesymmetry: 5
+22: impulseSV: 4
+22: VintageBeef: 2
+22: xBCrafted: 1
+22: Keralis1: 1
+Total 7866

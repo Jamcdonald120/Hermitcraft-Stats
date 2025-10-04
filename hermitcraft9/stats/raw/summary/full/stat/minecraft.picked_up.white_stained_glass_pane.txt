@@ -1,0 +1,21 @@
+minecraft.picked_up.white_stained_glass_pane
+19: GoodTimeWithScar: 684
+19: cubfan135: 239
+19: Grian: 180
+19: Renthedog: 163
+19: PearlescentMoon: 102
+19: iJevin: 96
+19: Xisuma: 94
+19: impulseSV: 76
+19: VintageBeef: 64
+19: xBCrafted: 29
+19: falsesymmetry: 26
+19: hypnotizd: 21
+19: joehillssays: 13
+19: GeminiTay: 3
+19: Welsknight: 3
+19: Keralis1: 3
+19: Tango: 1
+19: BdoubleO100: 1
+19: Zedaph: 1
+Total 1799

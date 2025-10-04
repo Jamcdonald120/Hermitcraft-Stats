@@ -1,0 +1,18 @@
+minecraft.picked_up.copper_grate
+16: Grian: 248
+16: Tango: 82
+16: xBCrafted: 68
+16: ZombieCleo: 64
+16: Renthedog: 45
+16: Etho: 41
+16: Xisuma: 39
+16: joehillssays: 34
+16: PearlescentMoon: 34
+16: cubfan135: 30
+16: impulseSV: 19
+16: falsesymmetry: 11
+16: Skizzleman: 8
+16: GeminiTay: 3
+16: hypnotizd: 1
+16: GoodTimeWithScar: 1
+Total 728

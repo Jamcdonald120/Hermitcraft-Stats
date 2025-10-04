@@ -1,0 +1,6 @@
+minecraft.dropped.gray_stained_glass_pane
+4: BdoubleO100: 53
+4: Renthedog: 4
+4: Tango: 4
+4: Keralis1: 2
+Total 63

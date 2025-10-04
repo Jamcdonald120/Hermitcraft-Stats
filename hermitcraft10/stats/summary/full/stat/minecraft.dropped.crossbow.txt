@@ -1,0 +1,25 @@
+minecraft.dropped.crossbow
+23: hypnotizd: 639
+23: Tango: 257
+23: cubfan135: 253
+23: Etho: 123
+23: GoodTimeWithScar: 111
+23: Xisuma: 92
+23: Keralis1: 38
+23: iJevin: 36
+23: Grian: 17
+23: PearlescentMoon: 17
+23: Smallishbeans: 9
+23: BdoubleO100: 9
+23: Docm77: 6
+23: GeminiTay: 6
+23: impulseSV: 6
+23: Skizzleman: 5
+23: Renthedog: 4
+23: Zedaph: 4
+23: joehillssays: 2
+23: xBCrafted: 2
+23: ZombieCleo: 2
+23: VintageBeef: 1
+23: InTheLittleWood: 1
+Total 1640

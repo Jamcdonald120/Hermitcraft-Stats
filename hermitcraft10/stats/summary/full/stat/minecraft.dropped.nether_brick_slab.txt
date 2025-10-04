@@ -1,0 +1,6 @@
+minecraft.dropped.nether_brick_slab
+4: GoodTimeWithScar: 34
+4: Renthedog: 8
+4: Zedaph: 5
+4: Grian: 4
+Total 51

@@ -1,0 +1,10 @@
+minecraft.dropped.mangrove_slab
+8: Grian: 202
+8: OrionSound: 18
+8: GoodTimeWithScar: 9
+8: Renthedog: 8
+8: MythicalSausage: 6
+8: BdoubleO100: 4
+8: Smallishbeans: 2
+8: Stressmonster101: 1
+Total 250

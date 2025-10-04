@@ -1,0 +1,8 @@
+minecraft.picked_up.polished_diorite_slab
+6: xBCrafted: 135
+6: Tinfoilchef: 102
+6: cubfan135: 11
+6: Tango: 4
+6: BdoubleO100: 3
+6: PearlescentMoon: 2
+Total 257

@@ -1,0 +1,27 @@
+minecraft.picked_up.smooth_quartz_stairs
+25: GoodTimeWithScar: 577
+25: cubfan135: 271
+25: Grian: 144
+25: GeminiTay: 143
+25: Zedaph: 89
+25: xBCrafted: 84
+25: impulseSV: 74
+25: OrionSound: 72
+25: hypnotizd: 58
+25: Keralis1: 50
+25: Xisuma: 35
+25: falsesymmetry: 22
+25: VintageBeef: 21
+25: Renthedog: 19
+25: Docm77: 16
+25: Mumbo: 15
+25: ZombieCleo: 10
+25: iJevin: 8
+25: Pixlriffs: 8
+25: Tango: 6
+25: PearlescentMoon: 4
+25: Etho: 2
+25: Smajor1995: 1
+25: joehillssays: 1
+25: BdoubleO100: 1
+Total 1731

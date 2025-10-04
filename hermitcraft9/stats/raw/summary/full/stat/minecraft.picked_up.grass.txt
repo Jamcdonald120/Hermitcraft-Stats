@@ -1,0 +1,26 @@
+minecraft.picked_up.grass
+24: BdoubleO100: 3023
+24: cubfan135: 2597
+24: PearlescentMoon: 1977
+24: GoodTimeWithScar: 1935
+24: Etho: 1034
+24: Keralis1: 809
+24: falsesymmetry: 514
+24: Docm77: 411
+24: xBCrafted: 404
+24: joehillssays: 274
+24: iJevin: 180
+24: Stressmonster101: 160
+24: VintageBeef: 147
+24: hypnotizd: 119
+24: iskall85: 115
+24: Grian: 81
+24: Xisuma: 35
+24: ZombieCleo: 29
+24: Zedaph: 21
+24: GeminiTay: 11
+24: impulseSV: 7
+24: Tango: 6
+24: Renthedog: 2
+24: Mumbo: 1
+Total 13892

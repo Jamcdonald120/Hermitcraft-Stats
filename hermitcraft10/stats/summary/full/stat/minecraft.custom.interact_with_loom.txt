@@ -1,0 +1,34 @@
+minecraft.custom.interact_with_loom
+32: cubfan135: 595
+32: Etho: 547
+32: Skizzleman: 372
+32: iJevin: 322
+32: falsesymmetry: 215
+32: joehillssays: 213
+32: Smallishbeans: 149
+32: Keralis1: 119
+32: GoodTimeWithScar: 106
+32: PearlescentMoon: 78
+32: impulseSV: 72
+32: Xisuma: 33
+32: Mumbo: 32
+32: ZombieCleo: 29
+32: Renthedog: 25
+32: BdoubleO100: 24
+32: VintageBeef: 21
+32: GeminiTay: 17
+32: Grian: 16
+32: Tango: 13
+32: Docm77: 12
+32: Couriway: 7
+32: jojosolos: 7
+32: MythicalSausage: 4
+32: Smajor1995: 3
+32: hannahxxrose: 3
+32: aimsey: 3
+32: OrionSound: 2
+32: xBCrafted: 2
+32: InTheLittleWood: 2
+32: SolidarityGaming: 2
+32: Eyjoy27: 1
+Total 3046

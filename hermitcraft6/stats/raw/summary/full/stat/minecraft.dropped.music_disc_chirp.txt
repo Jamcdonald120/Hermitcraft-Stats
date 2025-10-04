@@ -1,0 +1,4 @@
+minecraft.dropped.music_disc_chirp
+2: falsesymmetry: 3
+2: Zedaph: 1
+Total 4

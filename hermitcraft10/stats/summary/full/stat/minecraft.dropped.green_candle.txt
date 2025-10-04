@@ -1,0 +1,4 @@
+minecraft.dropped.green_candle
+2: ZombieCleo: 5
+2: VintageBeef: 1
+Total 6

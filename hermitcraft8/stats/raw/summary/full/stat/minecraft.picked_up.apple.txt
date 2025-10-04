@@ -1,0 +1,29 @@
+minecraft.picked_up.apple
+27: VintageBeef: 1965
+27: Grian: 504
+27: Zedaph: 433
+27: GoodTimeWithScar: 316
+27: joehillssays: 295
+27: PearlescentMoon: 240
+27: iJevin: 213
+27: Renthedog: 152
+27: BdoubleO100: 146
+27: Xisuma: 135
+27: cubfan135: 117
+27: MumboJumbo: 115
+27: xBCrafted: 94
+27: impulseSV: 85
+27: ZombieCleo: 84
+27: Tango: 63
+27: falsesymmetry: 63
+27: Stressmonster101: 53
+27: GeminiTay: 48
+27: Etho: 32
+27: Welsknight: 28
+27: Tinfoilchef: 22
+27: Keralis1: 20
+27: iskall85: 15
+27: hypnotizd: 7
+27: Docm77: 6
+27: pillbugnine: 1
+Total 5252

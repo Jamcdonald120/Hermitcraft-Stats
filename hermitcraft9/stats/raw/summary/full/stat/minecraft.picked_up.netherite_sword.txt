@@ -1,0 +1,21 @@
+minecraft.picked_up.netherite_sword
+19: iJevin: 86
+19: Docm77: 42
+19: cubfan135: 39
+19: PearlescentMoon: 31
+19: ZombieCleo: 28
+19: impulseSV: 20
+19: Etho: 17
+19: GoodTimeWithScar: 11
+19: xBCrafted: 9
+19: Keralis1: 6
+19: Xisuma: 5
+19: GeminiTay: 3
+19: Zedaph: 2
+19: Minerva246: 1
+19: Renthedog: 1
+19: MythicalSausage: 1
+19: Pixlriffs: 1
+19: RentheKing: 1
+19: hypnotizd: 1
+Total 305

@@ -1,0 +1,13 @@
+minecraft.dropped.mushroom_stem
+11: Keralis1: 86
+11: Tango: 65
+11: VintageBeef: 31
+11: Docm77: 26
+11: Renthedog: 23
+11: Etho: 19
+11: Zedaph: 7
+11: PearlescentMoon: 4
+11: Grian: 2
+11: GoodTimeWithScar: 1
+11: impulseSV: 1
+Total 265

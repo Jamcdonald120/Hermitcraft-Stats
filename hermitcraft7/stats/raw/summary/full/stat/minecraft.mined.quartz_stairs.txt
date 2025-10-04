@@ -1,0 +1,22 @@
+minecraft.mined.quartz_stairs
+20: impulseSV: 6221
+20: Keralis1: 906
+20: BdoubleO100: 208
+20: GoodTimeWithScar: 149
+20: Tango: 118
+20: Renthedog: 102
+20: hypnotizd: 102
+20: xBCrafted: 94
+20: Etho: 76
+20: Docm77: 69
+20: Stressmonster101: 67
+20: ZombieCleo: 45
+20: VintageBeef: 42
+20: iskall85: 39
+20: joehillssays: 38
+20: Xisuma: 28
+20: Zedaph: 24
+20: falsesymmetry: 23
+20: Grian: 11
+20: MumboJumbo: 9
+Total 8371

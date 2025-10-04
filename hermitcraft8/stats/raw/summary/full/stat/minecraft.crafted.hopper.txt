@@ -1,0 +1,28 @@
+minecraft.crafted.hopper
+26: impulseSV: 2103
+26: iJevin: 1356
+26: Docm77: 1256
+26: Grian: 1065
+26: MumboJumbo: 942
+26: Tango: 755
+26: Renthedog: 688
+26: Welsknight: 661
+26: hypnotizd: 620
+26: xBCrafted: 615
+26: GoodTimeWithScar: 544
+26: Xisuma: 488
+26: cubfan135: 375
+26: Etho: 368
+26: iskall85: 184
+26: Zedaph: 166
+26: BdoubleO100: 112
+26: falsesymmetry: 103
+26: GeminiTay: 67
+26: joehillssays: 34
+26: ZombieCleo: 23
+26: Keralis1: 23
+26: PearlescentMoon: 15
+26: Stressmonster101: 11
+26: Tinfoilchef: 4
+26: VintageBeef: 2
+Total 12580

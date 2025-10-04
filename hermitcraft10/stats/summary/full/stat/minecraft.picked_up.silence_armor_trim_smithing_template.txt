@@ -1,0 +1,6 @@
+minecraft.picked_up.silence_armor_trim_smithing_template
+4: xBCrafted: 4
+4: Docm77: 1
+4: PearlescentMoon: 1
+4: ZombieCleo: 1
+Total 7

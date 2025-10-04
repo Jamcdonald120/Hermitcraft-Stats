@@ -1,0 +1,26 @@
+minecraft.crafted.iron_leggings
+24: iJevin: 32
+24: cubfan135: 29
+24: Smallishbeans: 12
+24: Etho: 12
+24: Docm77: 10
+24: Xisuma: 6
+24: Welsknight: 6
+24: joehillssays: 5
+24: Renthedog: 4
+24: Tango: 4
+24: Skizzleman: 4
+24: ZombieCleo: 4
+24: Mumbo: 4
+24: Zedaph: 4
+24: VintageBeef: 3
+24: PearlescentMoon: 3
+24: falsesymmetry: 3
+24: GoodTimeWithScar: 3
+24: Grian: 2
+24: xBCrafted: 2
+24: hypnotizd: 2
+24: GeminiTay: 1
+24: BdoubleO100: 1
+24: impulseSV: 1
+Total 157

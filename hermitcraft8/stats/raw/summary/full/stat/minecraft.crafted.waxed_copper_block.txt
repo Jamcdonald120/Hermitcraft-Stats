@@ -1,0 +1,5 @@
+minecraft.crafted.waxed_copper_block
+3: impulseSV: 1118
+3: Renthedog: 330
+3: cubfan135: 2
+Total 1450

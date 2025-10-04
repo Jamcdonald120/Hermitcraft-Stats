@@ -1,0 +1,25 @@
+minecraft.picked_up.deepslate_bricks
+23: Etho: 2753
+23: iJevin: 2344
+23: xBCrafted: 1425
+23: impulseSV: 854
+23: Grian: 498
+23: Skizzleman: 463
+23: GeminiTay: 395
+23: Mumbo: 317
+23: Xisuma: 270
+23: Welsknight: 206
+23: cubfan135: 202
+23: PearlescentMoon: 187
+23: falsesymmetry: 174
+23: Tango: 163
+23: hypnotizd: 113
+23: Smallishbeans: 89
+23: BdoubleO100: 85
+23: Docm77: 62
+23: Keralis1: 29
+23: Renthedog: 27
+23: GoodTimeWithScar: 19
+23: ZombieCleo: 12
+23: joehillssays: 1
+Total 10688

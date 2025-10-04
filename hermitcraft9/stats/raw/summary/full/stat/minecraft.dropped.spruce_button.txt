@@ -1,0 +1,17 @@
+minecraft.dropped.spruce_button
+15: Tango: 120
+15: Stressmonster101: 67
+15: Renthedog: 26
+15: RentheKing: 15
+15: xBCrafted: 14
+15: MythicalSausage: 8
+15: Xisuma: 6
+15: falsesymmetry: 6
+15: BdoubleO100: 5
+15: GoodTimeWithScar: 5
+15: impulseSV: 5
+15: Zedaph: 3
+15: OrionSound: 2
+15: iJevin: 2
+15: Keralis1: 1
+Total 285

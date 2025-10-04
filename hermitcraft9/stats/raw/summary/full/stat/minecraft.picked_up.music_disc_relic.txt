@@ -1,0 +1,10 @@
+minecraft.picked_up.music_disc_relic
+8: PearlescentMoon: 9
+8: ZombieCleo: 5
+8: cubfan135: 3
+8: Zedaph: 3
+8: impulseSV: 2
+8: Renthedog: 1
+8: iJevin: 1
+8: falsesymmetry: 1
+Total 25

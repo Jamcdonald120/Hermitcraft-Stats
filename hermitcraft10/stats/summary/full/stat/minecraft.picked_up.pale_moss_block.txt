@@ -1,0 +1,22 @@
+minecraft.picked_up.pale_moss_block
+20: cubfan135: 5568
+20: GoodTimeWithScar: 4811
+20: Tango: 4574
+20: joehillssays: 1817
+20: Smallishbeans: 700
+20: Docm77: 657
+20: Etho: 479
+20: Xisuma: 477
+20: Renthedog: 418
+20: PearlescentMoon: 406
+20: BdoubleO100: 368
+20: iJevin: 147
+20: falsesymmetry: 136
+20: Grian: 118
+20: xBCrafted: 80
+20: Skizzleman: 50
+20: impulseSV: 34
+20: GeminiTay: 16
+20: Mumbo: 10
+20: Keralis1: 3
+Total 20869

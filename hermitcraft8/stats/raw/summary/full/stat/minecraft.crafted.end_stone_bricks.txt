@@ -1,0 +1,5 @@
+minecraft.crafted.end_stone_bricks
+3: iJevin: 1204
+3: cubfan135: 432
+3: ZombieCleo: 64
+Total 1700

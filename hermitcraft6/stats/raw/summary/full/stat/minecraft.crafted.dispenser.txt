@@ -1,0 +1,22 @@
+minecraft.crafted.dispenser
+20: GoodTimeWithScar: 2367
+20: Grian: 1373
+20: Xisuma: 398
+20: Tango: 190
+20: cubfan135: 172
+20: impulseSV: 149
+20: Docm77: 113
+20: MumboJumbo: 66
+20: iskall85: 57
+20: Stressmonster101: 41
+20: Zedaph: 38
+20: joehillssays: 34
+20: Renthedog: 30
+20: iJevin: 16
+20: BdoubleO100: 11
+20: Welsknight: 10
+20: falsesymmetry: 9
+20: PythonGB: 6
+20: ZombieCleo: 4
+20: Biffa2001: 3
+Total 5087

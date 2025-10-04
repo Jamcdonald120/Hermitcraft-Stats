@@ -1,0 +1,25 @@
+minecraft.picked_up.red_tulip
+23: Etho: 5054
+23: GoodTimeWithScar: 1001
+23: iJevin: 520
+23: Xisuma: 517
+23: PearlescentMoon: 268
+23: Smallishbeans: 238
+23: GeminiTay: 155
+23: BdoubleO100: 152
+23: Mumbo: 119
+23: Grian: 113
+23: impulseSV: 106
+23: Tango: 80
+23: Skizzleman: 60
+23: hypnotizd: 34
+23: joehillssays: 28
+23: cubfan135: 28
+23: falsesymmetry: 20
+23: Renthedog: 12
+23: VintageBeef: 9
+23: Welsknight: 9
+23: ZombieCleo: 6
+23: Docm77: 4
+23: Keralis1: 3
+Total 8536

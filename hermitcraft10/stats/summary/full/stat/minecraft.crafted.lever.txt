@@ -1,0 +1,28 @@
+minecraft.crafted.lever
+26: Etho: 1008
+26: Tango: 727
+26: impulseSV: 627
+26: Smallishbeans: 611
+26: GoodTimeWithScar: 588
+26: Docm77: 498
+26: Mumbo: 476
+26: Keralis1: 473
+26: Xisuma: 451
+26: BdoubleO100: 346
+26: falsesymmetry: 244
+26: ZombieCleo: 239
+26: cubfan135: 229
+26: Zedaph: 218
+26: Grian: 161
+26: hypnotizd: 160
+26: Renthedog: 139
+26: joehillssays: 84
+26: Skizzleman: 74
+26: PearlescentMoon: 70
+26: GeminiTay: 51
+26: iJevin: 43
+26: xBCrafted: 28
+26: VintageBeef: 9
+26: SolidarityGaming: 2
+26: Welsknight: 1
+Total 7557

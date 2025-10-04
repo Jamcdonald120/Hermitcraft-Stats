@@ -1,0 +1,6 @@
+minecraft.dropped.purple_concrete_powder
+4: falsesymmetry: 90
+4: GoodTimeWithScar: 16
+4: Etho: 4
+4: Zedaph: 1
+Total 111

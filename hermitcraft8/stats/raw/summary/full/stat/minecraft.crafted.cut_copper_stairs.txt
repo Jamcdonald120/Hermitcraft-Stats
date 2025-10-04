@@ -1,0 +1,10 @@
+minecraft.crafted.cut_copper_stairs
+8: GoodTimeWithScar: 138
+8: Renthedog: 80
+8: PearlescentMoon: 58
+8: Docm77: 54
+8: cubfan135: 42
+8: Tango: 32
+8: impulseSV: 10
+8: Welsknight: 9
+Total 423

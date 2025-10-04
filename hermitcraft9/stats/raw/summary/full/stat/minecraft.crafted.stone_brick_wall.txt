@@ -1,0 +1,23 @@
+minecraft.crafted.stone_brick_wall
+21: iJevin: 3458
+21: Keralis1: 835
+21: Xisuma: 829
+21: falsesymmetry: 636
+21: hypnotizd: 378
+21: Stressmonster101: 252
+21: PearlescentMoon: 153
+21: cubfan135: 123
+21: Tango: 116
+21: Grian: 72
+21: ZombieCleo: 64
+21: GoodTimeWithScar: 58
+21: impulseSV: 36
+21: VintageBeef: 18
+21: Renthedog: 16
+21: MythicalSausage: 12
+21: GeminiTay: 7
+21: Docm77: 6
+21: Mumbo: 6
+21: MumboJumbo: 6
+21: Zedaph: 1
+Total 7082

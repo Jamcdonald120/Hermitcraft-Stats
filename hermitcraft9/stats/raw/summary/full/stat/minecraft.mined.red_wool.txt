@@ -1,0 +1,25 @@
+minecraft.mined.red_wool
+23: ZombieCleo: 1080
+23: Tango: 709
+23: GeminiTay: 577
+23: Grian: 352
+23: PearlescentMoon: 288
+23: cubfan135: 252
+23: Keralis1: 183
+23: Stressmonster101: 171
+23: Docm77: 167
+23: joehillssays: 113
+23: impulseSV: 96
+23: iskall85: 93
+23: falsesymmetry: 82
+23: Etho: 64
+23: BdoubleO100: 60
+23: MythicalSausage: 56
+23: GoodTimeWithScar: 25
+23: Xisuma: 21
+23: VintageBeef: 11
+23: Renthedog: 9
+23: iJevin: 8
+23: RentheKing: 4
+23: Zedaph: 1
+Total 4422

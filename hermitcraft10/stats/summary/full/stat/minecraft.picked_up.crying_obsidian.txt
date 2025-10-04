@@ -1,0 +1,24 @@
+minecraft.picked_up.crying_obsidian
+22: Grian: 1482
+22: impulseSV: 972
+22: iJevin: 593
+22: Etho: 472
+22: Mumbo: 240
+22: cubfan135: 238
+22: Xisuma: 146
+22: joehillssays: 145
+22: falsesymmetry: 145
+22: GoodTimeWithScar: 137
+22: PearlescentMoon: 134
+22: Skizzleman: 76
+22: Renthedog: 31
+22: Keralis1: 22
+22: ZombieCleo: 16
+22: Zedaph: 11
+22: hypnotizd: 10
+22: Tango: 7
+22: Docm77: 4
+22: xBCrafted: 4
+22: GeminiTay: 1
+22: Smallishbeans: 1
+Total 4887

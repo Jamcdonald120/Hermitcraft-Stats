@@ -1,0 +1,16 @@
+minecraft.dropped.purpur_pillar
+14: PearlescentMoon: 576
+14: GoodTimeWithScar: 80
+14: iJevin: 36
+14: Renthedog: 35
+14: hypnotizd: 26
+14: Zedaph: 18
+14: Mumbo: 12
+14: Docm77: 7
+14: Keralis1: 5
+14: VintageBeef: 2
+14: Grian: 2
+14: Etho: 2
+14: Tango: 1
+14: falsesymmetry: 1
+Total 803

@@ -1,0 +1,10 @@
+minecraft.picked_up.jungle_hanging_sign
+8: falsesymmetry: 17
+8: PearlescentMoon: 14
+8: BdoubleO100: 7
+8: GeminiTay: 4
+8: Keralis1: 4
+8: Docm77: 2
+8: Xisuma: 1
+8: cubfan135: 1
+Total 50

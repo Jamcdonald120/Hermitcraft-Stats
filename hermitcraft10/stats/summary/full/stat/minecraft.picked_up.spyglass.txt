@@ -1,0 +1,29 @@
+minecraft.picked_up.spyglass
+27: GoodTimeWithScar: 102
+27: joehillssays: 20
+27: Renthedog: 14
+27: cubfan135: 13
+27: Tango: 8
+27: Skizzleman: 8
+27: Etho: 8
+27: iJevin: 5
+27: PearlescentMoon: 4
+27: OrionSound: 3
+27: Grian: 3
+27: Smallishbeans: 3
+27: ZombieCleo: 3
+27: hypnotizd: 3
+27: Xisuma: 2
+27: BdoubleO100: 2
+27: falsesymmetry: 2
+27: Docm77: 1
+27: F1RECRACKR: 1
+27: VintageBeef: 1
+27: Smajor1995: 1
+27: xBCrafted: 1
+27: Mumbo: 1
+27: HBomb94: 1
+27: SolidarityGaming: 1
+27: Keralis1: 1
+27: impulseSV: 1
+Total 213

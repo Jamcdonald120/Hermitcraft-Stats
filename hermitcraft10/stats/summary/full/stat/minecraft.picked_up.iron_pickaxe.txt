@@ -1,0 +1,27 @@
+minecraft.picked_up.iron_pickaxe
+25: impulseSV: 50
+25: Skizzleman: 37
+25: Zedaph: 34
+25: Tango: 26
+25: iJevin: 21
+25: GoodTimeWithScar: 21
+25: Renthedog: 10
+25: Xisuma: 9
+25: joehillssays: 7
+25: hypnotizd: 6
+25: xBCrafted: 5
+25: Welsknight: 5
+25: Smallishbeans: 4
+25: ZombieCleo: 4
+25: Grian: 3
+25: PearlescentMoon: 3
+25: falsesymmetry: 3
+25: cubfan135: 3
+25: Etho: 3
+25: VintageBeef: 2
+25: GeminiTay: 2
+25: Keralis1: 2
+25: Docm77: 1
+25: BdoubleO100: 1
+25: Mumbo: 1
+Total 263

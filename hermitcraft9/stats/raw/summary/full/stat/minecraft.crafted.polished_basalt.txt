@@ -1,0 +1,22 @@
+minecraft.crafted.polished_basalt
+20: impulseSV: 8384
+20: falsesymmetry: 5616
+20: cubfan135: 3220
+20: joehillssays: 1404
+20: Tango: 788
+20: Xisuma: 772
+20: Etho: 716
+20: GoodTimeWithScar: 576
+20: RentheKing: 520
+20: Renthedog: 496
+20: BdoubleO100: 352
+20: PearlescentMoon: 145
+20: xBCrafted: 132
+20: ZombieCleo: 68
+20: Grian: 8
+20: Mumbo: 8
+20: MumboJumbo: 8
+20: Docm77: 3
+20: VintageBeef: 2
+20: Zedaph: 1
+Total 23219

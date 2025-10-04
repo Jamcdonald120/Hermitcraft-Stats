@@ -1,0 +1,4 @@
+minecraft.crafted.blue_orchid
+2: falsesymmetry: 16
+2: Keralis1: 8
+Total 24

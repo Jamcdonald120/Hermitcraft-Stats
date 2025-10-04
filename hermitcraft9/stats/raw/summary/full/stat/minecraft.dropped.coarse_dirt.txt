@@ -1,0 +1,23 @@
+minecraft.dropped.coarse_dirt
+21: falsesymmetry: 932
+21: Tango: 618
+21: cubfan135: 328
+21: Keralis1: 309
+21: PearlescentMoon: 210
+21: iJevin: 198
+21: Zedaph: 191
+21: ZombieCleo: 150
+21: GoodTimeWithScar: 100
+21: Grian: 85
+21: iskall85: 65
+21: Etho: 61
+21: Renthedog: 32
+21: Stressmonster101: 32
+21: xBCrafted: 15
+21: impulseSV: 13
+21: MythicalSausage: 9
+21: Docm77: 6
+21: Mumbo: 2
+21: RentheKing: 2
+21: GeminiTay: 1
+Total 3359

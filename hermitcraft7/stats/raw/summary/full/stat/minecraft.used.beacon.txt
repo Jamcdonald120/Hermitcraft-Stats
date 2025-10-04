@@ -1,0 +1,25 @@
+minecraft.used.beacon
+23: impulseSV: 282
+23: cubfan135: 144
+23: Xisuma: 123
+23: xBCrafted: 114
+23: iskall85: 112
+23: Etho: 89
+23: Tango: 64
+23: falsesymmetry: 62
+23: iJevin: 52
+23: Renthedog: 50
+23: GoodTimeWithScar: 48
+23: Keralis1: 35
+23: MumboJumbo: 34
+23: Grian: 32
+23: BdoubleO100: 23
+23: Stressmonster101: 23
+23: joehillssays: 18
+23: hypnotizd: 13
+23: Welsknight: 8
+23: Docm77: 5
+23: VintageBeef: 5
+23: Zedaph: 2
+23: Tinfoilchef: 1
+Total 1339

@@ -1,0 +1,18 @@
+minecraft.crafted.stone_stairs
+16: GoodTimeWithScar: 4016
+16: Renthedog: 3832
+16: Docm77: 512
+16: Xisuma: 440
+16: Grian: 368
+16: iskall85: 360
+16: cubfan135: 272
+16: Keralis1: 208
+16: falsesymmetry: 176
+16: Tango: 88
+16: BdoubleO100: 32
+16: Stressmonster101: 32
+16: Welsknight: 24
+16: joehillssays: 16
+16: Zedaph: 16
+16: Tinfoilchef: 8
+Total 10400

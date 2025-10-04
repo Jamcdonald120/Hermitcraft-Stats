@@ -1,0 +1,25 @@
+minecraft.picked_up.melon_seeds
+23: Renthedog: 291
+23: xBCrafted: 186
+23: Grian: 133
+23: Docm77: 126
+23: Zedaph: 118
+23: Keralis1: 98
+23: Welsknight: 73
+23: GoodTimeWithScar: 72
+23: iJevin: 65
+23: joehillssays: 63
+23: cubfan135: 49
+23: Tango: 38
+23: PearlescentMoon: 33
+23: hypnotizd: 30
+23: Xisuma: 24
+23: falsesymmetry: 22
+23: Etho: 20
+23: VintageBeef: 19
+23: GeminiTay: 15
+23: BdoubleO100: 15
+23: ZombieCleo: 14
+23: impulseSV: 9
+23: Smallishbeans: 5
+Total 1518

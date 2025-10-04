@@ -1,0 +1,5 @@
+minecraft.crafted.pink_banner
+3: PearlescentMoon: 10
+3: VintageBeef: 3
+3: Zedaph: 1
+Total 14

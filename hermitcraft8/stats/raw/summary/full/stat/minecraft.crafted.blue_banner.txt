@@ -1,0 +1,6 @@
+minecraft.crafted.blue_banner
+4: Tango: 21
+4: PearlescentMoon: 1
+4: cubfan135: 1
+4: GoodTimeWithScar: 1
+Total 24

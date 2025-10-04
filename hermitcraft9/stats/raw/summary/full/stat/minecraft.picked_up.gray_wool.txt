@@ -1,0 +1,27 @@
+minecraft.picked_up.gray_wool
+25: PearlescentMoon: 3210
+25: cubfan135: 2371
+25: ZombieCleo: 1874
+25: Renthedog: 730
+25: falsesymmetry: 671
+25: iJevin: 587
+25: Etho: 355
+25: Xisuma: 337
+25: impulseSV: 337
+25: Tango: 323
+25: BdoubleO100: 196
+25: Docm77: 182
+25: iskall85: 129
+25: Grian: 106
+25: GoodTimeWithScar: 101
+25: RentheKing: 86
+25: VintageBeef: 57
+25: Mumbo: 37
+25: GeminiTay: 36
+25: joehillssays: 32
+25: Keralis1: 32
+25: xBCrafted: 13
+25: Welsknight: 5
+25: Zedaph: 3
+25: Stressmonster101: 2
+Total 11812

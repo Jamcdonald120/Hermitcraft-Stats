@@ -1,0 +1,33 @@
+minecraft.picked_up.bundle
+31: PearlescentMoon: 165
+31: cubfan135: 48
+31: iJevin: 39
+31: Etho: 32
+31: Xisuma: 29
+31: GoodTimeWithScar: 23
+31: falsesymmetry: 22
+31: joehillssays: 19
+31: Grian: 16
+31: ZombieCleo: 14
+31: Tango: 9
+31: Skizzleman: 9
+31: Renthedog: 8
+31: impulseSV: 8
+31: Smallishbeans: 7
+31: SolidarityGaming: 7
+31: OrionSound: 5
+31: BdoubleO100: 5
+31: Docm77: 4
+31: GeminiTay: 4
+31: Keralis1: 4
+31: Mumbo: 3
+31: aimsey: 3
+31: Zedaph: 3
+31: xBCrafted: 2
+31: Welsknight: 2
+31: hypnotizd: 2
+31: HBomb94: 2
+31: VintageBeef: 1
+31: Eyjoy27: 1
+31: jojosolos: 1
+Total 497

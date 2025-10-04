@@ -1,0 +1,31 @@
+minecraft.picked_up.anvil
+29: Xisuma: 298
+29: joehillssays: 233
+29: cubfan135: 224
+29: Etho: 100
+29: iJevin: 92
+29: ZombieCleo: 88
+29: Grian: 57
+29: GoodTimeWithScar: 53
+29: Tango: 51
+29: Renthedog: 49
+29: PearlescentMoon: 45
+29: impulseSV: 45
+29: falsesymmetry: 41
+29: Keralis1: 40
+29: Skizzleman: 30
+29: xBCrafted: 25
+29: Docm77: 24
+29: VintageBeef: 17
+29: Smallishbeans: 9
+29: hypnotizd: 9
+29: Zedaph: 9
+29: BdoubleO100: 8
+29: Welsknight: 5
+29: GeminiTay: 4
+29: Mumbo: 4
+29: Couriway: 3
+29: SolidarityGaming: 2
+29: F1RECRACKR: 1
+29: JamalMC_: 1
+Total 1567

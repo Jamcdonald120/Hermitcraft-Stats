@@ -1,0 +1,5 @@
+minecraft.dropped.smooth_red_sandstone_stairs
+3: iJevin: 64
+3: Grian: 50
+3: falsesymmetry: 2
+Total 116

@@ -1,0 +1,20 @@
+minecraft.picked_up.warped_slab
+18: VintageBeef: 2028
+18: PearlescentMoon: 1044
+18: ZombieCleo: 361
+18: falsesymmetry: 220
+18: GoodTimeWithScar: 163
+18: Grian: 122
+18: Tango: 111
+18: cubfan135: 103
+18: GeminiTay: 73
+18: Xisuma: 52
+18: Keralis1: 24
+18: Zedaph: 10
+18: Smajor1995: 7
+18: Stressmonster101: 7
+18: xBCrafted: 4
+18: Mumbo: 3
+18: impulseSV: 2
+18: Smallishbeans: 1
+Total 4335

@@ -1,0 +1,5 @@
+minecraft.dropped.nether_brick_wall
+3: Tango: 33
+3: iJevin: 30
+3: GoodTimeWithScar: 2
+Total 65

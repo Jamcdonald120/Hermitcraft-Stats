@@ -1,0 +1,31 @@
+minecraft.picked_up.player_head
+29: Tango: 3217
+29: Xisuma: 1127
+29: Grian: 1121
+29: Etho: 719
+29: iJevin: 640
+29: GoodTimeWithScar: 567
+29: PearlescentMoon: 422
+29: Docm77: 384
+29: Renthedog: 302
+29: cubfan135: 243
+29: BdoubleO100: 182
+29: Zedaph: 138
+29: impulseSV: 132
+29: xBCrafted: 130
+29: hypnotizd: 126
+29: ZombieCleo: 117
+29: joehillssays: 110
+29: iskall85: 110
+29: VintageBeef: 97
+29: Keralis1: 85
+29: Welsknight: 82
+29: GeminiTay: 46
+29: falsesymmetry: 42
+29: EvilXisuma: 22
+29: Stressmonster101: 21
+29: MumboJumbo: 19
+29: pillbugnine: 10
+29: HermitcraftAlt: 3
+29: Tinfoilchef: 2
+Total 10216

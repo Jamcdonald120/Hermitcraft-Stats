@@ -1,0 +1,8 @@
+minecraft.picked_up.red_sandstone_wall
+6: Xisuma: 76
+6: GoodTimeWithScar: 16
+6: Renthedog: 3
+6: Docm77: 1
+6: Tango: 1
+6: Keralis1: 1
+Total 98

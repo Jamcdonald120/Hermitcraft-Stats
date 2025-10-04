@@ -1,0 +1,7 @@
+minecraft.dropped.cooked_salmon
+5: Etho: 10
+5: Grian: 8
+5: BdoubleO100: 3
+5: PearlescentMoon: 2
+5: impulseSV: 2
+Total 25

@@ -1,0 +1,21 @@
+minecraft.dropped.iron_boots
+19: iJevin: 176
+19: Grian: 23
+19: Tango: 15
+19: cubfan135: 14
+19: Etho: 9
+19: Xisuma: 8
+19: Docm77: 6
+19: GoodTimeWithScar: 5
+19: impulseSV: 5
+19: iskall85: 3
+19: falsesymmetry: 3
+19: hypnotizd: 3
+19: Renthedog: 2
+19: joehillssays: 2
+19: BdoubleO100: 2
+19: Zedaph: 2
+19: GeminiTay: 1
+19: PearlescentMoon: 1
+19: ZombieCleo: 1
+Total 281

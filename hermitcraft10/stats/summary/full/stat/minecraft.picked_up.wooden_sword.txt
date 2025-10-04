@@ -1,0 +1,19 @@
+minecraft.picked_up.wooden_sword
+17: Etho: 67
+17: GeminiTay: 62
+17: impulseSV: 61
+17: Tango: 41
+17: Skizzleman: 33
+17: cubfan135: 21
+17: Renthedog: 16
+17: GoodTimeWithScar: 15
+17: BdoubleO100: 12
+17: Mumbo: 11
+17: xBCrafted: 10
+17: falsesymmetry: 6
+17: Xisuma: 1
+17: OrionSound: 1
+17: VintageBeef: 1
+17: PearlescentMoon: 1
+17: hypnotizd: 1
+Total 360

@@ -1,0 +1,13 @@
+minecraft.dropped.yellow_dye
+11: Renthedog: 256
+11: Grian: 156
+11: iJevin: 70
+11: Etho: 23
+11: falsesymmetry: 13
+11: Zedaph: 8
+11: Keralis1: 2
+11: Xisuma: 1
+11: Tango: 1
+11: cubfan135: 1
+11: GoodTimeWithScar: 1
+Total 532

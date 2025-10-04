@@ -1,0 +1,12 @@
+minecraft.picked_up.nether_brick_slab
+10: Xisuma: 44
+10: Keralis1: 24
+10: Etho: 21
+10: MumboJumbo: 16
+10: iJevin: 6
+10: cubfan135: 6
+10: GeminiTay: 5
+10: impulseSV: 4
+10: Renthedog: 3
+10: PearlescentMoon: 2
+Total 131

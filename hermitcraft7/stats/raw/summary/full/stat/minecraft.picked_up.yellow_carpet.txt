@@ -1,0 +1,19 @@
+minecraft.picked_up.yellow_carpet
+17: VintageBeef: 14836
+17: Xisuma: 392
+17: cubfan135: 304
+17: Tango: 273
+17: joehillssays: 187
+17: iskall85: 126
+17: Zedaph: 80
+17: Keralis1: 74
+17: GoodTimeWithScar: 72
+17: BdoubleO100: 25
+17: MumboJumbo: 23
+17: iJevin: 21
+17: Stressmonster101: 6
+17: Etho: 3
+17: ZombieCleo: 3
+17: Grian: 2
+17: impulseSV: 2
+Total 16429

@@ -1,0 +1,21 @@
+minecraft.picked_up.iron_pickaxe
+19: GoodTimeWithScar: 38
+19: PearlescentMoon: 28
+19: Tango: 18
+19: joehillssays: 16
+19: iJevin: 11
+19: impulseSV: 10
+19: Welsknight: 9
+19: iskall85: 8
+19: Xisuma: 4
+19: falsesymmetry: 4
+19: hypnotizd: 4
+19: Keralis1: 4
+19: cubfan135: 3
+19: ZombieCleo: 3
+19: GeminiTay: 2
+19: Grian: 2
+19: Renthedog: 1
+19: MumboJumbo: 1
+19: Zedaph: 1
+Total 167

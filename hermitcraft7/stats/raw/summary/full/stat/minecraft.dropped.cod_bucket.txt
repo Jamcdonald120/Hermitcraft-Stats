@@ -1,0 +1,5 @@
+minecraft.dropped.cod_bucket
+3: Etho: 335
+3: impulseSV: 272
+3: Tango: 2
+Total 609

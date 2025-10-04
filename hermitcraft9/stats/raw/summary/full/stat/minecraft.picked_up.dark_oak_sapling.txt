@@ -1,0 +1,29 @@
+minecraft.picked_up.dark_oak_sapling
+27: Renthedog: 4708
+27: falsesymmetry: 3930
+27: GoodTimeWithScar: 2163
+27: Stressmonster101: 1629
+27: Etho: 817
+27: PearlescentMoon: 671
+27: xBCrafted: 644
+27: cubfan135: 635
+27: Keralis1: 632
+27: iskall85: 627
+27: BdoubleO100: 573
+27: iJevin: 517
+27: Grian: 495
+27: Docm77: 469
+27: impulseSV: 426
+27: RentheKing: 376
+27: GeminiTay: 373
+27: Xisuma: 340
+27: ZombieCleo: 243
+27: joehillssays: 166
+27: hypnotizd: 117
+27: VintageBeef: 42
+27: Zedaph: 41
+27: Tango: 34
+27: ShubbleYT: 16
+27: Welsknight: 7
+27: OrionSound: 1
+Total 20692

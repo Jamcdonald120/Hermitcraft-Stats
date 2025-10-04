@@ -1,0 +1,18 @@
+minecraft.picked_up.brown_bed
+16: Etho: 56
+16: Keralis1: 36
+16: Renthedog: 27
+16: cubfan135: 24
+16: Grian: 20
+16: joehillssays: 14
+16: iskall85: 13
+16: BdoubleO100: 12
+16: Zedaph: 11
+16: Xisuma: 6
+16: Stressmonster101: 5
+16: falsesymmetry: 4
+16: GoodTimeWithScar: 3
+16: Docm77: 2
+16: Tango: 2
+16: xBCrafted: 2
+Total 237

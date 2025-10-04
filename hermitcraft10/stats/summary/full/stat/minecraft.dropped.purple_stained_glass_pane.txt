@@ -1,0 +1,4 @@
+minecraft.dropped.purple_stained_glass_pane
+2: falsesymmetry: 13
+2: impulseSV: 5
+Total 18

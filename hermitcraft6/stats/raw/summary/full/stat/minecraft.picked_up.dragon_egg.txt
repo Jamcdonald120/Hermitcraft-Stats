@@ -1,0 +1,11 @@
+minecraft.picked_up.dragon_egg
+9: falsesymmetry: 8
+9: Tango: 4
+9: iJevin: 3
+9: Docm77: 2
+9: Xisuma: 1
+9: Grian: 1
+9: cubfan135: 1
+9: Welsknight: 1
+9: GoodTimeWithScar: 1
+Total 22

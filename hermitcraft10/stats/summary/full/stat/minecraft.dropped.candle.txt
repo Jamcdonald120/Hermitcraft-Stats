@@ -1,0 +1,13 @@
+minecraft.dropped.candle
+11: Xisuma: 256
+11: falsesymmetry: 87
+11: Tango: 73
+11: Etho: 29
+11: impulseSV: 7
+11: iJevin: 5
+11: PearlescentMoon: 5
+11: ZombieCleo: 3
+11: Docm77: 2
+11: BdoubleO100: 1
+11: GoodTimeWithScar: 1
+Total 469

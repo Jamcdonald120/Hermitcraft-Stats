@@ -1,0 +1,22 @@
+minecraft.dropped.lapis_lazuli
+20: Zedaph: 1086
+20: Etho: 504
+20: Grian: 408
+20: cubfan135: 387
+20: GoodTimeWithScar: 302
+20: iJevin: 284
+20: Keralis1: 184
+20: Tango: 175
+20: Smallishbeans: 159
+20: xBCrafted: 143
+20: impulseSV: 101
+20: Skizzleman: 100
+20: Mumbo: 67
+20: Renthedog: 58
+20: Docm77: 45
+20: Xisuma: 43
+20: VintageBeef: 24
+20: PearlescentMoon: 18
+20: falsesymmetry: 14
+20: joehillssays: 12
+Total 4114

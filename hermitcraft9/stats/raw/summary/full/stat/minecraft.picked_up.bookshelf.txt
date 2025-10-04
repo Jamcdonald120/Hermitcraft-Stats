@@ -1,0 +1,27 @@
+minecraft.picked_up.bookshelf
+25: Grian: 776
+25: falsesymmetry: 635
+25: cubfan135: 307
+25: GoodTimeWithScar: 138
+25: PearlescentMoon: 124
+25: Keralis1: 110
+25: Etho: 63
+25: RentheKing: 58
+25: Smajor1995: 56
+25: Xisuma: 54
+25: ZombieCleo: 50
+25: iJevin: 42
+25: Tango: 41
+25: Renthedog: 39
+25: impulseSV: 33
+25: GeminiTay: 29
+25: Stressmonster101: 19
+25: hypnotizd: 11
+25: SolidarityGaming: 9
+25: Docm77: 3
+25: iskall85: 2
+25: Zedaph: 2
+25: joehillssays: 1
+25: Pixlriffs: 1
+25: xBCrafted: 1
+Total 2604

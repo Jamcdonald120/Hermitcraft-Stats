@@ -1,0 +1,29 @@
+minecraft.picked_up.podzol
+27: PearlescentMoon: 7172
+27: hypnotizd: 5097
+27: Keralis1: 2811
+27: Renthedog: 1444
+27: Tango: 957
+27: Etho: 826
+27: BdoubleO100: 657
+27: Xisuma: 649
+27: GeminiTay: 396
+27: xBCrafted: 382
+27: Docm77: 364
+27: Stressmonster101: 331
+27: VintageBeef: 281
+27: iJevin: 238
+27: Zedaph: 151
+27: iskall85: 121
+27: cubfan135: 102
+27: falsesymmetry: 94
+27: ZombieCleo: 75
+27: joehillssays: 65
+27: GoodTimeWithScar: 24
+27: Grian: 19
+27: Welsknight: 16
+27: impulseSV: 14
+27: MythicalSausage: 6
+27: RentheKing: 4
+27: Pixlriffs: 2
+Total 22298

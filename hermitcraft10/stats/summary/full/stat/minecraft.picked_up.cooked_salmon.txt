@@ -1,0 +1,26 @@
+minecraft.picked_up.cooked_salmon
+24: Skizzleman: 406
+24: Grian: 381
+24: VintageBeef: 312
+24: iJevin: 191
+24: GoodTimeWithScar: 147
+24: impulseSV: 131
+24: joehillssays: 80
+24: GeminiTay: 73
+24: Smallishbeans: 63
+24: Keralis1: 36
+24: PearlescentMoon: 28
+24: Xisuma: 26
+24: Etho: 23
+24: BdoubleO100: 20
+24: falsesymmetry: 19
+24: ZombieCleo: 13
+24: Renthedog: 10
+24: Docm77: 9
+24: cubfan135: 9
+24: Eyjoy27: 3
+24: Mumbo: 3
+24: xBCrafted: 2
+24: Welsknight: 2
+24: hypnotizd: 2
+Total 1989

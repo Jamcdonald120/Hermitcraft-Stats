@@ -1,0 +1,5 @@
+minecraft.dropped.acacia_fence
+3: RentheKing: 4
+3: Xisuma: 1
+3: iJevin: 1
+Total 6

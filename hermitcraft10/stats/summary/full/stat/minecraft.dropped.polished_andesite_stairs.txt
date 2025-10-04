@@ -1,0 +1,11 @@
+minecraft.dropped.polished_andesite_stairs
+9: Tango: 157
+9: impulseSV: 52
+9: Smallishbeans: 38
+9: iJevin: 5
+9: PearlescentMoon: 4
+9: GoodTimeWithScar: 3
+9: Renthedog: 1
+9: BdoubleO100: 1
+9: Mumbo: 1
+Total 262

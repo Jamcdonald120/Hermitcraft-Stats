@@ -1,0 +1,3 @@
+minecraft.crafted.horn_coral_block
+1: cubfan135: 8
+Total 8

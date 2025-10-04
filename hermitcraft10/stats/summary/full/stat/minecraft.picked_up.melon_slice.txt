@@ -1,0 +1,30 @@
+minecraft.picked_up.melon_slice
+28: Renthedog: 11468
+28: joehillssays: 10523
+28: PearlescentMoon: 8292
+28: iJevin: 5715
+28: falsesymmetry: 5444
+28: Tango: 3269
+28: Welsknight: 2793
+28: VintageBeef: 2745
+28: Grian: 2499
+28: Etho: 1893
+28: cubfan135: 1566
+28: xBCrafted: 1511
+28: Xisuma: 1400
+28: Zedaph: 1209
+28: GeminiTay: 1168
+28: ZombieCleo: 1089
+28: Skizzleman: 789
+28: Keralis1: 399
+28: BdoubleO100: 329
+28: GoodTimeWithScar: 206
+28: Docm77: 182
+28: impulseSV: 162
+28: Smallishbeans: 121
+28: hypnotizd: 100
+28: Mumbo: 99
+28: SolidarityGaming: 34
+28: InTheLittleWood: 13
+28: HBomb94: 1
+Total 65019

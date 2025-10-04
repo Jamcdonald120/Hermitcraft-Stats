@@ -1,0 +1,28 @@
+minecraft.picked_up.golden_carrot
+26: GoodTimeWithScar: 3381
+26: Grian: 2722
+26: iJevin: 2570
+26: PearlescentMoon: 1889
+26: VintageBeef: 1876
+26: Etho: 1297
+26: Renthedog: 1250
+26: Tango: 1024
+26: Docm77: 978
+26: impulseSV: 945
+26: Keralis1: 899
+26: Xisuma: 885
+26: Zedaph: 878
+26: MumboJumbo: 567
+26: joehillssays: 471
+26: BdoubleO100: 357
+26: GeminiTay: 341
+26: ZombieCleo: 257
+26: iskall85: 226
+26: cubfan135: 151
+26: falsesymmetry: 94
+26: Welsknight: 64
+26: Tinfoilchef: 50
+26: pillbugnine: 37
+26: hypnotizd: 26
+26: xBCrafted: 17
+Total 23252

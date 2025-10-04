@@ -1,0 +1,23 @@
+minecraft.crafted.oak_door
+21: Renthedog: 96
+21: xBCrafted: 63
+21: Etho: 30
+21: BdoubleO100: 24
+21: PearlescentMoon: 21
+21: Xisuma: 12
+21: Tango: 12
+21: Smallishbeans: 12
+21: falsesymmetry: 12
+21: iJevin: 9
+21: cubfan135: 9
+21: Mumbo: 6
+21: Keralis1: 6
+21: Zedaph: 6
+21: Docm77: 3
+21: VintageBeef: 3
+21: joehillssays: 3
+21: Skizzleman: 3
+21: Welsknight: 3
+21: hypnotizd: 3
+21: impulseSV: 3
+Total 339

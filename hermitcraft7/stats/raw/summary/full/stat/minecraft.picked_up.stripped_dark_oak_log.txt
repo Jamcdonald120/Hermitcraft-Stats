@@ -1,0 +1,21 @@
+minecraft.picked_up.stripped_dark_oak_log
+19: Keralis1: 1320
+19: BdoubleO100: 1224
+19: Etho: 1036
+19: Grian: 697
+19: GoodTimeWithScar: 570
+19: Stressmonster101: 543
+19: impulseSV: 540
+19: Tango: 367
+19: cubfan135: 153
+19: Xisuma: 113
+19: Docm77: 82
+19: iskall85: 62
+19: xBCrafted: 62
+19: Renthedog: 32
+19: Zedaph: 25
+19: ZombieCleo: 14
+19: hypnotizd: 5
+19: MumboJumbo: 4
+19: Welsknight: 1
+Total 6850

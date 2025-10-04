@@ -1,0 +1,17 @@
+minecraft.picked_up.turtle_egg
+15: Zedaph: 2434
+15: hypnotizd: 1233
+15: cubfan135: 1167
+15: Grian: 579
+15: Xisuma: 280
+15: Etho: 29
+15: impulseSV: 26
+15: VintageBeef: 25
+15: Tango: 14
+15: xBCrafted: 12
+15: falsesymmetry: 12
+15: iJevin: 11
+15: iskall85: 9
+15: BdoubleO100: 6
+15: Stressmonster101: 3
+Total 5840

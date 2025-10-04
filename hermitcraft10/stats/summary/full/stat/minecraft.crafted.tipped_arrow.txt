@@ -1,0 +1,5 @@
+minecraft.crafted.tipped_arrow
+3: GoodTimeWithScar: 144
+3: cubfan135: 24
+3: Xisuma: 5
+Total 173

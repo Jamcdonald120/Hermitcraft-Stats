@@ -1,0 +1,29 @@
+minecraft.picked_up.warped_planks
+27: ZombieCleo: 2981
+27: GoodTimeWithScar: 1827
+27: impulseSV: 1430
+27: joehillssays: 1361
+27: PearlescentMoon: 1039
+27: Etho: 679
+27: Grian: 605
+27: falsesymmetry: 504
+27: Tango: 327
+27: Docm77: 274
+27: Xisuma: 252
+27: cubfan135: 197
+27: iJevin: 145
+27: Pixlriffs: 122
+27: Smallishbeans: 121
+27: Smajor1995: 79
+27: Mumbo: 34
+27: GeminiTay: 12
+27: Keralis1: 11
+27: OrionSound: 10
+27: fWhip: 6
+27: VintageBeef: 4
+27: Renthedog: 3
+27: Stressmonster101: 3
+27: Zedaph: 3
+27: BdoubleO100: 1
+27: SolidarityGaming: 1
+Total 12031

@@ -1,0 +1,16 @@
+minecraft.crafted.chiseled_quartz_block
+14: impulseSV: 1871
+14: cubfan135: 388
+14: falsesymmetry: 386
+14: Xisuma: 319
+14: Keralis1: 113
+14: Tango: 107
+14: ZombieCleo: 65
+14: GoodTimeWithScar: 48
+14: xBCrafted: 42
+14: Etho: 35
+14: Docm77: 12
+14: joehillssays: 9
+14: Renthedog: 6
+14: VintageBeef: 1
+Total 3402

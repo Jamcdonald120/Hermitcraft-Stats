@@ -1,0 +1,5 @@
+minecraft.dropped.cut_copper_stairs
+3: Grian: 22
+3: Tango: 20
+3: cubfan135: 4
+Total 46

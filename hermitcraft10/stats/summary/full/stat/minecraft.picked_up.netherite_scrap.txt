@@ -1,0 +1,5 @@
+minecraft.picked_up.netherite_scrap
+3: impulseSV: 35
+3: iJevin: 16
+3: Grian: 5
+Total 56

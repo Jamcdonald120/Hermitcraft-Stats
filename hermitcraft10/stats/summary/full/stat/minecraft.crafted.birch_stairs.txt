@@ -1,0 +1,18 @@
+minecraft.crafted.birch_stairs
+16: GoodTimeWithScar: 976
+16: Xisuma: 536
+16: PearlescentMoon: 452
+16: Smallishbeans: 252
+16: Keralis1: 204
+16: Mumbo: 108
+16: falsesymmetry: 60
+16: xBCrafted: 44
+16: VintageBeef: 12
+16: Docm77: 8
+16: joehillssays: 8
+16: Tango: 4
+16: BdoubleO100: 4
+16: Welsknight: 4
+16: hypnotizd: 4
+16: impulseSV: 4
+Total 2680

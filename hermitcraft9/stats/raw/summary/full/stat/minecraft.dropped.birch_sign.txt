@@ -1,0 +1,25 @@
+minecraft.dropped.birch_sign
+23: iJevin: 338
+23: GoodTimeWithScar: 125
+23: falsesymmetry: 52
+23: Grian: 43
+23: Keralis1: 40
+23: joehillssays: 36
+23: Tango: 26
+23: Renthedog: 18
+23: ZombieCleo: 17
+23: VintageBeef: 14
+23: iskall85: 14
+23: RentheKing: 7
+23: cubfan135: 4
+23: Etho: 3
+23: Xisuma: 2
+23: MythicalSausage: 2
+23: GeminiTay: 2
+23: PearlescentMoon: 2
+23: xBCrafted: 2
+23: Docm77: 1
+23: Mumbo: 1
+23: ShubbleYT: 1
+23: Zedaph: 1
+Total 751

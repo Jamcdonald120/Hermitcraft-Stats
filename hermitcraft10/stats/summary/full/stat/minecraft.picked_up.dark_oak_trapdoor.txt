@@ -1,0 +1,27 @@
+minecraft.picked_up.dark_oak_trapdoor
+25: falsesymmetry: 826
+25: Etho: 533
+25: iJevin: 342
+25: Skizzleman: 227
+25: VintageBeef: 202
+25: Tango: 155
+25: hypnotizd: 149
+25: Smallishbeans: 142
+25: cubfan135: 138
+25: BdoubleO100: 102
+25: Docm77: 97
+25: Renthedog: 89
+25: GoodTimeWithScar: 86
+25: xBCrafted: 75
+25: Zedaph: 66
+25: Grian: 44
+25: GeminiTay: 33
+25: PearlescentMoon: 33
+25: Mumbo: 30
+25: ZombieCleo: 26
+25: joehillssays: 23
+25: Xisuma: 14
+25: Keralis1: 11
+25: impulseSV: 9
+25: Welsknight: 5
+Total 3457

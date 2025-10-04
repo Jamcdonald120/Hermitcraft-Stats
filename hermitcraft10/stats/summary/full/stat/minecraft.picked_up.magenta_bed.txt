@@ -1,0 +1,10 @@
+minecraft.picked_up.magenta_bed
+8: Smallishbeans: 36
+8: ZombieCleo: 21
+8: iJevin: 4
+8: GeminiTay: 2
+8: falsesymmetry: 2
+8: impulseSV: 2
+8: Docm77: 1
+8: GoodTimeWithScar: 1
+Total 69

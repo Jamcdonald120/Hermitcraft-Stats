@@ -1,0 +1,30 @@
+minecraft.picked_up.azure_bluet
+28: Etho: 2807
+28: ZombieCleo: 1417
+28: falsesymmetry: 834
+28: iJevin: 384
+28: GoodTimeWithScar: 222
+28: Welsknight: 148
+28: Tango: 146
+28: impulseSV: 116
+28: BdoubleO100: 85
+28: PearlescentMoon: 68
+28: Grian: 63
+28: Mumbo: 49
+28: hypnotizd: 42
+28: joehillssays: 38
+28: cubfan135: 34
+28: Zedaph: 27
+28: Stressmonster101: 25
+28: Docm77: 17
+28: Renthedog: 16
+28: GeminiTay: 16
+28: Keralis1: 11
+28: iskall85: 10
+28: MumboJumbo: 7
+28: VintageBeef: 4
+28: Pixlriffs: 4
+28: RentheKing: 4
+28: Smajor1995: 3
+28: xBCrafted: 1
+Total 6598

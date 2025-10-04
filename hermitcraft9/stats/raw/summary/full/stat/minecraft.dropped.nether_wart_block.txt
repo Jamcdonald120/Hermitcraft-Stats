@@ -1,0 +1,21 @@
+minecraft.dropped.nether_wart_block
+19: Keralis1: 4510
+19: Docm77: 1178
+19: hypnotizd: 338
+19: Grian: 324
+19: iJevin: 188
+19: cubfan135: 72
+19: falsesymmetry: 47
+19: GoodTimeWithScar: 21
+19: Renthedog: 19
+19: xBCrafted: 19
+19: Xisuma: 16
+19: Zedaph: 13
+19: impulseSV: 9
+19: iskall85: 8
+19: BdoubleO100: 6
+19: Tango: 5
+19: PearlescentMoon: 5
+19: VintageBeef: 4
+19: Etho: 4
+Total 6786

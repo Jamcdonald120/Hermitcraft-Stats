@@ -1,0 +1,22 @@
+minecraft.picked_up.light_gray_stained_glass_pane
+20: iJevin: 297
+20: PearlescentMoon: 182
+20: falsesymmetry: 156
+20: GoodTimeWithScar: 137
+20: Docm77: 74
+20: Renthedog: 69
+20: Grian: 67
+20: VintageBeef: 22
+20: ZombieCleo: 14
+20: cubfan135: 13
+20: Zedaph: 12
+20: Etho: 9
+20: Keralis1: 7
+20: iskall85: 5
+20: hypnotizd: 5
+20: Tango: 4
+20: RentheKing: 2
+20: GeminiTay: 1
+20: BdoubleO100: 1
+20: Mumbo: 1
+Total 1078

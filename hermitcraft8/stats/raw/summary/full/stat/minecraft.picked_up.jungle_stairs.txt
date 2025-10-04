@@ -1,0 +1,15 @@
+minecraft.picked_up.jungle_stairs
+13: PearlescentMoon: 181
+13: Etho: 71
+13: GoodTimeWithScar: 42
+13: Keralis1: 31
+13: GeminiTay: 25
+13: iskall85: 25
+13: Grian: 13
+13: impulseSV: 9
+13: MumboJumbo: 6
+13: Renthedog: 4
+13: BdoubleO100: 4
+13: cubfan135: 3
+13: Welsknight: 3
+Total 417

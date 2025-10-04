@@ -1,0 +1,23 @@
+minecraft.crafted.lightning_rod
+21: GoodTimeWithScar: 655
+21: impulseSV: 473
+21: Docm77: 193
+21: Keralis1: 89
+21: Xisuma: 82
+21: VintageBeef: 73
+21: cubfan135: 55
+21: joehillssays: 44
+21: PearlescentMoon: 42
+21: Etho: 37
+21: Renthedog: 35
+21: ZombieCleo: 27
+21: Tango: 21
+21: Tinfoilchef: 21
+21: BdoubleO100: 14
+21: Grian: 7
+21: iskall85: 7
+21: iJevin: 3
+21: xBCrafted: 3
+21: falsesymmetry: 1
+21: Zedaph: 1
+Total 1883

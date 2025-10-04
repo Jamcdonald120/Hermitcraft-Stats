@@ -1,0 +1,22 @@
+minecraft.crafted.bamboo_fence
+20: Keralis1: 1359
+20: GoodTimeWithScar: 843
+20: Xisuma: 513
+20: Mumbo: 513
+20: Smallishbeans: 393
+20: BdoubleO100: 303
+20: Tango: 147
+20: PearlescentMoon: 120
+20: cubfan135: 120
+20: impulseSV: 72
+20: falsesymmetry: 63
+20: Docm77: 60
+20: Renthedog: 51
+20: GeminiTay: 30
+20: Etho: 27
+20: Zedaph: 21
+20: joehillssays: 9
+20: hypnotizd: 6
+20: Grian: 3
+20: Skizzleman: 3
+Total 4656

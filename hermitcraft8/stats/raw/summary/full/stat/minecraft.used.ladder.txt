@@ -1,0 +1,28 @@
+minecraft.used.ladder
+26: impulseSV: 466
+26: iJevin: 370
+26: joehillssays: 335
+26: GoodTimeWithScar: 325
+26: cubfan135: 310
+26: Etho: 310
+26: Xisuma: 303
+26: Docm77: 238
+26: GeminiTay: 237
+26: MumboJumbo: 232
+26: Tango: 206
+26: Stressmonster101: 178
+26: Zedaph: 159
+26: falsesymmetry: 157
+26: ZombieCleo: 157
+26: PearlescentMoon: 123
+26: Welsknight: 113
+26: Grian: 101
+26: hypnotizd: 96
+26: Renthedog: 90
+26: Tinfoilchef: 56
+26: VintageBeef: 53
+26: BdoubleO100: 44
+26: xBCrafted: 39
+26: Keralis1: 36
+26: iskall85: 18
+Total 4752

@@ -1,0 +1,26 @@
+minecraft.picked_up.bucket
+24: MumboJumbo: 881
+24: cubfan135: 363
+24: PearlescentMoon: 113
+24: iJevin: 57
+24: Docm77: 41
+24: Renthedog: 33
+24: Grian: 21
+24: xBCrafted: 19
+24: Tango: 16
+24: Keralis1: 14
+24: joehillssays: 11
+24: Etho: 11
+24: impulseSV: 11
+24: falsesymmetry: 10
+24: Xisuma: 9
+24: GoodTimeWithScar: 9
+24: BdoubleO100: 8
+24: GeminiTay: 7
+24: Welsknight: 5
+24: Zedaph: 4
+24: hypnotizd: 3
+24: ZombieCleo: 2
+24: VintageBeef: 1
+24: iskall85: 1
+Total 1650

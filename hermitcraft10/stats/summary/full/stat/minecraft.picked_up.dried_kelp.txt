@@ -1,0 +1,18 @@
+minecraft.picked_up.dried_kelp
+16: Etho: 1485
+16: Skizzleman: 1324
+16: Renthedog: 1056
+16: Grian: 954
+16: ZombieCleo: 949
+16: BdoubleO100: 642
+16: Xisuma: 511
+16: impulseSV: 380
+16: Zedaph: 195
+16: falsesymmetry: 135
+16: Mumbo: 73
+16: PearlescentMoon: 62
+16: Tango: 40
+16: joehillssays: 32
+16: cubfan135: 16
+16: iJevin: 6
+Total 7860

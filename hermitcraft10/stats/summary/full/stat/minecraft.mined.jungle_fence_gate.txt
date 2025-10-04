@@ -1,0 +1,18 @@
+minecraft.mined.jungle_fence_gate
+16: PearlescentMoon: 29
+16: GoodTimeWithScar: 25
+16: Mumbo: 23
+16: Keralis1: 15
+16: falsesymmetry: 11
+16: Renthedog: 5
+16: iJevin: 2
+16: Grian: 2
+16: Etho: 2
+16: ZombieCleo: 2
+16: Zedaph: 2
+16: Docm77: 1
+16: GeminiTay: 1
+16: Tango: 1
+16: Smallishbeans: 1
+16: BdoubleO100: 1
+Total 123

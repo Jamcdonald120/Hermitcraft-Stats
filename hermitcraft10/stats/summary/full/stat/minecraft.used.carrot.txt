@@ -1,0 +1,30 @@
+minecraft.used.carrot
+28: Tango: 2176
+28: impulseSV: 2020
+28: PearlescentMoon: 1828
+28: hypnotizd: 1683
+28: VintageBeef: 1064
+28: iJevin: 1016
+28: Renthedog: 985
+28: cubfan135: 866
+28: Grian: 746
+28: Xisuma: 699
+28: Etho: 512
+28: GeminiTay: 468
+28: ZombieCleo: 433
+28: Mumbo: 417
+28: xBCrafted: 371
+28: falsesymmetry: 331
+28: joehillssays: 247
+28: Skizzleman: 232
+28: GoodTimeWithScar: 225
+28: BdoubleO100: 219
+28: Docm77: 186
+28: Smallishbeans: 165
+28: Keralis1: 77
+28: Zedaph: 70
+28: Welsknight: 17
+28: SolidarityGaming: 6
+28: HBomb94: 1
+28: aimsey: 1
+Total 17061

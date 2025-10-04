@@ -1,0 +1,5 @@
+minecraft.dropped.smooth_sandstone_slab
+3: iskall85: 10
+3: Xisuma: 3
+3: falsesymmetry: 1
+Total 14

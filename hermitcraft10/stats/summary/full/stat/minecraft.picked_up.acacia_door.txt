@@ -1,0 +1,9 @@
+minecraft.picked_up.acacia_door
+7: PearlescentMoon: 16
+7: joehillssays: 3
+7: Xisuma: 2
+7: VintageBeef: 2
+7: Skizzleman: 2
+7: Smallishbeans: 2
+7: Tango: 1
+Total 28

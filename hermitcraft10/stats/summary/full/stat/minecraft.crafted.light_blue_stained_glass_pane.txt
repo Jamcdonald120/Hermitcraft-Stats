@@ -1,0 +1,19 @@
+minecraft.crafted.light_blue_stained_glass_pane
+17: Renthedog: 1944
+17: Smallishbeans: 896
+17: impulseSV: 528
+17: falsesymmetry: 160
+17: Xisuma: 144
+17: BdoubleO100: 128
+17: GoodTimeWithScar: 96
+17: Etho: 80
+17: PearlescentMoon: 48
+17: cubfan135: 48
+17: Zedaph: 48
+17: ZombieCleo: 32
+17: Grian: 24
+17: Docm77: 16
+17: VintageBeef: 16
+17: Skizzleman: 16
+17: Keralis1: 16
+Total 4240

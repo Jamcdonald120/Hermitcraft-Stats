@@ -1,0 +1,20 @@
+minecraft.picked_up.poisonous_potato
+18: xBCrafted: 111
+18: PearlescentMoon: 81
+18: falsesymmetry: 57
+18: VintageBeef: 48
+18: cubfan135: 37
+18: Renthedog: 22
+18: Tango: 18
+18: Grian: 8
+18: GeminiTay: 7
+18: ZombieCleo: 7
+18: Etho: 6
+18: Skizzleman: 5
+18: GoodTimeWithScar: 5
+18: joehillssays: 2
+18: Docm77: 1
+18: Smallishbeans: 1
+18: SolidarityGaming: 1
+18: impulseSV: 1
+Total 418

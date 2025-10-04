@@ -1,0 +1,11 @@
+minecraft.dropped.warped_sign
+9: GoodTimeWithScar: 64
+9: Keralis1: 32
+9: Grian: 14
+9: Tango: 13
+9: falsesymmetry: 7
+9: Etho: 3
+9: Xisuma: 1
+9: xBCrafted: 1
+9: hypnotizd: 1
+Total 136

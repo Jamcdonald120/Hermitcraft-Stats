@@ -1,0 +1,6 @@
+minecraft.dropped.dark_oak_hanging_sign
+4: falsesymmetry: 8
+4: Docm77: 4
+4: iJevin: 1
+4: Etho: 1
+Total 14

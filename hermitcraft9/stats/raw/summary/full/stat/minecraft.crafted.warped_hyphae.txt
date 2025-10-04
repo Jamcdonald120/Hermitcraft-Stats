@@ -1,0 +1,18 @@
+minecraft.crafted.warped_hyphae
+16: PearlescentMoon: 1984
+16: Tango: 1806
+16: Xisuma: 765
+16: VintageBeef: 678
+16: Grian: 594
+16: Keralis1: 381
+16: ZombieCleo: 228
+16: Etho: 219
+16: GoodTimeWithScar: 216
+16: falsesymmetry: 99
+16: cubfan135: 57
+16: Renthedog: 48
+16: BdoubleO100: 9
+16: Docm77: 6
+16: impulseSV: 3
+16: Zedaph: 3
+Total 7096

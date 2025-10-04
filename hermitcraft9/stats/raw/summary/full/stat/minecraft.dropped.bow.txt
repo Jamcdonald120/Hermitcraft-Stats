@@ -1,0 +1,37 @@
+minecraft.dropped.bow
+35: Xisuma: 1281
+35: Etho: 1163
+35: Docm77: 251
+35: Zedaph: 202
+35: GeminiTay: 183
+35: hypnotizd: 170
+35: impulseSV: 160
+35: Grian: 139
+35: iskall85: 118
+35: ZombieCleo: 111
+35: iJevin: 110
+35: cubfan135: 109
+35: Tango: 102
+35: GoodTimeWithScar: 96
+35: PearlescentMoon: 68
+35: VintageBeef: 41
+35: BdoubleO100: 41
+35: xBCrafted: 35
+35: Keralis1: 33
+35: Stressmonster101: 22
+35: joehillssays: 11
+35: falsesymmetry: 11
+35: RentheKing: 8
+35: Renthedog: 5
+35: MythicalSausage: 5
+35: Minerva246: 3
+35: Smallishbeans: 2
+35: truesymmetry: 1
+35: OrionSound: 1
+35: Smajor1995: 1
+35: Pixlriffs: 1
+35: Welsknight: 1
+35: Mumbo: 1
+35: Firecracker1195: 1
+35: ShubbleYT: 1
+Total 4488

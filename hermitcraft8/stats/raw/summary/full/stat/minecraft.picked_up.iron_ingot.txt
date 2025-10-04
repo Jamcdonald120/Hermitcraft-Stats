@@ -1,0 +1,28 @@
+minecraft.picked_up.iron_ingot
+26: Tango: 85607
+26: Xisuma: 8065
+26: GoodTimeWithScar: 2255
+26: Grian: 1780
+26: Docm77: 1768
+26: iJevin: 1684
+26: PearlescentMoon: 877
+26: Keralis1: 864
+26: impulseSV: 765
+26: GeminiTay: 644
+26: Welsknight: 546
+26: Renthedog: 472
+26: xBCrafted: 409
+26: cubfan135: 373
+26: BdoubleO100: 317
+26: MumboJumbo: 195
+26: Etho: 167
+26: falsesymmetry: 158
+26: joehillssays: 154
+26: Zedaph: 143
+26: hypnotizd: 113
+26: iskall85: 76
+26: VintageBeef: 71
+26: ZombieCleo: 65
+26: Stressmonster101: 37
+26: Tinfoilchef: 2
+Total 107607

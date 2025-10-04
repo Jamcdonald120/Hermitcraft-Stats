@@ -1,0 +1,18 @@
+minecraft.picked_up.light_gray_dye
+16: Grian: 503
+16: cubfan135: 356
+16: iskall85: 346
+16: iJevin: 262
+16: falsesymmetry: 256
+16: Xisuma: 94
+16: MumboJumbo: 88
+16: impulseSV: 74
+16: Renthedog: 45
+16: GoodTimeWithScar: 35
+16: PythonGB: 32
+16: Docm77: 17
+16: Keralis1: 5
+16: joehillssays: 4
+16: Zedaph: 3
+16: Tango: 1
+Total 2121

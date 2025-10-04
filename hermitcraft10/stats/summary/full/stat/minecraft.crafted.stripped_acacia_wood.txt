@@ -1,0 +1,8 @@
+minecraft.crafted.stripped_acacia_wood
+6: Tango: 54
+6: Smallishbeans: 54
+6: Zedaph: 42
+6: GoodTimeWithScar: 24
+6: ZombieCleo: 12
+6: Xisuma: 3
+Total 189

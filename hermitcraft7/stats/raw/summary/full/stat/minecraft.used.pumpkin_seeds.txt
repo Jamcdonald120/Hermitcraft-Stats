@@ -1,0 +1,23 @@
+minecraft.used.pumpkin_seeds
+21: impulseSV: 543
+21: MumboJumbo: 405
+21: Keralis1: 221
+21: Xisuma: 161
+21: GoodTimeWithScar: 147
+21: VintageBeef: 88
+21: iskall85: 88
+21: Grian: 73
+21: Docm77: 51
+21: joehillssays: 40
+21: Zedaph: 40
+21: Stressmonster101: 38
+21: BdoubleO100: 12
+21: Tango: 10
+21: iJevin: 9
+21: cubfan135: 8
+21: ZombieCleo: 7
+21: xBCrafted: 3
+21: falsesymmetry: 3
+21: Etho: 3
+21: hypnotizd: 2
+Total 1952

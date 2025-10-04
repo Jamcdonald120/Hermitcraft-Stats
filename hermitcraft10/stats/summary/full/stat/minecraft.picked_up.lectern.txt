@@ -1,0 +1,24 @@
+minecraft.picked_up.lectern
+22: Etho: 987
+22: hypnotizd: 843
+22: Docm77: 835
+22: ZombieCleo: 549
+22: Keralis1: 517
+22: GeminiTay: 468
+22: Renthedog: 357
+22: impulseSV: 339
+22: Zedaph: 330
+22: joehillssays: 109
+22: iJevin: 104
+22: cubfan135: 83
+22: Grian: 61
+22: PearlescentMoon: 57
+22: Xisuma: 33
+22: falsesymmetry: 33
+22: Smallishbeans: 20
+22: Tango: 17
+22: Skizzleman: 13
+22: GoodTimeWithScar: 12
+22: BdoubleO100: 7
+22: VintageBeef: 2
+Total 5776

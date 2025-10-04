@@ -1,0 +1,18 @@
+minecraft.dropped.azure_bluet
+16: Tango: 913
+16: Zedaph: 296
+16: falsesymmetry: 256
+16: MumboJumbo: 65
+16: GoodTimeWithScar: 44
+16: xBCrafted: 28
+16: Xisuma: 16
+16: iskall85: 15
+16: Grian: 9
+16: cubfan135: 9
+16: hypnotizd: 7
+16: Etho: 6
+16: iJevin: 4
+16: Keralis1: 2
+16: Renthedog: 1
+16: BdoubleO100: 1
+Total 1672

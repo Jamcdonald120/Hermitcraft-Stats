@@ -1,0 +1,9 @@
+minecraft.picked_up.nether_brick_wall
+7: iJevin: 30
+7: Tango: 23
+7: PearlescentMoon: 14
+7: Xisuma: 7
+7: impulseSV: 3
+7: BdoubleO100: 2
+7: GoodTimeWithScar: 2
+Total 81

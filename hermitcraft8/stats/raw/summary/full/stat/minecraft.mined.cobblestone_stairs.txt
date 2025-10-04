@@ -1,0 +1,23 @@
+minecraft.mined.cobblestone_stairs
+21: impulseSV: 150
+21: hypnotizd: 57
+21: MumboJumbo: 43
+21: BdoubleO100: 29
+21: Keralis1: 29
+21: GoodTimeWithScar: 28
+21: Grian: 27
+21: iJevin: 22
+21: PearlescentMoon: 19
+21: Zedaph: 19
+21: joehillssays: 17
+21: Renthedog: 16
+21: Xisuma: 14
+21: Tango: 13
+21: falsesymmetry: 9
+21: xBCrafted: 4
+21: Etho: 4
+21: Docm77: 3
+21: GeminiTay: 3
+21: Stressmonster101: 3
+21: Tinfoilchef: 2
+Total 511

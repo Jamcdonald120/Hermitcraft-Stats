@@ -1,0 +1,23 @@
+minecraft.dropped.poppy
+21: Tango: 56750
+21: Docm77: 6352
+21: Zedaph: 3457
+21: MumboJumbo: 2383
+21: impulseSV: 712
+21: Xisuma: 458
+21: GoodTimeWithScar: 452
+21: Grian: 447
+21: falsesymmetry: 408
+21: Renthedog: 398
+21: iskall85: 194
+21: cubfan135: 116
+21: iJevin: 89
+21: Stressmonster101: 72
+21: joehillssays: 18
+21: PythonGB: 11
+21: Cojomax99: 6
+21: BdoubleO100: 5
+21: Welsknight: 3
+21: Keralis1: 3
+21: ZombieCleo: 1
+Total 72335

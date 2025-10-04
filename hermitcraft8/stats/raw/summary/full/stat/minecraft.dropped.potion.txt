@@ -1,0 +1,22 @@
+minecraft.dropped.potion
+20: iJevin: 300
+20: Docm77: 45
+20: cubfan135: 30
+20: Zedaph: 29
+20: falsesymmetry: 18
+20: Etho: 17
+20: Grian: 14
+20: Renthedog: 12
+20: Xisuma: 11
+20: xBCrafted: 10
+20: GoodTimeWithScar: 9
+20: Tango: 7
+20: impulseSV: 7
+20: Keralis1: 5
+20: hypnotizd: 3
+20: joehillssays: 2
+20: ZombieCleo: 2
+20: GeminiTay: 1
+20: BdoubleO100: 1
+20: iskall85: 1
+Total 524

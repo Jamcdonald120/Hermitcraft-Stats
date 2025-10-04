@@ -1,0 +1,9 @@
+minecraft.picked_up.red_banner
+7: Tango: 9
+7: Xisuma: 8
+7: GoodTimeWithScar: 8
+7: Grian: 6
+7: PearlescentMoon: 4
+7: impulseSV: 3
+7: BdoubleO100: 1
+Total 39

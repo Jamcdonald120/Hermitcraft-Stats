@@ -1,0 +1,22 @@
+minecraft.picked_up.big_dripleaf
+20: Etho: 1147
+20: Grian: 578
+20: Keralis1: 449
+20: cubfan135: 422
+20: PearlescentMoon: 400
+20: impulseSV: 194
+20: iJevin: 153
+20: BdoubleO100: 121
+20: Tango: 98
+20: GoodTimeWithScar: 91
+20: GeminiTay: 66
+20: xBCrafted: 58
+20: VintageBeef: 57
+20: Xisuma: 24
+20: Smallishbeans: 20
+20: falsesymmetry: 15
+20: ZombieCleo: 6
+20: Mumbo: 3
+20: joehillssays: 1
+20: hypnotizd: 1
+Total 3904

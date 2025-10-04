@@ -1,0 +1,10 @@
+minecraft.crafted.respawn_anchor
+8: Etho: 370
+8: Tango: 203
+8: impulseSV: 102
+8: Grian: 26
+8: Xisuma: 20
+8: cubfan135: 17
+8: iskall85: 2
+8: joehillssays: 1
+Total 741

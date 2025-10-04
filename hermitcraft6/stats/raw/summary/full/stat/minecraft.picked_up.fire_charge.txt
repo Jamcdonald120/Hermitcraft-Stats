@@ -1,0 +1,7 @@
+minecraft.picked_up.fire_charge
+5: cubfan135: 289
+5: Tango: 180
+5: GoodTimeWithScar: 110
+5: iJevin: 63
+5: MumboJumbo: 33
+Total 675

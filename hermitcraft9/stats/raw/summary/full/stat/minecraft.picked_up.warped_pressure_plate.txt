@@ -1,0 +1,8 @@
+minecraft.picked_up.warped_pressure_plate
+6: Tango: 157
+6: GoodTimeWithScar: 23
+6: Xisuma: 10
+6: cubfan135: 9
+6: Grian: 1
+6: Mumbo: 1
+Total 201

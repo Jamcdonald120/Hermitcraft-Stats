@@ -1,0 +1,5 @@
+minecraft.crafted.mojang_banner_pattern
+3: Tango: 1
+3: falsesymmetry: 1
+3: cubfan135: 1
+Total 3

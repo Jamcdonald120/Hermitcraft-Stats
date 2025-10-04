@@ -1,0 +1,22 @@
+minecraft.used.light_blue_terracotta
+20: impulseSV: 9181
+20: GeminiTay: 1240
+20: PearlescentMoon: 747
+20: Etho: 707
+20: falsesymmetry: 447
+20: Smallishbeans: 415
+20: joehillssays: 287
+20: ZombieCleo: 211
+20: BdoubleO100: 84
+20: Docm77: 65
+20: Mumbo: 62
+20: cubfan135: 57
+20: Renthedog: 32
+20: Xisuma: 16
+20: iJevin: 15
+20: GoodTimeWithScar: 12
+20: Skizzleman: 10
+20: Tango: 8
+20: Grian: 4
+20: Smajor1995: 2
+Total 13602

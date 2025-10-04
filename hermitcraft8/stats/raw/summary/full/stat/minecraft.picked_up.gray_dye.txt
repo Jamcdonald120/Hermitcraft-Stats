@@ -1,0 +1,11 @@
+minecraft.picked_up.gray_dye
+9: ZombieCleo: 48
+9: falsesymmetry: 33
+9: VintageBeef: 25
+9: Etho: 16
+9: impulseSV: 9
+9: PearlescentMoon: 5
+9: pillbugnine: 3
+9: Grian: 3
+9: Welsknight: 2
+Total 144

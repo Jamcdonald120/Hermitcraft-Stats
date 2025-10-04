@@ -1,0 +1,25 @@
+minecraft.crafted.comparator
+23: MumboJumbo: 1338
+23: xBCrafted: 1209
+23: Etho: 1165
+23: Tango: 877
+23: iskall85: 634
+23: Xisuma: 539
+23: Stressmonster101: 517
+23: Renthedog: 515
+23: cubfan135: 402
+23: impulseSV: 386
+23: Grian: 347
+23: Zedaph: 254
+23: GoodTimeWithScar: 136
+23: Tinfoilchef: 128
+23: falsesymmetry: 77
+23: Keralis1: 69
+23: hypnotizd: 66
+23: Docm77: 65
+23: Welsknight: 64
+23: BdoubleO100: 50
+23: joehillssays: 44
+23: VintageBeef: 14
+23: iJevin: 2
+Total 8898

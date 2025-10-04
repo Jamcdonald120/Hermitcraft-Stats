@@ -1,0 +1,26 @@
+minecraft.crafted.oak_fence
+24: MumboJumbo: 2394
+24: GoodTimeWithScar: 2385
+24: Renthedog: 978
+24: impulseSV: 879
+24: Xisuma: 795
+24: Grian: 762
+24: iJevin: 705
+24: falsesymmetry: 588
+24: Keralis1: 570
+24: cubfan135: 546
+24: Welsknight: 513
+24: iskall85: 354
+24: Tinfoilchef: 228
+24: Tango: 156
+24: Docm77: 132
+24: Zedaph: 123
+24: HumanCleo: 78
+24: joehillssays: 66
+24: ZombieCleo: 51
+24: Stressmonster101: 45
+24: xBCrafted: 15
+24: Jessassin: 12
+24: BdoubleO100: 12
+24: Biffa2001: 9
+Total 12396

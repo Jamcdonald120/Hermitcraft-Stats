@@ -1,0 +1,24 @@
+minecraft.crafted.gold_block
+22: impulseSV: 2977
+22: xBCrafted: 1521
+22: Tango: 721
+22: Renthedog: 255
+22: cubfan135: 254
+22: joehillssays: 220
+22: iJevin: 180
+22: GoodTimeWithScar: 178
+22: Etho: 161
+22: PearlescentMoon: 111
+22: Xisuma: 90
+22: Keralis1: 87
+22: hypnotizd: 86
+22: VintageBeef: 81
+22: Docm77: 80
+22: Smallishbeans: 50
+22: falsesymmetry: 23
+22: ZombieCleo: 13
+22: Mumbo: 12
+22: Zedaph: 6
+22: Grian: 2
+22: GeminiTay: 1
+Total 7109

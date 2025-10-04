@@ -1,0 +1,23 @@
+minecraft.picked_up.quartz_stairs
+21: Renthedog: 1014
+21: hypnotizd: 601
+21: iJevin: 571
+21: cubfan135: 254
+21: joehillssays: 188
+21: impulseSV: 44
+21: ZombieCleo: 41
+21: Xisuma: 35
+21: xBCrafted: 32
+21: GoodTimeWithScar: 24
+21: falsesymmetry: 21
+21: Zedaph: 18
+21: Docm77: 10
+21: Smallishbeans: 10
+21: VintageBeef: 8
+21: Mumbo: 8
+21: BdoubleO100: 7
+21: Welsknight: 6
+21: Tango: 4
+21: GeminiTay: 2
+21: Keralis1: 2
+Total 2900

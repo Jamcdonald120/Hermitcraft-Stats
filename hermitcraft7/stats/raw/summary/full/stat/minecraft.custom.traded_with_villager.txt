@@ -1,0 +1,25 @@
+minecraft.custom.traded_with_villager
+23: GoodTimeWithScar: 247036
+23: Grian: 227147
+23: Etho: 202248
+23: Keralis1: 164927
+23: impulseSV: 131500
+23: cubfan135: 85545
+23: Stressmonster101: 78485
+23: iskall85: 16569
+23: Docm77: 11919
+23: hypnotizd: 8322
+23: MumboJumbo: 6403
+23: joehillssays: 3954
+23: Xisuma: 3911
+23: xBCrafted: 3660
+23: Tango: 2278
+23: falsesymmetry: 805
+23: iJevin: 622
+23: VintageBeef: 548
+23: ZombieCleo: 365
+23: Renthedog: 229
+23: Zedaph: 214
+23: BdoubleO100: 119
+23: Welsknight: 3
+Total 1196809

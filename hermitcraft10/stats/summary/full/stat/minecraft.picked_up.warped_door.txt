@@ -1,0 +1,7 @@
+minecraft.picked_up.warped_door
+5: falsesymmetry: 17
+5: Smallishbeans: 4
+5: joehillssays: 3
+5: PearlescentMoon: 3
+5: VintageBeef: 1
+Total 28

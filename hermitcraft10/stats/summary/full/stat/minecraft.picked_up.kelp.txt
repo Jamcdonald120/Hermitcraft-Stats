@@ -1,0 +1,28 @@
+minecraft.picked_up.kelp
+26: Etho: 26647
+26: GoodTimeWithScar: 14480
+26: Tango: 9167
+26: falsesymmetry: 6751
+26: impulseSV: 6571
+26: VintageBeef: 3220
+26: Grian: 2818
+26: PearlescentMoon: 2568
+26: xBCrafted: 2300
+26: iJevin: 1955
+26: cubfan135: 1668
+26: Xisuma: 1647
+26: Smallishbeans: 1493
+26: ZombieCleo: 1364
+26: Keralis1: 1359
+26: joehillssays: 1318
+26: Mumbo: 1242
+26: Docm77: 1194
+26: Skizzleman: 1050
+26: hypnotizd: 1042
+26: GeminiTay: 1001
+26: BdoubleO100: 793
+26: Zedaph: 620
+26: Renthedog: 395
+26: Welsknight: 286
+26: SolidarityGaming: 4
+Total 92953

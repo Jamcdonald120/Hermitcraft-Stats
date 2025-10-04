@@ -1,0 +1,20 @@
+minecraft.picked_up.mangrove_sign
+18: GoodTimeWithScar: 97
+18: impulseSV: 49
+18: Renthedog: 43
+18: Skizzleman: 29
+18: falsesymmetry: 28
+18: cubfan135: 20
+18: iJevin: 15
+18: Etho: 15
+18: Mumbo: 12
+18: Grian: 10
+18: VintageBeef: 8
+18: Xisuma: 7
+18: GeminiTay: 5
+18: Tango: 5
+18: Smallishbeans: 3
+18: BdoubleO100: 2
+18: joehillssays: 1
+18: PearlescentMoon: 1
+Total 350

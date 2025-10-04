@@ -1,0 +1,18 @@
+minecraft.dropped.ominous_trial_key
+16: PearlescentMoon: 20
+16: iJevin: 12
+16: Etho: 12
+16: Tango: 10
+16: Docm77: 9
+16: Grian: 9
+16: Xisuma: 7
+16: Smallishbeans: 7
+16: Renthedog: 6
+16: impulseSV: 6
+16: Keralis1: 4
+16: GeminiTay: 3
+16: cubfan135: 2
+16: GoodTimeWithScar: 2
+16: Skizzleman: 1
+16: xBCrafted: 1
+Total 111

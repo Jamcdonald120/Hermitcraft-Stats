@@ -1,0 +1,3 @@
+minecraft.picked_up.tall_grass
+1: xBCrafted: 2
+Total 2

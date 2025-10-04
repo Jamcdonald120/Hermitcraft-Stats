@@ -1,0 +1,20 @@
+minecraft.crafted.cyan_stained_glass
+18: impulseSV: 2176
+18: Smallishbeans: 2040
+18: Etho: 2008
+18: xBCrafted: 800
+18: Xisuma: 376
+18: ZombieCleo: 320
+18: GoodTimeWithScar: 248
+18: joehillssays: 216
+18: Tango: 208
+18: PearlescentMoon: 160
+18: cubfan135: 144
+18: GeminiTay: 96
+18: falsesymmetry: 72
+18: Keralis1: 64
+18: Mumbo: 40
+18: BdoubleO100: 24
+18: Renthedog: 16
+18: Grian: 8
+Total 9016

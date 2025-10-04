@@ -1,0 +1,9 @@
+minecraft.picked_up.blue_wool
+7: Zedaph: 475
+7: Grian: 202
+7: GeminiTay: 32
+7: Welsknight: 28
+7: PearlescentMoon: 19
+7: falsesymmetry: 3
+7: cubfan135: 2
+Total 761

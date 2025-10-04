@@ -1,0 +1,10 @@
+minecraft.used.purpur_slab
+8: PearlescentMoon: 255
+8: Tango: 128
+8: impulseSV: 53
+8: GoodTimeWithScar: 30
+8: VintageBeef: 25
+8: iJevin: 9
+8: xBCrafted: 2
+8: Xisuma: 1
+Total 503

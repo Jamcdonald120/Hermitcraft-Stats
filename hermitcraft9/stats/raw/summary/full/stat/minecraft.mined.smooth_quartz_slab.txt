@@ -1,0 +1,24 @@
+minecraft.mined.smooth_quartz_slab
+22: impulseSV: 472
+22: Grian: 339
+22: VintageBeef: 275
+22: Zedaph: 244
+22: GoodTimeWithScar: 123
+22: Keralis1: 114
+22: cubfan135: 112
+22: GeminiTay: 111
+22: xBCrafted: 78
+22: OrionSound: 40
+22: Xisuma: 28
+22: Renthedog: 20
+22: ZombieCleo: 14
+22: Tango: 8
+22: iJevin: 4
+22: MythicalSausage: 4
+22: PearlescentMoon: 4
+22: Docm77: 3
+22: falsesymmetry: 3
+22: joehillssays: 2
+22: Smallishbeans: 2
+22: hypnotizd: 1
+Total 2001

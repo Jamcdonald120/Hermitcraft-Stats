@@ -1,0 +1,4 @@
+minecraft.dropped.crimson_door
+2: Tango: 2
+2: Etho: 1
+Total 3

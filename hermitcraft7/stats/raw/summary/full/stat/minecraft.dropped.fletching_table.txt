@@ -1,0 +1,4 @@
+minecraft.dropped.fletching_table
+2: Zedaph: 12
+2: Etho: 3
+Total 15

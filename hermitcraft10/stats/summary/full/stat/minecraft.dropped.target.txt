@@ -1,0 +1,9 @@
+minecraft.dropped.target
+7: Etho: 112
+7: Tango: 85
+7: Zedaph: 22
+7: iJevin: 13
+7: cubfan135: 3
+7: BdoubleO100: 1
+7: Mumbo: 1
+Total 237

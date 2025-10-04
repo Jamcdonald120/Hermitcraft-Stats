@@ -1,0 +1,27 @@
+minecraft.picked_up.minecart
+25: Tango: 519
+25: Grian: 488
+25: Zedaph: 419
+25: iskall85: 397
+25: GoodTimeWithScar: 309
+25: impulseSV: 298
+25: hypnotizd: 260
+25: Xisuma: 246
+25: Stressmonster101: 244
+25: MumboJumbo: 213
+25: cubfan135: 190
+25: Docm77: 166
+25: Etho: 152
+25: xBCrafted: 136
+25: Keralis1: 136
+25: falsesymmetry: 104
+25: VintageBeef: 79
+25: BdoubleO100: 60
+25: iJevin: 55
+25: Renthedog: 54
+25: joehillssays: 41
+25: Tinfoilchef: 10
+25: Welsknight: 4
+25: ZombieCleo: 3
+25: xisumavoid: 1
+Total 4584

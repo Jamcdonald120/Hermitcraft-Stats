@@ -1,0 +1,18 @@
+minecraft.picked_up.cyan_concrete_powder
+16: falsesymmetry: 1501
+16: xBCrafted: 931
+16: PearlescentMoon: 781
+16: ZombieCleo: 190
+16: Grian: 32
+16: Eyjoy27: 32
+16: BdoubleO100: 23
+16: GeminiTay: 19
+16: Xisuma: 12
+16: Keralis1: 11
+16: cubfan135: 8
+16: Tango: 6
+16: VintageBeef: 3
+16: Etho: 3
+16: Smallishbeans: 2
+16: Docm77: 1
+Total 3555

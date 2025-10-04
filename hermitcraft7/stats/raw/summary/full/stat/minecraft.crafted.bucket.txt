@@ -1,0 +1,26 @@
+minecraft.crafted.bucket
+24: Renthedog: 1388
+24: Xisuma: 959
+24: Tango: 742
+24: cubfan135: 591
+24: falsesymmetry: 300
+24: Grian: 273
+24: joehillssays: 271
+24: Etho: 220
+24: Zedaph: 182
+24: iJevin: 168
+24: hypnotizd: 150
+24: iskall85: 144
+24: GoodTimeWithScar: 130
+24: MumboJumbo: 108
+24: Keralis1: 107
+24: Welsknight: 68
+24: impulseSV: 64
+24: ZombieCleo: 58
+24: VintageBeef: 55
+24: Stressmonster101: 50
+24: xBCrafted: 37
+24: Docm77: 28
+24: Tinfoilchef: 26
+24: BdoubleO100: 12
+Total 6131

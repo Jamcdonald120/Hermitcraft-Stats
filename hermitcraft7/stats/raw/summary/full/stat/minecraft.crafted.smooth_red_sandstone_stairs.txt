@@ -1,0 +1,8 @@
+minecraft.crafted.smooth_red_sandstone_stairs
+6: falsesymmetry: 264
+6: Keralis1: 95
+6: GoodTimeWithScar: 36
+6: Tango: 32
+6: VintageBeef: 10
+6: Etho: 1
+Total 438

@@ -1,0 +1,17 @@
+minecraft.crafted.black_carpet
+15: impulseSV: 16643
+15: falsesymmetry: 14542
+15: Xisuma: 5676
+15: VintageBeef: 5184
+15: iJevin: 1677
+15: Docm77: 1179
+15: xBCrafted: 339
+15: Renthedog: 336
+15: Keralis1: 111
+15: Tango: 82
+15: BdoubleO100: 12
+15: GoodTimeWithScar: 9
+15: Zedaph: 6
+15: Grian: 3
+15: ZombieCleo: 3
+Total 45802

@@ -1,0 +1,28 @@
+minecraft.dropped.wheat_seeds
+26: Stressmonster101: 9662
+26: Tango: 8879
+26: GoodTimeWithScar: 6490
+26: Grian: 6465
+26: cubfan135: 6030
+26: Renthedog: 5481
+26: Xisuma: 4947
+26: Tinfoilchef: 2162
+26: Docm77: 2081
+26: falsesymmetry: 1953
+26: impulseSV: 1763
+26: iskall85: 1056
+26: iJevin: 805
+26: MumboJumbo: 742
+26: Zedaph: 689
+26: BdoubleO100: 552
+26: joehillssays: 377
+26: ZombieCleo: 244
+26: Keralis1: 138
+26: PythonGB: 94
+26: Jessassin: 36
+26: Welsknight: 22
+26: Biffa2001: 8
+26: Jura_Whitey: 5
+26: xBCrafted: 4
+26: Cojomax99: 1
+Total 60686

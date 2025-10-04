@@ -1,0 +1,15 @@
+minecraft.picked_up.map
+13: PearlescentMoon: 387
+13: iJevin: 104
+13: Grian: 90
+13: GoodTimeWithScar: 36
+13: falsesymmetry: 33
+13: cubfan135: 33
+13: ZombieCleo: 30
+13: joehillssays: 19
+13: Skizzleman: 16
+13: Etho: 5
+13: Docm77: 1
+13: Renthedog: 1
+13: VintageBeef: 1
+Total 756

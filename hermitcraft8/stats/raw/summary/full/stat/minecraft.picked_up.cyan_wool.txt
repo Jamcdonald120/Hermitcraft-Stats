@@ -1,0 +1,10 @@
+minecraft.picked_up.cyan_wool
+8: Zedaph: 531
+8: Grian: 243
+8: GeminiTay: 124
+8: GoodTimeWithScar: 64
+8: Welsknight: 29
+8: cubfan135: 27
+8: PearlescentMoon: 7
+8: Keralis1: 2
+Total 1027

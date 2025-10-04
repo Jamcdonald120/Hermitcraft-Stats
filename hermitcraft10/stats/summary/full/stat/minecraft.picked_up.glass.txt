@@ -1,0 +1,27 @@
+minecraft.picked_up.glass
+25: Etho: 11768
+25: Smallishbeans: 11629
+25: Zedaph: 9585
+25: Xisuma: 6880
+25: Docm77: 4094
+25: joehillssays: 3917
+25: Tango: 3899
+25: Skizzleman: 2613
+25: GoodTimeWithScar: 2097
+25: PearlescentMoon: 1655
+25: impulseSV: 1537
+25: cubfan135: 1464
+25: Renthedog: 1199
+25: iJevin: 1184
+25: xBCrafted: 998
+25: Grian: 935
+25: hypnotizd: 775
+25: Keralis1: 528
+25: VintageBeef: 458
+25: BdoubleO100: 243
+25: falsesymmetry: 240
+25: Mumbo: 220
+25: Welsknight: 33
+25: GeminiTay: 30
+25: ZombieCleo: 6
+Total 67987

@@ -1,0 +1,10 @@
+minecraft.picked_up.purple_candle
+8: GoodTimeWithScar: 65
+8: ZombieCleo: 8
+8: cubfan135: 5
+8: PearlescentMoon: 3
+8: hypnotizd: 3
+8: Renthedog: 1
+8: VintageBeef: 1
+8: impulseSV: 1
+Total 87

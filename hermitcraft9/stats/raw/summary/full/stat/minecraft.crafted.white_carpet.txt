@@ -1,0 +1,25 @@
+minecraft.crafted.white_carpet
+23: VintageBeef: 9900
+23: impulseSV: 5844
+23: iJevin: 3959
+23: joehillssays: 1656
+23: cubfan135: 768
+23: ZombieCleo: 693
+23: Welsknight: 666
+23: Zedaph: 468
+23: xBCrafted: 306
+23: GoodTimeWithScar: 270
+23: Keralis1: 199
+23: Xisuma: 192
+23: falsesymmetry: 39
+23: BdoubleO100: 33
+23: Renthedog: 30
+23: Smajor1995: 30
+23: Tango: 30
+23: PearlescentMoon: 30
+23: iskall85: 27
+23: Docm77: 15
+23: Grian: 6
+23: GeminiTay: 3
+23: Etho: 3
+Total 25167

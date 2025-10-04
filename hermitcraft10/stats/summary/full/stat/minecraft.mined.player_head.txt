@@ -1,0 +1,28 @@
+minecraft.mined.player_head
+26: Tango: 603
+26: PearlescentMoon: 287
+26: cubfan135: 265
+26: iJevin: 223
+26: GoodTimeWithScar: 174
+26: impulseSV: 160
+26: Skizzleman: 159
+26: GeminiTay: 157
+26: falsesymmetry: 144
+26: Grian: 140
+26: Etho: 131
+26: Keralis1: 131
+26: Renthedog: 105
+26: hypnotizd: 83
+26: Xisuma: 63
+26: Mumbo: 58
+26: Docm77: 57
+26: BdoubleO100: 46
+26: VintageBeef: 42
+26: Smallishbeans: 28
+26: ZombieCleo: 27
+26: joehillssays: 23
+26: xBCrafted: 19
+26: Zedaph: 7
+26: Eyjoy27: 1
+26: SolidarityGaming: 1
+Total 3134

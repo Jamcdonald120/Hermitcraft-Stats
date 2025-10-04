@@ -1,0 +1,4 @@
+minecraft.dropped.piglin_banner_pattern
+2: iJevin: 2
+2: impulseSV: 1
+Total 3

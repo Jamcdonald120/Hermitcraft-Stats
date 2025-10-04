@@ -1,0 +1,20 @@
+minecraft.dropped.stone_pressure_plate
+18: Tango: 178
+18: Etho: 64
+18: cubfan135: 28
+18: iJevin: 13
+18: Keralis1: 13
+18: impulseSV: 12
+18: Renthedog: 6
+18: Mumbo: 6
+18: hypnotizd: 5
+18: PearlescentMoon: 4
+18: GoodTimeWithScar: 4
+18: xBCrafted: 2
+18: Zedaph: 2
+18: Docm77: 1
+18: GeminiTay: 1
+18: Grian: 1
+18: Skizzleman: 1
+18: falsesymmetry: 1
+Total 342

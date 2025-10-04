@@ -1,0 +1,25 @@
+minecraft.picked_up.potion
+23: Tango: 806
+23: hypnotizd: 429
+23: Zedaph: 408
+23: Xisuma: 320
+23: cubfan135: 287
+23: Etho: 221
+23: GoodTimeWithScar: 144
+23: joehillssays: 102
+23: impulseSV: 99
+23: iJevin: 96
+23: Stressmonster101: 92
+23: falsesymmetry: 78
+23: Renthedog: 70
+23: VintageBeef: 61
+23: xBCrafted: 44
+23: iskall85: 37
+23: Docm77: 30
+23: Grian: 25
+23: Keralis1: 23
+23: BdoubleO100: 9
+23: MumboJumbo: 7
+23: ZombieCleo: 4
+23: Welsknight: 3
+Total 3395

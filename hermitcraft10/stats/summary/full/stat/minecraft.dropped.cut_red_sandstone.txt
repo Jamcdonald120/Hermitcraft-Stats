@@ -1,0 +1,6 @@
+minecraft.dropped.cut_red_sandstone
+4: Renthedog: 37
+4: Grian: 27
+4: Xisuma: 7
+4: Etho: 4
+Total 75

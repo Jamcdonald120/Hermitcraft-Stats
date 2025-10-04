@@ -1,0 +1,34 @@
+minecraft.picked_up.leather_leggings
+32: Tango: 99
+32: cubfan135: 51
+32: iJevin: 42
+32: BdoubleO100: 39
+32: Renthedog: 28
+32: joehillssays: 26
+32: GoodTimeWithScar: 21
+32: PearlescentMoon: 19
+32: impulseSV: 17
+32: VintageBeef: 16
+32: falsesymmetry: 16
+32: ZombieCleo: 16
+32: Keralis1: 16
+32: Docm77: 15
+32: Xisuma: 15
+32: xBCrafted: 14
+32: Smallishbeans: 13
+32: GeminiTay: 12
+32: Mumbo: 10
+32: Etho: 9
+32: Welsknight: 7
+32: Skizzleman: 6
+32: hypnotizd: 5
+32: Zedaph: 5
+32: Grian: 4
+32: F1RECRACKR: 1
+32: OrionSound: 1
+32: Smajor1995: 1
+32: MythicalSausage: 1
+32: belmarzi: 1
+32: jojosolos: 1
+32: aimsey: 1
+Total 528

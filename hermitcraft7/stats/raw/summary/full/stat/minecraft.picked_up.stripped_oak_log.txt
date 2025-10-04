@@ -1,0 +1,26 @@
+minecraft.picked_up.stripped_oak_log
+24: Keralis1: 1591
+24: Xisuma: 1268
+24: iskall85: 739
+24: GoodTimeWithScar: 649
+24: BdoubleO100: 316
+24: Zedaph: 235
+24: VintageBeef: 210
+24: ZombieCleo: 192
+24: cubfan135: 144
+24: Renthedog: 96
+24: Etho: 82
+24: Grian: 72
+24: Tango: 70
+24: hypnotizd: 61
+24: impulseSV: 45
+24: Stressmonster101: 41
+24: iJevin: 35
+24: xBCrafted: 31
+24: Docm77: 19
+24: MumboJumbo: 10
+24: joehillssays: 4
+24: Tinfoilchef: 3
+24: falsesymmetry: 2
+24: Welsknight: 1
+Total 5916

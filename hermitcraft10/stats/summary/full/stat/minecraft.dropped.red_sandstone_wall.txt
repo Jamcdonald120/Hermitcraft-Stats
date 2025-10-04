@@ -1,0 +1,8 @@
+minecraft.dropped.red_sandstone_wall
+6: PearlescentMoon: 42
+6: Grian: 20
+6: Renthedog: 18
+6: xBCrafted: 4
+6: GoodTimeWithScar: 3
+6: Tango: 1
+Total 88

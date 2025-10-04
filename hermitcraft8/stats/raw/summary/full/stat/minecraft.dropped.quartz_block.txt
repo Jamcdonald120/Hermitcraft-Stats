@@ -1,0 +1,6 @@
+minecraft.dropped.quartz_block
+4: Keralis1: 55
+4: Grian: 24
+4: VintageBeef: 3
+4: cubfan135: 2
+Total 84

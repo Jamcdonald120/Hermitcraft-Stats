@@ -1,0 +1,18 @@
+minecraft.crafted.jungle_slab
+16: PearlescentMoon: 846
+16: MumboJumbo: 810
+16: GeminiTay: 612
+16: impulseSV: 354
+16: Etho: 306
+16: BdoubleO100: 240
+16: Keralis1: 210
+16: Docm77: 174
+16: hypnotizd: 162
+16: Xisuma: 132
+16: Grian: 90
+16: iskall85: 84
+16: GoodTimeWithScar: 84
+16: cubfan135: 72
+16: iJevin: 30
+16: Renthedog: 6
+Total 4212

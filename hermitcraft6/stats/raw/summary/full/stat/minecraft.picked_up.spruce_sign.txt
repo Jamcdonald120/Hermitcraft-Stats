@@ -1,0 +1,23 @@
+minecraft.picked_up.spruce_sign
+21: Stressmonster101: 191
+21: impulseSV: 85
+21: Xisuma: 83
+21: Renthedog: 78
+21: cubfan135: 77
+21: joehillssays: 52
+21: Grian: 50
+21: GoodTimeWithScar: 47
+21: Welsknight: 45
+21: falsesymmetry: 34
+21: iskall85: 33
+21: iJevin: 30
+21: Docm77: 15
+21: BdoubleO100: 15
+21: Tango: 13
+21: PythonGB: 12
+21: Cojomax99: 5
+21: Jura_Whitey: 4
+21: MumboJumbo: 4
+21: Keralis1: 2
+21: Zedaph: 1
+Total 876

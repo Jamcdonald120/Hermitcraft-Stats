@@ -1,0 +1,12 @@
+minecraft.picked_up.red_sandstone_slab
+10: Renthedog: 519
+10: Tango: 277
+10: Grian: 55
+10: falsesymmetry: 38
+10: iJevin: 36
+10: Docm77: 7
+10: GeminiTay: 5
+10: impulseSV: 4
+10: Keralis1: 3
+10: GoodTimeWithScar: 1
+Total 945

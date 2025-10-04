@@ -1,0 +1,5 @@
+minecraft.picked_up.crimson_button
+3: iJevin: 76
+3: cubfan135: 6
+3: impulseSV: 2
+Total 84

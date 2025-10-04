@@ -1,0 +1,8 @@
+minecraft.picked_up.jungle_button
+6: BdoubleO100: 14
+6: PearlescentMoon: 14
+6: GoodTimeWithScar: 4
+6: Keralis1: 4
+6: Xisuma: 1
+6: iJevin: 1
+Total 38

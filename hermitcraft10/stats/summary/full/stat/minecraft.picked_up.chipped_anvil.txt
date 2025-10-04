@@ -1,0 +1,27 @@
+minecraft.picked_up.chipped_anvil
+25: joehillssays: 44
+25: cubfan135: 42
+25: Keralis1: 37
+25: PearlescentMoon: 36
+25: Zedaph: 31
+25: iJevin: 27
+25: Etho: 24
+25: hypnotizd: 17
+25: Xisuma: 16
+25: GoodTimeWithScar: 14
+25: xBCrafted: 13
+25: Docm77: 12
+25: Renthedog: 12
+25: Tango: 12
+25: falsesymmetry: 11
+25: impulseSV: 11
+25: Grian: 8
+25: VintageBeef: 4
+25: Skizzleman: 4
+25: BdoubleO100: 4
+25: Smallishbeans: 3
+25: GeminiTay: 2
+25: Welsknight: 1
+25: ZombieCleo: 1
+25: Mumbo: 1
+Total 387

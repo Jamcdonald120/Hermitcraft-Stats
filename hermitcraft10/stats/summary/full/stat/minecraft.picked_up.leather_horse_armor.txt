@@ -1,0 +1,6 @@
+minecraft.picked_up.leather_horse_armor
+4: falsesymmetry: 15
+4: xBCrafted: 3
+4: joehillssays: 2
+4: hypnotizd: 1
+Total 21

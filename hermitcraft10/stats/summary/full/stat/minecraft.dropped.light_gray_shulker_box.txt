@@ -1,0 +1,9 @@
+minecraft.dropped.light_gray_shulker_box
+7: Etho: 16
+7: Tango: 2
+7: Xisuma: 1
+7: iJevin: 1
+7: Skizzleman: 1
+7: Keralis1: 1
+7: impulseSV: 1
+Total 23

@@ -1,0 +1,10 @@
+minecraft.picked_up.warped_stairs
+8: MumboJumbo: 211
+8: GoodTimeWithScar: 138
+8: Grian: 110
+8: joehillssays: 17
+8: iJevin: 14
+8: Xisuma: 10
+8: Renthedog: 2
+8: cubfan135: 2
+Total 504

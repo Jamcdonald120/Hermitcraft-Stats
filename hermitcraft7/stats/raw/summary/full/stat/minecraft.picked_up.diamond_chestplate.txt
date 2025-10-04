@@ -1,0 +1,23 @@
+minecraft.picked_up.diamond_chestplate
+21: iJevin: 53
+21: Tango: 34
+21: VintageBeef: 32
+21: Keralis1: 19
+21: Zedaph: 15
+21: Grian: 12
+21: GoodTimeWithScar: 12
+21: iskall85: 11
+21: Etho: 9
+21: Docm77: 6
+21: Renthedog: 5
+21: xBCrafted: 5
+21: Xisuma: 4
+21: falsesymmetry: 4
+21: hypnotizd: 4
+21: impulseSV: 4
+21: Tinfoilchef: 3
+21: MumboJumbo: 2
+21: Stressmonster101: 2
+21: cubfan135: 1
+21: ZombieCleo: 1
+Total 238

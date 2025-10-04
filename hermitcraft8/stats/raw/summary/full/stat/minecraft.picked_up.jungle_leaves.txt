@@ -1,0 +1,17 @@
+minecraft.picked_up.jungle_leaves
+15: GeminiTay: 828
+15: PearlescentMoon: 705
+15: Xisuma: 260
+15: Etho: 252
+15: Grian: 188
+15: iJevin: 101
+15: hypnotizd: 56
+15: MumboJumbo: 25
+15: impulseSV: 9
+15: ZombieCleo: 6
+15: iskall85: 5
+15: Keralis1: 4
+15: Welsknight: 3
+15: GoodTimeWithScar: 3
+15: cubfan135: 1
+Total 2446

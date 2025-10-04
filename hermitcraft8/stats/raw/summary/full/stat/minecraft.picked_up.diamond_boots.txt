@@ -1,0 +1,26 @@
+minecraft.picked_up.diamond_boots
+24: GoodTimeWithScar: 122
+24: Grian: 48
+24: Tango: 29
+24: Xisuma: 24
+24: iskall85: 22
+24: PearlescentMoon: 21
+24: Keralis1: 21
+24: ZombieCleo: 19
+24: Etho: 18
+24: Renthedog: 16
+24: cubfan135: 14
+24: MumboJumbo: 14
+24: Docm77: 13
+24: joehillssays: 13
+24: impulseSV: 13
+24: BdoubleO100: 12
+24: Zedaph: 11
+24: iJevin: 7
+24: falsesymmetry: 5
+24: pillbugnine: 3
+24: GeminiTay: 3
+24: hypnotizd: 3
+24: xBCrafted: 2
+24: VintageBeef: 1
+Total 454

@@ -1,0 +1,26 @@
+minecraft.dropped.white_wool
+24: Tango: 2850
+24: Etho: 936
+24: Grian: 604
+24: iJevin: 499
+24: GoodTimeWithScar: 448
+24: Skizzleman: 274
+24: impulseSV: 230
+24: Keralis1: 84
+24: cubfan135: 78
+24: hypnotizd: 39
+24: xBCrafted: 36
+24: Zedaph: 32
+24: Mumbo: 19
+24: Renthedog: 12
+24: falsesymmetry: 12
+24: Docm77: 10
+24: joehillssays: 8
+24: ZombieCleo: 6
+24: Xisuma: 3
+24: Smallishbeans: 3
+24: BdoubleO100: 3
+24: VintageBeef: 2
+24: GeminiTay: 2
+24: PearlescentMoon: 1
+Total 6191

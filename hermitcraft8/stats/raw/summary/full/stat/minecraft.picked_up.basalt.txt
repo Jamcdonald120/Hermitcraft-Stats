@@ -1,0 +1,27 @@
+minecraft.picked_up.basalt
+25: Xisuma: 23739
+25: cubfan135: 8209
+25: GoodTimeWithScar: 5177
+25: joehillssays: 5137
+25: Welsknight: 4508
+25: Docm77: 4496
+25: iJevin: 4102
+25: ZombieCleo: 4031
+25: VintageBeef: 3669
+25: PearlescentMoon: 2796
+25: hypnotizd: 2688
+25: Renthedog: 2228
+25: impulseSV: 2189
+25: xBCrafted: 1373
+25: Tango: 1260
+25: Grian: 828
+25: Zedaph: 814
+25: iskall85: 748
+25: Keralis1: 715
+25: falsesymmetry: 500
+25: Etho: 475
+25: GeminiTay: 469
+25: BdoubleO100: 397
+25: MumboJumbo: 132
+25: EvilXisuma: 73
+Total 80753

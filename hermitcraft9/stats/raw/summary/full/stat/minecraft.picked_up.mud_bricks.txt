@@ -1,0 +1,24 @@
+minecraft.picked_up.mud_bricks
+22: Zedaph: 350
+22: Keralis1: 264
+22: ZombieCleo: 239
+22: cubfan135: 215
+22: iJevin: 187
+22: Grian: 178
+22: PearlescentMoon: 150
+22: Xisuma: 143
+22: Docm77: 90
+22: Tango: 82
+22: Mumbo: 64
+22: Renthedog: 60
+22: GoodTimeWithScar: 54
+22: falsesymmetry: 51
+22: joehillssays: 44
+22: impulseSV: 43
+22: xBCrafted: 40
+22: Etho: 13
+22: GeminiTay: 8
+22: iskall85: 6
+22: Stressmonster101: 2
+22: BdoubleO100: 1
+Total 2284

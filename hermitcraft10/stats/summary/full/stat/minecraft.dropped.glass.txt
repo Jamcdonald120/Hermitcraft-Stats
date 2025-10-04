@@ -1,0 +1,24 @@
+minecraft.dropped.glass
+22: Etho: 17877
+22: Zedaph: 7612
+22: GoodTimeWithScar: 819
+22: Tango: 528
+22: VintageBeef: 437
+22: Renthedog: 429
+22: Xisuma: 229
+22: impulseSV: 222
+22: iJevin: 207
+22: Docm77: 175
+22: Grian: 168
+22: cubfan135: 161
+22: PearlescentMoon: 28
+22: Mumbo: 23
+22: Keralis1: 17
+22: joehillssays: 12
+22: BdoubleO100: 11
+22: ZombieCleo: 7
+22: falsesymmetry: 4
+22: xBCrafted: 2
+22: Skizzleman: 1
+22: hypnotizd: 1
+Total 28970

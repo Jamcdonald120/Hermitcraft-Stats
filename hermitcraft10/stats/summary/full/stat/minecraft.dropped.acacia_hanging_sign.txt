@@ -1,0 +1,4 @@
+minecraft.dropped.acacia_hanging_sign
+2: Grian: 5
+2: Smallishbeans: 3
+Total 8

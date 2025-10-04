@@ -1,0 +1,4 @@
+minecraft.dropped.brown_stained_glass_pane
+2: Grian: 22
+2: MumboJumbo: 1
+Total 23

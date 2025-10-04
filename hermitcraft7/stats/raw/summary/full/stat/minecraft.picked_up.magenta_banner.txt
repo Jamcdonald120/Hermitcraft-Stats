@@ -1,0 +1,5 @@
+minecraft.picked_up.magenta_banner
+3: falsesymmetry: 15
+3: Keralis1: 6
+3: VintageBeef: 3
+Total 24

@@ -1,0 +1,23 @@
+minecraft.picked_up.jungle_stairs
+21: PearlescentMoon: 239
+21: Keralis1: 190
+21: Etho: 164
+21: Xisuma: 143
+21: VintageBeef: 61
+21: falsesymmetry: 61
+21: GeminiTay: 49
+21: GoodTimeWithScar: 37
+21: cubfan135: 35
+21: Mumbo: 34
+21: Smallishbeans: 33
+21: iJevin: 29
+21: ZombieCleo: 18
+21: joehillssays: 5
+21: Docm77: 3
+21: impulseSV: 3
+21: Zedaph: 3
+21: Renthedog: 1
+21: Skizzleman: 1
+21: BdoubleO100: 1
+21: xBCrafted: 1
+Total 1111

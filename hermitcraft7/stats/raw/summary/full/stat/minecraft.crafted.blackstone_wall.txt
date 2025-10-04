@@ -1,0 +1,18 @@
+minecraft.crafted.blackstone_wall
+16: GoodTimeWithScar: 541
+16: Tango: 396
+16: cubfan135: 288
+16: Grian: 198
+16: joehillssays: 196
+16: Keralis1: 156
+16: xBCrafted: 126
+16: ZombieCleo: 91
+16: Etho: 84
+16: falsesymmetry: 66
+16: impulseSV: 60
+16: iskall85: 48
+16: Welsknight: 24
+16: Renthedog: 12
+16: Zedaph: 12
+16: VintageBeef: 6
+Total 2304

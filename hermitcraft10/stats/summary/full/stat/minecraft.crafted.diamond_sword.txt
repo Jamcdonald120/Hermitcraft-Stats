@@ -1,0 +1,27 @@
+minecraft.crafted.diamond_sword
+25: Keralis1: 25
+25: iJevin: 21
+25: Etho: 21
+25: GoodTimeWithScar: 15
+25: cubfan135: 11
+25: Docm77: 9
+25: Smallishbeans: 9
+25: Xisuma: 8
+25: Skizzleman: 6
+25: ZombieCleo: 6
+25: impulseSV: 5
+25: Grian: 4
+25: Zedaph: 4
+25: VintageBeef: 3
+25: GeminiTay: 3
+25: BdoubleO100: 3
+25: PearlescentMoon: 3
+25: Mumbo: 3
+25: hypnotizd: 3
+25: Renthedog: 2
+25: xBCrafted: 2
+25: Welsknight: 2
+25: joehillssays: 1
+25: Tango: 1
+25: falsesymmetry: 1
+Total 171

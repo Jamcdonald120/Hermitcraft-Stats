@@ -1,0 +1,12 @@
+minecraft.picked_up.raw_iron_block
+10: cubfan135: 1829
+10: iJevin: 49
+10: Etho: 46
+10: Grian: 45
+10: BdoubleO100: 21
+10: GoodTimeWithScar: 20
+10: joehillssays: 3
+10: Renthedog: 2
+10: xBCrafted: 1
+10: hypnotizd: 1
+Total 2017

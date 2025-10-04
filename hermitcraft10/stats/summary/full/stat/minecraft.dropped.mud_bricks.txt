@@ -1,0 +1,16 @@
+minecraft.dropped.mud_bricks
+14: falsesymmetry: 182
+14: PearlescentMoon: 77
+14: Mumbo: 30
+14: Grian: 12
+14: Renthedog: 10
+14: Keralis1: 7
+14: Zedaph: 6
+14: Etho: 5
+14: cubfan135: 4
+14: ZombieCleo: 4
+14: VintageBeef: 3
+14: GoodTimeWithScar: 2
+14: iJevin: 1
+14: BdoubleO100: 1
+Total 344

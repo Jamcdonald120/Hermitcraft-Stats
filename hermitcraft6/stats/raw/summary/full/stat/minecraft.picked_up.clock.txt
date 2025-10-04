@@ -1,0 +1,18 @@
+minecraft.picked_up.clock
+16: impulseSV: 17
+16: Tinfoilchef: 11
+16: iskall85: 8
+16: joehillssays: 7
+16: Zedaph: 7
+16: Grian: 6
+16: falsesymmetry: 6
+16: Duke_da_dog: 6
+16: cubfan135: 3
+16: ZombieCleo: 3
+16: Docm77: 2
+16: Renthedog: 2
+16: MumboJumbo: 2
+16: Xisuma: 1
+16: iJevin: 1
+16: Biffa2001: 1
+Total 83

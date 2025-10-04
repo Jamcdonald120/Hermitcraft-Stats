@@ -1,0 +1,22 @@
+minecraft.crafted.lime_dye
+20: impulseSV: 9462
+20: GoodTimeWithScar: 3046
+20: cubfan135: 2234
+20: Tango: 2066
+20: Etho: 1576
+20: Xisuma: 1459
+20: Grian: 1152
+20: falsesymmetry: 782
+20: joehillssays: 464
+20: iskall85: 442
+20: Keralis1: 288
+20: Stressmonster101: 264
+20: iJevin: 260
+20: MumboJumbo: 171
+20: Docm77: 138
+20: Renthedog: 114
+20: Zedaph: 88
+20: BdoubleO100: 80
+20: VintageBeef: 56
+20: ZombieCleo: 6
+Total 24148

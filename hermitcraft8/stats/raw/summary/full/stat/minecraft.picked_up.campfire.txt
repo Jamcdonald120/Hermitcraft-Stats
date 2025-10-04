@@ -1,0 +1,20 @@
+minecraft.picked_up.campfire
+18: PearlescentMoon: 123
+18: GoodTimeWithScar: 104
+18: BdoubleO100: 98
+18: impulseSV: 50
+18: xBCrafted: 39
+18: Grian: 34
+18: iskall85: 14
+18: Keralis1: 14
+18: cubfan135: 12
+18: Xisuma: 9
+18: Tango: 6
+18: Renthedog: 4
+18: Stressmonster101: 4
+18: joehillssays: 2
+18: MumboJumbo: 2
+18: Docm77: 1
+18: VintageBeef: 1
+18: GeminiTay: 1
+Total 518

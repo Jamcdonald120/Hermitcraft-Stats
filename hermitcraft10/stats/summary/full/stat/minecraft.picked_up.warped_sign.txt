@@ -1,0 +1,14 @@
+minecraft.picked_up.warped_sign
+12: impulseSV: 60
+12: Smallishbeans: 36
+12: cubfan135: 33
+12: GoodTimeWithScar: 22
+12: BdoubleO100: 16
+12: PearlescentMoon: 13
+12: Keralis1: 12
+12: Xisuma: 9
+12: Grian: 4
+12: Etho: 4
+12: Docm77: 3
+12: xBCrafted: 2
+Total 214

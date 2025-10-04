@@ -1,0 +1,4 @@
+minecraft.dropped.blaze_powder
+2: Zedaph: 133
+2: Renthedog: 2
+Total 135

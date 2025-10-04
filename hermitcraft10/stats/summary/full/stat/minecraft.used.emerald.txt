@@ -1,0 +1,4 @@
+minecraft.used.emerald
+2: Smallishbeans: 64
+2: xBCrafted: 4
+Total 68

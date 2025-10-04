@@ -1,0 +1,9 @@
+minecraft.dropped.cyan_concrete_powder
+7: falsesymmetry: 78
+7: Tango: 32
+7: GeminiTay: 3
+7: Etho: 3
+7: Renthedog: 2
+7: Docm77: 1
+7: cubfan135: 1
+Total 120

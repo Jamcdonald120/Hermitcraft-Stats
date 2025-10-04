@@ -1,0 +1,18 @@
+minecraft.dropped.powered_rail
+16: Renthedog: 185
+16: Grian: 95
+16: Etho: 92
+16: Tango: 22
+16: falsesymmetry: 17
+16: Mumbo: 13
+16: Docm77: 11
+16: Zedaph: 6
+16: impulseSV: 5
+16: GoodTimeWithScar: 3
+16: hypnotizd: 2
+16: iJevin: 1
+16: Smallishbeans: 1
+16: BdoubleO100: 1
+16: PearlescentMoon: 1
+16: cubfan135: 1
+Total 456

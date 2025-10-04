@@ -1,0 +1,29 @@
+minecraft.picked_up.diamond_axe
+27: GoodTimeWithScar: 341
+27: Renthedog: 100
+27: Skizzleman: 100
+27: joehillssays: 94
+27: Tango: 66
+27: ZombieCleo: 59
+27: Etho: 50
+27: impulseSV: 44
+27: Grian: 37
+27: PearlescentMoon: 37
+27: cubfan135: 36
+27: Xisuma: 33
+27: Docm77: 30
+27: iJevin: 30
+27: GeminiTay: 24
+27: Zedaph: 24
+27: BdoubleO100: 22
+27: falsesymmetry: 21
+27: Mumbo: 17
+27: Keralis1: 16
+27: VintageBeef: 11
+27: Smallishbeans: 9
+27: xBCrafted: 9
+27: hypnotizd: 8
+27: SolidarityGaming: 5
+27: Welsknight: 2
+27: OrionSound: 1
+Total 1226

@@ -1,0 +1,5 @@
+minecraft.dropped.mossy_cobblestone_slab
+3: Keralis1: 36
+3: cubfan135: 30
+3: Docm77: 17
+Total 83

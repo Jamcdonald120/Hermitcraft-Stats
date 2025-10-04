@@ -1,0 +1,31 @@
+minecraft.killed.cow
+29: VintageBeef: 2669
+29: GoodTimeWithScar: 802
+29: ZombieCleo: 705
+29: Etho: 426
+29: BdoubleO100: 368
+29: iJevin: 292
+29: cubfan135: 245
+29: falsesymmetry: 229
+29: Tango: 228
+29: xBCrafted: 141
+29: Keralis1: 132
+29: Renthedog: 103
+29: Grian: 92
+29: Xisuma: 71
+29: hypnotizd: 65
+29: PearlescentMoon: 54
+29: Zedaph: 43
+29: Docm77: 23
+29: joehillssays: 19
+29: iskall85: 19
+29: Mumbo: 14
+29: Stressmonster101: 10
+29: MythicalSausage: 9
+29: GeminiTay: 9
+29: Welsknight: 9
+29: MumboJumbo: 8
+29: Smallishbeans: 7
+29: Pixlriffs: 2
+29: impulseSV: 2
+Total 6796

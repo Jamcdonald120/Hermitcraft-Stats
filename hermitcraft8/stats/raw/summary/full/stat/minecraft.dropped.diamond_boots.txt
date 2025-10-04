@@ -1,0 +1,21 @@
+minecraft.dropped.diamond_boots
+19: GoodTimeWithScar: 16
+19: Grian: 15
+19: MumboJumbo: 8
+19: Xisuma: 5
+19: cubfan135: 5
+19: Docm77: 4
+19: Renthedog: 3
+19: PearlescentMoon: 3
+19: iskall85: 3
+19: Etho: 3
+19: Keralis1: 3
+19: Zedaph: 3
+19: impulseSV: 2
+19: EvilXisuma: 1
+19: iJevin: 1
+19: joehillssays: 1
+19: GeminiTay: 1
+19: BdoubleO100: 1
+19: hypnotizd: 1
+Total 79

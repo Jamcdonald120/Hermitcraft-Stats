@@ -1,0 +1,12 @@
+minecraft.dropped.smooth_quartz_slab
+10: impulseSV: 79
+10: iJevin: 53
+10: Xisuma: 45
+10: Skizzleman: 32
+10: GoodTimeWithScar: 25
+10: Grian: 12
+10: falsesymmetry: 10
+10: Renthedog: 4
+10: Keralis1: 3
+10: Mumbo: 2
+Total 265

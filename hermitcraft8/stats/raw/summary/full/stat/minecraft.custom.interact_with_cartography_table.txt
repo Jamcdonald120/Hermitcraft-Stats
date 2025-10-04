@@ -1,0 +1,15 @@
+minecraft.custom.interact_with_cartography_table
+13: Xisuma: 61
+13: GoodTimeWithScar: 56
+13: Grian: 41
+13: Keralis1: 30
+13: Docm77: 11
+13: BdoubleO100: 10
+13: ZombieCleo: 8
+13: cubfan135: 5
+13: joehillssays: 3
+13: impulseSV: 3
+13: VintageBeef: 1
+13: Tango: 1
+13: Etho: 1
+Total 231

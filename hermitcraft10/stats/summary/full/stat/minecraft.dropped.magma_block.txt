@@ -1,0 +1,18 @@
+minecraft.dropped.magma_block
+16: hypnotizd: 448
+16: impulseSV: 153
+16: Xisuma: 84
+16: iJevin: 83
+16: cubfan135: 55
+16: PearlescentMoon: 49
+16: Smallishbeans: 46
+16: xBCrafted: 35
+16: Keralis1: 33
+16: Renthedog: 23
+16: falsesymmetry: 12
+16: Etho: 6
+16: Docm77: 5
+16: Grian: 2
+16: BdoubleO100: 1
+16: GoodTimeWithScar: 1
+Total 1036

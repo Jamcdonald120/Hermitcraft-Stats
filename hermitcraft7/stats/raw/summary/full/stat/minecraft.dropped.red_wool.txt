@@ -1,0 +1,14 @@
+minecraft.dropped.red_wool
+12: GoodTimeWithScar: 230
+12: Tango: 212
+12: Grian: 185
+12: BdoubleO100: 125
+12: cubfan135: 109
+12: Keralis1: 94
+12: iJevin: 71
+12: Zedaph: 52
+12: Xisuma: 9
+12: impulseSV: 9
+12: Etho: 5
+12: iskall85: 2
+Total 1103

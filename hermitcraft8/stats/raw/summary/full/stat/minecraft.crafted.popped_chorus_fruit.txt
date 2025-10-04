@@ -1,0 +1,10 @@
+minecraft.crafted.popped_chorus_fruit
+8: impulseSV: 575
+8: PearlescentMoon: 92
+8: VintageBeef: 56
+8: ZombieCleo: 26
+8: falsesymmetry: 13
+8: Zedaph: 9
+8: Etho: 8
+8: Welsknight: 2
+Total 781

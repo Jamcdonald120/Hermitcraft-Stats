@@ -1,0 +1,26 @@
+minecraft.mined.bricks
+24: Mumbo: 1545
+24: impulseSV: 1186
+24: Renthedog: 493
+24: Xisuma: 321
+24: Etho: 251
+24: Skizzleman: 243
+24: Tango: 210
+24: PearlescentMoon: 183
+24: Grian: 160
+24: cubfan135: 136
+24: Welsknight: 135
+24: VintageBeef: 57
+24: Docm77: 29
+24: GoodTimeWithScar: 25
+24: joehillssays: 14
+24: xBCrafted: 9
+24: SolidarityGaming: 9
+24: BdoubleO100: 8
+24: Smallishbeans: 5
+24: falsesymmetry: 4
+24: ZombieCleo: 4
+24: iJevin: 3
+24: hypnotizd: 1
+24: Zedaph: 1
+Total 5032

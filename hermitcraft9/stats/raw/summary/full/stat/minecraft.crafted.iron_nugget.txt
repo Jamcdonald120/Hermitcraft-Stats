@@ -1,0 +1,33 @@
+minecraft.crafted.iron_nugget
+31: Tango: 255756
+31: impulseSV: 25102
+31: Renthedog: 14064
+31: Etho: 12913
+31: cubfan135: 10170
+31: falsesymmetry: 8237
+31: ZombieCleo: 7401
+31: RentheKing: 6606
+31: Keralis1: 5139
+31: Docm77: 4266
+31: xBCrafted: 3969
+31: Xisuma: 3591
+31: iJevin: 3287
+31: GoodTimeWithScar: 2290
+31: Grian: 1991
+31: BdoubleO100: 1863
+31: VintageBeef: 1359
+31: PearlescentMoon: 1099
+31: Stressmonster101: 928
+31: GeminiTay: 927
+31: Mumbo: 903
+31: joehillssays: 873
+31: MythicalSausage: 848
+31: Smallishbeans: 621
+31: Zedaph: 588
+31: hypnotizd: 414
+31: Pixlriffs: 271
+31: iskall85: 180
+31: MumboJumbo: 99
+31: fWhip: 63
+31: ShubbleYT: 27
+Total 375845

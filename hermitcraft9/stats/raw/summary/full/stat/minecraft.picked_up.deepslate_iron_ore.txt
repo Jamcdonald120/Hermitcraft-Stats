@@ -1,0 +1,28 @@
+minecraft.picked_up.deepslate_iron_ore
+26: Zedaph: 762
+26: PearlescentMoon: 623
+26: cubfan135: 596
+26: Xisuma: 500
+26: Keralis1: 500
+26: VintageBeef: 403
+26: xBCrafted: 326
+26: Tango: 204
+26: Etho: 187
+26: joehillssays: 171
+26: hypnotizd: 131
+26: Renthedog: 127
+26: Grian: 121
+26: ZombieCleo: 83
+26: Docm77: 79
+26: falsesymmetry: 55
+26: Stressmonster101: 44
+26: GoodTimeWithScar: 33
+26: iJevin: 28
+26: BdoubleO100: 13
+26: impulseSV: 11
+26: GeminiTay: 7
+26: iskall85: 3
+26: Welsknight: 3
+26: MythicalSausage: 2
+26: Mumbo: 1
+Total 5013

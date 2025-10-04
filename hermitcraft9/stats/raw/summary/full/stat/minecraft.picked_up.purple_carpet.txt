@@ -1,0 +1,10 @@
+minecraft.picked_up.purple_carpet
+8: PearlescentMoon: 7499
+8: VintageBeef: 3737
+8: joehillssays: 3047
+8: cubfan135: 196
+8: falsesymmetry: 102
+8: Tango: 51
+8: impulseSV: 17
+8: Zedaph: 3
+Total 14652

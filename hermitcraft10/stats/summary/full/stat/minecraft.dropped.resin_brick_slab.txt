@@ -1,0 +1,4 @@
+minecraft.dropped.resin_brick_slab
+2: Renthedog: 2
+2: Docm77: 1
+Total 3

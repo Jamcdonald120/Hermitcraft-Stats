@@ -1,0 +1,10 @@
+minecraft.dropped.stripped_oak_log
+8: BdoubleO100: 158
+8: cubfan135: 7
+8: GoodTimeWithScar: 4
+8: Etho: 2
+8: ZombieCleo: 2
+8: Tango: 1
+8: MumboJumbo: 1
+8: Tinfoilchef: 1
+Total 176

@@ -1,0 +1,9 @@
+minecraft.picked_up.magenta_terracotta
+7: falsesymmetry: 2049
+7: Welsknight: 819
+7: VintageBeef: 148
+7: GoodTimeWithScar: 81
+7: Stressmonster101: 75
+7: Xisuma: 11
+7: Etho: 4
+Total 3187

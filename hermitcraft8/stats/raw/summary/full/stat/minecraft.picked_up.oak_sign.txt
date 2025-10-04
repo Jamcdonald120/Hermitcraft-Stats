@@ -1,0 +1,28 @@
+minecraft.picked_up.oak_sign
+26: MumboJumbo: 185
+26: Grian: 110
+26: falsesymmetry: 94
+26: iJevin: 86
+26: joehillssays: 63
+26: GoodTimeWithScar: 46
+26: Zedaph: 43
+26: impulseSV: 42
+26: Welsknight: 36
+26: Xisuma: 29
+26: PearlescentMoon: 29
+26: Etho: 28
+26: Tango: 24
+26: iskall85: 22
+26: cubfan135: 19
+26: Keralis1: 18
+26: GeminiTay: 17
+26: Stressmonster101: 15
+26: BdoubleO100: 13
+26: Docm77: 12
+26: xBCrafted: 6
+26: Renthedog: 4
+26: ZombieCleo: 4
+26: hypnotizd: 4
+26: VintageBeef: 1
+26: pillbugnine: 1
+Total 951

@@ -1,0 +1,31 @@
+minecraft.mined.redstone_wire
+29: Tango: 7291
+29: cubfan135: 1770
+29: Grian: 787
+29: Xisuma: 752
+29: impulseSV: 695
+29: Docm77: 553
+29: Keralis1: 451
+29: iJevin: 437
+29: Etho: 332
+29: GoodTimeWithScar: 331
+29: Zedaph: 316
+29: ZombieCleo: 297
+29: Renthedog: 287
+29: PearlescentMoon: 210
+29: iskall85: 157
+29: VintageBeef: 138
+29: joehillssays: 134
+29: hypnotizd: 128
+29: RentheKing: 109
+29: GeminiTay: 108
+29: BdoubleO100: 103
+29: Mumbo: 77
+29: Stressmonster101: 73
+29: xBCrafted: 72
+29: Pixlriffs: 23
+29: Welsknight: 18
+29: falsesymmetry: 12
+29: OrionSound: 6
+29: MythicalSausage: 4
+Total 15671

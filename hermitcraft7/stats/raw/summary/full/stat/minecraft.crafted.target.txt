@@ -1,0 +1,18 @@
+minecraft.crafted.target
+16: Etho: 841
+16: impulseSV: 734
+16: cubfan135: 321
+16: Tango: 320
+16: xBCrafted: 199
+16: MumboJumbo: 133
+16: Xisuma: 72
+16: Zedaph: 72
+16: hypnotizd: 65
+16: GoodTimeWithScar: 65
+16: Docm77: 46
+16: joehillssays: 34
+16: iskall85: 18
+16: Renthedog: 13
+16: VintageBeef: 1
+16: BdoubleO100: 1
+Total 2935

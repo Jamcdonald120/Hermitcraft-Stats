@@ -1,0 +1,21 @@
+minecraft.picked_up.cookie
+19: iJevin: 544
+19: Keralis1: 300
+19: ZombieCleo: 198
+19: GoodTimeWithScar: 168
+19: Renthedog: 100
+19: VintageBeef: 82
+19: Etho: 79
+19: Tango: 78
+19: falsesymmetry: 69
+19: Zedaph: 55
+19: Xisuma: 24
+19: MumboJumbo: 20
+19: hypnotizd: 18
+19: xBCrafted: 15
+19: BdoubleO100: 6
+19: cubfan135: 2
+19: impulseSV: 2
+19: joehillssays: 1
+19: iskall85: 1
+Total 1762

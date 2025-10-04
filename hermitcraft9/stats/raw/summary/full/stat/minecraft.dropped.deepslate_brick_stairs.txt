@@ -1,0 +1,13 @@
+minecraft.dropped.deepslate_brick_stairs
+11: Tango: 819
+11: xBCrafted: 58
+11: cubfan135: 57
+11: Renthedog: 50
+11: RentheKing: 48
+11: falsesymmetry: 10
+11: Grian: 5
+11: impulseSV: 3
+11: Zedaph: 3
+11: iJevin: 2
+11: GoodTimeWithScar: 2
+Total 1057

@@ -1,0 +1,13 @@
+minecraft.crafted.glistering_melon_slice
+11: impulseSV: 141
+11: cubfan135: 128
+11: Xisuma: 73
+11: iJevin: 53
+11: MumboJumbo: 6
+11: falsesymmetry: 5
+11: Stressmonster101: 5
+11: Tango: 3
+11: Biffa2001: 3
+11: GoodTimeWithScar: 3
+11: iskall85: 2
+Total 422

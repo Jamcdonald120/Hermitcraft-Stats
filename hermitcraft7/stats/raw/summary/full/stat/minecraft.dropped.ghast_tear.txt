@@ -1,0 +1,18 @@
+minecraft.dropped.ghast_tear
+16: Tango: 263
+16: Zedaph: 56
+16: cubfan135: 53
+16: Grian: 28
+16: impulseSV: 19
+16: xBCrafted: 6
+16: Welsknight: 6
+16: MumboJumbo: 6
+16: GoodTimeWithScar: 5
+16: Xisuma: 4
+16: Etho: 4
+16: falsesymmetry: 3
+16: iJevin: 2
+16: Renthedog: 1
+16: iskall85: 1
+16: Keralis1: 1
+Total 458

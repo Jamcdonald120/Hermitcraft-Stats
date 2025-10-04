@@ -1,0 +1,22 @@
+minecraft.mined.blue_shulker_box
+20: falsesymmetry: 669
+20: Tango: 305
+20: cubfan135: 299
+20: Xisuma: 215
+20: GoodTimeWithScar: 210
+20: ZombieCleo: 193
+20: Stressmonster101: 182
+20: impulseSV: 142
+20: Welsknight: 130
+20: iJevin: 128
+20: iskall85: 102
+20: Docm77: 67
+20: Grian: 63
+20: joehillssays: 47
+20: Renthedog: 41
+20: HumanCleo: 31
+20: Biffa2001: 28
+20: Zedaph: 4
+20: PythonGB: 2
+20: Keralis1: 1
+Total 2859

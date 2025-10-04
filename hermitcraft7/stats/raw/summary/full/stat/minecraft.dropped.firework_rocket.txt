@@ -1,0 +1,27 @@
+minecraft.dropped.firework_rocket
+25: Tango: 6974
+25: Grian: 5936
+25: Renthedog: 3531
+25: falsesymmetry: 2209
+25: Keralis1: 1964
+25: iJevin: 1678
+25: GoodTimeWithScar: 1427
+25: iskall85: 1131
+25: cubfan135: 1005
+25: BdoubleO100: 869
+25: hypnotizd: 773
+25: Xisuma: 705
+25: Zedaph: 660
+25: MumboJumbo: 596
+25: Etho: 592
+25: impulseSV: 553
+25: ZombieCleo: 478
+25: xBCrafted: 368
+25: joehillssays: 293
+25: VintageBeef: 189
+25: BarryBoss1234: 134
+25: Docm77: 101
+25: Stressmonster101: 49
+25: Mumbo: 44
+25: Welsknight: 33
+Total 32292

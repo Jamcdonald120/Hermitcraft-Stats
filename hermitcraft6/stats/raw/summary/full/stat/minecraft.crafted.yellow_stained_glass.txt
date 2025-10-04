@@ -1,0 +1,17 @@
+minecraft.crafted.yellow_stained_glass
+15: Welsknight: 2640
+15: GoodTimeWithScar: 2584
+15: Renthedog: 1544
+15: Grian: 912
+15: impulseSV: 880
+15: iskall85: 416
+15: Xisuma: 256
+15: joehillssays: 256
+15: PythonGB: 224
+15: cubfan135: 208
+15: MumboJumbo: 64
+15: iJevin: 32
+15: HumanCleo: 8
+15: ZombieCleo: 8
+15: Tinfoilchef: 8
+Total 10040

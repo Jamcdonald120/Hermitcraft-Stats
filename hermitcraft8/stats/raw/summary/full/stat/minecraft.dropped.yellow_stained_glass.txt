@@ -1,0 +1,6 @@
+minecraft.dropped.yellow_stained_glass
+4: GeminiTay: 64
+4: GoodTimeWithScar: 15
+4: Grian: 5
+4: Etho: 1
+Total 85

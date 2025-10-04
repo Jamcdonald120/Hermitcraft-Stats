@@ -1,0 +1,4 @@
+minecraft.dropped.quartz_slab
+2: GeminiTay: 48
+2: Renthedog: 1
+Total 49

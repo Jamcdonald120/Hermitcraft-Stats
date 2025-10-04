@@ -1,0 +1,19 @@
+minecraft.dropped.copper_ingot
+17: Etho: 2322
+17: Zedaph: 2226
+17: Grian: 456
+17: GoodTimeWithScar: 267
+17: Xisuma: 130
+17: cubfan135: 95
+17: xBCrafted: 70
+17: VintageBeef: 55
+17: iJevin: 30
+17: Renthedog: 14
+17: Mumbo: 14
+17: impulseSV: 11
+17: Tango: 6
+17: GeminiTay: 3
+17: falsesymmetry: 2
+17: Keralis1: 2
+17: BdoubleO100: 1
+Total 5704

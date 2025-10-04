@@ -1,0 +1,12 @@
+minecraft.dropped.wooden_hoe
+10: Renthedog: 9
+10: PearlescentMoon: 6
+10: VintageBeef: 5
+10: Etho: 5
+10: GeminiTay: 3
+10: ZombieCleo: 3
+10: hypnotizd: 2
+10: Docm77: 1
+10: iJevin: 1
+10: Grian: 1
+Total 36

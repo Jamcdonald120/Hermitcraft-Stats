@@ -1,0 +1,7 @@
+minecraft.picked_up.pink_candle
+5: Tango: 131
+5: cubfan135: 5
+5: GeminiTay: 3
+5: BdoubleO100: 3
+5: ZombieCleo: 1
+Total 143

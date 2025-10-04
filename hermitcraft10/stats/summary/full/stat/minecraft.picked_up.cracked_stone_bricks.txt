@@ -1,0 +1,23 @@
+minecraft.picked_up.cracked_stone_bricks
+21: Etho: 4175
+21: VintageBeef: 2197
+21: iJevin: 1042
+21: falsesymmetry: 454
+21: Grian: 313
+21: cubfan135: 229
+21: xBCrafted: 204
+21: Xisuma: 191
+21: Renthedog: 102
+21: Docm77: 84
+21: Tango: 55
+21: PearlescentMoon: 29
+21: ZombieCleo: 12
+21: Mumbo: 6
+21: GoodTimeWithScar: 5
+21: impulseSV: 5
+21: joehillssays: 4
+21: Skizzleman: 4
+21: Smallishbeans: 3
+21: BdoubleO100: 1
+21: Keralis1: 1
+Total 9116

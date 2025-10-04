@@ -1,0 +1,7 @@
+minecraft.dropped.andesite_slab
+5: impulseSV: 63
+5: Tango: 6
+5: Etho: 6
+5: Xisuma: 1
+5: PearlescentMoon: 1
+Total 77

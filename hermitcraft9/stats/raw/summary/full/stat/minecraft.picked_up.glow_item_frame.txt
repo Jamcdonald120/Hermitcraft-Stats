@@ -1,0 +1,26 @@
+minecraft.picked_up.glow_item_frame
+24: GoodTimeWithScar: 743
+24: cubfan135: 356
+24: PearlescentMoon: 147
+24: falsesymmetry: 112
+24: Tango: 83
+24: VintageBeef: 56
+24: GeminiTay: 56
+24: iJevin: 37
+24: Renthedog: 30
+24: Keralis1: 28
+24: ZombieCleo: 20
+24: Grian: 14
+24: joehillssays: 13
+24: hypnotizd: 10
+24: Xisuma: 9
+24: MythicalSausage: 5
+24: BdoubleO100: 5
+24: iskall85: 4
+24: RentheKing: 4
+24: impulseSV: 4
+24: Docm77: 3
+24: xBCrafted: 3
+24: Etho: 2
+24: SolidarityGaming: 1
+Total 1745

@@ -1,0 +1,22 @@
+minecraft.dropped.birch_sapling
+20: Zedaph: 267
+20: Tango: 104
+20: cubfan135: 61
+20: BdoubleO100: 53
+20: Keralis1: 42
+20: iJevin: 41
+20: joehillssays: 32
+20: GoodTimeWithScar: 19
+20: xBCrafted: 17
+20: Renthedog: 16
+20: Xisuma: 15
+20: Docm77: 9
+20: Mumbo: 7
+20: falsesymmetry: 6
+20: Etho: 6
+20: Grian: 5
+20: PearlescentMoon: 3
+20: impulseSV: 3
+20: Smallishbeans: 2
+20: ZombieCleo: 2
+Total 710

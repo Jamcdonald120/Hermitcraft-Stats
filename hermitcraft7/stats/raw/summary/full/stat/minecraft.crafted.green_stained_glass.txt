@@ -1,0 +1,18 @@
+minecraft.crafted.green_stained_glass
+16: cubfan135: 3544
+16: Stressmonster101: 3208
+16: Zedaph: 3040
+16: Etho: 896
+16: Tango: 512
+16: Renthedog: 448
+16: Xisuma: 416
+16: GoodTimeWithScar: 352
+16: Keralis1: 336
+16: xBCrafted: 224
+16: falsesymmetry: 128
+16: joehillssays: 88
+16: BdoubleO100: 64
+16: MumboJumbo: 32
+16: VintageBeef: 24
+16: impulseSV: 8
+Total 13320

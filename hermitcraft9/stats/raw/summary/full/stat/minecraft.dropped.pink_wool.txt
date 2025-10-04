@@ -1,0 +1,9 @@
+minecraft.dropped.pink_wool
+7: PearlescentMoon: 189
+7: iJevin: 25
+7: GoodTimeWithScar: 5
+7: Tango: 2
+7: Xisuma: 1
+7: GeminiTay: 1
+7: Keralis1: 1
+Total 224

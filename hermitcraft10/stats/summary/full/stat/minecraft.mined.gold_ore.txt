@@ -1,0 +1,25 @@
+minecraft.mined.gold_ore
+23: GoodTimeWithScar: 1200
+23: Etho: 294
+23: Smallishbeans: 262
+23: Grian: 228
+23: joehillssays: 227
+23: iJevin: 208
+23: VintageBeef: 141
+23: Renthedog: 128
+23: Xisuma: 125
+23: Keralis1: 120
+23: PearlescentMoon: 106
+23: cubfan135: 88
+23: falsesymmetry: 65
+23: ZombieCleo: 63
+23: Docm77: 59
+23: xBCrafted: 48
+23: hypnotizd: 48
+23: Tango: 45
+23: Mumbo: 34
+23: impulseSV: 31
+23: BdoubleO100: 22
+23: Zedaph: 20
+23: Skizzleman: 13
+Total 3575

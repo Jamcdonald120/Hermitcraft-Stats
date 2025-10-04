@@ -1,0 +1,26 @@
+minecraft.picked_up.lapis_ore
+24: joehillssays: 347
+24: Tango: 245
+24: Xisuma: 185
+24: PearlescentMoon: 138
+24: Docm77: 125
+24: ZombieCleo: 111
+24: Zedaph: 98
+24: GoodTimeWithScar: 96
+24: Keralis1: 91
+24: impulseSV: 89
+24: Renthedog: 84
+24: xBCrafted: 80
+24: VintageBeef: 67
+24: Grian: 60
+24: hypnotizd: 60
+24: Etho: 55
+24: iJevin: 41
+24: cubfan135: 33
+24: BdoubleO100: 26
+24: falsesymmetry: 15
+24: Mumbo: 8
+24: iskall85: 6
+24: Stressmonster101: 3
+24: GeminiTay: 1
+Total 2064

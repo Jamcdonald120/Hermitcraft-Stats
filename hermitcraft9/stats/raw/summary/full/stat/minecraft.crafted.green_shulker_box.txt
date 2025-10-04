@@ -1,0 +1,25 @@
+minecraft.crafted.green_shulker_box
+23: impulseSV: 128
+23: PearlescentMoon: 45
+23: Zedaph: 24
+23: GoodTimeWithScar: 23
+23: xBCrafted: 14
+23: joehillssays: 8
+23: Xisuma: 7
+23: Grian: 4
+23: iskall85: 4
+23: MythicalSausage: 3
+23: falsesymmetry: 3
+23: Etho: 3
+23: VintageBeef: 2
+23: BdoubleO100: 2
+23: cubfan135: 2
+23: ZombieCleo: 2
+23: Docm77: 1
+23: Renthedog: 1
+23: iJevin: 1
+23: Tango: 1
+23: Pixlriffs: 1
+23: RentheKing: 1
+23: Keralis1: 1
+Total 281

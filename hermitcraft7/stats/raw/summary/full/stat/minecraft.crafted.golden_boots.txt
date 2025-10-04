@@ -1,0 +1,18 @@
+minecraft.crafted.golden_boots
+16: hypnotizd: 31
+16: Xisuma: 23
+16: impulseSV: 23
+16: cubfan135: 7
+16: VintageBeef: 6
+16: Grian: 6
+16: Zedaph: 4
+16: joehillssays: 3
+16: Tango: 3
+16: ZombieCleo: 3
+16: MumboJumbo: 3
+16: Renthedog: 1
+16: iskall85: 1
+16: Welsknight: 1
+16: Etho: 1
+16: Keralis1: 1
+Total 117

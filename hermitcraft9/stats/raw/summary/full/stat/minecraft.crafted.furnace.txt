@@ -1,0 +1,37 @@
+minecraft.crafted.furnace
+35: Tango: 433
+35: impulseSV: 395
+35: xBCrafted: 328
+35: Pixlriffs: 275
+35: Docm77: 263
+35: falsesymmetry: 234
+35: iJevin: 226
+35: Xisuma: 218
+35: Mumbo: 218
+35: BdoubleO100: 216
+35: PearlescentMoon: 209
+35: Keralis1: 181
+35: joehillssays: 179
+35: Grian: 169
+35: Renthedog: 148
+35: Zedaph: 57
+35: cubfan135: 51
+35: hypnotizd: 51
+35: GeminiTay: 39
+35: Etho: 35
+35: iskall85: 28
+35: VintageBeef: 27
+35: ZombieCleo: 27
+35: RentheKing: 24
+35: Stressmonster101: 23
+35: MythicalSausage: 17
+35: GoodTimeWithScar: 17
+35: Smallishbeans: 15
+35: MumboJumbo: 9
+35: Welsknight: 4
+35: SolidarityGaming: 4
+35: fWhip: 3
+35: Tinfoilchef: 2
+35: OrionSound: 1
+35: ShubbleYT: 1
+Total 4127

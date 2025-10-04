@@ -1,0 +1,4 @@
+minecraft.dropped.quartz_bricks
+2: impulseSV: 64
+2: Etho: 1
+Total 65

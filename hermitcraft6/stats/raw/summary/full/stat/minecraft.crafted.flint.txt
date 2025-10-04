@@ -1,0 +1,3 @@
+minecraft.crafted.flint
+1: impulseSV: 10
+Total 10

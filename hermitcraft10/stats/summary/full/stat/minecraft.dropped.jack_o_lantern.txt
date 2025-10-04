@@ -1,0 +1,8 @@
+minecraft.dropped.jack_o_lantern
+6: falsesymmetry: 78
+6: Zedaph: 46
+6: Renthedog: 7
+6: Etho: 3
+6: iJevin: 1
+6: GoodTimeWithScar: 1
+Total 136

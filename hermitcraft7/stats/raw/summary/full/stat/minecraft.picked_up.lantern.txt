@@ -1,0 +1,26 @@
+minecraft.picked_up.lantern
+24: Zedaph: 2128
+24: GoodTimeWithScar: 1523
+24: Grian: 1317
+24: cubfan135: 1285
+24: Renthedog: 553
+24: Keralis1: 419
+24: Tango: 355
+24: ZombieCleo: 354
+24: joehillssays: 312
+24: Etho: 303
+24: Xisuma: 284
+24: falsesymmetry: 205
+24: Welsknight: 168
+24: VintageBeef: 145
+24: impulseSV: 140
+24: xBCrafted: 129
+24: Stressmonster101: 117
+24: iskall85: 95
+24: BdoubleO100: 79
+24: iJevin: 77
+24: hypnotizd: 64
+24: MumboJumbo: 53
+24: Docm77: 12
+24: Tinfoilchef: 3
+Total 10120

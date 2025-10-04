@@ -1,0 +1,27 @@
+minecraft.used.spruce_fence
+25: PearlescentMoon: 3900
+25: Keralis1: 2122
+25: BdoubleO100: 1910
+25: GoodTimeWithScar: 1851
+25: Grian: 1587
+25: iJevin: 1416
+25: falsesymmetry: 1120
+25: GeminiTay: 821
+25: ZombieCleo: 784
+25: VintageBeef: 757
+25: Xisuma: 594
+25: Smallishbeans: 593
+25: joehillssays: 556
+25: Welsknight: 520
+25: Tango: 396
+25: Mumbo: 290
+25: Etho: 269
+25: Renthedog: 210
+25: cubfan135: 177
+25: impulseSV: 125
+25: Docm77: 78
+25: Skizzleman: 60
+25: xBCrafted: 46
+25: hypnotizd: 4
+25: Zedaph: 1
+Total 20187

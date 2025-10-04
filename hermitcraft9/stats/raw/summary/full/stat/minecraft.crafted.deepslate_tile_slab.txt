@@ -1,0 +1,23 @@
+minecraft.crafted.deepslate_tile_slab
+21: cubfan135: 1188
+21: Renthedog: 1022
+21: Grian: 522
+21: Xisuma: 390
+21: iJevin: 244
+21: Stressmonster101: 198
+21: Tango: 190
+21: Keralis1: 106
+21: GoodTimeWithScar: 68
+21: hypnotizd: 56
+21: ZombieCleo: 44
+21: xBCrafted: 38
+21: Mumbo: 36
+21: MumboJumbo: 30
+21: Docm77: 14
+21: BdoubleO100: 10
+21: impulseSV: 10
+21: Zedaph: 10
+21: PearlescentMoon: 6
+21: Etho: 4
+21: falsesymmetry: 2
+Total 4188

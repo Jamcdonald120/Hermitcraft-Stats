@@ -1,0 +1,4 @@
+minecraft.mined.red_nether_brick_slab
+2: Tango: 10
+2: Xisuma: 3
+Total 13

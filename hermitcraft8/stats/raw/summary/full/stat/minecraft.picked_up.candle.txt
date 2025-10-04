@@ -1,0 +1,16 @@
+minecraft.picked_up.candle
+14: Tango: 239
+14: ZombieCleo: 176
+14: PearlescentMoon: 129
+14: Grian: 56
+14: joehillssays: 46
+14: Tinfoilchef: 41
+14: BdoubleO100: 36
+14: cubfan135: 30
+14: Renthedog: 27
+14: GoodTimeWithScar: 25
+14: iskall85: 12
+14: falsesymmetry: 11
+14: Keralis1: 11
+14: Etho: 1
+Total 840

@@ -1,0 +1,20 @@
+minecraft.dropped.honey_bottle
+18: Etho: 217
+18: Tango: 153
+18: PearlescentMoon: 59
+18: Skizzleman: 42
+18: joehillssays: 29
+18: cubfan135: 19
+18: Grian: 10
+18: Smallishbeans: 10
+18: iJevin: 8
+18: Renthedog: 7
+18: GeminiTay: 7
+18: Zedaph: 7
+18: BdoubleO100: 6
+18: Docm77: 5
+18: GoodTimeWithScar: 5
+18: impulseSV: 3
+18: Xisuma: 1
+18: xBCrafted: 1
+Total 589

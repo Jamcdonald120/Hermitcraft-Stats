@@ -1,0 +1,10 @@
+minecraft.dropped.detector_rail
+8: GoodTimeWithScar: 14
+8: Etho: 5
+8: Keralis1: 3
+8: iskall85: 2
+8: Zedaph: 2
+8: Xisuma: 1
+8: Grian: 1
+8: Tango: 1
+Total 29

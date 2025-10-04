@@ -1,0 +1,23 @@
+minecraft.picked_up.jungle_trapdoor
+21: Xisuma: 264
+21: falsesymmetry: 264
+21: PearlescentMoon: 239
+21: Etho: 127
+21: Keralis1: 107
+21: VintageBeef: 64
+21: GeminiTay: 49
+21: GoodTimeWithScar: 42
+21: Grian: 23
+21: ZombieCleo: 20
+21: cubfan135: 15
+21: BdoubleO100: 13
+21: Mumbo: 10
+21: Smallishbeans: 9
+21: Tango: 6
+21: Renthedog: 5
+21: Skizzleman: 5
+21: Zedaph: 3
+21: Docm77: 2
+21: iJevin: 1
+21: xBCrafted: 1
+Total 1269

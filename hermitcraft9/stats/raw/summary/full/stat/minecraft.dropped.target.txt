@@ -1,0 +1,8 @@
+minecraft.dropped.target
+6: Tango: 25
+6: GoodTimeWithScar: 8
+6: Etho: 5
+6: Zedaph: 2
+6: Xisuma: 1
+6: Keralis1: 1
+Total 42

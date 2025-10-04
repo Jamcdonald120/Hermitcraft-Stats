@@ -1,0 +1,22 @@
+minecraft.picked_up.waxed_copper_bulb
+20: impulseSV: 353
+20: GoodTimeWithScar: 273
+20: cubfan135: 182
+20: Docm77: 111
+20: Tango: 99
+20: xBCrafted: 88
+20: PearlescentMoon: 69
+20: BdoubleO100: 48
+20: Xisuma: 36
+20: Etho: 36
+20: Skizzleman: 21
+20: Renthedog: 17
+20: iJevin: 11
+20: Smallishbeans: 7
+20: Grian: 5
+20: Mumbo: 4
+20: GeminiTay: 3
+20: Keralis1: 2
+20: joehillssays: 1
+20: falsesymmetry: 1
+Total 1367

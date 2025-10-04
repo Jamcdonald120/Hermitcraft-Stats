@@ -1,0 +1,27 @@
+minecraft.dropped.gravel
+25: falsesymmetry: 12492
+25: Zedaph: 9389
+25: cubfan135: 7885
+25: iJevin: 3874
+25: xBCrafted: 3756
+25: hypnotizd: 2206
+25: Docm77: 1662
+25: Tango: 1571
+25: impulseSV: 1461
+25: Renthedog: 1334
+25: GoodTimeWithScar: 1260
+25: Etho: 1062
+25: Mumbo: 1038
+25: Keralis1: 795
+25: Grian: 557
+25: Skizzleman: 345
+25: VintageBeef: 335
+25: GeminiTay: 296
+25: joehillssays: 294
+25: PearlescentMoon: 250
+25: BdoubleO100: 217
+25: Xisuma: 192
+25: Smallishbeans: 182
+25: Welsknight: 15
+25: ZombieCleo: 15
+Total 52483

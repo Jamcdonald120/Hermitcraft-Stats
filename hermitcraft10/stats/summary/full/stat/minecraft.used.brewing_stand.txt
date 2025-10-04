@@ -1,0 +1,25 @@
+minecraft.used.brewing_stand
+23: Tango: 286
+23: hypnotizd: 113
+23: Xisuma: 109
+23: cubfan135: 62
+23: Smallishbeans: 54
+23: joehillssays: 48
+23: falsesymmetry: 48
+23: Docm77: 45
+23: iJevin: 43
+23: PearlescentMoon: 35
+23: Etho: 25
+23: BdoubleO100: 19
+23: impulseSV: 18
+23: GoodTimeWithScar: 17
+23: VintageBeef: 7
+23: Keralis1: 7
+23: Zedaph: 7
+23: xBCrafted: 5
+23: ZombieCleo: 5
+23: Renthedog: 3
+23: Grian: 2
+23: Welsknight: 2
+23: Skizzleman: 1
+Total 961

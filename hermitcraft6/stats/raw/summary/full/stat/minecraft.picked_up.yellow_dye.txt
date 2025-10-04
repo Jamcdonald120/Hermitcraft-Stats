@@ -1,0 +1,15 @@
+minecraft.picked_up.yellow_dye
+13: falsesymmetry: 441
+13: Grian: 398
+13: Renthedog: 327
+13: GoodTimeWithScar: 266
+13: Xisuma: 230
+13: MumboJumbo: 136
+13: Zedaph: 87
+13: iskall85: 82
+13: ZombieCleo: 80
+13: PythonGB: 28
+13: cubfan135: 16
+13: iJevin: 4
+13: BdoubleO100: 2
+Total 2097

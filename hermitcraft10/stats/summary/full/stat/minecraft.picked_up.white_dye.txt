@@ -1,0 +1,28 @@
+minecraft.picked_up.white_dye
+26: PearlescentMoon: 655
+26: Etho: 600
+26: falsesymmetry: 379
+26: cubfan135: 368
+26: Skizzleman: 344
+26: Xisuma: 332
+26: Grian: 327
+26: iJevin: 317
+26: Smallishbeans: 164
+26: Renthedog: 103
+26: GoodTimeWithScar: 87
+26: joehillssays: 70
+26: ZombieCleo: 69
+26: impulseSV: 67
+26: Keralis1: 44
+26: Docm77: 29
+26: BdoubleO100: 23
+26: VintageBeef: 11
+26: GeminiTay: 9
+26: Tango: 6
+26: hypnotizd: 5
+26: Eyjoy27: 3
+26: SolidarityGaming: 3
+26: Zedaph: 3
+26: OrionSound: 1
+26: HBomb94: 1
+Total 4020

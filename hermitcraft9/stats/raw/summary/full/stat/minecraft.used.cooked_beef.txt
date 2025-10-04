@@ -1,0 +1,29 @@
+minecraft.used.cooked_beef
+27: VintageBeef: 1968
+27: Xisuma: 1648
+27: BdoubleO100: 1219
+27: RentheKing: 1040
+27: ZombieCleo: 749
+27: Etho: 727
+27: Renthedog: 578
+27: cubfan135: 476
+27: Tango: 420
+27: xBCrafted: 351
+27: iJevin: 338
+27: Keralis1: 270
+27: Grian: 166
+27: falsesymmetry: 134
+27: joehillssays: 75
+27: Docm77: 63
+27: InTheLittleWood: 45
+27: PearlescentMoon: 41
+27: iskall85: 25
+27: Mumbo: 17
+27: MumboJumbo: 17
+27: Zedaph: 16
+27: GoodTimeWithScar: 14
+27: Stressmonster101: 14
+27: hypnotizd: 10
+27: Welsknight: 8
+27: impulseSV: 2
+Total 10431

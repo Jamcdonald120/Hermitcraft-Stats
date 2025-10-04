@@ -1,0 +1,16 @@
+minecraft.dropped.glistering_melon_slice
+14: PearlescentMoon: 103
+14: Xisuma: 73
+14: Tango: 69
+14: Etho: 23
+14: Zedaph: 15
+14: falsesymmetry: 10
+14: iJevin: 7
+14: Skizzleman: 6
+14: Renthedog: 5
+14: hypnotizd: 5
+14: BdoubleO100: 4
+14: ZombieCleo: 4
+14: GoodTimeWithScar: 2
+14: cubfan135: 1
+Total 327

@@ -1,0 +1,13 @@
+minecraft.dropped.stone_pressure_plate
+11: Etho: 29
+11: Zedaph: 12
+11: impulseSV: 7
+11: iJevin: 6
+11: Tango: 6
+11: Xisuma: 4
+11: Grian: 2
+11: cubfan135: 2
+11: GoodTimeWithScar: 2
+11: Renthedog: 1
+11: Keralis1: 1
+Total 72

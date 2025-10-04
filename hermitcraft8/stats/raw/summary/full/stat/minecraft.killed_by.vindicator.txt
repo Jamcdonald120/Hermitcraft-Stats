@@ -1,0 +1,3 @@
+minecraft.killed_by.vindicator
+1: iJevin: 2
+Total 2

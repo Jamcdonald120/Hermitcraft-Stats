@@ -1,0 +1,8 @@
+minecraft.picked_up.yellow_candle
+6: Tango: 160
+6: GeminiTay: 19
+6: ZombieCleo: 12
+6: Renthedog: 4
+6: Etho: 4
+6: iskall85: 1
+Total 200

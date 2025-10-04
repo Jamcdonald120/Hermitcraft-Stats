@@ -1,0 +1,10 @@
+minecraft.picked_up.brick_slab
+8: GoodTimeWithScar: 26
+8: Xisuma: 20
+8: impulseSV: 10
+8: Etho: 8
+8: Keralis1: 8
+8: joehillssays: 2
+8: BdoubleO100: 2
+8: cubfan135: 2
+Total 78

@@ -1,0 +1,6 @@
+minecraft.picked_up.enchanted_golden_apple
+4: iJevin: 3
+4: Grian: 1
+4: Welsknight: 1
+4: Zedaph: 1
+Total 6

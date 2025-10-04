@@ -1,0 +1,18 @@
+minecraft.broken.stone_axe
+16: falsesymmetry: 12
+16: impulseSV: 4
+16: VintageBeef: 3
+16: GeminiTay: 3
+16: Docm77: 2
+16: iJevin: 2
+16: BdoubleO100: 2
+16: Welsknight: 2
+16: Etho: 2
+16: Grian: 1
+16: Tango: 1
+16: PearlescentMoon: 1
+16: iskall85: 1
+16: ZombieCleo: 1
+16: Tinfoilchef: 1
+16: Stressmonster101: 1
+Total 39

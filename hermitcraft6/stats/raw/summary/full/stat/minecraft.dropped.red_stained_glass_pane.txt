@@ -1,0 +1,8 @@
+minecraft.dropped.red_stained_glass_pane
+6: Xisuma: 48
+6: Renthedog: 26
+6: MumboJumbo: 16
+6: Grian: 4
+6: Tango: 1
+6: GoodTimeWithScar: 1
+Total 96

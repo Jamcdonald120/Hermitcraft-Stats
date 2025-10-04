@@ -1,0 +1,17 @@
+minecraft.crafted.cyan_stained_glass
+15: falsesymmetry: 5384
+15: Xisuma: 5352
+15: Grian: 1920
+15: joehillssays: 1328
+15: Keralis1: 1237
+15: Etho: 768
+15: PearlescentMoon: 320
+15: Tango: 64
+15: BdoubleO100: 56
+15: Renthedog: 48
+15: cubfan135: 40
+15: impulseSV: 40
+15: Docm77: 16
+15: xBCrafted: 8
+15: Zedaph: 8
+Total 16589

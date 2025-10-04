@@ -1,0 +1,18 @@
+minecraft.crafted.oxidized_copper_grate
+16: PearlescentMoon: 176
+16: GeminiTay: 128
+16: Renthedog: 64
+16: Tango: 64
+16: Etho: 64
+16: Xisuma: 60
+16: Keralis1: 56
+16: Grian: 44
+16: cubfan135: 36
+16: hypnotizd: 24
+16: GoodTimeWithScar: 24
+16: xBCrafted: 20
+16: ZombieCleo: 16
+16: BdoubleO100: 12
+16: falsesymmetry: 12
+16: Mumbo: 4
+Total 804

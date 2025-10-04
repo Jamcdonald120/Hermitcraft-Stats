@@ -1,0 +1,13 @@
+minecraft.picked_up.pink_carpet
+11: impulseSV: 395
+11: Stressmonster101: 114
+11: Xisuma: 102
+11: VintageBeef: 24
+11: cubfan135: 21
+11: MumboJumbo: 20
+11: joehillssays: 14
+11: Keralis1: 10
+11: Docm77: 3
+11: Tango: 1
+11: BdoubleO100: 1
+Total 705

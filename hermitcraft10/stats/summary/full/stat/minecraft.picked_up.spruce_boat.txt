@@ -1,0 +1,24 @@
+minecraft.picked_up.spruce_boat
+22: GoodTimeWithScar: 120
+22: joehillssays: 80
+22: PearlescentMoon: 44
+22: iJevin: 40
+22: Docm77: 36
+22: Renthedog: 34
+22: falsesymmetry: 29
+22: Mumbo: 29
+22: hypnotizd: 29
+22: Etho: 26
+22: cubfan135: 22
+22: Keralis1: 18
+22: impulseSV: 18
+22: Xisuma: 14
+22: BdoubleO100: 9
+22: xBCrafted: 9
+22: Grian: 7
+22: Smallishbeans: 7
+22: GeminiTay: 6
+22: Skizzleman: 6
+22: ZombieCleo: 4
+22: Tango: 3
+Total 590

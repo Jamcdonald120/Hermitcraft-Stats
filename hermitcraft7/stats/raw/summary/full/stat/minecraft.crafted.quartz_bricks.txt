@@ -1,0 +1,15 @@
+minecraft.crafted.quartz_bricks
+13: impulseSV: 5756
+13: Keralis1: 1564
+13: cubfan135: 1491
+13: Grian: 1048
+13: Xisuma: 528
+13: falsesymmetry: 288
+13: Tango: 128
+13: ZombieCleo: 128
+13: BdoubleO100: 120
+13: GoodTimeWithScar: 116
+13: iskall85: 84
+13: Etho: 64
+13: Zedaph: 4
+Total 11319

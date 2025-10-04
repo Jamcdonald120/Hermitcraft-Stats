@@ -1,0 +1,10 @@
+minecraft.crafted.popped_chorus_fruit
+8: impulseSV: 1960
+8: iJevin: 292
+8: falsesymmetry: 121
+8: PearlescentMoon: 101
+8: ZombieCleo: 19
+8: VintageBeef: 15
+8: Zedaph: 14
+8: Xisuma: 8
+Total 2530

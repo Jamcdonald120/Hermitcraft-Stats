@@ -1,0 +1,23 @@
+minecraft.picked_up.mushroom_stem
+21: Zedaph: 10778
+21: Etho: 2950
+21: GoodTimeWithScar: 2145
+21: cubfan135: 1281
+21: impulseSV: 1143
+21: Grian: 812
+21: Renthedog: 703
+21: xBCrafted: 504
+21: falsesymmetry: 454
+21: BdoubleO100: 377
+21: Xisuma: 350
+21: Keralis1: 141
+21: Welsknight: 102
+21: Stressmonster101: 88
+21: Docm77: 56
+21: Tango: 39
+21: VintageBeef: 24
+21: iskall85: 11
+21: hypnotizd: 4
+21: joehillssays: 2
+21: iJevin: 1
+Total 21965

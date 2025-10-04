@@ -1,0 +1,25 @@
+minecraft.crafted.writable_book
+23: Tango: 2161
+23: joehillssays: 275
+23: cubfan135: 240
+23: impulseSV: 101
+23: Zedaph: 83
+23: Xisuma: 75
+23: Grian: 66
+23: Stressmonster101: 41
+23: falsesymmetry: 33
+23: Keralis1: 22
+23: Etho: 20
+23: BdoubleO100: 18
+23: ZombieCleo: 14
+23: MumboJumbo: 14
+23: VintageBeef: 13
+23: GoodTimeWithScar: 12
+23: Renthedog: 9
+23: Docm77: 8
+23: xBCrafted: 8
+23: iJevin: 6
+23: iskall85: 6
+23: Welsknight: 6
+23: hypnotizd: 3
+Total 3234

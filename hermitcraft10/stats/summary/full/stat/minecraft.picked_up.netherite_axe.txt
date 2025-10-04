@@ -1,0 +1,22 @@
+minecraft.picked_up.netherite_axe
+20: iJevin: 67
+20: Docm77: 65
+20: Grian: 36
+20: PearlescentMoon: 31
+20: impulseSV: 20
+20: cubfan135: 19
+20: Keralis1: 16
+20: Smallishbeans: 9
+20: BdoubleO100: 6
+20: xBCrafted: 6
+20: GoodTimeWithScar: 6
+20: joehillssays: 2
+20: GeminiTay: 2
+20: hypnotizd: 2
+20: F1RECRACKR: 1
+20: Tango: 1
+20: Skizzleman: 1
+20: Welsknight: 1
+20: ZombieCleo: 1
+20: SolidarityGaming: 1
+Total 293

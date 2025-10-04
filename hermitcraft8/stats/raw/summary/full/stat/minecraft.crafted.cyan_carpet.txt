@@ -1,0 +1,6 @@
+minecraft.crafted.cyan_carpet
+4: PearlescentMoon: 45
+4: GeminiTay: 12
+4: Grian: 12
+4: Welsknight: 3
+Total 72

@@ -1,0 +1,20 @@
+minecraft.mined.acacia_fence
+18: falsesymmetry: 79
+18: impulseSV: 45
+18: cubfan135: 40
+18: Docm77: 35
+18: Xisuma: 34
+18: Tango: 28
+18: Smallishbeans: 28
+18: Renthedog: 27
+18: Grian: 23
+18: BdoubleO100: 12
+18: Mumbo: 11
+18: xBCrafted: 6
+18: PearlescentMoon: 5
+18: GoodTimeWithScar: 4
+18: VintageBeef: 3
+18: Keralis1: 2
+18: Zedaph: 2
+18: GeminiTay: 1
+Total 385

@@ -1,0 +1,9 @@
+minecraft.picked_up.acacia_boat
+7: GoodTimeWithScar: 17
+7: Grian: 13
+7: Renthedog: 6
+7: VintageBeef: 5
+7: Tango: 4
+7: iJevin: 1
+7: Mumbo: 1
+Total 47

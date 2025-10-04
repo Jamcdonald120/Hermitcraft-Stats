@@ -1,0 +1,21 @@
+minecraft.crafted.name_tag
+19: Zedaph: 328
+19: joehillssays: 273
+19: Docm77: 216
+19: Etho: 169
+19: cubfan135: 166
+19: GoodTimeWithScar: 117
+19: Keralis1: 65
+19: Grian: 62
+19: hypnotizd: 60
+19: Renthedog: 57
+19: iJevin: 47
+19: falsesymmetry: 43
+19: impulseSV: 38
+19: Tango: 36
+19: Skizzleman: 30
+19: ZombieCleo: 15
+19: PearlescentMoon: 8
+19: Smallishbeans: 6
+19: xBCrafted: 3
+Total 1739

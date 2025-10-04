@@ -1,0 +1,23 @@
+minecraft.picked_up.nether_wart_block
+21: VintageBeef: 7917
+21: Grian: 4565
+21: Smallishbeans: 2872
+21: falsesymmetry: 1924
+21: ZombieCleo: 1922
+21: impulseSV: 1312
+21: cubfan135: 533
+21: GeminiTay: 356
+21: Keralis1: 346
+21: Xisuma: 253
+21: hypnotizd: 233
+21: Docm77: 152
+21: BdoubleO100: 102
+21: joehillssays: 99
+21: Mumbo: 89
+21: Etho: 82
+21: GoodTimeWithScar: 72
+21: Tango: 41
+21: iJevin: 24
+21: Skizzleman: 16
+21: Renthedog: 2
+Total 22912

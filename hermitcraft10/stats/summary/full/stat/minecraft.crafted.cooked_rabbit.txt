@@ -1,0 +1,3 @@
+minecraft.crafted.cooked_rabbit
+1: BdoubleO100: 10
+Total 10

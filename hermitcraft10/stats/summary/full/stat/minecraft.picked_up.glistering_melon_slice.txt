@@ -1,0 +1,20 @@
+minecraft.picked_up.glistering_melon_slice
+18: PearlescentMoon: 295
+18: Skizzleman: 202
+18: Xisuma: 71
+18: iJevin: 54
+18: Tango: 50
+18: Etho: 44
+18: cubfan135: 42
+18: GeminiTay: 24
+18: falsesymmetry: 20
+18: Renthedog: 16
+18: Zedaph: 16
+18: ZombieCleo: 9
+18: Grian: 8
+18: BdoubleO100: 5
+18: SolidarityGaming: 3
+18: impulseSV: 2
+18: joehillssays: 1
+18: GoodTimeWithScar: 1
+Total 863

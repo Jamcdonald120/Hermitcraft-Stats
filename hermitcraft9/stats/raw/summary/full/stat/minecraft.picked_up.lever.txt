@@ -1,0 +1,32 @@
+minecraft.picked_up.lever
+30: cubfan135: 657
+30: Tango: 654
+30: iJevin: 562
+30: joehillssays: 341
+30: Docm77: 330
+30: Mumbo: 313
+30: GoodTimeWithScar: 283
+30: PearlescentMoon: 243
+30: Xisuma: 207
+30: falsesymmetry: 207
+30: Zedaph: 205
+30: Keralis1: 147
+30: impulseSV: 133
+30: Grian: 81
+30: iskall85: 72
+30: ZombieCleo: 63
+30: BdoubleO100: 47
+30: Renthedog: 37
+30: hypnotizd: 35
+30: Etho: 32
+30: GeminiTay: 17
+30: VintageBeef: 15
+30: xBCrafted: 9
+30: RentheKing: 9
+30: OrionSound: 6
+30: MythicalSausage: 5
+30: Welsknight: 5
+30: Stressmonster101: 3
+30: Pixlriffs: 1
+30: fWhip: 1
+Total 4720

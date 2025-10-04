@@ -1,0 +1,28 @@
+minecraft.used.item_frame
+26: GoodTimeWithScar: 1042
+26: Tango: 1032
+26: Keralis1: 886
+26: cubfan135: 754
+26: VintageBeef: 699
+26: falsesymmetry: 681
+26: Grian: 553
+26: Welsknight: 545
+26: impulseSV: 529
+26: MumboJumbo: 487
+26: Xisuma: 484
+26: BdoubleO100: 399
+26: Zedaph: 392
+26: xBCrafted: 370
+26: iskall85: 364
+26: Etho: 268
+26: ZombieCleo: 257
+26: joehillssays: 228
+26: Renthedog: 216
+26: hypnotizd: 215
+26: iJevin: 156
+26: Stressmonster101: 83
+26: Docm77: 14
+26: Tinfoilchef: 12
+26: BarryBoss1234: 7
+26: Helsknight: 1
+Total 10674

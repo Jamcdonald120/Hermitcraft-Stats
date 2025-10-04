@@ -1,0 +1,27 @@
+minecraft.used.oak_planks
+25: impulseSV: 11560
+25: PearlescentMoon: 8422
+25: Grian: 5942
+25: MumboJumbo: 5344
+25: iJevin: 965
+25: GeminiTay: 868
+25: Xisuma: 799
+25: Keralis1: 784
+25: ZombieCleo: 632
+25: xBCrafted: 574
+25: Welsknight: 520
+25: Renthedog: 425
+25: Tango: 293
+25: hypnotizd: 201
+25: joehillssays: 181
+25: iskall85: 163
+25: falsesymmetry: 134
+25: GoodTimeWithScar: 119
+25: BdoubleO100: 105
+25: Etho: 87
+25: Zedaph: 53
+25: Tinfoilchef: 46
+25: Docm77: 43
+25: Stressmonster101: 22
+25: cubfan135: 9
+Total 38291

@@ -1,0 +1,28 @@
+minecraft.crafted.mangrove_planks
+26: impulseSV: 3952
+26: cubfan135: 2920
+26: GoodTimeWithScar: 2860
+26: Renthedog: 2692
+26: PearlescentMoon: 2516
+26: Xisuma: 2116
+26: Etho: 2056
+26: Grian: 2020
+26: Docm77: 1500
+26: joehillssays: 1492
+26: iJevin: 1484
+26: RentheKing: 1104
+26: ZombieCleo: 996
+26: MythicalSausage: 788
+26: Keralis1: 716
+26: Tango: 620
+26: BdoubleO100: 376
+26: falsesymmetry: 264
+26: Zedaph: 204
+26: Pixlriffs: 184
+26: OrionSound: 116
+26: ShubbleYT: 112
+26: Stressmonster101: 108
+26: fWhip: 80
+26: xBCrafted: 20
+26: VintageBeef: 8
+Total 31304

@@ -1,0 +1,23 @@
+minecraft.dropped.bowl
+21: impulseSV: 44
+21: GeminiTay: 41
+21: ZombieCleo: 25
+21: Grian: 21
+21: GoodTimeWithScar: 20
+21: PearlescentMoon: 17
+21: iJevin: 14
+21: cubfan135: 14
+21: BdoubleO100: 11
+21: Renthedog: 8
+21: RentheKing: 7
+21: Xisuma: 4
+21: iskall85: 4
+21: hypnotizd: 4
+21: falsesymmetry: 3
+21: Tango: 2
+21: Etho: 2
+21: Keralis1: 2
+21: Docm77: 1
+21: VintageBeef: 1
+21: Zedaph: 1
+Total 246

@@ -1,0 +1,23 @@
+minecraft.picked_up.brewing_stand
+21: Zedaph: 152
+21: iJevin: 106
+21: impulseSV: 73
+21: GoodTimeWithScar: 62
+21: cubfan135: 60
+21: Tango: 52
+21: Etho: 41
+21: Grian: 40
+21: hypnotizd: 39
+21: BdoubleO100: 33
+21: Keralis1: 23
+21: Xisuma: 21
+21: iskall85: 21
+21: falsesymmetry: 18
+21: VintageBeef: 9
+21: Renthedog: 7
+21: xBCrafted: 6
+21: MumboJumbo: 5
+21: joehillssays: 4
+21: Stressmonster101: 4
+21: Docm77: 1
+Total 777

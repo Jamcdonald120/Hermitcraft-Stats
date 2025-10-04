@@ -1,0 +1,10 @@
+minecraft.crafted.magenta_terracotta
+8: Etho: 768
+8: Grian: 464
+8: GeminiTay: 256
+8: hypnotizd: 64
+8: falsesymmetry: 48
+8: Zedaph: 12
+8: Xisuma: 9
+8: Welsknight: 8
+Total 1629

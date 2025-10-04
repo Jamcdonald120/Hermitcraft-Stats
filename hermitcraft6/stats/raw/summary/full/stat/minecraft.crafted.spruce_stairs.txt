@@ -1,0 +1,27 @@
+minecraft.crafted.spruce_stairs
+25: Renthedog: 5744
+25: GoodTimeWithScar: 5736
+25: Grian: 2136
+25: falsesymmetry: 2024
+25: Welsknight: 1736
+25: cubfan135: 1488
+25: Keralis1: 1432
+25: impulseSV: 1176
+25: iJevin: 1064
+25: Xisuma: 1032
+25: BdoubleO100: 864
+25: ZombieCleo: 744
+25: iskall85: 728
+25: Tango: 656
+25: PythonGB: 552
+25: Stressmonster101: 528
+25: HumanCleo: 272
+25: Biffa2001: 272
+25: Docm77: 232
+25: joehillssays: 176
+25: xBCrafted: 88
+25: MumboJumbo: 80
+25: Tinfoilchef: 32
+25: Jessassin: 24
+25: BadTimeWithScar: 24
+Total 28840

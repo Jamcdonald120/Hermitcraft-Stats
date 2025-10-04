@@ -1,0 +1,21 @@
+minecraft.picked_up.dark_oak_fence
+19: falsesymmetry: 534
+19: joehillssays: 391
+19: GoodTimeWithScar: 97
+19: ZombieCleo: 75
+19: Grian: 69
+19: PearlescentMoon: 64
+19: GeminiTay: 49
+19: Renthedog: 23
+19: Docm77: 22
+19: BdoubleO100: 22
+19: xBCrafted: 21
+19: impulseSV: 20
+19: Tango: 18
+19: Xisuma: 17
+19: cubfan135: 15
+19: Stressmonster101: 10
+19: Keralis1: 6
+19: hypnotizd: 5
+19: Etho: 1
+Total 1459

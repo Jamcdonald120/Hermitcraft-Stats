@@ -1,0 +1,4 @@
+minecraft.dropped.target
+2: Etho: 6
+2: Zedaph: 3
+Total 9

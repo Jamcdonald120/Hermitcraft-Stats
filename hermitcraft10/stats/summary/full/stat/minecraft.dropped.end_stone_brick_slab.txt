@@ -1,0 +1,4 @@
+minecraft.dropped.end_stone_brick_slab
+2: iJevin: 3
+2: Xisuma: 1
+Total 4

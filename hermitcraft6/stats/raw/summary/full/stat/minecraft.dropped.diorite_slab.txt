@@ -1,0 +1,5 @@
+minecraft.dropped.diorite_slab
+3: Renthedog: 18
+3: Grian: 6
+3: iskall85: 2
+Total 26

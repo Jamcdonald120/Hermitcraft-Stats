@@ -1,0 +1,8 @@
+minecraft.crafted.blue_banner
+6: Tango: 56
+6: falsesymmetry: 12
+6: Keralis1: 12
+6: PearlescentMoon: 10
+6: Xisuma: 4
+6: Zedaph: 1
+Total 95

@@ -1,0 +1,30 @@
+minecraft.dropped.crafting_table
+28: iJevin: 145
+28: GoodTimeWithScar: 144
+28: falsesymmetry: 96
+28: Docm77: 75
+28: Grian: 59
+28: Renthedog: 57
+28: hypnotizd: 56
+28: BdoubleO100: 51
+28: Etho: 50
+28: Tango: 36
+28: cubfan135: 22
+28: xBCrafted: 20
+28: Keralis1: 11
+28: impulseSV: 8
+28: GeminiTay: 7
+28: Stressmonster101: 7
+28: Xisuma: 6
+28: Zedaph: 6
+28: iskall85: 4
+28: RentheKing: 4
+28: Pixlriffs: 3
+28: ZombieCleo: 3
+28: VintageBeef: 1
+28: STEAKFG: 1
+28: joehillssays: 1
+28: Smallishbeans: 1
+28: PearlescentMoon: 1
+28: Mumbo: 1
+Total 876

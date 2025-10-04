@@ -1,0 +1,11 @@
+minecraft.dropped.polished_tuff_stairs
+9: Tango: 60
+9: GoodTimeWithScar: 58
+9: Xisuma: 13
+9: Zedaph: 10
+9: Etho: 8
+9: impulseSV: 8
+9: BdoubleO100: 4
+9: Keralis1: 2
+9: Mumbo: 1
+Total 164

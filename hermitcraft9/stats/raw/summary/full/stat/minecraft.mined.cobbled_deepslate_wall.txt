@@ -1,0 +1,17 @@
+minecraft.mined.cobbled_deepslate_wall
+15: impulseSV: 97
+15: Tango: 88
+15: iJevin: 34
+15: Xisuma: 21
+15: xBCrafted: 20
+15: cubfan135: 18
+15: Renthedog: 16
+15: Grian: 15
+15: Docm77: 11
+15: BdoubleO100: 9
+15: joehillssays: 3
+15: GeminiTay: 2
+15: PearlescentMoon: 2
+15: RentheKing: 2
+15: GoodTimeWithScar: 2
+Total 340

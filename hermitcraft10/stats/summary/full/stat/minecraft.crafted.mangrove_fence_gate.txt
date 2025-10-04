@@ -1,0 +1,17 @@
+minecraft.crafted.mangrove_fence_gate
+15: Smallishbeans: 304
+15: GoodTimeWithScar: 127
+15: Mumbo: 32
+15: cubfan135: 28
+15: Grian: 15
+15: falsesymmetry: 10
+15: impulseSV: 8
+15: BdoubleO100: 5
+15: VintageBeef: 4
+15: GeminiTay: 4
+15: iJevin: 3
+15: Etho: 2
+15: Xisuma: 1
+15: hypnotizd: 1
+15: Keralis1: 1
+Total 545

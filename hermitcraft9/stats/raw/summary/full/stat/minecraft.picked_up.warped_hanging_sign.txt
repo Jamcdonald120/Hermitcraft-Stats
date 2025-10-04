@@ -1,0 +1,9 @@
+minecraft.picked_up.warped_hanging_sign
+7: Tango: 20
+7: falsesymmetry: 3
+7: GoodTimeWithScar: 2
+7: Docm77: 1
+7: GeminiTay: 1
+7: Grian: 1
+7: PearlescentMoon: 1
+Total 29

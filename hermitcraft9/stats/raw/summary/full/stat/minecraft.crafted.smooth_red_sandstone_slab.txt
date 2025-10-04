@@ -1,0 +1,9 @@
+minecraft.crafted.smooth_red_sandstone_slab
+7: Keralis1: 306
+7: PearlescentMoon: 130
+7: impulseSV: 28
+7: GoodTimeWithScar: 14
+7: iJevin: 6
+7: Xisuma: 2
+7: Zedaph: 2
+Total 488

@@ -1,0 +1,17 @@
+minecraft.dropped.light_gray_stained_glass_pane
+15: falsesymmetry: 141
+15: PearlescentMoon: 48
+15: Docm77: 37
+15: GoodTimeWithScar: 33
+15: Etho: 17
+15: cubfan135: 7
+15: hypnotizd: 5
+15: Keralis1: 5
+15: Grian: 4
+15: iskall85: 4
+15: Tango: 2
+15: ZombieCleo: 2
+15: iJevin: 1
+15: GeminiTay: 1
+15: Mumbo: 1
+Total 308

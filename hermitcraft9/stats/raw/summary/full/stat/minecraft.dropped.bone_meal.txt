@@ -1,0 +1,30 @@
+minecraft.dropped.bone_meal
+28: Zedaph: 11954
+28: Tango: 4554
+28: Etho: 2464
+28: Keralis1: 2431
+28: Renthedog: 1145
+28: hypnotizd: 1119
+28: Grian: 759
+28: RentheKing: 537
+28: falsesymmetry: 515
+28: Xisuma: 450
+28: iJevin: 441
+28: Docm77: 265
+28: GeminiTay: 219
+28: impulseSV: 187
+28: BdoubleO100: 147
+28: ZombieCleo: 132
+28: cubfan135: 131
+28: iskall85: 126
+28: xBCrafted: 122
+28: GoodTimeWithScar: 115
+28: PearlescentMoon: 102
+28: joehillssays: 66
+28: Stressmonster101: 26
+28: MythicalSausage: 19
+28: VintageBeef: 9
+28: Mumbo: 4
+28: MumboJumbo: 2
+28: Pixlriffs: 1
+Total 28042

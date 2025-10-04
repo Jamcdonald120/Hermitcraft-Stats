@@ -1,0 +1,21 @@
+minecraft.crafted.leather_leggings
+19: ZombieCleo: 870
+19: Xisuma: 107
+19: Etho: 73
+19: cubfan135: 69
+19: iskall85: 58
+19: Keralis1: 51
+19: GoodTimeWithScar: 47
+19: falsesymmetry: 32
+19: Tango: 26
+19: VintageBeef: 25
+19: hypnotizd: 24
+19: joehillssays: 22
+19: xBCrafted: 15
+19: BdoubleO100: 4
+19: Stressmonster101: 2
+19: impulseSV: 2
+19: Renthedog: 1
+19: iJevin: 1
+19: Zedaph: 1
+Total 1430

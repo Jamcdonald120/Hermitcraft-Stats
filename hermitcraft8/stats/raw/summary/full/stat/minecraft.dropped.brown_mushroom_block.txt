@@ -1,0 +1,8 @@
+minecraft.dropped.brown_mushroom_block
+6: Etho: 128
+6: PearlescentMoon: 28
+6: joehillssays: 16
+6: ZombieCleo: 12
+6: iJevin: 7
+6: Docm77: 1
+Total 192

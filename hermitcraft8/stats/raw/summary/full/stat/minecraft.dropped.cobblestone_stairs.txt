@@ -1,0 +1,11 @@
+minecraft.dropped.cobblestone_stairs
+9: Tango: 32
+9: Zedaph: 32
+9: GoodTimeWithScar: 17
+9: xBCrafted: 16
+9: falsesymmetry: 12
+9: iJevin: 8
+9: Grian: 6
+9: BdoubleO100: 4
+9: Xisuma: 3
+Total 130

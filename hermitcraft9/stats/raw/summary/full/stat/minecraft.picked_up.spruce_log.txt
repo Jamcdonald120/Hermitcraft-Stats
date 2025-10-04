@@ -1,0 +1,35 @@
+minecraft.picked_up.spruce_log
+33: Tango: 50137
+33: Keralis1: 33960
+33: PearlescentMoon: 32911
+33: hypnotizd: 22904
+33: Renthedog: 13891
+33: ZombieCleo: 12726
+33: GeminiTay: 12684
+33: iJevin: 12379
+33: falsesymmetry: 10325
+33: Etho: 10058
+33: xBCrafted: 9174
+33: Grian: 8649
+33: BdoubleO100: 5175
+33: Stressmonster101: 4628
+33: cubfan135: 4459
+33: GoodTimeWithScar: 4288
+33: impulseSV: 4085
+33: Docm77: 1767
+33: VintageBeef: 1755
+33: Xisuma: 1451
+33: Pixlriffs: 1408
+33: iskall85: 1394
+33: Zedaph: 1185
+33: Smallishbeans: 1020
+33: Welsknight: 941
+33: MythicalSausage: 899
+33: RentheKing: 654
+33: joehillssays: 426
+33: OrionSound: 367
+33: SolidarityGaming: 60
+33: ShubbleYT: 29
+33: HBomb94: 7
+33: fWhip: 1
+Total 265797

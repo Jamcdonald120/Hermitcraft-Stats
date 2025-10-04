@@ -1,0 +1,20 @@
+minecraft.picked_up.sponge
+18: xBCrafted: 8988
+18: impulseSV: 1315
+18: GoodTimeWithScar: 640
+18: Grian: 374
+18: Docm77: 362
+18: Etho: 287
+18: Tango: 211
+18: hypnotizd: 155
+18: Skizzleman: 128
+18: iJevin: 116
+18: falsesymmetry: 80
+18: PearlescentMoon: 77
+18: VintageBeef: 40
+18: cubfan135: 34
+18: BdoubleO100: 7
+18: Dot_Dot_Dash: 3
+18: ZombieCleo: 2
+18: Zedaph: 1
+Total 12820

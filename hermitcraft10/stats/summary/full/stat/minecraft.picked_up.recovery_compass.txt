@@ -1,0 +1,5 @@
+minecraft.picked_up.recovery_compass
+3: GoodTimeWithScar: 8
+3: iJevin: 5
+3: ZombieCleo: 5
+Total 18

@@ -1,0 +1,26 @@
+minecraft.picked_up.golden_boots
+24: hypnotizd: 53
+24: Grian: 51
+24: cubfan135: 42
+24: joehillssays: 34
+24: Xisuma: 31
+24: iskall85: 31
+24: VintageBeef: 28
+24: Stressmonster101: 28
+24: GoodTimeWithScar: 27
+24: impulseSV: 19
+24: Renthedog: 16
+24: Etho: 15
+24: Zedaph: 15
+24: xBCrafted: 14
+24: Tango: 13
+24: falsesymmetry: 13
+24: iJevin: 11
+24: Keralis1: 11
+24: MumboJumbo: 10
+24: BdoubleO100: 6
+24: Welsknight: 5
+24: Docm77: 2
+24: ZombieCleo: 2
+24: HermitcraftAlt: 2
+Total 479

@@ -1,0 +1,32 @@
+minecraft.custom.deaths
+30: GoodTimeWithScar: 209
+30: Renthedog: 88
+30: impulseSV: 86
+30: Keralis1: 83
+30: Docm77: 75
+30: Grian: 73
+30: iJevin: 70
+30: PearlescentMoon: 60
+30: joehillssays: 58
+30: Tango: 49
+30: ZombieCleo: 44
+30: BdoubleO100: 32
+30: iskall85: 32
+30: cubfan135: 25
+30: Xisuma: 24
+30: Zedaph: 24
+30: Etho: 23
+30: MumboJumbo: 22
+30: xBCrafted: 21
+30: EvilXisuma: 20
+30: GeminiTay: 18
+30: falsesymmetry: 12
+30: Welsknight: 12
+30: hypnotizd: 12
+30: Tinfoilchef: 4
+30: pillbugnine: 3
+30: truesymmetry: 1
+30: ImpulseCam: 1
+30: Mumbo: 1
+30: Stressmonster101: 1
+Total 1183

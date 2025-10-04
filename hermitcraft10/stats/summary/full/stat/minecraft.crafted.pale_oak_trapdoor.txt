@@ -1,0 +1,23 @@
+minecraft.crafted.pale_oak_trapdoor
+21: impulseSV: 764
+21: Docm77: 620
+21: Keralis1: 516
+21: Mumbo: 444
+21: cubfan135: 310
+21: Smallishbeans: 274
+21: GoodTimeWithScar: 228
+21: joehillssays: 160
+21: Tango: 148
+21: falsesymmetry: 118
+21: BdoubleO100: 98
+21: Xisuma: 94
+21: Skizzleman: 76
+21: ZombieCleo: 46
+21: GeminiTay: 26
+21: Grian: 20
+21: PearlescentMoon: 20
+21: Renthedog: 16
+21: iJevin: 4
+21: xBCrafted: 4
+21: Etho: 2
+Total 3988

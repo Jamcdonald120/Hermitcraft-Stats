@@ -1,0 +1,5 @@
+minecraft.dropped.nether_brick
+3: Xisuma: 23
+3: Renthedog: 21
+3: Zedaph: 3
+Total 47

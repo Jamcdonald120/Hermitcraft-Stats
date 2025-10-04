@@ -1,0 +1,28 @@
+minecraft.mined.white_wool
+26: VintageBeef: 2546
+26: PearlescentMoon: 609
+26: ZombieCleo: 590
+26: BdoubleO100: 520
+26: Tango: 475
+26: iJevin: 439
+26: impulseSV: 369
+26: Grian: 292
+26: cubfan135: 192
+26: Keralis1: 183
+26: Docm77: 157
+26: falsesymmetry: 87
+26: Renthedog: 76
+26: joehillssays: 64
+26: Etho: 49
+26: GeminiTay: 42
+26: Zedaph: 40
+26: Xisuma: 24
+26: xBCrafted: 15
+26: hypnotizd: 12
+26: GoodTimeWithScar: 8
+26: MythicalSausage: 5
+26: RentheKing: 4
+26: Pixlriffs: 2
+26: Mumbo: 1
+26: MumboJumbo: 1
+Total 6802

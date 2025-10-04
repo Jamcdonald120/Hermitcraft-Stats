@@ -1,0 +1,25 @@
+minecraft.crafted.powered_rail
+23: Xisuma: 2460
+23: Etho: 2298
+23: iskall85: 2166
+23: Tango: 1876
+23: Grian: 1872
+23: Keralis1: 1266
+23: MumboJumbo: 1218
+23: Stressmonster101: 1158
+23: Renthedog: 1008
+23: impulseSV: 888
+23: GoodTimeWithScar: 822
+23: hypnotizd: 654
+23: VintageBeef: 630
+23: cubfan135: 508
+23: iJevin: 306
+23: falsesymmetry: 198
+23: Tinfoilchef: 108
+23: Zedaph: 108
+23: Welsknight: 60
+23: Docm77: 48
+23: joehillssays: 42
+23: BdoubleO100: 42
+23: xBCrafted: 6
+Total 19742

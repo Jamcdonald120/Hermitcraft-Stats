@@ -1,0 +1,13 @@
+minecraft.picked_up.red_carpet
+11: falsesymmetry: 115
+11: PearlescentMoon: 58
+11: Tango: 27
+11: xBCrafted: 20
+11: Xisuma: 4
+11: Renthedog: 4
+11: BdoubleO100: 4
+11: ZombieCleo: 3
+11: impulseSV: 2
+11: GeminiTay: 1
+11: Keralis1: 1
+Total 239

@@ -1,0 +1,13 @@
+minecraft.dropped.red_stained_glass
+11: impulseSV: 192
+11: PythonGB: 95
+11: Xisuma: 41
+11: GoodTimeWithScar: 11
+11: cubfan135: 10
+11: Renthedog: 7
+11: Grian: 4
+11: iJevin: 3
+11: Tango: 3
+11: falsesymmetry: 2
+11: MumboJumbo: 2
+Total 370

@@ -1,0 +1,30 @@
+minecraft.used.deepslate_tiles
+28: Tango: 9127
+28: impulseSV: 9059
+28: RentheKing: 6763
+28: Renthedog: 6651
+28: hypnotizd: 6247
+28: Mumbo: 5974
+28: cubfan135: 5347
+28: ZombieCleo: 4458
+28: Stressmonster101: 3202
+28: Xisuma: 2980
+28: Zedaph: 2711
+28: joehillssays: 1900
+28: PearlescentMoon: 1370
+28: Docm77: 1029
+28: GeminiTay: 904
+28: Grian: 883
+28: iJevin: 645
+28: Keralis1: 369
+28: GoodTimeWithScar: 324
+28: falsesymmetry: 242
+28: Pixlriffs: 210
+28: xBCrafted: 206
+28: iskall85: 177
+28: MythicalSausage: 153
+28: BdoubleO100: 102
+28: Etho: 6
+28: MumboJumbo: 6
+28: VintageBeef: 2
+Total 71047

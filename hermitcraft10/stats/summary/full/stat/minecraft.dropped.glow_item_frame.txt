@@ -1,0 +1,16 @@
+minecraft.dropped.glow_item_frame
+14: Etho: 81
+14: Grian: 19
+14: falsesymmetry: 5
+14: Renthedog: 4
+14: Tango: 4
+14: cubfan135: 3
+14: BdoubleO100: 2
+14: iJevin: 1
+14: joehillssays: 1
+14: Skizzleman: 1
+14: Smallishbeans: 1
+14: xBCrafted: 1
+14: GoodTimeWithScar: 1
+14: SolidarityGaming: 1
+Total 125

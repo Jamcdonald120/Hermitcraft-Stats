@@ -1,0 +1,23 @@
+minecraft.dropped.cooked_beef
+21: Renthedog: 512
+21: falsesymmetry: 423
+21: Tango: 362
+21: GoodTimeWithScar: 140
+21: impulseSV: 121
+21: Grian: 112
+21: iskall85: 107
+21: Keralis1: 69
+21: Zedaph: 65
+21: PythonGB: 41
+21: iJevin: 24
+21: cubfan135: 23
+21: Stressmonster101: 22
+21: ZombieCleo: 13
+21: BadTimeWithScar: 13
+21: EvilXisuma: 4
+21: Xisuma: 4
+21: BdoubleO100: 3
+21: Welsknight: 2
+21: Biffa2001: 2
+21: joehillssays: 1
+Total 2063

@@ -1,0 +1,24 @@
+minecraft.picked_up.spruce_door
+22: iJevin: 41
+22: PearlescentMoon: 27
+22: Keralis1: 23
+22: BdoubleO100: 22
+22: xBCrafted: 22
+22: Grian: 20
+22: joehillssays: 14
+22: Etho: 13
+22: VintageBeef: 12
+22: Smallishbeans: 7
+22: ZombieCleo: 6
+22: falsesymmetry: 5
+22: Renthedog: 4
+22: Tango: 4
+22: Welsknight: 4
+22: Docm77: 3
+22: Xisuma: 3
+22: Skizzleman: 2
+22: Mumbo: 2
+22: impulseSV: 2
+22: cubfan135: 1
+22: GoodTimeWithScar: 1
+Total 238

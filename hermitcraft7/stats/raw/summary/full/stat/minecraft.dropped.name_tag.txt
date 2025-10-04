@@ -1,0 +1,24 @@
+minecraft.dropped.name_tag
+22: Etho: 125
+22: BdoubleO100: 92
+22: Renthedog: 68
+22: GoodTimeWithScar: 65
+22: cubfan135: 53
+22: Zedaph: 46
+22: iskall85: 37
+22: Grian: 25
+22: Keralis1: 24
+22: Tango: 20
+22: xisumavoid: 12
+22: hypnotizd: 12
+22: impulseSV: 12
+22: Xisuma: 10
+22: Docm77: 7
+22: falsesymmetry: 4
+22: isGall85: 1
+22: VintageBeef: 1
+22: iJevin: 1
+22: ZombieCleo: 1
+22: MumboJumbo: 1
+22: Stressmonster101: 1
+Total 618

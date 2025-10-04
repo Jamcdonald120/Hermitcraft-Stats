@@ -1,0 +1,21 @@
+minecraft.picked_up.end_stone_bricks
+19: Zedaph: 1338
+19: impulseSV: 1225
+19: iskall85: 1131
+19: cubfan135: 927
+19: Renthedog: 727
+19: Xisuma: 438
+19: MumboJumbo: 255
+19: ZombieCleo: 227
+19: PythonGB: 185
+19: Tango: 181
+19: joehillssays: 164
+19: falsesymmetry: 145
+19: Grian: 142
+19: GoodTimeWithScar: 87
+19: iJevin: 71
+19: HumanCleo: 52
+19: Docm77: 20
+19: Welsknight: 6
+19: Tinfoilchef: 3
+Total 7324

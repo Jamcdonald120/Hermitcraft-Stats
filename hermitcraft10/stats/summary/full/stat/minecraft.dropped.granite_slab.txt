@@ -1,0 +1,5 @@
+minecraft.dropped.granite_slab
+3: Renthedog: 118
+3: falsesymmetry: 16
+3: iJevin: 8
+Total 142

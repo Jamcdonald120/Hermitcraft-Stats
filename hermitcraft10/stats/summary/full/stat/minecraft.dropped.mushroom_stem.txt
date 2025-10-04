@@ -1,0 +1,10 @@
+minecraft.dropped.mushroom_stem
+8: impulseSV: 208
+8: BdoubleO100: 67
+8: falsesymmetry: 64
+8: Grian: 29
+8: Tango: 14
+8: Xisuma: 5
+8: cubfan135: 2
+8: Etho: 1
+Total 390

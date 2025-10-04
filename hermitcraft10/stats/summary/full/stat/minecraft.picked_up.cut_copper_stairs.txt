@@ -1,0 +1,10 @@
+minecraft.picked_up.cut_copper_stairs
+8: Tango: 197
+8: Renthedog: 74
+8: Grian: 54
+8: falsesymmetry: 32
+8: cubfan135: 9
+8: VintageBeef: 6
+8: Keralis1: 2
+8: hypnotizd: 1
+Total 375

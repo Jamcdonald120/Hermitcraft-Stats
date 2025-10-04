@@ -1,0 +1,12 @@
+minecraft.dropped.sea_lantern
+10: Zedaph: 57
+10: PearlescentMoon: 11
+10: Grian: 8
+10: Renthedog: 3
+10: Docm77: 2
+10: Skizzleman: 2
+10: xBCrafted: 2
+10: Etho: 1
+10: Keralis1: 1
+10: impulseSV: 1
+Total 88

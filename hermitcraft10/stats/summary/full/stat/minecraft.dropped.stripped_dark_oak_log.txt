@@ -1,0 +1,13 @@
+minecraft.dropped.stripped_dark_oak_log
+11: iJevin: 120
+11: Etho: 56
+11: falsesymmetry: 29
+11: Docm77: 8
+11: Grian: 2
+11: PearlescentMoon: 2
+11: Renthedog: 1
+11: Skizzleman: 1
+11: BdoubleO100: 1
+11: ZombieCleo: 1
+11: Zedaph: 1
+Total 222

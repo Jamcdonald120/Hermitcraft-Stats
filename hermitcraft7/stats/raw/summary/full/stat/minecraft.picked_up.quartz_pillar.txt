@@ -1,0 +1,22 @@
+minecraft.picked_up.quartz_pillar
+20: Keralis1: 1306
+20: Grian: 1036
+20: impulseSV: 931
+20: cubfan135: 552
+20: GoodTimeWithScar: 273
+20: Tango: 189
+20: VintageBeef: 185
+20: BdoubleO100: 140
+20: ZombieCleo: 123
+20: Xisuma: 101
+20: Etho: 96
+20: joehillssays: 87
+20: Zedaph: 67
+20: iskall85: 46
+20: xBCrafted: 44
+20: Stressmonster101: 14
+20: MumboJumbo: 12
+20: iJevin: 6
+20: falsesymmetry: 5
+20: Docm77: 3
+Total 5216

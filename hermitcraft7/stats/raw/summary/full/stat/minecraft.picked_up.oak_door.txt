@@ -1,0 +1,23 @@
+minecraft.picked_up.oak_door
+21: Renthedog: 112
+21: joehillssays: 74
+21: iskall85: 66
+21: GoodTimeWithScar: 57
+21: falsesymmetry: 52
+21: Grian: 48
+21: Tango: 39
+21: Keralis1: 23
+21: impulseSV: 21
+21: xBCrafted: 18
+21: hypnotizd: 12
+21: Stressmonster101: 11
+21: cubfan135: 10
+21: iJevin: 7
+21: BdoubleO100: 6
+21: Etho: 6
+21: Tinfoilchef: 6
+21: VintageBeef: 5
+21: Welsknight: 5
+21: Xisuma: 2
+21: ZombieCleo: 2
+Total 582

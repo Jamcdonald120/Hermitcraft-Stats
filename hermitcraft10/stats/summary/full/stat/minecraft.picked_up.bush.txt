@@ -1,0 +1,12 @@
+minecraft.picked_up.bush
+10: GoodTimeWithScar: 675
+10: Renthedog: 285
+10: ZombieCleo: 151
+10: cubfan135: 144
+10: iJevin: 143
+10: PearlescentMoon: 119
+10: BdoubleO100: 79
+10: Xisuma: 38
+10: falsesymmetry: 31
+10: xBCrafted: 20
+Total 1685

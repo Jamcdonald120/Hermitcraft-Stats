@@ -1,0 +1,3 @@
+minecraft.dropped.lingering_potion
+1: cubfan135: 6
+Total 6

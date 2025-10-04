@@ -1,0 +1,18 @@
+minecraft.dropped.totem_of_undying
+16: impulseSV: 38
+16: Keralis1: 26
+16: cubfan135: 8
+16: Xisuma: 7
+16: xBCrafted: 7
+16: Etho: 6
+16: Tango: 4
+16: GoodTimeWithScar: 4
+16: Renthedog: 3
+16: Grian: 2
+16: joehillssays: 1
+16: BdoubleO100: 1
+16: iskall85: 1
+16: falsesymmetry: 1
+16: BarryBoss1234: 1
+16: ZombieCleo: 1
+Total 111

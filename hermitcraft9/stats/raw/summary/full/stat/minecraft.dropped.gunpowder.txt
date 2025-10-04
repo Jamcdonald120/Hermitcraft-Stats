@@ -1,0 +1,34 @@
+minecraft.dropped.gunpowder
+32: Xisuma: 21569
+32: Keralis1: 16914
+32: falsesymmetry: 5214
+32: iJevin: 4432
+32: Tango: 1272
+32: Docm77: 1065
+32: hypnotizd: 1031
+32: Grian: 439
+32: impulseSV: 428
+32: GoodTimeWithScar: 180
+32: cubfan135: 175
+32: PearlescentMoon: 160
+32: xBCrafted: 160
+32: Renthedog: 158
+32: Zedaph: 122
+32: RentheKing: 76
+32: iskall85: 66
+32: joehillssays: 55
+32: VintageBeef: 33
+32: Etho: 24
+32: BdoubleO100: 22
+32: GeminiTay: 10
+32: Mumbo: 6
+32: MumboJumbo: 6
+32: Pixlriffs: 5
+32: OrionSound: 3
+32: fWhip: 3
+32: Stressmonster101: 3
+32: HBomb94: 2
+32: Smajor1995: 1
+32: Watcher_Grian: 1
+32: ZombieCleo: 1
+Total 53636

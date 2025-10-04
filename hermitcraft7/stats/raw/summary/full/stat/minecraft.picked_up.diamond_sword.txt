@@ -1,0 +1,27 @@
+minecraft.picked_up.diamond_sword
+25: GoodTimeWithScar: 132
+25: Keralis1: 106
+25: Grian: 103
+25: iJevin: 89
+25: Zedaph: 76
+25: VintageBeef: 62
+25: Renthedog: 61
+25: Tango: 60
+25: falsesymmetry: 52
+25: Etho: 39
+25: iskall85: 34
+25: impulseSV: 32
+25: hypnotizd: 30
+25: cubfan135: 27
+25: ZombieCleo: 22
+25: BdoubleO100: 20
+25: MumboJumbo: 18
+25: Xisuma: 14
+25: Stressmonster101: 13
+25: Docm77: 12
+25: joehillssays: 9
+25: Tinfoilchef: 9
+25: xBCrafted: 6
+25: Welsknight: 4
+25: BarryBoss1234: 2
+Total 1032

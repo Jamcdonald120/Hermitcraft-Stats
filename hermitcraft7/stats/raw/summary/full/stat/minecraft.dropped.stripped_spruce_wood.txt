@@ -1,0 +1,5 @@
+minecraft.dropped.stripped_spruce_wood
+3: GoodTimeWithScar: 13
+3: Keralis1: 3
+3: Grian: 2
+Total 18

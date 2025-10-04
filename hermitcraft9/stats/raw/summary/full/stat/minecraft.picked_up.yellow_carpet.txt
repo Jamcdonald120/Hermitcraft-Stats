@@ -1,0 +1,18 @@
+minecraft.picked_up.yellow_carpet
+16: PearlescentMoon: 11456
+16: VintageBeef: 10553
+16: impulseSV: 2174
+16: Tango: 496
+16: joehillssays: 115
+16: cubfan135: 108
+16: Zedaph: 34
+16: Docm77: 18
+16: iJevin: 14
+16: Smajor1995: 9
+16: Keralis1: 6
+16: BdoubleO100: 4
+16: GoodTimeWithScar: 4
+16: Etho: 3
+16: iskall85: 2
+16: falsesymmetry: 1
+Total 24997

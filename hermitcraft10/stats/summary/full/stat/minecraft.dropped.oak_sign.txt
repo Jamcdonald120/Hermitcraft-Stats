@@ -1,0 +1,24 @@
+minecraft.dropped.oak_sign
+22: iJevin: 157
+22: GoodTimeWithScar: 42
+22: PearlescentMoon: 35
+22: Grian: 32
+22: Keralis1: 24
+22: GeminiTay: 23
+22: Etho: 23
+22: Renthedog: 17
+22: falsesymmetry: 17
+22: cubfan135: 15
+22: ZombieCleo: 13
+22: Zedaph: 12
+22: Tango: 10
+22: impulseSV: 10
+22: hypnotizd: 7
+22: VintageBeef: 6
+22: BdoubleO100: 5
+22: Skizzleman: 4
+22: Smallishbeans: 4
+22: Mumbo: 4
+22: Docm77: 1
+22: xBCrafted: 1
+Total 462

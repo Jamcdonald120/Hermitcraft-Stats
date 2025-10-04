@@ -1,0 +1,3 @@
+minecraft.mined.light_weighted_pressure_plate
+1: impulseSV: 3
+Total 3

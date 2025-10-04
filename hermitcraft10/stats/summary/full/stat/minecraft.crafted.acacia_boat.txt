@@ -1,0 +1,8 @@
+minecraft.crafted.acacia_boat
+6: VintageBeef: 9
+6: GoodTimeWithScar: 9
+6: Renthedog: 3
+6: Grian: 3
+6: Tango: 3
+6: Mumbo: 2
+Total 29

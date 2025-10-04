@@ -1,0 +1,9 @@
+minecraft.dropped.acacia_fence
+7: PearlescentMoon: 64
+7: hypnotizd: 18
+7: Renthedog: 15
+7: Grian: 15
+7: Tango: 8
+7: Xisuma: 6
+7: GoodTimeWithScar: 6
+Total 132

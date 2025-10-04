@@ -1,0 +1,29 @@
+minecraft.picked_up.dropper
+27: Tango: 1862
+27: impulseSV: 372
+27: Xisuma: 265
+27: Grian: 217
+27: GoodTimeWithScar: 188
+27: cubfan135: 187
+27: Zedaph: 127
+27: PearlescentMoon: 123
+27: ZombieCleo: 109
+27: iJevin: 98
+27: VintageBeef: 92
+27: Docm77: 86
+27: Renthedog: 81
+27: Etho: 57
+27: iskall85: 39
+27: hypnotizd: 34
+27: Stressmonster101: 32
+27: Keralis1: 25
+27: Mumbo: 18
+27: Pixlriffs: 17
+27: BdoubleO100: 14
+27: xBCrafted: 11
+27: falsesymmetry: 11
+27: joehillssays: 10
+27: RentheKing: 6
+27: OrionSound: 3
+27: GeminiTay: 2
+Total 4086

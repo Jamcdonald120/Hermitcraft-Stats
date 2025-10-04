@@ -1,0 +1,9 @@
+minecraft.crafted.red_nether_bricks
+7: PearlescentMoon: 457
+7: Tango: 305
+7: Xisuma: 183
+7: GoodTimeWithScar: 98
+7: cubfan135: 64
+7: ZombieCleo: 22
+7: iJevin: 9
+Total 1138

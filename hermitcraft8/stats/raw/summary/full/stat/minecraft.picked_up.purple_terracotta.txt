@@ -1,0 +1,5 @@
+minecraft.picked_up.purple_terracotta
+3: Grian: 102
+3: Xisuma: 11
+3: Etho: 2
+Total 115

@@ -1,0 +1,8 @@
+minecraft.crafted.nether_brick_wall
+6: iJevin: 144
+6: Xisuma: 80
+6: cubfan135: 60
+6: GoodTimeWithScar: 30
+6: PearlescentMoon: 12
+6: VintageBeef: 5
+Total 331

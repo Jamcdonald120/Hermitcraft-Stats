@@ -1,0 +1,9 @@
+minecraft.picked_up.fletching_table
+7: PearlescentMoon: 88
+7: Zedaph: 7
+7: cubfan135: 6
+7: iskall85: 3
+7: Xisuma: 1
+7: Etho: 1
+7: GoodTimeWithScar: 1
+Total 107

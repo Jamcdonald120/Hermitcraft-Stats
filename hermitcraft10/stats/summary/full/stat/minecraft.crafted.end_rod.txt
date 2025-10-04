@@ -1,0 +1,17 @@
+minecraft.crafted.end_rod
+15: Smallishbeans: 2312
+15: iJevin: 1824
+15: Renthedog: 1424
+15: impulseSV: 1152
+15: Xisuma: 512
+15: Keralis1: 256
+15: Docm77: 224
+15: Grian: 192
+15: BdoubleO100: 156
+15: joehillssays: 132
+15: PearlescentMoon: 96
+15: cubfan135: 64
+15: xBCrafted: 36
+15: ZombieCleo: 12
+15: Zedaph: 4
+Total 8396

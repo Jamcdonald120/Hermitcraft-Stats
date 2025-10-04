@@ -1,0 +1,4 @@
+minecraft.crafted.respawn_anchor
+2: cubfan135: 2
+2: impulseSV: 1
+Total 3

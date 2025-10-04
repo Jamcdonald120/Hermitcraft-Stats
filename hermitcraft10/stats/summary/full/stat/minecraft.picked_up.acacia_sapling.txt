@@ -1,0 +1,27 @@
+minecraft.picked_up.acacia_sapling
+25: Docm77: 12496
+25: GoodTimeWithScar: 2969
+25: BdoubleO100: 851
+25: Smallishbeans: 733
+25: Tango: 584
+25: Xisuma: 568
+25: PearlescentMoon: 549
+25: impulseSV: 498
+25: Renthedog: 494
+25: GeminiTay: 486
+25: Mumbo: 392
+25: Grian: 257
+25: ZombieCleo: 227
+25: Etho: 199
+25: Keralis1: 180
+25: falsesymmetry: 164
+25: VintageBeef: 116
+25: cubfan135: 58
+25: Zedaph: 18
+25: joehillssays: 17
+25: hypnotizd: 8
+25: Skizzleman: 6
+25: Welsknight: 3
+25: iJevin: 1
+25: xBCrafted: 1
+Total 21875

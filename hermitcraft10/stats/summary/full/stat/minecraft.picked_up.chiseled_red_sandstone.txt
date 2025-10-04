@@ -1,0 +1,7 @@
+minecraft.picked_up.chiseled_red_sandstone
+5: Renthedog: 177
+5: PearlescentMoon: 65
+5: Smallishbeans: 6
+5: Xisuma: 4
+5: Tango: 3
+Total 255

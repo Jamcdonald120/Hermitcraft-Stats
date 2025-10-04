@@ -1,0 +1,6 @@
+minecraft.picked_up.popped_chorus_fruit
+4: impulseSV: 342
+4: falsesymmetry: 92
+4: Zedaph: 27
+4: GeminiTay: 22
+Total 483

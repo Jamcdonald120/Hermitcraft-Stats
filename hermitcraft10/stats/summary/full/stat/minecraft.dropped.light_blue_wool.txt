@@ -1,0 +1,12 @@
+minecraft.dropped.light_blue_wool
+10: Tango: 380
+10: Grian: 271
+10: Skizzleman: 200
+10: cubfan135: 126
+10: iJevin: 32
+10: GoodTimeWithScar: 6
+10: joehillssays: 4
+10: impulseSV: 4
+10: Docm77: 3
+10: Etho: 1
+Total 1027

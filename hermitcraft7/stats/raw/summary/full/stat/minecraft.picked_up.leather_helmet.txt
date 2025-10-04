@@ -1,0 +1,25 @@
+minecraft.picked_up.leather_helmet
+23: Etho: 440
+23: Grian: 172
+23: cubfan135: 140
+23: xBCrafted: 112
+23: falsesymmetry: 102
+23: Docm77: 101
+23: Keralis1: 73
+23: VintageBeef: 54
+23: Tango: 47
+23: Renthedog: 40
+23: joehillssays: 38
+23: Xisuma: 32
+23: hypnotizd: 26
+23: iskall85: 19
+23: GoodTimeWithScar: 15
+23: Stressmonster101: 13
+23: impulseSV: 11
+23: iJevin: 9
+23: Zedaph: 5
+23: Welsknight: 4
+23: BdoubleO100: 2
+23: MumboJumbo: 2
+23: HermitcraftAlt: 2
+Total 1459

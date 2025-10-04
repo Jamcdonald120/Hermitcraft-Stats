@@ -1,0 +1,8 @@
+minecraft.dropped.purple_wool
+6: falsesymmetry: 64
+6: Grian: 2
+6: iskall85: 2
+6: ZombieCleo: 2
+6: Docm77: 1
+6: Zedaph: 1
+Total 72

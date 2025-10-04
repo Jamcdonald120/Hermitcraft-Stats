@@ -1,0 +1,20 @@
+minecraft.picked_up.magenta_wool
+18: GoodTimeWithScar: 2033
+18: Xisuma: 1468
+18: iJevin: 278
+18: Tango: 206
+18: falsesymmetry: 136
+18: hypnotizd: 113
+18: Docm77: 63
+18: Etho: 43
+18: BdoubleO100: 42
+18: impulseSV: 37
+18: joehillssays: 31
+18: cubfan135: 31
+18: ZombieCleo: 21
+18: VintageBeef: 10
+18: Skizzleman: 9
+18: Grian: 3
+18: Keralis1: 3
+18: PearlescentMoon: 1
+Total 4528

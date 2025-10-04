@@ -1,0 +1,14 @@
+minecraft.crafted.green_carpet
+12: GoodTimeWithScar: 304
+12: impulseSV: 285
+12: Grian: 255
+12: PearlescentMoon: 147
+12: Docm77: 75
+12: Xisuma: 72
+12: cubfan135: 64
+12: MumboJumbo: 21
+12: BdoubleO100: 18
+12: GeminiTay: 12
+12: falsesymmetry: 9
+12: Welsknight: 3
+Total 1265

@@ -1,0 +1,5 @@
+minecraft.dropped.dark_oak_wood
+3: Etho: 10
+3: Grian: 8
+3: GoodTimeWithScar: 3
+Total 21

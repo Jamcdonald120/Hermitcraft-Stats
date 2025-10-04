@@ -1,0 +1,27 @@
+minecraft.picked_up.leather
+25: Etho: 2576
+25: iJevin: 2413
+25: GoodTimeWithScar: 2059
+25: Grian: 1984
+25: BdoubleO100: 1848
+25: Docm77: 1108
+25: ZombieCleo: 909
+25: GeminiTay: 880
+25: hypnotizd: 827
+25: PearlescentMoon: 786
+25: joehillssays: 683
+25: falsesymmetry: 582
+25: VintageBeef: 575
+25: cubfan135: 453
+25: Xisuma: 438
+25: Welsknight: 372
+25: Tango: 292
+25: xBCrafted: 179
+25: Renthedog: 173
+25: Keralis1: 170
+25: Zedaph: 168
+25: iskall85: 123
+25: Stressmonster101: 104
+25: impulseSV: 60
+25: MumboJumbo: 4
+Total 19766

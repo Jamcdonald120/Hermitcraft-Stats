@@ -1,0 +1,14 @@
+minecraft.picked_up.bolt_armor_trim_smithing_template
+12: PearlescentMoon: 16
+12: cubfan135: 12
+12: Docm77: 10
+12: Grian: 5
+12: Etho: 4
+12: Renthedog: 2
+12: iJevin: 2
+12: impulseSV: 2
+12: Xisuma: 1
+12: joehillssays: 1
+12: Skizzleman: 1
+12: GoodTimeWithScar: 1
+Total 57

@@ -1,0 +1,22 @@
+minecraft.picked_up.stone_brick_slab
+20: iJevin: 5479
+20: xBCrafted: 924
+20: ZombieCleo: 822
+20: hypnotizd: 496
+20: Keralis1: 183
+20: PearlescentMoon: 154
+20: impulseSV: 132
+20: cubfan135: 123
+20: MumboJumbo: 122
+20: GoodTimeWithScar: 94
+20: joehillssays: 80
+20: Xisuma: 67
+20: Welsknight: 62
+20: Grian: 31
+20: Tango: 25
+20: Docm77: 20
+20: falsesymmetry: 6
+20: Zedaph: 6
+20: GeminiTay: 1
+20: Etho: 1
+Total 8828

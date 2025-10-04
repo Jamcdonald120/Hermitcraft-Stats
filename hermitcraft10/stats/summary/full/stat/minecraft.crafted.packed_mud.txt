@@ -1,0 +1,27 @@
+minecraft.crafted.packed_mud
+25: Renthedog: 35378
+25: Xisuma: 15861
+25: PearlescentMoon: 10938
+25: GoodTimeWithScar: 9790
+25: falsesymmetry: 8360
+25: Etho: 6335
+25: Mumbo: 5656
+25: Keralis1: 4645
+25: ZombieCleo: 2807
+25: Grian: 2559
+25: Welsknight: 1847
+25: GeminiTay: 1265
+25: iJevin: 1097
+25: Tango: 1086
+25: VintageBeef: 915
+25: Smallishbeans: 786
+25: BdoubleO100: 780
+25: Skizzleman: 593
+25: joehillssays: 382
+25: impulseSV: 344
+25: xBCrafted: 341
+25: Zedaph: 205
+25: Docm77: 176
+25: cubfan135: 60
+25: hypnotizd: 5
+Total 112211

@@ -1,0 +1,4 @@
+minecraft.picked_up.quartz_bricks
+2: Grian: 11
+2: cubfan135: 2
+Total 13

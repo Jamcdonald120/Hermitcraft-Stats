@@ -1,0 +1,18 @@
+minecraft.dropped.deepslate_bricks
+16: iJevin: 138
+16: falsesymmetry: 22
+16: Mumbo: 19
+16: Grian: 16
+16: Etho: 15
+16: Skizzleman: 12
+16: Docm77: 9
+16: xBCrafted: 9
+16: PearlescentMoon: 8
+16: ZombieCleo: 7
+16: cubfan135: 5
+16: impulseSV: 5
+16: BdoubleO100: 4
+16: GoodTimeWithScar: 4
+16: GeminiTay: 1
+16: Keralis1: 1
+Total 275

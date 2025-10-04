@@ -1,0 +1,32 @@
+minecraft.mined.cave_vines
+30: Tango: 863
+30: joehillssays: 410
+30: cubfan135: 297
+30: PearlescentMoon: 130
+30: iskall85: 106
+30: Keralis1: 87
+30: Grian: 64
+30: Xisuma: 58
+30: GeminiTay: 56
+30: ZombieCleo: 51
+30: iJevin: 50
+30: Tinfoilchef: 38
+30: Docm77: 26
+30: Renthedog: 26
+30: falsesymmetry: 26
+30: BdoubleO100: 24
+30: xBCrafted: 16
+30: VintageBeef: 15
+30: Zedaph: 14
+30: RentheKing: 13
+30: Etho: 12
+30: MythicalSausage: 11
+30: GoodTimeWithScar: 10
+30: hypnotizd: 9
+30: impulseSV: 7
+30: ShubbleYT: 6
+30: Welsknight: 5
+30: Pixlriffs: 4
+30: Mumbo: 3
+30: Stressmonster101: 2
+Total 2439

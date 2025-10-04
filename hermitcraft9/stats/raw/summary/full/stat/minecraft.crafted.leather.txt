@@ -1,0 +1,4 @@
+minecraft.crafted.leather
+2: cubfan135: 14
+2: impulseSV: 7
+Total 21

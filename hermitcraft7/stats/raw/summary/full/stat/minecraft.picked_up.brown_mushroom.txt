@@ -1,0 +1,26 @@
+minecraft.picked_up.brown_mushroom
+24: Etho: 2396
+24: Xisuma: 2314
+24: impulseSV: 1477
+24: GoodTimeWithScar: 1263
+24: cubfan135: 1252
+24: Tango: 837
+24: Renthedog: 477
+24: falsesymmetry: 361
+24: Grian: 327
+24: iskall85: 297
+24: xBCrafted: 271
+24: Keralis1: 242
+24: iJevin: 217
+24: Zedaph: 207
+24: BdoubleO100: 178
+24: VintageBeef: 170
+24: ZombieCleo: 119
+24: joehillssays: 115
+24: hypnotizd: 111
+24: Docm77: 110
+24: Stressmonster101: 75
+24: MumboJumbo: 71
+24: Welsknight: 13
+24: Tinfoilchef: 2
+Total 12902

@@ -1,0 +1,5 @@
+minecraft.crafted.brown_bed
+3: PearlescentMoon: 4
+3: GoodTimeWithScar: 3
+3: cubfan135: 1
+Total 8

@@ -1,0 +1,18 @@
+minecraft.picked_up.acacia_slab
+16: Skizzleman: 428
+16: GoodTimeWithScar: 196
+16: PearlescentMoon: 149
+16: Smallishbeans: 64
+16: Tango: 32
+16: Xisuma: 31
+16: VintageBeef: 22
+16: GeminiTay: 21
+16: Docm77: 19
+16: Mumbo: 18
+16: Renthedog: 17
+16: Etho: 8
+16: Keralis1: 4
+16: Grian: 2
+16: BdoubleO100: 2
+16: falsesymmetry: 1
+Total 1014

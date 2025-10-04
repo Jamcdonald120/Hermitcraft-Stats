@@ -1,0 +1,16 @@
+minecraft.picked_up.blackstone_slab
+14: Tango: 293
+14: ZombieCleo: 92
+14: Etho: 66
+14: impulseSV: 56
+14: cubfan135: 53
+14: xBCrafted: 35
+14: iJevin: 24
+14: Xisuma: 19
+14: GoodTimeWithScar: 17
+14: joehillssays: 16
+14: PearlescentMoon: 7
+14: Docm77: 6
+14: Zedaph: 6
+14: Renthedog: 4
+Total 694

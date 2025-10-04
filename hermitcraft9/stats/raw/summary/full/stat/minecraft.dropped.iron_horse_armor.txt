@@ -1,0 +1,8 @@
+minecraft.dropped.iron_horse_armor
+6: falsesymmetry: 3
+6: Etho: 2
+6: iJevin: 1
+6: BdoubleO100: 1
+6: hypnotizd: 1
+6: Zedaph: 1
+Total 9

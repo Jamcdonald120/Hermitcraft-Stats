@@ -1,0 +1,21 @@
+minecraft.picked_up.pitcher_pod
+19: PearlescentMoon: 711
+19: Skizzleman: 433
+19: cubfan135: 265
+19: iJevin: 138
+19: GoodTimeWithScar: 50
+19: GeminiTay: 43
+19: Etho: 40
+19: joehillssays: 33
+19: OrionSound: 15
+19: falsesymmetry: 9
+19: Renthedog: 7
+19: Smallishbeans: 7
+19: Docm77: 5
+19: Grian: 5
+19: Tango: 4
+19: VintageBeef: 3
+19: impulseSV: 3
+19: Xisuma: 2
+19: Keralis1: 1
+Total 1774

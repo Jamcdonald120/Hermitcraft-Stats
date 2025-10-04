@@ -1,0 +1,4 @@
+minecraft.crafted.waxed_cut_copper_stairs
+2: impulseSV: 8
+2: cubfan135: 4
+Total 12

@@ -1,0 +1,7 @@
+minecraft.picked_up.fermented_spider_eye
+5: Xisuma: 32
+5: falsesymmetry: 17
+5: Docm77: 15
+5: Etho: 5
+5: Zedaph: 1
+Total 70

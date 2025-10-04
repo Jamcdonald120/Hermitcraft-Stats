@@ -1,0 +1,27 @@
+minecraft.mined.netherrack
+25: PearlescentMoon: 60025
+25: impulseSV: 37688
+25: hypnotizd: 37259
+25: xBCrafted: 32073
+25: cubfan135: 29652
+25: Welsknight: 29424
+25: joehillssays: 28556
+25: Smallishbeans: 26559
+25: Etho: 25097
+25: GoodTimeWithScar: 18622
+25: iJevin: 17705
+25: Tango: 11898
+25: VintageBeef: 11683
+25: Renthedog: 11470
+25: Xisuma: 11295
+25: Grian: 9317
+25: Zedaph: 7668
+25: Keralis1: 7124
+25: Docm77: 6752
+25: Skizzleman: 4049
+25: falsesymmetry: 3187
+25: Mumbo: 2448
+25: ZombieCleo: 1157
+25: BdoubleO100: 233
+25: GeminiTay: 206
+Total 431147

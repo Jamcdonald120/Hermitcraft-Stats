@@ -1,0 +1,6 @@
+minecraft.dropped.lime_stained_glass_pane
+4: falsesymmetry: 26
+4: cubfan135: 1
+4: Etho: 1
+4: ZombieCleo: 1
+Total 29

@@ -1,0 +1,12 @@
+minecraft.picked_up.exposed_copper_bulb
+10: GoodTimeWithScar: 23
+10: PearlescentMoon: 4
+10: GeminiTay: 3
+10: Keralis1: 3
+10: Tango: 2
+10: Etho: 2
+10: impulseSV: 2
+10: joehillssays: 1
+10: falsesymmetry: 1
+10: hypnotizd: 1
+Total 42

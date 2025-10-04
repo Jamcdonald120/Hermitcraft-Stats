@@ -1,0 +1,10 @@
+minecraft.crafted.chiseled_nether_bricks
+8: Smallishbeans: 30
+8: Xisuma: 10
+8: GoodTimeWithScar: 6
+8: falsesymmetry: 2
+8: Renthedog: 1
+8: Grian: 1
+8: hypnotizd: 1
+8: impulseSV: 1
+Total 52

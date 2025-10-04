@@ -1,0 +1,26 @@
+minecraft.custom.interact_with_beacon
+24: Xisuma: 182
+24: impulseSV: 171
+24: Tango: 167
+24: iJevin: 126
+24: Etho: 113
+24: cubfan135: 106
+24: xBCrafted: 97
+24: Renthedog: 87
+24: falsesymmetry: 84
+24: MumboJumbo: 80
+24: Grian: 77
+24: GoodTimeWithScar: 76
+24: iskall85: 70
+24: joehillssays: 65
+24: Keralis1: 46
+24: Stressmonster101: 32
+24: Docm77: 15
+24: VintageBeef: 14
+24: BdoubleO100: 13
+24: hypnotizd: 13
+24: Zedaph: 9
+24: Welsknight: 8
+24: ZombieCleo: 1
+24: Tinfoilchef: 1
+Total 1653

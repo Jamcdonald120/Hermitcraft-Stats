@@ -1,0 +1,20 @@
+minecraft.picked_up.lava_bucket
+18: Grian: 49
+18: iskall85: 43
+18: Tango: 23
+18: joehillssays: 22
+18: falsesymmetry: 22
+18: cubfan135: 15
+18: Xisuma: 10
+18: BdoubleO100: 7
+18: iJevin: 6
+18: Zedaph: 6
+18: GoodTimeWithScar: 5
+18: MumboJumbo: 4
+18: Renthedog: 3
+18: Tinfoilchef: 3
+18: Docm77: 2
+18: impulseSV: 2
+18: PythonGB: 1
+18: Stressmonster101: 1
+Total 224

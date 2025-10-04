@@ -1,0 +1,6 @@
+minecraft.crafted.light_blue_candle
+4: hypnotizd: 1860
+4: Xisuma: 21
+4: Tango: 3
+4: Zedaph: 1
+Total 1885

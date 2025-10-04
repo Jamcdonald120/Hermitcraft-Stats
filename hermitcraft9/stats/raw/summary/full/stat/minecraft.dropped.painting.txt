@@ -1,0 +1,6 @@
+minecraft.dropped.painting
+4: falsesymmetry: 12
+4: cubfan135: 11
+4: GoodTimeWithScar: 8
+4: Grian: 1
+Total 32

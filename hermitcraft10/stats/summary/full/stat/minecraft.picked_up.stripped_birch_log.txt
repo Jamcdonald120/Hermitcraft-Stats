@@ -1,0 +1,25 @@
+minecraft.picked_up.stripped_birch_log
+23: GoodTimeWithScar: 1686
+23: Smallishbeans: 797
+23: ZombieCleo: 788
+23: PearlescentMoon: 587
+23: Mumbo: 568
+23: Renthedog: 480
+23: iJevin: 390
+23: Xisuma: 381
+23: Docm77: 270
+23: BdoubleO100: 236
+23: falsesymmetry: 210
+23: Tango: 206
+23: xBCrafted: 87
+23: cubfan135: 50
+23: Skizzleman: 31
+23: VintageBeef: 17
+23: Keralis1: 16
+23: joehillssays: 12
+23: Grian: 11
+23: hypnotizd: 8
+23: GeminiTay: 6
+23: Etho: 3
+23: impulseSV: 1
+Total 6841

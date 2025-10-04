@@ -1,0 +1,18 @@
+minecraft.crafted.beacon
+16: Tango: 204
+16: impulseSV: 181
+16: cubfan135: 25
+16: PearlescentMoon: 13
+16: iJevin: 5
+16: Docm77: 3
+16: iskall85: 3
+16: Xisuma: 2
+16: VintageBeef: 2
+16: hypnotizd: 2
+16: Grian: 1
+16: Pixlriffs: 1
+16: xBCrafted: 1
+16: falsesymmetry: 1
+16: Stressmonster101: 1
+16: Keralis1: 1
+Total 446

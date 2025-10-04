@@ -1,0 +1,17 @@
+minecraft.picked_up.wither_rose
+15: impulseSV: 1861
+15: iJevin: 1787
+15: Tango: 1354
+15: GoodTimeWithScar: 127
+15: PearlescentMoon: 64
+15: Xisuma: 38
+15: falsesymmetry: 23
+15: GeminiTay: 4
+15: cubfan135: 2
+15: Zedaph: 2
+15: Docm77: 1
+15: Grian: 1
+15: BdoubleO100: 1
+15: Etho: 1
+15: Mumbo: 1
+Total 5267

@@ -1,0 +1,11 @@
+minecraft.picked_up.pink_candle
+9: GoodTimeWithScar: 64
+9: GeminiTay: 10
+9: OrionSound: 9
+9: iJevin: 9
+9: MythicalSausage: 5
+9: hypnotizd: 4
+9: fWhip: 3
+9: PearlescentMoon: 2
+9: Zedaph: 1
+Total 107

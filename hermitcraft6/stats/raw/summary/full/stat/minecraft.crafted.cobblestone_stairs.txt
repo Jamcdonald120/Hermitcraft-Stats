@@ -1,0 +1,23 @@
+minecraft.crafted.cobblestone_stairs
+21: Renthedog: 9216
+21: GoodTimeWithScar: 7896
+21: iskall85: 1136
+21: falsesymmetry: 1120
+21: Grian: 1080
+21: iJevin: 672
+21: Xisuma: 592
+21: Stressmonster101: 544
+21: joehillssays: 376
+21: cubfan135: 368
+21: Welsknight: 360
+21: MumboJumbo: 352
+21: Docm77: 336
+21: Biffa2001: 320
+21: BdoubleO100: 312
+21: Keralis1: 296
+21: impulseSV: 160
+21: Tango: 144
+21: Tinfoilchef: 136
+21: ZombieCleo: 72
+21: Jessassin: 40
+Total 25528

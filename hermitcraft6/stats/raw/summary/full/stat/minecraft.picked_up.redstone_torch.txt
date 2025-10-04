@@ -1,0 +1,24 @@
+minecraft.picked_up.redstone_torch
+22: iskall85: 1792
+22: GoodTimeWithScar: 1402
+22: cubfan135: 1227
+22: Renthedog: 946
+22: iJevin: 763
+22: Tango: 680
+22: MumboJumbo: 580
+22: Docm77: 529
+22: Xisuma: 455
+22: Grian: 431
+22: impulseSV: 390
+22: Zedaph: 333
+22: Tinfoilchef: 306
+22: joehillssays: 215
+22: Stressmonster101: 206
+22: Keralis1: 193
+22: falsesymmetry: 159
+22: ZombieCleo: 109
+22: Welsknight: 104
+22: PythonGB: 27
+22: BdoubleO100: 14
+22: HumanCleo: 4
+Total 10865

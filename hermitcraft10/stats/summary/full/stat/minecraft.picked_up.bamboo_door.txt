@@ -1,0 +1,18 @@
+minecraft.picked_up.bamboo_door
+16: impulseSV: 239
+16: Skizzleman: 112
+16: Tango: 55
+16: Xisuma: 26
+16: PearlescentMoon: 18
+16: Keralis1: 17
+16: falsesymmetry: 13
+16: BdoubleO100: 11
+16: Smallishbeans: 7
+16: cubfan135: 5
+16: VintageBeef: 4
+16: joehillssays: 4
+16: GoodTimeWithScar: 3
+16: Etho: 2
+16: Mumbo: 2
+16: Grian: 1
+Total 519

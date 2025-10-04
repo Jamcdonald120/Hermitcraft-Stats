@@ -1,0 +1,26 @@
+minecraft.picked_up.obsidian
+24: impulseSV: 6396
+24: Grian: 2887
+24: Xisuma: 2469
+24: falsesymmetry: 2437
+24: cubfan135: 1679
+24: Tango: 1543
+24: GoodTimeWithScar: 1174
+24: iJevin: 956
+24: Zedaph: 879
+24: Renthedog: 837
+24: MumboJumbo: 779
+24: Etho: 736
+24: hypnotizd: 713
+24: BdoubleO100: 712
+24: joehillssays: 693
+24: Stressmonster101: 641
+24: Docm77: 594
+24: iskall85: 561
+24: xBCrafted: 504
+24: VintageBeef: 366
+24: Keralis1: 181
+24: Welsknight: 177
+24: ZombieCleo: 156
+24: Tinfoilchef: 93
+Total 28163

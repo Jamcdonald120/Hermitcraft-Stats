@@ -1,0 +1,5 @@
+minecraft.picked_up.dried_kelp_block
+3: impulseSV: 317
+3: cubfan135: 84
+3: Zedaph: 29
+Total 430

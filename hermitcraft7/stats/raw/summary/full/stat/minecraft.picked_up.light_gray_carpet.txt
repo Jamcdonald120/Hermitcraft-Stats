@@ -1,0 +1,25 @@
+minecraft.picked_up.light_gray_carpet
+23: falsesymmetry: 9725
+23: Zedaph: 1359
+23: Stressmonster101: 1186
+23: impulseSV: 789
+23: Keralis1: 483
+23: iskall85: 351
+23: Grian: 265
+23: Tango: 231
+23: cubfan135: 225
+23: VintageBeef: 219
+23: iJevin: 204
+23: GoodTimeWithScar: 183
+23: Xisuma: 163
+23: Etho: 58
+23: joehillssays: 51
+23: xBCrafted: 46
+23: Welsknight: 44
+23: BdoubleO100: 34
+23: MumboJumbo: 31
+23: hypnotizd: 29
+23: Docm77: 7
+23: Renthedog: 6
+23: ZombieCleo: 1
+Total 15690

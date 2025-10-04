@@ -1,0 +1,22 @@
+minecraft.picked_up.jungle_sapling
+20: Renthedog: 1279
+20: GoodTimeWithScar: 1005
+20: Xisuma: 946
+20: Etho: 452
+20: Stressmonster101: 338
+20: VintageBeef: 334
+20: BdoubleO100: 193
+20: joehillssays: 183
+20: Grian: 157
+20: MumboJumbo: 152
+20: cubfan135: 122
+20: Tango: 93
+20: Zedaph: 86
+20: hypnotizd: 51
+20: iskall85: 50
+20: ZombieCleo: 48
+20: falsesymmetry: 14
+20: Docm77: 11
+20: Keralis1: 5
+20: impulseSV: 3
+Total 5522

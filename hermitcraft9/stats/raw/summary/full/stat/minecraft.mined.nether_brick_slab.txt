@@ -1,0 +1,9 @@
+minecraft.mined.nether_brick_slab
+7: Tango: 204
+7: Xisuma: 60
+7: BdoubleO100: 60
+7: cubfan135: 26
+7: Keralis1: 17
+7: impulseSV: 6
+7: ZombieCleo: 1
+Total 374

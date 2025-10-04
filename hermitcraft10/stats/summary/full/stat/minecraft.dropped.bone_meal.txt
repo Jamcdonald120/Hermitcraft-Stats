@@ -1,0 +1,28 @@
+minecraft.dropped.bone_meal
+26: Keralis1: 36133
+26: Etho: 16100
+26: Zedaph: 11891
+26: BdoubleO100: 5840
+26: Tango: 4698
+26: Xisuma: 3778
+26: PearlescentMoon: 3697
+26: Grian: 3576
+26: falsesymmetry: 2334
+26: Docm77: 1325
+26: Renthedog: 1142
+26: cubfan135: 911
+26: impulseSV: 847
+26: iJevin: 792
+26: Skizzleman: 596
+26: GeminiTay: 477
+26: GoodTimeWithScar: 301
+26: Smallishbeans: 177
+26: Mumbo: 121
+26: xBCrafted: 49
+26: SolidarityGaming: 47
+26: hypnotizd: 27
+26: VintageBeef: 8
+26: joehillssays: 4
+26: ZombieCleo: 4
+26: InTheLittleWood: 1
+Total 94876

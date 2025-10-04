@@ -1,0 +1,19 @@
+minecraft.picked_up.mud_brick_slab
+17: falsesymmetry: 418
+17: Keralis1: 228
+17: Renthedog: 164
+17: Xisuma: 123
+17: PearlescentMoon: 99
+17: Etho: 73
+17: iJevin: 40
+17: VintageBeef: 32
+17: Tango: 25
+17: ZombieCleo: 25
+17: cubfan135: 20
+17: Grian: 16
+17: Smallishbeans: 13
+17: Mumbo: 10
+17: Zedaph: 5
+17: BdoubleO100: 4
+17: GeminiTay: 1
+Total 1296

@@ -1,0 +1,26 @@
+minecraft.crafted.piston
+24: GoodTimeWithScar: 952
+24: impulseSV: 908
+24: Xisuma: 755
+24: Grian: 651
+24: Docm77: 636
+24: MumboJumbo: 536
+24: Etho: 440
+24: Renthedog: 359
+24: Zedaph: 295
+24: iJevin: 256
+24: Tango: 222
+24: falsesymmetry: 145
+24: cubfan135: 143
+24: xBCrafted: 112
+24: GeminiTay: 84
+24: Stressmonster101: 84
+24: hypnotizd: 73
+24: Welsknight: 70
+24: BdoubleO100: 65
+24: PearlescentMoon: 56
+24: Keralis1: 45
+24: VintageBeef: 44
+24: ZombieCleo: 10
+24: joehillssays: 5
+Total 6946

@@ -1,0 +1,10 @@
+minecraft.picked_up.experience_bottle
+8: Grian: 1196
+8: PearlescentMoon: 186
+8: cubfan135: 160
+8: MumboJumbo: 140
+8: joehillssays: 64
+8: BdoubleO100: 29
+8: Xisuma: 3
+8: xBCrafted: 1
+Total 1779

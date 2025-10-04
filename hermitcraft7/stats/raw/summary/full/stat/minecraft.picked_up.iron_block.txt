@@ -1,0 +1,25 @@
+minecraft.picked_up.iron_block
+23: Tango: 23500
+23: Stressmonster101: 6704
+23: Renthedog: 6648
+23: MumboJumbo: 6428
+23: xBCrafted: 6271
+23: GoodTimeWithScar: 6210
+23: Xisuma: 5733
+23: impulseSV: 5267
+23: Etho: 4350
+23: Grian: 4142
+23: cubfan135: 3689
+23: falsesymmetry: 3431
+23: iskall85: 2709
+23: Zedaph: 2422
+23: Keralis1: 2188
+23: joehillssays: 2014
+23: iJevin: 1937
+23: Welsknight: 896
+23: BdoubleO100: 788
+23: VintageBeef: 613
+23: Docm77: 279
+23: ZombieCleo: 158
+23: hypnotizd: 63
+Total 96440

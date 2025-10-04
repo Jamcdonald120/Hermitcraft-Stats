@@ -1,0 +1,26 @@
+minecraft.picked_up.birch_planks
+24: Grian: 1687
+24: Xisuma: 1029
+24: Docm77: 808
+24: falsesymmetry: 791
+24: cubfan135: 636
+24: GoodTimeWithScar: 620
+24: iskall85: 514
+24: iJevin: 377
+24: Stressmonster101: 343
+24: impulseSV: 309
+24: Renthedog: 276
+24: Tango: 253
+24: Welsknight: 171
+24: ZombieCleo: 155
+24: BdoubleO100: 127
+24: joehillssays: 117
+24: PythonGB: 65
+24: Biffa2001: 58
+24: EvilXisuma: 48
+24: Keralis1: 37
+24: Zedaph: 35
+24: MumboJumbo: 19
+24: xBCrafted: 6
+24: Tinfoilchef: 2
+Total 8483

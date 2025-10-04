@@ -1,0 +1,17 @@
+minecraft.picked_up.jungle_fence_gate
+15: PearlescentMoon: 168
+15: falsesymmetry: 46
+15: GoodTimeWithScar: 23
+15: Mumbo: 20
+15: Keralis1: 10
+15: Renthedog: 3
+15: iJevin: 2
+15: Grian: 2
+15: Tango: 2
+15: Etho: 2
+15: ZombieCleo: 2
+15: Zedaph: 2
+15: Docm77: 1
+15: Smallishbeans: 1
+15: BdoubleO100: 1
+Total 285

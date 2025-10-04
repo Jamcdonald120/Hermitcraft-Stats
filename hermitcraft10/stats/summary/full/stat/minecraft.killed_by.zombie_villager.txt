@@ -1,0 +1,5 @@
+minecraft.killed_by.zombie_villager
+3: Docm77: 3
+3: Zedaph: 2
+3: GoodTimeWithScar: 1
+Total 6

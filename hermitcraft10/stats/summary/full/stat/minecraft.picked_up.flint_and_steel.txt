@@ -1,0 +1,25 @@
+minecraft.picked_up.flint_and_steel
+23: Etho: 1213
+23: iJevin: 146
+23: cubfan135: 33
+23: Zedaph: 30
+23: GoodTimeWithScar: 23
+23: Renthedog: 17
+23: Docm77: 16
+23: Grian: 15
+23: Skizzleman: 14
+23: ZombieCleo: 9
+23: impulseSV: 9
+23: VintageBeef: 8
+23: Tango: 7
+23: joehillssays: 5
+23: PearlescentMoon: 5
+23: Keralis1: 4
+23: BdoubleO100: 3
+23: Welsknight: 3
+23: GeminiTay: 2
+23: xBCrafted: 2
+23: hypnotizd: 2
+23: falsesymmetry: 1
+23: Mumbo: 1
+Total 1568

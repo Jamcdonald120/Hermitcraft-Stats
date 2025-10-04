@@ -1,0 +1,4 @@
+minecraft.crafted.leather_horse_armor
+2: hypnotizd: 7
+2: Tango: 4
+Total 11

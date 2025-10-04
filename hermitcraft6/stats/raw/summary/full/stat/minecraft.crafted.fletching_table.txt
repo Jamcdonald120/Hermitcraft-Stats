@@ -1,0 +1,6 @@
+minecraft.crafted.fletching_table
+4: Xisuma: 256
+4: cubfan135: 8
+4: iskall85: 1
+4: ZombieCleo: 1
+Total 266

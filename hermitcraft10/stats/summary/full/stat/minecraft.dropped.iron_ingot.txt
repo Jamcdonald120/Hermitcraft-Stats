@@ -1,0 +1,26 @@
+minecraft.dropped.iron_ingot
+24: Etho: 10974
+24: Zedaph: 6891
+24: Docm77: 3697
+24: Tango: 2049
+24: Renthedog: 868
+24: Grian: 535
+24: cubfan135: 424
+24: iJevin: 416
+24: GoodTimeWithScar: 394
+24: BdoubleO100: 317
+24: impulseSV: 299
+24: Xisuma: 173
+24: Smallishbeans: 152
+24: Keralis1: 144
+24: falsesymmetry: 105
+24: ZombieCleo: 85
+24: hypnotizd: 84
+24: xBCrafted: 74
+24: Skizzleman: 66
+24: PearlescentMoon: 65
+24: Mumbo: 47
+24: VintageBeef: 24
+24: GeminiTay: 15
+24: joehillssays: 3
+Total 27901

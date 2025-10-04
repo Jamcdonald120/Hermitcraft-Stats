@@ -1,0 +1,18 @@
+minecraft.crafted.pumpkin_seeds
+16: xBCrafted: 216
+16: Zedaph: 208
+16: iJevin: 196
+16: Welsknight: 164
+16: VintageBeef: 152
+16: Xisuma: 116
+16: Keralis1: 116
+16: Renthedog: 104
+16: Docm77: 92
+16: joehillssays: 60
+16: Etho: 44
+16: Tango: 20
+16: Smallishbeans: 20
+16: Grian: 16
+16: falsesymmetry: 8
+16: GeminiTay: 4
+Total 1536

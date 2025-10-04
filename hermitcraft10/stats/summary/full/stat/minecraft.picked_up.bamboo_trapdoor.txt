@@ -1,0 +1,25 @@
+minecraft.picked_up.bamboo_trapdoor
+23: Keralis1: 502
+23: Etho: 368
+23: Xisuma: 363
+23: PearlescentMoon: 330
+23: Tango: 241
+23: Docm77: 177
+23: GoodTimeWithScar: 173
+23: Zedaph: 138
+23: Grian: 133
+23: falsesymmetry: 117
+23: Mumbo: 68
+23: Smallishbeans: 52
+23: Skizzleman: 35
+23: GeminiTay: 25
+23: BdoubleO100: 25
+23: Renthedog: 20
+23: joehillssays: 19
+23: cubfan135: 18
+23: VintageBeef: 16
+23: iJevin: 14
+23: ZombieCleo: 14
+23: impulseSV: 2
+23: hypnotizd: 1
+Total 2851

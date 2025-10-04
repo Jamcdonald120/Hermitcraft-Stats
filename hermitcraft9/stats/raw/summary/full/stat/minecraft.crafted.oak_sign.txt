@@ -1,0 +1,31 @@
+minecraft.crafted.oak_sign
+29: PearlescentMoon: 684
+29: Grian: 264
+29: cubfan135: 254
+29: Xisuma: 204
+29: GoodTimeWithScar: 201
+29: Docm77: 192
+29: Keralis1: 186
+29: falsesymmetry: 141
+29: BdoubleO100: 138
+29: impulseSV: 117
+29: Zedaph: 87
+29: ZombieCleo: 63
+29: Mumbo: 60
+29: Etho: 54
+29: VintageBeef: 48
+29: iJevin: 48
+29: iskall85: 48
+29: Tango: 39
+29: SolidarityGaming: 30
+29: Stressmonster101: 27
+29: MythicalSausage: 21
+29: Renthedog: 15
+29: Welsknight: 15
+29: OrionSound: 9
+29: xBCrafted: 9
+29: GeminiTay: 6
+29: joehillssays: 3
+29: Smallishbeans: 3
+29: Firecracker1195: 3
+Total 2969

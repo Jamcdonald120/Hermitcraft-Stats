@@ -1,0 +1,4 @@
+minecraft.broken.diamond_leggings
+2: GoodTimeWithScar: 2
+2: VintageBeef: 1
+Total 3

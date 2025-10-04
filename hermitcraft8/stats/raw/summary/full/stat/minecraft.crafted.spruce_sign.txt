@@ -1,0 +1,24 @@
+minecraft.crafted.spruce_sign
+22: GoodTimeWithScar: 1360
+22: PearlescentMoon: 495
+22: Xisuma: 402
+22: GeminiTay: 258
+22: Grian: 240
+22: Tango: 216
+22: iJevin: 108
+22: Welsknight: 60
+22: BdoubleO100: 51
+22: xBCrafted: 24
+22: VintageBeef: 21
+22: iskall85: 21
+22: Renthedog: 15
+22: ZombieCleo: 15
+22: Keralis1: 15
+22: joehillssays: 12
+22: impulseSV: 12
+22: falsesymmetry: 9
+22: cubfan135: 9
+22: Etho: 6
+22: Docm77: 3
+22: Stressmonster101: 3
+Total 3355

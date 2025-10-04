@@ -1,0 +1,5 @@
+minecraft.crafted.lime_glazed_terracotta
+3: GeminiTay: 81
+3: impulseSV: 40
+3: BdoubleO100: 4
+Total 125

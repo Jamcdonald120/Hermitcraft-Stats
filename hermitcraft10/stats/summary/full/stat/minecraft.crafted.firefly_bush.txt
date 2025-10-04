@@ -1,0 +1,4 @@
+minecraft.crafted.firefly_bush
+2: PearlescentMoon: 12
+2: cubfan135: 1
+Total 13

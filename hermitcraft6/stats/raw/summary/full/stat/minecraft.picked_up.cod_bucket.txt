@@ -1,0 +1,6 @@
+minecraft.picked_up.cod_bucket
+4: Grian: 2
+4: iskall85: 2
+4: ZombieCleo: 2
+4: MumboJumbo: 1
+Total 7

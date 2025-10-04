@@ -1,0 +1,6 @@
+minecraft.dropped.purple_candle
+4: ZombieCleo: 4
+4: GoodTimeWithScar: 4
+4: Renthedog: 1
+4: VintageBeef: 1
+Total 10

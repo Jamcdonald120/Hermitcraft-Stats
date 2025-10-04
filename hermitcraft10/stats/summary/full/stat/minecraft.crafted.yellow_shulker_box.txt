@@ -1,0 +1,24 @@
+minecraft.crafted.yellow_shulker_box
+22: Xisuma: 81
+22: falsesymmetry: 40
+22: impulseSV: 30
+22: joehillssays: 23
+22: VintageBeef: 15
+22: Keralis1: 15
+22: GoodTimeWithScar: 11
+22: Etho: 10
+22: Renthedog: 9
+22: BdoubleO100: 9
+22: Docm77: 5
+22: cubfan135: 4
+22: Tango: 3
+22: iJevin: 2
+22: Welsknight: 2
+22: ZombieCleo: 2
+22: Grian: 1
+22: Smallishbeans: 1
+22: PearlescentMoon: 1
+22: Mumbo: 1
+22: hypnotizd: 1
+22: Zedaph: 1
+Total 267

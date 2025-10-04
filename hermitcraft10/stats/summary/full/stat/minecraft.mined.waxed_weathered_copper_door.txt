@@ -1,0 +1,4 @@
+minecraft.mined.waxed_weathered_copper_door
+2: BdoubleO100: 12
+2: Keralis1: 9
+Total 21

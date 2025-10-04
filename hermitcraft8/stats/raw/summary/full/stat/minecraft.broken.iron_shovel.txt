@@ -1,0 +1,21 @@
+minecraft.broken.iron_shovel
+19: GoodTimeWithScar: 110
+19: impulseSV: 91
+19: ZombieCleo: 15
+19: VintageBeef: 11
+19: PearlescentMoon: 10
+19: Tinfoilchef: 9
+19: falsesymmetry: 8
+19: Zedaph: 8
+19: iJevin: 7
+19: BdoubleO100: 6
+19: GeminiTay: 5
+19: Xisuma: 4
+19: joehillssays: 3
+19: Tango: 3
+19: MumboJumbo: 3
+19: Grian: 2
+19: iskall85: 1
+19: Welsknight: 1
+19: hypnotizd: 1
+Total 298

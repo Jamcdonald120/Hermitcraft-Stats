@@ -1,0 +1,26 @@
+minecraft.crafted.iron_pickaxe
+24: ZombieCleo: 40
+24: Skizzleman: 39
+24: GoodTimeWithScar: 36
+24: Tango: 35
+24: PearlescentMoon: 20
+24: impulseSV: 20
+24: cubfan135: 19
+24: Renthedog: 18
+24: iJevin: 18
+24: Zedaph: 18
+24: Xisuma: 11
+24: joehillssays: 11
+24: Smallishbeans: 8
+24: GeminiTay: 7
+24: VintageBeef: 6
+24: Docm77: 5
+24: Grian: 5
+24: Welsknight: 5
+24: Keralis1: 5
+24: xBCrafted: 4
+24: falsesymmetry: 2
+24: Etho: 1
+24: Mumbo: 1
+24: hypnotizd: 1
+Total 335

@@ -1,0 +1,25 @@
+minecraft.crafted.oak_stairs
+23: Renthedog: 1776
+23: GoodTimeWithScar: 1440
+23: Welsknight: 1248
+23: Tango: 1056
+23: impulseSV: 801
+23: Stressmonster101: 696
+23: falsesymmetry: 664
+23: ZombieCleo: 528
+23: Keralis1: 440
+23: Xisuma: 384
+23: Grian: 336
+23: cubfan135: 280
+23: Tinfoilchef: 272
+23: MumboJumbo: 160
+23: iJevin: 88
+23: BdoubleO100: 88
+23: Biffa2001: 80
+23: xBCrafted: 40
+23: iskall85: 32
+23: Docm77: 16
+23: PythonGB: 16
+23: HumanCleo: 8
+23: joehillssays: 8
+Total 10457

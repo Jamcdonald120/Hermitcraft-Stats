@@ -1,0 +1,14 @@
+minecraft.crafted.dried_kelp
+12: falsesymmetry: 605
+12: Mumbo: 468
+12: Tango: 406
+12: VintageBeef: 265
+12: Grian: 129
+12: iJevin: 78
+12: impulseSV: 66
+12: Xisuma: 51
+12: Skizzleman: 45
+12: GoodTimeWithScar: 7
+12: GeminiTay: 2
+12: Etho: 2
+Total 2124

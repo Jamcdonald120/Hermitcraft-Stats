@@ -1,0 +1,5 @@
+minecraft.dropped.yellow_glazed_terracotta
+3: Renthedog: 18
+3: Etho: 2
+3: Keralis1: 1
+Total 21

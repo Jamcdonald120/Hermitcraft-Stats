@@ -1,0 +1,8 @@
+minecraft.picked_up.jungle_wood
+6: Grian: 86
+6: Etho: 46
+6: Keralis1: 15
+6: PearlescentMoon: 6
+6: BdoubleO100: 1
+6: impulseSV: 1
+Total 155

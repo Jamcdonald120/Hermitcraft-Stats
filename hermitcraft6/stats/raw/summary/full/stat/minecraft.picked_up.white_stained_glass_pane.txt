@@ -1,0 +1,22 @@
+minecraft.picked_up.white_stained_glass_pane
+20: MumboJumbo: 2240
+20: Grian: 1263
+20: GoodTimeWithScar: 1241
+20: Renthedog: 1020
+20: Docm77: 644
+20: impulseSV: 571
+20: iskall85: 483
+20: iJevin: 429
+20: falsesymmetry: 297
+20: Tango: 188
+20: Welsknight: 182
+20: Xisuma: 153
+20: cubfan135: 125
+20: Stressmonster101: 124
+20: Keralis1: 36
+20: ZombieCleo: 28
+20: BdoubleO100: 9
+20: joehillssays: 7
+20: PythonGB: 3
+20: HumanCleo: 2
+Total 9045

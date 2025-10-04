@@ -1,0 +1,5 @@
+minecraft.crafted.resin_brick_stairs
+3: Xisuma: 356
+3: Docm77: 6
+3: Renthedog: 1
+Total 363

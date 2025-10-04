@@ -1,0 +1,11 @@
+minecraft.picked_up.jungle_pressure_plate
+9: PearlescentMoon: 15
+9: GeminiTay: 10
+9: impulseSV: 8
+9: cubfan135: 6
+9: iJevin: 4
+9: Etho: 4
+9: GoodTimeWithScar: 2
+9: Tango: 1
+9: Skizzleman: 1
+Total 51

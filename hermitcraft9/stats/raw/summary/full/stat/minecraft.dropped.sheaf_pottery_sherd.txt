@@ -1,0 +1,4 @@
+minecraft.dropped.sheaf_pottery_sherd
+2: GeminiTay: 1
+2: Zedaph: 1
+Total 2

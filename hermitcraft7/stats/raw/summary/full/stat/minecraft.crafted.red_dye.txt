@@ -1,0 +1,25 @@
+minecraft.crafted.red_dye
+23: GoodTimeWithScar: 8534
+23: Tango: 7376
+23: Etho: 6926
+23: impulseSV: 6162
+23: Renthedog: 4268
+23: Xisuma: 3641
+23: Grian: 2525
+23: joehillssays: 1930
+23: cubfan135: 1894
+23: Keralis1: 1552
+23: falsesymmetry: 1307
+23: Stressmonster101: 1069
+23: iJevin: 1024
+23: VintageBeef: 713
+23: iskall85: 488
+23: Docm77: 347
+23: MumboJumbo: 325
+23: xBCrafted: 251
+23: Welsknight: 225
+23: hypnotizd: 152
+23: BdoubleO100: 140
+23: ZombieCleo: 127
+23: Zedaph: 73
+Total 51049

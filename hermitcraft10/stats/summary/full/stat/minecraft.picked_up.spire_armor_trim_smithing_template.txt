@@ -1,0 +1,9 @@
+minecraft.picked_up.spire_armor_trim_smithing_template
+7: iJevin: 16
+7: PearlescentMoon: 3
+7: Xisuma: 2
+7: hypnotizd: 2
+7: Docm77: 1
+7: Welsknight: 1
+7: GoodTimeWithScar: 1
+Total 26

@@ -1,0 +1,13 @@
+minecraft.used.dried_kelp_block
+11: Tango: 93
+11: BdoubleO100: 62
+11: Grian: 52
+11: Etho: 15
+11: GeminiTay: 13
+11: falsesymmetry: 10
+11: Mumbo: 10
+11: impulseSV: 6
+11: PearlescentMoon: 2
+11: ZombieCleo: 1
+11: GoodTimeWithScar: 1
+Total 265

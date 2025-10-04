@@ -1,0 +1,25 @@
+minecraft.used.nether_bricks
+23: falsesymmetry: 5080
+23: Tango: 4948
+23: Xisuma: 4724
+23: Renthedog: 4463
+23: xBCrafted: 4100
+23: cubfan135: 3754
+23: iJevin: 1631
+23: GoodTimeWithScar: 1216
+23: VintageBeef: 1075
+23: Grian: 973
+23: joehillssays: 908
+23: Etho: 900
+23: Keralis1: 473
+23: Stressmonster101: 317
+23: Docm77: 295
+23: iskall85: 260
+23: hypnotizd: 198
+23: impulseSV: 129
+23: MumboJumbo: 109
+23: Zedaph: 46
+23: ZombieCleo: 13
+23: BdoubleO100: 11
+23: Welsknight: 1
+Total 35624

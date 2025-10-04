@@ -1,0 +1,29 @@
+minecraft.picked_up.stripped_oak_log
+27: Docm77: 19376
+27: GoodTimeWithScar: 466
+27: falsesymmetry: 339
+27: BdoubleO100: 203
+27: cubfan135: 169
+27: iskall85: 164
+27: iJevin: 132
+27: Stressmonster101: 131
+27: xBCrafted: 91
+27: RentheKing: 64
+27: Xisuma: 51
+27: hypnotizd: 48
+27: Renthedog: 46
+27: Etho: 44
+27: Grian: 43
+27: PearlescentMoon: 42
+27: ZombieCleo: 42
+27: impulseSV: 17
+27: VintageBeef: 13
+27: Keralis1: 13
+27: joehillssays: 9
+27: Welsknight: 8
+27: Zedaph: 8
+27: Tango: 7
+27: Mumbo: 4
+27: GeminiTay: 1
+27: ShubbleYT: 1
+Total 21532

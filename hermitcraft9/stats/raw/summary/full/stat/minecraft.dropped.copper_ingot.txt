@@ -1,0 +1,21 @@
+minecraft.dropped.copper_ingot
+19: iJevin: 416
+19: Zedaph: 232
+19: Tango: 226
+19: Xisuma: 66
+19: Grian: 40
+19: xBCrafted: 34
+19: falsesymmetry: 34
+19: PearlescentMoon: 14
+19: GoodTimeWithScar: 12
+19: cubfan135: 5
+19: Docm77: 3
+19: Renthedog: 3
+19: BdoubleO100: 3
+19: Keralis1: 3
+19: Etho: 2
+19: MythicalSausage: 1
+19: GeminiTay: 1
+19: iskall85: 1
+19: impulseSV: 1
+Total 1097

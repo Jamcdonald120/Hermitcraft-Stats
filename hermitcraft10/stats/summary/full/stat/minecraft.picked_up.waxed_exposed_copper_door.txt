@@ -1,0 +1,5 @@
+minecraft.picked_up.waxed_exposed_copper_door
+3: Renthedog: 2
+3: falsesymmetry: 2
+3: Tango: 1
+Total 5

@@ -1,0 +1,17 @@
+minecraft.crafted.cut_copper_stairs
+15: cubfan135: 270
+15: Renthedog: 108
+15: Stressmonster101: 80
+15: Tango: 64
+15: MythicalSausage: 52
+15: Xisuma: 44
+15: BdoubleO100: 40
+15: PearlescentMoon: 32
+15: hypnotizd: 32
+15: GoodTimeWithScar: 26
+15: ZombieCleo: 20
+15: falsesymmetry: 16
+15: iskall85: 12
+15: Docm77: 4
+15: Zedaph: 2
+Total 802

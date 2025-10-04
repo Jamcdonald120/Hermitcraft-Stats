@@ -1,0 +1,12 @@
+minecraft.dropped.light_gray_carpet
+10: Renthedog: 60
+10: Etho: 11
+10: Grian: 10
+10: Tango: 9
+10: BdoubleO100: 7
+10: impulseSV: 4
+10: Skizzleman: 3
+10: cubfan135: 3
+10: ZombieCleo: 1
+10: GoodTimeWithScar: 1
+Total 109

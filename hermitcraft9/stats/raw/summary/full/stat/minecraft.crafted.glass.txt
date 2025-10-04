@@ -1,0 +1,33 @@
+minecraft.crafted.glass
+31: GoodTimeWithScar: 81117
+31: Stressmonster101: 43375
+31: Etho: 38298
+31: falsesymmetry: 32971
+31: Grian: 30151
+31: impulseSV: 25847
+31: PearlescentMoon: 14348
+31: iJevin: 11641
+31: iskall85: 11552
+31: Xisuma: 9597
+31: Docm77: 9225
+31: Zedaph: 8665
+31: Tango: 8251
+31: Keralis1: 3745
+31: cubfan135: 3705
+31: ZombieCleo: 3385
+31: xBCrafted: 2136
+31: VintageBeef: 1607
+31: Renthedog: 1088
+31: Mumbo: 896
+31: RentheKing: 610
+31: hypnotizd: 594
+31: Pixlriffs: 515
+31: GeminiTay: 271
+31: BdoubleO100: 263
+31: MumboJumbo: 192
+31: joehillssays: 162
+31: Welsknight: 128
+31: Tinfoilchef: 64
+31: SolidarityGaming: 31
+31: Smallishbeans: 16
+Total 344446

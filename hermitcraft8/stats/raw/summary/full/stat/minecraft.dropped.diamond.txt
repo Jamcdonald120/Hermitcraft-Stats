@@ -1,0 +1,27 @@
+minecraft.dropped.diamond
+25: GoodTimeWithScar: 270
+25: Welsknight: 257
+25: xBCrafted: 207
+25: Docm77: 191
+25: PearlescentMoon: 170
+25: cubfan135: 140
+25: Grian: 131
+25: impulseSV: 120
+25: Etho: 115
+25: Xisuma: 113
+25: iJevin: 91
+25: hypnotizd: 89
+25: BdoubleO100: 54
+25: Renthedog: 53
+25: Keralis1: 41
+25: iskall85: 21
+25: EvilXisuma: 20
+25: GeminiTay: 20
+25: MumboJumbo: 20
+25: Zedaph: 15
+25: VintageBeef: 8
+25: joehillssays: 1
+25: Tango: 1
+25: falsesymmetry: 1
+25: ZombieCleo: 1
+Total 2150

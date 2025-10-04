@@ -1,0 +1,23 @@
+minecraft.picked_up.white_stained_glass
+21: Zedaph: 4402
+21: Docm77: 2099
+21: GoodTimeWithScar: 1465
+21: falsesymmetry: 1398
+21: joehillssays: 552
+21: Renthedog: 522
+21: PearlescentMoon: 388
+21: Xisuma: 379
+21: impulseSV: 339
+21: iJevin: 210
+21: ZombieCleo: 177
+21: cubfan135: 169
+21: xBCrafted: 58
+21: Grian: 29
+21: Keralis1: 25
+21: VintageBeef: 13
+21: Etho: 13
+21: BdoubleO100: 9
+21: GeminiTay: 8
+21: RentheKing: 6
+21: SolidarityGaming: 3
+Total 12264

@@ -1,0 +1,4 @@
+minecraft.crafted.blue_harness
+2: Xisuma: 1
+2: Skizzleman: 1
+Total 2

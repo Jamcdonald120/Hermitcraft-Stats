@@ -1,0 +1,26 @@
+minecraft.picked_up.leather
+24: Zedaph: 6000
+24: Xisuma: 4684
+24: ZombieCleo: 4114
+24: Grian: 3309
+24: joehillssays: 3034
+24: iJevin: 2887
+24: Welsknight: 2287
+24: hypnotizd: 1965
+24: VintageBeef: 1842
+24: Keralis1: 1836
+24: GoodTimeWithScar: 1790
+24: Etho: 1356
+24: Renthedog: 1295
+24: falsesymmetry: 1171
+24: cubfan135: 966
+24: Tango: 871
+24: MumboJumbo: 784
+24: iskall85: 744
+24: BdoubleO100: 478
+24: xBCrafted: 376
+24: Stressmonster101: 275
+24: Docm77: 126
+24: impulseSV: 118
+24: Tinfoilchef: 4
+Total 42312

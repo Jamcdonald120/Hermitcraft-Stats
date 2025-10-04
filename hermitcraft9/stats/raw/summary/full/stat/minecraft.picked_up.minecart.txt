@@ -1,0 +1,29 @@
+minecraft.picked_up.minecart
+27: Docm77: 672
+27: Tango: 432
+27: impulseSV: 292
+27: Grian: 252
+27: Xisuma: 246
+27: iJevin: 210
+27: cubfan135: 187
+27: xBCrafted: 184
+27: Zedaph: 166
+27: Keralis1: 154
+27: hypnotizd: 78
+27: Stressmonster101: 77
+27: iskall85: 75
+27: Etho: 43
+27: falsesymmetry: 40
+27: GoodTimeWithScar: 35
+27: ZombieCleo: 34
+27: Renthedog: 25
+27: joehillssays: 21
+27: GeminiTay: 19
+27: BdoubleO100: 17
+27: VintageBeef: 10
+27: PearlescentMoon: 9
+27: Mumbo: 4
+27: SolidarityGaming: 3
+27: MythicalSausage: 1
+27: MumboJumbo: 1
+Total 3287

@@ -1,0 +1,9 @@
+minecraft.picked_up.lodestone
+7: cubfan135: 191
+7: Tango: 78
+7: Grian: 10
+7: Xisuma: 2
+7: MythicalSausage: 1
+7: PearlescentMoon: 1
+7: Zedaph: 1
+Total 284

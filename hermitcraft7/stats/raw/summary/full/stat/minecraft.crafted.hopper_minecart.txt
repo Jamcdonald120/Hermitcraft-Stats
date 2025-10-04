@@ -1,0 +1,24 @@
+minecraft.crafted.hopper_minecart
+22: Tango: 234
+22: MumboJumbo: 133
+22: impulseSV: 132
+22: Xisuma: 127
+22: Etho: 57
+22: GoodTimeWithScar: 53
+22: iskall85: 46
+22: Zedaph: 42
+22: Grian: 40
+22: falsesymmetry: 39
+22: iJevin: 33
+22: BdoubleO100: 32
+22: hypnotizd: 29
+22: xBCrafted: 28
+22: VintageBeef: 26
+22: Keralis1: 25
+22: joehillssays: 24
+22: Renthedog: 22
+22: cubfan135: 20
+22: Stressmonster101: 14
+22: Docm77: 4
+22: Tinfoilchef: 1
+Total 1161

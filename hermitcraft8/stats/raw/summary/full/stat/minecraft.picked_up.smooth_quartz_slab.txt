@@ -1,0 +1,14 @@
+minecraft.picked_up.smooth_quartz_slab
+12: VintageBeef: 724
+12: impulseSV: 190
+12: Zedaph: 138
+12: Grian: 80
+12: Welsknight: 76
+12: Renthedog: 46
+12: xBCrafted: 25
+12: PearlescentMoon: 18
+12: GeminiTay: 11
+12: Keralis1: 6
+12: ZombieCleo: 5
+12: Docm77: 3
+Total 1322

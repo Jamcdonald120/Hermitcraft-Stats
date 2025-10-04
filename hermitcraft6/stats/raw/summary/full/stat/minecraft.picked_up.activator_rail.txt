@@ -1,0 +1,18 @@
+minecraft.picked_up.activator_rail
+16: Docm77: 108
+16: cubfan135: 104
+16: Grian: 52
+16: Stressmonster101: 35
+16: iskall85: 32
+16: falsesymmetry: 25
+16: Xisuma: 22
+16: Zedaph: 18
+16: impulseSV: 17
+16: Renthedog: 11
+16: Welsknight: 5
+16: MumboJumbo: 3
+16: GoodTimeWithScar: 3
+16: iJevin: 1
+16: joehillssays: 1
+16: Tango: 1
+Total 438

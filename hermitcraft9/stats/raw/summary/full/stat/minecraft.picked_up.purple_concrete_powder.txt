@@ -1,0 +1,13 @@
+minecraft.picked_up.purple_concrete_powder
+11: PearlescentMoon: 240
+11: Xisuma: 211
+11: falsesymmetry: 131
+11: cubfan135: 23
+11: Smallishbeans: 13
+11: iJevin: 8
+11: GoodTimeWithScar: 6
+11: Etho: 4
+11: VintageBeef: 3
+11: impulseSV: 2
+11: Zedaph: 2
+Total 643

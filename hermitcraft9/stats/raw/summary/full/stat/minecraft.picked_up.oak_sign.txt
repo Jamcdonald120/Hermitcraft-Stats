@@ -1,0 +1,33 @@
+minecraft.picked_up.oak_sign
+31: PearlescentMoon: 612
+31: GoodTimeWithScar: 332
+31: Xisuma: 200
+31: Zedaph: 188
+31: falsesymmetry: 150
+31: Grian: 134
+31: impulseSV: 101
+31: iJevin: 89
+31: cubfan135: 88
+31: Docm77: 83
+31: Smallishbeans: 76
+31: Keralis1: 75
+31: Tango: 69
+31: VintageBeef: 36
+31: ZombieCleo: 33
+31: Smajor1995: 26
+31: BdoubleO100: 22
+31: iskall85: 19
+31: Etho: 18
+31: joehillssays: 16
+31: OrionSound: 15
+31: Welsknight: 15
+31: Mumbo: 15
+31: Renthedog: 13
+31: GeminiTay: 11
+31: Stressmonster101: 8
+31: RentheKing: 6
+31: xBCrafted: 3
+31: SolidarityGaming: 3
+31: MythicalSausage: 1
+31: fWhip: 1
+Total 2458

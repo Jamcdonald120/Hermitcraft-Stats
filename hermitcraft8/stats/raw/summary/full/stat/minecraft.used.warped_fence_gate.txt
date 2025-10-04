@@ -1,0 +1,10 @@
+minecraft.used.warped_fence_gate
+8: impulseSV: 121
+8: BdoubleO100: 58
+8: Keralis1: 57
+8: GoodTimeWithScar: 29
+8: Grian: 14
+8: Welsknight: 2
+8: Docm77: 1
+8: Renthedog: 1
+Total 283

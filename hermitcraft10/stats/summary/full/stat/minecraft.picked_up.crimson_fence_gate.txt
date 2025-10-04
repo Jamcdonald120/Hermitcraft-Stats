@@ -1,0 +1,9 @@
+minecraft.picked_up.crimson_fence_gate
+7: ZombieCleo: 23
+7: Xisuma: 4
+7: Tango: 2
+7: Etho: 2
+7: Smallishbeans: 1
+7: cubfan135: 1
+7: impulseSV: 1
+Total 34

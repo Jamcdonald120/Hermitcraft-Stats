@@ -1,0 +1,14 @@
+minecraft.picked_up.pink_terracotta
+12: impulseSV: 921
+12: Mumbo: 322
+12: PearlescentMoon: 275
+12: VintageBeef: 126
+12: ZombieCleo: 112
+12: Smallishbeans: 47
+12: falsesymmetry: 46
+12: joehillssays: 42
+12: Grian: 20
+12: GoodTimeWithScar: 11
+12: Etho: 6
+12: GeminiTay: 1
+Total 1929

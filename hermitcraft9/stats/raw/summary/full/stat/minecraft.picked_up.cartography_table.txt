@@ -1,0 +1,21 @@
+minecraft.picked_up.cartography_table
+19: Grian: 106
+19: joehillssays: 34
+19: GoodTimeWithScar: 26
+19: PearlescentMoon: 16
+19: Renthedog: 15
+19: iJevin: 12
+19: Smajor1995: 9
+19: cubfan135: 9
+19: falsesymmetry: 7
+19: GeminiTay: 6
+19: Tango: 4
+19: Docm77: 3
+19: Keralis1: 3
+19: Zedaph: 3
+19: VintageBeef: 1
+19: BdoubleO100: 1
+19: Etho: 1
+19: RentheKing: 1
+19: impulseSV: 1
+Total 258

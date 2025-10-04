@@ -1,0 +1,4 @@
+minecraft.picked_up.pink_banner
+2: Keralis1: 3
+2: Renthedog: 1
+Total 4

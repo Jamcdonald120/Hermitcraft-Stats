@@ -1,0 +1,24 @@
+minecraft.picked_up.end_stone
+22: iJevin: 53248
+22: Xisuma: 2750
+22: impulseSV: 2144
+22: xBCrafted: 1328
+22: Docm77: 1225
+22: hypnotizd: 1045
+22: Keralis1: 754
+22: cubfan135: 733
+22: joehillssays: 619
+22: Etho: 317
+22: ZombieCleo: 265
+22: Renthedog: 220
+22: Zedaph: 173
+22: Tango: 154
+22: Grian: 152
+22: falsesymmetry: 142
+22: PearlescentMoon: 96
+22: GeminiTay: 47
+22: GoodTimeWithScar: 42
+22: VintageBeef: 23
+22: Welsknight: 3
+22: iskall85: 2
+Total 65482

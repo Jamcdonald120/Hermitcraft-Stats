@@ -1,0 +1,4 @@
+minecraft.used.skeleton_skull
+2: falsesymmetry: 2
+2: cubfan135: 1
+Total 3

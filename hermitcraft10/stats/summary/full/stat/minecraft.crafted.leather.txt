@@ -1,0 +1,4 @@
+minecraft.crafted.leather
+2: Zedaph: 23
+2: cubfan135: 2
+Total 25

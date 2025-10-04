@@ -1,0 +1,19 @@
+minecraft.picked_up.chainmail_chestplate
+17: GoodTimeWithScar: 13
+17: Xisuma: 12
+17: joehillssays: 12
+17: cubfan135: 11
+17: iJevin: 9
+17: Tango: 8
+17: iskall85: 7
+17: Renthedog: 5
+17: Biffa2001: 4
+17: Docm77: 3
+17: falsesymmetry: 2
+17: Welsknight: 2
+17: MumboJumbo: 2
+17: Stressmonster101: 2
+17: PythonGB: 1
+17: ZombieCleo: 1
+17: Zedaph: 1
+Total 95

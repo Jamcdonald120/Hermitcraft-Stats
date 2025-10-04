@@ -1,0 +1,26 @@
+minecraft.used.spruce_planks
+24: PearlescentMoon: 11277
+24: GeminiTay: 7254
+24: ZombieCleo: 6562
+24: impulseSV: 4911
+24: Grian: 3804
+24: MumboJumbo: 3023
+24: Xisuma: 2473
+24: BdoubleO100: 1353
+24: cubfan135: 1312
+24: joehillssays: 1001
+24: Etho: 1000
+24: GoodTimeWithScar: 939
+24: Renthedog: 642
+24: iskall85: 411
+24: VintageBeef: 353
+24: iJevin: 336
+24: Tango: 264
+24: Welsknight: 245
+24: Docm77: 195
+24: Stressmonster101: 189
+24: Keralis1: 180
+24: falsesymmetry: 44
+24: xBCrafted: 24
+24: EvilXisuma: 12
+Total 47804

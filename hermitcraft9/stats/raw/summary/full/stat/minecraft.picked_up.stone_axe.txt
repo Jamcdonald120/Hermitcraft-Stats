@@ -1,0 +1,24 @@
+minecraft.picked_up.stone_axe
+22: PearlescentMoon: 11
+22: Grian: 9
+22: joehillssays: 8
+22: falsesymmetry: 7
+22: ZombieCleo: 5
+22: Stressmonster101: 5
+22: impulseSV: 5
+22: GeminiTay: 4
+22: Zedaph: 4
+22: Docm77: 3
+22: Renthedog: 3
+22: Mumbo: 3
+22: iJevin: 2
+22: Tango: 2
+22: iskall85: 2
+22: cubfan135: 2
+22: MumboJumbo: 2
+22: Tinfoilchef: 2
+22: Keralis1: 2
+22: xBCrafted: 1
+22: hypnotizd: 1
+22: GoodTimeWithScar: 1
+Total 84

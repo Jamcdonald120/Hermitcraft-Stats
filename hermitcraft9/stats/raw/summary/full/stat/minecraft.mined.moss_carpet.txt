@@ -1,0 +1,33 @@
+minecraft.mined.moss_carpet
+31: Tango: 3904
+31: GoodTimeWithScar: 1109
+31: xBCrafted: 748
+31: PearlescentMoon: 723
+31: cubfan135: 444
+31: ZombieCleo: 425
+31: Zedaph: 371
+31: impulseSV: 361
+31: Etho: 318
+31: joehillssays: 315
+31: Xisuma: 286
+31: Docm77: 282
+31: iskall85: 234
+31: Renthedog: 226
+31: iJevin: 166
+31: Stressmonster101: 164
+31: falsesymmetry: 146
+31: hypnotizd: 120
+31: Keralis1: 119
+31: MythicalSausage: 110
+31: Grian: 97
+31: BdoubleO100: 71
+31: VintageBeef: 70
+31: GeminiTay: 68
+31: Mumbo: 26
+31: RentheKing: 13
+31: ShubbleYT: 7
+31: fWhip: 6
+31: MumboJumbo: 5
+31: Smallishbeans: 4
+31: SolidarityGaming: 1
+Total 10939

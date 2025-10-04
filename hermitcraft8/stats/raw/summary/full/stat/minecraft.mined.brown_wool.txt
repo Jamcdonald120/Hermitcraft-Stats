@@ -1,0 +1,10 @@
+minecraft.mined.brown_wool
+8: PearlescentMoon: 88
+8: Zedaph: 77
+8: Grian: 16
+8: Tango: 15
+8: VintageBeef: 6
+8: iJevin: 4
+8: impulseSV: 4
+8: ZombieCleo: 1
+Total 211

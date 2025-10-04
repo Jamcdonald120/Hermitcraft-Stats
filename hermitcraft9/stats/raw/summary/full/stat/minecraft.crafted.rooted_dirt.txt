@@ -1,0 +1,3 @@
+minecraft.crafted.rooted_dirt
+1: Tango: 10
+Total 10

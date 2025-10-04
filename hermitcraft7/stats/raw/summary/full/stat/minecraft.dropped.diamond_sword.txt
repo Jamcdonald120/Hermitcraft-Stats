@@ -1,0 +1,26 @@
+minecraft.dropped.diamond_sword
+24: iJevin: 50
+24: Keralis1: 33
+24: Grian: 29
+24: Tango: 28
+24: Zedaph: 28
+24: GoodTimeWithScar: 20
+24: MumboJumbo: 13
+24: Xisuma: 9
+24: cubfan135: 9
+24: iskall85: 7
+24: Etho: 7
+24: hypnotizd: 7
+24: impulseSV: 7
+24: Renthedog: 6
+24: VintageBeef: 6
+24: Stressmonster101: 5
+24: ZombieCleo: 4
+24: joehillssays: 3
+24: falsesymmetry: 3
+24: Docm77: 2
+24: BdoubleO100: 2
+24: Tinfoilchef: 2
+24: Welsknight: 1
+24: BarryBoss1234: 1
+Total 282

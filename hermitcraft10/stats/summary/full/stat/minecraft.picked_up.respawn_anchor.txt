@@ -1,0 +1,12 @@
+minecraft.picked_up.respawn_anchor
+10: Grian: 66
+10: Xisuma: 16
+10: cubfan135: 6
+10: impulseSV: 5
+10: iJevin: 3
+10: joehillssays: 3
+10: Skizzleman: 1
+10: Etho: 1
+10: ZombieCleo: 1
+10: GoodTimeWithScar: 1
+Total 103

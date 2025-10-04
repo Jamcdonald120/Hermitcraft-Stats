@@ -1,0 +1,8 @@
+minecraft.dropped.purple_stained_glass_pane
+6: falsesymmetry: 55
+6: Zedaph: 24
+6: Tango: 23
+6: Mumbo: 4
+6: ZombieCleo: 2
+6: iJevin: 1
+Total 109

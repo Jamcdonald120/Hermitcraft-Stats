@@ -1,0 +1,23 @@
+minecraft.picked_up.stone_shovel
+21: iJevin: 25
+21: cubfan135: 20
+21: VintageBeef: 11
+21: joehillssays: 11
+21: PearlescentMoon: 10
+21: Grian: 4
+21: GeminiTay: 3
+21: Tango: 3
+21: impulseSV: 3
+21: Xisuma: 2
+21: ZombieCleo: 2
+21: Mumbo: 2
+21: MumboJumbo: 2
+21: Tinfoilchef: 2
+21: Docm77: 1
+21: Renthedog: 1
+21: falsesymmetry: 1
+21: Welsknight: 1
+21: Stressmonster101: 1
+21: Keralis1: 1
+21: Zedaph: 1
+Total 107

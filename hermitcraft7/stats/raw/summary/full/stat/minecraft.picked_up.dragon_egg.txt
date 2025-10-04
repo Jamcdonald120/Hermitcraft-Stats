@@ -1,0 +1,4 @@
+minecraft.picked_up.dragon_egg
+2: Xisuma: 2
+2: Tango: 1
+Total 3

@@ -1,0 +1,8 @@
+minecraft.picked_up.exposed_cut_copper_stairs
+6: Keralis1: 148
+6: Tango: 43
+6: falsesymmetry: 34
+6: Docm77: 21
+6: Etho: 1
+6: hypnotizd: 1
+Total 248

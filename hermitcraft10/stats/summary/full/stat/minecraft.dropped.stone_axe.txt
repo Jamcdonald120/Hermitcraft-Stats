@@ -1,0 +1,20 @@
+minecraft.dropped.stone_axe
+18: Etho: 36
+18: impulseSV: 10
+18: Renthedog: 6
+18: iJevin: 5
+18: Xisuma: 2
+18: VintageBeef: 2
+18: Grian: 2
+18: Skizzleman: 2
+18: Smallishbeans: 2
+18: Keralis1: 2
+18: Zedaph: 2
+18: GeminiTay: 1
+18: BdoubleO100: 1
+18: xBCrafted: 1
+18: falsesymmetry: 1
+18: Welsknight: 1
+18: Mumbo: 1
+18: GoodTimeWithScar: 1
+Total 78

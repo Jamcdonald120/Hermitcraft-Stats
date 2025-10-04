@@ -1,0 +1,12 @@
+minecraft.dropped.dark_oak_stairs
+10: falsesymmetry: 88
+10: cubfan135: 21
+10: iJevin: 16
+10: Etho: 10
+10: Renthedog: 4
+10: Docm77: 2
+10: Grian: 1
+10: xBCrafted: 1
+10: Mumbo: 1
+10: GoodTimeWithScar: 1
+Total 145

@@ -1,0 +1,6 @@
+minecraft.picked_up.field_masoned_banner_pattern
+4: Skizzleman: 3
+4: PearlescentMoon: 1
+4: falsesymmetry: 1
+4: Keralis1: 1
+Total 6

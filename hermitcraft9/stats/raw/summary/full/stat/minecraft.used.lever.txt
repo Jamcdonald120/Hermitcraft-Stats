@@ -1,0 +1,32 @@
+minecraft.used.lever
+30: cubfan135: 1005
+30: Tango: 801
+30: Docm77: 647
+30: Xisuma: 454
+30: GoodTimeWithScar: 384
+30: iJevin: 381
+30: BdoubleO100: 354
+30: Mumbo: 352
+30: Keralis1: 352
+30: impulseSV: 325
+30: joehillssays: 242
+30: falsesymmetry: 207
+30: Zedaph: 186
+30: hypnotizd: 175
+30: ZombieCleo: 168
+30: PearlescentMoon: 138
+30: Grian: 118
+30: Renthedog: 68
+30: Etho: 54
+30: xBCrafted: 38
+30: iskall85: 32
+30: MythicalSausage: 27
+30: GeminiTay: 17
+30: RentheKing: 14
+30: VintageBeef: 12
+30: Stressmonster101: 11
+30: OrionSound: 8
+30: fWhip: 7
+30: Welsknight: 6
+30: Pixlriffs: 3
+Total 6586

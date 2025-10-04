@@ -1,0 +1,26 @@
+minecraft.picked_up.jukebox
+24: iJevin: 161
+24: cubfan135: 61
+24: Docm77: 53
+24: Etho: 46
+24: Grian: 34
+24: Xisuma: 32
+24: PearlescentMoon: 29
+24: impulseSV: 29
+24: GoodTimeWithScar: 28
+24: GeminiTay: 15
+24: Tango: 15
+24: Renthedog: 13
+24: Skizzleman: 13
+24: Smallishbeans: 13
+24: Keralis1: 11
+24: hypnotizd: 10
+24: BdoubleO100: 9
+24: VintageBeef: 6
+24: joehillssays: 2
+24: falsesymmetry: 2
+24: ZombieCleo: 2
+24: Mumbo: 2
+24: Welsknight: 1
+24: Zedaph: 1
+Total 588

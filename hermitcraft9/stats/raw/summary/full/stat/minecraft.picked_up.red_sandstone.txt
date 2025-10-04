@@ -1,0 +1,10 @@
+minecraft.picked_up.red_sandstone
+8: Grian: 378
+8: PearlescentMoon: 288
+8: Etho: 128
+8: Xisuma: 48
+8: GoodTimeWithScar: 27
+8: impulseSV: 13
+8: Zedaph: 6
+8: iskall85: 4
+Total 892

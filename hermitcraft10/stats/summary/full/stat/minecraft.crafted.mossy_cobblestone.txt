@@ -1,0 +1,22 @@
+minecraft.crafted.mossy_cobblestone
+20: Etho: 2589
+20: GeminiTay: 1882
+20: BdoubleO100: 1730
+20: falsesymmetry: 1198
+20: Smallishbeans: 1007
+20: Xisuma: 1003
+20: GoodTimeWithScar: 929
+20: Tango: 866
+20: impulseSV: 729
+20: Grian: 610
+20: iJevin: 586
+20: PearlescentMoon: 415
+20: Zedaph: 373
+20: xBCrafted: 256
+20: Docm77: 220
+20: Keralis1: 163
+20: Renthedog: 158
+20: cubfan135: 90
+20: Skizzleman: 64
+20: VintageBeef: 20
+Total 14888

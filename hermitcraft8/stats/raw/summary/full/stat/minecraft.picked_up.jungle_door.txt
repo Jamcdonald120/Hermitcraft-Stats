@@ -1,0 +1,8 @@
+minecraft.picked_up.jungle_door
+6: PearlescentMoon: 33
+6: BdoubleO100: 6
+6: iskall85: 6
+6: Keralis1: 4
+6: Etho: 2
+6: GoodTimeWithScar: 1
+Total 52

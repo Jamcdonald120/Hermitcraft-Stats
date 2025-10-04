@@ -1,0 +1,21 @@
+minecraft.dropped.jungle_planks
+19: falsesymmetry: 150
+19: Keralis1: 108
+19: iJevin: 76
+19: Grian: 67
+19: Etho: 65
+19: GoodTimeWithScar: 40
+19: Renthedog: 34
+19: Mumbo: 26
+19: ZombieCleo: 23
+19: Docm77: 16
+19: cubfan135: 8
+19: Smallishbeans: 6
+19: Skizzleman: 5
+19: GeminiTay: 4
+19: Zedaph: 4
+19: xBCrafted: 3
+19: VintageBeef: 2
+19: impulseSV: 2
+19: Tango: 1
+Total 640

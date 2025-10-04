@@ -1,0 +1,10 @@
+minecraft.dropped.painting
+8: Xisuma: 56
+8: Etho: 27
+8: falsesymmetry: 15
+8: Grian: 12
+8: Keralis1: 5
+8: iJevin: 4
+8: impulseSV: 4
+8: GoodTimeWithScar: 3
+Total 126

@@ -1,0 +1,5 @@
+minecraft.mined.black_terracotta
+3: impulseSV: 17
+3: PearlescentMoon: 16
+3: VintageBeef: 12
+Total 45

@@ -1,0 +1,12 @@
+minecraft.crafted.purple_wool
+10: Etho: 448
+10: iJevin: 355
+10: Renthedog: 310
+10: Xisuma: 160
+10: PearlescentMoon: 130
+10: Zedaph: 13
+10: impulseSV: 11
+10: ZombieCleo: 9
+10: cubfan135: 5
+10: GoodTimeWithScar: 1
+Total 1442

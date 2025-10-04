@@ -1,0 +1,18 @@
+minecraft.crafted.black_concrete_powder
+16: falsesymmetry: 28824
+16: cubfan135: 23008
+16: Xisuma: 21800
+16: GoodTimeWithScar: 19800
+16: iJevin: 6896
+16: Grian: 6717
+16: ZombieCleo: 5576
+16: iskall85: 3744
+16: Zedaph: 3208
+16: impulseSV: 2712
+16: Renthedog: 1952
+16: Stressmonster101: 1440
+16: Welsknight: 1216
+16: MumboJumbo: 624
+16: Tango: 208
+16: joehillssays: 160
+Total 127885

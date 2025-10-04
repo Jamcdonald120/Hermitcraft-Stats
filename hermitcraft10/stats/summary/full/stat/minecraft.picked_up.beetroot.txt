@@ -1,0 +1,27 @@
+minecraft.picked_up.beetroot
+25: PearlescentMoon: 10083
+25: Tango: 5966
+25: Grian: 3766
+25: Renthedog: 2877
+25: GeminiTay: 2149
+25: Etho: 770
+25: cubfan135: 577
+25: Skizzleman: 461
+25: falsesymmetry: 432
+25: BdoubleO100: 357
+25: VintageBeef: 352
+25: GoodTimeWithScar: 121
+25: impulseSV: 101
+25: Smallishbeans: 56
+25: iJevin: 35
+25: Xisuma: 28
+25: ZombieCleo: 24
+25: Mumbo: 22
+25: Zedaph: 21
+25: joehillssays: 16
+25: SolidarityGaming: 11
+25: InTheLittleWood: 2
+25: xBCrafted: 1
+25: hypnotizd: 1
+25: HBomb94: 1
+Total 28230

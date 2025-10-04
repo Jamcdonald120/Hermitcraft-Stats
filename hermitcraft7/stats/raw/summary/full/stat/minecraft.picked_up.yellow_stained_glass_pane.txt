@@ -1,0 +1,14 @@
+minecraft.picked_up.yellow_stained_glass_pane
+12: impulseSV: 1455
+12: Grian: 667
+12: Etho: 107
+12: VintageBeef: 30
+12: GoodTimeWithScar: 27
+12: MumboJumbo: 16
+12: cubfan135: 12
+12: Xisuma: 4
+12: Stressmonster101: 4
+12: Keralis1: 4
+12: Zedaph: 4
+12: Tango: 2
+Total 2332

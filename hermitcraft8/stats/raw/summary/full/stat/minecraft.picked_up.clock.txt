@@ -1,0 +1,17 @@
+minecraft.picked_up.clock
+15: PearlescentMoon: 248
+15: BdoubleO100: 144
+15: Keralis1: 53
+15: Zedaph: 31
+15: Tango: 27
+15: GoodTimeWithScar: 24
+15: cubfan135: 21
+15: impulseSV: 8
+15: Etho: 6
+15: Xisuma: 3
+15: joehillssays: 2
+15: xBCrafted: 2
+15: Grian: 1
+15: hypnotizd: 1
+15: MumboJumbo: 1
+Total 572

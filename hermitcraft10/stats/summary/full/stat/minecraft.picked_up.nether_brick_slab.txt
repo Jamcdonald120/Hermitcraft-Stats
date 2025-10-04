@@ -1,0 +1,12 @@
+minecraft.picked_up.nether_brick_slab
+10: Xisuma: 144
+10: Grian: 25
+10: GoodTimeWithScar: 21
+10: iJevin: 12
+10: GeminiTay: 10
+10: Zedaph: 10
+10: Renthedog: 3
+10: hypnotizd: 3
+10: Smallishbeans: 1
+10: Welsknight: 1
+Total 230

@@ -1,0 +1,5 @@
+minecraft.crafted.exposed_cut_copper
+3: Keralis1: 8
+3: Docm77: 4
+3: BdoubleO100: 4
+Total 16

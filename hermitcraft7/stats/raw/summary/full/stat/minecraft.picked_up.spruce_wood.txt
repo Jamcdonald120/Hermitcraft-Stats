@@ -1,0 +1,19 @@
+minecraft.picked_up.spruce_wood
+17: VintageBeef: 182
+17: Keralis1: 89
+17: Tango: 65
+17: GoodTimeWithScar: 61
+17: Grian: 50
+17: cubfan135: 36
+17: MumboJumbo: 19
+17: Etho: 13
+17: Stressmonster101: 12
+17: BdoubleO100: 11
+17: Welsknight: 10
+17: Renthedog: 9
+17: Docm77: 6
+17: impulseSV: 6
+17: Zedaph: 6
+17: xBCrafted: 2
+17: ZombieCleo: 1
+Total 578

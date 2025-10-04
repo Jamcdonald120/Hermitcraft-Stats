@@ -1,0 +1,5 @@
+minecraft.dropped.pale_oak_stairs
+3: iJevin: 85
+3: impulseSV: 7
+3: cubfan135: 2
+Total 94

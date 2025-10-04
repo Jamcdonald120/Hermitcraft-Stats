@@ -1,0 +1,9 @@
+minecraft.picked_up.compass
+7: PearlescentMoon: 188
+7: Keralis1: 45
+7: BdoubleO100: 35
+7: cubfan135: 17
+7: GoodTimeWithScar: 9
+7: Etho: 1
+7: Zedaph: 1
+Total 296

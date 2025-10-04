@@ -1,0 +1,15 @@
+minecraft.dropped.gray_wool
+13: Zedaph: 110
+13: PearlescentMoon: 64
+13: GoodTimeWithScar: 64
+13: Welsknight: 30
+13: Docm77: 16
+13: Renthedog: 14
+13: Keralis1: 10
+13: Xisuma: 5
+13: iJevin: 1
+13: GeminiTay: 1
+13: Grian: 1
+13: BdoubleO100: 1
+13: falsesymmetry: 1
+Total 318

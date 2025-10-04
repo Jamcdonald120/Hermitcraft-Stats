@@ -1,0 +1,5 @@
+minecraft.picked_up.prismarine_stairs
+3: BdoubleO100: 58
+3: xBCrafted: 56
+3: Grian: 2
+Total 116

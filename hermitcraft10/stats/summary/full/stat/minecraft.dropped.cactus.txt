@@ -1,0 +1,22 @@
+minecraft.dropped.cactus
+20: falsesymmetry: 13086
+20: Etho: 5256
+20: Skizzleman: 2717
+20: impulseSV: 1787
+20: hypnotizd: 907
+20: GoodTimeWithScar: 175
+20: Grian: 85
+20: iJevin: 75
+20: Xisuma: 69
+20: xBCrafted: 28
+20: Keralis1: 28
+20: GeminiTay: 24
+20: cubfan135: 24
+20: Renthedog: 13
+20: Smallishbeans: 6
+20: ZombieCleo: 6
+20: Tango: 5
+20: joehillssays: 3
+20: Zedaph: 3
+20: Docm77: 2
+Total 24299

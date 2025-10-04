@@ -1,0 +1,10 @@
+minecraft.crafted.silence_armor_trim_smithing_template
+8: cubfan135: 194
+8: iJevin: 42
+8: PearlescentMoon: 18
+8: Keralis1: 12
+8: hypnotizd: 4
+8: impulseSV: 4
+8: GoodTimeWithScar: 2
+8: Zedaph: 2
+Total 278

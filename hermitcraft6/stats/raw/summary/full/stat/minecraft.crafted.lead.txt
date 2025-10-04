@@ -1,0 +1,21 @@
+minecraft.crafted.lead
+19: impulseSV: 156
+19: GoodTimeWithScar: 86
+19: Xisuma: 58
+19: Docm77: 54
+19: iskall85: 42
+19: Zedaph: 34
+19: cubfan135: 32
+19: Stressmonster101: 24
+19: falsesymmetry: 16
+19: iJevin: 12
+19: Grian: 6
+19: Welsknight: 6
+19: joehillssays: 4
+19: BdoubleO100: 4
+19: Tinfoilchef: 4
+19: PythonGB: 2
+19: ZombieCleo: 2
+19: MumboJumbo: 2
+19: Keralis1: 2
+Total 546

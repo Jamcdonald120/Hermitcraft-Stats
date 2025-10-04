@@ -1,0 +1,8 @@
+minecraft.crafted.chiseled_quartz_block
+6: Keralis1: 42
+6: impulseSV: 19
+6: Renthedog: 11
+6: joehillssays: 9
+6: Xisuma: 1
+6: hypnotizd: 1
+Total 83

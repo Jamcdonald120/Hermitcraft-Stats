@@ -1,0 +1,9 @@
+minecraft.picked_up.brown_banner
+7: PearlescentMoon: 22
+7: cubfan135: 12
+7: Xisuma: 10
+7: iJevin: 6
+7: falsesymmetry: 2
+7: GoodTimeWithScar: 1
+7: Zedaph: 1
+Total 54

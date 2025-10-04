@@ -1,0 +1,9 @@
+minecraft.dropped.gray_dye
+7: hypnotizd: 37
+7: falsesymmetry: 33
+7: Etho: 16
+7: Keralis1: 10
+7: Xisuma: 3
+7: Docm77: 1
+7: iJevin: 1
+Total 101

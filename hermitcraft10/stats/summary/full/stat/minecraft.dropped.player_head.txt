@@ -1,0 +1,33 @@
+minecraft.dropped.player_head
+31: hypnotizd: 9825
+31: Tango: 1917
+31: Keralis1: 1143
+31: Grian: 1003
+31: Docm77: 969
+31: Etho: 725
+31: cubfan135: 589
+31: GoodTimeWithScar: 380
+31: iJevin: 377
+31: Zedaph: 267
+31: impulseSV: 226
+31: Xisuma: 201
+31: Renthedog: 200
+31: Mumbo: 142
+31: PearlescentMoon: 131
+31: xBCrafted: 128
+31: BdoubleO100: 95
+31: joehillssays: 85
+31: Skizzleman: 79
+31: ZombieCleo: 71
+31: falsesymmetry: 67
+31: GeminiTay: 41
+31: Smallishbeans: 28
+31: VintageBeef: 25
+31: Welsknight: 5
+31: jojosolos: 3
+31: aimsey: 2
+31: F1RECRACKR: 1
+31: OrionSound: 1
+31: HBomb94: 1
+31: SolidarityGaming: 1
+Total 18728

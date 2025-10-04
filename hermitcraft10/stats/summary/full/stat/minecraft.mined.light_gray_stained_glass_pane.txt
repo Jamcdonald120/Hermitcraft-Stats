@@ -1,0 +1,19 @@
+minecraft.mined.light_gray_stained_glass_pane
+17: impulseSV: 65
+17: PearlescentMoon: 55
+17: Tango: 37
+17: GoodTimeWithScar: 36
+17: Keralis1: 32
+17: Xisuma: 27
+17: BdoubleO100: 25
+17: falsesymmetry: 9
+17: Mumbo: 9
+17: Grian: 5
+17: Smallishbeans: 5
+17: cubfan135: 5
+17: ZombieCleo: 5
+17: Etho: 3
+17: iJevin: 2
+17: joehillssays: 2
+17: Skizzleman: 2
+Total 324

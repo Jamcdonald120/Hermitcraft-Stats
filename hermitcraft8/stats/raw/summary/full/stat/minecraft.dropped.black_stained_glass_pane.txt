@@ -1,0 +1,5 @@
+minecraft.dropped.black_stained_glass_pane
+3: impulseSV: 128
+3: iJevin: 25
+3: Grian: 6
+Total 159

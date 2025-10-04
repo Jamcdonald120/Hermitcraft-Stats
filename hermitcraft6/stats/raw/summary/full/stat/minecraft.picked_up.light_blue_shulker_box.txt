@@ -1,0 +1,22 @@
+minecraft.picked_up.light_blue_shulker_box
+20: Renthedog: 2172
+20: GoodTimeWithScar: 1627
+20: cubfan135: 1202
+20: Xisuma: 953
+20: falsesymmetry: 892
+20: iskall85: 612
+20: Stressmonster101: 572
+20: impulseSV: 389
+20: iJevin: 341
+20: Docm77: 204
+20: joehillssays: 180
+20: Grian: 110
+20: Tango: 85
+20: ZombieCleo: 53
+20: PythonGB: 44
+20: Biffa2001: 39
+20: HumanCleo: 21
+20: MumboJumbo: 21
+20: Zedaph: 5
+20: BdoubleO100: 1
+Total 9523

@@ -1,0 +1,11 @@
+minecraft.crafted.end_stone_bricks
+9: Renthedog: 256
+9: iJevin: 240
+9: cubfan135: 164
+9: Xisuma: 106
+9: PearlescentMoon: 44
+9: GoodTimeWithScar: 44
+9: VintageBeef: 4
+9: joehillssays: 4
+9: falsesymmetry: 4
+Total 866

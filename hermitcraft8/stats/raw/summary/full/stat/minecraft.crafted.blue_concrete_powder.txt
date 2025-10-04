@@ -1,0 +1,9 @@
+minecraft.crafted.blue_concrete_powder
+7: Tango: 256
+7: xBCrafted: 160
+7: Renthedog: 128
+7: PearlescentMoon: 32
+7: Grian: 16
+7: iskall85: 8
+7: Welsknight: 8
+Total 608

@@ -1,0 +1,27 @@
+minecraft.dropped.filled_map
+25: cubfan135: 839
+25: iJevin: 742
+25: Renthedog: 327
+25: Grian: 170
+25: PearlescentMoon: 154
+25: Skizzleman: 116
+25: Etho: 101
+25: falsesymmetry: 98
+25: VintageBeef: 61
+25: GoodTimeWithScar: 60
+25: joehillssays: 53
+25: ZombieCleo: 44
+25: Docm77: 41
+25: Welsknight: 30
+25: GeminiTay: 25
+25: Tango: 25
+25: Xisuma: 19
+25: xBCrafted: 17
+25: impulseSV: 16
+25: BdoubleO100: 9
+25: Smallishbeans: 3
+25: hypnotizd: 3
+25: Keralis1: 2
+25: Zedaph: 2
+25: Mumbo: 1
+Total 2958

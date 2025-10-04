@@ -1,0 +1,25 @@
+minecraft.picked_up.smooth_basalt
+23: GoodTimeWithScar: 5079
+23: cubfan135: 3799
+23: impulseSV: 1982
+23: Xisuma: 1286
+23: Grian: 1158
+23: Docm77: 922
+23: PearlescentMoon: 838
+23: iJevin: 718
+23: Tango: 462
+23: joehillssays: 328
+23: Renthedog: 315
+23: falsesymmetry: 253
+23: ZombieCleo: 222
+23: VintageBeef: 152
+23: Zedaph: 115
+23: GeminiTay: 89
+23: xBCrafted: 87
+23: Etho: 79
+23: iskall85: 72
+23: BdoubleO100: 65
+23: Welsknight: 24
+23: hypnotizd: 15
+23: MumboJumbo: 8
+Total 18068

@@ -1,0 +1,16 @@
+minecraft.picked_up.smooth_quartz
+14: Grian: 475
+14: PearlescentMoon: 468
+14: impulseSV: 400
+14: Zedaph: 68
+14: Welsknight: 59
+14: GoodTimeWithScar: 35
+14: GeminiTay: 33
+14: Tango: 22
+14: Keralis1: 22
+14: xBCrafted: 8
+14: VintageBeef: 2
+14: iJevin: 2
+14: cubfan135: 2
+14: ZombieCleo: 1
+Total 1597

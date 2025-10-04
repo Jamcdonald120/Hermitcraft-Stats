@@ -1,0 +1,22 @@
+minecraft.picked_up.beetroot_seeds
+20: xBCrafted: 2272
+20: Etho: 1821
+20: joehillssays: 1802
+20: Zedaph: 576
+20: Tango: 287
+20: ZombieCleo: 218
+20: Keralis1: 162
+20: hypnotizd: 52
+20: Welsknight: 48
+20: falsesymmetry: 45
+20: impulseSV: 45
+20: VintageBeef: 36
+20: Xisuma: 20
+20: Stressmonster101: 11
+20: cubfan135: 9
+20: Grian: 6
+20: MumboJumbo: 3
+20: Renthedog: 2
+20: BdoubleO100: 2
+20: iskall85: 1
+Total 7418

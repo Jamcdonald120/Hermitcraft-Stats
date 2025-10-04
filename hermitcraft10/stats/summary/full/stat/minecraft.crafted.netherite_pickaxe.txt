@@ -1,0 +1,18 @@
+minecraft.crafted.netherite_pickaxe
+16: xBCrafted: 5
+16: iJevin: 4
+16: PearlescentMoon: 4
+16: Smallishbeans: 3
+16: cubfan135: 3
+16: impulseSV: 3
+16: Xisuma: 2
+16: VintageBeef: 2
+16: Welsknight: 2
+16: Etho: 2
+16: hypnotizd: 2
+16: Keralis1: 2
+16: Docm77: 1
+16: joehillssays: 1
+16: BdoubleO100: 1
+16: Zedaph: 1
+Total 38

@@ -1,0 +1,29 @@
+minecraft.picked_up.saddle
+27: Grian: 270
+27: Keralis1: 115
+27: PearlescentMoon: 82
+27: Docm77: 58
+27: GeminiTay: 54
+27: iJevin: 40
+27: hypnotizd: 32
+27: Skizzleman: 27
+27: cubfan135: 20
+27: Etho: 20
+27: Tango: 19
+27: ZombieCleo: 19
+27: Renthedog: 18
+27: GoodTimeWithScar: 15
+27: Xisuma: 8
+27: VintageBeef: 8
+27: BdoubleO100: 8
+27: falsesymmetry: 8
+27: impulseSV: 8
+27: Zedaph: 8
+27: joehillssays: 6
+27: Welsknight: 6
+27: xBCrafted: 3
+27: Mumbo: 3
+27: F1RECRACKR: 1
+27: Smallishbeans: 1
+27: Eyjoy27: 1
+Total 858

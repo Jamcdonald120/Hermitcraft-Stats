@@ -1,0 +1,23 @@
+minecraft.crafted.stone_brick_stairs
+21: falsesymmetry: 644
+21: iJevin: 356
+21: ZombieCleo: 332
+21: cubfan135: 295
+21: Smallishbeans: 264
+21: PearlescentMoon: 180
+21: Xisuma: 168
+21: Skizzleman: 152
+21: Grian: 120
+21: VintageBeef: 102
+21: Mumbo: 68
+21: impulseSV: 67
+21: xBCrafted: 42
+21: Etho: 41
+21: GeminiTay: 36
+21: Keralis1: 32
+21: GoodTimeWithScar: 25
+21: Docm77: 19
+21: Renthedog: 11
+21: Tango: 8
+21: hypnotizd: 1
+Total 2963

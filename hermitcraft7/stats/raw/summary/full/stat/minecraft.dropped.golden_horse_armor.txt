@@ -1,0 +1,7 @@
+minecraft.dropped.golden_horse_armor
+5: Tango: 9
+5: impulseSV: 2
+5: iJevin: 1
+5: iskall85: 1
+5: Zedaph: 1
+Total 14

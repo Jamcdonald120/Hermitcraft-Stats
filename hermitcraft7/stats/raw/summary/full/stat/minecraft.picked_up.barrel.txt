@@ -1,0 +1,26 @@
+minecraft.picked_up.barrel
+24: Xisuma: 560
+24: Zedaph: 509
+24: Keralis1: 461
+24: Tango: 376
+24: Etho: 337
+24: GoodTimeWithScar: 326
+24: impulseSV: 295
+24: Renthedog: 241
+24: Grian: 215
+24: iskall85: 213
+24: VintageBeef: 208
+24: cubfan135: 193
+24: joehillssays: 182
+24: BdoubleO100: 180
+24: falsesymmetry: 107
+24: ZombieCleo: 97
+24: xBCrafted: 64
+24: Welsknight: 60
+24: hypnotizd: 40
+24: Docm77: 12
+24: MumboJumbo: 10
+24: Stressmonster101: 4
+24: iJevin: 3
+24: Tinfoilchef: 2
+Total 4695

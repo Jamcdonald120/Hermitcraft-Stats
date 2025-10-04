@@ -1,0 +1,25 @@
+minecraft.crafted.golden_carrot
+23: xBCrafted: 92331
+23: GoodTimeWithScar: 9869
+23: impulseSV: 9707
+23: Renthedog: 7218
+23: Xisuma: 5385
+23: Keralis1: 3849
+23: cubfan135: 3847
+23: falsesymmetry: 3675
+23: Smallishbeans: 2625
+23: PearlescentMoon: 2007
+23: joehillssays: 1467
+23: hypnotizd: 1428
+23: Zedaph: 1290
+23: GeminiTay: 1233
+23: Docm77: 936
+23: Etho: 570
+23: iJevin: 359
+23: Mumbo: 111
+23: VintageBeef: 83
+23: BdoubleO100: 63
+23: Tango: 6
+23: ZombieCleo: 2
+23: Grian: 1
+Total 148062

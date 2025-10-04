@@ -1,0 +1,23 @@
+minecraft.picked_up.acacia_planks
+21: Grian: 526
+21: PearlescentMoon: 255
+21: Xisuma: 143
+21: GoodTimeWithScar: 124
+21: cubfan135: 115
+21: Smallishbeans: 81
+21: Mumbo: 61
+21: Tango: 55
+21: Renthedog: 52
+21: Skizzleman: 52
+21: Docm77: 43
+21: joehillssays: 38
+21: impulseSV: 27
+21: Keralis1: 25
+21: GeminiTay: 23
+21: VintageBeef: 12
+21: iJevin: 12
+21: Etho: 12
+21: Zedaph: 11
+21: BdoubleO100: 5
+21: ZombieCleo: 4
+Total 1676

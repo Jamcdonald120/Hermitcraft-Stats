@@ -1,0 +1,18 @@
+minecraft.picked_up.magenta_wool
+16: Etho: 4103
+16: VintageBeef: 787
+16: Tango: 675
+16: Renthedog: 635
+16: BdoubleO100: 359
+16: cubfan135: 252
+16: ZombieCleo: 241
+16: impulseSV: 44
+16: MumboJumbo: 35
+16: joehillssays: 22
+16: Stressmonster101: 16
+16: Xisuma: 6
+16: iskall85: 4
+16: Grian: 3
+16: Keralis1: 2
+16: GoodTimeWithScar: 1
+Total 7185

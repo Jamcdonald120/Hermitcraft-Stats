@@ -1,0 +1,4 @@
+minecraft.crafted.chainmail_chestplate
+2: GoodTimeWithScar: 12
+2: Etho: 2
+Total 14

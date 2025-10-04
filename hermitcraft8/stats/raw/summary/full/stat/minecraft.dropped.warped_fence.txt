@@ -1,0 +1,4 @@
+minecraft.dropped.warped_fence
+2: Tango: 6
+2: Grian: 3
+Total 9

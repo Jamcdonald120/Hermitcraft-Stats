@@ -1,0 +1,26 @@
+minecraft.crafted.diamond_block
+24: Grian: 300
+24: PearlescentMoon: 203
+24: iJevin: 195
+24: impulseSV: 193
+24: Renthedog: 188
+24: Xisuma: 147
+24: cubfan135: 103
+24: xBCrafted: 98
+24: GoodTimeWithScar: 93
+24: Tango: 61
+24: ZombieCleo: 35
+24: GeminiTay: 32
+24: Welsknight: 28
+24: Keralis1: 28
+24: hypnotizd: 25
+24: MumboJumbo: 25
+24: Tinfoilchef: 25
+24: Docm77: 23
+24: joehillssays: 16
+24: BdoubleO100: 15
+24: VintageBeef: 13
+24: falsesymmetry: 6
+24: iskall85: 2
+24: Etho: 1
+Total 1855

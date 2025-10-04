@@ -1,0 +1,21 @@
+minecraft.picked_up.detector_rail
+19: MumboJumbo: 124
+19: iskall85: 87
+19: Xisuma: 62
+19: Docm77: 60
+19: joehillssays: 40
+19: Renthedog: 36
+19: Zedaph: 27
+19: GoodTimeWithScar: 24
+19: Grian: 21
+19: falsesymmetry: 19
+19: Tinfoilchef: 19
+19: Tango: 18
+19: impulseSV: 18
+19: cubfan135: 10
+19: iJevin: 9
+19: Biffa2001: 8
+19: Welsknight: 5
+19: Stressmonster101: 2
+19: PythonGB: 1
+Total 590

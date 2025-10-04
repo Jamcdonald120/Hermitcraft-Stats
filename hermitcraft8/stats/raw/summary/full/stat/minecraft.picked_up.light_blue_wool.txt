@@ -1,0 +1,17 @@
+minecraft.picked_up.light_blue_wool
+15: BdoubleO100: 785
+15: Zedaph: 477
+15: Grian: 190
+15: Tango: 179
+15: GoodTimeWithScar: 160
+15: joehillssays: 150
+15: Keralis1: 82
+15: MumboJumbo: 62
+15: Welsknight: 25
+15: ZombieCleo: 23
+15: PearlescentMoon: 18
+15: GeminiTay: 8
+15: hypnotizd: 3
+15: iJevin: 2
+15: falsesymmetry: 1
+Total 2165

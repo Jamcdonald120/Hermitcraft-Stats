@@ -1,0 +1,10 @@
+minecraft.crafted.creaking_heart
+8: Tango: 206
+8: Xisuma: 204
+8: Docm77: 128
+8: cubfan135: 85
+8: GoodTimeWithScar: 45
+8: Renthedog: 15
+8: falsesymmetry: 1
+8: impulseSV: 1
+Total 685

@@ -1,0 +1,11 @@
+minecraft.dropped.jungle_door
+9: Tango: 18
+9: Zedaph: 13
+9: impulseSV: 10
+9: iJevin: 9
+9: Etho: 4
+9: MumboJumbo: 3
+9: Docm77: 1
+9: Grian: 1
+9: cubfan135: 1
+Total 60

@@ -1,0 +1,10 @@
+minecraft.picked_up.yellow_stained_glass
+8: impulseSV: 177
+8: falsesymmetry: 77
+8: PearlescentMoon: 65
+8: GeminiTay: 17
+8: GoodTimeWithScar: 15
+8: Grian: 5
+8: iJevin: 1
+8: Etho: 1
+Total 358

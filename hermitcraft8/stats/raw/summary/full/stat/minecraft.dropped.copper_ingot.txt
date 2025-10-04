@@ -1,0 +1,13 @@
+minecraft.dropped.copper_ingot
+11: impulseSV: 231
+11: GoodTimeWithScar: 196
+11: Tango: 138
+11: Docm77: 57
+11: cubfan135: 18
+11: Renthedog: 8
+11: iJevin: 8
+11: joehillssays: 8
+11: hypnotizd: 7
+11: iskall85: 3
+11: Keralis1: 2
+Total 676

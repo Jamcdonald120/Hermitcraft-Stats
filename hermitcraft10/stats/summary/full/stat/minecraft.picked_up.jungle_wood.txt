@@ -1,0 +1,13 @@
+minecraft.picked_up.jungle_wood
+11: GeminiTay: 327
+11: Skizzleman: 255
+11: Keralis1: 215
+11: Etho: 133
+11: Grian: 64
+11: cubfan135: 63
+11: Xisuma: 55
+11: BdoubleO100: 38
+11: PearlescentMoon: 14
+11: Smallishbeans: 1
+11: GoodTimeWithScar: 1
+Total 1166

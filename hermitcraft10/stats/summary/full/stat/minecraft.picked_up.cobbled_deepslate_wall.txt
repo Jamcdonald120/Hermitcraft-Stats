@@ -1,0 +1,17 @@
+minecraft.picked_up.cobbled_deepslate_wall
+15: Etho: 262
+15: Xisuma: 108
+15: Renthedog: 83
+15: impulseSV: 79
+15: PearlescentMoon: 61
+15: Docm77: 48
+15: Tango: 15
+15: Grian: 14
+15: GeminiTay: 9
+15: BdoubleO100: 9
+15: GoodTimeWithScar: 7
+15: Smallishbeans: 6
+15: cubfan135: 4
+15: Mumbo: 3
+15: Keralis1: 2
+Total 710

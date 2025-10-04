@@ -1,0 +1,21 @@
+minecraft.crafted.brewing_stand
+19: Grian: 30
+19: Xisuma: 26
+19: PearlescentMoon: 17
+19: GoodTimeWithScar: 13
+19: Keralis1: 12
+19: iJevin: 11
+19: impulseSV: 7
+19: Zedaph: 6
+19: Etho: 5
+19: hypnotizd: 5
+19: Tango: 4
+19: falsesymmetry: 4
+19: joehillssays: 3
+19: Docm77: 2
+19: Welsknight: 2
+19: Tinfoilchef: 2
+19: GeminiTay: 1
+19: BdoubleO100: 1
+19: Stressmonster101: 1
+Total 152

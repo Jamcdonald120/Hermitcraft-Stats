@@ -1,0 +1,14 @@
+minecraft.used.red_nether_brick_slab
+12: Tango: 2080
+12: impulseSV: 638
+12: Grian: 434
+12: Xisuma: 304
+12: BdoubleO100: 224
+12: cubfan135: 171
+12: GoodTimeWithScar: 102
+12: Keralis1: 100
+12: xBCrafted: 15
+12: Etho: 12
+12: Welsknight: 7
+12: hypnotizd: 3
+Total 4090

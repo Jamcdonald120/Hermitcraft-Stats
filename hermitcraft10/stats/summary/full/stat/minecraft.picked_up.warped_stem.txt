@@ -1,0 +1,27 @@
+minecraft.picked_up.warped_stem
+25: VintageBeef: 2477
+25: cubfan135: 2476
+25: GoodTimeWithScar: 2329
+25: Docm77: 1988
+25: Mumbo: 1902
+25: Etho: 1897
+25: Grian: 1592
+25: PearlescentMoon: 1428
+25: Smallishbeans: 876
+25: BdoubleO100: 668
+25: impulseSV: 654
+25: Tango: 469
+25: Skizzleman: 398
+25: Keralis1: 296
+25: ZombieCleo: 228
+25: Renthedog: 210
+25: xBCrafted: 188
+25: Xisuma: 182
+25: joehillssays: 159
+25: falsesymmetry: 134
+25: hypnotizd: 56
+25: iJevin: 48
+25: Zedaph: 47
+25: GeminiTay: 16
+25: F1RECRACKR: 10
+Total 20728

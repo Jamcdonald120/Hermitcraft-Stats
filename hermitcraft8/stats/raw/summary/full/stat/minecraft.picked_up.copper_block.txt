@@ -1,0 +1,23 @@
+minecraft.picked_up.copper_block
+21: Renthedog: 1465
+21: GoodTimeWithScar: 1239
+21: cubfan135: 563
+21: impulseSV: 418
+21: Xisuma: 412
+21: Etho: 355
+21: Tango: 311
+21: Docm77: 267
+21: VintageBeef: 112
+21: joehillssays: 104
+21: ZombieCleo: 103
+21: iskall85: 101
+21: xBCrafted: 89
+21: Grian: 86
+21: BdoubleO100: 58
+21: PearlescentMoon: 47
+21: MumboJumbo: 8
+21: iJevin: 3
+21: hypnotizd: 2
+21: GeminiTay: 1
+21: Keralis1: 1
+Total 5745

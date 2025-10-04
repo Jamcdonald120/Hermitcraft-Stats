@@ -1,0 +1,21 @@
+minecraft.dropped.stripped_spruce_log
+19: BdoubleO100: 169
+19: Keralis1: 50
+19: Grian: 23
+19: Skizzleman: 13
+19: Etho: 13
+19: Tango: 10
+19: Docm77: 8
+19: iJevin: 5
+19: GoodTimeWithScar: 5
+19: VintageBeef: 4
+19: cubfan135: 3
+19: Xisuma: 2
+19: Mumbo: 2
+19: InTheLittleWood: 2
+19: Renthedog: 1
+19: PearlescentMoon: 1
+19: falsesymmetry: 1
+19: impulseSV: 1
+19: Zedaph: 1
+Total 314

@@ -1,0 +1,26 @@
+minecraft.picked_up.feather
+24: Renthedog: 673
+24: Docm77: 315
+24: Xisuma: 282
+24: Tango: 162
+24: PearlescentMoon: 74
+24: VintageBeef: 65
+24: iJevin: 49
+24: Welsknight: 44
+24: impulseSV: 39
+24: xBCrafted: 34
+24: GoodTimeWithScar: 31
+24: Grian: 28
+24: cubfan135: 22
+24: hypnotizd: 18
+24: joehillssays: 17
+24: ZombieCleo: 10
+24: Zedaph: 9
+24: iskall85: 8
+24: MumboJumbo: 7
+24: falsesymmetry: 6
+24: Etho: 5
+24: Stressmonster101: 4
+24: GeminiTay: 3
+24: BdoubleO100: 1
+Total 1906

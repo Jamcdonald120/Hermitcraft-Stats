@@ -1,0 +1,34 @@
+minecraft.picked_up.tuff
+32: cubfan135: 21066
+32: Docm77: 20532
+32: iJevin: 12825
+32: joehillssays: 12410
+32: Grian: 12402
+32: Xisuma: 11068
+32: PearlescentMoon: 9154
+32: xBCrafted: 8576
+32: impulseSV: 8260
+32: Tango: 6730
+32: Renthedog: 5627
+32: Zedaph: 5007
+32: GoodTimeWithScar: 4762
+32: hypnotizd: 4603
+32: BdoubleO100: 3135
+32: falsesymmetry: 3055
+32: ZombieCleo: 3041
+32: Stressmonster101: 2750
+32: iskall85: 2201
+32: VintageBeef: 1825
+32: Keralis1: 1808
+32: Etho: 1607
+32: RentheKing: 1589
+32: Mumbo: 1113
+32: GeminiTay: 1011
+32: Smallishbeans: 511
+32: Welsknight: 433
+32: Pixlriffs: 315
+32: MythicalSausage: 273
+32: MumboJumbo: 213
+32: Tinfoilchef: 78
+32: STEAKFG: 3
+Total 167983

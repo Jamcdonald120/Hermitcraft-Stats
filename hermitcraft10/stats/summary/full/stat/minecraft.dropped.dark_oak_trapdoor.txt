@@ -1,0 +1,16 @@
+minecraft.dropped.dark_oak_trapdoor
+14: falsesymmetry: 350
+14: Tango: 78
+14: Etho: 67
+14: Grian: 45
+14: cubfan135: 32
+14: iJevin: 20
+14: Zedaph: 19
+14: Docm77: 16
+14: BdoubleO100: 12
+14: Smallishbeans: 8
+14: hypnotizd: 4
+14: VintageBeef: 2
+14: Skizzleman: 1
+14: Mumbo: 1
+Total 655

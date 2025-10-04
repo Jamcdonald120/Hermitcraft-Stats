@@ -1,0 +1,5 @@
+minecraft.dropped.orange_bed
+3: GoodTimeWithScar: 9
+3: cubfan135: 2
+3: BdoubleO100: 1
+Total 12

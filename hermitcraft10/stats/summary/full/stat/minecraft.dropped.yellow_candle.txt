@@ -1,0 +1,3 @@
+minecraft.dropped.yellow_candle
+1: GoodTimeWithScar: 82
+Total 82

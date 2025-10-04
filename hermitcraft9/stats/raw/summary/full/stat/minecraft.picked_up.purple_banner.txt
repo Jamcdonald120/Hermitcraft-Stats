@@ -1,0 +1,9 @@
+minecraft.picked_up.purple_banner
+7: PearlescentMoon: 20
+7: Zedaph: 6
+7: impulseSV: 2
+7: iJevin: 1
+7: falsesymmetry: 1
+7: cubfan135: 1
+7: Keralis1: 1
+Total 32

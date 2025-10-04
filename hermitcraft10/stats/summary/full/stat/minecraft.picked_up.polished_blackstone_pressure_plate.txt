@@ -1,0 +1,12 @@
+minecraft.picked_up.polished_blackstone_pressure_plate
+10: Etho: 66
+10: Smallishbeans: 44
+10: Skizzleman: 25
+10: cubfan135: 23
+10: Tango: 14
+10: Grian: 4
+10: GoodTimeWithScar: 4
+10: Renthedog: 3
+10: impulseSV: 2
+10: PearlescentMoon: 1
+Total 186

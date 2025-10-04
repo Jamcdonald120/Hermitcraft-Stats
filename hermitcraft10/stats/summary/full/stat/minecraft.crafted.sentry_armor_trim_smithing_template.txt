@@ -1,0 +1,5 @@
+minecraft.crafted.sentry_armor_trim_smithing_template
+3: iJevin: 122
+3: cubfan135: 32
+3: Docm77: 30
+Total 184

@@ -1,0 +1,28 @@
+minecraft.mined.andesite
+26: impulseSV: 32206
+26: xBCrafted: 31440
+26: joehillssays: 30785
+26: Docm77: 24631
+26: Xisuma: 19152
+26: Etho: 17695
+26: iJevin: 15023
+26: falsesymmetry: 13926
+26: GoodTimeWithScar: 12270
+26: hypnotizd: 10623
+26: Renthedog: 9049
+26: Tango: 8944
+26: cubfan135: 7010
+26: Grian: 6487
+26: BdoubleO100: 6175
+26: Mumbo: 5792
+26: Smallishbeans: 4827
+26: Keralis1: 4754
+26: ZombieCleo: 4523
+26: PearlescentMoon: 4075
+26: Welsknight: 3157
+26: GeminiTay: 2965
+26: Skizzleman: 2059
+26: Zedaph: 1868
+26: VintageBeef: 1608
+26: F1RECRACKR: 12
+Total 281056

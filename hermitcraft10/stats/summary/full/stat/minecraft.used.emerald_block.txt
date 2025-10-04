@@ -1,0 +1,23 @@
+minecraft.used.emerald_block
+21: xBCrafted: 4032
+21: hypnotizd: 1368
+21: ZombieCleo: 421
+21: cubfan135: 347
+21: Tango: 339
+21: impulseSV: 334
+21: iJevin: 260
+21: falsesymmetry: 230
+21: Grian: 173
+21: GoodTimeWithScar: 168
+21: Skizzleman: 163
+21: joehillssays: 74
+21: Renthedog: 43
+21: Xisuma: 29
+21: Etho: 22
+21: GeminiTay: 19
+21: Docm77: 13
+21: Zedaph: 11
+21: Smallishbeans: 7
+21: VintageBeef: 2
+21: PearlescentMoon: 1
+Total 8056

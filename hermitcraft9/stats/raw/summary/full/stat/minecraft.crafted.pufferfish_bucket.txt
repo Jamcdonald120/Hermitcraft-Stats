@@ -1,0 +1,4 @@
+minecraft.crafted.pufferfish_bucket
+2: ZombieCleo: 1
+2: Zedaph: 1
+Total 2

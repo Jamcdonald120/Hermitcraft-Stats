@@ -1,0 +1,6 @@
+minecraft.crafted.saddle
+4: falsesymmetry: 75
+4: joehillssays: 37
+4: GoodTimeWithScar: 4
+4: iJevin: 2
+Total 118

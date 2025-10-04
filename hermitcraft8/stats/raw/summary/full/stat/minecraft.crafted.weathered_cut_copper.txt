@@ -1,0 +1,5 @@
+minecraft.crafted.weathered_cut_copper
+3: impulseSV: 16
+3: Renthedog: 4
+3: GoodTimeWithScar: 2
+Total 22

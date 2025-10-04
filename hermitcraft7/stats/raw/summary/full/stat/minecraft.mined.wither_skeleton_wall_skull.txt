@@ -1,0 +1,5 @@
+minecraft.mined.wither_skeleton_wall_skull
+3: Tango: 23
+3: impulseSV: 2
+3: MumboJumbo: 1
+Total 26

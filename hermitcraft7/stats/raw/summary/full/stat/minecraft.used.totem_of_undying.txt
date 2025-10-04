@@ -1,0 +1,21 @@
+minecraft.used.totem_of_undying
+19: impulseSV: 76
+19: Keralis1: 58
+19: Tango: 43
+19: Xisuma: 34
+19: GoodTimeWithScar: 17
+19: iJevin: 12
+19: Renthedog: 7
+19: Grian: 6
+19: cubfan135: 4
+19: Etho: 4
+19: joehillssays: 3
+19: Docm77: 2
+19: VintageBeef: 2
+19: BdoubleO100: 2
+19: xBCrafted: 2
+19: Zedaph: 2
+19: iskall85: 1
+19: MumboJumbo: 1
+19: Stressmonster101: 1
+Total 277

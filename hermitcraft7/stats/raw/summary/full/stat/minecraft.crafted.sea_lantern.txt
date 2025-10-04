@@ -1,0 +1,10 @@
+minecraft.crafted.sea_lantern
+8: impulseSV: 60707
+8: Tango: 811
+8: falsesymmetry: 265
+8: Docm77: 40
+8: xBCrafted: 35
+8: Grian: 12
+8: Zedaph: 11
+8: Etho: 3
+Total 61884

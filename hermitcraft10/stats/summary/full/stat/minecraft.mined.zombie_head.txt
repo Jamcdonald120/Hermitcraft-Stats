@@ -1,0 +1,3 @@
+minecraft.mined.zombie_head
+1: GoodTimeWithScar: 1
+Total 1

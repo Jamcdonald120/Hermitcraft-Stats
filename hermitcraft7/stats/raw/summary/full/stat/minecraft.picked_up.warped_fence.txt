@@ -1,0 +1,18 @@
+minecraft.picked_up.warped_fence
+16: GoodTimeWithScar: 146
+16: joehillssays: 48
+16: impulseSV: 32
+16: cubfan135: 30
+16: xBCrafted: 18
+16: BdoubleO100: 16
+16: falsesymmetry: 13
+16: Etho: 9
+16: Xisuma: 6
+16: Renthedog: 4
+16: Grian: 4
+16: ZombieCleo: 4
+16: Stressmonster101: 4
+16: iskall85: 2
+16: Tango: 1
+16: Keralis1: 1
+Total 338

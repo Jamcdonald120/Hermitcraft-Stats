@@ -1,0 +1,25 @@
+minecraft.crafted.redstone_torch
+23: MumboJumbo: 9462
+23: Etho: 9434
+23: Tango: 7798
+23: xBCrafted: 6378
+23: iskall85: 5094
+23: Xisuma: 4456
+23: impulseSV: 4163
+23: Renthedog: 3824
+23: cubfan135: 3674
+23: Grian: 3571
+23: Stressmonster101: 2667
+23: Zedaph: 2012
+23: GoodTimeWithScar: 1748
+23: Keralis1: 1426
+23: Tinfoilchef: 849
+23: Docm77: 647
+23: joehillssays: 570
+23: VintageBeef: 560
+23: falsesymmetry: 539
+23: iJevin: 523
+23: BdoubleO100: 500
+23: Welsknight: 467
+23: hypnotizd: 260
+Total 70622

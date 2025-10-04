@@ -1,0 +1,25 @@
+minecraft.crafted.tnt
+23: impulseSV: 11098
+23: Etho: 9895
+23: hypnotizd: 6137
+23: Grian: 3144
+23: Smallishbeans: 1958
+23: cubfan135: 1844
+23: Skizzleman: 1514
+23: iJevin: 1038
+23: Tango: 754
+23: GoodTimeWithScar: 668
+23: Xisuma: 642
+23: Welsknight: 345
+23: ZombieCleo: 294
+23: Docm77: 186
+23: Zedaph: 176
+23: xBCrafted: 128
+23: joehillssays: 27
+23: Renthedog: 15
+23: falsesymmetry: 11
+23: GeminiTay: 10
+23: Mumbo: 3
+23: VintageBeef: 2
+23: Keralis1: 1
+Total 39890

@@ -1,0 +1,18 @@
+minecraft.picked_up.yellow_stained_glass
+16: impulseSV: 1520
+16: falsesymmetry: 811
+16: GoodTimeWithScar: 631
+16: joehillssays: 603
+16: Grian: 300
+16: PearlescentMoon: 154
+16: Zedaph: 129
+16: Xisuma: 121
+16: iJevin: 107
+16: cubfan135: 105
+16: Stressmonster101: 64
+16: Renthedog: 53
+16: Keralis1: 39
+16: GeminiTay: 16
+16: Etho: 4
+16: Pixlriffs: 1
+Total 4658

@@ -1,0 +1,4 @@
+minecraft.dropped.mossy_cobblestone_wall
+2: PearlescentMoon: 15
+2: Docm77: 11
+Total 26

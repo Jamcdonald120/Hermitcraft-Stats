@@ -1,0 +1,25 @@
+minecraft.picked_up.hay_block
+23: ZombieCleo: 960
+23: joehillssays: 568
+23: Xisuma: 284
+23: Keralis1: 199
+23: Grian: 154
+23: BdoubleO100: 128
+23: iJevin: 105
+23: PearlescentMoon: 96
+23: iskall85: 92
+23: Etho: 82
+23: Renthedog: 78
+23: impulseSV: 37
+23: GoodTimeWithScar: 35
+23: Docm77: 34
+23: GeminiTay: 26
+23: MumboJumbo: 25
+23: falsesymmetry: 20
+23: Stressmonster101: 15
+23: cubfan135: 14
+23: hypnotizd: 14
+23: xBCrafted: 13
+23: Zedaph: 4
+23: VintageBeef: 1
+Total 2984

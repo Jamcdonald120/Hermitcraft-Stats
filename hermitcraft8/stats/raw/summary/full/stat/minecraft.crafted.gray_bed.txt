@@ -1,0 +1,5 @@
+minecraft.crafted.gray_bed
+3: Renthedog: 221
+3: Docm77: 114
+3: falsesymmetry: 1
+Total 336

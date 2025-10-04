@@ -1,0 +1,26 @@
+minecraft.picked_up.dropper
+24: iJevin: 802
+24: Zedaph: 506
+24: Tango: 503
+24: cubfan135: 487
+24: iskall85: 401
+24: Xisuma: 237
+24: MumboJumbo: 193
+24: GoodTimeWithScar: 166
+24: Etho: 153
+24: impulseSV: 147
+24: Renthedog: 125
+24: Keralis1: 70
+24: Grian: 47
+24: Stressmonster101: 39
+24: BdoubleO100: 31
+24: xBCrafted: 24
+24: VintageBeef: 23
+24: joehillssays: 22
+24: Docm77: 21
+24: hypnotizd: 15
+24: falsesymmetry: 11
+24: ZombieCleo: 9
+24: Welsknight: 6
+24: Tinfoilchef: 1
+Total 4039

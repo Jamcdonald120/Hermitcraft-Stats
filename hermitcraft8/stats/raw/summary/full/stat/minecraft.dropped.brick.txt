@@ -1,0 +1,12 @@
+minecraft.dropped.brick
+10: Zedaph: 1118
+10: Xisuma: 66
+10: Grian: 31
+10: MumboJumbo: 25
+10: GoodTimeWithScar: 19
+10: impulseSV: 12
+10: iJevin: 5
+10: Renthedog: 1
+10: Etho: 1
+10: Keralis1: 1
+Total 1279

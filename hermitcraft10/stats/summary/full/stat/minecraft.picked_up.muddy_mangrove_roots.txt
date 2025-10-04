@@ -1,0 +1,24 @@
+minecraft.picked_up.muddy_mangrove_roots
+22: GoodTimeWithScar: 4834
+22: Etho: 3659
+22: Grian: 1610
+22: Renthedog: 1381
+22: Keralis1: 600
+22: Mumbo: 564
+22: Docm77: 495
+22: Skizzleman: 490
+22: Smallishbeans: 427
+22: cubfan135: 423
+22: falsesymmetry: 403
+22: Welsknight: 339
+22: PearlescentMoon: 269
+22: iJevin: 254
+22: Xisuma: 175
+22: VintageBeef: 74
+22: BdoubleO100: 50
+22: ZombieCleo: 14
+22: hypnotizd: 14
+22: GeminiTay: 13
+22: joehillssays: 10
+22: impulseSV: 8
+Total 16106

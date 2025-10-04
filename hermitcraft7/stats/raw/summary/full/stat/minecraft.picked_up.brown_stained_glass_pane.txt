@@ -1,0 +1,7 @@
+minecraft.picked_up.brown_stained_glass_pane
+5: Etho: 25
+5: impulseSV: 23
+5: Xisuma: 18
+5: xBCrafted: 5
+5: falsesymmetry: 2
+Total 73

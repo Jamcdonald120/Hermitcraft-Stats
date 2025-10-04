@@ -1,0 +1,5 @@
+minecraft.dropped.popped_chorus_fruit
+3: iJevin: 81
+3: impulseSV: 61
+3: Zedaph: 9
+Total 151

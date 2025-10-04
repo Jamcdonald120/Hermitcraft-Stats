@@ -1,0 +1,26 @@
+minecraft.picked_up.wheat
+24: Etho: 15468
+24: joehillssays: 11285
+24: GoodTimeWithScar: 8881
+24: VintageBeef: 6439
+24: Grian: 5005
+24: hypnotizd: 4574
+24: impulseSV: 4199
+24: ZombieCleo: 3309
+24: Zedaph: 3299
+24: BdoubleO100: 2607
+24: falsesymmetry: 2522
+24: cubfan135: 2077
+24: Tango: 1857
+24: Keralis1: 1545
+24: xBCrafted: 1195
+24: Renthedog: 1050
+24: Docm77: 975
+24: Xisuma: 906
+24: iJevin: 779
+24: Stressmonster101: 606
+24: Tinfoilchef: 266
+24: iskall85: 206
+24: MumboJumbo: 172
+24: Welsknight: 162
+Total 79384

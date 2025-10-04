@@ -1,0 +1,6 @@
+minecraft.used.weathered_copper_bulb
+4: GoodTimeWithScar: 16
+4: Smallishbeans: 12
+4: PearlescentMoon: 5
+4: Tango: 3
+Total 36

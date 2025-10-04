@@ -1,0 +1,28 @@
+minecraft.picked_up.sand
+26: impulseSV: 95817
+26: Renthedog: 88505
+26: iJevin: 67411
+26: GoodTimeWithScar: 59079
+26: xBCrafted: 56198
+26: Docm77: 50506
+26: Tango: 49384
+26: iskall85: 46691
+26: Welsknight: 36032
+26: PearlescentMoon: 32569
+26: hypnotizd: 24144
+26: cubfan135: 22494
+26: joehillssays: 21112
+26: MumboJumbo: 18179
+26: Etho: 14542
+26: falsesymmetry: 14088
+26: Grian: 13968
+26: Xisuma: 10776
+26: Zedaph: 9245
+26: ZombieCleo: 7144
+26: VintageBeef: 2282
+26: BdoubleO100: 1889
+26: Keralis1: 1180
+26: GeminiTay: 1155
+26: Tinfoilchef: 713
+26: Stressmonster101: 126
+Total 745229

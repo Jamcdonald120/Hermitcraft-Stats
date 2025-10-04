@@ -1,0 +1,17 @@
+minecraft.used.bamboo_door
+15: impulseSV: 129
+15: Tango: 63
+15: Skizzleman: 43
+15: Keralis1: 36
+15: Xisuma: 32
+15: Smallishbeans: 20
+15: falsesymmetry: 15
+15: cubfan135: 15
+15: BdoubleO100: 10
+15: Mumbo: 10
+15: PearlescentMoon: 7
+15: VintageBeef: 5
+15: Etho: 5
+15: joehillssays: 4
+15: GoodTimeWithScar: 4
+Total 398

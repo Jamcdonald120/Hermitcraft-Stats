@@ -1,0 +1,32 @@
+minecraft.custom.interact_with_crafting_table
+30: cubfan135: 7919
+30: falsesymmetry: 6792
+30: Xisuma: 5519
+30: GoodTimeWithScar: 5315
+30: joehillssays: 4998
+30: Etho: 4906
+30: Keralis1: 4553
+30: Tango: 4326
+30: iJevin: 4254
+30: Docm77: 4079
+30: Smallishbeans: 3851
+30: Renthedog: 3791
+30: impulseSV: 3713
+30: Grian: 2957
+30: BdoubleO100: 2850
+30: Mumbo: 2785
+30: PearlescentMoon: 2650
+30: GeminiTay: 2353
+30: Skizzleman: 2230
+30: xBCrafted: 2172
+30: ZombieCleo: 2153
+30: VintageBeef: 2037
+30: hypnotizd: 1508
+30: Zedaph: 1397
+30: Welsknight: 556
+30: SolidarityGaming: 7
+30: F1RECRACKR: 5
+30: Eyjoy27: 4
+30: InTheLittleWood: 3
+30: OrionSound: 2
+Total 89685

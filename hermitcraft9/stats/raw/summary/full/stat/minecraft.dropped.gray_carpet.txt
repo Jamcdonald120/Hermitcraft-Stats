@@ -1,0 +1,17 @@
+minecraft.dropped.gray_carpet
+15: Tango: 269
+15: GoodTimeWithScar: 186
+15: iJevin: 113
+15: Renthedog: 102
+15: BdoubleO100: 87
+15: PearlescentMoon: 65
+15: impulseSV: 49
+15: Grian: 37
+15: falsesymmetry: 29
+15: Keralis1: 16
+15: cubfan135: 8
+15: Etho: 6
+15: iskall85: 4
+15: Xisuma: 3
+15: xBCrafted: 3
+Total 977

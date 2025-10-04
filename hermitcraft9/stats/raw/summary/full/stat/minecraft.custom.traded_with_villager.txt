@@ -1,0 +1,27 @@
+minecraft.custom.traded_with_villager
+25: Grian: 109381
+25: Etho: 107263
+25: GoodTimeWithScar: 99147
+25: Zedaph: 56787
+25: Stressmonster101: 50506
+25: impulseSV: 40323
+25: Renthedog: 40135
+25: Keralis1: 39105
+25: iskall85: 19750
+25: Docm77: 16611
+25: falsesymmetry: 16600
+25: GeminiTay: 15986
+25: iJevin: 9709
+25: RentheKing: 5310
+25: Tango: 4108
+25: cubfan135: 2657
+25: PearlescentMoon: 1102
+25: xBCrafted: 850
+25: Xisuma: 750
+25: VintageBeef: 546
+25: Pixlriffs: 414
+25: Smallishbeans: 144
+25: joehillssays: 120
+25: ZombieCleo: 19
+25: BdoubleO100: 2
+Total 637325

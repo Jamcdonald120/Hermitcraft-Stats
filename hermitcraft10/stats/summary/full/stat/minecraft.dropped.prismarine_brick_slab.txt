@@ -1,0 +1,5 @@
+minecraft.dropped.prismarine_brick_slab
+3: xBCrafted: 148
+3: impulseSV: 3
+3: Grian: 2
+Total 153

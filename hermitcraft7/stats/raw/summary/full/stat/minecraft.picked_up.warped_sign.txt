@@ -1,0 +1,15 @@
+minecraft.picked_up.warped_sign
+13: Etho: 88
+13: GoodTimeWithScar: 42
+13: Zedaph: 36
+13: Grian: 17
+13: Xisuma: 9
+13: Renthedog: 8
+13: BdoubleO100: 8
+13: joehillssays: 6
+13: VintageBeef: 4
+13: Stressmonster101: 4
+13: Tango: 3
+13: cubfan135: 3
+13: falsesymmetry: 1
+Total 229

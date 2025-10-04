@@ -1,0 +1,22 @@
+minecraft.picked_up.red_stained_glass
+20: GoodTimeWithScar: 1524
+20: joehillssays: 1126
+20: Grian: 1048
+20: Renthedog: 509
+20: cubfan135: 471
+20: iJevin: 197
+20: Stressmonster101: 190
+20: xBCrafted: 114
+20: BdoubleO100: 84
+20: Keralis1: 32
+20: Tango: 16
+20: impulseSV: 16
+20: Zedaph: 9
+20: Etho: 7
+20: Docm77: 6
+20: MumboJumbo: 4
+20: Xisuma: 3
+20: VintageBeef: 2
+20: iskall85: 2
+20: ZombieCleo: 1
+Total 5361

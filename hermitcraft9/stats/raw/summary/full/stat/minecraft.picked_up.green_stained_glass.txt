@@ -1,0 +1,17 @@
+minecraft.picked_up.green_stained_glass
+15: falsesymmetry: 870
+15: Docm77: 638
+15: Xisuma: 345
+15: PearlescentMoon: 145
+15: Grian: 139
+15: cubfan135: 132
+15: Etho: 72
+15: GoodTimeWithScar: 62
+15: impulseSV: 59
+15: xBCrafted: 17
+15: Keralis1: 12
+15: GeminiTay: 5
+15: Zedaph: 3
+15: iJevin: 2
+15: joehillssays: 1
+Total 2502

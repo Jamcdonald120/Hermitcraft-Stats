@@ -1,0 +1,27 @@
+minecraft.mined.lapis_ore
+25: GoodTimeWithScar: 1063
+25: Grian: 443
+25: Etho: 432
+25: Xisuma: 357
+25: joehillssays: 316
+25: xBCrafted: 302
+25: Renthedog: 284
+25: impulseSV: 243
+25: Docm77: 239
+25: iJevin: 216
+25: falsesymmetry: 180
+25: VintageBeef: 143
+25: ZombieCleo: 124
+25: BdoubleO100: 108
+25: Mumbo: 105
+25: Keralis1: 102
+25: Zedaph: 99
+25: hypnotizd: 94
+25: Smallishbeans: 72
+25: cubfan135: 69
+25: Tango: 49
+25: GeminiTay: 38
+25: Skizzleman: 36
+25: PearlescentMoon: 25
+25: Welsknight: 23
+Total 5162

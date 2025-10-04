@@ -1,0 +1,25 @@
+minecraft.picked_up.gray_carpet
+23: Docm77: 1845
+23: Smallishbeans: 713
+23: Etho: 662
+23: joehillssays: 607
+23: iJevin: 460
+23: cubfan135: 353
+23: xBCrafted: 197
+23: ZombieCleo: 130
+23: Renthedog: 121
+23: impulseSV: 112
+23: Tango: 70
+23: Keralis1: 67
+23: Skizzleman: 62
+23: Xisuma: 50
+23: BdoubleO100: 39
+23: falsesymmetry: 29
+23: PearlescentMoon: 25
+23: GoodTimeWithScar: 10
+23: VintageBeef: 5
+23: SolidarityGaming: 4
+23: Grian: 1
+23: Welsknight: 1
+23: Mumbo: 1
+Total 5564

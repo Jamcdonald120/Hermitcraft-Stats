@@ -1,0 +1,5 @@
+minecraft.picked_up.orange_banner
+3: PearlescentMoon: 22
+3: Renthedog: 8
+3: Zedaph: 1
+Total 31

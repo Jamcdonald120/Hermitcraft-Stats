@@ -1,0 +1,26 @@
+minecraft.picked_up.iron_shovel
+24: Tango: 56
+24: Xisuma: 26
+24: GoodTimeWithScar: 23
+24: PearlescentMoon: 12
+24: impulseSV: 10
+24: joehillssays: 8
+24: Grian: 8
+24: Welsknight: 7
+24: Tinfoilchef: 7
+24: Renthedog: 6
+24: iskall85: 6
+24: Etho: 6
+24: iJevin: 5
+24: cubfan135: 5
+24: hypnotizd: 4
+24: falsesymmetry: 3
+24: VintageBeef: 2
+24: ZombieCleo: 2
+24: MumboJumbo: 2
+24: Zedaph: 2
+24: Docm77: 1
+24: GeminiTay: 1
+24: BdoubleO100: 1
+24: Keralis1: 1
+Total 204

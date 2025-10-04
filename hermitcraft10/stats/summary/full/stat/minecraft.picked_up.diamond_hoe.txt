@@ -1,0 +1,25 @@
+minecraft.picked_up.diamond_hoe
+23: Skizzleman: 41
+23: Etho: 27
+23: GoodTimeWithScar: 23
+23: Docm77: 20
+23: ZombieCleo: 13
+23: Keralis1: 13
+23: Renthedog: 7
+23: iJevin: 7
+23: GeminiTay: 6
+23: Grian: 5
+23: BdoubleO100: 5
+23: PearlescentMoon: 5
+23: impulseSV: 5
+23: Xisuma: 4
+23: joehillssays: 3
+23: Tango: 3
+23: Smallishbeans: 3
+23: hypnotizd: 2
+23: xBCrafted: 1
+23: falsesymmetry: 1
+23: cubfan135: 1
+23: Mumbo: 1
+23: Zedaph: 1
+Total 197

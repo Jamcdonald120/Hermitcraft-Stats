@@ -1,0 +1,8 @@
+minecraft.picked_up.bamboo_chest_raft
+6: Keralis1: 22
+6: Docm77: 9
+6: Grian: 6
+6: GeminiTay: 1
+6: Tango: 1
+6: impulseSV: 1
+Total 40

@@ -1,0 +1,18 @@
+minecraft.picked_up.allium
+16: impulseSV: 781
+16: Etho: 761
+16: Stressmonster101: 649
+16: cubfan135: 101
+16: joehillssays: 85
+16: ZombieCleo: 65
+16: iskall85: 63
+16: GoodTimeWithScar: 49
+16: Xisuma: 34
+16: Zedaph: 12
+16: BdoubleO100: 10
+16: Renthedog: 8
+16: VintageBeef: 7
+16: Grian: 7
+16: Tango: 5
+16: Keralis1: 1
+Total 2638

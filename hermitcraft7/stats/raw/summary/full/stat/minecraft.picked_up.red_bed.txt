@@ -1,0 +1,18 @@
+minecraft.picked_up.red_bed
+16: Welsknight: 166
+16: Tango: 77
+16: GoodTimeWithScar: 54
+16: cubfan135: 21
+16: xBCrafted: 16
+16: impulseSV: 16
+16: Grian: 15
+16: Zedaph: 14
+16: VintageBeef: 7
+16: Keralis1: 7
+16: Xisuma: 6
+16: BdoubleO100: 6
+16: Etho: 6
+16: joehillssays: 4
+16: Helsknight: 4
+16: Renthedog: 2
+Total 421

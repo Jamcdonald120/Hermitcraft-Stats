@@ -1,0 +1,5 @@
+minecraft.picked_up.red_nether_brick_wall
+3: GoodTimeWithScar: 45
+3: PearlescentMoon: 5
+3: cubfan135: 1
+Total 51

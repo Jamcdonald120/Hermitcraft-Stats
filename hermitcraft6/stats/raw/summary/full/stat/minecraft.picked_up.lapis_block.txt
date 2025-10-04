@@ -1,0 +1,21 @@
+minecraft.picked_up.lapis_block
+19: GoodTimeWithScar: 496
+19: Renthedog: 468
+19: cubfan135: 379
+19: Xisuma: 216
+19: Stressmonster101: 213
+19: Tinfoilchef: 209
+19: joehillssays: 134
+19: iskall85: 96
+19: Tango: 89
+19: BdoubleO100: 72
+19: Grian: 69
+19: ZombieCleo: 33
+19: iJevin: 15
+19: PythonGB: 10
+19: MumboJumbo: 7
+19: HumanCleo: 2
+19: falsesymmetry: 2
+19: Zedaph: 2
+19: Keralis1: 1
+Total 2513

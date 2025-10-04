@@ -1,0 +1,23 @@
+minecraft.dropped.salmon
+21: xBCrafted: 797
+21: Grian: 121
+21: iJevin: 92
+21: PearlescentMoon: 39
+21: Docm77: 29
+21: Renthedog: 18
+21: Etho: 17
+21: GeminiTay: 14
+21: Zedaph: 12
+21: cubfan135: 11
+21: GoodTimeWithScar: 11
+21: BdoubleO100: 10
+21: ZombieCleo: 10
+21: impulseSV: 8
+21: falsesymmetry: 7
+21: Xisuma: 4
+21: Skizzleman: 3
+21: Mumbo: 3
+21: joehillssays: 1
+21: Tango: 1
+21: hypnotizd: 1
+Total 1209

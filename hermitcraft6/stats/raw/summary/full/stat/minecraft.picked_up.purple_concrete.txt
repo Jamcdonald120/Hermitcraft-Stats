@@ -1,0 +1,17 @@
+minecraft.picked_up.purple_concrete
+15: falsesymmetry: 3672
+15: Tango: 1331
+15: GoodTimeWithScar: 1254
+15: Zedaph: 579
+15: PythonGB: 561
+15: cubfan135: 286
+15: Stressmonster101: 100
+15: Xisuma: 64
+15: iJevin: 33
+15: Renthedog: 15
+15: iskall85: 9
+15: MumboJumbo: 5
+15: Grian: 2
+15: Welsknight: 1
+15: Keralis1: 1
+Total 7913

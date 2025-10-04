@@ -1,0 +1,14 @@
+minecraft.picked_up.blackstone_wall
+12: GoodTimeWithScar: 290
+12: impulseSV: 195
+12: Tango: 140
+12: Xisuma: 40
+12: joehillssays: 38
+12: iJevin: 27
+12: PearlescentMoon: 15
+12: falsesymmetry: 6
+12: xBCrafted: 4
+12: cubfan135: 3
+12: Renthedog: 1
+12: Grian: 1
+Total 760

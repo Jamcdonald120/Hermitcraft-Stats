@@ -1,0 +1,14 @@
+minecraft.picked_up.jungle_fence_gate
+12: iJevin: 226
+12: Xisuma: 42
+12: hypnotizd: 36
+12: VintageBeef: 16
+12: Grian: 15
+12: BdoubleO100: 8
+12: MumboJumbo: 8
+12: Tango: 6
+12: GoodTimeWithScar: 4
+12: cubfan135: 2
+12: falsesymmetry: 1
+12: Keralis1: 1
+Total 365

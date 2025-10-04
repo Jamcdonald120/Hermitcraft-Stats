@@ -1,0 +1,14 @@
+minecraft.picked_up.brain_coral_block
+12: GoodTimeWithScar: 884
+12: PearlescentMoon: 607
+12: iJevin: 341
+12: Grian: 261
+12: joehillssays: 161
+12: Keralis1: 136
+12: ZombieCleo: 79
+12: VintageBeef: 64
+12: Xisuma: 25
+12: impulseSV: 14
+12: GeminiTay: 6
+12: Zedaph: 2
+Total 2580

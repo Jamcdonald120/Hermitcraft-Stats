@@ -1,0 +1,13 @@
+minecraft.dropped.lapis_ore
+11: Tango: 45
+11: iskall85: 36
+11: GoodTimeWithScar: 35
+11: falsesymmetry: 32
+11: iJevin: 7
+11: Docm77: 6
+11: Renthedog: 6
+11: impulseSV: 6
+11: MumboJumbo: 5
+11: Xisuma: 4
+11: Stressmonster101: 2
+Total 184

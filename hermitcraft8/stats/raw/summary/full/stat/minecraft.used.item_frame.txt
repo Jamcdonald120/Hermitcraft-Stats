@@ -1,0 +1,27 @@
+minecraft.used.item_frame
+25: Welsknight: 569
+25: Tango: 557
+25: iJevin: 529
+25: PearlescentMoon: 470
+25: Xisuma: 308
+25: Docm77: 300
+25: GoodTimeWithScar: 262
+25: falsesymmetry: 212
+25: impulseSV: 180
+25: iskall85: 164
+25: Renthedog: 151
+25: cubfan135: 151
+25: Keralis1: 142
+25: xBCrafted: 104
+25: GeminiTay: 101
+25: Zedaph: 90
+25: Etho: 78
+25: BdoubleO100: 60
+25: hypnotizd: 59
+25: Grian: 58
+25: MumboJumbo: 52
+25: joehillssays: 33
+25: VintageBeef: 25
+25: ZombieCleo: 16
+25: Stressmonster101: 1
+Total 4672

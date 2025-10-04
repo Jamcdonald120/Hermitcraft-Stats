@@ -1,0 +1,19 @@
+minecraft.dropped.stone_button
+17: impulseSV: 2471
+17: iJevin: 423
+17: Tango: 406
+17: Keralis1: 371
+17: Xisuma: 348
+17: hypnotizd: 130
+17: falsesymmetry: 80
+17: cubfan135: 62
+17: Grian: 60
+17: Renthedog: 42
+17: GoodTimeWithScar: 26
+17: iskall85: 20
+17: BdoubleO100: 15
+17: Etho: 10
+17: Docm77: 4
+17: GeminiTay: 3
+17: Zedaph: 3
+Total 4474

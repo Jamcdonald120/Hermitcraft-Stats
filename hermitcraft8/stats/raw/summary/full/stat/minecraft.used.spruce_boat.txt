@@ -1,0 +1,24 @@
+minecraft.used.spruce_boat
+22: Etho: 100
+22: impulseSV: 63
+22: PearlescentMoon: 60
+22: Xisuma: 45
+22: Docm77: 41
+22: Grian: 34
+22: Tango: 31
+22: BdoubleO100: 20
+22: iJevin: 11
+22: GeminiTay: 11
+22: iskall85: 10
+22: Welsknight: 10
+22: GoodTimeWithScar: 8
+22: VintageBeef: 5
+22: Zedaph: 5
+22: Renthedog: 4
+22: Keralis1: 4
+22: cubfan135: 3
+22: joehillssays: 1
+22: xBCrafted: 1
+22: ZombieCleo: 1
+22: MumboJumbo: 1
+Total 469

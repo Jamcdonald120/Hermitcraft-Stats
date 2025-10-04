@@ -1,0 +1,30 @@
+minecraft.picked_up.oak_leaves
+28: Docm77: 41299
+28: GoodTimeWithScar: 34634
+28: PearlescentMoon: 4533
+28: cubfan135: 3883
+28: iskall85: 2129
+28: Stressmonster101: 1857
+28: Grian: 1706
+28: ZombieCleo: 1667
+28: BdoubleO100: 1576
+28: GeminiTay: 1435
+28: Xisuma: 1331
+28: Keralis1: 1260
+28: Etho: 947
+28: falsesymmetry: 823
+28: Renthedog: 583
+28: Tango: 522
+28: Mumbo: 519
+28: hypnotizd: 425
+28: joehillssays: 373
+28: impulseSV: 243
+28: iJevin: 161
+28: VintageBeef: 159
+28: Zedaph: 150
+28: RentheKing: 116
+28: Smallishbeans: 56
+28: MythicalSausage: 53
+28: xBCrafted: 47
+28: Welsknight: 40
+Total 102527

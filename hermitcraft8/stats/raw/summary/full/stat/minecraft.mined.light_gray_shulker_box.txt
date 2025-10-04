@@ -1,0 +1,8 @@
+minecraft.mined.light_gray_shulker_box
+6: PearlescentMoon: 204
+6: Xisuma: 59
+6: joehillssays: 42
+6: Etho: 11
+6: Grian: 5
+6: falsesymmetry: 3
+Total 324

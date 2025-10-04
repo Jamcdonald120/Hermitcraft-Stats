@@ -1,0 +1,17 @@
+minecraft.picked_up.birch_trapdoor
+15: impulseSV: 229
+15: hypnotizd: 108
+15: joehillssays: 22
+15: GeminiTay: 15
+15: Grian: 14
+15: Etho: 11
+15: Xisuma: 10
+15: Welsknight: 8
+15: BdoubleO100: 7
+15: Docm77: 6
+15: cubfan135: 5
+15: MumboJumbo: 5
+15: VintageBeef: 4
+15: GoodTimeWithScar: 4
+15: iskall85: 2
+Total 450

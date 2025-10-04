@@ -1,0 +1,22 @@
+minecraft.used.damaged_anvil
+20: Tango: 45
+20: Zedaph: 19
+20: VintageBeef: 13
+20: Grian: 13
+20: Etho: 13
+20: iJevin: 11
+20: joehillssays: 10
+20: impulseSV: 10
+20: iskall85: 9
+20: Xisuma: 8
+20: MumboJumbo: 6
+20: GoodTimeWithScar: 6
+20: Stressmonster101: 5
+20: cubfan135: 4
+20: Renthedog: 3
+20: BdoubleO100: 3
+20: Keralis1: 2
+20: Docm77: 1
+20: falsesymmetry: 1
+20: ZombieCleo: 1
+Total 183

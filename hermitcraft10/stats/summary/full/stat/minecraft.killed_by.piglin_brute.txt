@@ -1,0 +1,12 @@
+minecraft.killed_by.piglin_brute
+10: Tango: 5
+10: impulseSV: 4
+10: Skizzleman: 3
+10: GoodTimeWithScar: 2
+10: Xisuma: 1
+10: iJevin: 1
+10: Grian: 1
+10: Smallishbeans: 1
+10: cubfan135: 1
+10: hypnotizd: 1
+Total 20

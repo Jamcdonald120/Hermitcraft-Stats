@@ -1,0 +1,4 @@
+minecraft.dropped.oak_pressure_plate
+2: BdoubleO100: 4
+2: Tango: 2
+Total 6

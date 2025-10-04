@@ -1,0 +1,18 @@
+minecraft.crafted.light_gray_stained_glass
+16: Etho: 8928
+16: cubfan135: 8112
+16: impulseSV: 3232
+16: GoodTimeWithScar: 1696
+16: Grian: 1440
+16: Tango: 1256
+16: PearlescentMoon: 1048
+16: Xisuma: 920
+16: Keralis1: 376
+16: falsesymmetry: 304
+16: joehillssays: 256
+16: Docm77: 96
+16: iJevin: 96
+16: Smallishbeans: 80
+16: ZombieCleo: 72
+16: BdoubleO100: 64
+Total 27976

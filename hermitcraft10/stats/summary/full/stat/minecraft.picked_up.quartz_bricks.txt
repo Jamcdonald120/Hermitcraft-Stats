@@ -1,0 +1,12 @@
+minecraft.picked_up.quartz_bricks
+10: VintageBeef: 283
+10: Renthedog: 262
+10: impulseSV: 69
+10: Docm77: 10
+10: cubfan135: 7
+10: falsesymmetry: 4
+10: BdoubleO100: 2
+10: Skizzleman: 1
+10: Smallishbeans: 1
+10: Etho: 1
+Total 640

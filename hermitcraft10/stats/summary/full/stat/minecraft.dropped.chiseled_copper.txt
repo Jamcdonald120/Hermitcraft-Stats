@@ -1,0 +1,5 @@
+minecraft.dropped.chiseled_copper
+3: impulseSV: 32
+3: Grian: 28
+3: cubfan135: 3
+Total 63

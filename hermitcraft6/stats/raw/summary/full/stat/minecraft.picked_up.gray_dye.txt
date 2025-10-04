@@ -1,0 +1,11 @@
+minecraft.picked_up.gray_dye
+9: Xisuma: 1633
+9: Grian: 721
+9: iJevin: 144
+9: iskall85: 97
+9: falsesymmetry: 73
+9: PythonGB: 62
+9: GoodTimeWithScar: 48
+9: Renthedog: 18
+9: cubfan135: 10
+Total 2806

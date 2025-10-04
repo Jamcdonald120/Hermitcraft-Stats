@@ -1,0 +1,26 @@
+minecraft.dropped.potion
+24: Xisuma: 1336
+24: Renthedog: 404
+24: hypnotizd: 242
+24: Tango: 216
+24: Mumbo: 216
+24: Docm77: 212
+24: Etho: 208
+24: cubfan135: 88
+24: Grian: 86
+24: iJevin: 85
+24: GoodTimeWithScar: 81
+24: Keralis1: 70
+24: falsesymmetry: 63
+24: ZombieCleo: 57
+24: impulseSV: 43
+24: BdoubleO100: 41
+24: joehillssays: 33
+24: xBCrafted: 31
+24: PearlescentMoon: 19
+24: Zedaph: 16
+24: Skizzleman: 11
+24: VintageBeef: 6
+24: GeminiTay: 6
+24: Smallishbeans: 3
+Total 3573

@@ -1,0 +1,11 @@
+minecraft.dropped.stone_stairs
+9: iJevin: 44
+9: hypnotizd: 40
+9: Xisuma: 37
+9: GoodTimeWithScar: 28
+9: Zedaph: 11
+9: impulseSV: 2
+9: Grian: 1
+9: Tango: 1
+9: BdoubleO100: 1
+Total 165

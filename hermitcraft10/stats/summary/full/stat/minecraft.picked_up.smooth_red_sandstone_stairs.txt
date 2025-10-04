@@ -1,0 +1,12 @@
+minecraft.picked_up.smooth_red_sandstone_stairs
+10: Renthedog: 370
+10: Grian: 108
+10: iJevin: 64
+10: PearlescentMoon: 33
+10: Docm77: 18
+10: Keralis1: 18
+10: xBCrafted: 13
+10: Smallishbeans: 9
+10: falsesymmetry: 4
+10: impulseSV: 1
+Total 638

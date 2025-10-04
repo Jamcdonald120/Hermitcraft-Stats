@@ -1,0 +1,21 @@
+minecraft.picked_up.red_mushroom
+19: falsesymmetry: 306
+19: hypnotizd: 294
+19: Renthedog: 132
+19: BdoubleO100: 110
+19: Xisuma: 92
+19: PearlescentMoon: 91
+19: joehillssays: 84
+19: iJevin: 76
+19: Zedaph: 57
+19: impulseSV: 44
+19: cubfan135: 20
+19: Grian: 12
+19: iskall85: 11
+19: Tango: 8
+19: GoodTimeWithScar: 4
+19: Docm77: 2
+19: VintageBeef: 1
+19: GeminiTay: 1
+19: Etho: 1
+Total 1346

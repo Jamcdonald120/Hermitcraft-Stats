@@ -1,0 +1,13 @@
+minecraft.picked_up.jungle_button
+11: iJevin: 89
+11: Xisuma: 51
+11: Etho: 27
+11: PearlescentMoon: 17
+11: cubfan135: 17
+11: Mumbo: 13
+11: falsesymmetry: 12
+11: Grian: 7
+11: Renthedog: 6
+11: BdoubleO100: 5
+11: GoodTimeWithScar: 2
+Total 246

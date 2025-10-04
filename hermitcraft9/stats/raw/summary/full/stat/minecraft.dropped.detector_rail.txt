@@ -1,0 +1,6 @@
+minecraft.dropped.detector_rail
+4: Zedaph: 7
+4: Etho: 5
+4: GoodTimeWithScar: 5
+4: Xisuma: 1
+Total 18

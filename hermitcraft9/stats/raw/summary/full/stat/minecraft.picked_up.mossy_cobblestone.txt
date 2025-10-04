@@ -1,0 +1,29 @@
+minecraft.picked_up.mossy_cobblestone
+27: PearlescentMoon: 2788
+27: Grian: 1664
+27: hypnotizd: 1338
+27: Tango: 904
+27: GoodTimeWithScar: 787
+27: iJevin: 672
+27: Docm77: 320
+27: cubfan135: 277
+27: BdoubleO100: 203
+27: falsesymmetry: 185
+27: joehillssays: 167
+27: Xisuma: 148
+27: RentheKing: 147
+27: GeminiTay: 143
+27: Renthedog: 141
+27: xBCrafted: 137
+27: iskall85: 102
+27: impulseSV: 83
+27: Zedaph: 55
+27: Stressmonster101: 45
+27: Etho: 37
+27: VintageBeef: 34
+27: Keralis1: 11
+27: MythicalSausage: 7
+27: ZombieCleo: 5
+27: Mumbo: 2
+27: STEAKFG: 1
+Total 10403

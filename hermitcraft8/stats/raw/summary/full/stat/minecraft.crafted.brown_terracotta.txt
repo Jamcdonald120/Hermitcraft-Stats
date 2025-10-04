@@ -1,0 +1,10 @@
+minecraft.crafted.brown_terracotta
+8: impulseSV: 5864
+8: PearlescentMoon: 3880
+8: GoodTimeWithScar: 244
+8: Grian: 174
+8: Xisuma: 64
+8: BdoubleO100: 48
+8: Welsknight: 8
+8: ZombieCleo: 8
+Total 10290

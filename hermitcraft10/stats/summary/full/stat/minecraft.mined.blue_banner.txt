@@ -1,0 +1,4 @@
+minecraft.mined.blue_banner
+2: falsesymmetry: 2
+2: joehillssays: 1
+Total 3

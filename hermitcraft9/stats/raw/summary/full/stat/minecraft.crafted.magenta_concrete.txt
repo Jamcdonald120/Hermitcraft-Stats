@@ -1,0 +1,4 @@
+minecraft.crafted.magenta_concrete
+2: cubfan135: 112
+2: impulseSV: 16
+Total 128

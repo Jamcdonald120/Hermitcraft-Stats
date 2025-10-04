@@ -1,0 +1,22 @@
+minecraft.dropped.potion
+20: Xisuma: 239
+20: Tango: 74
+20: cubfan135: 67
+20: iJevin: 46
+20: Docm77: 44
+20: Stressmonster101: 44
+20: Zedaph: 40
+20: iskall85: 38
+20: PythonGB: 25
+20: GoodTimeWithScar: 19
+20: falsesymmetry: 18
+20: Renthedog: 17
+20: impulseSV: 15
+20: Grian: 13
+20: MumboJumbo: 6
+20: Biffa2001: 4
+20: HumanCleo: 3
+20: joehillssays: 2
+20: BdoubleO100: 1
+20: ZombieCleo: 1
+Total 716

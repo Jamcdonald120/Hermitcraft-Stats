@@ -1,0 +1,6 @@
+minecraft.crafted.oak_chest_boat
+4: Tango: 1
+4: BdoubleO100: 1
+4: xBCrafted: 1
+4: Zedaph: 1
+Total 4

@@ -1,0 +1,20 @@
+minecraft.dropped.name_tag
+18: Xisuma: 51
+18: cubfan135: 36
+18: iskall85: 35
+18: GoodTimeWithScar: 23
+18: Grian: 22
+18: falsesymmetry: 10
+18: Tango: 8
+18: Docm77: 7
+18: Renthedog: 7
+18: Welsknight: 7
+18: impulseSV: 6
+18: Biffa2001: 4
+18: iJevin: 3
+18: Stressmonster101: 3
+18: EvilXisuma: 2
+18: PythonGB: 1
+18: MumboJumbo: 1
+18: Zedaph: 1
+Total 227

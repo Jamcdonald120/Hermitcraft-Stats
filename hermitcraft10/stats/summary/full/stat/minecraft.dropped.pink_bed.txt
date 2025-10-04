@@ -1,0 +1,4 @@
+minecraft.dropped.pink_bed
+2: Renthedog: 25
+2: cubfan135: 2
+Total 27

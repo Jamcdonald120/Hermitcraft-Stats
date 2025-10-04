@@ -1,0 +1,24 @@
+minecraft.picked_up.jungle_slab
+22: PearlescentMoon: 542
+22: Xisuma: 327
+22: GoodTimeWithScar: 284
+22: falsesymmetry: 276
+22: Etho: 259
+22: cubfan135: 150
+22: Renthedog: 136
+22: iJevin: 126
+22: GeminiTay: 84
+22: Keralis1: 44
+22: Grian: 27
+22: VintageBeef: 16
+22: BdoubleO100: 14
+22: impulseSV: 11
+22: joehillssays: 10
+22: ZombieCleo: 10
+22: Skizzleman: 8
+22: Mumbo: 7
+22: Docm77: 4
+22: Zedaph: 4
+22: Smallishbeans: 3
+22: Tango: 2
+Total 2344

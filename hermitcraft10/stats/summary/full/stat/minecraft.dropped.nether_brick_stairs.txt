@@ -1,0 +1,4 @@
+minecraft.dropped.nether_brick_stairs
+2: GoodTimeWithScar: 33
+2: iJevin: 4
+Total 37

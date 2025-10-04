@@ -1,0 +1,17 @@
+minecraft.picked_up.magenta_wool
+15: falsesymmetry: 1641
+15: iJevin: 1117
+15: Grian: 638
+15: ZombieCleo: 237
+15: PearlescentMoon: 192
+15: Docm77: 177
+15: Renthedog: 64
+15: joehillssays: 64
+15: impulseSV: 64
+15: Tango: 47
+15: Zedaph: 31
+15: Stressmonster101: 27
+15: cubfan135: 12
+15: VintageBeef: 11
+15: iskall85: 11
+Total 4333

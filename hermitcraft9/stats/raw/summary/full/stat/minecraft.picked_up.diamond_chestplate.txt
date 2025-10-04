@@ -1,0 +1,26 @@
+minecraft.picked_up.diamond_chestplate
+24: hypnotizd: 57
+24: GoodTimeWithScar: 42
+24: cubfan135: 41
+24: iJevin: 29
+24: Etho: 24
+24: Zedaph: 22
+24: Grian: 14
+24: falsesymmetry: 14
+24: PearlescentMoon: 13
+24: xBCrafted: 11
+24: Tango: 9
+24: joehillssays: 7
+24: RentheKing: 5
+24: Docm77: 3
+24: Minerva246: 2
+24: Renthedog: 2
+24: BdoubleO100: 2
+24: Keralis1: 2
+24: impulseSV: 2
+24: OrionSound: 1
+24: VintageBeef: 1
+24: MythicalSausage: 1
+24: fWhip: 1
+24: HBomb94: 1
+Total 306

@@ -1,0 +1,16 @@
+minecraft.crafted.cyan_stained_glass_pane
+14: impulseSV: 888
+14: xBCrafted: 800
+14: Smallishbeans: 672
+14: Tango: 272
+14: cubfan135: 256
+14: GeminiTay: 240
+14: Renthedog: 144
+14: BdoubleO100: 128
+14: GoodTimeWithScar: 80
+14: Xisuma: 64
+14: Mumbo: 48
+14: PearlescentMoon: 32
+14: Keralis1: 32
+14: ZombieCleo: 16
+Total 3672

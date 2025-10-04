@@ -1,0 +1,22 @@
+minecraft.picked_up.light_gray_terracotta
+20: falsesymmetry: 13208
+20: GoodTimeWithScar: 10783
+20: Etho: 7919
+20: Grian: 6621
+20: joehillssays: 5192
+20: Renthedog: 4647
+20: Xisuma: 3975
+20: MumboJumbo: 3245
+20: impulseSV: 1417
+20: VintageBeef: 1332
+20: cubfan135: 1281
+20: Tango: 1217
+20: ZombieCleo: 619
+20: BdoubleO100: 588
+20: iskall85: 459
+20: Stressmonster101: 424
+20: Zedaph: 262
+20: Keralis1: 175
+20: Docm77: 36
+20: xBCrafted: 10
+Total 63410

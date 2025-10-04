@@ -1,0 +1,17 @@
+minecraft.dropped.glowstone_dust
+15: MumboJumbo: 313
+15: Xisuma: 183
+15: Renthedog: 140
+15: cubfan135: 82
+15: GoodTimeWithScar: 30
+15: Docm77: 25
+15: Tango: 15
+15: iskall85: 9
+15: Grian: 8
+15: Stressmonster101: 6
+15: ZombieCleo: 5
+15: Keralis1: 3
+15: Zedaph: 3
+15: iJevin: 2
+15: impulseSV: 1
+Total 825

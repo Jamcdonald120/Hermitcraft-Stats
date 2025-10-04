@@ -1,0 +1,22 @@
+minecraft.crafted.red_dye
+20: Xisuma: 13824
+20: Grian: 4971
+20: cubfan135: 3717
+20: GoodTimeWithScar: 3218
+20: iJevin: 2430
+20: iskall85: 2000
+20: Renthedog: 1979
+20: falsesymmetry: 1672
+20: Tango: 1465
+20: Welsknight: 797
+20: impulseSV: 767
+20: Docm77: 743
+20: PythonGB: 461
+20: Stressmonster101: 438
+20: Zedaph: 435
+20: joehillssays: 290
+20: ZombieCleo: 260
+20: MumboJumbo: 132
+20: Tinfoilchef: 17
+20: BdoubleO100: 10
+Total 39626

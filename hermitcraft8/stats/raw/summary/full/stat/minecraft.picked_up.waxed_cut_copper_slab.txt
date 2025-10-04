@@ -1,0 +1,8 @@
+minecraft.picked_up.waxed_cut_copper_slab
+6: Tango: 183
+6: Renthedog: 90
+6: PearlescentMoon: 9
+6: cubfan135: 8
+6: Docm77: 2
+6: impulseSV: 1
+Total 293

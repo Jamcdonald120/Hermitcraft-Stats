@@ -1,0 +1,26 @@
+minecraft.mined.bamboo_wall_sign
+24: Tango: 150
+24: cubfan135: 76
+24: Keralis1: 36
+24: Renthedog: 35
+24: Xisuma: 31
+24: iJevin: 20
+24: joehillssays: 20
+24: Docm77: 18
+24: Etho: 18
+24: Skizzleman: 13
+24: impulseSV: 12
+24: Mumbo: 9
+24: GeminiTay: 7
+24: Zedaph: 6
+24: VintageBeef: 4
+24: Smallishbeans: 4
+24: BdoubleO100: 4
+24: falsesymmetry: 4
+24: Grian: 2
+24: ZombieCleo: 2
+24: GoodTimeWithScar: 2
+24: PearlescentMoon: 1
+24: Welsknight: 1
+24: hypnotizd: 1
+Total 476

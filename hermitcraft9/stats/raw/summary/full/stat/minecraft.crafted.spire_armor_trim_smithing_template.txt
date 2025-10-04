@@ -1,0 +1,5 @@
+minecraft.crafted.spire_armor_trim_smithing_template
+3: cubfan135: 14
+3: iJevin: 8
+3: impulseSV: 4
+Total 26

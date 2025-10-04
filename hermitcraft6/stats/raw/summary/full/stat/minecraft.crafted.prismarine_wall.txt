@@ -1,0 +1,5 @@
+minecraft.crafted.prismarine_wall
+3: falsesymmetry: 420
+3: Stressmonster101: 240
+3: cubfan135: 30
+Total 690

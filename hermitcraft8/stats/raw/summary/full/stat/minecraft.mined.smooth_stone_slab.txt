@@ -1,0 +1,21 @@
+minecraft.mined.smooth_stone_slab
+19: impulseSV: 1347
+19: Tango: 495
+19: MumboJumbo: 382
+19: Xisuma: 247
+19: Docm77: 157
+19: cubfan135: 104
+19: xBCrafted: 76
+19: Etho: 65
+19: Renthedog: 27
+19: GoodTimeWithScar: 27
+19: Zedaph: 20
+19: joehillssays: 15
+19: Welsknight: 12
+19: Grian: 10
+19: PearlescentMoon: 6
+19: BdoubleO100: 4
+19: iskall85: 4
+19: VintageBeef: 2
+19: Keralis1: 2
+Total 3002

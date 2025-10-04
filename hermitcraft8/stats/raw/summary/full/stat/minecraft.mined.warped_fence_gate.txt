@@ -1,0 +1,8 @@
+minecraft.mined.warped_fence_gate
+6: impulseSV: 31
+6: BdoubleO100: 16
+6: GoodTimeWithScar: 6
+6: Keralis1: 5
+6: Grian: 2
+6: Welsknight: 1
+Total 61

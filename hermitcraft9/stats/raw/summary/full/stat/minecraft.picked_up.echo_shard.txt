@@ -1,0 +1,11 @@
+minecraft.picked_up.echo_shard
+9: iJevin: 77
+9: impulseSV: 71
+9: PearlescentMoon: 11
+9: GeminiTay: 5
+9: Xisuma: 2
+9: falsesymmetry: 2
+9: cubfan135: 2
+9: Grian: 1
+9: Tango: 1
+Total 172

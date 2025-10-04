@@ -1,0 +1,11 @@
+minecraft.dropped.deepslate_tile_wall
+9: Renthedog: 193
+9: Grian: 128
+9: xBCrafted: 80
+9: BdoubleO100: 64
+9: Docm77: 6
+9: iJevin: 2
+9: GoodTimeWithScar: 2
+9: Skizzleman: 1
+9: impulseSV: 1
+Total 477

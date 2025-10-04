@@ -1,0 +1,23 @@
+minecraft.picked_up.tuff_slab
+21: Grian: 386
+21: GoodTimeWithScar: 299
+21: PearlescentMoon: 172
+21: Smallishbeans: 148
+21: Tango: 105
+21: BdoubleO100: 95
+21: falsesymmetry: 90
+21: Keralis1: 72
+21: Etho: 70
+21: Renthedog: 53
+21: cubfan135: 32
+21: GeminiTay: 31
+21: Docm77: 23
+21: Zedaph: 16
+21: impulseSV: 14
+21: VintageBeef: 9
+21: ZombieCleo: 9
+21: xBCrafted: 5
+21: Welsknight: 3
+21: Xisuma: 2
+21: iJevin: 1
+Total 1635

@@ -1,0 +1,29 @@
+minecraft.picked_up.glow_ink_sac
+27: iJevin: 925
+27: impulseSV: 412
+27: Skizzleman: 408
+27: PearlescentMoon: 375
+27: Docm77: 335
+27: Smallishbeans: 288
+27: cubfan135: 283
+27: falsesymmetry: 255
+27: Grian: 215
+27: GoodTimeWithScar: 195
+27: ZombieCleo: 174
+27: Etho: 173
+27: InTheLittleWood: 137
+27: joehillssays: 130
+27: F1RECRACKR: 128
+27: Xisuma: 105
+27: VintageBeef: 89
+27: Renthedog: 86
+27: BdoubleO100: 77
+27: Keralis1: 66
+27: SolidarityGaming: 56
+27: hypnotizd: 45
+27: Tango: 19
+27: xBCrafted: 12
+27: Welsknight: 7
+27: Mumbo: 7
+27: GeminiTay: 6
+Total 5008

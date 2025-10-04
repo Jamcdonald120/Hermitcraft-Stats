@@ -1,0 +1,8 @@
+minecraft.dropped.yellow_carpet
+6: Tango: 48
+6: impulseSV: 23
+6: Keralis1: 6
+6: Etho: 3
+6: GoodTimeWithScar: 2
+6: iskall85: 1
+Total 83

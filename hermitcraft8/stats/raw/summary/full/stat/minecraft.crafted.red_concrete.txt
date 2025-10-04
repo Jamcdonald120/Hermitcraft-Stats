@@ -1,0 +1,4 @@
+minecraft.crafted.red_concrete
+2: Zedaph: 16
+2: iJevin: 8
+Total 24

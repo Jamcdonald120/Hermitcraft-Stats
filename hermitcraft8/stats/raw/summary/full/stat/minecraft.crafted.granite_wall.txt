@@ -1,0 +1,12 @@
+minecraft.crafted.granite_wall
+10: Tango: 180
+10: GoodTimeWithScar: 138
+10: PearlescentMoon: 66
+10: impulseSV: 46
+10: GeminiTay: 42
+10: Keralis1: 30
+10: joehillssays: 18
+10: Xisuma: 12
+10: Grian: 12
+10: cubfan135: 6
+Total 550

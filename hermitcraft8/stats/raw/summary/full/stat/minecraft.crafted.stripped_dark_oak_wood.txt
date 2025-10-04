@@ -1,0 +1,6 @@
+minecraft.crafted.stripped_dark_oak_wood
+4: GoodTimeWithScar: 516
+4: Keralis1: 168
+4: Tango: 123
+4: PearlescentMoon: 45
+Total 852

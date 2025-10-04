@@ -1,0 +1,20 @@
+minecraft.dropped.lever
+18: Zedaph: 56
+18: Etho: 46
+18: iJevin: 25
+18: impulseSV: 19
+18: hypnotizd: 17
+18: Tango: 15
+18: Grian: 6
+18: Renthedog: 5
+18: cubfan135: 5
+18: GeminiTay: 4
+18: Keralis1: 3
+18: Docm77: 1
+18: BdoubleO100: 1
+18: xBCrafted: 1
+18: Welsknight: 1
+18: ZombieCleo: 1
+18: MumboJumbo: 1
+18: GoodTimeWithScar: 1
+Total 208

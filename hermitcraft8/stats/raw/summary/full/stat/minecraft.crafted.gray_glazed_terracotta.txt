@@ -1,0 +1,4 @@
+minecraft.crafted.gray_glazed_terracotta
+2: Etho: 512
+2: impulseSV: 192
+Total 704

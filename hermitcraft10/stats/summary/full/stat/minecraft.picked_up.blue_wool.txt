@@ -1,0 +1,22 @@
+minecraft.picked_up.blue_wool
+20: GoodTimeWithScar: 2089
+20: joehillssays: 814
+20: Xisuma: 810
+20: ZombieCleo: 437
+20: Tango: 278
+20: iJevin: 247
+20: Docm77: 171
+20: Etho: 168
+20: falsesymmetry: 142
+20: PearlescentMoon: 95
+20: GeminiTay: 64
+20: Skizzleman: 62
+20: BdoubleO100: 58
+20: Zedaph: 56
+20: impulseSV: 35
+20: Renthedog: 31
+20: Grian: 22
+20: VintageBeef: 12
+20: cubfan135: 9
+20: Keralis1: 1
+Total 5601

@@ -1,0 +1,25 @@
+minecraft.crafted.glass_pane
+23: PearlescentMoon: 2768
+23: cubfan135: 2586
+23: BdoubleO100: 1728
+23: iJevin: 1184
+23: impulseSV: 800
+23: hypnotizd: 768
+23: Etho: 480
+23: joehillssays: 432
+23: Grian: 416
+23: ZombieCleo: 416
+23: falsesymmetry: 400
+23: Skizzleman: 384
+23: Xisuma: 256
+23: Tango: 224
+23: GoodTimeWithScar: 224
+23: Docm77: 208
+23: Renthedog: 192
+23: xBCrafted: 176
+23: Mumbo: 128
+23: Smallishbeans: 80
+23: VintageBeef: 64
+23: Keralis1: 64
+23: Welsknight: 32
+Total 14010

@@ -1,0 +1,25 @@
+minecraft.crafted.dispenser
+23: Etho: 838
+23: Xisuma: 674
+23: xBCrafted: 531
+23: Grian: 417
+23: impulseSV: 308
+23: Renthedog: 205
+23: MumboJumbo: 172
+23: iskall85: 164
+23: Zedaph: 97
+23: Tango: 86
+23: VintageBeef: 84
+23: Stressmonster101: 77
+23: Keralis1: 77
+23: Welsknight: 70
+23: cubfan135: 63
+23: GoodTimeWithScar: 57
+23: joehillssays: 56
+23: iJevin: 49
+23: falsesymmetry: 25
+23: BdoubleO100: 24
+23: Docm77: 12
+23: hypnotizd: 9
+23: ZombieCleo: 1
+Total 4096

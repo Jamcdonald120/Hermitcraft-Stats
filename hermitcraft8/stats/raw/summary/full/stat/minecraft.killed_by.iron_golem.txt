@@ -1,0 +1,9 @@
+minecraft.killed_by.iron_golem
+7: GoodTimeWithScar: 4
+7: Grian: 3
+7: Tango: 2
+7: Xisuma: 1
+7: iJevin: 1
+7: xBCrafted: 1
+7: Etho: 1
+Total 13

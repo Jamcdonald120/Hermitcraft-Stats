@@ -1,0 +1,5 @@
+minecraft.dropped.nautilus_shell
+3: Etho: 7
+3: Grian: 5
+3: iskall85: 5
+Total 17

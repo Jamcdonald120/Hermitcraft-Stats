@@ -1,0 +1,9 @@
+minecraft.picked_up.red_nether_bricks
+7: Tango: 26
+7: falsesymmetry: 5
+7: Zedaph: 3
+7: GeminiTay: 2
+7: Etho: 2
+7: hypnotizd: 2
+7: Smallishbeans: 1
+Total 41

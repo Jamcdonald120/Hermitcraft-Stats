@@ -1,0 +1,23 @@
+minecraft.dropped.spruce_slab
+21: falsesymmetry: 894
+21: ZombieCleo: 190
+21: Grian: 188
+21: Tango: 155
+21: Keralis1: 145
+21: iJevin: 137
+21: GoodTimeWithScar: 118
+21: Etho: 86
+21: Docm77: 75
+21: cubfan135: 72
+21: xBCrafted: 61
+21: GeminiTay: 47
+21: Renthedog: 28
+21: MythicalSausage: 27
+21: iskall85: 11
+21: VintageBeef: 4
+21: PearlescentMoon: 2
+21: Welsknight: 2
+21: RentheKing: 2
+21: Zedaph: 2
+21: impulseSV: 1
+Total 2247

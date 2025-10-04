@@ -1,0 +1,9 @@
+minecraft.crafted.magma_block
+7: Etho: 5951
+7: impulseSV: 1278
+7: cubfan135: 64
+7: Zedaph: 62
+7: Tango: 10
+7: Xisuma: 1
+7: Mumbo: 1
+Total 7367

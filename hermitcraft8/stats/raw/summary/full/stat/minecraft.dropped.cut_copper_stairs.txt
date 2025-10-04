@@ -1,0 +1,3 @@
+minecraft.dropped.cut_copper_stairs
+1: BdoubleO100: 3
+Total 3

@@ -1,0 +1,13 @@
+minecraft.dropped.pitcher_plant
+11: falsesymmetry: 221
+11: PearlescentMoon: 10
+11: Smallishbeans: 7
+11: GeminiTay: 6
+11: Renthedog: 4
+11: iJevin: 3
+11: Grian: 3
+11: Skizzleman: 3
+11: cubfan135: 2
+11: GoodTimeWithScar: 2
+11: impulseSV: 1
+Total 262

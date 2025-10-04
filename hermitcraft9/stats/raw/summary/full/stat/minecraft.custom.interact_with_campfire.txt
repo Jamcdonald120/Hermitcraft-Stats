@@ -1,0 +1,13 @@
+minecraft.custom.interact_with_campfire
+11: Tango: 209
+11: ZombieCleo: 60
+11: Renthedog: 42
+11: Pixlriffs: 21
+11: GeminiTay: 19
+11: Keralis1: 14
+11: PearlescentMoon: 12
+11: cubfan135: 8
+11: Etho: 4
+11: BdoubleO100: 1
+11: xBCrafted: 1
+Total 391

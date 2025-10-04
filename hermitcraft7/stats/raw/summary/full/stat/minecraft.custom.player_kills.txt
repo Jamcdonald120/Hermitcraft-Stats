@@ -1,0 +1,24 @@
+minecraft.custom.player_kills
+22: Grian: 222
+22: cubfan135: 129
+22: falsesymmetry: 108
+22: Tango: 86
+22: iJevin: 73
+22: impulseSV: 65
+22: Etho: 54
+22: Keralis1: 52
+22: GoodTimeWithScar: 48
+22: xBCrafted: 47
+22: Renthedog: 26
+22: Xisuma: 24
+22: iskall85: 23
+22: MumboJumbo: 22
+22: BdoubleO100: 20
+22: Docm77: 17
+22: Zedaph: 15
+22: ZombieCleo: 14
+22: joehillssays: 7
+22: hypnotizd: 6
+22: VintageBeef: 5
+22: Welsknight: 3
+Total 1066

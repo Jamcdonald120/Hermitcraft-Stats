@@ -1,0 +1,6 @@
+minecraft.picked_up.smooth_red_sandstone_slab
+4: PearlescentMoon: 146
+4: Keralis1: 6
+4: iJevin: 5
+4: Zedaph: 3
+Total 160

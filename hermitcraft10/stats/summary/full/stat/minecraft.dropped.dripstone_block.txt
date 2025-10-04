@@ -1,0 +1,23 @@
+minecraft.dropped.dripstone_block
+21: impulseSV: 2444
+21: Grian: 386
+21: Xisuma: 331
+21: hypnotizd: 234
+21: GoodTimeWithScar: 230
+21: Renthedog: 228
+21: Zedaph: 118
+21: Etho: 115
+21: falsesymmetry: 80
+21: cubfan135: 74
+21: Docm77: 65
+21: Skizzleman: 63
+21: iJevin: 54
+21: Tango: 45
+21: Smallishbeans: 43
+21: GeminiTay: 25
+21: Mumbo: 22
+21: ZombieCleo: 12
+21: Keralis1: 11
+21: VintageBeef: 6
+21: PearlescentMoon: 1
+Total 4587

@@ -1,0 +1,26 @@
+minecraft.crafted.chest
+24: MumboJumbo: 8377
+24: Tango: 6246
+24: Xisuma: 5907
+24: Etho: 5295
+24: GoodTimeWithScar: 5230
+24: Renthedog: 5061
+24: impulseSV: 4670
+24: xBCrafted: 4487
+24: Grian: 4210
+24: iskall85: 3056
+24: cubfan135: 2338
+24: Keralis1: 2307
+24: iJevin: 2070
+24: Zedaph: 1640
+24: hypnotizd: 1583
+24: Stressmonster101: 1401
+24: Welsknight: 1337
+24: joehillssays: 1164
+24: falsesymmetry: 1091
+24: Tinfoilchef: 785
+24: ZombieCleo: 460
+24: BdoubleO100: 449
+24: VintageBeef: 416
+24: Docm77: 288
+Total 69868

@@ -1,0 +1,21 @@
+minecraft.picked_up.hopper_minecart
+19: GoodTimeWithScar: 2851
+19: Tango: 1074
+19: Keralis1: 271
+19: xBCrafted: 126
+19: Docm77: 106
+19: Xisuma: 54
+19: hypnotizd: 28
+19: impulseSV: 21
+19: BdoubleO100: 14
+19: ZombieCleo: 13
+19: cubfan135: 10
+19: Renthedog: 4
+19: falsesymmetry: 4
+19: iJevin: 3
+19: PearlescentMoon: 3
+19: Mumbo: 3
+19: Zedaph: 3
+19: Etho: 2
+19: Grian: 1
+Total 4591

@@ -1,0 +1,3 @@
+minecraft.used.command_block
+1: HermitcraftAlt: 1
+Total 1

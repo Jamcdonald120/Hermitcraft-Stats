@@ -1,0 +1,20 @@
+minecraft.picked_up.enchanted_golden_apple
+18: PearlescentMoon: 104
+18: iJevin: 90
+18: Docm77: 59
+18: Etho: 28
+18: Skizzleman: 19
+18: cubfan135: 19
+18: Xisuma: 17
+18: Renthedog: 15
+18: GoodTimeWithScar: 14
+18: ZombieCleo: 11
+18: impulseSV: 10
+18: Grian: 9
+18: GeminiTay: 4
+18: Tango: 3
+18: Smallishbeans: 3
+18: xBCrafted: 3
+18: falsesymmetry: 1
+18: hypnotizd: 1
+Total 410

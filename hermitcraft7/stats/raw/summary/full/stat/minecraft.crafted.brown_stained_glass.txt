@@ -1,0 +1,15 @@
+minecraft.crafted.brown_stained_glass
+13: Etho: 1656
+13: impulseSV: 960
+13: Keralis1: 344
+13: falsesymmetry: 320
+13: joehillssays: 256
+13: Stressmonster101: 168
+13: cubfan135: 64
+13: xBCrafted: 56
+13: VintageBeef: 48
+13: Xisuma: 40
+13: Grian: 32
+13: GoodTimeWithScar: 16
+13: hypnotizd: 8
+Total 3968

@@ -1,0 +1,4 @@
+minecraft.crafted.red_tulip
+2: falsesymmetry: 10
+2: Keralis1: 4
+Total 14

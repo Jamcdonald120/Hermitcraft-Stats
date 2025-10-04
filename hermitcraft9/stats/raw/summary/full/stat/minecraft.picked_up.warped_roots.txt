@@ -1,0 +1,27 @@
+minecraft.picked_up.warped_roots
+25: Keralis1: 12664
+25: Etho: 5392
+25: Xisuma: 3494
+25: Mumbo: 2508
+25: ZombieCleo: 1823
+25: falsesymmetry: 1747
+25: PearlescentMoon: 1656
+25: Tango: 1182
+25: BdoubleO100: 499
+25: GoodTimeWithScar: 268
+25: cubfan135: 222
+25: Stressmonster101: 129
+25: Grian: 121
+25: iJevin: 98
+25: GeminiTay: 89
+25: hypnotizd: 75
+25: VintageBeef: 39
+25: Renthedog: 18
+25: xBCrafted: 11
+25: impulseSV: 11
+25: RentheKing: 9
+25: Zedaph: 7
+25: OrionSound: 1
+25: Pixlriffs: 1
+25: iskall85: 1
+Total 32065

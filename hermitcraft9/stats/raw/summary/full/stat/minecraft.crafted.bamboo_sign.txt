@@ -1,0 +1,10 @@
+minecraft.crafted.bamboo_sign
+8: Keralis1: 54
+8: cubfan135: 24
+8: Xisuma: 18
+8: PearlescentMoon: 18
+8: GoodTimeWithScar: 12
+8: impulseSV: 9
+8: Renthedog: 6
+8: Zedaph: 3
+Total 144

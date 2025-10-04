@@ -1,0 +1,24 @@
+minecraft.used.copper_block
+22: Xisuma: 114214
+22: Tango: 1889
+22: Etho: 1424
+22: GoodTimeWithScar: 1152
+22: hypnotizd: 986
+22: BdoubleO100: 818
+22: Mumbo: 772
+22: Grian: 580
+22: Smallishbeans: 260
+22: Docm77: 257
+22: GeminiTay: 247
+22: ZombieCleo: 173
+22: Keralis1: 160
+22: cubfan135: 125
+22: impulseSV: 90
+22: joehillssays: 76
+22: falsesymmetry: 47
+22: PearlescentMoon: 40
+22: VintageBeef: 29
+22: Renthedog: 15
+22: Skizzleman: 1
+22: xBCrafted: 1
+Total 123356

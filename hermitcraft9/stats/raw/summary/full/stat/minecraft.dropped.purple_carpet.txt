@@ -1,0 +1,6 @@
+minecraft.dropped.purple_carpet
+4: falsesymmetry: 52
+4: Tango: 25
+4: GoodTimeWithScar: 2
+4: impulseSV: 1
+Total 80

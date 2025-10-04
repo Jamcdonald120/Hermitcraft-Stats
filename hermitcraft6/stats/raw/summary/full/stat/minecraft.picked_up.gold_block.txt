@@ -1,0 +1,23 @@
+minecraft.picked_up.gold_block
+21: Renthedog: 4836
+21: iJevin: 1891
+21: cubfan135: 1397
+21: Xisuma: 1060
+21: Tango: 875
+21: falsesymmetry: 856
+21: GoodTimeWithScar: 661
+21: impulseSV: 579
+21: BdoubleO100: 386
+21: iskall85: 250
+21: Docm77: 194
+21: Stressmonster101: 180
+21: Zedaph: 133
+21: Grian: 125
+21: Biffa2001: 93
+21: MumboJumbo: 50
+21: joehillssays: 17
+21: PythonGB: 15
+21: ZombieCleo: 13
+21: Tinfoilchef: 2
+21: HumanCleo: 1
+Total 13614

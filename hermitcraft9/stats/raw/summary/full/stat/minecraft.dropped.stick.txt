@@ -1,0 +1,37 @@
+minecraft.dropped.stick
+35: Keralis1: 37297
+35: impulseSV: 19496
+35: Grian: 9600
+35: Tango: 6052
+35: GoodTimeWithScar: 3611
+35: iJevin: 3328
+35: Renthedog: 3104
+35: RentheKing: 1738
+35: PearlescentMoon: 1353
+35: falsesymmetry: 1278
+35: Xisuma: 1275
+35: Docm77: 1166
+35: Stressmonster101: 737
+35: hypnotizd: 688
+35: Etho: 621
+35: xBCrafted: 463
+35: iskall85: 405
+35: cubfan135: 405
+35: joehillssays: 392
+35: Zedaph: 335
+35: BdoubleO100: 331
+35: Pixlriffs: 245
+35: VintageBeef: 194
+35: ZombieCleo: 70
+35: Mumbo: 57
+35: GeminiTay: 47
+35: Welsknight: 24
+35: MythicalSausage: 21
+35: Smallishbeans: 16
+35: SolidarityGaming: 14
+35: truesymmetry: 10
+35: MumboJumbo: 8
+35: OrionSound: 7
+35: fWhip: 2
+35: ShubbleYT: 2
+Total 94392

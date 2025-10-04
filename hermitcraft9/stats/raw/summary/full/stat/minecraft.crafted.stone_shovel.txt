@@ -1,0 +1,27 @@
+minecraft.crafted.stone_shovel
+25: cubfan135: 430
+25: Tango: 148
+25: VintageBeef: 101
+25: iJevin: 47
+25: Docm77: 20
+25: joehillssays: 15
+25: Stressmonster101: 12
+25: hypnotizd: 7
+25: Zedaph: 7
+25: BdoubleO100: 5
+25: falsesymmetry: 5
+25: impulseSV: 5
+25: Tinfoilchef: 4
+25: Renthedog: 3
+25: GeminiTay: 3
+25: Welsknight: 3
+25: Mumbo: 3
+25: PearlescentMoon: 2
+25: Xisuma: 1
+25: Grian: 1
+25: Pixlriffs: 1
+25: iskall85: 1
+25: xBCrafted: 1
+25: MumboJumbo: 1
+25: fWhip: 1
+Total 827

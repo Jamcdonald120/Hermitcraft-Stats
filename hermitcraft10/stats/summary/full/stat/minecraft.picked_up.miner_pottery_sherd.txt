@@ -1,0 +1,6 @@
+minecraft.picked_up.miner_pottery_sherd
+4: Renthedog: 15
+4: Etho: 11
+4: PearlescentMoon: 4
+4: cubfan135: 3
+Total 33

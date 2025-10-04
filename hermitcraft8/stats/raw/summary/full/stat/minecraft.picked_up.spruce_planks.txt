@@ -1,0 +1,27 @@
+minecraft.picked_up.spruce_planks
+25: PearlescentMoon: 1968
+25: ZombieCleo: 1915
+25: GeminiTay: 1558
+25: Grian: 1524
+25: Renthedog: 1277
+25: cubfan135: 1126
+25: GoodTimeWithScar: 998
+25: Tango: 842
+25: Xisuma: 731
+25: Keralis1: 606
+25: MumboJumbo: 456
+25: BdoubleO100: 455
+25: Etho: 452
+25: impulseSV: 382
+25: Stressmonster101: 327
+25: iskall85: 303
+25: joehillssays: 244
+25: Docm77: 238
+25: iJevin: 192
+25: falsesymmetry: 87
+25: Zedaph: 82
+25: VintageBeef: 57
+25: xBCrafted: 26
+25: Welsknight: 25
+25: EvilXisuma: 2
+Total 15873

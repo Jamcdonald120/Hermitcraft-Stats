@@ -1,0 +1,3 @@
+minecraft.dropped.warped_pressure_plate
+1: BdoubleO100: 1
+Total 1

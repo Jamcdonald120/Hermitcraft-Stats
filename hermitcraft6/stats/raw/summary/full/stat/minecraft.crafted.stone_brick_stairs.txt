@@ -1,0 +1,25 @@
+minecraft.crafted.stone_brick_stairs
+23: falsesymmetry: 10708
+23: Renthedog: 10240
+23: Xisuma: 8816
+23: Tinfoilchef: 4544
+23: GoodTimeWithScar: 4323
+23: Welsknight: 4184
+23: impulseSV: 3216
+23: cubfan135: 2488
+23: Tango: 2188
+23: iJevin: 2032
+23: Stressmonster101: 2016
+23: iskall85: 1296
+23: Docm77: 856
+23: Grian: 824
+23: MumboJumbo: 536
+23: Zedaph: 368
+23: ZombieCleo: 360
+23: Keralis1: 320
+23: joehillssays: 296
+23: xBCrafted: 272
+23: Biffa2001: 200
+23: BdoubleO100: 40
+23: Jessassin: 8
+Total 60131

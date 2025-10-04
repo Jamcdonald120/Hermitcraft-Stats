@@ -1,0 +1,26 @@
+minecraft.picked_up.oak_sign
+24: Zedaph: 492
+24: Keralis1: 444
+24: falsesymmetry: 416
+24: iskall85: 415
+24: Tango: 397
+24: cubfan135: 325
+24: Grian: 296
+24: iJevin: 278
+24: Etho: 273
+24: VintageBeef: 222
+24: MumboJumbo: 212
+24: impulseSV: 138
+24: GoodTimeWithScar: 111
+24: joehillssays: 94
+24: BdoubleO100: 89
+24: Xisuma: 88
+24: hypnotizd: 85
+24: Renthedog: 75
+24: Stressmonster101: 69
+24: ZombieCleo: 65
+24: Welsknight: 55
+24: xBCrafted: 29
+24: Docm77: 17
+24: BarryBoss1234: 1
+Total 4686

@@ -1,0 +1,5 @@
+minecraft.picked_up.prismarine_wall
+3: falsesymmetry: 54
+3: cubfan135: 4
+3: Stressmonster101: 1
+Total 59

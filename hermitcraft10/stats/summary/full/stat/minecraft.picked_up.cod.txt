@@ -1,0 +1,33 @@
+minecraft.picked_up.cod
+31: Grian: 8012
+31: Etho: 2126
+31: xBCrafted: 1873
+31: PearlescentMoon: 1714
+31: GeminiTay: 1506
+31: ZombieCleo: 835
+31: Skizzleman: 789
+31: cubfan135: 563
+31: Renthedog: 543
+31: Keralis1: 378
+31: GoodTimeWithScar: 369
+31: iJevin: 299
+31: impulseSV: 172
+31: Tango: 168
+31: BdoubleO100: 165
+31: Welsknight: 153
+31: falsesymmetry: 142
+31: Smallishbeans: 133
+31: joehillssays: 115
+31: Docm77: 63
+31: hypnotizd: 53
+31: Zedaph: 24
+31: Xisuma: 21
+31: InTheLittleWood: 15
+31: SolidarityGaming: 15
+31: VintageBeef: 14
+31: Mumbo: 7
+31: HBomb94: 3
+31: aimsey: 2
+31: Dot_Dot_Dash: 1
+31: Eyjoy27: 1
+Total 20274

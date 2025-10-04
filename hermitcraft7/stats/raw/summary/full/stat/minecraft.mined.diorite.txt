@@ -1,0 +1,27 @@
+minecraft.mined.diorite
+25: falsesymmetry: 43798
+25: Tango: 35978
+25: Grian: 35301
+25: MumboJumbo: 34198
+25: impulseSV: 29542
+25: GoodTimeWithScar: 28351
+25: Etho: 22278
+25: Xisuma: 17875
+25: iJevin: 15373
+25: Keralis1: 15310
+25: cubfan135: 14517
+25: xBCrafted: 12110
+25: joehillssays: 11279
+25: iskall85: 11200
+25: Renthedog: 11067
+25: hypnotizd: 9346
+25: Stressmonster101: 9056
+25: VintageBeef: 8800
+25: Welsknight: 7564
+25: Zedaph: 7488
+25: BdoubleO100: 4698
+25: ZombieCleo: 3820
+25: Tinfoilchef: 2847
+25: Docm77: 1897
+25: Helsknight: 9
+Total 393702

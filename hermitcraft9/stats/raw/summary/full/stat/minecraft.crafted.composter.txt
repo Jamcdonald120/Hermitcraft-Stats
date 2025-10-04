@@ -1,0 +1,28 @@
+minecraft.crafted.composter
+26: xBCrafted: 977
+26: Xisuma: 945
+26: Etho: 865
+26: Docm77: 538
+26: GoodTimeWithScar: 290
+26: impulseSV: 290
+26: Renthedog: 263
+26: Tango: 203
+26: hypnotizd: 155
+26: PearlescentMoon: 136
+26: Keralis1: 133
+26: iJevin: 85
+26: GeminiTay: 84
+26: cubfan135: 62
+26: MythicalSausage: 54
+26: falsesymmetry: 37
+26: ZombieCleo: 36
+26: BdoubleO100: 34
+26: RentheKing: 22
+26: Stressmonster101: 21
+26: Zedaph: 21
+26: Grian: 16
+26: iskall85: 7
+26: joehillssays: 5
+26: VintageBeef: 3
+26: Pixlriffs: 1
+Total 5283

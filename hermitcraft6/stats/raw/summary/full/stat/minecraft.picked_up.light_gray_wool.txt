@@ -1,0 +1,23 @@
+minecraft.picked_up.light_gray_wool
+21: Tinfoilchef: 1600
+21: Xisuma: 1519
+21: Grian: 1396
+21: cubfan135: 970
+21: GoodTimeWithScar: 547
+21: falsesymmetry: 344
+21: iJevin: 278
+21: ZombieCleo: 179
+21: Tango: 135
+21: Docm77: 99
+21: Biffa2001: 79
+21: joehillssays: 77
+21: Welsknight: 68
+21: BdoubleO100: 67
+21: Renthedog: 63
+21: iskall85: 35
+21: Stressmonster101: 27
+21: Keralis1: 22
+21: impulseSV: 2
+21: PythonGB: 1
+21: Zedaph: 1
+Total 7509

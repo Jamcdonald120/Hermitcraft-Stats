@@ -1,0 +1,8 @@
+minecraft.picked_up.cyan_candle
+6: Tango: 85
+6: hypnotizd: 8
+6: GoodTimeWithScar: 5
+6: impulseSV: 5
+6: PearlescentMoon: 1
+6: Zedaph: 1
+Total 105

@@ -1,0 +1,10 @@
+minecraft.crafted.yellow_carpet
+8: impulseSV: 863
+8: PearlescentMoon: 63
+8: Keralis1: 51
+8: falsesymmetry: 48
+8: Renthedog: 24
+8: cubfan135: 18
+8: Welsknight: 3
+8: MumboJumbo: 3
+Total 1073

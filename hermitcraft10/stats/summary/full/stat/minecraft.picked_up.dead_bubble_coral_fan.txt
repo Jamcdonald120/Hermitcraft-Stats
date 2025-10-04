@@ -1,0 +1,4 @@
+minecraft.picked_up.dead_bubble_coral_fan
+2: ZombieCleo: 1
+2: GoodTimeWithScar: 1
+Total 2

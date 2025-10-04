@@ -1,0 +1,9 @@
+minecraft.picked_up.red_sandstone_wall
+7: Renthedog: 454
+7: PearlescentMoon: 85
+7: GoodTimeWithScar: 61
+7: xBCrafted: 57
+7: Grian: 15
+7: Tango: 15
+7: Smallishbeans: 13
+Total 700

@@ -1,0 +1,33 @@
+minecraft.picked_up.book
+31: Etho: 30716
+31: impulseSV: 9878
+31: Stressmonster101: 5752
+31: iJevin: 4880
+31: Grian: 4810
+31: PearlescentMoon: 3906
+31: Keralis1: 3604
+31: Zedaph: 1965
+31: ZombieCleo: 1410
+31: cubfan135: 787
+31: GeminiTay: 719
+31: Docm77: 626
+31: Tango: 546
+31: GoodTimeWithScar: 388
+31: falsesymmetry: 295
+31: xBCrafted: 249
+31: iskall85: 185
+31: Smajor1995: 149
+31: Renthedog: 104
+31: Xisuma: 35
+31: joehillssays: 31
+31: BdoubleO100: 18
+31: RentheKing: 18
+31: SolidarityGaming: 12
+31: hypnotizd: 11
+31: VintageBeef: 10
+31: Mumbo: 7
+31: MumboJumbo: 7
+31: fWhip: 6
+31: Minerva246: 1
+31: MythicalSausage: 1
+Total 71126

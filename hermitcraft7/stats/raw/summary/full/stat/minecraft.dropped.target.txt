@@ -1,0 +1,8 @@
+minecraft.dropped.target
+6: impulseSV: 64
+6: Zedaph: 48
+6: Etho: 11
+6: cubfan135: 9
+6: VintageBeef: 2
+6: Tango: 1
+Total 135

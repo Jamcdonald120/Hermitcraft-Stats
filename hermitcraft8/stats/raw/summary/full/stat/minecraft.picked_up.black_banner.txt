@@ -1,0 +1,8 @@
+minecraft.picked_up.black_banner
+6: Tango: 8
+6: Grian: 4
+6: PearlescentMoon: 3
+6: impulseSV: 2
+6: Xisuma: 1
+6: MumboJumbo: 1
+Total 19

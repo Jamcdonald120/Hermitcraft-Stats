@@ -1,0 +1,21 @@
+minecraft.picked_up.crossbow
+19: Xisuma: 465
+19: Docm77: 163
+19: Grian: 111
+19: cubfan135: 89
+19: GoodTimeWithScar: 43
+19: iskall85: 41
+19: iJevin: 8
+19: joehillssays: 8
+19: falsesymmetry: 8
+19: impulseSV: 8
+19: Renthedog: 7
+19: PythonGB: 6
+19: Stressmonster101: 5
+19: Tango: 3
+19: BdoubleO100: 3
+19: ZombieCleo: 3
+19: Zedaph: 3
+19: Welsknight: 2
+19: Keralis1: 2
+Total 978

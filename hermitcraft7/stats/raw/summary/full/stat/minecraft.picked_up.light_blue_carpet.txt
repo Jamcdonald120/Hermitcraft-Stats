@@ -1,0 +1,21 @@
+minecraft.picked_up.light_blue_carpet
+19: Tango: 565
+19: iJevin: 540
+19: cubfan135: 336
+19: VintageBeef: 239
+19: Xisuma: 97
+19: joehillssays: 81
+19: GoodTimeWithScar: 68
+19: BdoubleO100: 28
+19: Grian: 17
+19: iskall85: 17
+19: Keralis1: 15
+19: Zedaph: 12
+19: falsesymmetry: 11
+19: hypnotizd: 10
+19: MumboJumbo: 6
+19: Etho: 5
+19: Stressmonster101: 2
+19: impulseSV: 2
+19: ZombieCleo: 1
+Total 2052

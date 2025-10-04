@@ -1,0 +1,27 @@
+minecraft.crafted.smooth_stone_slab
+25: Tango: 23680
+25: Etho: 3234
+25: GoodTimeWithScar: 3216
+25: xBCrafted: 990
+25: ZombieCleo: 898
+25: iJevin: 834
+25: cubfan135: 780
+25: Keralis1: 714
+25: Mumbo: 588
+25: falsesymmetry: 474
+25: Grian: 328
+25: impulseSV: 268
+25: Xisuma: 250
+25: GeminiTay: 160
+25: Zedaph: 150
+25: joehillssays: 108
+25: Renthedog: 102
+25: PearlescentMoon: 72
+25: BdoubleO100: 70
+25: Docm77: 24
+25: Welsknight: 24
+25: hypnotizd: 24
+25: VintageBeef: 14
+25: Skizzleman: 12
+25: Smallishbeans: 6
+Total 37020

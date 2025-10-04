@@ -1,0 +1,24 @@
+minecraft.picked_up.vine
+22: GoodTimeWithScar: 4246
+22: BdoubleO100: 1725
+22: Tango: 1502
+22: cubfan135: 1380
+22: joehillssays: 1200
+22: Etho: 1180
+22: Zedaph: 615
+22: Stressmonster101: 602
+22: Grian: 579
+22: hypnotizd: 446
+22: Welsknight: 360
+22: VintageBeef: 294
+22: Keralis1: 268
+22: xBCrafted: 183
+22: iskall85: 180
+22: Renthedog: 143
+22: MumboJumbo: 108
+22: Xisuma: 102
+22: Docm77: 61
+22: impulseSV: 48
+22: falsesymmetry: 38
+22: ZombieCleo: 9
+Total 15269

@@ -1,0 +1,27 @@
+minecraft.picked_up.lantern
+25: iJevin: 962
+25: joehillssays: 483
+25: cubfan135: 405
+25: falsesymmetry: 356
+25: Welsknight: 325
+25: ZombieCleo: 289
+25: PearlescentMoon: 224
+25: Renthedog: 166
+25: Grian: 162
+25: Xisuma: 158
+25: Tango: 150
+25: Etho: 136
+25: Keralis1: 105
+25: VintageBeef: 87
+25: Skizzleman: 87
+25: GoodTimeWithScar: 79
+25: hypnotizd: 60
+25: GeminiTay: 28
+25: Mumbo: 27
+25: BdoubleO100: 21
+25: xBCrafted: 18
+25: Smallishbeans: 17
+25: impulseSV: 17
+25: Docm77: 12
+25: Zedaph: 7
+Total 4381

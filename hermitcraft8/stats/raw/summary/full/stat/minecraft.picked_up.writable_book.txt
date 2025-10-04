@@ -1,0 +1,24 @@
+minecraft.picked_up.writable_book
+22: Zedaph: 40
+22: Xisuma: 15
+22: iJevin: 12
+22: Docm77: 10
+22: Grian: 9
+22: MumboJumbo: 9
+22: joehillssays: 8
+22: Tango: 7
+22: PearlescentMoon: 5
+22: cubfan135: 5
+22: BdoubleO100: 4
+22: Welsknight: 4
+22: ZombieCleo: 4
+22: Keralis1: 4
+22: Renthedog: 3
+22: GeminiTay: 3
+22: xBCrafted: 3
+22: falsesymmetry: 3
+22: hypnotizd: 3
+22: impulseSV: 3
+22: VintageBeef: 1
+22: GoodTimeWithScar: 1
+Total 156

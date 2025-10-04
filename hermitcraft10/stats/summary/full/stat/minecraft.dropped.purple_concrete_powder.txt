@@ -1,0 +1,7 @@
+minecraft.dropped.purple_concrete_powder
+5: falsesymmetry: 65
+5: Grian: 7
+5: Etho: 3
+5: iJevin: 1
+5: cubfan135: 1
+Total 77

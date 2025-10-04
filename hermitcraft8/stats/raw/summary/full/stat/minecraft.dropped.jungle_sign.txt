@@ -1,0 +1,8 @@
+minecraft.dropped.jungle_sign
+6: iJevin: 37
+6: BdoubleO100: 10
+6: PearlescentMoon: 6
+6: hypnotizd: 5
+6: Grian: 2
+6: GoodTimeWithScar: 1
+Total 61

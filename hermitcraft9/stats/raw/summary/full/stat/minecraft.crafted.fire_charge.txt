@@ -1,0 +1,6 @@
+minecraft.crafted.fire_charge
+4: Keralis1: 1812
+4: Renthedog: 192
+4: Tango: 3
+4: Zedaph: 3
+Total 2010

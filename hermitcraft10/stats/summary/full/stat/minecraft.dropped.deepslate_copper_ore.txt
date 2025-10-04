@@ -1,0 +1,9 @@
+minecraft.dropped.deepslate_copper_ore
+7: GeminiTay: 19
+7: Tango: 7
+7: xBCrafted: 6
+7: Renthedog: 5
+7: Grian: 2
+7: PearlescentMoon: 1
+7: Keralis1: 1
+Total 41

@@ -1,0 +1,7 @@
+minecraft.picked_up.tide_armor_trim_smithing_template
+5: impulseSV: 5
+5: Docm77: 2
+5: iJevin: 2
+5: cubfan135: 1
+5: Etho: 1
+Total 11

@@ -1,0 +1,6 @@
+minecraft.custom.clean_armor
+4: PearlescentMoon: 12
+4: falsesymmetry: 7
+4: cubfan135: 6
+4: joehillssays: 4
+Total 29

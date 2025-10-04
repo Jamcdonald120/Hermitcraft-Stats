@@ -1,0 +1,14 @@
+minecraft.crafted.nether_bricks
+12: impulseSV: 3930
+12: iJevin: 1103
+12: VintageBeef: 338
+12: GoodTimeWithScar: 317
+12: Renthedog: 246
+12: Etho: 112
+12: PearlescentMoon: 91
+12: Welsknight: 64
+12: cubfan135: 60
+12: Keralis1: 56
+12: Docm77: 26
+12: Xisuma: 25
+Total 6368

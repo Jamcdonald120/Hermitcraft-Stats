@@ -1,0 +1,14 @@
+minecraft.picked_up.conduit
+12: iJevin: 30
+12: Xisuma: 24
+12: cubfan135: 15
+12: iskall85: 7
+12: Docm77: 5
+12: Grian: 3
+12: Biffa2001: 3
+12: falsesymmetry: 2
+12: GoodTimeWithScar: 2
+12: Renthedog: 1
+12: MumboJumbo: 1
+12: impulseSV: 1
+Total 94

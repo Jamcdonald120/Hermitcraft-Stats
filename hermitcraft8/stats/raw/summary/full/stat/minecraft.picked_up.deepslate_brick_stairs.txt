@@ -1,0 +1,18 @@
+minecraft.picked_up.deepslate_brick_stairs
+16: iJevin: 660
+16: Renthedog: 286
+16: impulseSV: 127
+16: Docm77: 117
+16: xBCrafted: 93
+16: Keralis1: 84
+16: GoodTimeWithScar: 58
+16: Xisuma: 30
+16: Stressmonster101: 29
+16: hypnotizd: 22
+16: PearlescentMoon: 21
+16: cubfan135: 7
+16: ZombieCleo: 4
+16: VintageBeef: 2
+16: GeminiTay: 1
+16: BdoubleO100: 1
+Total 1542

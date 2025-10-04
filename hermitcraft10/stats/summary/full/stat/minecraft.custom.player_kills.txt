@@ -1,0 +1,32 @@
+minecraft.custom.player_kills
+30: GoodTimeWithScar: 253
+30: GeminiTay: 173
+30: cubfan135: 106
+30: Skizzleman: 105
+30: impulseSV: 82
+30: PearlescentMoon: 78
+30: Grian: 74
+30: Etho: 67
+30: Tango: 42
+30: falsesymmetry: 38
+30: iJevin: 36
+30: Renthedog: 31
+30: xBCrafted: 26
+30: Xisuma: 19
+30: Smallishbeans: 19
+30: Mumbo: 19
+30: Docm77: 13
+30: BdoubleO100: 13
+30: ZombieCleo: 13
+30: joehillssays: 9
+30: VintageBeef: 7
+30: Keralis1: 5
+30: aimsey: 4
+30: Zedaph: 3
+30: OrionSound: 1
+30: MythicalSausage: 1
+30: Eyjoy27: 1
+30: hypnotizd: 1
+30: jojosolos: 1
+30: HBomb94: 1
+Total 1241

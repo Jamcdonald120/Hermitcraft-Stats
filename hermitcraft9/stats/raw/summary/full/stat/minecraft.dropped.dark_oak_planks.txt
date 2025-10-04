@@ -1,0 +1,29 @@
+minecraft.dropped.dark_oak_planks
+27: falsesymmetry: 1771
+27: Grian: 514
+27: iskall85: 229
+27: cubfan135: 215
+27: Stressmonster101: 187
+27: GoodTimeWithScar: 162
+27: Keralis1: 161
+27: BdoubleO100: 113
+27: joehillssays: 95
+27: iJevin: 48
+27: xBCrafted: 44
+27: Renthedog: 38
+27: Tango: 37
+27: Zedaph: 36
+27: Docm77: 30
+27: RentheKing: 28
+27: impulseSV: 21
+27: PearlescentMoon: 19
+27: Xisuma: 15
+27: ZombieCleo: 12
+27: OrionSound: 11
+27: MythicalSausage: 9
+27: hypnotizd: 7
+27: Etho: 6
+27: Smallishbeans: 4
+27: Mumbo: 3
+27: Pixlriffs: 2
+Total 3817

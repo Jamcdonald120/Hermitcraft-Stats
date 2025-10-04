@@ -1,0 +1,25 @@
+minecraft.picked_up.clay_ball
+23: Xisuma: 2273
+23: iJevin: 2196
+23: BdoubleO100: 1868
+23: falsesymmetry: 1608
+23: joehillssays: 1173
+23: impulseSV: 984
+23: GeminiTay: 560
+23: PearlescentMoon: 404
+23: Tango: 372
+23: cubfan135: 348
+23: Docm77: 256
+23: MumboJumbo: 240
+23: GoodTimeWithScar: 208
+23: ZombieCleo: 200
+23: Renthedog: 88
+23: Tinfoilchef: 84
+23: Etho: 72
+23: iskall85: 64
+23: Grian: 63
+23: VintageBeef: 48
+23: Stressmonster101: 36
+23: Zedaph: 32
+23: Welsknight: 4
+Total 13181

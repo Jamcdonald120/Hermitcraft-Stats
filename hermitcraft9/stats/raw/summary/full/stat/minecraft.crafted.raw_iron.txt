@@ -1,0 +1,26 @@
+minecraft.crafted.raw_iron
+24: VintageBeef: 9640
+24: iJevin: 5868
+24: cubfan135: 5787
+24: joehillssays: 4950
+24: hypnotizd: 2970
+24: xBCrafted: 2313
+24: Mumbo: 1088
+24: MumboJumbo: 1088
+24: Xisuma: 731
+24: iskall85: 567
+24: Renthedog: 495
+24: impulseSV: 360
+24: MythicalSausage: 306
+24: PearlescentMoon: 225
+24: falsesymmetry: 171
+24: Keralis1: 153
+24: Zedaph: 117
+24: BdoubleO100: 90
+24: Docm77: 72
+24: GeminiTay: 63
+24: Pixlriffs: 54
+24: Stressmonster101: 27
+24: Etho: 9
+24: ZombieCleo: 9
+Total 37153

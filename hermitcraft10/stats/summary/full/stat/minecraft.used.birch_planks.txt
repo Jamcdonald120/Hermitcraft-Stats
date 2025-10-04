@@ -1,0 +1,27 @@
+minecraft.used.birch_planks
+25: PearlescentMoon: 2589
+25: Smallishbeans: 2559
+25: GoodTimeWithScar: 1391
+25: Xisuma: 1359
+25: xBCrafted: 1322
+25: hypnotizd: 1156
+25: GeminiTay: 1043
+25: cubfan135: 942
+25: Mumbo: 484
+25: joehillssays: 349
+25: ZombieCleo: 323
+25: falsesymmetry: 255
+25: Grian: 205
+25: Keralis1: 185
+25: iJevin: 146
+25: BdoubleO100: 36
+25: Docm77: 30
+25: Tango: 25
+25: Welsknight: 21
+25: Etho: 11
+25: Renthedog: 10
+25: Zedaph: 8
+25: Skizzleman: 7
+25: impulseSV: 3
+25: VintageBeef: 2
+Total 14461

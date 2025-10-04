@@ -1,0 +1,22 @@
+minecraft.picked_up.wet_sponge
+20: iJevin: 3177
+20: impulseSV: 2452
+20: falsesymmetry: 1443
+20: Renthedog: 1335
+20: Etho: 1316
+20: GoodTimeWithScar: 931
+20: Xisuma: 773
+20: hypnotizd: 368
+20: Grian: 327
+20: Zedaph: 282
+20: MumboJumbo: 185
+20: Stressmonster101: 141
+20: Docm77: 123
+20: cubfan135: 105
+20: Tango: 102
+20: xBCrafted: 65
+20: Keralis1: 53
+20: ZombieCleo: 48
+20: joehillssays: 3
+20: VintageBeef: 1
+Total 13230

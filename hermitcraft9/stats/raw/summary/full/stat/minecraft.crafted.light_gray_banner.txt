@@ -1,0 +1,14 @@
+minecraft.crafted.light_gray_banner
+12: Tango: 109
+12: Keralis1: 64
+12: ZombieCleo: 39
+12: PearlescentMoon: 32
+12: Renthedog: 12
+12: cubfan135: 10
+12: GoodTimeWithScar: 10
+12: RentheKing: 8
+12: BdoubleO100: 6
+12: impulseSV: 6
+12: Xisuma: 2
+12: Zedaph: 1
+Total 299

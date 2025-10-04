@@ -1,0 +1,24 @@
+minecraft.crafted.lapis_block
+22: GoodTimeWithScar: 2298
+22: cubfan135: 1720
+22: Tinfoilchef: 1575
+22: Renthedog: 1345
+22: iskall85: 578
+22: ZombieCleo: 403
+22: Zedaph: 399
+22: Biffa2001: 392
+22: joehillssays: 387
+22: BdoubleO100: 375
+22: PythonGB: 287
+22: Xisuma: 262
+22: Tango: 252
+22: falsesymmetry: 232
+22: Grian: 210
+22: Stressmonster101: 207
+22: iJevin: 194
+22: Welsknight: 160
+22: impulseSV: 120
+22: xBCrafted: 102
+22: MumboJumbo: 60
+22: HumanCleo: 22
+Total 11580

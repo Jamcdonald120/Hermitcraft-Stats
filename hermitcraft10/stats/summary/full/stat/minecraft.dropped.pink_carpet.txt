@@ -1,0 +1,5 @@
+minecraft.dropped.pink_carpet
+3: Xisuma: 3
+3: Zedaph: 2
+3: Grian: 1
+Total 6

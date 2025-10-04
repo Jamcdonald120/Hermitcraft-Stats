@@ -1,0 +1,27 @@
+minecraft.mined.powered_rail
+25: Tango: 3080
+25: Docm77: 1465
+25: cubfan135: 1273
+25: GoodTimeWithScar: 1187
+25: impulseSV: 584
+25: Xisuma: 286
+25: hypnotizd: 255
+25: Keralis1: 219
+25: Etho: 171
+25: Renthedog: 159
+25: iskall85: 151
+25: Zedaph: 151
+25: ZombieCleo: 109
+25: iJevin: 83
+25: Stressmonster101: 77
+25: joehillssays: 66
+25: xBCrafted: 66
+25: Grian: 51
+25: BdoubleO100: 21
+25: falsesymmetry: 19
+25: Mumbo: 19
+25: GeminiTay: 18
+25: PearlescentMoon: 7
+25: Welsknight: 3
+25: MumboJumbo: 2
+Total 9522

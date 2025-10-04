@@ -1,0 +1,19 @@
+minecraft.dropped.white_wool
+17: Zedaph: 400
+17: impulseSV: 87
+17: Renthedog: 62
+17: Tango: 52
+17: Welsknight: 48
+17: GoodTimeWithScar: 28
+17: Xisuma: 9
+17: iJevin: 9
+17: PearlescentMoon: 8
+17: Grian: 4
+17: ZombieCleo: 3
+17: Docm77: 2
+17: BdoubleO100: 2
+17: MumboJumbo: 2
+17: GeminiTay: 1
+17: falsesymmetry: 1
+17: hypnotizd: 1
+Total 719

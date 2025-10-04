@@ -1,0 +1,32 @@
+minecraft.picked_up.egg
+30: Renthedog: 4436
+30: Grian: 3634
+30: ZombieCleo: 3296
+30: MumboJumbo: 2420
+30: Stressmonster101: 1640
+30: GoodTimeWithScar: 1010
+30: iJevin: 896
+30: Jessassin: 807
+30: falsesymmetry: 579
+30: iskall85: 552
+30: cubfan135: 513
+30: joehillssays: 393
+30: Tango: 301
+30: Zedaph: 295
+30: Duke_da_dog: 214
+30: Xisuma: 179
+30: Docm77: 157
+30: Tinfoilchef: 116
+30: Welsknight: 82
+30: impulseSV: 73
+30: PythonGB: 58
+30: Biffa2001: 55
+30: EvilXisuma: 46
+30: BdoubleO100: 41
+30: Keralis1: 22
+30: Jura_Whitey: 6
+30: xBCrafted: 5
+30: tterrag: 4
+30: PokePugx: 2
+30: Cub_Cam: 1
+Total 21833

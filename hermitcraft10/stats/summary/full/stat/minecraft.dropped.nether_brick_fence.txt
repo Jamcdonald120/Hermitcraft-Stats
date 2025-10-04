@@ -1,0 +1,11 @@
+minecraft.dropped.nether_brick_fence
+9: Zedaph: 55
+9: Tango: 53
+9: iJevin: 27
+9: BdoubleO100: 16
+9: GoodTimeWithScar: 11
+9: Mumbo: 2
+9: Docm77: 1
+9: Skizzleman: 1
+9: falsesymmetry: 1
+Total 167

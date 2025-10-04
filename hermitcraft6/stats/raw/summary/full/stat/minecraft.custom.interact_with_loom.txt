@@ -1,0 +1,23 @@
+minecraft.custom.interact_with_loom
+21: falsesymmetry: 141
+21: cubfan135: 114
+21: Xisuma: 71
+21: Renthedog: 50
+21: Stressmonster101: 45
+21: GoodTimeWithScar: 38
+21: HumanCleo: 29
+21: Keralis1: 23
+21: Grian: 16
+21: impulseSV: 14
+21: joehillssays: 10
+21: BdoubleO100: 10
+21: ZombieCleo: 10
+21: Zedaph: 10
+21: Tango: 9
+21: iskall85: 7
+21: iJevin: 5
+21: Welsknight: 5
+21: Tinfoilchef: 5
+21: Docm77: 2
+21: PythonGB: 1
+Total 615

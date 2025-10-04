@@ -1,0 +1,23 @@
+minecraft.picked_up.deepslate_tile_stairs
+21: joehillssays: 990
+21: cubfan135: 647
+21: PearlescentMoon: 351
+21: Renthedog: 313
+21: impulseSV: 260
+21: Docm77: 79
+21: Xisuma: 79
+21: Smallishbeans: 46
+21: Skizzleman: 45
+21: ZombieCleo: 38
+21: falsesymmetry: 8
+21: Mumbo: 8
+21: GeminiTay: 6
+21: Tango: 5
+21: GoodTimeWithScar: 5
+21: VintageBeef: 4
+21: Keralis1: 4
+21: Zedaph: 4
+21: iJevin: 2
+21: xBCrafted: 2
+21: Etho: 1
+Total 2897

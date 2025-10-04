@@ -1,0 +1,27 @@
+minecraft.crafted.stone
+25: BdoubleO100: 5354
+25: hypnotizd: 1028
+25: ZombieCleo: 954
+25: VintageBeef: 920
+25: Renthedog: 820
+25: Stressmonster101: 800
+25: Zedaph: 646
+25: iJevin: 565
+25: Tango: 513
+25: iskall85: 385
+25: Mumbo: 342
+25: Xisuma: 300
+25: cubfan135: 239
+25: PearlescentMoon: 237
+25: Etho: 202
+25: xBCrafted: 91
+25: falsesymmetry: 90
+25: MumboJumbo: 70
+25: Docm77: 38
+25: Keralis1: 36
+25: impulseSV: 32
+25: GeminiTay: 11
+25: joehillssays: 10
+25: Pixlriffs: 4
+25: OrionSound: 3
+Total 13690

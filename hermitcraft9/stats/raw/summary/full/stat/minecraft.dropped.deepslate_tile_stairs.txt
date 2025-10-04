@@ -1,0 +1,15 @@
+minecraft.dropped.deepslate_tile_stairs
+13: Tango: 128
+13: impulseSV: 74
+13: iJevin: 52
+13: Grian: 23
+13: Xisuma: 19
+13: Renthedog: 11
+13: GoodTimeWithScar: 5
+13: Etho: 3
+13: Mumbo: 3
+13: MumboJumbo: 3
+13: GeminiTay: 1
+13: PearlescentMoon: 1
+13: Zedaph: 1
+Total 324

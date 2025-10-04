@@ -1,0 +1,26 @@
+minecraft.picked_up.spruce_trapdoor
+24: GoodTimeWithScar: 1316
+24: PearlescentMoon: 1312
+24: Tango: 817
+24: Xisuma: 410
+24: Grian: 380
+24: Keralis1: 353
+24: Renthedog: 275
+24: BdoubleO100: 217
+24: Etho: 174
+24: impulseSV: 136
+24: iskall85: 87
+24: xBCrafted: 85
+24: cubfan135: 62
+24: GeminiTay: 60
+24: Stressmonster101: 53
+24: Docm77: 37
+24: falsesymmetry: 22
+24: hypnotizd: 17
+24: ZombieCleo: 14
+24: joehillssays: 13
+24: VintageBeef: 10
+24: Zedaph: 4
+24: Welsknight: 3
+24: iJevin: 1
+Total 5858

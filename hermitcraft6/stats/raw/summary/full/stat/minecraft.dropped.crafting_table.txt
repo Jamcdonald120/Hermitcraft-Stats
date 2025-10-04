@@ -1,0 +1,21 @@
+minecraft.dropped.crafting_table
+19: cubfan135: 80
+19: Renthedog: 78
+19: iskall85: 70
+19: GoodTimeWithScar: 69
+19: Grian: 30
+19: falsesymmetry: 29
+19: Stressmonster101: 29
+19: Xisuma: 27
+19: Welsknight: 13
+19: iJevin: 11
+19: Tango: 9
+19: Docm77: 7
+19: PythonGB: 4
+19: BdoubleO100: 3
+19: impulseSV: 3
+19: xBCrafted: 2
+19: MumboJumbo: 2
+19: Keralis1: 2
+19: Zedaph: 1
+Total 469

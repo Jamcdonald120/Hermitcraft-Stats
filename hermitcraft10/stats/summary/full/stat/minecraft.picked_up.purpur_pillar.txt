@@ -1,0 +1,23 @@
+minecraft.picked_up.purpur_pillar
+21: PearlescentMoon: 3431
+21: iJevin: 369
+21: GoodTimeWithScar: 105
+21: Xisuma: 72
+21: Zedaph: 68
+21: VintageBeef: 67
+21: cubfan135: 55
+21: Renthedog: 43
+21: impulseSV: 40
+21: hypnotizd: 36
+21: Etho: 18
+21: Docm77: 16
+21: Mumbo: 14
+21: Keralis1: 10
+21: falsesymmetry: 9
+21: ZombieCleo: 8
+21: GeminiTay: 5
+21: Smallishbeans: 5
+21: joehillssays: 4
+21: Grian: 3
+21: Tango: 2
+Total 4380

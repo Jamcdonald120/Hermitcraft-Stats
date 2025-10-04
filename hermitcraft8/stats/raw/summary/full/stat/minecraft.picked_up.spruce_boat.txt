@@ -1,0 +1,20 @@
+minecraft.picked_up.spruce_boat
+18: BdoubleO100: 201
+18: Etho: 117
+18: PearlescentMoon: 80
+18: Xisuma: 65
+18: impulseSV: 49
+18: Docm77: 45
+18: Zedaph: 43
+18: Grian: 41
+18: Tango: 30
+18: iJevin: 14
+18: iskall85: 12
+18: Welsknight: 11
+18: Renthedog: 10
+18: GeminiTay: 8
+18: VintageBeef: 5
+18: GoodTimeWithScar: 4
+18: Keralis1: 3
+18: cubfan135: 2
+Total 740

@@ -1,0 +1,11 @@
+minecraft.picked_up.enchanted_golden_apple
+9: iJevin: 37
+9: impulseSV: 8
+9: Zedaph: 8
+9: PearlescentMoon: 7
+9: Renthedog: 3
+9: Grian: 3
+9: falsesymmetry: 2
+9: VintageBeef: 1
+9: Tango: 1
+Total 70

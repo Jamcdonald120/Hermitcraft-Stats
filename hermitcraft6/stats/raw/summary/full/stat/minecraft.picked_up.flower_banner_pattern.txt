@@ -1,0 +1,4 @@
+minecraft.picked_up.flower_banner_pattern
+2: HumanCleo: 1
+2: falsesymmetry: 1
+Total 2

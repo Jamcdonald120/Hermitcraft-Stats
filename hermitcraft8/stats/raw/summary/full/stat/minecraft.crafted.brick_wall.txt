@@ -1,0 +1,9 @@
+minecraft.crafted.brick_wall
+7: GoodTimeWithScar: 132
+7: Grian: 42
+7: Renthedog: 35
+7: impulseSV: 20
+7: Xisuma: 12
+7: PearlescentMoon: 6
+7: Etho: 4
+Total 251

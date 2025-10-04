@@ -1,0 +1,30 @@
+minecraft.picked_up.salmon
+28: Grian: 1079
+28: Zedaph: 263
+28: Keralis1: 176
+28: falsesymmetry: 155
+28: GeminiTay: 140
+28: iJevin: 107
+28: ZombieCleo: 104
+28: Docm77: 76
+28: impulseSV: 73
+28: PearlescentMoon: 66
+28: Renthedog: 63
+28: Etho: 34
+28: Xisuma: 33
+28: joehillssays: 31
+28: BdoubleO100: 27
+28: Stressmonster101: 24
+28: cubfan135: 22
+28: SolidarityGaming: 12
+28: VintageBeef: 11
+28: Smajor1995: 6
+28: Pixlriffs: 6
+28: Mumbo: 3
+28: MumboJumbo: 3
+28: Tango: 2
+28: xBCrafted: 2
+28: hypnotizd: 2
+28: iskall85: 1
+28: GoodTimeWithScar: 1
+Total 2522

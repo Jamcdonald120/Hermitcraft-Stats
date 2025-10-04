@@ -1,0 +1,24 @@
+minecraft.used.smooth_stone_slab
+22: falsesymmetry: 55029
+22: MumboJumbo: 45680
+22: Tango: 35510
+22: Xisuma: 26525
+22: Docm77: 20470
+22: iJevin: 19469
+22: iskall85: 19262
+22: impulseSV: 15534
+22: cubfan135: 10045
+22: GoodTimeWithScar: 7804
+22: Welsknight: 4097
+22: Renthedog: 3896
+22: Tinfoilchef: 3665
+22: Zedaph: 1868
+22: ZombieCleo: 1786
+22: PythonGB: 1098
+22: joehillssays: 1034
+22: Stressmonster101: 527
+22: Grian: 260
+22: BdoubleO100: 165
+22: Keralis1: 3
+22: Cub_Cam: 1
+Total 273728

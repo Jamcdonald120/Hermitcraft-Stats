@@ -1,0 +1,22 @@
+minecraft.dropped.birch_planks
+20: Xisuma: 2628
+20: BdoubleO100: 149
+20: cubfan135: 103
+20: Zedaph: 94
+20: falsesymmetry: 89
+20: Grian: 86
+20: Tango: 84
+20: Renthedog: 70
+20: GoodTimeWithScar: 68
+20: Keralis1: 64
+20: iJevin: 48
+20: Mumbo: 34
+20: xBCrafted: 23
+20: GeminiTay: 21
+20: Etho: 8
+20: Docm77: 7
+20: Smallishbeans: 5
+20: hypnotizd: 3
+20: ZombieCleo: 2
+20: impulseSV: 1
+Total 3587

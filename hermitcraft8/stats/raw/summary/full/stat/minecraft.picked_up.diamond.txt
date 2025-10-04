@@ -1,0 +1,30 @@
+minecraft.picked_up.diamond
+28: cubfan135: 1600
+28: PearlescentMoon: 1455
+28: Docm77: 1324
+28: Renthedog: 1316
+28: GoodTimeWithScar: 1314
+28: Grian: 875
+28: iJevin: 864
+28: xBCrafted: 635
+28: Welsknight: 557
+28: impulseSV: 550
+28: Xisuma: 507
+28: Etho: 448
+28: ZombieCleo: 410
+28: GeminiTay: 382
+28: MumboJumbo: 376
+28: hypnotizd: 357
+28: joehillssays: 314
+28: Tinfoilchef: 277
+28: falsesymmetry: 245
+28: BdoubleO100: 240
+28: Zedaph: 235
+28: Tango: 226
+28: iskall85: 199
+28: VintageBeef: 136
+28: Keralis1: 112
+28: Stressmonster101: 70
+28: EvilXisuma: 57
+28: pillbugnine: 15
+Total 15096

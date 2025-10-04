@@ -1,0 +1,21 @@
+minecraft.dropped.iron_shovel
+19: Tango: 52
+19: Xisuma: 30
+19: GoodTimeWithScar: 7
+19: Grian: 6
+19: Etho: 6
+19: impulseSV: 5
+19: cubfan135: 4
+19: Renthedog: 3
+19: MumboJumbo: 3
+19: iJevin: 2
+19: Zedaph: 2
+19: Docm77: 1
+19: VintageBeef: 1
+19: BdoubleO100: 1
+19: falsesymmetry: 1
+19: ZombieCleo: 1
+19: hypnotizd: 1
+19: Tinfoilchef: 1
+19: Keralis1: 1
+Total 128

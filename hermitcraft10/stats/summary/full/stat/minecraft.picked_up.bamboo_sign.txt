@@ -1,0 +1,26 @@
+minecraft.picked_up.bamboo_sign
+24: Tango: 461
+24: cubfan135: 232
+24: Grian: 110
+24: joehillssays: 105
+24: Xisuma: 102
+24: Renthedog: 102
+24: GoodTimeWithScar: 91
+24: Skizzleman: 89
+24: Keralis1: 73
+24: Docm77: 57
+24: PearlescentMoon: 43
+24: Etho: 38
+24: impulseSV: 34
+24: ZombieCleo: 32
+24: BdoubleO100: 25
+24: Zedaph: 22
+24: iJevin: 18
+24: Smallishbeans: 13
+24: Mumbo: 11
+24: VintageBeef: 10
+24: GeminiTay: 10
+24: falsesymmetry: 6
+24: Welsknight: 6
+24: hypnotizd: 1
+Total 1691

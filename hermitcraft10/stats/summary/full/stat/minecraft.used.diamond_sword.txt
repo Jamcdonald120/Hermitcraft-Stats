@@ -1,0 +1,31 @@
+minecraft.used.diamond_sword
+29: impulseSV: 298337
+29: Xisuma: 198251
+29: Docm77: 138323
+29: Mumbo: 132193
+29: Keralis1: 58266
+29: GoodTimeWithScar: 50731
+29: joehillssays: 40540
+29: Etho: 33317
+29: hypnotizd: 18760
+29: Tango: 15696
+29: Renthedog: 15022
+29: Grian: 6908
+29: iJevin: 5696
+29: falsesymmetry: 5575
+29: GeminiTay: 5417
+29: cubfan135: 5002
+29: BdoubleO100: 4847
+29: Zedaph: 4828
+29: VintageBeef: 4571
+29: Skizzleman: 4397
+29: Smallishbeans: 4368
+29: PearlescentMoon: 4081
+29: xBCrafted: 3344
+29: ZombieCleo: 2860
+29: Welsknight: 2372
+29: InTheLittleWood: 16
+29: SolidarityGaming: 10
+29: Smajor1995: 9
+29: Eyjoy27: 2
+Total 1063739

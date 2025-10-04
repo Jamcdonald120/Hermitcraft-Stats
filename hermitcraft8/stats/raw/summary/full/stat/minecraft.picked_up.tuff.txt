@@ -1,0 +1,28 @@
+minecraft.picked_up.tuff
+26: GoodTimeWithScar: 6646
+26: iJevin: 6185
+26: BdoubleO100: 4730
+26: PearlescentMoon: 3742
+26: Renthedog: 3192
+26: joehillssays: 2468
+26: Xisuma: 1923
+26: Grian: 1917
+26: Etho: 1332
+26: iskall85: 1004
+26: impulseSV: 956
+26: Stressmonster101: 883
+26: cubfan135: 773
+26: MumboJumbo: 725
+26: Docm77: 574
+26: hypnotizd: 535
+26: Welsknight: 528
+26: xBCrafted: 496
+26: Tinfoilchef: 366
+26: GeminiTay: 338
+26: ZombieCleo: 289
+26: Zedaph: 196
+26: VintageBeef: 179
+26: Tango: 143
+26: falsesymmetry: 68
+26: Keralis1: 22
+Total 40210

@@ -1,0 +1,15 @@
+minecraft.crafted.black_stained_glass_pane
+13: impulseSV: 3088
+13: Grian: 632
+13: Docm77: 480
+13: xBCrafted: 480
+13: Xisuma: 456
+13: Renthedog: 448
+13: GoodTimeWithScar: 112
+13: Keralis1: 96
+13: iskall85: 80
+13: VintageBeef: 64
+13: iJevin: 64
+13: hypnotizd: 32
+13: BdoubleO100: 16
+Total 6048

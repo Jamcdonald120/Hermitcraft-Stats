@@ -1,0 +1,6 @@
+minecraft.crafted.diorite_slab
+4: Docm77: 60
+4: impulseSV: 30
+4: Xisuma: 12
+4: Tango: 6
+Total 108

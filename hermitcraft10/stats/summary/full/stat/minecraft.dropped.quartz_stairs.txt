@@ -1,0 +1,7 @@
+minecraft.dropped.quartz_stairs
+5: iJevin: 120
+5: Renthedog: 38
+5: GoodTimeWithScar: 16
+5: falsesymmetry: 6
+5: ZombieCleo: 1
+Total 181

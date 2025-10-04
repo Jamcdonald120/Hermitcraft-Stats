@@ -1,0 +1,26 @@
+minecraft.crafted.white_bed
+24: Keralis1: 83
+24: Tango: 67
+24: Xisuma: 60
+24: iskall85: 53
+24: MumboJumbo: 47
+24: Docm77: 33
+24: Stressmonster101: 32
+24: hypnotizd: 28
+24: falsesymmetry: 26
+24: Grian: 23
+24: cubfan135: 14
+24: joehillssays: 13
+24: Renthedog: 11
+24: GoodTimeWithScar: 11
+24: iJevin: 10
+24: xBCrafted: 9
+24: BdoubleO100: 7
+24: impulseSV: 7
+24: Zedaph: 6
+24: ZombieCleo: 5
+24: Etho: 4
+24: VintageBeef: 3
+24: Tinfoilchef: 2
+24: Welsknight: 1
+Total 555

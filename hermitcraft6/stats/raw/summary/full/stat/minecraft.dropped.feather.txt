@@ -1,0 +1,22 @@
+minecraft.dropped.feather
+20: falsesymmetry: 3700
+20: Renthedog: 2800
+20: MumboJumbo: 1226
+20: iskall85: 684
+20: Stressmonster101: 478
+20: Zedaph: 424
+20: ZombieCleo: 290
+20: GoodTimeWithScar: 159
+20: Grian: 108
+20: Tango: 78
+20: impulseSV: 68
+20: cubfan135: 61
+20: Docm77: 39
+20: iJevin: 31
+20: Xisuma: 19
+20: BadTimeWithScar: 10
+20: EvilXisuma: 7
+20: Biffa2001: 3
+20: BdoubleO100: 2
+20: Duke_da_dog: 2
+Total 10189

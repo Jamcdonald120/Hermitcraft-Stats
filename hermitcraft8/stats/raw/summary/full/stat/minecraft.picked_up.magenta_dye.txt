@@ -1,0 +1,9 @@
+minecraft.picked_up.magenta_dye
+7: Grian: 262
+7: Tango: 148
+7: Etho: 66
+7: PearlescentMoon: 26
+7: Welsknight: 4
+7: Stressmonster101: 3
+7: Zedaph: 2
+Total 511

@@ -1,0 +1,22 @@
+minecraft.crafted.raw_iron_block
+20: cubfan135: 3669
+20: iJevin: 964
+20: GoodTimeWithScar: 353
+20: hypnotizd: 208
+20: BdoubleO100: 173
+20: impulseSV: 158
+20: PearlescentMoon: 155
+20: ZombieCleo: 131
+20: joehillssays: 126
+20: Etho: 122
+20: Tango: 75
+20: Grian: 67
+20: iskall85: 56
+20: xBCrafted: 42
+20: GeminiTay: 24
+20: Xisuma: 22
+20: Zedaph: 22
+20: Tinfoilchef: 18
+20: Welsknight: 14
+20: Docm77: 9
+Total 6408

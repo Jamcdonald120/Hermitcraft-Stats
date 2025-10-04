@@ -1,0 +1,25 @@
+minecraft.crafted.oak_door
+23: Xisuma: 18
+23: Keralis1: 15
+23: Tango: 12
+23: BdoubleO100: 12
+23: iskall85: 12
+23: Etho: 12
+23: VintageBeef: 9
+23: PearlescentMoon: 9
+23: ZombieCleo: 9
+23: Docm77: 6
+23: Grian: 6
+23: Pixlriffs: 6
+23: xBCrafted: 6
+23: Mumbo: 6
+23: hypnotizd: 6
+23: impulseSV: 6
+23: iJevin: 3
+23: GeminiTay: 3
+23: cubfan135: 3
+23: MumboJumbo: 3
+23: GoodTimeWithScar: 3
+23: SolidarityGaming: 3
+23: Zedaph: 3
+Total 171

@@ -1,0 +1,30 @@
+minecraft.picked_up.torch
+28: GoodTimeWithScar: 24154
+28: Grian: 19679
+28: falsesymmetry: 17876
+28: cubfan135: 12510
+28: iJevin: 12470
+28: iskall85: 11992
+28: Renthedog: 11505
+28: Xisuma: 11375
+28: Tinfoilchef: 7477
+28: Docm77: 6932
+28: Tango: 6780
+28: joehillssays: 6141
+28: impulseSV: 5555
+28: Stressmonster101: 5296
+28: Welsknight: 3441
+28: MumboJumbo: 3176
+28: Zedaph: 3144
+28: ZombieCleo: 1418
+28: BdoubleO100: 1253
+28: PythonGB: 1012
+28: Keralis1: 918
+28: Biffa2001: 914
+28: xBCrafted: 319
+28: Jessassin: 69
+28: HumanCleo: 66
+28: Cub_Cam: 9
+28: Duke_da_dog: 1
+28: BadTimeWithScar: 1
+Total 175483

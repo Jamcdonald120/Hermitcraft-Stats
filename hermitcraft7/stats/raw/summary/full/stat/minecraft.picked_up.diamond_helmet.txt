@@ -1,0 +1,27 @@
+minecraft.picked_up.diamond_helmet
+25: GoodTimeWithScar: 74
+25: iJevin: 60
+25: Grian: 56
+25: Tango: 42
+25: iskall85: 38
+25: VintageBeef: 32
+25: Keralis1: 32
+25: Zedaph: 29
+25: Etho: 27
+25: cubfan135: 18
+25: impulseSV: 16
+25: MumboJumbo: 14
+25: falsesymmetry: 13
+25: Docm77: 9
+25: Stressmonster101: 8
+25: Renthedog: 7
+25: xBCrafted: 7
+25: Xisuma: 6
+25: BdoubleO100: 5
+25: Welsknight: 5
+25: hypnotizd: 5
+25: BarryBoss1234: 3
+25: Tinfoilchef: 3
+25: joehillssays: 2
+25: ZombieCleo: 1
+Total 512

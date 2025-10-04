@@ -1,0 +1,27 @@
+minecraft.picked_up.oxeye_daisy
+25: Etho: 6833
+25: BdoubleO100: 581
+25: GoodTimeWithScar: 474
+25: PearlescentMoon: 217
+25: Keralis1: 190
+25: VintageBeef: 125
+25: cubfan135: 122
+25: impulseSV: 93
+25: Smallishbeans: 86
+25: iJevin: 82
+25: joehillssays: 77
+25: Skizzleman: 74
+25: Xisuma: 65
+25: Grian: 61
+25: Tango: 60
+25: falsesymmetry: 55
+25: Renthedog: 46
+25: Docm77: 23
+25: Welsknight: 21
+25: ZombieCleo: 18
+25: hypnotizd: 18
+25: GeminiTay: 17
+25: Mumbo: 12
+25: xBCrafted: 11
+25: Zedaph: 1
+Total 9362

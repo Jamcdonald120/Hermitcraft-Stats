@@ -1,0 +1,5 @@
+minecraft.mined.light_gray_bed
+3: Keralis1: 16
+3: PearlescentMoon: 13
+3: Grian: 8
+Total 37

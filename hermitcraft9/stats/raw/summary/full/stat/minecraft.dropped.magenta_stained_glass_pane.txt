@@ -1,0 +1,5 @@
+minecraft.dropped.magenta_stained_glass_pane
+3: falsesymmetry: 30
+3: Zedaph: 14
+3: ZombieCleo: 2
+Total 46

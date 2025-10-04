@@ -1,0 +1,5 @@
+minecraft.crafted.stripped_warped_hyphae
+3: Smallishbeans: 108
+3: Tango: 18
+3: falsesymmetry: 9
+Total 135

@@ -1,0 +1,26 @@
+minecraft.picked_up.crafting_table
+24: cubfan135: 1340
+24: BdoubleO100: 1054
+24: Xisuma: 529
+24: Zedaph: 467
+24: iJevin: 465
+24: iskall85: 327
+24: GoodTimeWithScar: 314
+24: Tango: 294
+24: falsesymmetry: 277
+24: Renthedog: 260
+24: hypnotizd: 256
+24: Stressmonster101: 244
+24: impulseSV: 234
+24: Etho: 232
+24: Grian: 227
+24: MumboJumbo: 204
+24: joehillssays: 163
+24: VintageBeef: 149
+24: xBCrafted: 139
+24: Keralis1: 114
+24: Welsknight: 109
+24: ZombieCleo: 100
+24: Docm77: 85
+24: Tinfoilchef: 16
+Total 7599

@@ -1,0 +1,18 @@
+minecraft.crafted.mud_brick_slab
+16: Keralis1: 1620
+16: Etho: 120
+16: ZombieCleo: 120
+16: Grian: 114
+16: cubfan135: 54
+16: falsesymmetry: 48
+16: Tango: 30
+16: GeminiTay: 24
+16: impulseSV: 20
+16: Xisuma: 16
+16: PearlescentMoon: 16
+16: BdoubleO100: 8
+16: Renthedog: 6
+16: joehillssays: 6
+16: GoodTimeWithScar: 6
+16: Zedaph: 6
+Total 2214

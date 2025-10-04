@@ -1,0 +1,21 @@
+minecraft.picked_up.birch_slab
+19: falsesymmetry: 1301
+19: cubfan135: 1081
+19: Xisuma: 1008
+19: iskall85: 644
+19: impulseSV: 375
+19: Grian: 220
+19: Docm77: 170
+19: GoodTimeWithScar: 164
+19: MumboJumbo: 73
+19: Renthedog: 66
+19: Tango: 53
+19: Welsknight: 33
+19: joehillssays: 30
+19: Stressmonster101: 30
+19: Keralis1: 22
+19: xBCrafted: 13
+19: Jessassin: 7
+19: iJevin: 3
+19: ZombieCleo: 3
+Total 5296

@@ -1,0 +1,18 @@
+minecraft.dropped.red_wool
+16: Skizzleman: 153
+16: GoodTimeWithScar: 25
+16: iJevin: 16
+16: Zedaph: 15
+16: PearlescentMoon: 13
+16: Etho: 13
+16: BdoubleO100: 12
+16: Grian: 7
+16: Renthedog: 4
+16: falsesymmetry: 4
+16: impulseSV: 4
+16: Tango: 3
+16: Mumbo: 2
+16: joehillssays: 1
+16: cubfan135: 1
+16: ZombieCleo: 1
+Total 274

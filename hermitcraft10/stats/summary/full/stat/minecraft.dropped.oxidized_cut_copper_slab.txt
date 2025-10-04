@@ -1,0 +1,5 @@
+minecraft.dropped.oxidized_cut_copper_slab
+3: Etho: 4
+3: BdoubleO100: 2
+3: Tango: 1
+Total 7

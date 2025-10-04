@@ -1,0 +1,5 @@
+minecraft.killed_by.magma_cube
+3: impulseSV: 4
+3: Skizzleman: 2
+3: GoodTimeWithScar: 1
+Total 7

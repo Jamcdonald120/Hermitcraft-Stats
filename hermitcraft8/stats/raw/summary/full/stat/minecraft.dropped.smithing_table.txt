@@ -1,0 +1,5 @@
+minecraft.dropped.smithing_table
+3: Zedaph: 3
+3: Xisuma: 1
+3: iJevin: 1
+Total 5

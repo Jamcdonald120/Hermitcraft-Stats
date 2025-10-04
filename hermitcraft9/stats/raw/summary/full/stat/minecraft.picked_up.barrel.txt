@@ -1,0 +1,33 @@
+minecraft.picked_up.barrel
+31: impulseSV: 623
+31: iJevin: 549
+31: Tango: 360
+31: Renthedog: 268
+31: falsesymmetry: 225
+31: PearlescentMoon: 210
+31: cubfan135: 206
+31: VintageBeef: 178
+31: Xisuma: 172
+31: BdoubleO100: 163
+31: Keralis1: 149
+31: RentheKing: 122
+31: joehillssays: 107
+31: GoodTimeWithScar: 95
+31: xBCrafted: 82
+31: ZombieCleo: 78
+31: Zedaph: 68
+31: GeminiTay: 67
+31: SolidarityGaming: 67
+31: Etho: 54
+31: Docm77: 50
+31: Stressmonster101: 20
+31: fWhip: 19
+31: hypnotizd: 16
+31: Grian: 12
+31: iskall85: 11
+31: MythicalSausage: 10
+31: Smajor1995: 9
+31: OrionSound: 2
+31: Pixlriffs: 1
+31: ShubbleYT: 1
+Total 3994

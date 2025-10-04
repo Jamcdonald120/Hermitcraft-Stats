@@ -1,0 +1,27 @@
+minecraft.picked_up.oak_trapdoor
+25: PearlescentMoon: 355
+25: GoodTimeWithScar: 257
+25: BdoubleO100: 210
+25: Docm77: 158
+25: Xisuma: 153
+25: Grian: 82
+25: Zedaph: 77
+25: impulseSV: 75
+25: xBCrafted: 63
+25: joehillssays: 48
+25: Etho: 48
+25: iskall85: 42
+25: Keralis1: 37
+25: iJevin: 32
+25: MumboJumbo: 24
+25: Tinfoilchef: 20
+25: cubfan135: 17
+25: Tango: 12
+25: Welsknight: 7
+25: Renthedog: 6
+25: ZombieCleo: 4
+25: VintageBeef: 2
+25: hypnotizd: 2
+25: GeminiTay: 1
+25: Stressmonster101: 1
+Total 1733

@@ -1,0 +1,21 @@
+minecraft.picked_up.netherite_ingot
+19: BdoubleO100: 26
+19: cubfan135: 17
+19: RentheKing: 17
+19: Zedaph: 15
+19: Grian: 13
+19: iJevin: 8
+19: PearlescentMoon: 6
+19: OrionSound: 5
+19: Renthedog: 4
+19: xBCrafted: 3
+19: impulseSV: 2
+19: Xisuma: 1
+19: MythicalSausage: 1
+19: joehillssays: 1
+19: Tango: 1
+19: falsesymmetry: 1
+19: ZombieCleo: 1
+19: hypnotizd: 1
+19: ShubbleYT: 1
+Total 124

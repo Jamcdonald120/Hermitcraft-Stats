@@ -1,0 +1,9 @@
+minecraft.dropped.red_stained_glass_pane
+7: falsesymmetry: 170
+7: cubfan135: 69
+7: Tango: 64
+7: Zedaph: 31
+7: ZombieCleo: 2
+7: OrionSound: 1
+7: SolidarityGaming: 1
+Total 338

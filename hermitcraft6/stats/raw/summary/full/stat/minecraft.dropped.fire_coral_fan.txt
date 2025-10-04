@@ -1,0 +1,5 @@
+minecraft.dropped.fire_coral_fan
+3: MumboJumbo: 24
+3: cubfan135: 8
+3: Tango: 1
+Total 33

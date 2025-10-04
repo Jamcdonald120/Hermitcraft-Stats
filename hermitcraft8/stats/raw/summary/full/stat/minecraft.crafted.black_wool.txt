@@ -1,0 +1,15 @@
+minecraft.crafted.black_wool
+13: impulseSV: 3526
+13: hypnotizd: 1088
+13: Grian: 640
+13: Xisuma: 89
+13: Keralis1: 54
+13: Tango: 13
+13: Docm77: 8
+13: Renthedog: 8
+13: BdoubleO100: 6
+13: cubfan135: 6
+13: ZombieCleo: 2
+13: iJevin: 1
+13: Welsknight: 1
+Total 5442

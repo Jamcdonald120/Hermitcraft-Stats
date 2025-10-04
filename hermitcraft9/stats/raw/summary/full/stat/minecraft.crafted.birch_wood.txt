@@ -1,0 +1,21 @@
+minecraft.crafted.birch_wood
+19: PearlescentMoon: 888
+19: BdoubleO100: 834
+19: Etho: 762
+19: Docm77: 714
+19: Grian: 561
+19: Renthedog: 282
+19: Keralis1: 138
+19: GeminiTay: 81
+19: iJevin: 33
+19: MythicalSausage: 33
+19: GoodTimeWithScar: 33
+19: Xisuma: 21
+19: Stressmonster101: 15
+19: iskall85: 9
+19: cubfan135: 9
+19: ShubbleYT: 9
+19: VintageBeef: 3
+19: impulseSV: 3
+19: Zedaph: 3
+Total 4431

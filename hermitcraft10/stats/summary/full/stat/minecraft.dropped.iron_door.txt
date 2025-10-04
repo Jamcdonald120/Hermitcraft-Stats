@@ -1,0 +1,14 @@
+minecraft.dropped.iron_door
+12: Tango: 35
+12: iJevin: 17
+12: Keralis1: 7
+12: Etho: 6
+12: Renthedog: 5
+12: cubfan135: 5
+12: Skizzleman: 4
+12: Docm77: 2
+12: ZombieCleo: 1
+12: SolidarityGaming: 1
+12: impulseSV: 1
+12: Zedaph: 1
+Total 85

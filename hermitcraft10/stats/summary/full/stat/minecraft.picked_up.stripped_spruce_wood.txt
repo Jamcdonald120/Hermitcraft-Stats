@@ -1,0 +1,24 @@
+minecraft.picked_up.stripped_spruce_wood
+22: Keralis1: 1061
+22: Grian: 644
+22: GoodTimeWithScar: 565
+22: joehillssays: 360
+22: falsesymmetry: 141
+22: iJevin: 123
+22: BdoubleO100: 108
+22: ZombieCleo: 60
+22: GeminiTay: 56
+22: VintageBeef: 50
+22: Docm77: 48
+22: Skizzleman: 44
+22: Smallishbeans: 40
+22: Etho: 17
+22: impulseSV: 15
+22: PearlescentMoon: 13
+22: Tango: 8
+22: xBCrafted: 8
+22: Renthedog: 3
+22: cubfan135: 2
+22: Xisuma: 1
+22: hypnotizd: 1
+Total 3368

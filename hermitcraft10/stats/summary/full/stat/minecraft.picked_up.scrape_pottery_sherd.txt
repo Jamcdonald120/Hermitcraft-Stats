@@ -1,0 +1,19 @@
+minecraft.picked_up.scrape_pottery_sherd
+17: PearlescentMoon: 155
+17: cubfan135: 74
+17: Xisuma: 32
+17: Grian: 27
+17: Etho: 26
+17: iJevin: 18
+17: GoodTimeWithScar: 14
+17: impulseSV: 12
+17: Renthedog: 9
+17: GeminiTay: 6
+17: Docm77: 4
+17: Keralis1: 4
+17: Tango: 3
+17: joehillssays: 1
+17: Skizzleman: 1
+17: xBCrafted: 1
+17: Mumbo: 1
+Total 388

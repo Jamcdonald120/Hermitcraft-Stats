@@ -1,0 +1,23 @@
+minecraft.picked_up.mangrove_planks
+21: Grian: 740
+21: cubfan135: 229
+21: PearlescentMoon: 141
+21: ShubbleYT: 114
+21: joehillssays: 65
+21: ZombieCleo: 63
+21: Renthedog: 45
+21: OrionSound: 44
+21: Xisuma: 23
+21: MythicalSausage: 19
+21: falsesymmetry: 19
+21: GoodTimeWithScar: 19
+21: Pixlriffs: 16
+21: impulseSV: 16
+21: iJevin: 10
+21: RentheKing: 9
+21: Stressmonster101: 5
+21: Zedaph: 5
+21: Docm77: 4
+21: Tango: 2
+21: Keralis1: 2
+Total 1590

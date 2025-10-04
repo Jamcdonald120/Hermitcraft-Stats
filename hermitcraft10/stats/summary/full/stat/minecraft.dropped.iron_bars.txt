@@ -1,0 +1,21 @@
+minecraft.dropped.iron_bars
+19: GoodTimeWithScar: 586
+19: Skizzleman: 450
+19: impulseSV: 405
+19: Grian: 323
+19: falsesymmetry: 241
+19: Xisuma: 215
+19: BdoubleO100: 171
+19: Renthedog: 105
+19: iJevin: 93
+19: Tango: 88
+19: cubfan135: 83
+19: Keralis1: 70
+19: xBCrafted: 64
+19: Etho: 24
+19: Zedaph: 12
+19: VintageBeef: 9
+19: hypnotizd: 6
+19: joehillssays: 2
+19: Mumbo: 2
+Total 2949

@@ -1,0 +1,21 @@
+minecraft.picked_up.blackstone_slab
+19: Tango: 992
+19: Zedaph: 846
+19: xBCrafted: 720
+19: iskall85: 683
+19: joehillssays: 589
+19: Etho: 522
+19: cubfan135: 207
+19: falsesymmetry: 168
+19: Grian: 150
+19: Renthedog: 123
+19: Xisuma: 80
+19: ZombieCleo: 60
+19: VintageBeef: 20
+19: hypnotizd: 11
+19: iJevin: 2
+19: GoodTimeWithScar: 2
+19: impulseSV: 2
+19: BdoubleO100: 1
+19: Keralis1: 1
+Total 5179

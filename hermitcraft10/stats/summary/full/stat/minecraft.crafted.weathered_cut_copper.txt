@@ -1,0 +1,6 @@
+minecraft.crafted.weathered_cut_copper
+4: BdoubleO100: 204
+4: ZombieCleo: 20
+4: Renthedog: 4
+4: PearlescentMoon: 4
+Total 232

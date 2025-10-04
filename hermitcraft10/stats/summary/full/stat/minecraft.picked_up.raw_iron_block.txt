@@ -1,0 +1,20 @@
+minecraft.picked_up.raw_iron_block
+18: ZombieCleo: 1588
+18: iJevin: 481
+18: cubfan135: 260
+18: hypnotizd: 80
+18: VintageBeef: 22
+18: GeminiTay: 14
+18: Mumbo: 12
+18: GoodTimeWithScar: 6
+18: Keralis1: 6
+18: BdoubleO100: 5
+18: PearlescentMoon: 5
+18: Etho: 5
+18: xBCrafted: 3
+18: Renthedog: 2
+18: Grian: 2
+18: Smallishbeans: 2
+18: Docm77: 1
+18: Welsknight: 1
+Total 2495

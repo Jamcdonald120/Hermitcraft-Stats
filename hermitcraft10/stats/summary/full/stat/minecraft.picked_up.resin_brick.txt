@@ -1,0 +1,5 @@
+minecraft.picked_up.resin_brick
+3: Xisuma: 10
+3: Renthedog: 3
+3: ZombieCleo: 1
+Total 14

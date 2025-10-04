@@ -1,0 +1,24 @@
+minecraft.used.polished_blackstone_stairs
+22: Tango: 3105
+22: impulseSV: 1543
+22: Xisuma: 962
+22: GoodTimeWithScar: 645
+22: RentheKing: 261
+22: cubfan135: 242
+22: PearlescentMoon: 140
+22: ZombieCleo: 74
+22: Docm77: 31
+22: xBCrafted: 25
+22: falsesymmetry: 24
+22: iJevin: 19
+22: BdoubleO100: 8
+22: hypnotizd: 5
+22: Zedaph: 5
+22: Renthedog: 4
+22: Mumbo: 4
+22: MumboJumbo: 4
+22: Etho: 2
+22: MythicalSausage: 1
+22: joehillssays: 1
+22: Grian: 1
+Total 7106

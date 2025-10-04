@@ -1,0 +1,23 @@
+minecraft.used.quartz_stairs
+21: impulseSV: 20460
+21: Keralis1: 5767
+21: Stressmonster101: 789
+21: xBCrafted: 434
+21: hypnotizd: 277
+21: Docm77: 260
+21: falsesymmetry: 254
+21: Tango: 250
+21: Xisuma: 232
+21: Renthedog: 230
+21: joehillssays: 219
+21: GoodTimeWithScar: 140
+21: Etho: 133
+21: Zedaph: 124
+21: BdoubleO100: 100
+21: VintageBeef: 84
+21: ZombieCleo: 67
+21: Grian: 62
+21: iskall85: 47
+21: MumboJumbo: 30
+21: cubfan135: 1
+Total 29960

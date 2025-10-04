@@ -1,0 +1,24 @@
+minecraft.dropped.barrel
+22: falsesymmetry: 87
+22: Tango: 71
+22: fWhip: 18
+22: RentheKing: 16
+22: Keralis1: 14
+22: GoodTimeWithScar: 12
+22: Docm77: 10
+22: Xisuma: 8
+22: Etho: 8
+22: Grian: 6
+22: impulseSV: 6
+22: Zedaph: 6
+22: BdoubleO100: 4
+22: PearlescentMoon: 4
+22: Renthedog: 3
+22: cubfan135: 3
+22: VintageBeef: 1
+22: MythicalSausage: 1
+22: GeminiTay: 1
+22: ZombieCleo: 1
+22: hypnotizd: 1
+22: Stressmonster101: 1
+Total 282

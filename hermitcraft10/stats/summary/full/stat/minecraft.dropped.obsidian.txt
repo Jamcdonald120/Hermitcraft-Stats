@@ -1,0 +1,23 @@
+minecraft.dropped.obsidian
+21: Etho: 234
+21: iJevin: 177
+21: Tango: 164
+21: Mumbo: 135
+21: Renthedog: 130
+21: impulseSV: 130
+21: hypnotizd: 120
+21: Keralis1: 93
+21: GoodTimeWithScar: 78
+21: Xisuma: 61
+21: Smallishbeans: 60
+21: Grian: 51
+21: Skizzleman: 44
+21: cubfan135: 39
+21: Docm77: 28
+21: xBCrafted: 20
+21: ZombieCleo: 11
+21: Zedaph: 4
+21: VintageBeef: 1
+21: GeminiTay: 1
+21: PearlescentMoon: 1
+Total 1582

@@ -1,0 +1,25 @@
+minecraft.picked_up.oak_leaves
+23: GoodTimeWithScar: 159460
+23: Grian: 152151
+23: Renthedog: 123548
+23: Xisuma: 107717
+23: joehillssays: 76430
+23: Welsknight: 33999
+23: ZombieCleo: 33918
+23: iskall85: 28926
+23: BdoubleO100: 20808
+23: Etho: 18439
+23: MumboJumbo: 16158
+23: Stressmonster101: 12417
+23: falsesymmetry: 9288
+23: impulseSV: 6843
+23: Tango: 5716
+23: Keralis1: 4837
+23: Zedaph: 4340
+23: iJevin: 3815
+23: cubfan135: 1456
+23: hypnotizd: 873
+23: VintageBeef: 430
+23: xBCrafted: 332
+23: Docm77: 115
+Total 822016

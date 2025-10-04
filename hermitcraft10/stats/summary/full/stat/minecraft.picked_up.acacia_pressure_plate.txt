@@ -1,0 +1,10 @@
+minecraft.picked_up.acacia_pressure_plate
+8: Skizzleman: 20
+8: Docm77: 16
+8: Renthedog: 10
+8: PearlescentMoon: 3
+8: GoodTimeWithScar: 2
+8: Xisuma: 1
+8: GeminiTay: 1
+8: Keralis1: 1
+Total 54

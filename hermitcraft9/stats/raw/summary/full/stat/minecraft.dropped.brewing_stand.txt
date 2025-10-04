@@ -1,0 +1,7 @@
+minecraft.dropped.brewing_stand
+5: iJevin: 4
+5: Zedaph: 4
+5: Xisuma: 1
+5: Grian: 1
+5: falsesymmetry: 1
+Total 11

@@ -1,0 +1,9 @@
+minecraft.crafted.red_nether_brick_wall
+7: impulseSV: 252
+7: GoodTimeWithScar: 59
+7: Xisuma: 49
+7: falsesymmetry: 24
+7: Zedaph: 5
+7: GeminiTay: 1
+7: hypnotizd: 1
+Total 391

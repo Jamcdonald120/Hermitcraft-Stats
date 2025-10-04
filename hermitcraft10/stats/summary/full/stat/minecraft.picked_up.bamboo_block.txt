@@ -1,0 +1,25 @@
+minecraft.picked_up.bamboo_block
+23: Etho: 32376
+23: Zedaph: 15587
+23: BdoubleO100: 7282
+23: PearlescentMoon: 3585
+23: Tango: 1834
+23: cubfan135: 849
+23: Renthedog: 783
+23: Xisuma: 552
+23: falsesymmetry: 479
+23: Keralis1: 427
+23: GoodTimeWithScar: 328
+23: impulseSV: 323
+23: hypnotizd: 271
+23: GeminiTay: 262
+23: Mumbo: 159
+23: VintageBeef: 94
+23: Docm77: 62
+23: xBCrafted: 40
+23: Skizzleman: 39
+23: Smallishbeans: 7
+23: ZombieCleo: 5
+23: joehillssays: 3
+23: Grian: 2
+Total 65349

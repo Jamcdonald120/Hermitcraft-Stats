@@ -1,0 +1,18 @@
+minecraft.dropped.brown_wool
+16: Skizzleman: 175
+16: iJevin: 69
+16: PearlescentMoon: 20
+16: Keralis1: 10
+16: Xisuma: 8
+16: Grian: 6
+16: impulseSV: 5
+16: Etho: 3
+16: ZombieCleo: 3
+16: VintageBeef: 2
+16: Zedaph: 2
+16: Renthedog: 1
+16: Tango: 1
+16: Smallishbeans: 1
+16: falsesymmetry: 1
+16: GoodTimeWithScar: 1
+Total 308

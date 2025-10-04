@@ -1,0 +1,27 @@
+minecraft.picked_up.item_frame
+25: GoodTimeWithScar: 788
+25: Tango: 676
+25: cubfan135: 588
+25: VintageBeef: 504
+25: Zedaph: 495
+25: Keralis1: 471
+25: iJevin: 384
+25: falsesymmetry: 373
+25: BdoubleO100: 358
+25: Grian: 350
+25: Xisuma: 340
+25: iskall85: 282
+25: joehillssays: 280
+25: ZombieCleo: 278
+25: impulseSV: 259
+25: Etho: 223
+25: Welsknight: 196
+25: Renthedog: 178
+25: xBCrafted: 148
+25: MumboJumbo: 144
+25: hypnotizd: 92
+25: Stressmonster101: 34
+25: Tinfoilchef: 13
+25: Docm77: 11
+25: BarryBoss1234: 8
+Total 7473

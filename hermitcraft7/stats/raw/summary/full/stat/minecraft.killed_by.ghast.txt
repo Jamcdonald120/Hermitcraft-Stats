@@ -1,0 +1,4 @@
+minecraft.killed_by.ghast
+2: GoodTimeWithScar: 3
+2: joehillssays: 1
+Total 4

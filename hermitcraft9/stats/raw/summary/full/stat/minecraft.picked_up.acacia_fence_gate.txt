@@ -1,0 +1,6 @@
+minecraft.picked_up.acacia_fence_gate
+4: BdoubleO100: 10
+4: Xisuma: 5
+4: PearlescentMoon: 3
+4: impulseSV: 1
+Total 19

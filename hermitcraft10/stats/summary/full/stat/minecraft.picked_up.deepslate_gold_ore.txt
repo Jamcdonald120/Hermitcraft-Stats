@@ -1,0 +1,27 @@
+minecraft.picked_up.deepslate_gold_ore
+25: GoodTimeWithScar: 4623
+25: Grian: 875
+25: Zedaph: 855
+25: Etho: 422
+25: cubfan135: 418
+25: xBCrafted: 404
+25: PearlescentMoon: 393
+25: Keralis1: 390
+25: Smallishbeans: 323
+25: VintageBeef: 236
+25: Xisuma: 235
+25: iJevin: 223
+25: ZombieCleo: 200
+25: joehillssays: 181
+25: Tango: 130
+25: falsesymmetry: 112
+25: BdoubleO100: 66
+25: Renthedog: 55
+25: Skizzleman: 48
+25: GeminiTay: 44
+25: Mumbo: 19
+25: hypnotizd: 17
+25: Docm77: 14
+25: Welsknight: 8
+25: impulseSV: 8
+Total 10299

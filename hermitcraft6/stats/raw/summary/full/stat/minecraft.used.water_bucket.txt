@@ -1,0 +1,27 @@
+minecraft.used.water_bucket
+25: GoodTimeWithScar: 8906
+25: cubfan135: 8586
+25: Xisuma: 7692
+25: falsesymmetry: 6044
+25: iJevin: 4646
+25: Tinfoilchef: 4409
+25: Tango: 3739
+25: Grian: 2786
+25: impulseSV: 2760
+25: PythonGB: 2620
+25: iskall85: 2523
+25: MumboJumbo: 2079
+25: Zedaph: 1835
+25: Renthedog: 1662
+25: Docm77: 1625
+25: Keralis1: 1226
+25: ZombieCleo: 1079
+25: Welsknight: 739
+25: Biffa2001: 517
+25: Stressmonster101: 456
+25: joehillssays: 409
+25: BdoubleO100: 312
+25: xBCrafted: 311
+25: HumanCleo: 184
+25: Jessassin: 43
+Total 67188

@@ -1,0 +1,21 @@
+minecraft.dropped.light_gray_wool
+19: Renthedog: 772
+19: Tango: 661
+19: Xisuma: 462
+19: iJevin: 129
+19: Grian: 98
+19: falsesymmetry: 73
+19: cubfan135: 54
+19: Docm77: 27
+19: Etho: 15
+19: GoodTimeWithScar: 11
+19: Keralis1: 5
+19: BdoubleO100: 1
+19: PearlescentMoon: 1
+19: xBCrafted: 1
+19: ZombieCleo: 1
+19: Mumbo: 1
+19: hypnotizd: 1
+19: impulseSV: 1
+19: Zedaph: 1
+Total 2315

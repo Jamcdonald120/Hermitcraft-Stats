@@ -1,0 +1,21 @@
+minecraft.crafted.brown_dye
+19: impulseSV: 3808
+19: PearlescentMoon: 579
+19: Tango: 305
+19: ZombieCleo: 292
+19: Etho: 108
+19: Grian: 97
+19: Xisuma: 85
+19: joehillssays: 83
+19: BdoubleO100: 41
+19: cubfan135: 36
+19: GoodTimeWithScar: 36
+19: iJevin: 30
+19: Keralis1: 19
+19: Welsknight: 18
+19: GeminiTay: 15
+19: Renthedog: 14
+19: falsesymmetry: 9
+19: Zedaph: 8
+19: iskall85: 5
+Total 5588

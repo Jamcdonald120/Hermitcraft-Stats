@@ -1,0 +1,22 @@
+minecraft.dropped.smooth_stone
+20: Keralis1: 663
+20: cubfan135: 420
+20: Etho: 377
+20: MumboJumbo: 349
+20: falsesymmetry: 244
+20: Zedaph: 229
+20: Grian: 196
+20: impulseSV: 155
+20: iskall85: 109
+20: GoodTimeWithScar: 65
+20: joehillssays: 60
+20: Xisuma: 32
+20: Renthedog: 16
+20: Tango: 12
+20: xBCrafted: 7
+20: VintageBeef: 4
+20: hypnotizd: 4
+20: Stressmonster101: 2
+20: iJevin: 1
+20: ZombieCleo: 1
+Total 2946

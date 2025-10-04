@@ -1,0 +1,28 @@
+minecraft.picked_up.comparator
+26: Tango: 1581
+26: impulseSV: 918
+26: GoodTimeWithScar: 489
+26: Docm77: 427
+26: Xisuma: 390
+26: cubfan135: 332
+26: iJevin: 153
+26: Zedaph: 93
+26: Grian: 91
+26: hypnotizd: 66
+26: Renthedog: 58
+26: iskall85: 57
+26: Etho: 53
+26: BdoubleO100: 41
+26: xBCrafted: 34
+26: Keralis1: 34
+26: PearlescentMoon: 22
+26: GeminiTay: 15
+26: OrionSound: 8
+26: Mumbo: 8
+26: RentheKing: 7
+26: Pixlriffs: 6
+26: joehillssays: 3
+26: falsesymmetry: 3
+26: Stressmonster101: 3
+26: ZombieCleo: 2
+Total 4894

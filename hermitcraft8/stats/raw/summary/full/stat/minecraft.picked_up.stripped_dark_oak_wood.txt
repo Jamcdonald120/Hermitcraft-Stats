@@ -1,0 +1,13 @@
+minecraft.picked_up.stripped_dark_oak_wood
+11: Tango: 864
+11: BdoubleO100: 503
+11: GoodTimeWithScar: 413
+11: Keralis1: 381
+11: PearlescentMoon: 171
+11: Grian: 162
+11: Etho: 31
+11: impulseSV: 4
+11: Docm77: 1
+11: Renthedog: 1
+11: Stressmonster101: 1
+Total 2532

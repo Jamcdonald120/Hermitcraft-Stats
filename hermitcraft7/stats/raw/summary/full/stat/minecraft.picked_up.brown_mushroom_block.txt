@@ -1,0 +1,20 @@
+minecraft.picked_up.brown_mushroom_block
+18: Etho: 18932
+18: cubfan135: 5973
+18: GoodTimeWithScar: 5619
+18: falsesymmetry: 2732
+18: Grian: 2145
+18: Xisuma: 1850
+18: xBCrafted: 1837
+18: BdoubleO100: 1813
+18: Renthedog: 1614
+18: Zedaph: 1575
+18: Stressmonster101: 675
+18: Welsknight: 651
+18: impulseSV: 502
+18: VintageBeef: 347
+18: Keralis1: 261
+18: Docm77: 142
+18: Tango: 72
+18: iskall85: 45
+Total 46785

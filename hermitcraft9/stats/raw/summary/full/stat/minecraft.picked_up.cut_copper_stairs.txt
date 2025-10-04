@@ -1,0 +1,26 @@
+minecraft.picked_up.cut_copper_stairs
+24: xBCrafted: 102
+24: Renthedog: 92
+24: falsesymmetry: 79
+24: cubfan135: 68
+24: hypnotizd: 61
+24: Docm77: 54
+24: RentheKing: 45
+24: Stressmonster101: 37
+24: MythicalSausage: 17
+24: iskall85: 12
+24: Xisuma: 9
+24: OrionSound: 8
+24: PearlescentMoon: 6
+24: VintageBeef: 5
+24: fWhip: 3
+24: Zedaph: 3
+24: iJevin: 2
+24: joehillssays: 2
+24: Grian: 2
+24: Tango: 2
+24: ZombieCleo: 2
+24: Keralis1: 2
+24: BdoubleO100: 1
+24: GoodTimeWithScar: 1
+Total 615

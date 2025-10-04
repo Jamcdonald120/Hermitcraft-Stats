@@ -1,0 +1,24 @@
+minecraft.crafted.polished_blackstone
+22: Tango: 2435
+22: impulseSV: 1373
+22: cubfan135: 1161
+22: Xisuma: 1044
+22: falsesymmetry: 756
+22: iJevin: 714
+22: GoodTimeWithScar: 648
+22: GeminiTay: 624
+22: Smallishbeans: 549
+22: Mumbo: 204
+22: Skizzleman: 148
+22: Keralis1: 96
+22: PearlescentMoon: 76
+22: Grian: 68
+22: Etho: 56
+22: Docm77: 22
+22: Renthedog: 9
+22: Zedaph: 8
+22: hypnotizd: 5
+22: F1RECRACKR: 4
+22: joehillssays: 4
+22: BdoubleO100: 4
+Total 10008

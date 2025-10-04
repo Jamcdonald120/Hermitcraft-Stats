@@ -1,0 +1,8 @@
+minecraft.dropped.raw_gold_block
+6: impulseSV: 45
+6: Etho: 37
+6: iJevin: 29
+6: joehillssays: 20
+6: Tango: 2
+6: Smallishbeans: 1
+Total 134

@@ -1,0 +1,8 @@
+minecraft.dropped.bell
+6: Etho: 21
+6: Tango: 10
+6: InTheLittleWood: 2
+6: Grian: 1
+6: GoodTimeWithScar: 1
+6: Zedaph: 1
+Total 36

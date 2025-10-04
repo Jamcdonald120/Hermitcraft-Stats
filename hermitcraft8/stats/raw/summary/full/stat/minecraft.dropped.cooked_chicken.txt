@@ -1,0 +1,15 @@
+minecraft.dropped.cooked_chicken
+13: Zedaph: 150
+13: Renthedog: 51
+13: Docm77: 46
+13: Tango: 33
+13: xBCrafted: 13
+13: impulseSV: 10
+13: Xisuma: 7
+13: GoodTimeWithScar: 5
+13: Grian: 3
+13: Keralis1: 3
+13: hypnotizd: 2
+13: iJevin: 1
+13: MumboJumbo: 1
+Total 325

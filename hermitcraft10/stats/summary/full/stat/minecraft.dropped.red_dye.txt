@@ -1,0 +1,23 @@
+minecraft.dropped.red_dye
+21: Keralis1: 170
+21: Docm77: 154
+21: falsesymmetry: 141
+21: PearlescentMoon: 79
+21: GoodTimeWithScar: 76
+21: Etho: 72
+21: Zedaph: 66
+21: cubfan135: 44
+21: Renthedog: 39
+21: Grian: 28
+21: ZombieCleo: 18
+21: Smallishbeans: 8
+21: BdoubleO100: 8
+21: SolidarityGaming: 6
+21: GeminiTay: 5
+21: Skizzleman: 5
+21: impulseSV: 4
+21: OrionSound: 3
+21: Mumbo: 3
+21: Tango: 2
+21: hypnotizd: 2
+Total 933

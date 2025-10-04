@@ -1,0 +1,16 @@
+minecraft.crafted.black_banner
+14: falsesymmetry: 255
+14: Keralis1: 159
+14: joehillssays: 139
+14: Grian: 139
+14: cubfan135: 80
+14: iskall85: 63
+14: Etho: 36
+14: xBCrafted: 33
+14: Xisuma: 18
+14: impulseSV: 14
+14: Tango: 3
+14: BdoubleO100: 3
+14: GoodTimeWithScar: 3
+14: VintageBeef: 2
+Total 947

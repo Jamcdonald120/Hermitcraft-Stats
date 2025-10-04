@@ -1,0 +1,14 @@
+minecraft.picked_up.bricks
+12: Grian: 1231
+12: Etho: 564
+12: GoodTimeWithScar: 513
+12: impulseSV: 121
+12: Renthedog: 105
+12: Xisuma: 81
+12: PearlescentMoon: 60
+12: Keralis1: 37
+12: Tango: 11
+12: joehillssays: 6
+12: BdoubleO100: 6
+12: falsesymmetry: 5
+Total 2740

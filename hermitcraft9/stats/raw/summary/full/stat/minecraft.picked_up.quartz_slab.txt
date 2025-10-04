@@ -1,0 +1,23 @@
+minecraft.picked_up.quartz_slab
+21: GoodTimeWithScar: 643
+21: impulseSV: 635
+21: Docm77: 482
+21: VintageBeef: 344
+21: Tango: 310
+21: Renthedog: 219
+21: cubfan135: 172
+21: Zedaph: 122
+21: OrionSound: 103
+21: xBCrafted: 61
+21: ZombieCleo: 59
+21: Etho: 55
+21: GeminiTay: 54
+21: Pixlriffs: 51
+21: Keralis1: 39
+21: iJevin: 18
+21: Stressmonster101: 17
+21: joehillssays: 3
+21: PearlescentMoon: 3
+21: Xisuma: 2
+21: Smajor1995: 1
+Total 3393

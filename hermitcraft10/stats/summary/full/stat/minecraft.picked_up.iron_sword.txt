@@ -1,0 +1,26 @@
+minecraft.picked_up.iron_sword
+24: impulseSV: 119
+24: Skizzleman: 98
+24: Zedaph: 80
+24: Tango: 75
+24: GeminiTay: 42
+24: iJevin: 37
+24: Mumbo: 35
+24: joehillssays: 18
+24: GoodTimeWithScar: 16
+24: hypnotizd: 13
+24: cubfan135: 9
+24: Xisuma: 8
+24: PearlescentMoon: 8
+24: Welsknight: 8
+24: Docm77: 5
+24: Renthedog: 5
+24: xBCrafted: 5
+24: VintageBeef: 4
+24: Grian: 3
+24: Smallishbeans: 3
+24: Etho: 2
+24: ZombieCleo: 2
+24: Keralis1: 2
+24: falsesymmetry: 1
+Total 598

@@ -1,0 +1,25 @@
+minecraft.picked_up.deepslate_brick_stairs
+23: Tango: 1517
+23: iJevin: 1419
+23: xBCrafted: 480
+23: impulseSV: 333
+23: Mumbo: 292
+23: Renthedog: 287
+23: RentheKing: 211
+23: cubfan135: 208
+23: PearlescentMoon: 96
+23: Xisuma: 76
+23: Grian: 50
+23: joehillssays: 29
+23: ZombieCleo: 27
+23: GoodTimeWithScar: 27
+23: Zedaph: 19
+23: hypnotizd: 14
+23: GeminiTay: 13
+23: BdoubleO100: 11
+23: falsesymmetry: 11
+23: Etho: 7
+23: iskall85: 6
+23: Keralis1: 5
+23: Docm77: 4
+Total 5142

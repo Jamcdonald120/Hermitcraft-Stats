@@ -1,0 +1,4 @@
+minecraft.crafted.waxed_cut_copper
+2: impulseSV: 345
+2: Renthedog: 41
+Total 386

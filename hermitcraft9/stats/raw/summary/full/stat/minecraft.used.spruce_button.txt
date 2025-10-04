@@ -1,0 +1,27 @@
+minecraft.used.spruce_button
+25: xBCrafted: 402
+25: Tango: 194
+25: iJevin: 155
+25: BdoubleO100: 82
+25: impulseSV: 65
+25: Docm77: 47
+25: Grian: 46
+25: RentheKing: 39
+25: GoodTimeWithScar: 23
+25: hypnotizd: 18
+25: Xisuma: 13
+25: PearlescentMoon: 13
+25: Keralis1: 10
+25: joehillssays: 8
+25: MythicalSausage: 7
+25: Stressmonster101: 5
+25: VintageBeef: 4
+25: ZombieCleo: 4
+25: GeminiTay: 3
+25: falsesymmetry: 3
+25: cubfan135: 3
+25: Renthedog: 2
+25: Smallishbeans: 2
+25: iskall85: 2
+25: Zedaph: 2
+Total 1152

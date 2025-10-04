@@ -1,0 +1,25 @@
+minecraft.picked_up.warped_fungus
+23: Tango: 5208
+23: Etho: 2726
+23: falsesymmetry: 1124
+23: BdoubleO100: 853
+23: VintageBeef: 273
+23: Renthedog: 245
+23: Xisuma: 129
+23: Smallishbeans: 117
+23: GoodTimeWithScar: 95
+23: xBCrafted: 94
+23: Grian: 65
+23: ZombieCleo: 62
+23: cubfan135: 58
+23: PearlescentMoon: 44
+23: impulseSV: 37
+23: Skizzleman: 27
+23: iJevin: 7
+23: Docm77: 6
+23: Keralis1: 5
+23: joehillssays: 4
+23: Mumbo: 3
+23: hypnotizd: 3
+23: GeminiTay: 1
+Total 11186

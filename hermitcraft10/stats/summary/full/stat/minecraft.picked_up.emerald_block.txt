@@ -1,0 +1,24 @@
+minecraft.picked_up.emerald_block
+22: xBCrafted: 3121
+22: iJevin: 1463
+22: impulseSV: 1192
+22: hypnotizd: 990
+22: ZombieCleo: 924
+22: cubfan135: 679
+22: Keralis1: 474
+22: GoodTimeWithScar: 415
+22: falsesymmetry: 267
+22: Grian: 233
+22: Tango: 221
+22: Etho: 206
+22: Zedaph: 169
+22: Renthedog: 163
+22: PearlescentMoon: 89
+22: joehillssays: 67
+22: Skizzleman: 32
+22: Xisuma: 24
+22: Docm77: 21
+22: GeminiTay: 13
+22: VintageBeef: 2
+22: Smallishbeans: 1
+Total 10766

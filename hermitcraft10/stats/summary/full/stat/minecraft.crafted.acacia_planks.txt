@@ -1,0 +1,27 @@
+minecraft.crafted.acacia_planks
+25: GoodTimeWithScar: 13784
+25: Smallishbeans: 10728
+25: Renthedog: 7800
+25: Docm77: 7176
+25: PearlescentMoon: 4516
+25: impulseSV: 2852
+25: Tango: 2732
+25: Mumbo: 2060
+25: Xisuma: 2040
+25: falsesymmetry: 1684
+25: cubfan135: 1552
+25: Keralis1: 1452
+25: Grian: 1152
+25: Skizzleman: 884
+25: VintageBeef: 796
+25: GeminiTay: 784
+25: joehillssays: 552
+25: Etho: 372
+25: iJevin: 340
+25: BdoubleO100: 336
+25: Zedaph: 124
+25: xBCrafted: 108
+25: hypnotizd: 48
+25: ZombieCleo: 40
+25: Welsknight: 20
+Total 63932

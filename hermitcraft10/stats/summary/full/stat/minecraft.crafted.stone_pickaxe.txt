@@ -1,0 +1,27 @@
+minecraft.crafted.stone_pickaxe
+25: Docm77: 41
+25: Zedaph: 37
+25: Xisuma: 8
+25: Renthedog: 8
+25: Skizzleman: 8
+25: falsesymmetry: 6
+25: joehillssays: 5
+25: Grian: 5
+25: PearlescentMoon: 5
+25: GoodTimeWithScar: 5
+25: Keralis1: 4
+25: impulseSV: 4
+25: iJevin: 3
+25: GeminiTay: 3
+25: Tango: 3
+25: Smallishbeans: 3
+25: xBCrafted: 2
+25: cubfan135: 2
+25: Welsknight: 2
+25: ZombieCleo: 2
+25: VintageBeef: 1
+25: BdoubleO100: 1
+25: Etho: 1
+25: Mumbo: 1
+25: hypnotizd: 1
+Total 161

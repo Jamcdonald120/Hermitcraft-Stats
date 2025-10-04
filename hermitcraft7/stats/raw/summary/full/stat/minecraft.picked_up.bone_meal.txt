@@ -1,0 +1,26 @@
+minecraft.picked_up.bone_meal
+24: Zedaph: 7931
+24: xBCrafted: 6262
+24: Tango: 5192
+24: impulseSV: 4715
+24: Grian: 4077
+24: Etho: 3809
+24: iskall85: 2160
+24: joehillssays: 2023
+24: cubfan135: 1852
+24: Xisuma: 1629
+24: Keralis1: 1350
+24: iJevin: 1236
+24: Stressmonster101: 1234
+24: falsesymmetry: 1046
+24: BdoubleO100: 990
+24: GoodTimeWithScar: 825
+24: Renthedog: 731
+24: Docm77: 573
+24: ZombieCleo: 445
+24: VintageBeef: 425
+24: MumboJumbo: 279
+24: hypnotizd: 91
+24: xisumavoid: 1
+24: HermitcraftAlt: 1
+Total 48877

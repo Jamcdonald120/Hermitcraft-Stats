@@ -1,0 +1,27 @@
+minecraft.picked_up.wooden_sword
+25: Etho: 463
+25: GeminiTay: 114
+25: cubfan135: 76
+25: GoodTimeWithScar: 73
+25: impulseSV: 73
+25: PearlescentMoon: 34
+25: iJevin: 26
+25: Zedaph: 25
+25: Renthedog: 20
+25: Keralis1: 20
+25: Docm77: 19
+25: VintageBeef: 15
+25: falsesymmetry: 15
+25: Tango: 14
+25: BdoubleO100: 11
+25: hypnotizd: 11
+25: joehillssays: 9
+25: Xisuma: 8
+25: Grian: 8
+25: iskall85: 6
+25: ZombieCleo: 6
+25: kingbdogz: 2
+25: xBCrafted: 2
+25: Mumbo: 1
+25: RentheKing: 1
+Total 1052

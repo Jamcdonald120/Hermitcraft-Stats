@@ -1,0 +1,26 @@
+minecraft.picked_up.jungle_sapling
+24: Docm77: 8468
+24: PearlescentMoon: 610
+24: BdoubleO100: 351
+24: GeminiTay: 327
+24: falsesymmetry: 322
+24: Etho: 235
+24: Keralis1: 194
+24: Renthedog: 185
+24: VintageBeef: 122
+24: Smallishbeans: 103
+24: Xisuma: 87
+24: GoodTimeWithScar: 85
+24: ZombieCleo: 79
+24: Skizzleman: 71
+24: Grian: 50
+24: iJevin: 44
+24: cubfan135: 27
+24: Zedaph: 27
+24: impulseSV: 17
+24: Mumbo: 10
+24: Tango: 8
+24: xBCrafted: 7
+24: hypnotizd: 6
+24: Welsknight: 5
+Total 11440

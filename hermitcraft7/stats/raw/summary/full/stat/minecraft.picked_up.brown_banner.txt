@@ -1,0 +1,10 @@
+minecraft.picked_up.brown_banner
+8: xBCrafted: 28
+8: GoodTimeWithScar: 24
+8: hypnotizd: 15
+8: Keralis1: 8
+8: Xisuma: 2
+8: joehillssays: 2
+8: cubfan135: 2
+8: VintageBeef: 1
+Total 82

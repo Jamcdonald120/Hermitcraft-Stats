@@ -1,0 +1,6 @@
+minecraft.dropped.ender_eye
+4: iJevin: 36
+4: falsesymmetry: 5
+4: PearlescentMoon: 1
+4: Keralis1: 1
+Total 43

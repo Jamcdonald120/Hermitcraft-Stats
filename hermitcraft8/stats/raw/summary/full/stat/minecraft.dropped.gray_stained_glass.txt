@@ -1,0 +1,9 @@
+minecraft.dropped.gray_stained_glass
+7: impulseSV: 64
+7: GoodTimeWithScar: 40
+7: Docm77: 8
+7: BdoubleO100: 4
+7: Renthedog: 3
+7: falsesymmetry: 1
+7: Etho: 1
+Total 121

@@ -1,0 +1,4 @@
+minecraft.crafted.shaper_armor_trim_smithing_template
+2: Docm77: 30
+2: ZombieCleo: 2
+Total 32

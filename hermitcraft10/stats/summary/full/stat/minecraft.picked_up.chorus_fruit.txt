@@ -1,0 +1,27 @@
+minecraft.picked_up.chorus_fruit
+25: PearlescentMoon: 17722
+25: joehillssays: 2507
+25: Etho: 1138
+25: iJevin: 1127
+25: impulseSV: 820
+25: cubfan135: 352
+25: Smallishbeans: 318
+25: Grian: 260
+25: Renthedog: 250
+25: GeminiTay: 204
+25: Xisuma: 199
+25: xBCrafted: 155
+25: BdoubleO100: 111
+25: falsesymmetry: 79
+25: Docm77: 71
+25: hypnotizd: 64
+25: VintageBeef: 57
+25: GoodTimeWithScar: 55
+25: Welsknight: 43
+25: ZombieCleo: 38
+25: F1RECRACKR: 32
+25: JamalMC_: 32
+25: Mumbo: 14
+25: Keralis1: 13
+25: Skizzleman: 10
+Total 25671

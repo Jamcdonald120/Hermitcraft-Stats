@@ -1,0 +1,5 @@
+minecraft.broken.diamond_boots
+3: GoodTimeWithScar: 2
+3: iJevin: 1
+3: Tango: 1
+Total 4

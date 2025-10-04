@@ -1,0 +1,24 @@
+minecraft.mined.nether_gold_ore
+22: GoodTimeWithScar: 801
+22: iJevin: 426
+22: PearlescentMoon: 338
+22: Xisuma: 307
+22: VintageBeef: 274
+22: Etho: 213
+22: Welsknight: 150
+22: Renthedog: 122
+22: joehillssays: 118
+22: cubfan135: 96
+22: xBCrafted: 76
+22: Tango: 67
+22: impulseSV: 63
+22: hypnotizd: 58
+22: Docm77: 38
+22: ZombieCleo: 14
+22: Grian: 11
+22: GeminiTay: 10
+22: iskall85: 8
+22: MumboJumbo: 4
+22: Zedaph: 3
+22: falsesymmetry: 2
+Total 3199

@@ -1,0 +1,25 @@
+minecraft.picked_up.coal_ore
+23: GoodTimeWithScar: 18965
+23: iJevin: 8409
+23: xBCrafted: 7098
+23: falsesymmetry: 6448
+23: Grian: 6170
+23: cubfan135: 5465
+23: Tango: 4574
+23: ZombieCleo: 4424
+23: Keralis1: 4410
+23: Xisuma: 3968
+23: hypnotizd: 3325
+23: Zedaph: 2879
+23: Etho: 2500
+23: impulseSV: 2497
+23: Renthedog: 2441
+23: MumboJumbo: 2201
+23: Stressmonster101: 1715
+23: iskall85: 1641
+23: joehillssays: 1506
+23: BdoubleO100: 538
+23: Docm77: 521
+23: Welsknight: 385
+23: VintageBeef: 366
+Total 92446

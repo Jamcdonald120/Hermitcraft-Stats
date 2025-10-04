@@ -1,0 +1,30 @@
+minecraft.picked_up.redstone_block
+28: VintageBeef: 10535
+28: Docm77: 2346
+28: PearlescentMoon: 1789
+28: cubfan135: 1044
+28: Tango: 993
+28: GoodTimeWithScar: 729
+28: iJevin: 612
+28: Zedaph: 451
+28: Xisuma: 442
+28: impulseSV: 401
+28: Grian: 393
+28: joehillssays: 320
+28: RentheKing: 293
+28: BdoubleO100: 284
+28: Renthedog: 268
+28: Keralis1: 168
+28: Etho: 157
+28: Pixlriffs: 146
+28: iskall85: 115
+28: OrionSound: 103
+28: Mumbo: 100
+28: ZombieCleo: 53
+28: hypnotizd: 41
+28: xBCrafted: 30
+28: falsesymmetry: 14
+28: GeminiTay: 7
+28: Stressmonster101: 7
+28: MumboJumbo: 4
+Total 21845

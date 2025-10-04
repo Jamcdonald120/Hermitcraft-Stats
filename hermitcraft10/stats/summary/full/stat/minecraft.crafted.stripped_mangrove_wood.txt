@@ -1,0 +1,8 @@
+minecraft.crafted.stripped_mangrove_wood
+6: Smallishbeans: 231
+6: GoodTimeWithScar: 150
+6: Zedaph: 39
+6: iJevin: 24
+6: Grian: 3
+6: BdoubleO100: 3
+Total 450

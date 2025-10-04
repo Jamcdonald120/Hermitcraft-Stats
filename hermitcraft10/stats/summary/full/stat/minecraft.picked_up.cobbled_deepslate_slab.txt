@@ -1,0 +1,21 @@
+minecraft.picked_up.cobbled_deepslate_slab
+19: Grian: 2118
+19: GoodTimeWithScar: 877
+19: Tango: 447
+19: Etho: 341
+19: cubfan135: 327
+19: Keralis1: 319
+19: Mumbo: 173
+19: BdoubleO100: 148
+19: Renthedog: 142
+19: iJevin: 118
+19: Docm77: 104
+19: PearlescentMoon: 89
+19: xBCrafted: 82
+19: ZombieCleo: 70
+19: Xisuma: 41
+19: GeminiTay: 40
+19: VintageBeef: 38
+19: falsesymmetry: 12
+19: impulseSV: 9
+Total 5495

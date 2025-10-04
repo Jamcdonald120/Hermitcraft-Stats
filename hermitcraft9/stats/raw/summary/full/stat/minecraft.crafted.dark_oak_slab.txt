@@ -1,0 +1,31 @@
+minecraft.crafted.dark_oak_slab
+29: falsesymmetry: 24235
+29: GoodTimeWithScar: 6142
+29: Renthedog: 4380
+29: ZombieCleo: 2250
+29: impulseSV: 1872
+29: cubfan135: 1286
+29: GeminiTay: 1224
+29: Docm77: 1158
+29: Keralis1: 1158
+29: Stressmonster101: 1096
+29: iJevin: 954
+29: Xisuma: 864
+29: xBCrafted: 792
+29: MythicalSausage: 754
+29: Grian: 700
+29: RentheKing: 576
+29: BdoubleO100: 564
+29: Tango: 540
+29: joehillssays: 462
+29: OrionSound: 312
+29: iskall85: 234
+29: ShubbleYT: 150
+29: PearlescentMoon: 72
+29: Zedaph: 66
+29: Welsknight: 60
+29: fWhip: 36
+29: Pixlriffs: 24
+29: Smallishbeans: 12
+29: VintageBeef: 6
+Total 51979

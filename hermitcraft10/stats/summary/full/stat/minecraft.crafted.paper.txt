@@ -1,0 +1,27 @@
+minecraft.crafted.paper
+25: GoodTimeWithScar: 32547
+25: cubfan135: 27957
+25: joehillssays: 27741
+25: Renthedog: 23026
+25: iJevin: 14652
+25: Etho: 13482
+25: Xisuma: 10285
+25: Grian: 9033
+25: falsesymmetry: 6576
+25: Keralis1: 6051
+25: hypnotizd: 5388
+25: VintageBeef: 5238
+25: Tango: 5052
+25: impulseSV: 4071
+25: Skizzleman: 2727
+25: Mumbo: 2646
+25: Docm77: 2451
+25: PearlescentMoon: 2421
+25: xBCrafted: 2187
+25: GeminiTay: 1932
+25: ZombieCleo: 1644
+25: Welsknight: 1365
+25: Smallishbeans: 1257
+25: BdoubleO100: 891
+25: Zedaph: 795
+Total 211415

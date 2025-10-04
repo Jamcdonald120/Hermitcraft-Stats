@@ -1,0 +1,22 @@
+minecraft.killed.magma_cube
+20: impulseSV: 388
+20: Tango: 318
+20: iskall85: 306
+20: cubfan135: 238
+20: GoodTimeWithScar: 213
+20: falsesymmetry: 184
+20: Welsknight: 176
+20: Docm77: 125
+20: Renthedog: 115
+20: PythonGB: 107
+20: Biffa2001: 107
+20: Zedaph: 106
+20: iJevin: 85
+20: joehillssays: 75
+20: Grian: 62
+20: Xisuma: 54
+20: Stressmonster101: 45
+20: MumboJumbo: 40
+20: ZombieCleo: 35
+20: Keralis1: 16
+Total 2795

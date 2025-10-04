@@ -1,0 +1,16 @@
+minecraft.dropped.warped_wart_block
+14: falsesymmetry: 1308
+14: Tango: 300
+14: impulseSV: 262
+14: Renthedog: 144
+14: BdoubleO100: 129
+14: Docm77: 106
+14: Keralis1: 40
+14: GoodTimeWithScar: 39
+14: Mumbo: 6
+14: xBCrafted: 3
+14: Etho: 3
+14: iJevin: 2
+14: Xisuma: 1
+14: Smallishbeans: 1
+Total 2344

@@ -1,0 +1,25 @@
+minecraft.picked_up.cornflower
+23: impulseSV: 10812
+23: Etho: 6793
+23: Tango: 3035
+23: falsesymmetry: 1391
+23: Zedaph: 1296
+23: MumboJumbo: 1157
+23: GoodTimeWithScar: 399
+23: Stressmonster101: 341
+23: Grian: 174
+23: joehillssays: 150
+23: Xisuma: 133
+23: xBCrafted: 128
+23: BdoubleO100: 107
+23: cubfan135: 103
+23: Keralis1: 98
+23: Renthedog: 23
+23: ZombieCleo: 23
+23: Docm77: 20
+23: Welsknight: 11
+23: VintageBeef: 9
+23: iskall85: 2
+23: iJevin: 1
+23: hypnotizd: 1
+Total 26207

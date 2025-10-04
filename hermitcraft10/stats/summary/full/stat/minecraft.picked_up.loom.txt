@@ -1,0 +1,23 @@
+minecraft.picked_up.loom
+21: PearlescentMoon: 72
+21: falsesymmetry: 46
+21: Tango: 22
+21: iJevin: 21
+21: Xisuma: 19
+21: Smallishbeans: 17
+21: impulseSV: 17
+21: Skizzleman: 15
+21: Etho: 15
+21: Mumbo: 15
+21: GoodTimeWithScar: 15
+21: cubfan135: 9
+21: joehillssays: 5
+21: Renthedog: 4
+21: BdoubleO100: 4
+21: ZombieCleo: 3
+21: Keralis1: 3
+21: Docm77: 2
+21: VintageBeef: 2
+21: Grian: 2
+21: GeminiTay: 1
+Total 309

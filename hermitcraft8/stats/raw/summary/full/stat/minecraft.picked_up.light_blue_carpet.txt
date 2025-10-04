@@ -1,0 +1,5 @@
+minecraft.picked_up.light_blue_carpet
+3: joehillssays: 19
+3: xBCrafted: 18
+3: Renthedog: 1
+Total 38

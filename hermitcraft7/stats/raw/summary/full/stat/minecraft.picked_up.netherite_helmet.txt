@@ -1,0 +1,24 @@
+minecraft.picked_up.netherite_helmet
+22: GoodTimeWithScar: 125
+22: Grian: 80
+22: Renthedog: 39
+22: joehillssays: 30
+22: impulseSV: 26
+22: MumboJumbo: 22
+22: iJevin: 18
+22: Etho: 18
+22: Keralis1: 14
+22: Xisuma: 12
+22: Zedaph: 12
+22: cubfan135: 11
+22: xBCrafted: 10
+22: ZombieCleo: 9
+22: VintageBeef: 8
+22: BdoubleO100: 8
+22: Tango: 7
+22: falsesymmetry: 5
+22: hypnotizd: 5
+22: Welsknight: 4
+22: Docm77: 2
+22: iskall85: 1
+Total 466

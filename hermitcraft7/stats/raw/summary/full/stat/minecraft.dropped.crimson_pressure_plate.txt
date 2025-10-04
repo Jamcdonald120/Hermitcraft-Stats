@@ -1,0 +1,4 @@
+minecraft.dropped.crimson_pressure_plate
+2: GoodTimeWithScar: 23
+2: Tango: 7
+Total 30

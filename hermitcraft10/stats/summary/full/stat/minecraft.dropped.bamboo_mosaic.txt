@@ -1,0 +1,8 @@
+minecraft.dropped.bamboo_mosaic
+6: falsesymmetry: 72
+6: Tango: 3
+6: Keralis1: 3
+6: PearlescentMoon: 1
+6: ZombieCleo: 1
+6: GoodTimeWithScar: 1
+Total 81

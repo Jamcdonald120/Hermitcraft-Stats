@@ -1,0 +1,3 @@
+minecraft.picked_up.dead_brain_coral
+1: cubfan135: 3
+Total 3

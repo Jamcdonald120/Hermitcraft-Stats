@@ -1,0 +1,32 @@
+minecraft.picked_up.snow_block
+30: falsesymmetry: 21959
+30: GoodTimeWithScar: 16563
+30: Renthedog: 14510
+30: joehillssays: 9717
+30: iJevin: 9302
+30: Tango: 6412
+30: Xisuma: 3239
+30: Keralis1: 2790
+30: RentheKing: 2480
+30: PearlescentMoon: 2380
+30: Grian: 1709
+30: hypnotizd: 1125
+30: GeminiTay: 992
+30: BdoubleO100: 850
+30: Etho: 622
+30: cubfan135: 491
+30: MythicalSausage: 348
+30: xBCrafted: 345
+30: Zedaph: 236
+30: iskall85: 210
+30: SolidarityGaming: 134
+30: Docm77: 130
+30: Smajor1995: 128
+30: Pixlriffs: 78
+30: ZombieCleo: 66
+30: impulseSV: 55
+30: Smallishbeans: 50
+30: Mumbo: 48
+30: OrionSound: 42
+30: VintageBeef: 19
+Total 97030

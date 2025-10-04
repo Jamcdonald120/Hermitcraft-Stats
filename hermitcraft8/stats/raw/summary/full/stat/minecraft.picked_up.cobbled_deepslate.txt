@@ -1,0 +1,29 @@
+minecraft.picked_up.cobbled_deepslate
+27: Docm77: 67104
+27: Renthedog: 40611
+27: impulseSV: 31056
+27: Xisuma: 24886
+27: GoodTimeWithScar: 20847
+27: Grian: 17850
+27: iJevin: 17213
+27: PearlescentMoon: 11886
+27: xBCrafted: 11866
+27: cubfan135: 9563
+27: BdoubleO100: 9277
+27: Tango: 7496
+27: VintageBeef: 6867
+27: ZombieCleo: 5931
+27: Etho: 5713
+27: Stressmonster101: 4742
+27: falsesymmetry: 4393
+27: Welsknight: 4130
+27: Keralis1: 4063
+27: Tinfoilchef: 4029
+27: joehillssays: 3876
+27: MumboJumbo: 3545
+27: hypnotizd: 3240
+27: Zedaph: 3122
+27: iskall85: 2438
+27: GeminiTay: 1953
+27: EvilXisuma: 82
+Total 327779

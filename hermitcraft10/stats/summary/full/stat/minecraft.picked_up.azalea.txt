@@ -1,0 +1,29 @@
+minecraft.picked_up.azalea
+27: GoodTimeWithScar: 8343
+27: Etho: 7075
+27: Grian: 2322
+27: Keralis1: 1596
+27: Xisuma: 1181
+27: falsesymmetry: 1161
+27: iJevin: 1059
+27: xBCrafted: 712
+27: Smallishbeans: 666
+27: Renthedog: 657
+27: Docm77: 602
+27: Mumbo: 423
+27: PearlescentMoon: 305
+27: BdoubleO100: 213
+27: cubfan135: 196
+27: impulseSV: 170
+27: ZombieCleo: 165
+27: GeminiTay: 142
+27: Tango: 125
+27: Skizzleman: 83
+27: hypnotizd: 50
+27: Welsknight: 42
+27: joehillssays: 38
+27: Zedaph: 34
+27: VintageBeef: 29
+27: Smajor1995: 4
+27: jojosolos: 2
+Total 27395

@@ -1,0 +1,7 @@
+minecraft.crafted.purpur_block
+5: PearlescentMoon: 13500
+5: impulseSV: 252
+5: GeminiTay: 128
+5: joehillssays: 12
+5: hypnotizd: 4
+Total 13896

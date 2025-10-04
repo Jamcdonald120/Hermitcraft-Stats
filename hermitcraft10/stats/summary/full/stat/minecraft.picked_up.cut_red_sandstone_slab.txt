@@ -1,0 +1,9 @@
+minecraft.picked_up.cut_red_sandstone_slab
+7: Renthedog: 3300
+7: Keralis1: 6
+7: Grian: 4
+7: VintageBeef: 1
+7: falsesymmetry: 1
+7: cubfan135: 1
+7: ZombieCleo: 1
+Total 3314

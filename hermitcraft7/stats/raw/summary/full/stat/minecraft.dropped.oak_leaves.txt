@@ -1,0 +1,24 @@
+minecraft.dropped.oak_leaves
+22: Zedaph: 3540
+22: MumboJumbo: 1477
+22: GoodTimeWithScar: 1265
+22: Grian: 1192
+22: Renthedog: 1013
+22: Keralis1: 911
+22: impulseSV: 879
+22: Xisuma: 542
+22: Tango: 282
+22: iskall85: 181
+22: joehillssays: 176
+22: falsesymmetry: 175
+22: cubfan135: 131
+22: Etho: 83
+22: BdoubleO100: 51
+22: ZombieCleo: 28
+22: Docm77: 13
+22: xBCrafted: 7
+22: iJevin: 5
+22: VintageBeef: 4
+22: Stressmonster101: 3
+22: Welsknight: 2
+Total 11960

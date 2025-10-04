@@ -1,0 +1,22 @@
+minecraft.crafted.black_shulker_box
+20: Tango: 57
+20: Renthedog: 45
+20: Grian: 30
+20: GoodTimeWithScar: 17
+20: Keralis1: 14
+20: impulseSV: 14
+20: Xisuma: 8
+20: xBCrafted: 8
+20: iJevin: 7
+20: cubfan135: 6
+20: Etho: 5
+20: iskall85: 3
+20: Stressmonster101: 3
+20: falsesymmetry: 2
+20: Docm77: 1
+20: VintageBeef: 1
+20: ZombieCleo: 1
+20: hypnotizd: 1
+20: MumboJumbo: 1
+20: Zedaph: 1
+Total 225

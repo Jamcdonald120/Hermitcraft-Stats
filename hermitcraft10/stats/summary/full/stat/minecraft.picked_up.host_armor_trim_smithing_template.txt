@@ -1,0 +1,9 @@
+minecraft.picked_up.host_armor_trim_smithing_template
+7: Renthedog: 8
+7: PearlescentMoon: 4
+7: cubfan135: 3
+7: ZombieCleo: 3
+7: Docm77: 2
+7: hypnotizd: 2
+7: Etho: 1
+Total 23

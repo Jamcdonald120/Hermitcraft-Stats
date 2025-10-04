@@ -1,0 +1,35 @@
+minecraft.mined.grass_block
+33: GoodTimeWithScar: 193978
+33: cubfan135: 126170
+33: falsesymmetry: 107197
+33: Xisuma: 87190
+33: Renthedog: 60755
+33: Grian: 52106
+33: iskall85: 37672
+33: MumboJumbo: 24477
+33: joehillssays: 22613
+33: Stressmonster101: 20647
+33: Welsknight: 20064
+33: impulseSV: 17577
+33: Docm77: 15221
+33: iJevin: 13437
+33: PythonGB: 9175
+33: BdoubleO100: 7682
+33: Tango: 5410
+33: Keralis1: 4589
+33: Zedaph: 4555
+33: ZombieCleo: 4498
+33: Tinfoilchef: 2081
+33: xBCrafted: 2041
+33: Biffa2001: 604
+33: Jessassin: 519
+33: Duke_da_dog: 95
+33: HumanCleo: 84
+33: Cojomax99: 22
+33: tterrag: 19
+33: PokePugx: 7
+33: PhoenixfireLune: 7
+33: EvilXisuma: 3
+33: Jura_Whitey: 2
+33: CamM77: 1
+Total 840498

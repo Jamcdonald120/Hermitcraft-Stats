@@ -1,0 +1,26 @@
+minecraft.mined.player_wall_head
+24: Renthedog: 127
+24: ZombieCleo: 90
+24: Xisuma: 89
+24: GoodTimeWithScar: 86
+24: Tango: 71
+24: Grian: 57
+24: iskall85: 55
+24: cubfan135: 46
+24: Keralis1: 37
+24: xBCrafted: 32
+24: BdoubleO100: 21
+24: iJevin: 13
+24: joehillssays: 13
+24: Zedaph: 11
+24: falsesymmetry: 10
+24: VintageBeef: 9
+24: Etho: 7
+24: impulseSV: 7
+24: Docm77: 6
+24: MumboJumbo: 5
+24: Stressmonster101: 5
+24: hypnotizd: 4
+24: BarryBoss1234: 1
+24: Tinfoilchef: 1
+Total 803

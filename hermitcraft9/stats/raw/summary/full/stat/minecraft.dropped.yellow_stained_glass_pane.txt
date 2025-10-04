@@ -1,0 +1,8 @@
+minecraft.dropped.yellow_stained_glass_pane
+6: falsesymmetry: 178
+6: Zedaph: 16
+6: Renthedog: 15
+6: GoodTimeWithScar: 11
+6: Grian: 8
+6: impulseSV: 1
+Total 229

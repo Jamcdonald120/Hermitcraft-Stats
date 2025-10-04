@@ -1,0 +1,34 @@
+minecraft.dropped.arrow
+32: Xisuma: 78363
+32: Keralis1: 26181
+32: iJevin: 16649
+32: hypnotizd: 12764
+32: Grian: 12001
+32: xBCrafted: 8835
+32: ZombieCleo: 3119
+32: GeminiTay: 1721
+32: impulseSV: 1515
+32: Etho: 1459
+32: Zedaph: 1329
+32: Tango: 1240
+32: iskall85: 1159
+32: GoodTimeWithScar: 856
+32: falsesymmetry: 730
+32: PearlescentMoon: 553
+32: BdoubleO100: 324
+32: cubfan135: 252
+32: Docm77: 225
+32: Stressmonster101: 219
+32: VintageBeef: 162
+32: joehillssays: 132
+32: Renthedog: 88
+32: RentheKing: 40
+32: OrionSound: 7
+32: MythicalSausage: 5
+32: Smallishbeans: 5
+32: Minerva246: 2
+32: Mumbo: 2
+32: ShubbleYT: 2
+32: Welsknight: 1
+32: Firecracker1195: 1
+Total 169941

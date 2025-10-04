@@ -1,0 +1,8 @@
+minecraft.mined.granite_slab
+6: PearlescentMoon: 45
+6: Xisuma: 25
+6: GeminiTay: 11
+6: Tango: 11
+6: xBCrafted: 1
+6: impulseSV: 1
+Total 94

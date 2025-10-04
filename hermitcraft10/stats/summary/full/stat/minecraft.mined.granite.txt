@@ -1,0 +1,27 @@
+minecraft.mined.granite
+25: impulseSV: 29989
+25: joehillssays: 28335
+25: xBCrafted: 21282
+25: GoodTimeWithScar: 19373
+25: Xisuma: 19231
+25: Docm77: 18984
+25: Renthedog: 16542
+25: Etho: 14804
+25: hypnotizd: 10501
+25: iJevin: 9466
+25: falsesymmetry: 9417
+25: Tango: 7194
+25: cubfan135: 6968
+25: Grian: 5575
+25: Mumbo: 5095
+25: ZombieCleo: 4498
+25: BdoubleO100: 3421
+25: Keralis1: 3368
+25: PearlescentMoon: 3101
+25: Smallishbeans: 2304
+25: GeminiTay: 2243
+25: Skizzleman: 2145
+25: Welsknight: 2037
+25: VintageBeef: 1682
+25: Zedaph: 1492
+Total 249047

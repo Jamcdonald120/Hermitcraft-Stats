@@ -1,0 +1,11 @@
+minecraft.picked_up.nether_sprouts
+9: Etho: 514
+9: BdoubleO100: 86
+9: PearlescentMoon: 83
+9: GeminiTay: 38
+9: Renthedog: 10
+9: Tango: 10
+9: cubfan135: 8
+9: Xisuma: 5
+9: Zedaph: 1
+Total 755

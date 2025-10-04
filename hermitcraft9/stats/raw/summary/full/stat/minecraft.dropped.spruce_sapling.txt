@@ -1,0 +1,26 @@
+minecraft.dropped.spruce_sapling
+24: Tango: 958
+24: hypnotizd: 812
+24: Renthedog: 538
+24: Keralis1: 238
+24: iJevin: 170
+24: xBCrafted: 119
+24: ZombieCleo: 109
+24: PearlescentMoon: 94
+24: falsesymmetry: 84
+24: GeminiTay: 44
+24: Grian: 29
+24: Zedaph: 28
+24: Etho: 19
+24: iskall85: 17
+24: BdoubleO100: 15
+24: GoodTimeWithScar: 7
+24: Docm77: 5
+24: cubfan135: 5
+24: RentheKing: 4
+24: impulseSV: 3
+24: OrionSound: 1
+24: MythicalSausage: 1
+24: Smallishbeans: 1
+24: Pixlriffs: 1
+Total 3302

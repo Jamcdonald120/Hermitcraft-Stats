@@ -1,0 +1,5 @@
+minecraft.dropped.salmon_bucket
+3: Skizzleman: 20
+3: ZombieCleo: 5
+3: VintageBeef: 1
+Total 26

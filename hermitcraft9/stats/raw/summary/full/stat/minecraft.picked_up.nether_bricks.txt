@@ -1,0 +1,28 @@
+minecraft.picked_up.nether_bricks
+26: Tango: 7810
+26: impulseSV: 6580
+26: iJevin: 2476
+26: BdoubleO100: 1992
+26: Keralis1: 1924
+26: PearlescentMoon: 756
+26: Xisuma: 595
+26: GoodTimeWithScar: 533
+26: cubfan135: 418
+26: Docm77: 356
+26: Renthedog: 161
+26: Pixlriffs: 144
+26: iskall85: 114
+26: hypnotizd: 111
+26: ZombieCleo: 110
+26: GeminiTay: 79
+26: Etho: 64
+26: falsesymmetry: 48
+26: Stressmonster101: 39
+26: joehillssays: 31
+26: Grian: 30
+26: VintageBeef: 22
+26: xBCrafted: 8
+26: InTheLittleWood: 5
+26: Zedaph: 3
+26: HBomb94: 2
+Total 24411

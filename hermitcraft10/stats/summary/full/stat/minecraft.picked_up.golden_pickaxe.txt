@@ -1,0 +1,4 @@
+minecraft.picked_up.golden_pickaxe
+2: GoodTimeWithScar: 3
+2: Mumbo: 1
+Total 4

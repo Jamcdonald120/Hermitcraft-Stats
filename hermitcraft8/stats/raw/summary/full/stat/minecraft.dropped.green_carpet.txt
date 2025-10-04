@@ -1,0 +1,5 @@
+minecraft.dropped.green_carpet
+3: GoodTimeWithScar: 64
+3: Grian: 39
+3: Xisuma: 2
+Total 105

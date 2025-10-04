@@ -1,0 +1,25 @@
+minecraft.crafted.spruce_boat
+23: Tango: 42
+23: joehillssays: 40
+23: GoodTimeWithScar: 37
+23: PearlescentMoon: 21
+23: iJevin: 19
+23: Keralis1: 17
+23: Xisuma: 13
+23: Docm77: 10
+23: VintageBeef: 10
+23: Grian: 8
+23: ZombieCleo: 8
+23: hypnotizd: 7
+23: Skizzleman: 5
+23: falsesymmetry: 5
+23: Renthedog: 4
+23: GeminiTay: 4
+23: xBCrafted: 4
+23: Etho: 4
+23: impulseSV: 4
+23: Mumbo: 3
+23: cubfan135: 2
+23: Smallishbeans: 1
+23: BdoubleO100: 1
+Total 269

@@ -1,0 +1,21 @@
+minecraft.crafted.glow_item_frame
+19: xBCrafted: 109
+19: hypnotizd: 56
+19: Renthedog: 45
+19: impulseSV: 44
+19: cubfan135: 36
+19: Grian: 35
+19: Tango: 25
+19: Zedaph: 25
+19: Keralis1: 23
+19: BdoubleO100: 15
+19: Docm77: 12
+19: falsesymmetry: 11
+19: iskall85: 10
+19: iJevin: 8
+19: joehillssays: 6
+19: Welsknight: 4
+19: VintageBeef: 2
+19: GeminiTay: 2
+19: Etho: 1
+Total 469

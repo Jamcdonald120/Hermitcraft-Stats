@@ -1,0 +1,5 @@
+minecraft.dropped.activator_rail
+3: falsesymmetry: 4
+3: iJevin: 1
+3: cubfan135: 1
+Total 6

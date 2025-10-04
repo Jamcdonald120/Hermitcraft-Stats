@@ -1,0 +1,27 @@
+minecraft.crafted.cobblestone_slab
+25: iJevin: 5250
+25: cubfan135: 5104
+25: impulseSV: 822
+25: Tango: 818
+25: Grian: 546
+25: Keralis1: 546
+25: Etho: 276
+25: falsesymmetry: 252
+25: GeminiTay: 156
+25: iskall85: 156
+25: joehillssays: 138
+25: Docm77: 132
+25: hypnotizd: 130
+25: ZombieCleo: 114
+25: xBCrafted: 98
+25: GoodTimeWithScar: 78
+25: Stressmonster101: 66
+25: Zedaph: 58
+25: BdoubleO100: 40
+25: MythicalSausage: 36
+25: VintageBeef: 24
+25: RentheKing: 20
+25: Xisuma: 14
+25: Renthedog: 14
+25: Pixlriffs: 12
+Total 14900

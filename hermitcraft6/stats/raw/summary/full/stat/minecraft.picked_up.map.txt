@@ -1,0 +1,13 @@
+minecraft.picked_up.map
+11: cubfan135: 174
+11: Grian: 150
+11: Welsknight: 104
+11: Docm77: 55
+11: GoodTimeWithScar: 16
+11: Xisuma: 15
+11: Tango: 11
+11: iskall85: 11
+11: Renthedog: 2
+11: iJevin: 2
+11: impulseSV: 1
+Total 541

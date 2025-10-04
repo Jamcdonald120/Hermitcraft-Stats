@@ -1,0 +1,26 @@
+minecraft.crafted.redstone_lamp
+24: impulseSV: 2064
+24: Xisuma: 785
+24: Etho: 764
+24: cubfan135: 518
+24: Tango: 352
+24: RentheKing: 195
+24: hypnotizd: 189
+24: Grian: 142
+24: Keralis1: 116
+24: Renthedog: 88
+24: GoodTimeWithScar: 74
+24: Docm77: 71
+24: Mumbo: 64
+24: iJevin: 59
+24: joehillssays: 27
+24: PearlescentMoon: 26
+24: Pixlriffs: 26
+24: xBCrafted: 18
+24: ZombieCleo: 12
+24: VintageBeef: 10
+24: iskall85: 10
+24: falsesymmetry: 8
+24: GeminiTay: 5
+24: Zedaph: 5
+Total 5628

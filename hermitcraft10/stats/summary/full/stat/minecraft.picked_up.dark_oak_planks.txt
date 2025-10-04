@@ -1,0 +1,27 @@
+minecraft.picked_up.dark_oak_planks
+25: iJevin: 1659
+25: falsesymmetry: 1310
+25: Smallishbeans: 564
+25: Xisuma: 539
+25: GeminiTay: 375
+25: ZombieCleo: 336
+25: PearlescentMoon: 239
+25: hypnotizd: 231
+25: Zedaph: 188
+25: Skizzleman: 175
+25: GoodTimeWithScar: 162
+25: cubfan135: 152
+25: impulseSV: 68
+25: joehillssays: 64
+25: Mumbo: 56
+25: VintageBeef: 42
+25: Docm77: 40
+25: Welsknight: 39
+25: Keralis1: 38
+25: Grian: 36
+25: Etho: 36
+25: xBCrafted: 18
+25: Renthedog: 15
+25: Tango: 2
+25: BdoubleO100: 2
+Total 6386

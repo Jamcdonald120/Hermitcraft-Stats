@@ -1,0 +1,23 @@
+minecraft.dropped.red_terracotta
+21: PearlescentMoon: 751
+21: Grian: 471
+21: GoodTimeWithScar: 438
+21: iJevin: 201
+21: falsesymmetry: 138
+21: cubfan135: 95
+21: xBCrafted: 70
+21: ZombieCleo: 68
+21: Renthedog: 65
+21: OrionSound: 64
+21: MythicalSausage: 64
+21: Tango: 62
+21: Xisuma: 60
+21: Zedaph: 54
+21: Keralis1: 27
+21: impulseSV: 23
+21: Docm77: 22
+21: joehillssays: 20
+21: VintageBeef: 19
+21: Etho: 18
+21: iskall85: 1
+Total 2731

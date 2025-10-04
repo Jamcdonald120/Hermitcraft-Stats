@@ -1,0 +1,11 @@
+minecraft.picked_up.waxed_cut_copper_slab
+9: impulseSV: 133
+9: Xisuma: 128
+9: Renthedog: 26
+9: PearlescentMoon: 15
+9: GoodTimeWithScar: 6
+9: Docm77: 3
+9: xBCrafted: 2
+9: Keralis1: 1
+9: Zedaph: 1
+Total 315

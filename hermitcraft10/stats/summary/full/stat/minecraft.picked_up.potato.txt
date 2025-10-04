@@ -1,0 +1,30 @@
+minecraft.picked_up.potato
+28: PearlescentMoon: 9404
+28: VintageBeef: 9031
+28: Renthedog: 6471
+28: Tango: 6190
+28: Grian: 4244
+28: GeminiTay: 3071
+28: xBCrafted: 2022
+28: cubfan135: 2013
+28: Etho: 1836
+28: falsesymmetry: 1093
+28: GoodTimeWithScar: 870
+28: ZombieCleo: 801
+28: Skizzleman: 596
+28: impulseSV: 319
+28: joehillssays: 240
+28: iJevin: 187
+28: Smallishbeans: 180
+28: BdoubleO100: 157
+28: Mumbo: 152
+28: Zedaph: 73
+28: SolidarityGaming: 72
+28: Welsknight: 45
+28: Docm77: 32
+28: Xisuma: 29
+28: HBomb94: 24
+28: Keralis1: 10
+28: hypnotizd: 7
+28: aimsey: 3
+Total 49172

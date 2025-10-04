@@ -1,0 +1,18 @@
+minecraft.dropped.light_gray_concrete_powder
+16: falsesymmetry: 1472
+16: Grian: 116
+16: Renthedog: 100
+16: cubfan135: 67
+16: GeminiTay: 64
+16: BdoubleO100: 64
+16: impulseSV: 64
+16: GoodTimeWithScar: 24
+16: Etho: 20
+16: iJevin: 16
+16: ZombieCleo: 13
+16: Zedaph: 8
+16: Skizzleman: 6
+16: Xisuma: 2
+16: Tango: 2
+16: joehillssays: 1
+Total 2039

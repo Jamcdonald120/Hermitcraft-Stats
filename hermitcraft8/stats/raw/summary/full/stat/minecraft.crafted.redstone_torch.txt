@@ -1,0 +1,28 @@
+minecraft.crafted.redstone_torch
+26: Grian: 4170
+26: impulseSV: 3079
+26: Tango: 2156
+26: MumboJumbo: 2155
+26: Etho: 2008
+26: GoodTimeWithScar: 1707
+26: cubfan135: 1675
+26: iJevin: 1624
+26: Docm77: 1517
+26: Xisuma: 1227
+26: Welsknight: 1117
+26: Zedaph: 949
+26: Renthedog: 845
+26: xBCrafted: 780
+26: hypnotizd: 453
+26: falsesymmetry: 436
+26: joehillssays: 347
+26: BdoubleO100: 200
+26: Tinfoilchef: 192
+26: Keralis1: 191
+26: iskall85: 140
+26: VintageBeef: 139
+26: PearlescentMoon: 131
+26: GeminiTay: 87
+26: Stressmonster101: 20
+26: ZombieCleo: 1
+Total 27346

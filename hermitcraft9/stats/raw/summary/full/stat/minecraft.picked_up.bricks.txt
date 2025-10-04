@@ -1,0 +1,25 @@
+minecraft.picked_up.bricks
+23: Grian: 5577
+23: falsesymmetry: 1118
+23: iJevin: 768
+23: Renthedog: 713
+23: PearlescentMoon: 607
+23: cubfan135: 535
+23: Tango: 383
+23: joehillssays: 223
+23: impulseSV: 192
+23: Etho: 173
+23: BdoubleO100: 132
+23: GoodTimeWithScar: 121
+23: GeminiTay: 104
+23: Keralis1: 93
+23: Mumbo: 44
+23: Pixlriffs: 35
+23: Zedaph: 30
+23: Xisuma: 19
+23: iskall85: 16
+23: ZombieCleo: 13
+23: xBCrafted: 11
+23: Docm77: 4
+23: MythicalSausage: 1
+Total 10912

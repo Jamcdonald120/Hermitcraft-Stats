@@ -1,0 +1,4 @@
+minecraft.dropped.daylight_detector
+2: falsesymmetry: 7
+2: Etho: 2
+Total 9

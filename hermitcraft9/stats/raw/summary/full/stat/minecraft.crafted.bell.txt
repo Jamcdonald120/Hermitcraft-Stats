@@ -1,0 +1,10 @@
+minecraft.crafted.bell
+8: iJevin: 99
+8: GoodTimeWithScar: 86
+8: Etho: 52
+8: Tango: 6
+8: Stressmonster101: 6
+8: falsesymmetry: 3
+8: Grian: 2
+8: Zedaph: 1
+Total 255

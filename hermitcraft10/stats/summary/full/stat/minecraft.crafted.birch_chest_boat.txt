@@ -1,0 +1,3 @@
+minecraft.crafted.birch_chest_boat
+1: BdoubleO100: 1
+Total 1

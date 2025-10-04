@@ -1,0 +1,10 @@
+minecraft.dropped.bamboo_fence
+8: Keralis1: 68
+8: GoodTimeWithScar: 7
+8: Tango: 6
+8: falsesymmetry: 6
+8: BdoubleO100: 5
+8: Grian: 4
+8: Etho: 2
+8: Zedaph: 2
+Total 100

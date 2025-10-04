@@ -1,0 +1,23 @@
+minecraft.mined.oak_button
+21: falsesymmetry: 127
+21: impulseSV: 30
+21: iskall85: 28
+21: Docm77: 17
+21: cubfan135: 16
+21: Keralis1: 12
+21: Zedaph: 10
+21: Grian: 8
+21: Tango: 8
+21: iJevin: 7
+21: MumboJumbo: 5
+21: Xisuma: 4
+21: Tinfoilchef: 4
+21: PythonGB: 3
+21: GoodTimeWithScar: 3
+21: Welsknight: 2
+21: Renthedog: 1
+21: joehillssays: 1
+21: BdoubleO100: 1
+21: ZombieCleo: 1
+21: PhoenixfireLune: 1
+Total 289

@@ -1,0 +1,31 @@
+minecraft.dropped.paper
+29: iJevin: 101203
+29: impulseSV: 18451
+29: Tango: 1996
+29: Grian: 561
+29: Keralis1: 394
+29: Renthedog: 259
+29: Zedaph: 184
+29: VintageBeef: 125
+29: cubfan135: 110
+29: GoodTimeWithScar: 93
+29: GeminiTay: 20
+29: BdoubleO100: 18
+29: xBCrafted: 18
+29: Etho: 16
+29: Xisuma: 15
+29: joehillssays: 12
+29: RentheKing: 12
+29: falsesymmetry: 11
+29: ZombieCleo: 9
+29: PearlescentMoon: 8
+29: Docm77: 7
+29: Watcher_Grian: 7
+29: MythicalSausage: 7
+29: Smallishbeans: 3
+29: InTheLittleWood: 3
+29: Skizzleman: 2
+29: Smajor1995: 1
+29: LDShadowLady: 1
+29: Mumbo: 1
+Total 123547

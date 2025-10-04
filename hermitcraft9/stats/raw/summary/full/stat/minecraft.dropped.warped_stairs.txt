@@ -1,0 +1,8 @@
+minecraft.dropped.warped_stairs
+6: falsesymmetry: 30
+6: cubfan135: 4
+6: Zedaph: 3
+6: ZombieCleo: 2
+6: GeminiTay: 1
+6: Tango: 1
+Total 41

@@ -1,0 +1,25 @@
+minecraft.used.item_frame
+23: Grian: 2809
+23: cubfan135: 1368
+23: GoodTimeWithScar: 928
+23: falsesymmetry: 715
+23: iskall85: 535
+23: Welsknight: 527
+23: Renthedog: 478
+23: iJevin: 451
+23: Docm77: 362
+23: Xisuma: 322
+23: Biffa2001: 267
+23: Tango: 238
+23: impulseSV: 233
+23: BdoubleO100: 141
+23: PythonGB: 137
+23: ZombieCleo: 131
+23: MumboJumbo: 115
+23: Keralis1: 100
+23: Stressmonster101: 92
+23: joehillssays: 57
+23: Tinfoilchef: 35
+23: Zedaph: 14
+23: HumanCleo: 3
+Total 10058

@@ -1,0 +1,16 @@
+minecraft.crafted.wind_charge
+14: impulseSV: 43080
+14: cubfan135: 12104
+14: PearlescentMoon: 3580
+14: Skizzleman: 3548
+14: Renthedog: 2696
+14: Keralis1: 2692
+14: GoodTimeWithScar: 1348
+14: Docm77: 1132
+14: Grian: 696
+14: iJevin: 672
+14: Etho: 484
+14: Tango: 252
+14: GeminiTay: 156
+14: BdoubleO100: 20
+Total 72460

@@ -1,0 +1,29 @@
+minecraft.crafted.spruce_stairs
+27: iJevin: 3804
+27: hypnotizd: 2440
+27: xBCrafted: 1632
+27: Keralis1: 1236
+27: GeminiTay: 1180
+27: Renthedog: 1096
+27: Etho: 1028
+27: GoodTimeWithScar: 916
+27: falsesymmetry: 780
+27: impulseSV: 724
+27: ZombieCleo: 684
+27: Xisuma: 588
+27: BdoubleO100: 560
+27: Welsknight: 476
+27: Stressmonster101: 432
+27: Tango: 420
+27: PearlescentMoon: 408
+27: iskall85: 356
+27: Grian: 308
+27: Docm77: 292
+27: MythicalSausage: 192
+27: VintageBeef: 112
+27: cubfan135: 44
+27: fWhip: 12
+27: Smallishbeans: 4
+27: Pixlriffs: 4
+27: Zedaph: 4
+Total 19732

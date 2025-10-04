@@ -1,0 +1,29 @@
+minecraft.crafted.diamond_sword
+27: iJevin: 24
+27: GoodTimeWithScar: 24
+27: iskall85: 22
+27: Grian: 20
+27: Docm77: 13
+27: MumboJumbo: 8
+27: joehillssays: 7
+27: Zedaph: 7
+27: PythonGB: 6
+27: ZombieCleo: 6
+27: cubfan135: 5
+27: Tinfoilchef: 4
+27: Stressmonster101: 4
+27: xBCrafted: 3
+27: impulseSV: 3
+27: Xisuma: 2
+27: Renthedog: 2
+27: Tango: 2
+27: falsesymmetry: 2
+27: Welsknight: 2
+27: HumanCleo: 1
+27: Jura_Whitey: 1
+27: Jessassin: 1
+27: PokePugx: 1
+27: BdoubleO100: 1
+27: Biffa2001: 1
+27: PhoenixfireLune: 1
+Total 173

@@ -1,0 +1,4 @@
+minecraft.dropped.light_gray_banner
+2: GoodTimeWithScar: 4
+2: impulseSV: 1
+Total 5

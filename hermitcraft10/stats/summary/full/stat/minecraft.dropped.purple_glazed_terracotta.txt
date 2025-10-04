@@ -1,0 +1,4 @@
+minecraft.dropped.purple_glazed_terracotta
+2: Zedaph: 7
+2: Etho: 2
+Total 9

@@ -1,0 +1,8 @@
+minecraft.picked_up.cherry_fence
+6: GeminiTay: 96
+6: Grian: 16
+6: GoodTimeWithScar: 8
+6: Zedaph: 2
+6: ZombieCleo: 1
+6: Mumbo: 1
+Total 124

@@ -1,0 +1,12 @@
+minecraft.dropped.bamboo_trapdoor
+10: Tango: 154
+10: Renthedog: 86
+10: Keralis1: 81
+10: Zedaph: 73
+10: falsesymmetry: 59
+10: Etho: 59
+10: GoodTimeWithScar: 20
+10: Grian: 11
+10: GeminiTay: 7
+10: ZombieCleo: 4
+Total 554

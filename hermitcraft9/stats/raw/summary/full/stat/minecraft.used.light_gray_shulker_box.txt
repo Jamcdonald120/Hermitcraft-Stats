@@ -1,0 +1,25 @@
+minecraft.used.light_gray_shulker_box
+23: Tango: 783
+23: PearlescentMoon: 574
+23: Xisuma: 471
+23: Renthedog: 378
+23: BdoubleO100: 239
+23: joehillssays: 166
+23: RentheKing: 128
+23: Etho: 69
+23: VintageBeef: 68
+23: iskall85: 60
+23: Grian: 46
+23: GeminiTay: 45
+23: Docm77: 44
+23: impulseSV: 30
+23: Zedaph: 10
+23: GoodTimeWithScar: 8
+23: falsesymmetry: 7
+23: Mumbo: 6
+23: xBCrafted: 5
+23: Keralis1: 3
+23: ZombieCleo: 2
+23: iJevin: 1
+23: Stressmonster101: 1
+Total 3144

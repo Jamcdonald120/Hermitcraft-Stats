@@ -1,0 +1,12 @@
+minecraft.picked_up.orange_bed
+10: xBCrafted: 24
+10: iJevin: 19
+10: joehillssays: 13
+10: cubfan135: 7
+10: Renthedog: 3
+10: BdoubleO100: 3
+10: falsesymmetry: 3
+10: iskall85: 1
+10: ZombieCleo: 1
+10: GoodTimeWithScar: 1
+Total 75

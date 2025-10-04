@@ -1,0 +1,29 @@
+minecraft.crafted.light_blue_dye
+27: ZombieCleo: 3901
+27: iJevin: 3355
+27: Grian: 2519
+27: Etho: 2491
+27: hypnotizd: 2118
+27: cubfan135: 1076
+27: PearlescentMoon: 1072
+27: Renthedog: 738
+27: Xisuma: 622
+27: Docm77: 310
+27: GoodTimeWithScar: 238
+27: falsesymmetry: 202
+27: VintageBeef: 134
+27: Keralis1: 115
+27: RentheKing: 112
+27: impulseSV: 88
+27: Zedaph: 86
+27: Stressmonster101: 58
+27: Tango: 48
+27: joehillssays: 24
+27: BdoubleO100: 16
+27: GeminiTay: 14
+27: xBCrafted: 8
+27: Mumbo: 4
+27: Smallishbeans: 2
+27: Pixlriffs: 2
+27: iskall85: 2
+Total 19355

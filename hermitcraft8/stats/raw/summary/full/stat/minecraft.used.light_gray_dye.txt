@@ -1,0 +1,7 @@
+minecraft.used.light_gray_dye
+5: impulseSV: 17
+5: pillbugnine: 2
+5: PearlescentMoon: 1
+5: cubfan135: 1
+5: ZombieCleo: 1
+Total 22

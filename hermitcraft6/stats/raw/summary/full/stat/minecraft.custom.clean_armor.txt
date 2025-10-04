@@ -1,0 +1,4 @@
+minecraft.custom.clean_armor
+2: cubfan135: 13
+2: Tango: 2
+Total 15

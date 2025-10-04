@@ -1,0 +1,4 @@
+minecraft.dropped.waxed_weathered_copper_trapdoor
+2: Keralis1: 24
+2: GeminiTay: 2
+Total 26

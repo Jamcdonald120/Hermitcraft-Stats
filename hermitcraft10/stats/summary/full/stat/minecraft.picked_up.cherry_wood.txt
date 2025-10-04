@@ -1,0 +1,9 @@
+minecraft.picked_up.cherry_wood
+7: Etho: 79
+7: falsesymmetry: 7
+7: Skizzleman: 5
+7: Keralis1: 3
+7: VintageBeef: 1
+7: PearlescentMoon: 1
+7: hypnotizd: 1
+Total 97

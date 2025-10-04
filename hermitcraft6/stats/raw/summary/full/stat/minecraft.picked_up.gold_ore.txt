@@ -1,0 +1,27 @@
+minecraft.picked_up.gold_ore
+25: cubfan135: 6915
+25: iJevin: 5821
+25: GoodTimeWithScar: 3389
+25: Tinfoilchef: 2084
+25: Renthedog: 1269
+25: Xisuma: 984
+25: iskall85: 882
+25: Grian: 867
+25: joehillssays: 702
+25: falsesymmetry: 693
+25: ZombieCleo: 672
+25: Welsknight: 601
+25: Biffa2001: 494
+25: Stressmonster101: 472
+25: Zedaph: 464
+25: BdoubleO100: 443
+25: MumboJumbo: 440
+25: Tango: 337
+25: impulseSV: 279
+25: Docm77: 245
+25: xBCrafted: 200
+25: Keralis1: 146
+25: HumanCleo: 67
+25: PythonGB: 64
+25: Jessassin: 11
+Total 28541

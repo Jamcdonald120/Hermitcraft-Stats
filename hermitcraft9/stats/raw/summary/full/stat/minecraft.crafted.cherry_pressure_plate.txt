@@ -1,0 +1,6 @@
+minecraft.crafted.cherry_pressure_plate
+4: GeminiTay: 3
+4: GoodTimeWithScar: 1
+4: Keralis1: 1
+4: Zedaph: 1
+Total 6

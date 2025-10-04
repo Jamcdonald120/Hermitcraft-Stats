@@ -1,0 +1,22 @@
+minecraft.dropped.iron_chestplate
+20: Etho: 486
+20: Zedaph: 11
+20: iJevin: 8
+20: cubfan135: 7
+20: Xisuma: 6
+20: Tango: 6
+20: hypnotizd: 6
+20: Grian: 5
+20: impulseSV: 5
+20: Docm77: 4
+20: PearlescentMoon: 4
+20: Renthedog: 2
+20: VintageBeef: 2
+20: GeminiTay: 2
+20: falsesymmetry: 2
+20: Keralis1: 2
+20: joehillssays: 1
+20: BdoubleO100: 1
+20: iskall85: 1
+20: xBCrafted: 1
+Total 562

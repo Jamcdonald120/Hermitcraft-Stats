@@ -1,0 +1,10 @@
+minecraft.crafted.waxed_exposed_copper_grate
+8: falsesymmetry: 260
+8: BdoubleO100: 71
+8: Renthedog: 64
+8: impulseSV: 27
+8: Docm77: 11
+8: Xisuma: 8
+8: PearlescentMoon: 4
+8: Tango: 3
+Total 448

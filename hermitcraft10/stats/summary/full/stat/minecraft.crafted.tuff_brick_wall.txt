@@ -1,0 +1,19 @@
+minecraft.crafted.tuff_brick_wall
+17: falsesymmetry: 180
+17: Skizzleman: 166
+17: Mumbo: 66
+17: Tango: 59
+17: Renthedog: 39
+17: VintageBeef: 30
+17: Xisuma: 16
+17: PearlescentMoon: 13
+17: Grian: 12
+17: Zedaph: 10
+17: ZombieCleo: 4
+17: Welsknight: 3
+17: Smallishbeans: 2
+17: BdoubleO100: 2
+17: GoodTimeWithScar: 2
+17: Docm77: 1
+17: hypnotizd: 1
+Total 606

@@ -1,0 +1,4 @@
+minecraft.dropped.oxidized_copper_door
+2: Etho: 2
+2: Xisuma: 1
+Total 3

@@ -1,0 +1,5 @@
+minecraft.picked_up.red_sandstone_stairs
+3: GoodTimeWithScar: 22
+3: cubfan135: 12
+3: joehillssays: 1
+Total 35

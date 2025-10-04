@@ -1,0 +1,14 @@
+minecraft.picked_up.chorus_flower
+12: impulseSV: 67
+12: Docm77: 34
+12: ZombieCleo: 23
+12: Renthedog: 14
+12: hypnotizd: 11
+12: joehillssays: 10
+12: Grian: 10
+12: PearlescentMoon: 5
+12: Etho: 3
+12: iJevin: 2
+12: Welsknight: 2
+12: Zedaph: 2
+Total 183

@@ -1,0 +1,29 @@
+minecraft.picked_up.orange_shulker_box
+27: PearlescentMoon: 1442
+27: cubfan135: 683
+27: Renthedog: 556
+27: Tango: 307
+27: joehillssays: 253
+27: Xisuma: 218
+27: GoodTimeWithScar: 158
+27: RentheKing: 151
+27: iskall85: 104
+27: BdoubleO100: 84
+27: Etho: 77
+27: Docm77: 64
+27: impulseSV: 51
+27: falsesymmetry: 35
+27: Grian: 23
+27: xBCrafted: 20
+27: Keralis1: 17
+27: Stressmonster101: 15
+27: Mumbo: 12
+27: VintageBeef: 5
+27: Pixlriffs: 4
+27: hypnotizd: 4
+27: iJevin: 3
+27: GeminiTay: 2
+27: ZombieCleo: 2
+27: Zedaph: 2
+27: Minerva246: 1
+Total 4293

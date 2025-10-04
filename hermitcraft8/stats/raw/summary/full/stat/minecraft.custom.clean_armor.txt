@@ -1,0 +1,6 @@
+minecraft.custom.clean_armor
+4: BdoubleO100: 2
+4: Zedaph: 2
+4: PearlescentMoon: 1
+4: cubfan135: 1
+Total 6

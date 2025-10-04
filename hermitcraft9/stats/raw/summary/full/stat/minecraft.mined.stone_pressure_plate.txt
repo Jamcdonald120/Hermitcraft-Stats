@@ -1,0 +1,21 @@
+minecraft.mined.stone_pressure_plate
+19: impulseSV: 56
+19: cubfan135: 48
+19: Tango: 47
+19: joehillssays: 34
+19: PearlescentMoon: 26
+19: iJevin: 21
+19: Zedaph: 15
+19: Grian: 8
+19: xBCrafted: 8
+19: BdoubleO100: 7
+19: Xisuma: 5
+19: GoodTimeWithScar: 5
+19: VintageBeef: 4
+19: iskall85: 4
+19: Etho: 4
+19: Renthedog: 3
+19: falsesymmetry: 3
+19: Keralis1: 2
+19: ZombieCleo: 1
+Total 301

@@ -1,0 +1,24 @@
+minecraft.crafted.ender_chest
+22: hypnotizd: 169
+22: impulseSV: 130
+22: joehillssays: 102
+22: Renthedog: 98
+22: Docm77: 94
+22: iJevin: 93
+22: Mumbo: 64
+22: cubfan135: 45
+22: ZombieCleo: 45
+22: Etho: 29
+22: Tango: 27
+22: PearlescentMoon: 25
+22: Keralis1: 21
+22: Xisuma: 20
+22: falsesymmetry: 17
+22: Zedaph: 12
+22: Smallishbeans: 8
+22: GoodTimeWithScar: 7
+22: xBCrafted: 6
+22: Welsknight: 3
+22: VintageBeef: 2
+22: Skizzleman: 1
+Total 1018

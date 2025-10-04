@@ -1,0 +1,4 @@
+minecraft.dropped.netherite_scrap
+2: Skizzleman: 35
+2: iJevin: 5
+Total 40

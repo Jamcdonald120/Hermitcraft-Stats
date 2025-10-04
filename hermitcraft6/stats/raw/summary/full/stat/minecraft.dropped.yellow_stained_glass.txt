@@ -1,0 +1,10 @@
+minecraft.dropped.yellow_stained_glass
+8: impulseSV: 48
+8: PythonGB: 32
+8: iJevin: 25
+8: Grian: 13
+8: iskall85: 10
+8: falsesymmetry: 2
+8: MumboJumbo: 1
+8: GoodTimeWithScar: 1
+Total 132

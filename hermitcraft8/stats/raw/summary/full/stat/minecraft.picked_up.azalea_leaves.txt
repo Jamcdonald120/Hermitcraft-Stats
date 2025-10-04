@@ -1,0 +1,23 @@
+minecraft.picked_up.azalea_leaves
+21: GoodTimeWithScar: 19588
+21: GeminiTay: 5745
+21: hypnotizd: 3435
+21: MumboJumbo: 2508
+21: Keralis1: 2257
+21: PearlescentMoon: 2235
+21: cubfan135: 1574
+21: iskall85: 1420
+21: falsesymmetry: 1237
+21: BdoubleO100: 888
+21: Xisuma: 737
+21: Etho: 676
+21: Grian: 490
+21: Stressmonster101: 413
+21: ZombieCleo: 392
+21: joehillssays: 210
+21: impulseSV: 115
+21: Welsknight: 113
+21: Docm77: 5
+21: xBCrafted: 5
+21: Renthedog: 3
+Total 44046

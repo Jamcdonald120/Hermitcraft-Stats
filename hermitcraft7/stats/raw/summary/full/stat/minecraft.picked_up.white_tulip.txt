@@ -1,0 +1,21 @@
+minecraft.picked_up.white_tulip
+19: Etho: 1296
+19: cubfan135: 258
+19: GoodTimeWithScar: 183
+19: impulseSV: 92
+19: Zedaph: 88
+19: joehillssays: 82
+19: Keralis1: 75
+19: Grian: 59
+19: ZombieCleo: 52
+19: Xisuma: 47
+19: MumboJumbo: 47
+19: BdoubleO100: 30
+19: VintageBeef: 20
+19: Tango: 8
+19: xBCrafted: 8
+19: hypnotizd: 8
+19: Stressmonster101: 7
+19: Renthedog: 2
+19: Welsknight: 1
+Total 2363

@@ -1,0 +1,8 @@
+minecraft.picked_up.purple_bundle
+6: Etho: 7
+6: Tango: 2
+6: Docm77: 1
+6: Xisuma: 1
+6: Skizzleman: 1
+6: impulseSV: 1
+Total 13

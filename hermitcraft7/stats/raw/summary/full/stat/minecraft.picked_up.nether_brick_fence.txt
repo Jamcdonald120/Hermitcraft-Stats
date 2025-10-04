@@ -1,0 +1,22 @@
+minecraft.picked_up.nether_brick_fence
+20: Zedaph: 250
+20: GoodTimeWithScar: 241
+20: cubfan135: 161
+20: iJevin: 157
+20: Etho: 141
+20: impulseSV: 92
+20: xBCrafted: 91
+20: Xisuma: 60
+20: Docm77: 59
+20: falsesymmetry: 42
+20: Grian: 40
+20: iskall85: 38
+20: Stressmonster101: 27
+20: Tango: 22
+20: Keralis1: 20
+20: BdoubleO100: 15
+20: joehillssays: 10
+20: VintageBeef: 8
+20: MumboJumbo: 5
+20: Welsknight: 1
+Total 1480

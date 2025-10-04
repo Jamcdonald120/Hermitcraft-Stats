@@ -1,0 +1,31 @@
+minecraft.used.dark_oak_planks
+29: falsesymmetry: 6488
+29: GoodTimeWithScar: 4753
+29: GeminiTay: 4512
+29: Renthedog: 3462
+29: xBCrafted: 2021
+29: Grian: 1879
+29: ZombieCleo: 1518
+29: BdoubleO100: 1368
+29: Xisuma: 819
+29: cubfan135: 815
+29: Stressmonster101: 665
+29: joehillssays: 545
+29: impulseSV: 488
+29: RentheKing: 486
+29: Docm77: 354
+29: OrionSound: 332
+29: Pixlriffs: 238
+29: Keralis1: 178
+29: PearlescentMoon: 158
+29: iskall85: 90
+29: Tango: 64
+29: iJevin: 61
+29: Welsknight: 55
+29: ShubbleYT: 51
+29: Mumbo: 24
+29: Zedaph: 20
+29: VintageBeef: 15
+29: MythicalSausage: 13
+29: MumboJumbo: 5
+Total 31477

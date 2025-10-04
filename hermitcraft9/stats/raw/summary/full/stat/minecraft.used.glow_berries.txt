@@ -1,0 +1,31 @@
+minecraft.used.glow_berries
+29: cubfan135: 950
+29: PearlescentMoon: 589
+29: Tango: 423
+29: Grian: 309
+29: ZombieCleo: 309
+29: Xisuma: 299
+29: RentheKing: 204
+29: GeminiTay: 163
+29: iJevin: 149
+29: Renthedog: 133
+29: Keralis1: 104
+29: Etho: 97
+29: xBCrafted: 74
+29: VintageBeef: 66
+29: iskall85: 59
+29: hypnotizd: 58
+29: Zedaph: 54
+29: joehillssays: 48
+29: Docm77: 43
+29: falsesymmetry: 42
+29: BdoubleO100: 40
+29: GoodTimeWithScar: 9
+29: MythicalSausage: 8
+29: Pixlriffs: 8
+29: kingbdogz: 4
+29: impulseSV: 3
+29: slicedlime: 2
+29: Tinfoilchef: 2
+29: OrionSound: 1
+Total 4250

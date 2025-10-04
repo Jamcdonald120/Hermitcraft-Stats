@@ -1,0 +1,18 @@
+minecraft.picked_up.chiseled_quartz_block
+16: Renthedog: 236
+16: Keralis1: 235
+16: PythonGB: 221
+16: iskall85: 120
+16: falsesymmetry: 86
+16: Docm77: 81
+16: ZombieCleo: 80
+16: Xisuma: 44
+16: iJevin: 28
+16: cubfan135: 27
+16: Grian: 19
+16: impulseSV: 8
+16: joehillssays: 6
+16: BdoubleO100: 5
+16: Zedaph: 3
+16: GoodTimeWithScar: 2
+Total 1201

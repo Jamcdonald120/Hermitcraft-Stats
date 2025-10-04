@@ -1,0 +1,8 @@
+minecraft.dropped.orange_wool
+6: Grian: 323
+6: Zedaph: 245
+6: GoodTimeWithScar: 91
+6: iJevin: 10
+6: MumboJumbo: 10
+6: BdoubleO100: 3
+Total 682

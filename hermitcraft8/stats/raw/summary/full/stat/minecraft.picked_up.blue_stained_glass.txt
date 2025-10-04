@@ -1,0 +1,7 @@
+minecraft.picked_up.blue_stained_glass
+5: falsesymmetry: 10
+5: joehillssays: 7
+5: Grian: 2
+5: impulseSV: 2
+5: Etho: 1
+Total 22

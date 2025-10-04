@@ -1,0 +1,24 @@
+minecraft.killed.wandering_trader
+22: VintageBeef: 26
+22: cubfan135: 22
+22: Zedaph: 15
+22: hypnotizd: 13
+22: iJevin: 10
+22: Grian: 7
+22: BdoubleO100: 7
+22: GoodTimeWithScar: 7
+22: PearlescentMoon: 6
+22: Xisuma: 5
+22: Docm77: 4
+22: Renthedog: 4
+22: Tango: 4
+22: falsesymmetry: 4
+22: xBCrafted: 3
+22: Etho: 3
+22: ZombieCleo: 3
+22: Keralis1: 3
+22: RentheKing: 2
+22: impulseSV: 2
+22: MythicalSausage: 1
+22: Mumbo: 1
+Total 152

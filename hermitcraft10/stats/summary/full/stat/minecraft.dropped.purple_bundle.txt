@@ -1,0 +1,6 @@
+minecraft.dropped.purple_bundle
+4: Tango: 2
+4: Etho: 2
+4: Docm77: 1
+4: Xisuma: 1
+Total 6

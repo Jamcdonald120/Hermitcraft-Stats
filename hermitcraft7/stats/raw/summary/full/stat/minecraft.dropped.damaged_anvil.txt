@@ -1,0 +1,10 @@
+minecraft.dropped.damaged_anvil
+8: Tango: 4
+8: MumboJumbo: 3
+8: Keralis1: 3
+8: cubfan135: 2
+8: GoodTimeWithScar: 2
+8: Xisuma: 1
+8: Renthedog: 1
+8: Zedaph: 1
+Total 17

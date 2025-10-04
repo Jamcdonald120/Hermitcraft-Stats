@@ -1,0 +1,35 @@
+minecraft.dropped.diamond_sword
+33: Renthedog: 14
+33: iJevin: 14
+33: GoodTimeWithScar: 14
+33: Zedaph: 14
+33: Keralis1: 13
+33: Grian: 12
+33: falsesymmetry: 11
+33: cubfan135: 10
+33: Tango: 9
+33: PearlescentMoon: 8
+33: hypnotizd: 7
+33: impulseSV: 7
+33: Xisuma: 6
+33: xBCrafted: 6
+33: ZombieCleo: 6
+33: Docm77: 5
+33: joehillssays: 4
+33: Smallishbeans: 4
+33: BdoubleO100: 4
+33: GeminiTay: 3
+33: iskall85: 3
+33: Etho: 3
+33: RentheKing: 3
+33: OrionSound: 2
+33: VintageBeef: 2
+33: MythicalSausage: 2
+33: Mumbo: 2
+33: SolidarityGaming: 2
+33: Minerva246: 1
+33: Pixlriffs: 1
+33: MumboJumbo: 1
+33: Stressmonster101: 1
+33: HBomb94: 1
+Total 195

@@ -1,0 +1,11 @@
+minecraft.crafted.brown_stained_glass
+9: falsesymmetry: 1888
+9: Grian: 1840
+9: Etho: 768
+9: PearlescentMoon: 392
+9: Keralis1: 320
+9: Zedaph: 96
+9: Stressmonster101: 64
+9: BdoubleO100: 24
+9: GoodTimeWithScar: 8
+Total 5400

@@ -1,0 +1,6 @@
+minecraft.picked_up.cherry_slab
+4: GoodTimeWithScar: 16
+4: GeminiTay: 11
+4: Zedaph: 5
+4: Mumbo: 2
+Total 34

@@ -1,0 +1,4 @@
+minecraft.picked_up.enchanted_golden_apple
+2: iskall85: 1
+2: Keralis1: 1
+Total 2

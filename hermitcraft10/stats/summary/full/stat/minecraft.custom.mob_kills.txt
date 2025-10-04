@@ -1,0 +1,32 @@
+minecraft.custom.mob_kills
+30: Xisuma: 3124990
+30: impulseSV: 1226158
+30: Tango: 1035270
+30: cubfan135: 676556
+30: Docm77: 594873
+30: Keralis1: 525904
+30: hypnotizd: 450599
+30: Mumbo: 374889
+30: joehillssays: 316710
+30: GoodTimeWithScar: 260632
+30: xBCrafted: 106504
+30: iJevin: 95691
+30: PearlescentMoon: 54399
+30: Etho: 44562
+30: Renthedog: 41008
+30: Grian: 30220
+30: falsesymmetry: 23853
+30: Smallishbeans: 19600
+30: BdoubleO100: 18834
+30: Skizzleman: 16615
+30: VintageBeef: 12842
+30: ZombieCleo: 9283
+30: Zedaph: 7315
+30: Welsknight: 6426
+30: GeminiTay: 5619
+30: InTheLittleWood: 13
+30: HBomb94: 4
+30: SolidarityGaming: 3
+30: Smajor1995: 1
+30: jojosolos: 1
+Total 9079374

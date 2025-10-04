@@ -1,0 +1,5 @@
+minecraft.crafted.red_sand
+3: GeminiTay: 24
+3: falsesymmetry: 24
+3: impulseSV: 24
+Total 72

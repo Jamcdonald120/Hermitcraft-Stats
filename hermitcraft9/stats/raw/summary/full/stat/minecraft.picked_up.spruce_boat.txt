@@ -1,0 +1,31 @@
+minecraft.picked_up.spruce_boat
+29: iJevin: 230
+29: Renthedog: 174
+29: Etho: 106
+29: impulseSV: 81
+29: cubfan135: 77
+29: iskall85: 44
+29: Tango: 31
+29: falsesymmetry: 28
+29: ZombieCleo: 18
+29: GeminiTay: 17
+29: PearlescentMoon: 17
+29: Stressmonster101: 17
+29: Zedaph: 16
+29: Keralis1: 13
+29: BdoubleO100: 10
+29: Welsknight: 10
+29: hypnotizd: 10
+29: Xisuma: 8
+29: joehillssays: 8
+29: VintageBeef: 6
+29: Grian: 6
+29: xBCrafted: 5
+29: Docm77: 4
+29: Smallishbeans: 3
+29: SolidarityGaming: 3
+29: Skizzleman: 2
+29: Smajor1995: 1
+29: GoodTimeWithScar: 1
+29: Tinfoilchef: 1
+Total 947

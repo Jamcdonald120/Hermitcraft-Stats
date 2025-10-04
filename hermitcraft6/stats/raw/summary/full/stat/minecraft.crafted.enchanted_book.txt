@@ -1,0 +1,23 @@
+minecraft.crafted.enchanted_book
+21: impulseSV: 938
+21: iskall85: 853
+21: cubfan135: 402
+21: Grian: 327
+21: Stressmonster101: 291
+21: GoodTimeWithScar: 178
+21: iJevin: 167
+21: Renthedog: 126
+21: Tinfoilchef: 113
+21: MumboJumbo: 93
+21: Tango: 74
+21: Docm77: 67
+21: Zedaph: 67
+21: falsesymmetry: 49
+21: ZombieCleo: 49
+21: PythonGB: 44
+21: Welsknight: 26
+21: Xisuma: 17
+21: joehillssays: 12
+21: HumanCleo: 6
+21: Biffa2001: 2
+Total 3901

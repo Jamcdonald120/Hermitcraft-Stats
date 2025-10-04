@@ -1,0 +1,7 @@
+minecraft.dropped.blue_stained_glass_pane
+5: falsesymmetry: 15
+5: Zedaph: 15
+5: iJevin: 4
+5: ZombieCleo: 4
+5: xBCrafted: 1
+Total 39

@@ -1,0 +1,18 @@
+minecraft.crafted.dried_kelp
+16: impulseSV: 9116
+16: Etho: 5259
+16: Keralis1: 4733
+16: joehillssays: 1529
+16: BdoubleO100: 1051
+16: iJevin: 896
+16: falsesymmetry: 584
+16: cubfan135: 455
+16: Xisuma: 225
+16: Zedaph: 212
+16: Renthedog: 177
+16: iskall85: 137
+16: VintageBeef: 126
+16: ZombieCleo: 77
+16: xBCrafted: 65
+16: hypnotizd: 47
+Total 24689

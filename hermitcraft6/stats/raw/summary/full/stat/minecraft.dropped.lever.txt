@@ -1,0 +1,21 @@
+minecraft.dropped.lever
+19: cubfan135: 170
+19: GoodTimeWithScar: 153
+19: iJevin: 81
+19: Grian: 64
+19: MumboJumbo: 62
+19: Tango: 39
+19: iskall85: 33
+19: Xisuma: 32
+19: Zedaph: 31
+19: Renthedog: 21
+19: Keralis1: 19
+19: Stressmonster101: 14
+19: impulseSV: 11
+19: Docm77: 10
+19: falsesymmetry: 5
+19: Tinfoilchef: 4
+19: PythonGB: 2
+19: ZombieCleo: 2
+19: joehillssays: 1
+Total 754

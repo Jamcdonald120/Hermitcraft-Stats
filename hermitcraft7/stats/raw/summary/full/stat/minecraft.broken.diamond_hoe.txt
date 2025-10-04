@@ -1,0 +1,3 @@
+minecraft.broken.diamond_hoe
+1: MumboJumbo: 2
+Total 2

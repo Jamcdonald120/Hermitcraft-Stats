@@ -1,0 +1,27 @@
+minecraft.crafted.brown_dye
+25: ZombieCleo: 2905
+25: Grian: 2501
+25: hypnotizd: 2053
+25: Xisuma: 1810
+25: Etho: 675
+25: falsesymmetry: 539
+25: VintageBeef: 181
+25: Keralis1: 162
+25: PearlescentMoon: 134
+25: xBCrafted: 124
+25: GoodTimeWithScar: 114
+25: iJevin: 85
+25: joehillssays: 69
+25: Renthedog: 67
+25: Zedaph: 48
+25: impulseSV: 47
+25: Stressmonster101: 37
+25: BdoubleO100: 33
+25: iskall85: 32
+25: RentheKing: 26
+25: Docm77: 24
+25: cubfan135: 19
+25: MythicalSausage: 11
+25: Tango: 8
+25: Mumbo: 6
+Total 11710

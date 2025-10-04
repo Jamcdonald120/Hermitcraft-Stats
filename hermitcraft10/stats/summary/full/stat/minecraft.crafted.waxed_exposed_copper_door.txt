@@ -1,0 +1,4 @@
+minecraft.crafted.waxed_exposed_copper_door
+2: Mumbo: 3
+2: BdoubleO100: 2
+Total 5

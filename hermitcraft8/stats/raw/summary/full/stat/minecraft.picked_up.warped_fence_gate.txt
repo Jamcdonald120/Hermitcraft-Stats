@@ -1,0 +1,10 @@
+minecraft.picked_up.warped_fence_gate
+8: GoodTimeWithScar: 34
+8: impulseSV: 27
+8: BdoubleO100: 15
+8: Grian: 14
+8: MumboJumbo: 13
+8: Keralis1: 4
+8: Renthedog: 1
+8: Welsknight: 1
+Total 109

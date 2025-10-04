@@ -1,0 +1,12 @@
+minecraft.dropped.warped_stem
+10: GoodTimeWithScar: 188
+10: cubfan135: 120
+10: Etho: 105
+10: falsesymmetry: 84
+10: Renthedog: 72
+10: xBCrafted: 10
+10: iJevin: 6
+10: VintageBeef: 4
+10: ZombieCleo: 3
+10: Xisuma: 1
+Total 593

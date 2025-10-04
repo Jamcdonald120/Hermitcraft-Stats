@@ -1,0 +1,5 @@
+minecraft.dropped.nether_star
+3: Xisuma: 1
+3: Tango: 1
+3: Skizzleman: 1
+Total 3

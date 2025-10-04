@@ -1,0 +1,25 @@
+minecraft.picked_up.red_mushroom
+23: Etho: 1013
+23: GoodTimeWithScar: 772
+23: impulseSV: 685
+23: Renthedog: 396
+23: Xisuma: 390
+23: falsesymmetry: 240
+23: iskall85: 227
+23: Tango: 188
+23: Keralis1: 174
+23: cubfan135: 173
+23: ZombieCleo: 166
+23: hypnotizd: 153
+23: Stressmonster101: 122
+23: xBCrafted: 121
+23: Zedaph: 114
+23: Grian: 109
+23: VintageBeef: 80
+23: joehillssays: 78
+23: MumboJumbo: 46
+23: Docm77: 38
+23: BdoubleO100: 24
+23: iJevin: 14
+23: Tinfoilchef: 2
+Total 5325

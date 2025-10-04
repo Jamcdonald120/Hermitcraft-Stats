@@ -1,0 +1,21 @@
+minecraft.crafted.cooked_chicken
+19: Zedaph: 577
+19: VintageBeef: 384
+19: joehillssays: 291
+19: Grian: 140
+19: Docm77: 88
+19: iJevin: 48
+19: BdoubleO100: 21
+19: Renthedog: 14
+19: cubfan135: 13
+19: Skizzleman: 11
+19: Etho: 10
+19: Mumbo: 10
+19: Tango: 6
+19: PearlescentMoon: 6
+19: GoodTimeWithScar: 6
+19: ZombieCleo: 5
+19: Xisuma: 3
+19: xBCrafted: 3
+19: falsesymmetry: 1
+Total 1637

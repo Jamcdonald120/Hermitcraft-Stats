@@ -1,0 +1,4 @@
+minecraft.used.golden_leggings
+2: falsesymmetry: 4
+2: BdoubleO100: 1
+Total 5

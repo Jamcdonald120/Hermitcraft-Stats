@@ -1,0 +1,4 @@
+minecraft.dropped.acacia_fence_gate
+2: GoodTimeWithScar: 19
+2: falsesymmetry: 7
+Total 26

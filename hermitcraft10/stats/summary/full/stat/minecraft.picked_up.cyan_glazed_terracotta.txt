@@ -1,0 +1,10 @@
+minecraft.picked_up.cyan_glazed_terracotta
+8: falsesymmetry: 55
+8: Mumbo: 31
+8: Etho: 14
+8: impulseSV: 11
+8: Keralis1: 6
+8: Renthedog: 2
+8: BdoubleO100: 2
+8: Smallishbeans: 1
+Total 122

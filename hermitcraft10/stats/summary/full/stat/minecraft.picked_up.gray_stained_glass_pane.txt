@@ -1,0 +1,14 @@
+minecraft.picked_up.gray_stained_glass_pane
+12: BdoubleO100: 99
+12: PearlescentMoon: 76
+12: cubfan135: 44
+12: impulseSV: 33
+12: iJevin: 31
+12: Grian: 17
+12: Keralis1: 16
+12: Renthedog: 13
+12: Tango: 13
+12: Xisuma: 7
+12: GoodTimeWithScar: 7
+12: Mumbo: 5
+Total 361

@@ -1,0 +1,13 @@
+minecraft.crafted.brown_stained_glass_pane
+11: impulseSV: 208
+11: joehillssays: 184
+11: Etho: 152
+11: falsesymmetry: 144
+11: xBCrafted: 96
+11: Stressmonster101: 80
+11: Xisuma: 48
+11: Keralis1: 32
+11: VintageBeef: 16
+11: Grian: 16
+11: cubfan135: 16
+Total 992

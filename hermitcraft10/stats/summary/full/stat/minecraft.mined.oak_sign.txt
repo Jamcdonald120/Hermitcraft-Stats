@@ -1,0 +1,27 @@
+minecraft.mined.oak_sign
+25: Skizzleman: 85
+25: Keralis1: 23
+25: falsesymmetry: 20
+25: iJevin: 19
+25: PearlescentMoon: 16
+25: GoodTimeWithScar: 9
+25: Renthedog: 8
+25: Tango: 8
+25: impulseSV: 8
+25: VintageBeef: 7
+25: GeminiTay: 7
+25: Xisuma: 6
+25: Etho: 6
+25: Smallishbeans: 5
+25: BdoubleO100: 5
+25: Mumbo: 5
+25: Grian: 4
+25: Docm77: 3
+25: ZombieCleo: 3
+25: cubfan135: 2
+25: joehillssays: 1
+25: xBCrafted: 1
+25: Welsknight: 1
+25: hypnotizd: 1
+25: InTheLittleWood: 1
+Total 254

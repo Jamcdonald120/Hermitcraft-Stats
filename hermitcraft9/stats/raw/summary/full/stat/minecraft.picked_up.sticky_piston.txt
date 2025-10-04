@@ -1,0 +1,30 @@
+minecraft.picked_up.sticky_piston
+28: Docm77: 1975
+28: Tango: 1053
+28: cubfan135: 583
+28: GoodTimeWithScar: 301
+28: Grian: 284
+28: iJevin: 277
+28: Keralis1: 200
+28: Etho: 172
+28: Xisuma: 139
+28: impulseSV: 118
+28: iskall85: 113
+28: Zedaph: 106
+28: joehillssays: 66
+28: Renthedog: 51
+28: hypnotizd: 44
+28: xBCrafted: 38
+28: ZombieCleo: 22
+28: PearlescentMoon: 21
+28: BdoubleO100: 20
+28: Mumbo: 17
+28: Pixlriffs: 15
+28: falsesymmetry: 12
+28: RentheKing: 12
+28: GeminiTay: 9
+28: VintageBeef: 7
+28: MythicalSausage: 6
+28: Stressmonster101: 5
+28: Welsknight: 3
+Total 5669

@@ -1,0 +1,23 @@
+minecraft.crafted.black_concrete_powder
+21: Renthedog: 65400
+21: Tango: 17216
+21: Stressmonster101: 15936
+21: Xisuma: 9832
+21: Grian: 9776
+21: impulseSV: 8664
+21: GoodTimeWithScar: 5864
+21: Keralis1: 2832
+21: cubfan135: 2552
+21: hypnotizd: 2432
+21: iskall85: 1944
+21: falsesymmetry: 1840
+21: Etho: 1584
+21: VintageBeef: 1528
+21: xBCrafted: 1088
+21: joehillssays: 608
+21: ZombieCleo: 608
+21: MumboJumbo: 512
+21: iJevin: 296
+21: BdoubleO100: 288
+21: Zedaph: 96
+Total 150896

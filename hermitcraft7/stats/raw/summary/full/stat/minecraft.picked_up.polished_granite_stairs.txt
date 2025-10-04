@@ -1,0 +1,12 @@
+minecraft.picked_up.polished_granite_stairs
+10: GoodTimeWithScar: 80
+10: Xisuma: 59
+10: cubfan135: 53
+10: xBCrafted: 20
+10: VintageBeef: 9
+10: BdoubleO100: 6
+10: Etho: 4
+10: Tango: 3
+10: Keralis1: 2
+10: impulseSV: 2
+Total 238

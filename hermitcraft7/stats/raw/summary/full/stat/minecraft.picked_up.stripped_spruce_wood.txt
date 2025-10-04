@@ -1,0 +1,12 @@
+minecraft.picked_up.stripped_spruce_wood
+10: Grian: 323
+10: GoodTimeWithScar: 290
+10: BdoubleO100: 148
+10: Xisuma: 128
+10: Keralis1: 55
+10: MumboJumbo: 33
+10: VintageBeef: 20
+10: Etho: 20
+10: cubfan135: 3
+10: Tango: 1
+Total 1021

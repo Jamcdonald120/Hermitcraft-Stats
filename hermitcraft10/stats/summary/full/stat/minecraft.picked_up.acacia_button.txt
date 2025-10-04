@@ -1,0 +1,12 @@
+minecraft.picked_up.acacia_button
+10: Renthedog: 48
+10: Tango: 18
+10: Docm77: 11
+10: VintageBeef: 8
+10: Xisuma: 4
+10: cubfan135: 3
+10: GoodTimeWithScar: 3
+10: BdoubleO100: 2
+10: PearlescentMoon: 2
+10: Skizzleman: 1
+Total 100

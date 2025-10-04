@@ -1,0 +1,22 @@
+minecraft.picked_up.white_shulker_box
+20: cubfan135: 3051
+20: Xisuma: 1102
+20: impulseSV: 935
+20: iskall85: 839
+20: falsesymmetry: 817
+20: Tango: 555
+20: Renthedog: 363
+20: Stressmonster101: 282
+20: GoodTimeWithScar: 193
+20: Zedaph: 193
+20: Docm77: 189
+20: Welsknight: 124
+20: Grian: 113
+20: iJevin: 74
+20: joehillssays: 71
+20: ZombieCleo: 65
+20: PythonGB: 53
+20: MumboJumbo: 25
+20: Biffa2001: 21
+20: HumanCleo: 6
+Total 9071

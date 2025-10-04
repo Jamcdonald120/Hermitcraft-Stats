@@ -1,0 +1,22 @@
+minecraft.picked_up.brown_wool
+20: Zedaph: 4865
+20: Etho: 4070
+20: joehillssays: 2309
+20: VintageBeef: 1142
+20: Grian: 417
+20: Tango: 362
+20: BdoubleO100: 332
+20: cubfan135: 269
+20: Keralis1: 155
+20: iJevin: 114
+20: Renthedog: 82
+20: MumboJumbo: 78
+20: GoodTimeWithScar: 68
+20: impulseSV: 66
+20: ZombieCleo: 57
+20: Stressmonster101: 37
+20: Xisuma: 7
+20: hypnotizd: 3
+20: falsesymmetry: 2
+20: Tinfoilchef: 1
+Total 14436

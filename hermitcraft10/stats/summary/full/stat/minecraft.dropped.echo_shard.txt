@@ -1,0 +1,5 @@
+minecraft.dropped.echo_shard
+3: iJevin: 18
+3: ZombieCleo: 17
+3: cubfan135: 3
+Total 38

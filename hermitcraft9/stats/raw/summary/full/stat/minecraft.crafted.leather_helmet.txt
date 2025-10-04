@@ -1,0 +1,18 @@
+minecraft.crafted.leather_helmet
+16: PearlescentMoon: 28
+16: cubfan135: 23
+16: RentheKing: 9
+16: VintageBeef: 8
+16: BdoubleO100: 8
+16: Grian: 5
+16: Zedaph: 5
+16: Smajor1995: 4
+16: joehillssays: 4
+16: GoodTimeWithScar: 4
+16: iJevin: 3
+16: GeminiTay: 3
+16: Welsknight: 3
+16: impulseSV: 3
+16: ZombieCleo: 1
+16: hypnotizd: 1
+Total 112

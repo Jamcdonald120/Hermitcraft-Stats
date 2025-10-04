@@ -1,0 +1,4 @@
+minecraft.crafted.dark_oak_sapling
+2: cubfan135: 8
+2: falsesymmetry: 5
+Total 13

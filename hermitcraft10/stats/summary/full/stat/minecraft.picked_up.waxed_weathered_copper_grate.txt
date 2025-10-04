@@ -1,0 +1,16 @@
+minecraft.picked_up.waxed_weathered_copper_grate
+14: impulseSV: 258
+14: Docm77: 28
+14: BdoubleO100: 28
+14: Xisuma: 26
+14: Smallishbeans: 15
+14: PearlescentMoon: 13
+14: Keralis1: 6
+14: xBCrafted: 5
+14: Etho: 5
+14: Tango: 2
+14: falsesymmetry: 2
+14: GoodTimeWithScar: 2
+14: Grian: 1
+14: ZombieCleo: 1
+Total 392

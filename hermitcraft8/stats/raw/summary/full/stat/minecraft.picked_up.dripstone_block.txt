@@ -1,0 +1,25 @@
+minecraft.picked_up.dripstone_block
+23: cubfan135: 5663
+23: GoodTimeWithScar: 3060
+23: joehillssays: 2517
+23: Grian: 1247
+23: PearlescentMoon: 1126
+23: Tango: 796
+23: Xisuma: 632
+23: ZombieCleo: 496
+23: GeminiTay: 353
+23: Etho: 161
+23: Renthedog: 102
+23: Docm77: 68
+23: Welsknight: 61
+23: hypnotizd: 59
+23: Zedaph: 59
+23: VintageBeef: 56
+23: falsesymmetry: 51
+23: impulseSV: 42
+23: MumboJumbo: 39
+23: iJevin: 38
+23: xBCrafted: 8
+23: BdoubleO100: 4
+23: iskall85: 2
+Total 16640

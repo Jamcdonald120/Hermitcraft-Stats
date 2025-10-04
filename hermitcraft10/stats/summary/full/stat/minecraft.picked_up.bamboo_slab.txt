@@ -1,0 +1,22 @@
+minecraft.picked_up.bamboo_slab
+20: BdoubleO100: 2789
+20: Zedaph: 1046
+20: GoodTimeWithScar: 632
+20: Keralis1: 430
+20: Etho: 403
+20: cubfan135: 368
+20: Tango: 310
+20: Xisuma: 284
+20: PearlescentMoon: 141
+20: GeminiTay: 88
+20: Mumbo: 40
+20: Grian: 24
+20: impulseSV: 24
+20: falsesymmetry: 18
+20: joehillssays: 16
+20: Skizzleman: 14
+20: Smallishbeans: 12
+20: VintageBeef: 6
+20: xBCrafted: 5
+20: ZombieCleo: 2
+Total 6652

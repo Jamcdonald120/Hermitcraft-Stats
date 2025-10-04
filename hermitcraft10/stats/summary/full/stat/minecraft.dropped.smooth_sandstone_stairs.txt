@@ -1,0 +1,5 @@
+minecraft.dropped.smooth_sandstone_stairs
+3: Smallishbeans: 30
+3: cubfan135: 5
+3: falsesymmetry: 4
+Total 39

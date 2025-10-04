@@ -1,0 +1,6 @@
+minecraft.dropped.warped_hanging_sign
+4: falsesymmetry: 11
+4: Mumbo: 5
+4: Etho: 1
+4: GoodTimeWithScar: 1
+Total 18

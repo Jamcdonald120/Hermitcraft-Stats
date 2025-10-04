@@ -1,0 +1,22 @@
+minecraft.mined.yellow_bed
+20: impulseSV: 238
+20: Tango: 191
+20: iJevin: 88
+20: Docm77: 71
+20: Keralis1: 41
+20: GeminiTay: 40
+20: iskall85: 21
+20: ZombieCleo: 21
+20: Renthedog: 15
+20: PearlescentMoon: 13
+20: Etho: 12
+20: GoodTimeWithScar: 10
+20: Grian: 8
+20: xBCrafted: 3
+20: Stressmonster101: 3
+20: VintageBeef: 2
+20: joehillssays: 2
+20: BdoubleO100: 1
+20: cubfan135: 1
+20: Mumbo: 1
+Total 782

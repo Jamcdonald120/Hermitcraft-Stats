@@ -1,0 +1,12 @@
+minecraft.dropped.deepslate_brick_slab
+10: impulseSV: 67
+10: GoodTimeWithScar: 53
+10: iJevin: 43
+10: Etho: 26
+10: Renthedog: 20
+10: Mumbo: 15
+10: Tango: 14
+10: Skizzleman: 5
+10: Grian: 2
+10: Smallishbeans: 1
+Total 246

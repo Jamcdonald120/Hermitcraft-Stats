@@ -1,0 +1,27 @@
+minecraft.mined.end_rod
+25: GoodTimeWithScar: 2368
+25: Renthedog: 875
+25: cubfan135: 540
+25: impulseSV: 382
+25: Etho: 282
+25: Keralis1: 202
+25: hypnotizd: 189
+25: Xisuma: 178
+25: Welsknight: 175
+25: Smallishbeans: 143
+25: Tango: 138
+25: PearlescentMoon: 129
+25: iJevin: 115
+25: joehillssays: 86
+25: Grian: 50
+25: Docm77: 38
+25: BdoubleO100: 37
+25: falsesymmetry: 34
+25: Skizzleman: 33
+25: VintageBeef: 28
+25: GeminiTay: 26
+25: ZombieCleo: 22
+25: xBCrafted: 11
+25: Mumbo: 4
+25: Zedaph: 1
+Total 6086

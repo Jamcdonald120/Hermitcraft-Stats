@@ -1,0 +1,24 @@
+minecraft.crafted.iron_shovel
+22: impulseSV: 302
+22: GoodTimeWithScar: 112
+22: joehillssays: 18
+22: ZombieCleo: 16
+22: VintageBeef: 15
+22: falsesymmetry: 15
+22: iJevin: 10
+22: PearlescentMoon: 10
+22: Tinfoilchef: 10
+22: Zedaph: 9
+22: BdoubleO100: 7
+22: Xisuma: 6
+22: GeminiTay: 6
+22: Tango: 6
+22: MumboJumbo: 5
+22: hypnotizd: 4
+22: Renthedog: 3
+22: iskall85: 3
+22: Grian: 2
+22: cubfan135: 1
+22: Welsknight: 1
+22: Etho: 1
+Total 562

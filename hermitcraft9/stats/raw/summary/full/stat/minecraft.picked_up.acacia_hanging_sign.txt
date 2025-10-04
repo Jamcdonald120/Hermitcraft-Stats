@@ -1,0 +1,4 @@
+minecraft.picked_up.acacia_hanging_sign
+2: cubfan135: 8
+2: GoodTimeWithScar: 3
+Total 11

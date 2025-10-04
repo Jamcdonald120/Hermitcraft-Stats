@@ -1,0 +1,17 @@
+minecraft.used.raw_copper_block
+15: falsesymmetry: 506
+15: joehillssays: 370
+15: Xisuma: 325
+15: Tango: 136
+15: xBCrafted: 81
+15: Etho: 79
+15: cubfan135: 64
+15: impulseSV: 55
+15: iJevin: 16
+15: GeminiTay: 7
+15: Grian: 6
+15: PearlescentMoon: 4
+15: Docm77: 3
+15: GoodTimeWithScar: 3
+15: ZombieCleo: 1
+Total 1656

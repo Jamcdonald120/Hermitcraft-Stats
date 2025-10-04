@@ -1,0 +1,28 @@
+minecraft.picked_up.white_bed
+26: BdoubleO100: 2265
+26: Smallishbeans: 698
+26: Tango: 411
+26: Etho: 379
+26: Xisuma: 343
+26: PearlescentMoon: 271
+26: Renthedog: 257
+26: iJevin: 250
+26: hypnotizd: 212
+26: GoodTimeWithScar: 174
+26: Skizzleman: 153
+26: impulseSV: 149
+26: cubfan135: 143
+26: xBCrafted: 111
+26: Welsknight: 111
+26: Docm77: 109
+26: joehillssays: 98
+26: Keralis1: 61
+26: ZombieCleo: 52
+26: falsesymmetry: 38
+26: Grian: 33
+26: VintageBeef: 28
+26: Mumbo: 28
+26: GeminiTay: 24
+26: Zedaph: 6
+26: InTheLittleWood: 2
+Total 6406

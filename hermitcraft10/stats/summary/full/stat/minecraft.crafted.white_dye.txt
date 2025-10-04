@@ -1,0 +1,27 @@
+minecraft.crafted.white_dye
+25: Keralis1: 24015
+25: Xisuma: 9251
+25: impulseSV: 7078
+25: Etho: 6906
+25: cubfan135: 6569
+25: Docm77: 5982
+25: falsesymmetry: 5613
+25: GoodTimeWithScar: 4864
+25: PearlescentMoon: 4058
+25: Renthedog: 3826
+25: joehillssays: 3236
+25: xBCrafted: 3113
+25: iJevin: 1924
+25: Smallishbeans: 1847
+25: hypnotizd: 1196
+25: BdoubleO100: 1134
+25: Skizzleman: 984
+25: Tango: 974
+25: Grian: 802
+25: Zedaph: 335
+25: ZombieCleo: 267
+25: GeminiTay: 198
+25: VintageBeef: 190
+25: Mumbo: 140
+25: Welsknight: 33
+Total 94535

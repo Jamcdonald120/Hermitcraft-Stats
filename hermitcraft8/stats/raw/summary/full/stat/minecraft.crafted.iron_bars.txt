@@ -1,0 +1,26 @@
+minecraft.crafted.iron_bars
+24: Keralis1: 1904
+24: Renthedog: 944
+24: xBCrafted: 944
+24: impulseSV: 928
+24: Tango: 752
+24: Grian: 608
+24: Xisuma: 512
+24: MumboJumbo: 480
+24: GoodTimeWithScar: 432
+24: iJevin: 224
+24: BdoubleO100: 224
+24: falsesymmetry: 224
+24: Docm77: 176
+24: PearlescentMoon: 144
+24: joehillssays: 128
+24: Tinfoilchef: 128
+24: cubfan135: 96
+24: iskall85: 80
+24: VintageBeef: 64
+24: Welsknight: 64
+24: Zedaph: 64
+24: GeminiTay: 48
+24: Etho: 32
+24: hypnotizd: 32
+Total 9232

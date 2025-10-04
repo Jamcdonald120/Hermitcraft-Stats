@@ -1,0 +1,7 @@
+minecraft.dropped.dark_oak_fence_gate
+5: falsesymmetry: 119
+5: iJevin: 21
+5: cubfan135: 16
+5: Docm77: 4
+5: Mumbo: 1
+Total 161

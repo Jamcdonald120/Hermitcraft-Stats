@@ -1,0 +1,21 @@
+minecraft.picked_up.spruce_hanging_sign
+19: iJevin: 91
+19: Etho: 52
+19: Grian: 40
+19: PearlescentMoon: 35
+19: falsesymmetry: 31
+19: GeminiTay: 17
+19: xBCrafted: 14
+19: Mumbo: 9
+19: Skizzleman: 6
+19: Tango: 4
+19: BdoubleO100: 3
+19: impulseSV: 3
+19: Renthedog: 2
+19: cubfan135: 2
+19: hypnotizd: 2
+19: Xisuma: 1
+19: joehillssays: 1
+19: ZombieCleo: 1
+19: GoodTimeWithScar: 1
+Total 315

@@ -1,0 +1,20 @@
+minecraft.picked_up.stripped_bamboo_block
+18: Keralis1: 875
+18: GoodTimeWithScar: 249
+18: falsesymmetry: 181
+18: PearlescentMoon: 158
+18: Smallishbeans: 149
+18: cubfan135: 105
+18: GeminiTay: 88
+18: Grian: 75
+18: Xisuma: 72
+18: impulseSV: 49
+18: BdoubleO100: 25
+18: Mumbo: 17
+18: Etho: 15
+18: VintageBeef: 12
+18: Tango: 12
+18: Docm77: 8
+18: hypnotizd: 7
+18: Renthedog: 6
+Total 2103

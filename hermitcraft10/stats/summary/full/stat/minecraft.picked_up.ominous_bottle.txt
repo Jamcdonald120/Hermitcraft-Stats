@@ -1,0 +1,24 @@
+minecraft.picked_up.ominous_bottle
+22: PearlescentMoon: 105
+22: GoodTimeWithScar: 83
+22: cubfan135: 78
+22: iJevin: 74
+22: Docm77: 50
+22: Renthedog: 44
+22: Etho: 37
+22: Xisuma: 34
+22: Skizzleman: 24
+22: Grian: 18
+22: Tango: 15
+22: GeminiTay: 12
+22: xBCrafted: 12
+22: BdoubleO100: 10
+22: impulseSV: 10
+22: joehillssays: 7
+22: falsesymmetry: 7
+22: Smallishbeans: 6
+22: Keralis1: 5
+22: ZombieCleo: 4
+22: Zedaph: 2
+22: Mumbo: 1
+Total 638

@@ -1,0 +1,21 @@
+minecraft.picked_up.weathered_copper
+19: Xisuma: 42978
+19: Keralis1: 967
+19: Docm77: 488
+19: BdoubleO100: 370
+19: Etho: 329
+19: Tango: 213
+19: hypnotizd: 129
+19: Grian: 85
+19: GoodTimeWithScar: 82
+19: ZombieCleo: 80
+19: Mumbo: 46
+19: impulseSV: 32
+19: Smallishbeans: 18
+19: cubfan135: 7
+19: PearlescentMoon: 6
+19: joehillssays: 4
+19: xBCrafted: 4
+19: GeminiTay: 3
+19: falsesymmetry: 2
+Total 45843

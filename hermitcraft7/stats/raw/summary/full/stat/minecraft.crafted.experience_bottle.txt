@@ -1,0 +1,10 @@
+minecraft.crafted.experience_bottle
+8: impulseSV: 5122
+8: cubfan135: 4603
+8: Etho: 3017
+8: Grian: 2486
+8: hypnotizd: 329
+8: Keralis1: 12
+8: BdoubleO100: 3
+8: Docm77: 1
+Total 15573

@@ -1,0 +1,7 @@
+minecraft.picked_up.flower_banner_pattern
+5: Skizzleman: 3
+5: Tango: 1
+5: PearlescentMoon: 1
+5: GoodTimeWithScar: 1
+5: Keralis1: 1
+Total 7
